@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:53,BKN,Edmond Sumner,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,0,2,0.739,0.709,11:01
+1,8:35,BKN,Nic Claxton,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,2,7,0.664,0.63,8:40
+1,6:33,BKN,Edmond Sumner,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,9,13,0.658,0.616,6:33
+1,5:09,DAL,Luka Doncic,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,11,17,0.55,0.581,5:29
+1,2:39,DAL,Maxi Kleber,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,16,25,0.398,0.446,3:04
+1,2:36,BKN,Kevin Durant,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,16,26,0.489,0.444,2:39
+1,1:53,BKN,David Duke Jr.,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,19,29,0.484,0.44,2:08
+2,10:29,DAL,Spencer Dinwiddie,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,31,34,0.587,0.586,10:31
+2,10:20,DAL,Dwight Powell,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,31,34,0.541,0.587,10:29
+2,10:06,BKN,Seth Curry,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,31,35,0.628,0.589,10:20
+2,9:33,BKN,Ben Simmons,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,32,35,0.611,0.583,9:47
+2,3:14,BKN,Kevin Durant,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,44,43,0.692,0.693,3:32
+2,2:49,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,46,43,0.676,0.718,3:07
+2,1:27,BKN,Royce O'Neale,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,49,48,0.726,0.687,1:43
+2,35.9,DAL,Christian Wood,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,51,48,0.664,0.712,39.6
+3,9:42,BKN,Joe Harris,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,53,54,0.601,0.601,10:01
+3,9:38,BKN,Edmond Sumner,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,53,54,0.6,0.601,9:42
+3,6:57,BKN,Joe Harris,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,57,58,0.641,0.588,7:16
+3,5:25,BKN,Royce O'Neale,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,61,62,0.607,0.533,5:25
+3,4:23,BKN,Kevin Durant,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,64,64,0.612,0.565,4:23
+3,2:51,BKN,Seth Curry,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,67,66,0.707,0.648,2:58
+3,2:28,DAL,Josh Green,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,69,66,0.686,0.683,2:34
+3,2:13,DAL,Josh Green,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,69,66,0.685,0.726,2:18
+3,1:42,DAL,Dorian Finney-Smith,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,69,68,0.598,0.645,1:54
+3,59.9,DAL,Luka Doncic,Transition Take Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,69,70,0.495,0.495,59.9
+3,9.3,DAL,Luka Doncic,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,72,71,0.519,0.594,30.8
+3,4.0,DAL,Christian Wood,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,72,73,0.495,0.544,9.3
+4,11:08,DAL,Spencer Dinwiddie,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,72,75,0.376,0.439,11:19
+4,10:59,BKN,Ben Simmons,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,72,75,0.435,0.376,11:08
+4,10:09,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,72,75,0.28,0.368,10:28
+4,8:52,BKN,Edmond Sumner,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,74,76,0.475,0.46,9:00
+4,8:40,BKN,Ben Simmons,Loose Ball Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,74,76,0.483,0.466,8:40
+4,6:34,BKN,Cam Thomas,Loose Ball Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,79,78,0.66,0.639,6:34
+4,5:45,BKN,Nic Claxton,Loose Ball Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,82,78,0.88,0.815,5:45
+4,5:36,BKN,Nic Claxton,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,84,78,0.918,0.862,5:36
+4,5:18,BKN,Nic Claxton,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,85,78,0.927,0.897,5:36
+4,5:07,BKN,Kevin Durant,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,85,78,0.957,0.927,5:18
+4,5:07,BKN,Kevin Durant,Technical Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,85,78,0.945,0.957,5:07
+4,4:51,DAL,Maxi Kleber,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,88,78,0.962,0.963,5:07
+4,4:28,DAL,Dwight Powell,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,88,78,0.968,0.978,4:43
+4,4:21,DAL,Luka Doncic,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,88,78,0.964,0.968,4:28
+4,2:46,BKN,Royce O'Neale,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,91,82,0.992,0.982,2:56
+4,2:37,DAL,Luka Doncic,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,92,82,0.958,0.983,2:43
+4,13.8,BKN,Kevin Durant,Personal Take Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,92,91,0.869,0.685,26.1
+4,11.0,DAL,Maxi Kleber,Personal Take Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,94,91,0.619,0.822,13.8
+4,9.8,BKN,Cam Thomas,Personal Take Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,94,93,0.882,0.713,11.0
+4,5.6,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Jonathan Sterling,DAL,96,93,0.787,0.947,6.7

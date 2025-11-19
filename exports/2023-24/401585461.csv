@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:26,ORL,Caleb Houstan,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,6,5,0.767,0.767,9:50
+1,9:14,ORL,Jalen Suggs,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,6,5,0.766,0.767,9:26
+1,7:22,BKN,Dorian Finney-Smith,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,11,10,0.775,0.777,7:39
+1,6:51,BKN,Dennis Schroder,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,13,12,0.774,0.774,6:56
+1,5:44,ORL,Jalen Suggs,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,17,12,0.823,0.823,5:53
+1,3:26,BKN,Dennis Smith Jr.,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,21,17,0.839,0.817,3:30
+1,2:33,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,25,17,0.892,0.873,2:33
+1,2:19,BKN,Nic Claxton,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,25,17,0.892,0.892,2:33
+1,2:02,ORL,Cole Anthony,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,27,19,0.846,0.873,2:02
+1,49.1,BKN,Trendon Watford,Double Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,31,23,0.891,0.872,50.1
+2,11:54,ORL,Joe Ingles,Offensive Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,33,25,0.855,0.863,12:00
+2,10:14,ORL,Moritz Wagner,Offensive Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,37,28,0.869,0.869,10:21
+2,9:44,ORL,Franz Wagner,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,37,30,0.823,0.853,9:44
+2,8:43,ORL,Moritz Wagner,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,41,31,0.858,0.882,8:58
+2,8:26,BKN,Lonnie Walker IV,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,41,33,0.866,0.867,8:43
+2,5:41,BKN,Dennis Schroder,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,48,39,0.9,0.88,5:58
+2,4:08,BKN,Day'Ron Sharpe,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,50,41,0.875,0.831,3:26
+2,3:25,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,53,41,0.906,0.918,3:32
+2,3:16,ORL,Jalen Suggs,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,53,41,0.907,0.906,3:25
+2,2:44,BKN,Mikal Bridges,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,53,41,0.935,0.907,3:16
+3,9:47,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,68,47,0.981,0.983,9:47
+3,9:35,ORL,Gary Harris,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,68,49,0.971,0.98,9:35
+3,8:33,BKN,Cameron Johnson,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,70,51,0.986,0.981,8:49
+3,7:55,BKN,Nic Claxton,Offensive Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,74,51,0.993,0.991,8:06
+3,6:25,ORL,Caleb Houstan,Loose Ball Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,78,51,0.997,0.997,6:25
+3,5:42,ORL,Markelle Fultz,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,78,54,0.992,0.994,5:48
+3,4:22,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,78,56,0.993,0.994,4:26
+3,2:25,BKN,Lonnie Walker IV,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,80,55,0.999,0.998,2:31
+3,2:04,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,83,55,0.999,0.999,2:04
+4,11:42,ORL,Cole Anthony,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,88,59,0.999,0.999,11:42
+4,11:06,BKN,Cameron Johnson,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,88,59,0.999,0.999,11:16
+4,10:03,ORL,Moritz Wagner,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,91,59,0.999,0.999,10:09
+4,10:03,ORL,Moritz Wagner,Technical Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,91,59,0.999,0.999,10:03
+4,9:32,BKN,Dorian Finney-Smith,Flagrant Foul Type 1,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,91,62,0.999,0.999,9:38
+4,7:28,BKN,Jalen Wilson,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,95,67,0.999,0.999,7:44
+4,6:55,BKN,Lonnie Walker IV,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,99,69,0.999,0.999,6:55
+4,6:42,BKN,Dennis Smith Jr.,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,99,69,0.999,0.999,6:45
+4,6:31,ORL,Caleb Houstan,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,100,69,0.999,0.999,6:31
+4,4:51,BKN,Trendon Watford,Offensive Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,103,73,0.999,0.999,5:00
+4,4:34,BKN,Trendon Watford,Loose Ball Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,103,73,0.999,0.999,4:34
+4,4:16,ORL,Goga Bitadze,Personal Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,104,73,0.999,0.999,4:26
+4,3:49,ORL,Goga Bitadze,Offensive Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,104,73,0.999,0.999,4:08
+4,3:10,BKN,Keon Johnson,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,104,75,0.999,0.999,3:34
+4,24.1,ORL,Goga Bitadze,Shooting Foul,Foul,Dedric Taylor,Michael Smith,Mitchell Ervin,ORL,108,80,0.999,0.999,33.1

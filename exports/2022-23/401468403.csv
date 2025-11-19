@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:35,CLE,Donovan Mitchell,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,0,2,0.501,0.541,11:35
+1,7:57,CLE,Darius Garland,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,15,11,0.661,0.66,8:06
+1,4:07,ATL,Onyeka Okongwu,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,23,16,0.782,0.752,4:18
+1,3:46,ATL,Aaron Holiday,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,25,18,0.753,0.754,3:58
+1,3:24,CLE,Isaac Okoro,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,27,18,0.74,0.771,3:37
+1,1:47,CLE,Isaac Okoro,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,30,22,0.719,0.774,1:54
+1,1:24,ATL,Justin Holiday,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,30,22,0.806,0.774,1:33
+1,55.7,CLE,Isaac Okoro,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,34,24,0.762,0.794,1:05
+2,11:17,CLE,Donovan Mitchell,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,38,29,0.76,0.778,11:17
+2,10:59,CLE,Kevin Love,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,38,31,0.733,0.733,11:00
+2,10:00,ATL,Aaron Holiday,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,38,31,0.759,0.757,10:02
+2,9:45,CLE,Lamar Stevens,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,38,31,0.696,0.734,9:49
+2,9:14,CLE,Cedi Osman,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,40,33,0.697,0.735,9:26
+2,6:51,ATL,AJ Griffin,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,42,41,0.645,0.6,7:01
+2,6:25,ATL,John Collins,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,44,41,0.699,0.66,6:33
+2,3:35,CLE,Robin Lopez,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,53,47,0.672,0.714,3:37
+2,3:23,ATL,Clint Capela,Loose Ball Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,53,49,0.728,0.688,3:23
+2,2:38,ATL,John Collins,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,55,52,0.703,0.66,2:59
+2,2:30,CLE,Cedi Osman,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,56,52,0.611,0.655,2:36
+2,37.5,ATL,AJ Griffin,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,60,57,0.706,0.662,42.4
+3,11:37,ATL,Clint Capela,Loose Ball Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,64,59,0.723,0.721,11:37
+3,10:28,ATL,AJ Griffin,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,64,65,0.519,0.519,10:44
+3,10:05,ATL,Dejounte Murray,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,64,65,0.517,0.518,10:10
+3,7:53,ATL,John Collins,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,68,71,0.495,0.438,7:59
+3,4:24,ATL,John Collins,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,75,76,0.571,0.509,4:40
+3,4:01,ATL,Jalen Johnson,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,78,76,0.664,0.592,4:01
+3,3:42,CLE,Isaac Okoro,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,79,76,0.634,0.629,3:44
+3,3:31,CLE,Cedi Osman,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,79,76,0.568,0.632,3:33
+3,2:35,ATL,Justin Holiday,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,79,78,0.656,0.593,2:37
+3,1:35,ATL,Clint Capela,Offensive Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,81,80,0.594,0.546,1:38
+3,1:22,ATL,Jalen Johnson,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,81,80,0.66,0.594,1:35
+4,11:37,CLE,Cedi Osman,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,87,82,0.717,0.73,11:46
+4,9:25,CLE,Lamar Stevens,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,92,85,0.812,0.822,9:43
+4,6:47,CLE,Evan Mobley,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,98,89,0.902,0.908,7:00
+4,6:41,CLE,Evan Mobley,Shooting Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,98,89,0.854,0.902,6:47
+4,5:42,ATL,Trae Young,Loose Ball Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,101,93,0.919,0.887,5:50
+4,3:46,ATL,Clint Capela,Personal Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,103,97,0.893,0.881,4:03
+4,2:15,ATL,John Collins,Clear Path Foul,Foul,Zach Zarba,Matt Myers,Ray Acosta,CLE,105,99,0.931,0.922,2:15

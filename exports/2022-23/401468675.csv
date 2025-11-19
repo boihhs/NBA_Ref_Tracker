@@ -1,0 +1,59 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:00,MIN,Anthony Edwards,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,0,5,0.545,0.547,10:04
+1,8:28,NO,Naji Marshall,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,3,5,0.552,0.589,8:36
+1,7:53,MIN,Rudy Gobert,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,5,7,0.63,0.613,7:53
+1,6:39,NO,Jonas Valanciunas,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,12,9,0.669,0.705,6:54
+1,4:24,MIN,Anthony Edwards,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,16,16,0.686,0.65,4:45
+1,4:24,MIN,Anthony Edwards,Technical Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,16,16,0.669,0.686,4:24
+1,4:03,MIN,Jaden McDaniels,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,19,18,0.709,0.675,4:07
+1,3:45,NO,Devonte' Graham,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,22,18,0.72,0.719,3:58
+1,3:19,NO,Larry Nance Jr.,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,22,21,0.607,0.647,3:19
+1,2:58,MIN,Jaylen Nowell,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,22,21,0.706,0.675,3:02
+1,2:11,NO,Jose Alvarado,Offensive Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,23,25,0.564,0.591,2:17
+1,25.0,NO,Larry Nance Jr.,Loose Ball Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,23,27,0.455,0.498,25.0
+1,3.1,MIN,Naz Reid,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,23,28,0.537,0.499,23.1
+2,11:19,MIN,Jaylen Nowell,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,26,28,0.579,0.579,11:26
+2,10:43,MIN,Bryn Forbes,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,28,30,0.596,0.548,10:43
+2,9:57,NO,Jaxson Hayes,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,31,30,0.589,0.632,10:19
+2,9:42,MIN,Austin Rivers,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,31,32,0.601,0.602,9:57
+2,6:38,NO,Jose Alvarado,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,34,39,0.411,0.465,6:38
+2,6:37,NO,Jaxson Hayes,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,34,39,0.435,0.433,6:37
+2,1:34,MIN,Anthony Edwards,Defensive 3-Seconds Technical,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,43,52,0.294,0.304,1:48
+2,38.0,MIN,Rudy Gobert,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,48,52,0.516,0.466,48.0
+3,11:47,MIN,Rudy Gobert,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,51,55,0.486,0.42,11:47
+3,11:26,MIN,Jaden McDaniels,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,52,55,0.545,0.493,11:32
+3,10:40,MIN,Rudy Gobert,Loose Ball Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,54,58,0.451,0.45,10:40
+3,10:25,MIN,Jaden McDaniels,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,56,58,0.549,0.483,10:25
+3,10:13,NO,CJ McCollum,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,57,60,0.418,0.486,10:13
+3,9:48,NO,Naji Marshall,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,57,61,0.354,0.408,10:03
+3,9:36,MIN,Austin Rivers,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,59,63,0.475,0.405,9:36
+3,9:02,NO,Trey Murphy III,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,60,63,0.417,0.44,9:02
+3,8:50,NO,Trey Murphy III,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,60,66,0.303,0.365,8:50
+3,7:35,MIN,Jaden McDaniels,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,60,69,0.301,0.254,7:46
+3,7:06,MIN,D'Angelo Russell,Defensive 3-Seconds Technical,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,62,72,0.206,0.217,7:18
+3,6:56,MIN,Nathan Knight,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,64,72,0.304,0.243,6:56
+3,6:45,NO,Larry Nance Jr.,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,65,72,0.225,0.276,6:56
+3,5:56,NO,Zion Williamson,Defensive 3-Seconds Technical,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,69,73,0.392,0.385,6:10
+3,5:52,NO,Naji Marshall,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,69,74,0.282,0.34,5:56
+3,5:36,NO,CJ McCollum,Flagrant Foul Type 1,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,69,76,0.27,0.303,5:52
+3,5:21,NO,Larry Nance Jr.,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,69,78,0.155,0.196,5:36
+3,5:06,MIN,Nathan Knight,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,69,78,0.276,0.228,5:17
+3,3:53,NO,Zion Williamson,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,73,81,0.166,0.215,4:12
+3,1:54,MIN,Austin Rivers,Flagrant Foul Type 1,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,79,86,0.247,0.262,1:57
+3,1:18,NO,Trey Murphy III,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,81,86,0.231,0.293,1:20
+3,1:07,MIN,Anthony Edwards,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,81,88,0.319,0.255,1:18
+3,28.0,MIN,Austin Rivers,Loose Ball Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,86,88,0.542,0.47,28.0
+4,10:30,MIN,Austin Rivers,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,91,90,0.628,0.612,10:51
+4,10:30,NO,Jonas Valanciunas,Double Technical Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,91,90,0.582,0.628,10:30
+4,10:30,NO,Naji Marshall,Technical Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,91,90,0.528,0.582,10:30
+4,8:08,NO,Jaxson Hayes,Personal Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,96,95,0.548,0.562,8:33
+4,7:52,NO,Jonas Valanciunas,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,96,97,0.376,0.498,7:52
+4,7:38,MIN,Austin Rivers,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,96,97,0.597,0.491,7:49
+4,5:45,MIN,Jaden McDaniels,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,100,104,0.409,0.296,6:07
+4,5:18,MIN,D'Angelo Russell,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,100,104,0.404,0.295,5:29
+4,4:10,MIN,Rudy Gobert,Defensive 3-Seconds Technical,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,102,106,0.268,0.291,4:21
+4,4:10,MIN,D'Angelo Russell,Technical Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,102,106,0.337,0.268,4:10
+4,2:44,MIN,Anthony Edwards,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,105,110,0.291,0.192,2:54
+4,2:02,MIN,Rudy Gobert,Offensive Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,110,112,0.398,0.31,2:17
+4,1:04,NO,Jonas Valanciunas,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,114,114,0.303,0.509,1:22
+4,4.0,MIN,Rudy Gobert,Shooting Foul,Foul,Kevin Cutler,Mitchell Ervin,Brandon Adair,NO,118,118,0.892,0.53,6.0

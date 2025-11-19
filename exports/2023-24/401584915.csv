@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:49,DAL,Seth Curry,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,0,0,0.349,0.349,12:00
+1,11:14,DAL,Grant Williams,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,0,0,0.352,0.35,11:29
+1,10:59,OKC,Chet Holmgren,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,0,0,0.41,0.373,11:04
+1,10:34,DAL,Derrick Jones Jr.,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,2,0,0.4,0.399,10:37
+1,8:58,OKC,Luguentz Dort,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,5,2,0.454,0.456,9:03
+1,8:26,OKC,Jalen Williams,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,5,2,0.495,0.457,8:28
+1,7:30,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,7,4,0.499,0.46,7:38
+1,6:56,DAL,Grant Williams,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,11,7,0.422,0.46,7:03
+1,4:47,OKC,Luguentz Dort,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,16,15,0.457,0.42,4:58
+1,4:34,DAL,Jaden Hardy,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,18,15,0.405,0.445,4:47
+1,1:40,OKC,Cason Wallace,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,24,27,0.361,0.322,1:51
+1,1:03,OKC,Luguentz Dort,Flagrant Foul Type 1,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,26,29,0.318,0.323,1:06
+1,5.1,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,27,31,0.243,0.277,23.1
+2,11:02,OKC,Chet Holmgren,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,27,35,0.243,0.212,11:06
+2,10:41,DAL,Olivier-Maxence Prosper,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,28,35,0.21,0.21,10:59
+2,10:37,DAL,Seth Curry,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,28,35,0.181,0.21,10:41
+2,9:31,OKC,Davis Bertans,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,28,41,0.146,0.123,9:44
+2,8:45,OKC,Kenrich Williams,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,32,43,0.151,0.153,8:49
+2,5:38,OKC,Davis Bertans,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,39,53,0.124,0.103,5:41
+2,5:12,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,39,53,0.071,0.088,5:21
+2,4:49,OKC,Davis Bertans,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,39,55,0.094,0.076,5:12
+2,4:43,DAL,Jaden Hardy,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,40,55,0.06,0.075,4:49
+2,3:09,OKC,Cason Wallace,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,44,62,0.067,0.054,3:25
+2,2:48,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,45,65,0.048,0.037,2:56
+2,1:41,OKC,Josh Giddey,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,48,67,0.054,0.041,1:54
+3,11:20,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,56,74,0.057,0.044,11:31
+3,10:37,OKC,Jalen Williams,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,58,77,0.033,0.034,10:42
+3,9:20,OKC,Jalen Williams,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,58,82,0.014,0.01,9:31
+3,6:05,OKC,Isaiah Joe,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,69,84,0.073,0.056,6:14
+3,5:20,OKC,Jaylin Williams,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,69,87,0.038,0.028,5:34
+3,4:12,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,76,90,0.067,0.047,4:12
+3,3:36,DAL,Grant Williams,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,79,90,0.084,0.084,3:46
+3,3:08,OKC,Cason Wallace,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,79,90,0.133,0.101,3:17
+3,2:20,DAL,Luka Doncic,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,81,92,0.057,0.078,2:33
+3,1:47,DAL,Jaden Hardy,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,81,94,0.034,0.049,2:00
+3,1:40,DAL,Dwight Powell,Offensive Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,81,97,0.021,0.03,1:47
+3,47.1,DAL,Jaden Hardy,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,81,102,0.002,0.004,51.0
+4,11:37,DAL,Dereck Lively II,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,84,107,0.001,0.001,11:43
+4,10:35,OKC,Chet Holmgren,Loose Ball Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,87,111,0.001,0.001,10:35
+4,5:19,DAL,A.J. Lawson,Personal Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,111,111,0.43,0.447,5:30
+4,13.0,DAL,Luka Doncic,Personal Take Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,120,124,0.013,0.054,15.1
+4,8.2,DAL,Dereck Lively II,Personal Take Foul,Foul,Derek Richardson,Pat Fraher,Mitchell Ervin,DAL,120,124,0.008,0.013,13.0

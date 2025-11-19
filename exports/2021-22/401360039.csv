@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:17,ATL,John Collins,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,4,5,0.598,0.629,10:22
+1,10:06,BOS,Al Horford,Defensive 3-Seconds Technical,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,4,7,0.626,0.608,10:17
+1,8:38,BOS,Grant Williams,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,10,9,0.696,0.696,8:38
+1,8:16,ATL,Kevin Huerter,Personal Take Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,11,9,0.695,0.695,8:18
+1,1:09,BOS,Grant Williams,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,29,25,0.776,0.747,1:23
+1,45.6,BOS,Josh Richardson,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,29,27,0.734,0.699,1:05
+2,8:09,BOS,Enes Freedom,Loose Ball Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,40,34,0.772,0.784,8:09
+2,7:19,ATL,Danilo Gallinari,Personal Take Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,40,36,0.725,0.711,7:21
+2,5:46,ATL,Trae Young,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,42,36,0.723,0.76,5:57
+2,5:24,ATL,John Collins,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,42,38,0.67,0.709,5:32
+2,5:09,BOS,Al Horford,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,42,39,0.708,0.711,5:22
+2,4:23,BOS,Dennis Schroder,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,44,41,0.728,0.679,4:23
+2,2:02,BOS,Dennis Schroder,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,49,44,0.759,0.759,2:07
+2,39.8,ATL,Kevin Huerter,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,56,44,0.859,0.885,52.4
+2,28.1,ATL,Kevin Huerter,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,56,46,0.851,0.871,28.1
+2,17.8,BOS,Josh Richardson,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,56,47,0.88,0.85,28.1
+3,10:59,BOS,Grant Williams,Personal Take Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,58,49,0.854,0.856,11:01
+3,6:33,ATL,Bogdan Bogdanovic,Personal Take Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,67,61,0.765,0.765,6:34
+3,4:18,ATL,John Collins,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,76,66,0.841,0.876,4:30
+3,1:58,BOS,Jayson Tatum,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,83,73,0.933,0.908,2:15
+3,1:43,ATL,Trae Young,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,85,73,0.899,0.927,1:43
+3,30.4,ATL,Gorgui Dieng,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,91,75,0.964,0.975,41.3
+4,10:31,BOS,Enes Freedom,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,93,81,0.967,0.946,10:31
+4,10:23,ATL,Danilo Gallinari,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,94,81,0.957,0.959,10:31
+4,9:50,ATL,Danilo Gallinari,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,96,81,0.976,0.978,10:01
+4,9:25,BOS,Aaron Nesmith,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,98,83,0.989,0.979,9:25
+4,9:15,ATL,Cam Reddish,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,99,83,0.974,0.986,9:25
+4,8:30,BOS,Marcus Smart,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,99,87,0.97,0.965,8:43
+4,7:40,ATL,Lou Williams,Personal Take Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,99,87,0.935,0.962,7:43
+4,6:57,BOS,Jayson Tatum,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,99,89,0.971,0.949,7:19
+4,6:50,BOS,Dennis Schroder,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,99,89,0.972,0.954,6:57
+4,6:38,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,101,89,0.947,0.966,6:50
+4,3:54,ATL,John Collins,Shooting Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,105,92,0.981,0.99,4:08
+4,3:24,BOS,Grant Williams,Personal Take Foul,Foul,Zach Zarba,Leon Wood,Suyash Mehta,ATL,107,94,0.998,0.996,3:26

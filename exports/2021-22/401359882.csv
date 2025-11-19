@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:23,TOR,Precious Achiuwa,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,0,0,0.517,0.518,11:32
+1,8:33,IND,Justin Holiday,Personal Take Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,7,2,0.664,0.663,8:34
+1,6:41,TOR,Scottie Barnes,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,9,7,0.565,0.565,6:46
+1,6:31,TOR,Precious Achiuwa,Defensive 3-Seconds Technical,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,9,8,0.545,0.565,6:41
+1,4:31,TOR,Fred VanVleet,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,16,13,0.605,0.593,4:31
+1,4:18,IND,Myles Turner,Defensive 3-Seconds Technical,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,16,14,0.586,0.592,4:31
+1,3:24,IND,Jeremy Lamb,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,18,16,0.632,0.593,3:27
+1,2:37,IND,Jeremy Lamb,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,21,18,0.657,0.618,2:49
+1,2:26,TOR,Dalano Banton,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,22,18,0.633,0.62,2:33
+1,1:55,IND,Domantas Sabonis,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,24,18,0.697,0.671,1:55
+1,20.3,IND,Oshae Brissett,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,27,22,0.712,0.671,29.6
+2,10:33,TOR,Chris Boucher,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,31,29,0.565,0.566,10:40
+2,9:54,IND,Chris Duarte,Loose Ball Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,31,31,0.534,0.537,9:54
+2,9:35,TOR,Gary Trent Jr.,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,31,31,0.46,0.503,9:39
+2,9:09,IND,Brad Wanamaker,Personal Take Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,31,33,0.473,0.474,9:09
+2,7:41,TOR,Khem Birch,Offensive Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,37,38,0.474,0.503,7:56
+2,5:32,IND,T.J. McConnell,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,41,42,0.548,0.501,5:50
+2,4:30,TOR,Svi Mykhailiuk,Offensive Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,44,42,0.565,0.598,4:38
+2,3:25,IND,Justin Holiday,Personal Take Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,44,42,0.582,0.599,3:25
+2,1:09,TOR,Precious Achiuwa,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,52,44,0.709,0.752,1:19
+3,11:45,TOR,Gary Trent Jr.,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,57,48,0.744,0.795,12:00
+3,9:38,IND,Chris Duarte,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,61,52,0.822,0.821,9:51
+3,8:54,TOR,Scottie Barnes,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,63,52,0.848,0.847,9:01
+3,4:54,IND,Justin Holiday,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,68,60,0.86,0.82,5:09
+3,2:18,IND,T.J. McConnell,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,75,65,0.906,0.867,2:18
+3,1:44,TOR,Chris Boucher,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,78,65,0.903,0.929,1:56
+3,1:30,IND,Jeremy Lamb,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,78,66,0.953,0.933,1:42
+3,50.8,TOR,Scottie Barnes,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,81,66,0.943,0.96,57.1
+4,10:55,IND,Isaiah Jackson,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,87,74,0.977,0.96,11:19
+4,10:45,TOR,Dalano Banton,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,89,74,0.97,0.973,10:55
+4,9:59,TOR,Fred VanVleet,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,92,76,0.98,0.987,9:59
+4,5:08,TOR,Gary Trent Jr.,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,100,85,0.984,0.993,5:16
+4,4:49,TOR,Fred VanVleet,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,100,87,0.97,0.985,4:49
+4,4:09,IND,Domantas Sabonis,Loose Ball Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,100,90,0.975,0.972,4:09
+4,3:12,TOR,OG Anunoby,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,104,90,0.991,0.995,3:31
+4,3:00,IND,T.J. McConnell,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,104,92,0.995,0.993,3:12
+4,2:44,TOR,OG Anunoby,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,107,92,0.996,0.998,2:57
+4,2:37,IND,Isaiah Jackson,Personal Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,107,93,0.999,0.998,2:44
+4,2:30,IND,Isaiah Jackson,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,107,93,0.999,0.999,2:37
+4,54.4,IND,Brad Wanamaker,Shooting Foul,Foul,Matt Boland,Marc Davis,Karl Lane,TOR,116,95,0.999,0.999,57.4

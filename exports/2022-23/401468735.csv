@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:48,IND,Buddy Hield,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,0,2,0.564,0.603,11:48
+1,10:06,IND,Myles Turner,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,0,7,0.406,0.418,10:06
+1,6:54,IND,Myles Turner,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,10,10,0.576,0.616,7:10
+1,6:38,IND,Tyrese Haliburton,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,10,12,0.521,0.562,6:41
+1,5:46,POR,Jusuf Nurkic,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,12,17,0.547,0.504,5:54
+1,15.1,IND,T.J. McConnell,Personal Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,26,28,0.493,0.538,31.1
+1,5.1,POR,Jabari Walker,Personal Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,26,29,0.579,0.536,13.0
+2,11:31,IND,Oshae Brissett,Loose Ball Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,28,29,0.564,0.56,11:31
+2,11:02,IND,Bennedict Mathurin,Offensive Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,28,29,0.56,0.589,11:04
+2,11:02,POR,Jerami Grant,Technical Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,28,29,0.612,0.56,11:02
+2,10:33,POR,Keon Johnson,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,29,29,0.657,0.618,10:44
+2,10:01,IND,Goga Bitadze,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,31,29,0.601,0.644,10:06
+2,9:23,IND,Goga Bitadze,Personal Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,33,30,0.67,0.669,9:42
+2,7:05,POR,Drew Eubanks,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,39,34,0.761,0.744,7:05
+2,6:24,POR,Damian Lillard,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,41,34,0.821,0.791,6:40
+2,6:11,IND,Myles Turner,Defensive 3-Seconds Technical,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,43,34,0.817,0.81,6:24
+2,5:12,IND,Bennedict Mathurin,Offensive Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,45,38,0.768,0.791,5:28
+2,3:46,POR,Jusuf Nurkic,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,47,38,0.862,0.835,3:58
+2,1:00,POR,Jerami Grant,Personal Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,53,50,0.732,0.687,1:17
+2,5.1,IND,Aaron Nesmith,Personal Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,54,52,0.571,0.622,10.1
+3,9:23,POR,Josh Hart,Personal Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,59,59,0.582,0.585,9:29
+3,6:01,POR,Josh Hart,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,67,70,0.515,0.451,6:08
+3,3:17,IND,Isaiah Jackson,Personal Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,78,70,0.827,0.826,3:25
+3,2:19,POR,Drew Eubanks,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,80,75,0.817,0.769,2:32
+3,1:57,IND,Chris Duarte,Offensive Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,81,77,0.694,0.735,2:09
+3,1:49,POR,Jabari Walker,Offensive Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,81,77,0.737,0.694,1:57
+3,1:09,IND,Isaiah Jackson,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,81,77,0.632,0.695,1:16
+4,11:34,IND,Oshae Brissett,Personal Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,81,84,0.342,0.353,11:35
+4,11:19,POR,Jerami Grant,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,81,84,0.493,0.402,11:24
+4,9:02,POR,Jabari Walker,Loose Ball Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,89,91,0.463,0.446,9:02
+4,8:46,POR,Drew Eubanks,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,89,91,0.557,0.463,9:02
+4,7:42,IND,Buddy Hield,Personal Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,93,93,0.49,0.511,7:54
+4,6:40,IND,Myles Turner,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,93,95,0.263,0.372,6:55
+4,6:28,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,93,97,0.405,0.301,6:28
+4,5:56,POR,Damian Lillard,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,93,97,0.399,0.306,6:01
+4,5:18,POR,Damian Lillard,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,95,97,0.534,0.358,5:36
+4,3:57,IND,Aaron Nesmith,Personal Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,99,97,0.508,0.636,4:09
+4,3:05,IND,Aaron Nesmith,Loose Ball Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,99,97,0.504,0.627,3:05
+4,44.1,POR,Jusuf Nurkic,Shooting Foul,Foul,Derrick Collins,Scott Foster,Gediminas Petraitis,IND,106,99,0.995,0.979,1:01

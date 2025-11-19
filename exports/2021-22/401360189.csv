@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:33,LAL,LeBron James,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,10,16,0.333,0.346,7:33
+1,5:49,LAL,Anthony Davis,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,12,19,0.297,0.319,5:49
+1,3:35,BOS,Josh Richardson,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,19,22,0.441,0.42,3:35
+1,1:44,BOS,Jayson Tatum,Loose Ball Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,26,26,0.546,0.504,1:44
+1,1:22,LAL,Wayne Ellington,Personal Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,28,26,0.49,0.533,1:29
+1,1:08,BOS,Romeo Langford,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,28,26,0.601,0.561,1:10
+1,34.5,LAL,Malik Monk,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,29,28,0.458,0.505,40.6
+2,9:31,LAL,Dwight Howard,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,38,35,0.521,0.563,9:34
+2,8:55,BOS,Dennis Schroder,Offensive Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,40,37,0.596,0.564,9:10
+2,7:25,LAL,Carmelo Anthony,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,42,41,0.505,0.505,7:26
+2,6:11,LAL,Carmelo Anthony,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,47,42,0.586,0.63,6:33
+2,4:35,BOS,Josh Richardson,Personal Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,47,46,0.541,0.541,4:39
+2,3:36,LAL,Talen Horton-Tucker,Offensive Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,47,48,0.443,0.475,3:42
+2,3:24,LAL,Anthony Davis,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,47,48,0.395,0.443,3:36
+2,2:04,BOS,Marcus Smart,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,52,51,0.569,0.544,2:21
+2,50.7,BOS,Robert Williams III,Personal Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,56,55,0.598,0.546,59.8
+3,11:24,LAL,Russell Westbrook,Offensive Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,60,55,0.654,0.683,11:31
+3,11:02,LAL,Russell Westbrook,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,60,55,0.601,0.654,11:24
+3,10:37,BOS,Dennis Schroder,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,62,57,0.711,0.657,10:37
+3,8:19,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,66,57,0.745,0.729,8:34
+3,8:05,LAL,LeBron James,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,66,58,0.715,0.762,8:08
+3,5:41,BOS,Grant Williams,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,75,62,0.938,0.918,5:54
+3,4:51,LAL,Anthony Davis,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,79,64,0.915,0.935,5:12
+3,3:13,LAL,Avery Bradley,Personal Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,83,68,0.926,0.945,3:20
+3,2:46,LAL,Malik Monk,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,85,69,0.943,0.959,3:05
+3,2:45,LAL,Carmelo Anthony,Loose Ball Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,85,69,0.943,0.961,2:45
+3,2:16,BOS,Grant Williams,Offensive Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,87,70,0.978,0.97,2:30
+3,1:24,LAL,Malik Monk,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,89,72,0.975,0.981,1:24
+4,11:17,BOS,Marcus Smart,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,93,75,0.995,0.991,11:19
+4,10:38,LAL,Wayne Ellington,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,96,79,0.979,0.989,10:38
+4,8:06,BOS,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,101,87,0.991,0.988,8:20
+4,7:14,LAL,Wayne Ellington,Personal Take Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,102,87,0.985,0.987,7:15
+4,6:00,BOS,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,102,89,0.993,0.985,6:14
+4,5:21,BOS,Marcus Smart,Personal Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,104,89,0.997,0.995,5:21
+4,4:48,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,108,91,0.996,0.998,4:48
+4,3:10,BOS,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Scott Foster,J.T. Orr,LAL,110,94,0.999,0.999,3:24

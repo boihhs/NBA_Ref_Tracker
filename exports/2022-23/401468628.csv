@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,DAL,Christian Wood,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,4,3,0.523,0.478,11:11
+1,10:01,MIN,Anthony Edwards,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,4,5,0.41,0.454,10:01
+1,9:37,MIN,Austin Rivers,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,4,8,0.338,0.38,9:37
+1,6:54,DAL,Spencer Dinwiddie,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,11,13,0.43,0.43,7:02
+1,5:18,MIN,Austin Rivers,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,17,18,0.411,0.458,5:18
+1,4:20,MIN,Naz Reid,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,20,19,0.444,0.484,4:35
+1,4:15,MIN,Bryn Forbes,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,20,19,0.444,0.444,4:20
+1,3:43,MIN,Jaden McDaniels,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,22,20,0.472,0.513,4:02
+1,1:37,MIN,Jaden McDaniels,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,26,24,0.473,0.517,2:00
+1,45.1,MIN,Naz Reid,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,29,26,0.504,0.544,48.1
+1,11.2,MIN,Naz Reid,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,29,28,0.443,0.489,29.1
+2,10:25,DAL,Dwight Powell,Offensive Foul,Foul,Matt Boland,James Capers,John Butler,MIN,33,31,0.551,0.521,10:36
+2,8:47,MIN,Bryn Forbes,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,33,36,0.373,0.372,8:53
+2,6:18,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,35,40,0.386,0.341,6:27
+2,4:46,DAL,Davis Bertans,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,40,44,0.392,0.337,4:46
+2,2:47,MIN,Jaden McDaniels,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,47,47,0.462,0.461,3:05
+3,11:42,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,52,51,0.589,0.537,11:45
+3,7:14,MIN,Austin Rivers,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,62,58,0.623,0.621,7:37
+3,7:05,MIN,Austin Rivers,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,62,58,0.593,0.623,7:14
+3,6:08,MIN,Jaylen Nowell,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,64,61,0.586,0.587,6:08
+3,2:30,DAL,Dwight Powell,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,69,66,0.708,0.648,2:36
+3,2:13,MIN,Jaden McDaniels,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,70,66,0.582,0.645,2:30
+3,59.0,MIN,Jaylen Nowell,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,72,72,0.429,0.515,59.0
+3,26.1,MIN,Wendell Moore Jr.,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,74,73,0.441,0.514,42.0
+4,11:41,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,76,75,0.619,0.512,11:41
+4,10:56,MIN,Naz Reid,Shooting Foul,Foul,Matt Boland,James Capers,John Butler,MIN,79,75,0.584,0.671,11:10
+4,9:18,MIN,Naz Reid,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,81,80,0.501,0.519,9:34
+4,9:15,DAL,Davis Bertans,Loose Ball Foul,Foul,Matt Boland,James Capers,John Butler,MIN,81,80,0.584,0.569,9:15
+4,8:13,MIN,Rudy Gobert,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,81,80,0.497,0.519,8:23
+4,4:41,DAL,Spencer Dinwiddie,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,89,94,0.213,0.198,4:58
+4,4:13,MIN,D'Angelo Russell,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,89,94,0.085,0.149,4:28
+4,44.1,DAL,Luka Doncic,Loose Ball Foul,Foul,Matt Boland,James Capers,John Butler,MIN,94,99,0.206,0.09,44.1
+4,32.1,MIN,D'Angelo Russell,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,94,99,0.017,0.052,37.0
+4,17.2,MIN,D'Angelo Russell,Personal Foul,Foul,Matt Boland,James Capers,John Butler,MIN,97,100,0.043,0.108,20.1
+4,4.2,MIN,D'Angelo Russell,Personal Take Foul,Foul,Matt Boland,James Capers,John Butler,MIN,97,102,0.001,0.012,8.1

@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:50,DAL,P.J. Washington,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,2,0,0.593,0.629,11:00
+1,8:52,DAL,Daniel Gafford,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,10,3,0.706,0.738,9:13
+1,8:27,DAL,Kyrie Irving,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,10,5,0.696,0.695,8:27
+1,7:19,DAL,Daniel Gafford,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,12,8,0.635,0.671,7:29
+1,6:54,DAL,Luka Doncic,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,12,10,0.585,0.622,7:02
+1,6:19,DEN,Jamal Murray,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,12,14,0.584,0.544,6:32
+1,4:43,DEN,Aaron Gordon,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,14,19,0.5,0.46,4:56
+1,3:31,DAL,Dereck Lively II,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,18,23,0.406,0.456,3:31
+1,40.1,DEN,DEN,Technical Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,26,30,0.493,0.442,40.1
+1,40.1,DEN,Reggie Jackson,Technical Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,26,30,0.493,0.493,40.1
+1,7.1,DAL,Dereck Lively II,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,28,32,0.398,0.441,25.0
+1,4.0,DEN,Christian Braun,Personal Take Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,28,34,0.451,0.412,7.1
+2,11:25,DAL,Jaden Hardy,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,32,34,0.497,0.495,11:42
+2,11:08,DEN,Justin Holiday,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,32,34,0.568,0.524,11:10
+2,10:31,DEN,Peyton Watson,Loose Ball Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,34,34,0.581,0.583,10:31
+2,9:52,DAL,Luka Doncic,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,36,34,0.61,0.61,10:01
+2,8:51,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,36,38,0.445,0.49,9:08
+2,2:51,DAL,Dereck Lively II,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,54,53,0.52,0.57,2:51
+2,2:09,DAL,Maxi Kleber,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,54,53,0.518,0.57,2:19
+2,1:37,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,56,54,0.551,0.602,1:46
+2,45.0,DEN,Michael Porter Jr.,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,56,58,0.55,0.496,58.2
+2,29.0,DAL,Luka Doncic,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,58,60,0.432,0.496,29.0
+3,9:43,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,60,65,0.431,0.375,9:56
+3,9:08,DAL,Daniel Gafford,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,63,65,0.447,0.446,9:18
+3,4:19,DEN,Nikola Jokic,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,76,72,0.74,0.675,4:19
+3,3:29,DEN,Michael Porter Jr.,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,76,74,0.697,0.639,3:37
+3,2:49,DEN,Reggie Jackson,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,77,74,0.737,0.68,2:52
+3,10.0,DAL,Maxi Kleber,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,84,79,0.664,0.642,26.1
+4,10:43,DEN,Zeke Nnaji,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,84,79,0.846,0.784,10:53
+4,9:11,DAL,Daniel Gafford,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,88,81,0.764,0.836,9:18
+4,8:05,DEN,Christian Braun,Offensive Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,94,85,0.926,0.9,8:14
+4,7:57,DAL,Kyrie Irving,Offensive Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,94,85,0.902,0.926,8:05
+4,7:22,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,94,85,0.938,0.933,7:25
+4,4:16,DAL,Dante Exum,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,100,91,0.926,0.949,4:16
+4,3:34,DEN,Aaron Gordon,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,100,96,0.902,0.816,3:55
+4,3:32,DAL,Maxi Kleber,Loose Ball Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,101,96,0.808,0.83,3:32
+4,3:01,DEN,Aaron Gordon,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,101,98,0.87,0.772,3:18
+4,2:04,DAL,Daniel Gafford,Personal Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,101,98,0.59,0.748,2:04
+4,1:26,DEN,Jamal Murray,Shooting Foul,Foul,Kevin Scott,Tyler Ford,Natalie Sago,DAL,101,100,0.778,0.547,1:35

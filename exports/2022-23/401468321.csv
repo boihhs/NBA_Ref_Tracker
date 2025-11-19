@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:43,NO,Brandon Ingram,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,9,4,0.584,0.537,8:43
+1,7:29,CHI,Zach LaVine,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,10,6,0.476,0.514,7:40
+1,3:01,CHI,Ayo Dosunmu,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,20,14,0.564,0.613,3:01
+1,2:32,CHI,Alex Caruso,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,20,15,0.516,0.558,2:38
+1,29.5,NO,Brandon Ingram,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,20,22,0.435,0.395,33.3
+1,4.9,CHI,Andre Drummond,Offensive Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,22,22,0.423,0.452,14.9
+2,9:45,CHI,Alex Caruso,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,29,26,0.471,0.512,10:01
+2,8:30,CHI,Derrick Jones Jr.,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,37,28,0.696,0.695,8:43
+2,6:34,CHI,DeMar DeRozan,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,39,31,0.633,0.675,6:37
+2,4:54,NO,Naji Marshall,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,41,37,0.618,0.561,4:54
+2,4:34,CHI,Nikola Vucevic,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,41,37,0.516,0.562,4:48
+2,2:42,NO,Herbert Jones,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,45,45,0.496,0.468,2:59
+2,1:11,CHI,Nikola Vucevic,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,50,49,0.448,0.474,1:11
+2,49.8,CHI,Nikola Vucevic,Technical Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,50,51,0.383,0.407,49.8
+3,11:49,NO,Brandon Ingram,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,50,52,0.457,0.39,12:00
+3,10:48,CHI,Patrick Williams,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,54,54,0.388,0.438,10:55
+3,9:59,NO,Zion Williamson,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,56,58,0.461,0.407,10:11
+3,9:49,CHI,DeMar DeRozan,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,58,58,0.389,0.441,9:59
+3,9:15,CHI,DeMar DeRozan,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,58,62,0.306,0.302,9:20
+3,9:12,NO,Brandon Ingram,Offensive Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,58,62,0.338,0.306,9:15
+3,9:00,NO,Herbert Jones,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,58,62,0.339,0.338,9:12
+3,9:00,CHI,DeMar DeRozan,Technical Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,58,62,0.279,0.339,9:00
+3,4:56,NO,Zion Williamson,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,65,73,0.24,0.194,5:14
+3,4:38,CHI,DeMar DeRozan,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,67,73,0.178,0.222,4:46
+3,4:18,NO,Jose Alvarado,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,69,73,0.358,0.292,4:18
+3,3:59,NO,Naji Marshall,Offensive Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,70,73,0.366,0.326,4:18
+3,3:27,CHI,Javonte Green,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,72,73,0.344,0.405,3:43
+3,3:13,NO,Herbert Jones,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,72,75,0.43,0.366,3:27
+3,1:40,NO,Jose Alvarado,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,79,79,0.536,0.454,1:40
+4,11:47,CHI,Zach LaVine,Loose Ball Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,82,79,0.586,0.599,11:47
+4,11:38,CHI,Alex Caruso,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,82,79,0.579,0.586,11:47
+4,11:18,NO,Devonte' Graham,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,84,81,0.694,0.59,11:18
+4,9:59,CHI,Zach LaVine,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,87,85,0.452,0.551,10:12
+4,9:47,CHI,Derrick Jones Jr.,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,87,87,0.348,0.434,9:47
+4,9:37,CHI,Alex Caruso,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,87,87,0.347,0.348,9:47
+4,8:11,NO,Trey Murphy III,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,89,91,0.389,0.371,8:11
+4,4:20,CHI,Javonte Green,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,97,97,0.321,0.426,4:25
+4,1:55,NO,Zion Williamson,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,103,104,0.592,0.438,2:08
+4,1:24,NO,Herbert Jones,Shooting Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,105,106,0.596,0.453,1:35
+4,19.4,CHI,Zach LaVine,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,109,111,0.084,0.199,23.8
+4,13.4,CHI,Derrick Jones Jr.,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,109,112,0.033,0.098,17.4
+4,4.2,CHI,DeMar DeRozan,Personal Foul,Foul,Karl Lane,Nick Buchert,Brandon Adair,CHI,111,114,0.011,0.04,5.2

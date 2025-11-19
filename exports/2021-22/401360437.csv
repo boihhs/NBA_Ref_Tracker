@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:23,IND,Malcolm Brogdon,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,2,5,0.423,0.419,10:29
+1,7:53,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,9,13,0.417,0.419,8:01
+1,7:02,BOS,Dennis Schroder,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,11,19,0.317,0.318,7:13
+1,6:07,IND,Myles Turner,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,11,19,0.257,0.29,6:12
+1,4:57,IND,Caris LeVert,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,15,26,0.208,0.242,4:57
+1,4:18,IND,Jeremy Lamb,Offensive Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,15,28,0.181,0.201,4:38
+1,3:46,BOS,Robert Williams III,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,17,28,0.229,0.218,3:46
+1,3:24,IND,Lance Stephenson,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,18,28,0.209,0.238,3:46
+1,3:23,IND,Domantas Sabonis,Loose Ball Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,18,29,0.189,0.218,3:23
+1,1:22,BOS,Grant Williams,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,25,33,0.343,0.305,1:27
+1,35.8,IND,Jeremy Lamb,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,25,33,0.239,0.275,41.0
+2,10:47,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,25,35,0.284,0.245,10:54
+2,6:42,IND,Myles Turner,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,35,47,0.167,0.166,6:52
+2,4:28,IND,Myles Turner,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,39,51,0.142,0.159,4:49
+2,3:46,BOS,Robert Williams III,Loose Ball Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,41,52,0.196,0.196,3:47
+2,2:24,BOS,Jayson Tatum,Personal Take Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,43,52,0.238,0.24,2:25
+2,1:58,IND,Oshae Brissett,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,43,52,0.176,0.212,2:04
+2,1:50,BOS,Robert Williams III,Loose Ball Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,43,52,0.224,0.236,1:50
+2,52.0,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,45,52,0.338,0.29,1:05
+3,6:49,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,57,70,0.095,0.087,6:49
+3,6:37,IND,Justin Holiday,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,58,70,0.079,0.105,6:49
+3,6:22,IND,Domantas Sabonis,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,58,74,0.046,0.057,6:22
+3,4:16,BOS,Dennis Schroder,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,64,78,0.071,0.072,4:19
+3,4:05,IND,Lance Stephenson,Offensive Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,64,78,0.058,0.071,4:16
+3,3:41,IND,Myles Turner,Loose Ball Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,64,78,0.061,0.055,3:41
+3,3:11,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,64,78,0.065,0.067,3:27
+3,1:46,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,64,83,0.024,0.015,1:50
+3,32.1,BOS,Dennis Schroder,Offensive Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,69,85,0.027,0.023,54.8
+3,7.7,IND,Oshae Brissett,Personal Take Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,71,85,0.023,0.035,19.3
+3,4.1,IND,Justin Holiday,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,71,85,0.023,0.023,7.7
+4,10:57,IND,Domantas Sabonis,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,75,89,0.017,0.03,11:19
+4,10:22,IND,Lance Stephenson,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,75,91,0.012,0.013,10:30
+4,10:05,BOS,Grant Williams,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,75,93,0.01,0.009,10:15
+4,9:18,BOS,Enes Freedom,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,78,96,0.014,0.008,9:31
+4,8:00,IND,Duane Washington Jr.,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,79,96,0.002,0.004,8:03
+4,7:45,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,79,98,0.003,0.002,8:00
+4,6:38,BOS,Robert Williams III,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,79,98,0.004,0.002,6:54
+4,6:18,IND,Oshae Brissett,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,81,98,0.001,0.003,6:38
+4,6:06,IND,Torrey Craig,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,81,100,0.001,0.002,6:06
+4,5:36,IND,Duane Washington Jr.,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,84,101,0.001,0.002,5:54
+4,5:28,BOS,Josh Richardson,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,84,103,0.002,0.001,5:36
+4,2:37,BOS,Romeo Langford,Loose Ball Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,91,114,0.001,0.001,2:37
+4,2:31,IND,Goga Bitadze,Personal Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,92,114,0.001,0.001,2:37
+4,2:22,BOS,Payton Pritchard,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,92,116,0.001,0.001,2:31
+4,1:37,BOS,Brodric Thomas,Shooting Foul,Foul,Ed Malloy,Mitchell Ervin,Danielle Scott,IND,96,116,0.001,0.001,1:41

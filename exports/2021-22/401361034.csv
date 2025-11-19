@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:29,SA,Tre Jones,Personal Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,10,6,0.581,0.579,8:37
+1,7:57,SA,Keita Bates-Diop,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,10,8,0.492,0.53,7:59
+1,6:36,SA,Zach Collins,Loose Ball Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,10,9,0.506,0.504,6:36
+1,4:53,GS,Draymond Green,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,12,13,0.519,0.477,5:04
+1,4:39,GS,Draymond Green,Personal Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,14,13,0.533,0.533,4:42
+1,3:56,GS,Jordan Poole,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,14,13,0.572,0.534,4:01
+1,3:16,SA,Devontae Cacok,Personal Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,15,13,0.492,0.533,3:17
+2,11:42,GS,Andrew Wiggins,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,21,23,0.491,0.438,12:00
+2,11:10,GS,Gary Payton II,Loose Ball Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,23,23,0.505,0.507,11:11
+2,10:40,SA,Josh Richardson,Personal Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,25,23,0.536,0.535,11:00
+2,10:28,SA,Joshua Primo,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,25,23,0.493,0.536,10:40
+2,9:31,GS,Nemanja Bjelica,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,25,27,0.469,0.447,9:31
+2,9:19,SA,Jock Landale,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,26,27,0.404,0.449,9:31
+2,8:17,SA,Devontae Cacok,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,29,31,0.374,0.416,8:36
+2,7:10,SA,Zach Collins,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,29,35,0.262,0.302,7:20
+2,3:58,GS,Gary Payton II,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,34,43,0.277,0.237,4:05
+2,3:36,GS,Damion Lee,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,35,45,0.249,0.212,3:46
+2,3:04,SA,Zach Collins,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,36,45,0.174,0.21,3:11
+2,3:00,GS,Jonathan Kuminga,Personal Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,36,47,0.221,0.187,3:04
+2,1:35,GS,Jordan Poole,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,38,51,0.169,0.14,1:44
+2,33.5,GS,Andrew Wiggins,Loose Ball Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,42,54,0.187,0.152,33.5
+3,10:43,SA,Jock Landale,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,44,56,0.098,0.124,10:46
+3,9:53,GS,Jordan Poole,Offensive Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,44,59,0.086,0.074,10:10
+3,9:18,SA,Tre Jones,Personal Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,46,59,0.099,0.099,9:29
+3,9:13,SA,Lonnie Walker IV,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,46,62,0.05,0.07,9:13
+3,7:50,GS,Draymond Green,Offensive Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,51,65,0.091,0.077,7:55
+3,5:17,SA,Jock Landale,Loose Ball Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,55,70,0.037,0.051,5:17
+3,4:39,SA,Josh Richardson,Personal Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,57,70,0.053,0.037,5:17
+3,3:40,SA,Josh Richardson,Loose Ball Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,59,72,0.048,0.068,3:43
+3,3:14,SA,Joshua Primo,Personal Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,59,74,0.029,0.041,3:27
+3,2:44,SA,Tre Jones,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,61,75,0.034,0.051,3:05
+3,2:21,GS,Andre Iguodala,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,61,76,0.067,0.049,2:44
+3,1:46,GS,Gary Payton II,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,62,76,0.08,0.057,2:01
+3,27.2,GS,Otto Porter Jr.,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,66,76,0.162,0.119,33.5
+4,10:40,GS,Andrew Wiggins,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,73,81,0.193,0.124,10:40
+4,10:20,SA,Zach Collins,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,74,81,0.106,0.158,10:40
+4,7:19,SA,Lonnie Walker IV,Personal Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,79,84,0.183,0.198,7:29
+4,6:39,GS,Draymond Green,Personal Take Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,82,86,0.293,0.278,6:41
+4,5:32,SA,Devontae Cacok,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,86,88,0.222,0.327,5:43
+4,5:19,GS,Jonathan Kuminga,Personal Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,86,90,0.281,0.263,5:32
+4,4:57,SA,Joshua Primo,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,88,90,0.222,0.323,5:08
+4,4:40,GS,Jonathan Kuminga,Loose Ball Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,88,92,0.359,0.253,4:57
+4,2:21,GS,Jonathan Kuminga,Offensive Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,93,96,0.284,0.216,2:30
+4,2:00,GS,Jonathan Kuminga,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,93,96,0.412,0.284,2:21
+4,47.9,SA,Joshua Primo,Shooting Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,94,96,0.13,0.242,52.4
+4,17.1,SA,Joshua Primo,Personal Take Foul,Foul,James Capers,J.B. DeRosa,Suyash Mehta,SA,94,98,0.019,0.057,18.0

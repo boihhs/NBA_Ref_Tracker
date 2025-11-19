@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:30,LAC,Marcus Morris Sr.,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,3,0,0.835,0.814,10:33
+1,9:58,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,5,3,0.818,0.796,10:17
+1,9:03,LAC,Norman Powell,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,10,7,0.806,0.808,9:17
+1,8:09,DAL,Reggie Bullock Jr.,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,12,7,0.822,0.822,8:14
+1,8:00,DAL,Luka Doncic,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,12,9,0.774,0.804,8:00
+1,7:04,DAL,Dwight Powell,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,12,12,0.727,0.727,7:10
+1,6:51,LAC,Marcus Morris Sr.,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,12,12,0.774,0.746,6:56
+1,5:54,DAL,Dorian Finney-Smith,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,17,12,0.789,0.815,6:05
+1,4:13,LAC,Norman Powell,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,23,16,0.877,0.859,4:26
+1,3:41,DAL,Josh Green,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,24,16,0.833,0.854,3:46
+1,26.4,LAC,Terance Mann,Loose Ball Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,36,28,0.887,0.867,26.4
+2,8:28,DAL,Frank Ntilikina,Loose Ball Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,40,34,0.81,0.809,8:28
+2,8:23,LAC,Amir Coffey,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,40,34,0.83,0.81,8:28
+2,8:09,LAC,Isaiah Hartenstein,Loose Ball Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,40,34,0.828,0.83,8:09
+2,7:22,LAC,Amir Coffey,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,42,34,0.873,0.845,7:22
+2,7:11,LAC,Robert Covington,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,43,34,0.876,0.86,7:22
+2,6:05,DAL,Dwight Powell,Personal Take Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,45,36,0.86,0.859,6:07
+2,2:58,LAC,Ivica Zubac,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,50,41,0.877,0.858,3:01
+2,2:15,DAL,Luka Doncic,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,53,41,0.882,0.904,2:38
+2,1:45,LAC,Reggie Jackson,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,53,44,0.899,0.876,1:55
+2,1:34,DAL,Maxi Kleber,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,55,44,0.868,0.89,1:45
+3,11:05,LAC,Nicolas Batum,Personal Take Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,61,50,0.908,0.909,11:05
+3,10:01,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,65,54,0.883,0.91,10:01
+3,7:54,LAC,Reggie Jackson,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,72,59,0.953,0.94,8:15
+3,7:33,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,74,59,0.935,0.95,7:54
+3,6:45,LAC,Reggie Jackson,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,76,61,0.971,0.96,7:02
+3,5:42,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,80,63,0.959,0.97,5:42
+3,4:57,DAL,Maxi Kleber,Personal Take Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,80,63,0.961,0.972,4:57
+3,4:11,DAL,Josh Green,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,82,65,0.963,0.974,4:20
+3,3:47,DAL,Trey Burke,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,82,67,0.945,0.96,3:48
+3,1:13,LAC,Marcus Morris Sr.,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,86,76,0.933,0.904,1:13
+3,34.9,DAL,Josh Green,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,89,78,0.895,0.922,42.9
+3,23.0,DAL,Maxi Kleber,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,89,80,0.846,0.885,26.4
+4,9:57,DAL,Dorian Finney-Smith,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,91,86,0.696,0.772,10:15
+4,9:40,LAC,Robert Covington,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,91,88,0.741,0.73,9:57
+4,8:26,LAC,Amir Coffey,Technical Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,94,90,0.81,0.782,8:26
+4,8:07,LAC,Luke Kennard,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,95,90,0.882,0.82,8:26
+4,7:55,DAL,Dorian Finney-Smith,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,97,92,0.739,0.827,7:55
+4,7:45,LAC,Luke Kennard,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,97,92,0.839,0.822,7:53
+4,7:19,DAL,Reggie Bullock Jr.,Loose Ball Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,97,92,0.778,0.793,7:19
+4,7:00,DAL,Maxi Kleber,Flagrant Foul Type 1,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,97,92,0.791,0.789,7:01
+4,5:41,LAC,Terance Mann,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,102,94,0.959,0.926,5:56
+4,5:15,DAL,Luka Doncic,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,104,94,0.956,0.97,5:16
+4,4:49,LAC,Terance Mann,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,104,96,0.967,0.94,5:06
+4,2:58,DAL,Luka Doncic,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,108,98,0.954,0.975,3:10
+4,40.0,LAC,Terance Mann,Personal Take Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,108,103,0.979,0.946,40.0
+4,33.0,LAC,Reggie Jackson,Personal Foul,Foul,James Williams,Lauren Holtkamp,Mousa Dagher,DAL,110,105,0.982,0.948,36.4

@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:50,GS,Kevon Looney,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,0,2,0.483,0.446,11:00
+1,4:42,MEM,De'Anthony Melton,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,20,13,0.621,0.683,5:03
+1,3:34,GS,Andre Iguodala,Personal Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,22,14,0.711,0.713,3:34
+1,2:46,MEM,De'Anthony Melton,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,24,14,0.701,0.737,2:59
+1,8.0,GS,Stephen Curry,Personal Take Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,27,24,0.63,0.588,26.4
+1,1.7,GS,Gary Payton II,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,27,24,0.63,0.63,8.0
+2,11:32,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,31,24,0.672,0.672,11:44
+2,11:27,MEM,Desmond Bane,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,31,24,0.632,0.672,11:32
+2,9:04,GS,Juan Toscano-Anderson,Loose Ball Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,36,31,0.652,0.652,9:04
+2,7:42,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,42,31,0.787,0.785,7:52
+2,7:05,GS,Stephen Curry,Personal Take Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,45,31,0.867,0.867,7:05
+2,5:42,MEM,Kyle Anderson,Personal Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,49,31,0.896,0.916,5:47
+2,3:43,GS,Andrew Wiggins,Personal Take Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,51,37,0.882,0.88,3:52
+2,3:00,GS,Klay Thompson,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,53,37,0.93,0.915,3:03
+2,2:50,MEM,Ja Morant,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,54,37,0.892,0.913,3:00
+2,1:48,GS,Gary Payton II,Loose Ball Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,54,43,0.864,0.835,1:48
+2,1:38,MEM,Ziaire Williams,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,56,43,0.822,0.852,1:48
+3,11:05,MEM,Ziaire Williams,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,59,54,0.6,0.654,11:12
+3,10:47,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,59,56,0.529,0.583,10:52
+3,9:39,GS,Stephen Curry,Personal Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,59,63,0.366,0.365,9:49
+3,7:40,GS,Gary Payton II,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,61,68,0.307,0.257,7:49
+3,7:02,MEM,Ziaire Williams,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,66,73,0.221,0.253,7:02
+3,6:02,GS,Kevon Looney,Loose Ball Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,66,74,0.215,0.216,6:02
+3,5:26,GS,Gary Payton II,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,70,74,0.353,0.315,5:26
+3,2:48,MEM,Xavier Tillman,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,79,79,0.404,0.473,2:54
+3,2:32,GS,Andre Iguodala,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,81,81,0.495,0.474,2:32
+3,1:35,MEM,De'Anthony Melton,Personal Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,84,81,0.541,0.609,1:51
+3,1:18,GS,Otto Porter Jr.,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,84,83,0.636,0.569,1:35
+3,9.3,MEM,De'Anthony Melton,Personal Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,85,88,0.264,0.331,26.2
+4,7:21,GS,Gary Payton II,Personal Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,97,95,0.661,0.65,7:24
+4,7:14,GS,Andre Iguodala,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,97,95,0.751,0.661,7:21
+4,6:15,MEM,Ziaire Williams,Defensive 3-Seconds Technical,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,101,98,0.686,0.663,6:37
+4,4:39,MEM,Brandon Clarke,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,103,99,0.641,0.744,4:45
+4,2:48,MEM,Desmond Bane,Offensive Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,109,102,0.924,0.946,3:07
+4,2:38,MEM,Brandon Clarke,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,109,102,0.862,0.924,2:48
+4,40.4,GS,Andrew Wiggins,Personal Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,113,108,0.983,0.946,42.3
+4,28.9,GS,Andrew Wiggins,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Natalie Sago,MEM,115,108,0.988,0.981,28.9

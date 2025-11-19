@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:24,MIA,Duncan Robinson,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,9,2,0.658,0.694,8:32
+1,7:44,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,11,7,0.646,0.621,7:49
+1,6:04,MIA,Dewayne Dedmon,Personal Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,16,10,0.672,0.673,6:17
+1,5:09,MIA,Kyle Lowry,Personal Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,19,12,0.696,0.695,5:09
+1,3:17,MIL,Javonte Smart,Loose Ball Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,19,17,0.598,0.599,3:17
+1,3:00,MIA,Omer Yurtseven,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,19,17,0.529,0.57,3:03
+1,2:24,MIA,Gabe Vincent,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,21,21,0.514,0.543,2:24
+1,48.0,MIA,P.J. Tucker,Offensive Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,24,22,0.543,0.569,1:01
+1,0.7,MIA,Gabe Vincent,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,24,24,0.471,0.51,4.8
+2,11:49,MIL,Wesley Matthews,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,24,26,0.481,0.472,12:00
+2,11:07,MIL,Bobby Portis,Loose Ball Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,28,26,0.584,0.599,11:07
+2,9:55,MIA,KZ Okpala,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,28,26,0.568,0.568,9:57
+2,9:32,MIA,P.J. Tucker,Personal Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,28,27,0.539,0.54,9:39
+2,9:07,MIA,Kyle Lowry,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,28,29,0.495,0.509,9:07
+2,7:48,MIA,Caleb Martin,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,32,32,0.507,0.54,7:48
+2,3:38,MIL,Khris Middleton,Personal Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,38,40,0.471,0.47,3:41
+2,6:31,MIL,DeMarcus Cousins,Offensive Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,32,32,0.54,0.471,3:38
+2,1:29,MIA,P.J. Tucker,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,38,47,0.181,0.219,1:37
+3,10:56,MIL,Bobby Portis,Personal Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,47,53,0.323,0.322,11:04
+3,10:56,MIA,Caleb Martin,Offensive Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,47,53,0.287,0.323,10:56
+3,9:36,MIL,Bobby Portis,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,47,55,0.252,0.252,9:38
+3,9:28,MIA,Caleb Martin,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,49,57,0.201,0.251,9:28
+3,8:21,MIA,Duncan Robinson,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,54,57,0.329,0.38,8:38
+3,7:56,MIL,Khris Middleton,Offensive Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,56,58,0.456,0.418,8:04
+3,5:07,MIL,DeMarcus Cousins,Personal Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,63,66,0.409,0.41,5:23
+3,1:18,MIA,KZ Okpala,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,74,76,0.358,0.392,1:18
+3,1:01,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,74,77,0.462,0.391,1:15
+4,11:20,MIL,Khris Middleton,Offensive Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,85,80,0.771,0.722,11:31
+4,10:36,MIA,Max Strus,Personal Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,85,80,0.717,0.73,10:36
+4,10:34,MIA,Gabe Vincent,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,85,80,0.725,0.717,10:36
+4,9:34,MIA,KZ Okpala,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,90,86,0.705,0.73,9:34
+4,9:22,MIA,Max Strus,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,90,86,0.579,0.672,9:33
+4,8:27,MIA,Max Strus,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,93,87,0.693,0.765,8:30
+4,6:54,MIL,Jrue Holiday,Personal Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,96,94,0.639,0.624,7:14
+4,5:02,MIL,Jrue Holiday,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,99,96,0.805,0.715,5:09
+4,4:27,MIL,Pat Connaughton,Shooting Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,101,96,0.903,0.827,4:48
+4,3:42,MIA,P.J. Tucker,Loose Ball Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,102,96,0.77,0.85,3:42
+4,37.9,MIL,Jrue Holiday,Personal Take Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,109,104,0.98,0.936,40.9
+4,36.9,MIL,Jrue Holiday,Personal Take Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,109,104,0.98,0.98,37.9
+4,17.8,MIL,Pat Connaughton,Personal Take Foul,Foul,Kane Fitzgerald,Dedric Taylor,Mitchell Ervin,MIA,111,104,0.998,0.992,27.5

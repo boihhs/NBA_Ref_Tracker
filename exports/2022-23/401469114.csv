@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:10,SA,Jeremy Sochan,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,0,2,0.465,0.465,11:14
+1,10:48,HOU,Jabari Smith Jr.,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,0,4,0.438,0.44,10:56
+1,9:45,HOU,Kevin Porter Jr.,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,5,6,0.512,0.514,9:54
+1,8:46,SA,Tre Jones,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,8,8,0.514,0.512,8:46
+1,8:38,SA,Devonte' Graham,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,8,10,0.443,0.487,8:38
+1,5:47,HOU,KJ Martin,Offensive Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,15,18,0.458,0.432,6:03
+1,5:38,HOU,Tari Eason,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,15,18,0.497,0.458,5:47
+1,5:03,SA,Romeo Langford,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,17,18,0.444,0.482,5:10
+1,4:43,HOU,Alperen Sengun,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,17,20,0.478,0.456,4:43
+1,4:04,HOU,Alperen Sengun,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,21,20,0.603,0.567,4:09
+1,3:37,HOU,Jalen Green,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,23,22,0.603,0.568,3:48
+1,1:13,SA,Blake Wesley,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,29,26,0.572,0.615,1:13
+2,11:49,SA,Dominick Barlow,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,32,31,0.515,0.567,11:49
+2,7:55,SA,Sandro Mamukelashvili,Loose Ball Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,42,44,0.441,0.441,7:55
+2,7:05,SA,Keita Bates-Diop,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,45,44,0.511,0.534,7:05
+2,6:49,HOU,Usman Garuba,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,45,46,0.55,0.503,7:05
+2,4:59,HOU,Tari Eason,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,59,54,0.707,0.658,4:59
+2,4:20,SA,Devonte' Graham,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,60,56,0.582,0.629,4:24
+2,4:13,HOU,Alperen Sengun,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,60,57,0.674,0.632,4:20
+2,3:59,SA,Charles Bassey,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,62,57,0.613,0.659,4:13
+2,2:20,SA,Sandro Mamukelashvili,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,62,62,0.449,0.498,2:41
+2,2:06,HOU,Kevin Porter Jr.,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,62,64,0.517,0.465,2:20
+2,1:56,SA,Charles Bassey,Offensive Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,62,64,0.431,0.517,2:06
+3,10:23,SA,Keita Bates-Diop,Loose Ball Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,68,75,0.254,0.249,10:23
+3,8:27,HOU,Jalen Green,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,70,79,0.214,0.215,8:42
+3,7:59,HOU,Kevin Porter Jr.,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,73,79,0.306,0.306,8:00
+3,7:28,SA,Keita Bates-Diop,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,73,79,0.245,0.267,7:28
+3,3:52,SA,Devonte' Graham,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,80,88,0.142,0.182,3:54
+3,3:31,SA,Julian Champagnie,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,80,89,0.115,0.151,3:34
+3,1:09,HOU,Jalen Green,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,86,93,0.287,0.225,1:19
+3,1:05,HOU,Tari Eason,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,86,93,0.287,0.287,1:09
+4,10:33,SA,Sandro Mamukelashvili,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,92,102,0.063,0.102,10:33
+4,7:29,HOU,Usman Garuba,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,98,109,0.056,0.052,7:33
+4,7:13,SA,Devonte' Graham,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,98,109,0.027,0.037,7:16
+4,7:02,HOU,Usman Garuba,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,98,110,0.039,0.037,7:10
+4,6:36,HOU,Kevin Porter Jr.,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,98,112,0.019,0.016,6:43
+4,5:51,HOU,Josh Christopher,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,98,115,0.008,0.004,6:03
+4,5:49,HOU,Josh Christopher,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,98,115,0.008,0.008,5:51
+4,3:42,SA,Zach Collins,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,103,115,0.003,0.01,3:56
+4,2:59,HOU,Alperen Sengun,Shooting Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,103,118,0.004,0.001,3:04
+4,2:08,SA,Dominick Barlow,Personal Foul,Foul,Derrick Collins,CJ Washington,Ben Taylor,SA,105,120,0.001,0.001,2:25

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:06,OKC,Jalen Williams,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,3,0,0.88,0.864,10:12
+1,9:20,OKC,Aleksej Pokusevski,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,4,0,0.888,0.873,9:27
+1,7:47,OKC,Luguentz Dort,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,12,2,0.925,0.926,7:57
+1,5:46,OKC,Aleksej Pokusevski,Defensive 3-Seconds Technical,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,16,11,0.871,0.874,6:03
+1,2:34,DAL,Christian Wood,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,17,15,0.774,0.803,2:45
+1,2:18,OKC,Luguentz Dort,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,17,17,0.81,0.784,2:34
+1,29.1,OKC,Shai Gilgeous-Alexander,Loose Ball Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,19,26,0.643,0.603,29.1
+1,16.1,DAL,Frank Ntilikina,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,21,26,0.584,0.628,29.1
+2,10:30,OKC,Tre Mann,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,26,32,0.653,0.615,10:50
+2,9:38,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,30,32,0.745,0.711,9:42
+2,8:49,DAL,Christian Wood,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,32,34,0.68,0.706,9:08
+2,8:11,DAL,Reggie Bullock Jr.,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,32,34,0.674,0.676,8:21
+2,6:48,DAL,Spencer Dinwiddie,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,35,37,0.662,0.663,6:52
+2,2:58,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,51,47,0.774,0.814,2:58
+2,2:43,OKC,Aleksej Pokusevski,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,53,48,0.846,0.813,2:43
+2,2:31,DAL,Dwight Powell,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,54,48,0.8,0.832,2:43
+2,1:27,OKC,Isaiah Joe,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,59,50,0.907,0.883,1:27
+3,11:15,DAL,Tim Hardaway Jr.,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,66,52,0.942,0.952,11:20
+3,10:29,OKC,Luguentz Dort,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,66,54,0.934,0.934,10:40
+3,10:06,DAL,Spencer Dinwiddie,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,69,56,0.936,0.945,10:12
+3,10:00,DAL,Dwight Powell,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,69,58,0.9,0.924,10:00
+3,10:00,DAL,Luka Doncic,Technical Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,69,58,0.9,0.9,10:00
+3,3:34,DAL,Christian Wood,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,89,75,0.942,0.957,3:47
+3,3:03,DAL,Luka Doncic,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,89,77,0.915,0.937,3:09
+3,2:45,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,91,79,0.958,0.939,2:45
+3,2:27,OKC,Eugene Omoruyi,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,92,79,0.961,0.961,2:35
+3,2:04,DAL,Luka Doncic,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,92,81,0.914,0.94,2:04
+3,1:36,OKC,Eugene Omoruyi,Loose Ball Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,92,85,0.903,0.872,1:36
+3,1:26,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,92,85,0.903,0.903,1:36
+3,1:10,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,93,85,0.893,0.872,1:13
+3,40.1,DAL,Reggie Bullock Jr.,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,95,87,0.873,0.895,49.1
+3,40.1,DAL,Reggie Bullock Jr.,Technical Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,95,87,0.851,0.873,40.1
+3,26.0,OKC,Eugene Omoruyi,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,95,90,0.862,0.817,35.1
+4,11:46,DAL,Frank Ntilikina,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,97,90,0.842,0.862,12:00
+4,11:12,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,99,92,0.901,0.849,11:12
+4,10:58,DAL,Maxi Kleber,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,99,92,0.791,0.853,11:09
+4,9:13,OKC,Josh Giddey,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,108,96,0.969,0.958,9:17
+4,5:55,DAL,Frank Ntilikina,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,111,101,0.913,0.952,5:55
+4,5:00,DAL,Frank Ntilikina,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,111,102,0.895,0.94,5:02
+4,4:41,OKC,Luguentz Dort,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,111,104,0.951,0.912,5:00
+4,23.1,OKC,Jalen Williams,Personal Take Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,119,114,0.988,0.946,28.0
+4,15.1,OKC,Shai Gilgeous-Alexander,Personal Take Foul,Foul,David Guthrie,J.B. DeRosa,Brandon Schwab,DAL,119,114,0.993,0.988,23.1

@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:14,MIA,Tyler Herro,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,5,11,0.25,0.25,8:27
+1,5:59,ATL,De'Andre Hunter,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,11,15,0.242,0.275,6:14
+1,5:36,ATL,Dejounte Murray,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,11,16,0.224,0.252,5:47
+1,4:41,ATL,Garrison Mathews,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,13,18,0.257,0.252,4:55
+1,1:47,ATL,Vit Krejci,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,23,24,0.334,0.381,1:47
+1,1:37,MIA,Kevin Love,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,23,25,0.392,0.352,1:47
+2,10:50,ATL,Kobe Bufkin,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,27,30,0.306,0.305,10:58
+2,8:59,MIA,Haywood Highsmith,Loose Ball Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,29,37,0.214,0.213,8:59
+2,8:48,MIA,Haywood Highsmith,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,31,37,0.277,0.235,8:48
+2,6:42,ATL,Vit Krejci,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,36,41,0.26,0.258,6:56
+2,5:40,MIA,Jimmy Butler III,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,39,43,0.333,0.283,5:40
+2,3:46,ATL,De'Andre Hunter,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,41,48,0.209,0.209,4:03
+2,1:37,ATL,Jalen Johnson,Loose Ball Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,41,53,0.087,0.108,1:37
+2,1:28,ATL,Jalen Johnson,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,41,55,0.071,0.094,1:28
+3,7:07,ATL,Bogdan Bogdanovic,Transition Take Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,60,69,0.141,0.164,7:08
+3,6:29,ATL,Dejounte Murray,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,62,70,0.161,0.164,6:45
+3,5:06,ATL,Garrison Mathews,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,64,70,0.17,0.211,5:08
+3,2:26,MIA,Delon Wright,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,72,75,0.413,0.351,2:40
+3,1:53,MIA,Nikola Jovic,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,74,75,0.47,0.437,1:55
+3,1:41,ATL,Dejounte Murray,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,75,77,0.316,0.389,1:41
+4,11:51,ATL,Bruno Fernando,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,80,80,0.422,0.465,12:00
+4,11:46,ATL,Bruno Fernando,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,80,80,0.414,0.422,11:51
+4,11:13,MIA,Tyler Herro,Loose Ball Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,80,82,0.393,0.378,11:13
+4,10:19,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,82,85,0.43,0.337,10:42
+4,9:16,MIA,Bam Adebayo,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,84,85,0.552,0.448,9:17
+4,7:18,MIA,Haywood Highsmith,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,88,91,0.443,0.34,7:22
+4,4:54,ATL,De'Andre Hunter,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,92,96,0.165,0.274,4:54
+4,4:27,ATL,Clint Capela,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,95,97,0.219,0.322,4:43
+4,3:05,ATL,Vit Krejci,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,97,97,0.328,0.446,3:27
+4,1:43,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,99,98,0.398,0.539,1:53
+4,1:04,ATL,De'Andre Hunter,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,99,98,0.396,0.54,1:11
+4,27.0,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,99,100,0.165,0.333,46.0
+5,2:13,ATL,Vit Krejci,Loose Ball Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,105,104,0.534,0.533,2:13
+5,1:46,MIA,Nikola Jovic,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,105,104,0.799,0.646,1:48
+6,4:19,MIA,Tyler Herro,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,107,107,0.544,0.533,4:39
+6,2:54,MIA,Bam Adebayo,Loose Ball Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,107,107,0.546,0.544,2:54
+6,2:26,ATL,Dejounte Murray,Shooting Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,107,107,0.322,0.455,2:43
+6,2:16,MIA,Tyler Herro,Personal Foul,Foul,Matt Boland,Sean Wright,Karl Lane,ATL,107,109,0.394,0.366,2:26

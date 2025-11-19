@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,WSH,Daniel Gafford,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,0,4,0.564,0.6,10:45
+1,8:00,WSH,Daniel Gafford,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,4,12,0.439,0.48,8:06
+1,6:43,WSH,Kyle Kuzma,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,8,18,0.418,0.414,6:43
+1,6:09,HOU,Jae'Sean Tate,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,8,20,0.386,0.386,6:23
+1,5:34,WSH,Bradley Beal,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,10,20,0.364,0.405,5:43
+1,1:18,WSH,Raul Neto,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,20,24,0.503,0.546,1:35
+1,33.7,HOU,Jae'Sean Tate,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,23,29,0.556,0.513,37.5
+2,10:50,HOU,KJ Martin,Offensive Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,28,31,0.59,0.558,11:00
+2,10:00,WSH,Daniel Gafford,Defensive 3-Seconds Technical,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,30,31,0.619,0.611,10:11
+2,8:25,HOU,KJ Martin,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,30,34,0.589,0.545,8:42
+2,5:19,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,37,41,0.507,0.525,5:19
+2,5:08,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,39,41,0.506,0.557,5:19
+2,4:54,HOU,Garrison Mathews,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,39,42,0.553,0.556,5:06
+2,4:34,HOU,Garrison Mathews,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,39,42,0.598,0.553,4:37
+2,4:00,WSH,Daniel Gafford,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,44,42,0.626,0.672,4:09
+2,3:21,WSH,Bradley Beal,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,44,46,0.543,0.543,3:23
+2,2:59,HOU,David Nwaba,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,44,46,0.624,0.575,3:04
+2,1:19,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,49,48,0.583,0.631,1:33
+2,32.3,WSH,Raul Neto,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,54,50,0.677,0.718,37.3
+2,31.4,HOU,Christian Wood,Loose Ball Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,54,52,0.689,0.661,31.4
+3,11:34,WSH,Deni Avdija,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,55,56,0.555,0.589,11:34
+3,10:49,WSH,Bradley Beal,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,57,57,0.589,0.587,10:49
+3,10:03,WSH,Daniel Gafford,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,57,61,0.454,0.473,10:03
+3,8:42,HOU,Eric Gordon,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,60,67,0.407,0.348,8:43
+3,8:20,HOU,Jalen Green,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,61,67,0.387,0.388,8:26
+3,7:57,HOU,Kevin Porter Jr.,Loose Ball Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,63,69,0.382,0.382,7:57
+3,7:33,HOU,Jae'Sean Tate,Offensive Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,63,69,0.356,0.336,7:34
+3,5:55,WSH,Raul Neto,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,65,72,0.257,0.32,5:55
+3,5:19,HOU,KJ Martin,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,65,75,0.258,0.211,5:26
+3,4:14,HOU,Garrison Mathews,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,71,78,0.282,0.262,4:14
+3,4:01,WSH,Craig Sword,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,72,77,0.297,0.299,4:14
+3,3:50,HOU,KJ Martin,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,72,78,0.403,0.341,4:01
+3,3:30,WSH,Craig Sword,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,74,78,0.31,0.38,3:41
+3,3:19,WSH,Corey Kispert,Offensive Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,74,80,0.287,0.335,3:30
+3,2:36,WSH,Bradley Beal,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,74,80,0.224,0.278,2:38
+3,2:21,HOU,Jae'Sean Tate,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,74,81,0.346,0.283,2:36
+3,1:50,WSH,Raul Neto,Technical Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,78,83,0.278,0.312,1:51
+3,21.5,HOU,Garrison Mathews,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,81,86,0.413,0.345,21.5
+4,11:29,WSH,Kyle Kuzma,Loose Ball Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,83,89,0.229,0.279,11:29
+4,10:29,WSH,Kyle Kuzma,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,83,93,0.058,0.092,10:34
+4,8:21,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,87,94,0.093,0.146,8:33
+4,7:43,HOU,KJ Martin,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,92,96,0.364,0.255,7:43
+4,6:38,HOU,David Nwaba,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,93,98,0.343,0.246,6:52
+4,5:09,WSH,Kyle Kuzma,Loose Ball Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,96,100,0.138,0.217,5:09
+4,4:55,HOU,Jae'Sean Tate,Loose Ball Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,96,100,0.232,0.262,4:55
+4,3:23,HOU,Jalen Green,Shooting Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,99,102,0.439,0.307,3:30
+4,48.5,WSH,Deni Avdija,Personal Foul,Foul,Sean Wright,Suyash Mehta,Mousa Dagher,WSH,106,109,0.084,0.176,1:07

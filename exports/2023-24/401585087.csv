@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:22,PHI,Tyrese Maxey,Personal Foul,Foul,,,,PHI,2,0,0.901,0.902,11:33
+1,10:03,PHI,Joel Embiid,Defensive 3-Seconds Technical,Foul,,,,PHI,7,2,0.923,0.921,10:14
+1,9:57,CHI,Patrick Williams,Shooting Foul,Foul,,,,PHI,7,3,0.926,0.921,10:00
+1,9:18,PHI,Tyrese Maxey,Shooting Foul,Foul,,,,PHI,9,3,0.915,0.927,9:25
+1,8:28,PHI,Joel Embiid,Shooting Foul,Foul,,,,PHI,11,5,0.913,0.925,8:37
+1,3:59,CHI,Coby White,Shooting Foul,Foul,,,,PHI,35,10,0.993,0.991,3:59
+1,3:44,PHI,Joel Embiid,Offensive Foul,Foul,,,,PHI,36,10,0.992,0.993,3:48
+1,3:12,CHI,DeMar DeRozan,Shooting Foul,Foul,,,,PHI,38,12,0.994,0.992,3:12
+1,1:45,PHI,Kelly Oubre Jr.,Personal Foul,Foul,,,,PHI,41,14,0.992,0.993,1:47
+1,1:01,CHI,Coby White,Offensive Foul,Foul,,,,PHI,43,16,0.994,0.994,1:12
+1,21.1,CHI,DeMar DeRozan,Personal Foul,Foul,,,,PHI,43,18,0.994,0.993,31.2
+2,10:49,PHI,Jaden Springer,Shooting Foul,Foul,,,,PHI,45,20,0.989,0.991,11:04
+2,10:29,CHI,Dalen Terry,Shooting Foul,Foul,,,,PHI,45,22,0.992,0.99,10:49
+2,9:45,PHI,Jaden Springer,Personal Foul,Foul,,,,PHI,46,24,0.987,0.987,9:48
+2,7:54,PHI,Paul Reed,Shooting Foul,Foul,,,,PHI,49,28,0.983,0.987,7:54
+2,7:38,CHI,Dalen Terry,Shooting Foul,Foul,,,,PHI,49,29,0.988,0.985,7:54
+2,7:27,PHI,Paul Reed,Shooting Foul,Foul,,,,PHI,50,29,0.981,0.984,7:38
+2,4:22,PHI,Joel Embiid,Shooting Foul,Foul,,,,PHI,58,36,0.986,0.988,4:22
+2,2:51,CHI,DeMar DeRozan,Shooting Foul,Foul,,,,PHI,63,38,0.996,0.995,3:04
+2,1:39,PHI,Kelly Oubre Jr.,Personal Foul,Foul,,,,PHI,68,41,0.994,0.996,1:42
+2,31.1,CHI,Coby White,Shooting Foul,Foul,,,,PHI,72,42,0.998,0.998,31.1
+3,11:51,CHI,Andre Drummond,Personal Foul,Foul,,,,PHI,73,42,0.999,0.998,12:00
+3,9:12,PHI,Nicolas Batum,Shooting Foul,Foul,,,,PHI,76,49,0.997,0.997,9:14
+3,7:36,PHI,Kelly Oubre Jr.,Offensive Foul,Foul,,,,PHI,80,52,0.998,0.998,7:39
+3,7:15,PHI,Nicolas Batum,Shooting Foul,Foul,,,,PHI,80,52,0.998,0.998,7:17
+3,5:53,CHI,Andre Drummond,Shooting Foul,Foul,,,,PHI,82,57,0.998,0.997,6:02
+3,5:05,CHI,Terry Taylor,Shooting Foul,Foul,,,,PHI,84,62,0.996,0.995,5:19
+3,4:00,CHI,DeMar DeRozan,Shooting Foul,Foul,,,,PHI,88,64,0.998,0.998,4:03
+3,3:31,CHI,Coby White,Shooting Foul,Foul,,,,PHI,89,64,0.998,0.998,3:31
+3,3:00,CHI,Terry Taylor,Personal Foul,Foul,,,,PHI,89,67,0.997,0.996,3:10
+3,2:43,PHI,Jaden Springer,Personal Foul,Foul,,,,PHI,90,67,0.996,0.996,3:00
+3,1:27,PHI,Patrick Beverley,Personal Foul,Foul,,,,PHI,92,70,0.994,0.996,1:31
+3,1.1,CHI,Julian Phillips,Shooting Foul,Foul,,,,PHI,96,72,0.999,0.999,13.0
+4,11:31,CHI,Ayo Dosunmu,Personal Foul,Foul,,,,PHI,98,74,0.999,0.999,11:47
+4,11:05,CHI,Dalen Terry,Shooting Foul,Foul,,,,PHI,98,74,0.999,0.999,11:07
+4,10:45,PHI,Danuel House Jr.,Personal Foul,Foul,,,,PHI,100,74,0.999,0.999,10:45
+4,10:23,CHI,Dalen Terry,Shooting Foul,Foul,,,,PHI,100,76,0.999,0.999,10:37
+4,9:52,CHI,Julian Phillips,Shooting Foul,Foul,,,,PHI,104,76,0.999,0.999,9:52
+4,8:57,CHI,Ayo Dosunmu,Personal Foul,Foul,,,,PHI,107,78,0.999,0.999,8:57
+4,5:19,PHI,Jaden Springer,Shooting Foul,Foul,,,,PHI,110,87,0.999,0.999,5:19
+4,3:15,PHI,Mo Bamba,Shooting Foul,Foul,,,,PHI,110,87,0.999,0.999,3:17
+4,2:36,PHI,Mo Bamba,Shooting Foul,Foul,,,,PHI,110,89,0.999,0.999,2:53

@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:56,LAL,Talen Horton-Tucker,Offensive Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,2,2,0.555,0.576,11:14
+1,10:44,LAL,Dwight Howard,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,2,4,0.485,0.526,10:44
+1,10:37,BKN,DeAndre' Bembry,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,2,4,0.565,0.527,10:40
+1,7:52,BKN,James Harden,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,6,14,0.353,0.367,7:52
+1,7:11,BKN,DeAndre' Bembry,Loose Ball Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,8,19,0.278,0.29,7:11
+1,6:40,BKN,Nic Claxton,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,8,19,0.287,0.288,6:49
+1,6:21,LAL,Wayne Ellington,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,8,19,0.262,0.26,6:22
+1,5:49,BKN,Patty Mills,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,10,22,0.296,0.26,5:53
+1,5:15,LAL,Malik Monk,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,14,22,0.295,0.332,5:31
+1,4:50,BKN,James Johnson,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,14,22,0.395,0.356,4:54
+1,2:45,LAL,Stanley Johnson,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,18,28,0.272,0.297,2:45
+1,1:10,LAL,Stanley Johnson,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,23,35,0.232,0.243,1:10
+2,11:29,LAL,Darren Collison,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,23,38,0.127,0.15,11:35
+2,9:50,BKN,DeAndre' Bembry,Personal Take Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,32,40,0.326,0.326,9:50
+2,9:36,LAL,Russell Westbrook,Personal Take Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,32,40,0.298,0.298,9:37
+2,8:33,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,34,40,0.31,0.352,8:42
+2,8:25,BKN,Paul Millsap,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,34,42,0.322,0.323,8:33
+2,7:03,BKN,Patty Mills,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,36,47,0.235,0.237,7:09
+2,6:16,BKN,Bruce Brown,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,36,47,0.219,0.232,6:19
+2,4:57,BKN,Langston Galloway,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,39,49,0.27,0.225,4:57
+2,4:24,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,40,51,0.165,0.196,4:33
+2,3:52,BKN,Langston Galloway,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,42,53,0.258,0.22,3:58
+2,3:51,LAL,Stanley Johnson,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,44,53,0.206,0.244,3:52
+2,3:12,BKN,Bruce Brown,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,46,57,0.254,0.216,3:21
+2,2:41,BKN,Langston Galloway,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,47,57,0.278,0.239,2:56
+2,1:47,BKN,Patty Mills,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,49,59,0.273,0.234,2:12
+2,1:01,BKN,Blake Griffin,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,55,59,0.398,0.378,1:01
+2,46.5,LAL,Darren Collison,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,56,62,0.289,0.349,46.5
+2,27.0,LAL,Darren Collison,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,59,66,0.261,0.312,27.0
+2,8.4,BKN,Bruce Brown,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,59,66,0.293,0.307,8.4
+2,3.7,BKN,Patty Mills,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,60,66,0.394,0.342,5.6
+3,10:59,LAL,Carmelo Anthony,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,68,66,0.532,0.588,11:14
+3,9:28,BKN,James Harden,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,70,72,0.455,0.474,9:28
+3,8:44,LAL,Talen Horton-Tucker,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,72,75,0.397,0.395,8:47
+3,7:24,LAL,Russell Westbrook,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,76,79,0.389,0.389,7:27
+3,5:22,BKN,James Harden,Loose Ball Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,76,85,0.204,0.204,5:22
+3,4:55,LAL,LeBron James,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,78,85,0.184,0.229,5:09
+3,4:18,LAL,Stanley Johnson,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,78,87,0.127,0.164,4:19
+3,4.7,BKN,Langston Galloway,Personal Take Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,82,102,0.013,0.008,16.2
+4,11:44,BKN,Bruce Brown,Loose Ball Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,82,102,0.008,0.006,11:44
+4,8:44,BKN,James Harden,Flagrant Foul Type 1,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,92,107,0.02,0.015,9:09
+4,5:42,BKN,DeAndre' Bembry,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,101,107,0.188,0.182,5:46
+4,4:50,BKN,James Harden,Personal Take Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,104,110,0.15,0.172,4:50
+4,3:46,LAL,Stanley Johnson,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,106,110,0.211,0.22,3:56
+4,3:10,LAL,Russell Westbrook,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,106,110,0.189,0.198,3:12
+4,3:10,LAL,Carmelo Anthony,Technical Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,106,110,0.154,0.189,3:10
+4,40.7,LAL,LeBron James,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,115,117,0.255,0.395,40.7
+4,20.6,LAL,Russell Westbrook,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,115,118,0.049,0.114,23.3
+4,10.7,LAL,Russell Westbrook,Personal Take Foul,Foul,Derek Richardson,Kevin Cutler,Mousa Dagher,LAL,115,120,0.003,0.018,12.5

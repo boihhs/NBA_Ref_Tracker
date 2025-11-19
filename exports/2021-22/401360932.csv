@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:08,DEN,Aaron Gordon,Personal Take Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,2,0,0.92,0.921,11:21
+1,10:04,OKC,Isaiah Roby,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,4,4,0.92,0.908,10:06
+1,9:56,DEN,Jeff Green,Personal Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,5,4,0.908,0.908,10:04
+1,9:45,OKC,Aleksej Pokusevski,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,5,4,0.926,0.915,9:48
+1,9:19,OKC,Theo Maledon,Personal Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,7,6,0.912,0.913,9:25
+1,5:21,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,19,15,0.916,0.916,5:25
+1,4:31,OKC,Darius Bazley,Personal Take Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,21,18,0.925,0.913,4:31
+1,4:04,DEN,Bones Hyland,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,23,18,0.906,0.92,4:21
+1,3:29,OKC,Isaiah Roby,Personal Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,25,20,0.937,0.925,3:32
+1,1:36,DEN,JaMychal Green,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,32,23,0.932,0.943,1:42
+2,8:44,OKC,Lindy Waters III,Personal Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,37,31,0.915,0.916,8:45
+2,8:29,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,37,31,0.887,0.905,8:34
+2,8:01,DEN,DeMarcus Cousins,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,40,32,0.908,0.924,8:17
+2,7:28,OKC,Vit Krejci,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,40,34,0.926,0.913,7:47
+2,3:45,OKC,Theo Maledon,Personal Take Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,54,42,0.956,0.956,3:49
+2,2:59,DEN,Will Barton,Personal Take Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,54,42,0.948,0.948,2:59
+2,1:32,OKC,Olivier Sarr,Personal Take Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,56,42,0.974,0.966,1:32
+2,1:01,DEN,Will Barton,Personal Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,58,42,0.964,0.972,1:08
+2,26.4,DEN,Monte Morris,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,58,48,0.912,0.938,26.4
+3,8:39,OKC,Isaiah Roby,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,64,60,0.86,0.822,8:39
+3,8:16,DEN,Nikola Jokic,Offensive Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,65,60,0.843,0.864,8:25
+3,5:58,OKC,Isaiah Roby,Personal Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,70,66,0.835,0.835,5:59
+3,5:45,OKC,Theo Maledon,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,70,66,0.865,0.835,5:58
+3,4:07,OKC,Lindy Waters III,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,76,68,0.931,0.91,4:12
+3,1:32,DEN,Austin Rivers,Personal Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,85,70,0.966,0.977,1:42
+3,45.9,OKC,Lindy Waters III,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,85,72,0.981,0.972,50.6
+3,1.7,DEN,Bones Hyland,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,87,74,0.951,0.966,5.3
+4,11:32,OKC,Aleksej Pokusevski,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,87,76,0.974,0.959,11:44
+4,10:44,DEN,Bones Hyland,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,89,81,0.876,0.923,10:44
+4,7:45,OKC,Lindy Waters III,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,93,90,0.818,0.775,7:45
+4,7:17,DEN,Bones Hyland,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,95,90,0.741,0.82,7:27
+4,4:04,OKC,Olivier Sarr,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,101,101,0.715,0.59,4:16
+4,2:20,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,105,105,0.455,0.492,2:40
+4,1:48,OKC,Vit Krejci,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,105,105,0.73,0.572,2:05
+4,1:14,DEN,Nikola Jokic,Loose Ball Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,107,105,0.514,0.693,1:14
+4,45.2,DEN,Monte Morris,Personal Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,110,105,0.797,0.893,47.8
+4,23.3,OKC,Tre Mann,Shooting Foul,Foul,James Williams,Kevin Cutler,Brett Nansel,DEN,112,107,0.978,0.925,23.3

@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:47,BKN,Kyrie Irving,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,5,3,0.598,0.598,10:57
+1,10:32,TOR,Pascal Siakam,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,5,3,0.656,0.622,10:39
+1,9:52,BKN,Royce O'Neale,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,9,3,0.657,0.691,10:01
+1,8:01,BKN,Nic Claxton,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,17,8,0.725,0.757,8:09
+1,7:25,TOR,Fred VanVleet,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,19,10,0.79,0.757,7:25
+1,4:44,TOR,Fred VanVleet,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,27,10,0.919,0.904,4:55
+1,4:14,TOR,Pascal Siakam,Loose Ball Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,28,10,0.93,0.916,4:14
+1,1:28,TOR,Thaddeus Young,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,34,17,0.919,0.898,1:28
+1,1:25,TOR,Juancho Hernangomez,Offensive Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,35,17,0.922,0.91,1:28
+1,41.1,TOR,Scottie Barnes,Flagrant Foul Type 1,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,38,17,0.948,0.949,43.2
+1,15.4,BKN,Edmond Sumner,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,41,17,0.954,0.962,28.4
+2,11:02,BKN,Royce O'Neale,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,43,17,0.967,0.974,11:18
+2,10:35,BKN,Nic Claxton,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,45,19,0.975,0.975,10:50
+2,10:27,TOR,Pascal Siakam,Loose Ball Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,45,19,0.979,0.979,10:27
+2,9:41,BKN,Royce O'Neale,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,49,21,0.983,0.983,9:43
+2,9:13,BKN,Joe Harris,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,49,23,0.97,0.977,9:16
+2,8:44,TOR,TOR,Technical Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,51,27,0.977,0.973,8:48
+2,7:48,TOR,Pascal Siakam,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,56,31,0.983,0.979,7:58
+2,6:07,BKN,Kyrie Irving,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,65,31,0.994,0.994,6:21
+2,5:21,BKN,Edmond Sumner,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,67,31,0.994,0.994,5:25
+2,5:13,TOR,Fred VanVleet,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,67,32,0.995,0.996,5:21
+2,2:42,BKN,Kyrie Irving,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,69,41,0.989,0.992,2:42
+2,2:20,BKN,Joe Harris,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,69,41,0.988,0.991,2:23
+2,47.4,BKN,Cam Thomas,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,72,47,0.983,0.989,47.4
+2,27.0,BKN,Nic Claxton,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,72,48,0.975,0.983,30.8
+3,8:20,BKN,Joe Harris,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,76,57,0.954,0.966,8:24
+3,7:43,TOR,OG Anunoby,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,76,59,0.971,0.961,7:52
+3,7:31,BKN,Joe Harris,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,77,59,0.947,0.961,7:41
+3,7:07,BKN,Nic Claxton,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,77,60,0.938,0.954,7:14
+3,5:09,TOR,Fred VanVleet,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,81,64,0.97,0.97,5:10
+3,4:23,TOR,Pascal Siakam,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,84,64,0.987,0.986,4:32
+3,4:23,TOR,Pascal Siakam,Technical Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,84,64,0.989,0.987,4:23
+3,3:09,BKN,Seth Curry,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,87,66,0.983,0.989,3:18
+3,1:56,TOR,Fred VanVleet,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,89,68,0.996,0.993,2:07
+3,1:29,BKN,T.J. Warren,Offensive Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,91,68,0.996,0.997,1:38
+4,11:39,BKN,Nic Claxton,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,96,74,0.995,0.997,11:39
+4,11:09,BKN,Markieff Morris,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,96,75,0.995,0.995,11:17
+4,11:09,BKN,Joe Harris,Away from Play Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,96,75,0.995,0.995,11:09
+4,9:24,BKN,T.J. Warren,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,99,76,0.997,0.998,9:40
+4,9:17,BKN,Royce O'Neale,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,99,76,0.997,0.997,9:24
+4,8:19,BKN,Royce O'Neale,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,99,80,0.993,0.996,8:19
+4,7:14,TOR,Chris Boucher,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,99,84,0.994,0.988,7:35
+4,6:01,BKN,Cam Thomas,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,102,86,0.99,0.995,6:01
+4,3:23,TOR,Gary Trent Jr.,Shooting Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,108,94,0.998,0.997,3:36
+4,28.5,TOR,OG Anunoby,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,110,103,0.997,0.987,37.8
+4,26.8,TOR,Scottie Barnes,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,110,103,0.997,0.992,28.5
+4,14.2,TOR,Scottie Barnes,Personal Foul,Foul,Ed Malloy,Justin Van Duyne,Nate Green,BKN,112,103,0.999,0.999,15.4

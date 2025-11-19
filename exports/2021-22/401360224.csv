@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,DAL,Dorian Finney-Smith,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,0,5,0.357,0.359,10:32
+1,9:30,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,0,7,0.288,0.288,9:44
+1,8:08,OKC,Luguentz Dort,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,5,7,0.407,0.405,8:22
+1,7:56,OKC,Luguentz Dort,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,5,7,0.408,0.407,8:08
+1,7:31,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,5,7,0.37,0.407,7:36
+1,6:25,OKC,Derrick Favors,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,8,13,0.345,0.357,6:25
+1,2:30,DAL,Moses Brown,Offensive Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,19,22,0.408,0.38,2:53
+1,1:24,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,22,24,0.364,0.406,1:44
+1,1:07,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,24,25,0.482,0.433,1:07
+1,33.3,DAL,Trey Burke,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,27,25,0.534,0.52,33.3
+2,11:13,DAL,Josh Green,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,27,30,0.404,0.406,11:25
+2,8:43,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,31,37,0.293,0.29,9:00
+2,8:09,DAL,Kristaps Porzingis,Personal Take Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,31,39,0.265,0.265,8:12
+2,6:57,DAL,Maxi Kleber,Personal Take Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,33,39,0.316,0.316,6:57
+2,6:34,OKC,Aleksej Pokusevski,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,33,39,0.248,0.287,6:43
+2,5:42,OKC,Kenrich Williams,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,33,42,0.21,0.21,5:49
+2,5:28,OKC,Mike Muscala,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,33,44,0.177,0.188,5:28
+2,5:06,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,33,44,0.22,0.188,5:17
+2,3:52,OKC,Tre Mann,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,38,46,0.242,0.253,3:52
+2,3:19,DAL,Reggie Bullock Jr.,Personal Take Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,40,47,0.325,0.279,3:19
+2,3:03,DAL,Jalen Brunson,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,41,47,0.355,0.31,3:10
+2,1:53,DAL,Josh Green,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,42,52,0.233,0.197,1:59
+2,29.4,DAL,Kristaps Porzingis,Offensive Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,46,54,0.24,0.219,34.0
+3,11:25,OKC,Darius Bazley,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,48,56,0.21,0.211,11:40
+3,10:55,OKC,Theo Maledon,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,51,56,0.296,0.295,11:05
+3,9:51,OKC,Darius Bazley,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,53,58,0.25,0.291,9:59
+3,9:24,DAL,Kristaps Porzingis,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,53,60,0.308,0.259,9:27
+3,9:14,OKC,Theo Maledon,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,54,60,0.217,0.26,9:22
+3,8:18,OKC,Josh Giddey,Offensive Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,54,60,0.256,0.291,8:29
+3,5:06,OKC,Derrick Favors,Personal Take Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,58,67,0.119,0.151,5:06
+3,3:26,DAL,Maxi Kleber,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,63,72,0.213,0.169,3:29
+3,2:17,OKC,Tre Mann,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,65,76,0.098,0.109,2:17
+3,6.1,DAL,Dorian Finney-Smith,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,71,80,0.186,0.143,24.1
+4,11:30,DAL,Trey Burke,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,71,80,0.19,0.134,11:34
+4,9:08,OKC,Kenrich Williams,Loose Ball Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,74,87,0.033,0.028,9:08
+4,6:47,OKC,Darius Bazley,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,78,89,0.03,0.034,7:02
+4,5:17,DAL,Reggie Bullock Jr.,Personal Take Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,78,91,0.016,0.014,5:18
+4,4:40,OKC,Kenrich Williams,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,78,93,0.001,0.004,4:40
+4,4:15,OKC,Kenrich Williams,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,78,94,0.001,0.001,4:31
+4,3:42,OKC,Josh Giddey,Personal Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,78,96,0.001,0.001,3:59
+4,2:26,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,81,98,0.001,0.001,2:38
+4,1:35,OKC,Ty Jerome,Shooting Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,84,102,0.001,0.001,1:39
+4,1:00,DAL,Moses Brown,Loose Ball Foul,Foul,Bill Kennedy,Natalie Sago,John Butler,OKC,84,103,0.001,0.001,1:00

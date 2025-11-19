@@ -1,0 +1,56 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:20,TOR,Jakob Poeltl,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,2,0,0.84,0.86,11:38
+1,9:55,DET,Jaden Ivey,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,7,4,0.892,0.878,10:12
+1,8:55,DET,Jalen Duren,Defensive 3-Seconds Technical,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,10,7,0.87,0.874,9:06
+1,7:38,TOR,Fred VanVleet,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,18,9,0.919,0.919,7:50
+1,5:52,TOR,Scottie Barnes,Offensive Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,18,11,0.896,0.908,6:05
+1,5:20,DET,Jalen Duren,Offensive Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,20,11,0.924,0.915,5:30
+1,4:36,TOR,Pascal Siakam,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,20,11,0.913,0.914,4:54
+1,4:08,DET,Jalen Duren,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,20,11,0.933,0.922,4:11
+1,3:19,DET,Hamidou Diallo,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,21,11,0.929,0.929,3:29
+1,2:21,TOR,Chris Boucher,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,25,16,0.901,0.919,2:21
+2,10:58,DET,Isaiah Livers,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,31,31,0.81,0.783,11:08
+2,10:48,TOR,Thaddeus Young,Defensive 3-Seconds Technical,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,32,31,0.786,0.782,10:58
+2,8:43,TOR,Malachi Flynn,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,39,34,0.818,0.846,9:00
+2,8:15,TOR,Chris Boucher,Loose Ball Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,39,36,0.807,0.806,8:15
+2,7:20,DET,Isaiah Livers,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,39,36,0.847,0.822,7:26
+2,5:53,TOR,Dalano Banton,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,44,41,0.796,0.796,6:08
+2,4:55,DET,Killian Hayes,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,44,41,0.811,0.813,5:03
+2,4:17,TOR,Jakob Poeltl,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,44,41,0.754,0.787,4:22
+2,2:59,DET,Killian Hayes,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,46,46,0.77,0.735,3:14
+2,1:37,TOR,Jakob Poeltl,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,47,48,0.616,0.669,1:55
+2,28.1,DET,Cory Joseph,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,50,51,0.729,0.689,32.2
+2,11.1,TOR,Fred VanVleet,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,52,51,0.669,0.714,28.1
+2,2.0,DET,Bojan Bogdanovic,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,52,52,0.753,0.714,11.1
+3,11:25,DET,Isaiah Stewart,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,53,54,0.723,0.677,11:38
+3,10:35,DET,Jalen Duren,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,57,56,0.731,0.734,10:43
+3,7:34,TOR,Scottie Barnes,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,67,58,0.886,0.886,7:47
+3,7:34,TOR,Scottie Barnes,Technical Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,67,58,0.872,0.886,7:34
+3,7:25,TOR,Pascal Siakam,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,67,61,0.807,0.849,7:25
+3,7:10,DET,Killian Hayes,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,67,62,0.823,0.825,7:25
+3,6:22,TOR,Scottie Barnes,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,70,62,0.836,0.868,6:25
+3,6:11,DET,Killian Hayes,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,70,64,0.878,0.848,6:22
+3,5:45,DET,Jaden Ivey,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,71,64,0.897,0.868,5:53
+3,5:26,DET,Jaden Ivey,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,73,64,0.927,0.906,5:32
+3,3:06,DET,Jaden Ivey,Loose Ball Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,76,72,0.835,0.792,3:07
+3,2:36,TOR,Chris Boucher,Offensive Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,78,74,0.758,0.792,2:54
+3,2:19,DET,Isaiah Livers,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,80,74,0.868,0.82,2:19
+3,32.1,TOR,Thaddeus Young,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,84,74,0.887,0.917,43.0
+3,15.1,TOR,Scottie Barnes,Offensive Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,84,75,0.899,0.92,30.0
+4,11:09,DET,Jalen Duren,Loose Ball Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,88,77,0.957,0.954,11:09
+4,10:35,TOR,Thaddeus Young,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,90,77,0.955,0.966,10:35
+4,10:25,DET,Hamidou Diallo,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,90,78,0.969,0.966,10:35
+4,9:21,DET,Hamidou Diallo,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,92,82,0.952,0.976,10:04
+4,8:22,TOR,Dalano Banton,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,94,86,0.865,0.921,8:22
+4,5:47,DET,Cory Joseph,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,99,91,0.964,0.937,5:57
+4,5:30,DET,Jaden Ivey,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,101,91,0.983,0.971,5:33
+4,5:20,TOR,Scottie Barnes,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,102,91,0.948,0.97,5:30
+4,3:27,TOR,Jakob Poeltl,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,108,95,0.985,0.992,3:42
+4,3:27,TOR,Jakob Poeltl,Loose Ball Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,108,96,0.978,0.989,3:27
+4,3:04,TOR,Precious Achiuwa,Loose Ball Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,108,97,0.97,0.985,3:04
+4,2:32,TOR,Jakob Poeltl,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,110,99,0.975,0.987,2:48
+4,1:52,DET,Alec Burks,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,110,103,0.983,0.961,2:05
+4,33.1,TOR,Fred VanVleet,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,116,108,0.961,0.981,46.1
+4,7.0,DET,Isaiah Livers,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,116,113,0.981,0.922,10.0
+4,6.0,TOR,Precious Achiuwa,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,118,113,0.919,0.971,7.0
+4,4.1,DET,Bojan Bogdanovic,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Nate Green,TOR,118,115,0.988,0.951,6.0

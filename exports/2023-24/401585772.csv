@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:01,DAL,P.J. Washington,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,2,3,0.159,0.138,10:21
+1,8:24,CHA,Brandon Miller,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,8,10,0.107,0.121,8:37
+1,6:39,DAL,Luka Doncic,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,11,16,0.107,0.107,6:39
+1,4:10,CHA,Miles Bridges,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,13,25,0.041,0.049,4:17
+1,3:09,DAL,Maxi Kleber,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,13,29,0.041,0.035,3:14
+1,3.1,DAL,Dante Exum,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,18,36,0.034,0.027,21.1
+2,11:30,DAL,Jaden Hardy,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,18,36,0.027,0.028,11:37
+2,10:22,DAL,P.J. Washington,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,20,40,0.02,0.02,10:33
+2,8:30,CHA,Davis Bertans,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,26,47,0.014,0.014,8:42
+2,8:23,CHA,Nick Richards,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,26,47,0.011,0.014,8:30
+2,4:23,CHA,Vasilije Micic,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,36,58,0.01,0.013,4:23
+2,4:07,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,38,59,0.019,0.013,4:07
+2,3:25,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,39,61,0.017,0.013,3:34
+2,2:51,CHA,Davis Bertans,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,40,61,0.01,0.012,2:52
+2,2:23,CHA,Grant Williams,Offensive Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,40,61,0.012,0.012,2:28
+2,1:16,DAL,Kyrie Irving,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,46,64,0.023,0.022,1:16
+2,39.0,DAL,Dante Exum,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,46,67,0.019,0.014,51.1
+3,9:33,CHA,Miles Bridges,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,53,76,0.005,0.007,9:33
+3,8:16,CHA,Grant Williams,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,53,78,0.002,0.003,8:27
+3,8:06,DAL,P.J. Washington,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,53,80,0.003,0.002,8:16
+3,6:28,DAL,Kyrie Irving,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,62,84,0.008,0.005,6:28
+3,6:12,CHA,Vasilije Micic,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,63,84,0.005,0.007,6:28
+3,4:53,CHA,Miles Bridges,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,67,88,0.004,0.006,4:55
+3,2:19,DAL,Luka Doncic,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,76,95,0.01,0.01,2:19
+3,28.1,DAL,Maxi Kleber,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,80,97,0.017,0.009,28.1
+4,11:06,DAL,Kyrie Irving,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,83,99,0.015,0.014,11:06
+4,9:28,CHA,Brandon Miller,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,87,99,0.017,0.03,9:33
+4,8:31,CHA,Grant Williams,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,91,104,0.013,0.025,8:31
+4,8:31,CHA,Grant Williams,Technical Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,91,104,0.013,0.024,8:31
+4,7:04,DAL,Dante Exum,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,94,108,0.026,0.013,7:08
+4,6:05,CHA,Brandon Miller,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,97,112,0.002,0.004,6:07
+4,5:40,CHA,Vasilije Micic,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,97,113,0.001,0.002,5:44
+4,5:13,CHA,Nick Richards,Offensive Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,97,115,0.001,0.001,5:20
+4,3:52,DAL,Daniel Gafford,Loose Ball Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,97,121,0.001,0.001,3:52
+4,3:16,DAL,Markieff Morris,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,97,121,0.001,0.001,3:21
+4,57.0,DAL,A.J. Lawson,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,Suyash Mehta,CHA,103,130,0.001,0.001,1:06

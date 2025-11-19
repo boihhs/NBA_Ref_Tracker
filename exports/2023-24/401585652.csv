@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,UTAH,Johnny Juzang,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,0,2,0.774,0.747,11:09
+1,10:04,UTAH,Taylor Hendricks,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,6,5,0.808,0.779,10:04
+1,8:48,HOU,Fred VanVleet,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,12,7,0.828,0.839,9:04
+1,5:31,HOU,Dillon Brooks,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,22,16,0.844,0.844,5:41
+1,5:17,UTAH,John Collins,Offensive Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,22,16,0.857,0.844,5:23
+1,4:23,UTAH,John Collins,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,28,19,0.908,0.893,4:26
+1,3:19,HOU,Jock Landale,Offensive Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,32,19,0.922,0.93,3:27
+1,55.1,HOU,Fred VanVleet,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,43,21,0.969,0.975,1:08
+2,11:55,UTAH,Kris Dunn,Double Technical Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,47,21,0.988,0.988,12:00
+2,10:37,HOU,Jeff Green,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,49,23,0.984,0.988,10:49
+2,8:45,HOU,Reggie Bullock Jr.,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,53,32,0.974,0.974,8:56
+2,6:39,HOU,Jock Landale,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,56,35,0.975,0.969,6:39
+2,6:28,HOU,Jock Landale,Loose Ball Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,56,35,0.968,0.975,6:28
+2,4:22,HOU,Jae'Sean Tate,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,65,39,0.988,0.99,4:35
+2,3:57,HOU,Fred VanVleet,Loose Ball Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,67,41,0.988,0.991,3:57
+2,3:43,UTAH,Taylor Hendricks,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,69,43,0.993,0.991,3:43
+2,3:05,HOU,Amen Thompson,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,73,43,0.995,0.996,3:16
+2,1:57,UTAH,John Collins,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,76,49,0.996,0.995,2:07
+3,10:32,UTAH,Taylor Hendricks,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,87,60,0.997,0.996,10:41
+3,9:48,HOU,Dillon Brooks,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,92,60,0.998,0.999,10:13
+3,9:24,HOU,Jeff Green,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,92,61,0.998,0.998,9:24
+3,8:57,HOU,Amen Thompson,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,95,63,0.999,0.999,9:07
+3,8:01,HOU,Jeff Green,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,95,65,0.998,0.998,8:11
+3,6:36,UTAH,Johnny Juzang,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,95,71,0.997,0.995,6:40
+3,5:21,HOU,Amen Thompson,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,102,73,0.998,0.999,5:27
+3,5:10,UTAH,John Collins,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,102,75,0.999,0.998,5:21
+3,4:40,HOU,Jock Landale,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,104,75,0.999,0.999,4:52
+3,3:14,HOU,Dillon Brooks,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,104,80,0.994,0.996,3:22
+3,13.1,HOU,Jae'Sean Tate,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,122,87,0.999,0.999,30.1
+3,0.0,HOU,Jalen Green,Personal Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,122,89,0.999,0.999,0.0
+4,10:58,HOU,Jae'Sean Tate,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,124,93,0.999,0.999,11:11
+4,10:50,HOU,Jalen Green,Offensive Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,124,95,0.999,0.999,10:58
+4,10:30,HOU,Jalen Green,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,124,95,0.999,0.999,10:50
+4,8:35,HOU,Reggie Bullock Jr.,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,128,101,0.999,0.999,8:35
+4,7:03,HOU,Jock Landale,Offensive Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,130,105,0.999,0.999,7:17
+4,6:53,HOU,Aaron Holiday,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,130,105,0.999,0.999,7:03
+4,5:17,UTAH,Collin Sexton,Loose Ball Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,132,108,0.999,0.999,5:17
+4,4:06,UTAH,Walker Kessler,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,132,110,0.999,0.999,4:32
+4,2:48,HOU,Nate Williams,Shooting Foul,Foul,Mark Lindsay,Robert Hussey,John Butler,HOU,139,115,0.999,0.999,2:48

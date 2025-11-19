@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:55,CHI,Patrick Williams,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,0,9,0.126,0.125,9:11
+1,8:35,BOS,Al Horford,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,0,12,0.121,0.105,8:45
+1,6:15,BOS,Derrick White,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,6,20,0.092,0.084,6:15
+1,5:53,CHI,Ayo Dosunmu,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,7,20,0.072,0.084,6:15
+1,2:31,CHI,DeMar DeRozan,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,23,37,0.076,0.075,2:38
+1,2:10,BOS,Noah Vonleh,Offensive Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,23,37,0.084,0.075,2:10
+1,1:59,BOS,Malcolm Brogdon,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,23,37,0.101,0.084,2:10
+1,59.3,BOS,Noah Vonleh,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,26,39,0.113,0.096,1:02
+2,11:42,BOS,Noah Vonleh,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,30,39,0.162,0.148,11:42
+2,10:57,BOS,Noah Vonleh,Offensive Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,35,39,0.242,0.219,11:05
+2,9:43,BOS,Jayson Tatum,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,39,44,0.241,0.224,9:57
+2,8:51,BOS,Grant Williams,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,43,44,0.342,0.322,8:56
+2,8:09,BOS,Jaylen Brown,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,44,44,0.396,0.353,8:10
+2,7:37,CHI,Alex Caruso,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,46,44,0.383,0.328,7:48
+2,6:27,CHI,Goran Dragic,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,48,46,0.39,0.388,6:38
+2,6:00,BOS,Derrick White,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,48,46,0.446,0.423,6:16
+2,4:59,BOS,Derrick White,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,52,46,0.61,0.559,5:12
+2,1:21,CHI,Alex Caruso,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,60,49,0.68,0.724,1:27
+2,1:02,BOS,Jaylen Brown,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,62,49,0.833,0.785,1:02
+2,45.7,BOS,Malcolm Brogdon,Offensive Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,63,49,0.841,0.813,1:02
+2,29.3,BOS,Marcus Smart,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,63,49,0.876,0.841,45.7
+3,10:29,CHI,Ayo Dosunmu,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,67,56,0.71,0.753,10:42
+3,9:17,BOS,Jaylen Brown,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,69,60,0.741,0.74,9:28
+3,9:03,CHI,Ayo Dosunmu,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,69,60,0.709,0.708,9:07
+3,7:40,BOS,Marcus Smart,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,69,66,0.564,0.538,7:40
+3,7:21,BOS,Jayson Tatum,Technical Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,73,66,0.719,0.656,7:21
+3,4:56,CHI,Javonte Green,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,82,68,0.896,0.819,5:12
+3,4:53,CHI,Nikola Vucevic,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,82,68,0.862,0.896,4:56
+3,4:53,BOS,BOS,Technical Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,82,68,0.926,0.862,4:53
+3,4:53,BOS,BOS,Technical Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,83,68,0.939,0.93,4:53
+3,2:39,CHI,Andre Drummond,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,91,74,0.941,0.931,2:57
+3,2:10,BOS,Noah Vonleh,Loose Ball Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,93,76,0.97,0.972,2:10
+3,1:27,BOS,Jaylen Brown,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,93,79,0.962,0.944,1:36
+4,11:17,BOS,Derrick White,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,100,79,0.996,0.996,11:20
+4,10:31,CHI,Andre Drummond,Offensive Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,100,79,0.995,0.996,10:41
+4,10:13,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,100,81,0.987,0.994,10:13
+4,9:21,BOS,Jayson Tatum,Offensive Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,100,82,0.993,0.989,9:29
+4,9:03,BOS,Grant Williams,Offensive Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,100,82,0.994,0.991,9:05
+4,8:58,BOS,Grant Williams,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,100,82,0.997,0.994,9:03
+4,8:58,BOS,Grant Williams,Technical Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,100,82,0.995,0.997,8:58
+4,7:03,BOS,Marcus Smart,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,105,86,0.999,0.998,7:05
+4,6:46,CHI,Derrick Jones Jr.,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,107,86,0.999,0.999,7:03
+4,5:30,CHI,Nikola Vucevic,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,109,88,0.999,0.999,5:31
+4,5:27,CHI,Javonte Green,Personal Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,109,88,0.998,0.999,5:30
+4,2:00,CHI,Coby White,Shooting Foul,Foul,Marc Davis,Che Flores,Natalie Sago,CHI,116,99,0.999,0.999,2:06

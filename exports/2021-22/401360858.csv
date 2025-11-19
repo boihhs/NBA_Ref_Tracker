@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:07,MIN,Jarred Vanderbilt,Loose Ball Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,0,0,0.776,0.776,11:07
+1,9:27,LAL,Russell Westbrook,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,4,2,0.828,0.802,9:27
+1,8:40,LAL,Russell Westbrook,Technical Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,8,4,0.854,0.83,8:51
+1,8:15,LAL,Dwight Howard,Offensive Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,8,6,0.813,0.797,8:23
+1,7:35,MIN,Karl-Anthony Towns,Offensive Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,8,6,0.794,0.811,7:41
+1,7:09,LAL,Malik Monk,Loose Ball Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,8,6,0.808,0.809,7:09
+1,6:45,LAL,Dwight Howard,Personal Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,10,6,0.838,0.838,6:50
+1,4:42,LAL,Carmelo Anthony,Personal Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,12,10,0.824,0.8,4:50
+1,4:36,LAL,Carmelo Anthony,Defensive 3-Seconds Technical,Foul,John Goble,Michael Smith,Aaron Smith,MIN,12,10,0.793,0.824,4:42
+1,4:32,LAL,Wenyen Gabriel,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,13,10,0.838,0.815,4:36
+1,4:10,LAL,Talen Horton-Tucker,Personal Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,15,10,0.867,0.844,4:11
+1,3:52,MIN,Malik Beasley,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,17,10,0.836,0.86,4:10
+1,2:48,MIN,Taurean Prince,Personal Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,22,12,0.894,0.895,3:03
+1,2:12,MIN,Nathan Knight,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,22,14,0.847,0.868,2:17
+1,1:23,MIN,Taurean Prince,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,24,16,0.845,0.866,1:31
+2,11:38,MIN,Taurean Prince,Personal Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,31,17,0.932,0.935,12:00
+2,10:52,MIN,Nathan Knight,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,34,20,0.918,0.932,11:11
+2,10:30,LAL,Russell Westbrook,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,34,21,0.943,0.932,10:32
+2,10:01,MIN,Nathan Knight,Defensive 3-Seconds Technical,Foul,John Goble,Michael Smith,Aaron Smith,MIN,38,21,0.955,0.953,10:10
+2,9:01,LAL,Wenyen Gabriel,Loose Ball Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,43,23,0.974,0.974,9:01
+2,8:34,LAL,Wenyen Gabriel,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,43,23,0.98,0.97,8:42
+2,7:43,MIN,Anthony Edwards,Personal Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,45,26,0.966,0.966,7:54
+2,7:05,LAL,Avery Bradley,Personal Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,45,26,0.977,0.971,7:08
+2,5:51,MIN,Jaylen Nowell,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,51,26,0.984,0.988,6:04
+2,5:19,MIN,Karl-Anthony Towns,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,51,27,0.983,0.986,5:19
+2,4:26,LAL,Dwight Howard,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,53,33,0.98,0.973,4:26
+2,3:18,MIN,Nathan Knight,Loose Ball Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,54,37,0.946,0.957,3:18
+2,2:24,MIN,Jarred Vanderbilt,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,54,38,0.945,0.951,2:24
+2,45.1,LAL,Carmelo Anthony,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,62,44,0.978,0.97,48.7
+3,9:37,LAL,LeBron James,Loose Ball Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,69,50,0.981,0.981,9:37
+3,8:40,MIN,Patrick Beverley,Personal Take Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,69,53,0.959,0.959,8:41
+3,8:19,MIN,D'Angelo Russell,Technical Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,71,56,0.945,0.952,8:20
+3,7:42,MIN,Patrick Beverley,Personal Take Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,71,56,0.953,0.954,7:42
+3,7:06,LAL,LeBron James,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,71,58,0.958,0.946,7:19
+3,4:59,MIN,Jarred Vanderbilt,Personal Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,75,64,0.911,0.912,5:01
+3,3:43,LAL,Carmelo Anthony,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,78,66,0.958,0.943,3:46
+3,1:31,MIN,Nathan Knight,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,82,68,0.944,0.961,1:35
+3,53.3,MIN,Nathan Knight,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,84,70,0.956,0.964,53.3
+4,11:23,LAL,Russell Westbrook,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,86,79,0.913,0.874,11:37
+4,9:40,LAL,LeBron James,Offensive Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,91,85,0.857,0.822,9:51
+4,7:06,LAL,Avery Bradley,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,100,90,0.977,0.958,7:22
+4,6:37,LAL,LeBron James,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,102,90,0.99,0.982,6:38
+4,5:59,LAL,Malik Monk,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,104,90,0.996,0.993,6:08
+4,4:53,LAL,Carmelo Anthony,Offensive Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,108,92,0.998,0.997,5:01
+4,4:20,LAL,Dwight Howard,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,108,94,0.998,0.997,4:32
+4,3:29,MIN,Anthony Edwards,Personal Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,114,94,0.999,0.999,3:40
+4,2:55,MIN,Patrick Beverley,Technical Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,114,94,0.999,0.999,2:55
+4,2:24,LAL,Stanley Johnson,Shooting Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,114,97,0.999,0.999,2:46
+4,1:07,MIN,D'Angelo Russell,Personal Take Foul,Foul,John Goble,Michael Smith,Aaron Smith,MIN,121,102,0.999,0.999,1:11

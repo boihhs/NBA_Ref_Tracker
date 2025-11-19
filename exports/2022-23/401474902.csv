@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,5,3,0.58,0.539,10:37
+1,10:11,HOU,Alperen Sengun,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,6,3,0.605,0.588,10:11
+1,9:24,IND,Chris Duarte,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,11,3,0.649,0.685,9:44
+1,8:43,HOU,Jalen Green,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,11,7,0.614,0.614,9:00
+1,5:14,IND,Buddy Hield,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,21,20,0.472,0.512,5:29
+1,3:09,IND,Andrew Nembhard,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,23,28,0.352,0.348,3:15
+1,2:22,IND,Isaiah Jackson,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,25,31,0.285,0.324,2:30
+1,1:46,IND,Isaiah Jackson,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,27,32,0.308,0.35,1:59
+1,55.3,HOU,Bruno Fernando,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,29,36,0.341,0.293,55.3
+1,41.5,IND,Goga Bitadze,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,29,38,0.228,0.271,41.5
+2,11:46,IND,Andrew Nembhard,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,29,39,0.223,0.237,0.0
+2,10:11,HOU,Bruno Fernando,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,33,42,0.282,0.24,10:11
+2,9:58,IND,Terry Taylor,Defensive 3-Seconds Technical,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,34,42,0.268,0.262,10:11
+2,9:52,IND,Langston Galloway,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,34,43,0.237,0.238,9:58
+2,9:15,HOU,Bruno Fernando,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,38,46,0.305,0.259,9:15
+2,8:44,HOU,Eric Gordon,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,38,49,0.21,0.211,8:44
+2,7:40,HOU,Usman Garuba,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,40,49,0.293,0.256,7:49
+2,7:06,HOU,TyTy Washington Jr.,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,41,49,0.32,0.277,7:12
+2,5:30,HOU,KJ Martin,Loose Ball Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,45,54,0.286,0.246,5:30
+2,3:59,IND,T.J. McConnell,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,51,61,0.195,0.194,4:09
+2,3:51,HOU,Alperen Sengun,Loose Ball Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,51,61,0.254,0.217,3:51
+2,3:39,HOU,Jalen Green,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,53,61,0.31,0.266,3:40
+2,3:28,IND,Myles Turner,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,55,61,0.253,0.295,3:39
+2,1:21,IND,T.J. McConnell,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,57,72,0.07,0.09,1:29
+2,31.4,IND,Chris Duarte,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,57,79,0.017,0.03,31.4
+3,8:20,IND,Myles Turner,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,72,89,0.038,0.043,8:20
+3,6:48,IND,Chris Duarte,Defensive 3-Seconds Technical,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,78,91,0.09,0.087,7:05
+3,6:28,HOU,Alperen Sengun,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,78,94,0.077,0.058,6:44
+3,6:11,HOU,Tari Eason,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,79,94,0.068,0.068,6:11
+3,5:57,HOU,Jalen Green,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,79,94,0.067,0.068,6:11
+3,5:33,IND,Jalen Smith,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,82,94,0.072,0.097,5:52
+3,5:02,HOU,TyTy Washington Jr.,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,82,96,0.101,0.076,5:13
+3,3:52,IND,Andrew Nembhard,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,84,98,0.048,0.068,3:52
+3,3:22,IND,Kendall Brown,Loose Ball Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,86,99,0.048,0.067,3:22
+3,1:06,HOU,TyTy Washington Jr.,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,88,101,0.095,0.066,1:08
+4,10:01,IND,Andrew Nembhard,Offensive Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,94,105,0.056,0.076,10:15
+4,7:16,IND,Langston Galloway,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,100,111,0.034,0.037,7:21
+4,4:57,HOU,Usman Garuba,Loose Ball Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,103,113,0.043,0.04,4:57
+4,3:09,IND,Oshae Brissett,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,103,115,0.001,0.002,3:09
+4,3:01,HOU,Trevor Hudgins,Personal Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,103,118,0.001,0.001,3:09
+4,2:42,HOU,Josh Christopher,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,103,118,0.003,0.001,2:46
+4,49.5,IND,Deividas Sirvydis,Personal Take Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,110,120,0.001,0.001,56.6
+4,36.3,HOU,Tari Eason,Shooting Foul,Foul,Michael Smith,Matt Myers,Tyler Ford,IND,110,120,0.011,0.003,45.2

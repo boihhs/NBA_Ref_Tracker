@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:20,PHX,Eric Gordon,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,0,2,0.493,0.531,10:23
+1,9:11,DAL,Derrick Jones Jr.,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,3,5,0.552,0.553,9:19
+1,8:51,PHX,Devin Booker,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,3,5,0.488,0.526,9:03
+1,7:35,PHX,Drew Eubanks,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,7,10,0.459,0.498,7:51
+1,6:42,PHX,Eric Gordon,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,11,12,0.508,0.548,6:49
+1,5:19,DAL,Grant Williams,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,11,18,0.409,0.409,5:29
+1,1:54,PHX,Nassir Little,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,19,30,0.246,0.288,1:54
+1,1:41,DAL,Dereck Lively II,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,19,31,0.301,0.265,1:54
+1,1:08,PHX,Josh Okogie,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,22,31,0.27,0.307,1:16
+2,8:00,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,34,46,0.248,0.229,8:00
+2,7:47,DAL,Derrick Jones Jr.,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,36,46,0.322,0.279,7:50
+2,7:04,DAL,Grant Williams,Loose Ball Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,38,49,0.246,0.248,7:04
+2,7:00,PHX,Drew Eubanks,Offensive Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,38,49,0.222,0.246,7:04
+2,6:43,DAL,Luka Doncic,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,38,49,0.286,0.246,6:46
+2,6:01,DAL,Dante Exum,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,40,51,0.282,0.24,6:03
+2,5:32,DAL,Dante Exum,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,42,51,0.338,0.294,5:40
+2,3:51,PHX,Drew Eubanks,Loose Ball Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,44,54,0.23,0.231,3:51
+2,2:42,PHX,Grayson Allen,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,44,56,0.144,0.173,2:48
+2,2:30,DAL,Dwight Powell,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,44,58,0.185,0.155,2:42
+3,10:32,DAL,Luka Doncic,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,56,69,0.147,0.145,10:53
+3,9:29,PHX,Grayson Allen,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,62,71,0.192,0.212,9:29
+3,8:48,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,62,73,0.223,0.184,9:10
+3,5:59,DAL,Dante Exum,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,71,77,0.373,0.317,6:06
+3,5:23,PHX,Kevin Durant,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,74,77,0.33,0.389,5:33
+3,4:19,DAL,Dereck Lively II,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,77,82,0.406,0.344,4:33
+3,3:26,DAL,Dereck Lively II,Offensive Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,84,82,0.638,0.596,3:37
+3,2:59,PHX,Devin Booker,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,84,82,0.596,0.596,3:01
+3,2:54,PHX,Kevin Durant,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,84,82,0.53,0.596,2:59
+3,1:37,PHX,Devin Booker,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,89,84,0.661,0.717,1:54
+3,1:25,DAL,Grant Williams,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,89,85,0.783,0.282,6:22
+3,1:25,DAL,Grant Williams,Double Technical Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,89,85,0.71,0.705,1:25
+3,1:10,DAL,Grant Williams,Offensive Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,90,85,0.765,0.719,1:25
+4,11:06,DAL,Derrick Jones Jr.,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,94,91,0.771,0.698,11:22
+4,9:50,PHX,Chimezie Metu,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,100,96,0.695,0.703,10:02
+4,8:46,PHX,Josh Okogie,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,102,101,0.441,0.545,8:54
+4,7:01,DAL,Tim Hardaway Jr.,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,104,106,0.432,0.414,7:01
+4,6:39,PHX,Grayson Allen,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,104,106,0.249,0.353,6:46
+4,5:39,DAL,Tim Hardaway Jr.,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,104,110,0.189,0.175,5:49
+4,4:58,PHX,Devin Booker,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,106,113,0.052,0.093,5:07
+4,3:56,PHX,Grayson Allen,Personal Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,110,115,0.084,0.138,3:57
+4,1:43,PHX,Eric Gordon,Shooting Foul,Foul,James Capers,Kevin Cutler,Natalie Sago,PHX,112,121,0.003,0.01,2:00

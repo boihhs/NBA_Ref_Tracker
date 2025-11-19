@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:35,PHI,Robert Covington,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,3,0,0.498,0.535,10:39
+1,8:31,PHI,Joel Embiid,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,10,10,0.442,0.486,8:31
+1,4:57,BOS,Dalano Banton,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,16,20,0.422,0.383,5:18
+1,1:33,BOS,Dalano Banton,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,18,30,0.207,0.195,1:33
+1,3.0,PHI,Patrick Beverley,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,22,35,0.128,0.152,4.0
+2,10:35,BOS,Jayson Tatum,Personal Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,27,41,0.146,0.146,10:46
+2,8:38,PHI,Jaden Springer,Offensive Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,32,45,0.14,0.161,8:51
+2,8:28,PHI,Tyrese Maxey,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,32,45,0.117,0.14,8:38
+2,6:59,PHI,Tyrese Maxey,Technical Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,36,47,0.158,0.192,6:59
+2,5:38,BOS,Derrick White,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,40,47,0.329,0.286,5:40
+2,2:34,BOS,Sam Hauser,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,50,52,0.458,0.401,2:34
+2,1:25,PHI,Tyrese Maxey,Personal Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,53,54,0.384,0.432,1:28
+2,1:23,BOS,Derrick White,Offensive Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,53,54,0.47,0.384,1:25
+3,10:36,BOS,Derrick White,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,60,57,0.639,0.614,10:36
+3,9:23,BOS,Al Horford,Personal Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,62,60,0.58,0.581,9:31
+3,8:43,PHI,Joel Embiid,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,62,63,0.374,0.432,8:46
+3,3:59,PHI,De'Anthony Melton,Personal Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,73,75,0.384,0.382,4:09
+3,2:10,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,73,80,0.276,0.221,2:25
+3,1:32,BOS,Svi Mykhailiuk,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,75,80,0.356,0.293,1:44
+3,2.1,PHI,Joel Embiid,Personal Take Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,75,83,0.102,0.141,11.1
+4,11:29,PHI,Jaden Springer,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,77,83,0.138,0.197,11:45
+4,11:12,BOS,Svi Mykhailiuk,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,77,85,0.22,0.157,11:29
+4,10:09,BOS,Luke Kornet,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,81,87,0.305,0.225,10:15
+4,9:25,BOS,Svi Mykhailiuk,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,82,89,0.263,0.185,9:38
+4,7:22,PHI,Paul Reed,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,90,94,0.174,0.255,7:31
+4,6:00,BOS,Luke Kornet,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,96,99,0.455,0.342,6:08
+4,5:10,PHI,De'Anthony Melton,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,98,101,0.222,0.347,5:10
+4,3:14,PHI,De'Anthony Melton,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,100,105,0.075,0.137,3:19
+4,2:09,BOS,Sam Hauser,Shooting Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,104,110,0.136,0.066,2:09
+4,29.1,PHI,Tyrese Maxey,Personal Take Foul,Foul,Ed Malloy,Pat Fraher,CJ Washington,PHI,107,115,0.001,0.004,35.1

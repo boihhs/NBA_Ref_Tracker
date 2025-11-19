@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:33,ATL,Kevin Huerter,Personal Take Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,6,2,0.615,0.617,10:36
+1,3:52,CLE,Kevin Love,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,26,14,0.786,0.786,4:03
+1,3:09,ATL,Trae Young,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,26,14,0.837,0.809,3:24
+1,1:00,CLE,Rajon Rondo,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,32,20,0.763,0.793,1:04
+1,34.1,ATL,Onyeka Okongwu,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,32,23,0.789,0.753,44.0
+2,10:35,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,38,25,0.854,0.842,10:42
+2,9:24,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,39,27,0.825,0.828,9:46
+2,9:17,CLE,Caris LeVert,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,39,27,0.808,0.806,9:17
+2,8:20,CLE,Kevin Love,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,39,29,0.749,0.744,8:20
+2,8:13,ATL,Kevin Huerter,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,39,30,0.767,0.72,8:20
+2,6:27,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,44,37,0.761,0.724,6:43
+2,6:07,CLE,Lauri Markkanen,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,44,37,0.698,0.697,6:09
+2,5:57,ATL,Danilo Gallinari,Offensive Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,44,37,0.726,0.698,6:07
+2,5:08,CLE,Lauri Markkanen,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,46,39,0.655,0.7,5:11
+2,1:47,CLE,Evan Mobley,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,53,46,0.665,0.712,1:52
+2,30.7,ATL,Clint Capela,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,59,49,0.857,0.822,46.3
+2,9.2,CLE,Isaac Okoro,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,61,49,0.811,0.846,30.7
+3,11:28,ATL,Onyeka Okongwu,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,61,54,0.751,0.755,11:42
+3,9:19,CLE,Evan Mobley,Defensive 3-Seconds Technical,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,67,58,0.797,0.788,9:31
+3,8:57,ATL,Kevin Huerter,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,67,59,0.791,0.791,9:15
+3,6:17,ATL,Kevin Huerter,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,71,65,0.744,0.746,6:23
+3,4:52,ATL,Onyeka Okongwu,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,73,65,0.838,0.788,4:52
+3,4:42,CLE,Evan Mobley,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,74,65,0.771,0.816,4:52
+3,3:21,CLE,Lauri Markkanen,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,76,69,0.763,0.766,3:21
+3,40.0,CLE,Jarrett Allen,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,82,80,0.501,0.573,46.0
+3,34.9,CLE,Jarrett Allen,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,82,80,0.501,0.501,40.0
+3,6.1,CLE,Caris LeVert,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,84,82,0.501,0.573,19.5
+4,11:44,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,84,84,0.615,0.5,12:00
+4,11:32,ATL,Gorgui Dieng,Offensive Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,86,84,0.632,0.583,11:44
+4,9:23,CLE,Lauri Markkanen,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,86,84,0.531,0.587,9:43
+4,7:20,CLE,Rajon Rondo,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,86,90,0.227,0.241,7:24
+4,5:33,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,88,95,0.201,0.125,5:34
+4,4:36,ATL,Danilo Gallinari,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,92,95,0.344,0.32,4:42
+4,3:21,ATL,Onyeka Okongwu,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,94,100,0.231,0.141,3:38
+4,1:27,ATL,De'Andre Hunter,Shooting Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,97,100,0.441,0.298,1:33
+4,51.3,CLE,Caris LeVert,Personal Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,99,102,0.086,0.178,53.3
+4,23.8,CLE,Evan Mobley,Personal Take Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,99,102,0.054,0.119,25.8
+4,13.7,CLE,Evan Mobley,Personal Take Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,99,104,0.005,0.02,13.7
+4,10.5,CLE,Caris LeVert,Personal Take Foul,Foul,Zach Zarba,Eric Lewis,Tre Maddox,CLE,101,106,0.003,0.017,11.6

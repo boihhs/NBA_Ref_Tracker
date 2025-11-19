@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:09,PHI,Joel Embiid,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,5,2,0.546,0.582,10:29
+1,7:22,DEN,Monte Morris,Personal Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,14,10,0.634,0.634,7:36
+1,2:04,DEN,JaMychal Green,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,31,20,0.817,0.802,2:32
+1,1:25,DEN,DeMarcus Cousins,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,31,22,0.795,0.763,1:45
+1,10.7,DEN,Bryn Forbes,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,35,22,0.868,0.843,29.5
+2,11:45,PHI,Tyrese Maxey,Personal Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,37,22,0.864,0.867,12:00
+2,10:05,DEN,DeMarcus Cousins,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,37,22,0.893,0.882,10:05
+2,9:21,DEN,Bryn Forbes,Loose Ball Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,39,24,0.885,0.885,9:21
+2,8:59,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,39,24,0.844,0.87,9:04
+2,8:23,DEN,Austin Rivers,Personal Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,39,27,0.837,0.838,8:27
+2,5:43,DEN,Will Barton,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,44,32,0.873,0.847,5:44
+2,5:28,PHI,Matisse Thybulle,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,46,32,0.838,0.865,5:43
+2,5:10,PHI,DeAndre Jordan,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,48,34,0.84,0.866,5:17
+2,4:52,DEN,Will Barton,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,48,35,0.893,0.867,5:10
+2,3:01,DEN,Aaron Gordon,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,54,35,0.961,0.939,3:56
+2,1:56,PHI,Joel Embiid,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,57,43,0.866,0.898,1:56
+2,1:41,PHI,Georges Niang,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,58,46,0.827,0.845,1:41
+3,10:01,PHI,Matisse Thybulle,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,61,57,0.582,0.633,10:24
+3,7:29,DEN,Jeff Green,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,65,66,0.519,0.45,7:29
+3,7:12,DEN,Jeff Green,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,66,66,0.586,0.529,7:15
+3,6:35,DEN,Nikola Jokic,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,68,66,0.663,0.608,6:42
+3,5:14,PHI,Matisse Thybulle,Personal Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,74,69,0.687,0.686,5:23
+3,3:01,DEN,Monte Morris,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,79,73,0.82,0.773,3:06
+3,58.5,DEN,Austin Rivers,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,84,77,0.865,0.821,1:05
+3,39.9,PHI,DeAndre Jordan,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,86,77,0.804,0.85,58.5
+3,2.8,DEN,JaMychal Green,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,86,81,0.813,0.754,21.8
+4,11:31,DEN,Bryn Forbes,Offensive Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,88,81,0.838,0.799,11:44
+4,10:22,DEN,DeMarcus Cousins,Shooting Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,88,84,0.804,0.732,10:39
+4,8:53,DEN,Austin Rivers,Personal Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,92,92,0.556,0.538,9:01
+4,7:04,DEN,DeMarcus Cousins,Personal Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,95,97,0.445,0.425,7:19
+4,7:04,DEN,DeMarcus Cousins,Double Technical Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,95,97,0.414,0.445,7:04
+4,5:36,DEN,DeMarcus Cousins,Offensive Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,99,103,0.287,0.236,5:51
+4,4:53,DEN,JaMychal Green,Personal Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,101,103,0.535,0.411,4:59
+4,3:13,DEN,JaMychal Green,Flagrant Foul Type 1,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,103,107,0.241,0.263,3:18
+4,2:41,PHI,Joel Embiid,Personal Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,106,107,0.397,0.405,3:00
+4,2:15,DEN,JaMychal Green,Personal Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,106,107,0.618,0.485,2:30
+4,14.7,PHI,Tyrese Maxey,Personal Take Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,110,112,0.072,0.197,17.8
+4,14.4,PHI,Matisse Thybulle,Personal Take Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,110,112,0.071,0.072,14.7
+4,0.0,PHI,Georges Niang,Personal Foul,Foul,Matt Boland,Eric Lewis,J.B. DeRosa,PHI,110,113,0.0,0.01,1.3

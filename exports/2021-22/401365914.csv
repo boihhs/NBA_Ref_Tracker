@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:56,TOR,Scottie Barnes,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,0,0,0.51,0.509,12:00
+1,7:51,TOR,Scottie Barnes,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,10,8,0.558,0.564,8:12
+1,5:27,PHI,Seth Curry,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,16,15,0.514,0.511,5:31
+1,3:23,TOR,Gary Trent Jr.,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,20,18,0.569,0.569,3:24
+1,3:02,PHI,Seth Curry,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,20,18,0.541,0.54,3:10
+1,2:34,TOR,Freddie Gillespie,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,20,18,0.568,0.569,2:45
+1,2:09,TOR,Justin Champagnie,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,22,18,0.663,0.625,2:16
+1,1:17,PHI,Isaiah Joe,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,24,20,0.557,0.599,1:23
+2,11:09,PHI,Tyrese Maxey,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,30,22,0.67,0.708,11:10
+2,8:17,TOR,Scottie Barnes,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,44,33,0.825,0.79,8:17
+2,7:46,TOR,Svi Mykhailiuk,Loose Ball Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,44,35,0.769,0.768,7:46
+2,7:33,TOR,Scottie Barnes,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,46,35,0.827,0.792,7:33
+2,7:21,PHI,Isaiah Joe,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,47,35,0.814,0.812,7:33
+2,6:24,PHI,Isaiah Joe,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,49,38,0.797,0.794,6:50
+2,6:02,TOR,Precious Achiuwa,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,49,38,0.848,0.819,6:13
+2,5:49,PHI,Shake Milton,Loose Ball Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,51,38,0.809,0.839,5:49
+2,5:06,TOR,Precious Achiuwa,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,51,43,0.789,0.751,5:19
+2,4:03,PHI,Seth Curry,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,52,43,0.717,0.758,4:05
+2,3:16,PHI,Joel Embiid,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,55,49,0.651,0.704,3:16
+3,11:28,TOR,OG Anunoby,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,71,55,0.947,0.93,11:39
+3,10:44,PHI,Seth Curry,Offensive Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,73,55,0.945,0.955,10:52
+3,9:17,TOR,Goran Dragic,Offensive Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,76,60,0.94,0.928,9:20
+3,6:06,TOR,Precious Achiuwa,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,80,66,0.931,0.932,6:06
+3,4:43,TOR,OG Anunoby,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,80,68,0.931,0.907,4:59
+3,3:26,PHI,Georges Niang,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,84,70,0.907,0.944,3:35
+3,2:42,TOR,Justin Champagnie,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,86,74,0.943,0.921,2:52
+3,6.7,PHI,Georges Niang,Personal Take Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,98,80,0.976,0.984,26.4
+4,11:31,PHI,Tyrese Maxey,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,98,80,0.985,0.987,11:34
+4,10:00,PHI,Tyrese Maxey,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,100,82,0.981,0.99,10:02
+4,9:26,PHI,Georges Niang,Personal Take Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,102,84,0.989,0.991,9:26
+4,8:26,PHI,Tyrese Maxey,Offensive Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,105,89,0.986,0.988,8:46
+4,8:03,TOR,Svi Mykhailiuk,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,105,89,0.994,0.991,8:03
+4,7:07,PHI,Aaron Henry,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,112,89,0.998,0.999,7:22
+4,6:32,PHI,Jaden Springer,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,112,91,0.998,0.999,6:32
+4,5:42,PHI,Jaden Springer,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,115,95,0.997,0.998,5:54
+4,5:33,TOR,Scottie Barnes,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,115,95,0.999,0.999,5:39
+4,4:24,PHI,Aaron Henry,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,117,100,0.996,0.998,4:27
+4,4:11,PHI,Shaquille Harrison,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,117,102,0.99,0.996,4:13
+4,3:42,PHI,Paul Reed,Offensive Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,117,106,0.976,0.984,3:51
+4,3:25,PHI,Shaquille Harrison,Offensive Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,117,106,0.979,0.987,3:27
+4,3:12,TOR,Malachi Flynn,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,117,106,0.99,0.988,3:14
+4,2:51,TOR,Dalano Banton,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,121,106,0.998,0.998,2:51
+4,1:33,PHI,Shaquille Harrison,Offensive Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,122,108,0.999,0.999,1:43
+4,1:19,TOR,Isaac Bonga,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,122,108,0.999,0.999,1:19
+4,1:08,PHI,Charles Bassey,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Evan Scott,PHI,123,108,0.999,0.999,1:19

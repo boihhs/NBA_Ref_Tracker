@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:22,GS,Kevon Looney,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,5,5,0.256,0.256,9:22
+1,8:56,GS,Stephen Curry,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,5,7,0.249,0.22,9:11
+1,8:18,ORL,Paolo Banchero,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,8,7,0.263,0.261,8:30
+1,6:41,GS,Draymond Green,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,8,18,0.111,0.111,6:49
+1,6:41,GS,Draymond Green,Technical Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,8,18,0.119,0.111,6:41
+1,4:59,ORL,Chuma Okeke,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,17,23,0.152,0.152,5:05
+1,4:39,GS,James Wiseman,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,17,25,0.161,0.139,4:52
+1,3:53,GS,JaMychal Green,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,22,25,0.252,0.223,3:58
+1,3:14,GS,Jordan Poole,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,23,25,0.276,0.243,3:20
+1,2:30,GS,JaMychal Green,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,26,25,0.353,0.317,2:30
+1,2:16,ORL,Bol Bol,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,27,25,0.317,0.316,2:26
+1,1:53,GS,Moses Moody,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,27,27,0.333,0.294,2:02
+1,1:11,ORL,Kevon Harris,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,27,27,0.241,0.274,1:23
+2,10:40,ORL,R.J. Hampton,Away from Play Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,32,32,0.288,0.287,10:40
+2,10:35,ORL,Kevon Harris,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,32,33,0.232,0.287,10:40
+2,9:39,GS,Andrew Wiggins,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,32,36,0.224,0.225,9:41
+2,7:27,ORL,Mo Bamba,Offensive Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,38,42,0.209,0.231,7:36
+2,7:12,ORL,Chuma Okeke,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,38,44,0.158,0.19,7:12
+2,5:59,ORL,Jalen Suggs,Offensive Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,40,47,0.154,0.173,6:11
+2,3:47,GS,Klay Thompson,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,44,54,0.148,0.122,3:59
+2,3:19,GS,Draymond Green,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,46,54,0.156,0.157,3:33
+2,2:55,ORL,Jalen Suggs,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,46,54,0.127,0.138,2:55
+2,1:47,GS,Andrew Wiggins,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,50,57,0.212,0.177,1:47
+2,1:20,GS,Stephen Curry,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,50,60,0.147,0.122,1:31
+2,4.7,GS,Draymond Green,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,53,65,0.104,0.08,4.7
+3,11:32,GS,Kevon Looney,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,53,65,0.101,0.089,11:32
+3,11:06,GS,Kevon Looney,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,55,67,0.09,0.089,11:22
+3,10:34,GS,Draymond Green,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,57,70,0.075,0.076,10:45
+3,9:28,ORL,Jalen Suggs,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,60,73,0.062,0.063,9:39
+3,8:25,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,62,78,0.034,0.042,8:37
+3,7:30,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,66,80,0.042,0.057,7:30
+3,5:36,GS,Andrew Wiggins,Offensive Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,72,84,0.077,0.065,5:53
+3,5:01,GS,Kevon Looney,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,74,84,0.124,0.109,5:01
+3,4:28,ORL,Franz Wagner,Offensive Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,75,87,0.061,0.075,4:45
+3,3:42,GS,Kevon Looney,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,79,90,0.1,0.071,3:42
+3,3:22,GS,JaMychal Green,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,80,90,0.136,0.103,3:26
+3,2:45,GS,James Wiseman,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,81,90,0.158,0.122,2:45
+3,1:53,GS,Moses Moody,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,83,93,0.13,0.098,1:54
+3,45.2,GS,James Wiseman,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,90,96,0.226,0.165,45.2
+3,45.2,GS,James Wiseman,Technical Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,90,96,0.226,0.226,45.2
+3,8.1,ORL,R.J. Hampton,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,96,98,0.249,0.311,12.0
+4,11:45,GS,Jordan Poole,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,96,98,0.374,0.33,12:00
+4,11:30,GS,JaMychal Green,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,96,98,0.418,0.366,11:30
+4,11:06,GS,Draymond Green,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,98,98,0.573,0.475,11:16
+4,10:07,GS,Klay Thompson,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,102,102,0.583,0.489,10:24
+4,8:21,GS,Ty Jerome,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,106,104,0.709,0.625,8:25
+4,8:21,GS,GS,Technical Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,107,104,0.722,0.722,8:21
+4,8:13,ORL,Caleb Houstan,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,107,104,0.615,0.626,8:21
+4,8:05,ORL,R.J. Hampton,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,107,104,0.606,0.615,8:13
+4,7:53,GS,JaMychal Green,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,107,104,0.755,0.677,7:55
+4,4:29,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,115,112,0.599,0.745,4:29
+4,4:29,ORL,Wendell Carter Jr.,Technical Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,115,112,0.613,0.599,4:29
+4,3:27,ORL,Jalen Suggs,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,117,116,0.455,0.618,3:27
+4,1:35,ORL,Franz Wagner,Shooting Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,122,120,0.489,0.62,1:48
+4,1:18,GS,Stephen Curry,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,124,123,0.775,0.643,1:18
+4,31.5,GS,Draymond Green,Personal Foul,Foul,Marat Kogut,Scott Foster,Jonathan Sterling,ORL,129,126,0.932,0.867,31.5

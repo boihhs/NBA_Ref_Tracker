@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:26,LAC,Paul George,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,2,6,0.825,0.851,10:26
+1,7:58,LAC,Paul George,Loose Ball Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,10,12,0.849,0.849,7:58
+1,7:57,CHA,Nick Richards,Offensive Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,10,12,0.862,0.849,7:58
+1,6:35,CHA,Miles Bridges,Loose Ball Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,13,12,0.889,0.888,6:35
+1,6:16,LAC,Terance Mann,Personal Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,13,12,0.877,0.876,6:21
+1,1:08,CHA,P.J. Washington,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,22,24,0.841,0.82,1:22
+2,11:28,CHA,Bryce McGowens,Personal Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,26,27,0.823,0.826,11:39
+2,11:22,CHA,P.J. Washington,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,26,27,0.846,0.823,11:28
+2,9:47,CHA,Nick Smith Jr.,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,32,27,0.907,0.888,9:47
+2,9:17,LAC,Russell Westbrook,Personal Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,33,27,0.896,0.896,9:17
+2,7:29,LAC,Norman Powell,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,35,29,0.871,0.892,7:47
+2,4:33,CHA,Gordon Hayward,Loose Ball Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,41,37,0.888,0.868,4:47
+2,3:57,CHA,Cody Martin,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,46,39,0.913,0.893,3:57
+2,3.1,LAC,Paul George,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,55,49,0.853,0.866,3.1
+3,10:51,LAC,Terance Mann,Offensive Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,57,54,0.802,0.825,11:00
+3,10:23,CHA,Miles Bridges,Loose Ball Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,57,54,0.821,0.822,10:23
+3,10:17,CHA,Bryce McGowens,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,57,54,0.851,0.821,10:23
+3,8:12,CHA,Nick Richards,Personal Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,60,59,0.756,0.758,8:19
+3,7:45,CHA,Terry Rozier,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,62,59,0.841,0.808,7:48
+3,7:34,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,64,59,0.793,0.83,7:45
+3,5:59,CHA,Miles Bridges,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,70,63,0.912,0.887,6:12
+3,4:40,LAC,Paul George,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,75,65,0.896,0.919,5:01
+3,4:04,CHA,Gordon Hayward,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,75,67,0.927,0.905,4:05
+3,3:39,LAC,James Harden,Offensive Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,77,67,0.92,0.934,3:46
+3,3:14,CHA,Ish Smith,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,77,67,0.944,0.935,3:18
+3,2:12,CHA,P.J. Washington,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,79,73,0.883,0.84,2:12
+4,9:29,LAC,Daniel Theis,Technical Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,84,91,0.175,0.253,9:29
+4,8:13,CHA,Nick Smith Jr.,Personal Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,87,93,0.287,0.278,8:19
+4,7:42,CHA,Nick Smith Jr.,Personal Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,89,93,0.397,0.382,7:46
+4,7:07,CHA,Bryce McGowens,Personal Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,91,93,0.523,0.503,7:17
+4,3:52,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,103,93,0.951,0.975,3:58
+4,3:08,CHA,Cody Martin,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,103,97,0.964,0.926,3:27
+4,2:52,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,103,97,0.872,0.907,2:52
+4,2:30,LAC,Russell Westbrook,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,106,99,0.876,0.941,2:35
+4,2:14,CHA,Miles Bridges,Shooting Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,106,100,0.973,0.942,2:30
+4,1:15,CHA,Terry Rozier,Personal Take Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,111,102,0.998,0.994,1:21
+4,1:01,CHA,Miles Bridges,Personal Take Foul,Foul,Scott Foster,Karl Lane,John Conley,LAC,112,102,0.999,0.998,1:02

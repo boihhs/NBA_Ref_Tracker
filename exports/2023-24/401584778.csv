@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:28,MIA,Bam Adebayo,Hanging Technical Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,12,8,0.696,0.689,8:29
+1,7:59,LAL,Taurean Prince,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,12,9,0.689,0.691,8:13
+1,7:46,MIA,Kyle Lowry,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,12,9,0.63,0.666,7:47
+1,7:32,LAL,D'Angelo Russell,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,12,11,0.659,0.641,7:33
+1,7:32,MIA,Kyle Lowry,Technical Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,13,11,0.623,0.683,7:32
+1,6:27,MIA,Haywood Highsmith,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,14,18,0.462,0.51,6:27
+1,5:01,LAL,D'Angelo Russell,Offensive Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,18,23,0.475,0.448,5:16
+1,3:24,LAL,Anthony Davis,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,23,25,0.594,0.556,3:31
+1,50.1,LAL,Max Christie,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,28,31,0.559,0.519,59.1
+1,22.0,MIA,Josh Richardson,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,31,31,0.528,0.573,33.0
+1,0.1,LAL,Max Christie,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,31,33,0.586,0.545,13.0
+2,9:49,MIA,Thomas Bryant,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,40,35,0.665,0.704,10:01
+2,8:58,MIA,Josh Richardson,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,40,37,0.652,0.65,9:12
+2,7:49,MIA,Josh Richardson,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,44,41,0.632,0.677,7:49
+2,6:22,LAL,LeBron James,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,47,45,0.649,0.65,6:22
+2,4:17,MIA,Bam Adebayo,Offensive Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,49,49,0.551,0.587,4:36
+2,3:46,LAL,Anthony Davis,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,49,49,0.586,0.586,3:59
+2,3:00,LAL,Anthony Davis,Defensive 3-Seconds Technical,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,51,52,0.539,0.549,3:18
+3,8:42,LAL,Austin Reaves,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,71,69,0.668,0.607,8:42
+3,7:54,LAL,Taurean Prince,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,72,71,0.603,0.605,8:11
+3,7:32,MIA,Haywood Highsmith,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,72,71,0.567,0.566,7:45
+3,7:14,LAL,LeBron James,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,72,71,0.604,0.604,7:19
+3,3:49,MIA,Kyle Lowry,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,85,74,0.857,0.889,4:04
+3,39.1,LAL,Christian Wood,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,87,77,0.925,0.911,39.1
+3,39.1,LAL,LAL,Technical Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,87,77,0.925,0.925,39.1
+4,11:49,LAL,Taurean Prince,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,90,79,0.94,0.93,12:00
+4,10:58,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,92,81,0.921,0.926,11:06
+4,10:40,LAL,Taurean Prince,Loose Ball Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,92,81,0.947,0.943,10:41
+4,7:52,LAL,D'Angelo Russell,Technical Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,98,88,0.959,0.93,7:52
+4,7:52,LAL,D'Angelo Russell,Technical Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,98,88,0.959,0.959,7:52
+4,7:24,MIA,Duncan Robinson,Offensive Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,100,90,0.913,0.934,7:39
+4,7:12,MIA,Bam Adebayo,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,100,90,0.862,0.913,7:24
+4,5:51,MIA,Tyler Herro,Technical Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,100,94,0.8,0.832,5:57
+4,4:39,LAL,Christian Wood,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,103,97,0.922,0.886,5:02
+4,3:50,LAL,LeBron James,Personal Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,107,99,0.978,0.955,3:58
+4,3:50,LAL,LAL,Delay Technical,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,107,99,0.954,0.939,3:50
+4,2:39,MIA,Josh Richardson,Shooting Foul,Foul,James Williams,Natalie Sago,Brent Haskill,MIA,108,106,0.567,0.744,2:39

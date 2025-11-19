@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:41,SAC,Tyrese Haliburton,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,8,2,0.817,0.795,8:44
+1,8:31,CLE,Darius Garland,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,10,2,0.796,0.809,8:31
+1,8:18,SAC,De'Aaron Fox,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,10,3,0.832,0.81,8:28
+1,7:09,CLE,Evan Mobley,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,14,5,0.799,0.824,7:19
+1,5:21,CLE,Kevin Love,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,20,10,0.84,0.857,5:21
+1,3:24,SAC,Buddy Hield,Personal Take Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,24,15,0.831,0.839,3:24
+1,1:43,CLE,Cedi Osman,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,29,17,0.846,0.869,1:56
+2,10:34,CLE,Ricky Rubio,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,39,27,0.873,0.873,10:41
+2,8:48,CLE,Kevin Love,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,43,31,0.862,0.874,8:55
+2,8:11,CLE,Lauri Markkanen,Offensive Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,43,32,0.858,0.874,8:24
+2,7:42,SAC,Tyrese Haliburton,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,43,34,0.867,0.843,8:01
+2,7:36,SAC,Maurice Harkless,Offensive Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,45,34,0.875,0.859,7:42
+2,7:26,SAC,De'Aaron Fox,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,47,34,0.903,0.888,7:26
+2,6:54,CLE,Isaac Okoro,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,50,37,0.89,0.889,6:59
+2,6:14,SAC,Maurice Harkless,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,53,37,0.932,0.926,6:29
+2,6:07,CLE,Ricky Rubio,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,55,37,0.945,0.936,6:20
+2,5:34,SAC,Alex Len,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,55,39,0.949,0.937,5:59
+2,4:50,SAC,Terence Davis,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,57,41,0.95,0.938,4:53
+2,3:39,CLE,Lauri Markkanen,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,63,47,0.931,0.941,3:39
+2,3:06,SAC,Terence Davis,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,65,48,0.946,0.95,3:07
+2,3:06,SAC,Terence Davis,Technical Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,65,48,0.955,0.95,3:06
+2,1:42,CLE,Cedi Osman,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,75,48,0.988,0.991,1:45
+3,11:47,SAC,Marvin Bagley III,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,81,52,0.997,0.996,12:00
+3,10:23,CLE,Evan Mobley,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,81,56,0.989,0.993,10:23
+3,9:02,SAC,Alex Len,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,81,60,0.984,0.984,9:16
+3,7:54,CLE,Lauri Markkanen,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,83,64,0.973,0.978,7:54
+3,6:51,SAC,Alex Len,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,86,65,0.991,0.988,6:57
+3,3:26,SAC,Davion Mitchell,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,93,70,0.997,0.995,3:38
+3,2:59,SAC,Chimezie Metu,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,93,70,0.995,0.996,3:09
+3,2:36,CLE,Kevin Love,Offensive Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,94,72,0.993,0.995,2:45
+3,1:11,SAC,Terence Davis,Defensive 3-Seconds Technical,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,97,74,0.997,0.997,1:24
+3,6.2,CLE,Ricky Rubio,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,101,76,0.998,0.999,24.4
+4,11:52,CLE,Lauri Markkanen,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,101,78,0.997,0.998,12:00
+4,11:45,CLE,Lauri Markkanen,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,101,78,0.997,0.997,11:52
+4,11:45,CLE,CLE,Technical Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,101,78,0.996,0.997,11:45
+4,11:10,CLE,Ricky Rubio,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,101,79,0.996,0.996,11:13
+4,11:04,CLE,Cedi Osman,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,101,79,0.994,0.996,11:10
+4,9:37,CLE,Evan Mobley,Loose Ball Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,101,83,0.992,0.99,9:37
+4,9:26,SAC,Terence Davis,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,101,85,0.993,0.987,9:37
+4,7:44,CLE,Darius Garland,Offensive Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,103,90,0.967,0.977,7:55
+4,6:36,SAC,Buddy Hield,Loose Ball Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,103,93,0.974,0.951,6:36
+4,6:25,SAC,Chimezie Metu,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,103,93,0.958,0.974,6:36
+4,6:00,CLE,Darius Garland,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,103,95,0.872,0.922,6:00
+4,5:34,SAC,Terence Davis,Offensive Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,105,96,0.948,0.926,5:43
+4,4:53,CLE,Lauri Markkanen,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,105,96,0.936,0.936,4:54
+4,4:12,SAC,Terence Davis,Shooting Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,105,97,0.971,0.94,4:30
+4,2:07,SAC,Damian Jones,Personal Foul,Foul,Eric Lewis,Bennie Adams,Mark Lindsay,CLE,110,99,0.998,0.996,2:08

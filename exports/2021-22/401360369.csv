@@ -1,0 +1,28 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:40,OKC,Ty Jerome,Personal Foul,Foul,,,,OKC,0,0,0.283,0.282,12:00
+1,10:47,DAL,Maxi Kleber,Personal Take Foul,Foul,,,,OKC,0,2,0.263,0.264,10:48
+1,9:26,OKC,Isaiah Roby,Loose Ball Foul,Foul,,,,OKC,5,4,0.313,0.311,9:26
+1,2:55,OKC,Theo Maledon,Shooting Foul,Foul,,,,OKC,20,19,0.32,0.363,2:55
+1,1:56,OKC,Kenrich Williams,Shooting Foul,Foul,,,,OKC,20,20,0.282,0.318,2:01
+2,10:00,DAL,Sterling Brown,Personal Take Foul,Foul,,,,OKC,24,28,0.258,0.257,10:00
+2,9:13,DAL,Marquese Chriss,Shooting Foul,Foul,,,,OKC,24,28,0.296,0.26,9:15
+2,9:04,OKC,Aaron Wiggins,Personal Foul,Foul,,,,OKC,26,28,0.285,0.285,9:13
+2,7:50,OKC,Aleksej Pokusevski,Personal Foul,Foul,,,,OKC,29,33,0.24,0.239,7:54
+2,6:14,OKC,Aleksej Pokusevski,Personal Foul,Foul,,,,OKC,31,40,0.142,0.141,6:15
+2,5:43,DAL,Tim Hardaway Jr.,Personal Foul,Foul,,,,OKC,31,43,0.111,0.112,6:07
+2,3:56,OKC,Mike Muscala,Personal Foul,Foul,,,,OKC,34,43,0.117,0.141,4:13
+2,3:46,DAL,Maxi Kleber,Offensive Foul,Foul,,,,OKC,34,43,0.158,0.15,3:56
+2,23.1,DAL,Luka Doncic,Shooting Foul,Foul,,,,OKC,38,51,0.113,0.091,43.5
+3,10:09,OKC,Ty Jerome,Loose Ball Foul,Foul,,,,OKC,44,53,0.141,0.132,10:09
+3,9:49,OKC,Isaiah Roby,Shooting Foul,Foul,,,,OKC,44,53,0.108,0.141,10:09
+3,7:18,DAL,Jalen Brunson,Personal Foul,Foul,,,,OKC,50,58,0.171,0.171,7:21
+3,6:23,OKC,Aaron Wiggins,Personal Foul,Foul,,,,OKC,52,61,0.124,0.124,6:35
+3,5:13,DAL,Dorian Finney-Smith,Personal Foul,Foul,,,,OKC,52,61,0.142,0.144,5:23
+3,2:15,DAL,Marquese Chriss,Personal Foul,Foul,,,,OKC,60,70,0.106,0.109,2:32
+3,43.3,DAL,Marquese Chriss,Shooting Foul,Foul,,,,OKC,64,70,0.193,0.175,43.3
+4,8:30,OKC,Aaron Wiggins,Personal Foul,Foul,,,,OKC,68,81,0.019,0.021,8:35
+4,6:14,DAL,Dwight Powell,Shooting Foul,Foul,,,,OKC,72,85,0.033,0.018,6:29
+4,3:33,OKC,Theo Maledon,Personal Foul,Foul,,,,OKC,78,88,0.014,0.017,3:52
+4,1:19,DAL,Dwight Powell,Shooting Foul,Foul,,,,OKC,83,90,0.081,0.041,1:19
+4,13.4,OKC,Josh Giddey,Personal Take Foul,Foul,,,,OKC,86,93,0.001,0.003,15.7
+4,12.3,OKC,Aaron Wiggins,Personal Take Foul,Foul,,,,OKC,86,93,0.001,0.001,13.4

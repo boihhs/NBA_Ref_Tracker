@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:13,POR,Shaedon Sharpe,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,3,2,0.103,0.117,10:16
+1,9:45,SAC,De'Aaron Fox,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,5,4,0.15,0.131,9:48
+1,8:10,POR,Drew Eubanks,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,10,10,0.102,0.115,8:25
+1,6:30,SAC,Keegan Murray,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,14,18,0.093,0.093,6:41
+1,4:22,SAC,Domantas Sabonis,Loose Ball Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,19,25,0.082,0.082,4:22
+1,3:52,SAC,Kessler Edwards,Offensive Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,19,25,0.084,0.075,3:58
+1,3:11,POR,Shaquille Harrison,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,24,27,0.106,0.104,3:20
+1,0.2,POR,Shaquille Harrison,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,27,36,0.051,0.06,23.0
+2,11:37,SAC,Alex Len,Loose Ball Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,27,36,0.07,0.069,11:38
+2,10:51,POR,John Butler Jr.,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,29,36,0.066,0.078,11:09
+2,8:31,SAC,Malik Monk,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,38,47,0.075,0.074,8:50
+2,8:22,SAC,Malik Monk,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,38,47,0.09,0.075,8:31
+2,7:10,SAC,Trey Lyles,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,42,49,0.117,0.098,7:16
+2,6:53,POR,Drew Eubanks,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,43,49,0.082,0.099,7:07
+2,6:42,SAC,Kevin Huerter,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,43,49,0.133,0.112,6:50
+2,6:11,SAC,Keegan Murray,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,45,51,0.135,0.113,6:25
+2,5:10,SAC,Kevin Huerter,Defensive 3-Seconds Technical,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,45,54,0.078,0.08,5:25
+2,4:58,SAC,Kevin Huerter,Loose Ball Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,46,54,0.111,0.092,4:58
+2,4:42,SAC,Keegan Murray,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,47,54,0.126,0.092,4:49
+2,4:09,SAC,Keegan Murray,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,50,57,0.117,0.093,4:09
+2,2:03,POR,Matisse Thybulle,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,53,61,0.088,0.085,2:07
+3,10:11,SAC,De'Aaron Fox,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,62,74,0.074,0.057,10:14
+3,4:06,SAC,Malik Monk,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,76,92,0.027,0.017,4:06
+3,1:16,SAC,Trey Lyles,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,85,101,0.026,0.018,1:23
+3,1:08,SAC,Alex Len,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,85,101,0.026,0.026,1:16
+3,59.0,POR,Jabari Walker,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,86,101,0.011,0.017,1:05
+3,47.1,POR,Skylar Mays,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,86,101,0.01,0.011,59.0
+3,8.1,POR,John Butler Jr.,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,89,102,0.018,0.028,30.2
+4,10:04,POR,Shaquille Harrison,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,94,108,0.009,0.016,10:14
+4,8:47,SAC,De'Aaron Fox,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,99,110,0.046,0.042,8:49
+4,8:34,SAC,Harrison Barnes,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,99,110,0.074,0.046,8:47
+4,8:27,POR,Shaquille Harrison,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,101,110,0.056,0.06,8:34
+4,7:09,POR,Drew Eubanks,Offensive Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,103,113,0.036,0.053,7:26
+4,6:24,POR,Matisse Thybulle,Shooting Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,103,118,0.003,0.008,6:24
+4,4:08,SAC,Davion Mitchell,Personal Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,105,124,0.001,0.001,4:23
+4,3:57,SAC,Domantas Sabonis,Loose Ball Foul,Foul,John Goble,Kevin Cutler,Lauren Holtkamp,POR,105,124,0.001,0.001,3:57

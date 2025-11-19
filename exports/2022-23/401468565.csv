@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:54,GS,Klay Thompson,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,0,7,0.463,0.425,10:10
+1,9:45,MIL,Giannis Antetokounmpo,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,2,7,0.45,0.451,9:54
+1,8:51,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,4,7,0.563,0.525,8:54
+1,6:47,GS,Jordan Poole,Technical Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,11,13,0.565,0.546,6:48
+1,1:59,GS,JaMychal Green,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,27,18,0.83,0.803,2:14
+1,1:53,GS,Moses Moody,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,27,18,0.83,0.83,1:59
+1,30.0,GS,Stephen Curry,Technical Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,36,27,0.819,0.787,30.0
+1,30.0,GS,GS,Technical Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,37,27,0.836,0.824,30.0
+1,17.1,MIL,Bobby Portis,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,38,27,0.793,0.823,17.1
+2,11:36,GS,Draymond Green,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,38,27,0.866,0.84,11:46
+2,11:17,GS,Jonathan Kuminga,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,39,30,0.804,0.805,11:24
+2,10:10,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,43,30,0.861,0.877,10:15
+2,9:16,GS,Anthony Lamb,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,43,33,0.838,0.827,9:16
+2,6:45,GS,Jonathan Kuminga,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,51,42,0.84,0.812,6:58
+2,3:57,MIL,Brook Lopez,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,55,44,0.807,0.839,3:59
+2,1:10,MIL,Khris Middleton,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,58,52,0.678,0.724,1:18
+3,9:49,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,71,54,0.968,0.958,9:53
+3,8:20,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,74,58,0.973,0.962,8:20
+3,8:14,GS,Jordan Poole,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,74,58,0.968,0.969,8:17
+3,7:40,MIL,Brook Lopez,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,77,58,0.958,0.963,7:52
+3,6:30,GS,Jonathan Kuminga,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,80,59,0.99,0.987,6:33
+3,6:30,GS,GS,Technical Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,80,59,0.979,0.99,6:30
+3,5:19,MIL,Jevon Carter,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,85,62,0.986,0.992,5:51
+3,5:06,GS,Draymond Green,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,85,65,0.99,0.985,5:19
+3,4:18,MIL,MIL,Technical Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,87,66,0.988,0.99,4:30
+3,4:14,MIL,Giannis Antetokounmpo,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,87,66,0.987,0.987,4:18
+3,2:57,GS,JaMychal Green,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,87,70,0.985,0.977,3:10
+3,2:48,GS,Jonathan Kuminga,Loose Ball Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,89,71,0.989,0.983,2:48
+3,2:37,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,91,71,0.988,0.987,2:48
+3,2:31,GS,JaMychal Green,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,91,72,0.992,0.988,2:32
+3,2:22,MIL,Brook Lopez,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,93,72,0.986,0.991,2:31
+3,1:14,GS,JaMychal Green,Offensive Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,95,77,0.987,0.982,1:26
+4,11:45,MIL,George Hill,Offensive Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,95,77,0.988,0.988,12:00
+4,11:18,GS,Jonathan Kuminga,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,95,77,0.995,0.991,11:27
+4,11:18,GS,Jonathan Kuminga,Technical Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,95,77,0.994,0.995,11:18
+4,10:52,GS,Jordan Poole,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,98,77,0.998,0.997,11:02
+4,9:52,GS,JaMychal Green,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,100,82,0.995,0.994,10:07
+4,8:42,MIL,Grayson Allen,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,105,84,0.998,0.998,8:46
+4,8:19,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,105,84,0.998,0.999,8:25
+4,8:14,GS,JaMychal Green,Offensive Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,105,84,0.999,0.998,8:19
+4,6:33,GS,Moses Moody,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,108,87,0.999,0.999,6:41
+4,5:45,MIL,Brook Lopez,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,110,87,0.999,0.999,5:59
+4,4:31,MIL,Khris Middleton,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,113,95,0.997,0.999,4:32
+4,2:14,MIL,MarJon Beauchamp,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,124,104,0.999,0.999,2:21
+4,32.1,MIL,AJ Green,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,128,110,0.999,0.999,32.1
+3,5:06,MIL,MIL,Delay Technical,Foul,James Capers,Ben Taylor,Ray Acosta,MIL,85,66,0.978,1.0,0.0

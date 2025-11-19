@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:41,TOR,Pascal Siakam,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,8,2,0.838,0.823,9:41
+1,8:56,MIL,Grayson Allen,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,11,2,0.862,0.862,8:56
+1,7:48,MIL,Giannis Antetokounmpo,Away from Play Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,16,2,0.916,0.916,7:48
+1,5:32,TOR,Chris Boucher,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,21,7,0.92,0.916,5:32
+1,5:10,MIL,Bobby Portis,Technical Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,22,9,0.896,0.915,5:10
+1,5:10,MIL,Bobby Portis,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,22,10,0.886,0.885,4:45
+1,4:17,MIL,Pat Connaughton,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,22,12,0.849,0.87,4:22
+1,4:06,TOR,Fred VanVleet,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,22,13,0.888,0.87,4:12
+1,3:36,MIL,Donte DiVincenzo,Offensive Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,24,15,0.855,0.855,3:36
+1,59.4,TOR,Justin Champagnie,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,27,20,0.829,0.837,1:00
+2,5:34,TOR,Chris Boucher,Offensive Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,41,36,0.789,0.767,5:34
+2,4:37,MIL,Bobby Portis,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,43,36,0.765,0.771,4:52
+2,4:22,TOR,OG Anunoby,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,43,37,0.812,0.812,4:24
+2,4:04,MIL,Donte DiVincenzo,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,44,37,0.811,0.81,4:22
+2,3:37,TOR,Precious Achiuwa,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,44,37,0.83,0.83,3:45
+2,3:07,MIL,Donte DiVincenzo,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,46,37,0.85,0.848,3:26
+2,1:34,MIL,Pat Connaughton,Loose Ball Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,46,44,0.677,0.677,1:34
+2,45.0,MIL,George Hill,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,46,44,0.627,0.675,56.0
+3,11:16,TOR,OG Anunoby,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,51,46,0.783,0.759,11:16
+3,10:10,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,52,48,0.726,0.727,10:10
+3,8:31,TOR,Fred VanVleet,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,52,55,0.569,0.514,8:37
+3,8:17,MIL,Khris Middleton,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,54,55,0.548,0.548,8:31
+3,6:33,TOR,Fred VanVleet,Personal Take Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,57,59,0.596,0.536,6:35
+3,5:33,MIL,Grayson Allen,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,59,59,0.57,0.57,5:49
+3,4:25,TOR,Pascal Siakam,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,59,65,0.415,0.351,4:27
+3,3:42,TOR,OG Anunoby,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,62,65,0.538,0.473,3:44
+3,2:44,TOR,Precious Achiuwa,Loose Ball Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,64,67,0.532,0.465,2:44
+3,1:08,TOR,Fred VanVleet,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,68,73,0.427,0.361,1:12
+3,4.3,MIL,Donte DiVincenzo,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,69,73,0.274,0.342,20.6
+4,10:59,TOR,Pascal Siakam,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,69,73,0.471,0.379,11:06
+4,8:45,TOR,Pascal Siakam,Offensive Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,76,78,0.468,0.409,8:55
+4,8:34,TOR,Fred VanVleet,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,76,78,0.568,0.468,8:45
+4,7:55,TOR,OG Anunoby,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,78,80,0.576,0.471,8:07
+4,7:42,MIL,Wesley Matthews,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,80,80,0.517,0.533,7:55
+4,6:46,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,80,80,0.519,0.587,6:51
+4,6:13,TOR,Precious Achiuwa,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,80,82,0.564,0.453,6:25
+4,5:38,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,82,85,0.32,0.392,5:53
+4,4:14,MIL,Pat Connaughton,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,84,85,0.315,0.438,4:24
+4,3:57,TOR,Precious Achiuwa,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,84,88,0.29,0.29,4:13
+4,3:37,MIL,Bobby Portis,Loose Ball Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,87,88,0.4,0.427,3:57
+4,2:46,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,87,92,0.158,0.187,2:46
+4,2:28,TOR,Precious Achiuwa,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,87,93,0.197,0.125,2:46
+4,1:30,TOR,Chris Boucher,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,89,95,0.17,0.092,1:34
+4,55.1,MIL,Grayson Allen,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,91,98,0.006,0.019,57.3
+4,49.3,TOR,OG Anunoby,Shooting Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,93,99,0.102,0.035,49.3
+4,24.6,MIL,Wesley Matthews,Personal Take Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,94,101,0.006,0.006,24.6
+4,20.9,TOR,OG Anunoby,Personal Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,94,102,0.025,0.009,24.6
+4,20.3,MIL,George Hill,Personal Take Foul,Foul,Bennie Adams,Tyler Ford,Brandon Adair,MIL,96,102,0.003,0.014,20.9

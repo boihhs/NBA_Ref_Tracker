@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:38,BOS,Jayson Tatum,Personal Take Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,3,0,0.622,0.626,10:39
+1,10:17,CLE,Isaac Okoro,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,3,0,0.6,0.601,10:22
+1,6:13,BOS,Grant Williams,Personal Take Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,10,7,0.624,0.6,6:29
+1,2:19,BOS,Dennis Schroder,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,20,12,0.75,0.749,2:23
+1,2:08,BOS,Josh Richardson,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,20,12,0.783,0.75,2:19
+1,2:08,BOS,Josh Richardson,Technical Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,20,12,0.767,0.783,2:08
+1,45.8,CLE,Dylan Windler,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,22,16,0.64,0.679,47.9
+2,8:45,BOS,Josh Richardson,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,30,23,0.772,0.738,9:02
+2,5:13,BOS,Robert Williams III,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,34,27,0.782,0.746,5:31
+2,5:03,CLE,Isaac Okoro,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,35,27,0.746,0.745,5:13
+2,3:26,BOS,Grant Williams,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,39,32,0.75,0.752,3:37
+2,1:40,CLE,Evan Mobley,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,39,35,0.588,0.637,1:46
+3,11:38,CLE,Dean Wade,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,39,39,0.474,0.539,11:38
+3,11:23,BOS,Jayson Tatum,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,39,40,0.555,0.499,11:38
+3,10:13,BOS,Aaron Nesmith,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,41,43,0.518,0.464,10:26
+3,8:52,CLE,Dean Wade,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,43,45,0.367,0.421,9:02
+3,8:50,BOS,Dennis Schroder,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,43,47,0.386,0.386,8:52
+3,8:43,CLE,Darius Garland,Offensive Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,43,47,0.349,0.386,8:50
+3,5:44,CLE,Denzel Valentine,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,54,52,0.513,0.575,5:50
+3,4:39,CLE,Dean Wade,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,54,57,0.309,0.368,4:50
+3,2:36,CLE,Dylan Windler,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,57,59,0.334,0.4,2:44
+3,6.3,CLE,Ricky Rubio,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,62,63,0.364,0.436,15.6
+3,4.7,BOS,Dennis Schroder,Personal Take Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,62,65,0.461,0.389,6.3
+3,1.4,BOS,Dennis Schroder,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,62,65,0.461,0.461,4.7
+4,11:04,CLE,Isaac Okoro,Loose Ball Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,64,70,0.169,0.241,11:04
+4,9:11,CLE,Cedi Osman,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,69,75,0.166,0.179,9:24
+4,8:59,BOS,Enes Freedom,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,69,75,0.213,0.213,9:02
+4,6:59,CLE,Dean Wade,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,72,80,0.087,0.087,7:00
+4,4:19,BOS,Al Horford,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,81,87,0.231,0.147,4:39
+4,4:04,CLE,Denzel Valentine,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,83,87,0.111,0.191,4:19
+4,3:27,CLE,Cedi Osman,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,85,87,0.189,0.284,3:34
+4,3:11,BOS,Al Horford,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,85,88,0.425,0.285,3:27
+4,2:40,BOS,Al Horford,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,87,88,0.59,0.444,2:52
+4,32.2,CLE,Darius Garland,Personal Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,89,94,0.017,0.05,34.6
+4,19.0,CLE,Ricky Rubio,Personal Take Foul,Foul,Marat Kogut,Tony Brothers,Phenizee Ransom,CLE,92,96,0.022,0.065,21.0

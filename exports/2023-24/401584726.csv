@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:28,POR,Deandre Ayton,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,0,6,0.629,0.591,9:40
+1,9:10,POR,Matisse Thybulle,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,2,6,0.675,0.641,9:15
+1,7:19,POR,Scoot Henderson,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,12,6,0.852,0.832,7:35
+1,4:52,POR,Scoot Henderson,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,18,14,0.818,0.793,5:09
+1,3:40,PHI,Patrick Beverley,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,25,17,0.815,0.84,3:51
+1,1:17,PHI,Patrick Beverley,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,31,21,0.843,0.867,1:32
+1,12.0,POR,Shaedon Sharpe,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,35,26,0.877,0.851,12.0
+1,2.1,PHI,Joel Embiid,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,36,26,0.843,0.866,12.0
+2,11:19,PHI,Paul Reed,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,36,28,0.808,0.834,11:26
+2,10:41,POR,Toumani Camara,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,36,31,0.826,0.799,10:48
+2,10:29,PHI,Jaden Springer,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,38,31,0.816,0.816,10:41
+2,9:29,PHI,Jaden Springer,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,38,35,0.713,0.753,9:29
+2,9:16,POR,Toumani Camara,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,38,36,0.763,0.73,9:29
+2,8:50,PHI,Jaden Springer,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,40,36,0.716,0.752,8:53
+2,7:51,POR,Shaedon Sharpe,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,42,41,0.7,0.702,8:11
+2,6:52,PHI,Jaden Springer,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,44,43,0.626,0.67,6:56
+2,6:41,POR,Jabari Walker,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,44,45,0.682,0.641,6:52
+2,5:25,PHI,Paul Reed,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,47,47,0.585,0.631,5:29
+2,4:57,PHI,De'Anthony Melton,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,47,49,0.518,0.567,5:10
+2,4:12,PHI,P.J. Tucker,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,49,51,0.513,0.562,4:17
+2,4:12,PHI,Joel Embiid,Technical Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,49,51,0.537,0.513,4:12
+2,3:42,POR,Deandre Ayton,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,49,55,0.513,0.465,3:53
+2,3:05,POR,Jerami Grant,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,50,55,0.517,0.491,3:05
+2,2:55,PHI,Joel Embiid,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,52,57,0.429,0.489,2:55
+2,2:36,POR,Deandre Ayton,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,54,58,0.543,0.484,2:36
+2,1:48,POR,Scoot Henderson,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,57,58,0.662,0.618,2:02
+2,1:11,PHI,Tobias Harris,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,62,58,0.713,0.73,1:11
+2,58.1,POR,Robert Williams III,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,62,60,0.747,0.703,1:11
+3,6:54,PHI,De'Anthony Melton,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,81,66,0.949,0.949,7:09
+3,6:13,PHI,Tobias Harris,Offensive Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,81,66,0.952,0.961,6:22
+3,4:59,POR,Toumani Camara,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,84,68,0.979,0.971,5:14
+3,3:49,POR,Jerami Grant,Loose Ball Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,89,68,0.993,0.993,3:49
+3,2:14,POR,Malcolm Brogdon,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,93,71,0.996,0.995,2:14
+3,1:42,POR,Robert Williams III,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,93,74,0.994,0.991,1:59
+3,1:07,PHI,Joel Embiid,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,94,79,0.961,0.976,1:07
+4,9:16,POR,Jabari Walker,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,101,85,0.992,0.99,9:26
+4,8:01,POR,Scoot Henderson,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,101,85,0.997,0.994,8:08
+4,6:35,POR,Malcolm Brogdon,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,105,89,0.996,0.995,6:47
+4,6:07,POR,Shaedon Sharpe,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,107,89,0.999,0.998,6:09
+4,6:00,PHI,Tyrese Maxey,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,109,89,0.999,0.999,6:07
+4,5:56,PHI,Patrick Beverley,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,109,89,0.998,0.999,6:00
+4,5:47,POR,Jabari Walker,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,109,91,0.999,0.998,5:56
+4,5:11,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,111,93,0.998,0.998,5:17
+4,4:39,POR,Jabari Walker,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,111,93,0.999,0.999,4:58
+4,4:01,PHI,Tobias Harris,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,114,93,0.999,0.999,4:01
+4,1:32,POR,Kris Murray,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Nick Buchert,PHI,120,93,0.999,0.999,1:39

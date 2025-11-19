@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:15,SAC,De'Aaron Fox,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,8,8,0.375,0.375,9:20
+1,7:26,DET,Jaden Ivey,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,10,14,0.237,0.268,7:30
+1,5:57,SAC,Kevin Huerter,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,12,17,0.268,0.27,6:06
+1,5:43,SAC,Domantas Sabonis,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,12,17,0.303,0.268,5:57
+1,5:33,DET,Killian Hayes,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,14,17,0.259,0.29,5:43
+1,5:08,SAC,Harrison Barnes,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,14,19,0.286,0.269,5:08
+1,4:02,SAC,Domantas Sabonis,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,19,19,0.433,0.392,4:03
+1,3:34,DET,Jaden Ivey,Loose Ball Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,20,19,0.396,0.393,3:34
+1,3:28,DET,Alec Burks,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,20,21,0.325,0.368,3:28
+1,1:22,DET,Kevin Knox II,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,27,24,0.437,0.481,1:22
+1,1:04,SAC,Chimezie Metu,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,27,25,0.5,0.458,1:22
+2,11:27,DET,Kevin Knox II,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,29,30,0.333,0.381,11:27
+2,11:00,SAC,Keegan Murray,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,31,31,0.429,0.38,11:00
+2,10:34,SAC,Terence Davis,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,32,31,0.482,0.439,10:42
+2,10:21,DET,Marvin Bagley III,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,35,33,0.418,0.469,10:21
+2,8:47,SAC,Terence Davis,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,42,39,0.503,0.504,9:00
+2,8:47,SAC,Terence Davis,Technical Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,42,39,0.528,0.503,8:47
+2,7:40,SAC,Matthew Dellavedova,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,44,41,0.557,0.508,7:42
+2,6:53,SAC,Harrison Barnes,Offensive Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,45,43,0.484,0.45,7:03
+2,6:43,SAC,Matthew Dellavedova,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,45,43,0.53,0.484,6:53
+2,5:05,DET,Killian Hayes,Loose Ball Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,47,45,0.459,0.459,5:05
+2,4:17,DET,Killian Hayes,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,50,47,0.445,0.494,4:24
+2,3:19,SAC,Kevin Huerter,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,52,51,0.492,0.432,3:19
+2,1:53,DET,Jaden Ivey,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,57,53,0.49,0.537,2:01
+2,1:13,SAC,De'Aaron Fox,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,59,54,0.664,0.613,1:20
+2,1:08,DET,Bojan Bogdanovic,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,61,54,0.594,0.646,1:13
+3,11:05,DET,Jaden Ivey,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,63,58,0.538,0.594,11:15
+3,10:14,DET,Jalen Duren,Loose Ball Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,65,63,0.487,0.488,10:14
+3,9:36,DET,Jalen Duren,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,65,65,0.363,0.416,9:39
+3,7:51,SAC,Kevin Huerter,Loose Ball Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,67,72,0.279,0.281,7:51
+3,2:57,SAC,Terence Davis,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,76,86,0.157,0.123,3:15
+3,2:15,SAC,Keegan Murray,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,77,86,0.141,0.14,2:16
+4,10:09,DET,Alec Burks,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,92,95,0.277,0.288,10:21
+4,8:39,DET,Kevin Knox II,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,92,100,0.073,0.122,8:39
+4,7:53,SAC,Malik Monk,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,94,101,0.183,0.11,7:53
+4,7:45,DET,Killian Hayes,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,95,101,0.092,0.146,7:53
+4,7:39,SAC,Harrison Barnes,Offensive Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,95,101,0.171,0.092,7:45
+4,7:11,DET,Jalen Duren,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,98,103,0.135,0.205,7:11
+4,6:51,DET,Isaiah Stewart,Offensive Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,98,104,0.122,0.165,7:11
+4,6:38,DET,Killian Hayes,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,98,104,0.08,0.122,6:51
+4,6:27,SAC,Kevin Huerter,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,98,106,0.098,0.093,6:38
+4,6:22,SAC,Kevin Huerter,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,98,106,0.154,0.098,6:27
+4,5:14,SAC,Malik Monk,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,100,111,0.056,0.03,5:15
+4,4:06,DET,Jaden Ivey,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,103,113,0.011,0.022,4:16
+4,3:34,DET,Jaden Ivey,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,105,114,0.014,0.031,3:50
+4,3:22,SAC,De'Aaron Fox,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,105,116,0.035,0.019,3:34
+4,1:43,SAC,Malik Monk,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,107,118,0.016,0.008,2:00
+4,1:00,DET,Alec Burks,Personal Take Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,111,118,0.007,0.022,1:06
+4,57.1,SAC,De'Aaron Fox,Personal Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,111,120,0.032,0.011,1:00
+4,39.1,DET,Jalen Duren,Shooting Foul,Foul,James Capers,Scott Wall,Brandon Adair,DET,113,122,0.001,0.007,39.1

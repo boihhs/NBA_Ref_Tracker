@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:16,NO,Trey Murphy III,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,2,0,0.749,0.778,11:37
+1,10:17,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,5,1,0.843,0.805,10:20
+1,6:56,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,16,8,0.879,0.871,6:56
+1,6:47,NO,Jose Alvarado,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,18,8,0.882,0.882,6:56
+1,6:14,NO,Trey Murphy III,Defensive 3-Seconds Technical,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,18,8,0.885,0.882,6:20
+1,6:00,HOU,Kevin Porter Jr.,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,18,9,0.881,0.881,6:00
+1,4:27,NO,Herbert Jones,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,26,13,0.897,0.912,4:43
+1,4:27,NO,Herbert Jones,Technical Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,26,13,0.904,0.897,4:27
+1,2:45,HOU,Usman Garuba,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,28,20,0.885,0.865,2:48
+1,55.1,HOU,Tari Eason,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,36,22,0.936,0.922,55.1
+1,6.1,HOU,Usman Garuba,Offensive Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,41,22,0.964,0.958,10.0
+1,6.1,HOU,HOU,Technical Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,41,22,0.967,0.958,6.1
+1,6.1,HOU,HOU,Technical Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,42,22,0.972,0.968,6.1
+2,11:50,HOU,Usman Garuba,Offensive Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,45,22,0.981,0.977,12:00
+2,9:01,NO,Willy Hernangomez,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,53,27,0.983,0.987,9:08
+2,8:08,HOU,Bruno Fernando,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,56,29,0.993,0.991,8:25
+2,7:00,NO,Jose Alvarado,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,63,32,0.994,0.995,7:27
+2,6:39,NO,CJ McCollum,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,63,36,0.989,0.992,6:39
+2,5:23,NO,Herbert Jones,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,66,39,0.988,0.991,5:28
+2,2:32,HOU,Eric Gordon,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,70,43,0.994,0.994,2:46
+2,2:26,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,70,43,0.996,0.994,2:32
+2,1:50,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,71,45,0.995,0.993,2:03
+2,1:35,NO,Trey Murphy III,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,72,45,0.99,0.993,1:44
+2,1:19,NO,Dyson Daniels,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,72,49,0.982,0.987,1:19
+2,33.0,NO,CJ McCollum,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,72,52,0.966,0.975,35.0
+3,8:04,NO,Jonas Valanciunas,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,84,61,0.987,0.991,8:21
+3,6:50,HOU,Jabari Smith Jr.,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,84,63,0.99,0.99,6:55
+3,6:40,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,84,63,0.993,0.99,6:50
+3,4:58,NO,Trey Murphy III,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,90,66,0.993,0.995,5:17
+3,4:23,HOU,Usman Garuba,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,92,69,0.996,0.994,4:23
+3,3:34,HOU,TyTy Washington Jr.,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,96,69,0.999,0.999,3:36
+3,3:04,HOU,Garrison Mathews,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,96,71,0.998,0.998,3:18
+3,1:24,NO,Jaxson Hayes,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,98,73,0.998,0.998,1:24
+3,35.1,NO,Jaxson Hayes,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,98,73,0.998,0.999,36.0
+4,10:47,HOU,Alperen Sengun,Loose Ball Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,98,76,0.998,0.998,10:47
+4,7:24,HOU,Tari Eason,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,104,86,0.998,0.998,7:41
+4,6:40,NO,Jonas Valanciunas,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,108,86,0.998,0.999,6:56
+4,4:49,NO,Herbert Jones,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,110,90,0.998,0.999,4:59
+4,3:10,HOU,TyTy Washington Jr.,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,110,97,0.998,0.998,3:40
+4,1:57,NO,Jonas Valanciunas,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,115,101,0.998,0.999,1:57
+4,1:22,HOU,TyTy Washington Jr.,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,115,104,0.999,0.997,1:29
+4,32.1,HOU,Josh Christopher,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Ray Acosta,NO,115,108,0.996,0.984,47.0

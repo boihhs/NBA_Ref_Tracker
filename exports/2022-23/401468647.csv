@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:46,CHA,Mason Plumlee,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,0,0,0.552,0.512,12:00
+1,9:32,LAL,Thomas Bryant,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,2,5,0.375,0.411,9:37
+1,7:48,LAL,Dennis Schroder,Offensive Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,9,6,0.568,0.593,7:57
+1,4:22,LAL,Russell Westbrook,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,18,10,0.66,0.697,4:25
+1,2:23,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,23,18,0.691,0.653,2:32
+1,1:56,CHA,Theo Maledon,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,25,18,0.74,0.705,2:13
+1,1:17,CHA,Nick Richards,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,25,20,0.693,0.652,1:31
+1,1:04,LAL,Troy Brown Jr.,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,27,20,0.639,0.68,1:17
+1,34.0,CHA,Theo Maledon,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,29,24,0.695,0.652,45.0
+1,23.1,LAL,Max Christie,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,30,26,0.581,0.628,23.1
+1,2.1,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,30,27,0.641,0.596,23.1
+2,11:22,LAL,Wenyen Gabriel,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,31,32,0.436,0.488,11:22
+2,11:13,CHA,Nick Richards,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,31,33,0.457,0.456,11:22
+2,10:54,LAL,Wenyen Gabriel,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,31,33,0.429,0.428,10:59
+2,10:48,LAL,Wenyen Gabriel,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,31,35,0.351,0.4,10:48
+2,7:48,CHA,Nick Richards,Offensive Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,37,44,0.31,0.282,8:06
+2,7:25,CHA,LaMelo Ball,Offensive Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,37,44,0.309,0.281,7:32
+2,6:49,CHA,Jalen McDaniels,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,37,44,0.306,0.307,6:56
+2,6:35,LAL,Dennis Schroder,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,39,44,0.292,0.334,6:45
+2,3:11,CHA,Mason Plumlee,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,49,56,0.294,0.296,3:28
+2,1:48,CHA,LaMelo Ball,Flagrant Foul Type 1,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,58,60,0.443,0.418,1:48
+2,1:43,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,59,60,0.535,0.451,1:48
+2,9.1,LAL,LeBron James,Loose Ball Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,64,65,0.397,0.451,9.1
+3,9:35,LAL,LeBron James,Offensive Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,67,75,0.212,0.294,3:13
+3,6:09,CHA,Terry Rozier,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,72,88,0.076,0.056,6:18
+3,5:54,CHA,Terry Rozier,Offensive Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,74,88,0.082,0.069,6:09
+3,4:24,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,79,88,0.227,0.18,4:28
+3,2:02,LAL,Troy Brown Jr.,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,87,92,0.26,0.259,2:13
+3,1:43,LAL,Russell Westbrook,Offensive Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,87,92,0.257,0.3,1:47
+4,10:31,CHA,LaMelo Ball,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,89,101,0.066,0.063,10:42
+4,9:06,LAL,Thomas Bryant,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,96,106,0.052,0.069,9:06
+4,8:49,CHA,Gordon Hayward,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,96,107,0.108,0.067,9:06
+4,8:16,CHA,Jalen McDaniels,Offensive Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,100,107,0.176,0.139,8:33
+4,6:21,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,106,114,0.151,0.082,6:21
+4,5:09,LAL,Patrick Beverley,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,109,114,0.162,0.175,5:18
+4,4:40,LAL,Lonnie Walker IV,Shooting Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,111,116,0.116,0.21,4:40
+4,2:19,LAL,Dennis Schroder,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,121,124,0.11,0.206,2:28
+4,1:17,LAL,Dennis Schroder,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,126,129,0.084,0.154,1:17
+4,0.1,LAL,Patrick Beverley,Personal Foul,Foul,Sean Wright,Scott Twardoski,Intae Hwang,LAL,130,132,0.002,0.006,0.1

@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:10,NO,Jonas Valanciunas,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,2,5,0.279,0.31,9:17
+1,8:17,NO,Dyson Daniels,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,4,7,0.315,0.312,8:31
+1,5:47,NO,Dyson Daniels,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,14,10,0.495,0.494,5:54
+1,5:32,NO,Jordan Hawkins,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,14,10,0.455,0.495,5:47
+1,5:10,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,14,12,0.513,0.473,5:12
+1,4:48,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,16,12,0.568,0.528,4:49
+1,1:53,DAL,Dante Exum,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,25,20,0.586,0.568,1:53
+1,20.0,DAL,Dwight Powell,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,29,24,0.617,0.569,35.1
+2,11:20,NO,Zion Williamson,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,35,26,0.64,0.664,11:20
+2,7:51,DAL,Luka Doncic,Technical Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,43,36,0.677,0.656,7:51
+2,6:37,DAL,Josh Green,Loose Ball Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,49,38,0.77,0.769,6:58
+2,6:06,DAL,Jaden Hardy,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,51,38,0.85,0.821,6:15
+2,5:50,NO,Herbert Jones,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,53,38,0.809,0.84,6:06
+2,2:26,NO,Herbert Jones,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,61,44,0.873,0.897,2:33
+2,2:02,NO,Zion Williamson,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,64,46,0.892,0.914,2:16
+2,0.1,DAL,Dante Exum,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,67,54,0.886,0.857,9.1
+3,10:22,NO,Zion Williamson,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,74,56,0.934,0.934,10:30
+3,9:28,NO,Herbert Jones,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,79,61,0.93,0.951,9:28
+3,9:11,DAL,Dereck Lively II,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,79,62,0.955,0.939,9:28
+3,8:48,DAL,Kyrie Irving,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,80,62,0.965,0.953,8:51
+3,6:32,DAL,Dereck Lively II,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,87,70,0.967,0.955,6:37
+3,6:23,NO,Herbert Jones,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,89,70,0.949,0.962,6:32
+3,4:27,NO,Dyson Daniels,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,97,75,0.98,0.987,4:27
+3,2:11,NO,Jeremiah Robinson-Earl,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,106,80,0.996,0.997,2:20
+3,53.1,NO,Jordan Hawkins,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,108,83,0.996,0.998,58.2
+3,32.1,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,110,83,0.999,0.999,32.1
+3,25.0,NO,Naji Marshall,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,111,83,0.999,0.999,32.1
+4,11:23,NO,Herbert Jones,Loose Ball Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,117,85,0.999,0.999,11:23
+4,11:23,NO,Jordan Hawkins,Technical Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,117,85,0.999,0.999,11:23
+4,11:05,DAL,Seth Curry,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,119,86,0.999,0.999,11:05
+4,10:05,DAL,Jaden Hardy,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,119,88,0.999,0.999,10:19
+4,9:15,NO,Dyson Daniels,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,119,92,0.999,0.999,9:15
+4,9:03,DAL,Richaun Holmes,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,119,93,0.999,0.999,9:08
+4,8:12,DAL,Jaden Hardy,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,123,93,0.999,0.999,8:18
+4,8:03,NO,Jeremiah Robinson-Earl,Loose Ball Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,123,93,0.999,0.999,8:03
+4,7:11,NO,Naji Marshall,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,123,95,0.999,0.999,7:13
+4,4:12,DAL,Richaun Holmes,Loose Ball Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,125,105,0.999,0.999,4:12
+4,2:03,NO,Jordan Hawkins,Transition Take Foul,Foul,Kevin Scott,Lauren Holtkamp,Andy Nagy,NO,129,107,0.999,0.999,2:08

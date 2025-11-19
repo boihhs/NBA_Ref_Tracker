@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:59,CLE,Evan Mobley,Offensive Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,4,5,0.239,0.216,10:16
+1,5:47,SA,Jeremy Sochan,Offensive Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,12,11,0.277,0.302,6:08
+1,5:17,CLE,Jarrett Allen,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,12,13,0.292,0.259,5:29
+1,4:44,CLE,Cedi Osman,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,13,15,0.272,0.241,4:45
+1,3:25,SA,Josh Richardson,Personal Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,20,18,0.312,0.31,3:38
+2,10:10,SA,Devin Vassell,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,35,31,0.357,0.401,10:12
+2,9:00,SA,Devin Vassell,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,37,35,0.311,0.351,9:02
+2,8:36,CLE,Caris LeVert,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,39,37,0.402,0.355,8:36
+2,6:17,CLE,Donovan Mitchell,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,47,37,0.699,0.655,6:22
+2,5:57,CLE,Kevin Love,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,49,37,0.738,0.626,5:57
+2,8:16,SA,Isaiah Roby,Loose Ball Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,40,37,0.383,0.802,5:31
+2,4:49,CLE,Donovan Mitchell,Personal Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,51,37,0.821,0.785,4:56
+2,2:09,SA,Romeo Langford,Personal Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,59,43,0.8,0.835,2:20
+3,9:58,CLE,Donovan Mitchell,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,68,51,0.936,0.916,10:09
+3,7:28,SA,Zach Collins,Personal Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,71,59,0.811,0.811,7:32
+3,4:42,SA,Josh Richardson,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,78,63,0.882,0.909,5:02
+3,4:18,CLE,Kevin Love,Offensive Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,80,65,0.932,0.914,4:26
+3,3:13,SA,Jeremy Sochan,Personal Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,83,65,0.963,0.962,3:18
+3,2:23,SA,Charles Bassey,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,86,67,0.964,0.974,2:36
+3,2:12,CLE,Darius Garland,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,86,69,0.979,0.969,2:23
+3,1:14,SA,Josh Richardson,Personal Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,88,71,0.95,0.965,1:29
+3,1:01,CLE,Evan Mobley,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,91,73,0.985,0.975,1:01
+4,11:23,SA,Keldon Johnson,Offensive Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,92,80,0.912,0.93,11:26
+4,11:06,SA,Tre Jones,Personal Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,92,80,0.908,0.915,11:06
+4,7:21,CLE,Jarrett Allen,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,98,89,0.949,0.911,7:38
+4,6:18,SA,Zach Collins,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,101,95,0.743,0.84,6:18
+4,5:01,CLE,Darius Garland,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,107,100,0.926,0.862,5:01
+4,3:04,SA,Zach Collins,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,110,104,0.81,0.873,3:04
+4,2:39,SA,Zach Collins,Loose Ball Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,110,106,0.627,0.767,2:39
+4,1:38,SA,Tre Jones,Loose Ball Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,112,106,0.807,0.896,1:38
+4,44.1,SA,Zach Collins,Offensive Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,112,110,0.597,0.723,53.0
+4,37.2,SA,Zach Collins,Shooting Foul,Foul,Michael Smith,Gediminas Petraitis,Jonathan Sterling,SA,112,110,0.469,0.597,44.1

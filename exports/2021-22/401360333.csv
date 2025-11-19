@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:08,GS,Stephen Curry,Personal Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,0,0,0.789,0.789,11:08
+1,6:24,DEN,Nikola Jokic,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,11,16,0.695,0.652,6:24
+1,4:13,GS,Nemanja Bjelica,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,16,18,0.673,0.663,4:32
+1,3:19,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,16,26,0.463,0.515,3:19
+1,48.0,DEN,JaMychal Green,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,16,31,0.381,0.338,58.3
+2,10:57,DEN,JaMychal Green,Loose Ball Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,20,31,0.419,0.433,10:57
+2,10:47,DEN,Bones Hyland,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,20,31,0.481,0.419,10:57
+2,10:30,GS,Jonathan Kuminga,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,20,33,0.315,0.369,10:30
+2,9:33,GS,Nemanja Bjelica,Loose Ball Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,20,33,0.327,0.323,9:33
+2,8:35,DEN,Austin Rivers,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,22,35,0.367,0.311,8:35
+2,7:44,DEN,Facundo Campazzo,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,23,39,0.288,0.248,7:54
+2,7:25,DEN,Bones Hyland,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,24,39,0.314,0.268,7:29
+2,7:00,GS,Kevon Looney,Personal Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,28,39,0.355,0.355,7:07
+2,4:19,GS,Kevon Looney,Loose Ball Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,30,51,0.068,0.084,4:19
+2,3:58,GS,Otto Porter Jr.,Personal Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,30,51,0.065,0.068,4:19
+2,2:50,DEN,Austin Rivers,Personal Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,33,53,0.133,0.105,2:55
+2,1:41,DEN,Facundo Campazzo,Personal Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,35,55,0.121,0.093,1:41
+3,11:00,GS,Kevon Looney,Offensive Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,38,60,0.04,0.047,11:14
+3,9:20,DEN,Jeff Green,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,38,60,0.052,0.039,9:38
+3,9:06,DEN,Nikola Jokic,Personal Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,41,60,0.069,0.069,9:06
+3,8:36,DEN,Austin Rivers,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,41,60,0.089,0.066,8:40
+3,6:10,DEN,Bones Hyland,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,47,65,0.082,0.062,6:29
+3,5:31,GS,Otto Porter Jr.,Loose Ball Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,51,65,0.102,0.102,5:31
+3,4:59,GS,Kevon Looney,Personal Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,53,65,0.141,0.145,5:11
+3,4:50,GS,Gary Payton II,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,53,65,0.124,0.14,4:51
+3,3:29,GS,Otto Porter Jr.,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,55,67,0.092,0.124,3:38
+3,3:15,DEN,Davon Reed,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,55,68,0.164,0.124,3:29
+3,1:49,GS,Otto Porter Jr.,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,57,70,0.058,0.086,2:03
+3,1:04,DEN,JaMychal Green,Loose Ball Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,57,72,0.084,0.058,1:06
+4,11:26,DEN,Bones Hyland,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,61,76,0.07,0.044,11:40
+4,11:08,GS,Stephen Curry,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,61,76,0.018,0.032,11:24
+4,8:10,DEN,JaMychal Green,Personal Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,68,79,0.081,0.075,8:19
+4,7:40,DEN,Davon Reed,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,70,79,0.197,0.127,7:46
+4,6:59,GS,Nemanja Bjelica,Personal Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,74,79,0.224,0.247,7:20
+4,6:00,GS,Nemanja Bjelica,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,74,79,0.138,0.215,6:14
+4,4:15,DEN,Facundo Campazzo,Shooting Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,74,82,0.156,0.09,4:23
+4,2:36,GS,Stephen Curry,Personal Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,79,82,0.144,0.258,2:57
+4,32.0,GS,Andrew Wiggins,Loose Ball Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,84,86,0.112,0.22,32.0
+4,2.5,GS,Andrew Wiggins,Personal Take Foul,Foul,Kevin Scott,Nick Buchert,John Butler,GS,86,88,0.011,0.03,2.9

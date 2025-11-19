@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:35,ATL,John Collins,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,6,12,0.454,0.413,8:42
+1,6:34,ATL,Kevin Huerter,Personal Take Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,13,17,0.449,0.462,6:34
+1,5:38,MIN,Leandro Bolmaro,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,13,20,0.316,0.353,5:43
+1,2:38,ATL,Delon Wright,Loose Ball Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,17,30,0.222,0.222,2:38
+1,39.5,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,23,33,0.226,0.257,39.5
+1,25.3,ATL,Danilo Gallinari,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,23,33,0.324,0.284,32.0
+2,11:45,ATL,Gorgui Dieng,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,24,33,0.347,0.295,12:00
+2,11:14,ATL,Lou Williams,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,24,36,0.247,0.227,11:14
+2,9:47,ATL,Lou Williams,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,26,41,0.158,0.16,9:49
+2,9:30,MIN,Naz Reid,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,26,41,0.14,0.142,9:37
+2,9:20,MIN,Leandro Bolmaro,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,26,41,0.14,0.14,9:30
+2,8:18,MIN,Taurean Prince,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,28,43,0.136,0.135,8:27
+2,7:37,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,31,43,0.191,0.191,7:37
+2,4:46,ATL,Timothe Luwawu-Cabarrot,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,35,50,0.167,0.137,4:49
+2,3:58,MIN,Leandro Bolmaro,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,36,50,0.13,0.13,3:59
+2,3:58,MIN,MIN,Technical Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,36,50,0.118,0.152,3:58
+2,3:33,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,36,52,0.079,0.098,3:46
+2,3:15,MIN,Malik Beasley,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,36,54,0.056,0.073,3:16
+2,2:18,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,39,56,0.115,0.092,2:23
+2,1:02,MIN,Jaden McDaniels,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,43,59,0.068,0.085,1:21
+2,47.5,ATL,John Collins,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,45,61,0.11,0.082,47.5
+3,8:13,ATL,Trae Young,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,56,69,0.121,0.121,8:14
+3,7:27,ATL,Kevin Huerter,Loose Ball Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,56,72,0.068,0.068,7:27
+3,6:15,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,56,77,0.019,0.02,6:32
+3,4:43,ATL,John Collins,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,61,82,0.023,0.016,4:58
+3,1:33,ATL,Gorgui Dieng,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,71,90,0.024,0.015,1:47
+4,9:53,MIN,Jordan McLaughlin,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,83,98,0.016,0.018,10:02
+4,9:06,MIN,Malik Beasley,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,83,101,0.002,0.005,9:15
+4,8:56,MIN,Jaden McDaniels,Offensive Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,83,103,0.002,0.003,9:06
+4,8:44,ATL,Lou Williams,Personal Take Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,83,103,0.002,0.002,8:44
+4,7:02,ATL,Gorgui Dieng,Personal Take Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,89,105,0.009,0.008,7:03
+4,4:01,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,98,111,0.005,0.005,4:01
+4,3:46,ATL,Clint Capela,Loose Ball Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,98,111,0.009,0.006,3:46
+4,3:39,ATL,John Collins,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,98,111,0.018,0.009,3:46
+4,1:41,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,100,113,0.005,0.001,1:57
+4,58.2,MIN,Karl-Anthony Towns,Personal Take Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,105,118,0.001,0.001,58.2
+4,35.9,MIN,Anthony Edwards,Personal Take Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,107,118,0.001,0.001,43.7
+4,25.2,MIN,Karl-Anthony Towns,Personal Take Foul,Foul,Phenizee Ransom,Tre Maddox,Kevin Scott,MIN,110,119,0.001,0.001,30.9

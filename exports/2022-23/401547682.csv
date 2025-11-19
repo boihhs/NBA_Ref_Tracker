@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:32,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,0,5,0.449,0.451,10:34
+1,10:21,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,0,5,0.413,0.449,10:32
+1,9:21,DEN,Jamal Murray,Defensive 3-Seconds Technical,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,4,6,0.529,0.525,9:42
+1,8:15,LAL,LeBron James,Personal Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,9,10,0.572,0.573,8:19
+1,7:54,DEN,Michael Porter Jr.,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,11,10,0.56,0.598,8:03
+1,7:18,DEN,Christian Braun,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,13,12,0.559,0.598,7:26
+1,7:01,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,13,14,0.61,0.571,7:18
+1,5:44,DEN,Christian Braun,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,20,16,0.631,0.67,5:51
+1,2:56,LAL,D'Angelo Russell,Flagrant Foul Type 1,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,20,23,0.5,0.507,2:58
+1,2:41,LAL,Anthony Davis,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,22,23,0.604,0.562,2:56
+2,11:25,DEN,Aaron Gordon,Offensive Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,27,29,0.493,0.525,11:47
+2,8:26,LAL,Dennis Schroder,Personal Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,30,38,0.339,0.338,8:41
+2,7:28,DEN,Jamal Murray,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,32,40,0.262,0.302,7:31
+2,7:04,DEN,Michael Porter Jr.,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,34,44,0.23,0.273,7:04
+2,5:44,DEN,Aaron Gordon,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,36,45,0.229,0.266,5:46
+2,5:36,LAL,Anthony Davis,Personal Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,36,47,0.24,0.24,5:44
+2,5:29,LAL,Rui Hachimura,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,38,47,0.314,0.263,5:29
+2,4:42,DEN,Bruce Brown,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,42,47,0.332,0.379,4:47
+2,12.1,LAL,Rui Hachimura,Personal Take Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,48,53,0.442,0.391,26.1
+3,9:09,LAL,Anthony Davis,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,54,62,0.294,0.238,9:09
+3,7:53,LAL,D'Angelo Russell,Offensive Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,55,64,0.228,0.2,8:03
+3,7:33,LAL,Austin Reaves,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,55,64,0.275,0.228,7:53
+3,7:04,DEN,Nikola Jokic,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,57,64,0.207,0.252,7:09
+3,5:36,DEN,Bruce Brown,Personal Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,62,68,0.275,0.275,5:51
+3,1:49,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,74,74,0.433,0.503,2:10
+3,1:14,DEN,Jeff Green,Personal Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,74,76,0.337,0.409,1:21
+4,11:16,LAL,Lonnie Walker IV,Personal Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,76,79,0.411,0.399,11:19
+4,10:24,DEN,Nikola Jokic,Loose Ball Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,79,81,0.377,0.451,10:47
+4,9:46,LAL,LeBron James,Personal Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,81,81,0.567,0.548,9:48
+4,9:38,DEN,Jeff Green,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,81,81,0.399,0.497,9:42
+4,6:26,DEN,Nikola Jokic,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,90,83,0.783,0.856,6:49
+4,1:37,LAL,Anthony Davis,Personal Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,101,96,0.964,0.867,1:44
+4,49.1,LAL,Dennis Schroder,Shooting Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,101,99,0.886,0.781,1:07
+4,24.1,LAL,Austin Reaves,Personal Take Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,103,99,0.975,0.932,25.0
+4,19.1,LAL,Rui Hachimura,Personal Take Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,105,101,0.98,0.939,21.1
+4,12.1,LAL,Austin Reaves,Personal Foul,Foul,Pat Fraher,Brian Forte,Tony Brothers,DEN,106,103,0.973,0.923,13.1

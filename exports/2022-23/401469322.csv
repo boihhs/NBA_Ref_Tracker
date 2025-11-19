@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:34,DAL,Dwight Powell,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,2,6,0.511,0.474,9:42
+1,9:03,DAL,Kyrie Irving,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,4,8,0.51,0.472,9:22
+1,5:10,ATL,Clint Capela,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,17,17,0.502,0.542,5:29
+1,3:46,ATL,Jalen Johnson,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,21,21,0.499,0.541,3:58
+1,3:12,ATL,Onyeka Okongwu,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,23,22,0.525,0.565,3:24
+1,2:41,ATL,Saddiq Bey,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,26,24,0.574,0.62,2:41
+2,11:53,DAL,Josh Green,Personal Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,37,29,0.77,0.749,10:29
+2,10:17,DAL,Davis Bertans,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,42,35,0.781,0.77,11:53
+2,9:37,ATL,Onyeka Okongwu,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,44,37,0.686,0.724,9:40
+2,9:26,DAL,Christian Wood,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,44,39,0.737,0.701,9:37
+2,7:06,ATL,Jalen Johnson,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,50,45,0.631,0.675,7:26
+2,6:35,ATL,Onyeka Okongwu,Offensive Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,50,49,0.558,0.586,6:43
+2,4:18,ATL,Saddiq Bey,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,56,52,0.603,0.648,4:30
+2,3:06,ATL,Dejounte Murray,Personal Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,58,59,0.437,0.486,3:06
+2,2:14,ATL,John Collins,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,60,59,0.502,0.553,2:17
+2,2:01,DAL,Kyrie Irving,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,60,60,0.601,0.553,2:12
+2,7.0,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,68,63,0.758,0.714,29.0
+3,11:32,ATL,John Collins,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,70,66,0.601,0.65,11:45
+3,10:06,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,73,69,0.735,0.688,10:11
+3,6:21,ATL,Trae Young,Personal Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,88,76,0.89,0.89,6:33
+3,5:29,DAL,JaVale McGee,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,91,79,0.933,0.911,5:45
+3,3:02,DAL,Luka Doncic,Personal Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,92,83,0.867,0.866,3:10
+3,2:26,DAL,Jaden Hardy,Personal Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,92,85,0.859,0.82,2:29
+4,11:12,ATL,AJ Griffin,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,96,93,0.548,0.635,11:32
+4,10:18,ATL,Jalen Johnson,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,101,95,0.729,0.777,10:18
+4,9:32,DAL,JaVale McGee,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,103,100,0.766,0.686,9:47
+4,8:29,ATL,Jalen Johnson,Personal Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,107,100,0.814,0.826,8:42
+4,7:52,ATL,Dejounte Murray,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,107,103,0.595,0.69,8:01
+4,5:38,ATL,Clint Capela,Loose Ball Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,113,109,0.612,0.707,5:38
+4,3:38,ATL,Dejounte Murray,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,117,115,0.534,0.667,3:38
+4,2:28,ATL,Dejounte Murray,Personal Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,119,115,0.646,0.755,2:39
+4,1.0,ATL,Clint Capela,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,123,121,0.945,0.646,21.1
+4,0.1,ATL,Clint Capela,Personal Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,123,122,0.247,0.979,0.1
+5,2:30,DAL,JaVale McGee,Shooting Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,127,126,0.699,0.631,2:30
+5,1:50,ATL,Saddiq Bey,Personal Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,128,128,0.284,0.455,1:50
+5,6.1,DAL,Luka Doncic,Personal Take Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,130,130,0.84,0.508,25.1
+5,1.1,DAL,Kyrie Irving,Personal Foul,Foul,Mark Lindsay,Jacyn Goble,Natalie Sago,ATL,130,130,0.935,0.533,6.1

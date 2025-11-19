@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:50,MIN,D'Angelo Russell,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,0,0,0.729,0.73,12:00
+1,10:44,GS,Jordan Poole,Loose Ball Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,2,2,0.706,0.707,10:44
+1,8:23,MIN,D'Angelo Russell,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,10,10,0.718,0.719,8:35
+1,7:36,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,13,13,0.744,0.715,7:40
+1,6:49,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,16,13,0.798,0.772,6:57
+1,6:34,GS,Kevon Looney,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,17,13,0.771,0.77,6:36
+1,6:29,GS,Andrew Wiggins,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,17,13,0.771,0.771,6:34
+1,5:01,GS,Kevon Looney,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,19,16,0.715,0.747,5:12
+1,3:05,GS,Andre Iguodala,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,23,19,0.762,0.763,3:18
+1,1:34,GS,Stephen Curry,Offensive Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,25,24,0.691,0.719,1:47
+1,11.1,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,30,28,0.763,0.734,31.8
+2,10:57,GS,Gary Payton II,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,34,28,0.778,0.794,11:11
+2,10:27,GS,Gary Payton II,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,39,29,0.863,0.863,10:31
+2,10:14,GS,Otto Porter Jr.,Loose Ball Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,39,29,0.864,0.863,10:14
+2,9:12,MIN,Josh Okogie,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,41,32,0.884,0.864,9:37
+2,8:54,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,42,32,0.887,0.878,8:58
+2,8:32,GS,Otto Porter Jr.,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,43,32,0.865,0.877,8:35
+2,8:22,MIN,Malik Beasley,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,43,34,0.862,0.861,8:32
+2,5:54,MIN,Patrick Beverley,Offensive Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,52,36,0.93,0.936,6:17
+2,5:18,MIN,Patrick Beverley,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,52,38,0.922,0.928,5:37
+2,3:36,MIN,Naz Reid,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,56,40,0.958,0.946,5:53
+2,1:53,MIN,Patrick Beverley,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,62,48,0.947,0.933,2:10
+2,1:01,MIN,Patrick Beverley,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,65,48,0.968,0.959,1:12
+2,22.2,GS,Jordan Poole,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,67,51,0.929,0.944,29.6
+3,10:44,GS,Kevon Looney,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,73,56,0.944,0.956,10:51
+3,9:46,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,75,57,0.979,0.972,9:58
+3,9:10,GS,Stephen Curry,Clear Path Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,77,57,0.978,0.978,9:10
+3,8:58,MIN,D'Angelo Russell,Personal Take Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,77,58,0.978,0.979,8:58
+3,8:28,GS,Kevon Looney,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,77,58,0.965,0.974,8:33
+3,7:02,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,77,60,0.971,0.972,7:02
+3,6:45,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,77,60,0.976,0.972,6:45
+3,3:43,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,84,71,0.962,0.947,3:56
+3,1:31,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,86,80,0.864,0.824,1:39
+3,33.3,MIN,Jarred Vanderbilt,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,91,84,0.892,0.855,33.3
+4,11:47,MIN,Naz Reid,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,93,84,0.939,0.898,12:00
+4,10:38,GS,Nemanja Bjelica,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,95,84,0.931,0.936,10:46
+4,9:16,GS,Otto Porter Jr.,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,98,90,0.865,0.873,9:28
+4,8:21,MIN,Naz Reid,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,101,90,0.976,0.958,8:36
+4,6:18,MIN,Patrick Beverley,Double Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,105,95,0.965,0.963,6:22
+4,3:22,GS,Andre Iguodala,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,111,102,0.917,0.962,3:27
+4,3:13,MIN,Anthony Edwards,Personal Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,111,103,0.983,0.962,3:22
+4,1:02,MIN,Karl-Anthony Towns,Personal Take Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,118,105,0.999,0.999,1:04
+4,58.6,MIN,D'Angelo Russell,Personal Take Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,118,105,0.999,0.999,1:02
+4,33.4,MIN,Karl-Anthony Towns,Personal Take Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,120,108,0.999,0.999,40.3
+4,15.1,MIN,Karl-Anthony Towns,Personal Take Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,121,108,0.999,0.999,23.3
+4,1.3,GS,Moses Moody,Shooting Foul,Foul,Sean Wright,Karl Lane,John Butler,GS,123,108,0.999,0.999,1.3

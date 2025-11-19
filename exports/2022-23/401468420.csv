@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:59,MIA,Bam Adebayo,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,2,7,0.328,0.37,9:59
+1,9:37,MIA,Tyler Herro,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,2,10,0.261,0.298,9:37
+1,8:43,MIA,Tyler Herro,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,4,11,0.265,0.3,8:53
+1,7:49,MIA,Kyle Lowry,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,6,13,0.263,0.299,8:01
+1,6:27,WSH,Will Barton,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,12,17,0.368,0.365,6:35
+1,6:12,WSH,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,12,17,0.405,0.367,6:22
+1,5:33,WSH,Deni Avdija,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,14,19,0.385,0.342,5:33
+1,4:29,WSH,Kristaps Porzingis,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,15,19,0.431,0.391,4:32
+1,2:56,MIA,Dewayne Dedmon,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,18,21,0.351,0.391,3:04
+1,57.5,WSH,Daniel Gafford,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,23,21,0.597,0.556,1:14
+2,11:29,MIA,Tyler Herro,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,30,26,0.588,0.589,11:29
+2,11:04,WSH,Jordan Goodwin,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,30,26,0.617,0.619,11:10
+2,8:38,WSH,Daniel Gafford,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,34,30,0.643,0.591,8:38
+2,7:27,WSH,Anthony Gill,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,35,32,0.639,0.594,7:30
+2,5:38,WSH,Deni Avdija,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,43,37,0.728,0.687,5:40
+2,4:09,WSH,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,50,37,0.873,0.86,4:09
+2,3:59,WSH,Daniel Gafford,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,52,37,0.915,0.894,3:59
+2,3:51,MIA,Bam Adebayo,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,54,37,0.886,0.91,3:59
+2,3:32,MIA,Jamal Cain,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,54,40,0.848,0.88,3:32
+2,59.4,WSH,Corey Kispert,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,58,43,0.928,0.908,59.4
+2,21.3,MIA,Kyle Lowry,Loose Ball Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,60,43,0.903,0.924,21.3
+3,10:19,MIA,Kyle Lowry,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,66,45,0.959,0.968,10:43
+3,10:05,MIA,Kyle Lowry,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,66,46,0.951,0.97,10:19
+3,6:48,MIA,Bam Adebayo,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,70,59,0.852,0.851,6:50
+3,6:25,WSH,Jordan Goodwin,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,70,59,0.876,0.877,6:27
+3,4:45,MIA,Kyle Lowry,Loose Ball Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,75,65,0.798,0.842,4:45
+3,1:23,WSH,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,80,74,0.804,0.739,1:23
+3,1:06,MIA,Caleb Martin,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,81,74,0.714,0.774,1:23
+4,11:27,WSH,Kyle Kuzma,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,83,82,0.585,0.568,11:39
+4,11:13,WSH,Anthony Gill,Loose Ball Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,83,82,0.597,0.578,11:13
+4,10:00,MIA,Jamal Cain,Loose Ball Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,89,86,0.626,0.64,10:00
+4,7:17,MIA,Jamal Cain,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,97,98,0.35,0.474,7:17
+4,7:02,WSH,Will Barton,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,100,98,0.714,0.588,7:02
+4,5:25,WSH,Deni Avdija,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,99,98,0.721,0.612,5:32
+4,3:47,MIA,Bam Adebayo,Shooting Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,104,100,0.698,0.831,3:47
+4,2:39,MIA,Caleb Martin,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,107,103,0.662,0.788,2:49
+4,25.8,WSH,Kristaps Porzingis,Personal Foul,Foul,Matt Boland,Scott Wall,Ben Taylor,MIA,111,105,0.994,0.975,33.2

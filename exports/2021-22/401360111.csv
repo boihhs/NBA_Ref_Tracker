@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:41,BOS,Al Horford,Loose Ball Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,2,0,0.54,0.54,10:41
+1,10:00,SA,Jakob Poeltl,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,4,0,0.528,0.565,10:09
+1,2:37,BOS,Marcus Smart,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,26,7,0.909,0.908,2:37
+1,2:03,BOS,Dennis Schroder,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,26,9,0.884,0.883,2:08
+1,1:21,SA,Keldon Johnson,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,26,9,0.847,0.872,1:28
+1,30.3,SA,Bryn Forbes,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,28,9,0.909,0.903,33.0
+2,10:25,SA,Joshua Primo,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,36,14,0.94,0.939,10:45
+2,8:22,SA,Tre Jones,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,40,16,0.962,0.962,8:23
+2,8:22,SA,Dejounte Murray,Technical Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,40,16,0.957,0.962,8:22
+2,7:40,SA,Dejounte Murray,Offensive Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,40,19,0.94,0.948,8:04
+2,7:26,SA,Jakob Poeltl,Flagrant Foul Type 1,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,40,21,0.911,0.932,7:26
+2,4:51,BOS,Dennis Schroder,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,42,31,0.817,0.818,4:51
+2,3:46,BOS,Aaron Nesmith,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,42,33,0.774,0.774,3:58
+2,2:59,BOS,Grant Williams,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,42,35,0.764,0.723,3:19
+2,6.4,BOS,Aaron Nesmith,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,50,37,0.903,0.878,17.3
+2,0.4,BOS,Al Horford,Flagrant Foul Type 1,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,50,37,0.903,0.903,6.4
+3,10:15,SA,Jakob Poeltl,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,54,40,0.861,0.886,10:26
+3,6:37,BOS,Jaylen Brown,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,58,45,0.912,0.912,6:39
+3,5:58,SA,Dejounte Murray,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,58,47,0.856,0.856,6:05
+3,4:36,SA,Jakob Poeltl,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,60,51,0.791,0.841,4:36
+3,4:16,BOS,Grant Williams,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,60,51,0.879,0.842,4:32
+3,4:05,SA,Tre Jones,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,61,51,0.802,0.844,4:13
+3,3:12,BOS,Romeo Langford,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,63,56,0.839,0.795,3:23
+3,2:05,BOS,Jayson Tatum,Offensive Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,65,58,0.806,0.77,2:07
+3,3.1,BOS,Dennis Schroder,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,70,63,0.806,0.823,4.0
+4,11:54,SA,Bryn Forbes,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,70,63,0.78,0.805,12:00
+4,11:01,SA,Lonnie Walker IV,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,70,65,0.622,0.709,11:05
+4,9:18,SA,Keita Bates-Diop,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,72,68,0.568,0.671,9:21
+4,5:52,BOS,Grant Williams,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,76,81,0.295,0.207,6:07
+4,4:59,SA,Derrick White,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,79,84,0.089,0.152,5:23
+4,4:39,BOS,Jayson Tatum,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,79,86,0.171,0.104,4:59
+4,3:59,BOS,Marcus Smart,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,81,86,0.194,0.176,3:59
+4,2:30,BOS,Jaylen Brown,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,83,88,0.254,0.14,2:32
+4,5.4,BOS,Al Horford,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,93,88,0.998,0.992,5.4
+4,2.4,BOS,Jayson Tatum,Personal Take Foul,Foul,Marc Davis,Phenizee Ransom,Lauren Holtkamp,SA,94,88,0.999,0.999,2.4

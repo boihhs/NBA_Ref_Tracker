@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:31,POR,Deandre Ayton,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,0,5,0.421,0.441,10:31
+1,9:49,POR,Anfernee Simons,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,0,7,0.35,0.388,10:01
+1,9:05,POR,Malcolm Brogdon,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,3,10,0.366,0.409,9:05
+1,5:39,WSH,Daniel Gafford,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,11,22,0.297,0.271,5:50
+1,3:44,WSH,Bilal Coulibaly,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,15,28,0.24,0.242,3:56
+1,1:31,POR,Jabari Walker,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,19,31,0.197,0.23,1:44
+1,1:19,POR,Duop Reath,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,19,31,0.196,0.229,1:19
+1,58.1,WSH,Mike Muscala,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,21,31,0.319,0.272,58.1
+1,3.0,WSH,Bilal Coulibaly,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,22,33,0.308,0.271,12.0
+2,11:20,WSH,Bilal Coulibaly,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,26,35,0.339,0.317,11:36
+2,10:45,POR,Jerami Grant,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,30,40,0.245,0.286,10:45
+2,9:15,WSH,Mike Muscala,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,35,44,0.306,0.307,9:30
+2,9:06,WSH,Deni Avdija,Defensive 3-Seconds Technical,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,35,44,0.299,0.306,9:15
+2,8:25,POR,Jabari Walker,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,38,47,0.275,0.275,8:25
+2,6:16,POR,Toumani Camara,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,40,53,0.156,0.191,6:16
+2,4:48,POR,Toumani Camara,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,43,58,0.101,0.124,5:03
+2,4:48,WSH,Kyle Kuzma,Technical Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,43,58,0.157,0.101,4:48
+2,3:35,POR,Duop Reath,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,47,58,0.165,0.201,3:52
+2,3:10,POR,Jerami Grant,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,47,60,0.124,0.152,3:21
+2,1:32,WSH,Jordan Poole,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,49,61,0.224,0.187,1:37
+2,1:23,WSH,Daniel Gafford,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,49,61,0.223,0.224,1:32
+2,35.0,POR,Toumani Camara,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,54,63,0.19,0.234,50.1
+3,11:19,WSH,Deni Avdija,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,56,67,0.195,0.198,11:24
+3,8:22,POR,Deandre Ayton,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,62,73,0.118,0.15,8:27
+3,7:57,POR,Jerami Grant,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,62,77,0.064,0.088,7:57
+3,6:56,POR,Jabari Walker,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,64,80,0.056,0.056,7:10
+3,6:17,POR,Deandre Ayton,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,67,85,0.033,0.043,6:28
+3,6:05,POR,Duop Reath,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,67,85,0.023,0.033,6:17
+3,5:20,WSH,Daniel Gafford,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,69,85,0.082,0.061,5:27
+3,4:09,WSH,Daniel Gafford,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,74,88,0.093,0.081,4:11
+3,3:53,WSH,Tyus Jones,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,75,88,0.129,0.096,3:55
+3,3:46,WSH,Bilal Coulibaly,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,75,88,0.127,0.129,3:53
+3,3:27,POR,Duop Reath,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,77,88,0.082,0.115,3:46
+3,3:15,POR,Scoot Henderson,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,77,89,0.087,0.112,3:24
+3,2:52,POR,Matisse Thybulle,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,77,89,0.062,0.087,3:15
+3,1:43,WSH,Bilal Coulibaly,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,80,90,0.187,0.145,2:02
+4,10:21,POR,Scoot Henderson,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,86,95,0.069,0.106,10:29
+4,9:46,WSH,Jordan Poole,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,88,97,0.184,0.124,9:50
+4,8:49,POR,Matisse Thybulle,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,92,99,0.136,0.148,9:10
+4,7:03,POR,Scoot Henderson,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,94,104,0.028,0.051,7:23
+4,3:48,POR,Malcolm Brogdon,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,108,110,0.195,0.301,3:57
+4,3:28,WSH,Jordan Poole,Flopping Technical,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,110,112,0.358,0.281,3:28
+4,2:08,POR,Jerami Grant,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,111,114,0.18,0.26,2:23
+4,1:47,WSH,Daniel Gafford,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,111,114,0.415,0.246,1:51
+4,31.0,WSH,Daniel Gafford,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,114,116,0.5,0.347,36.2
+4,15.0,POR,Malcolm Brogdon,Personal Take Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,115,116,0.135,0.312,22.0
+4,12.0,POR,Anfernee Simons,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Mitchell Ervin,POR,115,117,0.104,0.165,12.0

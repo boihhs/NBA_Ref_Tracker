@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:26,TOR,Fred VanVleet,Personal Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,2,0,0.763,0.764,10:32
+1,9:03,SAC,Tyrese Haliburton,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,5,2,0.73,0.761,9:18
+1,8:14,TOR,Gary Trent Jr.,Personal Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,7,6,0.736,0.737,8:21
+1,7:27,TOR,Scottie Barnes,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,9,9,0.743,0.714,7:39
+1,4:57,TOR,Scottie Barnes,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,15,13,0.776,0.747,5:12
+1,3:54,TOR,Chris Boucher,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,17,17,0.732,0.7,4:07
+1,3:38,SAC,Harrison Barnes,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,19,17,0.686,0.722,3:54
+1,3:18,TOR,Dalano Banton,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,19,19,0.731,0.697,3:38
+1,2:30,TOR,Pascal Siakam,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,21,21,0.728,0.694,2:44
+1,2:00,TOR,Pascal Siakam,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,24,21,0.774,0.737,2:00
+1,1:15,SAC,Buddy Hield,Loose Ball Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,27,21,0.767,0.796,1:15
+1,44.7,SAC,Tyrese Haliburton,Personal Take Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,27,24,0.699,0.735,47.5
+1,26.6,SAC,Tristan Thompson,Loose Ball Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,27,26,0.644,0.686,26.6
+1,1.3,SAC,Davion Mitchell,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,27,28,0.609,0.633,1.3
+2,11:08,TOR,Svi Mykhailiuk,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,27,32,0.585,0.542,11:13
+2,9:07,TOR,Dalano Banton,Loose Ball Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,28,38,0.355,0.371,9:07
+2,8:07,TOR,Svi Mykhailiuk,Personal Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,31,38,0.456,0.457,8:11
+2,8:00,TOR,Precious Achiuwa,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,31,38,0.503,0.456,8:07
+2,7:44,SAC,Davion Mitchell,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,32,40,0.367,0.42,7:44
+2,7:24,TOR,Svi Mykhailiuk,Personal Take Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,32,41,0.386,0.386,7:24
+2,5:58,SAC,Richaun Holmes,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,36,41,0.422,0.472,6:09
+2,4:31,TOR,Gary Trent Jr.,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,38,48,0.354,0.299,4:31
+2,3:29,SAC,Harrison Barnes,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,40,51,0.219,0.259,3:38
+2,5.3,SAC,Tristan Thompson,Loose Ball Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,45,61,0.111,0.111,5.4
+3,10:28,TOR,Gary Trent Jr.,Personal Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,45,71,0.015,0.221,2:29
+3,9:11,TOR,Fred VanVleet,Personal Take Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,49,71,0.031,0.031,9:11
+3,9:04,TOR,Fred VanVleet,Personal Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,49,71,0.03,0.031,9:11
+3,8:15,SAC,De'Aaron Fox,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,49,73,0.009,0.013,8:19
+3,8:10,TOR,Gary Trent Jr.,Personal Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,49,74,0.018,0.013,8:15
+3,8:02,SAC,Harrison Barnes,Personal Take Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,49,74,0.01,0.009,8:02
+3,7:46,SAC,Richaun Holmes,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,49,74,0.008,0.009,7:46
+3,7:14,TOR,Khem Birch,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,49,78,0.005,0.003,7:25
+3,2:21,SAC,Buddy Hield,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,62,90,0.001,0.001,2:21
+4,5:22,SAC,Terence Davis,Personal Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,81,100,0.001,0.001,5:37
+4,3:10,SAC,Davion Mitchell,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,81,102,0.001,0.001,3:11
+4,2:52,TOR,Khem Birch,Loose Ball Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,81,104,0.001,0.001,3:10
+4,2:00,TOR,Justin Champagnie,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,83,107,0.001,0.001,2:00
+4,1:52,TOR,Chris Boucher,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,83,107,0.001,0.001,1:56
+4,37.1,SAC,Marvin Bagley III,Shooting Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,88,107,0.001,0.001,1:00
+4,19.8,TOR,Chris Boucher,Loose Ball Foul,Foul,Rodney Mott,Brett Nansel,Aaron Smith,SAC,88,108,0.001,0.001,19.8

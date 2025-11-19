@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:49,MIL,Brook Lopez,Offensive Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,8,8,0.489,0.51,9:02
+1,7:47,MIL,Grayson Allen,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,8,10,0.435,0.435,7:47
+1,5:58,ATL,Trae Young,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,10,15,0.38,0.381,6:03
+1,5:14,ATL,De'Andre Hunter,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,10,15,0.418,0.381,5:26
+1,4:24,MIL,Jordan Nwora,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,14,15,0.458,0.459,4:45
+1,2:25,ATL,Trae Young,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,22,22,0.535,0.487,2:25
+1,39.8,MIL,Jrue Holiday,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,25,24,0.468,0.511,48.4
+2,10:11,MIL,Jordan Nwora,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,32,27,0.588,0.63,10:22
+2,9:42,MIL,Bobby Portis,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,32,29,0.575,0.572,9:51
+2,9:24,MIL,Bobby Portis,Offensive Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,32,31,0.515,0.547,9:35
+2,8:58,MIL,Serge Ibaka,Offensive Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,32,31,0.515,0.547,9:02
+2,8:46,MIL,George Hill,Loose Ball Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,32,31,0.517,0.515,8:46
+2,7:43,MIL,Pat Connaughton,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,35,33,0.501,0.549,7:51
+2,6:52,ATL,Trae Young,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,35,38,0.425,0.426,6:57
+2,6:28,ATL,Jarrett Culver,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,38,38,0.565,0.517,6:31
+2,5:59,ATL,Jarrett Culver,Flagrant Foul Type 1,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,39,38,0.538,0.548,6:15
+2,5:29,MIL,Brook Lopez,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,41,38,0.532,0.579,5:35
+2,5:18,MIL,Brook Lopez,Offensive Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,41,40,0.517,0.548,5:29
+2,3:37,ATL,John Collins,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,45,48,0.442,0.418,3:37
+2,2:56,ATL,De'Andre Hunter,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,47,51,0.433,0.387,3:05
+2,1:26,MIL,Bobby Portis,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,51,57,0.245,0.297,1:45
+2,48.0,ATL,Trae Young,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,53,61,0.302,0.253,55.2
+3,11:34,MIL,Serge Ibaka,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,55,63,0.221,0.222,11:43
+3,10:07,MIL,Jordan Nwora,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,55,70,0.067,0.088,10:07
+3,9:30,ATL,Clint Capela,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,55,71,0.072,0.073,9:35
+3,9:28,ATL,Tyrese Martin,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,55,71,0.073,0.072,9:30
+3,8:44,ATL,Aaron Holiday,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,55,71,0.069,0.069,8:49
+3,8:44,ATL,Aaron Holiday,Away from Play Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,55,71,0.09,0.069,8:44
+3,8:41,MIL,Serge Ibaka,Offensive Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,56,71,0.069,0.069,8:44
+3,8:29,MIL,Serge Ibaka,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,56,73,0.04,0.056,8:29
+3,5:20,MIL,Serge Ibaka,Offensive Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,65,79,0.064,0.079,5:24
+3,4:09,ATL,Malik Ellison,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,65,84,0.033,0.023,4:10
+3,3:16,MIL,Sandro Mamukelashvili,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,69,86,0.017,0.026,3:24
+3,3:04,ATL,Onyeka Okongwu,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,69,88,0.029,0.02,3:16
+3,1:31,ATL,Vit Krejci,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,72,90,0.03,0.02,1:33
+3,1:19,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,72,90,0.009,0.014,1:28
+4,11:28,ATL,Vit Krejci,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,75,96,0.008,0.005,11:45
+4,10:41,ATL,Vit Krejci,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,77,98,0.004,0.004,10:47
+4,9:59,ATL,AJ Griffin,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,77,100,0.003,0.001,10:03
+4,9:27,ATL,Tyson Etienne,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,79,100,0.006,0.003,9:29
+4,9:00,ATL,Chris Silva,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,79,100,0.005,0.002,9:04
+4,8:29,MIL,Marques Bolden,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,82,102,0.001,0.003,8:29
+4,7:14,ATL,Chris Silva,Loose Ball Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,84,103,0.006,0.003,7:14
+4,7:13,ATL,Tyrese Martin,Loose Ball Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,85,103,0.009,0.005,7:14
+4,6:58,MIL,AJ Green,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,87,103,0.004,0.007,7:13
+4,5:13,ATL,Chris Silva,Offensive Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,90,109,0.001,0.001,5:16
+4,4:40,ATL,Armoni Brooks,Shooting Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,90,109,0.001,0.001,4:45
+4,2:18,ATL,Chris Silva,Loose Ball Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,98,111,0.008,0.003,2:18
+4,1:51,MIL,Lindell Wigginton,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,100,111,0.001,0.004,2:05
+4,1:18,MIL,MarJon Beauchamp,Personal Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,103,113,0.001,0.004,1:29
+4,1:03,MIL,Lindell Wigginton,Offensive Foul,Foul,Eric Lewis,Ben Taylor,Ray Acosta,MIL,103,115,0.001,0.001,1:18

@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:14,LAL,Dennis Schroder,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,11,8,0.512,0.559,8:14
+1,5:19,SAC,Harrison Barnes,Personal Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,19,18,0.508,0.51,5:25
+1,4:27,SAC,Davion Mitchell,Loose Ball Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,21,18,0.564,0.565,4:27
+1,3:14,LAL,Dennis Schroder,Offensive Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,25,20,0.594,0.624,3:20
+1,1:54,SAC,Malik Monk,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,30,20,0.783,0.753,1:56
+1,1:19,LAL,Kendrick Nunn,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,34,22,0.757,0.795,1:19
+2,11:13,LAL,Thomas Bryant,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,41,30,0.744,0.763,11:13
+2,10:07,SAC,Malik Monk,Personal Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,41,32,0.742,0.743,10:12
+2,9:19,LAL,Russell Westbrook,Technical Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,43,34,0.7,0.72,9:19
+2,8:44,SAC,Chimezie Metu,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,43,36,0.735,0.697,8:59
+2,5:50,SAC,Trey Lyles,Personal Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,49,45,0.617,0.619,6:05
+2,5:20,SAC,Trey Lyles,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,49,45,0.666,0.619,5:25
+2,4:12,LAL,Wenyen Gabriel,Loose Ball Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,51,48,0.559,0.556,4:12
+2,3:59,LAL,Dennis Schroder,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,51,48,0.51,0.559,4:12
+2,3:47,SAC,De'Aaron Fox,Defensive 3-Seconds Technical,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,51,50,0.519,0.527,3:59
+2,3:03,LAL,Wenyen Gabriel,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,56,52,0.546,0.594,3:09
+2,54.0,LAL,Max Christie,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,56,59,0.336,0.391,54.0
+2,47.1,SAC,Richaun Holmes,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,56,59,0.448,0.391,51.1
+3,11:12,SAC,Keegan Murray,Loose Ball Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,60,63,0.394,0.393,11:12
+3,10:16,LAL,Patrick Beverley,Personal Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,62,63,0.428,0.429,10:23
+3,10:08,LAL,Troy Brown Jr.,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,62,63,0.375,0.428,10:16
+3,4:37,SAC,Keegan Murray,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,72,79,0.287,0.234,4:44
+3,2:16,SAC,Davion Mitchell,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,74,88,0.079,0.057,2:22
+3,1:50,SAC,Trey Lyles,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,75,88,0.095,0.068,1:54
+4,11:31,LAL,Kendrick Nunn,Personal Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,84,90,0.183,0.196,11:45
+4,11:09,SAC,Chimezie Metu,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,84,90,0.303,0.225,11:11
+4,10:54,LAL,Kendrick Nunn,Personal Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,86,90,0.254,0.269,11:09
+4,10:00,LAL,Max Christie,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,88,92,0.182,0.256,10:17
+4,8:51,LAL,Juan Toscano-Anderson,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,94,96,0.254,0.337,9:06
+4,8:17,LAL,Kendrick Nunn,Personal Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,94,97,0.206,0.274,8:30
+4,6:45,LAL,Dennis Schroder,Personal Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,101,100,0.4,0.494,7:00
+4,1:10,SAC,Keegan Murray,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,107,108,0.52,0.315,1:10
+4,50.0,LAL,Russell Westbrook,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,108,110,0.176,0.357,50.0
+4,12.1,LAL,Juan Toscano-Anderson,Shooting Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,108,111,0.031,0.129,30.1
+4,5.0,LAL,Max Christie,Clear Path Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,111,112,0.06,0.199,7.0
+4,4.0,LAL,Wenyen Gabriel,Personal Take Foul,Foul,Eric Lewis,Lauren Holtkamp,Brandon Schwab,LAL,111,114,0.01,0.186,5.0

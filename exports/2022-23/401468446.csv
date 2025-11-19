@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:17,GS,Draymond Green,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,8,12,0.379,0.38,8:17
+1,7:42,MIN,Austin Rivers,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,13,14,0.41,0.456,7:42
+1,3:39,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,17,37,0.069,0.08,3:55
+1,2:02,MIN,Jaylen Nowell,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,23,40,0.08,0.098,2:12
+1,1:14,GS,Donte DiVincenzo,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,25,44,0.102,0.085,1:36
+2,10:36,MIN,Kyle Anderson,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,33,47,0.13,0.129,10:41
+2,10:33,MIN,Bryn Forbes,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,33,47,0.132,0.13,10:36
+2,10:28,MIN,Rudy Gobert,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,33,47,0.108,0.132,10:33
+2,10:20,MIN,Kyle Anderson,Offensive Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,33,48,0.115,0.13,10:28
+2,9:50,GS,Anthony Lamb,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,33,51,0.087,0.088,10:05
+2,8:50,GS,Anthony Lamb,Loose Ball Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,38,51,0.159,0.159,8:50
+2,8:39,GS,Jordan Poole,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,38,51,0.157,0.159,8:50
+2,8:34,GS,Anthony Lamb,Loose Ball Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,38,51,0.185,0.158,8:34
+2,8:16,MIN,Rudy Gobert,Loose Ball Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,38,51,0.115,0.139,8:16
+2,7:57,MIN,Naz Reid,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,38,51,0.114,0.115,8:16
+2,6:30,GS,Jonathan Kuminga,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,40,59,0.075,0.057,6:30
+2,5:20,GS,Andrew Wiggins,Offensive Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,40,64,0.027,0.023,5:35
+2,5:07,GS,Kevon Looney,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,40,64,0.036,0.027,5:20
+2,3:46,GS,Klay Thompson,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,42,68,0.022,0.016,3:55
+2,3:25,MIN,Anthony Edwards,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,46,70,0.016,0.023,3:25
+2,2:33,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,49,71,0.02,0.028,2:38
+2,2:14,GS,Andrew Wiggins,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,49,72,0.035,0.028,2:30
+2,1:16,MIN,Austin Rivers,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,52,72,0.027,0.037,1:27
+2,39.6,GS,Draymond Green,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,52,74,0.037,0.028,41.8
+2,2.0,MIN,Austin Rivers,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,56,74,0.036,0.026,1:45
+3,9:15,GS,Stephen Curry,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,58,83,0.014,0.009,9:25
+3,5:26,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,72,96,0.005,0.007,5:42
+3,5:01,GS,Jordan Poole,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,72,99,0.002,0.002,5:14
+3,4:55,MIN,Kyle Anderson,Offensive Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,72,99,0.001,0.002,5:01
+3,4:38,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,72,99,0.001,0.001,4:55
+3,4:12,GS,Klay Thompson,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,75,100,0.006,0.003,4:26
+3,3:13,GS,Jordan Poole,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,77,102,0.005,0.003,3:27
+3,2:51,GS,JaMychal Green,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,80,104,0.006,0.004,2:57
+3,1:13,GS,JaMychal Green,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,81,106,0.003,0.002,1:24
+3,1:04,GS,Jonathan Kuminga,Clear Path Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,82,106,0.004,0.002,1:04
+4,11:42,MIN,Jaylen Nowell,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,89,109,0.002,0.007,12:00
+4,9:47,GS,Donte DiVincenzo,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,93,114,0.004,0.001,9:47
+4,9:40,GS,Jordan Poole,Offensive Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,94,114,0.004,0.002,9:47
+4,9:26,GS,Andrew Wiggins,Offensive Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,94,114,0.003,0.002,9:32
+4,8:40,GS,Anthony Lamb,Loose Ball Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,96,114,0.007,0.006,8:40
+4,8:25,GS,Andrew Wiggins,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,96,114,0.012,0.007,8:40
+4,8:02,MIN,D'Angelo Russell,Shooting Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,98,114,0.004,0.008,8:07
+4,7:19,GS,Kevon Looney,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,100,118,0.009,0.004,7:27
+4,6:30,MIN,D'Angelo Russell,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,103,118,0.007,0.008,6:34
+4,1:19,GS,Draymond Green,Technical Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,113,134,0.001,0.001,1:20
+4,27.6,GS,Stephen Curry,Technical Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,114,137,0.001,0.001,28.9
+4,19.6,GS,Donte DiVincenzo,Personal Foul,Foul,Sean Wright,J.T. Orr,Aaron Smith,MIN,114,137,0.001,0.001,27.6

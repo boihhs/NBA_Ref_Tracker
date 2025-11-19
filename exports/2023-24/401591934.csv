@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:11,CLE,Caris LeVert,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,2,4,0.498,0.46,10:11
+1,9:53,CLE,Donovan Mitchell,Personal Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,3,4,0.485,0.486,9:57
+1,8:54,IND,Obi Toppin,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,6,4,0.499,0.537,8:57
+1,7:55,CLE,Evan Mobley,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,6,6,0.55,0.513,7:58
+1,7:14,IND,Myles Turner,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,8,6,0.499,0.538,7:24
+1,3:43,CLE,Caris LeVert,Personal Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,19,14,0.686,0.649,3:44
+1,1:47,CLE,Ty Jerome,Personal Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,21,19,0.611,0.569,1:53
+1,1:11,IND,Jalen Smith,Offensive Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,23,22,0.512,0.544,1:28
+1,47.1,IND,Buddy Hield,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,23,22,0.468,0.512,49.1
+2,10:07,CLE,Damian Jones,Offensive Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,26,33,0.313,0.286,10:11
+2,9:13,IND,Jalen Smith,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,28,38,0.183,0.234,9:13
+2,8:01,IND,Bennedict Mathurin,Offensive Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,34,39,0.335,0.364,8:11
+2,6:45,CLE,Caris LeVert,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,34,41,0.347,0.306,7:02
+2,4:39,CLE,Max Strus,Transition Take Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,40,41,0.484,0.484,4:39
+2,4:15,CLE,Georges Niang,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,41,41,0.566,0.518,4:17
+2,2:57,IND,Bruce Brown,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,48,45,0.533,0.581,3:10
+2,2:08,CLE,Max Strus,Personal Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,48,49,0.481,0.482,2:20
+2,1:16,CLE,Evan Mobley,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,53,51,0.608,0.552,1:16
+2,16.1,CLE,Dean Wade,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,54,51,0.671,0.619,32.2
+3,11:46,IND,Myles Turner,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,56,51,0.605,0.666,12:00
+3,10:57,IND,Myles Turner,Offensive Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,56,52,0.625,0.659,11:02
+3,10:27,CLE,Dean Wade,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,56,52,0.709,0.661,10:32
+3,6:47,CLE,Max Strus,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,63,62,0.618,0.559,6:49
+3,6:19,CLE,Max Strus,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,64,62,0.657,0.601,6:30
+3,6:04,IND,Jalen Smith,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,66,64,0.529,0.601,6:04
+3,4:06,CLE,Donovan Mitchell,Personal Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,68,70,0.5,0.435,4:08
+3,3:57,CLE,Donovan Mitchell,Personal Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,68,70,0.5,0.5,4:06
+3,3:35,CLE,Evan Mobley,Offensive Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,70,70,0.522,0.477,3:57
+3,21.1,IND,Jalen Smith,Hanging Technical Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,82,78,0.678,0.666,21.1
+3,11.1,IND,Andrew Nembhard,Personal Take Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,82,78,0.595,0.666,21.1
+3,1.1,CLE,Evan Mobley,Hanging Technical Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,82,80,0.608,0.625,1.1
+4,11:43,CLE,Ty Jerome,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,83,80,0.75,0.646,12:00
+4,11:14,IND,Aaron Nesmith,Offensive Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,84,82,0.583,0.633,11:19
+4,9:21,CLE,Tristan Thompson,Loose Ball Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,89,87,0.658,0.644,9:21
+4,8:37,IND,Aaron Nesmith,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,92,90,0.495,0.597,8:41
+4,7:42,CLE,Tristan Thompson,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,94,92,0.752,0.658,7:44
+4,4:03,IND,Isaiah Jackson,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,102,94,0.871,0.93,4:07
+4,3:13,CLE,Craig Porter Jr.,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,104,98,0.943,0.88,3:13
+4,1:45,IND,Ben Sheppard,Hanging Technical Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,109,100,0.985,0.984,1:45
+4,44.1,IND,Jordan Nwora,Personal Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,109,101,0.951,0.986,48.0
+4,5.1,IND,Ben Sheppard,Shooting Foul,Foul,Tyler Ford,Jenna Schroeder,Suyash Mehta,IND,109,103,0.961,0.98,12.1

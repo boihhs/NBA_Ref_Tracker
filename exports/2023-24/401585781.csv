@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:21,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,4,6,0.657,0.691,10:36
+1,9:45,SAC,Domantas Sabonis,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,6,8,0.739,0.709,9:54
+1,7:42,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,11,14,0.615,0.652,7:51
+1,6:58,OKC,Luguentz Dort,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,13,16,0.653,0.649,7:11
+1,4:46,SAC,Harrison Barnes,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,20,29,0.54,0.502,5:03
+1,1:27,SAC,Alex Len,Loose Ball Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,23,29,0.596,0.555,1:27
+1,51.1,OKC,Isaiah Joe,Personal Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,25,29,0.538,0.581,1:15
+2,11:43,SAC,Colby Jones,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,28,31,0.666,0.613,12:00
+2,11:33,OKC,Isaiah Joe,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,29,33,0.548,0.597,11:33
+2,8:27,OKC,Kenrich Williams,Personal Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,32,41,0.389,0.392,8:42
+2,7:02,SAC,Davion Mitchell,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,32,44,0.36,0.316,7:06
+2,6:23,SAC,Domantas Sabonis,Offensive Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,34,47,0.278,0.247,6:28
+2,5:31,OKC,Jaylin Williams,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,34,49,0.157,0.19,5:42
+2,3:49,SAC,Alex Len,Personal Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,36,51,0.196,0.199,3:56
+2,2:59,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,38,51,0.177,0.215,3:02
+2,2:32,OKC,Aaron Wiggins,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,38,51,0.172,0.211,2:45
+2,2:20,SAC,Keon Ellis,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,38,53,0.223,0.185,2:32
+2,18.0,SAC,Keon Ellis,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,44,64,0.094,0.072,22.2
+3,10:51,OKC,Luguentz Dort,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,51,66,0.112,0.145,10:51
+3,8:35,OKC,Josh Giddey,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,58,69,0.205,0.2,8:45
+3,8:08,OKC,Luguentz Dort,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,58,70,0.131,0.168,8:17
+3,4:03,SAC,Alex Len,Offensive Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,72,80,0.273,0.237,4:15
+3,3:14,SAC,Trey Lyles,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,76,83,0.334,0.26,3:14
+3,2:14,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,77,83,0.285,0.333,2:23
+3,1:49,SAC,Colby Jones,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,77,85,0.302,0.244,2:00
+3,1:14,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,79,87,0.148,0.198,1:24
+3,54.1,SAC,Colby Jones,Personal Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,79,87,0.295,0.23,1:01
+4,12:00,SAC,De'Aaron Fox,Technical Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,84,87,0.48,0.448,12:00
+4,10:07,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,89,87,0.54,0.684,10:28
+4,9:52,SAC,De'Aaron Fox,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,91,89,0.728,0.626,9:52
+4,8:59,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,92,91,0.515,0.577,8:59
+4,7:58,OKC,Chet Holmgren,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,95,93,0.512,0.62,8:11
+4,7:42,SAC,Keon Ellis,Offensive Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,95,94,0.614,0.554,7:46
+4,5:49,OKC,Jaylin Williams,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,99,97,0.5,0.615,6:08
+4,5:20,SAC,De'Aaron Fox,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,99,98,0.715,0.607,5:23
+4,4:48,SAC,Keon Ellis,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,100,98,0.785,0.678,4:59
+4,3:53,OKC,Isaiah Joe,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,102,101,0.425,0.543,4:04
+4,2:27,SAC,Domantas Sabonis,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,104,105,0.604,0.457,2:48
+4,1:27,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,105,105,0.699,0.552,1:27
+4,35.1,SAC,Davion Mitchell,Shooting Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,108,105,0.93,0.843,51.1
+4,18.1,SAC,Keon Ellis,Personal Take Foul,Foul,Bill Kennedy,Sean Corbin,Evan Scott,OKC,110,105,0.991,0.952,31.1

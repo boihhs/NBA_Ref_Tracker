@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:53,ORL,Gary Harris,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,4,2,0.829,0.829,9:57
+1,9:50,ORL,Mo Bamba,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,4,2,0.849,0.829,9:53
+1,9:40,SAC,Terence Davis,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,6,2,0.82,0.843,9:50
+1,7:00,SAC,Harrison Barnes,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,13,14,0.756,0.765,7:00
+1,6:49,ORL,Wendell Carter Jr.,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,15,15,0.783,0.765,6:49
+1,6:40,SAC,Richaun Holmes,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,16,15,0.782,0.783,6:49
+1,5:50,SAC,Davion Mitchell,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,18,18,0.73,0.761,5:58
+1,2:19,ORL,R.J. Hampton,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,28,32,0.706,0.671,2:27
+1,11.0,SAC,Alex Len,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,35,34,0.716,0.752,29.5
+2,11:22,SAC,Alex Len,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,38,36,0.768,0.768,11:22
+2,10:32,SAC,Alex Len,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,41,36,0.794,0.822,10:36
+2,8:49,SAC,Marvin Bagley III,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,43,39,0.768,0.798,9:02
+2,5:52,ORL,Wendell Carter Jr.,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,49,43,0.836,0.846,5:55
+2,5:52,ORL,Mo Bamba,Technical Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,49,43,0.858,0.836,5:52
+2,3:09,ORL,Mo Bamba,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,60,55,0.849,0.821,3:20
+2,1:45,SAC,Terence Davis,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,64,59,0.76,0.798,2:05
+2,1:02,SAC,Tristan Thompson,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,66,61,0.757,0.795,1:15
+3,9:36,SAC,Tristan Thompson,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,76,71,0.799,0.788,9:36
+3,7:48,SAC,Terence Davis,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,85,74,0.908,0.907,8:01
+3,6:53,ORL,Wendell Carter Jr.,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,85,74,0.942,0.924,6:56
+3,6:38,SAC,De'Aaron Fox,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,86,74,0.924,0.925,6:49
+3,6:36,SAC,Terence Davis,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,86,74,0.902,0.924,6:38
+3,4:52,SAC,De'Aaron Fox,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,94,78,0.956,0.968,5:09
+3,4:29,SAC,Buddy Hield,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,94,80,0.958,0.931,4:29
+3,4:21,ORL,Cole Anthony,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,94,84,0.936,0.953,4:29
+3,3:11,ORL,Wendell Carter Jr.,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,96,87,0.926,0.903,3:13
+3,2:56,SAC,Tyrese Haliburton,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,98,89,0.883,0.904,2:56
+3,1:53,ORL,Terrence Ross,Personal Take Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,100,90,0.945,0.924,1:54
+3,1:47,ORL,Cole Anthony,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,100,90,0.945,0.945,1:53
+3,53.5,SAC,Alex Len,Offensive Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,102,92,0.911,0.928,54.4
+4,11:16,ORL,Mo Bamba,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,104,94,0.959,0.936,11:26
+4,8:07,SAC,Tristan Thompson,Technical Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,116,102,0.977,0.982,8:09
+4,6:36,SAC,De'Aaron Fox,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,123,107,0.995,0.993,6:45
+4,6:25,ORL,Franz Wagner,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,123,107,0.998,0.996,6:28
+4,5:43,ORL,Gary Harris,Personal Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,125,109,0.997,0.996,6:02
+4,5:34,SAC,De'Aaron Fox,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,125,109,0.995,0.996,5:34
+4,4:29,ORL,Terrence Ross,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,125,114,0.993,0.984,4:49
+4,3:54,ORL,Wendell Carter Jr.,Offensive Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,129,116,0.996,0.992,4:04
+4,3:34,ORL,Cole Anthony,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,129,116,0.998,0.997,3:38
+4,2:11,SAC,Terence Davis,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,132,121,0.979,0.992,2:15
+4,1:05,SAC,Harrison Barnes,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,137,129,0.98,0.991,1:05
+4,52.7,ORL,Franz Wagner,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Suyash Mehta,SAC,139,130,0.998,0.989,52.7

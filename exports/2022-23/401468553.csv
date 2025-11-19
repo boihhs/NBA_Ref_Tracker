@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:07,ORL,Moritz Wagner,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,4,2,0.333,0.332,10:07
+1,9:48,TOR,Gary Trent Jr.,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,4,2,0.357,0.357,9:57
+1,9:47,TOR,Pascal Siakam,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,4,2,0.392,0.357,9:48
+1,9:04,TOR,Christian Koloko,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,6,4,0.359,0.361,9:04
+1,6:54,TOR,Christian Koloko,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,6,9,0.288,0.257,6:54
+1,6:25,ORL,Terrence Ross,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,6,9,0.21,0.237,6:27
+1,4:42,TOR,Fred VanVleet,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,8,13,0.254,0.222,4:45
+1,4:28,ORL,Moritz Wagner,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,10,13,0.245,0.242,4:42
+1,4:01,TOR,Scottie Barnes,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,10,15,0.239,0.225,4:01
+1,3:06,ORL,Markelle Fultz,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,14,15,0.259,0.288,3:19
+2,9:58,ORL,Mo Bamba,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,20,21,0.271,0.305,10:13
+2,9:39,TOR,Pascal Siakam,Offensive Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,20,23,0.285,0.259,9:39
+2,9:23,TOR,Thaddeus Young,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,22,23,0.357,0.309,9:23
+2,8:24,ORL,Mo Bamba,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,25,23,0.399,0.398,8:24
+2,8:17,ORL,Admiral Schofield,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,25,25,0.342,0.371,8:17
+2,7:59,TOR,Fred VanVleet,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,25,25,0.392,0.371,8:16
+2,7:39,ORL,Admiral Schofield,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,27,25,0.358,0.4,7:59
+2,8:51,ORL,Admiral Schofield,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,25,23,0.353,0.358,7:39
+2,7:14,TOR,Pascal Siakam,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,27,27,0.421,0.374,7:32
+2,6:45,TOR,Christian Koloko,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,31,27,0.523,0.468,6:45
+2,6:33,ORL,Cole Anthony,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,31,27,0.422,0.467,6:42
+2,5:20,TOR,Khem Birch,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,37,29,0.684,0.635,5:35
+2,2:20,ORL,Markelle Fultz,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,41,33,0.581,0.635,2:23
+2,1:14,ORL,Markelle Fultz,Offensive Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,43,34,0.678,0.706,1:18
+2,57.1,TOR,Fred VanVleet,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,43,36,0.693,0.649,58.1
+3,10:35,ORL,Moritz Wagner,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,52,41,0.742,0.738,10:35
+3,10:00,ORL,Markelle Fultz,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,55,44,0.725,0.824,10:19
+3,7:21,ORL,Moritz Wagner,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,62,52,0.718,0.77,7:28
+3,6:31,TOR,Khem Birch,Offensive Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,67,53,0.904,0.883,6:41
+3,6:25,ORL,Markelle Fultz,Flagrant Foul Type 1,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,67,53,0.889,0.904,6:31
+3,5:34,ORL,Moritz Wagner,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,67,57,0.739,0.79,5:38
+3,5:22,TOR,Scottie Barnes,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,67,59,0.808,0.758,5:34
+3,5:07,ORL,Cole Anthony,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,68,59,0.709,0.76,5:22
+3,4:47,TOR,Scottie Barnes,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,68,61,0.783,0.73,5:07
+3,4:14,TOR,Fred VanVleet,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,69,61,0.819,0.77,4:28
+3,3:17,TOR,Thaddeus Young,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,73,64,0.858,0.815,3:31
+3,2:11,ORL,Cole Anthony,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,73,67,0.614,0.68,2:12
+3,2:00,TOR,Thaddeus Young,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,75,69,0.758,0.682,2:00
+3,1:36,ORL,Admiral Schofield,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,76,69,0.662,0.729,1:36
+3,0.1,ORL,Paolo Banchero,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,82,71,0.84,0.886,5.1
+4,10:50,TOR,Chris Boucher,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,84,77,0.87,0.812,10:59
+4,10:34,ORL,Mo Bamba,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,86,77,0.787,0.849,10:50
+4,10:19,TOR,Scottie Barnes,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,86,79,0.83,0.821,10:19
+4,9:48,ORL,Franz Wagner,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,89,79,0.882,0.891,9:48
+4,9:40,ORL,Kevon Harris,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,89,79,0.878,0.882,9:48
+4,8:02,ORL,Franz Wagner,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,97,81,0.974,0.985,8:10
+4,7:01,ORL,Mo Bamba,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,99,83,0.979,0.987,7:14
+4,5:44,ORL,Cole Anthony,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,102,87,0.985,0.989,5:44
+4,5:23,TOR,Chris Boucher,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,102,89,0.99,0.986,5:23
+4,3:30,ORL,Franz Wagner,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,104,91,0.981,0.991,3:32
+4,2:28,TOR,Chris Boucher,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,104,93,0.996,0.99,2:52
+4,32.0,TOR,Scottie Barnes,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Intae Hwang,ORL,109,99,0.999,0.999,32.0

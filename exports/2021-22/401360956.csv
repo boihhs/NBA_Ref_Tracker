@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:22,IND,Goga Bitadze,Offensive Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,0,0,0.24,0.254,11:33
+1,11:08,IND,Tyrese Haliburton,Personal Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,0,0,0.24,0.24,11:22
+1,10:52,IND,Justin Anderson,Loose Ball Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,0,0,0.242,0.241,10:52
+1,8:08,DEN,Monte Morris,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,4,10,0.176,0.166,8:08
+1,7:21,IND,Terry Taylor,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,8,12,0.161,0.182,7:39
+1,6:32,DEN,Nikola Jokic,Personal Take Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,8,14,0.17,0.17,6:32
+1,6:05,IND,Justin Anderson,Personal Take Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,8,14,0.135,0.155,6:06
+2,10:32,DEN,Bones Hyland,Personal Take Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,19,47,0.009,0.009,10:35
+2,9:42,DEN,Bryn Forbes,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,21,50,0.008,0.006,9:42
+2,6:51,IND,Tyrese Haliburton,Personal Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,34,54,0.026,0.027,7:08
+2,4:23,IND,Jalen Smith,Personal Take Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,40,60,0.024,0.024,4:25
+2,3:25,IND,Goga Bitadze,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,42,60,0.025,0.028,3:25
+2,3:14,IND,Buddy Hield,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,42,63,0.015,0.019,3:16
+2,2:51,DEN,Nikola Jokic,Offensive Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,45,65,0.027,0.023,3:08
+2,1:51,DEN,Monte Morris,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,48,65,0.057,0.044,1:59
+2,1:13,DEN,Jeff Green,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,49,67,0.048,0.038,1:31
+3,11:15,IND,Goga Bitadze,Personal Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,55,69,0.056,0.057,11:32
+3,9:08,IND,Terry Taylor,Personal Take Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,64,74,0.104,0.103,9:09
+3,8:53,DEN,Nikola Jokic,Personal Take Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,64,76,0.087,0.088,9:02
+3,8:42,DEN,Jeff Green,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,64,76,0.099,0.087,8:42
+3,5:15,DEN,Bones Hyland,Personal Take Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,77,83,0.206,0.208,5:16
+3,2:23,DEN,Nikola Jokic,Technical Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,86,89,0.34,0.311,2:24
+3,1:59,DEN,DeMarcus Cousins,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,87,89,0.419,0.35,2:23
+3,3.7,IND,Buddy Hield,Personal Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,91,89,0.43,0.501,23.0
+4,10:23,IND,Lance Stephenson,Personal Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,96,95,0.449,0.461,10:30
+4,9:36,IND,Jalen Smith,Personal Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,98,97,0.447,0.46,9:56
+4,8:41,IND,Lance Stephenson,Personal Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,98,100,0.285,0.301,8:59
+4,8:41,DEN,Austin Rivers,Double Technical Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,98,100,0.33,0.285,8:41
+4,8:27,DEN,DeMarcus Cousins,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,98,100,0.444,0.345,8:32
+4,8:25,IND,Jalen Smith,Personal Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,99,100,0.264,0.35,8:25
+4,8:14,DEN,Austin Rivers,Technical Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,99,100,0.437,0.264,8:25
+4,8:08,DEN,DeMarcus Cousins,Offensive Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,100,100,0.45,0.449,8:14
+4,6:44,DEN,Aaron Gordon,Offensive Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,102,104,0.34,0.282,6:48
+4,6:15,IND,Terry Taylor,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,102,106,0.15,0.23,6:15
+4,5:26,DEN,Aaron Gordon,Personal Take Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,102,107,0.187,0.175,5:28
+4,5:14,DEN,Bones Hyland,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,102,107,0.277,0.187,5:26
+4,5:04,IND,Buddy Hield,Personal Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,104,107,0.158,0.231,5:14
+4,4:10,DEN,Bones Hyland,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,104,111,0.162,0.095,4:24
+4,2:58,IND,Goga Bitadze,Loose Ball Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,108,113,0.066,0.113,2:58
+4,2:33,IND,Terry Taylor,Personal Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,108,115,0.024,0.047,2:37
+4,1:00,DEN,Monte Morris,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,112,121,0.033,0.012,1:05
+4,27.4,DEN,Aaron Gordon,Shooting Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,114,123,0.016,0.006,36.0
+4,12.8,IND,Justin Anderson,Personal Take Foul,Foul,Brian Forte,Tony Brothers,Jonathan Sterling,IND,118,123,0.004,0.025,16.6

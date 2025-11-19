@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:30,CLE,Donovan Mitchell,Transition Take Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,7,2,0.558,0.557,8:32
+1,8:00,CHI,Patrick Williams,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,10,4,0.541,0.59,8:00
+1,5:26,CHI,Ayo Dosunmu,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,16,12,0.515,0.514,5:36
+1,4:35,CHI,Nikola Vucevic,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,16,15,0.397,0.436,4:41
+1,4:21,CLE,Jarrett Allen,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,16,17,0.451,0.41,4:35
+1,4.4,CHI,Andre Drummond,Offensive Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,25,34,0.197,0.218,8.0
+2,10:15,CHI,Coby White,Defensive 3-Seconds Technical,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,30,41,0.16,0.158,10:32
+2,8:31,CLE,Cedi Osman,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,32,51,0.062,0.064,8:40
+2,8:17,CLE,Cedi Osman,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,32,51,0.077,0.062,8:31
+2,7:49,CLE,Donovan Mitchell,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,34,53,0.075,0.061,8:05
+2,7:19,CHI,Coby White,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,36,53,0.068,0.068,7:19
+2,7:08,CLE,Evan Mobley,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,36,53,0.096,0.079,7:08
+2,6:13,CLE,Raul Neto,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,38,55,0.094,0.077,6:24
+2,5:40,CLE,Kevin Love,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,39,55,0.107,0.075,5:49
+2,4:36,CHI,DeMar DeRozan,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,41,55,0.097,0.097,4:39
+2,2:40,CLE,Cedi Osman,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,43,58,0.114,0.091,2:47
+2,11.6,CHI,Alex Caruso,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,52,68,0.048,0.059,28.4
+3,11:26,CHI,Ayo Dosunmu,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,56,70,0.081,0.082,11:40
+3,9:27,CHI,Zach LaVine,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,61,76,0.047,0.062,9:39
+3,8:50,CHI,Nikola Vucevic,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,61,79,0.029,0.039,8:50
+3,5:34,CLE,Caris LeVert,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,69,80,0.157,0.121,5:39
+3,5:02,CLE,Cedi Osman,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,71,80,0.166,0.168,5:10
+3,4:31,CHI,Nikola Vucevic,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,71,80,0.106,0.139,4:44
+3,4:19,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,71,82,0.083,0.116,4:19
+3,4:19,CHI,Nikola Vucevic,Technical Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,71,82,0.083,0.083,4:19
+3,4:05,CLE,Cedi Osman,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,71,84,0.106,0.08,4:19
+4,11:29,CLE,Robin Lopez,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,79,95,0.036,0.021,11:41
+4,10:21,CLE,Donovan Mitchell,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,85,98,0.06,0.033,10:21
+4,9:48,CLE,Isaac Okoro,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,86,100,0.036,0.033,10:04
+4,9:35,CHI,Goran Dragic,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,86,100,0.022,0.024,9:35
+4,9:30,CHI,Zach LaVine,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,86,100,0.021,0.022,9:35
+4,6:10,CHI,Coby White,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,90,104,0.005,0.011,6:28
+4,4:47,CLE,Jarrett Allen,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,90,113,0.001,0.001,4:57
+4,4:30,CHI,DeMar DeRozan,Personal Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,92,113,0.001,0.001,4:47
+4,4:30,CHI,DeMar DeRozan,Technical Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,92,113,0.001,0.001,4:30
+4,4:30,CHI,DeMar DeRozan,Technical Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,92,114,0.001,0.001,4:30
+4,4:21,CHI,Coby White,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,92,114,0.001,0.001,4:30
+4,2:56,CLE,Isaiah Mobley,Shooting Foul,Foul,James Williams,Ashley Moyer-Gleich,Robert Hussey,CHI,95,118,0.001,0.001,2:59

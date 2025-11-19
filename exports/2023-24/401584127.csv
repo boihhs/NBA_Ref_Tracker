@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:05,IND,Aaron Nesmith,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,5,8,0.583,0.583,10:14
+1,10:02,IND,Buddy Hield,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,5,8,0.582,0.583,10:05
+1,7:18,ATL,De'Andre Hunter,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,15,17,0.551,0.597,7:18
+1,6:19,ATL,Dejounte Murray,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,17,19,0.548,0.593,6:19
+1,4:52,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,22,23,0.588,0.588,4:53
+1,3:43,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,25,25,0.57,0.612,3:43
+1,2:58,ATL,Onyeka Okongwu,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,27,27,0.567,0.609,3:09
+1,2:34,ATL,Bogdan Bogdanovic,Loose Ball Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,27,28,0.539,0.579,2:34
+1,2:22,IND,Bruce Brown,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,27,29,0.579,0.578,2:22
+1,1:17,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,32,31,0.587,0.63,1:20
+1,1:02,IND,T.J. McConnell,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,34,32,0.696,0.657,1:02
+2,11:23,ATL,Jalen Johnson,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,42,36,0.732,0.771,11:23
+2,10:15,IND,Obi Toppin,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,49,39,0.859,0.832,10:15
+2,9:01,IND,Aaron Nesmith,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,52,41,0.886,0.865,9:05
+2,7:58,IND,Aaron Nesmith,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,55,46,0.856,0.832,8:07
+2,5:00,IND,Obi Toppin,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,69,56,0.909,0.886,5:00
+2,4:45,ATL,Clint Capela,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,70,56,0.878,0.9,5:00
+2,4:06,IND,Bruce Brown,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,75,58,0.952,0.937,4:06
+2,3:16,ATL,Jalen Johnson,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,78,58,0.951,0.968,3:25
+2,2:49,ATL,Clint Capela,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,78,59,0.943,0.956,2:58
+2,2:44,ATL,Trae Young,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,78,60,0.941,0.948,2:44
+2,1:44,ATL,Trae Young,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,80,65,0.9,0.92,1:49
+2,1:04,IND,Obi Toppin,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,82,67,0.948,0.933,1:12
+2,35.1,IND,Myles Turner,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,84,70,0.94,0.923,53.0
+2,24.2,ATL,De'Andre Hunter,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,86,72,0.899,0.924,24.2
+3,11:40,IND,Myles Turner,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,88,73,0.944,0.927,11:40
+3,11:22,ATL,Clint Capela,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,89,73,0.92,0.937,11:40
+3,10:31,IND,Bruce Brown,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,91,78,0.934,0.917,10:39
+3,7:41,ATL,Dejounte Murray,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,99,89,0.858,0.856,7:48
+3,7:15,IND,Myles Turner,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,99,91,0.836,0.835,7:30
+3,7:15,ATL,Trae Young,Technical Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,99,91,0.79,0.836,7:15
+3,7:08,IND,Buddy Hield,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,99,92,0.848,0.784,7:15
+3,5:32,ATL,Clint Capela,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,105,97,0.818,0.842,5:46
+3,3:40,IND,Isaiah Jackson,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,107,107,0.634,0.572,3:57
+3,3:29,IND,Isaiah Jackson,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,108,107,0.614,0.57,3:40
+3,3:20,ATL,Wesley Matthews,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,108,107,0.569,0.614,3:29
+3,2:33,IND,Isaiah Jackson,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,108,107,0.675,0.614,2:40
+3,1:51,ATL,Wesley Matthews,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,110,109,0.495,0.567,2:00
+3,31.0,ATL,Wesley Matthews,Loose Ball Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,112,115,0.301,0.371,31.0
+4,11:35,IND,Bennedict Mathurin,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,114,122,0.201,0.189,11:46
+4,10:34,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,114,126,0.041,0.071,10:34
+4,9:50,IND,Bennedict Mathurin,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,118,127,0.167,0.101,9:50
+4,8:55,IND,Isaiah Jackson,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,121,129,0.171,0.159,8:58
+4,8:23,IND,Isaiah Jackson,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,123,129,0.324,0.242,8:36
+4,6:53,ATL,Trae Young,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,130,133,0.266,0.326,6:53
+4,3:25,IND,Buddy Hield,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,139,145,0.188,0.15,3:25
+4,3:10,IND,Aaron Nesmith,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,141,145,0.369,0.261,3:16
+4,34.1,ATL,Dejounte Murray,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Lauren Holtkamp,ATL,152,155,0.153,0.275,52.1

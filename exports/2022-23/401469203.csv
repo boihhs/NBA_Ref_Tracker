@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,GS,Jonathan Kuminga,Offensive Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,2,3,0.792,0.772,11:13
+1,9:30,ATL,Trae Young,Transition Take Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,4,8,0.705,0.705,9:30
+1,3:49,GS,JaMychal Green,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,23,27,0.704,0.664,3:49
+1,3:10,GS,Jordan Poole,Personal Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,25,27,0.729,0.731,3:23
+2,11:44,ATL,AJ Griffin,Personal Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,39,31,0.873,0.881,12:00
+2,11:42,ATL,Bogdan Bogdanovic,Personal Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,39,31,0.874,0.873,11:44
+2,10:33,GS,Jordan Poole,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,41,35,0.879,0.859,10:39
+2,9:19,GS,Anthony Lamb,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,45,39,0.876,0.855,9:21
+2,6:44,ATL,Dejounte Murray,Personal Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,54,46,0.866,0.866,6:51
+2,6:21,ATL,De'Andre Hunter,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,54,46,0.84,0.866,6:37
+2,4:54,GS,Kevon Looney,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,59,52,0.885,0.864,5:02
+2,1:42,GS,JaMychal Green,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,66,60,0.867,0.84,1:43
+3,9:48,GS,Stephen Curry,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,76,71,0.846,0.813,10:00
+3,9:33,ATL,De'Andre Hunter,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,78,71,0.818,0.836,9:33
+3,7:43,ATL,John Collins,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,87,73,0.938,0.946,7:43
+3,6:12,GS,Kevon Looney,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,89,80,0.919,0.896,6:21
+3,5:29,ATL,John Collins,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,90,82,0.822,0.858,5:42
+3,4:47,ATL,John Collins,Personal Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,93,82,0.889,0.914,5:07
+3,3:43,ATL,Onyeka Okongwu,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,93,84,0.849,0.882,3:43
+3,2:50,GS,JaMychal Green,Personal Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,93,88,0.81,0.81,3:09
+3,2:24,GS,Anthony Lamb,Transition Take Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,93,88,0.811,0.811,2:24
+4,11:34,ATL,AJ Griffin,Personal Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,104,96,0.866,0.876,11:38
+4,10:07,ATL,Onyeka Okongwu,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,106,98,0.822,0.877,10:19
+4,9:43,ATL,Dejounte Murray,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,106,100,0.737,0.814,9:50
+4,8:50,GS,Kevon Looney,Personal Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,109,103,0.854,0.847,8:50
+4,8:44,GS,Kevon Looney,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,111,103,0.927,0.878,8:44
+4,5:46,GS,JaMychal Green,Offensive Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,116,113,0.753,0.694,5:56
+4,5:08,ATL,John Collins,Technical Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,119,113,0.817,0.85,5:08
+4,4:54,ATL,John Collins,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,119,114,0.756,0.807,5:08
+4,4:34,GS,Jonathan Kuminga,Loose Ball Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,119,114,0.86,0.847,4:34
+4,4:21,ATL,De'Andre Hunter,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,119,114,0.722,0.809,4:23
+4,3:21,GS,Jonathan Kuminga,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,119,117,0.807,0.7,3:27
+4,3:17,GS,Jonathan Kuminga,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,119,117,0.808,0.717,3:19
+4,1:15,GS,Stephen Curry,Shooting Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,120,119,0.788,0.657,1:34
+4,58.1,GS,Anthony Lamb,Loose Ball Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,121,119,0.859,0.754,58.1
+4,24.1,GS,Jordan Poole,Personal Take Foul,Foul,John Goble,Rodney Mott,Natalie Sago,ATL,125,119,0.995,0.974,35.1

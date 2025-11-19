@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:42,IND,Caris LeVert,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,2,3,0.53,0.491,9:44
+1,6:48,CHI,Nikola Vucevic,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,13,9,0.556,0.594,7:09
+1,5:37,CHI,Coby White,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,15,12,0.55,0.57,5:37
+1,4:33,IND,Torrey Craig,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,22,18,0.611,0.597,4:33
+1,3:37,CHI,Coby White,Personal Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,25,18,0.675,0.674,3:54
+1,3:04,CHI,Tyler Cook,Offensive Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,25,18,0.676,0.702,3:13
+2,11:13,IND,Kelan Martin,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,33,27,0.724,0.685,11:32
+2,9:05,CHI,Tyler Cook,Personal Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,41,31,0.765,0.766,9:15
+2,7:29,CHI,Tyler Cook,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,43,33,0.734,0.771,7:41
+2,6:56,CHI,Troy Brown Jr.,Personal Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,43,34,0.75,0.75,7:00
+2,4:57,IND,Myles Turner,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,51,36,0.916,0.895,5:09
+2,19.9,IND,Justin Holiday,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,62,47,0.914,0.9,19.9
+2,9.6,CHI,Zach LaVine,Personal Take Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,63,47,0.891,0.914,19.9
+2,2.5,CHI,DeMar DeRozan,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,63,47,0.892,0.891,9.6
+3,10:33,IND,Justin Holiday,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,66,52,0.928,0.907,10:55
+3,8:37,IND,Chris Duarte,Personal Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,71,59,0.884,0.885,8:42
+3,6:58,CHI,DeMar DeRozan,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,76,61,0.903,0.926,7:11
+3,5:17,CHI,Zach LaVine,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,76,65,0.828,0.866,5:19
+3,4:28,CHI,Troy Brown Jr.,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,79,65,0.902,0.926,4:49
+3,3:17,IND,Chris Duarte,Clear Path Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,81,67,0.941,0.947,3:18
+3,1:16,IND,Caris LeVert,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,83,75,0.885,0.844,1:42
+3,44.5,CHI,Ayo Dosunmu,Personal Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,87,75,0.887,0.917,51.9
+3,14.2,CHI,DeMar DeRozan,Personal Take Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,87,77,0.838,0.882,14.2
+4,11:43,IND,Myles Turner,Loose Ball Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,87,79,0.871,0.864,11:43
+4,10:47,IND,Oshae Brissett,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,89,79,0.949,0.92,10:56
+4,10:29,CHI,Coby White,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,91,79,0.908,0.939,10:47
+4,9:52,IND,Torrey Craig,Loose Ball Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,91,81,0.929,0.929,9:52
+4,8:06,IND,Domantas Sabonis,Personal Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,95,83,0.983,0.97,8:18
+4,7:49,CHI,Coby White,Personal Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,95,83,0.958,0.962,8:01
+4,7:02,CHI,Nikola Vucevic,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,97,83,0.966,0.982,7:12
+4,6:35,CHI,Zach LaVine,Personal Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,100,85,0.978,0.988,6:51
+4,4:19,IND,Myles Turner,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,106,94,0.994,0.986,4:44
+4,4:10,CHI,Nikola Vucevic,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,108,96,0.983,0.99,4:10
+4,2:01,CHI,Nikola Vucevic,Offensive Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,112,100,0.996,0.998,2:11
+4,1:48,IND,Myles Turner,Shooting Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,112,100,0.999,0.998,1:51
+4,9.9,IND,Caris LeVert,Personal Take Foul,Foul,Tre Maddox,Nick Buchert,Suyash Mehta,CHI,112,105,0.999,0.998,10.0

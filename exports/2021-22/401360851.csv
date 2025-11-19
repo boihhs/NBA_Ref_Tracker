@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:01,PHX,Jae Crowder,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,23,14,0.753,0.715,7:01
+1,6:27,NO,CJ McCollum,Offensive Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,23,16,0.67,0.692,6:38
+1,5:06,NO,Willy Hernangomez,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,23,21,0.522,0.54,5:16
+1,3:43,NO,Herbert Jones,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,25,26,0.46,0.461,3:55
+1,3:18,PHX,Torrey Craig,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,25,28,0.424,0.432,3:32
+1,3:01,PHX,Torrey Craig,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,26,28,0.459,0.461,3:06
+1,2:08,NO,Jonas Valanciunas,Loose Ball Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,26,30,0.376,0.374,2:08
+1,1:49,NO,Trey Murphy III,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,26,30,0.337,0.376,2:08
+1,12.3,PHX,Devin Booker,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,29,33,0.443,0.399,30.0
+2,11:50,PHX,Torrey Craig,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,29,33,0.399,0.388,12:00
+2,11:03,PHX,Mikal Bridges,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,31,33,0.499,0.457,11:19
+2,9:56,PHX,JaVale McGee,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,34,33,0.542,0.545,10:10
+2,9:38,NO,Tyrone Wallace,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,34,33,0.517,0.514,9:51
+2,9:02,NO,Trey Murphy III,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,34,36,0.382,0.425,9:10
+2,7:49,NO,Tyrone Wallace,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,34,42,0.221,0.255,7:51
+2,4:53,NO,Willy Hernangomez,Offensive Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,43,54,0.175,0.199,5:06
+2,2:43,PHX,Mikal Bridges,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,51,59,0.308,0.264,2:43
+3,10:45,PHX,Deandre Ayton,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,59,67,0.293,0.246,10:45
+3,10:06,NO,Jonas Valanciunas,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,63,69,0.251,0.27,10:06
+3,9:57,PHX,Mikal Bridges,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,63,71,0.29,0.244,10:06
+3,8:09,NO,Devonte' Graham,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,70,73,0.368,0.365,8:11
+3,8:08,NO,Herbert Jones,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,70,73,0.369,0.368,8:09
+3,6:29,PHX,Deandre Ayton,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,74,77,0.401,0.401,6:35
+3,6:13,PHX,Cameron Payne,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,74,77,0.46,0.401,6:29
+3,5:28,NO,Herbert Jones,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,74,77,0.302,0.358,5:47
+3,4:20,PHX,Devin Booker,Personal Take Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,76,84,0.262,0.207,4:22
+3,3:49,PHX,JaVale McGee,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,78,87,0.223,0.181,4:07
+3,1:27,PHX,Aaron Holiday,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,83,92,0.205,0.159,1:36
+3,32.3,NO,Jose Alvarado,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,85,94,0.102,0.15,32.3
+4,10:23,PHX,JaVale McGee,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,89,103,0.047,0.026,10:23
+4,9:21,PHX,Mikal Bridges,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,90,107,0.013,0.012,9:27
+4,8:44,PHX,Aaron Holiday,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,90,109,0.005,0.004,8:44
+4,8:16,NO,Naji Marshall,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,92,111,0.001,0.004,8:16
+4,6:20,NO,Herbert Jones,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,95,115,0.001,0.001,6:27
+4,6:14,NO,Jaxson Hayes,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,95,115,0.001,0.001,6:20
+4,5:04,PHX,JaVale McGee,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,98,119,0.001,0.001,5:14
+4,4:48,PHX,JaVale McGee,Loose Ball Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,100,119,0.001,0.001,4:48
+4,4:37,NO,Tyrone Wallace,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,101,119,0.001,0.001,4:48
+4,3:13,PHX,Ish Wainright,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,101,124,0.001,0.001,3:17
+4,2:38,NO,Naji Marshall,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,106,126,0.001,0.001,2:38
+4,1:52,PHX,Bismack Biyombo,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,111,129,0.001,0.001,1:52
+4,1:29,PHX,Bismack Biyombo,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,David Guthrie,NO,112,131,0.001,0.001,1:37

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:15,LAC,Russell Westbrook,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,6,11,0.543,0.546,6:32
+1,4:25,TOR,Precious Achiuwa,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,8,13,0.58,0.56,4:25
+1,4:03,TOR,Fred VanVleet,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,9,13,0.585,0.586,4:10
+1,3:37,LAC,Mason Plumlee,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,9,13,0.512,0.554,3:45
+1,1:49,TOR,Precious Achiuwa,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,11,20,0.472,0.431,2:02
+1,1:25,TOR,Precious Achiuwa,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,13,23,0.441,0.398,1:38
+1,54.0,TOR,Fred VanVleet,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,14,23,0.466,0.425,1:08
+1,35.1,LAC,Nicolas Batum,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,15,23,0.372,0.422,52.1
+2,9:23,TOR,Thaddeus Young,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,24,29,0.515,0.517,9:28
+2,9:20,TOR,Pascal Siakam,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,24,29,0.56,0.515,9:23
+2,8:49,TOR,Gary Trent Jr.,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,25,29,0.543,0.543,8:55
+2,8:08,LAC,Terance Mann,Loose Ball Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,27,29,0.568,0.567,8:08
+2,6:52,TOR,Scottie Barnes,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,27,31,0.575,0.533,7:17
+2,6:13,LAC,Kawhi Leonard,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,31,31,0.617,0.619,6:30
+2,4:04,TOR,Fred VanVleet,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,35,38,0.567,0.508,4:04
+2,1:27,LAC,Russell Westbrook,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,45,44,0.58,0.629,1:43
+2,1:05,TOR,Pascal Siakam,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,45,47,0.613,0.563,1:15
+3,11:48,TOR,OG Anunoby,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,49,49,0.622,0.607,12:00
+3,11:21,LAC,Ivica Zubac,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,51,49,0.604,0.655,11:40
+3,10:42,TOR,Scottie Barnes,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,53,53,0.668,0.62,10:55
+3,10:16,TOR,Pascal Siakam,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,55,53,0.683,0.684,10:16
+3,7:02,TOR,Scottie Barnes,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,64,57,0.861,0.827,7:16
+3,7:02,TOR,Fred VanVleet,Technical Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,64,57,0.844,0.861,7:02
+3,6:18,LAC,Ivica Zubac,Offensive Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,65,60,0.743,0.773,6:31
+3,5:02,LAC,Paul George,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,70,62,0.834,0.833,5:08
+3,4:19,LAC,Ivica Zubac,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,70,67,0.644,0.711,4:19
+3,2:06,LAC,Terance Mann,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,79,70,0.851,0.893,2:06
+3,43.2,LAC,Kawhi Leonard,Loose Ball Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,83,70,0.925,0.948,43.2
+4,11:22,TOR,Scottie Barnes,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,83,76,0.905,0.861,11:41
+4,11:15,LAC,Nicolas Batum,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,85,76,0.882,0.889,11:22
+4,8:40,TOR,Chris Boucher,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,87,82,0.849,0.811,8:40
+4,7:50,LAC,Paul George,Loose Ball Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,91,82,0.905,0.913,7:50
+4,7:17,TOR,Chris Boucher,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,91,82,0.954,0.938,7:17
+4,6:37,LAC,Paul George,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,95,85,0.938,0.944,6:44
+4,6:19,TOR,Gary Trent Jr.,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,95,85,0.977,0.96,6:22
+4,6:15,LAC,Kawhi Leonard,Offensive Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,95,85,0.948,0.977,6:19
+4,5:51,TOR,Scottie Barnes,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,97,85,0.987,0.975,5:51
+4,4:35,TOR,Jakob Poeltl,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,100,87,0.996,0.993,4:36
+4,4:06,LAC,Paul George,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,101,87,0.987,0.994,4:12
+4,1:46,TOR,Jakob Poeltl,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,103,95,0.986,0.979,1:46
+4,54.1,LAC,Eric Gordon,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,104,98,0.851,0.926,58.2
+4,11.1,TOR,Fred VanVleet,Personal Foul,Foul,Derek Richardson,Tre Maddox,Ben Taylor,LAC,106,100,0.998,0.993,12.1

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:08,MEM,Dillon Brooks,Flagrant Foul Type 2,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,8,0,0.822,0.819,9:10
+1,7:07,MEM,Xavier Tillman,Offensive Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,8,6,0.698,0.722,7:16
+1,6:44,GS,Klay Thompson,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,8,6,0.75,0.721,6:47
+1,6:17,MEM,De'Anthony Melton,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,10,8,0.696,0.696,6:17
+1,5:39,MEM,Brandon Clarke,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,13,10,0.684,0.718,5:54
+1,5:17,MEM,Kyle Anderson,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,13,10,0.682,0.717,5:17
+1,3:28,MEM,Brandon Clarke,Offensive Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,20,17,0.712,0.735,3:46
+1,2:06,GS,Otto Porter Jr.,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,22,19,0.763,0.731,2:13
+1,1:36,GS,Kevon Looney,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,24,21,0.761,0.729,1:47
+1,1:08,MEM,Kyle Anderson,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,28,21,0.759,0.791,1:17
+2,10:52,GS,Draymond Green,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,35,31,0.748,0.75,11:15
+2,8:46,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,37,35,0.648,0.695,8:46
+2,8:32,GS,Draymond Green,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,37,36,0.687,0.668,8:46
+2,8:06,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,39,36,0.692,0.691,8:06
+2,6:33,GS,Otto Porter Jr.,Offensive Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,39,36,0.715,0.688,6:35
+2,6:22,GS,Otto Porter Jr.,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,39,36,0.712,0.715,6:33
+2,5:02,GS,Jordan Poole,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,42,38,0.775,0.739,5:19
+2,3:24,MEM,Brandon Clarke,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,44,42,0.652,0.653,3:24
+2,1:17,MEM,Ziaire Williams,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,48,46,0.621,0.675,1:17
+2,1:06,GS,Jordan Poole,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,48,47,0.694,0.646,1:17
+2,6.7,MEM,Ziaire Williams,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,54,49,0.689,0.735,11.2
+2,5.0,GS,Andrew Wiggins,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,54,51,0.75,0.704,6.7
+3,10:46,GS,Stephen Curry,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,61,51,0.888,0.856,10:46
+3,9:44,MEM,Ziaire Williams,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,65,55,0.859,0.859,9:44
+3,8:36,GS,Jordan Poole,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,65,61,0.734,0.735,8:47
+3,6:24,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,70,61,0.81,0.846,6:35
+3,5:54,MEM,Ja Morant,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,72,62,0.872,0.871,6:05
+3,4:36,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,74,64,0.842,0.877,4:36
+3,4:24,GS,Jordan Poole,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,74,67,0.83,0.832,4:28
+3,3:37,MEM,Kyle Anderson,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,74,67,0.755,0.805,3:37
+3,2:15,MEM,Kyle Anderson,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,74,71,0.634,0.664,2:15
+3,2:01,GS,Klay Thompson,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,74,73,0.686,0.625,2:01
+4,11:07,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,77,79,0.323,0.416,11:15
+4,10:04,GS,Jordan Poole,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,79,81,0.509,0.397,10:04
+4,7:02,MEM,Brandon Clarke,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,86,87,0.415,0.431,7:02
+4,6:11,GS,Draymond Green,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,88,89,0.554,0.416,6:11
+4,4:45,GS,Draymond Green,Shooting Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,89,92,0.472,0.339,4:53
+4,3:59,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,93,95,0.314,0.338,4:16
+4,2:48,GS,Andrew Wiggins,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,95,97,0.536,0.382,2:48
+4,2:12,MEM,Ja Morant,Personal Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,98,97,0.415,0.567,2:28
+4,49.8,GS,Draymond Green,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,100,99,0.804,0.665,49.8
+4,13.2,GS,Andrew Wiggins,Personal Take Foul,Foul,Eric Lewis,Scott Foster,Mitchell Ervin,MEM,104,101,0.966,0.901,17.3

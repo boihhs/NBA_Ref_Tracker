@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:20,BOS,Robert Williams III,Defensive 3-Seconds Technical,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,2,0,0.658,0.651,11:41
+1,10:41,IND,Duane Washington Jr.,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,2,1,0.665,0.652,10:53
+1,2:47,IND,Oshae Brissett,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,15,11,0.695,0.707,2:50
+1,1:42,BOS,Jayson Tatum,Offensive Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,17,13,0.682,0.707,1:57
+1,1:19,BOS,Enes Freedom,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,17,13,0.682,0.682,1:19
+1,36.4,IND,Torrey Craig,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,19,15,0.74,0.707,47.1
+2,11:47,BOS,Dennis Schroder,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,23,17,0.731,0.74,0.0
+2,11:40,BOS,Enes Freedom,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,23,17,0.693,0.731,11:47
+2,9:14,BOS,Grant Williams,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,27,18,0.766,0.797,9:19
+2,8:59,IND,Justin Holiday,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,29,20,0.832,0.797,8:59
+2,8:17,BOS,Jayson Tatum,Loose Ball Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,30,22,0.778,0.777,8:17
+2,6:46,IND,Keifer Sykes,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,30,24,0.754,0.754,6:46
+2,5:54,IND,Oshae Brissett,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,30,26,0.705,0.706,6:04
+2,5:07,BOS,Al Horford,Offensive Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,32,28,0.676,0.705,5:17
+2,4:18,BOS,Marcus Smart,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,32,30,0.568,0.617,4:26
+2,4:06,IND,Myles Turner,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,34,32,0.67,0.617,4:06
+3,9:15,BOS,Marcus Smart,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,48,44,0.678,0.674,9:29
+3,8:36,IND,Keifer Sykes,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,48,46,0.694,0.643,8:42
+3,8:05,BOS,Jaylen Brown,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,50,48,0.605,0.605,8:05
+3,7:27,BOS,Marcus Smart,Offensive Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,50,48,0.604,0.644,7:31
+3,7:08,IND,Myles Turner,Offensive Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,50,48,0.644,0.604,7:09
+3,5:46,IND,Myles Turner,Clear Path Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,55,48,0.811,0.811,5:46
+3,5:31,IND,Myles Turner,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,57,48,0.891,0.835,5:46
+3,4:53,BOS,Dennis Schroder,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,58,48,0.863,0.862,5:00
+3,3:58,IND,Oshae Brissett,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,58,48,0.917,0.888,4:15
+3,3:37,IND,Torrey Craig,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,58,48,0.919,0.89,3:49
+3,1:13,IND,Jeremy Lamb,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,62,58,0.787,0.732,1:24
+3,5.0,IND,Jeremy Lamb,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,66,60,0.857,0.811,12.7
+4,11:30,IND,Domantas Sabonis,Offensive Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,68,60,0.878,0.848,11:41
+4,9:25,IND,Lance Stephenson,Flagrant Foul Type 1,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,71,68,0.709,0.653,9:33
+4,8:33,BOS,Robert Williams III,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,73,71,0.61,0.61,8:33
+4,7:05,BOS,Jaylen Brown,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,75,72,0.56,0.666,7:09
+4,4:57,BOS,Jaylen Brown,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,78,79,0.373,0.397,4:58
+4,1:17,BOS,Jayson Tatum,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,83,86,0.143,0.235,1:17
+4,45.6,BOS,Josh Richardson,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,85,87,0.106,0.204,59.2
+4,34.6,IND,Domantas Sabonis,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,85,89,0.292,0.141,45.6
+5,15.4,BOS,Jayson Tatum,Personal Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,98,95,0.58,0.835,17.4
+5,7.8,IND,Oshae Brissett,Personal Take Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,98,95,0.979,0.926,8.2
+5,4.3,IND,Lance Stephenson,Personal Take Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,98,95,0.988,0.979,7.8
+5,3.0,BOS,Josh Richardson,Shooting Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,99,95,0.929,0.959,4.3
+5,2.5,IND,Justin Holiday,Personal Take Foul,Foul,James Williams,Mitchell Ervin,Nick Buchert,BOS,99,98,0.969,0.914,3.0

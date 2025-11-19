@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:18,CHI,Nikola Vucevic,Loose Ball Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,6,3,0.697,0.7,8:18
+1,5:30,MIA,Kyle Lowry,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,18,10,0.763,0.799,5:30
+1,4:21,MIA,Tyler Herro,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,23,14,0.799,0.797,4:31
+1,1:59,MIA,KZ Okpala,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,31,20,0.822,0.835,2:20
+1,1:47,CHI,Devon Dotson,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,31,22,0.843,0.818,1:59
+2,9:50,CHI,Tony Bradley,Loose Ball Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,41,32,0.82,0.821,9:50
+2,9:35,MIA,Gabe Vincent,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,41,34,0.741,0.782,9:35
+2,2:31,CHI,Nikola Vucevic,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,55,47,0.843,0.812,2:49
+2,26.4,CHI,Alex Caruso,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,63,52,0.901,0.875,43.3
+3,10:51,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,65,55,0.852,0.841,10:51
+3,8:31,MIA,Duncan Robinson,Personal Take Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,70,57,0.907,0.906,8:33
+3,7:06,CHI,Alfonzo McKinnie,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,72,60,0.912,0.912,7:15
+3,6:58,CHI,CHI,Technical Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,75,60,0.957,0.94,6:58
+3,6:45,MIA,Duncan Robinson,Loose Ball Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,76,60,0.951,0.951,6:45
+3,5:51,MIA,Gabe Vincent,Offensive Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,78,60,0.97,0.976,6:04
+3,3:39,MIA,Dewayne Dedmon,Offensive Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,80,64,0.962,0.969,3:47
+3,3:30,MIA,KZ Okpala,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,80,64,0.948,0.962,3:39
+3,3:24,MIA,KZ Okpala,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,80,64,0.948,0.948,3:30
+3,1:23,MIA,Duncan Robinson,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,84,65,0.981,0.988,1:26
+3,47.6,MIA,Max Strus,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,84,65,0.982,0.989,59.3
+4,11:05,MIA,Gabe Vincent,Loose Ball Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,86,70,0.98,0.98,11:05
+4,9:56,CHI,Alex Caruso,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,90,70,0.997,0.997,9:56
+4,9:42,MIA,KZ Okpala,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,90,72,0.988,0.994,9:42
+4,9:14,CHI,Nikola Vucevic,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,92,73,0.996,0.996,9:15
+4,9:01,CHI,Alex Caruso,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,92,73,0.997,0.996,9:14
+4,8:22,MIA,KZ Okpala,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,98,75,0.999,0.999,8:22
+4,7:00,MIA,Dewayne Dedmon,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,100,76,0.999,0.999,7:15
+4,2:44,MIA,Tyler Herro,Personal Take Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,111,86,0.999,0.999,2:51
+4,2:31,CHI,Alfonzo McKinnie,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,111,87,0.999,0.999,2:44
+4,2:28,MIA,Gabe Vincent,Offensive Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,111,87,0.999,0.999,2:31
+4,2:17,MIA,Omer Yurtseven,Personal Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,111,87,0.999,0.999,2:28
+4,1:10,CHI,Alize Johnson,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,116,92,0.999,0.999,1:10
+4,29.5,CHI,Alize Johnson,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,118,92,0.999,0.999,42.9
+4,7.9,MIA,Omer Yurtseven,Shooting Foul,Foul,Derrick Collins,Rodney Mott,John Conley,MIA,118,92,0.999,0.999,16.1

@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:17,WSH,Kyle Kuzma,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,4,10,0.151,0.169,9:28
+1,9:02,MIA,Duncan Robinson,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,4,12,0.18,0.156,9:17
+1,7:20,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,8,14,0.164,0.174,7:25
+1,6:45,WSH,Aaron Holiday,Technical Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,8,18,0.111,0.133,6:45
+1,4:11,WSH,Deni Avdija,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,14,23,0.135,0.134,4:19
+1,2:29,WSH,Rui Hachimura,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,14,28,0.071,0.087,2:29
+1,1:07,MIA,Gabe Vincent,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,18,33,0.085,0.068,1:07
+1,41.6,MIA,Caleb Martin,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,19,36,0.073,0.061,1:00
+2,9:55,WSH,Raul Neto,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,26,44,0.035,0.044,10:01
+2,9:49,MIA,Dewayne Dedmon,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,26,46,0.038,0.038,9:55
+2,9:40,MIA,Dewayne Dedmon,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,26,46,0.047,0.038,9:49
+2,9:08,MIA,Gabe Vincent,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,29,46,0.057,0.057,9:11
+2,7:01,WSH,Corey Kispert,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,36,50,0.073,0.073,7:16
+2,6:08,MIA,Max Strus,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,36,50,0.101,0.084,6:18
+2,5:52,MIA,P.J. Tucker,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,37,50,0.094,0.104,6:08
+2,5:26,MIA,Bam Adebayo,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,38,50,0.107,0.095,6:08
+2,4:40,MIA,Gabe Vincent,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,40,50,0.164,0.138,4:51
+2,3:36,WSH,Deni Avdija,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,44,50,0.196,0.194,3:59
+2,2:31,MIA,P.J. Tucker,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,44,54,0.163,0.137,2:42
+2,2:05,MIA,Bam Adebayo,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,46,54,0.208,0.173,2:16
+2,1:51,WSH,Thomas Bryant,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,48,54,0.164,0.195,2:05
+2,1:09,WSH,Thomas Bryant,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,48,56,0.127,0.156,1:14
+3,8:53,MIA,P.J. Tucker,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,53,70,0.038,0.039,9:19
+3,8:29,WSH,Spencer Dinwiddie,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,55,70,0.046,0.045,8:41
+3,8:19,MIA,Bam Adebayo,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,55,70,0.054,0.046,8:29
+3,7:15,MIA,Jimmy Butler III,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,57,72,0.051,0.043,7:28
+3,7:00,MIA,Jimmy Butler III,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,57,72,0.068,0.051,7:15
+3,5:17,WSH,Montrezl Harrell,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,63,72,0.118,0.139,5:28
+3,4:34,WSH,Kentavious Caldwell-Pope,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,65,74,0.116,0.116,4:44
+3,3:32,WSH,Deni Avdija,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,69,76,0.122,0.156,3:47
+3,3:32,WSH,Deni Avdija,Technical Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,69,76,0.138,0.122,3:32
+3,2:32,WSH,Rui Hachimura,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,69,81,0.041,0.058,2:41
+3,2:10,MIA,Caleb Martin,Loose Ball Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,69,83,0.045,0.045,2:10
+3,2:10,MIA,MIA,Technical Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,69,83,0.03,0.045,2:10
+3,58.3,WSH,Montrezl Harrell,Technical Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,70,85,0.019,0.024,58.3
+3,48.9,MIA,Dewayne Dedmon,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,70,86,0.024,0.017,58.3
+4,10:50,WSH,Montrezl Harrell,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,70,97,0.001,0.001,10:57
+4,10:45,MIA,Caleb Martin,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,70,98,0.001,0.001,10:50
+4,9:19,MIA,Gabe Vincent,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,74,101,0.001,0.001,9:22
+4,8:25,MIA,Max Strus,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,76,107,0.001,0.001,8:46
+4,7:52,MIA,Kyle Lowry,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,78,110,0.001,0.001,8:03
+4,6:57,WSH,Aaron Holiday,Personal Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,81,113,0.001,0.001,7:04
+4,5:47,WSH,Thomas Bryant,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,81,113,0.001,0.001,6:01
+4,3:54,MIA,Omer Yurtseven,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,87,115,0.001,0.001,3:54
+4,3:42,WSH,Corey Kispert,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Mitchell Ervin,WSH,88,115,0.001,0.001,3:54

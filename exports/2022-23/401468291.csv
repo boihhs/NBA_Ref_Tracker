@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:17,MIL,Brook Lopez,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,6,4,0.739,0.771,10:17
+1,9:28,MIL,MarJon Beauchamp,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,12,8,0.759,0.786,9:33
+1,9:21,MIL,Brook Lopez,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,12,9,0.768,0.788,9:28
+1,7:06,MIL,Serge Ibaka,Defensive 3-Seconds Technical,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,17,14,0.768,0.762,7:18
+1,2:07,OKC,Darius Bazley,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,27,32,0.569,0.57,2:07
+1,58.6,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,30,32,0.682,0.647,1:12
+2,11:25,OKC,Tre Mann,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,34,34,0.724,0.689,11:35
+2,10:23,OKC,Jalen Williams,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,36,36,0.701,0.656,10:23
+2,9:30,OKC,Kenrich Williams,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,39,36,0.769,0.753,9:30
+2,8:18,OKC,Josh Giddey,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,42,39,0.765,0.725,8:18
+2,4:37,MIL,MarJon Beauchamp,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,50,46,0.719,0.741,4:44
+2,4:07,MIL,Serge Ibaka,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,53,47,0.75,0.787,4:17
+2,3:57,OKC,Jalen Williams,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,53,48,0.819,0.788,4:07
+2,3:37,OKC,Aaron Wiggins,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,55,48,0.856,0.829,3:43
+2,2:47,OKC,Aaron Wiggins,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,57,48,0.866,0.848,2:54
+2,33.7,MIL,George Hill,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,65,52,0.891,0.913,42.1
+2,29.5,OKC,Jeremiah Robinson-Earl,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,65,52,0.926,0.891,33.7
+2,14.3,OKC,Luguentz Dort,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,65,52,0.941,0.926,29.5
+2,5.1,MIL,George Hill,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,67,52,0.919,0.937,14.3
+3,11:51,OKC,Mike Muscala,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,67,53,0.937,0.937,12:00
+3,9:05,OKC,Luguentz Dort,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,73,53,0.988,0.983,9:24
+3,8:47,MIL,MarJon Beauchamp,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,75,53,0.987,0.989,8:56
+3,8:35,MIL,Brook Lopez,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,75,55,0.976,0.984,8:35
+3,8:04,MIL,Jevon Carter,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,75,56,0.976,0.976,8:04
+3,7:52,MIL,Jevon Carter,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,75,56,0.967,0.976,8:04
+3,6:33,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,79,60,0.985,0.978,6:33
+3,7.7,OKC,Kenrich Williams,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,93,78,0.986,0.978,19.1
+4,8:17,OKC,Kenrich Williams,Loose Ball Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,99,87,0.974,0.972,8:17
+4,5:56,MIL,George Hill,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,106,87,0.998,0.998,6:02
+4,5:39,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,106,87,0.999,0.999,5:48
+4,5:32,MIL,Serge Ibaka,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,106,87,0.999,0.999,5:39
+4,5:23,MIL,MarJon Beauchamp,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,106,87,0.999,0.999,5:08
+4,3:13,MIL,MarJon Beauchamp,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,106,91,0.995,0.998,3:21
+4,1:33,OKC,Aaron Wiggins,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Jonathan Sterling,MIL,106,94,0.999,0.999,1:51

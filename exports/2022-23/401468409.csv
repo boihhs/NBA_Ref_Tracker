@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:56,NY,Quentin Grimes,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,2,2,0.57,0.53,11:15
+1,7:45,OKC,Kenrich Williams,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,10,13,0.388,0.426,7:55
+1,7:05,NY,Quentin Grimes,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,13,16,0.451,0.451,7:13
+1,6:43,NY,Jalen Brunson,Offensive Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,13,16,0.45,0.424,6:46
+1,6:17,OKC,Luguentz Dort,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,15,18,0.405,0.449,6:17
+1,4:04,NY,Immanuel Quickley,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,20,23,0.449,0.447,4:14
+1,3:20,NY,Immanuel Quickley,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,22,26,0.461,0.42,3:41
+1,2:39,NY,Obi Toppin,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,27,29,0.494,0.445,2:39
+1,1:37,OKC,Shai Gilgeous-Alexander,Defensive 3-Seconds Technical,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,30,29,0.537,0.528,1:51
+2,10:13,NY,Miles McBride,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,36,42,0.396,0.354,10:14
+2,7:39,NY,Jericho Sims,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,41,46,0.421,0.377,7:45
+2,7:08,NY,Jericho Sims,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,42,46,0.448,0.405,7:10
+2,7:08,OKC,Darius Bazley,Technical Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,42,46,0.352,0.448,7:08
+2,5:31,OKC,Josh Giddey,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,44,51,0.243,0.284,5:41
+2,4:24,OKC,Luguentz Dort,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,44,54,0.202,0.202,4:24
+2,2:57,NY,Mitchell Robinson,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,46,60,0.163,0.136,3:09
+2,2:08,NY,Julius Randle,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,51,65,0.159,0.132,2:18
+2,1:16,NY,Julius Randle,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,55,69,0.139,0.109,1:16
+2,13.6,OKC,Eugene Omoruyi,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,58,69,0.129,0.159,29.2
+3,10:50,OKC,Eugene Omoruyi,Defensive 3-Seconds Technical,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,58,71,0.118,0.114,11:02
+3,9:46,NY,Mitchell Robinson,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,60,77,0.083,0.064,9:57
+3,8:53,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,64,77,0.1,0.1,8:53
+3,5:50,NY,RJ Barrett,Loose Ball Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,74,83,0.193,0.194,5:50
+3,5:41,NY,Quentin Grimes,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,74,83,0.192,0.193,5:50
+3,4:12,OKC,Luguentz Dort,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,79,87,0.142,0.183,4:16
+3,4:02,NY,RJ Barrett,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,79,89,0.196,0.154,4:12
+3,3:43,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,81,89,0.179,0.178,3:43
+3,3:04,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,83,92,0.111,0.146,3:21
+3,12.0,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,87,97,0.068,0.098,27.3
+4,11:24,NY,Miles McBride,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,87,98,0.094,0.088,11:35
+4,10:44,OKC,Kenrich Williams,Loose Ball Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,87,98,0.061,0.064,10:44
+4,10:29,OKC,Kenrich Williams,Loose Ball Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,87,98,0.057,0.061,10:29
+4,9:32,NY,Obi Toppin,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,89,100,0.077,0.071,9:39
+4,9:08,OKC,Jalen Williams,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,89,100,0.031,0.053,9:19
+4,8:58,NY,Jericho Sims,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,91,102,0.089,0.048,8:58
+4,7:47,OKC,Luguentz Dort,Offensive Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,93,105,0.031,0.044,7:54
+4,6:27,NY,Obi Toppin,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,95,110,0.016,0.007,6:27
+4,5:21,NY,Obi Toppin,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,98,112,0.022,0.012,5:27
+4,4:07,NY,Julius Randle,Offensive Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,103,114,0.026,0.028,4:17
+4,4:01,NY,Julius Randle,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,103,114,0.048,0.026,4:07
+4,3:22,OKC,Mike Muscala,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,104,118,0.001,0.003,3:22
+4,2:12,NY,Quentin Grimes,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,108,119,0.022,0.01,2:18
+4,1:52,NY,Quentin Grimes,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,109,121,0.01,0.003,1:59
+4,50.9,OKC,Lindy Waters III,Away from Play Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,116,125,0.001,0.004,57.3
+4,41.1,NY,Immanuel Quickley,Shooting Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,116,127,0.005,0.001,44.6
+4,26.8,OKC,Eugene Omoruyi,Personal Foul,Foul,Sean Wright,Aaron Smith,Jenna Schroeder,OKC,119,127,0.001,0.005,39.3

@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,MIA,Duncan Robinson,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,0,0,0.73,0.698,12:00
+1,9:15,MIA,Bam Adebayo,Personal Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,5,0,0.789,0.791,9:21
+1,7:36,MIA,Duncan Robinson,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,12,5,0.844,0.82,7:48
+1,6:59,BOS,Al Horford,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,16,7,0.836,0.836,6:59
+1,5:29,BOS,Jaylen Brown,Personal Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,18,7,0.864,0.864,5:36
+1,4:42,BOS,Marcus Smart,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,21,9,0.876,0.89,4:42
+1,4:40,MIA,Gabe Vincent,Personal Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,21,10,0.894,0.878,4:42
+2,11:40,MIA,Duncan Robinson,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,27,14,0.904,0.895,12:00
+2,10:31,BOS,Jayson Tatum,Personal Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,31,16,0.915,0.916,10:43
+2,8:51,MIA,Chris Silva,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,31,24,0.84,0.815,8:52
+2,8:26,BOS,Marcus Smart,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,32,24,0.813,0.813,8:26
+2,7:51,BOS,Grant Williams,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,32,24,0.781,0.813,8:04
+2,7:12,MIA,Bam Adebayo,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,32,26,0.821,0.792,7:20
+2,5:11,BOS,Jaylen Brown,Personal Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,39,32,0.756,0.791,5:27
+2,2:54,BOS,Josh Richardson,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,43,36,0.791,0.791,3:11
+2,2:36,MIA,Max Strus,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,43,37,0.823,0.791,2:37
+2,2:09,MIA,Gabe Vincent,Personal Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,45,40,0.803,0.767,2:25
+2,1:56,BOS,Robert Williams III,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,46,42,0.711,0.742,1:56
+3,11:03,MIA,Gabe Vincent,Personal Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,57,47,0.877,0.878,11:12
+3,10:38,MIA,Bam Adebayo,Offensive Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,60,47,0.923,0.911,10:53
+3,8:38,MIA,Bam Adebayo,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,67,52,0.962,0.95,8:51
+3,8:38,MIA,Bam Adebayo,Technical Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,67,52,0.956,0.962,8:38
+3,4:37,MIA,Dewayne Dedmon,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,78,63,0.973,0.961,4:53
+3,1:32,BOS,Dennis Schroder,Personal Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,88,67,0.989,0.992,1:53
+3,1:02,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,88,67,0.995,0.995,1:02
+3,10.1,MIA,Tyler Herro,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,93,70,0.998,0.997,10.1
+4,11:41,BOS,Al Horford,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,94,70,0.997,0.998,11:47
+4,11:09,MIA,Gabe Vincent,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,96,71,0.999,0.999,11:09
+4,10:46,MIA,Max Strus,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,96,71,0.999,0.999,10:52
+4,9:55,MIA,Chris Silva,Offensive Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,100,74,0.999,0.999,10:07
+4,9:13,BOS,Grant Williams,Personal Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,100,74,0.999,0.999,9:20
+4,5:03,MIA,Chris Silva,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,106,83,0.999,0.999,5:09
+4,4:38,BOS,Payton Pritchard,Personal Take Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,110,83,0.999,0.999,4:40
+4,3:28,BOS,Sam Hauser,Personal Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,113,83,0.999,0.999,3:41
+4,3:04,MIA,Chris Silva,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,113,86,0.999,0.999,3:18
+4,1:25,BOS,Sam Hauser,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,117,86,0.999,0.999,1:31
+4,26.3,MIA,Max Strus,Shooting Foul,Foul,Sean Wright,Marat Kogut,Aaron Smith,BOS,120,90,0.999,0.999,28.4

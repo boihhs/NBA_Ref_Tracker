@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:22,PHX,Grayson Allen,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,3,4,0.758,0.73,10:31
+1,10:02,PHX,Grayson Allen,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,5,4,0.791,0.768,10:09
+1,9:50,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,7,4,0.756,0.785,10:02
+1,9:34,PHI,Tobias Harris,Offensive Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,7,5,0.764,0.784,9:50
+1,9:26,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,7,5,0.764,0.764,9:34
+1,6:08,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,15,14,0.716,0.751,6:08
+1,5:37,PHI,Robert Covington,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,17,15,0.719,0.75,5:43
+1,4:29,PHX,Kevin Durant,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,20,17,0.81,0.785,4:32
+1,33.1,PHI,De'Anthony Melton,Personal Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,25,21,0.742,0.792,35.0
+2,10:07,PHX,Yuta Watanabe,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,29,24,0.833,0.807,10:10
+2,8:40,PHX,Drew Eubanks,Defensive 3-Seconds Technical,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,33,28,0.798,0.804,8:57
+2,7:37,PHI,Jaden Springer,Offensive Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,34,28,0.8,0.821,7:43
+2,7:09,PHX,Yuta Watanabe,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,34,31,0.79,0.758,7:26
+2,6:57,PHI,Paul Reed,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,35,31,0.719,0.756,7:09
+2,4:23,PHI,Tobias Harris,Technical Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,43,36,0.801,0.816,4:25
+2,3:45,PHI,Joel Embiid,Flagrant Foul Type 1,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,43,37,0.801,0.805,3:45
+3,11:34,PHI,Joel Embiid,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,52,45,0.778,0.816,11:37
+3,8:05,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,67,54,0.904,0.925,8:15
+3,7:51,PHX,Drew Eubanks,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,69,56,0.946,0.926,7:51
+3,4:40,PHX,Grayson Allen,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,74,65,0.901,0.888,4:40
+3,4:34,PHI,Patrick Beverley,Personal Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,74,65,0.868,0.867,4:37
+3,3:23,PHI,De'Anthony Melton,Loose Ball Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,74,67,0.775,0.822,3:23
+3,2:57,PHX,Jusuf Nurkic,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,76,69,0.867,0.824,2:57
+3,20.1,PHX,Jusuf Nurkic,Personal Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,77,75,0.746,0.684,31.1
+4,11:11,PHI,Paul Reed,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,82,75,0.775,0.837,11:28
+4,10:28,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,84,76,0.81,0.866,10:40
+4,9:19,PHX,Drew Eubanks,Flopping Technical,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,87,80,0.874,0.838,9:41
+4,9:08,PHI,Furkan Korkmaz,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,88,80,0.808,0.871,9:09
+4,8:09,PHI,Furkan Korkmaz,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,92,82,0.881,0.921,8:27
+4,7:15,PHI,Paul Reed,Personal Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,96,84,0.937,0.96,7:23
+4,6:42,PHI,Robert Covington,Offensive Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,99,86,0.973,0.982,6:48
+4,5:03,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,104,86,0.997,0.998,5:05
+4,4:57,PHX,Eric Gordon,Personal Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,104,88,0.997,0.997,5:03
+4,2:25,PHX,Saben Lee,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,108,93,0.999,0.999,2:37
+4,2:05,PHI,Robert Covington,Personal Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,110,93,0.999,0.999,2:09
+4,55.1,PHI,Mo Bamba,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,110,95,0.999,0.999,1:02
+4,19.0,PHI,KJ Martin,Shooting Foul,Foul,Matt Boland,Eric Dalen,Kevin Scott,PHI,112,100,0.999,0.999,19.0

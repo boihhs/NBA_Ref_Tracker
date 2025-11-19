@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:49,DET,Ausar Thompson,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,0,0,0.802,0.777,12:00
+1,9:56,DET,Jalen Duren,Offensive Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,3,2,0.789,0.769,10:00
+1,5:24,DET,Ausar Thompson,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,19,11,0.877,0.878,5:40
+1,1:02,LAL,Anthony Davis,Transition Take Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,32,18,0.926,0.926,1:02
+1,4.0,DET,Marcus Sasser,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,32,24,0.891,0.871,8.1
+1,1.1,DET,James Wiseman,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,32,24,0.891,0.891,4.0
+2,10:18,DET,James Wiseman,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,41,28,0.933,0.917,10:18
+2,9:40,DET,Troy Brown Jr.,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,41,30,0.921,0.905,9:55
+2,9:18,LAL,D'Angelo Russell,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,43,32,0.884,0.905,9:18
+2,7:03,LAL,Taurean Prince,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,45,36,0.841,0.864,7:04
+2,5:59,DET,James Wiseman,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,51,38,0.934,0.917,5:59
+2,4:23,DET,Jalen Duren,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,57,40,0.969,0.961,4:26
+2,4:01,LAL,Rui Hachimura,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,59,40,0.962,0.967,4:01
+2,3:16,LAL,Spencer Dinwiddie,Loose Ball Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,62,42,0.964,0.973,3:16
+2,1:39,DET,Jalen Duren,Loose Ball Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,65,44,0.986,0.982,1:39
+2,52.1,LAL,Austin Reaves,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,69,46,0.983,0.985,1:00
+3,11:00,DET,Cade Cunningham,Transition Take Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,71,51,0.982,0.982,11:00
+3,10:01,DET,Jaden Ivey,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,74,53,0.986,0.986,10:07
+3,9:35,DET,Simone Fontecchio,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,74,53,0.987,0.987,9:35
+3,8:45,DET,Jaden Ivey,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,77,55,0.992,0.99,8:45
+3,8:10,LAL,Austin Reaves,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,79,57,0.988,0.988,8:10
+3,6:51,DET,Ausar Thompson,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,79,61,0.985,0.979,7:09
+3,6:33,DET,Jaden Ivey,Offensive Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,81,61,0.987,0.984,6:34
+3,3:24,LAL,Austin Reaves,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,88,73,0.947,0.962,3:31
+3,3:14,DET,Evan Fournier,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,88,75,0.967,0.953,3:24
+3,2:47,DET,Evan Fournier,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,91,75,0.982,0.971,2:47
+3,1:23,LAL,Taurean Prince,Technical Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,97,79,0.982,0.986,1:24
+4,11:42,LAL,Jaxson Hayes,Loose Ball Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,99,79,0.994,0.995,11:42
+4,10:02,LAL,D'Angelo Russell,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,102,86,0.984,0.985,10:03
+4,9:39,LAL,Spencer Dinwiddie,Offensive Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,102,86,0.985,0.989,9:41
+4,7:58,DET,James Wiseman,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,108,90,0.998,0.996,8:20
+4,6:12,LAL,Austin Reaves,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,112,94,0.994,0.997,6:18
+4,5:59,DET,Shake Milton,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,112,96,0.998,0.996,10.0
+4,5:33,DET,Ausar Thompson,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,114,98,0.997,0.996,5:48
+4,4:38,DET,Evan Fournier,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,114,102,0.994,0.988,4:50
+4,3:19,DET,Jaden Ivey,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,118,102,0.999,0.999,3:29
+4,2:38,LAL,Christian Wood,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,121,104,0.999,0.999,2:51
+4,2:18,DET,Jaden Ivey,Personal Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,121,106,0.999,0.999,2:38
+4,52.1,LAL,Colin Castleton,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Che Flores,LAL,125,106,0.999,0.999,1:09

@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:38,WSH,Kyle Kuzma,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,9,11,0.319,0.355,7:49
+1,6:51,WSH,Jordan Poole,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,12,13,0.344,0.377,6:58
+1,5:42,WSH,Daniel Gafford,Offensive Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,12,19,0.243,0.263,5:57
+1,4:23,ORL,Wendell Carter Jr.,Defensive 3-Seconds Technical,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,15,21,0.278,0.285,4:35
+1,2:41,ORL,Jalen Suggs,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,18,26,0.274,0.26,2:41
+1,36.1,ORL,Cole Anthony,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,29,28,0.515,0.471,46.1
+1,1.1,WSH,Delon Wright,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,33,31,0.43,0.475,2.2
+2,11:10,WSH,Danilo Gallinari,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,33,35,0.341,0.388,11:10
+2,10:56,ORL,Gary Harris,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,33,36,0.404,0.362,11:10
+2,9:13,WSH,Bilal Coulibaly,Personal Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,38,38,0.422,0.419,9:30
+2,7:44,ORL,Gary Harris,Personal Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,38,41,0.366,0.367,7:58
+2,5:31,ORL,Franz Wagner,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,41,47,0.322,0.282,5:40
+2,4:39,WSH,Kyle Kuzma,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,45,51,0.236,0.281,4:39
+2,2:53,WSH,Deni Avdija,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,52,58,0.232,0.279,2:53
+2,2:36,ORL,Anthony Black,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,52,58,0.324,0.28,2:50
+2,52.0,WSH,Corey Kispert,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,58,62,0.282,0.339,52.0
+3,9:44,ORL,Anthony Black,Personal Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,63,67,0.332,0.335,9:52
+3,9:12,WSH,Daniel Gafford,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,65,67,0.316,0.366,9:36
+3,8:57,ORL,Anthony Black,Personal Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,65,68,0.369,0.368,9:09
+3,6:41,ORL,Franz Wagner,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,69,78,0.214,0.175,7:01
+3,6:28,WSH,Daniel Gafford,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,71,78,0.16,0.199,6:41
+3,4:21,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,79,84,0.288,0.252,4:29
+3,4:12,ORL,Paolo Banchero,Personal Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,79,84,0.345,0.288,4:21
+3,3:32,ORL,Wendell Carter Jr.,Defensive 3-Seconds Technical,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,81,86,0.274,0.286,3:52
+3,2:26,ORL,Gary Harris,Personal Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,82,88,0.3,0.243,2:43
+3,2:15,WSH,Jordan Poole,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,82,88,0.161,0.206,2:22
+3,2:00,WSH,Danilo Gallinari,Offensive Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,82,89,0.172,0.206,2:12
+3,38.1,ORL,Cole Anthony,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,86,93,0.256,0.199,55.1
+4,10:33,WSH,Bilal Coulibaly,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,91,102,0.045,0.076,10:33
+4,9:55,ORL,Moritz Wagner,Personal Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,91,104,0.045,0.042,10:10
+4,7:11,WSH,Kyle Kuzma,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,97,110,0.01,0.018,7:14
+4,5:53,WSH,Daniel Gafford,Personal Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,100,117,0.002,0.003,5:55
+4,4:42,ORL,Anthony Black,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,103,117,0.017,0.007,4:46
+4,3:47,WSH,Kyle Kuzma,Offensive Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,108,117,0.033,0.033,3:47
+4,2:02,ORL,Franz Wagner,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,113,119,0.187,0.109,2:06
+4,1:27,WSH,Jordan Poole,Shooting Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,115,121,0.023,0.058,1:32
+4,22.1,WSH,Bilal Coulibaly,Personal Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,119,125,0.004,0.018,24.2
+4,13.1,WSH,Bilal Coulibaly,Personal Foul,Foul,Tyler Ford,Ray Acosta,Pat O'Connell,WSH,119,126,0.001,0.003,17.1

@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:03,MIN,Karl-Anthony Towns,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,5,5,0.574,0.574,10:06
+1,9:05,MIN,Anthony Edwards,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,8,8,0.532,0.572,9:08
+1,8:07,PHX,Torrey Craig,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,8,9,0.606,0.569,8:10
+1,7:54,MIN,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,10,9,0.575,0.594,7:54
+1,7:20,PHX,Deandre Ayton,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,12,11,0.635,0.594,7:20
+1,5:43,PHX,Dario Saric,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,14,13,0.616,0.617,5:53
+1,4:48,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,18,17,0.587,0.616,4:58
+1,4:43,MIN,Anthony Edwards,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,18,17,0.547,0.587,4:48
+1,4:33,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,18,19,0.515,0.562,4:33
+1,3:34,MIN,Rudy Gobert,Offensive Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,18,25,0.365,0.395,3:42
+1,2:39,MIN,Rudy Gobert,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,18,27,0.273,0.31,2:39
+1,1:08,MIN,Taurean Prince,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,23,31,0.288,0.328,1:28
+2,11:22,PHX,Landry Shamet,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,25,41,0.157,0.158,11:33
+2,9:58,PHX,Jock Landale,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,31,41,0.307,0.259,9:58
+2,8:55,MIN,Jaylen Nowell,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,33,43,0.255,0.252,8:55
+2,7:53,PHX,Damion Lee,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,37,46,0.322,0.275,7:53
+2,7:23,PHX,Torrey Craig,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,38,49,0.286,0.247,7:36
+2,5:13,MIN,Nathan Knight,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,42,53,0.208,0.21,5:26
+2,4:53,PHX,Devin Booker,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,42,53,0.273,0.232,4:56
+2,4:31,MIN,D'Angelo Russell,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,44,53,0.257,0.258,4:35
+3,11:29,MIN,Anthony Edwards,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,51,71,0.033,0.045,11:29
+3,9:53,MIN,D'Angelo Russell,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,58,74,0.073,0.073,10:04
+3,6:10,MIN,Anthony Edwards,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,66,82,0.038,0.052,6:15
+3,5:56,PHX,Mikal Bridges,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,66,84,0.057,0.041,6:10
+3,5:41,MIN,Anthony Edwards,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,66,84,0.022,0.031,5:41
+3,4:34,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,66,89,0.004,0.007,4:40
+3,3:47,MIN,Karl-Anthony Towns,Technical Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,69,91,0.006,0.01,3:47
+3,3:16,MIN,Jaylen Nowell,Offensive Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,71,94,0.005,0.007,3:24
+3,3:02,MIN,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,71,94,0.003,0.005,3:16
+3,2:17,PHX,Jock Landale,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,73,98,0.005,0.003,2:35
+3,1:49,PHX,Jock Landale,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,76,101,0.003,0.001,1:49
+3,1:35,PHX,Landry Shamet,Offensive Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,77,101,0.003,0.002,1:49
+3,1:22,PHX,Dario Saric,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,77,101,0.005,0.003,1:35
+3,50.9,PHX,Jock Landale,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,78,101,0.006,0.003,50.9
+4,12:00,PHX,Devin Booker,Technical Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,82,104,0.006,0.005,12:00
+4,11:35,PHX,Dario Saric,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,83,104,0.009,0.005,11:38
+4,10:21,PHX,Jock Landale,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,88,107,0.015,0.023,10:56
+4,8:55,MIN,Jaylen Nowell,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,94,109,0.008,0.015,8:56
+4,8:04,PHX,Bismack Biyombo,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,94,115,0.003,0.001,8:18
+4,7:19,PHX,Torrey Craig,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,101,117,0.014,0.007,7:19
+4,6:59,MIN,Jaden McDaniels,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,102,117,0.009,0.01,7:02
+4,5:01,PHX,Cameron Payne,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,102,119,0.005,0.003,5:15
+4,3:50,PHX,Devin Booker,Personal Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,106,121,0.007,0.003,3:58
+4,3:25,PHX,Torrey Craig,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,108,121,0.016,0.007,3:30
+4,59.2,MIN,Jaden McDaniels,Shooting Foul,Foul,Ed Malloy,Michael Smith,Andy Nagy,MIN,112,126,0.001,0.001,59.2

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:39,DAL,Dwight Powell,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,5,10,0.58,0.581,8:39
+1,8:29,DAL,Dwight Powell,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,5,10,0.578,0.58,8:39
+1,7:39,PHX,Deandre Ayton,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,9,13,0.574,0.576,7:51
+1,5:30,PHX,Jae Crowder,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,13,17,0.521,0.563,5:49
+1,5:17,DAL,Luka Doncic,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,13,19,0.533,0.535,5:30
+1,1:29,DAL,Maxi Kleber,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,20,24,0.607,0.565,1:39
+1,1:09,PHX,Bismack Biyombo,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,22,24,0.552,0.592,1:29
+1,55.9,DAL,Frank Ntilikina,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,22,26,0.604,0.563,1:09
+2,8:58,DAL,Davis Bertans,Personal Take Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,28,30,0.598,0.598,8:58
+2,8:38,PHX,JaVale McGee,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,28,30,0.568,0.569,8:42
+2,8:04,PHX,Jae Crowder,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,30,33,0.488,0.473,8:04
+2,7:53,DAL,Jalen Brunson,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,30,37,0.439,0.536,8:04
+2,7:24,PHX,Chris Paul,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,30,37,0.359,0.404,7:40
+2,6:44,DAL,Maxi Kleber,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,32,38,0.511,0.465,6:51
+2,5:25,PHX,Jae Crowder,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,36,40,0.437,0.486,5:31
+2,2:02,PHX,Cameron Johnson,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,44,44,0.573,0.63,2:02
+2,1:55,DAL,Frank Ntilikina,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,44,45,0.645,0.599,2:02
+2,1:01,PHX,Devin Booker,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,47,45,0.607,0.657,1:07
+3,10:52,DAL,Dorian Finney-Smith,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,49,48,0.651,0.652,11:02
+3,9:28,PHX,Mikal Bridges,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,56,50,0.771,0.771,9:41
+3,7:04,PHX,Jae Crowder,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,63,50,0.922,0.922,7:08
+3,5:25,DAL,Dorian Finney-Smith,Flagrant Foul Type 1,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,67,50,0.972,0.975,5:29
+3,5:02,PHX,Deandre Ayton,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,68,50,0.966,0.975,5:12
+3,3:49,DAL,Spencer Dinwiddie,Personal Take Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,68,54,0.956,0.957,3:49
+3,3:30,DAL,Maxi Kleber,Offensive Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,70,54,0.973,0.966,3:36
+3,2:56,DAL,Maxi Kleber,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,72,54,0.988,0.985,2:56
+3,2:26,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,73,54,0.993,0.989,2:35
+4,11:12,PHX,Landry Shamet,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,84,60,0.997,0.998,11:23
+4,10:33,PHX,Cameron Johnson,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,86,62,0.997,0.998,10:40
+4,10:12,PHX,Chris Paul,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,86,64,0.997,0.997,10:14
+4,9:42,DAL,Luka Doncic,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,86,66,0.998,0.996,10:01
+4,9:32,DAL,Luka Doncic,Offensive Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,87,66,0.998,0.997,9:40
+4,9:18,DAL,Reggie Bullock Jr.,Loose Ball Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,87,66,0.998,0.998,9:18
+4,8:51,DAL,Jalen Brunson,Personal Take Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,87,66,0.998,0.998,9:03
+4,7:46,PHX,Jae Crowder,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,90,68,0.998,0.999,7:46
+4,7:23,PHX,Devin Booker,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,90,69,0.997,0.998,7:29
+4,6:14,PHX,Devin Booker,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,90,71,0.996,0.997,6:16
+4,4:25,PHX,Jae Crowder,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,95,76,0.998,0.999,4:34
+4,3:58,PHX,Mikal Bridges,Personal Take Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,97,76,0.999,0.999,4:08
+4,31.2,PHX,Aaron Holiday,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,108,80,0.999,0.999,52.0
+4,2.3,DAL,Marquese Chriss,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,108,80,0.999,0.999,10.8
+4,2.3,DAL,Marquese Chriss,Double Technical Foul,Foul,Sean Wright,Tom Washington,David Guthrie,PHX,108,80,0.999,0.999,2.3

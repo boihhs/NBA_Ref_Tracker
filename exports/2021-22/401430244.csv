@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:04,TOR,OG Anunoby,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,15,10,0.546,0.584,8:18
+1,7:11,TOR,Khem Birch,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,15,12,0.535,0.534,7:29
+1,7:02,TOR,Scottie Barnes,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,15,12,0.496,0.535,7:11
+1,5:11,TOR,OG Anunoby,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,15,18,0.341,0.379,5:24
+1,4:53,PHI,James Harden,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,15,20,0.373,0.352,4:53
+1,4:01,PHI,Tobias Harris,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,17,22,0.372,0.353,4:01
+1,1:59,PHI,James Harden,Offensive Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,23,28,0.352,0.325,2:04
+1,1:15,TOR,Precious Achiuwa,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,25,28,0.336,0.377,1:37
+2,11:15,TOR,OG Anunoby,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,31,36,0.32,0.318,11:29
+2,10:53,PHI,Georges Niang,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,31,36,0.389,0.346,11:02
+2,10:23,PHI,Shake Milton,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,33,36,0.445,0.297,44.0
+2,9:33,PHI,Tyrese Maxey,Personal Take Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,35,36,0.459,0.46,9:33
+2,8:15,PHI,Tobias Harris,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,42,39,0.627,0.58,8:31
+2,4:50,TOR,Chris Boucher,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,50,48,0.502,0.56,4:50
+2,4:24,TOR,Scottie Barnes,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,52,49,0.562,0.558,4:27
+2,3:28,PHI,Tobias Harris,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,56,54,0.586,0.529,3:28
+2,3:09,TOR,Gary Trent Jr.,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,56,54,0.478,0.529,3:26
+3,11:13,TOR,Precious Achiuwa,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,61,64,0.31,0.359,11:20
+3,10:37,TOR,Pascal Siakam,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,63,66,0.31,0.359,10:57
+3,8:04,TOR,Pascal Siakam,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,67,79,0.083,0.107,8:10
+3,6:46,PHI,James Harden,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,67,82,0.068,0.069,6:51
+3,6:26,TOR,Pascal Siakam,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,67,82,0.041,0.055,6:27
+3,5:20,TOR,Scottie Barnes,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,67,85,0.018,0.025,5:23
+3,4:55,PHI,Paul Reed,Offensive Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,70,87,0.039,0.031,5:06
+3,3:00,PHI,Tyrese Maxey,Loose Ball Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,70,92,0.008,0.007,3:00
+3,2:50,PHI,Paul Reed,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,70,92,0.012,0.008,3:00
+3,1:49,PHI,Joel Embiid,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,75,94,0.023,0.015,1:53
+3,30.3,PHI,Joel Embiid,Loose Ball Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,75,97,0.006,0.004,30.3
+3,24.7,TOR,Chris Boucher,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,76,97,0.002,0.004,30.3
+3,6.6,PHI,Paul Reed,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,76,99,0.004,0.002,24.7
+3,3.7,PHI,Georges Niang,Offensive Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,78,99,0.005,0.003,6.6
+4,10:38,TOR,Scottie Barnes,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,81,99,0.006,0.007,10:43
+4,9:31,PHI,Tyrese Maxey,Personal Take Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,81,104,0.001,0.001,9:36
+4,9:31,PHI,PHI,Technical Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,81,104,0.001,0.001,9:31
+4,8:23,PHI,Georges Niang,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,82,108,0.001,0.001,8:31
+4,8:11,TOR,Gary Trent Jr.,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,84,108,0.001,0.001,8:23
+4,7:41,TOR,Scottie Barnes,Loose Ball Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,84,108,0.001,0.001,7:41
+4,7:12,PHI,Joel Embiid,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,84,110,0.001,0.001,7:13
+4,5:41,PHI,Tobias Harris,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,87,115,0.001,0.001,5:46
+4,4:48,TOR,Pascal Siakam,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,90,115,0.001,0.001,5:02
+4,2:14,TOR,Pascal Siakam,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,94,124,0.001,0.001,2:17
+4,2:13,PHI,Furkan Korkmaz,Personal Take Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,94,126,0.001,0.001,2:14
+4,56.8,PHI,Jaden Springer,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Curtis Blair,TOR,96,128,0.001,0.001,56.8

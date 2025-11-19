@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:28,LAL,Patrick Beverley,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,0,0,0.646,0.609,11:40
+1,10:27,ORL,Moritz Wagner,Loose Ball Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,1,0,0.61,0.608,10:27
+1,10:17,ORL,Paolo Banchero,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,1,0,0.573,0.609,10:18
+1,9:20,LAL,Lonnie Walker IV,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,3,3,0.643,0.608,9:25
+1,7:56,LAL,Thomas Bryant,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,5,5,0.639,0.605,8:12
+1,5:19,LAL,Patrick Beverley,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,13,16,0.54,0.519,5:19
+1,5:19,LAL,Patrick Beverley,Technical Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,13,16,0.54,0.54,5:19
+1,1:31,ORL,Cole Anthony,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,25,29,0.41,0.45,1:36
+1,47.2,LAL,Troy Brown Jr.,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,25,31,0.463,0.422,59.1
+2,11:08,LAL,Wenyen Gabriel,Loose Ball Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,27,35,0.357,0.356,11:08
+2,9:54,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,31,37,0.333,0.375,9:58
+2,9:17,LAL,Wenyen Gabriel,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,31,39,0.39,0.347,9:23
+2,8:42,ORL,Gary Harris,Defensive 3-Seconds Technical,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,35,41,0.379,0.372,8:55
+2,7:30,ORL,Moritz Wagner,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,37,47,0.253,0.253,7:36
+2,6:44,ORL,Moritz Wagner,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,39,47,0.306,0.303,6:46
+2,6:37,ORL,Franz Wagner,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,39,47,0.263,0.303,6:44
+2,6:04,ORL,Paolo Banchero,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,41,48,0.309,0.329,6:04
+2,5:16,ORL,Paolo Banchero,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,41,53,0.161,0.193,5:18
+2,4:57,LAL,Russell Westbrook,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,41,55,0.202,0.17,5:16
+2,4:20,LAL,Dennis Schroder,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,42,58,0.156,0.127,4:20
+2,35.0,ORL,Cole Anthony,Offensive Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,53,65,0.159,0.185,45.0
+3,10:48,ORL,Paolo Banchero,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,59,68,0.224,0.222,10:49
+3,9:50,LAL,Thomas Bryant,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,59,72,0.177,0.141,9:59
+3,8:48,ORL,Bol Bol,Defensive 3-Seconds Technical,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,63,72,0.217,0.209,9:02
+3,6:43,ORL,Moritz Wagner,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,68,75,0.206,0.252,6:48
+3,5:52,LAL,Dennis Schroder,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,68,79,0.177,0.157,5:52
+3,4:57,LAL,LeBron James,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,73,82,0.254,0.207,5:01
+3,3:17,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,77,86,0.16,0.191,3:27
+3,2:49,LAL,Wenyen Gabriel,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,77,88,0.17,0.131,2:59
+3,55.2,LAL,Patrick Beverley,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,82,92,0.181,0.139,1:09
+4,10:44,LAL,Russell Westbrook,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,83,95,0.074,0.069,10:45
+4,8:14,ORL,Cole Anthony,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,94,102,0.071,0.115,8:32
+4,2:48,ORL,Franz Wagner,Technical Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,105,120,0.001,0.001,2:48
+4,1:38,LAL,Russell Westbrook,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Jason Goldenberg,ORL,108,123,0.001,0.001,1:38

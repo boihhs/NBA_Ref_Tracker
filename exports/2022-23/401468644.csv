@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:36,POR,Damian Lillard,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,0,0,0.744,0.745,12:00
+1,8:42,POR,Jusuf Nurkic,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,7,4,0.789,0.791,8:42
+1,6:51,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,13,9,0.757,0.786,7:06
+1,5:56,DEN,Bruce Brown,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,15,13,0.712,0.743,5:59
+2,11:33,POR,Shaedon Sharpe,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,32,27,0.817,0.806,11:33
+2,11:22,DEN,Bones Hyland,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,34,29,0.769,0.805,11:22
+2,10:46,DEN,Bruce Brown,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,36,29,0.793,0.821,11:06
+2,9:08,DEN,Zeke Nnaji,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,43,30,0.89,0.907,9:20
+2,8:41,POR,Jerami Grant,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,43,34,0.868,0.869,8:50
+2,8:32,POR,Anfernee Simons,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,43,34,0.868,0.868,8:41
+2,7:35,DEN,Zeke Nnaji,Loose Ball Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,43,34,0.826,0.851,7:35
+2,6:52,DEN,Bones Hyland,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,43,34,0.825,0.852,6:57
+2,5:57,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,45,40,0.754,0.795,5:57
+2,5:50,POR,Jusuf Nurkic,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,45,40,0.824,0.795,5:55
+2,4:20,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,50,49,0.638,0.691,4:20
+2,2:37,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,52,54,0.506,0.559,2:43
+2,1:55,POR,Damian Lillard,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,55,56,0.667,0.622,2:00
+2,42.0,POR,Drew Eubanks,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,58,61,0.571,0.506,42.0
+2,4.1,DEN,Jamal Murray,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,58,63,0.379,0.429,7.0
+3,11:32,POR,Jerami Grant,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,58,64,0.482,0.429,11:46
+3,9:12,POR,Anfernee Simons,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,62,68,0.461,0.404,9:15
+3,8:57,DEN,DEN,Technical Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,64,68,0.41,0.477,8:59
+3,7:59,POR,Jusuf Nurkic,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,68,69,0.615,0.551,7:59
+3,6:20,POR,Jerami Grant,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,75,69,0.83,0.783,6:20
+3,4:00,DEN,Jamal Murray,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,83,71,0.922,0.921,4:13
+3,1:56,POR,Shaedon Sharpe,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,87,76,0.951,0.931,2:12
+4,10:20,DEN,Bruce Brown,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,96,85,0.932,0.937,10:27
+4,9:30,POR,Anfernee Simons,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,96,85,0.971,0.954,9:39
+4,9:18,DEN,Jeff Green,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,97,85,0.927,0.954,9:30
+4,7:36,POR,Jusuf Nurkic,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,101,87,0.991,0.981,7:36
+4,7:19,DEN,Michael Porter Jr.,Flagrant Foul Type 1,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,102,90,0.965,0.974,7:19
+4,7:17,POR,Jusuf Nurkic,Offensive Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,102,91,0.963,0.949,7:19
+4,7:02,POR,Jusuf Nurkic,Loose Ball Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,102,93,0.94,0.934,7:02
+4,6:24,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,105,93,0.949,0.967,6:45
+4,4:22,POR,Drew Eubanks,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,111,98,0.995,0.988,4:22
+4,7:55,DEN,Bruce Brown,Away from Play Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,99,87,0.939,0.995,4:22
+4,3:39,POR,Josh Hart,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,111,101,0.991,0.978,4:13
+4,2:38,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,115,103,0.984,0.993,2:45
+4,2:22,POR,Josh Hart,Shooting Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,115,105,0.996,0.989,2:38
+4,46.0,POR,Anfernee Simons,Personal Foul,Foul,James Williams,Brett Nansel,Robert Hussey,DEN,118,107,0.999,0.999,1:02

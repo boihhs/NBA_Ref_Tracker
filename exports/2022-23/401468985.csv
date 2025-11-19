@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:34,GS,Kevon Looney,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,2,4,0.606,0.607,10:34
+1,10:03,GS,Kevon Looney,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,7,4,0.734,0.699,10:03
+1,9:11,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,10,4,0.802,0.777,9:22
+1,8:28,POR,Drew Eubanks,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,14,7,0.747,0.776,8:33
+1,7:23,GS,Klay Thompson,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,14,11,0.745,0.714,7:40
+1,6:01,GS,Klay Thompson,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,17,17,0.677,0.642,6:11
+1,5:42,POR,Damian Lillard,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,20,17,0.689,0.687,6:01
+1,1:29,GS,JaMychal Green,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,30,24,0.803,0.771,1:37
+2,10:09,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,41,32,0.854,0.83,10:19
+2,9:51,POR,Trendon Watford,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,43,32,0.848,0.848,10:09
+2,8:39,POR,Drew Eubanks,Offensive Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,43,38,0.724,0.749,8:47
+2,6:20,GS,Ty Jerome,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,48,45,0.735,0.696,6:29
+2,5:55,GS,Kevon Looney,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,53,47,0.787,0.747,5:55
+2,5:04,POR,Anfernee Simons,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,56,47,0.782,0.813,5:19
+2,4:48,GS,JaMychal Green,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,58,50,0.83,0.794,4:48
+2,4:32,POR,Drew Eubanks,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,59,52,0.751,0.794,4:32
+2,2:38,GS,Andrew Wiggins,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,59,57,0.706,0.662,2:47
+2,2:22,POR,Gary Payton II,Loose Ball Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,61,57,0.647,0.691,2:22
+2,1:15,POR,Jerami Grant,Offensive Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,61,62,0.529,0.565,1:26
+2,1:01,POR,Jerami Grant,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,61,62,0.473,0.529,1:15
+3,9:50,GS,Kevon Looney,Offensive Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,68,69,0.548,0.513,9:52
+3,7:30,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,73,79,0.347,0.348,7:48
+3,6:56,POR,Gary Payton II,Offensive Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,75,82,0.268,0.306,7:07
+3,6:34,GS,Jordan Poole,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,75,82,0.303,0.302,6:38
+3,5:36,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,77,84,0.349,0.296,5:52
+3,3:53,GS,Jonathan Kuminga,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,84,87,0.508,0.443,4:10
+3,3:04,GS,Jonathan Kuminga,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,86,87,0.593,0.528,3:10
+3,2:00,GS,Ty Jerome,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,88,89,0.592,0.525,2:13
+3,6.1,POR,Nassir Little,Personal Take Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,95,95,0.438,0.509,9.1
+4,11:46,POR,Anfernee Simons,Offensive Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,95,95,0.513,0.538,12:00
+4,11:26,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,95,95,0.579,0.56,11:36
+4,10:55,GS,Ty Jerome,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,97,97,0.623,0.514,10:55
+4,10:27,POR,Trendon Watford,Offensive Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,98,97,0.572,0.625,10:31
+4,10:02,GS,Klay Thompson,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,100,97,0.77,0.672,10:02
+4,9:06,POR,Nassir Little,Personal Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,103,97,0.804,0.812,9:25
+4,8:28,POR,Trendon Watford,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,106,100,0.737,0.813,8:35
+4,4:31,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,116,114,0.76,0.631,4:31
+4,1:32,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,119,114,0.968,0.931,1:39
+4,16.1,GS,Jordan Poole,Personal Take Foul,Foul,Courtney Kirkland,Suyash Mehta,Ashley Moyer-Gleich,POR,123,119,0.983,0.946,19.0

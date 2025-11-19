@@ -1,0 +1,23 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:56,MIA,Bam Adebayo,Shooting Foul,Foul,,,,DEN,6,7,0.789,0.764,9:11
+1,6:19,DEN,Jamal Murray,Personal Foul,Foul,,,,DEN,14,9,0.837,0.836,6:20
+1,1:19,DEN,Kentavious Caldwell-Pope,Offensive Foul,Foul,,,,DEN,27,20,0.853,0.868,1:24
+1,57.0,MIA,Duncan Robinson,Offensive Foul,Foul,,,,DEN,27,20,0.868,0.853,1:19
+2,10:54,DEN,Christian Braun,Shooting Foul,Foul,,,,DEN,29,20,0.855,0.878,11:02
+2,9:07,DEN,Christian Braun,Personal Foul,Foul,,,,DEN,35,24,0.901,0.901,9:21
+2,4:53,MIA,Haywood Highsmith,Shooting Foul,Foul,,,,DEN,46,37,0.905,0.887,5:07
+2,4:18,MIA,Duncan Robinson,Personal Foul,Foul,,,,DEN,48,37,0.911,0.912,4:22
+3,11:03,MIA,Bam Adebayo,Personal Foul,Foul,,,,DEN,59,46,0.937,0.937,11:12
+3,9:53,MIA,Jimmy Butler III,Shooting Foul,Foul,,,,DEN,61,49,0.936,0.917,9:53
+3,9:32,DEN,Nikola Jokic,Offensive Foul,Foul,,,,DEN,62,49,0.929,0.94,9:39
+3,8:44,MIA,Caleb Martin,Personal Foul,Foul,,,,DEN,62,49,0.94,0.942,8:49
+3,8:37,MIA,Caleb Martin,Shooting Foul,Foul,,,,DEN,64,49,0.964,0.95,8:37
+3,7:44,MIA,Caleb Martin,Shooting Foul,Foul,,,,DEN,65,51,0.964,0.952,7:47
+3,7:08,MIA,Bam Adebayo,Shooting Foul,Foul,,,,DEN,67,53,0.965,0.953,7:29
+3,6:12,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,,,,DEN,71,55,0.963,0.963,6:25
+3,1:57,DEN,Bruce Brown,Personal Foul,Foul,,,,DEN,81,60,0.99,0.993,2:08
+3,1:01,MIA,Cody Zeller,Shooting Foul,Foul,,,,DEN,81,60,0.997,0.996,1:09
+4,7:58,MIA,Gabe Vincent,Shooting Foul,Foul,,,,DEN,86,74,0.986,0.974,8:06
+4,4:47,MIA,Kyle Lowry,Shooting Foul,Foul,,,,DEN,92,78,0.997,0.995,4:47
+4,1:52,MIA,Haywood Highsmith,Shooting Foul,Foul,,,,DEN,98,87,0.998,0.996,1:58
+4,1:38,MIA,Bam Adebayo,Personal Foul,Foul,,,,DEN,100,87,0.999,0.999,1:42

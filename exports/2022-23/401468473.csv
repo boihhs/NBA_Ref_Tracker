@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:24,TOR,Thaddeus Young,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,3,7,0.42,0.422,10:32
+1,9:50,TOR,OG Anunoby,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,3,9,0.369,0.367,10:00
+1,9:46,TOR,Fred VanVleet,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,5,9,0.438,0.394,9:46
+1,9:29,TOR,OG Anunoby,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,7,9,0.487,0.441,9:29
+1,6:18,NO,Trey Murphy III,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,16,16,0.453,0.493,6:32
+1,6:04,NO,Herbert Jones,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,16,17,0.465,0.464,6:04
+1,2:50,NO,Devonte' Graham,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,28,21,0.661,0.708,2:50
+1,1:42,TOR,Juancho Hernangomez,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,30,23,0.745,0.71,1:56
+1,58.8,TOR,Scottie Barnes,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,34,26,0.77,0.736,1:06
+2,9:45,NO,Larry Nance Jr.,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,44,31,0.828,0.83,9:45
+2,8:28,NO,Larry Nance Jr.,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,46,36,0.734,0.771,8:32
+2,6:41,TOR,Fred VanVleet,Technical Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,52,37,0.902,0.89,6:41
+2,6:25,NO,Dyson Daniels,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,53,39,0.845,0.877,6:25
+2,6:13,TOR,OG Anunoby,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,53,40,0.861,0.86,6:25
+2,4:05,NO,Jose Alvarado,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,61,42,0.92,0.937,4:18
+2,1:43,TOR,Chris Boucher,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,65,47,0.956,0.945,1:50
+2,1:39,TOR,Khem Birch,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,65,47,0.956,0.956,1:43
+2,44.8,TOR,Fred VanVleet,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,69,47,0.982,0.974,49.2
+3,11:19,TOR,Fred VanVleet,Technical Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,74,49,0.991,0.987,11:19
+3,10:39,NO,Trey Murphy III,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,75,52,0.98,0.981,10:41
+3,10:31,NO,Jose Alvarado,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,75,52,0.973,0.98,10:39
+3,10:08,NO,Jonas Valanciunas,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,77,54,0.974,0.981,10:18
+3,9:03,TOR,Christian Koloko,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,79,57,0.988,0.983,9:19
+3,9:03,TOR,TOR,Technical Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,81,57,0.991,0.986,9:03
+3,7:33,TOR,Gary Trent Jr.,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,82,59,0.992,0.989,7:52
+3,6:10,NO,Zion Williamson,Offensive Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,87,63,0.991,0.993,6:21
+3,3:44,NO,Zion Williamson,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,94,63,0.999,0.999,3:47
+3,3:14,TOR,Chris Boucher,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,94,68,0.998,0.998,3:27
+3,3:07,TOR,Chris Boucher,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,94,68,0.998,0.998,3:14
+3,2:52,NO,Larry Nance Jr.,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,94,68,0.996,0.998,2:52
+4,11:28,NO,Trey Murphy III,Loose Ball Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,105,78,0.999,0.999,11:28
+4,11:21,NO,Larry Nance Jr.,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,105,80,0.998,0.999,11:21
+4,8:53,TOR,Pascal Siakam,Transition Take Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,109,88,0.998,0.998,8:54
+4,7:22,TOR,Chris Boucher,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,110,93,0.997,0.999,3:56
+4,6:48,TOR,Juancho Hernangomez,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,111,95,0.994,0.994,6:57
+4,6:13,TOR,Pascal Siakam,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,111,97,0.994,0.989,6:25
+4,2:47,TOR,OG Anunoby,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,121,104,0.999,0.999,3:05
+4,2:37,NO,Larry Nance Jr.,Shooting Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,122,104,0.999,0.999,2:47
+4,1:24,TOR,Malachi Flynn,Personal Foul,Foul,Kevin Cutler,Ben Taylor,Andy Nagy,NO,124,104,0.999,0.999,1:29

@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:34,WSH,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,2,5,0.477,0.44,9:50
+1,8:56,POR,Matisse Thybulle,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,4,7,0.414,0.411,9:00
+1,8:42,POR,Cam Reddish,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,4,7,0.376,0.414,8:56
+1,5:50,WSH,Kristaps Porzingis,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,10,13,0.476,0.435,6:02
+1,5:08,WSH,Corey Kispert,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,13,13,0.536,0.49,5:08
+1,3:41,WSH,Corey Kispert,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,17,18,0.508,0.459,3:41
+1,2:53,POR,Shaedon Sharpe,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,17,20,0.408,0.406,3:01
+1,2:44,POR,Jabari Walker,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,17,20,0.367,0.408,2:53
+1,1:50,WSH,Kyle Kuzma,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,19,25,0.372,0.325,1:50
+1,1:27,WSH,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,20,25,0.397,0.378,1:27
+2,7:13,POR,Cam Reddish,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,37,44,0.242,0.278,7:22
+2,6:27,WSH,Kristaps Porzingis,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,37,45,0.278,0.277,6:27
+2,1:03,WSH,Bradley Beal,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,46,57,0.217,0.182,1:05
+2,4.1,POR,Nassir Little,Personal Take Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,52,59,0.212,0.252,14.2
+3,10:53,POR,Drew Eubanks,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,54,61,0.206,0.243,10:56
+3,8:19,POR,Matisse Thybulle,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,58,67,0.179,0.178,8:19
+3,7:57,WSH,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,58,69,0.192,0.154,8:11
+3,7:24,WSH,Daniel Gafford,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,60,72,0.127,0.127,7:35
+3,7:14,WSH,Deni Avdija,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,60,72,0.161,0.127,7:24
+3,7:01,POR,Trendon Watford,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,61,72,0.126,0.126,7:11
+3,6:55,POR,Anfernee Simons,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,61,72,0.097,0.126,7:01
+3,6:16,POR,Kevin Knox II,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,61,74,0.064,0.085,6:26
+3,5:32,WSH,Kristaps Porzingis,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,61,78,0.061,0.045,5:47
+3,5:21,POR,Trendon Watford,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,62,78,0.031,0.042,5:30
+3,5:09,WSH,Kristaps Porzingis,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,62,80,0.047,0.035,5:21
+3,3:21,POR,Kevin Knox II,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,66,80,0.038,0.055,3:41
+3,1.2,WSH,Kendrick Nunn,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,73,94,0.009,0.005,4.1
+4,11:36,WSH,Daniel Gafford,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,74,97,0.002,0.002,11:40
+4,11:36,WSH,WSH,Delay Technical,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,74,97,0.002,0.002,11:36
+4,9:46,POR,Matisse Thybulle,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,82,100,0.003,0.007,10:06
+4,7:56,WSH,Kristaps Porzingis,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,90,105,0.03,0.015,8:02
+4,4:11,POR,Damian Lillard,Flagrant Foul Type 1,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,97,109,0.009,0.011,4:33
+4,4:00,POR,Cam Reddish,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,97,111,0.001,0.003,4:11
+4,3:49,POR,POR,Technical Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,97,111,0.001,0.003,3:50
+4,3:37,POR,Damian Lillard,Technical Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,97,112,0.001,0.001,3:41
+4,3:23,WSH,Bradley Beal,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,97,113,0.003,0.001,3:25
+4,3:07,POR,Matisse Thybulle,Personal Take Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,99,113,0.001,0.001,3:12
+4,2:56,POR,Trendon Watford,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,99,115,0.001,0.001,2:56
+4,2:45,POR,Trendon Watford,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Justin Van Duyne,POR,99,116,0.001,0.001,2:56

@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,DET,Killian Hayes,Offensive Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,3,2,0.552,0.582,10:29
+1,9:56,DET,Killian Hayes,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,3,2,0.553,0.552,10:08
+1,8:14,GS,Andrew Wiggins,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,3,8,0.459,0.423,8:34
+1,8:03,DET,Jerami Grant,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,4,10,0.382,0.395,8:03
+1,6:52,DET,Cade Cunningham,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,4,12,0.318,0.317,6:56
+1,5:54,GS,Gary Payton II,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,4,17,0.224,0.224,6:00
+1,5:15,GS,Gary Payton II,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,7,17,0.287,0.287,5:18
+1,3:53,DET,Trey Lyles,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,12,17,0.344,0.384,4:06
+1,3:42,DET,Cade Cunningham,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,12,17,0.343,0.344,3:53
+1,2:23,GS,Chris Chiozza,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,14,19,0.449,0.41,2:30
+1,1:58,GS,Jordan Poole,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,16,22,0.421,0.381,2:06
+1,36.5,DET,Hamidou Diallo,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,21,22,0.447,0.483,58.6
+1,14.0,DET,Hamidou Diallo,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,23,24,0.447,0.482,31.2
+2,10:46,GS,Jonathan Kuminga,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,26,28,0.529,0.484,10:52
+2,10:01,GS,Damion Lee,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,27,32,0.439,0.397,10:07
+2,9:18,GS,Jonathan Kuminga,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,30,34,0.407,0.391,9:18
+2,8:07,DET,Hamidou Diallo,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,34,36,0.404,0.45,8:11
+2,4:04,GS,Kevon Looney,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,45,44,0.619,0.572,4:09
+2,3:49,DET,Killian Hayes,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,46,44,0.522,0.572,4:04
+2,1:34,GS,Juan Toscano-Anderson,Personal Take Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,48,51,0.487,0.436,1:34
+2,12.3,DET,Cory Joseph,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,51,56,0.283,0.331,29.9
+3,10:51,DET,Jerami Grant,Personal Take Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,53,56,0.394,0.393,11:01
+3,9:01,DET,Luka Garza,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,55,63,0.221,0.22,9:02
+3,8:41,GS,Jordan Poole,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,55,63,0.251,0.249,8:42
+3,5:22,DET,Jerami Grant,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,64,72,0.196,0.195,5:28
+3,3:29,GS,Nemanja Bjelica,Personal Take Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,66,77,0.117,0.127,3:29
+3,2:07,DET,Hamidou Diallo,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,68,77,0.104,0.14,2:13
+3,1:52,DET,Trey Lyles,Offensive Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,68,78,0.114,0.141,2:07
+3,47.8,DET,Frank Jackson,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,70,81,0.058,0.084,1:01
+3,6.9,GS,Chris Chiozza,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,70,86,0.043,0.028,16.4
+4,11:20,GS,Damion Lee,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,72,86,0.056,0.042,11:20
+4,10:04,GS,Chris Chiozza,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,76,89,0.078,0.049,10:09
+4,9:30,GS,Damion Lee,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,77,91,0.038,0.033,9:30
+4,8:33,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,83,91,0.138,0.156,8:33
+4,6:54,DET,Saddiq Bey,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,85,93,0.065,0.104,6:58
+4,4:22,DET,Killian Hayes,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,89,101,0.012,0.014,4:36
+4,3:49,DET,Killian Hayes,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,91,101,0.01,0.025,3:58
+4,3:29,GS,Kevon Looney,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,93,102,0.049,0.031,3:29
+4,2:56,GS,Kevon Looney,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,94,104,0.053,0.028,3:10
+4,2:33,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,96,104,0.105,0.057,2:35
+4,2:12,DET,Cory Joseph,Loose Ball Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,98,104,0.095,0.076,2:12
+4,2:12,GS,Jordan Poole,Offensive Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,98,104,0.106,0.035,2:12
+4,1:43,GS,Jordan Poole,Loose Ball Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,98,104,0.171,0.061,1:51
+4,1:22,DET,Saddiq Bey,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,100,104,0.065,0.137,1:43
+4,33.3,GS,Kevon Looney,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Nate Green,DET,100,105,0.194,0.108,45.5

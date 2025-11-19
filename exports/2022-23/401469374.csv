@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:05,MIA,Haywood Highsmith,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,6,9,0.629,0.664,9:12
+1,8:20,MIA,Max Strus,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,8,11,0.625,0.66,8:23
+1,7:48,ORL,Jalen Suggs,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,10,16,0.625,0.58,7:48
+1,4:53,ORL,Goga Bitadze,Loose Ball Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,15,16,0.71,0.711,4:53
+1,2:54,ORL,Michael Carter-Williams,Offensive Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,21,16,0.822,0.805,3:05
+1,1:22,MIA,Udonis Haslem,Personal Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,21,19,0.704,0.738,1:28
+1,57.2,MIA,Duncan Robinson,Personal Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,21,21,0.652,0.691,59.2
+1,32.1,MIA,Udonis Haslem,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,23,24,0.623,0.69,32.1
+2,9:13,ORL,Goga Bitadze,Loose Ball Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,28,32,0.586,0.585,9:13
+2,6:33,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,36,34,0.77,0.737,6:47
+2,5:27,MIA,Cody Zeller,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,38,36,0.663,0.706,5:39
+2,5:06,MIA,Cody Zeller,Personal Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,38,38,0.647,0.647,5:17
+2,3:24,ORL,Bol Bol,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,45,42,0.786,0.724,3:24
+2,3:08,MIA,Haywood Highsmith,Personal Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,46,42,0.75,0.75,3:24
+2,2:11,ORL,Bol Bol,Loose Ball Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,46,45,0.733,0.693,2:11
+2,1:10,MIA,Victor Oladipo,Personal Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,48,45,0.671,0.719,1:29
+2,17.0,ORL,Caleb Houstan,Personal Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,50,48,0.756,0.713,17.0
+3,11:44,MIA,Duncan Robinson,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,52,50,0.635,0.7,12:00
+3,7:41,ORL,Caleb Houstan,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,61,63,0.613,0.559,7:44
+3,6:31,MIA,Duncan Robinson,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,66,65,0.566,0.625,6:46
+3,5:08,MIA,Omer Yurtseven,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,66,70,0.379,0.41,5:20
+3,35.0,ORL,Michael Carter-Williams,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,82,82,0.664,0.598,48.0
+4,11:39,MIA,Victor Oladipo,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,84,85,0.398,0.495,11:45
+4,11:23,ORL,Michael Carter-Williams,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,84,86,0.577,0.484,11:39
+4,11:06,MIA,Jamal Cain,Loose Ball Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,86,86,0.517,0.537,11:23
+4,10:22,ORL,Michael Carter-Williams,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,91,89,0.728,0.626,10:22
+4,6:37,ORL,Bol Bol,Personal Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,102,89,0.987,0.985,6:49
+4,4:59,MIA,Omer Yurtseven,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,102,94,0.89,0.946,4:59
+4,3:49,ORL,Kevon Harris,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,110,98,0.995,0.988,3:49
+4,3:46,ORL,Kevon Harris,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,111,98,0.997,0.996,3:46
+4,3:03,ORL,Kevon Harris,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,115,100,0.999,0.998,3:03
+4,2:47,MIA,Duncan Robinson,Loose Ball Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,116,100,0.998,0.999,2:47
+4,2:22,MIA,Udonis Haslem,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,116,102,0.997,0.999,2:22
+4,2:06,ORL,Chuma Okeke,Personal Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,116,102,0.999,0.999,2:19
+4,1:32,MIA,Omer Yurtseven,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,118,104,0.999,0.999,1:32
+4,1:28,MIA,Omer Yurtseven,Shooting Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,118,105,0.998,0.999,1:28
+4,58.2,MIA,Haywood Highsmith,Personal Take Foul,Foul,Scott Wall,Ben Taylor,Gediminas Petraitis,MIA,121,106,0.999,0.999,1:12

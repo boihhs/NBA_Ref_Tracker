@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:32,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,10,0,0.888,0.883,10:32
+1,10:22,MIL,Jrue Holiday,Personal Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,11,0,0.894,0.892,10:32
+1,9:40,MIL,Bobby Portis,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,11,0,0.898,0.893,9:54
+1,8:58,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,11,0,0.91,0.903,9:10
+1,5:02,OKC,Jeremiah Robinson-Earl,Offensive Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,22,11,0.901,0.89,5:14
+1,4:53,OKC,Ty Jerome,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,24,11,0.916,0.911,4:53
+1,1:39,MIL,George Hill,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,30,21,0.837,0.861,1:45
+1,1:30,OKC,Luguentz Dort,Personal Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,30,22,0.882,0.861,1:39
+1,1:03,MIL,George Hill,Personal Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,32,22,0.851,0.873,1:05
+2,10:47,MIL,Justin Robinson,Personal Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,37,24,0.909,0.91,10:54
+2,10:43,OKC,Aleksej Pokusevski,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,37,24,0.915,0.92,10:43
+2,10:25,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,39,24,0.915,0.93,10:43
+2,9:29,MIL,Bobby Portis,Personal Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,42,26,0.939,0.939,9:42
+2,8:53,OKC,Aleksej Pokusevski,Personal Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,42,29,0.92,0.921,9:01
+2,5:48,OKC,Aaron Wiggins,Personal Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,47,34,0.922,0.923,5:55
+2,5:18,MIL,Semi Ojeleye,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,50,36,0.914,0.933,5:18
+2,3:43,OKC,Jeremiah Robinson-Earl,Personal Take Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,50,40,0.907,0.886,3:45
+2,3:36,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,50,40,0.907,0.907,3:43
+2,2:14,MIL,Giannis Antetokounmpo,Defensive 3-Seconds Technical,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,56,40,0.947,0.945,2:25
+3,10:55,MIL,Jrue Holiday,Personal Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,61,50,0.891,0.889,11:07
+3,9:59,MIL,Khris Middleton,Personal Take Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,61,50,0.9,0.892,9:59
+3,9:03,OKC,Luguentz Dort,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,61,50,0.93,0.91,9:15
+3,8:12,OKC,Darius Bazley,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,67,50,0.978,0.971,8:16
+3,7:23,MIL,Grayson Allen,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,68,50,0.962,0.972,7:31
+3,7:09,OKC,Luguentz Dort,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,68,52,0.975,0.966,7:23
+3,6:40,OKC,Luguentz Dort,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,70,54,0.963,0.967,6:40
+3,1:04,MIL,George Hill,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,78,65,0.927,0.948,1:09
+3,51.1,OKC,Mike Muscala,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,78,67,0.956,0.936,1:04
+3,23.7,MIL,Bobby Portis,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,80,67,0.942,0.952,23.7
+4,10:20,OKC,Kenrich Williams,Personal Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,83,76,0.881,0.875,10:32
+4,8:48,OKC,Aleksej Pokusevski,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,83,79,0.848,0.781,9:08
+4,6:41,OKC,Aaron Wiggins,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,86,82,0.846,0.751,6:41
+4,6:03,MIL,George Hill,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,86,84,0.649,0.712,6:03
+4,5:27,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,88,84,0.662,0.763,5:40
+4,4:24,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,88,86,0.642,0.714,4:28
+4,16.0,OKC,Ty Jerome,Personal Take Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,93,89,0.984,0.945,16.0
+4,13.1,OKC,Shai Gilgeous-Alexander,Personal Take Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,93,89,0.987,0.953,16.0
+4,6.6,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,94,89,0.913,0.962,13.1
+4,3.9,OKC,Kenrich Williams,Personal Take Foul,Foul,Eric Lewis,Matt Myers,Gediminas Petraitis,MIL,94,89,0.998,0.993,4.5

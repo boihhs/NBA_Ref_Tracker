@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:30,PHX,Deandre Ayton,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,5,5,0.695,0.73,10:49
+1,9:24,BKN,Kessler Edwards,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,9,8,0.76,0.763,9:41
+1,8:28,PHX,Jae Crowder,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,12,8,0.795,0.794,8:41
+1,8:19,PHX,Mikal Bridges,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,12,8,0.767,0.795,8:28
+1,7:31,PHX,Devin Booker,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,16,13,0.746,0.774,7:38
+1,4:55,PHX,Jae Crowder,Loose Ball Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,25,16,0.842,0.863,4:55
+1,2:44,BKN,Patty Mills,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,29,21,0.871,0.846,2:44
+1,1:49,BKN,Patty Mills,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,30,24,0.853,0.83,1:56
+1,1:43,BKN,Blake Griffin,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,30,24,0.853,0.853,1:49
+1,1:04,PHX,JaVale McGee,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,35,27,0.818,0.842,1:15
+1,28.0,BKN,James Johnson,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,38,29,0.892,0.858,29.1
+2,11:20,PHX,Ish Wainright,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,39,32,0.797,0.825,11:31
+2,10:47,BKN,Nic Claxton,Offensive Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,42,32,0.886,0.872,10:47
+2,10:13,PHX,Chris Paul,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,42,32,0.848,0.872,10:19
+2,9:57,BKN,James Johnson,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,42,33,0.872,0.873,10:13
+2,8:39,BKN,DeAndre' Bembry,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,44,36,0.878,0.855,8:53
+2,7:39,BKN,Nic Claxton,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,46,40,0.818,0.819,7:54
+2,7:39,BKN,James Johnson,Away from Play Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,46,40,0.818,0.818,7:39
+2,7:28,BKN,Nic Claxton,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,47,40,0.861,0.818,7:39
+2,6:15,PHX,Jae Crowder,Technical Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,51,43,0.821,0.836,6:27
+2,5:27,PHX,Jae Crowder,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,51,47,0.749,0.75,5:32
+2,3:30,BKN,James Harden,Flagrant Foul Type 1,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,53,49,0.77,0.745,3:43
+2,3:29,BKN,Kessler Edwards,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,55,49,0.843,0.814,3:30
+2,1:58,BKN,DeAndre' Bembry,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,57,54,0.78,0.741,2:04
+3,10:15,PHX,Devin Booker,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,65,63,0.671,0.673,10:19
+3,9:50,PHX,Deandre Ayton,Offensive Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,65,63,0.67,0.703,10:01
+3,7:03,BKN,Kyrie Irving,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,69,70,0.642,0.586,7:17
+3,5:17,BKN,Kyrie Irving,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,76,72,0.758,0.759,5:32
+3,1:04,PHX,JaVale McGee,Offensive Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,88,79,0.881,0.904,1:08
+3,0.9,BKN,James Johnson,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,88,82,0.887,0.832,12.3
+3,0.9,BKN,Blake Griffin,Technical Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,88,82,0.868,0.887,0.9
+4,11:47,PHX,JaVale McGee,Offensive Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,91,82,0.888,0.907,12:00
+4,11:16,BKN,James Johnson,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,91,84,0.875,0.868,11:29
+4,11:06,BKN,DeAndre' Bembry,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,91,84,0.879,0.875,11:16
+4,11:04,BKN,DeAndre' Bembry,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,91,84,0.882,0.879,11:06
+4,11:00,BKN,Patty Mills,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,93,84,0.938,0.903,11:00
+4,9:52,BKN,Blake Griffin,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,94,89,0.856,0.831,9:54
+4,9:20,BKN,Blake Griffin,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,97,92,0.815,0.797,9:20
+4,8:42,BKN,DeAndre' Bembry,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,99,94,0.837,0.799,8:42
+4,8:15,BKN,Patty Mills,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,102,94,0.91,0.898,8:15
+4,8:03,PHX,Cameron Johnson,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,103,94,0.918,0.922,8:15
+4,6:44,PHX,Deandre Ayton,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,105,96,0.888,0.93,7:03
+4,6:07,PHX,Mikal Bridges,Shooting Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,105,98,0.816,0.884,6:23
+4,5:56,BKN,Kessler Edwards,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,105,100,0.899,0.849,6:07
+4,5:17,PHX,Chris Paul,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,107,100,0.892,0.892,5:18
+4,3:49,BKN,Patty Mills,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,112,102,0.99,0.981,3:53
+4,2:42,PHX,Deandre Ayton,Offensive Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,116,102,0.997,0.998,2:57
+4,1:22,PHX,Mikal Bridges,Personal Foul,Foul,Curtis Blair,Dedric Taylor,Natalie Sago,PHX,118,104,0.998,0.999,1:24

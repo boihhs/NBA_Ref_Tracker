@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:06,PHI,Joel Embiid,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,5,6,0.483,0.528,10:06
+1,9:40,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,7,7,0.53,0.529,9:50
+1,7:58,PHI,Joel Embiid,Defensive 3-Seconds Technical,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,12,12,0.533,0.528,8:11
+1,7:00,PHI,Nicolas Batum,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,14,15,0.46,0.497,7:19
+1,6:44,DEN,Michael Porter Jr.,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,16,15,0.616,0.552,6:44
+1,1:49,DEN,Michael Porter Jr.,Loose Ball Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,26,30,0.476,0.434,1:49
+1,30.0,PHI,Marcus Morris Sr.,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,34,34,0.492,0.518,41.0
+2,11:27,DEN,DeAndre Jordan,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,36,38,0.53,0.486,11:37
+2,11:07,PHI,Marcus Morris Sr.,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,37,40,0.406,0.459,11:07
+2,10:36,PHI,Paul Reed,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,40,41,0.443,0.486,10:57
+2,9:06,PHI,Tobias Harris,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,44,48,0.351,0.394,9:14
+2,8:59,DEN,DeAndre Jordan,Defensive 3-Seconds Technical,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,44,50,0.358,0.366,9:06
+2,8:27,DEN,Christian Braun,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,47,53,0.408,0.365,8:38
+2,8:14,PHI,Marcus Morris Sr.,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,49,53,0.349,0.393,8:27
+2,7:59,DEN,Christian Braun,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,49,53,0.444,0.423,7:59
+2,7:45,PHI,Patrick Beverley,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,51,53,0.429,0.45,7:59
+2,6:40,DEN,Aaron Gordon,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,53,57,0.465,0.419,6:52
+2,5:55,DEN,Nikola Jokic,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,55,57,0.528,0.479,5:58
+2,5:40,PHI,Nicolas Batum,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,57,57,0.46,0.508,5:55
+2,5:04,PHI,Joel Embiid,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,59,58,0.492,0.541,5:16
+2,4:34,DEN,Nikola Jokic,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,59,63,0.46,0.414,4:43
+2,3:46,PHI,Tobias Harris,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,62,63,0.424,0.476,4:02
+2,2:13,DEN,Aaron Gordon,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,67,69,0.525,0.473,2:21
+2,48.0,PHI,Kelly Oubre Jr.,Offensive Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,76,73,0.611,0.644,54.1
+3,10:50,PHI,Tyrese Maxey,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,78,80,0.376,0.429,10:57
+3,10:04,DEN,Michael Porter Jr.,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,81,81,0.593,0.541,10:10
+3,9:09,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,87,83,0.647,0.647,9:20
+3,6:22,DEN,Aaron Gordon,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,92,89,0.707,0.655,6:39
+3,4:58,PHI,Nicolas Batum,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,97,91,0.705,0.766,4:58
+3,1:35,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,99,98,0.463,0.535,1:35
+3,2.2,DEN,Aaron Gordon,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,99,104,0.367,0.299,7.1
+4,9:40,DEN,DeAndre Jordan,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,103,108,0.322,0.274,9:40
+4,8:22,DEN,Christian Braun,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,105,111,0.307,0.222,8:41
+4,7:28,DEN,DeAndre Jordan,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,110,111,0.556,0.426,7:28
+4,6:09,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,115,113,0.667,0.685,6:22
+4,5:30,DEN,Aaron Gordon,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,117,113,0.845,0.747,5:30
+4,5:20,PHI,Tyrese Maxey,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,118,113,0.804,0.811,5:30
+4,3:47,PHI,Patrick Beverley,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,123,113,0.971,0.973,3:48
+4,2:57,PHI,Joel Embiid,Loose Ball Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,123,115,0.942,0.953,2:57
+4,46.0,DEN,Nikola Jokic,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,123,115,0.998,0.991,1:02
+4,37.1,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,124,118,0.992,0.975,41.1
+4,26.1,PHI,Joel Embiid,Shooting Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,125,118,0.935,0.976,37.1
+4,24.1,DEN,Kentavious Caldwell-Pope,Personal Take Foul,Foul,Sean Wright,David Guthrie,Natalie Sago,PHI,125,121,0.971,0.924,26.1

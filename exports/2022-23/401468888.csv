@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,HOU,Alperen Sengun,Offensive Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,2,2,0.169,0.18,11:25
+1,11:01,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,2,2,0.158,0.169,11:11
+1,9:38,CLE,Darius Garland,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,6,6,0.202,0.176,9:38
+1,7:36,CLE,Isaac Okoro,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,11,13,0.18,0.154,7:36
+1,7:24,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,12,13,0.149,0.169,7:36
+1,7:01,HOU,Jalen Green,Personal Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,14,15,0.172,0.171,7:08
+1,6:51,CLE,Caris LeVert,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,14,15,0.214,0.188,6:54
+1,4:56,CLE,Jarrett Allen,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,16,21,0.159,0.136,5:14
+1,3:15,CLE,Caris LeVert,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,19,24,0.165,0.142,3:33
+1,2:35,HOU,Tari Eason,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,20,26,0.109,0.131,2:35
+1,2:26,HOU,TyTy Washington Jr.,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,20,28,0.089,0.109,2:26
+1,1:44,CLE,Ricky Rubio,Personal Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,22,31,0.116,0.098,1:46
+1,1:11,HOU,Bruno Fernando,Personal Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,23,33,0.067,0.079,1:11
+2,8:28,CLE,Dean Wade,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,35,44,0.117,0.095,8:28
+2,8:16,HOU,Tari Eason,Personal Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,36,44,0.106,0.106,8:28
+2,7:47,HOU,Garrison Mathews,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,36,46,0.077,0.095,7:47
+2,7:41,CLE,Cedi Osman,Personal Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,36,47,0.084,0.084,7:47
+2,6:48,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,36,47,0.068,0.074,6:48
+2,5:16,HOU,KJ Martin,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,36,54,0.024,0.027,5:21
+2,4:40,CLE,Ricky Rubio,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,36,56,0.029,0.022,4:51
+2,4:00,HOU,Tari Eason,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,38,59,0.012,0.015,4:07
+2,3:40,HOU,Jalen Green,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,38,60,0.009,0.013,3:43
+2,2:28,HOU,Alperen Sengun,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,43,67,0.007,0.009,2:28
+3,11:03,HOU,Alperen Sengun,Offensive Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,50,76,0.003,0.004,11:15
+3,10:41,HOU,Alperen Sengun,Loose Ball Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,50,76,0.003,0.003,10:41
+3,10:36,CLE,Evan Mobley,Offensive Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,50,76,0.004,0.003,10:41
+3,9:58,HOU,KJ Martin,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,50,76,0.002,0.003,10:11
+3,9:51,CLE,Jarrett Allen,Personal Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,50,77,0.003,0.003,9:58
+3,5:54,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,57,87,0.001,0.001,6:00
+3,5:03,CLE,Dean Wade,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,59,89,0.001,0.001,5:09
+3,1:05,CLE,Cedi Osman,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,65,94,0.001,0.001,1:05
+3,41.1,CLE,Evan Mobley,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,68,94,0.001,0.001,41.1
+4,9:16,CLE,Cedi Osman,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,76,103,0.001,0.001,9:29
+4,7:29,HOU,Bruno Fernando,Personal Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,82,103,0.001,0.001,7:50
+4,5:55,CLE,Evan Mobley,Shooting Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,86,106,0.001,0.001,6:10
+4,3:08,CLE,Cedi Osman,Loose Ball Foul,Foul,Mark Lindsay,Leon Wood,CJ Washington,HOU,89,111,0.001,0.001,3:08

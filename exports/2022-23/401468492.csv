@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,0,0,0.496,0.455,12:00
+1,10:16,NY,Quentin Grimes,Personal Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,5,3,0.486,0.485,10:31
+1,9:31,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,7,3,0.602,0.564,9:39
+1,9:18,NY,RJ Barrett,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,9,3,0.553,0.588,9:31
+1,5:32,NY,Julius Randle,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,16,11,0.533,0.576,5:35
+1,5:15,NY,Mitchell Robinson,Offensive Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,16,13,0.521,0.547,5:32
+1,4:27,NY,Immanuel Quickley,Loose Ball Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,19,16,0.482,0.523,4:27
+1,2:57,DAL,Luka Doncic,Personal Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,21,18,0.55,0.553,3:05
+1,1:31,DAL,Josh Green,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,23,18,0.654,0.613,1:36
+1,1:06,DAL,Maxi Kleber,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,27,18,0.738,0.693,1:06
+2,10:50,DAL,Davis Bertans,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,34,23,0.808,0.775,10:53
+2,10:43,NY,Cam Reddish,Personal Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,36,23,0.797,0.799,10:50
+2,10:28,DAL,Davis Bertans,Loose Ball Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,36,23,0.818,0.822,10:28
+2,9:56,NY,Isaiah Hartenstein,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,38,23,0.811,0.841,9:58
+2,8:57,NY,NY,Technical Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,38,25,0.789,0.804,9:02
+2,6:17,NY,Jalen Brunson,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,38,33,0.584,0.637,6:17
+2,5:28,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,40,34,0.691,0.639,5:28
+2,5:17,NY,RJ Barrett,Personal Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,40,34,0.594,0.639,5:26
+2,5:08,NY,Julius Randle,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,40,34,0.594,0.594,5:17
+2,4:30,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,40,37,0.629,0.583,4:39
+2,3:14,NY,Mitchell Robinson,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,43,43,0.428,0.488,3:14
+2,2:40,NY,Quentin Grimes,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,45,43,0.467,0.519,2:57
+2,1:58,DAL,Spencer Dinwiddie,Personal Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,47,45,0.608,0.554,2:00
+2,30.4,DAL,Maxi Kleber,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,54,50,0.676,0.63,31.4
+3,7:41,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,65,65,0.457,0.454,7:41
+3,1:51,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,68,85,0.037,0.026,2:18
+3,47.9,NY,Derrick Rose,Personal Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,72,91,0.005,0.008,59.5
+4,8:59,NY,Obi Toppin,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,80,106,0.001,0.001,8:59
+4,8:27,DAL,Dwight Powell,Offensive Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,82,106,0.001,0.001,8:42
+4,8:16,DAL,Josh Green,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,82,106,0.001,0.001,8:27
+4,6:34,DAL,Dwight Powell,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,83,113,0.001,0.001,6:40
+4,5:07,DAL,Frank Ntilikina,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,84,116,0.001,0.001,5:11
+4,4:49,DAL,Josh Green,Personal Take Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,85,116,0.001,0.001,4:54
+4,4:40,DAL,Frank Ntilikina,Shooting Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,85,116,0.001,0.001,4:49
+4,4:28,DAL,Jaden Hardy,Personal Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,87,116,0.001,0.001,4:28
+4,1:17,NY,Jericho Sims,Personal Foul,Foul,Eric Dalen,Jason Goldenberg,Tyler Ford,NY,96,121,0.001,0.001,1:27

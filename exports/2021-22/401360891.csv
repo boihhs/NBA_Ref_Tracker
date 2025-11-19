@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:35,LAL,Dwight Howard,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,0,6,0.547,0.545,10:35
+1,7:34,CLE,Lauri Markkanen,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,9,6,0.694,0.727,7:38
+1,6:30,LAL,Malik Monk,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,16,9,0.83,0.801,6:30
+1,6:24,LAL,Russell Westbrook,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,16,9,0.83,0.819,6:24
+1,2:48,CLE,Caris LeVert,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,31,17,0.901,0.901,3:00
+1,2:33,LAL,Wenyen Gabriel,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,31,17,0.925,0.912,2:33
+1,1:29,LAL,Russell Westbrook,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,31,22,0.87,0.848,1:41
+1,1:10,CLE,Caris LeVert,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,33,22,0.838,0.862,1:29
+1,39.4,LAL,Malik Monk,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,33,26,0.84,0.815,46.7
+1,31.4,CLE,Caris LeVert,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,35,26,0.802,0.83,39.4
+2,11:43,CLE,Evan Mobley,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,35,28,0.763,0.794,11:45
+2,11:36,LAL,Avery Bradley,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,37,30,0.827,0.793,11:36
+2,10:41,CLE,Evan Mobley,Loose Ball Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,40,33,0.793,0.813,10:49
+2,10:04,CLE,Kevin Love,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,40,35,0.715,0.75,10:06
+2,6:53,LAL,Carmelo Anthony,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,45,46,0.608,0.609,7:06
+2,6:05,LAL,Avery Bradley,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,50,49,0.685,0.636,6:05
+2,4:39,CLE,Isaac Okoro,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,54,51,0.646,0.688,4:50
+2,4:13,LAL,Austin Reaves,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,54,54,0.674,0.632,4:29
+2,3:15,CLE,Isaac Okoro,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,58,56,0.607,0.655,3:17
+2,2:41,CLE,Evan Mobley,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,60,58,0.605,0.654,2:57
+3,11:01,CLE,Darius Garland,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,64,69,0.393,0.396,11:12
+3,8:29,CLE,Lamar Stevens,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,74,78,0.411,0.41,8:30
+3,7:17,CLE,Evan Mobley,Loose Ball Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,76,80,0.402,0.4,7:17
+3,6:46,LAL,Wenyen Gabriel,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,78,80,0.547,0.476,6:46
+3,5:14,LAL,Russell Westbrook,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,80,85,0.383,0.385,5:25
+3,1:48,CLE,Darius Garland,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,91,94,0.326,0.393,1:48
+3,1:18,LAL,Carmelo Anthony,Offensive Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,93,96,0.434,0.389,1:29
+4,11:09,CLE,Cedi Osman,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,97,100,0.313,0.421,11:09
+4,9:15,LAL,Stanley Johnson,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,99,108,0.138,0.13,9:27
+4,8:09,CLE,Caris LeVert,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,102,110,0.089,0.152,8:09
+4,8:00,LAL,Russell Westbrook,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,102,111,0.122,0.114,8:09
+4,7:50,LAL,Wenyen Gabriel,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,104,111,0.235,0.142,7:50
+4,7:10,LAL,Stanley Johnson,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,105,113,0.211,0.141,7:12
+4,6:45,LAL,D.J. Augustin,Personal Take Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,107,113,0.304,0.225,6:45
+4,4:23,CLE,Caris LeVert,Personal Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,111,119,0.061,0.072,4:34
+4,4:12,CLE,Lauri Markkanen,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,111,121,0.018,0.043,4:12
+4,42.4,LAL,Malik Monk,Shooting Foul,Foul,James Williams,Tom Washington,Scott Wall,CLE,119,131,0.002,0.001,44.7

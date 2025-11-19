@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:44,SAC,Tyrese Haliburton,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,4,0,0.695,0.698,10:47
+1,10:20,DAL,Luka Doncic,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,6,0,0.717,0.718,10:33
+1,5:34,DAL,Willie Cauley-Stein,Loose Ball Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,22,9,0.849,0.849,5:34
+1,4:56,DAL,Luka Doncic,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,24,11,0.825,0.85,5:05
+1,3:43,SAC,Terence Davis,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,24,15,0.798,0.8,3:48
+1,2:28,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,26,19,0.722,0.761,2:28
+2,11:26,SAC,Richaun Holmes,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,31,24,0.794,0.763,11:42
+2,11:03,SAC,Davion Mitchell,Offensive Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,33,26,0.751,0.739,11:06
+2,10:42,DAL,Sterling Brown,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,33,26,0.74,0.739,10:45
+2,9:43,SAC,Richaun Holmes,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,33,29,0.692,0.835,4:37
+2,8:41,DAL,Sterling Brown,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,33,29,0.622,0.663,8:50
+2,8:31,SAC,Maurice Harkless,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,33,31,0.676,0.636,8:41
+2,8:19,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,33,31,0.607,0.607,8:29
+2,8:06,SAC,Maurice Harkless,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,35,32,0.684,0.635,8:06
+2,7:45,SAC,Tristan Thompson,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,36,32,0.729,0.691,7:52
+2,6:49,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,37,32,0.649,0.69,6:52
+2,2:24,SAC,Davion Mitchell,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,49,43,0.771,0.72,2:24
+3,9:54,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,55,49,0.684,0.731,10:16
+3,8:31,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,57,53,0.686,0.669,8:39
+3,7:42,DAL,Luka Doncic,Technical Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,59,57,0.566,0.595,7:47
+3,5:18,SAC,Davion Mitchell,Loose Ball Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,64,62,0.636,0.637,5:18
+3,4:06,DAL,Dorian Finney-Smith,Personal Take Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,68,64,0.677,0.675,4:08
+3,3:53,DAL,Moses Brown,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,68,64,0.616,0.678,4:06
+3,3:46,SAC,Davion Mitchell,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,68,66,0.638,0.639,3:53
+3,3:29,DAL,Moses Brown,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,70,68,0.563,0.639,3:29
+4,11:03,SAC,Richaun Holmes,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,82,74,0.918,0.877,11:21
+4,10:51,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,84,74,0.899,0.905,11:03
+4,10:18,DAL,Sterling Brown,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,84,74,0.899,0.907,10:23
+4,7:59,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,91,79,0.924,0.955,8:13
+4,7:05,SAC,Tristan Thompson,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,91,80,0.965,0.96,7:20
+4,6:21,SAC,Tristan Thompson,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,91,83,0.952,0.914,6:38
+4,6:05,DAL,Dwight Powell,Personal Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,92,83,0.874,0.921,6:18
+4,5:12,DAL,Dorian Finney-Smith,Offensive Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,92,86,0.83,0.87,5:20
+4,4:40,DAL,Dwight Powell,Offensive Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,92,89,0.67,0.735,4:53
+4,3:12,SAC,Richaun Holmes,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,97,91,0.949,0.897,3:34
+4,56.1,SAC,Harrison Barnes,Personal Take Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,100,93,0.993,0.979,1:02
+4,31.0,DAL,Luka Doncic,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,102,95,0.983,0.991,31.0
+4,26.8,SAC,Buddy Hield,Personal Take Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,102,96,0.994,0.977,31.0
+4,14.0,SAC,Buddy Hield,Personal Take Foul,Foul,Derrick Collins,Pat Fraher,Mousa Dagher,DAL,103,96,0.998,0.996,18.1

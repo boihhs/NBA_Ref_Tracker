@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:02,CLE,Donovan Mitchell,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,6,8,0.124,0.123,9:10
+1,7:11,SA,Jeremy Sochan,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,9,10,0.133,0.13,7:28
+1,5:36,SA,Blake Wesley,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,11,14,0.115,0.125,5:50
+1,5:03,CLE,Dean Wade,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,11,17,0.112,0.095,5:15
+1,4:32,CLE,Dean Wade,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,12,17,0.107,0.108,4:35
+1,4:09,SA,Malaki Branham,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,12,17,0.098,0.098,4:16
+1,1:35,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,16,27,0.073,0.061,1:35
+2,11:38,CLE,Georges Niang,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,25,30,0.125,0.125,11:39
+2,11:02,SA,Keldon Johnson,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,25,30,0.097,0.113,11:07
+2,10:52,CLE,Isaac Okoro,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,25,32,0.103,0.103,11:02
+2,9:21,SA,Doug McDermott,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,31,36,0.11,0.132,9:21
+2,9:07,CLE,Evan Mobley,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,31,37,0.141,0.12,9:21
+2,6:51,SA,Doug McDermott,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,34,45,0.056,0.069,6:51
+2,3:05,SA,Zach Collins,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,38,55,0.02,0.025,3:08
+2,37.2,SA,Keldon Johnson,Hanging Technical Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,45,66,0.012,0.011,37.2
+3,10:53,CLE,Jarrett Allen,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,45,69,0.006,0.006,10:53
+3,8:20,CLE,Darius Garland,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,55,71,0.03,0.025,8:33
+3,8:11,CLE,Evan Mobley,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,55,71,0.041,0.03,8:20
+3,5:52,CLE,Evan Mobley,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,61,79,0.024,0.018,6:10
+3,53.0,CLE,Caris LeVert,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,69,90,0.006,0.004,1:00
+4,11:34,CLE,Evan Mobley,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,71,95,0.002,0.001,11:40
+4,11:23,SA,Cedi Osman,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,73,95,0.001,0.001,11:34
+4,11:09,CLE,Evan Mobley,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,73,97,0.001,0.001,11:23
+4,9:05,CLE,Georges Niang,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,77,99,0.002,0.001,9:11
+4,8:39,CLE,Sam Merrill,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,77,99,0.002,0.001,8:42
+4,8:11,SA,Doug McDermott,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,78,101,0.001,0.001,8:13
+4,7:33,CLE,Sam Merrill,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,80,101,0.001,0.001,7:33
+4,7:06,CLE,Darius Garland,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,83,101,0.004,0.002,7:06
+4,6:53,SA,Julian Champagnie,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,84,101,0.003,0.003,7:06
+4,3:58,CLE,Caris LeVert,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,91,108,0.002,0.001,4:13
+4,1:41,SA,Zach Collins,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,95,110,0.001,0.001,2:01
+4,54.1,SA,Zach Collins,Flagrant Foul Type 2,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,98,115,0.001,0.001,1:00
+4,54.1,CLE,Donovan Mitchell,Technical Foul,Foul,Josh Tiven,Dedric Taylor,Nate Green,SA,98,115,0.001,0.001,54.1

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:33,MIN,Jarred Vanderbilt,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,0,0,0.814,0.814,11:33
+1,9:57,DET,Cory Joseph,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,0,2,0.812,0.789,10:05
+1,9:45,MIN,Karl-Anthony Towns,Defensive 3-Seconds Technical,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,2,2,0.808,0.804,9:57
+1,5:53,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,11,14,0.69,0.723,5:57
+1,4:48,MIN,Patrick Beverley,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,13,16,0.717,0.716,4:49
+1,4:23,DET,Jerami Grant,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,13,16,0.735,0.735,4:26
+1,3:50,MIN,Malik Beasley,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,15,16,0.72,0.753,4:05
+1,3:17,MIN,Jaylen Nowell,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,17,20,0.705,0.727,3:17
+1,2:04,DET,Kelly Olynyk,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,20,23,0.717,0.72,2:20
+1,59.8,DET,Killian Hayes,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,22,26,0.672,0.685,1:01
+1,23.7,DET,Kelly Olynyk,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,23,26,0.74,0.706,31.6
+2,11:48,DET,Killian Hayes,Offensive Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,24,26,0.724,0.716,12:00
+2,10:57,MIN,Jaylen Nowell,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,29,28,0.763,0.786,10:57
+2,10:44,DET,Trey Lyles,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,29,29,0.763,0.765,10:57
+2,9:41,MIN,Malik Beasley,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,35,33,0.788,0.798,9:41
+2,7:35,MIN,D'Angelo Russell,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,41,34,0.861,0.861,7:37
+2,6:13,MIN,Naz Reid,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,41,42,0.664,0.711,6:13
+2,5:37,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,41,42,0.695,0.683,5:37
+2,5:24,DET,Cory Joseph,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,41,43,0.679,0.681,5:35
+2,5:17,DET,Hamidou Diallo,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,41,43,0.663,0.679,5:24
+2,1:14,DET,Hamidou Diallo,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,51,49,0.78,0.734,1:14
+2,1:14,DET,Hamidou Diallo,Technical Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,51,49,0.78,0.78,1:14
+2,41.0,DET,Hamidou Diallo,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,53,52,0.77,0.73,51.3
+2,33.8,MIN,Anthony Edwards,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,55,55,0.671,0.702,33.8
+3,10:01,MIN,Patrick Beverley,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,64,56,0.872,0.863,10:05
+3,8:58,DET,Hamidou Diallo,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,64,61,0.769,0.771,9:08
+3,7:43,MIN,Patrick Beverley,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,64,64,0.633,0.633,7:47
+3,7:15,MIN,Anthony Edwards,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,67,65,0.648,0.702,7:33
+3,6:00,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,70,69,0.6,0.658,6:00
+3,4:57,DET,Jerami Grant,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,70,72,0.633,0.574,5:13
+3,3:07,MIN,Anthony Edwards,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,76,74,0.617,0.682,3:19
+3,2:39,DET,Cory Joseph,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,76,75,0.658,0.68,2:41
+3,58.5,DET,Killian Hayes,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,81,79,0.768,0.711,1:11
+4,11:26,DET,Kelly Olynyk,Personal Take Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,85,79,0.861,0.853,11:26
+4,10:47,MIN,Naz Reid,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,87,81,0.826,0.859,10:47
+4,8:30,DET,Rodney McGruder,Loose Ball Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,95,88,0.9,0.895,8:30
+4,8:19,DET,Trey Lyles,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,95,88,0.904,0.897,8:30
+4,3:09,MIN,Patrick Beverley,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,107,102,0.841,0.846,3:23
+4,2:02,DET,Killian Hayes,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,109,102,0.985,0.964,2:18
+4,1:32,DET,Isaiah Stewart,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,112,104,0.981,0.986,1:33
+4,1:17,MIN,Patrick Beverley,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,114,104,0.978,0.992,1:32
+4,58.6,DET,Cory Joseph,Personal Foul,Foul,Zach Zarba,Eric Dalen,Matt Myers,MIN,114,105,0.998,0.993,1:17

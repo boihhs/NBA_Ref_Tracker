@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:17,PHI,Joel Embiid,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,6,2,0.481,0.414,10:19
+1,9:10,ORL,Wendell Carter Jr.,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,12,4,0.525,0.526,9:25
+1,7:33,ORL,Mo Bamba,Loose Ball Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,16,11,0.455,0.455,7:33
+1,6:48,ORL,Mo Bamba,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,18,14,0.434,0.433,6:53
+1,5:47,ORL,R.J. Hampton,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,22,14,0.506,0.546,5:55
+1,5:12,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,22,16,0.455,0.496,5:12
+1,4:47,ORL,Freddie Gillespie,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,22,20,0.39,0.418,4:47
+1,4:15,PHI,Joel Embiid,Offensive Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,22,20,0.406,0.392,4:16
+1,2:04,PHI,Andre Drummond,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,26,29,0.3,0.3,2:14
+2,11:36,PHI,Andre Drummond,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,33,33,0.382,0.383,11:41
+2,10:53,ORL,Freddie Gillespie,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,37,35,0.429,0.444,10:53
+2,10:07,ORL,Freddie Gillespie,Offensive Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,40,36,0.475,0.507,10:13
+2,9:44,PHI,Myles Powell,Flagrant Foul Type 1,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,40,38,0.469,0.448,9:44
+2,8:14,PHI,Tobias Harris,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,45,42,0.507,0.485,8:14
+2,6:26,ORL,Cole Anthony,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,49,46,0.44,0.494,6:26
+2,5:09,ORL,Mo Bamba,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,49,51,0.332,0.346,5:09
+2,4:43,ORL,Wendell Carter Jr.,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,51,52,0.306,0.348,4:55
+2,3:37,ORL,R.J. Hampton,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,51,55,0.229,0.266,3:43
+2,2:56,ORL,Chuma Okeke,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,53,56,0.309,0.295,3:14
+2,2:28,ORL,Gary Harris,Offensive Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,53,58,0.24,0.268,2:32
+2,2:28,ORL,Gary Harris,Technical Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,53,58,0.254,0.24,2:28
+2,1:56,PHI,Tobias Harris,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,53,58,0.31,0.268,2:06
+2,1:42,PHI,Georges Niang,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,55,58,0.322,0.322,1:42
+3,9:36,ORL,Gary Harris,Personal Take Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,67,62,0.59,0.59,9:37
+3,7:50,ORL,Franz Wagner,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,71,64,0.675,0.676,7:52
+3,7:24,PHI,Seth Curry,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,71,64,0.716,0.716,7:34
+3,7:01,PHI,Furkan Korkmaz,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,73,64,0.785,0.785,7:01
+3,6:36,PHI,Joel Embiid,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,75,66,0.811,0.757,6:36
+3,6:23,ORL,Gary Harris,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,76,66,0.791,0.787,6:36
+3,5:24,PHI,Danny Green,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,78,68,0.867,0.83,5:27
+3,4:48,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,81,70,0.789,0.833,5:01
+3,3:56,ORL,Mo Bamba,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,81,74,0.712,0.712,3:56
+3,2:15,ORL,Terrence Ross,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,84,82,0.447,0.514,2:21
+3,59.7,ORL,Freddie Gillespie,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,87,83,0.546,0.614,1:23
+3,33.5,ORL,Terrence Ross,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,87,84,0.5,0.572,38.3
+3,21.5,PHI,Georges Niang,Technical Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,87,85,0.612,0.577,23.1
+3,21.5,PHI,Myles Powell,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,87,85,0.612,0.578,21.5
+4,10:16,ORL,Terrence Ross,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,91,95,0.229,0.239,10:17
+4,10:02,PHI,Tobias Harris,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,91,95,0.258,0.283,10:12
+4,6:53,ORL,Mo Bamba,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,94,97,0.25,0.267,7:06
+4,6:33,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,94,100,0.127,0.169,6:44
+4,6:11,ORL,Gary Harris,Loose Ball Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,94,102,0.062,0.068,6:11
+4,5:46,PHI,Seth Curry,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,96,105,0.062,0.044,5:46
+4,5:10,ORL,Gary Harris,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,97,105,0.032,0.057,5:13
+4,2:09,PHI,Joel Embiid,Flagrant Foul Type 1,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,104,109,0.12,0.127,2:25
+4,1:23,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,106,113,0.022,0.041,1:23
+4,42.1,ORL,Cole Anthony,Personal Foul,Foul,Jason Goldenberg,Scott Wall,Clare Aubry,ORL,106,114,0.001,0.007,59.4

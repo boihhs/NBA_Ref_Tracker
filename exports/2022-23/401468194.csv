@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:06,WSH,Deni Avdija,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,3,10,0.445,0.444,9:10
+1,8:52,WSH,Bradley Beal,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,3,10,0.444,0.445,9:06
+1,8:34,CLE,Caris LeVert,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,3,10,0.415,0.415,8:38
+1,8:06,CLE,CLE,Technical Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,3,10,0.393,0.412,8:08
+1,7:25,WSH,Deni Avdija,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,3,13,0.398,0.36,7:40
+1,5:45,WSH,Kristaps Porzingis,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,9,18,0.417,0.377,6:00
+1,4:25,CLE,Cedi Osman,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,16,23,0.396,0.397,4:36
+1,2:16,WSH,Rui Hachimura,Offensive Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,24,29,0.469,0.44,2:27
+1,48.0,CLE,Kevin Love,Loose Ball Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,30,29,0.562,0.605,48.0
+1,16.0,WSH,Daniel Gafford,Offensive Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,30,31,0.576,0.544,28.6
+2,9:38,CLE,Robin Lopez,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,36,33,0.635,0.683,9:38
+2,9:19,WSH,Anthony Gill,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,36,33,0.721,0.682,9:35
+2,4:32,WSH,Kristaps Porzingis,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,44,42,0.692,0.65,4:46
+2,2:10,CLE,Isaac Okoro,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,54,44,0.831,0.831,2:18
+2,1:32,CLE,Evan Mobley,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,54,47,0.721,0.763,1:35
+2,1:17,WSH,Deni Avdija,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,54,49,0.776,0.737,1:32
+3,11:08,WSH,Deni Avdija,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,60,51,0.839,0.841,11:09
+3,9:55,WSH,Bradley Beal,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,60,53,0.795,0.798,10:10
+3,7:47,CLE,Isaac Okoro,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,68,58,0.814,0.847,9:08
+3,7:21,CLE,Jarrett Allen,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,70,59,0.874,0.874,7:21
+3,7:06,WSH,Kyle Kuzma,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,72,59,0.934,0.91,7:06
+3,6:55,WSH,Kristaps Porzingis,Transition Take Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,73,59,0.938,0.938,6:55
+3,4:31,WSH,Monte Morris,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,74,66,0.877,0.841,4:48
+3,2:34,CLE,Robin Lopez,Offensive Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,80,70,0.877,0.899,2:34
+3,1:12,CLE,Cedi Osman,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,80,72,0.783,0.834,1:13
+4,11:13,CLE,Donovan Mitchell,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,86,76,0.895,0.903,11:21
+4,9:45,WSH,Daniel Gafford,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,86,84,0.738,0.652,9:48
+4,9:32,CLE,Dean Wade,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,88,84,0.691,0.705,9:45
+4,7:24,CLE,Cedi Osman,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,92,86,0.718,0.863,8:46
+4,3:45,CLE,Evan Mobley,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,99,92,0.82,0.89,4:00
+4,2:24,WSH,Monte Morris,Offensive Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,99,94,0.884,0.833,2:24
+4,2:08,WSH,Monte Morris,Loose Ball Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,99,94,0.897,0.927,3:30
+4,1:54,WSH,Bradley Beal,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,99,94,0.932,0.898,1:54
+4,1:25,WSH,Kyle Kuzma,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,101,96,0.96,0.918,1:34
+4,40.9,CLE,Evan Mobley,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,103,99,0.78,0.837,40.9
+5,4:31,CLE,Donovan Mitchell,Loose Ball Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,103,103,0.455,0.466,4:31
+5,4:07,WSH,Will Barton,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,103,103,0.544,0.537,4:18
+5,3:30,CLE,Caris LeVert,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,105,103,0.609,0.616,3:48
+5,2:03,CLE,Caris LeVert,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,105,106,0.211,0.359,2:05
+5,1:43,WSH,Kyle Kuzma,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,107,106,0.738,0.53,1:43
+5,1:23,WSH,Kyle Kuzma,Shooting Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,110,106,0.924,0.833,1:23
+5,1:23,CLE,Jarrett Allen,Away from Play Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,111,106,0.767,0.89,1:23
+5,54.1,CLE,Caris LeVert,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,113,106,0.904,0.957,1:00
+5,31.5,WSH,Kristaps Porzingis,Personal Foul,Foul,David Guthrie,Phenizee Ransom,Mitchell Ervin,CLE,115,107,0.998,0.996,31.5

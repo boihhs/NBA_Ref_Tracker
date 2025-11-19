@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:53,IND,James Johnson,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,5,3,0.711,0.679,9:54
+1,7:17,NY,Quentin Grimes,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,14,9,0.687,0.719,7:21
+1,7:06,IND,Andrew Nembhard,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,16,10,0.775,0.741,7:06
+1,4:05,NY,Immanuel Quickley,Personal Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,27,15,0.849,0.847,4:23
+1,1:07,IND,Terry Taylor,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,31,21,0.86,0.838,1:08
+1,49.2,IND,Terry Taylor,Loose Ball Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,32,21,0.874,0.853,49.2
+2,9:03,NY,Miles McBride,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,42,28,0.876,0.901,9:03
+2,8:12,NY,Obi Toppin,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,45,29,0.896,0.925,8:23
+2,6:48,IND,Isaiah Jackson,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,47,30,0.951,0.938,6:49
+2,6:15,IND,Buddy Hield,Personal Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,49,32,0.939,0.939,6:16
+2,5:43,IND,Bennedict Mathurin,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,49,32,0.952,0.939,5:57
+2,3:17,IND,Buddy Hield,Personal Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,52,35,0.957,0.945,3:32
+2,3:01,IND,James Johnson,Offensive Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,55,35,0.967,0.961,3:11
+2,2:32,NY,Quentin Grimes,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,57,37,0.957,0.968,2:32
+2,1:24,IND,Buddy Hield,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,57,39,0.967,0.956,1:38
+3,11:30,NY,Jalen Brunson,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,64,41,0.976,0.983,11:47
+3,11:10,IND,Andrew Nembhard,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,64,43,0.985,0.98,11:11
+3,10:09,NY,Mitchell Robinson,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,68,46,0.974,0.981,10:27
+3,9:57,IND,Jalen Smith,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,68,47,0.986,0.981,10:09
+3,9:48,NY,Quentin Grimes,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,70,47,0.979,0.985,9:57
+3,8:27,IND,Bennedict Mathurin,Personal Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,75,51,0.992,0.992,8:36
+3,7:53,IND,Andrew Nembhard,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,75,53,0.991,0.988,7:55
+3,7:40,IND,Tyrese Haliburton,Loose Ball Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,76,53,0.993,0.99,7:40
+3,7:13,NY,Julius Randle,Offensive Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,78,56,0.985,0.988,7:29
+3,7:03,NY,Mitchell Robinson,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,78,56,0.98,0.985,7:13
+3,6:22,IND,Jalen Smith,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,80,59,0.991,0.987,6:39
+3,5:50,IND,Isaiah Jackson,Personal Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,82,62,0.989,0.983,6:06
+3,4:54,NY,Jalen Brunson,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,84,65,0.968,0.977,5:05
+3,3:22,NY,Jalen Brunson,Technical Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,86,72,0.932,0.954,3:22
+3,2:32,IND,Isaiah Jackson,Personal Take Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,88,73,0.977,0.965,2:37
+3,2:32,NY,Isaiah Hartenstein,Double Technical Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,88,73,0.96,0.977,2:32
+3,2:21,NY,Julius Randle,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,90,75,0.95,0.966,2:21
+3,33.1,NY,Immanuel Quickley,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,93,80,0.932,0.956,33.1
+3,13.1,IND,Andrew Nembhard,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,93,81,0.964,0.947,33.1
+4,11:03,NY,Isaiah Hartenstein,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,95,83,0.923,0.941,11:04
+4,10:54,NY,Jalen Brunson,Loose Ball Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,95,85,0.894,0.903,10:54
+4,8:41,IND,Jalen Smith,Offensive Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,98,92,0.831,0.792,8:52
+4,5:07,IND,Goga Bitadze,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,105,96,0.975,0.953,5:17
+4,2:07,IND,Goga Bitadze,Personal Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,110,103,0.965,0.94,2:09
+4,1:59,IND,T.J. McConnell,Personal Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,110,103,0.985,0.965,2:07
+4,1:22,NY,RJ Barrett,Shooting Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,112,108,0.753,0.895,1:22
+4,18.1,IND,Andrew Nembhard,Personal Take Foul,Foul,Zach Zarba,Lauren Holtkamp,Ray Acosta,NY,115,111,0.978,0.934,21.1

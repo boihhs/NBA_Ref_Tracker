@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:16,LAL,LeBron James,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,2,2,0.487,0.527,11:21
+1,10:07,NO,Brandon Ingram,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,6,3,0.641,0.598,10:07
+1,8:49,NO,Jonas Valanciunas,Offensive Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,9,5,0.648,0.623,8:56
+1,8:40,LAL,Dwight Howard,Offensive Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,9,5,0.623,0.648,8:49
+1,5:33,NO,CJ McCollum,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,9,12,0.505,0.438,5:45
+1,5:21,LAL,Carmelo Anthony,Personal Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,11,12,0.492,0.493,5:33
+1,3:42,LAL,Russell Westbrook,Personal Take Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,13,15,0.463,0.463,3:42
+1,2:07,NO,Jose Alvarado,Personal Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,15,19,0.429,0.432,2:27
+1,2:01,NO,Jose Alvarado,Personal Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,15,19,0.473,0.429,2:07
+1,1:45,LAL,Talen Horton-Tucker,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,15,19,0.364,0.402,1:53
+2,8:47,NO,Tony Snell,Loose Ball Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,24,33,0.279,0.277,8:47
+2,8:40,NO,Naji Marshall,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,24,33,0.318,0.279,8:47
+2,8:05,LAL,Talen Horton-Tucker,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,29,33,0.345,0.386,8:11
+2,4:37,NO,Herbert Jones,Personal Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,35,40,0.378,0.379,4:54
+2,3:22,NO,Jonas Valanciunas,Loose Ball Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,35,40,0.422,0.374,3:22
+2,3:03,LAL,Austin Reaves,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,35,40,0.294,0.34,3:08
+2,45.5,LAL,Carmelo Anthony,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,37,48,0.135,0.167,1:04
+3,10:10,LAL,Dwight Howard,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,42,55,0.088,0.114,10:27
+3,8:35,LAL,Austin Reaves,Personal Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,48,58,0.166,0.166,8:53
+3,8:28,LAL,Trevor Ariza,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,48,60,0.109,0.14,8:28
+3,8:16,LAL,Russell Westbrook,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,48,61,0.078,0.101,8:17
+3,7:06,NO,Brandon Ingram,Personal Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,50,67,0.054,0.054,7:25
+3,6:57,NO,Jonas Valanciunas,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,52,67,0.092,0.063,6:57
+3,6:47,LAL,Talen Horton-Tucker,Personal Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,53,67,0.057,0.078,6:57
+3,5:27,LAL,Malik Monk,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,53,77,0.005,0.008,5:27
+3,4:41,NO,Jonas Valanciunas,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,53,80,0.004,0.002,4:46
+3,4:15,LAL,Russell Westbrook,Personal Take Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,55,82,0.001,0.001,4:15
+3,3:58,NO,Tony Snell,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,57,84,0.002,0.001,3:58
+3,3:57,NO,Tony Snell,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,57,84,0.002,0.002,3:57
+3,2:45,NO,Jaxson Hayes,Defensive 3-Seconds Technical,Foul,John Goble,Tom Washington,Brandon Adair,LAL,59,87,0.001,0.001,2:53
+3,2:19,LAL,LAL,Technical Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,60,87,0.001,0.001,2:19
+3,1:39,NO,Tony Snell,Personal Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,60,89,0.001,0.001,1:49
+3,1:14,NO,Jaxson Hayes,Defensive 3-Seconds Technical,Foul,John Goble,Tom Washington,Brandon Adair,LAL,62,91,0.001,0.001,1:29
+4,10:05,NO,Naji Marshall,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,71,97,0.001,0.001,10:05
+4,9:27,NO,CJ McCollum,Personal Take Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,72,97,0.001,0.001,9:27
+4,8:33,LAL,Carmelo Anthony,Personal Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,74,99,0.001,0.001,8:44
+4,7:19,LAL,LeBron James,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,77,102,0.001,0.001,7:33
+4,6:41,LAL,Carmelo Anthony,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,80,103,0.001,0.001,6:59
+4,6:19,NO,Herbert Jones,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,80,104,0.001,0.001,6:38
+4,5:32,NO,Tony Snell,Shooting Foul,Foul,John Goble,Tom Washington,Brandon Adair,LAL,82,107,0.001,0.001,5:41

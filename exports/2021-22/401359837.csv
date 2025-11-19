@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:00,HOU,Daniel Theis,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,0,0,0.752,0.721,11:02
+1,9:51,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,1,2,0.675,0.698,10:13
+1,8:49,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,4,5,0.724,0.694,9:03
+1,8:31,HOU,Jae'Sean Tate,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,6,5,0.761,0.735,8:35
+1,7:55,HOU,Jae'Sean Tate,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,8,5,0.796,0.77,8:00
+1,6:57,MIN,Josh Okogie,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,11,9,0.728,0.729,7:05
+1,6:28,MIN,D'Angelo Russell,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,13,9,0.766,0.766,6:43
+1,4:29,HOU,David Nwaba,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,17,9,0.84,0.848,4:29
+1,2:43,HOU,David Nwaba,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,24,16,0.869,0.848,2:59
+1,1:21,MIN,D'Angelo Russell,Loose Ball Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,30,19,0.881,0.874,1:21
+2,11:23,HOU,Kevin Porter Jr.,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,32,21,0.886,0.887,11:29
+2,8:44,MIN,Jarred Vanderbilt,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,37,26,0.875,0.875,8:52
+2,8:38,MIN,D'Angelo Russell,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,37,26,0.851,0.875,8:44
+2,7:02,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,43,33,0.896,0.876,7:14
+2,6:43,MIN,Jordan McLaughlin,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,45,33,0.89,0.889,6:45
+2,6:38,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,45,33,0.867,0.89,6:43
+3,11:12,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,72,48,0.989,0.991,11:23
+3,10:46,MIN,Anthony Edwards,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,72,48,0.985,0.99,10:49
+3,9:27,MIN,Jaden McDaniels,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,74,51,0.988,0.988,9:38
+3,9:12,HOU,Christian Wood,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,74,51,0.991,0.991,9:13
+3,8:23,HOU,Daniel Theis,Personal Take Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,74,54,0.983,0.984,8:24
+3,7:58,MIN,Karl-Anthony Towns,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,74,54,0.979,0.98,8:03
+3,5:52,MIN,Jaden McDaniels,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,85,58,0.997,0.998,5:52
+3,5:26,HOU,Jae'Sean Tate,Offensive Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,87,59,0.999,0.998,5:34
+3,4:07,MIN,Jaden McDaniels,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,92,61,0.999,0.999,4:13
+3,3:51,HOU,David Nwaba,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,92,61,0.999,0.999,4:03
+3,3:45,HOU,D.J. Augustin,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,92,61,0.999,0.999,3:51
+3,2:34,MIN,Malik Beasley,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,93,63,0.999,0.999,2:38
+3,1:06,HOU,Alperen Sengun,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,97,68,0.999,0.999,1:24
+3,56.4,MIN,Naz Reid,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,99,68,0.999,0.999,1:06
+3,31.6,MIN,Taurean Prince,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,99,70,0.999,0.999,39.2
+4,11:49,MIN,Naz Reid,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,99,71,0.999,0.999,12:00
+4,11:16,HOU,Alperen Sengun,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,102,73,0.999,0.999,11:26
+4,11:03,MIN,Anthony Edwards,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,102,73,0.999,0.999,11:10
+4,10:36,HOU,Christian Wood,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,102,76,0.999,0.999,10:55
+4,10:11,HOU,Alperen Sengun,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,104,78,0.999,0.999,10:19
+4,9:09,HOU,Alperen Sengun,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,108,78,0.999,0.999,9:09
+4,9:01,MIN,Jarred Vanderbilt,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,109,78,0.999,0.999,9:09
+4,8:22,HOU,Jae'Sean Tate,Personal Take Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,111,78,0.999,0.999,8:24
+4,6:02,HOU,Armoni Brooks,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,113,84,0.999,0.999,6:14
+4,5:33,HOU,David Nwaba,Loose Ball Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,114,84,0.999,0.999,5:33
+4,4:40,HOU,Usman Garuba,Personal Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,115,86,0.999,0.999,4:45
+4,4:40,MIN,MIN,Delay Technical,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,115,86,0.999,0.999,4:40
+4,3:20,MIN,Jaylen Nowell,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,115,93,0.999,0.999,3:24
+4,3:12,MIN,Naz Reid,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,115,94,0.999,0.999,3:17
+4,17.6,HOU,David Nwaba,Personal Take Foul,Foul,Curtis Blair,Tre Maddox,Simone Jelks,MIN,122,106,0.999,0.999,24.2

@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:53,POR,Jabari Walker,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,5,9,0.868,0.871,8:09
+1,7:47,POR,Duop Reath,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,5,9,0.885,0.868,7:53
+1,7:30,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,7,9,0.859,0.878,7:47
+1,6:40,POR,Dalano Banton,Technical Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,9,12,0.881,0.874,6:52
+1,6:07,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,12,12,0.875,0.894,6:28
+1,2:58,POR,Duop Reath,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,17,20,0.868,0.851,3:22
+1,2:45,POR,Moses Brown,Offensive Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,18,20,0.861,0.849,2:55
+1,2:33,POR,Justin Minaya,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,18,20,0.878,0.861,2:45
+2,11:46,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,28,26,0.863,0.888,12:00
+2,11:46,POR,Moses Brown,Loose Ball Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,28,26,0.894,0.884,11:46
+2,10:27,POR,Moses Brown,Defensive 3-Seconds Technical,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,28,32,0.789,0.798,10:42
+2,10:14,POR,Ashton Hagans,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,29,32,0.837,0.814,10:27
+2,9:46,POR,Rayan Rupert,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,31,32,0.864,0.843,9:55
+2,9:22,POR,Dalano Banton,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,33,32,0.888,0.869,9:24
+2,9:15,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,35,32,0.881,0.881,9:22
+2,6:18,POR,Anfernee Simons,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,42,37,0.92,0.906,6:34
+2,2:29,MIN,Mike Conley,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,49,48,0.806,0.806,2:34
+2,2:04,POR,Ashton Hagans,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,49,48,0.851,0.824,2:10
+2,1:12,POR,Ashton Hagans,Loose Ball Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,51,48,0.88,0.856,1:12
+2,7.1,MIN,Jaden McDaniels,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,55,48,0.875,0.899,23.1
+3,11:32,POR,Duop Reath,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,55,50,0.882,0.881,11:41
+3,11:00,POR,Jabari Walker,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,55,53,0.853,0.826,11:09
+3,10:23,MIN,Anthony Edwards,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,59,53,0.876,0.876,10:30
+3,8:49,POR,Jabari Walker,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,67,57,0.946,0.928,8:49
+3,7:23,POR,Anfernee Simons,Loose Ball Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,72,62,0.952,0.939,7:23
+3,7:20,POR,Jabari Walker,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,74,62,0.962,0.948,7:20
+3,7:01,MIN,Rudy Gobert,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,75,62,0.957,0.956,7:01
+3,4:58,POR,Moses Brown,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,77,69,0.924,0.898,4:58
+3,3:56,POR,Ashton Hagans,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,78,72,0.892,0.879,3:56
+3,3:32,POR,Anfernee Simons,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,78,72,0.905,0.879,3:35
+3,2:34,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,81,77,0.799,0.83,2:46
+3,1:25,MIN,Kyle Anderson,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,83,80,0.705,0.763,1:28
+3,30.0,MIN,Rudy Gobert,Offensive Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,86,82,0.79,0.825,32.1
+4,11:15,POR,Rayan Rupert,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,90,82,0.947,0.921,11:17
+4,10:10,MIN,Rudy Gobert,Loose Ball Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,93,82,0.951,0.955,10:10
+4,5:46,POR,Rayan Rupert,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,102,90,0.987,0.986,5:55
+4,5:35,POR,Anfernee Simons,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,102,90,0.991,0.987,5:35
+4,5:13,MIN,Rudy Gobert,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,105,92,0.983,0.992,5:13
+4,3:04,POR,Duop Reath,Loose Ball Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,110,99,0.997,0.993,3:04
+4,1:19,MIN,Jaden McDaniels,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,115,103,0.996,0.999,1:19
+4,57.1,MIN,Anthony Edwards,Personal Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,115,104,0.991,0.997,1:02
+4,18.1,POR,Kris Murray,Personal Take Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,115,109,0.996,0.983,23.0
+4,6.1,POR,Jabari Walker,Personal Take Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,117,111,0.998,0.996,7.2
+4,1.1,MIN,Rudy Gobert,Shooting Foul,Foul,Michael Smith,Kevin Scott,Evan Scott,MIN,119,113,0.994,0.999,1.1

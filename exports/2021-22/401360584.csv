@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:43,OKC,Derrick Favors,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,0,0,0.607,0.608,12:00
+1,10:35,POR,Jusuf Nurkic,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,0,6,0.514,0.475,11:00
+1,10:27,POR,Jusuf Nurkic,Offensive Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,2,6,0.527,0.5,10:35
+1,6:28,OKC,Josh Giddey,Double Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,8,16,0.379,0.377,6:28
+1,3:38,POR,Robert Covington,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,14,22,0.432,0.394,3:49
+1,2:05,OKC,Mamadi Diakite,Flagrant Foul Type 1,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,15,26,0.261,0.302,2:05
+1,1:26,POR,Robert Covington,Offensive Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,17,29,0.274,0.25,1:44
+1,30.6,POR,Greg Brown III,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,19,29,0.363,0.321,36.5
+1,11.1,OKC,Theo Maledon,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,19,29,0.255,0.293,22.7
+2,10:37,OKC,Ty Jerome,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,22,35,0.209,0.231,10:37
+2,10:25,POR,Greg Brown III,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,22,36,0.208,0.21,10:37
+2,6:22,POR,Dennis Smith Jr.,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,26,42,0.143,0.143,6:27
+2,5:52,POR,Dennis Smith Jr.,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,26,42,0.139,0.14,5:53
+2,5:27,OKC,Derrick Favors,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,26,42,0.12,0.119,5:35
+2,5:09,POR,Anfernee Simons,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,26,42,0.166,0.136,5:13
+2,4:45,POR,Robert Covington,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,26,42,0.123,0.116,7:51
+2,3:54,POR,Anfernee Simons,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,28,42,0.158,0.17,3:57
+3,9:57,POR,CJ McCollum,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,45,49,0.452,0.386,9:57
+3,7:24,OKC,Derrick Favors,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,51,51,0.527,0.526,7:43
+3,7:04,POR,Norman Powell,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,51,53,0.548,0.489,7:18
+3,3:11,OKC,Mamadi Diakite,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,58,58,0.448,0.515,3:33
+3,45.6,POR,Tony Snell,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,61,61,0.626,0.556,56.6
+3,9.2,OKC,Kenrich Williams,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,63,61,0.53,0.603,22.8
+4,8:24,OKC,Mike Muscala,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,80,65,0.97,0.983,8:37
+4,6:38,OKC,Mike Muscala,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,84,70,0.982,0.983,6:53
+4,5:12,POR,Jusuf Nurkic,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,90,72,0.998,0.998,5:13
+4,4:30,POR,Dennis Smith Jr.,Personal Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,90,74,0.998,0.998,4:40
+4,4:01,POR,Robert Covington,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,90,76,0.998,0.996,4:13
+4,3:52,OKC,Kenrich Williams,Shooting Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,92,76,0.996,0.998,4:01
+4,2:42,OKC,Josh Giddey,Personal Take Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,94,77,0.998,0.999,2:53
+4,1:01,POR,Trendon Watford,Personal Take Foul,Foul,Derek Richardson,Kevin Cutler,Brett Nansel,OKC,96,79,0.999,0.999,1:01

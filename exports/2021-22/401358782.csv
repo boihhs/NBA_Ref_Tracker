@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:27,BOS,Romeo Langford,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,0,3,0.585,0.585,11:44
+1,10:34,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,3,5,0.603,0.604,10:45
+1,9:39,MIL,DeMarcus Cousins,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,5,9,0.538,0.551,9:39
+1,8:44,MIL,Giannis Antetokounmpo,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,5,12,0.442,0.44,8:55
+1,7:40,BOS,Romeo Langford,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,7,17,0.383,0.355,7:40
+1,4:03,BOS,Payton Pritchard,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,13,27,0.295,0.258,4:14
+1,3:00,BOS,Juancho Hernangomez,Loose Ball Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,15,29,0.289,0.251,3:00
+1,1:33,MIL,Bobby Portis,Offensive Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,18,33,0.199,0.219,1:36
+1,1:03,MIL,Giannis Antetokounmpo,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,18,35,0.13,0.154,1:03
+2,10:24,MIL,Grayson Allen,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,24,35,0.234,0.274,10:39
+2,9:37,BOS,Robert Williams III,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,26,40,0.236,0.195,9:37
+2,9:00,MIL,DeMarcus Cousins,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,27,43,0.123,0.15,9:03
+2,8:18,BOS,Romeo Langford,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,27,46,0.123,0.111,8:18
+2,5:55,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,34,46,0.182,0.218,6:15
+2,5:26,MIL,Khris Middleton,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,34,46,0.179,0.213,5:27
+2,4:03,BOS,Marcus Smart,Offensive Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,36,49,0.204,0.18,4:15
+2,47.4,MIL,George Hill,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,44,58,0.107,0.136,54.6
+2,22.6,MIL,Bobby Portis,Loose Ball Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,44,60,0.096,0.096,22.6
+3,11:43,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,47,62,0.159,0.122,12:00
+3,11:22,BOS,Robert Williams III,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,48,65,0.114,0.09,11:29
+3,11:10,MIL,Jrue Holiday,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,50,65,0.08,0.103,11:22
+3,10:42,MIL,DeMarcus Cousins,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,52,66,0.12,0.119,10:50
+3,10:31,BOS,Marcus Smart,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,54,66,0.171,0.159,10:31
+3,8:47,BOS,Marcus Smart,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,63,71,0.271,0.255,8:47
+3,7:57,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,63,71,0.331,0.282,8:09
+3,7:38,MIL,DeMarcus Cousins,Loose Ball Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,65,73,0.244,0.243,7:38
+3,4:45,BOS,Romeo Langford,Loose Ball Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,73,80,0.343,0.283,4:45
+3,4:24,MIL,Bobby Portis,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,77,80,0.422,0.4,4:28
+3,1:59,BOS,Jabari Parker,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,86,89,0.498,0.428,2:07
+3,1:20,BOS,Payton Pritchard,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,86,89,0.495,0.424,1:25
+3,1:06,MIL,Pat Connaughton,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,88,89,0.397,0.466,1:20
+4,11:48,MIL,George Hill,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,90,94,0.299,0.342,12:00
+4,11:20,MIL,Giannis Antetokounmpo,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,90,96,0.209,0.215,11:20
+4,10:15,MIL,George Hill,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,90,101,0.072,0.081,10:15
+4,9:06,BOS,Jayson Tatum,Personal Take Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,90,102,0.056,0.052,9:06
+4,8:28,BOS,Payton Pritchard,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,90,102,0.053,0.049,8:36
+4,5:28,MIL,Jrue Holiday,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,96,107,0.013,0.025,5:34
+4,2:36,BOS,Jayson Tatum,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,105,111,0.118,0.106,2:47
+4,2:31,BOS,Jayson Tatum,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,105,111,0.151,0.103,2:31
+4,1:29,BOS,Robert Williams III,Shooting Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,111,111,0.504,0.46,1:29
+4,1:17,MIL,Jrue Holiday,Personal Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,111,111,0.307,0.46,1:26
+4,17.8,BOS,Jaylen Brown,Personal Take Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,114,113,0.857,0.695,18.4
+4,5.8,BOS,Robert Williams III,Personal Take Foul,Foul,John Goble,Nick Buchert,Natalie Sago,MIL,116,113,0.984,0.943,7.3

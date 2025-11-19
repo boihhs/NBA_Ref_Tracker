@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:22,OKC,Aleksej Pokusevski,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,0,3,0.241,0.238,11:27
+1,4:26,OKC,Josh Giddey,Offensive Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,16,24,0.163,0.18,4:27
+1,4:13,OKC,Kenrich Williams,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,16,24,0.141,0.163,4:26
+1,2:14,DEN,Bruce Brown,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,22,35,0.119,0.096,2:14
+1,1:48,DEN,Christian Braun,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,23,37,0.114,0.096,2:02
+1,1:10,DEN,Bruce Brown,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,25,40,0.102,0.085,1:19
+1,38.3,DEN,Christian Braun,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,27,42,0.102,0.085,54.1
+1,6.2,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,29,42,0.08,0.095,23.1
+2,11:30,OKC,Ousmane Dieng,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,29,42,0.094,0.095,11:38
+2,10:08,OKC,Luguentz Dort,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,31,47,0.052,0.064,10:09
+2,9:57,DEN,Davon Reed,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,31,49,0.053,0.056,10:08
+2,9:39,DEN,Davon Reed,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,31,49,0.068,0.055,9:41
+2,8:13,DEN,Jeff Green,Offensive Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,35,51,0.071,0.062,8:17
+2,4:24,OKC,Aleksej Pokusevski,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,45,60,0.059,0.076,4:24
+2,4:18,DEN,Nikola Jokic,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,45,61,0.082,0.066,4:24
+2,1:28,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,53,68,0.047,0.061,1:47
+2,48.8,OKC,Luguentz Dort,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,57,69,0.075,0.094,1:00
+3,11:07,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,59,71,0.131,0.104,11:18
+3,6:59,DEN,Nikola Jokic,Offensive Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,72,77,0.258,0.228,7:13
+3,6:51,DEN,Bruce Brown,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,74,77,0.355,0.29,6:51
+3,6:42,OKC,Mike Muscala,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,75,77,0.326,0.325,6:51
+3,6:14,OKC,Josh Giddey,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,75,79,0.26,0.258,6:20
+3,6:05,OKC,Mike Muscala,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,75,79,0.213,0.26,6:14
+3,4:37,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,80,83,0.39,0.33,4:41
+3,3:29,DEN,Bruce Brown,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,84,85,0.479,0.413,3:42
+3,1:56,DEN,Nikola Jokic,Offensive Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,88,91,0.332,0.289,2:09
+3,1:25,DEN,Michael Porter Jr.,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,90,91,0.492,0.421,1:26
+3,3.3,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,95,93,0.449,0.522,12.6
+4,10:51,OKC,Darius Bazley,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,97,97,0.375,0.478,10:51
+4,8:07,OKC,Darius Bazley,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,101,101,0.413,0.431,8:07
+4,8:07,Unknown,Unknown,Technical Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,101,101,0.379,0.413,8:07
+4,7:32,OKC,Mike Muscala,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,103,104,0.343,0.365,7:45
+4,6:43,OKC,Kenrich Williams,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,103,109,0.077,0.123,6:53
+4,6:34,DEN,Jeff Green,Personal Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,103,110,0.121,0.117,6:43
+4,4:17,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Bill Kennedy,Scott Wall,Lauren Holtkamp,OKC,105,116,0.008,0.019,4:17

@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:09,TOR,Scottie Barnes,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,6,0,0.475,0.435,10:09
+1,7:40,TOR,Chris Boucher,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,11,3,0.548,0.501,7:40
+1,6:49,TOR,Precious Achiuwa,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,14,3,0.637,0.586,6:49
+1,4:30,HOU,Alperen Sengun,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,19,12,0.473,0.522,4:30
+1,4:21,TOR,Fred VanVleet,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,19,13,0.539,0.495,4:30
+1,3:53,HOU,Daishen Nix,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,21,13,0.483,0.523,4:14
+1,2:54,TOR,Christian Koloko,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,21,18,0.462,0.418,3:15
+1,2:18,HOU,Tari Eason,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,21,18,0.398,0.397,2:18
+1,2:04,HOU,Tari Eason,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,21,18,0.359,0.399,2:04
+1,42.1,HOU,Bruno Fernando,Offensive Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,21,20,0.352,0.382,1:02
+2,10:28,TOR,Christian Koloko,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,21,24,0.321,0.285,10:39
+2,9:22,HOU,Bruno Fernando,Offensive Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,25,24,0.366,0.395,9:28
+2,8:48,HOU,Bruno Fernando,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,25,26,0.277,0.312,8:56
+2,8:22,HOU,Alperen Sengun,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,27,27,0.324,0.341,8:22
+2,8:14,TOR,Dalano Banton,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,27,29,0.315,0.316,8:22
+2,8:13,TOR,Dalano Banton,Away from Play Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,27,29,0.314,0.315,8:14
+2,7:25,HOU,KJ Martin,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,31,32,0.32,0.315,8:13
+2,1:29,HOU,Eric Gordon,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,43,47,0.214,0.251,1:41
+2,1:27,TOR,Pascal Siakam,Offensive Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,43,47,0.281,0.214,1:29
+3,11:18,TOR,Pascal Siakam,Loose Ball Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,48,58,0.138,0.138,11:18
+3,7:49,HOU,Daishen Nix,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,57,71,0.041,0.056,8:00
+3,7:07,TOR,Scottie Barnes,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,59,72,0.1,0.077,7:14
+3,6:08,TOR,Gary Trent Jr.,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,63,74,0.134,0.105,6:19
+3,4:06,HOU,Eric Gordon,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,69,81,0.056,0.08,4:06
+3,2:07,TOR,Chris Boucher,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,69,83,0.054,0.044,2:08
+3,1:34,HOU,Jae'Sean Tate,Offensive Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,70,83,0.043,0.056,1:52
+3,38.1,HOU,Josh Christopher,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,72,83,0.044,0.064,46.0
+3,18.1,HOU,Jae'Sean Tate,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,72,83,0.043,0.063,28.1
+4,10:42,TOR,Christian Koloko,Loose Ball Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,76,91,0.025,0.022,10:42
+4,10:08,TOR,Christian Koloko,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,78,93,0.038,0.022,10:16
+4,8:25,HOU,Bruno Fernando,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,83,95,0.029,0.031,8:25
+4,8:02,TOR,Pascal Siakam,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,83,95,0.07,0.04,8:11
+4,6:55,HOU,Jabari Smith Jr.,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,88,98,0.043,0.048,7:08
+4,6:32,TOR,Pascal Siakam,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,88,98,0.098,0.061,6:43
+4,6:24,TOR,Precious Achiuwa,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,88,98,0.097,0.098,6:32
+4,6:02,HOU,KJ Martin,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,89,98,0.051,0.06,6:23
+4,5:34,TOR,Precious Achiuwa,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,89,98,0.112,0.073,5:48
+4,5:02,HOU,Alperen Sengun,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,90,100,0.022,0.046,5:02
+4,3:26,HOU,Alperen Sengun,Loose Ball Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,92,102,0.008,0.016,3:26
+4,3:08,TOR,Precious Achiuwa,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,92,103,0.032,0.018,3:26
+4,2:57,HOU,Alperen Sengun,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,93,103,0.005,0.014,3:08
+4,1:30,TOR,Pascal Siakam,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,97,108,0.014,0.006,1:40
+4,1:17,HOU,KJ Martin,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,99,108,0.002,0.009,1:30
+4,58.1,TOR,Gary Trent Jr.,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,99,110,0.008,0.003,1:17
+4,34.1,TOR,Precious Achiuwa,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,101,110,0.012,0.006,34.1
+4,34.1,TOR,Precious Achiuwa,Technical Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,102,110,0.023,0.023,34.1
+4,34.0,HOU,Jabari Smith Jr.,Personal Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,104,110,0.007,0.025,34.1
+4,28.1,TOR,Scottie Barnes,Shooting Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,104,112,0.034,0.014,34.0
+4,22.0,HOU,Eric Gordon,Personal Take Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,106,112,0.004,0.021,28.1
+4,11.1,HOU,Eric Gordon,Personal Take Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,108,114,0.001,0.007,13.0
+4,0.2,HOU,Daishen Nix,Personal Take Foul,Foul,Sean Corbin,David Guthrie,Suyash Mehta,HOU,111,115,0.001,0.007,1.2

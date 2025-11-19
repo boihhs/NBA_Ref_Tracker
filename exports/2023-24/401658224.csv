@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:38,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,3,0,0.827,0.805,10:48
+1,9:59,CLE,Isaac Okoro,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,5,2,0.824,0.802,10:11
+1,8:43,CLE,Donovan Mitchell,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,12,5,0.855,0.856,8:53
+1,4:34,BOS,Sam Hauser,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,25,23,0.745,0.745,4:41
+1,4:21,BOS,Jaylen Brown,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,25,23,0.712,0.745,4:34
+1,4:06,CLE,Caris LeVert,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,27,25,0.778,0.744,4:06
+1,3:29,CLE,Isaac Okoro,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,28,25,0.808,0.782,3:40
+1,3:13,BOS,Jayson Tatum,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,30,25,0.798,0.799,3:29
+1,2:49,CLE,Tristan Thompson,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,30,25,0.841,0.815,2:56
+1,1:50,BOS,Luke Kornet,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,34,27,0.804,0.831,2:04
+1,25.1,CLE,Darius Garland,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,38,31,0.868,0.846,32.1
+2,9:43,CLE,Sam Merrill,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,42,34,0.858,0.859,9:58
+2,9:18,BOS,Jaylen Brown,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,42,34,0.841,0.842,9:33
+2,8:26,CLE,Max Strus,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,45,34,0.898,0.899,8:38
+2,6:04,CLE,Max Strus,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,49,39,0.885,0.886,6:19
+2,3:07,CLE,Evan Mobley,Offensive Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,57,44,0.926,0.913,3:18
+2,1:40,CLE,Donovan Mitchell,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,59,46,0.941,0.927,1:41
+2,1:02,BOS,Jayson Tatum,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,59,46,0.895,0.916,1:02
+2,48.1,BOS,Jayson Tatum,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,59,48,0.876,0.904,48.1
+3,11:06,BOS,Al Horford,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,62,49,0.898,0.921,11:26
+3,9:44,BOS,Jrue Holiday,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,68,55,0.901,0.922,9:51
+3,7:46,CLE,Darius Garland,Loose Ball Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,73,62,0.912,0.913,7:46
+3,4:29,BOS,Derrick White,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,80,64,0.967,0.966,4:34
+3,4:05,CLE,Caris LeVert,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,80,66,0.959,0.959,4:23
+4,9:46,BOS,Jrue Holiday,Loose Ball Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,99,79,0.996,0.997,9:46
+4,8:07,CLE,Max Strus,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,105,83,0.999,0.999,8:08
+4,7:17,CLE,Darius Garland,Personal Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,105,85,0.999,0.999,7:39
+4,3:42,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,114,89,0.999,0.999,3:42
+4,3:29,BOS,Xavier Tillman,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,115,89,0.999,0.999,3:42
+4,2:58,BOS,Xavier Tillman,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,115,91,0.999,0.999,3:09
+4,1:31,CLE,Caris LeVert,Shooting Foul,Foul,Curtis Blair,Scott Foster,Mitchell Ervin,BOS,118,95,0.999,0.999,1:34

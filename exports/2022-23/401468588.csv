@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,BKN,Ben Simmons,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,2,0,0.556,0.518,11:20
+1,7:43,TOR,Scottie Barnes,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,10,5,0.538,0.575,8:00
+1,4:35,BKN,Kyrie Irving,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,15,11,0.584,0.584,4:41
+1,2:54,BKN,Kevin Durant,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,20,13,0.707,0.669,3:11
+1,1:24,TOR,Pascal Siakam,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,25,17,0.633,0.672,1:28
+1,50.1,BKN,Edmond Sumner,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,25,17,0.739,0.699,1:03
+1,45.0,BKN,T.J. Warren,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,25,17,0.74,0.703,45.0
+1,12.1,TOR,Pascal Siakam,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,29,17,0.738,0.772,21.1
+2,11:06,BKN,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,32,21,0.811,0.777,11:19
+2,10:59,TOR,Malachi Flynn,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,33,21,0.78,0.778,11:06
+2,10:32,BKN,Kyrie Irving,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,33,21,0.802,0.803,10:50
+2,8:19,BKN,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,37,28,0.778,0.743,8:41
+2,7:24,BKN,Seth Curry,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,43,33,0.788,0.748,7:24
+2,6:22,BKN,Joe Harris,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,44,33,0.799,0.776,6:35
+2,5:42,BKN,Nic Claxton,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,46,33,0.844,0.822,6:06
+2,4:57,TOR,Christian Koloko,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,49,33,0.857,0.866,4:57
+2,4:29,TOR,Juancho Hernangomez,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,51,36,0.869,0.869,4:29
+2,3:56,BKN,Ben Simmons,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,51,38,0.881,0.854,4:01
+2,2:37,BKN,Yuta Watanabe,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,55,40,0.906,0.878,2:37
+2,2:31,TOR,Pascal Siakam,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,56,40,0.87,0.895,2:37
+2,29.0,TOR,Chris Boucher,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,62,49,0.837,0.874,29.0
+2,6.0,TOR,Fred VanVleet,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,62,50,0.796,0.834,10.0
+3,11:01,TOR,Fred VanVleet,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,62,54,0.688,0.734,11:16
+3,10:46,TOR,Scottie Barnes,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,62,57,0.642,0.643,10:46
+3,10:14,TOR,Fred VanVleet,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,62,57,0.617,0.644,10:14
+3,9:37,BKN,Ben Simmons,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,64,58,0.758,0.715,9:46
+3,8:34,TOR,Christian Koloko,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,68,60,0.701,0.685,8:34
+3,7:37,TOR,Scottie Barnes,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,70,67,0.52,0.577,7:38
+3,6:13,BKN,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,70,69,0.605,0.545,6:27
+3,5:11,TOR,Scottie Barnes,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,73,69,0.567,0.629,5:15
+3,4:01,BKN,Nic Claxton,Technical Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,75,75,0.541,0.507,4:01
+3,3:49,BKN,Yuta Watanabe,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,76,75,0.552,0.552,3:54
+3,1:22,TOR,Chris Boucher,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,80,81,0.349,0.415,1:36
+3,36.1,TOR,Chris Boucher,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,84,85,0.381,0.464,36.1
+4,10:45,BKN,Yuta Watanabe,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,86,88,0.467,0.361,10:45
+4,8:38,BKN,T.J. Warren,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,92,97,0.271,0.258,8:48
+4,7:49,BKN,Ben Simmons,Defensive 3-Seconds Technical,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,92,97,0.242,0.259,8:07
+4,7:43,BKN,T.J. Warren,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,93,97,0.324,0.304,7:49
+4,6:05,BKN,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,95,103,0.177,0.113,6:12
+4,4:57,BKN,Kevin Durant,Technical Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,99,105,0.216,0.134,4:57
+4,4:46,BKN,Kevin Durant,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,100,105,0.225,0.228,4:57
+4,3:40,TOR,Pascal Siakam,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,102,105,0.176,0.265,3:49
+4,2:09,BKN,Ben Simmons,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,107,109,0.459,0.299,2:09
+4,1:29,BKN,Kevin Durant,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,108,111,0.431,0.294,1:51
+4,8.0,BKN,Kyrie Irving,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,114,116,0.467,0.321,14.0
+4,3.1,TOR,Fred VanVleet,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Nick Buchert,TOR,116,116,0.101,0.321,8.0

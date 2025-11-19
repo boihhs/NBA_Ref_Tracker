@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,SAC,Kevin Huerter,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,2,5,0.473,0.437,10:26
+1,8:42,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,5,12,0.335,0.335,8:42
+1,5:32,SAC,Keegan Murray,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,10,16,0.354,0.354,5:39
+1,5:23,SAC,Malik Monk,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,10,16,0.393,0.354,5:32
+1,1:33,GS,Klay Thompson,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,17,19,0.389,0.425,1:36
+1,31.0,GS,Dario Saric,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,22,21,0.468,0.515,37.1
+2,10:05,GS,Gary Payton II,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,26,29,0.395,0.428,10:11
+2,8:36,SAC,Domantas Sabonis,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,26,31,0.366,0.337,8:41
+2,7:58,SAC,Sasha Vezenkov,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,26,33,0.307,0.308,8:12
+2,6:04,SAC,Keegan Murray,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,30,38,0.276,0.277,6:07
+2,3:19,GS,Dario Saric,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,38,46,0.238,0.238,3:34
+2,2:57,SAC,Kevin Huerter,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,38,49,0.188,0.189,3:11
+2,1:34,SAC,Domantas Sabonis,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,45,54,0.25,0.206,1:34
+3,11:03,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,49,58,0.159,0.193,11:14
+3,10:20,SAC,Harrison Barnes,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,52,62,0.231,0.192,10:34
+3,9:34,SAC,Domantas Sabonis,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,56,66,0.205,0.161,9:34
+3,9:29,GS,Andrew Wiggins,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,57,66,0.185,0.185,9:34
+3,8:47,GS,Andrew Wiggins,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,57,66,0.182,0.181,8:50
+3,8:39,SAC,Kevin Huerter,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,57,66,0.209,0.18,8:39
+3,8:13,GS,Trayce Jackson-Davis,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,60,66,0.221,0.265,8:21
+3,6:16,GS,Chris Paul,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,64,68,0.27,0.327,6:37
+3,6:08,GS,Andrew Wiggins,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,64,68,0.325,0.362,6:14
+3,5:31,GS,Dario Saric,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,64,68,0.265,0.322,5:35
+3,4:55,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,66,71,0.253,0.319,4:55
+3,2:50,GS,Jonathan Kuminga,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,69,82,0.045,0.063,2:56
+3,40.1,SAC,De'Aaron Fox,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,71,87,0.044,0.031,50.0
+3,9.1,SAC,JaVale McGee,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,74,87,0.085,0.058,9.1
+4,11:31,GS,Chris Paul,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,76,91,0.022,0.032,11:49
+4,11:29,SAC,Malik Monk,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,76,91,0.041,0.031,11:30
+4,11:00,SAC,JaVale McGee,Loose Ball Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,77,94,0.019,0.017,11:00
+4,10:14,SAC,JaVale McGee,Offensive Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,83,94,0.082,0.064,10:22
+4,9:24,GS,GS,Delay Technical,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,83,96,0.035,0.044,9:24
+4,6:26,SAC,Kevin Huerter,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,91,97,0.244,0.147,6:26
+4,5:37,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,91,99,0.046,0.078,5:44
+4,4:30,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,96,103,0.048,0.089,4:46
+4,3:56,SAC,De'Aaron Fox,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,96,105,0.101,0.054,4:06
+4,2:40,GS,Andrew Wiggins,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,101,107,0.042,0.094,2:55
+4,2:05,GS,Dario Saric,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,103,108,0.053,0.114,2:28
+4,1:38,GS,Andrew Wiggins,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,106,110,0.071,0.142,1:57
+4,1:32,SAC,Colby Jones,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,106,112,0.167,0.091,1:38
+4,18.0,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,113,114,0.626,0.46,18.0
+4,13.1,GS,Chris Paul,Personal Take Foul,Foul,Eric Dalen,Jacyn Goble,Sha'Rae Mitchell,GS,113,114,0.13,0.299,16.0

@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:15,ATL,Onyeka Okongwu,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,5,3,0.507,0.545,10:30
+1,7:37,ATL,Onyeka Okongwu,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,8,9,0.428,0.463,7:47
+1,7:03,MIA,Duncan Robinson,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,10,11,0.531,0.493,7:06
+1,3:43,ATL,De'Andre Hunter,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,20,21,0.464,0.464,3:56
+1,1:20,ATL,Kevin Knox II,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,27,27,0.447,0.491,1:27
+1,1:04,MIA,Duncan Robinson,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,26,30,0.447,0.404,1:17
+2,10:28,ATL,Delon Wright,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,36,30,0.663,0.661,10:38
+2,9:31,MIA,Gabe Vincent,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,36,32,0.678,0.638,9:47
+2,9:06,MIA,Max Strus,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,38,34,0.636,0.638,9:12
+2,8:04,MIA,Max Strus,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,40,39,0.571,0.548,8:04
+2,5:12,MIA,Duncan Robinson,Offensive Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,49,41,0.757,0.728,5:21
+2,4:26,ATL,John Collins,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,51,43,0.712,0.76,4:26
+2,4:01,ATL,Onyeka Okongwu,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,51,44,0.707,0.705,4:14
+2,2:08,MIA,Gabe Vincent,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,54,44,0.849,0.817,2:16
+2,1:42,MIA,Gabe Vincent,Double Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,58,44,0.916,0.877,1:47
+2,52.7,MIA,Bam Adebayo,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,58,46,0.89,0.864,1:16
+2,20.6,ATL,John Collins,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,60,49,0.788,0.822,25.1
+3,11:46,MIA,Omer Yurtseven,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,60,51,0.803,0.787,12:00
+3,9:47,MIA,Omer Yurtseven,Offensive Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,64,53,0.86,0.836,9:57
+3,8:19,ATL,John Collins,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,64,57,0.686,0.737,8:35
+3,7:47,MIA,Bam Adebayo,Offensive Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,64,59,0.707,0.671,8:00
+3,6:39,MIA,Bam Adebayo,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,68,62,0.746,0.747,6:53
+3,5:14,MIA,Duncan Robinson,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,76,64,0.918,0.888,5:14
+3,4:02,MIA,Caleb Martin,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,80,66,0.959,0.941,4:15
+3,3:48,ATL,De'Andre Hunter,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,81,66,0.921,0.943,4:02
+3,3:03,ATL,Kevin Knox II,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,83,70,0.92,0.917,3:16
+3,2:48,MIA,Caleb Martin,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,83,70,0.955,0.936,2:53
+3,2:25,MIA,MIA,Technical Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,85,70,0.968,0.961,2:30
+3,1:13,MIA,Gabe Vincent,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,86,70,0.984,0.976,1:14
+4,11:46,ATL,Delon Wright,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,88,74,0.954,0.961,12:00
+4,7:56,MIA,Duncan Robinson,Offensive Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,98,83,0.968,0.983,8:10
+4,6:48,ATL,Trae Young,Personal Take Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,98,88,0.927,0.934,6:49
+4,6:28,MIA,Caleb Martin,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,98,91,0.928,0.884,6:40
+4,5:43,ATL,John Collins,Personal Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,102,91,0.955,0.96,5:50
+4,5:18,ATL,Delon Wright,Loose Ball Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,102,91,0.963,0.963,5:18
+4,2:29,MIA,Jimmy Butler III,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,105,101,0.9,0.82,2:41
+4,1:26,ATL,De'Andre Hunter,Shooting Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,107,103,0.646,0.779,1:47
+4,15.4,MIA,Gabe Vincent,Personal Take Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,109,108,0.863,0.651,20.7
+4,10.7,MIA,Gabe Vincent,Personal Take Foul,Foul,Kane Fitzgerald,Jason Goldenberg,Leon Wood,ATL,109,108,0.877,0.702,15.4

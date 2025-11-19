@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:03,MEM,Steven Adams,Offensive Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,3,2,0.512,0.542,11:05
+1,10:56,MEM,Santi Aldama,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,3,2,0.514,0.512,11:03
+1,9:19,MEM,Steven Adams,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,3,2,0.514,0.513,9:19
+1,8:24,ORL,Wendell Carter Jr.,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,7,2,0.641,0.64,8:24
+1,7:12,MEM,Dillon Brooks,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,12,2,0.719,0.736,7:12
+1,6:50,ORL,Cole Anthony,Offensive Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,12,4,0.715,0.69,6:54
+1,4:40,ORL,Mo Bamba,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,19,9,0.779,0.742,4:40
+2,10:02,ORL,Moritz Wagner,Loose Ball Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,28,26,0.574,0.575,10:02
+2,9:38,MEM,John Konchar,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,31,26,0.633,0.632,9:55
+2,8:26,ORL,Cole Anthony,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,31,26,0.663,0.663,8:31
+2,8:11,ORL,Jalen Suggs,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,31,26,0.703,0.664,8:14
+2,7:47,ORL,Cole Anthony,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,33,26,0.755,0.719,7:49
+2,6:48,ORL,Jalen Suggs,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,38,26,0.848,0.815,6:48
+2,6:14,ORL,Jalen Suggs,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,39,29,0.828,0.795,6:27
+2,5:55,MEM,Dillon Brooks,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,40,31,0.73,0.774,5:55
+2,5:37,MEM,Dillon Brooks,Loose Ball Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,40,31,0.752,0.749,5:37
+2,4:56,MEM,Ziaire Williams,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,42,34,0.684,0.727,5:01
+2,4:47,MEM,Dillon Brooks,Loose Ball Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,42,34,0.684,0.728,4:47
+2,4:38,ORL,Jalen Suggs,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,42,36,0.742,0.699,4:47
+2,4:00,ORL,Zavier Simpson,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,46,36,0.838,0.804,4:02
+2,16.1,ORL,Zavier Simpson,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,54,40,0.921,0.899,30.1
+2,5.1,MEM,Jake LaRavia,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,56,40,0.891,0.912,16.1
+3,10:10,ORL,Mo Bamba,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,59,47,0.902,0.876,10:11
+3,9:15,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,63,50,0.898,0.899,9:15
+3,8:49,ORL,Paolo Banchero,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,65,50,0.947,0.929,8:53
+3,8:04,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,68,52,0.945,0.932,8:17
+3,7:25,ORL,Paolo Banchero,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,70,52,0.97,0.958,7:25
+3,7:07,MEM,Dillon Brooks,Offensive Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,71,54,0.949,0.958,7:13
+3,6:21,MEM,Steven Adams,Personal Take Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,73,54,0.968,0.969,6:27
+3,5:40,MEM,Steven Adams,Offensive Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,73,54,0.971,0.977,5:43
+3,5:13,MEM,Steven Adams,Technical Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,73,59,0.908,0.935,5:13
+3,4:06,MEM,Jake LaRavia,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,75,63,0.892,0.891,4:18
+3,4:05,ORL,Bol Bol,Offensive Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,75,63,0.912,0.892,4:06
+3,3:57,MEM,Ziaire Williams,Offensive Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,75,63,0.894,0.912,4:05
+3,3:27,MEM,Brandon Clarke,Offensive Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,75,63,0.898,0.914,3:41
+3,3:17,MEM,Jake LaRavia,Defensive 3-Seconds Technical,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,75,63,0.905,0.898,3:27
+3,3:07,ORL,Moritz Wagner,Loose Ball Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,75,63,0.941,0.919,3:07
+3,2:06,ORL,ORL,Delay Technical,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,77,66,0.903,0.91,2:08
+3,1:10,ORL,R.J. Hampton,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,83,66,0.988,0.981,1:14
+3,16.1,MEM,Brandon Clarke,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,85,68,0.968,0.978,31.5
+3,8.8,MEM,Brandon Clarke,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,85,68,0.968,0.968,16.1
+3,2.7,ORL,R.J. Hampton,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,85,69,0.988,0.98,3.1
+4,11:22,ORL,Terrence Ross,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,86,72,0.981,0.968,11:35
+4,10:04,ORL,Terrence Ross,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,90,74,0.991,0.982,10:04
+4,8:37,MEM,Desmond Bane,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,93,77,0.977,0.986,9:04
+4,6:04,ORL,Caleb Houstan,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,99,85,0.992,0.991,6:05
+4,4:49,ORL,Aleem Ford,Shooting Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,104,88,0.998,0.997,5:04
+4,3:41,MEM,Ziaire Williams,Personal Take Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,107,91,0.999,0.999,3:41
+4,2:26,ORL,Kevon Harris,Personal Foul,Foul,Jacyn Goble,Michael Smith,Tyler Ricks,MEM,107,94,0.999,0.998,2:26

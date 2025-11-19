@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,FLMG,Gabriel Jau,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,3,0,0.625,0.59,10:30
+1,9:38,FLMG,Gui Deodato,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,7,0,0.718,0.684,9:39
+1,9:11,FLMG,Franco Balbi,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,8,0,0.725,0.708,9:11
+1,8:00,FLMG,Gabriel Jau,Offensive Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,11,0,0.776,0.775,8:28
+2,11:27,FLMG,Gabriel Jau,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,30,14,0.907,0.884,11:42
+2,8:43,FLMG,Martin Cuello,Transition Take Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,37,20,0.909,0.91,8:45
+2,8:07,ORL,Daeqwon Plowden,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,41,20,0.928,0.941,8:27
+2,7:16,FLMG,Didi Louzada,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,43,24,0.948,0.936,7:17
+2,7:03,ORL,Mac McClung,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,45,24,0.944,0.944,7:16
+2,6:22,FLMG,Olivinha Rodriguez,Offensive Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,45,26,0.939,0.927,6:22
+2,5:17,ORL,Trevelin Queen,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,47,29,0.92,0.919,5:27
+2,4:34,FLMG,Maique Tavares,Offensive Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,49,31,0.934,0.922,4:46
+2,4:23,FLMG,Gabriel Jau,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,49,31,0.948,0.934,4:34
+2,2:51,ORL,Caleb Houstan,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,55,31,0.966,0.975,3:03
+2,1:31,FLMG,Gui Deodato,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,58,33,0.989,0.985,1:52
+2,1:15,ORL,Goga Bitadze,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,60,33,0.984,0.988,1:31
+2,4.1,ORL,Goga Bitadze,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,65,34,0.994,0.996,14.1
+3,11:15,FLMG,Didi Louzada,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,65,38,0.993,0.992,11:25
+3,10:25,FLMG,Didi Louzada,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,65,38,0.996,0.992,10:43
+3,7:24,ORL,Caleb Houstan,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,71,42,0.997,0.997,7:24
+3,7:18,ORL,Anthony Black,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,71,42,0.997,0.997,7:24
+3,6:56,FLMG,Felipe Motta,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,71,44,0.996,0.996,7:10
+3,6:49,FLMG,Maique Tavares,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,71,44,0.998,0.993,10:34
+3,6:48,FLMG,Maique Tavares,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,72,44,0.998,0.997,6:48
+3,5:31,FLMG,Maique Tavares,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,74,48,0.997,0.996,5:42
+3,5:05,ORL,Anthony Black,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,75,48,0.996,0.997,5:05
+3,3:10,ORL,Daeqwon Plowden,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,81,52,0.998,0.999,3:22
+3,2:37,ORL,Trevelin Queen,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,81,54,0.997,0.998,2:38
+3,2:20,FLMG,Gabriel Jau,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,81,56,0.998,0.997,2:37
+4,10:46,ORL,Trevelin Queen,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,85,59,0.999,0.999,10:58
+4,10:32,FLMG,Olivinha Rodriguez,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,87,59,0.999,0.999,10:32
+4,9:29,FLMG,Marko Filipovity,Offensive Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,90,59,0.999,0.999,9:55
+4,7:20,ORL,Daeqwon Plowden,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,95,63,0.999,0.999,7:37
+4,6:56,ORL,Daeqwon Plowden,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,95,64,0.999,0.999,6:57
+4,6:55,ORL,Trevelin Queen,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,95,64,0.999,0.996,6:56
+4,6:48,FLMG,Gabriel Jau,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,95,64,0.999,0.999,6:48
+4,6:39,FLMG,Olivinha Rodriguez,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,95,64,0.999,0.999,6:48
+4,6:17,FLMG,Maique Tavares,Personal Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,97,64,0.999,0.999,6:17
+4,5:30,FLMG,Scott Machado,Shooting Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,97,66,0.999,0.999,5:39
+4,5:21,FLMG,Maique Tavares,Offensive Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,99,66,0.999,0.999,4:36
+4,2:04,FLMG,Olivinha Rodriguez,Offensive Foul,Foul,Sean Corbin,Ben Taylor,John Conley,ORL,105,73,0.999,0.999,2:08

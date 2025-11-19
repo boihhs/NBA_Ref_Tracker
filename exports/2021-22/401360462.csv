@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:55,NY,Alec Burks,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,0,2,0.48,0.481,11:11
+1,9:07,NY,RJ Barrett,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,5,4,0.594,0.56,9:14
+1,8:08,ATL,Trae Young,Offensive Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,8,9,0.48,0.505,8:32
+1,7:54,ATL,Gorgui Dieng,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,8,9,0.459,0.48,7:54
+1,7:41,NY,Julius Randle,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,8,10,0.479,0.505,7:41
+1,7:27,ATL,De'Andre Hunter,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,11,10,0.491,0.531,7:41
+1,7:25,ATL,Gorgui Dieng,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,11,11,0.486,0.505,7:25
+1,7:19,NY,Alec Burks,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,11,12,0.544,0.505,7:25
+1,7:13,NY,Evan Fournier,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,11,12,0.544,0.544,7:19
+1,5:32,NY,Immanuel Quickley,Offensive Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,15,14,0.558,0.53,5:37
+1,4:43,ATL,Onyeka Okongwu,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,18,14,0.61,0.61,4:43
+1,4:23,NY,Immanuel Quickley,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,18,16,0.623,0.582,4:43
+1,3:12,NY,Evan Fournier,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,19,18,0.597,0.562,3:15
+1,23.1,ATL,Onyeka Okongwu,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,26,29,0.396,0.442,23.1
+1,3.0,NY,Quentin Grimes,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,26,30,0.458,0.413,23.1
+1,2.2,ATL,John Collins,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,28,30,0.403,0.44,3.0
+2,9:41,ATL,John Collins,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,36,36,0.498,0.53,9:41
+2,9:34,NY,Obi Toppin,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,36,37,0.499,0.5,9:41
+2,8:43,NY,Taj Gibson,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,36,37,0.498,0.499,8:51
+2,7:18,ATL,Danilo Gallinari,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,38,42,0.376,0.374,7:21
+2,7:07,ATL,John Collins,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,38,42,0.332,0.376,7:18
+2,1:42,NY,Julius Randle,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,50,62,0.203,0.169,1:48
+3,9:14,NY,RJ Barrett,Personal Take Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,56,70,0.104,0.105,9:15
+3,6:04,ATL,Kevin Huerter,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,60,74,0.069,0.071,6:14
+3,5:27,ATL,Trae Young,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,62,76,0.057,0.081,5:27
+3,3:24,NY,Taj Gibson,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,67,80,0.084,0.085,3:30
+3,2:46,NY,Quentin Grimes,Personal Take Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,70,80,0.142,0.143,2:46
+3,2:30,NY,Quentin Grimes,Loose Ball Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,70,80,0.182,0.14,2:30
+3,1:55,NY,Julius Randle,Loose Ball Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,70,83,0.101,0.072,1:55
+3,1:24,NY,Julius Randle,Loose Ball Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,71,83,0.119,0.086,1:24
+3,1:05,ATL,Onyeka Okongwu,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,72,83,0.059,0.086,1:24
+4,11:15,ATL,Onyeka Okongwu,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,77,85,0.092,0.136,11:31
+4,8:19,ATL,Delon Wright,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,86,90,0.207,0.306,8:28
+4,8:17,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,86,91,0.225,0.202,8:17
+4,7:33,NY,Alec Burks,Loose Ball Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,88,93,0.242,0.231,7:33
+4,7:11,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,91,93,0.242,0.334,7:26
+4,4:20,ATL,Kevin Huerter,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,98,101,0.26,0.227,4:20
+4,2:51,ATL,John Collins,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,100,108,0.019,0.045,2:51
+4,1:31,NY,Mitchell Robinson,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,103,113,0.026,0.007,1:31
+4,33.8,ATL,Danilo Gallinari,Personal Take Foul,Foul,James Williams,Tre Maddox,Brett Nansel,ATL,103,115,0.001,0.001,37.3

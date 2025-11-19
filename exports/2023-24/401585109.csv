@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,OKC,Josh Giddey,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,0,0,0.382,0.381,11:20
+1,9:42,BKN,Dorian Finney-Smith,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,2,2,0.364,0.364,9:53
+1,9:01,OKC,Jalen Williams,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,4,2,0.478,0.441,9:08
+1,7:24,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,9,10,0.406,0.368,7:36
+1,7:18,BKN,Mikal Bridges,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,11,10,0.395,0.394,7:24
+1,6:29,OKC,Jalen Williams,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,14,14,0.435,0.396,6:35
+1,4:48,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,19,14,0.468,0.507,5:00
+1,4:01,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,21,15,0.591,0.568,4:10
+1,2:56,OKC,Jaylin Williams,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,28,15,0.773,0.731,2:56
+1,2:32,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,29,15,0.813,0.78,2:33
+1,1:49,BKN,Dennis Smith Jr.,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,33,17,0.79,0.827,1:49
+1,1:28,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,35,20,0.77,0.811,1:28
+1,51.1,OKC,Chet Holmgren,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,37,21,0.861,0.832,55.0
+2,10:06,BKN,Dennis Smith Jr.,Loose Ball Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,44,25,0.882,0.88,10:06
+2,9:56,BKN,Dennis Smith Jr.,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,44,25,0.858,0.882,10:06
+2,9:15,BKN,Royce O'Neale,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,46,26,0.901,0.901,9:17
+2,8:29,OKC,Lindy Waters III,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,49,26,0.949,0.95,8:29
+2,7:45,OKC,Kenrich Williams,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,51,28,0.962,0.951,7:58
+2,7:09,OKC,Luguentz Dort,Loose Ball Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,55,30,0.966,0.967,7:09
+2,7:08,BKN,Royce O'Neale,Offensive Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,55,30,0.961,0.966,7:09
+2,5:58,OKC,Luguentz Dort,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,57,32,0.977,0.97,6:05
+2,5:55,BKN,Royce O'Neale,Offensive Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,57,32,0.964,0.977,5:58
+2,3:32,OKC,Josh Giddey,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,62,37,0.982,0.976,3:37
+2,3:25,BKN,Mikal Bridges,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,64,39,0.967,0.977,3:25
+2,1:08,BKN,Cameron Johnson,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,70,43,0.979,0.984,1:19
+3,11:22,BKN,Mikal Bridges,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,77,47,0.992,0.994,11:28
+3,11:10,BKN,Cameron Johnson,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,77,48,0.991,0.993,11:13
+3,10:58,OKC,Chet Holmgren,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,79,49,0.996,0.995,10:58
+3,10:24,BKN,Mikal Bridges,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,80,49,0.994,0.996,10:40
+3,7:37,BKN,Spencer Dinwiddie,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,87,56,0.997,0.998,7:44
+3,7:11,BKN,Spencer Dinwiddie,Offensive Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,87,56,0.998,0.998,7:16
+3,5:11,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,91,63,0.998,0.998,5:36
+3,4:33,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,91,66,0.991,0.994,4:35
+3,2:45,BKN,Dorian Finney-Smith,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,99,74,0.994,0.996,2:56
+3,2:01,OKC,Aaron Wiggins,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,99,74,0.997,0.998,2:03
+3,1:54,OKC,Kenrich Williams,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,99,74,0.998,0.998,1:54
+3,1:30,BKN,Dennis Smith Jr.,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,101,74,0.998,0.998,1:31
+4,9:35,OKC,Cason Wallace,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,104,87,0.995,0.99,9:47
+4,8:56,OKC,Jalen Williams,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,106,87,0.996,0.997,8:56
+4,8:34,OKC,Aaron Wiggins,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,106,87,0.998,0.996,8:56
+4,7:42,BKN,Nic Claxton,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,107,92,0.979,0.99,7:42
+4,7:00,BKN,Cameron Johnson,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,109,93,0.99,0.99,7:21
+4,4:32,OKC,Luguentz Dort,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,111,99,0.994,0.987,4:50
+4,3:33,OKC,Luguentz Dort,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,111,101,0.992,0.984,3:36
+4,3:16,OKC,Chet Holmgren,Personal Take Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,113,103,0.993,0.986,3:25
+4,3:02,BKN,Cameron Johnson,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,113,103,0.974,0.978,3:05
+4,1:33,OKC,Shai Gilgeous-Alexander,Loose Ball Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,117,107,0.998,0.996,1:33
+4,27.1,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,119,112,0.933,0.981,27.2
+4,20.1,OKC,Isaiah Joe,Personal Take Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,119,113,0.996,0.979,27.1
+4,9.1,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,121,115,0.998,0.993,12.1
+4,9.1,OKC,OKC,Technical Foul,Foul,Bill Kennedy,Tom Washington,Evan Scott,BKN,121,115,0.998,0.998,9.1

@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:02,MEM,Dillon Brooks,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,2,0,0.708,0.709,11:09
+1,10:52,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,2,2,0.675,0.685,10:52
+1,10:38,DAL,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,2,3,0.695,0.664,10:52
+1,9:33,MEM,Dillon Brooks,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,5,5,0.659,0.659,9:45
+1,8:55,DAL,Luka Doncic,Personal Take Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,8,5,0.742,0.744,8:55
+1,8:45,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,8,5,0.742,0.742,8:45
+1,8:12,DAL,Kristaps Porzingis,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,8,7,0.688,0.7,8:16
+1,6:55,MEM,De'Anthony Melton,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,10,9,0.672,0.672,6:55
+1,5:51,MEM,Desmond Bane,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,12,9,0.68,0.715,6:02
+1,4:28,MEM,De'Anthony Melton,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,12,13,0.575,0.611,4:28
+1,1:29,MEM,Xavier Tillman,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,19,20,0.579,0.596,1:29
+1,11.7,DAL,Moses Brown,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,24,25,0.664,0.623,26.9
+1,0.2,MEM,Killian Tillie,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,25,25,0.581,0.623,11.7
+2,10:44,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,27,26,0.671,0.674,10:55
+2,9:32,DAL,Maxi Kleber,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,29,28,0.667,0.669,9:33
+2,7:52,MEM,Steven Adams,Loose Ball Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,33,30,0.689,0.689,7:52
+2,7:24,DAL,Kristaps Porzingis,Technical Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,35,30,0.78,0.741,7:24
+2,6:20,DAL,Josh Green,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,39,34,0.764,0.764,6:26
+2,5:30,MEM,Desmond Bane,Defensive 3-Seconds Technical,Foul,Matt Boland,John Goble,Sean Corbin,MEM,41,34,0.79,0.785,5:44
+2,4:48,MEM,Santi Aldama,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,43,35,0.807,0.806,5:00
+2,3:12,DAL,Dwight Powell,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,47,37,0.89,0.866,3:26
+2,2:20,DAL,Dwight Powell,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,49,39,0.868,0.868,2:32
+2,1:40,DAL,Dwight Powell,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,50,43,0.84,0.809,1:50
+3,12:00,DAL,Luka Doncic,Technical Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,52,48,0.754,0.716,12:00
+3,10:42,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,55,51,0.705,0.702,10:46
+3,10:34,MEM,Dillon Brooks,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,55,51,0.654,0.705,10:42
+3,8:56,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,58,57,0.687,0.634,9:04
+3,8:45,MEM,Desmond Bane,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,60,57,0.667,0.667,8:56
+3,7:08,DAL,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,60,65,0.456,0.4,7:31
+3,6:39,DAL,Dwight Powell,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,61,65,0.433,0.434,6:45
+3,5:51,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,66,65,0.527,0.589,6:09
+3,3:42,DAL,Moses Brown,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,68,69,0.604,0.54,3:51
+3,3:19,MEM,Steven Adams,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,69,69,0.468,0.539,3:40
+3,3:00,MEM,De'Anthony Melton,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,69,71,0.379,0.445,3:00
+3,1:21,DAL,Jalen Brunson,Personal Take Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,71,73,0.55,0.48,1:21
+3,41.6,DAL,Moses Brown,Defensive 3-Seconds Technical,Foul,Matt Boland,John Goble,Sean Corbin,MEM,72,76,0.368,0.383,55.8
+4,11:14,DAL,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,75,78,0.389,0.421,11:28
+4,10:55,MEM,John Konchar,Defensive 3-Seconds Technical,Foul,Matt Boland,John Goble,Sean Corbin,MEM,75,78,0.381,0.366,11:12
+4,10:20,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,75,79,0.307,0.363,10:33
+4,9:28,DAL,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,75,79,0.452,0.351,9:31
+4,8:58,DAL,Josh Green,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,77,79,0.436,0.467,8:59
+4,7:54,DAL,Josh Green,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,79,81,0.565,0.47,8:02
+4,7:06,MEM,Dillon Brooks,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,79,83,0.28,0.293,7:11
+4,5:40,MEM,Dillon Brooks,Personal Take Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,81,86,0.232,0.205,5:40
+4,5:40,MEM,Steven Adams,Technical Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,81,86,0.167,0.232,5:40
+4,4:39,DAL,Dorian Finney-Smith,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,84,92,0.161,0.105,4:51
+4,3:50,MEM,Dillon Brooks,Technical Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,86,95,0.028,0.058,3:50
+4,3:40,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,86,96,0.023,0.025,3:50
+4,2:09,MEM,MEM,Technical Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,89,102,0.001,0.002,2:09
+4,38.2,MEM,Desmond Bane,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,93,103,0.001,0.001,39.0
+4,27.5,MEM,De'Anthony Melton,Personal Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,93,103,0.001,0.001,38.2
+4,27.5,MEM,Dillon Brooks,Technical Foul,Foul,Matt Boland,John Goble,Sean Corbin,MEM,93,103,0.001,0.001,27.5

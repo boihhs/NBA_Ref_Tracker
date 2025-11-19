@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:28,MIA,Kyle Lowry,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,0,0,0.585,0.624,11:30
+1,11:16,MEM,Desmond Bane,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,0,2,0.632,0.597,11:28
+1,9:37,MEM,Dillon Brooks,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,2,6,0.579,0.542,9:52
+1,9:14,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,4,6,0.589,0.59,9:14
+1,9:05,MIA,P.J. Tucker,Offensive Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,4,6,0.562,0.589,9:14
+1,8:15,MIA,Jimmy Butler III,Technical Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,4,14,0.33,0.375,8:15
+1,2:41,MEM,Santi Aldama,Offensive Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,18,28,0.345,0.316,2:44
+1,1:46,MEM,John Konchar,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,22,28,0.437,0.424,1:46
+2,10:17,MEM,Tyus Jones,Offensive Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,25,36,0.289,0.267,10:26
+2,8:09,MEM,John Konchar,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,29,40,0.319,0.278,8:24
+2,6:52,MIA,P.J. Tucker,Flagrant Foul Type 1,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,33,42,0.255,0.326,6:53
+2,5:09,MIA,Caleb Martin,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,35,48,0.193,0.181,5:18
+2,4:25,MEM,Desmond Bane,Offensive Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,38,50,0.227,0.202,4:37
+2,3:28,MEM,Dillon Brooks,Personal Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,40,50,0.301,0.304,3:28
+2,1:12,MIA,P.J. Tucker,Offensive Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,47,55,0.285,0.317,1:22
+3,10:16,MIA,Dewayne Dedmon,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,54,63,0.192,0.23,10:20
+3,9:53,MEM,Steven Adams,Loose Ball Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,54,65,0.188,0.175,9:53
+3,9:18,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,54,65,0.183,0.17,9:18
+3,7:30,MEM,Steven Adams,Personal Take Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,56,67,0.18,0.18,7:30
+3,7:02,MIA,Dewayne Dedmon,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,56,67,0.163,0.151,7:07
+3,6:46,MEM,Desmond Bane,Personal Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,56,69,0.125,0.129,7:02
+3,6:04,MEM,Tyus Jones,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,56,69,0.156,0.12,6:07
+3,5:14,MIA,P.J. Tucker,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,58,73,0.053,0.077,5:14
+3,4:35,MIA,Dewayne Dedmon,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,58,74,0.046,0.046,4:37
+3,4:18,MIA,Omer Yurtseven,Personal Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,58,75,0.025,0.036,4:18
+3,3:19,MIA,Kyle Lowry,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,60,75,0.041,0.051,3:19
+3,2:35,MEM,Santi Aldama,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,62,79,0.052,0.037,2:43
+3,1.1,MIA,Gabe Vincent,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,67,81,0.039,0.054,1.1
+4,11:59,MIA,Gabe Vincent,Personal Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,67,82,0.026,0.035,12:00
+4,11:39,MEM,John Konchar,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,67,82,0.058,0.035,11:42
+4,10:47,MIA,Omer Yurtseven,Loose Ball Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,71,85,0.031,0.031,10:47
+4,9:27,MIA,Gabe Vincent,Personal Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,71,88,0.007,0.008,9:27
+4,7:39,MEM,Dillon Brooks,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,76,90,0.039,0.02,7:43
+4,7:25,MIA,Gabe Vincent,Personal Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,79,90,0.023,0.041,7:33
+4,4:28,MIA,Caleb Martin,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,81,97,0.001,0.001,4:28
+4,2:52,MIA,Gabe Vincent,Offensive Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,85,100,0.001,0.001,3:01
+4,2:24,MEM,Steven Adams,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,85,100,0.001,0.001,2:37
+4,1:16,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Bill Kennedy,Brian Forte,Jenna Schroeder,MIA,86,103,0.001,0.001,1:16

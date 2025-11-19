@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:29,DET,Isaiah Stewart,Offensive Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,8,6,0.465,0.49,9:47
+1,8:52,TOR,Dalano Banton,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,8,6,0.53,0.466,9:02
+1,7:59,DET,Jaden Ivey,Flagrant Foul Type 1,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,10,8,0.474,0.467,8:05
+1,6:36,TOR,Dalano Banton,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,12,12,0.484,0.444,6:50
+1,6:04,DET,Marvin Bagley III,Offensive Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,14,15,0.393,0.419,6:16
+1,5:06,TOR,Thaddeus Young,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,14,15,0.46,0.421,5:09
+1,4:34,TOR,Thaddeus Young,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,15,15,0.488,0.446,4:37
+1,3:52,DET,Alec Burks,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,18,15,0.463,0.53,4:01
+1,3:33,TOR,Juancho Hernangomez,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,18,17,0.518,0.479,3:34
+1,2:03,DET,Saddiq Bey,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,18,23,0.259,0.294,2:04
+1,1:31,DET,Alec Burks,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,20,23,0.308,0.348,1:42
+1,34.1,DET,Hamidou Diallo,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,23,25,0.334,0.371,47.5
+2,11:20,TOR,Christian Koloko,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,23,30,0.306,0.27,11:42
+2,8:12,TOR,Jeff Dowtin Jr.,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,30,36,0.332,0.292,8:22
+2,7:48,TOR,Chris Boucher,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,31,36,0.359,0.318,7:53
+2,5:56,TOR,Khem Birch,Offensive Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,34,43,0.214,0.19,6:03
+2,5:41,TOR,Khem Birch,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,36,43,0.282,0.238,5:41
+2,4:13,DET,Isaiah Stewart,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,42,45,0.299,0.34,4:27
+2,3:58,TOR,Chris Boucher,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,42,47,0.36,0.315,4:13
+2,1:33,DET,Marvin Bagley III,Offensive Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,45,53,0.2,0.227,1:42
+2,1:07,TOR,Thaddeus Young,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,45,53,0.269,0.226,1:13
+3,11:25,DET,Marvin Bagley III,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,51,58,0.184,0.217,11:36
+3,10:07,TOR,Scottie Barnes,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,51,65,0.117,0.093,10:24
+3,9:34,TOR,Dalano Banton,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,53,67,0.115,0.09,9:43
+3,8:38,DET,Jaden Ivey,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,56,67,0.121,0.119,8:38
+3,8:21,TOR,Dalano Banton,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,58,69,0.155,0.119,8:21
+3,5:51,DET,Bojan Bogdanovic,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,61,72,0.106,0.107,6:13
+3,5:17,DET,Bojan Bogdanovic,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,63,72,0.113,0.145,5:32
+3,4:45,TOR,Juancho Hernangomez,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,65,74,0.21,0.168,4:46
+3,3:48,DET,Jalen Duren,Loose Ball Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,68,78,0.085,0.136,3:48
+3,3:26,DET,Killian Hayes,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,68,79,0.068,0.093,3:29
+3,2:24,TOR,Chris Boucher,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,72,83,0.121,0.086,2:24
+3,1:44,TOR,Malachi Flynn,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,74,86,0.097,0.062,1:44
+4,11:21,TOR,Malachi Flynn,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,77,88,0.123,0.081,11:34
+4,10:23,TOR,Christian Koloko,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,81,90,0.18,0.126,10:42
+4,10:09,DET,Jalen Duren,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,83,90,0.104,0.153,10:23
+4,9:30,DET,Jalen Duren,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,85,92,0.113,0.144,9:52
+4,9:05,TOR,Jeff Dowtin Jr.,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,85,94,0.167,0.109,9:05
+4,8:12,TOR,Chris Boucher,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,89,94,0.34,0.253,8:13
+4,7:37,TOR,Thaddeus Young,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,91,94,0.453,0.362,7:37
+4,6:01,DET,Alec Burks,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,95,96,0.296,0.412,6:17
+4,5:34,DET,Jaden Ivey,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,95,98,0.189,0.275,5:42
+4,3:23,TOR,OG Anunoby,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,100,103,0.418,0.308,3:37
+4,2:44,TOR,Scottie Barnes,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,101,105,0.333,0.23,2:58
+4,1:30,TOR,Scottie Barnes,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,103,109,0.165,0.089,1:34
+4,1:04,DET,Jaden Ivey,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,105,109,0.058,0.122,1:11
+4,16.5,DET,Jaden Ivey,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,108,111,0.04,0.096,16.5
+4,6.8,DET,Jaden Ivey,Personal Take Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,DET,111,113,0.04,0.152,9.6

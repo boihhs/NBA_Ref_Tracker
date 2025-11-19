@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:28,NY,Julius Randle,Offensive Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,6,5,0.703,0.676,9:31
+1,8:54,NY,Alec Burks,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,8,8,0.708,0.673,9:03
+1,8:06,ATL,Kevin Huerter,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,10,8,0.695,0.695,8:20
+1,1:56,NY,Immanuel Quickley,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,22,23,0.665,0.628,2:05
+1,27.1,ATL,John Collins,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,25,26,0.553,0.595,43.1
+1,10.8,NY,Jericho Sims,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,25,28,0.606,0.564,27.1
+2,11:43,ATL,Danilo Gallinari,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,27,28,0.569,0.587,11:43
+2,9:56,ATL,Lou Williams,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,30,34,0.469,0.524,9:56
+2,4:54,NY,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,34,43,0.337,0.337,5:11
+2,4:50,NY,Alec Burks,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,34,43,0.381,0.337,4:54
+2,2:35,ATL,Solomon Hill,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,41,49,0.27,0.316,2:44
+2,2:24,NY,Mitchell Robinson,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,41,51,0.329,0.284,2:35
+2,6.9,ATL,John Collins,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,50,51,0.484,0.538,29.3
+3,9:21,NY,Mitchell Robinson,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,57,56,0.684,0.634,9:41
+3,8:41,ATL,Kevin Huerter,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,61,56,0.682,0.732,8:54
+3,8:31,NY,Alec Burks,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,61,58,0.699,0.702,8:41
+3,7:57,NY,Mitchell Robinson,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,61,60,0.629,0.63,8:06
+3,7:18,ATL,John Collins,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,61,62,0.483,0.553,7:18
+3,6:36,NY,Mitchell Robinson,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,61,64,0.53,0.473,6:55
+3,6:34,NY,Julius Randle,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,61,64,0.53,0.53,6:36
+3,5:20,NY,Julius Randle,Technical Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,62,69,0.327,0.297,5:22
+3,3:50,NY,Evan Fournier,Personal Take Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,67,71,0.472,0.406,3:50
+3,3:15,NY,Alec Burks,Offensive Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,69,71,0.488,0.445,3:24
+3,2:06,ATL,Timothe Luwawu-Cabarrot,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,71,74,0.325,0.392,2:27
+3,1:39,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,74,77,0.32,0.388,1:52
+4,11:30,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,76,85,0.119,0.128,11:40
+4,10:26,NY,Quentin Grimes,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,76,88,0.075,0.071,10:36
+4,9:51,ATL,Delon Wright,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,76,88,0.045,0.05,9:59
+4,7:26,ATL,John Collins,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,78,90,0.016,0.03,7:38
+4,6:36,ATL,Kevin Huerter,Personal Take Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,80,92,0.012,0.023,6:36
+4,6:20,NY,Immanuel Quickley,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,80,92,0.055,0.03,6:24
+4,3:11,ATL,Clint Capela,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,86,95,0.021,0.021,3:11
+4,3:00,NY,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,86,97,0.016,0.013,3:11
+4,1:28,ATL,Lou Williams,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,86,97,0.001,0.002,1:41
+4,31.8,ATL,Trae Young,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Jenna Reneau,ATL,88,97,0.001,0.002,52.1

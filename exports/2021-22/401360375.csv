@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:12,DET,Killian Hayes,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,0,2,0.89,0.875,11:12
+1,10:46,DET,Hamidou Diallo,Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,3,2,0.909,0.91,10:53
+1,10:03,MIL,Bobby Portis,Loose Ball Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,6,4,0.906,0.906,10:03
+1,8:37,DET,Hamidou Diallo,Loose Ball Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,8,6,0.909,0.91,8:37
+1,4:37,MIL,Wesley Matthews,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,15,16,0.853,0.846,4:40
+1,2:46,MIL,MIL,Technical Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,19,22,0.786,0.818,2:46
+1,2:30,DET,Luka Garza,Defensive 3-Seconds Technical,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,19,23,0.794,0.781,2:46
+1,33.5,DET,Luka Garza,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,27,28,0.847,0.818,33.5
+2,10:06,MIL,Khris Middleton,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,35,32,0.865,0.865,10:06
+2,9:52,DET,Josh Jackson,Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,35,33,0.865,0.866,10:06
+2,9:25,DET,Luka Garza,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,37,35,0.855,0.848,9:25
+2,8:51,DET,Josh Jackson,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,38,37,0.866,0.846,9:10
+2,7:36,DET,Killian Hayes,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,38,43,0.696,0.686,7:56
+2,6:31,DET,Cade Cunningham,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,42,48,0.711,0.672,6:41
+2,47.1,MIL,Bobby Portis,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,61,58,0.814,0.836,47.1
+3,4:27,DET,Trey Lyles,Personal Take Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,78,79,0.642,0.661,4:27
+3,2:18,MIL,DeMarcus Cousins,Double Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,80,79,0.677,0.68,2:18
+3,33.3,DET,Luka Garza,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,80,87,0.401,0.327,47.1
+4,10:32,DET,Luka Garza,Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,88,90,0.559,0.54,10:36
+4,10:21,DET,Josh Jackson,Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,88,90,0.519,0.547,10:21
+4,6:38,MIL,George Hill,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,92,99,0.15,0.197,6:38
+4,6:29,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,92,100,0.163,0.153,6:38
+4,6:12,MIL,Jrue Holiday,Technical Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,94,100,0.154,0.24,6:16
+4,5:52,DET,Trey Lyles,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,94,104,0.129,0.081,6:04
+4,3:57,MIL,Jrue Holiday,Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,97,106,0.043,0.049,4:05
+4,3:03,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,97,108,0.041,0.021,3:13
+4,2:00,DET,Justin Robinson,Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,98,111,0.007,0.002,2:02
+4,1:33,DET,Trey Lyles,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,99,111,0.001,0.002,1:38
+4,1:23,MIL,Pat Connaughton,Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,101,111,0.001,0.006,1:33
+4,1:00,DET,Trey Lyles,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,101,111,0.019,0.006,1:05
+4,53.1,MIL,Khris Middleton,Personal Take Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,103,111,0.002,0.01,1:00
+4,19.2,MIL,Bobby Portis,Personal Take Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,106,113,0.001,0.004,19.2
+4,9.1,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Pat Fraher,Bennie Adams,Pat O'Connell,MIL,106,114,0.001,0.001,12.9

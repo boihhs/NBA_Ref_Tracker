@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:27,DAL,Willie Cauley-Stein,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,0,0,0.723,0.69,11:35
+1,11:16,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,2,0,0.718,0.713,11:27
+1,9:16,LAC,Eric Bledsoe,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,6,3,0.728,0.728,9:27
+1,8:09,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,11,3,0.832,0.834,8:13
+1,6:55,LAC,Reggie Jackson,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,11,5,0.753,0.78,7:02
+1,6:29,DAL,Luka Doncic,Personal Take Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,11,7,0.76,0.762,6:29
+1,6:23,DAL,Dwight Powell,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,11,7,0.761,0.76,6:29
+1,4:38,LAC,Terance Mann,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,18,9,0.83,0.831,4:49
+1,4:23,DAL,Dwight Powell,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,18,9,0.867,0.846,4:28
+1,4:11,LAC,Luke Kennard,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,20,9,0.837,0.86,4:23
+1,2:04,LAC,Luke Kennard,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,22,15,0.762,0.793,2:12
+1,1:34,DAL,Maxi Kleber,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,22,17,0.803,0.771,1:37
+1,1:21,DAL,Luka Doncic,Technical Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,24,19,0.761,0.771,1:21
+1,1:01,DAL,Kristaps Porzingis,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,25,19,0.821,0.792,1:21
+1,53.5,LAC,Terance Mann,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,26,19,0.76,0.792,59.6
+2,11:37,LAC,Terance Mann,Loose Ball Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,26,21,0.749,0.749,11:37
+2,10:50,DAL,Trey Burke,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,26,21,0.801,0.772,10:58
+2,10:40,LAC,Serge Ibaka,Defensive 3-Seconds Technical,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,27,21,0.776,0.77,10:50
+2,10:30,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,27,22,0.712,0.748,10:40
+2,8:24,LAC,Marcus Morris Sr.,Offensive Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,32,24,0.809,0.829,8:33
+2,7:12,LAC,Eric Bledsoe,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,32,28,0.718,0.718,7:17
+2,6:27,DAL,Luka Doncic,Offensive Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,35,28,0.81,0.789,6:50
+2,4:01,LAC,Luke Kennard,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,37,32,0.699,0.739,4:06
+2,3:43,DAL,Maxi Kleber,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,39,33,0.775,0.764,3:43
+2,3:25,LAC,Ivica Zubac,Loose Ball Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,39,33,0.763,0.763,3:25
+2,1:31,LAC,Eric Bledsoe,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,43,35,0.775,0.812,1:44
+2,1:14,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,45,37,0.847,0.813,1:14
+2,10.6,LAC,Amir Coffey,Away from Play Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,48,40,0.776,0.814,30.9
+2,9.9,LAC,Paul George,Loose Ball Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,48,41,0.749,0.813,10.6
+3,11:14,DAL,Luka Doncic,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,48,44,0.776,0.738,11:27
+3,10:30,DAL,Willie Cauley-Stein,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,52,46,0.826,0.792,10:40
+3,9:55,LAC,Paul George,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,54,49,0.736,0.734,9:56
+3,9:25,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,54,51,0.747,0.705,9:47
+3,7:39,LAC,LAC,Delay Technical,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,58,57,0.606,0.595,7:39
+3,7:12,DAL,Willie Cauley-Stein,Defensive 3-Seconds Technical,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,58,60,0.505,0.518,7:24
+3,6:31,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,61,62,0.584,0.511,6:31
+3,3:57,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,67,65,0.722,0.666,4:05
+3,2:35,LAC,Terance Mann,Flagrant Foul Type 1,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,70,70,0.533,0.582,2:57
+3,1:49,LAC,Terance Mann,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,70,70,0.494,0.532,2:07
+3,1:33,DAL,Trey Burke,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,72,73,0.505,0.48,1:33
+3,28.4,DAL,Maxi Kleber,Personal Take Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,74,75,0.598,0.526,30.5
+4,10:54,DAL,Maxi Kleber,Loose Ball Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,78,80,0.462,0.462,10:54
+4,9:28,LAC,Eric Bledsoe,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,80,82,0.388,0.405,9:37
+4,8:44,LAC,Luke Kennard,Offensive Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,83,84,0.447,0.508,8:58
+4,8:36,LAC,Isaiah Hartenstein,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,83,84,0.431,0.447,8:44
+4,5:42,DAL,Willie Cauley-Stein,Shooting Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,87,91,0.397,0.291,6:04
+4,42.7,LAC,Paul George,Personal Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,97,102,0.017,0.066,59.1
+4,10.1,DAL,Tim Hardaway Jr.,Personal Take Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,97,102,0.131,0.042,14.4
+4,1.9,LAC,Paul George,Personal Take Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,100,102,0.011,0.066,4.2
+5,1:42,LAC,Terance Mann,Loose Ball Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,103,110,0.029,0.052,1:42
+5,1:42,DAL,Kristaps Porzingis,Technical Foul,Foul,Kane Fitzgerald,Scott Twardoski,Natalie Sago,LAC,103,110,0.069,0.046,1:42

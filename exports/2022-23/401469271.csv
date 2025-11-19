@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:23,SA,Devin Vassell,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,2,4,0.936,0.925,10:23
+1,2:46,SA,Doug McDermott,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,22,23,0.905,0.907,3:03
+1,29.1,SA,Tre Jones,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,29,29,0.91,0.892,29.1
+2,11:14,SA,Sandro Mamukelashvili,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,30,35,0.828,0.828,11:14
+2,10:00,SA,Dominick Barlow,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,32,38,0.811,0.774,10:00
+2,8:36,SA,Devonte' Graham,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,34,40,0.811,0.782,8:43
+2,8:09,SA,Dominick Barlow,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,36,40,0.84,0.818,8:24
+2,7:43,SA,Tre Jones,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,37,40,0.853,0.829,7:48
+2,6:21,BOS,Marcus Smart,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,43,40,0.892,0.892,6:22
+2,6:01,BOS,Jaylen Brown,Flagrant Foul Type 1,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,43,40,0.894,0.902,6:03
+2,6:01,BOS,Grant Williams,Away from Play Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,43,41,0.878,0.878,6:01
+2,5:44,SA,Devin Vassell,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,43,45,0.855,0.831,5:59
+2,5:26,BOS,Malcolm Brogdon,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,45,47,0.79,0.826,5:26
+2,4:16,SA,Doug McDermott,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,52,47,0.931,0.917,4:17
+2,3:49,BOS,Marcus Smart,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,56,47,0.93,0.943,3:57
+2,2:48,SA,Devonte' Graham,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,58,51,0.944,0.933,2:50
+2,1:48,BOS,Robert Williams III,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,63,53,0.934,0.947,1:54
+2,45.1,BOS,Marcus Smart,Offensive Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,66,58,0.928,0.935,52.0
+3,10:57,SA,Devin Vassell,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,68,60,0.946,0.934,11:17
+3,9:22,BOS,Sam Hauser,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,72,64,0.918,0.919,9:30
+3,8:27,SA,Malaki Branham,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,72,66,0.922,0.904,8:31
+3,4:54,BOS,Sam Hauser,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,86,68,0.988,0.988,4:59
+3,4:19,BOS,Sam Hauser,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,86,72,0.966,0.977,4:19
+3,4:12,BOS,Al Horford,Offensive Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,86,72,0.972,0.977,4:19
+3,3:47,SA,Devonte' Graham,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,86,72,0.977,0.977,3:51
+3,3:05,BOS,Marcus Smart,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,86,72,0.961,0.972,3:12
+3,2:58,BOS,Marcus Smart,Technical Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,86,73,0.959,0.972,3:01
+3,1:14,BOS,Marcus Smart,Technical Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,92,76,0.981,0.988,1:14
+4,7:58,SA,Julian Champagnie,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,111,81,0.999,0.999,8:03
+4,7:01,BOS,Malcolm Brogdon,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,114,83,0.999,0.999,7:22
+4,6:34,BOS,Grant Williams,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,116,83,0.999,0.999,6:45
+4,5:37,BOS,Luke Kornet,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,116,85,0.999,0.999,5:50
+4,5:05,BOS,JD Davison,Personal Take Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,119,86,0.999,0.999,5:13
+4,1:58,BOS,JD Davison,Personal Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,131,88,0.999,0.999,2:13
+4,48.1,BOS,Mike Muscala,Shooting Foul,Foul,John Goble,Jason Goldenberg,Lauren Holtkamp,BOS,137,92,0.999,0.999,48.1

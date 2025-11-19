@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:30,HOU,KJ Martin,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,2,6,0.147,0.173,10:30
+1,9:01,DEN,Jamal Murray,Loose Ball Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,6,9,0.192,0.192,9:01
+1,6:57,HOU,KJ Martin,Personal Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,10,13,0.184,0.182,7:14
+1,6:21,DEN,Bruce Brown,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,12,13,0.269,0.239,6:25
+1,3:49,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,18,17,0.312,0.295,3:49
+1,1:08,DEN,Peyton Watson,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,27,28,0.281,0.241,1:08
+2,9:11,HOU,Josh Christopher,Personal Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,31,36,0.176,0.176,9:21
+2,7:43,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,35,43,0.158,0.129,7:43
+2,7:02,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,36,45,0.155,0.13,7:19
+2,6:46,HOU,KJ Martin,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,37,45,0.109,0.131,6:47
+2,4:47,DEN,Reggie Jackson,Personal Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,45,51,0.187,0.187,5:03
+2,1:57,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,49,57,0.182,0.151,1:58
+2,1:52,HOU,Tari Eason,Personal Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,50,57,0.126,0.15,1:55
+2,1:32,DEN,Michael Porter Jr.,Personal Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,50,57,0.206,0.171,1:40
+3,11:10,HOU,Alperen Sengun,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,56,59,0.208,0.246,11:16
+3,11:02,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,56,60,0.293,0.248,11:10
+3,5:51,HOU,Kevin Porter Jr.,Personal Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,71,67,0.529,0.526,6:06
+3,5:40,HOU,Kevin Porter Jr.,Personal Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,71,67,0.533,0.529,5:51
+3,5:31,HOU,Alperen Sengun,Personal Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,71,67,0.469,0.533,5:40
+3,5:31,HOU,Jalen Green,Technical Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,71,67,0.499,0.469,5:31
+3,5:17,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,71,71,0.409,0.41,5:25
+3,4:52,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,73,71,0.529,0.455,4:52
+3,4:26,HOU,Alperen Sengun,Loose Ball Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,74,71,0.435,0.499,4:26
+3,2:30,DEN,Reggie Jackson,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,80,81,0.417,0.34,2:30
+3,2:11,HOU,Jabari Smith Jr.,Personal Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,81,81,0.321,0.386,2:30
+3,1:02,HOU,Kevin Porter Jr.,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,83,83,0.325,0.394,1:13
+3,26.1,DEN,Jeff Green,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,85,84,0.531,0.442,26.1
+3,9.0,HOU,Usman Garuba,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,86,84,0.422,0.492,26.1
+4,10:24,DEN,Jeff Green,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,90,87,0.708,0.621,10:35
+4,10:11,HOU,Usman Garuba,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,92,87,0.584,0.674,10:24
+4,8:35,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,94,89,0.826,0.746,8:37
+4,5:52,DEN,Bruce Brown,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,104,92,0.989,0.978,6:01
+4,4:23,DEN,Reggie Jackson,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,112,94,0.999,0.999,4:23
+4,3:09,HOU,Alperen Sengun,Shooting Foul,Foul,James Williams,Eric Dalen,Dannica Mosher,HOU,114,96,0.999,0.999,3:10

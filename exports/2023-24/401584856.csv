@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:34,BOS,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,15,7,0.726,0.759,5:42
+1,3:46,MIL,Damian Lillard,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,21,10,0.858,0.835,4:08
+1,2:19,BOS,Jayson Tatum,Personal Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,24,10,0.868,0.867,2:39
+2,10:06,BOS,Sam Hauser,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,32,22,0.79,0.807,10:06
+2,9:55,MIL,Khris Middleton,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,32,24,0.816,0.786,10:06
+2,7:11,MIL,Bobby Portis,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,47,31,0.929,0.909,7:11
+2,5:51,MIL,Khris Middleton,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,53,33,0.963,0.952,5:51
+2,5:05,BOS,Jaylen Brown,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,56,37,0.938,0.954,5:05
+2,3:15,BOS,Sam Hauser,Personal Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,61,45,0.919,0.918,3:25
+2,3:10,MIL,Andre Jackson Jr.,Offensive Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,61,45,0.931,0.919,3:15
+2,47.1,MIL,MarJon Beauchamp,Personal Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,67,52,0.942,0.926,53.1
+2,33.0,BOS,Jrue Holiday,Personal Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,67,52,0.891,0.914,33.0
+2,24.1,BOS,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,67,52,0.892,0.891,33.0
+3,10:02,MIL,Malik Beasley,Personal Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,70,59,0.876,0.878,10:08
+3,9:55,MIL,Brook Lopez,Personal Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,70,59,0.876,0.877,9:56
+3,9:42,BOS,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,73,61,0.864,0.895,9:42
+3,9:29,MIL,Damian Lillard,Personal Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,73,62,0.878,0.878,9:42
+3,9:12,BOS,Jrue Holiday,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,75,62,0.869,0.896,9:22
+3,8:56,MIL,Khris Middleton,Personal Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,75,63,0.92,0.897,9:12
+3,8:18,BOS,Jrue Holiday,Personal Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,77,63,0.914,0.914,8:22
+3,6:54,BOS,Kristaps Porzingis,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,82,68,0.898,0.919,7:08
+3,1:09,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,90,79,0.946,0.921,1:31
+4,10:31,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,99,81,0.996,0.992,10:50
+4,8:06,MIL,Bobby Portis,Loose Ball Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,104,86,0.997,0.997,8:06
+4,6:56,BOS,Kristaps Porzingis,Offensive Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,104,88,0.992,0.995,7:01
+4,6:44,BOS,Al Horford,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,104,88,0.986,0.992,6:56
+4,6:16,BOS,Jayson Tatum,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,104,90,0.979,0.986,6:16
+4,4:57,MIL,Brook Lopez,Transition Take Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,108,93,0.996,0.996,4:57
+4,1:54,BOS,Kristaps Porzingis,Technical Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,112,102,0.981,0.987,1:55
+4,1:13,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,114,108,0.985,0.958,1:20
+4,21.0,MIL,Khris Middleton,Shooting Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,114,111,0.957,0.871,44.0
+4,18.0,BOS,Derrick White,Personal Take Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,115,111,0.741,0.886,20.1
+4,11.1,MIL,Brook Lopez,Personal Take Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,115,111,0.987,0.958,11.1
+4,3.1,MIL,Giannis Antetokounmpo,Personal Take Foul,Foul,Matt Boland,Brent Barnaky,Marc Davis,BOS,117,113,0.996,0.973,7.0

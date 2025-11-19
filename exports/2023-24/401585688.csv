@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:59,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,6,9,0.072,0.072,8:07
+1,7:12,ATL,Vit Krejci,Personal Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,11,9,0.11,0.108,7:25
+1,5:04,ATL,Vit Krejci,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,11,15,0.062,0.074,5:04
+1,4:13,ATL,Bruno Fernando,Defensive 3-Seconds Technical,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,13,18,0.064,0.061,4:25
+1,3:24,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,17,23,0.07,0.058,3:24
+1,30.1,ATL,Dejounte Murray,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,26,25,0.117,0.135,37.1
+2,10:44,ATL,Bruno Fernando,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,32,29,0.156,0.177,10:59
+2,8:42,ATL,Wesley Matthews,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,36,38,0.101,0.116,8:58
+2,7:30,BOS,Payton Pritchard,Personal Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,36,40,0.111,0.099,7:38
+2,7:12,BOS,Jayson Tatum,Offensive Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,36,40,0.113,0.1,7:17
+2,4:55,ATL,Trae Young,Technical Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,47,44,0.218,0.233,4:58
+2,2:56,ATL,Bogdan Bogdanovic,Defensive 3-Seconds Technical,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,51,53,0.154,0.146,3:18
+2,2:56,ATL,Bogdan Bogdanovic,Technical Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,51,53,0.137,0.154,2:56
+2,1:45,ATL,Vit Krejci,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,53,60,0.076,0.095,1:45
+3,10:27,ATL,Vit Krejci,Loose Ball Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,63,65,0.177,0.176,10:27
+3,8:52,BOS,Derrick White,Offensive Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,69,68,0.296,0.264,9:08
+3,8:12,ATL,Clint Capela,Personal Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,69,68,0.273,0.273,8:14
+3,7:48,BOS,Kristaps Porzingis,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,69,68,0.364,0.306,8:04
+3,7:39,ATL,Clint Capela,Personal Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,71,68,0.345,0.343,7:48
+3,6:51,ATL,Bogdan Bogdanovic,Loose Ball Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,71,73,0.165,0.2,6:51
+3,4:33,BOS,Kristaps Porzingis,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,77,78,0.335,0.279,4:45
+3,2:41,ATL,Bruno Fernando,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,82,82,0.244,0.295,3:01
+3,2:38,BOS,Derrick White,Transition Take Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,82,83,0.299,0.298,2:41
+3,1:54,BOS,Kristaps Porzingis,Offensive Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,84,83,0.394,0.344,2:08
+4,11:11,ATL,Wesley Matthews,Personal Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,91,90,0.366,0.376,11:21
+4,9:06,BOS,Sam Hauser,Personal Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,93,93,0.423,0.402,9:20
+4,8:31,ATL,Bruno Fernando,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,95,95,0.308,0.421,8:31
+4,6:29,ATL,Vit Krejci,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,99,98,0.326,0.437,6:42
+4,3:57,BOS,Jrue Holiday,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,104,102,0.744,0.619,4:16
+4,1:15,BOS,Jayson Tatum,Personal Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,109,110,0.616,0.486,1:20
+4,1:01,BOS,Jayson Tatum,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,109,110,0.623,0.459,1:15
+4,6.1,ATL,Wesley Matthews,Personal Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,112,112,0.158,0.484,26.1
+5,3:44,ATL,Dejounte Murray,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,116,114,0.553,0.691,3:44
+5,2:35,ATL,Dejounte Murray,Technical Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,118,115,0.652,0.717,2:35
+5,1:44,ATL,Vit Krejci,Shooting Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,121,119,0.467,0.64,2:00
+5,41.1,BOS,Derrick White,Personal Foul,Foul,Ed Malloy,Ray Acosta,Dannica Mosher,ATL,121,120,0.812,0.628,59.1

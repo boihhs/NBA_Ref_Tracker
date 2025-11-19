@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,BKN,Seth Curry,Personal Take Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,2,2,0.849,0.849,10:51
+1,7:53,BKN,Bruce Brown,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,14,10,0.875,0.883,8:00
+1,7:36,POR,Justise Winslow,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,14,12,0.888,0.874,7:53
+1,3:39,BKN,Patty Mills,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,25,22,0.845,0.856,3:39
+1,1:33,POR,Kris Dunn,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,31,26,0.894,0.874,1:33
+1,1:01,POR,Ben McLemore,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,32,26,0.912,0.896,1:13
+1,5.2,BKN,Bruce Brown,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,34,32,0.81,0.84,5.2
+2,11:35,POR,Ben McLemore,Personal Take Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,34,36,0.763,0.764,11:50
+2,10:07,POR,CJ Elleby,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,38,38,0.807,0.772,10:07
+2,8:55,BKN,Goran Dragic,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,38,41,0.652,0.697,9:12
+2,8:48,POR,Brandon Williams,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,40,41,0.78,0.743,8:48
+2,7:11,POR,Trendon Watford,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,45,48,0.721,0.676,7:11
+2,6:40,POR,Josh Hart,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,46,50,0.711,0.676,7:00
+2,5:31,BKN,Seth Curry,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,50,54,0.606,0.661,5:31
+2,4:21,BKN,Kevin Durant,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,52,58,0.526,0.586,4:21
+2,2:53,POR,Kris Dunn,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,55,63,0.551,0.501,3:13
+2,1:02,BKN,Kevin Durant,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,61,68,0.418,0.47,1:14
+2,44.6,POR,Kris Dunn,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,61,70,0.484,0.43,53.1
+3,11:06,POR,Justise Winslow,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,64,80,0.172,0.174,11:19
+3,10:20,POR,Drew Eubanks,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,64,82,0.114,0.116,10:20
+3,10:20,BKN,Andre Drummond,Technical Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,64,82,0.083,0.114,10:20
+3,8:31,POR,Brandon Williams,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,72,85,0.269,0.22,8:36
+3,7:35,BKN,Kevin Durant,Offensive Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,76,85,0.306,0.347,7:40
+3,7:22,BKN,Andre Drummond,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,76,87,0.208,0.265,7:22
+3,6:51,Unknown,Unknown,Technical Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,76,89,0.142,0.191,6:54
+3,6:25,BKN,Seth Curry,Loose Ball Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,78,90,0.185,0.183,6:25
+3,6:21,POR,CJ Elleby,Offensive Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,78,90,0.213,0.185,6:25
+3,5:18,BKN,Bruce Brown,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,83,90,0.346,0.348,5:33
+3,4:54,POR,Kris Dunn,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,83,90,0.446,0.383,5:01
+3,4:32,POR,CJ Elleby,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,85,90,0.529,0.464,4:37
+3,4:23,BKN,Nic Claxton,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,87,90,0.438,0.504,4:32
+3,4:16,BKN,Goran Dragic,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,87,90,0.436,0.438,4:23
+3,3:54,BKN,Bruce Brown,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,89,92,0.43,0.498,4:00
+3,3:15,POR,Kris Dunn,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,93,94,0.65,0.574,3:15
+3,2:19,POR,Trendon Watford,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,96,94,0.758,0.732,2:19
+3,1:38,POR,Ben McLemore,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,97,96,0.747,0.693,1:55
+3,1:19,BKN,Nic Claxton,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,99,98,0.613,0.69,1:19
+3,1:09,POR,Josh Hart,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,99,99,0.708,0.643,1:19
+4,10:41,BKN,Seth Curry,Personal Take Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,101,101,0.557,0.575,10:41
+4,9:21,BKN,Nic Claxton,Loose Ball Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,103,101,0.641,0.658,9:21
+4,9:07,POR,Trendon Watford,Offensive Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,103,101,0.702,0.641,9:21
+4,8:13,POR,Trendon Watford,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,106,101,0.862,0.83,8:13
+4,7:38,BKN,James Johnson,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,111,101,0.899,0.94,7:40
+4,6:22,BKN,Goran Dragic,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,113,105,0.849,0.904,6:22
+4,4:11,POR,Drew Eubanks,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,117,111,0.938,0.888,4:29
+4,2:06,BKN,Kevin Durant,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,122,114,0.912,0.95,2:21
+4,45.2,BKN,Goran Dragic,Shooting Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,122,117,0.768,0.875,48.3
+4,13.4,POR,Josh Hart,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,124,121,0.966,0.882,14.5
+4,12.3,POR,Josh Hart,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,124,121,0.968,0.966,13.4
+4,0.6,POR,Trendon Watford,Personal Foul,Foul,James Williams,Jacyn Goble,Ashley Moyer-Gleich,BKN,126,123,0.998,0.965,4.4

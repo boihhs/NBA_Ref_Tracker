@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:59,BKN,Blake Griffin,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,9,6,0.592,0.579,8:59
+1,8:03,CHI,Lonzo Ball,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,13,6,0.643,0.679,8:10
+1,6:38,CHI,Javonte Green,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,16,14,0.515,0.554,6:52
+1,5:55,CHI,Nikola Vucevic,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,20,16,0.568,0.607,6:05
+1,1:37,CHI,Derrick Jones Jr.,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,30,25,0.597,0.638,1:45
+2,5:08,CHI,Tony Bradley,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,41,42,0.46,0.498,5:08
+2,4:20,BKN,Bruce Brown,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,45,43,0.592,0.589,4:24
+2,3:39,CHI,Lonzo Ball,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,45,43,0.56,0.559,3:39
+2,2:56,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,45,45,0.576,0.529,2:57
+2,30.5,BKN,Kevin Durant,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,47,55,0.307,0.262,39.4
+2,3.8,BKN,Joe Harris,Personal Take Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,49,57,0.304,0.257,6.7
+3,10:52,CHI,Javonte Green,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,51,57,0.237,0.279,11:06
+3,7:21,CHI,DeMar DeRozan,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,62,61,0.525,0.525,7:22
+3,7:05,CHI,Javonte Green,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,62,61,0.525,0.525,7:15
+3,4:55,CHI,DeMar DeRozan,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,64,64,0.42,0.483,4:55
+3,2:59,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,70,71,0.37,0.436,3:06
+3,1:36,CHI,Tony Bradley,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,72,76,0.269,0.347,1:36
+3,1:27,BKN,DeAndre' Bembry,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,72,76,0.412,0.346,1:32
+3,14.0,BKN,Patty Mills,Loose Ball Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,74,78,0.408,0.338,25.2
+4,11:41,CHI,Tony Bradley,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,76,78,0.293,0.402,12:00
+4,10:36,CHI,Ayo Dosunmu,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,80,80,0.451,0.469,10:48
+4,10:02,BKN,DeAndre' Bembry,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,80,80,0.57,0.517,10:02
+4,9:41,BKN,Joe Harris,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,83,80,0.683,0.627,9:41
+4,9:15,BKN,DeAndre' Bembry,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,84,80,0.756,0.74,9:15
+4,9:10,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,84,80,0.818,0.756,9:15
+4,8:51,BKN,James Harden,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,85,80,0.854,0.802,8:53
+4,7:08,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,92,82,0.891,0.933,7:24
+4,5:42,BKN,Joe Harris,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,95,86,0.969,0.948,5:52
+4,4:10,BKN,Bruce Brown,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,102,91,0.993,0.984,4:27
+4,2:44,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,110,91,0.999,0.999,2:46
+4,2:05,CHI,DeMar DeRozan,Personal Take Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,112,91,0.999,0.999,2:05
+4,1:45,CHI,Alex Caruso,Personal Foul,Foul,Tre Maddox,Brett Nansel,J.B. DeRosa,CHI,112,91,0.999,0.999,2:05

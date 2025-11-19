@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:45,BOS,Jayson Tatum,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,11,5,0.644,0.647,8:45
+1,7:11,BOS,Jaylen Brown,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,13,7,0.649,0.648,7:24
+1,5:48,BOS,Xavier Tillman,Shooting Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,21,9,0.801,0.765,5:48
+1,5:05,DAL,Luka Doncic,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,22,12,0.725,0.724,5:14
+1,4:34,DAL,Kyrie Irving,Shooting Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,25,12,0.759,0.79,4:48
+1,2:35,DAL,Dereck Lively II,Defensive 3-Seconds Technical,Foul,James Capers,Marc Davis,Kevin Scott,DAL,25,19,0.639,0.632,2:52
+1,1:46,DAL,Dante Exum,Shooting Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,27,23,0.538,0.58,2:01
+1,1:02,BOS,Sam Hauser,Shooting Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,29,25,0.648,0.609,1:12
+2,9:37,BOS,Derrick White,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,31,32,0.467,0.471,9:52
+2,7:17,DAL,Daniel Gafford,Loose Ball Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,33,35,0.407,0.408,7:17
+2,7:04,BOS,Xavier Tillman,Offensive Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,33,35,0.437,0.407,7:17
+2,4:26,BOS,Payton Pritchard,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,38,40,0.435,0.437,4:36
+2,2:29,BOS,Jrue Holiday,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,46,45,0.534,0.538,2:39
+2,49.0,BOS,Jaylen Brown,Loose Ball Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,50,48,0.625,0.574,49.0
+2,9.1,BOS,Jrue Holiday,Shooting Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,50,50,0.557,0.505,12.0
+3,10:06,BOS,Derrick White,Shooting Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,55,56,0.526,0.468,10:30
+3,8:25,BOS,Jayson Tatum,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,59,64,0.322,0.322,8:44
+3,8:16,DAL,Luka Doncic,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,59,64,0.29,0.287,8:16
+3,6:34,DAL,P.J. Washington,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,61,69,0.189,0.189,6:38
+3,4:22,DAL,Kyrie Irving,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,65,71,0.234,0.235,4:30
+3,3:24,DAL,Daniel Gafford,Shooting Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,65,71,0.182,0.229,3:31
+3,1:44,DAL,Josh Green,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,67,78,0.061,0.085,1:49
+3,3.1,BOS,Derrick White,Personal Take Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,70,85,0.051,0.034,7.0
+4,11:47,DAL,Luka Doncic,Offensive Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,70,85,0.023,0.03,12:00
+4,11:17,DAL,Kyrie Irving,Loose Ball Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,70,88,0.007,0.008,11:17
+4,9:44,BOS,Payton Pritchard,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,73,91,0.009,0.008,9:51
+4,9:24,DAL,Luka Doncic,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,75,91,0.01,0.011,9:34
+4,8:01,BOS,Jaylen Brown,Shooting Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,80,91,0.095,0.055,8:04
+4,6:11,BOS,Jrue Holiday,Shooting Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,87,93,0.23,0.181,6:21
+4,5:08,BOS,Derrick White,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,90,93,0.453,0.335,5:25
+4,4:38,DAL,Luka Doncic,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,90,93,0.256,0.279,4:55
+4,4:12,DAL,Luka Doncic,Personal Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,90,93,0.173,0.262,4:15
+4,3:05,DAL,P.J. Washington,Offensive Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,92,95,0.231,0.302,3:08
+4,2:32,BOS,Jrue Holiday,Shooting Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,92,98,0.19,0.119,2:48
+4,22.0,DAL,P.J. Washington,Loose Ball Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,98,102,0.025,0.066,22.0
+4,14.1,DAL,Josh Green,Personal Take Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,98,104,0.002,0.01,16.1
+4,10.1,BOS,Al Horford,Personal Take Foul,Foul,James Capers,Marc Davis,Kevin Scott,DAL,98,106,0.011,0.004,14.1

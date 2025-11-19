@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:00,WSH,Kyle Kuzma,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,2,0,0.611,0.629,11:20
+1,7:38,WSH,Raul Neto,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,8,9,0.527,0.573,7:38
+1,7:30,DET,Cade Cunningham,Personal Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,8,10,0.546,0.548,7:38
+1,7:12,DET,Isaiah Stewart,Loose Ball Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,8,10,0.545,0.546,7:12
+1,4:36,DET,Cade Cunningham,Loose Ball Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,13,13,0.591,0.591,4:36
+1,4:24,DET,Cory Joseph,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,13,13,0.63,0.591,4:36
+1,4:11,DET,Cory Joseph,Personal Take Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,15,13,0.68,0.642,4:11
+1,3:26,WSH,Raul Neto,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,16,15,0.571,0.617,3:26
+1,47.5,WSH,Rui Hachimura,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,22,22,0.512,0.558,56.7
+2,11:16,DET,Marvin Bagley III,Flagrant Foul Type 1,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,27,22,0.709,0.691,11:16
+2,9:44,DET,Killian Hayes,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,30,24,0.774,0.74,9:56
+2,8:50,DET,Rodney McGruder,Loose Ball Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,32,26,0.742,0.74,8:50
+2,8:17,DET,Kelly Olynyk,Personal Take Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,32,26,0.775,0.741,8:17
+2,6:43,DET,Rodney McGruder,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,39,28,0.861,0.832,6:43
+2,6:08,DET,Cade Cunningham,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,40,30,0.858,0.831,6:28
+2,5:55,WSH,Thomas Bryant,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,42,32,0.796,0.832,5:55
+2,3:52,WSH,Thomas Bryant,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,42,36,0.677,0.719,3:57
+2,2:29,WSH,Kentavious Caldwell-Pope,Technical Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,46,42,0.639,0.694,2:32
+2,1:36,WSH,Ish Smith,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,50,43,0.707,0.751,1:50
+3,11:39,DET,Cade Cunningham,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,50,50,0.616,0.547,12:00
+3,10:47,DET,Cory Joseph,Personal Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,54,54,0.561,0.563,10:55
+3,10:22,WSH,Raul Neto,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,54,54,0.496,0.521,10:22
+3,10:14,DET,Jerami Grant,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,54,56,0.543,0.49,10:22
+3,9:31,WSH,Thomas Bryant,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,59,56,0.605,0.631,9:31
+3,8:55,DET,Saddiq Bey,Personal Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,59,58,0.649,0.597,9:00
+3,8:19,DET,Jerami Grant,Offensive Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,61,58,0.667,0.632,8:27
+3,7:12,WSH,Thomas Bryant,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,63,60,0.575,0.633,7:24
+3,3:41,WSH,Deni Avdija,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,73,68,0.684,0.712,3:41
+3,1:20,DET,Hamidou Diallo,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,80,76,0.754,0.683,1:20
+3,38.1,WSH,Ish Smith,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,82,76,0.703,0.761,54.2
+4,11:47,WSH,Deni Avdija,Defensive 3-Seconds Technical,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,87,78,0.88,0.865,0.1
+4,10:55,DET,Hamidou Diallo,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,87,79,0.918,0.88,10:57
+4,10:42,WSH,Corey Kispert,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,88,79,0.851,0.883,10:42
+4,9:45,WSH,Anthony Gill,Shooting Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,88,80,0.794,0.857,9:51
+4,7:04,WSH,Raul Neto,Personal Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,90,85,0.747,0.765,7:04
+4,4:50,DET,Cory Joseph,Personal Foul,Foul,James Williams,Dedric Taylor,Aaron Smith,WSH,94,88,0.887,0.878,4:51

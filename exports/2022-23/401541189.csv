@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:27,PHI,Paul Reed,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,8,4,0.498,0.46,9:30
+1,5:52,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,19,8,0.599,0.635,6:04
+1,4:55,BKN,Royce O'Neale,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,19,10,0.549,0.589,5:00
+1,4:38,PHI,James Harden,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,19,12,0.606,0.567,4:55
+1,2:41,BKN,Nic Claxton,Offensive Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,20,16,0.463,0.494,2:45
+2,8:44,PHI,Tyrese Maxey,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,32,28,0.524,0.525,8:52
+2,7:58,PHI,James Harden,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,32,28,0.574,0.528,8:02
+2,5:52,PHI,P.J. Tucker,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,37,31,0.604,0.602,5:57
+2,5:25,BKN,Patty Mills,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,37,31,0.526,0.573,5:31
+2,5:11,PHI,P.J. Tucker,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,37,33,0.592,0.542,5:25
+2,4:45,BKN,Joe Harris,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,37,33,0.513,0.512,4:57
+2,4:25,PHI,Shake Milton,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,37,33,0.597,0.547,4:25
+2,3:23,PHI,Shake Milton,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,41,36,0.612,0.553,3:23
+2,1:47,PHI,Shake Milton,Loose Ball Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,44,38,0.68,0.632,1:47
+2,9.1,PHI,Tobias Harris,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,47,40,0.702,0.646,9.1
+3,10:04,PHI,Paul Reed,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,50,42,0.73,0.728,10:13
+3,9:19,PHI,Paul Reed,Loose Ball Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,53,45,0.735,0.736,9:19
+3,7:49,BKN,Cameron Johnson,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,53,48,0.546,0.602,8:03
+3,7:21,PHI,Tobias Harris,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,53,50,0.57,0.572,7:22
+3,7:15,PHI,James Harden,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,53,50,0.627,0.57,7:21
+3,5:41,BKN,Spencer Dinwiddie,Loose Ball Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,53,52,0.458,0.456,5:41
+3,40.0,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,59,65,0.161,0.219,40.0
+4,11:30,BKN,Mikal Bridges,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,65,66,0.371,0.387,11:46
+4,11:30,BKN,P.J. Tucker,Double Technical Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,65,66,0.391,0.371,11:30
+4,11:17,BKN,Joe Harris,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,65,66,0.293,0.391,11:30
+4,10:48,BKN,Joe Harris,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,65,67,0.306,0.322,10:50
+4,10:13,PHI,P.J. Tucker,Loose Ball Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,65,70,0.239,0.227,10:13
+4,7:50,PHI,P.J. Tucker,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,72,73,0.534,0.427,8:02
+4,7:30,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,72,75,0.22,0.319,7:30
+4,6:48,PHI,Tyrese Maxey,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,72,78,0.246,0.165,6:59
+4,2:59,BKN,Nic Claxton,Personal Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,76,85,0.009,0.02,3:07
+4,1:36,PHI,De'Anthony Melton,Away from Play Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,78,92,0.001,0.001,1:36
+4,1:34,PHI,Tyrese Maxey,Shooting Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,79,92,0.004,0.001,1:36
+4,10.0,BKN,Mikal Bridges,Personal Take Foul,Foul,Sean Wright,John Goble,Michael Smith,BKN,85,94,0.001,0.001,13.1

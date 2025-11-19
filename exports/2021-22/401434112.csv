@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:34,PHX,Chris Paul,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,0,3,0.537,0.536,11:49
+1,9:30,DAL,Luka Doncic,Technical Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,5,7,0.508,0.58,9:30
+1,9:19,DAL,Luka Doncic,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,7,8,0.556,0.502,9:30
+1,7:39,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,15,8,0.709,0.741,7:56
+1,7:39,PHX,Devin Booker,Technical Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,15,8,0.777,0.709,7:39
+1,7:16,DAL,Dorian Finney-Smith,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,16,10,0.687,0.72,7:19
+1,6:04,PHX,Mikal Bridges,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,19,13,0.74,0.741,6:18
+1,5:44,PHX,Chris Paul,Offensive Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,19,13,0.74,0.719,5:54
+1,2:32,PHX,Deandre Ayton,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,29,18,0.861,0.839,2:40
+1,2:19,DAL,Dorian Finney-Smith,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,31,20,0.807,0.84,2:19
+1,1:43,PHX,JaVale McGee,Loose Ball Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,31,21,0.846,0.822,1:43
+1,36.6,DAL,Frank Ntilikina,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,34,23,0.794,0.822,38.9
+2,8:53,DAL,Maxi Kleber,Offensive Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,46,32,0.881,0.894,9:05
+2,7:31,PHX,Cameron Johnson,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,51,37,0.896,0.883,7:43
+2,6:56,DAL,Dwight Powell,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,51,37,0.884,0.884,7:01
+2,5:29,DAL,Dwight Powell,Loose Ball Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,51,42,0.795,0.796,5:29
+2,5:29,DAL,Dwight Powell,Technical Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,51,42,0.778,0.795,5:29
+2,4:36,DAL,Maxi Kleber,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,54,45,0.78,0.819,4:36
+2,4:15,DAL,Reggie Bullock Jr.,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,54,46,0.736,0.774,4:22
+2,2:21,PHX,Mikal Bridges,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,59,52,0.812,0.779,2:31
+2,1:52,PHX,Chris Paul,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,61,52,0.856,0.823,2:07
+2,1:38,PHX,Jae Crowder,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,61,52,0.857,0.825,1:38
+2,45.7,PHX,Mikal Bridges,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,63,54,0.859,0.827,45.7
+2,25.6,PHX,Jae Crowder,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,65,56,0.86,0.827,34.0
+2,1.1,PHX,Chris Paul,Loose Ball Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,66,56,0.878,0.853,1.1
+3,11:45,PHX,Jae Crowder,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,68,56,0.911,0.875,12:00
+3,11:31,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,68,56,0.842,0.872,11:43
+3,10:23,DAL,Luka Doncic,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,68,58,0.799,0.835,10:25
+3,9:49,DAL,Maxi Kleber,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,68,59,0.775,0.814,9:57
+3,9:32,PHX,Chris Paul,Offensive Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,68,61,0.791,0.762,9:33
+3,8:24,PHX,Mikal Bridges,Loose Ball Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,68,63,0.734,0.736,8:24
+3,6:17,PHX,Cameron Payne,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,75,65,0.874,0.876,6:17
+3,5:59,PHX,Jae Crowder,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,75,65,0.904,0.874,6:17
+3,1:57,DAL,Spencer Dinwiddie,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,82,76,0.7,0.758,2:02
+3,1:17,DAL,Frank Ntilikina,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,82,76,0.702,0.76,1:28
+4,11:46,PHX,JaVale McGee,Loose Ball Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,87,78,0.903,0.898,11:46
+4,11:18,DAL,Frank Ntilikina,Offensive Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,87,78,0.878,0.903,11:26
+4,10:52,PHX,JaVale McGee,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,87,78,0.913,0.906,11:04
+4,10:28,PHX,Devin Booker,Offensive Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,87,78,0.913,0.888,10:35
+4,8:58,PHX,Chris Paul,Loose Ball Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,89,81,0.908,0.902,8:58
+4,8:37,DAL,Luka Doncic,Personal Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,89,81,0.872,0.881,8:41
+4,5:28,PHX,Devin Booker,Shooting Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,97,86,0.988,0.977,5:47
+4,4:33,DAL,Jalen Brunson,Loose Ball Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,101,88,0.988,0.99,4:33
+4,2:38,PHX,Devin Booker,Offensive Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,107,95,0.997,0.993,2:52
+4,1:07,DAL,Reggie Bullock Jr.,Personal Take Foul,Foul,James Williams,Curtis Blair,Kane Fitzgerald,DAL,111,97,0.999,0.999,1:08

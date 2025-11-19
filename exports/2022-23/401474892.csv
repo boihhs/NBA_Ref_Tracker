@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:06,ATL,Dejounte Murray,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,2,2,0.51,0.51,10:23
+1,9:04,CLE,Lamar Stevens,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,6,5,0.493,0.511,9:04
+1,7:36,ATL,Clint Capela,Loose Ball Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,6,10,0.407,0.409,7:36
+1,6:01,CLE,Lamar Stevens,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,8,10,0.434,0.431,6:09
+1,5:35,CLE,Lamar Stevens,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,10,10,0.447,0.487,5:47
+1,4:52,CLE,Donovan Mitchell,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,12,10,0.521,0.54,4:55
+1,3:16,CLE,Isaac Okoro,Offensive Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,18,16,0.542,0.569,3:36
+1,2:36,CLE,Isaac Okoro,Offensive Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,18,16,0.543,0.57,2:49
+1,2:28,CLE,Isaac Okoro,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,18,16,0.5,0.543,2:36
+1,1:26,CLE,Mamadi Diakite,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,18,22,0.354,0.4,1:26
+1,1:15,ATL,AJ Griffin,Defensive 3-Seconds Technical,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,18,23,0.367,0.377,1:26
+1,30.5,CLE,Raul Neto,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,19,23,0.333,0.372,34.8
+2,11:46,CLE,Mamadi Diakite,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,19,24,0.343,0.361,12:00
+2,9:53,ATL,Justin Holiday,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,23,26,0.426,0.426,10:01
+2,9:33,ATL,Dejounte Murray,Offensive Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,26,26,0.516,0.483,9:39
+2,7:38,ATL,De'Andre Hunter,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,33,29,0.635,0.636,7:47
+2,7:25,CLE,Cedi Osman,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,36,29,0.693,0.691,7:34
+2,7:08,ATL,Trae Young,Technical Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,39,29,0.811,0.77,7:08
+2,6:17,ATL,Trae Young,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,40,33,0.723,0.725,6:20
+2,3:46,CLE,Isaac Okoro,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,51,33,0.906,0.925,3:49
+2,3:14,CLE,Raul Neto,Offensive Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,51,35,0.902,0.916,3:20
+2,3:00,CLE,Donovan Mitchell,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,51,35,0.879,0.902,3:14
+2,2:31,CLE,Donovan Mitchell,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,51,37,0.844,0.872,2:33
+2,2:03,CLE,Lamar Stevens,Loose Ball Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,51,39,0.801,0.837,2:03
+3,10:35,CLE,Donovan Mitchell,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,57,47,0.807,0.806,10:39
+3,9:22,ATL,Clint Capela,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,59,53,0.775,0.733,9:26
+3,7:21,ATL,John Collins,Offensive Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,61,56,0.708,0.672,7:24
+3,6:50,CLE,Mamadi Diakite,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,61,56,0.617,0.673,7:04
+3,5:25,ATL,Trae Young,Transition Take Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,64,60,0.681,0.681,5:25
+3,3:39,ATL,Jalen Johnson,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,65,65,0.522,0.522,3:45
+3,3:15,CLE,Darius Garland,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,67,65,0.568,0.566,3:24
+3,2:54,ATL,Onyeka Okongwu,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,67,65,0.61,0.567,3:07
+3,2:12,ATL,AJ Griffin,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,67,65,0.678,0.611,2:30
+3,1:57,CLE,Mamadi Diakite,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,68,65,0.545,0.614,2:10
+3,1:30,CLE,Cedi Osman,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,71,68,0.545,0.614,1:39
+3,50.3,ATL,AJ Griffin,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,73,70,0.728,0.662,1:04
+3,22.1,ATL,ATL,Technical Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,74,70,0.741,0.665,22.1
+3,2.5,CLE,Mamadi Diakite,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,75,70,0.642,0.75,22.1
+4,8:00,ATL,AJ Griffin,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,85,85,0.544,0.526,8:14
+4,6:13,CLE,Cedi Osman,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,93,90,0.655,0.661,6:27
+4,6:06,CLE,Jarrett Allen,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,93,90,0.548,0.655,6:13
+4,4:23,ATL,De'Andre Hunter,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,98,92,0.896,0.888,4:23
+4,4:16,ATL,Justin Holiday,Shooting Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,100,92,0.964,0.922,4:16
+4,3:00,CLE,Isaac Okoro,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,105,92,0.994,0.995,3:11
+4,1:39,CLE,Isaac Okoro,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,105,92,0.995,0.999,1:43
+4,1:29,CLE,Mamadi Diakite,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,105,92,0.996,0.995,1:39
+4,1:07,CLE,Sharife Cooper,Personal Foul,Foul,Eric Dalen,Rodney Mott,Pat O'Connell,CLE,105,94,0.988,0.996,1:07

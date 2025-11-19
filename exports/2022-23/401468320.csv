@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:19,HOU,Alperen Sengun,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,2,6,0.756,0.76,10:33
+1,9:56,TOR,Gary Trent Jr.,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,2,6,0.703,0.734,10:03
+1,9:19,TOR,OG Anunoby,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,5,8,0.736,0.749,9:19
+1,7:42,TOR,OG Anunoby,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,14,16,0.745,0.778,7:42
+1,6:36,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,16,19,0.78,0.753,6:41
+1,5:35,TOR,Christian Koloko,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,20,21,0.75,0.784,5:35
+1,4:52,HOU,Jalen Green,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,20,22,0.761,0.761,4:57
+1,47.8,HOU,Tari Eason,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,24,35,0.535,0.492,1:01
+2,11:28,TOR,Dalano Banton,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,29,39,0.426,0.473,11:33
+2,10:52,TOR,Precious Achiuwa,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,31,41,0.465,0.468,11:08
+2,10:48,TOR,Otto Porter Jr.,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,31,41,0.466,0.465,10:52
+2,9:35,HOU,Daishen Nix,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,33,41,0.59,0.545,9:39
+2,9:07,HOU,Jabari Smith Jr.,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,34,41,0.568,0.572,9:21
+2,7:14,TOR,Christian Koloko,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,39,41,0.626,0.668,7:28
+2,6:18,TOR,Dalano Banton,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,41,43,0.616,0.659,6:19
+2,5:50,HOU,Jabari Smith Jr.,Technical Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,41,44,0.678,0.597,5:50
+2,5:15,TOR,Christian Koloko,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,42,46,0.541,0.59,5:16
+2,4:13,HOU,KJ Martin,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,42,50,0.477,0.483,4:30
+2,3:08,TOR,Gary Trent Jr.,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,47,50,0.55,0.603,3:17
+3,11:33,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,59,57,0.772,0.728,11:33
+3,11:07,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,60,57,0.813,0.778,11:13
+3,10:52,TOR,Gary Trent Jr.,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,62,57,0.802,0.8,11:07
+3,10:38,TOR,Christian Koloko,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,62,57,0.781,0.802,10:52
+3,10:07,TOR,Christian Koloko,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,62,58,0.752,0.773,10:07
+3,9:35,TOR,Gary Trent Jr.,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,62,60,0.666,0.715,9:37
+3,7:37,TOR,Fred VanVleet,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,70,62,0.83,0.862,7:46
+3,4:33,TOR,Fred VanVleet,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,78,70,0.829,0.865,4:35
+3,1:53,HOU,Kevin Porter Jr.,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,80,80,0.695,0.633,2:03
+3,47.2,TOR,Chris Boucher,Double Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,84,80,0.688,0.787,54.9
+3,9.9,HOU,KJ Martin,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,84,82,0.768,0.667,29.0
+4,11:37,TOR,Dalano Banton,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,86,82,0.737,0.746,11:46
+4,10:05,HOU,Eric Gordon,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,86,86,0.689,0.602,10:20
+4,9:01,HOU,Daishen Nix,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,87,89,0.592,0.491,9:03
+4,8:39,HOU,KJ Martin,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,89,89,0.665,0.609,8:39
+4,8:24,TOR,Chris Boucher,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,91,91,0.494,0.616,8:24
+4,7:52,TOR,Chris Boucher,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,94,92,0.546,0.655,8:04
+4,7:51,HOU,Alperen Sengun,Loose Ball Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,94,93,0.736,0.648,7:51
+4,7:45,HOU,Tari Eason,Personal Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,94,93,0.736,0.736,7:51
+4,7:34,TOR,OG Anunoby,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,96,93,0.617,0.709,7:45
+4,4:52,TOR,Scottie Barnes,Shooting Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,106,99,0.836,0.893,5:07
+4,2:30,TOR,Fred VanVleet,Offensive Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,111,105,0.895,0.924,2:52
+4,17.0,HOU,Jabari Smith Jr.,Personal Take Foul,Foul,Marc Davis,Tre Maddox,Dannica Mosher,TOR,115,109,0.997,0.989,17.0

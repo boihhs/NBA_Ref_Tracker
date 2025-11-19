@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:30,HOU,Jalen Green,Offensive Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,0,0,0.523,0.523,11:40
+1,7:29,LAL,D'Angelo Russell,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,8,15,0.285,0.322,7:30
+1,7:12,HOU,Dillon Brooks,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,10,16,0.387,0.342,7:12
+1,6:00,HOU,Alperen Sengun,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,11,18,0.378,0.341,6:08
+1,2:21,LAL,Anthony Davis,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,23,23,0.498,0.496,2:37
+1,13.1,HOU,Jae'Sean Tate,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,23,30,0.366,0.328,31.1
+2,11:02,HOU,Tari Eason,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,25,30,0.379,0.38,11:16
+2,9:15,HOU,Jabari Smith Jr.,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,27,34,0.318,0.319,9:21
+2,8:54,LAL,Austin Reaves,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,29,34,0.345,0.346,9:03
+2,7:57,HOU,Dillon Brooks,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,29,36,0.358,0.316,8:18
+2,7:57,HOU,Dillon Brooks,Technical Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,30,36,0.365,0.365,7:57
+2,6:45,HOU,Tari Eason,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,36,38,0.483,0.429,6:45
+2,3:25,HOU,Dillon Brooks,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,47,38,0.807,0.789,3:25
+2,3:10,LAL,Max Christie,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,48,38,0.791,0.791,3:22
+2,2:51,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,48,38,0.847,0.815,3:01
+2,2:51,HOU,HOU,Technical Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,50,38,0.871,0.836,2:51
+2,2:18,LAL,Max Christie,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,54,38,0.885,0.907,2:29
+2,1:02,LAL,Christian Wood,Technical Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,60,43,0.916,0.925,1:04
+2,26.2,LAL,D'Angelo Russell,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,60,44,0.893,0.915,29.1
+2,19.1,HOU,Jeff Green,Offensive Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,60,44,0.929,0.893,26.2
+3,11:08,LAL,Cam Reddish,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,62,46,0.921,0.921,11:18
+3,8:10,LAL,Anthony Davis,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,66,54,0.837,0.87,8:21
+3,4:59,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,73,58,0.918,0.938,5:00
+3,3:21,HOU,Alperen Sengun,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,76,65,0.928,0.899,3:28
+3,2:40,HOU,Aaron Holiday,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,80,65,0.961,0.961,2:40
+3,44.1,HOU,Jae'Sean Tate,Loose Ball Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,80,70,0.93,0.902,44.1
+3,7.1,HOU,Aaron Holiday,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,82,72,0.933,0.904,29.1
+4,11:47,HOU,Dillon Brooks,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,86,72,0.98,0.961,12:00
+4,11:39,HOU,Jeff Green,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,88,72,0.987,0.977,11:39
+4,11:28,LAL,Cam Reddish,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,89,72,0.982,0.983,11:39
+4,9:29,HOU,Jabari Smith Jr.,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,93,77,0.989,0.988,9:45
+4,8:59,LAL,Jaxson Hayes,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,93,77,0.985,0.986,8:59
+4,8:35,LAL,Cam Reddish,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,93,77,0.975,0.987,8:38
+4,8:35,LAL,Cam Reddish,Technical Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,93,77,0.982,0.975,8:35
+4,8:35,HOU,HOU,Double Technical Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,93,78,0.985,0.981,8:35
+4,5:55,LAL,Max Christie,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,99,82,0.991,0.995,6:10
+4,5:34,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,99,82,0.998,0.997,5:51
+4,4:46,HOU,Jabari Smith Jr.,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,100,85,0.998,0.995,5:05
+4,2:54,LAL,Jaxson Hayes,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,106,88,0.999,0.999,3:05
+4,1:50,LAL,Jaxson Hayes,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,106,93,0.997,0.998,1:50
+4,1:15,HOU,Nate Hinton,Personal Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,106,95,0.999,0.998,1:15
+4,35.0,LAL,Maxwell Lewis,Shooting Foul,Foul,Dedric Taylor,J.T. Orr,Tre Maddox,LAL,107,97,0.989,0.997,35.1

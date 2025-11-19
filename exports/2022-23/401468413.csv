@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:11,DET,Marvin Bagley III,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,2,8,0.738,0.72,10:22
+1,8:05,DET,Killian Hayes,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,8,12,0.764,0.765,8:05
+1,6:06,DEN,Nikola Jokic,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,12,14,0.769,0.79,6:19
+1,2:31,DEN,DeAndre Jordan,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,25,22,0.837,0.836,2:31
+1,1:40,DET,Alec Burks,Loose Ball Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,25,24,0.84,0.816,1:40
+2,10:14,DEN,Zeke Nnaji,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,34,32,0.799,0.818,10:19
+2,9:38,DET,Hamidou Diallo,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,34,35,0.753,0.758,10:01
+2,8:50,DEN,DeAndre Jordan,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,34,38,0.643,0.676,9:09
+2,8:22,DET,Cory Joseph,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,36,40,0.689,0.639,8:22
+2,7:56,DET,Jalen Duren,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,36,40,0.666,0.666,8:00
+2,5:21,DET,Jalen Duren,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,40,49,0.528,0.481,5:35
+2,5:14,DET,Kevin Knox II,Loose Ball Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,40,49,0.526,0.475,5:14
+2,4:44,DEN,Kentavious Caldwell-Pope,Loose Ball Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,41,49,0.465,0.464,4:44
+2,4:21,DET,Bojan Bogdanovic,Technical Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,41,49,0.523,0.497,4:21
+2,4:13,DET,Killian Hayes,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,42,49,0.582,0.532,4:21
+2,2:03,DET,Killian Hayes,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,50,53,0.684,0.639,2:03
+2,1:11,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,54,53,0.677,0.723,1:31
+2,59.7,DET,Jaden Ivey,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,54,54,0.758,0.722,1:11
+2,33.6,DEN,Kentavious Caldwell-Pope,Flagrant Foul Type 1,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,55,54,0.724,0.715,39.9
+2,7.7,DET,Isaiah Livers,Flagrant Foul Type 1,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,55,58,0.613,0.62,25.5
+3,9:37,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,61,62,0.63,0.631,9:47
+3,9:28,DEN,Jamal Murray,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,61,62,0.63,0.63,9:37
+3,9:01,DET,Marvin Bagley III,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,63,62,0.746,0.692,9:01
+3,6:03,DEN,Nikola Jokic,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,71,70,0.67,0.708,6:15
+3,5:10,DET,Jaden Ivey,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,71,73,0.646,0.587,5:18
+3,3:40,DEN,Davon Reed,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,77,75,0.663,0.729,3:40
+3,1:26,DET,Alec Burks,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,79,81,0.544,0.5,1:27
+3,1:16,DEN,Davon Reed,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,79,81,0.498,0.544,1:26
+4,10:21,DEN,DeAndre Jordan,Transition Take Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,83,89,0.251,0.251,10:21
+4,9:52,DEN,Bruce Brown,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,83,90,0.197,0.244,9:58
+4,9:29,DET,Hamidou Diallo,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,83,90,0.248,0.236,9:31
+4,9:15,DET,Jalen Duren,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,83,90,0.287,0.236,9:15
+4,7:04,DET,Kevin Knox II,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,88,99,0.073,0.067,7:09
+4,6:02,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,90,101,0.037,0.041,6:16
+4,5:38,DEN,Aaron Gordon,Offensive Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,90,101,0.033,0.036,5:50
+4,4:58,DEN,Jamal Murray,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,93,101,0.044,0.081,5:07
+4,4:48,DET,Killian Hayes,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,93,103,0.098,0.056,4:58
+4,4:35,DEN,Jamal Murray,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,95,103,0.069,0.082,4:48
+4,3:10,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,100,103,0.165,0.268,3:11
+4,2:17,DET,Jalen Duren,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,102,104,0.522,0.396,2:31
+4,1:36,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,103,104,0.238,0.367,1:39
+4,46.1,DET,Cory Joseph,Shooting Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,103,108,0.213,0.116,50.6
+4,8.2,DEN,Aaron Gordon,Personal Take Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,107,108,0.099,0.294,13.2
+4,2.2,DET,Cory Joseph,Personal Foul,Foul,James Williams,Lauren Holtkamp,Nate Green,DEN,107,110,0.083,0.135,8.2

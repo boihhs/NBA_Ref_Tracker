@@ -1,0 +1,61 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:45,SA,Blake Wesley,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,2,3,0.728,0.698,9:49
+1,8:39,SA,Isaiah Roby,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,3,6,0.68,0.647,8:44
+1,7:13,SA,Malaki Branham,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,5,10,0.587,0.591,7:32
+1,6:41,SA,Isaiah Roby,Loose Ball Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,5,12,0.571,0.532,6:41
+1,5:04,DET,Jalen Duren,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,9,17,0.443,0.491,5:04
+1,4:31,DET,Alec Burks,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,12,18,0.516,0.516,4:40
+1,4:22,SA,Dominick Barlow,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,12,18,0.584,0.543,4:26
+1,2:56,DET,Isaiah Stewart,Offensive Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,15,25,0.39,0.421,3:07
+2,10:38,DET,Hamidou Diallo,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,22,30,0.39,0.444,10:38
+2,8:37,DET,Cory Joseph,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,27,39,0.259,0.307,8:37
+2,8:23,SA,Doug McDermott,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,27,40,0.277,0.279,8:37
+2,8:04,SA,Zach Collins,Loose Ball Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,27,40,0.274,0.275,8:04
+2,6:46,SA,Malaki Branham,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,31,43,0.309,0.261,6:46
+2,5:05,SA,Blake Wesley,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,36,47,0.348,0.304,5:19
+2,4:49,DET,Jaden Ivey,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,38,47,0.33,0.331,4:49
+2,4:42,DET,Isaiah Livers,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,38,47,0.284,0.33,4:49
+2,3:49,DET,Isaiah Stewart,Loose Ball Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,40,47,0.337,0.382,3:49
+2,1:47,SA,Doug McDermott,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,48,50,0.623,0.573,1:49
+2,1:41,SA,Gorgui Dieng,Offensive Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,50,50,0.639,0.604,1:47
+2,1:30,SA,Devonte' Graham,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,50,50,0.682,0.639,1:41
+2,44.1,SA,Gorgui Dieng,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,52,52,0.679,0.634,49.0
+3,10:50,DET,Jalen Duren,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,53,54,0.5,0.555,11:00
+3,9:32,SA,Zach Collins,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,59,59,0.646,0.583,9:32
+3,9:11,DET,Bojan Bogdanovic,Loose Ball Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,59,59,0.582,0.581,9:11
+3,9:02,DET,Bojan Bogdanovic,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,59,59,0.526,0.582,9:11
+3,8:23,SA,Malaki Branham,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,61,63,0.598,0.543,8:32
+3,6:22,SA,Isaiah Roby,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,71,65,0.808,0.808,6:35
+3,5:58,DET,Killian Hayes,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,73,65,0.793,0.856,6:01
+3,5:18,SA,Zach Collins,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,73,70,0.764,0.716,5:34
+3,5:09,DET,Bojan Bogdanovic,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,75,70,0.696,0.746,5:18
+3,4:57,SA,Dominick Barlow,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,75,72,0.764,0.715,5:09
+3,4:50,DET,Killian Hayes,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,76,74,0.61,0.68,4:50
+3,4:24,DET,Cory Joseph,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,78,75,0.618,0.678,4:36
+3,4:12,SA,Stanley Johnson,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,78,76,0.731,0.679,4:24
+3,1:47,SA,Dominick Barlow,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,84,81,0.772,0.716,1:48
+3,1:36,DET,Isaiah Stewart,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,86,81,0.694,0.748,1:47
+3,54.0,SA,Gorgui Dieng,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,88,83,0.839,0.791,56.0
+3,32.0,SA,Dominick Barlow,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,89,83,0.867,0.827,49.0
+4,10:23,SA,Gorgui Dieng,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,95,90,0.84,0.764,10:23
+4,10:12,DET,Alec Burks,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,96,90,0.798,0.808,10:23
+4,9:26,DET,Isaiah Stewart,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,96,90,0.731,0.806,9:38
+4,8:43,DET,Jaden Ivey,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,96,90,0.791,0.806,8:49
+4,7:16,DET,Jalen Duren,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,100,92,0.823,0.879,7:30
+4,7:00,SA,Zach Collins,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,100,94,0.901,0.843,7:16
+4,6:37,SA,Blake Wesley,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,101,94,0.932,0.889,6:39
+4,6:14,SA,Zach Collins,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,103,97,0.914,0.863,6:28
+4,4:15,DET,Killian Hayes,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,107,99,0.876,0.922,4:26
+5,4:56,DET,Jaden Ivey,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,113,113,0.455,0.5,5:00
+5,4:38,DET,Jalen Duren,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,113,113,0.336,0.455,4:56
+5,4:08,DET,Jaden Ivey,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,113,114,0.355,0.378,4:20
+5,4:00,DET,Jaden Ivey,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,113,114,0.252,0.355,4:08
+5,2:40,DET,Killian Hayes,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,117,118,0.228,0.345,2:42
+5,1:49,DET,Bojan Bogdanovic,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,117,119,0.141,0.244,1:54
+5,1:39,SA,Stanley Johnson,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,117,120,0.412,0.241,1:49
+5,1:25,DET,Isaiah Livers,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,119,120,0.222,0.456,1:29
+5,34.0,SA,Stanley Johnson,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,119,122,0.402,0.247,47.0
+5,13.0,SA,Zach Collins,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,123,125,0.5,0.306,14.1
+6,2:19,SA,Keita Bates-Diop,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,127,131,0.321,0.213,2:35
+6,15.1,SA,Keita Bates-Diop,Shooting Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,134,131,0.969,0.679,52.0
+6,9.1,SA,Keita Bates-Diop,Personal Foul,Foul,Marc Davis,Sean Corbin,Jenna Schroeder,DET,136,131,0.996,0.991,9.1

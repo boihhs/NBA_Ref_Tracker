@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,0,2,0.69,0.724,11:14
+1,4.2,DEN,Christian Braun,Personal Take Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,26,22,0.746,0.781,11.7
+2,10:54,DEN,Bruce Brown,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,31,24,0.805,0.832,11:07
+2,10:04,DEN,DeAndre Jordan,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,31,27,0.773,0.774,10:04
+2,9:13,LAL,Troy Brown Jr.,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,34,27,0.87,0.846,9:16
+2,9:03,DEN,Jeff Green,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,36,27,0.862,0.862,9:03
+2,8:38,DEN,Jeff Green,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,36,30,0.795,0.809,8:38
+2,7:42,LAL,Damian Jones,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,38,31,0.845,0.846,7:42
+2,4:39,LAL,Juan Toscano-Anderson,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,42,39,0.758,0.759,4:40
+2,4:09,LAL,Anthony Davis,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,44,39,0.816,0.779,4:09
+2,3:24,LAL,Patrick Beverley,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,48,41,0.866,0.842,3:26
+2,2:32,LAL,Juan Toscano-Anderson,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,49,41,0.882,0.857,2:37
+2,1:29,LAL,LeBron James,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,51,45,0.848,0.818,1:49
+2,1:09,DEN,Aaron Gordon,Double Technical Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,52,48,0.756,0.774,1:14
+2,37.2,LAL,Troy Brown Jr.,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,52,48,0.807,0.773,41.0
+3,9:01,DEN,Aaron Gordon,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,61,56,0.767,0.768,9:13
+3,8:36,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,61,56,0.721,0.767,8:43
+3,6:04,DEN,Bruce Brown,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,72,60,0.895,0.918,6:21
+3,3:27,LAL,Juan Toscano-Anderson,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,80,65,0.974,0.962,3:27
+3,52.6,DEN,Bruce Brown,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,83,67,0.966,0.977,1:06
+3,3.5,LAL,Kendrick Nunn,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,85,71,0.982,0.973,26.1
+4,11:44,DEN,Jeff Green,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,86,73,0.943,0.967,11:44
+4,11:36,LAL,Matt Ryan,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,86,74,0.96,0.955,11:44
+4,11:17,DEN,Davon Reed,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,86,76,0.89,0.933,11:17
+4,10:24,DEN,Davon Reed,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,86,76,0.908,0.915,10:37
+4,10:12,LAL,Patrick Beverley,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,86,76,0.937,0.933,10:17
+4,9:03,LAL,Matt Ryan,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,88,79,0.942,0.901,9:03
+4,7:26,LAL,Matt Ryan,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,92,84,0.948,0.917,7:26
+4,7:11,LAL,LAL,Technical Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,95,84,0.976,0.957,7:11
+4,5:28,LAL,Patrick Beverley,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,99,87,0.992,0.985,5:34
+4,5:20,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,101,87,0.98,0.99,5:28
+4,4:35,DEN,Nikola Jokic,Transition Take Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,103,87,0.997,0.997,4:39
+4,2:46,LAL,Lonnie Walker IV,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,107,90,0.999,0.999,2:46
+4,34.9,DEN,Peyton Watson,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,DEN,108,97,0.995,0.999,34.9

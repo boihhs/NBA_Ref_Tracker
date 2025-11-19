@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:35,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,0,7,0.213,0.2,9:45
+1,9:05,ORL,Paolo Banchero,Offensive Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,2,7,0.219,0.237,9:14
+1,8:54,ORL,Paolo Banchero,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,2,7,0.193,0.219,9:05
+1,8:05,LAC,Nicolas Batum,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,2,9,0.229,0.203,8:07
+1,7:35,ORL,Bol Bol,Offensive Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,4,12,0.169,0.169,7:39
+1,6:58,ORL,Markelle Fultz,Personal Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,4,15,0.127,0.127,7:00
+1,3:39,ORL,Markelle Fultz,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,9,23,0.077,0.091,4:01
+1,2:35,ORL,Terrence Ross,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,12,25,0.094,0.102,2:35
+1,1:17,ORL,Mo Bamba,Loose Ball Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,14,31,0.05,0.062,1:17
+1,30.7,LAC,Amir Coffey,Personal Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,14,32,0.075,0.062,30.9
+2,11:39,LAC,Robert Covington,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,16,32,0.085,0.07,11:39
+2,7:50,ORL,Moritz Wagner,Personal Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,22,37,0.073,0.074,7:50
+2,7:45,ORL,Markelle Fultz,Personal Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,22,34,0.11,0.073,7:50
+2,7:28,LAC,Nicolas Batum,Personal Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,22,34,0.123,0.124,7:29
+2,3:40,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,31,41,0.181,0.151,3:55
+2,3:15,LAC,Paul George,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,32,41,0.185,0.17,3:15
+2,2:21,ORL,Kevon Harris,Personal Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,34,41,0.189,0.189,2:34
+2,1:19,LAC,Moses Brown,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,36,43,0.252,0.213,1:27
+2,38.1,ORL,Cole Anthony,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,40,45,0.22,0.265,38.1
+3,11:40,LAC,Paul George,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,40,49,0.182,0.158,12:00
+3,8:30,ORL,Paolo Banchero,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,48,61,0.063,0.085,8:30
+3,8:16,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,48,62,0.092,0.072,8:30
+3,7:39,ORL,ORL,Technical Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,49,64,0.04,0.047,7:41
+3,7:29,LAC,Ivica Zubac,Transition Take Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,49,65,0.047,0.038,7:30
+3,6:31,ORL,Markelle Fultz,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,52,65,0.049,0.065,6:50
+3,3:51,ORL,Cole Anthony,Personal Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,58,72,0.044,0.044,4:02
+3,3:46,ORL,Mo Bamba,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,58,72,0.031,0.044,3:51
+3,1:21,ORL,Mo Bamba,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,64,75,0.049,0.071,1:37
+3,26.0,ORL,Mo Bamba,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,68,77,0.085,0.1,26.0
+4,10:49,LAC,Robert Covington,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,73,78,0.325,0.247,11:09
+4,9:52,ORL,Caleb Houstan,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,78,78,0.347,0.439,10:09
+4,7:05,LAC,Robert Covington,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,85,86,0.554,0.441,7:20
+4,3:22,ORL,Moritz Wagner,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,93,97,0.098,0.173,3:35
+4,2:15,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,95,99,0.343,0.202,2:27
+4,33.7,LAC,Reggie Jackson,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,98,99,0.637,0.489,51.4
+5,2:23,LAC,Robert Covington,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,105,105,0.612,0.454,2:23
+5,1:35,ORL,Moritz Wagner,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,108,107,0.442,0.653,1:35
+5,1:22,ORL,Moritz Wagner,Loose Ball Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,108,107,0.367,0.527,1:22
+5,7.0,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,110,111,0.673,0.334,14.0
+5,5.5,LAC,Kawhi Leonard,Personal Take Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,112,111,0.933,0.8,7.0
+5,4.9,LAC,Amir Coffey,Personal Take Foul,Foul,Scott Foster,Tre Maddox,Dannica Mosher,ORL,114,111,0.987,0.957,5.5

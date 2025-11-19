@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:22,ORL,Franz Wagner,Offensive Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,4,8,0.6,0.573,8:26
+1,7:22,BOS,Jrue Holiday,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,6,11,0.541,0.543,7:32
+1,6:35,ORL,Anthony Black,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,8,13,0.583,0.564,6:38
+1,6:09,ORL,Jalen Suggs,Offensive Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,9,15,0.535,0.505,6:09
+1,5:46,BOS,Lamar Stevens,Loose Ball Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,9,15,0.504,0.503,5:46
+1,3:58,ORL,Cole Anthony,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,17,17,0.696,0.654,3:58
+1,3:55,BOS,Payton Pritchard,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,18,17,0.679,0.677,3:58
+1,1:15,BOS,Neemias Queta,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,24,23,0.628,0.668,1:24
+2,11:07,BOS,Payton Pritchard,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,32,24,0.816,0.817,11:16
+2,10:52,BOS,Neemias Queta,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,32,24,0.788,0.816,10:57
+2,10:43,ORL,Jonathan Isaac,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,34,26,0.848,0.816,10:43
+2,10:10,BOS,Oshae Brissett,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,35,28,0.798,0.798,10:11
+2,9:58,BOS,Oshae Brissett,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,35,28,0.766,0.798,10:10
+2,8:15,ORL,Moritz Wagner,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,42,36,0.812,0.774,8:15
+2,8:00,BOS,Neemias Queta,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,42,36,0.74,0.774,8:12
+2,7:23,ORL,Gary Harris,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,44,40,0.751,0.753,7:28
+2,7:18,ORL,Cole Anthony,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,44,40,0.784,0.751,7:23
+2,4:41,BOS,Jrue Holiday,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,53,42,0.844,0.87,4:53
+2,1:48,BOS,Jayson Tatum,Loose Ball Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,62,47,0.91,0.929,1:48
+3,11:08,ORL,Anthony Black,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,64,51,0.923,0.921,11:20
+3,10:40,ORL,Franz Wagner,Loose Ball Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,64,53,0.895,0.896,10:40
+3,9:54,ORL,Paolo Banchero,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,66,55,0.918,0.897,10:05
+3,9:38,ORL,Gary Harris,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,68,55,0.942,0.926,9:38
+3,9:21,BOS,Lamar Stevens,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,68,55,0.889,0.911,9:30
+3,8:17,BOS,Jayson Tatum,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,70,56,0.928,0.929,8:18
+3,7:44,ORL,Franz Wagner,Offensive Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,73,58,0.953,0.942,7:53
+3,5:54,ORL,Gary Harris,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,79,61,0.982,0.978,5:54
+3,4:55,BOS,Payton Pritchard,Loose Ball Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,82,63,0.971,0.98,4:55
+3,4:01,BOS,Neemias Queta,Loose Ball Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,85,63,0.988,0.992,4:01
+3,1:48,BOS,Neemias Queta,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,91,72,0.98,0.994,2:02
+3,1:40,ORL,Cole Anthony,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,91,73,0.992,0.992,3:35
+3,38.0,ORL,Moritz Wagner,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,95,75,0.997,0.979,5:25
+3,29.0,ORL,Moritz Wagner,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,96,73,0.999,0.998,29.0
+3,0.1,ORL,Franz Wagner,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,100,76,0.999,0.998,0.1
+4,11:25,BOS,Sam Hauser,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,101,80,0.992,0.995,11:28
+4,11:13,BOS,Jayson Tatum,Offensive Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,101,81,0.994,0.996,11:25
+4,10:18,BOS,Payton Pritchard,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,107,83,0.998,0.998,10:24
+4,7:38,BOS,Oshae Brissett,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,116,91,0.999,0.999,7:52
+4,6:37,BOS,Oshae Brissett,Offensive Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,116,96,0.998,0.999,6:55
+4,6:13,ORL,Goga Bitadze,Loose Ball Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,116,96,0.999,0.999,6:13
+4,5:08,ORL,Jalen Suggs,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,118,98,0.999,0.999,5:11
+4,4:57,ORL,Goga Bitadze,Personal Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,120,98,0.999,0.999,4:57
+4,1:47,BOS,Neemias Queta,Offensive Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,127,103,0.999,0.999,1:57
+4,1:22,ORL,Admiral Schofield,Shooting Foul,Foul,James Capers,Michael Smith,Leon Wood,BOS,127,106,0.999,0.999,1:38

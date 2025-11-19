@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:43,TOR,Jakob Poeltl,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,2,0,0.732,0.701,9:50
+1,8:28,BKN,Nic Claxton,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,2,2,0.592,0.63,8:32
+1,6:23,BKN,Dorian Finney-Smith,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,6,7,0.598,0.598,6:23
+1,4:01,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,15,15,0.615,0.615,4:01
+1,2:48,TOR,Precious Achiuwa,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,15,19,0.527,0.53,3:03
+1,2:42,TOR,Precious Achiuwa,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,17,19,0.603,0.557,2:42
+1,1:21,BKN,Mikal Bridges,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,20,21,0.537,0.576,1:24
+2,10:21,TOR,Precious Achiuwa,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,26,24,0.678,0.653,10:29
+2,5:03,BKN,Royce O'Neale,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,35,37,0.513,0.516,5:17
+2,4:19,BKN,Royce O'Neale,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,35,41,0.356,0.413,4:19
+2,4:06,TOR,Pascal Siakam,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,35,42,0.377,0.38,4:19
+3,11:36,BKN,Mikal Bridges,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,52,44,0.763,0.802,11:45
+3,11:06,TOR,Pascal Siakam,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,52,47,0.791,0.752,11:12
+3,10:56,BKN,Nic Claxton,Defensive 3-Seconds Technical,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,54,47,0.786,0.778,11:06
+3,9:49,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,54,50,0.64,0.692,9:54
+3,9:32,TOR,Dennis Schroder,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,54,51,0.737,0.694,9:49
+3,6:37,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,61,59,0.59,0.657,6:37
+3,6:20,TOR,Dennis Schroder,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,61,60,0.674,0.621,6:37
+3,6:04,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,63,60,0.628,0.656,6:20
+3,5:54,TOR,Scottie Barnes,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,63,61,0.708,0.657,6:04
+3,3:57,TOR,Dennis Schroder,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,65,66,0.595,0.532,4:13
+3,3:34,BKN,Royce O'Neale,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,67,66,0.505,0.572,3:37
+3,2:30,TOR,Malachi Flynn,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,69,67,0.716,0.657,2:43
+3,2:04,TOR,OG Anunoby,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,71,69,0.718,0.657,2:16
+3,3.2,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,76,73,0.586,0.655,18.1
+4,10:59,BKN,Trendon Watford,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,78,75,0.644,0.656,11:18
+4,10:51,BKN,Cameron Johnson,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,78,75,0.637,0.644,10:59
+4,10:29,TOR,Jalen McDaniels,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,78,78,0.564,0.547,10:43
+4,7:45,TOR,Scottie Barnes,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,84,85,0.595,0.49,8:02
+4,7:05,TOR,Scottie Barnes,Defensive 3-Seconds Technical,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,87,87,0.536,0.559,7:21
+4,5:55,TOR,Jalen McDaniels,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,94,92,0.703,0.683,6:14
+4,5:43,TOR,Jakob Poeltl,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,94,92,0.787,0.695,5:43
+4,5:03,BKN,Royce O'Neale,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,94,92,0.621,0.643,5:03
+4,4:15,TOR,OG Anunoby,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,96,94,0.754,0.636,4:15
+4,4:10,BKN,Royce O'Neale,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,97,94,0.585,0.704,4:15
+4,2:52,TOR,OG Anunoby,Personal Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,100,96,0.902,0.837,2:52
+4,2:24,TOR,Gary Trent Jr.,Personal Take Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,102,98,0.913,0.844,2:35
+4,2:18,BKN,Mikal Bridges,Shooting Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,103,98,0.755,0.849,2:22
+4,38.1,TOR,Scottie Barnes,Personal Take Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,108,100,0.998,0.993,41.1
+4,6.1,TOR,Scottie Barnes,Personal Take Foul,Foul,Matt Boland,Ed Malloy,Ashley Moyer-Gleich,BKN,113,100,0.999,0.999,6.1

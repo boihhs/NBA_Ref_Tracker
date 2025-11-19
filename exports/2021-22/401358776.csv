@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:46,DEN,Aaron Gordon,Offensive Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,2,2,0.683,0.666,10:49
+1,9:59,PHX,Jae Crowder,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,4,2,0.673,0.706,10:13
+1,4.0,PHX,Abdel Nader,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,20,26,0.405,0.45,12.3
+2,11:22,PHX,JaVale McGee,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,23,26,0.534,0.535,11:45
+2,10:48,PHX,JaVale McGee,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,25,26,0.592,0.59,10:58
+2,7:50,PHX,Chris Paul,Personal Take Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,33,31,0.668,0.665,7:50
+2,6:58,DEN,JaMychal Green,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,36,34,0.709,0.69,7:01
+2,6:27,DEN,Jeff Green,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,38,36,0.689,0.689,6:39
+2,4:55,DEN,Nikola Jokic,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,43,36,0.837,0.808,5:07
+2,4:22,DEN,Will Barton,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,45,36,0.873,0.848,4:30
+2,3:47,DEN,Michael Porter Jr.,Offensive Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,47,36,0.881,0.865,3:53
+2,2:26,DEN,Michael Porter Jr.,Personal Take Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,52,39,0.93,0.913,2:26
+2,1:27,DEN,Monte Morris,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,55,41,0.942,0.926,1:31
+2,59.5,DEN,Will Barton,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,57,43,0.943,0.926,1:14
+2,39.9,PHX,Deandre Ayton,Offensive Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,58,45,0.901,0.917,46.3
+2,12.4,PHX,Devin Booker,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,58,48,0.823,0.853,28.1
+3,9:57,DEN,Aaron Gordon,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,58,56,0.671,0.672,10:05
+3,9:57,PHX,Jae Crowder,Double Technical Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,58,56,0.646,0.671,9:57
+3,8:58,DEN,Michael Porter Jr.,Offensive Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,62,56,0.792,0.763,9:16
+3,8:24,PHX,Deandre Ayton,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,62,60,0.651,0.669,8:24
+3,8:07,PHX,Devin Booker,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,62,61,0.596,0.596,8:07
+3,5:37,DEN,Nikola Jokic,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,65,68,0.466,0.467,5:50
+3,5:17,PHX,Mikal Bridges,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,65,68,0.361,0.42,5:20
+3,4:02,PHX,Cameron Payne,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,67,74,0.201,0.251,4:19
+3,3:06,DEN,Nikola Jokic,Double Technical Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,70,78,0.349,0.24,3:06
+3,2:08,DEN,PJ Dozier,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,74,80,0.286,0.263,2:08
+3,1:39,PHX,Cameron Johnson,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,74,83,0.171,0.155,1:42
+3,1:28,DEN,Facundo Campazzo,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,74,85,0.171,0.13,1:39
+3,16.8,DEN,Jeff Green,Offensive Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,82,85,0.427,0.379,31.3
+3,16.8,PHX,Cameron Payne,Offensive Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,82,85,0.377,0.427,16.8
+4,11:24,PHX,Chris Paul,Loose Ball Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,82,88,0.222,0.275,11:41
+4,11:09,DEN,JaMychal Green,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,82,88,0.241,0.263,11:09
+4,9:00,DEN,Jeff Green,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,84,96,0.064,0.06,9:14
+4,8:51,DEN,JaMychal Green,Offensive Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,84,96,0.059,0.044,8:53
+4,5:17,DEN,PJ Dozier,Personal Take Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,93,102,0.083,0.075,5:17
+4,4:57,PHX,Mikal Bridges,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,93,102,0.047,0.053,5:05
+4,4:18,DEN,Nikola Jokic,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,93,102,0.114,0.061,4:21
+4,3:00,PHX,Chris Paul,Personal Take Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,93,102,0.025,0.028,3:00
+4,16.7,PHX,Devin Booker,Personal Foul,Foul,Kevin Cutler,Marc Davis,Leon Wood,PHX,98,110,0.001,0.001,21.5

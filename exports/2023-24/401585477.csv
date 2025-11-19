@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:25,CHA,Cody Martin,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,0,5,0.079,0.079,10:30
+1,9:33,MIL,Brook Lopez,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,0,8,0.077,0.066,9:49
+1,7:27,MIL,Malik Beasley,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,4,10,0.087,0.086,7:34
+1,6:21,CHA,Brandon Miller,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,8,13,0.077,0.088,6:41
+1,5:41,MIL,Brook Lopez,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,8,17,0.079,0.074,5:41
+1,4:46,CHA,Seth Curry,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,11,17,0.073,0.085,4:49
+1,4:22,CHA,Miles Bridges,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,11,21,0.052,0.062,4:22
+1,3:14,CHA,Grant Williams,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,15,25,0.049,0.057,3:27
+1,2:45,MIL,Danilo Gallinari,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,15,26,0.069,0.058,3:00
+1,1:03,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,22,30,0.1,0.086,1:14
+1,45.1,MIL,Thanasis Antetokounmpo,Technical Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,24,32,0.093,0.087,46.0
+2,10:52,MIL,Pat Connaughton,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,28,40,0.055,0.055,11:08
+2,9:29,CHA,Tre Mann,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,33,40,0.078,0.092,9:34
+2,8:55,CHA,Seth Curry,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,35,41,0.089,0.093,9:29
+2,8:28,CHA,Cody Martin,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,35,44,0.063,0.075,8:37
+2,7:18,CHA,Nick Richards,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,37,46,0.064,0.076,7:26
+2,5:13,MIL,Jae Crowder,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,43,50,0.127,0.102,5:13
+2,4:28,CHA,Grant Williams,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,43,52,0.066,0.08,4:37
+2,5:20,MIL,Damian Lillard,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,41,50,0.109,0.071,4:28
+2,3:00,CHA,Cody Martin,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,47,61,0.031,0.047,3:00
+2,1:06,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,47,67,0.022,0.016,1:06
+2,21.1,MIL,Jae Crowder,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,50,70,0.022,0.016,31.0
+3,9:27,CHA,Nick Richards,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,59,74,0.031,0.03,9:41
+3,8:15,CHA,Brandon Miller,Technical Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,59,74,0.026,0.03,8:19
+3,7:31,MIL,Jae Crowder,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,59,76,0.023,0.023,7:44
+3,6:36,CHA,Nick Richards,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,63,79,0.023,0.022,6:48
+3,6:16,MIL,Jae Crowder,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,63,79,0.037,0.028,6:23
+3,1:31,CHA,Miles Bridges,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,72,90,0.005,0.008,1:38
+3,25.1,CHA,Miles Bridges,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,74,90,0.008,0.013,38.1
+3,4.1,MIL,Patrick Beverley,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,74,92,0.014,0.009,25.1
+3,4.1,CHA,Grant Williams,Offensive Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,74,92,0.006,0.014,4.1
+4,8:09,CHA,Brandon Miller,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,79,100,0.001,0.001,8:09
+4,7:41,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,79,102,0.001,0.001,7:54
+4,6:39,CHA,Davis Bertans,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,82,104,0.001,0.001,6:49
+4,5:17,MIL,Pat Connaughton,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,84,104,0.001,0.001,5:20
+4,4:53,MIL,AJ Green,Shooting Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,86,104,0.003,0.001,5:01
+4,4:20,MIL,Damian Lillard,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,88,107,0.001,0.001,5:17
+4,3:07,MIL,MarJon Beauchamp,Personal Foul,Foul,Ed Malloy,Michael Smith,Jenna Schroeder,CHA,91,107,0.002,0.001,3:17

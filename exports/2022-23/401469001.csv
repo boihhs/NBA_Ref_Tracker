@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,BKN,Nic Claxton,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,0,2,0.551,0.591,11:14
+1,10:55,BKN,Mikal Bridges,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,0,3,0.504,0.542,11:00
+1,10:18,PHI,P.J. Tucker,Offensive Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,2,4,0.591,0.566,10:21
+1,4:44,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,18,11,0.731,0.762,5:00
+1,4:28,BKN,Ben Simmons,Offensive Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,18,13,0.719,0.743,4:44
+1,4:16,BKN,Patty Mills,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,18,13,0.685,0.719,4:28
+1,2:30,BKN,Cam Thomas,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,26,18,0.751,0.782,2:49
+1,22.1,BKN,Joe Harris,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,28,24,0.653,0.69,30.0
+2,10:03,BKN,Patty Mills,Personal Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,39,30,0.803,0.805,10:14
+2,9:30,BKN,Patty Mills,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,39,32,0.727,0.762,9:41
+2,4:31,PHI,De'Anthony Melton,Loose Ball Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,46,44,0.656,0.655,4:31
+2,1:24,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,56,48,0.773,0.815,1:24
+2,1:08,PHI,Tyrese Maxey,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,56,49,0.825,0.794,1:24
+2,24.1,PHI,Joel Embiid,Loose Ball Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,58,52,0.805,0.767,24.1
+3,10:29,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,60,52,0.757,0.798,10:32
+3,9:40,PHI,Joel Embiid,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,60,54,0.813,0.776,9:41
+3,9:21,BKN,Mikal Bridges,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,62,54,0.759,0.8,9:40
+3,8:35,PHI,James Harden,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,62,56,0.815,0.778,8:40
+3,5:49,PHI,James Harden,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,71,62,0.892,0.861,6:08
+3,3:40,BKN,Nic Claxton,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,74,64,0.854,0.894,3:40
+3,3:27,PHI,Georges Niang,Loose Ball Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,74,65,0.904,0.875,3:27
+3,3:16,PHI,Georges Niang,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,76,65,0.926,0.895,3:16
+3,48.2,BKN,Nic Claxton,Personal Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,80,71,0.822,0.865,1:03
+3,48.2,BKN,Nic Claxton,Technical Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,80,71,0.846,0.822,48.2
+3,35.0,BKN,Nic Claxton,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,80,72,0.788,0.841,38.1
+3,17.1,PHI,Shake Milton,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,80,74,0.857,0.813,25.1
+4,10:24,PHI,Tyrese Maxey,Offensive Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,84,79,0.793,0.746,10:42
+4,9:17,BKN,Joe Harris,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,90,81,0.841,0.892,9:35
+4,6:41,BKN,Dorian Finney-Smith,Personal Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,96,87,0.911,0.916,6:52
+4,5:27,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,96,91,0.681,0.786,5:40
+4,1:15,PHI,Joel Embiid,Personal Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,98,97,0.812,0.656,1:34
+4,5.0,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,98,97,0.544,0.838,5.0
+4,0.2,BKN,Cameron Johnson,Personal Take Foul,Foul,Kevin Cutler,Marc Davis,Mousa Dagher,BKN,98,99,0.01,0.054,1.2

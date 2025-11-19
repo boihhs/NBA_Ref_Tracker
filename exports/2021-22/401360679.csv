@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:59,OKC,Isaiah Roby,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,3,3,0.789,0.761,11:00
+1,8:36,OKC,Josh Giddey,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,4,12,0.568,0.567,8:37
+1,6:01,OKC,Isaiah Roby,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,14,16,0.73,0.699,6:04
+1,1:33,NY,Taj Gibson,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,29,25,0.754,0.785,1:36
+2,11:04,NY,Taj Gibson,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,33,31,0.734,0.735,11:20
+2,10:41,OKC,Derrick Favors,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,33,31,0.786,0.755,10:55
+2,10:23,NY,Obi Toppin,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,34,31,0.719,0.754,10:41
+2,8:55,OKC,Kenrich Williams,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,38,35,0.768,0.77,8:55
+2,8:18,NY,Immanuel Quickley,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,38,37,0.697,0.697,8:22
+2,7:17,NY,Quentin Grimes,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,40,39,0.651,0.693,7:36
+2,5:01,OKC,Derrick Favors,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,44,46,0.645,0.591,5:01
+2,3:10,NY,Julius Randle,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,50,48,0.655,0.702,3:20
+2,2:18,NY,Quentin Grimes,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,53,51,0.675,0.724,2:18
+2,2:02,OKC,Kenrich Williams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,55,51,0.793,0.749,2:02
+2,1:26,OKC,Kenrich Williams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,58,57,0.713,0.66,1:26
+3,10:10,OKC,Darius Bazley,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,70,64,0.835,0.795,10:10
+3,7:40,NY,Julius Randle,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,79,68,0.872,0.899,7:46
+3,6:48,OKC,Derrick Favors,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,79,72,0.875,0.844,6:49
+3,6:15,NY,Quentin Grimes,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,80,74,0.747,0.791,6:17
+3,2:26,OKC,Vit Krejci,Offensive Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,87,89,0.516,0.471,2:31
+4,10:56,NY,Obi Toppin,Offensive Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,96,94,0.642,0.686,11:05
+4,10:46,NY,Evan Fournier,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,96,94,0.622,0.642,10:56
+4,10:14,OKC,Aaron Wiggins,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,96,94,0.761,0.681,10:30
+4,9:22,NY,Alec Burks,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,100,97,0.669,0.683,9:25
+4,9:00,OKC,Ty Jerome,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,100,97,0.743,0.729,9:05
+4,8:34,NY,Julius Randle,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,100,97,0.666,0.684,8:43
+4,7:11,OKC,Isaiah Roby,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,102,102,0.589,0.566,7:11
+4,6:01,OKC,Isaiah Roby,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,104,104,0.678,0.572,6:03
+4,5:31,NY,Cam Reddish,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,104,104,0.393,0.511,5:41
+4,5:25,OKC,Darius Bazley,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,104,106,0.535,0.429,5:31
+4,4:56,OKC,Isaiah Roby,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,106,106,0.668,0.569,5:04
+4,4:39,NY,Taj Gibson,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,108,106,0.524,0.634,4:56
+4,3:28,NY,Quentin Grimes,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,110,106,0.67,0.77,3:29
+4,1:07,NY,Evan Fournier,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,110,106,0.687,0.813,1:12
+4,39.0,NY,Quentin Grimes,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,110,108,0.504,0.652,42.9
+5,3:47,NY,Julius Randle,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,112,114,0.302,0.309,3:47
+5,3:23,OKC,Kenrich Williams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,112,116,0.344,0.239,3:37
+5,2:50,NY,Julius Randle,Offensive Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,115,118,0.217,0.298,3:09
+5,1:22,OKC,Derrick Favors,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,118,122,0.341,0.166,1:22
+5,23.3,NY,Mitchell Robinson,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,118,122,0.027,0.101,30.1
+5,14.3,NY,Alec Burks,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,120,124,0.015,0.061,19.6
+5,5.8,NY,Julius Randle,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,123,126,0.015,0.068,8.8
+5,1.5,NY,Obi Toppin,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,NY,123,126,0.004,0.011,1.5

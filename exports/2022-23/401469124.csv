@@ -1,0 +1,56 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,3:21,BOS,Jayson Tatum,Personal Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,20,22,0.504,0.506,3:21
+1,2:52,NY,Isaiah Hartenstein,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,20,24,0.516,0.475,3:03
+1,2:42,BOS,Sam Hauser,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,22,24,0.459,0.502,2:52
+1,2:03,NY,Josh Hart,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,22,26,0.514,0.465,2:09
+1,1:28,BOS,Sam Hauser,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,26,28,0.478,0.527,1:28
+1,56.1,NY,Miles McBride,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,26,28,0.567,0.525,1:00
+1,48.1,NY,Isaiah Hartenstein,Offensive Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,28,28,0.581,0.555,56.1
+1,3.1,NY,Mitchell Robinson,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,33,31,0.652,0.607,3.1
+2,10:34,BOS,Derrick White,Personal Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,37,33,0.662,0.664,10:40
+2,9:29,BOS,Derrick White,Loose Ball Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,39,35,0.661,0.662,9:29
+2,9:17,BOS,Mike Muscala,Personal Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,39,35,0.661,0.661,9:29
+2,8:46,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,42,35,0.701,0.74,8:53
+2,8:06,BOS,Marcus Smart,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,42,39,0.614,0.635,8:06
+2,7:39,NY,Mitchell Robinson,Offensive Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,42,41,0.607,0.575,7:46
+2,7:28,NY,Miles McBride,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,44,41,0.684,0.634,7:28
+2,7:13,NY,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,45,41,0.689,0.691,7:17
+2,5:07,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,48,47,0.522,0.571,5:13
+2,4:11,NY,Mitchell Robinson,Offensive Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,50,50,0.569,0.57,4:19
+2,3:17,BOS,Marcus Smart,Offensive Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,50,52,0.468,0.501,3:34
+2,57.1,NY,Julius Randle,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,57,54,0.687,0.63,57.1
+2,2.1,NY,Josh Hart,Loose Ball Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,60,54,0.791,0.754,2.1
+3,9:11,NY,Quentin Grimes,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,67,59,0.849,0.814,9:15
+3,8:56,NY,Julius Randle,Offensive Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,68,59,0.841,0.814,9:11
+3,8:56,NY,Julius Randle,Technical Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,68,59,0.856,0.815,8:56
+3,8:23,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,71,61,0.823,0.864,8:23
+3,7:21,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,74,61,0.878,0.903,7:45
+3,6:48,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,74,62,0.86,0.89,7:04
+3,1:53,NY,Isaiah Hartenstein,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,82,77,0.811,0.759,2:09
+3,34.0,BOS,Mike Muscala,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,87,84,0.606,0.685,34.0
+4,10:10,BOS,Sam Hauser,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,87,90,0.251,0.39,10:16
+4,10:00,NY,Isaiah Hartenstein,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,89,92,0.435,0.324,10:00
+4,9:20,BOS,Mike Muscala,Offensive Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,89,95,0.19,0.235,9:32
+4,8:23,BOS,Marcus Smart,Offensive Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,89,100,0.047,0.066,8:33
+4,8:15,NY,Obi Toppin,Offensive Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,89,100,0.063,0.047,8:23
+4,7:47,NY,Josh Hart,Personal Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,92,100,0.148,0.138,7:49
+4,7:24,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,94,102,0.078,0.136,7:24
+4,5:33,NY,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,99,102,0.363,0.34,5:37
+4,4:50,NY,RJ Barrett,Personal Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,99,102,0.463,0.341,5:00
+4,4:09,NY,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,101,102,0.555,0.416,4:09
+4,3:48,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,102,102,0.353,0.495,4:09
+4,17.2,BOS,Marcus Smart,Personal Take Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,110,111,0.143,0.344,19.1
+4,16.0,BOS,Marcus Smart,Personal Take Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,110,111,0.138,0.304,17.2
+4,12.2,NY,Quentin Grimes,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,112,113,0.526,0.292,12.2
+5,1:49,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,116,116,0.286,0.453,2:06
+5,1:33,NY,Julius Randle,Personal Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,116,117,0.597,0.447,1:49
+5,1:20,NY,Julius Randle,Loose Ball Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,116,117,0.599,0.456,1:20
+5,44.1,BOS,Grant Williams,Loose Ball Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,118,117,0.391,0.542,44.1
+6,3:28,NY,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,121,126,0.273,0.185,3:47
+6,3:11,BOS,Marcus Smart,Personal Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,123,126,0.227,0.231,3:11
+6,2:57,BOS,Derrick White,Personal Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,123,126,0.216,0.221,2:57
+6,2:05,NY,Josh Hart,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,123,128,0.236,0.146,2:29
+6,1:44,BOS,Jayson Tatum,Shooting Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,125,128,0.125,0.177,1:44
+6,1:21,BOS,Grant Williams,Loose Ball Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,125,128,0.085,0.155,1:21
+6,55.1,BOS,Al Horford,Loose Ball Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,127,130,0.075,0.141,55.1
+6,6.1,NY,Josh Hart,Personal Take Foul,Foul,Ed Malloy,Tre Maddox,Brett Nansel,BOS,129,131,0.431,0.282,10.0

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:23,MIL,Damian Lillard,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,2,4,0.426,0.384,10:23
+1,9:51,MIA,Kyle Lowry,Loose Ball Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,2,6,0.337,0.336,9:51
+1,4:05,MIL,MarJon Beauchamp,Away from Play Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,11,19,0.265,0.265,4:05
+1,4:03,MIL,MarJon Beauchamp,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,14,19,0.354,0.309,4:03
+1,2:18,MIA,Kyle Lowry,Loose Ball Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,20,22,0.388,0.385,2:18
+1,2.1,MIA,Caleb Martin,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,22,28,0.247,0.281,6.0
+2,11:22,MIL,Khris Middleton,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,24,34,0.248,0.258,11:45
+2,8:49,MIA,Duncan Robinson,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,33,38,0.265,0.303,9:02
+2,7:54,MIA,Caleb Martin,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,35,36,0.374,0.417,8:01
+2,7:24,MIL,MarJon Beauchamp,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,37,41,0.381,0.359,7:33
+2,7:11,MIL,MarJon Beauchamp,Loose Ball Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,38,41,0.387,0.389,7:11
+2,6:25,MIL,Brook Lopez,Offensive Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,41,41,0.481,0.447,6:34
+2,5:53,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,44,41,0.545,0.541,6:10
+2,5:06,MIA,Bam Adebayo,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,46,44,0.465,0.548,5:08
+2,5:05,MIL,Brook Lopez,Loose Ball Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,46,45,0.565,0.515,5:05
+2,4:08,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,46,47,0.501,0.451,4:27
+2,3:03,MIL,Malik Beasley,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,51,49,0.603,0.552,3:12
+2,2:24,MIA,Kevin Love,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,51,51,0.403,0.45,2:33
+2,1:43,MIL,Cameron Payne,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,53,53,0.537,0.451,1:52
+2,1:05,MIA,Josh Richardson,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,57,53,0.54,0.587,1:14
+2,56.1,MIL,Bobby Portis,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,57,54,0.643,0.595,1:05
+3,11:30,MIA,Kyle Lowry,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,62,59,0.561,0.562,11:40
+3,10:30,MIA,Kevin Love,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,65,63,0.474,0.529,10:31
+3,8:10,MIL,Khris Middleton,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,70,72,0.419,0.421,8:19
+3,6:39,MIA,Kyle Lowry,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,76,77,0.419,0.418,6:52
+3,4:44,MIA,Jaime Jaquez Jr.,Transition Take Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,81,80,0.501,0.5,4:48
+3,4:18,MIA,Bam Adebayo,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,83,83,0.426,0.504,4:18
+3,2:57,MIL,Bobby Portis,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,86,88,0.483,0.415,3:13
+3,1:00,MIA,Duncan Robinson,Offensive Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,93,90,0.602,0.651,1:03
+4,11:42,MIA,Duncan Robinson,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,97,92,0.689,0.707,12:00
+3,34.0,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,95,92,0.572,0.689,11:42
+4,10:44,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,97,96,0.573,0.56,10:56
+3,51.0,MIL,AJ Green,Loose Ball Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,93,90,0.651,0.653,51.0
+4,8:55,MIL,Cameron Payne,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,104,102,0.648,0.63,9:06
+4,7:54,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,106,104,0.521,0.584,7:54
+4,7:06,MIA,Bam Adebayo,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,106,108,0.319,0.339,7:19
+4,5:42,MIA,Kyle Lowry,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,110,110,0.335,0.446,5:48
+4,5:01,MIL,Khris Middleton,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,112,112,0.636,0.505,5:12
+4,1:34,MIL,Brook Lopez,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,118,122,0.32,0.171,1:38
+4,1:18,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,120,122,0.153,0.264,1:34
+4,1:03,MIA,Josh Richardson,Personal Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,122,124,0.146,0.253,1:05
+4,1:03,MIA,MIA,Technical Foul,Foul,Marat Kogut,Jacyn Goble,David Guthrie,MIA,122,124,0.19,0.146,1:03

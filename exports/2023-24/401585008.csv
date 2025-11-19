@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:22,LAL,Anthony Davis,Personal Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,14,14,0.748,0.749,6:33
+1,5:31,MIN,Mike Conley,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,14,14,0.691,0.725,5:36
+1,5:19,LAL,Anthony Davis,Personal Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,14,16,0.702,0.703,5:31
+1,2:12,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,26,24,0.752,0.752,2:22
+1,1:52,LAL,Jaxson Hayes,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,28,24,0.821,0.791,1:52
+1,1:20,MIN,Naz Reid,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,31,24,0.815,0.842,1:35
+1,32.0,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,33,28,0.791,0.821,32.0
+2,10:52,LAL,Austin Reaves,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,38,34,0.815,0.782,10:52
+2,10:07,MIN,Naz Reid,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,39,36,0.723,0.757,10:13
+2,8:21,MIN,Jaden McDaniels,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,44,40,0.756,0.794,8:21
+2,8:08,LAL,Rui Hachimura,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,44,41,0.803,0.773,8:21
+2,7:35,MIN,Troy Brown Jr.,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,46,41,0.759,0.792,7:38
+2,7:00,LAL,Austin Reaves,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,49,42,0.87,0.848,7:11
+2,6:04,MIN,Troy Brown Jr.,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,51,42,0.837,0.862,6:08
+2,4:28,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,51,46,0.835,0.806,4:36
+2,3:53,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,53,48,0.835,0.805,4:14
+2,1:36,MIN,Rudy Gobert,Loose Ball Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,60,52,0.81,0.844,1:36
+2,39.1,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,63,54,0.832,0.862,57.0
+3,10:37,LAL,Taurean Prince,Personal Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,66,61,0.798,0.797,10:53
+3,8:24,LAL,Rui Hachimura,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,68,65,0.761,0.74,8:25
+3,5:40,LAL,D'Angelo Russell,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,74,70,0.808,0.767,6:00
+3,5:24,LAL,Taurean Prince,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,75,70,0.833,0.765,5:40
+3,4:57,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,77,70,0.864,0.846,4:57
+3,4:12,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,77,72,0.713,0.764,4:21
+3,1:54,MIN,Rudy Gobert,Loose Ball Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,79,76,0.627,0.691,1:54
+3,1:40,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,79,78,0.573,0.652,1:40
+3,34.1,MIN,Naz Reid,Flagrant Foul Type 1,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,84,82,0.659,0.646,43.1
+4,11:02,LAL,Jaxson Hayes,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,89,83,0.891,0.71,2:28
+4,10:32,LAL,Rui Hachimura,Offensive Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,91,83,0.903,0.877,10:42
+4,8:43,MIN,Naz Reid,Personal Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,95,87,0.877,0.888,8:45
+4,8:21,LAL,Taurean Prince,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,95,87,0.946,0.912,8:33
+4,8:14,MIN,Naz Reid,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,96,89,0.822,0.893,8:14
+4,5:07,LAL,Taurean Prince,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,106,99,0.944,0.89,5:07
+4,3:53,MIN,Rudy Gobert,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,110,102,0.876,0.935,4:03
+4,2:34,LAL,Cam Reddish,Shooting Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,115,103,0.998,0.996,2:42
+4,1:18,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Kevin Cutler,Sean Corbin,Andy Nagy,MIN,116,109,0.895,0.979,1:18

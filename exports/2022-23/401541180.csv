@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:30,ATL,John Collins,Offensive Foul,Foul,,,,ATL,4,4,0.247,0.262,9:44
+1,8:56,BOS,Derrick White,Shooting Foul,Foul,,,,ATL,6,4,0.326,0.288,8:56
+1,8:13,BOS,Derrick White,Shooting Foul,Foul,,,,ATL,8,7,0.325,0.293,8:21
+1,4:56,BOS,Grant Williams,Shooting Foul,Foul,,,,ATL,14,18,0.235,0.206,5:11
+1,4:43,ATL,De'Andre Hunter,Shooting Foul,Foul,,,,ATL,15,20,0.161,0.19,4:43
+1,2:39,BOS,Jaylen Brown,Shooting Foul,Foul,,,,ATL,21,25,0.243,0.213,2:50
+2,9:17,ATL,Onyeka Okongwu,Shooting Foul,Foul,,,,ATL,45,42,0.34,0.379,9:18
+2,7:00,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,,,,ATL,50,49,0.319,0.337,7:00
+2,6:20,BOS,Jaylen Brown,Shooting Foul,Foul,,,,ATL,52,53,0.337,0.287,6:20
+2,5:49,BOS,Robert Williams III,Offensive Foul,Foul,,,,ATL,56,53,0.437,0.403,5:58
+2,2:20,BOS,Jaylen Brown,Personal Foul,Foul,,,,ATL,70,61,0.67,0.669,2:34
+2,1:58,ATL,Clint Capela,Personal Foul,Foul,,,,ATL,70,61,0.589,0.638,2:05
+2,1:20,ATL,Trae Young,Personal Foul,Foul,,,,ATL,72,64,0.559,0.612,1:39
+2,0.1,ATL,Clint Capela,Shooting Foul,Foul,,,,ATL,74,65,0.606,0.66,6.1
+3,9:59,ATL,John Collins,Shooting Foul,Foul,,,,ATL,79,71,0.594,0.65,10:02
+3,7:53,BOS,Al Horford,Loose Ball Foul,Foul,,,,ATL,79,79,0.405,0.407,7:53
+3,6:59,BOS,Jaylen Brown,Personal Foul,Foul,,,,ATL,84,79,0.607,0.609,7:06
+3,6:05,BOS,Malcolm Brogdon,Personal Foul,Foul,,,,ATL,87,81,0.659,0.658,6:16
+3,2:38,ATL,Onyeka Okongwu,Shooting Foul,Foul,,,,ATL,94,86,0.682,0.741,2:52
+3,37.0,BOS,Sam Hauser,Personal Foul,Foul,,,,ATL,100,90,0.907,0.869,50.1
+4,10:38,ATL,Onyeka Okongwu,Offensive Foul,Foul,,,,ATL,100,97,0.565,0.624,10:48
+4,10:07,BOS,Grant Williams,Shooting Foul,Foul,,,,ATL,100,99,0.618,0.517,10:20
+4,6:17,BOS,Derrick White,Personal Foul,Foul,,,,ATL,113,108,0.812,0.798,6:29
+4,4:49,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,,,,ATL,115,111,0.715,0.723,4:49
+4,4:22,BOS,Derrick White,Shooting Foul,Foul,,,,ATL,115,111,0.877,0.789,4:33
+4,3:02,ATL,De'Andre Hunter,Shooting Foul,Foul,,,,ATL,118,115,0.626,0.769,3:02
+4,2:32,BOS,Derrick White,Personal Foul,Foul,,,,ATL,118,116,0.829,0.713,2:33
+4,36.0,BOS,Jaylen Brown,Personal Foul,Foul,,,,ATL,126,121,0.985,0.957,36.0
+4,30.1,ATL,De'Andre Hunter,Shooting Foul,Foul,,,,ATL,128,121,0.927,0.978,36.0
+4,26.1,BOS,Jayson Tatum,Personal Take Foul,Foul,,,,ATL,128,122,0.994,0.976,30.1

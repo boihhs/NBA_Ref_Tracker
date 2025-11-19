@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:47,BOS,Marcus Smart,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,0,4,0.269,0.241,11:02
+1,7:40,LAL,Patrick Beverley,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,7,15,0.161,0.16,7:46
+1,7:36,LAL,Dennis Schroder,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,7,15,0.161,0.161,7:40
+1,6:45,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,9,15,0.211,0.212,6:51
+1,6:31,BOS,Blake Griffin,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,9,15,0.239,0.211,6:45
+1,2:42,BOS,Sam Hauser,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,15,25,0.173,0.148,2:59
+1,1:54,BOS,Grant Williams,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,15,28,0.127,0.108,2:12
+1,1:17,BOS,Jayson Tatum,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,16,30,0.114,0.096,1:26
+1,17.0,LAL,Troy Brown Jr.,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,21,35,0.07,0.084,30.1
+2,11:02,BOS,Malcolm Brogdon,Loose Ball Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,26,39,0.107,0.106,11:03
+2,8:17,BOS,Luke Kornet,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,36,50,0.111,0.091,8:32
+2,3:49,LAL,Russell Westbrook,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,45,56,0.092,0.112,3:54
+2,3:21,BOS,Blake Griffin,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,45,60,0.073,0.074,3:27
+2,2:13,LAL,Dennis Schroder,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,47,64,0.039,0.052,2:13
+2,1:03,BOS,Blake Griffin,Defensive 3-Seconds Technical,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,49,65,0.057,0.059,1:10
+2,40.1,LAL,Russell Westbrook,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,49,65,0.039,0.049,48.1
+2,26.0,BOS,Marcus Smart,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,49,65,0.075,0.058,30.1
+3,11:03,BOS,Marcus Smart,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,50,68,0.051,0.039,11:23
+3,8:15,LAL,Anthony Davis,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,59,75,0.029,0.039,8:30
+3,8:03,BOS,Blake Griffin,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,59,76,0.038,0.038,8:15
+3,5:33,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,65,84,0.028,0.02,5:40
+3,2:45,BOS,Malcolm Brogdon,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,74,86,0.088,0.06,2:45
+3,1:57,LAL,Russell Westbrook,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,74,88,0.025,0.035,2:01
+3,1:50,LAL,LeBron James,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,74,88,0.024,0.025,1:57
+3,1:14,BOS,Grant Williams,Loose Ball Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,74,88,0.062,0.043,1:14
+3,6.1,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,80,88,0.193,0.148,6.1
+4,9:35,BOS,Derrick White,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,87,88,0.489,0.435,9:40
+4,9:20,LAL,Russell Westbrook,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,89,88,0.478,0.49,9:35
+4,8:41,LAL,LeBron James,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,92,88,0.643,0.657,8:55
+4,7:49,BOS,Marcus Smart,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,92,90,0.708,0.605,8:04
+4,6:24,LAL,Austin Reaves,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,98,92,0.744,0.845,6:24
+4,4:38,LAL,LeBron James,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,105,93,0.955,0.977,4:48
+4,4:25,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,105,93,0.991,0.985,4:25
+4,3:08,LAL,LeBron James,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,106,98,0.875,0.926,3:16
+4,1:14,BOS,Grant Williams,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,110,105,0.963,0.912,1:21
+4,28.0,BOS,Luke Kornet,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,110,108,0.895,0.77,39.1
+5,2:27,LAL,Austin Reaves,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,114,115,0.241,0.372,2:45
+5,1:53,BOS,Grant Williams,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,114,119,0.26,0.136,2:03
+5,22.0,LAL,Austin Reaves,Personal Take Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,118,122,0.025,0.094,27.1
+5,12.1,LAL,Troy Brown Jr.,Personal Take Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,LAL,118,122,0.013,0.025,22.0

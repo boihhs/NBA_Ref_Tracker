@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:30,LAC,Terance Mann,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,8,4,0.687,0.686,8:41
+1,8:03,IND,Tyrese Haliburton,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,8,6,0.697,0.665,8:19
+1,7:32,IND,Ben Sheppard,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,9,9,0.613,0.615,7:40
+1,6:19,IND,Ben Sheppard,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,13,14,0.583,0.586,6:32
+1,6:12,IND,Andrew Nembhard,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,13,14,0.623,0.583,6:19
+1,5:24,LAC,Ivica Zubac,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,15,14,0.568,0.609,5:34
+1,4:34,LAC,Paul George,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,20,16,0.682,0.681,4:47
+1,4:28,LAC,Ivica Zubac,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,20,16,0.645,0.682,4:34
+1,3:00,IND,Doug McDermott,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,25,20,0.761,0.726,3:26
+1,47.1,IND,Doug McDermott,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,32,28,0.738,0.703,52.0
+1,31.1,LAC,P.J. Tucker,Loose Ball Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,34,28,0.691,0.726,32.1
+2,11:36,LAC,Paul George,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,34,29,0.665,0.703,11:39
+2,10:53,IND,Jarace Walker,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,36,34,0.691,0.652,11:09
+2,10:18,LAC,P.J. Tucker,Offensive Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,38,36,0.624,0.651,10:31
+2,6:57,LAC,Norman Powell,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,49,44,0.66,0.702,7:04
+2,6:33,IND,Myles Turner,Loose Ball Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,49,46,0.672,0.675,6:33
+2,3:54,LAC,James Harden,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,55,54,0.583,0.583,4:03
+2,3:52,LAC,Kawhi Leonard,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,55,54,0.533,0.583,3:54
+2,6.1,IND,Andrew Nembhard,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,62,65,0.522,0.468,13.1
+3,11:24,IND,Andrew Nembhard,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,62,68,0.36,0.36,11:47
+3,11:21,IND,Pascal Siakam,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,62,68,0.36,0.36,11:24
+3,9:47,IND,Tyrese Haliburton,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,66,73,0.365,0.315,9:57
+3,9:04,LAC,Kawhi Leonard,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,68,75,0.276,0.274,9:10
+3,8:25,IND,Myles Turner,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,70,78,0.296,0.24,8:25
+3,7:34,LAC,Russell Westbrook,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,71,80,0.164,0.205,7:49
+3,7:02,LAC,James Harden,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,73,80,0.26,0.26,7:16
+3,5:16,LAC,Russell Westbrook,Technical Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,77,83,0.251,0.278,5:18
+3,4:47,LAC,Norman Powell,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,77,84,0.192,0.238,4:52
+3,4:03,LAC,Amir Coffey,Personal Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,79,84,0.25,0.308,4:17
+3,3:23,IND,Myles Turner,Offensive Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,81,86,0.345,0.345,3:23
+3,2:58,LAC,P.J. Tucker,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,83,86,0.316,0.38,3:10
+3,2:53,IND,Myles Turner,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,83,87,0.446,0.38,2:55
+3,1:42,LAC,Amir Coffey,Loose Ball Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,84,91,0.159,0.207,1:42
+3,49.0,IND,Jalen Smith,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,86,95,0.22,0.171,1:07
+4,9:36,IND,Ben Sheppard,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,89,105,0.032,0.018,9:49
+4,9:23,LAC,James Harden,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,92,105,0.019,0.034,9:36
+4,8:42,IND,T.J. McConnell,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,94,110,0.027,0.014,8:55
+4,5:58,IND,Jarace Walker,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,99,122,0.001,0.001,6:18
+4,1:28,IND,Isaiah Jackson,Offensive Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,114,131,0.001,0.001,1:41
+4,55.1,LAC,Amir Coffey,Shooting Foul,Foul,James Capers,Kevin Cutler,J.T. Orr,LAC,114,133,0.001,0.001,55.1

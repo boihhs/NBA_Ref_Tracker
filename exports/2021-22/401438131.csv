@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:12,BOS,Jayson Tatum,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,5,5,0.736,0.737,10:25
+1,6:41,BOS,Robert Williams III,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,18,10,0.871,0.862,6:41
+1,5:41,MIA,P.J. Tucker,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,18,13,0.799,0.798,5:41
+1,4:00,BOS,Jaylen Brown,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,20,15,0.823,0.794,4:00
+1,3:24,MIA,Tyler Herro,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,21,18,0.72,0.753,3:26
+1,1:41,BOS,Al Horford,Offensive Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,21,26,0.571,0.542,1:45
+2,11:23,BOS,Grant Williams,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,24,38,0.287,0.289,11:37
+2,8:34,MIA,Caleb Martin,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,28,42,0.217,0.236,8:36
+2,7:24,BOS,Payton Pritchard,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,30,47,0.212,0.158,7:46
+2,7:08,MIA,Tyler Herro,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,31,47,0.176,0.175,7:20
+2,6:54,MIA,Bam Adebayo,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,31,49,0.12,0.151,6:54
+2,4:52,MIA,Bam Adebayo,Loose Ball Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,33,54,0.057,0.071,4:52
+2,4:09,MIA,P.J. Tucker,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,35,58,0.042,0.058,4:09
+2,3:05,MIA,Gabe Vincent,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,37,62,0.021,0.029,3:11
+2,2:51,BOS,Grant Williams,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,39,64,0.04,0.028,2:51
+2,1:51,MIA,Jimmy Butler III,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,39,64,0.018,0.025,1:54
+2,27.2,BOS,Jaylen Brown,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,44,68,0.04,0.025,27.2
+3,10:29,BOS,Marcus Smart,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,45,72,0.017,0.011,10:33
+3,10:05,BOS,Jaylen Brown,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,46,72,0.015,0.015,10:09
+3,9:47,BOS,Robert Williams III,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,46,72,0.017,0.014,9:47
+3,9:28,MIA,Bam Adebayo,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,48,74,0.008,0.014,9:28
+3,7:28,MIA,Gabe Vincent,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,53,80,0.005,0.005,7:33
+3,7:23,BOS,Grant Williams,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,53,80,0.01,0.006,7:23
+3,6:22,MIA,Jimmy Butler III,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,57,80,0.009,0.013,6:39
+3,4:15,MIA,Max Strus,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,62,82,0.013,0.02,4:19
+3,3:46,BOS,Jaylen Brown,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,64,82,0.047,0.03,3:46
+3,3:28,MIA,Gabe Vincent,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,65,82,0.025,0.038,3:46
+3,2:12,MIA,Dewayne Dedmon,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,67,86,0.011,0.017,2:16
+3,18.3,MIA,Jimmy Butler III,Loose Ball Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,69,94,0.001,0.001,18.3
+3,4.7,BOS,Robert Williams III,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,69,96,0.001,0.001,18.3
+4,8:03,BOS,Grant Williams,Personal Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,79,108,0.001,0.001,8:05
+4,7:50,MIA,Dewayne Dedmon,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,79,108,0.001,0.001,7:56
+4,7:02,BOS,Payton Pritchard,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,81,112,0.001,0.001,7:15
+4,6:18,BOS,Grant Williams,Personal Take Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,83,115,0.001,0.001,6:21
+4,5:46,BOS,Aaron Nesmith,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,83,115,0.001,0.001,5:47
+4,2:18,BOS,Juwan Morgan,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,95,121,0.001,0.001,2:21
+4,2:01,MIA,Haywood Highsmith,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,97,121,0.001,0.001,2:01
+4,1:23,BOS,Aaron Nesmith,Shooting Foul,Foul,Bill Kennedy,John Goble,David Guthrie,MIA,99,127,0.001,0.001,1:31

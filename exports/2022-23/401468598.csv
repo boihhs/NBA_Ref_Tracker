@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:42,OKC,Aleksej Pokusevski,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,0,0,0.126,0.143,12:00
+1,10:30,MEM,Steven Adams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,3,6,0.142,0.114,10:37
+1,7:05,OKC,Jalen Williams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,12,9,0.188,0.212,7:22
+1,6:50,OKC,Isaiah Joe,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,12,11,0.16,0.181,6:53
+1,5:59,OKC,Aleksej Pokusevski,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,15,15,0.16,0.186,5:59
+1,1:39,OKC,Mike Muscala,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,23,20,0.222,0.252,1:39
+1,1:00,MEM,Brandon Clarke,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,23,21,0.29,0.26,1:00
+1,50.1,MEM,Dillon Brooks,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,23,21,0.291,0.29,1:00
+2,11:28,OKC,Jaylin Williams,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,27,21,0.345,0.342,11:40
+2,10:47,OKC,Lindy Waters III,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,27,21,0.312,0.35,10:55
+2,9:36,MEM,Ziaire Williams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,29,24,0.409,0.362,9:47
+2,7:30,OKC,Kenrich Williams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,38,24,0.598,0.643,7:51
+2,2:58,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,51,33,0.792,0.828,3:09
+2,2:53,OKC,Kenrich Williams,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,51,33,0.793,0.792,2:58
+2,2:53,OKC,Kenrich Williams,Technical Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,51,33,0.812,0.793,2:53
+2,2:04,OKC,Isaiah Joe,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,54,35,0.83,0.864,2:11
+2,1:49,MEM,John Konchar,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,54,37,0.874,0.843,2:04
+2,1:36,OKC,Isaiah Joe,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,55,37,0.808,0.842,1:47
+2,54.1,MEM,Ja Morant,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,57,40,0.884,0.855,56.1
+2,54.1,MEM,Ja Morant,Technical Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,57,40,0.867,0.884,54.1
+2,43.0,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,60,40,0.934,0.911,43.0
+2,43.0,MEM,Ja Morant,Technical Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,61,40,0.936,0.936,43.0
+2,43.0,MEM,Dillon Brooks,Technical Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,61,40,0.936,0.936,43.0
+3,11:32,OKC,Isaiah Joe,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,64,43,0.925,0.923,11:41
+3,11:16,MEM,Dillon Brooks,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,64,43,0.94,0.942,11:21
+3,9:38,OKC,Eugene Omoruyi,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,69,50,0.9,0.928,9:38
+3,9:19,OKC,Aleksej Pokusevski,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,69,51,0.866,0.897,9:23
+3,7:34,OKC,Eugene Omoruyi,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,75,53,0.95,0.965,7:44
+3,6:58,OKC,Eugene Omoruyi,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,78,55,0.965,0.974,7:22
+3,5:44,MEM,Steven Adams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,80,63,0.953,0.931,6:05
+3,5:29,OKC,Kenrich Williams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,81,63,0.913,0.935,5:44
+3,5:12,MEM,Dillon Brooks,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,81,65,0.925,0.923,5:12
+3,5:03,MEM,Brandon Clarke,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,81,65,0.946,0.925,5:03
+3,4:35,MEM,Ziaire Williams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,83,65,0.963,0.943,4:35
+3,4:10,MEM,Tyus Jones,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,83,65,0.971,0.958,4:16
+3,3:47,OKC,Luguentz Dort,Offensive Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,84,67,0.937,0.949,3:59
+3,3:34,OKC,Aaron Wiggins,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,84,67,0.914,0.937,3:47
+3,3:23,MEM,Santi Aldama,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,84,69,0.948,0.924,3:34
+3,2:52,MEM,David Roddy,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,85,72,0.923,0.89,3:09
+4,10:47,MEM,Dillon Brooks,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,96,80,0.983,0.97,10:47
+4,10:13,OKC,Lindy Waters III,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,100,82,0.98,0.99,10:13
+4,9:37,OKC,Jaylin Williams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,100,85,0.954,0.977,9:37
+4,7:26,OKC,Jaylin Williams,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,102,87,0.961,0.979,7:42
+4,5:52,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,106,91,0.975,0.987,5:52
+4,3:51,OKC,Aleksej Pokusevski,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,106,96,0.919,0.952,3:59
+4,49.1,MEM,Steven Adams,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,111,103,0.997,0.989,55.1
+4,45.2,MEM,Steven Adams,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,111,103,0.997,0.997,49.1
+4,24.0,MEM,Steven Adams,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,112,106,0.995,0.976,31.0
+4,19.0,MEM,Steven Adams,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,OKC,114,109,0.99,0.964,22.1

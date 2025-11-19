@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:43,ORL,Cole Anthony,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,2,5,0.251,0.248,9:54
+1,6:33,BKN,Kevin Durant,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,10,15,0.267,0.237,6:40
+1,6:02,ORL,Chuma Okeke,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,11,17,0.2,0.199,6:03
+1,4:46,BKN,Blake Griffin,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,11,19,0.211,0.185,5:00
+1,29.1,ORL,Chuma Okeke,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,21,28,0.16,0.186,36.5
+2,10:09,BKN,DeAndre' Bembry,Loose Ball Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,25,33,0.19,0.189,10:09
+2,10:01,BKN,Jevon Carter,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,25,33,0.218,0.19,10:09
+2,9:58,ORL,Jalen Suggs,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,27,33,0.209,0.206,10:01
+2,9:45,BKN,DeAndre' Bembry,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,27,35,0.189,0.189,9:53
+2,9:42,BKN,Paul Millsap,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,27,35,0.219,0.189,9:45
+2,9:12,BKN,Paul Millsap,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,29,37,0.203,0.187,9:30
+2,8:43,ORL,Mo Bamba,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,30,37,0.188,0.187,8:47
+2,4:34,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,36,53,0.048,0.058,4:34
+2,4:34,ORL,Wendell Carter Jr.,Technical Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,36,53,0.053,0.048,4:34
+2,4:09,ORL,Wendell Carter Jr.,Defensive 3-Seconds Technical,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,38,54,0.05,0.057,4:22
+2,3:52,BKN,Joe Harris,Loose Ball Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,38,55,0.052,0.057,3:52
+2,2:40,ORL,Jalen Suggs,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,41,59,0.035,0.046,2:40
+2,2:26,BKN,Blake Griffin,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,43,60,0.054,0.046,2:26
+2,1:51,BKN,Bruce Brown,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,46,60,0.105,0.085,1:53
+2,31.4,ORL,Franz Wagner,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,52,62,0.101,0.126,44.5
+2,25.6,BKN,Bruce Brown,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,52,65,0.119,0.096,31.4
+3,10:30,BKN,Joe Harris,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,53,65,0.132,0.104,10:34
+3,7:31,ORL,Jalen Suggs,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,59,72,0.051,0.068,7:54
+3,6:57,BKN,James Harden,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,59,74,0.054,0.054,7:06
+3,5:11,ORL,Terrence Ross,Personal Take Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,63,76,0.059,0.058,5:12
+3,2:51,ORL,Moritz Wagner,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,71,80,0.113,0.114,2:57
+3,2:40,ORL,Chuma Okeke,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,71,83,0.044,0.113,2:51
+3,1:36,BKN,DeAndre' Bembry,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,73,85,0.071,0.072,1:45
+3,31.5,ORL,Moritz Wagner,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,74,90,0.011,0.017,41.6
+3,20.4,BKN,Patty Mills,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,74,92,0.02,0.013,31.5
+4,11:16,ORL,R.J. Hampton,Away from Play Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,75,94,0.004,0.005,11:16
+4,10:50,BKN,Patty Mills,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,75,95,0.005,0.004,10:54
+4,9:33,ORL,Franz Wagner,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,75,98,0.001,0.001,9:34
+4,8:25,BKN,Paul Millsap,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,75,102,0.001,0.001,8:25
+4,2:08,ORL,Moritz Wagner,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,90,119,0.001,0.001,2:29
+4,2:01,ORL,Ignas Brazdeikis,Shooting Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,90,119,0.001,0.001,2:08
+4,50.6,BKN,Paul Millsap,Personal Foul,Foul,Scott Wall,Ben Taylor,Brandon Schwab,ORL,90,123,0.001,0.001,59.4

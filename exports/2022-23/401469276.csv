@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,GS,Klay Thompson,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,2,0,0.623,0.659,11:41
+1,10:31,GS,Stephen Curry,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,2,2,0.571,0.61,10:50
+1,9:58,MIN,Jaden McDaniels,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,5,2,0.698,0.7,10:01
+1,8:32,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,7,8,0.601,0.603,8:32
+1,8:06,GS,Stephen Curry,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,7,8,0.538,0.577,8:19
+1,7:58,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,7,9,0.531,0.551,8:00
+1,4:23,GS,Jordan Poole,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,13,19,0.385,0.43,4:41
+1,50.1,MIN,Taurean Prince,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,25,29,0.538,0.495,1:00
+1,30.1,MIN,Taurean Prince,Flagrant Foul Type 1,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,26,29,0.517,0.523,32.1
+1,26.0,MIN,Taurean Prince,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,27,29,0.594,0.551,30.1
+2,10:52,MIN,Jaden McDaniels,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,29,32,0.561,0.52,11:00
+2,9:41,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,31,36,0.452,0.455,10:03
+2,4:48,MIN,Anthony Edwards,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,40,52,0.239,0.223,4:48
+2,1:36,GS,Donte DiVincenzo,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,52,52,0.5,0.552,1:55
+2,1:00,GS,Donte DiVincenzo,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,55,52,0.599,0.649,1:20
+2,15.0,MIN,Mike Conley,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,55,53,0.694,0.645,28.1
+3,9:03,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,57,53,0.627,0.678,9:11
+3,8:51,GS,Klay Thompson,Offensive Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,57,53,0.681,0.713,9:01
+3,8:44,MIN,Rudy Gobert,Offensive Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,57,53,0.713,0.681,8:51
+3,8:28,MIN,Rudy Gobert,Flagrant Foul Type 1,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,57,53,0.705,0.713,8:44
+3,7:37,GS,Stephen Curry,Offensive Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,58,55,0.645,0.682,7:45
+3,6:43,GS,Jonathan Kuminga,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,58,57,0.508,0.568,6:59
+3,4:05,MIN,Rudy Gobert,Loose Ball Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,63,64,0.521,0.521,4:05
+3,3:41,GS,Kevon Looney,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,66,64,0.607,0.605,3:52
+3,1:45,GS,Donte DiVincenzo,Offensive Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,68,70,0.42,0.465,1:55
+3,37.1,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,70,74,0.366,0.318,48.0
+3,26.1,GS,Jonathan Kuminga,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,70,76,0.205,0.276,26.1
+4,10:16,GS,Jordan Poole,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,75,82,0.114,0.169,10:30
+4,8:42,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,80,86,0.226,0.184,8:55
+4,6:56,MIN,Jaden McDaniels,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,84,88,0.402,0.304,7:07
+4,6:56,MIN,Jaden McDaniels,Technical Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,84,88,0.348,0.402,6:56
+4,5:28,GS,Kevon Looney,Loose Ball Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,87,91,0.209,0.22,5:28
+4,2:53,MIN,Mike Conley,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,89,91,0.386,0.382,3:02
+4,2:03,MIN,Rudy Gobert,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,92,91,0.793,0.642,2:13
+4,1:12,GS,Draymond Green,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,96,94,0.475,0.679,1:28
+4,27.1,GS,Draymond Green,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,96,94,0.477,0.621,35.1
+4,2.1,GS,Klay Thompson,Personal Take Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,96,98,0.012,0.066,4.1
+4,2.0,MIN,Mike Conley,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Ray Acosta,GS,96,99,0.076,0.033,2.1

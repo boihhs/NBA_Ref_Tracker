@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:56,PHX,Cameron Johnson,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,18,7,0.724,0.72,8:12
+1,6:35,UTAH,Royce O'Neale,Personal Take Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,22,10,0.772,0.77,6:35
+1,5:39,PHX,Jae Crowder,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,24,13,0.732,0.731,5:44
+1,4:25,PHX,Devin Booker,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,26,19,0.618,0.667,4:25
+1,4:06,UTAH,Trent Forrest,Away from Play Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,26,20,0.639,0.639,4:06
+1,3:29,PHX,Mikal Bridges,Loose Ball Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,28,22,0.574,0.614,3:29
+1,2:03,PHX,Torrey Craig,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,32,26,0.578,0.618,2:20
+2,10:26,UTAH,Danuel House Jr.,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,36,37,0.475,0.421,10:26
+2,10:15,PHX,Landry Shamet,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,37,37,0.453,0.451,10:26
+2,9:54,UTAH,Jordan Clarkson,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,37,37,0.527,0.484,10:04
+2,6:46,UTAH,Royce O'Neale,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,41,43,0.47,0.424,6:58
+2,4:46,UTAH,Donovan Mitchell,Personal Take Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,43,48,0.378,0.333,4:47
+2,4:33,PHX,Devin Booker,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,43,50,0.229,0.275,4:33
+2,4:04,PHX,Mikal Bridges,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,45,50,0.303,0.302,4:24
+2,3:44,UTAH,Hassan Whiteside,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,45,50,0.377,0.331,3:50
+2,2:49,UTAH,Rudy Gobert,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,49,52,0.416,0.357,2:49
+2,2:34,UTAH,Donovan Mitchell,Loose Ball Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,50,52,0.475,0.392,2:49
+3,7:50,PHX,Jae Crowder,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,75,66,0.762,0.786,7:50
+3,7:17,PHX,Deandre Ayton,Loose Ball Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,75,68,0.726,0.727,7:17
+3,7:10,PHX,Jae Crowder,Flagrant Foul Type 1,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,75,68,0.739,0.726,7:17
+3,5:40,PHX,Deandre Ayton,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,80,74,0.648,0.701,5:53
+3,4:37,UTAH,Trent Forrest,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,80,78,0.653,0.593,4:41
+3,4:16,PHX,Deandre Ayton,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,82,78,0.57,0.635,4:16
+3,33.4,UTAH,Danuel House Jr.,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,88,94,0.307,0.243,41.2
+3,30.6,UTAH,Danuel House Jr.,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,88,94,0.306,0.307,33.4
+3,3.5,UTAH,Mike Conley,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,88,94,0.3,0.238,9.0
+4,11:31,UTAH,Danuel House Jr.,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,89,94,0.288,0.275,11:32
+4,10:01,PHX,Landry Shamet,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,92,94,0.276,0.363,10:07
+4,8:39,PHX,Landry Shamet,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,94,97,0.283,0.298,8:43
+4,7:06,UTAH,Jordan Clarkson,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,97,99,0.412,0.395,7:08
+4,5:54,PHX,Jae Crowder,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,97,101,0.136,0.219,6:08
+4,4:27,UTAH,Jordan Clarkson,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,99,108,0.061,0.055,4:37
+4,1:19,PHX,Cameron Johnson,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,108,116,0.004,0.01,1:37
+4,41.0,PHX,Mikal Bridges,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,111,116,0.017,0.045,41.0
+4,1.1,PHX,Cameron Johnson,Personal Take Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,PHX,114,117,0.002,0.014,2.1

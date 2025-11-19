@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:41,OKC,Jaylin Williams,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,0,0,0.585,0.546,12:00
+1,10:49,NO,Trey Murphy III,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,4,0,0.586,0.621,11:06
+1,10:12,NO,Herbert Jones,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,4,3,0.511,0.548,10:15
+1,8:38,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,6,10,0.482,0.443,8:48
+1,7:04,NO,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,12,15,0.421,0.44,7:04
+1,5:56,NO,Herbert Jones,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,15,17,0.425,0.466,6:09
+1,4:35,OKC,Lindy Waters III,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,17,21,0.477,0.438,4:54
+1,2:15,NO,Jaxson Hayes,Offensive Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,19,23,0.403,0.431,2:31
+1,1:53,OKC,Lindy Waters III,Defensive 3-Seconds Technical,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,19,25,0.37,0.377,2:05
+1,1:16,NO,CJ McCollum,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,20,27,0.28,0.318,1:18
+1,30.1,OKC,Lindy Waters III,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,22,32,0.308,0.269,39.1
+2,10:52,OKC,Josh Giddey,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,27,32,0.416,0.364,10:52
+2,10:35,NO,Naji Marshall,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,28,34,0.316,0.365,10:35
+2,7:49,OKC,Luguentz Dort,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,34,42,0.3,0.302,7:56
+2,6:41,NO,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,34,45,0.181,0.195,6:41
+2,6:14,NO,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,34,47,0.127,0.153,6:30
+2,5:59,NO,Jonas Valanciunas,Technical Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,34,49,0.106,0.117,5:59
+2,5:34,OKC,Dario Saric,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,34,50,0.115,0.117,5:44
+2,4:43,NO,Herbert Jones,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,34,50,0.078,0.098,4:57
+2,3:39,NO,Josh Richardson,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,36,52,0.074,0.094,3:42
+2,2:30,OKC,Isaiah Joe,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,36,57,0.058,0.045,2:41
+2,1:48,NO,CJ McCollum,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,38,57,0.039,0.052,1:59
+2,1:35,OKC,Ousmane Dieng,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,40,59,0.069,0.051,1:35
+2,31.1,NO,Naji Marshall,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,44,59,0.072,0.092,35.1
+3,10:52,NO,Herbert Jones,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,47,63,0.071,0.071,11:07
+3,9:51,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,51,67,0.089,0.065,9:51
+3,8:26,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,55,71,0.093,0.072,8:42
+3,7:38,NO,Trey Murphy III,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,56,74,0.036,0.036,7:43
+3,7:38,OKC,Jaylin Williams,Offensive Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,56,74,0.045,0.036,7:38
+3,7:11,OKC,Luguentz Dort,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,56,74,0.042,0.043,7:16
+3,6:58,OKC,Luguentz Dort,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,56,74,0.057,0.042,7:11
+3,5:56,NO,Josh Richardson,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,58,76,0.022,0.029,5:58
+3,1:32,NO,Jaxson Hayes,Loose Ball Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,69,85,0.017,0.026,1:32
+3,49.1,OKC,Dario Saric,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,69,87,0.028,0.019,1:08
+4,8:42,NO,Jaxson Hayes,Loose Ball Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,77,92,0.012,0.012,8:42
+4,5:12,NO,Trey Murphy III,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,87,96,0.025,0.049,5:30
+4,3:12,NO,CJ McCollum,Flagrant Foul Type 1,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,91,101,0.014,0.023,3:12
+4,1:27,OKC,Luguentz Dort,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,93,106,0.001,0.001,1:41
+4,1:11,NO,Jaxson Hayes,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,96,106,0.001,0.005,1:27
+4,1:06,NO,Herbert Jones,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,96,106,0.001,0.001,1:11
+4,29.1,NO,Naji Marshall,Offensive Foul,Foul,Zach Zarba,Scott Twardoski,Nate Green,NO,96,110,0.001,0.001,31.0

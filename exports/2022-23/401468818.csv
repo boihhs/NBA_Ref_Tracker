@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:08,PHX,Torrey Craig,Personal Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,4,11,0.606,0.606,9:20
+1,7:57,MEM,Dillon Brooks,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,9,13,0.609,0.65,8:20
+1,5:54,PHX,Mikal Bridges,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,17,17,0.776,0.748,6:00
+1,5:32,PHX,Torrey Craig,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,21,17,0.829,0.801,5:32
+1,4:59,MEM,Ja Morant,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,22,20,0.732,0.763,5:07
+1,3:13,MEM,Steven Adams,Loose Ball Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,22,29,0.528,0.529,3:13
+1,2:50,MEM,Santi Aldama,Offensive Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,22,31,0.469,0.5,2:59
+1,2:32,PHX,Deandre Ayton,Offensive Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,22,31,0.495,0.469,2:50
+1,1:28,MEM,Ziaire Williams,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,25,31,0.52,0.544,1:28
+1,1:07,MEM,Brandon Clarke,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,25,35,0.398,0.452,1:07
+1,1:00,PHX,Jock Landale,Personal Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,25,36,0.467,0.423,1:07
+2,11:35,PHX,Damion Lee,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,29,36,0.572,0.528,11:40
+2,10:27,MEM,David Roddy,Loose Ball Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,33,36,0.607,0.605,10:27
+2,9:31,PHX,Damion Lee,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,36,39,0.668,0.63,9:37
+2,8:14,PHX,Jock Landale,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,41,44,0.638,0.62,8:14
+2,7:25,MEM,Brandon Clarke,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,45,46,0.598,0.643,7:33
+2,4:03,MEM,Steven Adams,Loose Ball Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,57,55,0.709,0.708,4:03
+2,1:24,PHX,Saben Lee,Offensive Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,66,60,0.823,0.8,1:41
+2,13.2,MEM,Steven Adams,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,66,64,0.668,0.719,13.2
+2,4.1,PHX,Saben Lee,Personal Take Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,66,65,0.732,0.691,13.2
+3,11:44,MEM,Desmond Bane,Personal Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,68,65,0.719,0.731,12:00
+3,10:27,PHX,Landry Shamet,Personal Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,68,70,0.583,0.585,10:43
+3,8:45,MEM,Dillon Brooks,Personal Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,76,70,0.795,0.795,8:56
+3,8:38,MEM,Dillon Brooks,Technical Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,76,70,0.775,0.795,8:45
+3,8:25,MEM,Dillon Brooks,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,76,73,0.684,0.741,8:25
+3,7:19,PHX,Dario Saric,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,81,74,0.875,0.845,7:22
+3,6:52,PHX,Dario Saric,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,85,74,0.927,0.903,6:52
+3,6:51,PHX,Deandre Ayton,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,87,74,0.95,0.931,6:51
+3,6:25,PHX,Landry Shamet,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,88,74,0.965,0.953,6:34
+3,5:49,MEM,Ziaire Williams,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,89,76,0.923,0.945,5:49
+3,5:04,PHX,Saben Lee,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,94,77,0.981,0.972,5:04
+3,4:57,PHX,Deandre Ayton,Offensive Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,95,77,0.982,0.977,5:04
+3,3:21,MEM,Ziaire Williams,Personal Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,100,79,0.987,0.991,3:38
+3,3:07,PHX,Deandre Ayton,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,102,81,0.995,0.992,3:07
+3,8.1,MEM,Tyus Jones,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,107,87,0.99,0.994,11.1
+4,11:20,PHX,Torrey Craig,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,109,88,0.998,0.997,11:22
+4,7:47,PHX,Dario Saric,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,122,93,0.999,0.999,7:47
+4,3:57,MEM,David Roddy,Personal Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,132,98,0.999,0.999,4:05
+4,3:25,MEM,Santi Aldama,Shooting Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,134,98,0.999,0.999,3:35
+4,3:00,PHX,Bismack Biyombo,Offensive Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,134,100,0.999,0.999,3:04
+4,2:47,PHX,Ish Wainright,Personal Foul,Foul,Marc Davis,Tre Maddox,John Butler,MEM,134,100,0.999,0.999,3:00

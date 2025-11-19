@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:23,CLE,Dean Wade,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,0,0,0.379,0.359,11:23
+1,10:47,ORL,Markelle Fultz,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,1,3,0.266,0.295,10:48
+1,9:36,ORL,Franz Wagner,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,3,7,0.229,0.257,9:49
+1,8:35,CLE,Jarrett Allen,Loose Ball Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,8,9,0.346,0.347,8:35
+1,8:06,CLE,Dean Wade,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,8,11,0.303,0.301,8:11
+1,6:49,CLE,Evan Mobley,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,11,15,0.317,0.282,6:52
+1,4:11,CLE,Ricky Rubio,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,18,15,0.506,0.464,4:15
+1,4:05,ORL,Cole Anthony,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,20,15,0.492,0.49,4:11
+1,3:36,CLE,Evan Mobley,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,20,15,0.567,0.52,3:49
+1,1:17,CLE,Jarrett Allen,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,25,23,0.492,0.448,1:33
+1,44.2,ORL,Moritz Wagner,Loose Ball Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,27,23,0.439,0.483,44.2
+2,11:43,ORL,Jalen Suggs,Offensive Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,29,23,0.544,0.556,0.0
+2,11:31,ORL,Moritz Wagner,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,29,23,0.502,0.544,11:43
+2,9:57,ORL,Jalen Suggs,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,33,25,0.615,0.612,9:57
+2,6:57,CLE,Donovan Mitchell,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,37,32,0.619,0.57,7:15
+2,6:25,ORL,Paolo Banchero,Offensive Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,39,32,0.608,0.638,6:34
+2,6:05,ORL,Gary Harris,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,39,34,0.521,0.577,6:05
+2,3:07,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,51,43,0.612,0.66,3:18
+2,1:59,ORL,Wendell Carter Jr.,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,55,50,0.517,0.568,1:59
+2,34.1,ORL,Markelle Fultz,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,57,56,0.413,0.438,34.1
+3,11:29,CLE,Darius Garland,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,59,58,0.504,0.478,11:29
+3,10:54,CLE,Donovan Mitchell,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,61,61,0.442,0.443,11:09
+3,10:15,ORL,Franz Wagner,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,61,63,0.34,0.339,10:18
+3,10:09,CLE,Evan Mobley,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,61,63,0.373,0.376,10:09
+3,5:07,ORL,Markelle Fultz,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,76,81,0.238,0.237,5:22
+3,4:07,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,78,83,0.189,0.235,4:17
+3,58.0,ORL,Goga Bitadze,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,87,89,0.278,0.344,1:17
+4,10:17,ORL,Cole Anthony,Technical Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,93,97,0.212,0.242,10:17
+4,9:42,CLE,Jarrett Allen,Offensive Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,95,98,0.34,0.285,9:56
+4,9:02,ORL,Moritz Wagner,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,97,98,0.373,0.389,9:21
+4,5:11,CLE,Dean Wade,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,102,108,0.157,0.151,5:13
+4,2:29,CLE,Jarrett Allen,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,109,111,0.363,0.36,2:29
+4,1:30,ORL,Franz Wagner,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,109,113,0.053,0.12,1:42
+4,1:17,CLE,Caris LeVert,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,109,115,0.16,0.163,1:19
+4,9.1,ORL,Markelle Fultz,Personal Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,111,115,0.009,0.035,9.1
+4,4.1,CLE,Dean Wade,Shooting Foul,Foul,Brian Forte,Curtis Blair,John Conley,ORL,111,117,0.033,0.014,9.1

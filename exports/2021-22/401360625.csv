@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:32,ORL,Mo Bamba,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,0,2,0.185,0.195,9:51
+1,8:02,BOS,Jaylen Brown,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,2,6,0.196,0.169,8:02
+1,6:29,BOS,Robert Williams III,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,5,8,0.234,0.205,6:48
+1,5:17,ORL,Cole Anthony,Personal Take Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,7,13,0.147,0.16,5:36
+1,2:56,ORL,Gary Harris,Personal Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,13,15,0.22,0.219,3:05
+1,1:15,BOS,Josh Richardson,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,13,19,0.197,0.171,1:17
+2,9:51,ORL,Gary Harris,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,22,27,0.166,0.198,9:51
+2,9:12,BOS,Dennis Schroder,Personal Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,24,28,0.22,0.221,9:14
+2,9:09,BOS,Josh Richardson,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,24,28,0.253,0.22,9:12
+2,8:05,ORL,Mo Bamba,Loose Ball Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,26,34,0.132,0.132,8:05
+2,6:25,BOS,Dennis Schroder,Personal Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,28,37,0.133,0.135,6:36
+2,5:33,BOS,Marcus Smart,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,28,37,0.135,0.135,5:33
+2,2:30,BOS,Robert Williams III,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,34,40,0.229,0.194,2:34
+2,2:20,ORL,Cole Anthony,Personal Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,36,40,0.216,0.216,2:30
+2,1:52,BOS,Robert Williams III,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,36,42,0.231,0.196,2:09
+2,1:18,ORL,Jalen Suggs,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,39,44,0.164,0.195,1:28
+3,8:02,BOS,Robert Williams III,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,44,55,0.11,0.083,8:02
+3,7:53,ORL,Mo Bamba,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,45,57,0.06,0.082,7:53
+3,6:28,BOS,Al Horford,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,49,62,0.086,0.066,6:34
+3,5:42,BOS,Jayson Tatum,Personal Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,53,62,0.128,0.129,5:46
+3,4:25,ORL,Franz Wagner,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,53,64,0.063,0.088,4:25
+3,1.0,BOS,Grant Williams,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,59,78,0.012,0.007,8.6
+4,10:56,BOS,BOS,Delay Technical,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,63,83,0.003,0.004,10:56
+4,9:34,BOS,Grant Williams,Personal Take Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,64,86,0.001,0.001,9:34
+4,9:12,ORL,Gary Harris,Personal Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,64,86,0.001,0.001,9:12
+4,7:57,BOS,Dennis Schroder,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,67,88,0.002,0.001,8:08
+4,7:23,ORL,Jalen Suggs,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,69,90,0.001,0.001,7:26
+4,7:18,ORL,Jalen Suggs,Offensive Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,69,91,0.001,0.001,7:21
+4,6:37,ORL,Jalen Suggs,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,71,93,0.001,0.001,6:37
+4,5:30,ORL,Franz Wagner,Loose Ball Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,73,96,0.001,0.001,5:30
+4,5:01,ORL,Jalen Suggs,Shooting Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,73,99,0.001,0.001,5:01
+4,4:57,BOS,Jaylen Brown,Personal Take Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,73,101,0.001,0.001,5:01
+4,3:15,ORL,Moritz Wagner,Personal Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,78,107,0.001,0.001,3:20
+4,36.6,BOS,Payton Pritchard,Personal Foul,Foul,Marc Davis,Nick Buchert,Brandon Schwab,ORL,83,116,0.001,0.001,46.1

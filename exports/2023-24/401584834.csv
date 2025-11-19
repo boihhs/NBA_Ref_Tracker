@@ -1,0 +1,58 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:55,MEM,Bismack Biyombo,Shooting Foul,Foul,,,,SA,3,6,0.361,0.328,11:11
+1,10:23,MEM,John Konchar,Shooting Foul,Foul,,,,SA,4,6,0.385,0.35,10:24
+1,8:58,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,,,,SA,12,9,0.516,0.477,9:12
+1,7:47,MEM,Desmond Bane,Offensive Foul,Foul,,,,SA,18,11,0.586,0.562,7:56
+1,6:59,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,,,,SA,18,11,0.591,0.566,7:05
+1,5:21,SA,Malaki Branham,Shooting Foul,Foul,,,,SA,23,15,0.559,0.601,5:24
+1,4:38,MEM,John Konchar,Shooting Foul,Foul,,,,SA,23,19,0.563,0.521,4:56
+1,4:29,MEM,Bismack Biyombo,Offensive Foul,Foul,,,,SA,25,19,0.578,0.549,4:38
+1,4:11,MEM,Desmond Bane,Offensive Foul,Foul,,,,SA,25,19,0.579,0.55,4:24
+1,3:42,SA,Charles Bassey,Shooting Foul,Foul,,,,SA,28,19,0.593,0.637,3:53
+1,3:04,SA,Charles Bassey,Personal Foul,Foul,,,,SA,28,21,0.583,0.584,3:19
+1,3:01,MEM,Santi Aldama,Offensive Foul,Foul,,,,SA,28,21,0.615,0.583,3:04
+1,2:52,SA,Charles Bassey,Offensive Foul,Foul,,,,SA,28,21,0.585,0.615,3:01
+1,1:34,SA,Cedi Osman,Defensive 3-Seconds Technical,Foul,,,,SA,31,23,0.629,0.616,1:50
+1,1:14,MEM,Kenneth Lofton Jr.,Shooting Foul,Foul,,,,SA,33,26,0.645,0.593,1:14
+2,9:59,MEM,Jacob Gilyard,Personal Foul,Foul,,,,SA,40,31,0.694,0.694,10:12
+2,9:51,MEM,Jacob Gilyard,Personal Foul,Foul,,,,SA,40,31,0.694,0.694,9:59
+2,9:47,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,,,,SA,40,31,0.731,0.694,9:51
+2,8:41,MEM,Kenneth Lofton Jr.,Personal Foul,Foul,,,,SA,46,34,0.808,0.775,8:44
+2,7:44,MEM,Jacob Gilyard,Shooting Foul,Foul,,,,SA,50,37,0.82,0.802,7:47
+2,7:30,SA,Doug McDermott,Personal Foul,Foul,,,,SA,52,37,0.828,0.745,9:47
+2,7:15,SA,Doug McDermott,Loose Ball Foul,Foul,,,,SA,52,37,0.829,0.83,7:15
+2,7:10,SA,Keldon Johnson,Shooting Foul,Foul,,,,SA,52,37,0.798,0.829,7:15
+2,6:57,SA,Zach Collins,Shooting Foul,Foul,,,,SA,52,38,0.777,0.81,7:03
+2,6:40,MEM,Derrick Rose,Personal Foul,Foul,,,,SA,52,39,0.845,0.811,6:55
+2,6:28,SA,Zach Collins,Defensive 3-Seconds Technical,Foul,,,,SA,54,39,0.842,0.833,6:40
+2,3:47,MEM,Bismack Biyombo,Personal Foul,Foul,,,,SA,61,44,0.922,0.903,4:01
+2,3:47,MEM,Bismack Biyombo,Technical Foul,Foul,,,,SA,61,44,0.912,0.922,3:47
+2,3:36,SA,Doug McDermott,Shooting Foul,Foul,,,,SA,63,44,0.896,0.918,3:47
+2,2:56,SA,Zach Collins,Offensive Foul,Foul,,,,SA,63,44,0.923,0.933,3:02
+2,1:45,MEM,Kenneth Lofton Jr.,Offensive Foul,Foul,,,,SA,63,49,0.868,0.845,1:49
+2,1:36,MEM,Santi Aldama,Personal Foul,Foul,,,,SA,63,49,0.895,0.868,1:45
+2,23.0,MEM,Desmond Bane,Personal Foul,Foul,,,,SA,66,51,0.916,0.892,30.2
+3,10:49,SA,Zach Collins,Loose Ball Foul,Foul,,,,SA,70,55,0.887,0.887,10:49
+3,10:35,SA,Victor Wembanyama,Shooting Foul,Foul,,,,SA,70,55,0.858,0.887,10:49
+3,10:06,SA,Jeremy Sochan,Personal Foul,Foul,,,,SA,70,56,0.873,0.89,10:10
+3,8:05,MEM,Bismack Biyombo,Personal Foul,Foul,,,,SA,75,60,0.92,0.922,8:06
+3,5:21,SA,Cedi Osman,Loose Ball Foul,Foul,,,,SA,83,67,0.916,0.938,5:21
+3,4:26,MEM,David Roddy,Shooting Foul,Foul,,,,SA,85,67,0.976,0.965,4:26
+3,4:17,SA,Sandro Mamukelashvili,Shooting Foul,Foul,,,,SA,85,69,0.935,0.955,4:17
+3,3:19,SA,Malaki Branham,Personal Foul,Foul,,,,SA,88,73,0.915,0.937,3:29
+3,2:07,MEM,Ziaire Williams,Shooting Foul,Foul,,,,SA,90,79,0.925,0.895,2:25
+3,1:53,SA,Victor Wembanyama,Shooting Foul,Foul,,,,SA,92,79,0.903,0.918,1:56
+3,1:29,SA,Tre Jones,Shooting Foul,Foul,,,,SA,94,83,0.861,0.903,1:29
+3,49.1,SA,Victor Wembanyama,Offensive Foul,Foul,,,,SA,94,87,0.762,0.918,1:54
+4,11:16,SA,Victor Wembanyama,Shooting Foul,Foul,,,,SA,94,87,0.705,0.781,11:21
+4,10:44,SA,Zach Collins,Shooting Foul,Foul,,,,SA,96,89,0.703,0.781,11:01
+4,9:39,SA,Zach Collins,Shooting Foul,Foul,,,,SA,99,93,0.657,0.746,10:01
+4,9:39,SA,Zach Collins,Technical Foul,Foul,,,,SA,99,93,0.704,0.657,9:39
+4,9:07,SA,Jeremy Sochan,Shooting Foul,Foul,,,,SA,99,96,0.537,0.592,9:07
+4,9:00,SA,Sandro Mamukelashvili,Offensive Foul,Foul,,,,SA,99,98,0.471,0.531,9:07
+4,8:48,SA,Sandro Mamukelashvili,Shooting Foul,Foul,,,,SA,99,100,0.321,0.417,8:48
+4,8:32,MEM,Desmond Bane,Personal Foul,Foul,,,,SA,99,102,0.322,0.312,8:32
+4,7:53,MEM,Desmond Bane,Personal Foul,Foul,,,,SA,99,104,0.231,0.217,7:54
+4,3:37,SA,Victor Wembanyama,Personal Foul,Foul,,,,SA,103,111,0.019,0.04,3:59
+4,2:43,SA,Jeremy Sochan,Loose Ball Foul,Foul,,,,SA,103,113,0.004,0.008,2:43
+4,56.0,SA,Zach Collins,Shooting Foul,Foul,,,,SA,108,116,0.002,0.009,1:07

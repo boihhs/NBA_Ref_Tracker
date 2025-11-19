@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:18,PHI,Joel Embiid,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,10,4,0.75,0.78,9:30
+1,8:58,TOR,OG Anunoby,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,10,5,0.804,0.778,9:16
+1,4:21,TOR,OG Anunoby,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,20,18,0.74,0.709,4:39
+1,3:46,PHI,Joel Embiid,Offensive Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,21,20,0.656,0.682,3:54
+1,3:35,PHI,Georges Niang,Personal Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,21,20,0.657,0.656,3:46
+1,3:35,PHI,PHI,Technical Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,21,20,0.639,0.657,3:35
+1,1:05,PHI,Georges Niang,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,29,24,0.711,0.746,1:20
+1,3.1,TOR,Fred VanVleet,Personal Take Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,31,30,0.707,0.671,9.0
+2,11:42,TOR,Pascal Siakam,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,31,30,0.709,0.661,12:00
+2,11:00,PHI,Jalen McDaniels,Personal Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,35,30,0.743,0.743,11:13
+2,8:51,TOR,Chris Boucher,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,41,36,0.778,0.74,8:51
+2,8:38,PHI,Shake Milton,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,42,36,0.727,0.762,8:51
+2,5:45,TOR,Scottie Barnes,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,57,42,0.934,0.917,5:45
+2,4:27,PHI,Danuel House Jr.,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,60,46,0.887,0.906,4:44
+2,4:11,TOR,Jakob Poeltl,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,62,47,0.937,0.92,4:11
+2,2:11,PHI,Joel Embiid,Technical Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,71,52,0.954,0.96,2:15
+3,11:42,PHI,James Harden,Transition Take Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,77,57,0.972,0.971,11:45
+3,8:54,PHI,De'Anthony Melton,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,77,65,0.87,0.898,8:57
+3,7:59,TOR,OG Anunoby,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,77,69,0.872,0.839,8:13
+3,7:42,PHI,James Harden,Personal Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,79,69,0.864,0.862,7:59
+3,6:51,TOR,Jakob Poeltl,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,84,72,0.93,0.904,6:51
+3,5:41,TOR,Scottie Barnes,Personal Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,85,74,0.908,0.891,5:45
+3,5:16,PHI,Joel Embiid,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,85,74,0.877,0.892,5:21
+3,4:50,PHI,Georges Niang,Personal Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,85,75,0.839,0.874,4:51
+3,4:43,PHI,Georges Niang,Offensive Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,85,77,0.828,0.852,4:50
+3,2:13,PHI,De'Anthony Melton,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,91,80,0.875,0.906,2:15
+3,58.0,TOR,Christian Koloko,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,94,84,0.939,0.914,1:13
+3,58.0,TOR,Christian Koloko,Technical Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,94,84,0.927,0.939,58.0
+4,10:38,PHI,Shake Milton,Personal Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,99,91,0.852,0.863,10:42
+4,8:16,TOR,Fred VanVleet,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,101,96,0.869,0.807,8:18
+4,7:18,PHI,Danuel House Jr.,Personal Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,103,98,0.763,0.774,7:35
+4,5:13,TOR,Fred VanVleet,Offensive Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,105,101,0.8,0.743,5:25
+4,4:20,TOR,Fred VanVleet,Offensive Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,105,101,0.811,0.751,4:39
+4,3:11,PHI,P.J. Tucker,Personal Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,110,101,0.956,0.909,3:32
+4,2:46,PHI,P.J. Tucker,Offensive Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,110,101,0.967,0.979,2:55
+4,2:01,TOR,OG Anunoby,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,110,101,0.995,0.985,2:21
+4,47.1,PHI,Tyrese Maxey,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,112,105,0.937,0.993,47.1
+4,37.0,TOR,Scottie Barnes,Personal Take Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,112,105,0.996,0.984,46.1
+4,35.1,TOR,Pascal Siakam,Personal Take Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,112,105,0.996,0.988,37.0
+4,19.1,TOR,Fred VanVleet,Personal Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,114,107,0.998,0.994,22.2
+4,10.1,PHI,Tyrese Maxey,Shooting Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,115,107,0.988,0.994,17.0
+4,6.0,TOR,OG Anunoby,Personal Foul,Foul,Curtis Blair,David Guthrie,Ashley Moyer-Gleich,PHI,115,110,0.998,0.985,10.1

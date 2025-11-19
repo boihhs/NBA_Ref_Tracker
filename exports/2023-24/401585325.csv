@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:00,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,12,2,0.94,0.946,7:03
+1,4:51,POR,Scoot Henderson,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,12,7,0.918,0.905,5:08
+1,56.0,POR,Duop Reath,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,29,16,0.964,0.956,1:05
+1,10.0,DEN,Peyton Watson,Personal Take Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,33,18,0.952,0.961,18.1
+1,4.1,DEN,Peyton Watson,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,33,18,0.952,0.952,10.0
+2,11:45,DEN,DeAndre Jordan,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,33,20,0.94,0.953,12:00
+2,8:58,DEN,Reggie Jackson,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,37,28,0.899,0.915,9:04
+2,8:38,POR,Duop Reath,Loose Ball Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,37,29,0.914,0.914,8:38
+2,7:24,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,40,37,0.816,0.845,7:24
+2,6:34,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,40,39,0.752,0.785,6:36
+2,5:20,DEN,Aaron Gordon,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,43,43,0.716,0.754,5:22
+2,5:06,POR,Deandre Ayton,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,43,45,0.764,0.73,5:20
+2,3:58,POR,Anfernee Simons,Offensive Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,50,47,0.832,0.77,4:17
+2,2:35,DEN,Aaron Gordon,Offensive Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,54,50,0.824,0.845,2:50
+2,51.1,POR,Malcolm Brogdon,Personal Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,56,55,0.806,0.771,55.2
+3,10:14,DEN,Jamal Murray,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,63,57,0.816,0.849,10:21
+3,10:06,POR,Matisse Thybulle,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,65,58,0.895,0.866,10:06
+3,9:48,POR,Jabari Walker,Personal Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,66,58,0.898,0.899,9:50
+3,9:20,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,68,58,0.889,0.911,9:21
+3,9:02,DEN,Nikola Jokic,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,68,60,0.868,0.881,9:02
+3,8:19,DEN,Nikola Jokic,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,70,64,0.826,0.863,8:19
+3,8:04,POR,Matisse Thybulle,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,70,65,0.871,0.842,8:19
+3,7:44,POR,Jabari Walker,Personal Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,72,65,0.904,0.881,7:46
+3,5:12,DEN,Aaron Gordon,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,78,65,0.932,0.95,5:17
+3,4:09,POR,Scoot Henderson,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,80,70,0.947,0.927,4:34
+3,4:09,POR,Scoot Henderson,Technical Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,80,70,0.938,0.947,4:09
+3,2:20,DEN,Peyton Watson,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,86,77,0.869,0.899,2:26
+3,2:03,POR,Duop Reath,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,86,78,0.927,0.901,2:19
+3,1:08,DEN,Peyton Watson,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,90,78,0.928,0.946,1:26
+4,11:35,DEN,Reggie Jackson,Personal Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,92,84,0.879,0.889,11:35
+4,10:07,DEN,Aaron Gordon,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,94,88,0.794,0.833,10:09
+4,6:42,DEN,Nikola Jokic,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,103,95,0.846,0.905,6:51
+4,6:02,POR,Malcolm Brogdon,Transition Take Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,105,97,0.933,0.933,6:02
+4,5:46,POR,Scoot Henderson,Personal Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,106,97,0.955,0.931,6:02
+4,5:28,DEN,Reggie Jackson,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,106,97,0.894,0.937,5:34
+4,5:12,POR,Toumani Camara,Personal Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,106,99,0.919,0.911,5:28
+4,44.1,POR,Anfernee Simons,Personal Take Foul,Foul,Marat Kogut,Tyler Ford,Natalie Sago,DEN,118,108,0.999,0.998,49.1

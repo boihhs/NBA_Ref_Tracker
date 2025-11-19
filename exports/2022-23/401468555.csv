@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:15,CHI,Zach LaVine,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,9,10,0.628,0.592,8:29
+1,6:29,ATL,AJ Griffin,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,15,12,0.662,0.661,6:38
+1,5:21,ATL,Trae Young,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,15,14,0.61,0.609,5:29
+1,3:13,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,17,20,0.496,0.495,3:16
+1,2:14,CHI,Goran Dragic,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,19,20,0.577,0.578,2:20
+1,1:53,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,19,20,0.505,0.545,1:53
+1,1:29,CHI,Andre Drummond,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,19,20,0.617,0.576,1:38
+2,10:41,CHI,Goran Dragic,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,24,27,0.53,0.476,10:41
+2,10:08,ATL,Jalen Johnson,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,27,27,0.521,0.564,10:18
+2,9:56,CHI,Coby White,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,29,29,0.613,0.563,9:56
+2,8:22,CHI,DeMar DeRozan,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,32,35,0.544,0.502,8:42
+2,7:02,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,39,35,0.631,0.674,7:03
+2,6:44,CHI,Javonte Green,Offensive Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,39,37,0.647,0.617,6:47
+2,4:41,CHI,Coby White,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,43,41,0.686,0.646,4:51
+2,3:10,ATL,Onyeka Okongwu,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,48,41,0.714,0.756,3:13
+2,1:31,ATL,Trae Young,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,52,45,0.715,0.759,1:34
+2,30.1,CHI,Coby White,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,57,50,0.82,0.789,33.1
+3,10:07,ATL,De'Andre Hunter,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,61,54,0.766,0.768,10:18
+3,9:17,CHI,DeMar DeRozan,Technical Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,61,56,0.763,0.74,9:18
+3,8:37,CHI,DeMar DeRozan,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,64,56,0.857,0.822,8:42
+3,7:12,ATL,Trae Young,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,68,60,0.781,0.828,7:12
+3,6:59,CHI,Javonte Green,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,70,61,0.869,0.829,6:59
+3,6:24,ATL,De'Andre Hunter,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,73,61,0.897,0.896,6:33
+3,3:54,CHI,Zach LaVine,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,79,68,0.921,0.89,3:54
+3,3:24,CHI,Derrick Jones Jr.,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,80,70,0.92,0.891,3:40
+3,3:07,CHI,Patrick Williams,Offensive Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,80,70,0.894,0.872,3:14
+3,2:37,ATL,Onyeka Okongwu,Offensive Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,80,70,0.876,0.896,2:45
+3,1:33,CHI,Derrick Jones Jr.,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,80,73,0.872,0.832,1:33
+3,43.2,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,81,76,0.822,0.768,56.1
+3,35.0,ATL,Jalen Johnson,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,83,76,0.745,0.802,43.2
+4,11:02,ATL,Jalen Johnson,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,85,82,0.597,0.703,11:02
+4,10:27,ATL,Aaron Holiday,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,88,84,0.681,0.694,10:35
+4,9:18,CHI,Andre Drummond,Loose Ball Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,90,86,0.754,0.743,9:18
+4,7:15,CHI,Goran Dragic,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,97,94,0.731,0.715,7:22
+4,6:20,ATL,Trent Forrest,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,100,94,0.735,0.82,6:43
+4,5:22,ATL,De'Andre Hunter,Personal Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,100,98,0.484,0.604,5:24
+4,4:29,ATL,Trent Forrest,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,100,100,0.391,0.522,4:29
+4,4:01,ATL,Trae Young,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,103,102,0.461,0.601,4:01
+4,3:32,ATL,Clint Capela,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,103,103,0.325,0.438,3:38
+4,9.2,CHI,Zach LaVine,Personal Take Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,110,109,0.881,0.671,14.0
+4,0.1,ATL,AJ Griffin,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,110,109,0.616,0.981,0.1
+5,0.1,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Ed Malloy,Curtis Blair,Jamahl Ralls,ATL,121,119,0.703,0.984,1.0

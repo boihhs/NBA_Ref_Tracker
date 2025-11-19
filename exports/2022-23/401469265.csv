@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:24,PHI,De'Anthony Melton,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,4,5,0.414,0.397,9:26
+1,8:56,PHI,De'Anthony Melton,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,8,7,0.467,0.398,8:56
+1,8:06,PHX,Bismack Biyombo,Personal Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,8,10,0.35,0.347,8:13
+1,7:21,PHI,P.J. Tucker,Personal Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,8,10,0.374,0.375,7:24
+1,5:46,PHX,Landry Shamet,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,8,10,0.316,0.35,6:07
+1,5:19,PHX,Landry Shamet,Personal Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,8,12,0.306,0.303,5:26
+1,3:55,PHI,Jalen McDaniels,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,11,12,0.447,0.407,4:06
+1,3:46,PHX,Landry Shamet,Personal Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,13,12,0.392,0.432,3:55
+1,3:01,PHX,Terrence Ross,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,16,17,0.362,0.407,3:01
+1,1:44,PHI,Georges Niang,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,22,22,0.482,0.437,1:52
+1,27.1,PHX,Cameron Payne,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,24,22,0.449,0.47,27.1
+2,9:35,PHI,Paul Reed,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,34,28,0.669,0.626,9:47
+2,8:00,PHX,Josh Okogie,Personal Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,40,33,0.634,0.633,8:01
+2,7:26,PHX,Ish Wainright,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,40,35,0.553,0.607,7:26
+2,4:49,PHX,Terrence Ross,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,42,42,0.38,0.424,4:51
+2,2:02,PHX,Chris Paul,Defensive 3-Seconds Technical,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,52,49,0.541,0.531,2:16
+2,41.1,PHI,Tyrese Maxey,Personal Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,55,53,0.59,0.536,51.0
+2,2.1,PHX,Chris Paul,Personal Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,58,53,0.555,0.609,2.1
+3,10:51,PHI,P.J. Tucker,Loose Ball Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,60,56,0.616,0.618,10:51
+3,8:12,PHX,Chris Paul,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,67,67,0.411,0.436,8:12
+3,7:39,PHX,Bismack Biyombo,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,70,70,0.412,0.481,7:39
+3,6:56,PHI,Joel Embiid,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,72,74,0.462,0.403,7:11
+3,5:32,PHI,P.J. Tucker,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,74,74,0.547,0.485,5:51
+3,5:17,PHX,Devin Booker,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,77,74,0.506,0.567,5:32
+3,4:08,PHX,Bismack Biyombo,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,79,76,0.509,0.574,4:20
+3,2:42,PHX,Bismack Biyombo,Loose Ball Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,83,77,0.646,0.71,2:42
+3,2:23,PHI,Dewayne Dedmon,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,85,79,0.78,0.712,2:23
+3,1:53,PHX,Devin Booker,Offensive Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,85,81,0.632,0.677,1:53
+3,1:47,PHI,Georges Niang,Offensive Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,85,81,0.678,0.632,1:53
+3,57.2,PHI,Dewayne Dedmon,Offensive Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,87,81,0.769,0.72,1:07
+3,46.1,PHI,Jalen McDaniels,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,87,81,0.82,0.769,57.2
+4,11:11,PHX,Josh Okogie,Personal Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,94,83,0.901,0.908,11:15
+4,10:50,PHI,Shake Milton,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,94,85,0.923,0.883,10:54
+4,8:46,PHX,Cameron Payne,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,100,87,0.945,0.972,8:46
+4,6:39,PHX,Jock Landale,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,107,88,0.994,0.997,6:52
+4,6:08,PHX,Jock Landale,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,109,89,0.996,0.998,6:21
+4,5:09,PHI,De'Anthony Melton,Loose Ball Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,111,93,0.998,0.998,5:09
+4,3:18,PHX,Bismack Biyombo,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,115,97,0.998,0.999,3:19
+4,1:11,PHX,Terrence Ross,Shooting Foul,Foul,James Williams,Ben Taylor,Jonathan Sterling,PHX,122,101,0.999,0.999,1:31

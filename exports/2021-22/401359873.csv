@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:17,LAC,Nicolas Batum,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,13,11,0.645,0.645,6:38
+1,6:03,POR,Damian Lillard,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,13,11,0.67,0.67,6:05
+1,3:30,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,17,14,0.627,0.666,3:35
+1,2:46,LAC,Isaiah Hartenstein,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,20,15,0.713,0.712,2:46
+1,1:39,POR,Jusuf Nurkic,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,22,15,0.808,0.778,1:52
+2,11:23,LAC,Justise Winslow,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,33,19,0.884,0.895,11:23
+2,11:04,LAC,Isaiah Hartenstein,Personal Take Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,33,20,0.868,0.869,11:05
+2,8:38,POR,Jusuf Nurkic,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,39,25,0.9,0.9,8:42
+2,7:04,LAC,Eric Bledsoe,Personal Take Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,43,28,0.905,0.903,7:05
+2,5:17,LAC,Reggie Jackson,Personal Take Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,47,33,0.871,0.893,5:23
+2,4:16,POR,Cody Zeller,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,49,35,0.91,0.91,4:16
+2,2:24,POR,Nassir Little,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,55,38,0.947,0.937,2:24
+2,39.2,POR,CJ McCollum,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,56,40,0.953,0.943,51.2
+2,20.4,LAC,Paul George,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,56,40,0.913,0.931,30.3
+3,10:43,LAC,Nicolas Batum,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,60,42,0.956,0.956,10:44
+3,7:44,LAC,Paul George,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,71,50,0.974,0.982,7:55
+3,7:26,POR,Jusuf Nurkic,Offensive Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,73,52,0.986,0.982,7:30
+3,7:08,LAC,Paul George,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,73,52,0.983,0.983,7:11
+3,6:55,POR,Nassir Little,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,73,52,0.991,0.987,6:59
+3,6:20,POR,Anfernee Simons,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,75,52,0.995,0.992,6:28
+3,5:08,POR,CJ McCollum,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,77,52,0.997,0.996,5:11
+3,4:46,POR,Larry Nance Jr.,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,78,52,0.997,0.997,4:46
+3,4:30,POR,Damian Lillard,Offensive Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,78,52,0.997,0.997,4:34
+3,3:24,LAC,Luke Kennard,Offensive Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,81,52,0.999,0.999,3:33
+3,2:37,LAC,Justise Winslow,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,83,52,0.999,0.999,2:45
+3,1:04,POR,Larry Nance Jr.,Personal Take Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,85,56,0.999,0.999,1:04
+4,10:53,POR,Larry Nance Jr.,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,94,63,0.999,0.999,11:07
+4,10:07,POR,Nassir Little,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,95,65,0.999,0.999,10:08
+4,10:00,LAC,Luke Kennard,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,95,65,0.999,0.999,10:00
+4,8:09,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,100,65,0.999,0.999,8:28
+4,7:49,POR,Greg Brown III,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,100,67,0.999,0.999,8:09
+4,5:58,LAC,Jay Scrubb,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,103,72,0.999,0.999,6:04
+4,5:45,LAC,Amir Coffey,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,103,72,0.999,0.999,5:45
+4,5:17,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,106,72,0.999,0.999,5:31
+4,3:19,POR,Greg Brown III,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,106,75,0.999,0.999,3:43
+4,2:56,LAC,Brandon Boston,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,107,75,0.999,0.999,3:00
+4,2:27,POR,CJ Elleby,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,109,76,0.999,0.999,2:29
+4,1:09,LAC,Jay Scrubb,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,113,80,0.999,0.999,1:15
+4,42.7,LAC,Jay Scrubb,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Natalie Sago,LAC,113,84,0.999,0.999,42.7

@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:20,DAL,Kyrie Irving,Transition Take Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,12,8,0.749,0.749,8:22
+1,6:44,DAL,Grant Williams,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,19,14,0.794,0.766,6:47
+1,6:32,DEN,Michael Porter Jr.,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,21,14,0.756,0.786,6:44
+1,5:16,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,26,19,0.802,0.803,5:19
+1,4:48,DAL,Luka Doncic,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,28,19,0.836,0.836,4:48
+1,2:41,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,33,22,0.886,0.866,2:59
+1,0.2,DAL,Dereck Lively II,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,38,24,0.921,0.906,3.0
+2,11:46,DEN,Christian Braun,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,40,24,0.901,0.92,12:00
+2,11:34,DAL,Dereck Lively II,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,42,26,0.934,0.919,11:34
+2,10:15,DAL,Luka Doncic,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,42,28,0.907,0.908,10:16
+2,9:14,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,44,33,0.84,0.869,9:14
+2,8:36,DAL,Seth Curry,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,46,34,0.884,0.885,8:38
+2,6:42,DEN,Nikola Jokic,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,48,36,0.873,0.872,6:50
+2,5:36,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,48,38,0.825,0.859,5:36
+2,5:13,DAL,Grant Williams,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,48,39,0.853,0.84,5:13
+2,5:13,DAL,Grant Williams,Technical Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,48,39,0.853,0.853,5:13
+2,5:02,DEN,Michael Porter Jr.,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,51,41,0.826,0.857,5:02
+2,2:07,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,60,49,0.835,0.862,2:19
+2,1:20,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,64,54,0.832,0.865,1:20
+3,8:55,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,76,60,0.939,0.947,8:57
+3,8:42,DAL,Grant Williams,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,76,62,0.937,0.936,8:55
+3,8:12,DEN,Nikola Jokic,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,78,62,0.949,0.948,8:24
+3,6:32,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,85,65,0.982,0.98,6:53
+3,3:37,DAL,Dwight Powell,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,93,76,0.985,0.978,3:53
+3,2:59,DEN,Nikola Jokic,Offensive Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,94,79,0.958,0.966,3:15
+3,1:41,DAL,Dwight Powell,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,98,81,0.989,0.984,1:46
+3,15.1,DEN,Peyton Watson,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,99,86,0.937,0.948,15.1
+4,10:42,DEN,Peyton Watson,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,102,91,0.908,0.946,10:42
+4,10:02,DAL,Jaden Hardy,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,104,95,0.918,0.911,10:16
+4,9:54,DAL,Josh Green,Loose Ball Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,104,95,0.921,0.916,9:54
+4,9:02,DAL,Jaden Hardy,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,106,95,0.974,0.967,9:02
+4,8:12,DEN,Christian Braun,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,109,97,0.958,0.961,8:18
+4,4:05,DEN,Jamal Murray,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,115,103,0.984,0.985,4:17
+4,4:05,DEN,Jamal Murray,Technical Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,115,103,0.98,0.984,4:05
+4,2:01,DAL,Grant Williams,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,117,107,0.997,0.992,2:17
+4,1:31,DAL,Josh Green,Personal Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,119,110,0.997,0.992,1:39
+4,1:11,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Ed Malloy,Scott Wall,Gediminas Petraitis,DEN,123,110,0.999,0.999,1:11

@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:32,IND,Bennedict Mathurin,Shooting Foul,Foul,,,,IND,0,0,0.449,0.51,11:44
+1,10:28,IND,Myles Turner,Loose Ball Foul,Foul,,,,IND,5,2,0.562,0.562,10:28
+1,9:54,IND,Tyrese Haliburton,Loose Ball Foul,Foul,,,,IND,5,5,0.49,0.489,9:54
+1,9:29,IND,Myles Turner,Shooting Foul,Foul,,,,IND,7,7,0.45,0.49,9:44
+1,9:02,IND,Obi Toppin,Personal Foul,Foul,,,,IND,7,9,0.398,0.437,9:11
+1,6:46,IND,Bennedict Mathurin,Shooting Foul,Foul,,,,IND,15,14,0.495,0.542,6:46
+1,3:42,ATL,Kobe Bufkin,Personal Foul,Foul,,,,IND,22,19,0.596,0.597,3:42
+1,3:09,IND,Ben Sheppard,Offensive Foul,Foul,,,,IND,22,19,0.569,0.597,3:13
+1,2:16,ATL,Bruno Fernando,Shooting Foul,Foul,,,,IND,24,23,0.564,0.515,2:16
+1,1:00,IND,Jalen Smith,Shooting Foul,Foul,,,,IND,30,27,0.551,0.597,1:00
+2,10:46,ATL,Bruno Fernando,Offensive Foul,Foul,,,,IND,35,33,0.575,0.545,10:55
+2,9:25,IND,Aaron Nesmith,Shooting Foul,Foul,,,,IND,41,36,0.588,0.631,9:30
+2,8:52,ATL,Bruno Fernando,Offensive Foul,Foul,,,,IND,44,38,0.691,0.661,9:07
+2,8:16,ATL,De'Andre Hunter,Personal Foul,Foul,,,,IND,44,38,0.689,0.693,8:20
+2,8:12,ATL,De'Andre Hunter,Personal Foul,Foul,,,,IND,44,38,0.689,0.689,8:16
+2,6:13,ATL,Kobe Bufkin,Personal Foul,Foul,,,,IND,48,42,0.695,0.695,6:26
+2,6:04,ATL,Onyeka Okongwu,Shooting Foul,Foul,,,,IND,48,42,0.736,0.695,6:13
+2,5:21,ATL,Kobe Bufkin,Personal Foul,Foul,,,,IND,52,42,0.831,0.799,5:26
+2,3:31,ATL,Onyeka Okongwu,Shooting Foul,Foul,,,,IND,58,44,0.907,0.884,3:36
+2,1:59,IND,Myles Turner,Personal Foul,Foul,,,,IND,65,46,0.925,0.942,1:59
+2,1:06,ATL,Bogdan Bogdanovic,Personal Foul,Foul,,,,IND,68,46,0.981,0.973,1:12
+2,58.1,IND,Bennedict Mathurin,Personal Foul,Foul,,,,IND,69,46,0.965,0.972,1:06
+2,35.0,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,,,,IND,69,46,0.985,0.979,38.2
+3,10:19,IND,Myles Turner,Shooting Foul,Foul,,,,IND,75,51,0.978,0.985,10:26
+3,8:04,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,,,,IND,82,59,0.992,0.989,8:10
+3,7:17,IND,Bennedict Mathurin,Personal Foul,Foul,,,,IND,87,61,0.994,0.994,7:32
+3,7:08,IND,Bruce Brown,Personal Foul,Foul,,,,IND,87,61,0.994,0.994,7:17
+3,7:08,IND,Myles Turner,Away from Play Foul,Foul,,,,IND,87,61,0.991,0.994,7:08
+3,7:01,IND,Jalen Smith,Shooting Foul,Foul,,,,IND,87,62,0.989,0.994,7:08
+3,3:48,IND,Jalen Smith,Shooting Foul,Foul,,,,IND,90,70,0.975,0.982,4:08
+3,2:16,ATL,Trent Forrest,Offensive Foul,Foul,,,,IND,90,74,0.97,0.963,2:21
+3,50.0,IND,Jarace Walker,Shooting Foul,Foul,,,,IND,92,78,0.928,0.95,50.0
+4,11:08,IND,Aaron Nesmith,Shooting Foul,Foul,,,,IND,97,83,0.947,0.96,11:08
+4,8:16,ATL,AJ Griffin,Personal Foul,Foul,,,,IND,103,92,0.957,0.954,8:26
+4,7:41,IND,Aaron Nesmith,Personal Foul,Foul,,,,IND,107,92,0.983,0.985,7:48
+4,6:46,IND,T.J. McConnell,Technical Foul,Foul,,,,IND,107,97,0.914,0.932,6:46
+4,2:49,ATL,Bruno Fernando,Offensive Foul,Foul,,,,IND,109,102,0.95,0.918,3:01
+4,2:41,ATL,Mouhamed Gueye,Shooting Foul,Foul,,,,IND,109,102,0.977,0.952,2:41
+4,1:53,IND,Isaiah Wong,Personal Foul,Foul,,,,IND,112,102,0.964,0.985,2:07
+4,1:47,IND,Jordan Nwora,Away from Play Foul,Foul,,,,IND,112,105,0.87,0.962,1:47
+4,1:35,IND,Isaiah Jackson,Offensive Foul,Foul,,,,IND,112,106,0.901,0.933,1:47
+4,52.0,IND,Jordan Nwora,Shooting Foul,Foul,,,,IND,114,108,0.832,0.913,1:08
+4,42.1,ATL,Bruno Fernando,Flagrant Foul Type 1,Foul,,,,IND,114,110,0.88,0.871,52.0

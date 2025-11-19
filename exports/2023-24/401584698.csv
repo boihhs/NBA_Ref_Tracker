@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:36,CHI,Coby White,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,4,3,0.535,0.572,10:40
+1,9:47,CHI,Coby White,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,6,5,0.573,0.572,10:01
+1,9:22,CHI,Patrick Williams,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,6,7,0.522,0.519,9:29
+1,8:12,OKC,Josh Giddey,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,8,11,0.532,0.493,8:14
+1,8:05,CHI,DeMar DeRozan,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,10,11,0.5,0.519,8:12
+1,6:10,CHI,Zach LaVine,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,19,17,0.576,0.622,6:10
+1,4:50,OKC,Luguentz Dort,Flopping Technical,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,21,23,0.512,0.486,4:58
+1,4:33,OKC,Aaron Wiggins,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,21,26,0.432,0.594,6:08
+1,2:28,OKC,Luguentz Dort,Offensive Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,27,31,0.452,0.424,2:40
+1,1:23,OKC,Ousmane Dieng,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,30,33,0.519,0.478,1:30
+1,1:07,OKC,Jalen Williams,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,32,33,0.579,0.533,1:12
+1,53.1,OKC,Cason Wallace,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,33,33,0.606,0.561,1:03
+1,5.0,OKC,Isaiah Joe,Offensive Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,35,33,0.62,0.589,16.2
+2,11:41,CHI,Torrey Craig,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,35,33,0.589,0.59,11:47
+2,10:37,CHI,Zach LaVine,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,35,33,0.546,0.589,10:48
+2,10:07,OKC,Isaiah Joe,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,35,35,0.559,0.561,10:12
+2,9:49,CHI,Andre Drummond,Hanging Technical Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,37,35,0.594,0.589,9:51
+2,8:48,OKC,Chet Holmgren,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,39,39,0.601,0.559,8:49
+2,4:29,CHI,Patrick Williams,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,48,46,0.587,0.585,4:41
+2,4:16,CHI,Alex Caruso,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,48,46,0.537,0.586,4:22
+2,4:07,CHI,Patrick Williams,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,48,46,0.536,0.537,4:16
+2,3:36,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,48,48,0.47,0.519,3:42
+2,2:42,OKC,Olivier Sarr,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,48,50,0.536,0.484,2:45
+2,1:07,OKC,Chet Holmgren,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,49,55,0.398,0.349,1:30
+3,5:27,OKC,Jalen Williams,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,69,76,0.32,0.267,5:53
+3,4:31,OKC,Jalen Williams,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,74,79,0.333,0.332,4:35
+3,2:47,CHI,Nikola Vucevic,Technical Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,78,81,0.331,0.406,2:47
+3,1:41,CHI,Andre Drummond,Offensive Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,78,86,0.167,0.2,1:51
+3,4.1,OKC,Aaron Wiggins,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,80,91,0.138,0.101,18.1
+4,7:44,CHI,Coby White,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,88,104,0.004,0.006,7:44
+4,7:30,OKC,Olivier Sarr,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,88,106,0.004,0.004,7:44
+4,7:25,OKC,Cason Wallace,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,90,106,0.014,0.006,7:25
+4,7:17,CHI,Torrey Craig,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,91,106,0.009,0.009,7:25
+4,6:42,OKC,Cason Wallace,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,91,106,0.013,0.012,6:42
+4,4:51,OKC,Chet Holmgren,Personal Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,93,113,0.001,0.001,5:10
+4,4:28,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,Mitchell Ervin,Nate Green,CHI,93,113,0.001,0.001,4:39

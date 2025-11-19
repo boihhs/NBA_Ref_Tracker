@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:33,HOU,Jae'Sean Tate,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,2,8,0.726,0.728,9:56
+1,7:30,HOU,Kevin Porter Jr.,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,8,12,0.752,0.753,7:31
+1,7:20,HOU,Jae'Sean Tate,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,10,12,0.779,0.768,7:20
+1,6:23,HOU,Christian Wood,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,14,18,0.773,0.745,6:30
+1,6:11,HOU,Garrison Mathews,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,14,18,0.743,0.744,6:23
+1,5:15,UTAH,Udoka Azubuike,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,16,23,0.641,0.669,5:30
+1,4:25,UTAH,Bojan Bogdanovic,Technical Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,18,23,0.663,0.682,4:25
+1,31.2,UTAH,Joe Ingles,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,27,33,0.574,0.619,36.6
+2,11:48,HOU,KJ Martin,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,27,36,0.599,0.542,0.0
+2,9:53,UTAH,Mike Conley,Personal Take Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,33,41,0.528,0.529,9:53
+2,7:12,HOU,Eric Gordon,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,39,46,0.607,0.562,7:18
+2,6:37,UTAH,Udoka Azubuike,Defensive 3-Seconds Technical,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,44,46,0.681,0.676,6:50
+2,4:14,UTAH,Jordan Clarkson,Personal Take Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,50,51,0.682,0.682,4:14
+2,13.5,UTAH,Royce O'Neale,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,62,55,0.822,0.854,33.0
+3,10:21,UTAH,Mike Conley,Personal Take Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,66,57,0.895,0.887,10:25
+3,8:50,UTAH,Joe Ingles,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,66,60,0.826,0.827,8:52
+3,7:33,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,70,62,0.909,0.885,7:45
+3,5:20,HOU,Kevin Porter Jr.,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,75,65,0.92,0.92,5:28
+3,4:33,UTAH,Udoka Azubuike,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,75,68,0.806,0.845,4:40
+3,3:43,UTAH,Bojan Bogdanovic,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,75,70,0.79,0.79,3:43
+3,3:10,UTAH,Jordan Clarkson,Technical Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,75,70,0.766,0.789,3:10
+3,1:26,HOU,Armoni Brooks,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,75,77,0.611,0.544,1:36
+4,11:43,HOU,Alperen Sengun,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,81,83,0.521,0.474,11:44
+4,11:18,UTAH,Rudy Gobert,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,81,83,0.467,0.467,11:18
+4,8:42,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,85,90,0.412,0.319,8:55
+4,8:04,UTAH,Jordan Clarkson,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,87,92,0.243,0.257,8:06
+4,7:42,HOU,Eric Gordon,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,87,95,0.169,0.161,7:54
+4,6:51,HOU,Garrison Mathews,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,91,98,0.182,0.138,6:51
+4,5:45,HOU,Jae'Sean Tate,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,94,101,0.249,0.165,5:48
+4,5:27,UTAH,Rudy Gobert,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,96,101,0.198,0.22,5:43
+4,3:07,HOU,Garrison Mathews,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,101,106,0.175,0.204,3:07
+4,1:47,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,104,108,0.19,0.224,1:47
+4,55.6,UTAH,Rudy Gobert,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,107,109,0.143,0.252,55.6
+4,42.4,HOU,Christian Wood,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,107,111,0.304,0.17,43.9
+4,13.0,UTAH,Mike Conley,Personal Take Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,109,114,0.005,0.023,15.1
+4,10.4,HOU,Kevin Porter Jr.,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,109,116,0.03,0.008,13.0
+4,8.1,UTAH,Royce O'Neale,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Brandon Schwab,UTAH,111,116,0.002,0.158,2:11

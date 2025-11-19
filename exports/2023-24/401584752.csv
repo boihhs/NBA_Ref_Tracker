@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:44,CHI,DeMar DeRozan,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,0,0,0.699,0.664,10:46
+1,7:25,CHI,Zach LaVine,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,10,7,0.754,0.724,7:27
+1,6:32,DAL,Dereck Lively II,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,13,10,0.701,0.701,6:38
+1,6:03,DAL,Luka Doncic,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,13,10,0.664,0.7,6:06
+1,4:31,CHI,Patrick Williams,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,16,11,0.791,0.764,4:44
+1,1:19,DAL,Josh Green,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,25,19,0.725,0.758,1:30
+1,32.1,CHI,Alex Caruso,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,25,23,0.722,0.689,36.1
+1,17.0,CHI,DeMar DeRozan,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,25,23,0.702,0.689,17.0
+2,9:43,CHI,Andre Drummond,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,31,32,0.598,0.603,9:51
+2,8:56,DAL,Derrick Jones Jr.,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,36,32,0.706,0.705,8:56
+2,7:24,CHI,Nikola Vucevic,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,36,34,0.678,0.677,7:39
+2,5:16,CHI,Coby White,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,38,42,0.534,0.488,5:25
+2,4:20,CHI,Jevon Carter,Technical Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,42,48,0.441,0.417,4:20
+2,1:57,DAL,Josh Green,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,49,48,0.555,0.605,2:09
+2,43.1,CHI,Zach LaVine,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,49,50,0.617,0.57,53.1
+3,9:53,CHI,Patrick Williams,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,58,57,0.627,0.628,10:03
+3,8:46,DAL,Derrick Jones Jr.,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,61,61,0.551,0.549,8:56
+3,8:32,CHI,Patrick Williams,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,61,61,0.642,0.59,8:37
+3,7:35,DAL,Luka Doncic,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,65,61,0.64,0.694,7:53
+3,7:35,DAL,Luka Doncic,Technical Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,65,61,0.666,0.64,7:35
+3,6:33,CHI,DeMar DeRozan,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,65,66,0.544,0.545,6:55
+3,3:30,DAL,Grant Williams,Loose Ball Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,72,70,0.618,0.617,3:30
+3,3:08,CHI,Ayo Dosunmu,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,72,73,0.596,0.531,3:21
+3,3:03,CHI,Torrey Craig,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,72,73,0.596,0.596,3:08
+3,2:11,CHI,Torrey Craig,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,74,75,0.594,0.527,2:19
+3,2:01,DAL,Dwight Powell,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,76,75,0.5,0.571,2:11
+3,34.1,CHI,Torrey Craig,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,79,81,0.542,0.471,45.1
+4,11:42,CHI,Andre Drummond,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,81,83,0.558,0.438,12:00
+4,10:05,DAL,Dereck Lively II,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,85,86,0.363,0.459,10:16
+4,7:11,CHI,Alex Caruso,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,93,92,0.677,0.555,7:11
+4,7:00,DAL,Dereck Lively II,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,94,92,0.604,0.621,7:11
+4,4:52,CHI,Alex Caruso,Personal Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,99,96,0.772,0.754,4:56
+4,3:22,CHI,Nikola Vucevic,Shooting Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,99,98,0.712,0.64,3:22
+4,20.1,CHI,Coby White,Personal Take Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,112,105,0.998,0.995,21.1
+4,9.1,CHI,Alex Caruso,Personal Take Foul,Foul,Marc Davis,Ashley Moyer-Gleich,Brent Haskill,DAL,113,105,0.999,0.999,9.1

@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:43,DAL,Dwight Powell,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,4,7,0.571,0.608,9:46
+1,9:23,DAL,Spencer Dinwiddie,Personal Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,4,9,0.558,0.557,9:30
+1,8:34,POR,Damian Lillard,Personal Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,4,11,0.526,0.526,8:44
+1,5:47,POR,Josh Hart,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,16,21,0.601,0.563,6:03
+1,5:35,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,18,24,0.485,0.534,5:35
+1,4:35,POR,Josh Hart,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,18,25,0.542,0.501,4:43
+1,4:35,POR,Josh Hart,Technical Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,18,25,0.521,0.542,4:35
+1,3:52,DAL,Luka Doncic,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,24,29,0.503,0.551,3:52
+1,1:14,POR,Drew Eubanks,Loose Ball Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,28,32,0.604,0.562,1:14
+2,10:58,POR,Shaedon Sharpe,Personal Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,34,34,0.662,0.664,11:11
+2,10:15,POR,Drew Eubanks,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,36,34,0.746,0.712,10:30
+2,9:01,POR,Shaedon Sharpe,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,41,34,0.829,0.817,9:16
+2,8:34,POR,Jusuf Nurkic,Offensive Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,43,34,0.852,0.835,8:36
+2,8:17,POR,Jusuf Nurkic,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,45,34,0.892,0.868,8:17
+2,7:07,POR,Justise Winslow,Personal Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,49,38,0.902,0.882,7:19
+2,6:38,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,52,38,0.89,0.909,6:49
+2,5:13,DAL,Frank Ntilikina,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,55,46,0.821,0.854,5:13
+2,4:31,DAL,Kemba Walker,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,57,49,0.801,0.835,4:31
+2,2:25,POR,Anfernee Simons,Personal Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,60,55,0.806,0.771,2:38
+2,1:51,DAL,Luka Doncic,Personal Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,64,58,0.729,0.769,1:57
+2,1:47,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,64,58,0.729,0.729,1:51
+2,1:19,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,66,60,0.728,0.768,1:33
+2,1:08,POR,Jusuf Nurkic,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,66,62,0.782,0.746,1:19
+2,53.1,POR,Damian Lillard,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,69,62,0.832,0.795,53.1
+2,33.1,DAL,Dwight Powell,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,70,62,0.781,0.82,53.1
+2,20.1,POR,Justise Winslow,Loose Ball Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,70,63,0.848,0.82,20.1
+2,2.1,POR,Justise Winslow,Offensive Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,72,63,0.861,0.841,20.1
+3,11:02,DAL,Dwight Powell,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,74,63,0.851,0.877,11:21
+3,10:15,DAL,Luka Doncic,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,80,65,0.919,0.937,10:26
+3,9:45,POR,Anfernee Simons,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,82,65,0.969,0.957,9:45
+3,8:01,POR,Jusuf Nurkic,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,87,70,0.973,0.962,8:01
+3,7:51,POR,Josh Hart,Loose Ball Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,88,70,0.974,0.975,7:51
+3,3:48,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,100,78,0.988,0.992,3:54
+3,1:57,DAL,Christian Wood,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,104,82,0.991,0.994,2:08
+4,11:37,POR,Jabari Walker,Defensive 3-Seconds Technical,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,110,87,0.998,0.998,11:54
+4,11:35,DAL,Christian Wood,Offensive Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,111,87,0.998,0.999,11:37
+4,10:04,DAL,Frank Ntilikina,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,113,89,0.998,0.999,10:08
+4,8:54,POR,Trendon Watford,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,115,94,0.999,0.998,9:14
+4,8:36,POR,Keon Johnson,Personal Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,117,94,0.999,0.999,8:42
+4,7:55,POR,Jabari Walker,Shooting Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,117,96,0.999,0.999,8:14
+4,6:28,DAL,JaVale McGee,Offensive Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,121,96,0.999,0.999,6:40
+4,2:22,DAL,Jaden Hardy,Personal Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,128,105,0.999,0.999,2:26
+4,29.1,POR,Keon Johnson,Personal Foul,Foul,Ed Malloy,Lauren Holtkamp,Ray Acosta,DAL,130,110,0.999,0.999,33.1

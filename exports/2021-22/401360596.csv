@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:23,CLE,Jarrett Allen,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,0,0,0.433,0.432,11:29
+1,9:20,HOU,Kevin Porter Jr.,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,3,7,0.318,0.317,9:38
+1,8:04,HOU,Jalen Green,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,8,11,0.308,0.341,8:24
+1,7:44,HOU,Kevin Porter Jr.,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,8,13,0.299,0.295,7:58
+1,7:42,HOU,Jae'Sean Tate,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,8,13,0.264,0.299,7:44
+1,7:18,CLE,Brandon Goodwin,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,8,15,0.275,0.275,7:32
+1,7:13,CLE,Jarrett Allen,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,8,15,0.308,0.275,7:18
+1,5:58,CLE,Evan Mobley,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,12,17,0.309,0.297,5:58
+1,4:10,CLE,Cedi Osman,Offensive Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,17,21,0.344,0.319,4:18
+1,3:40,CLE,Lamar Stevens,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,17,23,0.332,0.296,3:49
+1,3:05,CLE,Rajon Rondo,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,22,23,0.421,0.392,3:05
+1,2:59,HOU,Garrison Mathews,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,22,23,0.358,0.392,3:05
+1,2:48,CLE,Lamar Stevens,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,22,25,0.409,0.369,2:59
+1,2:12,CLE,Rajon Rondo,Personal Take Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,24,25,0.423,0.423,2:12
+1,1:22,CLE,Lamar Stevens,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,25,28,0.411,0.369,1:41
+1,0.6,HOU,Alperen Sengun,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,32,31,0.455,0.489,0.6
+2,11:10,CLE,Jarrett Allen,Flagrant Foul Type 1,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,32,31,0.531,0.489,11:17
+2,10:53,HOU,Garrison Mathews,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,35,31,0.502,0.545,10:57
+2,10:42,CLE,Ed Davis,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,35,33,0.56,0.547,10:53
+2,9:02,CLE,Ed Davis,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,41,35,0.661,0.611,9:02
+2,8:43,CLE,Ed Davis,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,41,35,0.682,0.64,8:45
+2,8:27,HOU,Eric Gordon,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,42,35,0.641,0.64,8:43
+2,8:21,CLE,Ed Davis,Offensive Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,42,35,0.671,0.641,8:27
+2,6:25,HOU,Jae'Sean Tate,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,47,37,0.735,0.735,6:38
+2,6:18,HOU,Christian Wood,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,47,37,0.695,0.735,6:25
+2,5:09,HOU,Kevin Porter Jr.,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,50,39,0.729,0.767,5:28
+2,5:06,CLE,Evan Mobley,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,50,39,0.795,0.795,5:06
+2,4:34,HOU,Christian Wood,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,50,42,0.644,0.69,4:41
+2,3:38,CLE,Evan Mobley,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,55,42,0.874,0.845,3:47
+2,3:13,CLE,Isaac Okoro,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,56,42,0.893,0.869,3:13
+2,2:36,CLE,Isaac Okoro,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,57,44,0.88,0.852,2:45
+2,2:19,HOU,Christian Wood,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,59,44,0.842,0.871,2:36
+2,1:59,HOU,Garrison Mathews,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,59,45,0.823,0.854,2:06
+2,36.6,CLE,Dean Wade,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,61,53,0.783,0.738,45.6
+3,11:06,HOU,Jae'Sean Tate,Offensive Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,64,56,0.723,0.752,11:18
+3,10:51,HOU,Christian Wood,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,64,56,0.675,0.723,11:06
+3,10:40,CLE,Evan Mobley,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,66,57,0.804,0.757,10:40
+3,8:00,CLE,Cedi Osman,Offensive Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,73,66,0.744,0.71,8:08
+3,6:03,HOU,Jalen Green,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,78,72,0.632,0.689,6:06
+3,4:23,HOU,Jalen Green,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,81,74,0.681,0.736,4:42
+3,4:11,CLE,Cedi Osman,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,81,75,0.74,0.74,4:23
+3,25.6,HOU,Jae'Sean Tate,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,90,82,0.784,0.843,25.6
+4,11:17,CLE,Kevin Love,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,90,85,0.759,0.752,11:20
+4,10:58,HOU,Alperen Sengun,Loose Ball Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,90,85,0.698,0.712,10:58
+4,9:47,HOU,Josh Christopher,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,92,85,0.725,0.803,10:02
+4,8:56,CLE,Cedi Osman,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,96,89,0.829,0.808,8:56
+4,8:09,CLE,Lamar Stevens,Personal Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,96,91,0.799,0.78,8:11
+4,6:14,HOU,Alperen Sengun,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,100,91,0.862,0.915,6:34
+4,4:03,CLE,Isaac Okoro,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,103,97,0.94,0.889,4:15
+4,2:44,HOU,Christian Wood,Shooting Foul,Foul,Courtney Kirkland,Brett Nansel,Ray Acosta,HOU,105,101,0.789,0.852,2:44

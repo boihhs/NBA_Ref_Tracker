@@ -1,0 +1,60 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,POR,Brandon Williams,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,5,3,0.539,0.539,10:37
+1,9:49,POR,Trendon Watford,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,9,5,0.551,0.587,9:54
+1,9:37,MRC,Anthony Morse,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,9,7,0.602,0.566,9:49
+1,8:17,POR,Drew Eubanks,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,14,9,0.578,0.617,8:18
+1,8:06,MRC,Anthony Morse,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,16,9,0.705,0.665,8:06
+1,7:45,POR,Trendon Watford,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,16,9,0.63,0.664,8:02
+1,6:39,MRC,Terrence Jones,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,20,10,0.786,0.757,6:45
+1,5:54,MRC,Jason Siggers,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,22,12,0.788,0.757,6:15
+1,5:52,MRC,Alex Leder,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,22,12,0.788,0.788,5:54
+1,3:10,MRC,Sindarius Thornwell,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,28,17,0.815,0.787,3:13
+1,2:19,POR,Jabari Walker,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,29,17,0.774,0.798,2:19
+1,1:28,MRC,Briante Weber,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,32,19,0.857,0.829,1:33
+1,1:06,POR,Greg Brown III,Technical Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,36,19,0.869,0.879,1:08
+1,44.2,MRC,Terrence Jones,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,36,20,0.904,0.882,44.2
+2,11:19,POR,Trendon Watford,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,41,22,0.892,0.91,11:35
+2,10:15,POR,Nassir Little,Defensive 3-Seconds Technical,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,43,26,0.894,0.889,10:30
+2,9:33,POR,Nassir Little,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,45,28,0.871,0.892,9:43
+2,7:48,POR,Nassir Little,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,51,31,0.918,0.933,8:01
+2,7:41,MRC,Anthony Morse,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,51,33,0.924,0.923,7:48
+2,3:32,MRC,Sindarius Thornwell,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,55,44,0.859,0.831,3:40
+2,1:43,MRC,Jordan Lewis,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,58,44,0.905,0.893,1:43
+2,57.6,MRC,Alex Leder,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,59,48,0.873,0.841,1:05
+3,11:32,MRC,Alex Leder,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,65,48,0.95,0.929,11:32
+3,10:18,MRC,Willy Workman,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,69,50,0.963,0.964,10:23
+3,10:02,MRC,Willy Workman,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,69,50,0.963,0.964,10:10
+3,9:20,MRC,Willy Workman,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,71,52,0.975,0.965,9:35
+3,9:15,MRC,Alex Leder,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,73,52,0.982,0.972,9:15
+3,7:17,POR,Brandon Williams,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,80,58,0.982,0.982,7:32
+3,7:16,POR,Keon Johnson,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,80,58,0.982,0.982,7:17
+3,5:56,POR,Nassir Little,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,85,61,0.987,0.991,6:11
+3,5:32,MRC,Norris Cole,Loose Ball Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,85,61,0.996,0.993,5:32
+3,4:39,MRC,Jordan Lewis,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,87,64,0.995,0.992,4:51
+3,3:48,MRC,Briante Weber,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,92,64,0.999,0.999,4:06
+3,3:30,POR,Greg Brown III,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,93,64,0.998,0.999,3:44
+3,3:26,POR,Olivier Sarr,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,93,64,0.998,0.998,3:30
+3,2:52,POR,Jabari Walker,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,93,65,0.998,0.998,3:01
+3,2:33,POR,Olivier Sarr,Offensive Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,93,66,0.998,0.998,2:52
+3,1:45,MRC,Sindarius Thornwell,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,95,66,0.999,0.999,1:50
+3,1:45,POR,Greg Brown III,Technical Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,95,66,0.999,0.999,1:45
+3,1:13,MRC,Norris Cole,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,97,67,0.999,0.999,1:18
+3,33.7,POR,Jared Rhoden,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,101,67,0.999,0.999,45.9
+3,3.0,POR,Olivier Sarr,Loose Ball Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,101,69,0.999,0.999,3.0
+4,11:47,POR,Wes Iwundu,Offensive Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,104,71,0.999,0.999,12:00
+4,11:25,MRC,Rom Geffen,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,104,73,0.999,0.999,11:30
+4,11:18,MRC,Jason Siggers,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,104,73,0.999,0.999,11:25
+4,10:25,POR,Jared Rhoden,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,106,73,0.999,0.999,10:25
+4,8:25,MRC,Terrence Jones,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,112,73,0.999,0.999,8:31
+4,7:38,POR,Jared Rhoden,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,116,73,0.999,0.999,8:03
+4,6:56,MRC,Leandro Garcia Morales,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,118,76,0.999,0.999,6:56
+4,6:12,POR,Jared Rhoden,Loose Ball Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,118,76,0.999,0.999,6:12
+4,5:41,POR,Jared Rhoden,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,120,76,0.999,0.999,5:56
+4,5:32,MRC,Jonathan Holton,Flagrant Foul Type 1,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,120,76,0.999,0.999,5:36
+4,4:48,MRC,Jonathan Holton,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,124,78,0.999,0.999,5:04
+4,4:16,MRC,Jonathan Holton,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,126,81,0.999,0.999,4:34
+4,4:05,POR,Isaiah Miller,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,128,81,0.999,0.999,4:16
+4,3:45,MRC,Daniel Hillel,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,128,83,0.999,0.999,4:05
+4,3:17,MRC,Rom Geffen,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,132,83,0.999,0.999,3:17
+4,2:45,MRC,Jonathan Holton,Personal Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,133,85,0.999,0.999,2:57
+4,2:17,MRC,Niv Avidan,Shooting Foul,Foul,Marat Kogut,J.T. Orr,Karl Lane,POR,137,85,0.999,0.999,2:17

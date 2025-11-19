@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:49,HOU,Fred VanVleet,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,0,0,0.564,0.604,12:00
+1,11:22,HOU,Dillon Brooks,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,2,0,0.648,0.649,11:31
+1,10:11,HOU,Dillon Brooks,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,7,5,0.612,0.646,10:31
+1,9:25,NO,Zion Williamson,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,7,8,0.614,0.596,9:37
+1,8:45,NO,Jonas Valanciunas,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,9,10,0.593,0.594,9:02
+1,8:21,HOU,Alperen Sengun,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,11,12,0.549,0.593,8:21
+1,4:50,HOU,Jae'Sean Tate,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,13,19,0.379,0.422,5:06
+1,2:55,NO,Matt Ryan,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,18,25,0.413,0.412,3:02
+1,1:19,HOU,Tari Eason,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,24,27,0.447,0.492,1:30
+1,50.0,NO,Jordan Hawkins,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,24,29,0.501,0.462,54.1
+2,11:24,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,26,31,0.381,0.42,11:25
+2,8:49,NO,Jordan Hawkins,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,33,33,0.635,0.595,8:52
+2,8:10,HOU,Dillon Brooks,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,35,33,0.622,0.621,8:15
+2,8:10,HOU,Dillon Brooks,Technical Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,35,33,0.599,0.622,8:10
+2,6:19,HOU,Jabari Smith Jr.,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,39,38,0.588,0.588,6:27
+2,5:32,NO,Dyson Daniels,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,41,40,0.616,0.617,5:42
+2,4:48,NO,Zion Williamson,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,44,40,0.742,0.704,5:06
+2,2:46,NO,Brandon Ingram,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,50,40,0.875,0.848,2:53
+2,2:40,NO,Cody Zeller,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,50,40,0.875,0.875,2:46
+2,2:00,HOU,Jae'Sean Tate,Away from Play Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,54,42,0.839,0.886,2:00
+2,1:30,HOU,Tari Eason,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,54,42,0.84,0.87,1:43
+3,9:43,HOU,Jalen Green,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,60,56,0.623,0.673,9:58
+3,8:46,HOU,Dillon Brooks,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,60,60,0.474,0.53,8:53
+3,7:21,HOU,Fred VanVleet,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,60,65,0.283,0.334,7:33
+3,7:21,HOU,Jae'Sean Tate,Technical Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,60,65,0.307,0.283,7:21
+3,7:14,NO,Dyson Daniels,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,60,68,0.263,0.263,7:21
+3,7:03,NO,Jordan Hawkins,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,60,68,0.261,0.263,7:14
+3,6:57,NO,Zion Williamson,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,62,68,0.358,0.293,6:57
+3,5:40,NO,Brandon Ingram,Offensive Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,65,68,0.439,0.398,5:48
+3,4:19,HOU,Jae'Sean Tate,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,68,70,0.37,0.432,4:25
+3,1:44,HOU,Jae'Sean Tate,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,70,74,0.263,0.325,1:46
+3,1:44,HOU,Jae'Sean Tate,Technical Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,70,74,0.295,0.263,1:44
+3,1:01,NO,Zion Williamson,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,70,79,0.222,0.171,1:14
+4,10:22,NO,Jonas Valanciunas,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,76,82,0.295,0.205,10:22
+4,9:10,HOU,Jeff Green,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,79,84,0.166,0.238,9:22
+4,8:34,NO,Matt Ryan,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,79,86,0.198,0.186,8:45
+4,8:30,NO,Jordan Hawkins,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,81,86,0.339,0.232,8:30
+4,8:04,NO,Jonas Valanciunas,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,81,86,0.377,0.284,8:08
+4,6:59,HOU,Jabari Smith Jr.,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,82,86,0.261,0.278,7:09
+4,6:34,NO,Jonas Valanciunas,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,82,88,0.292,0.217,6:46
+4,4:43,NO,Jordan Hawkins,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,86,93,0.206,0.136,4:44
+4,4:26,HOU,Dillon Brooks,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,88,93,0.16,0.179,4:43
+4,4:16,HOU,Alperen Sengun,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,88,95,0.063,0.122,4:16
+4,3:35,NO,Jonas Valanciunas,Offensive Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,91,95,0.252,0.197,3:54
+4,3:14,NO,Jonas Valanciunas,Personal Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,91,95,0.352,0.252,3:35
+4,2:11,NO,Larry Nance Jr.,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,95,98,0.354,0.212,2:11
+4,1:56,HOU,Alperen Sengun,Loose Ball Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,95,98,0.117,0.212,2:11
+4,1:44,NO,Zion Williamson,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,95,100,0.24,0.144,1:56
+4,15.1,NO,Jordan Hawkins,Shooting Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,101,100,0.864,0.676,32.1
+4,3.0,HOU,Tari Eason,Loose Ball Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,103,100,0.882,0.949,3.0
+4,2.1,NO,Jeremiah Robinson-Earl,Personal Take Foul,Foul,Matt Boland,Tyler Ford,Natalie Sago,HOU,103,101,0.985,0.95,3.0

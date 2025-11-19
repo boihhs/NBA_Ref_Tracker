@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:27,MEM,Dillon Brooks,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,3,2,0.633,0.675,11:27
+1,11:01,MIL,Khris Middleton,Personal Take Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,3,3,0.648,0.647,11:01
+1,8:45,MIL,George Hill,Personal Take Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,9,9,0.641,0.642,8:45
+1,8:06,MEM,Steven Adams,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,11,13,0.547,0.59,8:06
+1,7:00,MEM,Steven Adams,Technical Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,13,14,0.567,0.587,7:01
+1,5:14,MEM,De'Anthony Melton,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,18,20,0.514,0.555,5:25
+1,2:36,MIL,Wesley Matthews,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,27,26,0.67,0.625,2:36
+2,9:36,MIL,Grayson Allen,Personal Take Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,34,33,0.641,0.643,9:36
+2,7:58,MEM,Ziaire Williams,Personal Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,39,33,0.742,0.742,8:00
+2,7:50,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,39,33,0.705,0.742,7:58
+2,7:36,MIL,Brook Lopez,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,39,34,0.777,0.743,7:48
+2,6:23,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,44,34,0.873,0.849,6:36
+2,5:53,MIL,Pat Connaughton,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,48,36,0.892,0.866,5:53
+2,3:34,MEM,Dillon Brooks,Personal Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,52,40,0.872,0.869,3:44
+2,2:55,MIL,Jevon Carter,Personal Take Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,52,40,0.91,0.889,2:55
+2,2:23,MIL,Wesley Matthews,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,54,40,0.934,0.917,2:37
+2,2:02,MIL,Grayson Allen,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,58,42,0.947,0.93,2:02
+2,14.4,MEM,Steven Adams,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,59,44,0.902,0.934,24.2
+3,10:56,MIL,Brook Lopez,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,61,48,0.932,0.913,11:06
+3,9:41,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,65,54,0.886,0.887,9:48
+3,7:58,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,72,59,0.909,0.909,8:13
+3,7:51,MEM,Dillon Brooks,Personal Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,72,59,0.91,0.909,7:58
+3,7:39,MIL,Grayson Allen,Personal Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,72,59,0.925,0.927,7:39
+3,7:20,MIL,Brook Lopez,Loose Ball Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,72,59,0.944,0.927,7:20
+3,7:02,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,74,59,0.919,0.939,7:08
+3,6:33,MIL,Bobby Portis,Flagrant Foul Type 1,Foul,Eric Lewis,Karl Lane,John Conley,MEM,76,61,0.948,0.952,6:33
+3,5:25,MIL,Brook Lopez,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,81,63,0.981,0.971,5:25
+3,4:16,MEM,Dillon Brooks,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,84,67,0.954,0.967,4:28
+3,2:01,MEM,De'Anthony Melton,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,93,75,0.976,0.986,2:01
+3,1:22,MEM,De'Anthony Melton,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,96,76,0.985,0.99,1:45
+3,1:19,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,96,77,0.994,0.991,1:22
+4,11:09,MEM,Xavier Tillman,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,98,81,0.974,0.985,11:13
+4,8:46,MEM,Desmond Bane,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,104,83,0.996,0.997,8:59
+4,6:14,MIL,Khris Middleton,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,111,90,0.999,0.999,6:14
+4,5:39,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,112,93,0.998,0.999,6:00
+4,5:20,MIL,Grayson Allen,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,112,93,0.999,0.999,5:24
+4,4:23,MIL,Bobby Portis,Loose Ball Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,116,95,0.999,0.999,4:23
+4,4:14,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,116,95,0.999,0.999,4:23
+4,2:25,MEM,Xavier Tillman,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,120,97,0.999,0.999,2:34
+4,1:33,MEM,Santi Aldama,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,122,99,0.999,0.999,1:53
+4,35.9,MIL,Sandro Mamukelashvili,Shooting Foul,Foul,Eric Lewis,Karl Lane,John Conley,MEM,126,102,0.999,0.999,35.9

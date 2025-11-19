@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:26,IND,Myles Turner,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,5,3,0.68,0.647,10:35
+1,9:46,IND,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,7,6,0.639,0.624,9:46
+1,9:34,MIA,Gabe Vincent,Loose Ball Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,9,6,0.646,0.647,9:34
+1,8:27,IND,Buddy Hield,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,9,9,0.631,0.596,8:35
+1,5:53,MIA,Gabe Vincent,Offensive Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,23,11,0.828,0.845,6:12
+1,5:14,MIA,Max Strus,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,25,13,0.818,0.847,5:14
+1,2:51,MIA,Jimmy Butler III,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,31,18,0.825,0.85,2:57
+1,2:09,IND,T.J. McConnell,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,33,21,0.873,0.851,2:24
+1,1:53,MIA,Tyler Herro,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,35,21,0.842,0.867,2:09
+2,9:36,MIA,Bam Adebayo,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,41,32,0.75,0.785,9:41
+2,9:12,MIA,Max Strus,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,41,34,0.702,0.74,9:19
+2,8:11,MIA,Max Strus,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,43,39,0.661,0.662,8:22
+2,7:52,IND,Myles Turner,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,43,39,0.71,0.692,7:52
+2,7:09,IND,Buddy Hield,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,45,41,0.728,0.691,7:29
+2,6:38,IND,Andrew Nembhard,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,47,44,0.66,0.662,6:53
+2,4:22,MIA,Caleb Martin,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,51,52,0.479,0.536,4:22
+2,3:07,IND,Chris Duarte,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,53,56,0.492,0.435,3:07
+2,2:14,MIA,Haywood Highsmith,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,56,56,0.481,0.531,2:31
+2,1:14,MIA,Haywood Highsmith,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,60,60,0.479,0.529,1:23
+3,11:23,MIA,Gabe Vincent,Loose Ball Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,60,65,0.348,0.349,11:23
+3,10:27,MIA,Caleb Martin,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,60,67,0.279,0.275,10:33
+3,9:27,IND,Tyrese Haliburton,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,60,67,0.304,0.302,9:28
+3,9:14,IND,Myles Turner,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,60,67,0.354,0.304,9:27
+3,7:44,MIA,Bam Adebayo,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,67,70,0.348,0.364,8:02
+3,6:51,IND,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,67,74,0.311,0.285,6:51
+3,5:51,IND,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,71,75,0.422,0.352,5:51
+3,5:19,IND,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,74,75,0.543,0.468,5:19
+3,8:34,IND,Tyrese Haliburton,Defensive 3-Seconds Technical,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,63,71,0.256,0.543,5:19
+3,4:39,IND,T.J. McConnell,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,77,78,0.574,0.511,4:50
+3,4:29,MIA,Orlando Robinson,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,78,78,0.444,0.509,4:39
+3,3:35,MIA,Max Strus,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,81,79,0.529,0.593,3:41
+3,3:21,IND,Bennedict Mathurin,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,81,80,0.657,0.596,3:35
+3,2:33,MIA,Haywood Highsmith,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,85,82,0.571,0.636,2:47
+3,2:02,IND,Chris Duarte,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,85,83,0.702,0.64,2:03
+4,10:46,IND,Andrew Nembhard,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,91,83,0.887,0.88,11:01
+4,10:04,MIA,Max Strus,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,95,83,0.942,0.945,10:14
+4,8:37,MIA,Gabe Vincent,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,97,85,0.923,0.954,8:39
+4,7:32,IND,Buddy Hield,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,99,93,0.854,0.841,7:42
+4,6:15,MIA,Jimmy Butler III,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,99,96,0.601,0.672,6:15
+4,6:07,IND,Aaron Nesmith,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,99,98,0.625,0.601,6:15
+4,5:27,IND,Myles Turner,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,101,98,0.789,0.74,5:28
+4,1:28,IND,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,107,101,0.981,0.956,1:32
+4,1:10,MIA,Caleb Martin,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,109,101,0.936,0.974,1:28
+4,50.0,IND,T.J. McConnell,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,109,104,0.973,0.93,58.0
+4,43.1,MIA,Caleb Martin,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,111,104,0.916,0.963,50.0
+4,38.1,IND,Tyrese Haliburton,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,111,106,0.979,0.942,43.1
+4,7.1,IND,Myles Turner,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,112,109,0.979,0.849,2:21
+4,0.1,IND,Myles Turner,Personal Take Foul,Foul,Curtis Blair,Jason Goldenberg,J.B. DeRosa,MIA,114,111,0.998,0.993,0.1

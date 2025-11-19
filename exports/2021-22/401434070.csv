@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:41,DAL,Dorian Finney-Smith,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,6,0,0.738,0.741,10:51
+1,9:50,DAL,Jalen Brunson,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,6,0,0.739,0.739,9:50
+1,7:45,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,11,4,0.773,0.739,7:45
+1,7:22,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,12,4,0.805,0.778,7:28
+1,5:10,PHX,Devin Booker,Technical Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,20,6,0.852,0.863,5:10
+1,4:58,DAL,Maxi Kleber,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,20,7,0.884,0.864,5:05
+1,4:45,DAL,Jalen Brunson,Offensive Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,22,7,0.891,0.878,4:58
+1,3:37,PHX,Deandre Ayton,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,24,10,0.842,0.865,3:56
+1,4.5,DAL,Davis Bertans,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,33,25,0.815,0.784,9.0
+1,2.2,PHX,Mikal Bridges,Personal Take Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,35,25,0.773,0.803,4.5
+2,10:49,PHX,Cameron Johnson,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,40,30,0.79,0.824,10:49
+2,8:23,DAL,Jalen Brunson,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,47,34,0.88,0.88,8:27
+2,8:17,PHX,Jae Crowder,Flagrant Foul Type 1,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,47,34,0.869,0.88,8:23
+2,6:48,PHX,Landry Shamet,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,51,38,0.868,0.867,6:48
+2,6:34,PHX,Jae Crowder,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,51,41,0.798,0.834,6:34
+2,5:20,DAL,Dorian Finney-Smith,Personal Take Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,51,47,0.694,0.696,5:20
+2,4:32,DAL,Josh Green,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,53,47,0.746,0.747,4:38
+2,3:40,PHX,Chris Paul,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,55,47,0.735,0.774,3:49
+2,3:09,PHX,Cameron Johnson,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,57,48,0.782,0.798,3:23
+2,1:32,PHX,Mikal Bridges,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,65,52,0.854,0.882,1:41
+3,10:59,PHX,Chris Paul,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,71,60,0.838,0.875,10:59
+3,10:00,PHX,Chris Paul,Loose Ball Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,73,63,0.837,0.836,10:00
+3,9:35,DAL,Dwight Powell,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,75,65,0.874,0.839,9:35
+3,8:52,PHX,Devin Booker,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,78,65,0.901,0.899,9:00
+3,8:16,DAL,Dwight Powell,Loose Ball Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,78,68,0.865,0.867,8:16
+3,7:12,PHX,Mikal Bridges,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,82,71,0.836,0.869,7:20
+3,6:57,PHX,Jae Crowder,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,82,71,0.838,0.871,6:58
+3,6:34,PHX,Jae Crowder,Personal Take Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,82,72,0.814,0.852,6:34
+3,1:16,PHX,JaVale McGee,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,96,78,0.975,0.982,1:28
+4,11:28,PHX,JaVale McGee,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,98,81,0.978,0.989,11:28
+4,10:12,PHX,Mikal Bridges,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,102,83,0.992,0.993,10:19
+4,9:52,DAL,Spencer Dinwiddie,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,102,85,0.991,0.99,10:05
+4,7:42,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,106,90,0.993,0.993,7:42
+4,7:25,PHX,Cameron Johnson,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,106,90,0.981,0.991,7:27
+4,6:47,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,106,91,0.992,0.987,6:50
+4,5:28,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,106,93,0.994,0.988,5:33
+4,5:06,DAL,Reggie Bullock Jr.,Offensive Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,109,93,0.997,0.995,5:16
+4,3:06,PHX,Jae Crowder,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,111,98,0.987,0.994,3:18
+4,2:40,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,111,98,0.998,0.997,2:50
+4,47.3,DAL,Josh Green,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,113,107,0.988,0.963,53.4
+4,42.2,PHX,Mikal Bridges,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,115,107,0.953,0.98,47.3
+4,30.9,DAL,Jalen Brunson,Personal Take Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,115,109,0.993,0.995,1:25
+4,16.8,DAL,Luka Doncic,Personal Take Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,117,111,0.997,0.983,22.8
+4,7.2,DAL,Spencer Dinwiddie,Personal Foul,Foul,Bill Kennedy,Zach Zarba,Josh Tiven,PHX,119,114,0.997,0.984,10.5

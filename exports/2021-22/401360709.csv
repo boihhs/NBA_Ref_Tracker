@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:15,BKN,Bruce Brown,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,0,2,0.166,0.188,11:16
+1,8:23,BKN,James Johnson,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,5,10,0.134,0.152,8:28
+1,8:08,BKN,James Johnson,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,5,11,0.122,0.139,8:10
+1,6:34,BKN,James Johnson,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,10,16,0.124,0.157,6:53
+1,5:42,BOS,Jaylen Brown,Personal Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,10,20,0.108,0.107,5:52
+1,5:00,BOS,Jaylen Brown,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,10,22,0.104,0.089,5:02
+1,3:25,BKN,Blake Griffin,Personal Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,15,25,0.085,0.098,3:52
+1,3:17,BOS,Robert Williams III,Personal Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,15,27,0.09,0.09,3:25
+1,1:55,BKN,Kessler Edwards,Personal Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,17,27,0.085,0.099,2:13
+1,19.2,BOS,Grant Williams,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,21,35,0.079,0.064,19.2
+2,9:48,BOS,Derrick White,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,24,45,0.034,0.026,10:10
+2,9:35,BKN,Bruce Brown,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,26,47,0.02,0.026,9:35
+2,7:01,BOS,Derrick White,Loose Ball Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,34,51,0.046,0.046,7:01
+2,6:35,BKN,Andre Drummond,Defensive 3-Seconds Technical,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,36,51,0.055,0.054,6:52
+2,6:14,BOS,Al Horford,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,36,52,0.066,0.053,6:21
+2,5:47,BOS,Robert Williams III,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,38,52,0.086,0.071,5:47
+2,4:46,BKN,Bruce Brown,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,39,54,0.041,0.051,4:57
+2,1:08,BOS,Marcus Smart,Personal Take Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,46,62,0.062,0.048,1:09
+2,11.1,BOS,Robert Williams III,Personal Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,50,67,0.052,0.04,14.7
+2,11.1,BOS,Robert Williams III,Technical Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,50,67,0.046,0.052,11.1
+3,5:57,BKN,Seth Curry,Personal Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,63,81,0.017,0.017,5:58
+3,5:21,BKN,Cam Thomas,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,65,81,0.019,0.027,5:35
+3,4:36,BKN,Kessler Edwards,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,67,84,0.014,0.02,4:42
+3,3:59,BOS,Robert Williams III,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,67,86,0.022,0.015,4:13
+4,11:40,BKN,James Johnson,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,74,99,0.001,0.001,11:40
+4,11:18,BKN,Seth Curry,Personal Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,74,100,0.001,0.001,11:26
+4,10:00,BOS,Derrick White,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,76,102,0.001,0.001,10:02
+4,9:48,BKN,James Johnson,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,77,102,0.001,0.001,10:00
+4,8:15,BOS,Grant Williams,Personal Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,80,105,0.001,0.001,8:35
+4,7:27,BKN,Cam Thomas,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,82,105,0.001,0.001,7:33
+4,7:13,BOS,Grant Williams,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,82,107,0.001,0.001,7:27
+4,5:32,BOS,Jaylen Brown,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,88,115,0.001,0.001,5:33
+4,4:34,BOS,Aaron Nesmith,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,93,120,0.001,0.001,4:34
+4,2:28,BOS,Luke Kornet,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,97,122,0.001,0.001,2:28
+4,1:28,BKN,David Duke Jr.,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,102,127,0.001,0.001,1:39
+4,1:14,BOS,Daniel Theis,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,102,127,0.001,0.001,1:24
+4,29.0,BOS,Brodric Thomas,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Aaron Smith,BKN,104,129,0.001,0.001,31.5

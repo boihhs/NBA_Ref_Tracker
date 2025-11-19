@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:39,CLE,Jarrett Allen,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,4,2,0.654,0.62,10:52
+1,10:13,CLE,Darius Garland,Personal Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,4,2,0.619,0.619,10:20
+1,8:49,CLE,Caris LeVert,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,6,4,0.654,0.618,9:08
+1,5:18,CLE,Cedi Osman,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,17,10,0.753,0.715,5:18
+1,4:23,NY,Josh Hart,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,21,13,0.702,0.737,4:41
+1,2:52,CLE,Cedi Osman,Personal Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,23,16,0.772,0.741,3:03
+1,31.1,CLE,Darius Garland,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,29,21,0.798,0.74,45.1
+2,11:40,CLE,Ricky Rubio,Offensive Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,30,23,0.744,0.729,12:00
+2,11:30,NY,Isaiah Hartenstein,Offensive Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,30,23,0.72,0.744,11:40
+2,8:46,NY,RJ Barrett,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,36,27,0.752,0.773,8:47
+2,8:37,CLE,Danny Green,Personal Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,36,29,0.75,0.75,8:46
+2,8:32,CLE,Caris LeVert,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,36,29,0.783,0.75,8:37
+2,8:15,CLE,Donovan Mitchell,Personal Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,38,29,0.794,0.795,8:15
+2,7:17,NY,Obi Toppin,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,38,29,0.737,0.771,7:24
+2,6:37,CLE,Darius Garland,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,42,31,0.852,0.819,6:37
+2,3:18,NY,Immanuel Quickley,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,48,35,0.839,0.865,3:45
+2,2:56,NY,Julius Randle,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,48,37,0.797,0.829,2:58
+2,2:20,CLE,Evan Mobley,Loose Ball Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,50,38,0.896,0.872,2:20
+2,2:09,NY,Josh Hart,Personal Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,50,38,0.822,0.854,2:11
+3,11:24,CLE,Donovan Mitchell,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,54,47,0.81,0.776,11:41
+3,6:08,CLE,Evan Mobley,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,63,63,0.572,0.499,6:08
+3,6:07,NY,Mitchell Robinson,Loose Ball Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,63,63,0.501,0.499,6:07
+3,5:44,NY,Mitchell Robinson,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,63,65,0.389,0.461,5:44
+3,5:29,CLE,Evan Mobley,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,63,66,0.48,0.421,5:44
+3,3:32,CLE,Evan Mobley,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,66,69,0.475,0.411,3:38
+4,11:13,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,75,71,0.674,0.684,11:13
+4,10:28,NY,Isaiah Hartenstein,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,75,73,0.527,0.637,10:28
+4,10:13,CLE,Darius Garland,Personal Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,75,74,0.591,0.58,10:28
+4,10:08,CLE,Isaac Okoro,Personal Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,75,74,0.6,0.591,10:13
+4,9:48,NY,Jalen Brunson,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,75,74,0.435,0.536,9:59
+4,9:36,CLE,Evan Mobley,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,77,75,0.695,0.582,9:36
+4,8:15,CLE,Donovan Mitchell,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,80,77,0.784,0.703,8:29
+4,8:06,NY,Isaiah Hartenstein,Personal Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,81,77,0.622,0.712,8:15
+4,6:44,NY,RJ Barrett,Personal Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,84,77,0.791,0.849,7:07
+4,3:11,NY,Isaiah Hartenstein,Offensive Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,92,85,0.911,0.934,3:33
+4,1:22,CLE,Evan Mobley,Shooting Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,97,87,0.998,0.995,1:35
+4,41.1,CLE,Cedi Osman,Personal Take Foul,Foul,Kevin Cutler,Scott Foster,Tre Maddox,NY,100,93,0.995,0.986,42.1

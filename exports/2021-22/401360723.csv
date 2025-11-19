@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:09,LAC,Ivica Zubac,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,10,12,0.535,0.497,6:32
+1,6:07,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,10,12,0.515,0.496,6:07
+1,5:15,LAC,Nicolas Batum,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,14,12,0.619,0.601,5:15
+1,3:56,LAL,Russell Westbrook,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,18,17,0.545,0.547,3:57
+1,3:50,LAL,Malik Monk,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,18,17,0.505,0.545,3:56
+1,2.4,LAC,Amir Coffey,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,20,24,0.475,0.429,7.4
+2,11:25,LAC,Isaiah Hartenstein,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,22,24,0.486,0.485,11:36
+2,8:15,LAC,Robert Covington,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,29,36,0.354,0.303,8:15
+2,7:03,LAC,Ivica Zubac,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,31,38,0.327,0.329,7:07
+2,6:53,LAL,Dwight Howard,Loose Ball Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,31,38,0.299,0.3,6:53
+2,3:59,LAL,Russell Westbrook,Personal Take Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,33,49,0.094,0.093,3:59
+2,3:06,LAC,Ivica Zubac,Offensive Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,33,49,0.105,0.089,3:08
+2,2:05,LAC,Robert Covington,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,38,51,0.188,0.153,2:09
+2,1:54,LAL,Carmelo Anthony,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,40,51,0.142,0.173,2:05
+2,50.2,LAL,Austin Reaves,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,42,56,0.086,0.11,58.8
+2,22.3,LAL,Austin Reaves,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,45,56,0.134,0.165,33.0
+3,11:09,LAL,Dwight Howard,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,47,57,0.183,0.182,11:19
+3,9:44,LAC,Ivica Zubac,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,51,59,0.304,0.255,9:47
+3,9:24,LAL,LeBron James,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,52,59,0.254,0.252,9:31
+3,8:58,LAC,Marcus Morris Sr.,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,52,61,0.221,0.224,9:12
+3,6:05,LAC,Terance Mann,Personal Take Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,56,61,0.335,0.337,6:07
+3,4:37,LAC,Nicolas Batum,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,60,65,0.357,0.289,4:37
+3,4:23,LAL,Carmelo Anthony,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,61,65,0.329,0.326,4:37
+3,3:52,LAC,Nicolas Batum,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,63,65,0.481,0.404,3:52
+3,33.7,LAL,Talen Horton-Tucker,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,74,70,0.605,0.672,51.1
+4,11:14,LAL,Carmelo Anthony,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,78,72,0.691,0.768,11:32
+4,11:14,LAL,Carmelo Anthony,Technical Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,78,73,0.687,0.687,11:14
+4,11:04,LAC,Luke Kennard,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,78,75,0.693,0.68,11:14
+4,10:34,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,78,75,0.768,0.688,10:47
+4,10:21,LAC,Amir Coffey,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,79,75,0.757,0.743,10:21
+4,9:52,LAC,Robert Covington,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,79,75,0.819,0.753,9:56
+4,8:33,LAL,Malik Monk,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,81,80,0.46,0.562,8:36
+4,4:39,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,95,90,0.754,0.809,5:00
+4,3:06,LAL,Austin Reaves,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,98,95,0.58,0.714,3:12
+4,1:05,LAL,Russell Westbrook,Shooting Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,100,99,0.479,0.544,1:05
+4,57.1,LAC,Luke Kennard,Personal Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,100,101,0.603,0.457,1:05
+4,2.2,LAL,Austin Reaves,Personal Take Foul,Foul,Zach Zarba,Brian Forte,Nick Buchert,LAL,102,103,0.026,0.062,2.2

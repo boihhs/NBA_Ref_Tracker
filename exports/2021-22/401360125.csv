@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:00,IND,Myles Turner,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,3,4,0.512,0.545,10:04
+1,9:36,IND,Justin Holiday,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,6,6,0.575,0.598,9:36
+1,7:34,MIL,Pat Connaughton,Loose Ball Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,8,13,0.462,0.464,7:34
+1,4:57,IND,Caris LeVert,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,16,22,0.402,0.402,5:13
+1,2:32,MIL,Pat Connaughton,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,19,24,0.489,0.449,2:36
+1,1:55,MIL,Khris Middleton,Offensive Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,24,24,0.585,0.56,2:10
+1,36.0,MIL,Grayson Allen,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,24,26,0.569,0.528,48.0
+2,11:09,IND,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,26,28,0.449,0.492,11:16
+2,9:25,IND,Kelan Martin,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,28,36,0.313,0.312,9:34
+2,6:46,IND,Justin Holiday,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,33,38,0.384,0.386,6:55
+2,6:01,MIL,Jrue Holiday,Offensive Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,33,40,0.353,0.325,6:06
+2,4:38,IND,Caris LeVert,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,37,43,0.303,0.348,4:48
+2,3:27,IND,Justin Holiday,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,39,45,0.297,0.341,3:42
+2,2:46,MIL,George Hill,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,41,49,0.353,0.31,2:54
+2,1:30,IND,Domantas Sabonis,Offensive Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,42,49,0.298,0.329,1:32
+2,1:30,IND,IND,Technical Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,42,49,0.277,0.329,1:30
+2,32.1,IND,Jeremy Lamb,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,45,50,0.307,0.355,41.5
+3,10:24,MIL,Bobby Portis,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,50,54,0.413,0.417,10:36
+3,10:13,MIL,Khris Middleton,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,50,54,0.412,0.413,10:24
+3,8:58,MIL,Khris Middleton,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,53,58,0.426,0.369,9:06
+3,8:22,IND,Caris LeVert,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,58,60,0.441,0.44,8:36
+3,8:03,MIL,Bobby Portis,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,58,63,0.423,0.366,8:15
+3,7:51,IND,Malcolm Brogdon,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,60,65,0.275,0.363,7:51
+3,4:46,MIL,George Hill,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,66,75,0.187,0.172,4:46
+3,3:45,IND,Caris LeVert,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,66,77,0.113,0.113,3:45
+3,3:32,IND,Myles Turner,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,66,77,0.125,0.116,3:45
+3,1:07,IND,T.J. McConnell,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,70,85,0.022,0.036,1:07
+3,24.7,IND,Myles Turner,Personal Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,72,89,0.01,0.017,33.7
+4,9:45,IND,T.J. McConnell,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,78,94,0.007,0.013,9:58
+4,9:38,IND,Kelan Martin,Offensive Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,78,96,0.005,0.009,9:45
+4,9:07,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,78,98,0.007,0.003,9:15
+4,8:51,IND,Isaiah Jackson,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,81,98,0.003,0.011,8:56
+4,6:19,IND,Isaiah Jackson,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,87,106,0.001,0.001,6:19
+4,4:58,MIL,Bobby Portis,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,87,109,0.001,0.001,5:13
+4,4:21,MIL,George Hill,Shooting Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,90,109,0.001,0.001,4:21
+4,34.6,IND,Brad Wanamaker,Personal Take Foul,Foul,Sean Wright,Scott Wall,Robert Hussey,IND,100,118,0.001,0.001,34.6

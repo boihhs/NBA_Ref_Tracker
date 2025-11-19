@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,NO,Jonas Valanciunas,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,0,0,0.741,0.71,12:00
+1,10:15,NO,Jonas Valanciunas,Personal Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,2,2,0.703,0.705,10:29
+1,9:53,MEM,Desmond Bane,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,4,2,0.693,0.725,10:08
+1,8:09,NO,CJ McCollum,Personal Take Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,6,5,0.718,0.719,8:10
+1,7:53,MEM,Ja Morant,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,6,5,0.662,0.697,7:57
+1,6:00,NO,Willy Hernangomez,Offensive Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,11,9,0.733,0.712,6:05
+1,5:50,NO,Jaxson Hayes,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,11,9,0.763,0.733,6:00
+1,4:27,MEM,Steven Adams,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,16,13,0.712,0.75,4:27
+1,3:55,NO,Herbert Jones,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,16,13,0.778,0.749,3:58
+1,3:15,MEM,De'Anthony Melton,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,20,13,0.777,0.806,3:32
+1,2:48,MEM,Ziaire Williams,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,20,14,0.756,0.786,2:58
+1,4.6,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,30,18,0.88,0.894,22.8
+2,9:11,NO,Jonas Valanciunas,Personal Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,40,26,0.919,0.92,9:26
+2,8:49,NO,Jonas Valanciunas,Offensive Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,43,26,0.948,0.938,9:05
+2,6:43,NO,Trey Murphy III,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,45,32,0.927,0.912,7:02
+2,5:35,MEM,Desmond Bane,Offensive Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,49,34,0.923,0.934,5:41
+2,4:18,MEM,Steven Adams,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,49,36,0.879,0.9,4:22
+2,3:04,MEM,Dillon Brooks,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,52,39,0.892,0.903,3:04
+2,52.7,NO,CJ McCollum,Personal Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,58,47,0.915,0.892,1:02
+2,43.6,NO,Herbert Jones,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,58,47,0.915,0.915,52.7
+2,16.7,MEM,Ja Morant,Personal Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,61,47,0.901,0.92,29.3
+3,11:37,MEM,Steven Adams,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,64,47,0.939,0.954,12:00
+3,11:21,NO,Jonas Valanciunas,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,66,49,0.966,0.953,11:21
+3,10:54,MEM,Desmond Bane,Personal Take Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,67,49,0.962,0.962,10:54
+3,10:28,NO,Herbert Jones,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,70,49,0.987,0.983,10:31
+3,9:44,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,75,49,0.993,0.994,9:44
+3,9:20,NO,Herbert Jones,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,75,52,0.993,0.99,9:33
+3,7:58,MEM,Desmond Bane,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,84,56,0.996,0.998,7:58
+3,6:28,NO,Naji Marshall,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,90,61,0.999,0.998,6:28
+3,5:50,MEM,Steven Adams,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,93,64,0.997,0.998,6:05
+3,4:44,MEM,Dillon Brooks,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,95,70,0.994,0.996,4:48
+3,3:56,NO,CJ McCollum,Technical Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,97,72,0.998,0.997,3:56
+3,3:56,NO,CJ McCollum,Offensive Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,98,72,0.998,0.998,3:56
+3,3:37,MEM,Kyle Anderson,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,101,72,0.998,0.999,3:41
+3,2:30,MEM,Brandon Clarke,Personal Take Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,106,74,0.999,0.999,2:30
+4,11:36,MEM,Ja Morant,Technical Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,122,80,0.999,0.999,11:38
+4,10:39,MEM,De'Anthony Melton,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,125,85,0.999,0.999,10:39
+4,10:05,MEM,De'Anthony Melton,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,127,86,0.999,0.999,10:05
+4,9:15,MEM,Kyle Anderson,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,129,88,0.999,0.999,9:15
+4,8:14,NO,Jose Alvarado,Personal Take Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,131,90,0.999,0.999,8:14
+4,8:02,NO,Larry Nance Jr.,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,131,90,0.999,0.999,8:14
+4,7:03,NO,Larry Nance Jr.,Personal Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,131,90,0.999,0.999,7:04
+4,6:39,MEM,Yves Pons,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,133,92,0.999,0.999,6:39
+4,6:03,MEM,Ziaire Williams,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,133,95,0.999,0.999,6:03
+4,5:51,NO,Tony Snell,Personal Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,133,96,0.999,0.999,6:03
+4,5:23,NO,Willy Hernangomez,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,133,96,0.999,0.999,5:32
+4,4:57,NO,Willy Hernangomez,Shooting Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,136,96,0.999,0.999,4:57
+4,2:40,MEM,John Konchar,Loose Ball Foul,Foul,Eric Dalen,Kane Fitzgerald,Jonathan Sterling,MEM,136,101,0.999,0.999,2:40

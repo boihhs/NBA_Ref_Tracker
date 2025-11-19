@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:18,IND,Aaron Nesmith,Personal Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,0,0,0.716,0.717,11:25
+1,11:02,ATL,Bruno Fernando,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,2,0,0.783,0.754,11:02
+1,8:22,ATL,Bruno Fernando,Offensive Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,15,4,0.895,0.883,8:37
+1,7:57,IND,Myles Turner,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,17,4,0.889,0.905,8:08
+1,7:09,IND,Andrew Nembhard,Offensive Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,21,9,0.893,0.904,7:15
+1,7:01,IND,Myles Turner,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,21,9,0.877,0.893,7:09
+1,4:55,IND,Ben Sheppard,Personal Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,31,15,0.919,0.931,5:10
+1,3:39,IND,T.J. McConnell,Personal Take Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,33,20,0.886,0.903,3:42
+1,2:15,ATL,Trae Young,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,37,26,0.909,0.893,2:24
+1,1:33,IND,Aaron Nesmith,Loose Ball Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,39,26,0.886,0.903,1:45
+2,10:34,IND,Jalen Smith,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,52,38,0.898,0.916,10:54
+2,7:01,IND,Andrew Nembhard,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,59,51,0.816,0.849,7:01
+2,6:48,ATL,Vit Krejci,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,59,52,0.856,0.83,7:01
+2,6:13,IND,Aaron Nesmith,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,60,52,0.799,0.848,6:24
+2,4:50,IND,Tyrese Haliburton,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,62,61,0.614,0.659,5:02
+2,4:04,ATL,Mouhamed Gueye,Loose Ball Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,67,64,0.74,0.713,4:19
+2,3:37,ATL,Mouhamed Gueye,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,69,66,0.757,0.71,3:37
+2,3:23,ATL,Mouhamed Gueye,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,71,66,0.801,0.761,3:23
+2,1:36,ATL,Dejounte Murray,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,78,66,0.921,0.898,1:36
+2,1:11,IND,Pascal Siakam,Personal Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,81,66,0.917,0.935,1:21
+2,8.1,ATL,De'Andre Hunter,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,85,72,0.933,0.913,8.1
+3,11:22,IND,Tyrese Haliburton,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,89,72,0.943,0.955,11:38
+3,8:55,IND,Tyrese Haliburton,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,98,78,0.971,0.979,9:01
+3,6:27,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,108,86,0.993,0.989,6:27
+3,5:59,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,109,86,0.994,0.994,6:04
+3,5:28,IND,Pascal Siakam,Offensive Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,111,86,0.996,0.997,5:36
+3,4:45,IND,Andrew Nembhard,Personal Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,111,86,0.996,0.996,4:46
+3,4:36,IND,Pascal Siakam,Personal Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,111,86,0.994,0.996,4:45
+3,3:55,ATL,Mouhamed Gueye,Loose Ball Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,111,86,0.997,0.998,3:55
+4,11:06,IND,T.J. McConnell,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,128,95,0.999,0.999,11:24
+4,9:35,IND,Jalen Smith,Personal Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,135,100,0.999,0.999,9:39
+4,9:12,IND,Kendall Brown,Offensive Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,135,103,0.999,0.999,9:30
+4,5:38,IND,Quenton Jackson,Personal Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,146,108,0.999,0.999,5:52
+4,4:36,IND,James Johnson,Personal Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,151,108,0.999,0.999,4:50
+4,3:10,IND,James Johnson,Shooting Foul,Foul,Derrick Collins,Brian Forte,Tony Brothers,IND,151,112,0.999,0.999,3:14

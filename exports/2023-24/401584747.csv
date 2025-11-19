@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:34,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,2,2,0.572,0.611,10:41
+1,8:02,BKN,Dorian Finney-Smith,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,7,5,0.675,0.676,8:08
+1,7:04,BKN,Ben Simmons,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,11,5,0.759,0.76,7:09
+1,6:13,BKN,Mikal Bridges,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,13,8,0.753,0.717,6:13
+1,5:33,BKN,Ben Simmons,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,14,10,0.747,0.716,5:41
+1,4:36,BKN,Lonnie Walker IV,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,18,15,0.725,0.691,4:46
+1,3:16,BKN,Royce O'Neale,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,25,17,0.825,0.798,3:32
+1,2:02,MIA,Jimmy Butler III,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,26,23,0.625,0.663,2:04
+1,5.1,MIA,Tyler Herro,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,31,27,0.648,0.69,25.1
+1,1.1,BKN,Ben Simmons,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,31,29,0.697,0.664,5.1
+2,11:49,MIA,Thomas Bryant,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,32,29,0.662,0.676,12:00
+2,11:03,MIA,Thomas Bryant,Offensive Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,34,29,0.711,0.737,11:07
+2,9:33,MIA,Duncan Robinson,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,39,29,0.822,0.822,9:45
+2,7:07,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,41,34,0.814,0.782,7:09
+2,5:41,MIA,Thomas Bryant,Loose Ball Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,45,36,0.773,0.806,5:49
+2,4:24,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,48,36,0.853,0.866,4:26
+2,1:32,MIA,Kyle Lowry,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,53,38,0.906,0.918,1:36
+3,10:33,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,61,46,0.905,0.926,10:47
+3,6:19,BKN,Ben Simmons,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,67,57,0.907,0.879,6:40
+3,5:57,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,69,57,0.872,0.9,6:19
+3,5:10,BKN,Cam Thomas,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,71,58,0.951,0.935,5:18
+3,2:59,MIA,Thomas Bryant,Offensive Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,77,67,0.876,0.896,3:10
+3,2:43,MIA,Duncan Robinson,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,77,67,0.841,0.912,6:56
+3,2:02,BKN,Cam Thomas,Technical Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,77,71,0.825,0.801,2:03
+3,1:54,BKN,Cam Thomas,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,78,71,0.872,0.833,2:02
+3,1:35,MIA,Duncan Robinson,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,78,71,0.744,0.799,1:45
+4,10:31,MIA,Josh Richardson,Loose Ball Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,86,78,0.847,0.857,10:40
+4,9:40,BKN,Trendon Watford,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,86,83,0.716,0.703,9:57
+4,8:15,BKN,Royce O'Neale,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,86,89,0.396,0.383,8:38
+4,7:52,BKN,Trendon Watford,Offensive Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,88,89,0.5,0.441,8:09
+4,5:03,MIA,Tyler Herro,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,92,97,0.104,0.175,5:18
+4,4:54,BKN,Royce O'Neale,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,92,98,0.184,0.167,5:00
+4,4:37,BKN,Royce O'Neale,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,94,98,0.34,0.217,4:37
+4,3:57,BKN,Royce O'Neale,Offensive Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,97,98,0.499,0.42,4:16
+4,3:22,MIA,Kyle Lowry,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,97,100,0.199,0.337,3:22
+4,3:06,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,99,101,0.468,0.323,3:06
+4,1:51,MIA,Kyle Lowry,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,99,101,0.172,0.298,2:04
+4,11.0,MIA,Josh Richardson,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,102,105,0.029,0.117,24.1
+4,6.1,MIA,Duncan Robinson,Personal Foul,Foul,Jacyn Goble,Nick Buchert,Tyler Ricks,MIA,105,107,0.037,0.135,8.1

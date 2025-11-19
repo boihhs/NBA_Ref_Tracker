@@ -1,0 +1,56 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:22,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,0,7,0.295,0.333,10:22
+1,9:53,DAL,Dereck Lively II,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,3,8,0.363,0.357,10:13
+1,9:49,DAL,Luka Doncic,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,3,9,0.301,0.333,9:53
+1,9:11,DAL,Kyrie Irving,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,3,11,0.287,0.287,9:13
+1,9:02,DAL,Grant Williams,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,3,11,0.256,0.287,9:11
+1,4:38,LAC,Paul George,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,18,19,0.483,0.48,4:52
+1,4:23,DAL,Grant Williams,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,18,19,0.415,0.456,4:29
+1,3:50,LAC,Bones Hyland,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,18,23,0.376,0.351,4:00
+1,3:45,LAC,Bones Hyland,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,18,23,0.368,0.376,3:50
+1,2:28,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,19,26,0.259,0.294,2:43
+1,2:14,LAC,P.J. Tucker,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,19,29,0.249,0.248,2:28
+1,1:53,DAL,Josh Green,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,19,29,0.196,0.224,1:59
+1,1:50,LAC,Bones Hyland,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,19,31,0.238,0.206,1:53
+1,22.0,LAC,P.J. Tucker,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,28,33,0.409,0.37,25.1
+2,11:07,LAC,Paul George,Offensive Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,32,33,0.483,0.449,11:13
+2,8:18,DAL,Dante Exum,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,45,35,0.765,0.766,8:20
+2,7:49,LAC,Paul George,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,45,35,0.82,0.791,8:01
+2,7:37,LAC,Ivica Zubac,Offensive Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,47,35,0.831,0.81,7:49
+2,7:28,LAC,Terance Mann,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,47,35,0.831,0.831,7:37
+2,7:07,LAC,Norman Powell,Technical Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,47,35,0.848,0.832,7:07
+2,6:25,LAC,Ivica Zubac,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,50,35,0.908,0.889,6:32
+2,6:02,LAC,Bones Hyland,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,54,35,0.945,0.927,6:02
+2,4:23,DAL,Dereck Lively II,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,58,40,0.902,0.921,4:37
+2,3:57,LAC,Kawhi Leonard,Offensive Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,60,42,0.935,0.923,4:08
+2,3:50,LAC,Ivica Zubac,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,60,42,0.95,0.946,3:50
+2,2:55,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,63,44,0.946,0.947,3:07
+2,2:23,DAL,Dwight Powell,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,67,44,0.961,0.969,2:46
+2,58.1,LAC,Russell Westbrook,Technical Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,73,48,0.988,0.983,1:05
+2,54.1,DAL,Dereck Lively II,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,74,48,0.981,0.989,58.1
+2,32.0,LAC,Moussa Diabate,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,76,49,0.992,0.989,32.0
+3,9:52,LAC,Russell Westbrook,Offensive Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,82,56,0.993,0.991,10:02
+3,9:11,LAC,Terance Mann,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,87,56,0.998,0.998,9:11
+3,8:34,DAL,Grant Williams,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,90,60,0.996,0.998,8:34
+3,7:23,DAL,Grant Williams,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,95,63,0.998,0.997,8:34
+3,7:07,DAL,Dereck Lively II,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,97,67,0.997,0.998,7:07
+3,5:33,DAL,Dereck Lively II,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,99,70,0.997,0.998,5:33
+3,3:33,DAL,Dwight Powell,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,104,74,0.998,0.999,3:48
+3,2:47,LAC,Kawhi Leonard,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,107,77,0.999,0.999,2:47
+3,55.0,DAL,Josh Green,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,111,84,0.998,0.999,55.0
+3,44.2,LAC,Norman Powell,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,111,85,0.999,0.999,55.0
+3,11.1,LAC,Terance Mann,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,113,87,0.999,0.999,11.1
+4,10:06,DAL,Dante Exum,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,119,93,0.998,0.999,10:07
+4,7:47,DAL,Dereck Lively II,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,124,100,0.999,0.999,8:01
+4,7:06,LAC,Moussa Diabate,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,124,104,0.999,0.998,7:23
+4,6:56,DAL,Dante Exum,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,124,104,0.998,0.998,6:56
+4,6:18,DAL,Dereck Lively II,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,126,106,0.996,0.998,6:35
+4,6:06,DAL,Jaden Hardy,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,126,108,0.993,0.996,6:06
+4,4:49,LAC,Bones Hyland,Offensive Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,129,112,0.998,0.997,4:55
+4,4:00,LAC,Terance Mann,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,131,112,0.999,0.999,4:15
+4,3:58,LAC,Amir Coffey,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,131,112,0.999,0.999,4:00
+4,3:35,LAC,Bones Hyland,Personal Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,133,112,0.999,0.999,3:48
+4,3:03,LAC,Kobe Brown,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,133,114,0.999,0.999,3:17
+4,2:33,LAC,Moussa Diabate,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,137,116,0.999,0.999,2:33
+4,1:33,LAC,Kobe Brown,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,141,120,0.999,0.999,1:33
+4,1:15,DAL,Dwight Powell,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Tre Maddox,DAL,142,120,0.999,0.999,1:33

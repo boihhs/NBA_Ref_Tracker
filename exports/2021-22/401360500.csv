@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:45,NY,Julius Randle,Personal Take Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,4,2,0.658,0.657,9:45
+1,8:40,NO,Brandon Ingram,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,4,4,0.631,0.631,8:48
+1,7:20,NO,Brandon Ingram,Offensive Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,4,6,0.577,0.551,7:37
+1,5:59,NO,Herbert Jones,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,4,12,0.452,0.414,6:19
+1,1:30,NO,Josh Hart,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,16,22,0.487,0.444,1:40
+1,31.9,NY,Taj Gibson,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,17,24,0.338,0.385,47.5
+2,9:54,NO,Jose Alvarado,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,20,31,0.283,0.284,10:14
+2,8:09,NY,Taj Gibson,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,23,33,0.273,0.271,8:20
+2,6:57,NO,Jaxson Hayes,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,23,33,0.335,0.294,7:15
+2,6:22,NO,Herbert Jones,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,25,33,0.393,0.347,6:29
+2,6:04,NY,Quentin Grimes,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,27,33,0.376,0.377,6:22
+2,5:43,NO,Jaxson Hayes,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,27,33,0.389,0.405,5:44
+2,5:17,NO,Josh Hart,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,30,33,0.48,0.463,5:17
+2,3:28,NO,Devonte' Graham,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,30,37,0.409,0.36,3:42
+2,2:30,NY,Evan Fournier,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,34,37,0.401,0.449,2:33
+2,1:50,NO,Josh Hart,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,37,39,0.569,0.519,2:07
+2,1:30,NO,Herbert Jones,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,38,41,0.534,0.482,1:38
+2,59.1,NO,Jose Alvarado,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,39,43,0.498,0.447,1:01
+2,27.2,NY,Kemba Walker,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,40,43,0.389,0.439,32.6
+2,27.2,NY,Kemba Walker,Technical Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,40,43,0.415,0.389,27.2
+3,11:40,NO,Jonas Valanciunas,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,42,46,0.421,0.441,11:41
+3,12:00,NY,Julius Randle,Technical Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,42,46,0.378,0.229,10:06
+3,8:29,NO,Jonas Valanciunas,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,48,59,0.186,0.189,8:41
+3,8:20,NO,Jonas Valanciunas,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,48,59,0.172,0.185,8:21
+3,8:02,NY,Mitchell Robinson,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,49,61,0.135,0.159,8:02
+3,7:30,NO,Josh Hart,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,49,62,0.119,0.129,7:30
+3,5:25,NO,Jaxson Hayes,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,53,70,0.07,0.052,5:43
+3,5:10,NY,Kemba Walker,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,54,70,0.05,0.05,5:25
+3,5:04,NY,RJ Barrett,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,54,70,0.048,0.05,5:10
+3,3:52,NY,Quentin Grimes,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,54,75,0.007,0.011,4:03
+3,3:33,NO,Jose Alvarado,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,54,78,0.009,0.006,3:52
+3,3:15,NY,Quentin Grimes,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,55,78,0.003,0.007,3:28
+3,1:28,NY,Taj Gibson,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,57,79,0.002,0.004,1:30
+3,36.7,NY,Quentin Grimes,Offensive Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,57,81,0.001,0.002,46.6
+4,11:54,NY,Alec Burks,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,57,81,0.001,0.001,12:00
+4,11:13,NO,Jonas Valanciunas,Loose Ball Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,57,81,0.001,0.001,11:13
+4,10:22,NO,Devonte' Graham,Defensive 3-Seconds Technical,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,59,84,0.001,0.001,10:37
+4,10:15,NO,Nickeil Alexander-Walker,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,60,84,0.002,0.001,10:22
+4,10:11,NY,Immanuel Quickley,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,62,84,0.001,0.001,10:15
+4,9:16,NY,Alec Burks,Offensive Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,64,87,0.001,0.001,9:30
+4,9:06,NY,Taj Gibson,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,64,87,0.001,0.001,9:16
+4,7:38,NO,Nickeil Alexander-Walker,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,70,89,0.003,0.002,7:49
+4,7:28,NO,Jonas Valanciunas,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,70,89,0.002,0.003,7:38
+4,6:27,NO,Jaxson Hayes,Offensive Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,72,89,0.005,0.004,6:37
+4,6:17,NY,Mitchell Robinson,Offensive Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,72,89,0.003,0.005,6:27
+4,5:09,NO,Jaxson Hayes,Loose Ball Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,75,89,0.009,0.011,5:09
+4,4:27,NO,Nickeil Alexander-Walker,Loose Ball Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,78,91,0.026,0.013,4:27
+4,2:22,NY,Mitchell Robinson,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,86,96,0.004,0.013,2:40
+4,2:05,NY,Alec Burks,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,86,98,0.001,0.001,2:09
+4,1:17,NY,Obi Toppin,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Ray Acosta,NY,88,99,0.001,0.002,1:27

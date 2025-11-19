@@ -562,6 +562,7 @@ def export_last_three_seasons(output_root: str = "exports", timeout: float = 10.
         current_start_year = today.year - 1
 
     seasons = [current_start_year - i for i in range(3)]
+    seasons = [2022, 2021]
 
     for start_year in seasons:
         label = f"{start_year}-{(start_year + 1) % 100:02d}"

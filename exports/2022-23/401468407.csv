@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:24,MIN,Jaden McDaniels,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,7,8,0.709,0.737,9:32
+1,7:50,MIA,Max Strus,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,10,12,0.731,0.732,7:50
+1,7:25,MIN,Rudy Gobert,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,10,12,0.674,0.707,7:32
+1,6:26,MIA,Nikola Jovic,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,16,16,0.778,0.744,6:26
+1,4:01,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,22,18,0.781,0.808,4:03
+1,3:26,MIA,Haywood Highsmith,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,22,22,0.749,0.749,3:33
+1,29.6,MIN,Naz Reid,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,28,31,0.595,0.638,37.0
+1,20.0,MIA,Dewayne Dedmon,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,28,33,0.647,0.612,29.6
+2,8:49,MIN,Taurean Prince,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,36,38,0.637,0.638,9:08
+2,8:34,MIN,Taurean Prince,Offensive Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,36,39,0.605,0.637,8:40
+2,6:19,MIA,Haywood Highsmith,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,38,45,0.491,0.493,6:19
+2,5:11,MIN,Naz Reid,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,38,48,0.303,0.348,5:21
+2,5:03,MIA,Bam Adebayo,Defensive 3-Seconds Technical,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,38,49,0.338,0.348,5:11
+2,4:18,MIN,D'Angelo Russell,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,39,52,0.207,0.244,4:20
+2,4:11,MIA,Haywood Highsmith,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,39,54,0.261,0.22,4:18
+2,3:46,MIN,Rudy Gobert,Loose Ball Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,41,54,0.201,0.239,3:46
+2,2:06,MIA,Kyle Lowry,Loose Ball Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,41,56,0.194,0.197,2:17
+2,1:28,MIA,Bam Adebayo,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,41,56,0.23,0.163,1:31
+2,36.9,MIA,Bam Adebayo,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,43,56,0.28,0.236,44.3
+2,2.4,MIN,Bryn Forbes,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,47,58,0.212,0.256,16.6
+3,11:20,MIA,Bam Adebayo,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,49,60,0.277,0.281,11:25
+3,10:59,MIN,Rudy Gobert,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,51,60,0.305,0.307,11:13
+3,10:58,MIN,Anthony Edwards,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,51,60,0.258,0.305,10:59
+3,9:58,MIN,Jaden McDaniels,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,53,64,0.23,0.233,10:15
+3,9:27,MIN,Anthony Edwards,Technical Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,53,64,0.201,0.224,9:27
+3,8:28,MIN,Karl-Anthony Towns,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,53,67,0.102,0.133,8:28
+3,5:47,MIA,Max Strus,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,63,69,0.454,0.394,5:54
+3,5:06,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,68,69,0.486,0.551,5:18
+3,3:37,MIN,Taurean Prince,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,74,71,0.642,0.7,3:54
+3,2:00,MIA,Max Strus,Offensive Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,80,72,0.884,0.86,2:11
+3,1:52,MIA,Caleb Martin,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,80,72,0.913,0.884,2:00
+3,1:42,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,80,72,0.816,0.862,1:42
+3,1:42,MIN,Karl-Anthony Towns,Technical Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,80,72,0.839,0.816,1:42
+3,1:11,MIA,Dewayne Dedmon,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,82,74,0.903,0.863,1:11
+3,41.5,MIA,Dewayne Dedmon,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,83,76,0.9,0.864,51.2
+3,0.9,MIN,Naz Reid,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,84,78,0.751,0.808,5.2
+4,10:25,MIA,Max Strus,Technical Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,87,81,0.871,0.849,10:25
+4,10:11,MIN,Taurean Prince,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,87,81,0.808,0.816,10:19
+4,8:33,MIN,Anthony Edwards,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,89,89,0.503,0.524,8:55
+4,7:12,MIA,Jamal Cain,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,92,91,0.637,0.627,7:22
+4,6:28,MIA,Bam Adebayo,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,92,93,0.618,0.505,6:39
+4,5:25,MIN,Karl-Anthony Towns,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,99,95,0.736,0.756,5:36
+4,5:12,MIN,D'Angelo Russell,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,99,95,0.646,0.736,5:25
+4,4:24,MIN,Rudy Gobert,Loose Ball Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,99,96,0.575,0.683,4:24
+4,3:47,MIA,Caleb Martin,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,99,97,0.71,0.686,3:58
+4,1:11,MIA,Bam Adebayo,Shooting Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,101,99,0.853,0.745,1:23
+4,9.2,MIA,Max Strus,Personal Foul,Foul,Curtis Blair,Nick Buchert,John Conley,MIN,103,101,0.945,0.789,29.0

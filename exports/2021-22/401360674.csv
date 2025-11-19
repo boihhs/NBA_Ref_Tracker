@@ -1,0 +1,30 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:45,PHX,Mikal Bridges,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,0,3,0.894,0.909,10:56
+1,10:25,ORL,Jalen Suggs,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,0,4,0.918,0.908,10:42
+1,5:29,PHX,Chris Paul,Personal Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,17,11,0.95,0.951,5:47
+1,5:17,ORL,Chuma Okeke,Personal Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,17,12,0.95,0.94,5:29
+1,4:44,ORL,Jalen Suggs,Personal Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,19,16,0.936,0.937,4:59
+1,3:17,PHX,JaVale McGee,Personal Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,24,18,0.945,0.95,3:17
+1,1:17,PHX,Elfrid Payton,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,28,26,0.892,0.917,1:23
+1,16.8,ORL,Robin Lopez,Defensive 3-Seconds Technical,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,32,26,0.941,0.944,32.9
+2,11:47,ORL,Robin Lopez,Offensive Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,36,26,0.963,0.961,12:00
+2,9:13,PHX,JaVale McGee,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,43,31,0.958,0.965,9:34
+2,5:23,PHX,Cameron Johnson,Personal Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,56,37,0.986,0.986,5:36
+2,2:42,PHX,Mikal Bridges,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,62,41,0.987,0.99,2:54
+2,2:38,PHX,Jae Crowder,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,62,44,0.981,0.986,2:38
+3,8:17,PHX,Chris Paul,Personal Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,81,63,0.985,0.973,8:43
+3,7:14,ORL,Jalen Suggs,Offensive Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,83,65,0.989,0.985,7:24
+3,7:02,ORL,Mo Bamba,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,83,65,0.992,0.989,7:14
+3,4:56,ORL,Mo Bamba,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,90,71,0.993,0.99,4:56
+3,3:03,PHX,JaVale McGee,Loose Ball Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,94,71,0.997,0.997,3:03
+3,2:11,PHX,JaVale McGee,Loose Ball Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,98,73,0.998,0.998,2:11
+4,9:37,PHX,JaVale McGee,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,109,87,0.997,0.998,9:43
+4,9:24,ORL,Franz Wagner,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,109,87,0.999,0.999,9:34
+4,7:28,PHX,Aaron Holiday,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,112,92,0.997,0.998,7:30
+4,6:50,ORL,Jalen Suggs,Personal Take Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,112,96,0.996,0.996,6:51
+4,6:15,PHX,Cameron Johnson,Loose Ball Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,114,96,0.997,0.997,6:15
+4,5:22,PHX,Elfrid Payton,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,116,96,0.998,0.999,5:38
+4,5:07,PHX,Bismack Biyombo,Offensive Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,116,98,0.998,0.998,5:22
+4,3:50,PHX,Bismack Biyombo,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,119,98,0.999,0.999,3:58
+4,2:26,PHX,Bismack Biyombo,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,125,100,0.999,0.999,2:42
+4,1:41,PHX,Aaron Holiday,Shooting Foul,Foul,Matt Boland,Eric Lewis,Mitchell Ervin,PHX,127,103,0.999,0.999,1:47

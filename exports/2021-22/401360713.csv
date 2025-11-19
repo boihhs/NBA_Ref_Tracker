@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:18,POR,Josh Hart,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,0,0,0.248,0.249,11:18
+1,10:49,GS,Gary Payton II,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,0,2,0.23,0.23,10:56
+1,10:19,GS,Gary Payton II,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,2,5,0.214,0.213,10:29
+1,6:16,GS,Jordan Poole,Loose Ball Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,18,14,0.385,0.385,6:16
+1,6:13,GS,Stephen Curry,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,18,14,0.424,0.385,6:16
+1,6:11,GS,Kevon Looney,Loose Ball Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,19,14,0.452,0.408,6:11
+1,4:51,POR,CJ Elleby,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,24,19,0.392,0.392,5:01
+1,4:42,GS,Jordan Poole,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,24,19,0.442,0.42,4:42
+1,2:51,GS,Andrew Wiggins,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,29,23,0.488,0.463,2:51
+1,1:48,POR,Keon Johnson,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,30,23,0.428,0.472,1:55
+1,1:21,POR,Ben McLemore,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,30,25,0.378,0.416,1:25
+1,1.1,POR,Ben McLemore,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,32,30,0.307,0.344,2.3
+2,11:20,GS,Jonathan Kuminga,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,32,33,0.3,0.272,11:25
+2,9:19,POR,Josh Hart,Loose Ball Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,35,40,0.194,0.194,9:19
+2,9:08,POR,Trendon Watford,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,35,40,0.168,0.194,9:19
+2,7:22,POR,Anfernee Simons,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,38,50,0.075,0.09,7:23
+2,6:54,POR,Drew Eubanks,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,38,52,0.068,0.079,6:58
+2,6:22,POR,Anfernee Simons,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,38,55,0.038,0.043,6:22
+2,5:53,POR,CJ Elleby,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,38,55,0.034,0.043,5:57
+2,5:39,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,38,57,0.046,0.038,5:53
+2,4:44,POR,Justise Winslow,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,40,57,0.033,0.042,4:58
+2,4:28,GS,Jordan Poole,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,40,59,0.045,0.036,4:44
+2,4:18,POR,Josh Hart,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,42,59,0.032,0.041,4:28
+2,4:18,POR,Josh Hart,Technical Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,42,59,0.037,0.032,4:18
+2,3:41,GS,Stephen Curry,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,44,62,0.041,0.041,3:55
+2,3:34,GS,Otto Porter Jr.,Defensive 3-Seconds Technical,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,44,62,0.039,0.041,3:41
+2,1:51,POR,Drew Eubanks,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,50,67,0.03,0.038,1:52
+2,1:01,POR,Justise Winslow,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,53,68,0.04,0.052,1:01
+2,46.1,GS,Andrew Wiggins,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,53,70,0.056,0.044,1:01
+2,12.9,GS,Stephen Curry,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,55,70,0.077,0.06,29.8
+3,11:52,POR,Justise Winslow,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,57,70,0.07,0.077,12:00
+3,10:29,GS,Gary Payton II,Personal Take Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,60,74,0.067,0.067,10:30
+3,10:17,GS,Gary Payton II,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,60,74,0.085,0.067,10:29
+3,9:19,POR,Justise Winslow,Personal Take Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,62,79,0.031,0.03,9:19
+3,8:57,GS,Kevon Looney,Defensive 3-Seconds Technical,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,62,81,0.023,0.025,9:08
+3,7:02,POR,CJ Elleby,Loose Ball Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,65,84,0.017,0.017,7:02
+3,5:12,GS,Andrew Wiggins,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,67,86,0.026,0.019,5:34
+3,3:30,POR,Greg Brown III,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,70,91,0.006,0.008,3:39
+3,2:14,GS,Jonathan Kuminga,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,70,93,0.006,0.003,2:16
+3,1:54,POR,Trendon Watford,Loose Ball Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,71,93,0.002,0.003,1:54
+4,11:28,POR,Brandon Williams,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,75,100,0.001,0.001,11:43
+4,10:37,POR,Josh Hart,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,75,102,0.001,0.001,10:53
+4,10:29,POR,Trendon Watford,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,75,104,0.001,0.001,10:29
+4,10:18,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,75,105,0.001,0.001,10:29
+4,9:18,GS,Juan Toscano-Anderson,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,77,105,0.001,0.001,9:23
+4,8:48,GS,Jonathan Kuminga,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,77,107,0.001,0.001,9:07
+4,8:45,POR,Trendon Watford,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,77,107,0.001,0.001,8:48
+4,7:25,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,79,111,0.001,0.001,7:25
+4,6:41,POR,Keon Johnson,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,83,111,0.001,0.001,6:56
+4,6:06,POR,Brandon Williams,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,83,113,0.001,0.001,6:16
+4,5:19,POR,Greg Brown III,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,87,114,0.001,0.001,5:32
+4,4:22,GS,Nemanja Bjelica,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,89,119,0.001,0.001,4:38
+4,2:24,GS,Gary Payton II,Personal Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,91,124,0.001,0.001,2:29
+4,2:09,POR,Elijah Hughes,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Tre Maddox,POR,93,126,0.001,0.001,2:09

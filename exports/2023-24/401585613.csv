@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:20,MIA,Bam Adebayo,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,5,7,0.536,0.498,8:25
+1,7:50,PHI,Mo Bamba,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,9,9,0.523,0.524,7:57
+1,7:36,MIA,Duncan Robinson,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,11,9,0.619,0.575,7:36
+1,1:31,MIA,Delon Wright,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,26,21,0.718,0.683,1:34
+2,11:40,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,31,25,0.662,0.708,11:40
+2,9:42,PHI,Buddy Hield,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,31,30,0.522,0.542,9:42
+2,8:25,PHI,KJ Martin,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,33,31,0.528,0.574,8:33
+2,7:42,PHI,Kyle Lowry,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,36,33,0.559,0.602,7:49
+2,6:51,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,36,38,0.527,0.484,7:02
+2,5:40,MIA,Patty Mills,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,37,40,0.446,0.449,5:49
+2,5:30,MIA,Patty Mills,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,37,40,0.443,0.446,5:40
+2,4:54,PHI,KJ Martin,Offensive Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,39,40,0.477,0.509,5:04
+2,3:13,MIA,Caleb Martin,Technical Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,44,42,0.533,0.573,3:13
+2,1:59,MIA,Caleb Martin,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,47,44,0.663,0.606,1:59
+2,23.2,PHI,Mo Bamba,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,48,49,0.415,0.47,35.0
+3,11:15,PHI,Tyrese Maxey,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,53,49,0.643,0.639,11:26
+3,10:17,MIA,Duncan Robinson,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,53,51,0.609,0.61,10:25
+3,9:26,MIA,Duncan Robinson,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,57,51,0.742,0.745,9:30
+3,8:40,PHI,Tyrese Maxey,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,63,51,0.873,0.873,8:48
+3,6:15,PHI,Nicolas Batum,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,68,54,0.921,0.934,6:19
+3,5:28,PHI,Nicolas Batum,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,68,54,0.9,0.924,5:43
+3,5:06,PHI,Tyrese Maxey,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,68,56,0.861,0.893,5:16
+3,4:44,MIA,Duncan Robinson,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,68,57,0.894,0.894,5:06
+3,44.1,MIA,Thomas Bryant,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,77,63,0.975,0.962,1:00
+4,10:00,PHI,Paul Reed,Offensive Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,81,68,0.956,0.966,10:17
+4,9:30,PHI,Nicolas Batum,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,81,70,0.89,0.932,9:32
+4,3:41,PHI,Nicolas Batum,Personal Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,88,87,0.528,0.54,3:52
+4,2:07,PHI,Kyle Lowry,Shooting Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,93,89,0.715,0.866,2:07
+4,18.1,MIA,Caleb Martin,Away from Play Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,95,91,0.981,0.94,18.1
+4,12.0,MIA,Caleb Martin,Personal Take Foul,Foul,Bill Kennedy,Sean Wright,Matt Myers,PHI,96,91,0.995,0.946,18.1

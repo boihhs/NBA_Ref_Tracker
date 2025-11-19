@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:19,LAL,Jarred Vanderbilt,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,0,0,0.812,0.787,11:35
+1,7:46,DAL,Luka Doncic,Loose Ball Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,9,6,0.808,0.807,7:46
+1,7:29,LAL,Jarred Vanderbilt,Personal Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,9,6,0.821,0.823,7:38
+1,7:17,DAL,Dwight Powell,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,9,6,0.792,0.806,7:17
+1,3:24,DAL,Josh Green,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,18,10,0.848,0.855,3:24
+1,2:49,LAL,Mo Bamba,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,20,13,0.878,0.854,2:49
+1,40.1,DAL,Josh Green,Personal Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,26,15,0.883,0.901,40.1
+1,33.1,DAL,Josh Green,Personal Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,26,15,0.883,0.883,40.1
+2,9:09,DAL,Justin Holiday,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,38,18,0.962,0.969,9:29
+2,8:18,LAL,Austin Reaves,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,40,19,0.983,0.978,8:23
+2,5:34,DAL,Kyrie Irving,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,50,26,0.984,0.988,5:34
+2,5:08,DAL,Markieff Morris,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,53,27,0.987,0.99,5:23
+2,4:57,DAL,Markieff Morris,Offensive Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,53,29,0.986,0.988,5:08
+2,3:45,DAL,Luka Doncic,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,56,31,0.988,0.989,3:47
+2,3:10,DAL,Kyrie Irving,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,56,35,0.975,0.982,3:10
+2,2:51,LAL,Anthony Davis,Personal Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,56,35,0.982,0.982,2:58
+2,2:51,LAL,Anthony Davis,Away from Play Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,56,35,0.982,0.982,2:51
+2,2:39,DAL,Justin Holiday,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,57,37,0.971,0.978,2:39
+2,2:02,DAL,Luka Doncic,Loose Ball Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,59,40,0.961,0.97,2:02
+2,32.0,DAL,Reggie Bullock Jr.,Offensive Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,61,44,0.96,0.966,38.1
+2,4.1,LAL,Malik Beasley,Personal Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,61,47,0.957,0.944,20.0
+3,10:43,DAL,Dwight Powell,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,64,49,0.931,0.948,10:47
+3,9:57,DAL,Dwight Powell,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,67,52,0.941,0.958,9:57
+3,9:23,DAL,Justin Holiday,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,69,53,0.945,0.957,9:38
+3,7:21,LAL,Malik Beasley,Personal Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,72,61,0.92,0.92,7:37
+3,5:33,LAL,Malik Beasley,Loose Ball Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,72,67,0.801,0.802,5:33
+3,4:02,LAL,Jarred Vanderbilt,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,75,69,0.865,0.83,4:16
+3,2:52,DAL,Josh Green,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,77,73,0.708,0.772,2:52
+3,2:31,LAL,LeBron James,Offensive Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,77,74,0.738,0.698,2:36
+3,2:21,LAL,Troy Brown Jr.,Personal Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,77,74,0.788,0.738,2:31
+4,10:34,LAL,Austin Reaves,Personal Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,81,83,0.509,0.491,10:52
+4,10:01,DAL,Kyrie Irving,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,84,83,0.54,0.597,10:02
+4,9:33,DAL,Markieff Morris,Loose Ball Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,86,84,0.624,0.639,9:33
+4,8:38,DAL,Josh Green,Double Technical Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,88,87,0.593,0.633,8:38
+4,6:30,LAL,LeBron James,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,90,93,0.441,0.375,6:30
+4,4:46,LAL,LeBron James,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,97,97,0.646,0.493,4:46
+4,2:53,DAL,Reggie Bullock Jr.,Loose Ball Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,101,99,0.622,0.648,2:53
+4,2:19,LAL,LeBron James,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,101,102,0.629,0.48,2:46
+4,12.1,DAL,Christian Wood,Personal Take Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,105,108,0.032,0.108,15.1
+4,12.1,DAL,Reggie Bullock Jr.,Personal Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,105,108,0.032,0.032,12.1
+4,2.0,DAL,Kyrie Irving,Personal Take Foul,Foul,John Goble,Gediminas Petraitis,Aaron Smith,DAL,108,109,0.026,0.154,5.1

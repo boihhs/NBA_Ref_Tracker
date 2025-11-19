@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,UTAH,Jordan Clarkson,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,0,0,0.823,0.824,12:00
+1,11:14,UTAH,Mike Conley,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,0,2,0.761,0.787,11:16
+1,10:58,LAL,Wenyen Gabriel,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,0,4,0.794,0.769,11:14
+1,6:13,LAL,Troy Brown Jr.,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,18,17,0.847,0.826,6:24
+1,5:08,UTAH,Kelly Olynyk,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,20,21,0.767,0.788,5:17
+1,4:27,LAL,Anthony Davis,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,22,23,0.783,0.765,4:43
+1,3:34,LAL,Anthony Davis,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,24,26,0.786,0.761,3:39
+1,2:14,LAL,Juan Toscano-Anderson,Flagrant Foul Type 1,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,34,29,0.864,0.854,2:15
+1,1:48,LAL,Wenyen Gabriel,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,35,29,0.879,0.867,1:56
+1,26.1,LAL,Russell Westbrook,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,38,32,0.895,0.876,35.3
+2,11:17,LAL,Matt Ryan,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,44,34,0.931,0.918,11:21
+2,10:11,UTAH,Walker Kessler,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,47,36,0.902,0.918,10:35
+2,9:51,UTAH,Nickeil Alexander-Walker,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,49,38,0.901,0.918,10:02
+2,6:34,UTAH,Nickeil Alexander-Walker,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,55,49,0.819,0.846,6:38
+2,5:50,UTAH,Lauri Markkanen,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,57,53,0.792,0.828,5:50
+2,5:19,UTAH,Kelly Olynyk,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,59,54,0.794,0.826,5:39
+2,3:30,UTAH,Malik Beasley,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,62,60,0.733,0.777,3:30
+2,2:13,LAL,Russell Westbrook,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,67,66,0.745,0.746,2:24
+2,1:33,LAL,Troy Brown Jr.,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,69,66,0.823,0.793,1:38
+2,1:23,LAL,Troy Brown Jr.,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,72,66,0.865,0.83,1:23
+2,5.9,LAL,Russell Westbrook,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,75,69,0.863,0.829,5.9
+2,3.5,UTAH,Collin Sexton,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,76,69,0.818,0.851,5.9
+3,8:28,UTAH,Jordan Clarkson,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,88,77,0.891,0.913,8:31
+3,6:57,UTAH,Lauri Markkanen,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,92,84,0.848,0.883,6:57
+3,6:42,LAL,Russell Westbrook,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,92,85,0.892,0.866,6:57
+3,4:57,UTAH,Malik Beasley,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,101,87,0.939,0.955,5:10
+3,3:53,UTAH,Mike Conley,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,104,88,0.962,0.972,4:00
+3,3:09,LAL,Damian Jones,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,108,90,0.99,0.984,3:09
+3,2:05,UTAH,Collin Sexton,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,108,90,0.98,0.986,2:08
+3,1:02,LAL,Troy Brown Jr.,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,108,96,0.97,0.956,1:06
+4,11:47,UTAH,Walker Kessler,Away from Play Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,115,98,0.986,0.987,11:47
+4,7:29,LAL,Wenyen Gabriel,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,124,106,0.998,0.996,7:40
+4,7:10,LAL,Russell Westbrook,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,124,106,0.998,0.998,7:29
+4,5:59,LAL,Scotty Pippen Jr.,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,129,106,0.999,0.999,6:12
+4,5:43,UTAH,Walker Kessler,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,129,106,0.999,0.999,5:43
+4,5:02,UTAH,Talen Horton-Tucker,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,131,106,0.999,0.999,5:02
+4,4:17,UTAH,Walker Kessler,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,131,108,0.999,0.999,4:27
+4,2:55,UTAH,Leandro Bolmaro,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,131,110,0.999,0.999,2:58
+4,2:27,LAL,Juan Toscano-Anderson,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,133,111,0.999,0.999,2:28
+4,1:38,UTAH,Ochai Agbaji,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,135,113,0.999,0.999,1:40
+4,1:09,LAL,Damian Jones,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,137,115,0.999,0.999,1:22
+4,34.2,UTAH,Simone Fontecchio,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,139,115,0.999,0.999,34.2
+4,3.8,LAL,Scotty Pippen Jr.,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,UTAH,139,116,0.999,0.999,4.1

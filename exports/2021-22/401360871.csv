@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:59,BOS,Jayson Tatum,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,0,4,0.168,0.148,11:15
+1,10:45,SAC,Justin Holiday,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,0,4,0.119,0.134,10:56
+1,5:26,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,12,16,0.19,0.166,5:39
+1,4:29,BOS,Grant Williams,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,15,18,0.185,0.184,4:39
+2,11:21,SAC,Maurice Harkless,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,28,32,0.17,0.168,11:37
+2,9:37,BOS,Daniel Theis,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,28,41,0.071,0.062,9:41
+2,9:21,BOS,Derrick White,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,28,41,0.072,0.071,9:37
+2,6:39,SAC,Domantas Sabonis,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,35,49,0.055,0.055,6:48
+2,4:24,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,38,59,0.021,0.02,4:30
+2,3:32,BOS,Robert Williams III,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,40,59,0.028,0.023,3:37
+2,2:51,BOS,Derrick White,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,42,59,0.039,0.039,2:53
+2,2:50,BOS,Al Horford,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,42,59,0.049,0.039,2:51
+2,2:28,SAC,Harrison Barnes,Loose Ball Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,42,59,0.032,0.032,2:31
+2,1:47,SAC,Davion Mitchell,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,44,59,0.035,0.044,2:02
+2,1:24,BOS,Marcus Smart,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,44,61,0.048,0.038,1:36
+2,1:13,SAC,Davion Mitchell,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,46,61,0.034,0.044,1:24
+2,34.2,BOS,Robert Williams III,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,46,64,0.04,0.031,43.9
+3,10:20,BOS,Robert Williams III,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,54,70,0.04,0.04,10:26
+3,8:48,SAC,Domantas Sabonis,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,59,76,0.019,0.026,9:13
+3,6:39,BOS,Al Horford,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,61,84,0.006,0.006,6:43
+3,6:29,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,61,84,0.006,0.006,6:39
+3,5:49,BOS,Marcus Smart,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,61,84,0.009,0.006,5:49
+3,4:23,BOS,Grant Williams,Personal Take Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,65,84,0.02,0.014,4:23
+3,4:23,BOS,BOS,Technical Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,65,84,0.017,0.02,4:23
+3,3:39,BOS,Derrick White,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,67,84,0.031,0.022,3:59
+3,1:18,SAC,Domantas Sabonis,Technical Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,75,89,0.023,0.046,1:18
+3,39.7,BOS,Daniel Theis,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,77,92,0.026,0.02,47.0
+3,32.0,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,77,92,0.038,0.026,39.7
+3,32.0,BOS,Grant Williams,Technical Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,77,92,0.031,0.038,32.0
+3,9.7,SAC,Chimezie Metu,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,79,92,0.021,0.033,32.0
+4,10:35,BOS,Derrick White,Personal Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,79,98,0.006,0.005,10:49
+4,10:07,SAC,Chimezie Metu,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,81,98,0.004,0.007,10:26
+4,8:56,BOS,Daniel Theis,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,83,103,0.005,0.002,9:07
+4,7:47,SAC,Damian Jones,Loose Ball Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,85,107,0.001,0.001,7:47
+4,7:32,SAC,Donte DiVincenzo,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,85,107,0.001,0.001,7:47
+4,5:43,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,87,112,0.001,0.001,5:43
+4,5:22,SAC,Domantas Sabonis,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,87,112,0.001,0.001,5:41
+4,4:53,SAC,Trey Lyles,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,89,113,0.001,0.001,4:54
+4,3:22,BOS,Daniel Theis,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Natalie Sago,SAC,95,115,0.001,0.001,3:25

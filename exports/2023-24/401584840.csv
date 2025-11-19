@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:56,SAC,Chris Duarte,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,3,4,0.626,0.591,10:06
+1,9:08,DAL,Dereck Lively II,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,4,6,0.518,0.562,9:08
+1,8:58,SAC,Keegan Murray,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,4,7,0.574,0.536,9:08
+1,8:49,DAL,Grant Williams,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,6,7,0.543,0.563,8:58
+1,6:39,SAC,Keegan Murray,Loose Ball Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,12,18,0.448,0.45,6:52
+1,6:09,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,14,20,0.399,0.447,6:09
+1,4:35,SAC,Keon Ellis,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,19,24,0.51,0.469,4:48
+1,2:42,DAL,Dwight Powell,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,26,29,0.449,0.491,2:57
+1,2:28,SAC,De'Aaron Fox,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,26,31,0.502,0.463,2:42
+1,1:49,SAC,Malik Monk,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,28,33,0.5,0.461,2:05
+1,1:49,DAL,Tim Hardaway Jr.,Double Technical Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,28,33,0.438,0.5,1:49
+1,1:30,SAC,Sasha Vezenkov,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,30,33,0.555,0.513,1:32
+1,1:04,DAL,Josh Green,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,33,33,0.524,0.57,1:10
+1,54.1,DAL,Kyrie Irving,Offensive Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,33,35,0.511,0.539,1:04
+2,11:01,SAC,JaVale McGee,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,36,38,0.576,0.534,11:03
+2,9:47,DAL,Jaden Hardy,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,37,40,0.425,0.472,9:51
+2,9:21,DAL,Dereck Lively II,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,40,42,0.455,0.501,9:32
+2,7:43,DAL,Jaden Hardy,Personal Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,42,46,0.434,0.495,7:46
+2,5:04,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,49,55,0.313,0.359,5:04
+2,2:35,SAC,Domantas Sabonis,Personal Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,58,65,0.343,0.344,2:40
+2,1:07,DAL,Kyrie Irving,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,61,69,0.252,0.302,1:07
+2,25.0,SAC,Chris Duarte,Personal Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,64,70,0.418,0.365,29.0
+2,15.0,SAC,Kessler Edwards,Defensive 3-Seconds Technical,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,64,70,0.352,0.418,25.0
+3,10:31,DAL,Dereck Lively II,Technical Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,67,72,0.322,0.352,10:36
+3,10:05,SAC,Harrison Barnes,Transition Take Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,69,73,0.422,0.422,10:06
+3,9:01,DAL,Josh Green,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,75,73,0.546,0.604,9:07
+3,7:57,SAC,Chris Duarte,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,75,77,0.546,0.488,8:05
+3,7:23,SAC,Domantas Sabonis,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,77,80,0.505,0.447,7:40
+3,4:38,DAL,Dereck Lively II,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,86,88,0.369,0.43,4:50
+3,2:37,SAC,Malik Monk,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,91,94,0.452,0.374,2:37
+4,9:34,SAC,Keegan Murray,Personal Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,98,112,0.036,0.034,9:38
+4,9:34,SAC,Malik Monk,Technical Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,98,112,0.044,0.036,9:34
+4,8:32,SAC,Keegan Murray,Personal Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,99,114,0.022,0.02,8:37
+4,5:28,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,101,122,0.001,0.001,5:28
+4,4:21,DAL,Richaun Holmes,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,103,122,0.001,0.001,4:42
+4,3:30,SAC,Sasha Vezenkov,Shooting Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,103,122,0.001,0.001,3:39
+4,2:47,SAC,Colby Jones,Personal Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,104,124,0.001,0.001,3:03
+4,2:29,SAC,Colby Jones,Loose Ball Foul,Foul,Ed Malloy,CJ Washington,J.B. DeRosa,DAL,104,124,0.001,0.001,2:29

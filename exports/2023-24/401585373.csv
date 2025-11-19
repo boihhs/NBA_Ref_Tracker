@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:38,CHA,Brandon Miller,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,0,0,0.876,0.876,11:41
+1,9:31,MIL,Damian Lillard,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,4,5,0.82,0.843,9:44
+1,6:30,MIL,Malik Beasley,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,17,6,0.936,0.945,6:41
+1,6:15,CHA,Nick Richards,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,17,8,0.948,0.939,6:30
+1,5:59,MIL,Jae Crowder,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,19,8,0.94,0.945,6:15
+1,3:45,CHA,Bryce McGowens,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,23,17,0.923,0.911,3:59
+1,1:00,CHA,Nate Mensah,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,31,17,0.968,0.961,1:02
+2,11:03,MIL,Patrick Beverley,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,31,17,0.956,0.956,11:03
+2,10:55,MIL,AJ Green,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,31,17,0.956,0.956,11:03
+2,9:37,CHA,JT Thor,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,36,22,0.964,0.955,9:37
+2,8:44,MIL,Bobby Portis,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,36,24,0.94,0.94,8:51
+2,7:07,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,38,27,0.916,0.931,7:07
+2,6:33,CHA,Miles Bridges,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,38,27,0.939,0.939,6:42
+2,5:53,CHA,Nate Mensah,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,38,27,0.949,0.938,5:54
+2,5:01,CHA,Nate Mensah,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,46,29,0.979,0.974,5:05
+2,4:42,MIL,Malik Beasley,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,48,29,0.971,0.973,4:50
+2,3:45,MIL,Bobby Portis,Offensive Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,53,33,0.981,0.984,3:55
+2,2:55,CHA,Bryce McGowens,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,53,33,0.988,0.984,2:59
+2,2:44,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,55,33,0.983,0.987,2:55
+2,35.1,CHA,Cody Martin,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,61,36,0.996,0.995,37.2
+3,11:47,CHA,Bryce McGowens,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,69,38,0.999,0.998,11:47
+3,10:41,CHA,Bryce McGowens,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,69,38,0.999,0.999,10:45
+3,8:16,CHA,Cody Martin,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,81,42,0.999,0.999,8:17
+3,7:55,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,82,42,0.999,0.999,8:08
+3,7:45,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,82,42,0.999,0.999,7:55
+3,7:34,CHA,Brandon Miller,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,82,44,0.999,0.999,7:45
+3,5:43,MIL,Brook Lopez,Offensive Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,86,50,0.999,0.999,5:43
+3,5:27,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,86,50,0.999,0.999,5:27
+3,3:04,CHA,Leaky Black,Offensive Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,92,54,0.999,0.999,3:11
+3,2:19,CHA,Nick Richards,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,94,54,0.999,0.999,2:23
+3,1:12,MIL,Brook Lopez,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,96,58,0.999,0.999,1:12
+3,47.1,MIL,Bobby Portis,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,96,59,0.999,0.999,53.1
+4,10:57,CHA,Nate Mensah,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,101,63,0.999,0.999,10:57
+4,10:42,MIL,Andre Jackson Jr.,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,102,63,0.999,0.999,10:57
+4,7:50,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,107,65,0.999,0.999,8:00
+4,7:24,MIL,MarJon Beauchamp,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,107,67,0.999,0.999,7:28
+4,6:36,CHA,JT Thor,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,109,69,0.999,0.999,6:37
+4,6:12,MIL,AJ Green,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,111,69,0.999,0.999,6:36
+4,5:45,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,111,71,0.999,0.999,5:53
+4,5:11,CHA,Leaky Black,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,111,73,0.999,0.999,5:15
+4,4:16,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,113,76,0.999,0.999,4:28
+4,3:34,MIL,AJ Green,Shooting Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,115,78,0.999,0.999,3:37
+4,3:22,CHA,Bryce McGowens,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,115,79,0.999,0.999,3:34
+4,33.1,MIL,MarJon Beauchamp,Personal Foul,Foul,Nick Buchert,Aaron Smith,Robert Hussey,MIL,120,83,0.999,0.999,40.1

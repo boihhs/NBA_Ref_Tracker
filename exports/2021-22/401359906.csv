@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:09,PHI,Tyrese Maxey,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,4,2,0.621,0.621,9:25
+1,9:02,PHI,Seth Curry,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,4,2,0.62,0.621,9:09
+1,5:29,ATL,Clint Capela,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,9,6,0.665,0.666,5:42
+1,4:24,PHI,Danny Green,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,12,6,0.713,0.713,4:34
+1,4:20,PHI,Shake Milton,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,12,6,0.677,0.713,4:24
+1,3:37,ATL,Trae Young,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,15,6,0.824,0.797,3:41
+1,3:37,ATL,Trae Young,Technical Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,15,6,0.81,0.667,6:44
+1,3:05,ATL,Gorgui Dieng,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,19,9,0.84,0.816,3:10
+1,2:03,ATL,Gorgui Dieng,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,21,11,0.83,0.817,2:03
+1,1:34,ATL,Danilo Gallinari,Flagrant Foul Type 1,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,22,11,0.83,0.826,1:34
+1,5.9,PHI,Shake Milton,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,28,13,0.86,0.884,15.8
+2,11:30,PHI,Andre Drummond,Offensive Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,28,18,0.803,0.819,11:38
+2,10:41,PHI,Georges Niang,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,28,18,0.804,0.804,10:47
+2,7:27,ATL,John Collins,Offensive Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,37,24,0.881,0.862,7:34
+2,7:01,PHI,Tobias Harris,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,39,24,0.895,0.894,7:13
+2,5:36,ATL,Clint Capela,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,39,30,0.843,0.814,5:46
+2,4:51,ATL,De'Andre Hunter,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,41,33,0.793,0.793,4:53
+2,3:27,PHI,Tyrese Maxey,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,48,38,0.801,0.838,3:27
+2,3:04,PHI,Tyrese Maxey,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,51,39,0.828,0.857,3:19
+2,2:16,PHI,Joel Embiid,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,53,42,0.84,0.84,2:26
+2,52.2,ATL,Clint Capela,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,56,46,0.876,0.846,57.7
+3,11:13,PHI,Seth Curry,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,62,48,0.903,0.902,11:25
+3,9:58,PHI,Seth Curry,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,65,50,0.902,0.923,10:05
+3,9:39,ATL,Trae Young,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,65,51,0.942,0.924,9:42
+3,8:26,PHI,Danny Green,Offensive Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,71,53,0.96,0.967,8:38
+3,7:12,PHI,Danny Green,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,73,57,0.937,0.946,7:12
+3,6:17,PHI,Tobias Harris,Offensive Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,75,58,0.959,0.967,6:21
+3,4:49,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,77,60,0.972,0.972,4:49
+3,4:30,ATL,Clint Capela,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,77,60,0.981,0.972,4:49
+3,1:49,ATL,Lou Williams,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,84,65,0.993,0.988,2:07
+3,1:02,PHI,Matisse Thybulle,Offensive Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,84,67,0.977,0.983,1:22
+4,10:32,ATL,Kevin Huerter,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,91,72,0.995,0.994,10:47
+4,10:16,PHI,Georges Niang,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,91,72,0.993,0.993,10:20
+4,10:09,PHI,Shake Milton,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,91,72,0.992,0.993,10:09
+4,8:27,PHI,Andre Drummond,Defensive 3-Seconds Technical,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,97,72,0.999,0.999,8:35
+4,7:35,PHI,Shake Milton,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,99,75,0.999,0.999,7:52
+4,6:11,ATL,Clint Capela,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,103,77,0.999,0.999,6:22
+4,5:13,ATL,John Collins,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,107,80,0.999,0.999,5:13
+4,4:30,PHI,Georges Niang,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,108,80,0.999,0.999,4:39
+4,3:09,PHI,Paul Reed,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,111,85,0.999,0.999,3:17
+4,1:46,PHI,Furkan Korkmaz,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,118,87,0.999,0.999,1:54
+4,1:04,PHI,Charles Bassey,Shooting Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,122,91,0.999,0.999,1:04
+4,57.1,ATL,Delon Wright,Personal Foul,Foul,Ed Malloy,Michael Smith,Phenizee Ransom,PHI,122,92,0.999,0.999,1:04

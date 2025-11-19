@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:44,DEN,Jamal Murray,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,4,8,0.492,0.532,8:52
+1,7:54,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,6,12,0.437,0.474,7:58
+1,7:27,DEN,Aaron Gordon,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,8,14,0.433,0.472,7:39
+1,6:11,TOR,OG Anunoby,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,14,18,0.568,0.548,6:11
+1,4:44,DEN,Bruce Brown,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,15,20,0.444,0.485,4:44
+1,3:41,DEN,Michael Porter Jr.,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,18,25,0.381,0.423,3:48
+1,2:56,DEN,Jeff Green,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,20,26,0.404,0.449,2:59
+1,1:33,TOR,Precious Achiuwa,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,25,30,0.54,0.501,1:37
+2,9:01,TOR,Will Barton,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,35,41,0.466,0.412,9:01
+2,8:35,TOR,Chris Boucher,Loose Ball Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,36,43,0.409,0.409,8:35
+2,5:25,TOR,Gary Trent Jr.,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,41,50,0.326,0.328,5:38
+2,5:15,TOR,Jakob Poeltl,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,41,50,0.371,0.326,5:25
+2,3:01,TOR,Fred VanVleet,Loose Ball Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,46,55,0.357,0.308,3:01
+3,11:51,TOR,Scottie Barnes,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,58,61,0.491,0.474,0.0
+3,6:31,TOR,Fred VanVleet,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,72,71,0.619,0.62,6:48
+3,3:52,TOR,Fred VanVleet,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,74,76,0.522,0.49,3:52
+3,3:23,TOR,OG Anunoby,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,75,79,0.462,0.396,3:29
+3,2:58,TOR,Fred VanVleet,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,75,79,0.459,0.391,2:59
+3,1:34,DEN,Reggie Jackson,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,81,84,0.314,0.381,1:45
+4,11:37,TOR,Will Barton,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,83,88,0.332,0.319,11:46
+4,11:12,DEN,Bruce Brown,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,85,88,0.28,0.364,11:27
+4,10:39,DEN,Reggie Jackson,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,85,90,0.245,0.258,10:42
+4,9:38,TOR,Will Barton,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,90,92,0.503,0.384,9:38
+4,8:11,DEN,Bruce Brown,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,91,97,0.12,0.186,8:25
+4,7:39,TOR,Pascal Siakam,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,91,99,0.149,0.136,7:39
+4,4:41,TOR,Gary Trent Jr.,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,100,105,0.32,0.215,4:45
+4,1:15,TOR,Jakob Poeltl,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,110,111,0.635,0.317,10:49
+4,1:08,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,112,111,0.403,0.48,1:16
+4,54.1,TOR,Scottie Barnes,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,112,113,0.606,0.46,1:08
+4,28.1,TOR,Jakob Poeltl,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,114,113,0.832,0.664,49.1
+4,28.1,TOR,Scottie Barnes,Technical Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,114,113,0.763,0.832,28.1
+4,24.0,DEN,Nikola Jokic,Personal Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,117,113,0.727,0.854,28.1
+4,22.0,TOR,OG Anunoby,Personal Take Foul,Foul,Scott Foster,Nick Buchert,Robert Hussey,DEN,117,113,0.974,0.933,22.0

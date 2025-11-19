@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,IND,Aaron Nesmith,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,2,7,0.196,0.227,10:40
+1,10:01,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,6,11,0.241,0.209,10:01
+1,7:45,IND,Pascal Siakam,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,11,16,0.214,0.213,7:47
+1,7:42,BOS,Payton Pritchard,Offensive Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,11,16,0.231,0.214,7:45
+1,6:58,BOS,Jayson Tatum,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,13,18,0.232,0.233,7:04
+1,5:46,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,15,24,0.165,0.166,5:58
+1,5:34,BOS,Derrick White,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,15,24,0.19,0.165,5:46
+1,3:30,IND,Andrew Nembhard,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,21,26,0.191,0.217,3:43
+1,2:10,BOS,Oshae Brissett,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,25,30,0.275,0.242,2:13
+1,1:59,IND,Pascal Siakam,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,27,30,0.233,0.265,2:10
+1,38.0,IND,Aaron Nesmith,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,29,32,0.236,0.27,56.1
+2,11:14,BOS,Sam Hauser,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,33,32,0.398,0.401,11:23
+2,11:00,IND,Ben Sheppard,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,33,32,0.333,0.372,11:06
+2,10:12,BOS,Oshae Brissett,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,35,33,0.477,0.432,10:27
+2,9:57,IND,Andrew Nembhard,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,37,33,0.465,0.461,10:12
+2,9:48,IND,Doug McDermott,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,37,33,0.422,0.465,9:57
+2,8:56,IND,Myles Turner,Offensive Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,39,34,0.501,0.531,9:12
+2,7:59,BOS,Derrick White,Flagrant Foul Type 1,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,41,37,0.497,0.506,8:15
+2,6.1,BOS,Xavier Tillman,Personal Take Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,66,57,0.774,0.725,22.1
+3,10:22,IND,Pascal Siakam,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,73,57,0.893,0.892,10:37
+3,8:42,IND,Ben Sheppard,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,75,61,0.832,0.865,8:49
+3,8:21,BOS,Derrick White,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,77,63,0.916,0.87,8:21
+3,6:15,BOS,Al Horford,Offensive Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,82,66,0.939,0.925,6:15
+3,5:47,IND,Aaron Nesmith,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,84,68,0.916,0.941,5:47
+3,5:23,BOS,Jayson Tatum,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,84,69,0.93,0.931,5:23
+3,4:40,BOS,Jaylen Brown,Offensive Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,84,71,0.905,0.883,4:45
+3,3:55,IND,T.J. McConnell,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,86,71,0.901,0.928,3:56
+3,3:36,IND,Ben Sheppard,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,86,73,0.858,0.894,3:44
+3,1:06,IND,Ben Sheppard,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,88,79,0.763,0.817,1:08
+3,7.0,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,88,81,0.844,0.792,26.1
+4,11:17,IND,Aaron Nesmith,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,90,81,0.83,0.841,11:20
+4,10:22,BOS,Jayson Tatum,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,90,83,0.828,0.819,10:22
+4,9:20,BOS,Jrue Holiday,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,92,85,0.869,0.796,9:20
+4,9:08,IND,Aaron Nesmith,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,93,85,0.766,0.837,9:20
+4,6:14,IND,Myles Turner,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,97,90,0.759,0.838,6:40
+4,4:57,IND,T.J. McConnell,Personal Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,99,95,0.597,0.705,5:16
+4,1:26,BOS,Derrick White,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,109,106,0.893,0.789,1:41
+4,38.2,IND,Pascal Siakam,Shooting Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,111,111,0.358,0.54,38.2
+4,1.1,IND,Pascal Siakam,Personal Take Foul,Foul,Courtney Kirkland,John Goble,Marc Davis,IND,111,112,0.02,0.094,3.1

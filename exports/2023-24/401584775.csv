@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:25,ORL,Paolo Banchero,Personal Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,2,3,0.457,0.453,10:43
+1,9:48,DAL,Grant Williams,Personal Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,2,5,0.431,0.431,10:07
+1,9:17,DAL,Derrick Jones Jr.,Hanging Technical Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,2,7,0.375,0.382,9:18
+1,7:00,ORL,Franz Wagner,Offensive Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,8,11,0.403,0.429,7:06
+1,6:53,DAL,Dereck Lively II,Offensive Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,8,11,0.429,0.403,7:00
+1,6:19,DAL,Dereck Lively II,Offensive Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,11,11,0.51,0.482,6:31
+1,5:55,ORL,Anthony Black,Loose Ball Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,14,11,0.564,0.482,5:55
+1,5:04,DAL,Josh Green,Loose Ball Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,14,17,0.351,0.351,5:04
+1,4:59,DAL,Dwight Powell,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,16,17,0.422,0.455,4:59
+1,3:59,DAL,Dwight Powell,Loose Ball Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,19,19,0.55,0.508,3:59
+1,2:30,ORL,Goga Bitadze,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,26,22,0.552,0.593,2:41
+1,1:01,DAL,Kyrie Irving,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,30,25,0.69,0.648,1:14
+1,5.0,DAL,Josh Green,Personal Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,32,27,0.693,0.65,20.2
+2,9:57,DAL,Dereck Lively II,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,45,31,0.871,0.844,9:57
+2,8:58,ORL,Joe Ingles,Offensive Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,46,31,0.864,0.879,8:59
+2,8:27,ORL,Franz Wagner,Personal Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,46,31,0.864,0.865,8:38
+2,7:16,ORL,Jalen Suggs,Flagrant Foul Type 1,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,46,36,0.775,0.832,7:30
+2,6:48,DAL,Josh Green,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,46,40,0.782,0.745,7:04
+2,6:00,DAL,Luka Doncic,Offensive Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,51,42,0.819,0.796,6:16
+2,5:07,ORL,Anthony Black,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,51,42,0.712,0.751,5:15
+2,4:47,ORL,Cole Anthony,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,51,44,0.655,0.7,4:48
+2,3:11,ORL,Jalen Suggs,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,55,47,0.689,0.733,3:24
+2,44.1,ORL,Paolo Banchero,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,63,51,0.805,0.841,51.2
+3,11:06,ORL,Paolo Banchero,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,66,58,0.727,0.779,11:06
+3,10:07,DAL,Luka Doncic,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,66,61,0.74,0.694,10:10
+3,9:01,ORL,Jalen Suggs,Personal Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,69,61,0.759,0.76,9:07
+3,8:28,DAL,Derrick Jones Jr.,Loose Ball Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,71,63,0.791,0.792,8:28
+3,6:54,DAL,Tim Hardaway Jr.,Technical Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,73,63,0.87,0.828,6:59
+3,5:41,ORL,Goga Bitadze,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,74,67,0.724,0.782,5:41
+3,5:13,ORL,Goga Bitadze,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,74,68,0.661,0.715,5:27
+3,4:21,DAL,Dereck Lively II,Loose Ball Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,74,72,0.605,0.606,4:21
+3,2:05,DAL,Dwight Powell,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,80,77,0.688,0.611,2:05
+3,55.1,ORL,Moritz Wagner,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,83,85,0.346,0.427,55.1
+4,11:33,DAL,Dereck Lively II,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,83,86,0.466,0.379,11:37
+4,11:23,ORL,Cole Anthony,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,84,88,0.241,0.332,11:23
+4,11:11,DAL,Derrick Jones Jr.,Personal Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,84,88,0.339,0.325,11:20
+4,10:22,ORL,Caleb Houstan,Loose Ball Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,86,90,0.262,0.277,10:34
+4,9:26,DAL,Grant Williams,Loose Ball Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,88,92,0.332,0.312,9:26
+4,8:36,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,88,95,0.253,0.181,8:41
+4,8:22,ORL,Moritz Wagner,Personal Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,90,95,0.211,0.229,8:36
+4,8:15,ORL,Paolo Banchero,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,90,97,0.114,0.179,8:15
+4,5:44,ORL,Paolo Banchero,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,95,98,0.196,0.275,5:59
+4,5:09,ORL,Moritz Wagner,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,97,101,0.176,0.268,5:09
+4,4:23,ORL,Franz Wagner,Loose Ball Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,97,104,0.048,0.115,4:38
+4,3:30,ORL,ORL,Technical Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,97,105,0.033,0.045,3:30
+4,3:15,ORL,Cole Anthony,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,97,106,0.013,0.029,3:30
+4,2:34,DAL,Kyrie Irving,Shooting Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,99,108,0.047,0.019,2:34
+4,1:51,ORL,Anthony Black,Technical Foul,Foul,Scott Foster,Nick Buchert,Tyler Ricks,ORL,100,114,0.001,0.001,1:51

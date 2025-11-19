@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:47,PHI,De'Anthony Melton,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,2,6,0.743,0.742,9:55
+1,8:48,WSH,Kyle Kuzma,Offensive Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,6,8,0.792,0.776,9:03
+1,8:35,PHI,Joel Embiid,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,6,8,0.745,0.773,8:37
+1,7:47,WSH,Kyle Kuzma,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,6,10,0.776,0.749,7:51
+1,4:52,WSH,Tyus Jones,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,13,18,0.737,0.705,4:55
+1,2:54,PHI,Joel Embiid,Technical Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,20,21,0.739,0.802,2:54
+1,2:54,WSH,Daniel Gafford,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,20,22,0.769,0.734,2:54
+1,1:56,WSH,Eugene Omoruyi,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,25,24,0.832,0.809,2:05
+1,39.0,WSH,Eugene Omoruyi,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,30,24,0.897,0.877,41.1
+1,2.0,WSH,Bilal Coulibaly,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,31,24,0.906,0.891,22.1
+2,10:48,WSH,Corey Kispert,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,36,26,0.925,0.919,10:48
+2,10:08,WSH,Corey Kispert,Offensive Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,40,26,0.95,0.943,10:17
+2,8:54,PHI,Tyrese Maxey,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,44,29,0.939,0.95,8:54
+2,9:08,PHI,PHI,Delay Technical,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,44,29,0.951,0.956,8:17
+2,7:42,PHI,Kelly Oubre Jr.,Technical Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,49,33,0.951,0.962,7:42
+2,6:31,PHI,Paul Reed,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,54,37,0.953,0.962,6:50
+2,4:16,PHI,Tyrese Maxey,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,62,43,0.974,0.973,4:26
+2,2:27,WSH,Tyus Jones,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,64,49,0.958,0.958,2:37
+2,2:08,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,66,49,0.955,0.964,2:22
+2,2:04,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,66,49,0.955,0.955,2:08
+2,1:17,WSH,Jordan Poole,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,70,53,0.973,0.965,1:17
+3,11:10,WSH,Daniel Gafford,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,77,61,0.975,0.967,11:28
+3,10:29,WSH,Daniel Gafford,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,79,63,0.976,0.968,10:41
+3,10:09,WSH,Daniel Gafford,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,83,63,0.987,0.982,10:09
+3,8:21,WSH,Jordan Poole,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,88,72,0.978,0.97,8:36
+3,7:50,WSH,Deni Avdija,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,90,72,0.986,0.981,7:59
+3,5:51,PHI,Joel Embiid,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,96,79,0.964,0.974,5:58
+3,4:56,PHI,Tobias Harris,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,98,86,0.922,0.944,4:56
+3,3:24,WSH,Daniel Gafford,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,105,88,0.989,0.983,3:28
+3,2:28,PHI,Nicolas Batum,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,110,91,0.982,0.988,2:32
+3,1:55,WSH,Mike Muscala,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,114,93,0.996,0.994,1:55
+3,3.0,WSH,Ryan Rollins,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,119,98,0.998,0.996,3.0
+4,11:41,WSH,Jordan Poole,Transition Take Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,120,98,0.998,0.998,11:43
+4,8:01,WSH,Jordan Poole,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,133,109,0.999,0.999,8:09
+4,7:07,WSH,Eugene Omoruyi,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,135,111,0.999,0.999,7:10
+4,6:43,WSH,Eugene Omoruyi,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,136,111,0.999,0.999,6:53
+4,6:31,PHI,Robert Covington,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,138,111,0.999,0.999,6:43
+4,4:48,PHI,Robert Covington,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,141,114,0.999,0.999,4:49
+4,3:42,WSH,Ryan Rollins,Personal Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,141,117,0.999,0.999,3:53
+4,2:56,PHI,Furkan Korkmaz,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,141,119,0.999,0.999,2:59
+4,1:57,PHI,Mo Bamba,Offensive Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,141,122,0.999,0.999,2:03
+4,1:20,WSH,Bilal Coulibaly,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,141,124,0.999,0.999,1:40
+4,1:09,PHI,Jaden Springer,Offensive Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,143,126,0.999,0.999,1:09
+4,45.1,WSH,Bilal Coulibaly,Shooting Foul,Foul,Brian Forte,Josh Tiven,Jonathan Sterling,PHI,145,126,0.999,0.999,45.1

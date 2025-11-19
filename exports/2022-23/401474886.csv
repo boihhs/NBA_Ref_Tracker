@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,PHX,Devin Booker,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,0,0,0.531,0.51,10:50
+1,10:09,PHX,Mikal Bridges,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,2,3,0.485,0.486,10:19
+1,7:54,PHX,Torrey Craig,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,6,10,0.407,0.409,8:14
+1,5:48,PHX,Torrey Craig,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,13,15,0.478,0.46,5:57
+1,3:12,DEN,Davon Reed,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,23,22,0.47,0.515,3:22
+1,2:19,DEN,Ish Smith,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,25,27,0.429,0.426,2:24
+1,24.9,DEN,Michael Porter Jr.,Loose Ball Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,30,35,0.305,0.344,24.9
+2,10:31,DEN,Christian Braun,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,32,37,0.302,0.339,10:36
+2,9:04,DEN,Christian Braun,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,38,41,0.374,0.425,9:04
+2,8:56,PHX,Josh Okogie,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,38,42,0.44,0.397,9:04
+2,8:45,DEN,Davon Reed,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,39,42,0.352,0.396,8:54
+2,8:09,DEN,Bruce Brown,Loose Ball Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,39,43,0.323,0.365,8:09
+2,7:57,DEN,Christian Braun,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,39,43,0.322,0.323,8:09
+2,5:03,PHX,Damion Lee,Loose Ball Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,46,47,0.484,0.484,5:03
+2,4:57,PHX,Devin Booker,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,46,47,0.484,0.484,5:03
+2,3:28,DEN,Michael Porter Jr.,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,48,47,0.466,0.517,3:52
+2,3:13,PHX,Deandre Ayton,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,50,49,0.575,0.518,3:13
+2,2:26,DEN,Bones Hyland,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,51,53,0.389,0.45,2:26
+2,1:46,DEN,Bruce Brown,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,51,56,0.296,0.351,1:46
+2,51.2,DEN,Bruce Brown,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,51,57,0.243,0.286,55.2
+3,10:32,DEN,Jeff Green,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,54,59,0.306,0.307,10:38
+3,8:56,PHX,Devin Booker,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,56,63,0.268,0.266,9:01
+3,8:50,PHX,Torrey Craig,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,56,63,0.316,0.268,8:56
+3,8:33,PHX,Chris Paul,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,58,63,0.331,0.332,8:37
+3,8:05,DEN,Bruce Brown,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,60,63,0.315,0.365,8:20
+3,7:52,PHX,Deandre Ayton,Defensive 3-Seconds Technical,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,60,65,0.321,0.33,8:05
+3,7:40,PHX,Chris Paul,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,61,65,0.422,0.367,7:52
+3,6:53,PHX,Chris Paul,Transition Take Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,65,67,0.438,0.438,6:54
+3,6:22,PHX,Devin Booker,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,66,70,0.419,0.361,6:37
+3,5:53,DEN,Jeff Green,Transition Take Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,67,70,0.357,0.357,5:54
+3,4:34,PHX,Deandre Ayton,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,69,76,0.268,0.24,4:34
+3,4:25,DEN,Davon Reed,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,71,76,0.277,0.276,4:34
+3,3:34,PHX,Mikal Bridges,Loose Ball Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,73,76,0.456,0.392,3:34
+3,1:32,DEN,Zeke Nnaji,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,74,78,0.236,0.296,1:44
+3,1:04,DEN,Ish Smith,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,74,78,0.233,0.292,1:09
+3,52.5,DEN,Zeke Nnaji,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,74,80,0.165,0.258,1:04
+4,11:39,DEN,Vlatko Cancar,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,78,81,0.249,0.353,12:00
+4,11:21,PHX,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,78,82,0.333,0.325,11:39
+4,11:10,PHX,Timothe Luwawu-Cabarrot,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,78,82,0.417,0.333,11:21
+4,10:18,DEN,Bruce Brown,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,81,84,0.309,0.325,10:33
+4,10:18,PHX,Damion Lee,Offensive Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,81,84,0.371,0.309,10:18
+4,10:10,PHX,Jock Landale,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,81,84,0.388,0.371,10:18
+4,8:46,DEN,Zeke Nnaji,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,85,87,0.273,0.369,8:54
+4,7:10,PHX,Ish Wainright,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,88,89,0.577,0.473,7:22
+4,6:33,DEN,Vlatko Cancar,Loose Ball Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,92,91,0.433,0.543,6:33
+4,6:17,PHX,Josh Okogie,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,92,91,0.691,0.597,6:24
+4,5:36,PHX,Ish Wainright,Loose Ball Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,92,91,0.699,0.602,5:36
+4,4:57,PHX,Ish Wainright,Personal Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,93,93,0.642,0.538,5:12
+4,4:00,PHX,Frank Jackson,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,97,93,0.873,0.741,4:20
+4,3:27,PHX,Duane Washington Jr.,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,100,95,0.919,0.865,3:29
+4,1:11,PHX,Jock Landale,Shooting Foul,Foul,Kevin Cutler,Scott Wall,Leon Wood,DEN,102,105,0.411,0.268,1:27

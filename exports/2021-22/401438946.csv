@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:09,GS,Klay Thompson,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,0,0,0.713,0.68,11:23
+1,10:31,DAL,Dwight Powell,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,3,2,0.646,0.679,10:45
+1,9:21,GS,Andrew Wiggins,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,5,9,0.616,0.581,9:33
+1,8:49,DAL,Dwight Powell,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,7,11,0.532,0.577,8:49
+1,7:05,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,7,14,0.421,0.459,7:07
+1,6:47,GS,Kevon Looney,Defensive 3-Seconds Technical,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,7,16,0.427,0.435,7:05
+1,4:00,DAL,Jalen Brunson,Personal Take Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,14,21,0.4,0.44,4:03
+1,2:36,GS,Stephen Curry,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,14,23,0.406,0.403,2:43
+1,34.8,GS,Andrew Wiggins,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,19,25,0.523,0.48,41.3
+2,11:05,GS,Jordan Poole,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,24,25,0.655,0.617,11:07
+2,10:14,GS,Jordan Poole,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,26,27,0.652,0.614,10:29
+2,10:01,DAL,Davis Bertans,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,27,27,0.569,0.61,10:05
+2,8:24,GS,Moses Moody,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,30,29,0.699,0.661,8:36
+2,7:35,DAL,Davis Bertans,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,32,29,0.685,0.684,7:35
+2,7:08,GS,Jordan Poole,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,32,29,0.748,0.71,7:18
+2,6:40,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,34,29,0.735,0.735,6:53
+2,5:51,GS,Draymond Green,Technical Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,37,31,0.799,0.782,5:51
+2,5:47,GS,Draymond Green,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,38,31,0.834,0.805,5:51
+2,5:17,GS,Draymond Green,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,39,33,0.815,0.782,5:35
+2,4:08,DAL,Luka Doncic,Offensive Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,41,33,0.805,0.825,4:18
+2,3:58,GS,Stephen Curry,Loose Ball Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,42,33,0.871,0.579,2:01
+2,1:24,GS,Stephen Curry,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,42,43,0.626,0.577,1:29
+3,10:36,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,47,50,0.457,0.456,10:43
+3,9:26,GS,Draymond Green,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,49,55,0.43,0.377,9:44
+3,9:26,DAL,Dorian Finney-Smith,Technical Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,51,55,0.382,0.411,9:26
+3,9:12,DAL,Maxi Kleber,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,51,56,0.32,0.373,9:26
+3,8:27,DAL,Luka Doncic,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,53,58,0.314,0.368,8:43
+3,6:36,GS,Draymond Green,Offensive Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,56,59,0.47,0.431,6:51
+3,2:17,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,59,69,0.101,0.135,2:18
+3,1:42,DAL,Davis Bertans,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,61,71,0.095,0.132,1:58
+3,0.8,GS,Kevon Looney,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,66,78,0.124,0.088,5.7
+4,11:20,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,70,78,0.106,0.158,11:46
+4,10:42,DAL,Jalen Brunson,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,72,82,0.058,0.091,10:50
+4,10:40,GS,Kevon Looney,Loose Ball Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,72,83,0.094,0.087,10:40
+4,10:03,GS,Kevon Looney,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,72,83,0.132,0.085,10:09
+4,9:16,GS,Klay Thompson,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,76,86,0.161,0.104,9:23
+4,7:03,DAL,Maxi Kleber,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,83,89,0.109,0.176,7:16
+4,6:25,GS,Stephen Curry,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,83,93,0.113,0.071,6:38
+4,5:41,GS,Andrew Wiggins,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,83,95,0.054,0.032,5:46
+4,4:57,DAL,Spencer Dinwiddie,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,85,95,0.019,0.036,5:03
+4,4:35,GS,Stephen Curry,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,85,97,0.038,0.022,4:43
+4,4:14,DAL,Luka Doncic,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,86,97,0.008,0.019,4:35
+4,25.4,GS,Andrew Wiggins,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,DAL,99,107,0.031,0.01,26.6

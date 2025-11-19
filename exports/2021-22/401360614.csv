@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:07,POR,CJ McCollum,Personal Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,0,0,0.491,0.491,11:08
+1,4:46,OKC,Ty Jerome,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,10,11,0.509,0.458,4:46
+1,4:33,OKC,Josh Giddey,Personal Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,11,11,0.514,0.515,4:34
+1,5.3,OKC,Ty Jerome,Personal Take Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,19,21,0.503,0.458,23.7
+2,7:39,OKC,Kenrich Williams,Personal Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,29,35,0.336,0.337,7:40
+2,6:04,OKC,Ty Jerome,Personal Take Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,35,38,0.422,0.424,6:06
+2,4:43,POR,Jusuf Nurkic,Personal Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,40,40,0.482,0.483,4:43
+2,3:46,OKC,Luguentz Dort,Personal Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,40,40,0.516,0.518,3:53
+2,1:08,OKC,Ty Jerome,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,45,45,0.541,0.482,1:08
+2,3.4,POR,Tony Snell,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,48,45,0.535,0.589,5.6
+3,11:19,OKC,Mamadi Diakite,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,50,46,0.705,0.659,11:36
+3,10:00,OKC,Mamadi Diakite,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,53,46,0.798,0.759,10:13
+3,8:08,POR,Jusuf Nurkic,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,58,48,0.801,0.822,8:08
+3,6:07,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,65,57,0.779,0.779,6:07
+3,4:23,POR,Trendon Watford,Offensive Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,67,66,0.521,0.567,4:36
+3,4:01,POR,Trendon Watford,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,69,66,0.543,0.606,4:08
+3,3:55,OKC,Luguentz Dort,Personal Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,69,68,0.566,0.568,4:01
+3,3:35,POR,Trendon Watford,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,71,68,0.543,0.608,3:41
+3,3:15,POR,Anfernee Simons,Offensive Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,71,69,0.568,0.61,3:35
+3,2:03,POR,Greg Brown III,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,71,71,0.441,0.478,2:03
+3,26.7,OKC,Theo Maledon,Personal Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,76,75,0.644,0.576,26.7
+4,10:21,POR,Trendon Watford,Personal Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,80,75,0.713,0.725,10:25
+4,10:08,POR,Ben McLemore,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,80,77,0.651,0.68,10:08
+4,10:06,POR,Ben McLemore,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,80,77,0.557,0.617,10:06
+4,7:45,POR,Jusuf Nurkic,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,80,81,0.417,0.387,7:54
+4,5:26,OKC,Ty Jerome,Loose Ball Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,82,88,0.154,0.149,5:26
+4,3:58,OKC,Mamadi Diakite,Offensive Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,84,91,0.09,0.064,4:09
+4,3:49,OKC,Mamadi Diakite,Personal Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,84,91,0.095,0.09,3:58
+4,2:35,OKC,Luguentz Dort,Offensive Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,84,91,0.065,0.042,2:45
+4,1:29,OKC,Luguentz Dort,Personal Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,86,91,0.233,0.114,1:36
+4,14.0,POR,CJ McCollum,Personal Take Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,88,91,0.035,0.089,14.0
+4,9.4,OKC,Mamadi Diakite,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,88,93,0.123,0.052,14.0
+4,7.6,POR,CJ Elleby,Personal Take Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,90,93,0.02,0.073,9.4
+4,3.6,OKC,Josh Giddey,Shooting Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,92,95,0.059,0.028,3.6
+4,3.1,POR,Dennis Smith Jr.,Personal Take Foul,Foul,Eric Dalen,Scott Foster,J.T. Orr,POR,93,95,0.018,0.057,3.6

@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:22,ORL,Cole Anthony,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,9,4,0.576,0.613,9:32
+1,8:05,ORL,Paolo Banchero,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,11,6,0.577,0.614,8:18
+1,7:29,MEM,Steven Adams,Offensive Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,11,9,0.568,0.539,7:30
+1,6:50,MEM,Santi Aldama,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,15,9,0.686,0.644,6:50
+1,5:55,MEM,Jake LaRavia,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,18,9,0.771,0.739,6:02
+1,3:39,ORL,Paolo Banchero,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,25,9,0.834,0.856,3:51
+1,3:23,MEM,Ja Morant,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,27,10,0.897,0.874,3:23
+1,1:46,ORL,Terrence Ross,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,28,12,0.852,0.88,1:46
+1,46.9,ORL,Caleb Houstan,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,31,15,0.842,0.865,1:06
+2,11:29,ORL,Mo Bamba,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,33,17,0.873,0.887,11:31
+2,11:24,ORL,Caleb Houstan,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,33,17,0.849,0.873,11:29
+2,8:39,ORL,R.J. Hampton,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,36,27,0.742,0.74,8:53
+2,6:48,ORL,R.J. Hampton,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,38,29,0.709,0.748,6:51
+2,5:13,MEM,Dillon Brooks,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,40,33,0.767,0.728,5:26
+2,4:25,MEM,Jake LaRavia,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,44,36,0.758,0.759,4:35
+2,3:27,ORL,Cole Anthony,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,47,36,0.772,0.808,3:29
+3,11:16,ORL,Paolo Banchero,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,54,49,0.606,0.659,11:23
+3,10:14,MEM,John Konchar,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,57,54,0.678,0.628,10:28
+3,9:38,MEM,Steven Adams,Offensive Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,62,54,0.788,0.757,9:51
+3,8:59,ORL,Paolo Banchero,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,62,54,0.715,0.762,9:00
+3,7:28,ORL,Franz Wagner,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,66,57,0.8,0.798,7:38
+3,6:04,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,70,59,0.822,0.859,6:10
+3,5:01,MEM,Steven Adams,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,70,59,0.887,0.889,5:12
+3,2:35,MEM,Jake LaRavia,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,74,65,0.863,0.862,2:35
+3,2:08,MEM,Jake LaRavia,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,74,65,0.898,0.866,2:08
+3,1:08,ORL,Moritz Wagner,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,77,67,0.831,0.873,1:14
+4,11:42,MEM,David Roddy,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,77,71,0.856,0.881,3:00
+4,7:31,MEM,Santi Aldama,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,85,80,0.815,0.803,7:40
+4,7:24,ORL,Moritz Wagner,Offensive Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,85,80,0.765,0.815,7:31
+4,6:24,ORL,Bol Bol,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,91,82,0.896,0.944,6:24
+4,5:15,ORL,Franz Wagner,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,91,86,0.692,0.794,5:16
+4,2:37,MEM,Xavier Tillman,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,97,95,0.79,0.629,2:37
+4,42.5,MEM,Xavier Tillman,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,100,97,0.934,0.86,1:01
+4,37.0,ORL,Cole Anthony,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,102,99,0.68,0.878,37.0
+4,19.0,MEM,Dillon Brooks,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,105,100,0.99,0.954,29.2
+4,5.5,MEM,John Konchar,Personal Take Foul,Foul,Marat Kogut,Scott Foster,Tyler Mirkovich,ORL,107,105,0.967,0.837,11.1

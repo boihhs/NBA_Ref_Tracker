@@ -1,0 +1,56 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:39,DET,Killian Hayes,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,4,4,0.633,0.633,8:39
+1,7:49,DET,Killian Hayes,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,4,7,0.595,0.559,8:07
+1,6:15,DET,Ausar Thompson,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,9,12,0.551,0.551,6:15
+1,4:09,DET,Isaiah Stewart,Offensive Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,9,18,0.376,0.35,4:12
+1,2:59,CHA,Nick Richards,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,12,20,0.33,0.371,3:14
+1,2:14,CHA,Brandon Miller,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,16,22,0.431,0.424,2:23
+1,1:34,DET,Jaden Ivey,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,19,26,0.462,0.422,1:45
+1,47.1,CHA,JT Thor,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,21,26,0.401,0.443,50.1
+1,28.1,CHA,Brandon Miller,Offensive Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,21,29,0.356,0.39,34.1
+2,11:45,CHA,P.J. Washington,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,21,32,0.277,0.274,11:45
+2,11:37,DET,Jaden Ivey,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,21,32,0.297,0.297,11:42
+2,11:01,CHA,Nick Richards,Offensive Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,21,34,0.218,0.245,11:23
+2,10:23,CHA,P.J. Washington,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,21,36,0.173,0.173,10:23
+2,9:46,DET,Cade Cunningham,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,25,36,0.308,0.261,9:46
+2,9:46,CHA,Nick Richards,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,25,36,0.262,0.259,9:46
+2,9:02,CHA,Mark Williams,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,25,36,0.222,0.256,9:08
+2,7:32,DET,Cade Cunningham,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,27,36,0.328,0.331,7:32
+2,6:24,DET,Jalen Duren,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,29,36,0.43,0.382,6:30
+2,5:39,CHA,Gordon Hayward,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,33,36,0.422,0.47,5:52
+2,4:12,CHA,Gordon Hayward,Offensive Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,33,44,0.221,0.251,4:21
+2,3:30,CHA,Mark Williams,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,35,46,0.199,0.245,3:30
+2,3:03,CHA,Mark Williams,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,38,47,0.227,0.27,3:15
+2,1:54,DET,Ausar Thompson,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,40,50,0.281,0.232,1:54
+2,1:38,DET,Ausar Thompson,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,41,52,0.272,0.233,1:44
+2,51.0,DET,Isaiah Stewart,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,45,54,0.328,0.28,55.1
+3,11:28,CHA,P.J. Washington,Offensive Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,47,56,0.239,0.268,11:37
+3,11:08,CHA,Mark Williams,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,47,56,0.239,0.236,11:08
+3,10:37,DET,Killian Hayes,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,47,58,0.25,0.21,10:55
+3,10:00,DET,Cade Cunningham,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,50,58,0.292,0.293,10:10
+3,9:22,DET,Isaiah Stewart,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,53,58,0.39,0.391,9:24
+3,8:40,DET,Ausar Thompson,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,55,60,0.444,0.386,8:40
+3,8:30,DET,Cade Cunningham,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,55,60,0.443,0.444,8:40
+3,8:20,CHA,LaMelo Ball,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,55,60,0.294,0.347,8:27
+3,8:13,CHA,Nick Richards,Offensive Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,55,61,0.31,0.347,8:20
+3,4:50,DET,Jaden Ivey,Away from Play Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,61,69,0.299,0.249,4:50
+3,2:25,CHA,P.J. Washington,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,69,73,0.274,0.338,2:42
+3,1:52,DET,Jaden Ivey,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,69,75,0.357,0.292,1:59
+3,1:40,CHA,Brandon Miller,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,71,75,0.266,0.331,1:52
+3,57.1,DET,Alec Burks,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,71,79,0.266,0.206,1:12
+3,3.0,DET,Joe Harris,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,72,83,0.146,0.105,7.1
+3,2.0,DET,Joe Harris,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,73,83,0.153,0.131,2.0
+4,11:47,DET,Marcus Sasser,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,75,83,0.258,0.177,12:00
+4,10:54,CHA,Mark Williams,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,76,83,0.147,0.179,10:54
+4,9:22,DET,Cade Cunningham,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,79,87,0.232,0.162,9:27
+4,8:34,DET,Killian Hayes,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,81,89,0.232,0.159,8:38
+4,8:05,DET,Jalen Duren,Offensive Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,83,89,0.237,0.195,8:13
+4,6:15,CHA,Brandon Miller,Double Technical Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,91,94,0.324,0.338,6:15
+4,6:15,CHA,P.J. Washington,Double Technical Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,91,94,0.324,0.324,6:15
+4,3:02,DET,Ausar Thompson,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,93,102,0.086,0.04,3:04
+4,1:58,DET,Cade Cunningham,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,95,106,0.013,0.004,1:58
+4,1:39,CHA,P.J. Washington,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,95,106,0.001,0.003,1:40
+4,1:33,CHA,Brandon Miller,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,95,106,0.001,0.001,1:39
+4,1:12,CHA,Brandon Miller,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,97,108,0.001,0.001,1:23
+4,39.1,DET,Jalen Duren,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,97,110,0.001,0.001,39.1
+4,22.0,CHA,P.J. Washington,Flagrant Foul Type 2,Foul,Bill Kennedy,Rodney Mott,Jenna Schroeder,CHA,99,110,0.001,0.001,39.1

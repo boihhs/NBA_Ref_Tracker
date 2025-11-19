@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:58,NO,Herbert Jones,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,7,5,0.801,0.809,7:59
+1,7:25,MIL,Giannis Antetokounmpo,Personal Take Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,9,5,0.823,0.823,7:25
+1,6:20,NO,Devonte' Graham,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,9,8,0.785,0.785,6:20
+1,3:31,NO,Nickeil Alexander-Walker,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,13,14,0.763,0.734,3:48
+1,1:47,MIL,DeMarcus Cousins,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,19,14,0.81,0.821,1:47
+1,1:19,MIL,Rodney Hood,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,19,15,0.774,0.805,1:26
+1,1:09,NO,Josh Hart,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,19,16,0.827,0.801,1:19
+1,0.5,NO,Josh Hart,Personal Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,25,24,0.79,0.758,4.5
+2,11:42,MIL,Grayson Allen,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,27,26,0.746,0.759,11:42
+2,10:38,MIL,Bobby Portis,Personal Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,30,30,0.706,0.706,10:47
+2,10:38,MIL,Bobby Portis,Technical Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,30,30,0.687,0.706,10:38
+2,8:20,MIL,Bobby Portis,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,36,37,0.624,0.667,8:41
+2,6:09,NO,Herbert Jones,Personal Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,46,44,0.756,0.757,6:13
+2,4:55,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,50,46,0.757,0.798,4:55
+2,4:55,MIL,Giannis Antetokounmpo,Technical Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,50,46,0.757,0.757,4:55
+2,4:42,NO,Tomas Satoransky,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,50,47,0.807,0.777,4:55
+2,4:27,NO,Jaxson Hayes,Loose Ball Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,52,47,0.816,0.817,4:27
+2,4:15,MIL,Jordan Nwora,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,52,47,0.805,0.794,4:16
+2,2:17,MIL,DeMarcus Cousins,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,57,52,0.79,0.79,2:18
+2,1:58,NO,Tomas Satoransky,Personal Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,57,54,0.8,0.767,1:58
+2,1:18,NO,Jaxson Hayes,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,57,54,0.799,0.765,1:23
+2,1.1,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,64,56,0.819,0.85,4.9
+3,9:14,NO,Willy Hernangomez,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,70,61,0.909,0.888,9:18
+3,8:00,MIL,Bobby Portis,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,74,63,0.911,0.919,8:00
+3,5:56,NO,Josh Hart,Personal Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,84,70,0.957,0.924,5:58
+3,4:46,NO,Nickeil Alexander-Walker,Personal Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,88,73,0.968,0.967,4:51
+3,2:56,MIL,Wesley Matthews,Personal Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,92,78,0.956,0.956,3:00
+3,1:05,MIL,DeMarcus Cousins,Personal Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,94,80,0.946,0.963,1:11
+3,50.6,NO,Nickeil Alexander-Walker,Personal Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,94,80,0.981,0.972,52.8
+3,32.2,NO,Jaxson Hayes,Offensive Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,94,80,0.974,0.964,38.6
+3,27.3,NO,Josh Hart,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,94,80,0.982,0.969,1:35
+4,11:24,MIL,Bobby Portis,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,96,82,0.95,0.969,11:28
+4,10:20,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,100,84,0.986,0.984,10:27
+4,8:27,MIL,Jordan Nwora,Personal Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,108,91,0.991,0.991,8:39
+4,8:22,MIL,Jordan Nwora,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,108,91,0.985,0.991,8:27
+4,7:12,MIL,Giannis Antetokounmpo,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,114,96,0.996,0.995,7:25
+4,6:02,MIL,Pat Connaughton,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,120,97,0.999,0.999,6:03
+4,2:14,MIL,Javonte Smart,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,126,105,0.999,0.999,2:27
+4,17.9,MIL,Javin DeLaurier,Shooting Foul,Foul,Mark Lindsay,Scott Twardoski,Lauren Holtkamp,MIL,136,111,0.999,0.999,30.3

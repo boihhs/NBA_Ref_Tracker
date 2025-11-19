@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:05,WSH,Daniel Gafford,Personal Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,11,2,0.745,0.741,9:20
+1,8:32,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,11,5,0.641,0.678,8:33
+1,7:08,WSH,Daniel Gafford,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,15,9,0.701,0.678,7:28
+1,6:31,WSH,Daniel Gafford,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,18,11,0.666,0.7,6:53
+1,6:10,WSH,Thomas Bryant,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,18,13,0.616,0.655,6:13
+1,5:37,PHI,Tobias Harris,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,18,14,0.692,0.655,5:46
+1,2:41,WSH,Kyle Kuzma,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,27,18,0.716,0.75,2:54
+1,1:49,PHI,Furkan Korkmaz,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,29,23,0.742,0.707,2:00
+1,54.5,PHI,Charlie Brown Jr.,Personal Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,35,27,0.755,0.755,1:03
+2,10:36,WSH,Thomas Bryant,Technical Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,41,34,0.691,0.711,10:39
+2,10:27,WSH,Montrezl Harrell,Personal Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,41,35,0.686,0.685,10:36
+2,9:58,PHI,Tyrese Maxey,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,41,35,0.75,0.714,10:13
+2,9:39,PHI,Andre Drummond,Personal Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,43,35,0.761,0.762,9:40
+2,9:39,PHI,Andre Drummond,Technical Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,43,35,0.762,0.761,9:39
+2,7:43,WSH,Corey Kispert,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,46,39,0.675,0.715,7:50
+2,7:12,PHI,Georges Niang,Personal Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,47,40,0.742,0.744,7:12
+2,6:45,PHI,Andre Drummond,Offensive Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,49,40,0.792,0.764,6:56
+2,5:33,PHI,Tobias Harris,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,51,42,0.826,0.795,5:44
+2,2:29,PHI,Joel Embiid,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,60,49,0.876,0.847,2:31
+2,1:41,WSH,Spencer Dinwiddie,Personal Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,61,51,0.772,0.808,1:46
+3,11:03,WSH,Daniel Gafford,Offensive Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,63,57,0.71,0.742,11:20
+3,10:38,PHI,Tobias Harris,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,63,57,0.783,0.744,10:42
+3,9:01,PHI,Tobias Harris,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,68,59,0.86,0.829,9:03
+3,7:27,PHI,Joel Embiid,Offensive Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,72,62,0.859,0.835,7:31
+3,7:23,PHI,PHI,Technical Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,72,62,0.874,0.859,7:27
+3,6:58,WSH,Thomas Bryant,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,75,62,0.872,0.9,7:15
+3,6:22,PHI,Joel Embiid,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,75,64,0.911,0.885,6:25
+3,5:07,PHI,Seth Curry,Loose Ball Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,78,66,0.911,0.911,5:07
+3,4:54,PHI,Joel Embiid,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,78,66,0.902,0.911,4:54
+3,57.5,WSH,Rui Hachimura,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,86,76,0.859,0.902,57.5
+3,42.5,PHI,Georges Niang,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,86,77,0.914,0.882,57.5
+3,37.2,WSH,Raul Neto,Personal Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,88,77,0.868,0.902,42.5
+3,0.8,WSH,Montrezl Harrell,Personal Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,91,81,0.845,0.887,2.3
+4,11:17,PHI,Andre Drummond,Personal Take Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,93,85,0.857,0.873,11:17
+4,9:57,PHI,Isaiah Joe,Personal Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,97,85,0.963,0.959,10:03
+4,9:44,PHI,Georges Niang,Loose Ball Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,97,85,0.955,0.963,9:44
+4,9:36,PHI,Isaiah Joe,Personal Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,97,85,0.978,0.955,9:44
+4,9:30,WSH,Montrezl Harrell,Loose Ball Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,97,85,0.96,0.954,9:30
+4,9:02,PHI,Tobias Harris,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,97,87,0.962,0.941,9:10
+4,7:25,PHI,Andre Drummond,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,101,87,0.983,0.988,7:34
+4,5:14,PHI,Furkan Korkmaz,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,106,89,0.998,0.997,5:14
+4,5:14,WSH,Montrezl Harrell,Technical Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,106,89,0.996,0.998,5:14
+4,4:50,PHI,Tobias Harris,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,107,90,0.999,0.998,5:01
+4,3:13,WSH,Montrezl Harrell,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,111,90,0.999,0.999,3:16
+4,1:29,WSH,Corey Kispert,Shooting Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,117,94,0.999,0.999,1:42
+4,56.8,WSH,Anthony Gill,Offensive Foul,Foul,James Capers,Phenizee Ransom,Tyler Ford,WSH,117,96,0.999,0.999,1:01

@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:24,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,2,4,0.797,0.797,10:28
+1,9:15,ORL,Jalen Suggs,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,2,4,0.806,0.807,9:15
+1,7:21,ORL,Mychal Mulder,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,10,6,0.879,0.88,7:23
+1,6:13,ORL,R.J. Hampton,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,12,6,0.912,0.898,6:16
+1,5:28,ORL,Terrence Ross,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,15,6,0.935,0.924,5:31
+1,4:23,ORL,Chuma Okeke,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,22,6,0.962,0.965,4:28
+1,2:27,MIL,Rodney Hood,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,28,9,0.972,0.972,2:44
+1,2:15,ORL,Terrence Ross,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,28,9,0.98,0.976,2:21
+1,1:54,MIL,Bobby Portis,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,29,9,0.976,0.979,1:58
+1,49.1,ORL,R.J. Hampton,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,34,11,0.989,0.987,55.9
+2,11:09,ORL,Moritz Wagner,Technical Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,40,16,0.99,0.987,11:11
+2,9:54,ORL,Chuma Okeke,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,45,20,0.991,0.991,10:06
+2,9:39,ORL,Jalen Suggs,Technical Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,48,20,0.995,0.994,9:39
+2,9:30,MIL,Jordan Nwora,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,49,20,0.996,0.995,9:39
+2,8:32,MIL,Jrue Holiday,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,54,23,0.996,0.996,8:42
+2,7:36,MIL,Jordan Nwora,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,58,23,0.997,0.997,7:44
+2,7:05,MIL,Pat Connaughton,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,58,23,0.997,0.997,7:24
+2,5:22,ORL,Franz Wagner,Loose Ball Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,60,24,0.998,0.998,5:22
+2,4:13,MIL,Pat Connaughton,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,65,27,0.998,0.998,4:18
+2,2:06,MIL,Jrue Holiday,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,73,29,0.998,0.998,2:25
+2,1:58,MIL,Bobby Portis,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,73,31,0.998,0.998,2:06
+3,10:20,ORL,Jalen Suggs,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,79,36,0.999,0.999,10:20
+3,9:09,MIL,Bobby Portis,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,84,38,0.999,0.999,9:21
+3,8:54,ORL,Mo Bamba,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,84,38,0.999,0.999,8:59
+3,8:21,MIL,Pat Connaughton,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,85,40,0.999,0.999,8:21
+3,7:10,ORL,Jalen Suggs,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,88,45,0.999,0.999,7:10
+3,6:26,ORL,Jalen Suggs,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,93,45,0.999,0.999,6:26
+3,5:32,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,94,47,0.999,0.999,5:32
+3,5:32,ORL,Robin Lopez,Technical Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,94,47,0.999,0.999,5:32
+3,5:21,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,94,47,0.999,0.999,5:32
+3,4:37,ORL,Terrence Ross,Loose Ball Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,94,48,0.999,0.999,4:37
+3,1:24,ORL,Moritz Wagner,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,101,53,0.999,0.999,1:36
+3,1:15,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,102,53,0.999,0.999,1:24
+4,10:01,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,108,60,0.999,0.999,10:20
+4,8:34,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,110,64,0.999,0.999,8:38
+4,7:28,ORL,R.J. Hampton,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,110,67,0.999,0.999,7:28
+4,4:09,ORL,Ignas Brazdeikis,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,112,79,0.999,0.999,4:21
+4,3:47,MIL,Jordan Nwora,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,114,79,0.999,0.999,3:47
+4,3:14,MIL,Georgios Kalaitzakis,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,116,80,0.999,0.999,3:16
+4,3:08,MIL,Justin Robinson,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,116,82,0.999,0.999,3:08
+4,1:23,MIL,Jordan Nwora,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Suyash Mehta,MIL,120,88,0.999,0.999,1:37

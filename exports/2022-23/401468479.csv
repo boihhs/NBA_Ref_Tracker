@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,LAL,Patrick Beverley,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,0,3,0.568,0.564,10:57
+1,7:19,LAL,Anthony Davis,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,6,12,0.431,0.469,7:26
+1,4:26,POR,Justise Winslow,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,8,17,0.442,0.402,4:30
+1,4:15,POR,Jerami Grant,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,10,17,0.455,0.454,4:15
+1,3:53,POR,Trendon Watford,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,10,17,0.493,0.455,4:15
+1,3:36,POR,Drew Eubanks,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,13,17,0.555,0.504,3:36
+1,3:16,POR,Jabari Walker,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,14,17,0.6,0.561,3:19
+1,2:21,POR,Drew Eubanks,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,17,20,0.596,0.559,2:42
+1,36.5,LAL,Max Christie,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,22,22,0.56,0.605,49.9
+1,0.9,POR,Jabari Walker,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,22,22,0.67,0.627,0.9
+2,11:07,LAL,Kendrick Nunn,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,26,22,0.668,0.708,11:08
+2,7:32,LAL,Dennis Schroder,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,37,31,0.713,0.75,7:35
+2,6:34,LAL,Anthony Davis,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,39,35,0.661,0.729,7:32
+2,6:17,POR,Justise Winslow,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,39,36,0.72,0.7,6:17
+2,5:31,LAL,LeBron James,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,44,41,0.651,0.7,5:31
+2,4:56,POR,Anfernee Simons,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,44,44,0.657,0.611,4:57
+2,4:39,LAL,Thomas Bryant,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,46,46,0.555,0.611,4:39
+2,3:37,LAL,Thomas Bryant,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,50,49,0.559,0.608,3:48
+2,3:00,POR,Justise Winslow,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,52,53,0.573,0.574,3:08
+3,11:18,LAL,Dennis Schroder,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,66,62,0.694,0.691,11:23
+3,9:50,POR,Justise Winslow,Offensive Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,68,64,0.724,0.693,10:10
+3,9:14,LAL,Patrick Beverley,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,68,64,0.694,0.693,9:26
+3,5:25,LAL,Patrick Beverley,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,83,68,0.947,0.948,5:26
+3,4:55,POR,Jerami Grant,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,83,70,0.954,0.937,5:12
+3,4:09,POR,Drew Eubanks,Loose Ball Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,85,73,0.928,0.928,4:09
+3,3:49,POR,Trendon Watford,Offensive Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,85,73,0.93,0.914,3:58
+3,3:23,POR,Trendon Watford,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,87,73,0.962,0.946,3:23
+3,3:09,LAL,Thomas Bryant,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,88,73,0.939,0.956,3:23
+3,2:58,POR,Jabari Walker,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,88,75,0.961,0.945,3:09
+3,2:32,LAL,Kendrick Nunn,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,90,75,0.941,0.957,2:44
+3,6.2,LAL,Thomas Bryant,Loose Ball Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,94,81,0.926,0.949,6.2
+4,11:31,LAL,Russell Westbrook,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,97,82,0.97,0.972,11:45
+4,9:27,LAL,Austin Reaves,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,102,88,0.951,0.972,9:32
+4,9:12,POR,Jabari Walker,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,102,90,0.965,0.962,9:14
+4,9:03,POR,Shaedon Sharpe,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,104,90,0.986,0.973,9:03
+4,8:24,POR,Jusuf Nurkic,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,107,94,0.984,0.968,8:24
+4,7:20,POR,Shaedon Sharpe,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,111,96,0.995,0.991,7:31
+4,7:15,POR,Jusuf Nurkic,Away from Play Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,114,96,0.998,0.996,7:15
+4,6:59,POR,Jusuf Nurkic,Personal Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,114,98,0.997,0.995,7:02
+4,5:43,POR,Anfernee Simons,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,117,101,0.998,0.996,6:07
+4,4:33,LAL,Anthony Davis,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,118,103,0.989,0.995,4:44
+4,2:30,POR,Justise Winslow,Shooting Foul,Foul,James Capers,Brian Forte,Natalie Sago,LAL,124,109,0.999,0.999,2:30

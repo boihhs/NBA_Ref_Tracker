@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:11,DET,R.J. Hampton,Personal Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,12,7,0.953,0.953,8:21
+1,5:23,DET,R.J. Hampton,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,20,14,0.959,0.953,5:33
+1,4:48,DET,Jalen Duren,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,24,14,0.97,0.964,4:48
+1,3:58,DET,Jalen Duren,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,25,16,0.969,0.963,4:04
+1,3:12,DET,Jalen Duren,Loose Ball Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,30,16,0.982,0.979,3:12
+2,10:37,WSH,Corey Kispert,Offensive Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,40,25,0.976,0.979,10:50
+2,8:47,WSH,Delon Wright,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,44,25,0.982,0.985,9:02
+2,8:15,WSH,Jordan Goodwin,Personal Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,44,27,0.981,0.981,8:22
+2,7:59,WSH,Johnny Davis,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,44,27,0.979,0.981,7:59
+2,6:18,WSH,Bradley Beal,Loose Ball Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,48,34,0.962,0.974,6:31
+2,4:30,WSH,Kristaps Porzingis,Loose Ball Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,50,39,0.941,0.952,4:30
+2,2:33,DET,Buddy Boeheim,Personal Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,59,41,0.985,0.985,2:49
+2,2:30,DET,Rodney McGruder,Personal Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,59,41,0.985,0.985,2:33
+2,49.0,DET,Eugene Omoruyi,Loose Ball Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,61,45,0.984,0.98,49.0
+3,11:18,DET,Rodney McGruder,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,61,45,0.985,0.98,11:35
+3,10:32,WSH,Bradley Beal,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,65,47,0.978,0.983,10:40
+3,9:04,DET,Eugene Omoruyi,Personal Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,69,54,0.976,0.976,9:13
+3,6:58,DET,James Wiseman,Personal Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,75,58,0.985,0.985,7:03
+3,6:46,DET,Eugene Omoruyi,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,75,58,0.989,0.985,6:58
+3,6:30,WSH,Kristaps Porzingis,Personal Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,77,58,0.988,0.988,6:46
+3,5:57,DET,Killian Hayes,Transition Take Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,77,60,0.985,0.985,5:57
+3,2:05,WSH,Bradley Beal,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,88,67,0.994,0.996,2:05
+3,1:47,DET,Eugene Omoruyi,Loose Ball Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,88,67,0.998,0.997,1:47
+3,1:13,DET,Jalen Duren,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,90,69,0.998,0.997,1:23
+3,22.1,DET,Buddy Boeheim,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,92,69,0.999,0.998,36.0
+3,8.1,WSH,Jordan Goodwin,Personal Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,94,69,0.998,0.999,22.1
+3,0.1,WSH,Deni Avdija,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,94,71,0.998,0.999,0.1
+4,11:24,DET,Rodney McGruder,Personal Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,94,75,0.997,0.996,11:37
+4,7:51,DET,Jared Rhoden,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,94,83,0.985,0.981,7:51
+4,1:08,WSH,Jay Huff,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,114,93,0.999,0.999,1:24
+4,57.1,DET,Killian Hayes,Shooting Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,114,95,0.999,0.999,1:08
+4,57.1,DET,Killian Hayes,Technical Foul,Foul,David Guthrie,Simone Jelks,Natalie Sago,WSH,114,95,0.999,0.999,57.1

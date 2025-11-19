@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:32,CHA,Mason Plumlee,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,8,4,0.679,0.712,8:50
+1,7:59,CHA,P.J. Washington,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,8,7,0.627,0.668,7:59
+1,6:55,POR,Josh Hart,Loose Ball Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,13,10,0.71,0.712,6:55
+1,3:46,CHA,Dennis Smith Jr.,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,21,17,0.705,0.705,3:48
+1,3:39,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,21,17,0.67,0.705,3:46
+1,3:03,POR,Trendon Watford,Offensive Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,23,18,0.751,0.729,3:24
+2,10:29,POR,Jabari Walker,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,34,30,0.757,0.725,10:48
+2,9:55,POR,Jabari Walker,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,36,30,0.799,0.768,9:59
+2,8:53,CHA,P.J. Washington,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,40,35,0.702,0.746,8:53
+2,8:22,CHA,Terry Rozier,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,40,39,0.59,0.64,8:22
+2,8:12,POR,Trendon Watford,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,42,40,0.686,0.641,8:12
+2,6:46,POR,Josh Hart,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,45,40,0.779,0.744,6:49
+2,5:33,CHA,Theo Maledon,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,47,42,0.697,0.744,5:33
+2,5:19,POR,Josh Hart,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,47,42,0.762,0.744,5:19
+2,4:30,POR,Shaedon Sharpe,Technical Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,49,46,0.711,0.69,4:30
+2,4:21,CHA,Dennis Smith Jr.,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,49,46,0.616,0.662,4:21
+2,1:38,CHA,James Bouknight,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,51,54,0.405,0.456,1:52
+2,38.4,POR,Drew Eubanks,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,51,58,0.403,0.35,45.8
+3,11:46,POR,Damian Lillard,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,53,58,0.409,0.402,12:00
+3,10:23,POR,Damian Lillard,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,56,60,0.438,0.44,10:37
+3,9:23,POR,Drew Eubanks,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,59,60,0.6,0.547,9:32
+3,8:00,POR,Justise Winslow,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,65,60,0.771,0.751,8:00
+3,7:30,POR,Justise Winslow,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,67,60,0.845,0.806,7:38
+3,5:52,CHA,Kelly Oubre Jr.,Loose Ball Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,72,62,0.862,0.864,5:52
+3,4:32,CHA,James Bouknight,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,72,68,0.631,0.689,4:35
+3,3:48,POR,Trendon Watford,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,72,72,0.632,0.57,4:10
+3,3:35,CHA,Dennis Smith Jr.,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,74,72,0.547,0.611,3:48
+3,1:42,POR,Jabari Walker,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,78,80,0.541,0.47,1:47
+3,1:33,CHA,Jalen McDaniels,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,79,80,0.4,0.468,1:42
+3,27.3,CHA,Jalen McDaniels,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,79,84,0.217,0.282,47.9
+3,11.8,CHA,Nick Richards,Offensive Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,79,86,0.196,0.241,27.3
+4,11:27,POR,Trendon Watford,Loose Ball Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,79,86,0.235,0.224,11:27
+4,10:51,POR,Anfernee Simons,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,81,88,0.235,0.222,10:56
+4,9:32,CHA,Terry Rozier,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,85,91,0.145,0.212,9:46
+4,10:33,CHA,CHA,Delay Technical,Foul,James Capers,Marat Kogut,John Conley,CHA,83,89,0.229,0.145,9:32
+4,7:28,POR,Shaedon Sharpe,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,87,96,0.145,0.081,7:28
+4,7:11,CHA,Theo Maledon,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,87,98,0.032,0.06,7:11
+4,6:23,CHA,Dennis Smith Jr.,Shooting Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,87,100,0.009,0.035,6:26
+4,4:56,CHA,Mason Plumlee,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,89,100,0.011,0.021,4:56
+4,4:10,POR,Josh Hart,Technical Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,92,100,0.098,0.05,4:10
+4,2:42,CHA,Dennis Smith Jr.,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,93,100,0.023,0.084,3:10
+4,1:34,POR,Justise Winslow,Personal Foul,Foul,James Capers,Marat Kogut,John Conley,CHA,93,103,0.027,0.01,1:48

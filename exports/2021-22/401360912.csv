@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:41,LAL,Stanley Johnson,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,2,2,0.23,0.26,9:49
+1,7:25,LAL,Dwight Howard,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,9,6,0.301,0.333,7:40
+1,7:15,PHI,Matisse Thybulle,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,9,7,0.336,0.337,7:25
+1,5:19,PHI,Matisse Thybulle,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,9,12,0.235,0.234,5:37
+1,4:54,LAL,Dwight Howard,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,11,12,0.228,0.256,5:09
+1,4:54,LAL,Dwight Howard,Technical Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,11,12,0.243,0.228,4:54
+2,11:11,PHI,DeAndre Jordan,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,30,30,0.369,0.329,11:17
+2,9:11,LAL,Wenyen Gabriel,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,39,32,0.47,0.515,9:13
+2,2:44,PHI,James Harden,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,47,55,0.166,0.166,3:04
+2,2:26,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,49,55,0.228,0.186,2:26
+2,1:46,LAL,Austin Reaves,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,52,57,0.176,0.209,2:00
+2,1:39,LAL,Stanley Johnson,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,52,57,0.176,0.176,1:46
+3,11:27,PHI,Matisse Thybulle,Loose Ball Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,52,63,0.11,0.112,11:27
+3,11:10,LAL,Stanley Johnson,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,54,63,0.126,0.126,11:17
+3,9:55,LAL,Russell Westbrook,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,56,65,0.101,0.124,10:15
+3,9:55,LAL,Russell Westbrook,Technical Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,56,65,0.112,0.101,9:55
+3,7:17,LAL,Wenyen Gabriel,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,64,74,0.104,0.102,7:17
+3,7:17,LAL,Stanley Johnson,Technical Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,64,74,0.091,0.104,7:17
+3,6:04,LAL,Dwight Howard,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,67,79,0.052,0.069,6:09
+3,5:30,LAL,Carmelo Anthony,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,69,79,0.075,0.099,5:40
+3,3:36,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,75,87,0.101,0.076,3:50
+3,1:53,LAL,Carmelo Anthony,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,84,91,0.111,0.147,2:04
+4,10:17,LAL,Russell Westbrook,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,93,98,0.182,0.188,10:22
+4,10:07,LAL,D.J. Augustin,Loose Ball Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,93,98,0.176,0.185,10:07
+4,9:05,LAL,Wenyen Gabriel,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,97,100,0.21,0.256,9:05
+4,8:24,PHI,Shake Milton,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,97,103,0.24,0.17,8:32
+4,7:00,LAL,Carmelo Anthony,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,100,107,0.059,0.095,7:10
+4,6:33,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,100,107,0.18,0.116,6:46
+4,6:12,PHI,James Harden,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,100,107,0.184,0.114,6:16
+4,5:08,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,104,109,0.278,0.187,5:19
+4,3:15,PHI,James Harden,Personal Take Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,105,114,0.073,0.04,3:17
+4,1:16,LAL,Dwight Howard,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,113,119,0.019,0.052,1:34
+4,39.9,PHI,Tobias Harris,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,117,123,0.089,0.028,39.9
+4,30.5,LAL,Malik Monk,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,119,123,0.034,0.084,32.4
+4,16.2,LAL,Wenyen Gabriel,Personal Take Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,LAL,121,125,0.018,0.059,18.7

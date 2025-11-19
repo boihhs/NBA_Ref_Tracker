@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:40,DET,Hamidou Diallo,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,2,3,0.595,0.598,10:01
+1,9:27,DET,Cade Cunningham,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,2,3,0.631,0.595,9:40
+1,6:05,DET,Isaiah Stewart,Loose Ball Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,12,8,0.708,0.708,6:05
+1,3:15,DET,Saddiq Bey,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,21,14,0.803,0.772,3:30
+1,2:37,DET,Killian Hayes,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,26,14,0.871,0.845,2:37
+1,1:15,DET,Frank Jackson,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,32,16,0.907,0.913,1:16
+1,23.2,ORL,Gary Harris,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,37,16,0.938,0.95,41.3
+1,1.4,ORL,Jalen Suggs,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,39,17,0.945,0.958,6.2
+2,10:32,DET,Trey Lyles,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,39,23,0.934,0.916,10:52
+2,10:19,ORL,Gary Harris,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,41,23,0.929,0.928,10:32
+2,8:26,ORL,Cole Anthony,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,46,28,0.925,0.933,8:26
+2,8:09,DET,Rodney McGruder,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,46,30,0.937,0.923,8:26
+2,8:00,ORL,Moritz Wagner,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,48,32,0.903,0.923,8:00
+2,6:42,ORL,Franz Wagner,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,51,39,0.829,0.857,6:47
+2,6:26,DET,Frank Jackson,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,51,41,0.838,0.84,6:42
+2,6:05,ORL,Terrence Ross,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,51,41,0.789,0.82,6:10
+2,5:49,DET,Frank Jackson,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,51,43,0.83,0.802,6:05
+2,5:41,DET,Josh Jackson,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,51,43,0.831,0.83,5:49
+2,4:45,DET,Killian Hayes,Personal Take Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,54,45,0.852,0.823,4:46
+2,4:15,ORL,Franz Wagner,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,56,45,0.814,0.844,4:18
+2,2:03,DET,Isaiah Stewart,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,60,47,0.911,0.884,2:03
+2,1:51,ORL,Mo Bamba,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,61,47,0.877,0.9,2:03
+2,1:14,DET,Isaiah Stewart,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,61,49,0.91,0.888,1:19
+2,11.6,DET,Trey Lyles,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,65,49,0.935,0.942,31.1
+3,11:44,ORL,Mo Bamba,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,67,51,0.913,0.936,12:00
+3,11:14,DET,Cory Joseph,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,67,53,0.922,0.922,11:14
+3,10:08,DET,Cory Joseph,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,70,58,0.907,0.898,10:20
+3,7:48,DET,Cory Joseph,Loose Ball Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,74,63,0.913,0.889,7:48
+3,7:12,DET,Cory Joseph,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,76,66,0.861,0.85,7:12
+3,6:59,ORL,Franz Wagner,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,77,66,0.84,0.872,7:12
+3,6:02,DET,Hamidou Diallo,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,79,67,0.935,0.896,6:13
+3,5:26,ORL,Franz Wagner,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,81,67,0.93,0.93,5:26
+3,2:52,ORL,Chuma Okeke,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,86,69,0.966,0.971,2:52
+3,43.5,ORL,Mo Bamba,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,92,74,0.987,0.984,46.8
+4,9:49,ORL,Jalen Suggs,Loose Ball Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,101,77,0.999,0.999,9:49
+4,9:42,ORL,Jalen Suggs,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,101,77,0.998,0.999,9:49
+4,9:14,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,103,79,0.998,0.999,9:27
+4,8:27,ORL,Terrence Ross,Personal Take Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,103,80,0.998,0.999,8:28
+4,7:16,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,103,82,0.997,0.998,7:17
+4,7:02,DET,Josh Jackson,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,103,84,0.998,0.997,7:16
+4,6:38,DET,Killian Hayes,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,105,86,0.998,0.998,6:49
+4,6:16,ORL,Cole Anthony,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,108,86,0.998,0.999,6:30
+4,6:07,DET,Rodney McGruder,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,110,87,0.999,0.999,6:07
+4,5:55,ORL,Chuma Okeke,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,111,87,0.999,0.999,6:07
+4,3:21,DET,Saddiq Bey,Personal Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,115,95,0.999,0.999,3:41
+4,2:08,ORL,Admiral Schofield,Shooting Foul,Foul,Kevin Scott,Jonathan Sterling,John Butler,ORL,119,97,0.999,0.999,2:08

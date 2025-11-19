@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:28,LAC,Marcus Morris Sr.,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,12,9,0.633,0.635,7:40
+1,7:22,LAC,Ivica Zubac,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,12,9,0.669,0.633,7:28
+1,5:29,SAC,KZ Okpala,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,18,14,0.634,0.634,5:40
+1,5:06,SAC,Malik Monk,Offensive Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,18,16,0.581,0.61,5:15
+1,55.2,LAC,Terance Mann,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,21,26,0.452,0.411,1:08
+1,37.8,SAC,Domantas Sabonis,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,23,26,0.397,0.439,55.2
+2,10:51,LAC,Robert Covington,Offensive Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,26,31,0.405,0.373,10:56
+2,10:11,LAC,Nicolas Batum,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,28,31,0.461,0.463,10:17
+2,10:08,LAC,Nicolas Batum,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,28,31,0.46,0.461,10:11
+2,9:35,SAC,Terence Davis,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,30,31,0.492,0.487,9:55
+2,9:02,SAC,Keegan Murray,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,32,31,0.505,0.55,9:22
+2,5:09,SAC,Kevin Huerter,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,40,40,0.514,0.512,5:27
+2,5:01,SAC,Harrison Barnes,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,40,40,0.466,0.514,5:09
+2,4:47,LAC,Reggie Jackson,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,40,40,0.595,0.547,4:51
+2,4:08,SAC,Richaun Holmes,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,41,40,0.496,0.547,4:12
+2,3:53,LAC,Marcus Morris Sr.,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,41,42,0.562,0.514,4:08
+2,3:04,SAC,Keegan Murray,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,45,42,0.56,0.612,3:04
+2,2:15,LAC,Paul George,Offensive Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,50,44,0.73,0.7,2:28
+2,2:04,LAC,Paul George,Technical Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,50,44,0.754,0.73,2:15
+2,1:45,SAC,Domantas Sabonis,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,50,44,0.656,0.701,1:47
+2,30.3,LAC,Marcus Morris Sr.,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,53,49,0.721,0.678,33.6
+3,11:19,SAC,De'Aaron Fox,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,56,56,0.479,0.545,11:19
+3,10:44,LAC,Marcus Morris Sr.,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,58,60,0.47,0.47,10:53
+3,8:46,LAC,Ivica Zubac,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,61,65,0.446,0.39,9:02
+3,8:32,SAC,Domantas Sabonis,Loose Ball Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,62,65,0.389,0.386,8:42
+3,6:25,LAC,Ivica Zubac,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,66,69,0.478,0.42,6:33
+3,12:00,LAC,LAC,Delay Technical,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,56,52,0.668,0.322,3:34
+3,3:32,SAC,Kevin Huerter,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,73,77,0.325,0.668,12:00
+3,2:55,LAC,LAC,Delay Technical,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,73,79,0.27,0.241,2:55
+3,2:26,LAC,Nicolas Batum,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,75,81,0.308,0.236,2:26
+3,1:51,LAC,Robert Covington,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,75,81,0.335,0.272,1:58
+3,1:23,LAC,Nicolas Batum,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,76,81,0.376,0.313,1:28
+3,1:08,SAC,Richaun Holmes,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,78,81,0.284,0.35,1:23
+3,41.3,SAC,Davion Mitchell,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,80,83,0.28,0.347,44.6
+3,26.9,SAC,Harrison Barnes,Loose Ball Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,80,84,0.237,0.298,26.9
+4,11:38,LAC,Marcus Morris Sr.,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,80,86,0.26,0.252,12:00
+4,10:23,SAC,Davion Mitchell,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,83,86,0.251,0.334,10:49
+4,10:04,LAC,Reggie Jackson,Offensive Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,83,89,0.235,0.195,10:16
+4,6:32,LAC,Terance Mann,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,89,101,0.06,0.034,6:40
+4,3:44,SAC,Keegan Murray,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,95,105,0.016,0.02,3:56
+4,2:41,SAC,Domantas Sabonis,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,98,105,0.021,0.05,2:56
+4,1:11,LAC,Nicolas Batum,Loose Ball Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,103,109,0.161,0.063,1:12
+4,1:09,LAC,Paul George,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,103,109,0.16,0.161,1:11
+4,14.4,SAC,Kevin Huerter,Personal Take Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,106,109,0.036,0.09,14.4
+4,12.7,SAC,Kevin Huerter,Personal Foul,Foul,John Goble,Gediminas Petraitis,Matt Kallio,SAC,106,109,0.032,0.036,14.4

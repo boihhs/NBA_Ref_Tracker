@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:12,MIA,Duncan Robinson,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,2,2,0.741,0.741,10:18
+1,6:20,MIA,Gabe Vincent,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,5,14,0.497,0.5,6:30
+1,3:56,UTAH,Hassan Whiteside,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,7,19,0.323,0.37,4:10
+1,3:36,UTAH,Hassan Whiteside,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,7,21,0.267,0.307,3:42
+1,3:08,MIA,Gabe Vincent,Offensive Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,10,23,0.356,0.331,3:19
+1,2:12,UTAH,Joe Ingles,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,13,25,0.308,0.348,2:17
+1,1:27,UTAH,Rudy Gobert,Double Technical Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,13,27,0.292,0.311,1:27
+1,34.2,MIA,Gabe Vincent,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,19,27,0.526,0.483,38.2
+2,11:28,MIA,Duncan Robinson,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,24,29,0.604,0.564,11:40
+2,10:35,MIA,Kyle Lowry,Loose Ball Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,25,34,0.417,0.434,10:35
+2,7:21,UTAH,Jordan Clarkson,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,30,43,0.252,0.254,7:33
+2,4:26,UTAH,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,38,48,0.288,0.342,4:26
+2,3:54,MIA,Duncan Robinson,Loose Ball Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,38,49,0.29,0.306,3:54
+2,2:08,MIA,Max Strus,Personal Take Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,43,53,0.367,0.319,2:10
+2,1:15,MIA,Bam Adebayo,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,46,55,0.393,0.344,1:33
+2,34.7,MIA,P.J. Tucker,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,47,55,0.424,0.368,44.2
+3,11:44,UTAH,Donovan Mitchell,Away from Play Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,48,58,0.262,0.28,12:00
+3,9:46,MIA,Kyle Lowry,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,53,68,0.123,0.113,9:46
+3,8:56,MIA,Bam Adebayo,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,54,70,0.136,0.106,9:00
+3,8:41,UTAH,Donovan Mitchell,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,56,70,0.125,0.125,8:56
+3,7:29,MIA,P.J. Tucker,Offensive Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,58,74,0.093,0.078,7:41
+3,7:26,MIA,MIA,Technical Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,58,74,0.105,0.093,7:29
+3,6:05,UTAH,Jordan Clarkson,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,59,81,0.013,0.02,6:05
+3,5:50,MIA,Kyle Lowry,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,59,82,0.013,0.015,5:50
+3,5:20,MIA,Duncan Robinson,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,59,85,0.009,0.006,5:34
+3,3:47,UTAH,Hassan Whiteside,Loose Ball Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,64,85,0.013,0.017,3:47
+3,2:45,MIA,Dewayne Dedmon,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,64,91,0.003,0.002,2:56
+3,6.5,MIA,Tyler Herro,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,68,93,0.001,0.001,6.5
+4,11:00,UTAH,Rudy Gobert,Offensive Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,72,95,0.001,0.003,11:15
+4,10:40,MIA,Caleb Martin,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,72,97,0.001,0.001,10:51
+4,10:05,UTAH,Bojan Bogdanovic,Technical Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,75,97,0.001,0.002,10:10
+4,10:06,UTAH,Joe Ingles,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,75,100,0.001,0.001,10:05
+4,8:44,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,78,100,0.001,0.001,9:01
+4,8:01,MIA,Gabe Vincent,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,78,100,0.001,0.001,8:09
+4,8:00,MIA,Tyler Herro,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,78,100,0.001,0.001,8:01
+4,7:02,MIA,Tyler Herro,Loose Ball Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,81,105,0.001,0.001,7:02
+4,5:54,MIA,Bam Adebayo,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,83,105,0.001,0.001,5:58
+4,4:31,UTAH,Royce O'Neale,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,87,107,0.001,0.001,4:39
+4,4:23,MIA,Duncan Robinson,Personal Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,87,109,0.001,0.001,4:31
+4,3:18,MIA,Bam Adebayo,Shooting Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,94,109,0.002,0.001,3:18
+4,2:44,UTAH,Bojan Bogdanovic,Loose Ball Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,94,109,0.001,0.001,2:44
+4,45.4,MIA,P.J. Tucker,Offensive Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,101,109,0.018,0.011,1:03
+4,10.9,UTAH,Bojan Bogdanovic,Personal Take Foul,Foul,Pat Fraher,Bennie Adams,Scott Wall,UTAH,105,109,0.011,0.049,14.5

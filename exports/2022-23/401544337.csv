@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,PHX,Cameron Payne,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,5,0,0.533,0.53,10:46
+1,9:50,DEN,Nikola Jokic,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,5,2,0.547,0.509,10:01
+1,9:12,PHX,Kevin Durant,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,7,4,0.484,0.484,9:16
+1,8:41,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,7,4,0.55,0.511,8:58
+1,5:22,PHX,Deandre Ayton,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,15,19,0.297,0.337,5:22
+1,4:17,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,17,23,0.308,0.268,4:17
+1,3:54,DEN,Bruce Brown,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,17,23,0.326,0.29,3:59
+1,2:57,DEN,Nikola Jokic,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,19,28,0.257,0.225,3:10
+1,1:39,PHX,T.J. Warren,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,22,28,0.232,0.266,1:44
+1,1:01,DEN,Bruce Brown,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,24,30,0.31,0.267,1:01
+1,2.1,PHX,Jock Landale,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,30,33,0.322,0.344,19.1
+2,11:02,DEN,Jeff Green,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,32,36,0.381,0.338,11:23
+2,10:44,PHX,T.J. Warren,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,33,36,0.3,0.339,11:02
+2,9:52,DEN,Jeff Green,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,37,39,0.417,0.368,9:52
+2,7:56,PHX,Jock Landale,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,43,41,0.49,0.488,8:01
+2,6:52,PHX,Cameron Payne,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,43,45,0.369,0.398,7:06
+2,6:09,DEN,Bruce Brown,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,47,47,0.484,0.429,6:09
+2,5:57,PHX,Devin Booker,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,47,47,0.43,0.428,6:07
+2,4:40,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,51,49,0.553,0.498,4:40
+2,4:23,PHX,Deandre Ayton,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,52,51,0.439,0.497,4:23
+2,2:50,PHX,Terrence Ross,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,54,54,0.386,0.433,3:03
+2,2:36,DEN,Nikola Jokic,Technical Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,54,55,0.463,0.404,2:36
+2,2:22,PHX,Deandre Ayton,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,55,55,0.387,0.471,2:36
+2,52.0,PHX,Terrence Ross,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,61,60,0.445,0.506,52.0
+2,7.0,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,61,61,0.526,0.474,23.1
+3,11:32,PHX,Devin Booker,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,63,61,0.511,0.514,11:32
+3,11:21,PHX,Cameron Payne,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,63,61,0.459,0.511,11:32
+3,11:08,DEN,Michael Porter Jr.,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,63,62,0.514,0.511,11:21
+3,10:03,PHX,Devin Booker,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,67,64,0.551,0.592,10:11
+3,7:30,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,69,73,0.389,0.334,7:44
+3,4:40,PHX,Deandre Ayton,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,83,80,0.512,0.573,4:58
+3,3:12,PHX,Landry Shamet,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,87,84,0.517,0.581,3:25
+3,2:42,PHX,Jock Landale,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,87,86,0.427,0.495,2:47
+4,11:46,PHX,Devin Booker,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,98,92,0.743,0.74,12:00
+4,11:05,PHX,Terrence Ross,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,100,94,0.739,0.748,11:19
+4,9:50,PHX,Jock Landale,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,100,96,0.648,0.663,9:50
+4,8:52,PHX,Kevin Durant,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,102,96,0.67,0.761,9:10
+4,8:52,PHX,Deandre Ayton,Technical Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,102,96,0.719,0.67,8:52
+4,3:42,DEN,Michael Porter Jr.,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,118,111,0.945,0.89,3:42
+4,2:36,PHX,Devin Booker,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,121,115,0.832,0.923,2:36
+4,2:21,DEN,Aaron Gordon,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,121,116,0.887,0.881,2:21
+4,1:27,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,121,118,0.894,0.789,1:45
+4,22.1,DEN,Michael Porter Jr.,Personal Take Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,123,120,0.947,0.875,27.1
+4,13.1,DEN,Michael Porter Jr.,Personal Take Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,125,120,0.994,0.976,15.1
+4,7.1,DEN,Michael Porter Jr.,Personal Take Foul,Foul,Ed Malloy,Jacyn Goble,Tony Brothers,PHX,127,122,0.997,0.988,8.0

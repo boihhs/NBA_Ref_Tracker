@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:41,PHX,Devin Booker,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,5,0,0.53,0.546,11:07
+1,7:56,LAC,Kawhi Leonard,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,11,11,0.451,0.451,7:56
+1,6:56,LAC,Russell Westbrook,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,11,13,0.401,0.401,7:00
+1,6:33,LAC,Russell Westbrook,Offensive Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,11,13,0.401,0.374,6:44
+1,4:00,LAC,Terance Mann,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,15,18,0.416,0.375,4:23
+1,3:31,PHX,Torrey Craig,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,17,18,0.402,0.403,3:31
+1,3:31,PHX,Torrey Craig,Technical Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,17,18,0.384,0.402,3:31
+1,3:18,PHX,Kevin Durant,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,17,19,0.34,0.378,3:31
+1,1:23,LAC,Terance Mann,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,22,23,0.478,0.435,1:28
+2,11:43,PHX,T.J. Warren,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,24,29,0.265,0.312,12:00
+2,10:12,LAC,Norman Powell,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,26,31,0.324,0.324,10:17
+2,9:51,PHX,Chris Paul,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,26,31,0.262,0.298,9:58
+2,8:35,LAC,Bones Hyland,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,28,37,0.225,0.226,8:48
+2,8:33,LAC,Norman Powell,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,28,37,0.224,0.225,8:35
+2,6:49,PHX,Deandre Ayton,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,34,44,0.164,0.199,6:49
+2,6:01,PHX,Chris Paul,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,36,45,0.166,0.197,6:25
+2,5:32,PHX,Devin Booker,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,36,48,0.113,0.138,5:38
+2,4:27,LAC,Norman Powell,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,41,51,0.227,0.193,4:32
+2,2:24,LAC,Nicolas Batum,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,48,57,0.247,0.209,2:41
+2,1:41,LAC,Eric Gordon,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,52,57,0.364,0.318,1:44
+3,11:29,LAC,Eric Gordon,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,59,59,0.483,0.487,11:41
+3,10:23,PHX,Torrey Craig,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,63,59,0.596,0.594,10:42
+3,9:37,LAC,Nicolas Batum,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,65,61,0.635,0.634,9:57
+3,8:23,PHX,Deandre Ayton,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,71,61,0.758,0.8,8:39
+3,7:47,PHX,Deandre Ayton,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,73,63,0.807,0.806,7:47
+3,7:39,PHX,Deandre Ayton,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,73,63,0.763,0.807,7:47
+3,6:57,LAC,Nicolas Batum,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,73,66,0.754,0.723,7:01
+3,3:25,PHX,Bismack Biyombo,Loose Ball Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,82,75,0.69,0.749,3:25
+3,3:12,LAC,Ivica Zubac,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,82,77,0.769,0.713,3:25
+3,1:34,PHX,Kevin Durant,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,87,79,0.772,0.8,1:46
+3,1:28,LAC,Terance Mann,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,87,81,0.818,0.769,1:34
+3,49.1,PHX,Josh Okogie,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,89,83,0.665,0.728,52.1
+4,10:11,PHX,Josh Okogie,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,96,87,0.859,0.867,10:25
+4,9:36,PHX,Josh Okogie,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,98,87,0.875,0.92,9:47
+4,9:21,LAC,Terance Mann,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,98,89,0.935,0.896,9:36
+4,9:08,LAC,Bones Hyland,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,100,89,0.965,0.944,9:10
+4,8:56,PHX,Bismack Biyombo,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,102,91,0.904,0.947,8:56
+4,7:40,PHX,Devin Booker,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,106,94,0.922,0.951,7:58
+4,5:49,LAC,Eric Gordon,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,108,100,0.921,0.958,6:52
+4,5:09,PHX,Chris Paul,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,111,100,0.936,0.962,5:10
+4,4:11,PHX,Deandre Ayton,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,113,104,0.896,0.935,4:31
+4,3:13,PHX,Devin Booker,Shooting Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,115,107,0.877,0.929,3:16
+4,1:34,LAC,Eric Gordon,Personal Foul,Foul,Eric Lewis,Scott Foster,Scott Twardoski,PHX,121,109,0.999,0.998,1:54

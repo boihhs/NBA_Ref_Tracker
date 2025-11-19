@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:34,POR,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,0,6,0.242,0.269,9:42
+1,9:20,MEM,Steven Adams,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,0,7,0.304,0.271,9:34
+1,9:09,POR,Shaedon Sharpe,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,2,9,0.237,0.272,9:09
+1,6:38,MEM,David Roddy,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,9,12,0.383,0.34,6:38
+1,5:06,MEM,Tyus Jones,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,14,14,0.464,0.418,5:06
+1,2:37,MEM,David Roddy,Personal Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,16,19,0.368,0.367,2:49
+2,9:47,MEM,Brandon Clarke,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,28,32,0.364,0.314,9:47
+2,9:19,MEM,John Konchar,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,31,34,0.39,0.343,9:19
+2,7:38,MEM,Santi Aldama,Loose Ball Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,32,37,0.315,0.316,7:38
+2,6:05,MEM,Desmond Bane,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,40,41,0.456,0.401,6:05
+2,3:25,POR,Anfernee Simons,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,40,44,0.269,0.31,3:41
+2,1:15,POR,Josh Hart,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,43,49,0.214,0.253,1:34
+2,1:15,POR,Josh Hart,Technical Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,43,49,0.231,0.214,1:15
+2,29.2,MEM,Dillon Brooks,Loose Ball Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,43,52,0.237,0.198,29.2
+3,9:14,POR,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,52,59,0.174,0.21,9:23
+3,8:46,POR,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,54,60,0.199,0.239,8:53
+3,7:03,MEM,Santi Aldama,Personal Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,59,65,0.267,0.268,7:15
+3,6:14,POR,Drew Eubanks,Offensive Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,59,65,0.229,0.264,6:17
+3,5:09,MEM,Brandon Clarke,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,59,67,0.217,0.195,5:10
+3,4:30,MEM,Ja Morant,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,60,67,0.273,0.224,4:52
+3,4:07,POR,Drew Eubanks,Offensive Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,62,69,0.188,0.221,4:19
+3,4:07,POR,Drew Eubanks,Technical Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,62,69,0.169,0.188,4:07
+3,1:20,POR,Anfernee Simons,Personal Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,67,75,0.106,0.143,1:27
+3,51.8,MEM,John Konchar,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,67,78,0.128,0.096,1:10
+4,6:53,MEM,Steven Adams,Loose Ball Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,79,94,0.012,0.011,6:53
+4,6:53,MEM,Steven Adams,Technical Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,79,94,0.015,0.012,6:53
+4,6:38,MEM,Tyus Jones,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,80,94,0.031,0.016,6:53
+4,5:57,MEM,Dillon Brooks,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,82,94,0.055,0.028,6:00
+4,5:55,MEM,David Roddy,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,83,94,0.059,0.041,5:55
+4,5:06,POR,Jerami Grant,Personal Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,87,94,0.097,0.106,5:24
+4,2:51,POR,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,98,98,0.347,0.481,3:09
+4,2:44,MEM,Dillon Brooks,Personal Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,98,100,0.526,0.394,2:51
+4,1:24,POR,Keon Johnson,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,100,102,0.155,0.289,1:41
+4,45.5,POR,Jusuf Nurkic,Personal Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,100,103,0.08,0.155,50.0
+4,31.6,POR,Josh Hart,Personal Take Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,100,105,0.016,0.053,39.1
+4,23.7,MEM,Santi Aldama,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,103,107,0.191,0.07,23.7
+4,22.1,POR,Josh Hart,Personal Take Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,104,107,0.051,0.114,23.7
+4,8.4,POR,Josh Hart,Personal Take Foul,Foul,Zach Zarba,Nick Buchert,Andy Nagy,POR,104,109,0.002,0.011,8.4

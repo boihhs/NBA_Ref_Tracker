@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:24,GS,Jordan Poole,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,6,7,0.553,0.549,9:29
+1,7:00,GS,Klay Thompson,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,14,13,0.601,0.6,7:13
+1,5:50,SAC,Harrison Barnes,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,17,18,0.61,0.573,6:04
+1,5:43,GS,Draymond Green,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,19,18,0.6,0.598,5:50
+1,5:43,SAC,De'Aaron Fox,Double Technical Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,19,18,0.617,0.6,5:43
+1,5:22,SAC,Keegan Murray,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,21,18,0.69,0.649,5:22
+1,3:20,GS,Moses Moody,Loose Ball Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,28,21,0.707,0.74,3:20
+1,1:09,GS,Draymond Green,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,31,27,0.649,0.695,1:09
+1,1:09,SAC,Alex Len,Loose Ball Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,31,27,0.728,0.695,1:09
+2,7:51,SAC,Alex Len,Loose Ball Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,40,45,0.426,0.427,7:51
+2,5:18,SAC,De'Aaron Fox,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,49,51,0.508,0.511,5:28
+2,2:54,SAC,Domantas Sabonis,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,51,60,0.324,0.281,3:11
+2,2:28,SAC,Harrison Barnes,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,53,62,0.322,0.278,2:42
+2,2:14,GS,Kevon Looney,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,55,62,0.302,0.304,2:28
+2,2:11,GS,Andrew Wiggins,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,55,62,0.301,0.302,2:14
+2,44.1,SAC,Keegan Murray,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,60,66,0.411,0.363,55.0
+3,9:47,SAC,De'Aaron Fox,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,72,74,0.489,0.487,9:52
+3,7:53,GS,Kevon Looney,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,76,74,0.539,0.597,8:09
+3,7:35,SAC,De'Aaron Fox,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,76,76,0.616,0.561,7:36
+3,7:26,GS,Draymond Green,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,78,76,0.539,0.597,7:35
+3,6:27,SAC,Domantas Sabonis,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,80,80,0.558,0.56,7:36
+3,4:18,GS,Andrew Wiggins,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,89,83,0.749,0.746,4:27
+3,3:47,SAC,Davion Mitchell,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,89,83,0.828,0.783,4:09
+3,2:44,SAC,De'Aaron Fox,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,93,87,0.815,0.754,2:44
+3,1:53,SAC,Malik Monk,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,93,87,0.841,0.797,1:59
+3,1:43,GS,Draymond Green,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,95,87,0.776,0.827,1:53
+3,1:31,SAC,Alex Len,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,95,89,0.844,0.799,1:43
+3,1:09,SAC,Trey Lyles,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,97,91,0.846,0.802,1:20
+3,23.1,GS,Donte DiVincenzo,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,99,91,0.784,0.836,32.1
+4,9:48,SAC,Kevin Huerter,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,104,102,0.738,0.652,10:07
+4,9:33,GS,Stephen Curry,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,106,104,0.55,0.66,9:33
+4,9:22,SAC,Keegan Murray,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,106,105,0.617,0.602,9:33
+4,9:20,GS,Kevon Looney,Offensive Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,106,105,0.553,0.617,9:22
+4,7:53,SAC,Domantas Sabonis,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,110,107,0.804,0.719,8:07
+4,6:21,GS,Stephen Curry,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,114,109,0.698,0.791,6:30
+4,6:00,GS,Andrew Wiggins,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,114,111,0.562,0.683,6:03
+4,6:00,GS,Jordan Poole,Technical Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,114,111,0.625,0.562,6:00
+4,4:42,SAC,Malik Monk,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,116,115,0.73,0.619,4:46
+4,4:35,GS,Jordan Poole,Personal Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,118,115,0.579,0.696,4:42
+4,3:54,GS,Stephen Curry,Shooting Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,121,117,0.653,0.749,4:10
+4,2:14,GS,Kevon Looney,Offensive Foul,Foul,James Williams,Pat Fraher,Josh Tiven,GS,124,121,0.721,0.782,2:39
+4,42.1,GS,GS,Excess Timeout Technical,Foul,James Williams,Pat Fraher,Josh Tiven,GS,126,121,0.85,0.939,47.1

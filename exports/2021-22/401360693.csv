@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:06,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,11,10,0.394,0.41,8:06
+1,8:01,ATL,Kevin Huerter,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,11,12,0.385,0.387,8:06
+1,7:45,ATL,Danilo Gallinari,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,11,12,0.387,0.363,7:50
+1,7:21,ORL,Mo Bamba,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,13,12,0.415,0.412,7:34
+1,6:12,ORL,Cole Anthony,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,15,18,0.284,0.317,6:13
+1,5:20,ORL,Gary Harris,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,17,20,0.319,0.342,5:33
+1,2:38,ORL,Jalen Suggs,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,19,28,0.164,0.19,2:57
+1,2:17,ATL,Onyeka Okongwu,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,19,30,0.2,0.173,2:38
+1,1:36,ORL,Terrence Ross,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,20,32,0.128,0.156,1:36
+1,1:22,ATL,Onyeka Okongwu,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,20,32,0.182,0.156,1:34
+2,7:13,ATL,Kevin Huerter,Loose Ball Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,33,52,0.056,0.058,7:13
+2,5:47,ATL,Trae Young,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,36,54,0.062,0.062,5:47
+2,5:18,ATL,De'Andre Hunter,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,38,54,0.09,0.07,5:18
+2,4:57,ORL,Franz Wagner,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,39,57,0.051,0.052,4:58
+2,3:14,ATL,Clint Capela,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,45,64,0.061,0.048,3:22
+2,2:35,ORL,Jalen Suggs,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,48,64,0.051,0.063,2:45
+2,2:03,ORL,Admiral Schofield,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,48,66,0.036,0.045,2:17
+2,34.0,ATL,Trae Young,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,51,70,0.055,0.042,52.7
+2,14.3,ORL,Cole Anthony,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,53,70,0.038,0.049,34.0
+3,10:58,ORL,Mo Bamba,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,55,74,0.023,0.031,11:21
+3,9:51,ATL,De'Andre Hunter,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,57,74,0.05,0.051,9:59
+3,9:31,ORL,Cole Anthony,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,59,74,0.046,0.06,9:42
+3,8:53,ATL,Clint Capela,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,59,78,0.044,0.032,9:00
+3,7:03,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,63,86,0.008,0.008,7:03
+3,6:58,ORL,Franz Wagner,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,63,88,0.004,0.006,6:58
+3,6:23,ATL,De'Andre Hunter,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,66,89,0.009,0.008,6:47
+3,4:54,ATL,Bogdan Bogdanovic,Personal Take Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,69,91,0.01,0.01,4:54
+3,4:35,ORL,Cole Anthony,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,69,91,0.005,0.007,4:42
+3,2:22,ORL,Franz Wagner,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,74,97,0.002,0.003,2:37
+3,1:59,ATL,Onyeka Okongwu,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,76,98,0.006,0.004,2:05
+3,1:31,ORL,Chuma Okeke,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,76,98,0.002,0.004,1:41
+3,46.5,ATL,Kevin Knox II,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,76,102,0.001,0.001,50.2
+3,2.6,ATL,Kevin Knox II,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,81,104,0.003,0.001,2.6
+4,8:37,ATL,Lou Williams,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,87,115,0.001,0.001,8:37
+4,6:54,ATL,Onyeka Okongwu,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,90,122,0.001,0.001,6:59
+4,3:34,ATL,Skylar Mays,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,101,124,0.001,0.001,3:46
+4,2:05,ORL,Admiral Schofield,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,107,127,0.001,0.001,2:07
+4,1:22,ATL,Kevin Knox II,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,107,128,0.001,0.001,1:28
+4,1:07,ORL,Admiral Schofield,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Suyash Mehta,ORL,109,128,0.001,0.001,1:07

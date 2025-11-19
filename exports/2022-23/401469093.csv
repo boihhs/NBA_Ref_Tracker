@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:06,HOU,Jalen Green,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,0,2,0.161,0.16,11:20
+1,9:52,MEM,Desmond Bane,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,3,2,0.229,0.23,9:58
+1,9:42,MEM,Dillon Brooks,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,3,2,0.23,0.23,9:42
+1,8:23,HOU,KJ Martin,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,3,7,0.143,0.143,8:28
+1,6:43,MEM,Xavier Tillman,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,5,12,0.123,0.123,6:57
+1,4:58,HOU,Jalen Green,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,10,14,0.154,0.151,5:22
+1,4:47,HOU,Alperen Sengun,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,10,14,0.134,0.154,4:58
+1,4:31,MEM,Brandon Clarke,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,12,16,0.182,0.155,4:31
+1,1:33,MEM,Dillon Brooks,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,15,20,0.189,0.164,1:48
+1,55.1,MEM,Brandon Clarke,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,17,22,0.191,0.167,55.1
+2,10:44,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,21,28,0.141,0.141,10:45
+2,10:36,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,21,28,0.165,0.141,10:44
+2,9:24,HOU,Jae'Sean Tate,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,25,28,0.181,0.196,9:24
+2,7:46,HOU,Usman Garuba,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,32,30,0.32,0.317,8:04
+2,7:39,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,32,30,0.282,0.32,7:46
+2,6:24,MEM,John Konchar,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,35,35,0.344,0.303,6:29
+2,5:14,MEM,Santi Aldama,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,36,35,0.382,0.336,5:26
+2,4:15,HOU,Jae'Sean Tate,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,38,35,0.329,0.372,4:32
+2,2:39,HOU,Alperen Sengun,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,42,40,0.31,0.354,2:54
+2,47.1,HOU,Daishen Nix,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,44,46,0.213,0.254,57.0
+3,10:00,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,48,53,0.228,0.186,10:00
+3,9:37,MEM,Desmond Bane,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,48,53,0.251,0.208,9:43
+3,9:37,MEM,Dillon Brooks,Technical Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,48,53,0.229,0.251,9:37
+3,9:31,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,50,53,0.199,0.235,9:37
+3,9:21,MEM,Dillon Brooks,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,50,55,0.21,0.21,9:31
+3,8:36,HOU,KJ Martin,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,50,58,0.099,0.124,8:41
+3,8:16,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,50,60,0.072,0.09,8:26
+3,6:16,MEM,Brandon Clarke,Loose Ball Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,53,66,0.081,0.061,6:16
+3,4:34,HOU,KJ Martin,Offensive Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,58,71,0.047,0.057,4:48
+3,3:34,MEM,Brandon Clarke,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,58,73,0.049,0.035,3:35
+3,3:15,MEM,Xavier Tillman,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,59,73,0.059,0.043,3:22
+3,1:11,HOU,Jae'Sean Tate,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,68,79,0.04,0.058,1:22
+4,11:24,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,68,87,0.007,0.006,11:44
+4,11:04,HOU,Josh Christopher,Personal Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,68,87,0.004,0.005,11:12
+4,9:39,MEM,Xavier Tillman,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,73,93,0.006,0.003,9:39
+4,9:06,HOU,Tari Eason,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,74,97,0.001,0.001,9:06
+4,8:57,MEM,Xavier Tillman,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,74,98,0.001,0.001,9:06
+4,8:23,MEM,Desmond Bane,Shooting Foul,Foul,Brian Forte,Scott Wall,Brett Nansel,HOU,76,101,0.001,0.001,8:39

@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:16,BOS,Marcus Smart,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,0,0,0.489,0.49,11:25
+1,11:03,BOS,Robert Williams III,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,0,0,0.45,0.489,11:16
+1,10:50,TOR,Precious Achiuwa,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,0,1,0.525,0.488,11:03
+1,7:47,BOS,Marcus Smart,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,11,3,0.672,0.713,7:47
+1,6:15,TOR,OG Anunoby,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,14,7,0.726,0.694,6:17
+1,2:48,TOR,Gary Trent Jr.,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,21,16,0.652,0.624,2:48
+1,1:47,TOR,Fred VanVleet,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,24,16,0.762,0.726,1:56
+1,1:40,TOR,Freddie Gillespie,Offensive Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,26,16,0.774,0.749,1:47
+2,11:30,TOR,Justin Champagnie,Defensive 3-Seconds Technical,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,31,18,0.835,0.871,12:00
+2,9:17,BOS,Aaron Nesmith,Offensive Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,34,26,0.714,0.74,9:37
+2,8:16,TOR,Svi Mykhailiuk,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,34,28,0.691,0.691,8:22
+2,6:46,TOR,Gary Trent Jr.,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,39,29,0.794,0.795,6:51
+2,8:54,BOS,BOS,Delay Technical,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,34,27,0.694,0.795,6:46
+2,6:18,BOS,Enes Freedom,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,39,31,0.723,0.75,6:18
+2,5:56,BOS,Jayson Tatum,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,39,32,0.654,0.696,6:01
+2,5:04,TOR,Scottie Barnes,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,41,33,0.752,0.754,5:12
+2,5:03,TOR,Fred VanVleet,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,41,33,0.79,0.752,5:04
+2,4:05,BOS,Marcus Smart,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,44,39,0.619,0.674,4:05
+2,3:56,TOR,Scottie Barnes,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,44,40,0.688,0.644,4:05
+2,3:35,TOR,Precious Achiuwa,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,46,42,0.689,0.645,3:43
+2,28.2,TOR,Scottie Barnes,Loose Ball Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,55,53,0.567,0.583,28.2
+3,10:56,BOS,Jayson Tatum,Personal Take Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,57,59,0.41,0.409,10:56
+3,9:36,TOR,Scottie Barnes,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,59,62,0.407,0.407,9:44
+3,7:28,BOS,Marcus Smart,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,67,66,0.46,0.518,7:42
+3,5:48,BOS,Jayson Tatum,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,76,72,0.581,0.64,5:56
+3,4:33,BOS,Jayson Tatum,Offensive Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,78,75,0.604,0.647,4:47
+3,4:33,BOS,Jayson Tatum,Technical Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,78,75,0.573,0.604,4:33
+3,2:28,TOR,Freddie Gillespie,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,78,81,0.454,0.388,2:42
+3,1:53,BOS,Marcus Smart,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,83,83,0.407,0.476,2:01
+3,6.5,TOR,Freddie Gillespie,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,85,86,0.548,0.475,26.4
+4,8:48,TOR,Precious Achiuwa,Loose Ball Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,92,86,0.835,0.825,8:48
+4,6:37,TOR,Precious Achiuwa,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,99,88,0.977,0.956,6:37
+4,5:58,BOS,Payton Pritchard,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,99,90,0.926,0.97,6:27
+4,5:30,BOS,Jabari Parker,Offensive Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,99,90,0.932,0.952,5:33
+4,5:21,BOS,Jabari Parker,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,99,90,0.883,0.932,5:30
+4,3:36,BOS,Sam Hauser,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,101,95,0.867,0.866,3:38
+4,2:31,BOS,Jabari Parker,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,106,100,0.891,0.926,2:31
+4,1:59,BOS,Bruno Fernando,Offensive Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,106,101,0.842,0.893,2:03
+4,1:12,TOR,Dalano Banton,Loose Ball Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,109,104,0.91,0.91,1:12
+4,33.0,TOR,Isaac Bonga,Shooting Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,109,109,0.727,0.542,44.6
+4,7.4,TOR,David Johnson,Personal Foul,Foul,Eric Lewis,Aaron Smith,Evan Scott,BOS,111,111,0.827,0.549,10.6

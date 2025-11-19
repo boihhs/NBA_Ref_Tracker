@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:05,LAL,Dennis Schroder,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,4,2,0.687,0.65,10:05
+1,9:22,ATL,AJ Griffin,Personal Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,6,2,0.694,0.693,9:33
+1,8:23,LAL,Patrick Beverley,Personal Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,6,4,0.669,0.67,8:30
+1,7:15,LAL,Austin Reaves,Personal Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,10,8,0.666,0.668,7:22
+1,4:07,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,21,12,0.763,0.793,4:17
+1,2:54,LAL,Juan Toscano-Anderson,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,25,16,0.827,0.794,2:54
+1,2:29,LAL,Austin Reaves,Personal Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,26,16,0.854,0.832,2:40
+1,2:06,ATL,Aaron Holiday,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,28,16,0.821,0.846,2:10
+2,11:06,LAL,Wenyen Gabriel,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,35,23,0.888,0.871,11:08
+2,8:14,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,43,30,0.871,0.871,8:16
+2,8:08,ATL,John Collins,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,43,32,0.824,0.856,8:08
+2,7:44,ATL,John Collins,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,45,35,0.806,0.841,7:44
+2,7:36,LAL,Patrick Beverley,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,47,36,0.868,0.84,7:36
+2,4:17,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,57,47,0.794,0.826,4:20
+2,2:16,ATL,Trae Young,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,63,55,0.767,0.812,2:16
+2,1:48,LAL,Patrick Beverley,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,63,56,0.82,0.789,1:50
+2,1:48,LAL,Russell Westbrook,Technical Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,63,56,0.803,0.82,1:48
+2,1:16,LAL,Juan Toscano-Anderson,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,65,58,0.821,0.812,1:16
+3,10:31,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,69,64,0.66,0.711,10:35
+3,9:09,ATL,Trae Young,Personal Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,71,66,0.712,0.712,9:23
+3,8:42,LAL,Austin Reaves,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,73,66,0.817,0.771,8:42
+3,4:57,LAL,Thomas Bryant,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,79,77,0.7,0.645,5:15
+3,4:45,ATL,John Collins,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,81,79,0.573,0.645,4:45
+3,3:11,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,83,86,0.351,0.426,3:11
+3,2:58,LAL,Austin Reaves,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,83,87,0.449,0.385,3:11
+3,55.1,LAL,Dennis Schroder,Personal Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,91,96,0.391,0.327,1:01
+3,20.1,ATL,Aaron Holiday,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,93,96,0.293,0.362,20.2
+4,11:27,ATL,John Collins,Loose Ball Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,98,100,0.386,0.402,11:28
+4,10:17,LAL,Thomas Bryant,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,101,103,0.496,0.439,10:17
+4,8:38,LAL,Russell Westbrook,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,104,105,0.597,0.494,8:43
+4,5:44,ATL,Trae Young,Loose Ball Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,107,108,0.401,0.417,5:44
+4,5:25,LAL,Juan Toscano-Anderson,Personal Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,107,110,0.364,0.343,5:35
+4,2:18,ATL,John Collins,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,113,119,0.044,0.104,2:18
+4,2:15,LAL,Dennis Schroder,Personal Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,113,120,0.143,0.068,2:18
+4,45.1,ATL,Trae Young,Personal Take Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,121,126,0.024,0.07,50.0
+4,16.1,ATL,AJ Griffin,Personal Take Foul,Foul,Tony Brothers,Ben Taylor,Brett Nansel,ATL,121,128,0.001,0.005,22.0

@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:12,GS,Draymond Green,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,5,4,0.455,0.423,10:16
+1,9:23,DET,Cade Cunningham,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,9,9,0.355,0.421,10:01
+1,10:01,DET,Bojan Bogdanovic,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,7,6,0.377,0.355,9:23
+1,9:15,DET,Cade Cunningham,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,9,9,0.356,0.397,9:15
+1,7:34,DET,Isaiah Stewart,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,9,14,0.274,0.376,7:44
+1,7:14,GS,Kevon Looney,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,9,16,0.318,0.284,7:26
+1,6:55,GS,Jordan Poole,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,11,16,0.329,0.331,6:59
+1,6:02,GS,Jordan Poole,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,11,19,0.254,0.224,6:06
+1,3:43,DET,Isaiah Stewart,Loose Ball Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,20,22,0.299,0.335,3:43
+1,3:00,DET,Cade Cunningham,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,22,24,0.3,0.336,3:09
+1,2:48,GS,Jonathan Kuminga,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,22,26,0.348,0.31,3:00
+1,2:36,DET,Jaden Ivey,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,25,26,0.325,0.357,2:48
+1,2:16,DET,Jaden Ivey,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,25,28,0.277,0.314,2:20
+1,1:38,GS,James Wiseman,Loose Ball Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,25,30,0.324,0.29,1:38
+1,36.7,DET,Jalen Duren,Away from Play Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,29,34,0.231,0.267,36.8
+1,14.0,DET,Killian Hayes,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,29,35,0.211,0.244,28.1
+2,9:44,DET,Killian Hayes,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,34,39,0.265,0.264,9:50
+2,8:29,DET,Isaiah Livers,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,34,41,0.221,0.219,8:42
+2,7:19,DET,Isaiah Livers,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,37,41,0.293,0.291,7:22
+2,5:51,GS,Draymond Green,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,43,41,0.526,0.473,5:51
+2,5:22,GS,Andrew Wiggins,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,44,43,0.52,0.471,5:29
+2,4:01,GS,Stephen Curry,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,48,46,0.558,0.51,4:08
+2,3:49,DET,Isaiah Livers,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,49,46,0.461,0.508,4:01
+2,2:14,GS,Jonathan Kuminga,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,56,48,0.755,0.713,2:20
+2,48.7,GS,Kevon Looney,Loose Ball Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,58,52,0.706,0.658,48.7
+3,10:51,DET,Isaiah Stewart,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,65,55,0.722,0.764,10:56
+3,10:22,GS,Draymond Green,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,67,57,0.836,0.799,10:24
+3,10:22,GS,Draymond Green,Technical Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,67,57,0.818,0.836,10:22
+3,8:06,DET,Saddiq Bey,Offensive Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,79,60,0.956,0.964,8:13
+3,7:57,DET,Jaden Ivey,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,79,62,0.924,0.947,7:57
+3,6:16,GS,James Wiseman,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,79,72,0.791,0.744,6:26
+3,4:19,DET,Jaden Ivey,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,89,77,0.838,0.874,4:35
+3,4:11,GS,Ty Jerome,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,89,79,0.851,0.852,4:19
+3,1:39,DET,Killian Hayes,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,98,85,0.888,0.917,1:51
+3,49.7,GS,JaMychal Green,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,98,88,0.903,0.888,49.7
+3,40.9,DET,Hamidou Diallo,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,100,88,0.874,0.905,49.7
+3,28.1,DET,Hamidou Diallo,Offensive Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,100,90,0.865,0.889,40.9
+3,18.8,DET,Killian Hayes,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,100,90,0.819,0.865,28.1
+4,11:03,GS,JaMychal Green,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,100,93,0.877,0.823,11:11
+4,10:39,GS,Andrew Wiggins,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,101,93,0.891,0.864,10:44
+4,9:22,DET,Jalen Duren,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,105,95,0.899,0.907,9:22
+4,9:13,GS,JaMychal Green,Offensive Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,105,95,0.929,0.899,9:22
+4,8:35,GS,Anthony Lamb,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,105,95,0.939,0.935,8:37
+4,6:20,GS,Anthony Lamb,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,112,99,0.989,0.978,6:20
+4,3:00,DET,Saddiq Bey,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,120,109,0.972,0.987,3:07
+4,2:50,DET,Cade Cunningham,Offensive Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,120,112,0.95,0.968,3:00
+4,2:27,GS,Moses Moody,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,120,112,0.989,0.972,2:34
+4,2:03,GS,Jordan Poole,Shooting Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,122,112,0.997,0.994,2:11
+4,1:34,GS,Jordan Poole,Personal Foul,Foul,Kevin Scott,Matt Myers,J.B. DeRosa,DET,124,114,0.998,0.995,1:51

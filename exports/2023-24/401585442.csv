@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:02,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,5,5,0.343,0.306,10:02
+1,9:49,DET,Cade Cunningham,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,5,7,0.248,0.282,9:49
+1,9:29,DET,Ausar Thompson,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,5,7,0.264,0.262,9:37
+1,8:08,ORL,Jalen Suggs,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,9,9,0.368,0.333,8:09
+1,7:42,ORL,Gary Harris,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,10,11,0.309,0.311,7:50
+1,6:23,DET,Ausar Thompson,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,14,15,0.293,0.292,6:24
+1,5:38,DET,Jaden Ivey,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,14,20,0.183,0.214,5:38
+1,3:56,DET,Quentin Grimes,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,22,25,0.242,0.279,3:56
+1,1:34,ORL,Goga Bitadze,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,27,28,0.375,0.334,1:45
+2,10:26,ORL,Cole Anthony,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,33,35,0.318,0.317,10:36
+2,8:59,ORL,Anthony Black,Defensive 3-Seconds Technical,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,35,37,0.315,0.321,9:20
+2,6:44,DET,Jalen Duren,Offensive Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,44,46,0.303,0.328,6:58
+2,4:28,ORL,Cole Anthony,Loose Ball Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,44,52,0.186,0.187,4:28
+2,4:06,DET,Simone Fontecchio,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,44,52,0.138,0.165,4:18
+2,2:29,DET,Cade Cunningham,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,47,56,0.131,0.144,2:29
+2,2:18,ORL,Gary Harris,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,47,58,0.128,0.128,2:29
+2,1:55,ORL,Franz Wagner,Offensive Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,49,58,0.163,0.145,2:11
+2,1:43,ORL,Paolo Banchero,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,49,58,0.196,0.163,1:55
+2,54.1,DET,Ausar Thompson,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,53,58,0.195,0.231,1:00
+2,0.1,DET,Cade Cunningham,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,55,65,0.112,0.145,0.1
+3,11:17,ORL,Gary Harris,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,60,65,0.281,0.233,11:17
+3,10:33,DET,Ausar Thompson,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,64,65,0.353,0.355,10:35
+3,10:05,DET,Jalen Duren,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,64,65,0.331,0.354,10:05
+3,9:39,DET,Jalen Duren,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,67,67,0.392,0.39,9:49
+3,5:21,DET,Simone Fontecchio,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,76,75,0.386,0.446,5:30
+3,2:43,ORL,Anthony Black,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,80,85,0.312,0.256,2:46
+3,2:04,DET,James Wiseman,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,82,85,0.235,0.33,2:14
+3,54.0,ORL,Anthony Black,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,82,88,0.273,0.216,1:05
+4,9:07,DET,Troy Brown Jr.,Loose Ball Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,90,99,0.071,0.075,9:07
+4,8:53,DET,Jaden Ivey,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,90,99,0.045,0.071,9:07
+4,2:55,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,103,106,0.282,0.28,2:55
+4,2:02,ORL,Franz Wagner,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,103,106,0.408,0.259,2:09
+4,1:42,DET,Jalen Duren,Loose Ball Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,105,108,0.089,0.252,1:49
+4,1:36,DET,Ausar Thompson,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,105,108,0.087,0.089,1:42
+4,49.1,ORL,Jalen Suggs,Personal Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,107,109,0.496,0.275,57.1
+4,17.2,DET,Cade Cunningham,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,107,109,0.08,0.496,49.1
+4,0.1,DET,Jalen Duren,Shooting Foul,Foul,Derek Richardson,Bill Kennedy,Aaron Smith,DET,109,111,0.007,0.023,0.1

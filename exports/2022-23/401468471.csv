@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:39,MIL,Jrue Holiday,Offensive Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,3,0,0.499,0.47,10:54
+1,7:44,MIL,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,9,6,0.545,0.506,7:53
+1,6:44,NY,RJ Barrett,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,11,8,0.443,0.482,6:49
+1,6:06,NY,Julius Randle,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,11,9,0.418,0.457,6:14
+2,11:33,MIL,Brook Lopez,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,20,22,0.429,0.386,11:44
+2,10:02,NY,Cam Reddish,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,26,24,0.478,0.477,10:25
+2,8:07,NY,Obi Toppin,Offensive Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,28,24,0.542,0.575,8:10
+2,7:43,MIL,Grayson Allen,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,28,24,0.621,0.576,7:50
+2,6:31,NY,Quentin Grimes,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,30,29,0.409,0.485,6:43
+2,8.8,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,43,47,0.386,0.336,29.3
+3,9:26,NY,Jalen Brunson,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,49,53,0.299,0.298,9:32
+3,9:22,NY,Quentin Grimes,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,49,53,0.254,0.299,9:26
+3,8:02,MIL,Jrue Holiday,Loose Ball Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,54,57,0.368,0.367,8:02
+3,6:40,MIL,Grayson Allen,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,56,57,0.504,0.443,6:46
+3,6:23,MIL,MIL,Technical Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,58,57,0.556,0.526,6:23
+3,4:53,NY,Quentin Grimes,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,60,61,0.404,0.401,4:55
+3,4:49,NY,Immanuel Quickley,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,60,61,0.344,0.404,4:53
+3,4:18,NY,Julius Randle,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,60,61,0.343,0.404,4:22
+3,3:47,NY,Isaiah Hartenstein,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,60,62,0.304,0.363,3:55
+3,2:50,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,64,65,0.481,0.402,2:50
+3,1:09,NY,Julius Randle,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,69,70,0.336,0.401,1:24
+3,48.0,NY,Obi Toppin,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,71,72,0.335,0.4,56.1
+4,10:17,MIL,Jevon Carter,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,75,79,0.352,0.252,10:17
+4,10:01,NY,Mitchell Robinson,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,75,79,0.187,0.257,10:15
+4,8:24,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,78,83,0.335,0.244,8:28
+4,6:41,NY,RJ Barrett,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,85,89,0.152,0.227,6:42
+4,6:11,NY,Mitchell Robinson,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,87,91,0.137,0.216,6:16
+4,4:14,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,93,99,0.156,0.142,4:27
+4,3:44,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,95,99,0.358,0.244,3:52
+4,3:33,MIL,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,95,99,0.303,0.358,3:44
+4,1:00,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,101,103,0.452,0.386,1:11
+4,47.6,MIL,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,102,103,0.639,0.473,1:00
+4,12.9,NY,RJ Barrett,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,103,106,0.032,0.098,13.0
+4,11.4,NY,Quentin Grimes,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,103,106,0.029,0.032,12.9
+4,2.4,NY,RJ Barrett,Personal Foul,Foul,Bill Kennedy,Brandon Adair,Dannica Mosher,NY,103,108,0.001,0.006,4.4

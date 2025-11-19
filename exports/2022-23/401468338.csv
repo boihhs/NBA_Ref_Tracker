@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:03,LAL,Wenyen Gabriel,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,4,3,0.378,0.376,10:12
+1,7:30,LAL,Troy Brown Jr.,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,8,9,0.336,0.334,7:34
+1,6:58,LAL,Anthony Davis,Offensive Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,8,11,0.292,0.313,7:08
+1,4:44,SAC,Domantas Sabonis,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,11,13,0.343,0.344,4:59
+1,2:05,SAC,Harrison Barnes,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,18,20,0.387,0.349,2:19
+1,1:49,LAL,Troy Brown Jr.,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,19,20,0.312,0.348,1:52
+1,1:02,LAL,Russell Westbrook,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,21,22,0.313,0.349,1:02
+2,11:49,LAL,Patrick Beverley,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,23,23,0.381,0.396,12:00
+2,11:30,SAC,Terence Davis,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,23,25,0.353,0.353,11:41
+2,9:29,SAC,De'Aaron Fox,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,32,32,0.459,0.416,9:31
+2,8:08,LAL,Damian Jones,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,35,32,0.435,0.477,8:21
+2,7:54,SAC,Keegan Murray,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,35,34,0.473,0.448,7:54
+2,6:52,SAC,Domantas Sabonis,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,37,34,0.539,0.514,6:52
+2,6:27,LAL,Austin Reaves,Offensive Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,39,34,0.549,0.581,6:33
+2,5:41,SAC,Keegan Murray,Defensive 3-Seconds Technical,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,39,37,0.48,0.489,6:03
+2,3:09,SAC,De'Aaron Fox,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,50,39,0.818,0.78,3:13
+2,1:25,LAL,Wenyen Gabriel,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,55,44,0.746,0.795,1:25
+2,36.4,LAL,Russell Westbrook,Technical Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,59,48,0.752,0.771,36.4
+2,15.7,SAC,Kevin Huerter,Technical Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,59,52,0.709,0.689,15.7
+2,2.0,LAL,Russell Westbrook,Transition Take Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,60,52,0.69,0.69,2.9
+3,11:13,LAL,Wenyen Gabriel,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,62,58,0.529,0.595,11:13
+3,10:32,LAL,Wenyen Gabriel,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,64,59,0.599,0.599,10:41
+3,8:17,LAL,Patrick Beverley,Technical Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,66,64,0.467,0.496,8:17
+3,7:50,SAC,Domantas Sabonis,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,66,67,0.481,0.422,7:59
+3,7:22,SAC,Keegan Murray,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,67,69,0.384,0.385,7:31
+3,6:58,LAL,Anthony Davis,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,69,69,0.367,0.422,7:09
+3,6:25,SAC,Domantas Sabonis,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,71,73,0.384,0.386,6:33
+3,4:56,SAC,Keegan Murray,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,74,75,0.492,0.428,5:10
+3,4:31,LAL,Juan Toscano-Anderson,Loose Ball Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,75,75,0.367,0.429,4:31
+3,3:43,LAL,Juan Toscano-Anderson,Offensive Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,77,75,0.517,0.562,3:51
+3,3:28,LAL,Juan Toscano-Anderson,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,77,75,0.453,0.517,3:43
+3,2:48,LAL,Russell Westbrook,Offensive Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,79,77,0.522,0.568,2:54
+3,2:00,SAC,Malik Monk,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,79,79,0.552,0.479,2:07
+3,33.0,LAL,Max Christie,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,86,85,0.413,0.485,50.4
+3,10.7,SAC,Malik Monk,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,86,87,0.512,0.439,33.0
+4,10:53,SAC,Chimezie Metu,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,88,91,0.433,0.346,11:12
+4,5:08,LAL,Lonnie Walker IV,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,105,106,0.371,0.381,5:17
+4,4:33,SAC,Davion Mitchell,Personal Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,105,108,0.321,0.309,4:47
+4,4:23,SAC,Domantas Sabonis,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,105,108,0.444,0.321,4:33
+4,3:50,SAC,Kevin Huerter,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,107,110,0.384,0.313,3:50
+4,1:52,LAL,Patrick Beverley,Loose Ball Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,114,112,0.492,0.662,1:52
+4,1:39,LAL,Russell Westbrook,Shooting Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,114,112,0.493,0.492,1:52
+4,19.6,LAL,Russell Westbrook,Personal Take Foul,Foul,Rodney Mott,Justin Van Duyne,Mousa Dagher,LAL,114,118,0.022,0.074,26.1

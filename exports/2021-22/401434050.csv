@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:59,MIA,P.J. Tucker,Personal Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,4,0,0.777,0.776,11:01
+1,8:02,PHI,DeAndre Jordan,Offensive Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,13,6,0.836,0.865,8:14
+1,7:44,PHI,Paul Reed,Loose Ball Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,15,6,0.864,0.864,7:45
+1,4:52,PHI,Paul Reed,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,20,11,0.882,0.863,4:58
+1,4:09,PHI,Danny Green,Loose Ball Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,25,13,0.898,0.899,4:10
+1,3:54,MIA,Dewayne Dedmon,Personal Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,25,13,0.887,0.885,4:00
+1,3:47,MIA,Dewayne Dedmon,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,25,13,0.868,0.898,4:09
+1,3:31,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,25,15,0.838,0.861,3:32
+1,35.6,PHI,Matisse Thybulle,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,27,22,0.82,0.772,1:08
+2,9:25,MIA,Bam Adebayo,Offensive Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,37,26,0.875,0.888,9:29
+2,9:15,MIA,Bam Adebayo,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,37,26,0.851,0.875,9:25
+2,8:35,MIA,Victor Oladipo,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,37,28,0.815,0.843,8:38
+2,6:46,PHI,Paul Millsap,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,43,34,0.882,0.86,7:07
+2,6:17,MIA,Victor Oladipo,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,44,34,0.834,0.859,6:25
+2,5:41,PHI,James Harden,Personal Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,46,39,0.823,0.823,5:49
+2,4:39,PHI,Paul Reed,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,46,41,0.812,0.779,4:42
+2,3:42,PHI,Georges Niang,Personal Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,48,43,0.812,0.778,3:42
+2,3:08,MIA,Gabe Vincent,Personal Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,48,43,0.715,0.753,3:23
+2,2:45,MIA,Max Strus,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,50,45,0.732,0.778,2:45
+2,2:11,MIA,Jimmy Butler III,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,50,45,0.712,0.752,2:19
+3,11:02,PHI,Danny Green,Personal Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,50,55,0.443,0.444,11:10
+3,9:51,PHI,DeAndre Jordan,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,55,57,0.602,0.549,10:02
+3,9:16,MIA,Gabe Vincent,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,57,57,0.552,0.578,9:20
+3,6:40,PHI,Tobias Harris,Personal Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,66,61,0.776,0.778,6:43
+3,6:13,PHI,Paul Reed,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,66,61,0.799,0.778,6:14
+3,4:04,PHI,Georges Niang,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,72,66,0.831,0.779,4:04
+3,2:15,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,78,70,0.846,0.845,2:15
+3,1:35,MIA,P.J. Tucker,Personal Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,78,70,0.801,0.848,1:38
+3,1:09,PHI,Shake Milton,Personal Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,78,70,0.909,0.876,1:15
+3,28.6,MIA,Dewayne Dedmon,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,80,70,0.866,0.902,33.4
+4,9:42,PHI,Paul Reed,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,85,75,0.962,0.937,10:07
+4,4:40,MIA,Caleb Martin,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,98,77,0.999,0.999,4:42
+4,3:20,MIA,Caleb Martin,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,100,83,0.998,0.999,3:29
+4,1:01,MIA,Omer Yurtseven,Shooting Foul,Foul,Sean Wright,Mark Lindsay,Marc Davis,MIA,104,92,0.997,0.999,1:01

@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:08,CLE,Donovan Mitchell,Defensive 3-Seconds Technical,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,4,0,0.762,0.755,10:16
+1,8:57,MIA,Kyle Lowry,Loose Ball Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,4,3,0.714,0.691,9:12
+1,8:05,MIA,Bam Adebayo,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,9,5,0.77,0.751,8:10
+1,4:53,CLE,Donovan Mitchell,Loose Ball Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,16,7,0.834,0.851,5:16
+1,4:30,CLE,Darius Garland,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,16,7,0.809,0.77,8:05
+1,3:22,CLE,Darius Garland,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,16,11,0.73,0.762,3:32
+1,38.0,CLE,Donovan Mitchell,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,23,23,0.614,0.662,38.0
+2,11:14,MIA,Gabe Vincent,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,26,24,0.708,0.71,11:19
+2,10:13,CLE,Dean Wade,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,28,27,0.612,0.654,10:22
+2,9:54,MIA,Max Strus,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,28,29,0.645,0.625,9:54
+2,9:28,MIA,Gabe Vincent,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,29,29,0.649,0.651,9:38
+2,8:49,MIA,Bam Adebayo,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,31,29,0.718,0.674,8:49
+2,8:15,CLE,Isaac Okoro,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,34,32,0.63,0.671,8:22
+2,6:08,MIA,Caleb Martin,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,38,42,0.561,0.515,6:08
+2,5:03,CLE,Darius Garland,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,41,44,0.459,0.506,5:11
+2,32.1,CLE,Evan Mobley,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,52,54,0.459,0.518,39.1
+3,9:00,CLE,Darius Garland,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,61,55,0.768,0.769,9:00
+3,8:04,CLE,Jarrett Allen,Offensive Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,61,57,0.708,0.739,8:18
+3,7:20,CLE,Isaac Okoro,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,61,62,0.492,0.561,7:20
+3,6:36,MIA,Caleb Martin,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,63,63,0.598,0.601,6:50
+3,6:29,MIA,Kyle Lowry,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,63,63,0.597,0.598,6:36
+3,5:34,MIA,Kyle Lowry,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,65,66,0.583,0.509,5:34
+3,2:57,MIA,Orlando Robinson,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,68,77,0.259,0.209,3:11
+3,44.1,CLE,Evan Mobley,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,76,77,0.407,0.478,57.1
+3,4.0,CLE,Ricky Rubio,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,76,79,0.308,0.381,19.1
+4,10:42,MIA,Victor Oladipo,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,81,79,0.751,0.669,11:04
+4,10:29,MIA,Gabe Vincent,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,81,79,0.692,0.677,10:29
+4,10:11,MIA,Gabe Vincent,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,81,79,0.7,0.684,10:18
+4,7:21,CLE,Jarrett Allen,Offensive Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,83,79,0.745,0.739,7:38
+4,6:35,CLE,Caris LeVert,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,85,84,0.518,0.645,6:35
+4,4:19,MIA,Gabe Vincent,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,87,92,0.331,0.228,4:41
+4,3:14,CLE,Darius Garland,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,92,92,0.49,0.503,3:28
+4,2:58,MIA,Caleb Martin,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,92,92,0.701,0.586,3:01
+4,2:11,CLE,Evan Mobley,Personal Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,93,94,0.37,0.4,2:23
+4,38.1,MIA,Bam Adebayo,Shooting Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,93,98,0.225,0.121,45.1
+4,15.1,CLE,Donovan Mitchell,Personal Take Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,94,98,0.017,0.062,15.1
+4,12.0,CLE,Caris LeVert,Personal Take Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,94,98,0.012,0.017,15.1
+4,7.1,CLE,Isaac Okoro,Personal Take Foul,Foul,David Guthrie,Che Flores,Tre Maddox,CLE,97,99,0.043,0.138,8.1

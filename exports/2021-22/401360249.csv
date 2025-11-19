@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:19,UTAH,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,2,0,0.883,0.9,11:44
+1,8:34,LAC,Luke Kennard,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,9,8,0.894,0.876,8:34
+1,6:44,LAC,Eric Bledsoe,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,16,13,0.899,0.901,6:55
+1,4:40,LAC,Ivica Zubac,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,20,20,0.875,0.859,4:59
+1,3:18,UTAH,Rudy Gay,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,24,25,0.793,0.821,3:35
+1,2:57,LAC,Justise Winslow,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,26,26,0.84,0.833,2:57
+1,53.7,LAC,Luke Kennard,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,31,31,0.859,0.837,1:01
+1,47.8,UTAH,Mike Conley,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,33,31,0.828,0.852,53.7
+2,9:33,LAC,Brandon Boston,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,38,39,0.797,0.801,9:47
+2,9:16,LAC,Justise Winslow,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,38,39,0.795,0.797,9:19
+2,9:00,UTAH,Jordan Clarkson,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,38,39,0.775,0.772,9:01
+2,9:00,UTAH,Joe Ingles,Technical Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,38,39,0.757,0.775,9:00
+2,8:34,UTAH,Joe Ingles,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,38,44,0.621,0.673,8:34
+2,8:07,LAC,Ivica Zubac,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,38,45,0.638,0.638,8:07
+2,7:41,LAC,Reggie Jackson,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,40,47,0.675,0.634,7:52
+2,7:34,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,42,47,0.672,0.658,7:34
+2,7:18,LAC,Ivica Zubac,Loose Ball Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,42,47,0.684,0.684,7:18
+2,4:52,UTAH,Jordan Clarkson,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,50,49,0.785,0.786,5:04
+2,3:10,UTAH,Royce O'Neale,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,56,51,0.826,0.854,3:24
+2,2:14,LAC,Isaiah Hartenstein,Loose Ball Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,56,53,0.833,0.833,2:16
+2,4.2,UTAH,Donovan Mitchell,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,65,58,0.85,0.878,22.2
+3,10:53,LAC,Luke Kennard,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,68,59,0.917,0.918,11:01
+3,9:42,UTAH,Bojan Bogdanovic,Personal Take Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,70,63,0.871,0.872,9:43
+3,7:26,LAC,Reggie Jackson,Personal Take Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,74,65,0.916,0.916,7:29
+3,6:48,UTAH,Donovan Mitchell,Personal Take Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,76,67,0.908,0.9,6:49
+3,5:40,LAC,Terance Mann,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,78,70,0.901,0.901,5:56
+3,5:05,LAC,Terance Mann,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,78,70,0.901,0.901,5:16
+3,3:53,UTAH,Hassan Whiteside,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,84,70,0.948,0.962,4:01
+3,2:58,LAC,Justise Winslow,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,87,72,0.984,0.977,3:18
+3,1:40,UTAH,Hassan Whiteside,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,89,78,0.943,0.949,1:40
+4,9:52,UTAH,Mike Conley,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,98,86,0.938,0.961,9:58
+4,9:41,LAC,Brandon Boston,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,98,88,0.953,0.949,9:52
+4,8:32,UTAH,Jordan Clarkson,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,100,92,0.898,0.924,8:32
+4,8:16,LAC,Brandon Boston,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,100,93,0.905,0.899,8:32
+4,7:29,UTAH,Joe Ingles,Personal Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,103,93,0.938,0.945,7:31
+4,7:03,LAC,Terance Mann,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,105,95,0.97,0.945,7:03
+4,4:26,LAC,Reggie Jackson,Personal Take Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,114,97,0.999,0.999,4:27
+4,3:41,UTAH,Hassan Whiteside,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,119,97,0.999,0.999,3:49
+4,2:17,UTAH,Royce O'Neale,Personal Take Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,119,98,0.999,0.999,2:20
+4,1:12,LAC,Keon Johnson,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,121,101,0.999,0.999,1:24
+4,1:02,UTAH,Hassan Whiteside,Shooting Foul,Foul,Sean Wright,Eric Dalen,Mousa Dagher,UTAH,122,101,0.999,0.999,1:12

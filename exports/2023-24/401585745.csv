@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:22,POR,Scoot Henderson,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,2,2,0.63,0.591,11:22
+1,6:42,POR,Scoot Henderson,Offensive Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,13,10,0.678,0.603,6:49
+1,4:34,WSH,Patrick Baldwin Jr.,Offensive Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,16,13,0.651,0.676,4:46
+1,3:22,WSH,Anthony Gill,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,18,18,0.529,0.57,3:28
+1,3:04,POR,Jabari Walker,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,20,20,0.617,0.569,3:04
+1,1:42,POR,Rayan Rupert,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,20,24,0.524,0.483,1:47
+1,47.1,WSH,Anthony Gill,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,24,28,0.43,0.478,47.1
+2,11:53,POR,Kris Murray,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,27,32,0.447,0.434,12:00
+2,11:05,POR,Kris Murray,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,29,35,0.458,0.414,11:22
+2,10:00,POR,Duop Reath,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,30,40,0.335,0.296,10:12
+2,9:29,POR,Duop Reath,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,33,40,0.399,0.348,9:29
+2,9:20,WSH,Jared Butler,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,34,40,0.376,0.378,9:29
+2,8:52,POR,Rayan Rupert,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,34,42,0.389,0.343,8:59
+2,4:10,WSH,Anthony Gill,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,44,48,0.412,0.412,4:27
+2,3:56,WSH,Tristan Vukcevic,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,44,48,0.388,0.41,3:56
+2,3:17,WSH,Johnny Davis,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,44,49,0.329,0.377,3:31
+2,50.1,POR,Scoot Henderson,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,48,59,0.254,0.216,55.0
+3,11:14,WSH,Tristan Vukcevic,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,53,59,0.322,0.316,11:21
+3,11:05,WSH,Tristan Vukcevic,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,53,59,0.297,0.317,11:05
+3,9:47,POR,Jabari Walker,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,55,60,0.38,0.382,9:50
+3,8:42,WSH,Deni Avdija,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,59,62,0.386,0.45,8:42
+3,8:39,POR,Jabari Walker,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,59,62,0.45,0.45,8:39
+3,8:16,WSH,Johnny Davis,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,59,64,0.309,0.372,8:16
+3,5:47,WSH,Corey Kispert,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,66,73,0.199,0.248,6:00
+3,4:22,WSH,Justin Champagnie,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,70,77,0.186,0.234,4:24
+3,4:03,WSH,Jordan Poole,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,70,79,0.131,0.169,4:05
+3,3:24,WSH,Anthony Gill,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,70,81,0.084,0.116,3:45
+3,1:56,POR,Duop Reath,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,74,84,0.171,0.122,1:56
+3,1:33,POR,Scoot Henderson,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,77,86,0.197,0.141,1:33
+3,1:12,POR,Justin Minaya,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,78,86,0.261,0.201,1:14
+3,39.1,POR,Dalano Banton,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,80,86,0.341,0.279,56.1
+4,11:15,POR,Rayan Rupert,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,81,86,0.315,0.302,11:17
+4,10:29,WSH,Eugene Omoruyi,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,83,86,0.33,0.344,10:38
+4,9:06,POR,Dalano Banton,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,83,91,0.225,0.156,9:10
+4,8:58,WSH,Eugene Omoruyi,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,83,91,0.12,0.123,9:03
+4,8:37,POR,Rayan Rupert,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,83,91,0.224,0.151,8:41
+4,7:18,POR,Rayan Rupert,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,85,93,0.204,0.139,7:26
+4,6:37,POR,Justin Minaya,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,89,95,0.249,0.168,6:37
+4,6:29,WSH,Corey Kispert,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,90,95,0.135,0.212,6:37
+4,4:17,POR,Dalano Banton,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,95,97,0.528,0.413,4:20
+4,3:55,WSH,Tristan Vukcevic,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,97,97,0.356,0.485,4:17
+4,2:23,POR,Scoot Henderson,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,101,102,0.596,0.465,2:38
+4,2:10,WSH,Tristan Vukcevic,Loose Ball Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,102,102,0.324,0.458,2:10
+4,15.1,WSH,Deni Avdija,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Jonathan Sterling,WSH,102,107,0.013,0.057,15.1

@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:59,CLE,Jarrett Allen,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,8,6,0.507,0.545,9:19
+1,8:28,CHA,LaMelo Ball,Loose Ball Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,8,8,0.519,0.519,8:28
+1,8:20,CHA,Miles Bridges,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,10,8,0.589,0.545,8:20
+1,7:27,CHA,Mason Plumlee,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,11,10,0.583,0.544,7:41
+1,7:03,CLE,Jarrett Allen,Personal Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,15,10,0.623,0.623,7:09
+1,5:25,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,20,13,0.733,0.7,5:31
+1,3:08,CHA,Cody Martin,Personal Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,21,18,0.64,0.621,6:46
+1,1.6,CLE,Kevin Pangos,Personal Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,30,27,0.534,0.577,3.3
+2,9:30,CHA,LaMelo Ball,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,42,35,0.666,0.691,9:39
+2,7:43,CLE,Jarrett Allen,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,46,37,0.709,0.749,8:01
+2,7:30,CHA,LaMelo Ball,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,48,38,0.811,0.774,7:30
+2,5:42,CHA,Terry Rozier,Personal Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,49,43,0.7,0.701,5:58
+2,2:27,CLE,Evan Mobley,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,53,47,0.66,0.712,2:27
+2,1:22,CHA,Gordon Hayward,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,53,50,0.671,0.622,1:33
+2,39.4,CHA,Gordon Hayward,Personal Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,55,52,0.673,0.622,40.5
+3,10:48,CLE,Collin Sexton,Personal Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,63,57,0.694,0.695,10:58
+3,9:45,CLE,Evan Mobley,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,65,62,0.539,0.595,9:48
+3,6:57,CHA,Gordon Hayward,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,67,68,0.483,0.445,7:17
+3,4:41,CHA,Terry Rozier,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,73,72,0.598,0.564,4:47
+3,4:12,CLE,Jarrett Allen,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,76,72,0.587,0.648,4:26
+3,3:56,CHA,Cody Martin,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,76,74,0.67,0.61,4:12
+3,3:40,CLE,Isaac Okoro,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,78,74,0.589,0.65,3:56
+3,2:10,CLE,Kevin Love,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,82,81,0.49,0.524,2:10
+3,1:18,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,82,85,0.455,0.384,1:35
+3,32.6,CLE,Collin Sexton,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,85,88,0.336,0.336,36.3
+4,11:33,CLE,Ricky Rubio,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,89,92,0.323,0.381,11:41
+4,9:17,CLE,Lauri Markkanen,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,91,102,0.031,0.052,9:19
+4,8:53,CHA,Mason Plumlee,Personal Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,91,106,0.021,0.019,9:07
+4,6:02,CLE,Collin Sexton,Personal Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,97,109,0.018,0.019,6:02
+4,2:26,CLE,Isaac Okoro,Personal Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,105,121,0.001,0.001,2:41
+4,2:19,CHA,P.J. Washington,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,John Butler,CLE,105,121,0.001,0.001,2:20

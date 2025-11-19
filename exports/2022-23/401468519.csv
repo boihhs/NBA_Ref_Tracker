@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:27,CHA,Mason Plumlee,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,2,0,0.814,0.788,11:27
+1,8:42,BKN,Royce O'Neale,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,10,6,0.798,0.826,8:42
+1,6:37,BKN,Joe Harris,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,16,15,0.734,0.767,6:37
+1,3:48,CHA,Kelly Oubre Jr.,Personal Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,20,19,0.757,0.757,4:05
+1,1:30,CHA,Nick Richards,Flagrant Foul Type 1,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,32,25,0.85,0.84,1:30
+2,11:28,BKN,Markieff Morris,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,38,28,0.858,0.881,11:36
+2,10:40,CHA,Jalen McDaniels,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,41,30,0.92,0.905,10:53
+2,8:36,BKN,Markieff Morris,Personal Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,52,33,0.963,0.962,8:56
+2,8:30,CHA,Kai Jones,Offensive Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,52,33,0.968,0.963,8:36
+2,7:39,BKN,Seth Curry,Personal Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,54,35,0.963,0.963,7:42
+2,7:08,CHA,Nick Richards,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,54,37,0.966,0.958,7:21
+2,6:02,BKN,T.J. Warren,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,57,39,0.953,0.965,6:02
+2,4:49,BKN,Nic Claxton,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,59,41,0.949,0.96,5:01
+2,4:01,CHA,Mason Plumlee,Defensive 3-Seconds Technical,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,62,43,0.97,0.971,4:12
+2,3:04,CHA,Kelly Oubre Jr.,Technical Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,67,48,0.976,0.972,3:04
+2,2:49,CHA,P.J. Washington,Loose Ball Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,68,48,0.976,0.977,2:49
+2,2:19,BKN,Nic Claxton,Technical Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,68,50,0.957,0.962,2:19
+3,10:27,BKN,Royce O'Neale,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,75,58,0.949,0.96,10:42
+3,9:30,CHA,Jalen McDaniels,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,77,62,0.966,0.957,9:31
+3,8:53,BKN,Nic Claxton,Personal Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,78,62,0.956,0.957,8:53
+3,8:42,BKN,Kevin Durant,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,78,62,0.943,0.956,8:53
+3,6:20,BKN,Royce O'Neale,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,84,67,0.958,0.969,6:25
+3,6:03,BKN,Seth Curry,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,84,70,0.937,0.955,6:03
+3,2:33,CHA,Bryce McGowens,Personal Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,96,80,0.978,0.978,2:39
+3,1:43,BKN,T.J. Warren,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,96,82,0.951,0.968,1:43
+3,1:20,BKN,Edmond Sumner,Personal Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,96,83,0.929,0.95,1:25
+3,3.2,CHA,Jalen McDaniels,Personal Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,96,87,0.934,0.909,9.4
+4,11:51,CHA,Kai Jones,Offensive Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,96,87,0.916,0.899,12:00
+4,11:16,BKN,Nic Claxton,Offensive Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,96,89,0.841,0.871,11:26
+4,11:01,BKN,Nic Claxton,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,96,91,0.729,0.812,11:01
+4,10:55,CHA,Jalen McDaniels,Personal Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,96,92,0.781,0.77,11:01
+4,10:00,CHA,Kai Jones,Offensive Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,100,92,0.903,0.873,10:13
+4,9:46,CHA,Terry Rozier,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,100,92,0.937,0.903,10:00
+4,8:03,BKN,Joe Harris,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,104,98,0.784,0.863,8:03
+4,7:03,BKN,Joe Harris,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,107,103,0.683,0.792,7:03
+4,6:16,CHA,Jalen McDaniels,Personal Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,109,107,0.707,0.686,6:28
+4,6:02,CHA,JT Thor,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,109,107,0.786,0.707,6:16
+4,4:50,CHA,JT Thor,Offensive Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,111,107,0.823,0.767,5:03
+4,2:16,BKN,Royce O'Neale,Offensive Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,115,112,0.75,0.815,2:24
+4,44.3,CHA,Terry Rozier,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,118,116,0.892,0.784,1:07
+4,34.2,BKN,Kevin Durant,Shooting Foul,Foul,James Williams,Matt Myers,Gediminas Petraitis,BKN,120,116,0.711,0.856,44.3

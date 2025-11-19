@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:50,LAL,LeBron James,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,5,5,0.261,0.293,9:04
+1,7:50,LAL,Cam Reddish,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,7,9,0.226,0.254,8:00
+1,4:02,LAC,Ivica Zubac,Offensive Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,12,16,0.244,0.224,4:05
+1,3:34,LAC,Russell Westbrook,Loose Ball Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,12,16,0.245,0.245,3:34
+1,2:41,LAC,Norman Powell,Loose Ball Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,14,16,0.291,0.292,2:41
+1,2:20,LAL,D'Angelo Russell,Personal Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,14,16,0.27,0.27,2:23
+1,2:09,LAL,D'Angelo Russell,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,14,16,0.277,0.27,2:20
+2,9:25,LAL,D'Angelo Russell,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,25,28,0.226,0.259,9:27
+2,8:04,LAL,Christian Wood,Flagrant Foul Type 1,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,30,31,0.323,0.312,8:26
+2,7:39,LAC,Terance Mann,Personal Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,30,34,0.265,0.265,7:49
+2,7:02,LAC,Ivica Zubac,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,34,36,0.338,0.291,7:02
+2,5:43,LAL,Taurean Prince,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,39,41,0.258,0.293,6:09
+2,3:50,LAC,Kawhi Leonard,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,41,44,0.342,0.301,4:05
+2,2:50,LAC,Paul George,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,44,48,0.295,0.248,2:50
+2,1:35,LAC,Terance Mann,Personal Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,45,50,0.291,0.249,1:48
+3,11:34,LAC,Ivica Zubac,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,51,55,0.303,0.25,11:34
+3,10:59,LAC,Paul George,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,54,55,0.402,0.345,10:59
+3,8:44,LAC,James Harden,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,57,60,0.368,0.316,8:58
+3,5:08,LAL,Taurean Prince,Personal Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,68,67,0.441,0.438,5:24
+3,4:30,LAC,Kawhi Leonard,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,68,67,0.552,0.486,4:38
+3,2:02,LAC,Paul George,Offensive Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,75,73,0.55,0.504,2:11
+3,2.0,LAL,LeBron James,Personal Take Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,81,77,0.541,0.617,5.1
+4,11:18,LAC,Kawhi Leonard,Personal Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,83,77,0.779,0.765,11:23
+4,10:42,LAL,Christian Wood,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,85,77,0.776,0.819,10:42
+4,7:14,LAL,Anthony Davis,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,94,86,0.875,0.858,7:25
+4,5:03,LAC,Kawhi Leonard,Personal Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,94,93,0.601,0.584,5:07
+4,4:15,LAL,Anthony Davis,Offensive Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,96,95,0.523,0.598,4:24
+4,3:54,LAC,Ivica Zubac,Loose Ball Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,96,95,0.628,0.603,3:54
+4,2:19,LAL,Taurean Prince,Shooting Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,98,95,0.647,0.721,2:19
+4,17.0,LAC,James Harden,Personal Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,103,101,0.929,0.821,22.2
+4,12.1,LAC,James Harden,Personal Take Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,103,101,0.941,0.835,17.0
+4,4.0,LAC,Paul George,Personal Take Foul,Foul,Mark Lindsay,Matt Myers,Justin Van Duyne,LAL,105,103,0.977,0.924,4.2

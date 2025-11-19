@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:33,ORL,Mo Bamba,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,0,0,0.516,0.506,11:34
+1,9:38,ORL,Mo Bamba,Defensive 3-Seconds Technical,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,4,4,0.504,0.504,9:46
+1,9:34,LAL,Dwight Howard,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,4,5,0.504,0.474,9:38
+1,8:41,LAL,LeBron James,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,7,9,0.475,0.476,8:55
+1,5:24,ORL,Cole Anthony,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,11,16,0.367,0.366,5:32
+1,5:15,ORL,Cole Anthony,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,11,16,0.329,0.367,5:24
+1,2:53,LAL,Russell Westbrook,Personal Take Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,16,18,0.471,0.472,2:53
+1,2:34,ORL,Chuma Okeke,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,18,18,0.457,0.5,2:42
+1,2:25,LAL,Carmelo Anthony,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,20,20,0.513,0.499,2:25
+1,2:07,LAL,Carmelo Anthony,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,21,22,0.543,0.499,2:16
+1,1:28,LAL,Austin Reaves,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,22,22,0.571,0.526,1:28
+2,11:28,LAL,Dwight Howard,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,27,24,0.614,0.582,11:28
+2,10:43,ORL,Mo Bamba,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,29,26,0.583,0.615,10:43
+2,10:20,LAL,Dwight Howard,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,29,26,0.656,0.614,10:26
+2,10:13,ORL,Chuma Okeke,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,31,26,0.643,0.642,10:20
+2,9:15,ORL,Mo Bamba,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,31,33,0.415,0.466,9:15
+2,8:00,LAL,Malik Monk,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,36,36,0.572,0.528,8:09
+2,7:24,ORL,Franz Wagner,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,38,38,0.449,0.494,7:26
+2,6:49,ORL,Cole Anthony,Personal Take Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,38,41,0.357,0.405,6:50
+2,5:17,ORL,Franz Wagner,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,43,44,0.416,0.464,5:39
+2,4:51,ORL,Gary Harris,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,46,45,0.478,0.527,4:52
+2,3:55,LAL,Talen Horton-Tucker,Flagrant Foul Type 1,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,49,50,0.543,0.494,4:02
+2,3:43,LAL,Avery Bradley,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,51,50,0.609,0.527,3:55
+2,2:30,LAL,Talen Horton-Tucker,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,54,50,0.701,0.657,2:30
+2,46.7,LAL,Avery Bradley,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,61,52,0.82,0.778,46.7
+2,20.3,LAL,LeBron James,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,62,52,0.816,0.804,26.4
+2,7.4,ORL,Gary Harris,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,62,52,0.804,0.829,20.3
+3,9:05,LAL,LeBron James,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,62,63,0.544,0.486,9:16
+3,8:54,ORL,Jalen Suggs,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,62,63,0.45,0.452,9:03
+3,8:04,LAL,Russell Westbrook,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,62,63,0.468,0.488,8:04
+3,5:34,LAL,Avery Bradley,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,64,73,0.19,0.192,5:42
+3,4:33,LAL,Dwight Howard,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,68,75,0.3,0.247,4:39
+3,58.9,LAL,Malik Monk,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,75,85,0.169,0.128,1:02
+3,18.9,LAL,Dwight Howard,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,78,85,0.214,0.179,31.1
+4,10:01,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,80,90,0.149,0.097,10:06
+4,9:48,LAL,Malik Monk,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,82,90,0.156,0.124,10:01
+4,9:02,ORL,Mo Bamba,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,85,93,0.074,0.116,9:15
+4,8:34,LAL,Russell Westbrook,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,87,96,0.119,0.11,8:36
+4,8:26,ORL,Ignas Brazdeikis,Personal Take Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,87,96,0.08,0.085,8:26
+4,4:55,ORL,Ignas Brazdeikis,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,93,106,0.004,0.009,5:01
+4,3:23,ORL,Franz Wagner,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,98,110,0.002,0.005,3:28
+4,1:31,LAL,Malik Monk,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,101,114,0.003,0.001,1:51
+4,38.6,ORL,Ignas Brazdeikis,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Lauren Holtkamp,ORL,103,114,0.001,0.001,58.3

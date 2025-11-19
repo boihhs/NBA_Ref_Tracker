@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:31,ATL,John Collins,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,0,0,0.511,0.552,11:40
+1,10:37,ATL,De'Andre Hunter,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,2,2,0.51,0.55,10:48
+1,10:10,ATL,John Collins,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,4,4,0.511,0.55,10:24
+1,10:05,UTAH,Jordan Clarkson,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,6,6,0.592,0.55,10:05
+1,9:51,ATL,Dejounte Murray,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,7,6,0.536,0.574,10:05
+1,9:38,UTAH,Jarred Vanderbilt,Personal Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,7,9,0.523,0.523,9:51
+1,8:12,UTAH,Mike Conley,Loose Ball Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,9,11,0.521,0.519,8:12
+1,7:29,ATL,Jalen Johnson,Personal Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,11,13,0.452,0.494,7:29
+1,4:07,ATL,Jalen Johnson,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,13,22,0.263,0.3,4:22
+1,6.4,UTAH,Talen Horton-Tucker,Offensive Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,20,26,0.389,0.363,26.0
+2,11:02,ATL,Dejounte Murray,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,24,31,0.308,0.357,11:02
+2,9:00,ATL,AJ Griffin,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,29,38,0.233,0.27,9:17
+2,8:37,UTAH,Rudy Gay,Personal Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,29,40,0.241,0.241,8:37
+2,7:15,UTAH,Rudy Gay,Personal Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,33,45,0.211,0.213,7:20
+2,5:00,UTAH,Collin Sexton,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,40,50,0.267,0.222,5:00
+2,4:31,UTAH,Kelly Olynyk,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,40,50,0.285,0.246,4:40
+2,2:52,UTAH,Kelly Olynyk,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,45,54,0.283,0.238,2:52
+3,10:18,UTAH,Kelly Olynyk,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,61,68,0.347,0.296,10:28
+3,7:57,UTAH,Jarred Vanderbilt,Personal Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,72,72,0.545,0.547,8:08
+3,7:35,UTAH,Lauri Markkanen,Offensive Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,74,72,0.621,0.581,7:52
+3,5:02,UTAH,Mike Conley,Personal Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,82,76,0.768,0.77,5:02
+3,2:10,ATL,Aaron Holiday,Offensive Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,86,80,0.751,0.785,2:27
+3,1:57,UTAH,Talen Horton-Tucker,Personal Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,86,80,0.835,0.788,1:57
+3,1:31,ATL,Justin Holiday,Offensive Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,86,82,0.673,0.72,1:40
+3,1:20,ATL,Onyeka Okongwu,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,86,82,0.609,0.673,1:31
+4,10:19,ATL,Justin Holiday,Loose Ball Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,92,88,0.68,0.69,10:19
+4,10:11,ATL,Onyeka Okongwu,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,92,88,0.593,0.68,10:19
+4,7:51,UTAH,Malik Beasley,Personal Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,92,95,0.365,0.356,7:59
+4,6:49,UTAH,Walker Kessler,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,94,98,0.394,0.291,7:01
+4,5:59,UTAH,Walker Kessler,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,96,100,0.399,0.285,6:09
+4,3:09,ATL,Clint Capela,Shooting Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,105,113,0.017,0.045,3:30
+4,20.3,ATL,Dejounte Murray,Personal Take Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,119,123,0.02,0.086,32.3
+4,16.8,ATL,Dejounte Murray,Personal Take Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,119,123,0.016,0.02,20.3
+4,13.7,UTAH,Jarred Vanderbilt,Loose Ball Foul,Foul,James Williams,Ray Acosta,Ashley Moyer-Gleich,ATL,119,125,0.08,0.025,13.7

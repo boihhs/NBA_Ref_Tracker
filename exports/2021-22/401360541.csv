@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:07,MIL,Bobby Portis,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,9,12,0.515,0.53,8:07
+1,7:05,CLE,Isaac Okoro,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,11,14,0.498,0.498,7:08
+1,3:30,MIL,Jrue Holiday,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,20,29,0.392,0.353,3:43
+2,11:11,CLE,Cedi Osman,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,29,37,0.327,0.327,11:17
+2,10:35,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,32,37,0.44,0.41,10:37
+2,10:29,MIL,Pat Connaughton,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,32,37,0.439,0.44,10:35
+2,10:20,MIL,Jordan Nwora,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,32,37,0.438,0.439,10:29
+2,5:00,MIL,Pat Connaughton,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,52,47,0.711,0.697,5:00
+2,3:29,MIL,Bobby Portis,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,55,51,0.738,0.696,3:52
+2,2:53,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,59,51,0.817,0.776,2:53
+2,2:36,CLE,Evan Mobley,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,59,51,0.778,0.776,2:47
+2,2:22,CLE,Isaac Okoro,Loose Ball Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,59,51,0.778,0.778,2:22
+2,32.9,MIL,Bobby Portis,Technical Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,62,55,0.799,0.784,32.9
+2,7.9,MIL,Khris Middleton,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,63,55,0.843,0.807,7.9
+3,10:42,CLE,Dean Wade,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,70,59,0.857,0.855,10:52
+3,9:44,CLE,Jarrett Allen,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,76,59,0.932,0.947,10:03
+3,9:18,CLE,Isaac Okoro,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,76,61,0.928,0.928,9:24
+3,8:49,MIL,Jrue Holiday,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,76,63,0.917,0.915,9:05
+3,8:12,MIL,Khris Middleton,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,76,63,0.92,0.92,8:12
+3,7:10,CLE,Dean Wade,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,81,66,0.916,0.936,7:19
+3,6:55,CLE,Jarrett Allen,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,81,66,0.917,0.916,7:10
+3,5:01,MIL,Khris Middleton,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,85,70,0.955,0.955,5:13
+3,4:48,MIL,Jrue Holiday,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,85,70,0.968,0.955,5:01
+3,4:42,CLE,Jarrett Allen,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,87,70,0.95,0.964,4:48
+3,1:36,CLE,Rajon Rondo,Offensive Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,93,72,0.992,0.994,1:40
+3,36.4,CLE,Lamar Stevens,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,95,74,0.99,0.994,56.5
+3,3.8,CLE,Evan Mobley,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,95,75,0.988,0.993,8.7
+4,11:35,CLE,Kevin Love,Offensive Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,95,77,0.988,0.991,11:37
+4,11:04,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,95,77,0.995,0.992,11:16
+4,10:54,CLE,Evan Mobley,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,96,77,0.99,0.992,10:55
+4,8:00,CLE,Cedi Osman,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,101,81,0.997,0.998,8:03
+4,7:49,CLE,Kevin Love,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,101,81,0.995,0.997,8:00
+4,7:00,MIL,Bobby Portis,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,104,85,0.998,0.998,7:11
+4,5:51,MIL,Khris Middleton,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,106,89,0.997,0.997,6:07
+4,1:54,MIL,George Hill,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,109,95,0.999,0.999,2:14
+4,1:38,CLE,Jarrett Allen,Loose Ball Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,109,95,0.999,0.999,1:38
+4,1:02,CLE,Dean Wade,Shooting Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,111,95,0.999,0.999,1:12
+4,41.3,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Brent Barnaky,Ben Taylor,Jenna Schroeder,CLE,111,97,0.999,0.999,1:02

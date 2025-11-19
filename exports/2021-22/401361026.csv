@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:31,ATL,Kevin Huerter,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,5,8,0.642,0.607,8:38
+1,6:21,MIA,Kyle Lowry,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,10,10,0.646,0.687,12:00
+1,4:54,ATL,De'Andre Hunter,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,12,12,0.665,0.667,5:01
+1,3:34,MIA,Bam Adebayo,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,16,17,0.59,0.661,3:34
+1,2:54,MIA,Kyle Lowry,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,16,19,0.511,0.554,3:02
+2,11:13,ATL,Danilo Gallinari,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,26,25,0.692,0.645,11:13
+2,10:24,ATL,Danilo Gallinari,Offensive Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,29,27,0.697,0.672,10:36
+2,9:45,MIA,Gabe Vincent,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,31,27,0.7,0.719,9:51
+2,9:37,ATL,Onyeka Okongwu,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,31,29,0.73,0.695,9:45
+2,8:36,ATL,Onyeka Okongwu,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,35,33,0.728,0.693,8:53
+2,7:48,MIA,Duncan Robinson,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,37,33,0.676,0.715,7:51
+2,6:44,MIA,Duncan Robinson,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,39,35,0.694,0.714,6:44
+2,6:25,ATL,Kevin Huerter,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,39,38,0.7,0.659,6:41
+2,6:08,MIA,Bam Adebayo,Offensive Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,41,38,0.686,0.712,6:13
+2,4:05,MIA,Duncan Robinson,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,45,47,0.475,0.525,4:10
+2,3:37,MIA,Tyler Herro,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,47,49,0.472,0.523,3:48
+2,3:29,ATL,Clint Capela,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,47,51,0.54,0.493,3:37
+2,2:40,ATL,Kevin Huerter,Offensive Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,51,51,0.62,0.585,2:59
+2,1:02,ATL,De'Andre Hunter,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,53,56,0.563,0.507,1:17
+2,5.1,ATL,Clint Capela,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,56,61,0.461,0.393,5.1
+3,10:50,ATL,De'Andre Hunter,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,58,63,0.45,0.421,10:50
+3,10:33,ATL,De'Andre Hunter,Offensive Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,60,63,0.495,0.459,10:50
+3,8:38,MIA,Kyle Lowry,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,67,68,0.523,0.526,8:52
+3,5:56,ATL,Trae Young,Technical Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,71,76,0.415,0.384,5:56
+3,4:55,ATL,Trae Young,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,75,76,0.545,0.545,4:56
+3,4:15,ATL,Delon Wright,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,80,76,0.762,0.701,4:15
+3,3:45,MIA,Max Strus,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,83,79,0.644,0.701,3:53
+3,3:24,MIA,Kyle Lowry,Loose Ball Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,83,81,0.624,0.624,3:24
+3,2:17,MIA,Gabe Vincent,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,85,81,0.643,0.703,2:24
+3,55.5,MIA,Dewayne Dedmon,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,88,85,0.596,0.663,1:01
+3,28.5,ATL,Timothe Luwawu-Cabarrot,Loose Ball Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,90,87,0.767,0.708,28.5
+3,7.1,ATL,Bogdan Bogdanovic,Loose Ball Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,90,87,0.767,0.707,7.1
+4,10:14,ATL,Onyeka Okongwu,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,91,91,0.657,0.565,10:33
+4,6:37,MIA,Jimmy Butler III,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,96,99,0.295,0.31,6:47
+4,6:22,ATL,Kevin Huerter,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,96,99,0.477,0.363,6:23
+4,5:03,ATL,De'Andre Hunter,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,97,103,0.194,0.179,5:18
+4,4:57,ATL,Onyeka Okongwu,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,97,103,0.276,0.182,5:03
+4,3:24,MIA,Max Strus,Personal Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,103,105,0.332,0.348,3:36
+4,2:15,ATL,Danilo Gallinari,Shooting Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,105,107,0.54,0.403,2:22
+4,5.7,ATL,Kevin Huerter,Personal Take Foul,Foul,John Goble,Aaron Smith,Tyler Ford,MIA,111,109,0.969,0.891,7.1

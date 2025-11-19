@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:36,LAC,Ivica Zubac,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,0,4,0.53,0.533,10:47
+1,5:32,LAC,Ivica Zubac,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,10,17,0.416,0.403,5:32
+1,5:09,LAC,Marcus Morris Sr.,Personal Take Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,11,17,0.44,0.454,5:10
+2,11:27,LAC,Terance Mann,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,17,26,0.387,0.342,11:29
+2,11:11,LAC,Isaiah Hartenstein,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,19,26,0.398,0.399,11:11
+2,9:29,PHI,Charlie Brown Jr.,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,23,26,0.496,0.481,9:30
+2,6:19,LAC,Luke Kennard,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,30,32,0.514,0.499,6:28
+2,5:47,LAC,Brandon Boston,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,32,34,0.575,0.527,6:01
+2,5:00,LAC,Amir Coffey,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,35,36,0.603,0.558,5:20
+2,4:13,PHI,Furkan Korkmaz,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,39,36,0.649,0.646,4:29
+2,2:43,LAC,LAC,Technical Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,45,38,0.802,0.761,2:43
+2,2:32,PHI,Charlie Brown Jr.,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,45,38,0.773,0.761,2:43
+2,52.2,PHI,Joel Embiid,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,50,38,0.844,0.872,1:11
+3,11:08,PHI,Tobias Harris,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,56,40,0.935,0.935,11:31
+3,7:39,LAC,Amir Coffey,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,66,44,0.992,0.988,7:45
+3,7:08,PHI,Tyrese Maxey,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,68,46,0.986,0.986,7:10
+3,6:33,PHI,Charlie Brown Jr.,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,68,46,0.981,0.987,6:38
+3,6:17,LAC,Nicolas Batum,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,68,48,0.984,0.984,6:33
+3,5:41,LAC,Nicolas Batum,Loose Ball Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,68,50,0.977,0.977,5:41
+3,5:17,PHI,Georges Niang,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,68,50,0.96,0.971,5:18
+3,3:04,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,72,59,0.937,0.943,3:04
+3,2:28,LAC,Nicolas Batum,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,74,59,0.972,0.957,2:28
+3,2:15,PHI,Georges Niang,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,75,61,0.937,0.959,2:15
+3,1:58,PHI,Tobias Harris,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,75,62,0.91,0.935,2:02
+3,1:01,LAC,Eric Bledsoe,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,75,64,0.948,0.925,1:18
+3,30.3,PHI,Andre Drummond,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,78,66,0.901,0.926,41.4
+4,10:25,LAC,Isaiah Hartenstein,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,80,73,0.867,0.857,10:46
+4,10:14,LAC,Brandon Boston,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,80,73,0.871,0.867,10:25
+4,9:31,PHI,Furkan Korkmaz,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,80,73,0.831,0.841,9:32
+4,8:29,LAC,Isaiah Hartenstein,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,82,78,0.782,0.767,8:41
+4,7:48,PHI,Joel Embiid,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,82,78,0.714,0.728,7:54
+4,7:21,LAC,Isaiah Hartenstein,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,82,78,0.847,0.777,7:32
+4,4:03,LAC,Nicolas Batum,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,91,88,0.853,0.776,4:20
+4,2:13,PHI,Georges Niang,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,96,93,0.722,0.749,2:16
+4,1:21,LAC,Reggie Jackson,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,96,98,0.53,0.392,1:30
+4,49.2,PHI,Joel Embiid,Personal Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,97,98,0.198,0.364,49.2
+4,22.0,LAC,Ivica Zubac,Shooting Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,97,100,0.395,0.239,39.7
+4,18.2,PHI,Joel Embiid,Personal Take Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,99,100,0.144,0.312,22.0
+4,9.4,PHI,Georges Niang,Personal Take Foul,Foul,Zach Zarba,J.T. Orr,Gediminas Petraitis,PHI,101,102,0.113,0.288,11.1

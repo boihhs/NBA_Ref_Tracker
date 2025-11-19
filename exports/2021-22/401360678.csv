@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:18,SAC,Domantas Sabonis,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,4,2,0.587,0.549,9:31
+1,8:22,BKN,Kessler Edwards,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,11,2,0.7,0.698,8:29
+1,7:37,BKN,Andre Drummond,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,13,4,0.683,0.724,7:37
+1,6:40,BKN,Patty Mills,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,16,7,0.703,0.704,6:43
+1,6:33,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,16,7,0.668,0.668,6:40
+1,4:48,SAC,Maurice Harkless,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,24,11,0.827,0.795,4:48
+1,4:28,BKN,Seth Curry,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,25,11,0.786,0.816,4:48
+1,2:41,SAC,De'Aaron Fox,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,30,13,0.896,0.87,2:41
+1,57.7,BKN,James Johnson,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,35,16,0.882,0.903,1:10
+2,11:13,BKN,James Johnson,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,35,24,0.772,0.773,11:18
+2,9:08,SAC,Davion Mitchell,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,39,29,0.795,0.781,9:08
+2,8:56,BKN,Cam Thomas,Loose Ball Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,41,29,0.802,0.801,8:56
+2,7:48,SAC,Chimezie Metu,Offensive Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,43,31,0.827,0.806,7:52
+2,4:55,SAC,Domantas Sabonis,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,45,37,0.785,0.747,5:09
+2,1:03,BKN,James Johnson,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,51,46,0.594,0.645,1:12
+2,51.1,SAC,Richaun Holmes,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,51,48,0.663,0.615,1:03
+3,11:24,SAC,Domantas Sabonis,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,55,50,0.684,0.68,11:46
+3,11:22,BKN,Patty Mills,Offensive Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,55,50,0.65,0.684,11:24
+3,11:09,BKN,Andre Drummond,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,55,50,0.598,0.65,11:22
+3,11:01,BKN,Seth Curry,Offensive Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,55,52,0.581,0.618,11:09
+3,10:08,BKN,Bruce Brown,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,57,54,0.529,0.583,10:30
+3,9:43,BKN,Andre Drummond,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,60,55,0.602,0.656,9:56
+3,7:49,SAC,De'Aaron Fox,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,64,57,0.784,0.733,7:49
+3,6:02,BKN,James Johnson,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,72,59,0.867,0.898,6:09
+3,1:37,BKN,James Johnson,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,80,64,0.95,0.966,1:44
+3,1:02,BKN,LaMarcus Aldridge,Offensive Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,80,66,0.948,0.959,1:10
+4,10:30,SAC,De'Aaron Fox,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,87,70,0.99,0.989,10:34
+4,8:46,SAC,Justin Holiday,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,91,74,0.994,0.993,8:49
+4,8:21,SAC,Harrison Barnes,Loose Ball Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,93,74,0.997,0.998,8:21
+4,7:02,BKN,LaMarcus Aldridge,Offensive Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,93,78,0.988,0.992,7:12
+4,6:20,BKN,Seth Curry,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,93,78,0.99,0.99,6:26
+4,5:50,BKN,Cam Thomas,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,93,80,0.973,0.988,5:50
+4,5:21,BKN,Andre Drummond,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,95,81,0.987,0.988,5:35
+4,4:36,SAC,Justin Holiday,Personal Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,97,83,0.997,0.995,4:37
+4,4:31,SAC,Donte DiVincenzo,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,97,83,0.997,0.997,4:36
+4,3:05,BKN,Andre Drummond,Loose Ball Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,101,85,0.997,0.999,3:05
+4,2:56,SAC,Richaun Holmes,Offensive Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,101,85,0.999,0.997,3:05
+4,1:45,SAC,Trey Lyles,Shooting Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,101,85,0.999,0.999,1:58
+4,1:36,SAC,Josh Jackson,Offensive Foul,Foul,Courtney Kirkland,Michael Smith,Evan Scott,BKN,102,85,0.999,0.999,1:45

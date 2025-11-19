@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:40,IND,Aaron Nesmith,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,12,14,0.608,0.609,7:52
+1,7:00,MIL,Pat Connaughton,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,15,14,0.655,0.654,7:13
+1,6:21,MIL,Brook Lopez,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,17,14,0.665,0.7,6:29
+1,5:18,MIL,Jrue Holiday,Offensive Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,20,18,0.674,0.699,5:31
+1,4:28,MIL,Jrue Holiday,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,20,20,0.622,0.655,6:50
+1,3:28,MIL,George Hill,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,22,20,0.652,0.669,3:28
+1,2:24,IND,Jalen Smith,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,24,27,0.602,0.563,2:37
+1,2:16,MIL,Jevon Carter,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,25,27,0.518,0.561,2:21
+1,1:32,IND,Oshae Brissett,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,28,32,0.549,0.499,1:32
+1,1:24,IND,Jalen Smith,Offensive Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,29,32,0.555,0.532,1:32
+1,1:03,IND,Isaiah Jackson,Offensive Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,29,32,0.553,0.531,1:05
+1,53.1,MIL,Jordan Nwora,Offensive Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,29,32,0.53,0.553,1:03
+1,32.0,MIL,AJ Green,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,29,32,0.482,0.53,53.1
+2,9:55,IND,Aaron Nesmith,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,35,43,0.392,0.392,10:08
+2,9:13,MIL,AJ Green,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,37,47,0.279,0.325,9:13
+2,5:34,IND,Myles Turner,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,46,58,0.286,0.247,5:46
+2,5:08,IND,Andrew Nembhard,Offensive Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,50,61,0.267,0.24,5:13
+2,16.1,IND,Buddy Hield,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,63,73,0.305,0.261,22.1
+3,8:53,IND,Bennedict Mathurin,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,71,81,0.228,0.23,9:04
+3,8:27,IND,Aaron Nesmith,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,71,81,0.273,0.224,8:29
+3,7:51,MIL,Bobby Portis,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,75,83,0.227,0.283,7:51
+3,4:35,MIL,MIL,Delay Technical,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,82,90,0.224,0.25,4:35
+3,2:57,IND,Chris Duarte,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,84,93,0.198,0.199,3:02
+3,1:54,MIL,George Hill,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,88,95,0.17,0.222,2:11
+4,11:17,MIL,Bobby Portis,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,95,98,0.275,0.357,11:33
+4,10:34,MIL,Grayson Allen,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,98,100,0.38,0.4,10:57
+4,8:52,IND,Myles Turner,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,101,104,0.477,0.38,9:00
+4,4:16,IND,Buddy Hield,Loose Ball Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,120,114,0.903,0.896,4:16
+4,3:34,IND,Aaron Nesmith,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,120,114,0.954,0.91,3:37
+4,2:25,IND,Buddy Hield,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,124,117,0.981,0.955,2:43
+4,1:32,MIL,Jrue Holiday,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,128,117,0.985,0.995,1:41
+4,1:26,IND,Bennedict Mathurin,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,MIL,128,119,0.996,0.99,1:32

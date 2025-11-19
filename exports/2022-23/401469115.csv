@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:44,PHI,P.J. Tucker,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,9,7,0.739,0.708,8:46
+1,5:25,PHI,Joel Embiid,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,17,20,0.576,0.578,5:37
+1,2:27,PHI,De'Anthony Melton,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,23,22,0.705,0.671,2:46
+1,1:32,PHI,Jalen McDaniels,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,27,24,0.734,0.691,1:32
+1,1:00,PHI,Paul Reed,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,27,27,0.678,0.641,1:03
+1,46.2,MIL,Jae Crowder,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,29,27,0.626,0.667,1:00
+2,9:45,MIL,Jae Crowder,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,35,32,0.665,0.683,9:59
+2,8:11,MIL,Pat Connaughton,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,40,35,0.732,0.731,8:11
+2,7:49,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,40,35,0.732,0.731,7:49
+2,7:01,MIL,Grayson Allen,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,40,35,0.692,0.731,7:06
+2,6:43,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,40,37,0.745,0.709,6:57
+2,4:45,MIL,Brook Lopez,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,44,41,0.631,0.675,4:48
+2,2:40,MIL,Khris Middleton,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,50,47,0.625,0.671,2:50
+2,2:15,MIL,Brook Lopez,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,50,49,0.559,0.608,2:19
+2,1:13,PHI,P.J. Tucker,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,54,50,0.748,0.698,1:13
+2,55.1,MIL,Bobby Portis,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,55,52,0.644,0.701,55.1
+3,10:36,PHI,P.J. Tucker,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,64,56,0.862,0.832,10:37
+3,10:20,MIL,Giannis Antetokounmpo,Defensive 3-Seconds Technical,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,65,56,0.838,0.831,10:33
+3,6:11,PHI,Tyrese Maxey,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,76,69,0.856,0.793,6:11
+3,3:42,MIL,Grayson Allen,Technical Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,89,76,0.919,0.931,3:42
+3,3:10,PHI,Georges Niang,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,91,77,0.964,0.946,3:10
+3,2:28,MIL,Khris Middleton,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,95,77,0.971,0.98,2:41
+3,1:50,MIL,Bobby Portis,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,95,80,0.954,0.971,1:50
+3,1:00,PHI,Shake Milton,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,95,83,0.962,0.945,1:16
+4,10:26,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,99,91,0.852,0.863,10:26
+4,10:11,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,99,93,0.747,0.828,10:11
+4,10:00,PHI,Jalen McDaniels,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,99,94,0.797,0.788,10:11
+4,9:07,MIL,Joe Ingles,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,101,99,0.543,0.66,9:07
+4,8:56,PHI,Paul Reed,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,103,100,0.752,0.649,8:56
+4,8:33,PHI,James Harden,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,104,100,0.773,0.757,8:36
+4,7:46,PHI,Jalen McDaniels,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,104,102,0.756,0.67,7:51
+4,7:37,PHI,Jalen McDaniels,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,104,102,0.758,0.756,7:46
+4,6:23,PHI,Georges Niang,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,106,105,0.72,0.633,6:23
+4,5:55,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,110,108,0.738,0.631,5:55
+4,5:40,MIL,Brook Lopez,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,111,108,0.585,0.693,5:55
+4,4:36,MIL,Brook Lopez,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,116,110,0.776,0.847,4:52
+4,3:30,MIL,Khris Middleton,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,116,112,0.662,0.76,3:43
+4,3:19,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,116,114,0.8,0.704,3:30
+4,3:07,MIL,Khris Middleton,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,118,114,0.666,0.767,3:19
+4,2:36,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,120,116,0.672,0.776,2:53
+4,1:43,PHI,Jalen McDaniels,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,123,121,0.837,0.731,1:54
+4,25.0,MIL,Khris Middleton,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,125,127,0.097,0.203,25.0
+4,9.0,MIL,Grayson Allen,Personal Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,125,129,0.009,0.043,12.0
+4,6.0,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,125,131,0.041,0.013,9.0
+4,5.0,MIL,Grayson Allen,Personal Take Foul,Foul,Marat Kogut,Scott Foster,Tyler Ford,MIL,127,131,0.005,0.022,6.0

@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:25,PHX,Bismack Biyombo,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,0,0,0.595,0.556,11:29
+1,9:14,PHX,Torrey Craig,Offensive Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,2,7,0.428,0.403,9:21
+1,8:33,PHX,Chris Paul,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,6,10,0.472,0.426,8:33
+1,8:23,PHX,Bismack Biyombo,Offensive Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,7,10,0.479,0.451,8:33
+1,7:32,LAL,Austin Reaves,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,11,12,0.503,0.503,7:41
+1,6:34,PHX,Devin Booker,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,13,14,0.547,0.502,6:34
+1,5:02,LAL,Anthony Davis,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,17,16,0.512,0.552,5:09
+1,4:39,LAL,Troy Brown Jr.,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,17,18,0.459,0.497,4:40
+1,2:40,PHX,Jock Landale,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,19,19,0.593,0.551,2:51
+1,1:56,PHX,Cameron Payne,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,19,21,0.536,0.493,2:15
+1,1:24,PHX,T.J. Warren,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,20,21,0.543,0.521,1:24
+1,45.1,LAL,Dennis Schroder,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,23,21,0.536,0.579,52.0
+2,11:37,PHX,Jock Landale,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,25,26,0.541,0.488,11:37
+2,9:52,LAL,Rui Hachimura,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,28,26,0.578,0.578,9:52
+2,9:37,PHX,Terrence Ross,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,28,26,0.647,0.606,9:41
+2,8:15,PHX,Darius Bazley,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,33,31,0.647,0.606,8:32
+2,7:10,PHX,Chris Paul,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,37,34,0.678,0.633,7:13
+2,6:38,PHX,Chris Paul,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,39,36,0.679,0.633,6:52
+2,6:18,PHX,Josh Okogie,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,41,36,0.733,0.695,6:19
+2,5:41,LAL,Anthony Davis,Offensive Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,43,38,0.664,0.695,5:54
+2,4:53,PHX,Torrey Craig,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,45,44,0.621,0.573,4:59
+2,2:50,LAL,Jarred Vanderbilt,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,51,46,0.669,0.669,3:03
+2,1:46,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,53,46,0.685,0.73,2:04
+2,1:30,PHX,Devin Booker,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,53,46,0.777,0.761,1:43
+2,1:10,PHX,Josh Okogie,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,55,46,0.844,0.809,1:10
+2,44.1,LAL,Austin Reaves,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,58,46,0.822,0.856,49.0
+2,37.1,PHX,Jock Landale,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,58,48,0.867,0.835,44.1
+2,0.1,LAL,Troy Brown Jr.,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,59,50,0.747,0.792,3.0
+3,10:36,LAL,Troy Brown Jr.,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,62,57,0.629,0.681,10:41
+3,8:42,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,68,58,0.791,0.829,8:55
+3,8:20,PHX,Bismack Biyombo,Offensive Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,68,60,0.807,0.779,8:21
+3,6:34,LAL,Jarred Vanderbilt,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,74,64,0.843,0.843,6:40
+3,6:02,PHX,Jock Landale,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,74,64,0.898,0.843,6:34
+3,4:56,PHX,Torrey Craig,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,77,69,0.863,0.825,5:07
+3,1:21,LAL,Anthony Davis,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,86,77,0.807,0.85,1:37
+3,25.1,LAL,Wenyen Gabriel,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,88,84,0.641,0.722,25.1
+4,11:26,LAL,Wenyen Gabriel,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,90,85,0.643,0.725,11:31
+4,10:39,PHX,Landry Shamet,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,93,89,0.8,0.728,10:59
+4,9:55,LAL,Wenyen Gabriel,Offensive Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,95,91,0.691,0.739,10:15
+4,9:38,PHX,Cameron Payne,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,95,91,0.756,0.743,9:41
+4,8:08,PHX,Bismack Biyombo,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,97,94,0.796,0.71,8:28
+4,7:17,PHX,T.J. Warren,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,101,98,0.775,0.672,7:17
+4,6:03,PHX,Chris Paul,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,104,98,0.922,0.879,6:19
+4,5:08,LAL,Anthony Davis,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,109,100,0.938,0.943,5:08
+4,5:05,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,109,100,0.893,0.938,5:08
+4,4:52,PHX,Chris Paul,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,109,102,0.951,0.916,5:05
+4,3:57,PHX,Torrey Craig,Shooting Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,111,102,0.984,0.966,4:13
+4,1:46,PHX,Devin Booker,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,117,106,0.998,0.997,1:48
+4,1:13,PHX,Landry Shamet,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,118,108,0.998,0.997,1:16
+4,1:00,LAL,Dennis Schroder,Personal Foul,Foul,Marat Kogut,Scott Foster,Gediminas Petraitis,LAL,120,108,0.995,0.999,1:13

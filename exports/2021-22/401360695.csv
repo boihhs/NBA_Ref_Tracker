@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:20,WSH,Thomas Bryant,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,2,2,0.536,0.495,9:22
+1,9:03,IND,Tyrese Haliburton,Personal Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,4,2,0.523,0.522,9:20
+1,1:48,WSH,Corey Kispert,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,21,21,0.522,0.472,1:48
+1,15.1,WSH,Anthony Gill,Personal Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,24,23,0.573,0.53,37.3
+1,2.4,IND,Terry Taylor,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,25,23,0.487,0.532,12.7
+2,10:55,WSH,Ish Smith,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,25,25,0.546,0.503,10:58
+2,10:54,IND,Tristan Thompson,Loose Ball Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,26,25,0.503,0.502,10:54
+2,10:14,IND,Buddy Hield,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,29,25,0.548,0.59,10:27
+2,9:25,WSH,Ish Smith,Personal Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,31,27,0.621,0.623,9:39
+2,6:08,IND,Lance Stephenson,Personal Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,43,32,0.792,0.79,6:22
+2,5:54,IND,Jalen Smith,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,43,32,0.755,0.792,5:59
+2,5:46,WSH,Deni Avdija,Personal Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,43,34,0.768,0.767,5:54
+2,5:35,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,45,34,0.83,0.793,5:35
+2,3:09,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,51,39,0.875,0.847,3:12
+2,2:37,IND,Duane Washington Jr.,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,52,39,0.817,0.848,2:42
+2,1:01,WSH,Anthony Gill,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,56,45,0.854,0.812,1:01
+2,26.3,WSH,Raul Neto,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,56,48,0.785,0.763,26.3
+3,9:32,IND,Terry Taylor,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,63,54,0.738,0.784,9:53
+3,8:42,WSH,Corey Kispert,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,65,56,0.85,0.815,8:47
+3,8:06,WSH,Anthony Gill,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,66,56,0.858,0.843,8:06
+3,6:03,IND,Lance Stephenson,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,70,61,0.759,0.803,6:10
+3,13.2,IND,Duane Washington Jr.,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,84,74,0.837,0.876,27.9
+4,11:17,WSH,Corey Kispert,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,84,76,0.907,0.866,11:20
+4,9:05,WSH,Ish Smith,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,86,82,0.816,0.74,9:21
+4,7:45,WSH,Ish Smith,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,90,87,0.765,0.711,7:46
+4,7:03,IND,Tristan Thompson,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,93,87,0.739,0.814,7:17
+4,6:29,IND,Tristan Thompson,Personal Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,93,89,0.713,0.727,6:29
+4,3:53,IND,Terry Taylor,Personal Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,99,94,0.796,0.816,3:53
+4,2:33,IND,Tristan Thompson,Loose Ball Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,101,94,0.85,0.926,2:33
+4,1:04,WSH,Deni Avdija,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,105,101,0.915,0.803,1:04
+4,11.7,WSH,Deni Avdija,Personal Take Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,107,103,0.987,0.947,15.9
+4,9.0,WSH,Kentavious Caldwell-Pope,Personal Take Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,109,106,0.976,0.92,10.6
+4,5.0,WSH,Kyle Kuzma,Personal Take Foul,Foul,Zach Zarba,Brett Nansel,Brandon Adair,IND,111,108,0.986,0.958,5.3

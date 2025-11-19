@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:14,LAL,LeBron James,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,9,8,0.354,0.388,9:36
+1,7:57,LAL,Lonnie Walker IV,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,14,9,0.457,0.495,8:12
+1,7:11,LAL,Dennis Schroder,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,16,13,0.409,0.447,7:13
+1,5:06,LAL,Anthony Davis,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,20,19,0.383,0.428,5:06
+1,4:55,DEN,Aaron Gordon,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,20,20,0.443,0.402,5:06
+1,4:21,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,24,22,0.499,0.459,4:27
+1,3:56,LAL,Lonnie Walker IV,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,25,24,0.386,0.434,3:56
+1,2:22,DEN,Christian Braun,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,27,25,0.505,0.466,2:24
+1,2:11,LAL,Max Christie,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,27,27,0.361,0.41,2:11
+1,1:32,DEN,DeAndre Jordan,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,27,28,0.428,0.385,1:36
+1,11.0,DEN,Bones Hyland,Technical Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,32,32,0.437,0.416,11.0
+2,11:46,LAL,Thomas Bryant,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,33,34,0.341,0.39,11:46
+2,10:32,DEN,Davon Reed,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,35,34,0.493,0.452,10:35
+2,9:39,LAL,Austin Reaves,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,40,36,0.468,0.51,9:57
+2,8:46,LAL,Dennis Schroder,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,46,37,0.623,0.666,8:59
+2,8:07,DEN,Davon Reed,Personal Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,46,41,0.58,0.58,8:19
+2,7:21,LAL,Anthony Davis,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,46,44,0.415,0.46,7:36
+2,6:49,DEN,Bruce Brown,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,46,47,0.447,0.4,6:53
+2,5:45,LAL,Austin Reaves,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,48,51,0.275,0.316,5:47
+2,2:30,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,53,57,0.362,0.318,2:32
+2,1:29,DEN,Aaron Gordon,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,57,62,0.313,0.259,1:29
+3,11:15,DEN,Nikola Jokic,Offensive Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,64,67,0.349,0.317,11:25
+3,8:21,DEN,Nikola Jokic,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,66,76,0.184,0.149,8:39
+3,6:34,DEN,Nikola Jokic,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,72,79,0.264,0.218,6:41
+3,6:21,LAL,Austin Reaves,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,73,79,0.176,0.215,6:31
+3,4:55,LAL,Thomas Bryant,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,77,83,0.169,0.211,5:14
+3,4:07,DEN,Kentavious Caldwell-Pope,Loose Ball Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,77,84,0.207,0.209,4:07
+3,3:47,DEN,Davon Reed,Flagrant Foul Type 1,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,77,84,0.199,0.207,4:07
+3,3:27,LAL,Russell Westbrook,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,79,84,0.19,0.237,3:34
+3,2:28,LAL,Thomas Bryant,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,83,87,0.242,0.309,2:28
+3,1:07,LAL,LeBron James,Offensive Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,88,88,0.442,0.442,1:16
+4,10:52,LAL,Russell Westbrook,Personal Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,96,88,0.811,0.822,11:03
+4,8:17,LAL,Patrick Beverley,Personal Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,104,93,0.926,0.931,8:22
+4,4:57,LAL,Thomas Bryant,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,114,99,0.988,0.995,4:57
+4,2:26,DEN,Aaron Gordon,Personal Take Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,122,102,0.999,0.999,2:32
+4,2:15,DEN,Zeke Nnaji,Shooting Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,122,102,0.999,0.999,2:26
+4,1:13,LAL,Dennis Schroder,Personal Take Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,126,104,0.999,0.999,1:14
+4,30.1,LAL,Dennis Schroder,Personal Foul,Foul,Josh Tiven,Eric Dalen,John Butler,LAL,126,107,0.999,0.999,33.1

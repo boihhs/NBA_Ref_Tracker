@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:30,ORL,Jalen Suggs,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,3,0,0.684,0.684,10:40
+1,8:33,HOU,Jabari Smith Jr.,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,3,6,0.558,0.559,8:37
+1,8:08,ORL,Jalen Suggs,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,6,6,0.571,0.609,8:26
+1,5:41,HOU,Alperen Sengun,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,16,12,0.753,0.723,5:59
+1,4:16,HOU,Jock Landale,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,20,12,0.828,0.802,4:32
+1,2:48,ORL,Paolo Banchero,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,25,15,0.791,0.839,2:57
+1,2:05,ORL,Paolo Banchero,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,27,18,0.786,0.82,2:05
+2,10:42,ORL,Moritz Wagner,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,31,22,0.803,0.805,10:50
+2,9:42,ORL,Joe Ingles,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,33,24,0.804,0.804,9:43
+2,9:36,ORL,Jonathan Isaac,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,33,24,0.805,0.804,9:42
+2,9:02,ORL,Cole Anthony,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,33,24,0.774,0.804,9:20
+2,8:54,HOU,Reggie Bullock Jr.,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,33,25,0.807,0.808,9:02
+2,7:03,HOU,Alperen Sengun,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,40,30,0.845,0.846,7:17
+2,6:40,ORL,Joe Ingles,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,42,30,0.836,0.862,6:57
+2,3:46,ORL,Joe Ingles,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,46,36,0.8,0.831,3:58
+2,3:30,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,48,37,0.881,0.851,3:30
+2,3:15,HOU,Dillon Brooks,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,49,37,0.908,0.886,3:18
+2,2:06,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,51,37,0.926,0.918,2:06
+3,9:34,ORL,Franz Wagner,Offensive Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,60,54,0.747,0.777,9:50
+3,8:46,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,63,54,0.789,0.829,8:57
+3,6:46,HOU,Alperen Sengun,Offensive Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,63,62,0.608,0.571,6:56
+3,6:25,HOU,Dillon Brooks,Loose Ball Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,65,62,0.686,0.687,6:25
+3,5:59,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,65,62,0.647,0.648,5:59
+3,5:50,HOU,Jalen Green,Offensive Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,65,62,0.687,0.647,5:59
+3,5:39,HOU,Jabari Smith Jr.,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,65,62,0.685,0.687,5:50
+3,5:32,HOU,Dillon Brooks,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,65,62,0.685,0.685,5:39
+3,4:36,ORL,Wendell Carter Jr.,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,69,66,0.647,0.648,4:36
+3,2:28,HOU,Jae'Sean Tate,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,73,66,0.869,0.831,2:40
+3,2:01,HOU,Jalen Green,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,77,69,0.878,0.832,2:01
+3,1:08,HOU,Jeff Green,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,80,69,0.948,0.858,2:01
+3,59.1,ORL,Cole Anthony,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,82,69,0.917,0.941,1:08
+3,45.1,HOU,Dillon Brooks,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,84,69,0.979,0.965,45.1
+4,12:00,ORL,Jonathan Isaac,Technical Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,87,69,0.984,0.988,12:00
+4,11:12,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,90,70,0.998,0.996,11:14
+4,10:49,ORL,Moritz Wagner,Offensive Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,91,70,0.996,0.997,10:54
+4,9:39,ORL,Moritz Wagner,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,91,72,0.989,0.994,9:50
+4,8:54,HOU,Alperen Sengun,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,91,73,0.997,0.995,9:06
+4,7:45,ORL,Moritz Wagner,Offensive Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,93,75,0.995,0.997,7:57
+4,6:40,HOU,Jeff Green,Offensive Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,95,77,0.998,0.998,6:49
+4,6:27,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,95,77,0.998,0.998,6:27
+4,4:02,HOU,Amen Thompson,Shooting Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,106,80,0.999,0.999,4:02
+4,3:44,ORL,Goga Bitadze,Offensive Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,107,80,0.999,0.999,3:49
+4,3:10,HOU,Amen Thompson,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,107,82,0.999,0.999,3:12
+4,2:22,HOU,Jermaine Samuels Jr.,Personal Foul,Foul,Tom Washington,Gediminas Petraitis,Tyler Ford,ORL,110,84,0.999,0.999,2:22

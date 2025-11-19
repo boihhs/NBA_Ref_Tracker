@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,POR,Keon Johnson,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,0,0,0.965,0.959,10:57
+1,8:07,POR,Brandon Williams,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,7,2,0.971,0.971,8:08
+1,7:55,POR,Drew Eubanks,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,9,2,0.978,0.973,7:55
+1,6:56,DAL,Jalen Brunson,Loose Ball Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,11,4,0.972,0.972,6:56
+1,5:57,POR,Ben McLemore,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,15,4,0.984,0.981,5:57
+1,5:41,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,16,4,0.979,0.983,5:57
+1,1:57,POR,Didi Louzada,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,24,11,0.986,0.984,2:08
+1,1:30,POR,Keon Johnson,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,26,11,0.989,0.987,1:38
+2,12:00,DAL,Luka Doncic,Technical Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,36,13,0.994,0.994,12:00
+2,10:22,DAL,Frank Ntilikina,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,41,18,0.993,0.995,10:34
+2,9:42,POR,Reggie Perry,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,41,21,0.994,0.993,9:55
+2,9:18,DAL,Sterling Brown,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,43,23,0.99,0.993,9:18
+2,8:19,POR,Reggie Perry,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,46,26,0.994,0.992,8:25
+2,7:02,DAL,Davis Bertans,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,48,28,0.991,0.991,7:16
+2,6:59,DAL,Sterling Brown,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,48,28,0.989,0.991,7:02
+2,5:36,POR,Greg Brown III,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,50,32,0.991,0.989,5:57
+2,5:20,POR,Didi Louzada,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,52,32,0.994,0.992,5:25
+2,3:34,POR,Keon Johnson,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,56,36,0.994,0.992,3:50
+2,1:29,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,64,39,0.995,0.996,1:39
+2,5.6,POR,Keon Johnson,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,67,44,0.997,0.995,23.4
+3,11:16,POR,Brandon Williams,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,68,44,0.997,0.997,11:22
+3,10:34,DAL,Dorian Finney-Smith,Personal Take Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,71,46,0.997,0.997,10:36
+3,10:13,POR,Elijah Hughes,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,71,46,0.998,0.997,10:19
+3,8:12,POR,Ben McLemore,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,77,46,0.999,0.999,8:18
+3,7:26,POR,Drew Eubanks,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,79,46,0.999,0.999,7:43
+3,6:55,DAL,Dwight Powell,Offensive Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,79,49,0.999,0.999,7:06
+3,3:42,POR,Brandon Williams,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,91,59,0.999,0.999,4:01
+3,2:07,POR,Reggie Perry,Loose Ball Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,96,62,0.999,0.999,2:07
+3,1:12,POR,Elijah Hughes,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,100,67,0.999,0.999,1:12
+3,33.6,DAL,Theo Pinson,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,104,67,0.999,0.999,37.8
+4,11:30,DAL,Trey Burke,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,107,69,0.999,0.999,11:43
+4,9:59,DAL,Theo Pinson,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,111,69,0.999,0.999,10:12
+4,9:22,DAL,Trey Burke,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,113,69,0.999,0.999,9:32
+4,9:02,POR,Reggie Perry,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,113,69,0.999,0.999,9:08
+4,7:42,DAL,Boban Marjanovic,Loose Ball Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,117,69,0.999,0.999,7:42
+4,9:46,POR,Keon Johnson,Clear Path Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,113,69,0.999,0.999,6:32
+4,4:41,DAL,Boban Marjanovic,Offensive Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,121,71,0.999,0.999,4:57
+4,4:02,POR,Drew Eubanks,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,121,71,0.999,0.999,4:16
+4,3:05,DAL,Boban Marjanovic,Shooting Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,125,71,0.999,0.999,3:17
+4,2:07,POR,Didi Louzada,Loose Ball Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,125,76,0.999,0.999,2:07
+4,24.0,DAL,Sterling Brown,Personal Foul,Foul,Tom Washington,Tony Brothers,Leon Wood,DAL,128,76,0.999,0.999,35.5

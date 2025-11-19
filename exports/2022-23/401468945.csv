@@ -1,0 +1,56 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:54,ORL,Gary Harris,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,4,2,0.724,0.71,9:58
+1,7:16,MIN,Kyle Anderson,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,11,8,0.705,0.704,7:17
+1,5:53,ORL,Gary Harris,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,15,13,0.701,0.701,5:53
+1,5:22,MIN,D'Angelo Russell,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,17,13,0.722,0.721,5:30
+1,2:22,ORL,Paolo Banchero,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,25,17,0.844,0.818,2:32
+1,2:11,MIN,Nathan Knight,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,27,17,0.808,0.835,2:22
+1,1:54,MIN,Taurean Prince,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,27,19,0.769,0.799,2:03
+1,55.0,ORL,Moritz Wagner,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,32,23,0.848,0.816,55.0
+1,44.1,MIN,Naz Reid,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,32,23,0.788,0.817,52.0
+1,18.0,ORL,Jalen Suggs,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,32,27,0.79,0.756,31.0
+2,10:36,MIN,Rudy Gobert,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,37,29,0.798,0.798,10:36
+2,10:17,MIN,Austin Rivers,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,37,31,0.74,0.78,10:17
+2,9:48,MIN,Rudy Gobert,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,37,31,0.74,0.757,9:48
+2,9:36,ORL,Cole Anthony,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,37,33,0.767,0.736,9:48
+2,8:12,ORL,Cole Anthony,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,41,39,0.681,0.681,8:22
+2,5:28,ORL,Franz Wagner,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,46,45,0.645,0.647,5:44
+2,3:43,ORL,Franz Wagner,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,46,52,0.439,0.415,3:44
+2,3:03,MIN,Anthony Edwards,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,48,54,0.329,0.377,3:06
+2,3:02,MIN,Naz Reid,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,48,55,0.299,0.341,3:02
+2,2:40,ORL,Gary Harris,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,48,56,0.392,0.343,3:02
+2,1:18,ORL,Mo Bamba,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,54,59,0.461,0.397,1:18
+2,1:08,MIN,Jaden McDaniels,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,55,59,0.38,0.43,1:18
+2,29.0,MIN,Jaylen Nowell,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,57,60,0.407,0.46,46.1
+3,8:57,ORL,Paolo Banchero,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,59,72,0.187,0.148,9:09
+3,7:28,ORL,Mo Bamba,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,61,72,0.231,0.187,7:30
+3,7:09,ORL,Mo Bamba,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,62,72,0.212,0.211,7:09
+3,6:22,ORL,Gary Harris,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,62,74,0.19,0.212,7:09
+3,6:16,ORL,Jonathan Isaac,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,62,74,0.189,0.151,6:22
+3,6:07,MIN,Matt Ryan,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,63,74,0.147,0.146,6:16
+3,5:59,MIN,Anthony Edwards,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,63,74,0.113,0.147,6:07
+3,4:13,MIN,Naz Reid,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,68,78,0.137,0.181,4:13
+3,1:32,MIN,Austin Rivers,Technical Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,73,83,0.107,0.124,1:32
+3,1:32,MIN,Jaden McDaniels,Technical Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,73,83,0.107,0.151,1:32
+3,1:32,ORL,Jalen Suggs,Technical Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,73,83,0.176,0.151,1:32
+3,1:32,ORL,Mo Bamba,Technical Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,73,83,0.176,0.124,1:32
+3,1:32,MIN,Taurean Prince,Technical Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,73,83,0.107,0.124,1:32
+3,1:20,MIN,Anthony Edwards,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,73,84,0.071,0.1,1:20
+3,1:01,ORL,Cole Anthony,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,73,86,0.111,0.079,1:09
+3,3.1,MIN,Nathan Knight,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,75,88,0.035,0.054,7.1
+4,9:38,ORL,Bol Bol,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,77,98,0.006,0.004,9:53
+4,9:37,ORL,Bol Bol,Loose Ball Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,78,98,0.005,0.004,9:37
+4,7:34,ORL,Cole Anthony,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,85,104,0.004,0.003,7:47
+4,7:03,ORL,Kevon Harris,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,88,104,0.021,0.01,7:08
+4,6:10,MIN,Bryn Forbes,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,94,107,0.017,0.019,6:17
+4,5:34,MIN,Matt Ryan,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,97,109,0.015,0.032,5:34
+4,4:33,ORL,Franz Wagner,Offensive Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,100,113,0.014,0.015,4:40
+4,3:56,MIN,Bryn Forbes,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,102,113,0.007,0.02,4:20
+4,3:29,MIN,Luka Garza,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,102,115,0.001,0.005,3:45
+4,3:25,MIN,Luka Garza,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,102,115,0.001,0.001,3:29
+4,2:50,MIN,Matt Ryan,Defensive 3-Seconds Technical,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,105,116,0.009,0.01,3:00
+4,1:21,ORL,Cole Anthony,Shooting Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,111,121,0.014,0.003,1:21
+4,42.1,MIN,Luka Garza,Personal Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,114,123,0.001,0.002,42.1
+4,31.1,MIN,Matt Ryan,Personal Take Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,117,125,0.001,0.004,34.2
+4,17.1,MIN,Jaylen Nowell,Personal Take Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,120,126,0.003,0.013,19.1
+4,9.1,MIN,Luka Garza,Personal Take Foul,Foul,James Williams,J.T. Orr,Mitchell Ervin,MIN,120,126,0.001,0.004,9.1

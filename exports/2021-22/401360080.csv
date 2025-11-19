@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:22,BOS,Jaylen Brown,Personal Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,0,0,0.76,0.76,11:22
+1,10:29,BOS,Jayson Tatum,Personal Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,0,2,0.715,0.715,10:32
+1,9:08,HOU,Christian Wood,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,2,2,0.793,0.768,9:16
+1,8:21,BOS,Robert Williams III,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,6,4,0.782,0.8,8:21
+1,8:06,HOU,Jalen Green,Personal Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,6,5,0.781,0.782,8:21
+1,7:49,BOS,Al Horford,Personal Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,8,5,0.771,0.798,8:01
+1,3:21,BOS,Al Horford,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,15,16,0.66,0.696,3:28
+1,3:15,HOU,Garrison Mathews,Personal Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,15,17,0.696,0.695,3:21
+1,2:48,BOS,Grant Williams,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,17,17,0.68,0.718,3:10
+1,2:06,HOU,Alperen Sengun,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,17,17,0.767,0.735,2:12
+2,10:40,HOU,Alperen Sengun,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,22,23,0.729,0.695,10:42
+2,9:28,BOS,Jaylen Brown,Personal Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,28,26,0.736,0.738,9:46
+2,9:05,BOS,Dennis Schroder,Offensive Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,28,28,0.683,0.712,9:15
+2,7:46,HOU,Alperen Sengun,Loose Ball Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,30,34,0.592,0.559,7:46
+2,6:56,HOU,Armoni Brooks,Personal Take Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,32,34,0.641,0.643,6:56
+2,5:40,HOU,Christian Wood,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,36,34,0.745,0.718,5:40
+2,4:33,BOS,Jaylen Brown,Personal Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,42,36,0.807,0.808,4:46
+2,4:04,HOU,Daniel Theis,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,42,36,0.854,0.827,4:21
+2,3:46,BOS,Marcus Smart,Offensive Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,44,39,0.784,0.807,3:54
+2,3:38,BOS,Grant Williams,Flagrant Foul Type 1,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,44,39,0.795,0.784,3:46
+2,3:38,HOU,Christian Wood,Technical Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,44,39,0.822,0.795,3:38
+2,2:54,BOS,Marcus Smart,Offensive Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,45,39,0.804,0.826,2:55
+2,2:07,HOU,Jae'Sean Tate,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,45,39,0.814,0.825,2:12
+2,1:55,HOU,Daniel Theis,Offensive Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,47,39,0.862,0.826,3:38
+2,1:47,HOU,Jalen Green,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,47,39,0.887,0.862,1:55
+2,1:31,BOS,Dennis Schroder,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,49,39,0.855,0.88,1:47
+3,11:48,HOU,Daniel Theis,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,52,47,0.819,0.8,11:17
+3,10:19,BOS,Jayson Tatum,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,54,47,0.835,0.801,11:04
+3,7:49,HOU,Daniel Theis,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,62,50,0.946,0.93,7:54
+3,4:04,BOS,Marcus Smart,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,76,53,0.993,0.995,4:04
+3,1:50,BOS,Romeo Langford,Personal Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,83,60,0.994,0.996,2:02
+3,9.8,HOU,Alperen Sengun,Loose Ball Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,86,63,0.998,0.998,10.2
+4,9:48,BOS,Enes Freedom,Offensive Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,90,70,0.997,0.997,9:59
+4,9:15,BOS,Jayson Tatum,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,90,72,0.988,0.994,9:18
+4,8:36,HOU,D.J. Augustin,Personal Take Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,92,73,0.998,0.997,8:36
+4,7:17,HOU,D.J. Augustin,Personal Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,96,75,0.999,0.999,7:22
+4,6:50,HOU,KJ Martin,Loose Ball Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,99,75,0.999,0.999,6:50
+4,5:26,BOS,Enes Freedom,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,104,75,0.999,0.999,5:36
+4,5:05,HOU,Danuel House Jr.,Personal Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,104,77,0.999,0.999,5:26
+4,3:59,BOS,Aaron Nesmith,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,104,79,0.999,0.999,3:59
+4,3:14,HOU,Alperen Sengun,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,106,81,0.999,0.999,3:14
+4,2:14,BOS,Enes Freedom,Personal Take Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,108,84,0.999,0.999,2:16
+4,47.3,BOS,Sam Hauser,Shooting Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,108,84,0.999,0.999,51.3
+4,46.9,BOS,Aaron Nesmith,Loose Ball Foul,Foul,Brian Forte,Michael Smith,Matt Myers,BOS,108,85,0.999,0.999,46.9

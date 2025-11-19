@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:40,BOS,Jayson Tatum,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,4,4,0.489,0.489,9:49
+1,6:00,TOR,Pascal Siakam,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,8,10,0.5,0.46,6:08
+1,1:50,BOS,Malcolm Brogdon,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,20,20,0.443,0.485,1:57
+2,11:48,TOR,OG Anunoby,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,27,22,0.656,0.643,0.0
+2,11:43,TOR,Chris Boucher,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,27,22,0.693,0.656,11:48
+2,10:11,BOS,Grant Williams,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,34,22,0.804,0.802,10:11
+2,8:03,BOS,Jaylen Brown,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,37,26,0.754,0.79,8:05
+2,7:30,BOS,Al Horford,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,39,26,0.834,0.832,7:35
+2,6:40,TOR,Fred VanVleet,Technical Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,42,31,0.832,0.818,6:41
+2,5:40,BOS,Derrick White,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,46,33,0.81,0.84,5:55
+2,5:01,BOS,Marcus Smart,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,48,33,0.853,0.88,5:13
+2,4:15,TOR,Khem Birch,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,48,37,0.856,0.827,4:32
+2,3:55,TOR,Fred VanVleet,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,49,37,0.876,0.847,3:59
+2,3:38,BOS,Al Horford,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,50,37,0.818,0.847,3:55
+2,3:22,TOR,Precious Achiuwa,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,50,39,0.86,0.831,3:38
+2,2:28,TOR,Fred VanVleet,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,52,44,0.8,0.76,2:48
+2,1:15,BOS,Malcolm Brogdon,Loose Ball Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,56,44,0.806,0.841,1:15
+2,58.7,TOR,Fred VanVleet,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,56,46,0.854,0.819,1:15
+3,10:34,BOS,Marcus Smart,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,65,49,0.922,0.922,10:46
+3,10:05,TOR,OG Anunoby,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,65,51,0.93,0.908,10:23
+3,9:04,BOS,Grant Williams,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,69,53,0.908,0.929,9:12
+3,6:29,BOS,Grant Williams,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,77,60,0.935,0.952,6:47
+3,32.4,BOS,Payton Pritchard,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,87,70,0.967,0.978,41.9
+4,10:37,BOS,Grant Williams,Offensive Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,93,76,0.985,0.989,10:53
+4,9:41,TOR,Christian Koloko,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,93,78,0.984,0.983,9:56
+4,8:34,TOR,Chris Boucher,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,93,83,0.943,0.937,8:49
+4,7:05,BOS,Mfiondu Kabengele,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,96,87,0.886,0.937,7:05
+4,6:23,BOS,Brodric Thomas,Loose Ball Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,98,87,0.953,0.958,6:23
+4,5:07,TOR,Josh Jackson,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,100,93,0.918,0.909,5:18
+4,4:42,BOS,Sam Hauser,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,100,93,0.807,0.885,4:53
+4,3:52,BOS,Brodric Thomas,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,104,97,0.82,0.893,3:59
+4,2:15,BOS,Brodric Thomas,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,104,102,0.472,0.609,2:18
+4,1:11,TOR,D.J. Wilson,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,106,108,0.5,0.318,1:12
+4,24.5,TOR,Josh Jackson,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,109,108,0.84,0.684,24.8
+5,1:32,TOR,Josh Jackson,Loose Ball Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,114,121,0.121,0.048,1:33
+5,41.5,BOS,Sam Hauser,Shooting Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,117,121,0.043,0.12,53.3
+5,28.0,BOS,Payton Pritchard,Personal Take Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,117,121,0.032,0.08,29.0
+5,12.7,BOS,Brodric Thomas,Personal Foul,Foul,Matt Boland,Josh Tiven,Intae Hwang,BOS,117,123,0.001,0.008,14.8

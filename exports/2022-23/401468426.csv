@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:14,LAC,Reggie Jackson,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,4,6,0.748,0.72,9:36
+1,6:42,GS,Andrew Wiggins,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,13,12,0.748,0.747,6:50
+1,6:16,GS,Kevon Looney,Loose Ball Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,13,14,0.704,0.704,6:16
+1,5:49,LAC,Amir Coffey,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,13,16,0.712,0.679,6:06
+1,5:41,GS,Kevon Looney,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,15,16,0.666,0.701,5:49
+1,4:06,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,22,20,0.803,0.776,4:15
+1,4:00,LAC,Reggie Jackson,Offensive Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,23,20,0.795,0.776,4:06
+1,1:05,GS,Donte DiVincenzo,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,30,28,0.71,0.745,1:11
+1,22.1,LAC,Norman Powell,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,32,29,0.81,0.781,26.3
+2,10:12,GS,Andrew Wiggins,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,37,31,0.816,0.815,10:22
+2,9:18,GS,Donte DiVincenzo,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,40,31,0.84,0.864,9:21
+2,8:23,LAC,Reggie Jackson,Loose Ball Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,42,32,0.892,0.893,8:23
+2,7:26,LAC,Amir Coffey,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,42,32,0.909,0.892,7:44
+2,5:33,GS,Draymond Green,Offensive Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,46,39,0.826,0.845,5:36
+2,5:00,GS,Anthony Lamb,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,48,39,0.861,0.86,5:12
+2,4:51,GS,Anthony Lamb,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,48,39,0.835,0.861,5:00
+2,4:36,GS,Jordan Poole,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,48,41,0.793,0.825,4:42
+2,3:57,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,52,43,0.886,0.861,3:57
+2,2:13,GS,Klay Thompson,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,59,45,0.912,0.928,2:28
+2,1.0,GS,Andrew Wiggins,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,66,46,0.971,0.975,14.8
+3,10:46,GS,Kevon Looney,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,68,52,0.953,0.953,10:59
+3,10:30,LAC,Ivica Zubac,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,68,52,0.97,0.961,10:34
+3,9:25,GS,Kevon Looney,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,72,55,0.951,0.963,9:45
+3,7:00,GS,Draymond Green,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,79,65,0.943,0.942,7:14
+3,5:08,GS,Jordan Poole,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,84,68,0.952,0.965,5:16
+3,5:07,GS,JaMychal Green,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,84,68,0.952,0.952,5:08
+3,3:25,GS,JaMychal Green,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,87,73,0.935,0.953,3:40
+3,2:56,GS,JaMychal Green,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,87,77,0.882,0.916,2:56
+3,2:06,GS,Anthony Lamb,Loose Ball Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,90,78,0.909,0.934,2:06
+3,1:45,GS,Jonathan Kuminga,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,93,78,0.954,0.967,1:56
+3,5.8,LAC,Norman Powell,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,98,82,0.99,0.984,14.1
+4,11:50,LAC,Reggie Jackson,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,98,82,0.987,0.982,12:00
+4,8:46,GS,Draymond Green,Offensive Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,108,84,0.999,0.999,8:56
+4,8:12,GS,Jordan Poole,Offensive Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,108,87,0.998,0.999,8:20
+4,4:21,GS,Kevon Looney,Personal Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,119,92,0.999,0.999,4:29
+4,4:06,LAC,Moses Brown,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,121,92,0.999,0.999,4:06
+4,3:15,GS,Anthony Lamb,Shooting Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,121,94,0.999,0.999,3:23
+4,2:49,GS,Jonathan Kuminga,Loose Ball Foul,Foul,Marc Davis,Leon Wood,Tre Maddox,GS,124,96,0.999,0.999,2:49

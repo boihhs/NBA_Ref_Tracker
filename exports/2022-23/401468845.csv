@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:21,LAL,Thomas Bryant,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,0,4,0.224,0.259,9:21
+1,8:31,MEM,Ja Morant,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,3,7,0.29,0.26,8:44
+1,5:55,LAL,LeBron James,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,9,9,0.333,0.332,5:58
+1,5:01,LAL,Wenyen Gabriel,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,14,11,0.392,0.439,5:01
+1,4:32,LAL,Kendrick Nunn,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,16,11,0.448,0.469,4:32
+1,1:01,MEM,Desmond Bane,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,26,21,0.561,0.518,1:10
+1,4.1,MEM,Brandon Clarke,Offensive Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,26,23,0.457,0.435,7.1
+2,11:41,MEM,John Konchar,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,26,23,0.51,0.467,11:43
+2,10:06,LAL,Wenyen Gabriel,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,27,28,0.293,0.329,10:08
+2,9:57,MEM,John Konchar,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,27,30,0.305,0.306,10:06
+2,8:17,MEM,Brandon Clarke,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,32,36,0.321,0.284,8:28
+2,8:04,LAL,Patrick Beverley,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,34,36,0.309,0.309,8:17
+2,7:45,MEM,Brandon Clarke,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,34,36,0.38,0.336,7:54
+2,6:29,LAL,LeBron James,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,38,41,0.249,0.284,6:42
+2,4:27,LAL,Thomas Bryant,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,42,43,0.302,0.346,4:31
+2,3:27,MEM,Ziaire Williams,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,42,47,0.305,0.266,3:30
+2,2:49,LAL,Dennis Schroder,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,44,47,0.251,0.29,2:52
+2,2:13,MEM,Steven Adams,Loose Ball Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,44,49,0.307,0.266,2:13
+3,10:43,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,52,55,0.379,0.327,10:58
+3,10:06,LAL,Dennis Schroder,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,54,59,0.218,0.264,10:06
+3,8:40,MEM,Ja Morant,Offensive Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,61,62,0.403,0.366,8:43
+3,8:30,MEM,Ja Morant,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,61,62,0.459,0.403,8:40
+3,8:09,MEM,Dillon Brooks,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,63,64,0.404,0.404,8:15
+3,7:16,LAL,Thomas Bryant,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,65,66,0.316,0.368,7:24
+3,6:49,LAL,Thomas Bryant,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,65,68,0.276,0.335,6:49
+3,6:20,LAL,Patrick Beverley,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,65,70,0.19,0.234,6:20
+3,5:21,LAL,LeBron James,Loose Ball Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,67,71,0.216,0.266,5:21
+3,4:32,MEM,Steven Adams,Loose Ball Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,67,75,0.216,0.171,4:32
+3,3:28,LAL,Juan Toscano-Anderson,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,70,77,0.129,0.166,3:33
+3,3:22,MEM,Ziaire Williams,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,70,78,0.213,0.165,3:25
+3,2:57,MEM,Santi Aldama,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,70,81,0.129,0.098,3:00
+3,1:25,MEM,Ziaire Williams,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,74,85,0.12,0.09,1:36
+3,45.0,MEM,Ziaire Williams,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,75,88,0.065,0.053,45.0
+3,30.1,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,77,88,0.114,0.084,31.1
+3,10.1,LAL,Russell Westbrook,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,79,88,0.072,0.099,30.1
+4,11:31,LAL,Thomas Bryant,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,81,89,0.079,0.115,11:39
+4,10:31,LAL,Troy Brown Jr.,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,87,92,0.161,0.197,10:31
+4,10:24,MEM,Dillon Brooks,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,87,94,0.167,0.158,10:31
+4,10:01,MEM,Dillon Brooks,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,87,94,0.23,0.16,10:06
+4,9:46,LAL,LeBron James,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,88,94,0.151,0.163,10:01
+4,8:58,MEM,John Konchar,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,92,98,0.235,0.151,8:58
+4,8:35,LAL,Wenyen Gabriel,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,93,98,0.134,0.191,8:36
+4,8:15,MEM,Dillon Brooks,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,93,98,0.307,0.228,8:32
+4,6:19,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,95,103,0.151,0.102,6:22
+4,4:44,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,100,105,0.195,0.15,4:49
+4,3:33,LAL,Russell Westbrook,Personal Take Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,104,107,0.153,0.233,3:40
+4,3:07,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,106,112,0.157,0.083,3:07
+4,3:04,LAL,Kendrick Nunn,Personal Take Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,107,112,0.069,0.12,3:07
+4,2:16,LAL,Kendrick Nunn,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,110,114,0.082,0.147,2:18
+4,1:38,MEM,Dillon Brooks,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,110,116,0.165,0.09,1:40
+4,1:09,MEM,Brandon Clarke,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,111,116,0.225,0.126,1:15
+4,1:04,LAL,Kendrick Nunn,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,113,116,0.094,0.172,1:09
+4,17.1,LAL,Russell Westbrook,Personal Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,117,118,0.142,0.312,23.1
+4,13.0,MEM,Ziaire Williams,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,117,120,0.383,0.192,17.1
+4,7.1,MEM,Desmond Bane,Shooting Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,121,120,0.855,0.651,7.1
+4,1.2,LAL,Wenyen Gabriel,Loose Ball Foul,Foul,Zach Zarba,Brian Forte,Matt Myers,LAL,122,120,0.673,0.943,1.2

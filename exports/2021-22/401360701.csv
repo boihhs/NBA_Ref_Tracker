@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:50,HOU,Dennis Schroder,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,2,4,0.886,0.887,11:04
+1,10:21,HOU,Alperen Sengun,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,5,4,0.923,0.913,10:28
+1,10:05,PHX,Jae Crowder,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,7,4,0.907,0.92,10:21
+1,9:54,HOU,Eric Gordon,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,7,6,0.909,0.91,10:05
+1,9:35,PHX,Jae Crowder,Defensive 3-Seconds Technical,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,9,6,0.919,0.918,9:50
+1,9:27,PHX,Deandre Ayton,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,9,6,0.904,0.917,9:35
+1,8:47,HOU,Jalen Green,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,9,8,0.918,0.906,8:51
+1,8:23,HOU,Jalen Green,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,9,10,0.899,0.884,8:28
+1,7:23,HOU,Jae'Sean Tate,Personal Take Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,11,12,0.895,0.879,7:24
+1,6:41,PHX,Jae Crowder,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,15,15,0.858,0.877,6:50
+1,5:08,PHX,Jae Crowder,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,15,19,0.798,0.809,5:08
+1,4:39,HOU,Jae'Sean Tate,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,15,21,0.815,0.79,4:45
+1,2:56,HOU,Jalen Green,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,22,24,0.862,0.845,3:22
+1,1:53,PHX,Elfrid Payton,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,25,24,0.84,0.864,2:02
+1,1:21,PHX,JaVale McGee,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,25,26,0.806,0.828,1:25
+2,10:28,HOU,KJ Martin,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,35,34,0.869,0.842,10:28
+2,10:14,PHX,Torrey Craig,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,36,34,0.834,0.859,10:28
+2,9:37,HOU,Garrison Mathews,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,38,38,0.849,0.82,9:37
+2,9:29,PHX,Torrey Craig,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,39,38,0.837,0.838,9:37
+2,9:01,PHX,Chris Paul,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,41,40,0.822,0.849,9:01
+2,8:22,HOU,David Nwaba,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,41,43,0.821,0.795,8:36
+2,7:31,HOU,Garrison Mathews,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,46,45,0.854,0.825,7:31
+2,7:13,PHX,Cameron Johnson,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,46,45,0.793,0.824,7:28
+2,7:02,HOU,Dennis Schroder,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,46,47,0.831,0.804,7:13
+2,5:21,PHX,Devin Booker,Loose Ball Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,47,51,0.648,0.69,5:21
+2,5:10,HOU,Jae'Sean Tate,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,47,53,0.704,0.665,5:21
+2,2:02,HOU,Garrison Mathews,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,55,65,0.527,0.473,2:03
+2,53.3,PHX,Deandre Ayton,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,57,65,0.433,0.497,1:01
+3,9:46,HOU,Dennis Schroder,Away from Play Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,63,71,0.47,0.471,9:49
+3,9:07,PHX,Chris Paul,Technical Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,65,71,0.464,0.537,9:07
+3,9:07,PHX,Chris Paul,Technical Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,65,71,0.464,0.464,9:07
+3,8:09,HOU,Alperen Sengun,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,67,75,0.442,0.444,8:23
+3,7:33,HOU,Alperen Sengun,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,67,77,0.409,0.348,7:42
+3,6:37,HOU,Alperen Sengun,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,73,79,0.524,0.447,6:37
+3,5:54,HOU,Eric Gordon,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,74,79,0.585,0.524,6:00
+3,4:23,PHX,Jae Crowder,Loose Ball Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,79,82,0.539,0.541,4:23
+3,4:15,PHX,Mikal Bridges,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,79,82,0.472,0.539,4:23
+3,3:01,PHX,Deandre Ayton,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,83,89,0.378,0.431,3:18
+3,1:48,PHX,Devin Booker,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,85,91,0.352,0.407,2:06
+3,6.3,PHX,Torrey Craig,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,89,95,0.249,0.32,19.0
+4,10:13,HOU,Garrison Mathews,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,91,95,0.53,0.435,10:20
+4,9:24,HOU,David Nwaba,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,96,95,0.707,0.691,9:31
+4,8:28,PHX,Aaron Holiday,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,101,95,0.844,0.853,8:42
+4,8:24,PHX,Torrey Craig,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,101,95,0.839,0.844,8:28
+4,8:13,PHX,Devin Booker,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,101,95,0.774,0.839,8:24
+4,25.1,HOU,Jalen Green,Personal Take Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,118,114,0.975,0.924,26.2
+4,23.0,HOU,Dennis Schroder,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,118,114,0.977,0.975,25.1
+4,18.0,HOU,Jalen Green,Personal Take Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,119,116,0.962,0.906,20.2
+4,9.9,HOU,Dennis Schroder,Personal Take Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,120,118,0.948,0.848,11.4
+4,2.1,HOU,Eric Gordon,Personal Take Foul,Foul,Mark Lindsay,J.T. Orr,Danielle Scott,PHX,122,121,0.978,0.916,4.6

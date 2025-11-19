@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:42,TOR,Fred VanVleet,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,2,4,0.418,0.461,9:42
+1,9:06,TOR,Scottie Barnes,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,2,7,0.373,0.386,9:06
+1,7:30,PHI,Tyrese Maxey,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,10,8,0.604,0.568,7:37
+1,6:25,TOR,Scottie Barnes,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,10,10,0.5,0.513,6:25
+1,4:49,PHI,Andre Drummond,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,10,16,0.354,0.354,5:01
+1,4:27,TOR,Freddie Gillespie,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,10,16,0.341,0.328,4:27
+1,4:02,TOR,Freddie Gillespie,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,10,17,0.267,0.301,4:07
+1,3:23,PHI,Matisse Thybulle,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,10,21,0.267,0.233,3:28
+1,2:35,TOR,Fred VanVleet,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,16,21,0.31,0.351,2:45
+1,2:22,PHI,Georges Niang,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,16,22,0.39,0.351,2:35
+1,2:02,PHI,Paul Reed,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,20,22,0.443,0.43,2:02
+1,1:23,TOR,Dalano Banton,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,22,24,0.428,0.456,1:23
+1,26.8,PHI,Matisse Thybulle,Loose Ball Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,25,25,0.56,0.513,26.8
+2,10:38,TOR,Justin Champagnie,Loose Ball Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,32,25,0.685,0.685,10:38
+2,9:19,PHI,Georges Niang,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,38,27,0.797,0.787,9:19
+2,8:47,TOR,Scottie Barnes,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,43,27,0.856,0.88,8:52
+2,8:10,PHI,Seth Curry,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,43,31,0.858,0.831,8:17
+2,5:39,TOR,Justin Champagnie,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,55,35,0.939,0.94,5:51
+2,4:31,PHI,Seth Curry,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,55,43,0.845,0.846,4:34
+2,1:32,PHI,Seth Curry,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,62,52,0.85,0.818,1:38
+2,5.9,TOR,Svi Mykhailiuk,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,67,54,0.833,0.885,7.9
+3,9:10,TOR,Precious Achiuwa,Offensive Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,78,54,0.987,0.989,9:24
+3,8:57,PHI,Georges Niang,Technical Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,78,56,0.981,0.98,8:57
+3,8:40,PHI,Georges Niang,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,79,56,0.987,0.988,8:40
+3,7:54,PHI,Matisse Thybulle,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,81,58,0.989,0.989,8:02
+3,7:47,PHI,Matisse Thybulle,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,81,58,0.992,0.989,7:54
+3,6:53,TOR,OG Anunoby,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,86,58,0.996,0.919,10:50
+3,5:26,PHI,Tyrese Maxey,Offensive Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,90,62,0.998,0.997,5:34
+3,4:02,TOR,Dalano Banton,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,92,64,0.997,0.998,4:04
+3,3:07,TOR,Freddie Gillespie,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,95,71,0.995,0.996,3:07
+3,2:48,PHI,Paul Reed,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,95,72,0.997,0.995,2:57
+3,2:25,TOR,Justin Champagnie,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,98,72,0.996,0.998,2:37
+3,1:31,TOR,Malachi Flynn,Loose Ball Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,100,73,0.998,0.998,1:31
+4,11:06,PHI,Paul Reed,Loose Ball Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,100,77,0.998,0.998,11:06
+4,9:59,TOR,Justin Champagnie,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,103,81,0.998,0.998,9:59
+4,8:54,TOR,Malachi Flynn,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,103,81,0.998,0.998,9:02
+4,8:26,TOR,Justin Champagnie,Loose Ball Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,103,81,0.998,0.998,8:26
+4,6:00,TOR,Malachi Flynn,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,109,93,0.986,0.992,6:10
+4,5:28,TOR,Scottie Barnes,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,112,95,0.992,0.995,5:39
+4,1:18,TOR,Ish Wainright,Loose Ball Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,121,104,0.999,0.999,1:18
+4,1:00,PHI,Paul Reed,Personal Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,121,105,0.999,0.999,1:00
+4,27.9,TOR,Freddie Gillespie,Loose Ball Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,123,105,0.999,0.999,27.9
+4,19.6,TOR,Ish Wainright,Offensive Foul,Foul,Ben Taylor,Nick Buchert,Andy Nagy,TOR,123,107,0.999,0.999,27.9

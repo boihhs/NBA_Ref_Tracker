@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,2,5,0.634,0.669,10:30
+1,10:18,NY,Isaiah Hartenstein,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,2,7,0.68,0.649,10:27
+1,9:30,NY,Donte DiVincenzo,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,4,7,0.687,0.687,9:36
+1,6:53,PHI,Joel Embiid,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,14,10,0.767,0.795,7:07
+1,5:10,NY,Jalen Brunson,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,19,14,0.847,0.826,5:17
+1,4:31,NY,OG Anunoby,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,21,16,0.846,0.824,4:46
+1,4:27,NY,Donte DiVincenzo,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,21,16,0.846,0.846,4:31
+1,2:42,NY,Miles McBride,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,27,23,0.826,0.782,2:42
+2,10:57,PHI,Danuel House Jr.,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,32,37,0.493,0.537,11:13
+2,8:18,NY,Quentin Grimes,Loose Ball Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,38,45,0.483,0.485,8:18
+2,8:02,PHI,Paul Reed,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,38,47,0.364,0.417,8:02
+2,5:06,PHI,Tobias Harris,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,43,56,0.2,0.235,5:11
+2,4:32,NY,Josh Hart,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,43,58,0.247,0.206,4:35
+2,53.1,NY,Isaiah Hartenstein,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,52,71,0.117,0.091,1:07
+2,37.1,PHI,Joel Embiid,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,54,71,0.083,0.106,53.1
+2,31.0,NY,OG Anunoby,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,54,73,0.114,0.087,37.1
+2,21.1,PHI,Nicolas Batum,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,55,73,0.068,0.092,26.1
+3,10:47,PHI,Tobias Harris,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,58,77,0.046,0.062,11:07
+3,10:16,PHI,Nicolas Batum,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,60,79,0.044,0.059,10:27
+3,9:06,NY,Donte DiVincenzo,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,63,81,0.101,0.075,9:10
+3,7:55,NY,Isaiah Hartenstein,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,66,86,0.061,0.045,8:07
+3,5:49,NY,Julius Randle,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,71,88,0.089,0.065,5:49
+3,5:08,NY,Julius Randle,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,71,88,0.082,0.06,5:15
+3,6:07,NY,Donte DiVincenzo,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,71,88,0.078,0.081,4:14
+3,3:46,PHI,Jaden Springer,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,74,88,0.077,0.077,3:46
+3,1:42,PHI,Patrick Beverley,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,76,88,0.066,0.093,1:50
+3,10.0,PHI,Patrick Beverley,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,76,90,0.03,0.047,33.1
+4,11:39,NY,Josh Hart,Offensive Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,78,93,0.041,0.03,11:49
+4,9:55,PHI,Paul Reed,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,80,96,0.008,0.016,10:01
+4,9:07,NY,OG Anunoby,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,80,101,0.004,0.002,9:07
+4,7:56,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,81,103,0.001,0.001,7:57
+4,7:20,PHI,Joel Embiid,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,81,103,0.001,0.001,7:33
+4,7:08,PHI,KJ Martin,Loose Ball Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,81,105,0.001,0.001,7:08
+4,6:22,PHI,KJ Martin,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,81,111,0.001,0.001,6:22
+4,5:40,NY,Quentin Grimes,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,81,114,0.001,0.001,5:53
+4,3:30,NY,Isaiah Hartenstein,Personal Take Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,87,121,0.001,0.001,3:35
+4,2:26,NY,Quentin Grimes,Personal Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,87,126,0.001,0.001,2:43
+4,1:22,NY,Ryan Arcidiacono,Shooting Foul,Foul,Derek Richardson,Pat Fraher,Marc Davis,PHI,91,126,0.001,0.001,1:30

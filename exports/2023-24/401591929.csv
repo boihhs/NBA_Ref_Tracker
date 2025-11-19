@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:30,CHI,Patrick Williams,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,5,7,0.399,0.461,9:40
+1,8:38,CHI,Ayo Dosunmu,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,9,8,0.514,0.512,8:46
+1,4:41,CHI,Coby White,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,14,14,0.466,0.514,4:41
+1,2:56,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,16,20,0.403,0.403,3:03
+1,2:32,CHI,Nikola Vucevic,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,18,20,0.389,0.43,2:42
+1,2:32,MIN,Rudy Gobert,Loose Ball Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,18,21,0.429,0.432,2:32
+2,11:00,MIN,Shake Milton,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,22,30,0.329,0.291,11:07
+2,10:47,CHI,Torrey Craig,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,23,30,0.288,0.289,10:56
+2,9:50,MIN,Shake Milton,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,28,30,0.476,0.425,9:50
+2,8:43,CHI,Torrey Craig,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,29,33,0.366,0.364,8:49
+2,8:35,CHI,Ayo Dosunmu,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,29,33,0.367,0.366,8:43
+2,7:52,CHI,Torrey Craig,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,31,35,0.343,0.394,7:52
+2,6:10,CHI,Patrick Williams,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,35,36,0.408,0.484,6:40
+2,5:15,CHI,Coby White,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,41,41,0.461,0.517,5:15
+2,5:08,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,41,42,0.484,0.484,5:15
+2,3:36,CHI,DeMar DeRozan,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,43,49,0.274,0.326,3:36
+2,1:00,MIN,Rudy Gobert,Offensive Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,47,50,0.412,0.381,1:19
+2,38.1,MIN,Rudy Gobert,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,47,50,0.466,0.412,1:00
+2,25.0,CHI,DeMar DeRozan,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,49,50,0.395,0.449,38.1
+3,11:29,MIN,Naz Reid,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,51,52,0.536,0.479,11:30
+3,9:20,MIN,Kyle Anderson,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,54,58,0.426,0.37,9:32
+3,6:45,MIN,Shake Milton,Loose Ball Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,62,68,0.288,0.289,6:45
+3,6:00,MIN,Jordan McLaughlin,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,62,71,0.236,0.192,6:16
+3,5:17,MIN,Troy Brown Jr.,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,64,71,0.299,0.249,5:32
+3,4:10,CHI,Torrey Craig,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,68,77,0.115,0.153,4:26
+3,20.1,MIN,Luka Garza,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,75,88,0.087,0.061,33.1
+3,6.1,CHI,Alex Caruso,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,76,88,0.04,0.06,20.1
+4,11:29,MIN,Daishen Nix,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,76,88,0.106,0.069,11:34
+4,10:53,CHI,Patrick Williams,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,78,88,0.066,0.084,10:53
+4,10:18,MIN,Josh Minott,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,78,90,0.066,0.062,10:25
+4,10:04,CHI,Nikola Vucevic,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,78,90,0.035,0.047,10:11
+4,8:00,MIN,Leonard Miller,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,83,97,0.043,0.022,8:03
+4,7:05,CHI,Alex Caruso,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,87,99,0.025,0.029,7:13
+4,6:56,CHI,Terry Taylor,Loose Ball Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,87,99,0.014,0.026,6:56
+4,4:18,CHI,Onuralp Bitim,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,92,101,0.018,0.035,4:19
+4,3:17,MIN,Tyrese Martin,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,95,106,0.035,0.017,3:32
+4,2:37,MIN,Matt Ryan,Shooting Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,97,106,0.047,0.033,2:37
+4,1:26,MIN,Matt Ryan,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,99,112,0.003,0.001,1:32
+4,1:10,MIN,Tyrese Martin,Loose Ball Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,101,112,0.01,0.003,1:10
+4,55.1,CHI,Carlik Jones,Personal Foul,Foul,Marc Davis,Scott Twardoski,Dannica Mosher,CHI,103,112,0.001,0.006,1:10

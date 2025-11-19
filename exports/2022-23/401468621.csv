@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,CLE,Evan Mobley,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,0,2,0.573,0.611,11:44
+1,10:05,CLE,Donovan Mitchell,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,3,4,0.572,0.605,10:08
+1,9:52,MIL,MarJon Beauchamp,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,3,4,0.63,0.632,9:58
+1,9:46,MIL,Jrue Holiday,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,3,4,0.629,0.63,9:52
+1,9:11,CLE,Evan Mobley,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,5,6,0.587,0.628,9:11
+1,8:46,MIL,MarJon Beauchamp,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,7,7,0.652,0.628,8:58
+1,8:22,CLE,Isaac Okoro,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,9,7,0.639,0.674,8:36
+1,8:01,CLE,Darius Garland,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,12,9,0.662,0.695,8:14
+1,6:10,MIL,Pat Connaughton,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,18,14,0.735,0.738,6:15
+1,4:21,MIL,Brook Lopez,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,24,16,0.811,0.793,4:39
+1,1:19,MIL,Jevon Carter,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,29,16,0.906,0.888,1:34
+1,5.2,MIL,Jevon Carter,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,33,18,0.928,0.914,23.2
+2,11:01,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,39,20,0.951,0.941,11:12
+2,9:46,CLE,Caris LeVert,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,41,20,0.948,0.959,9:52
+2,8:29,CLE,Caris LeVert,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,43,21,0.966,0.966,8:31
+2,7:49,CLE,Donovan Mitchell,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,43,23,0.954,0.954,8:07
+2,6:29,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,45,28,0.942,0.932,6:31
+2,5:11,CLE,Evan Mobley,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,47,33,0.879,0.901,5:11
+2,3:21,CLE,Darius Garland,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,49,40,0.802,0.839,3:21
+2,2:41,MIL,Jrue Holiday,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,49,40,0.868,0.84,2:46
+2,1:01,MIL,Joe Ingles,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,53,40,0.928,0.908,1:14
+2,49.1,CLE,Kevin Love,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,54,40,0.888,0.909,1:01
+3,10:59,MIL,Jrue Holiday,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,63,42,0.986,0.98,11:09
+3,10:47,CLE,Darius Garland,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,66,42,0.987,0.987,10:59
+3,9:28,MIL,MarJon Beauchamp,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,68,46,0.99,0.986,9:42
+3,8:19,CLE,Isaac Okoro,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,72,52,0.972,0.977,8:19
+3,4:50,CLE,Isaac Okoro,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,80,61,0.975,0.984,4:50
+3,4:17,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,83,61,0.993,0.991,4:32
+3,2:00,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,87,69,0.991,0.986,2:15
+3,1:32,MIL,Joe Ingles,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,88,69,0.994,0.99,1:34
+3,55.1,CLE,Kevin Love,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,90,72,0.976,0.984,1:00
+4,9:38,CLE,Jarrett Allen,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,95,84,0.897,0.935,9:46
+4,9:02,MIL,MarJon Beauchamp,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,95,85,0.962,0.937,9:16
+4,8:33,MIL,Pat Connaughton,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,97,85,0.982,0.977,10:18
+4,8:20,MIL,Brook Lopez,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,98,85,0.979,0.969,8:33
+4,8:04,CLE,Evan Mobley,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,98,85,0.972,0.979,8:20
+4,8:04,MIL,Brook Lopez,Technical Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,98,85,0.985,0.972,8:04
+4,7:09,CLE,Evan Mobley,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,101,87,0.968,0.983,7:18
+4,6:47,CLE,Darius Garland,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,101,89,0.964,0.967,6:48
+4,5:15,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,105,93,0.955,0.976,5:15
+4,4:53,MIL,Brook Lopez,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,105,93,0.993,0.983,5:03
+4,4:19,MIL,Pat Connaughton,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,107,95,0.995,0.987,4:37
+4,1:16,MIL,Jevon Carter,Personal Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,111,104,0.989,0.971,1:27
+4,44.0,CLE,Donovan Mitchell,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,112,104,0.982,0.993,44.1
+4,11.1,MIL,Pat Connaughton,Personal Take Foul,Foul,Dedric Taylor,Karl Lane,Ben Taylor,CLE,112,106,0.998,0.951,31.1

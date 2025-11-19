@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:50,CHI,Andre Drummond,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,2,6,0.41,0.413,10:01
+1,8:49,CHI,Coby White,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,5,8,0.436,0.436,8:52
+1,7:42,CHI,Coby White,Loose Ball Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,9,11,0.46,0.46,7:43
+1,7:39,CHI,Andre Drummond,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,9,11,0.498,0.46,7:42
+1,7:27,DEN,Nikola Jokic,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,11,11,0.485,0.485,7:39
+1,6:53,CHI,Torrey Craig,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,11,11,0.551,0.512,7:11
+1,3:52,CHI,Julian Phillips,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,18,19,0.527,0.484,4:04
+1,1:00,CHI,Adama Sanogo,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,22,22,0.557,0.514,1:03
+1,57.1,DEN,Jalen Pickett,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,23,22,0.468,0.513,1:00
+1,20.0,CHI,Torrey Craig,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,23,24,0.53,0.484,20.0
+2,10:36,CHI,Julian Phillips,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,29,27,0.573,0.575,10:40
+2,9:52,DEN,Hunter Tyson,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,29,27,0.5,0.545,10:01
+2,8:07,CHI,Torrey Craig,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,37,30,0.718,0.719,8:22
+2,8:07,CHI,Torrey Craig,Double Technical Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,37,30,0.711,0.718,8:07
+2,7:35,DEN,Jalen Pickett,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,39,30,0.726,0.743,7:35
+2,6:38,CHI,Ayo Dosunmu,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,42,33,0.789,0.746,6:38
+2,6:07,DEN,Justin Holiday,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,42,33,0.71,0.747,6:09
+2,5:27,CHI,Dalen Terry,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,42,37,0.712,0.669,5:43
+2,3:58,DEN,Justin Holiday,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,49,40,0.717,0.757,4:06
+2,3:35,DEN,Nikola Jokic,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,51,40,0.772,0.806,3:47
+2,3:23,CHI,Ayo Dosunmu,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,51,41,0.841,0.806,3:34
+2,1:56,CHI,Coby White,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,56,44,0.872,0.838,1:56
+2,1.2,DEN,Justin Holiday,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,59,50,0.735,0.775,10.0
+3,10:50,DEN,Nikola Jokic,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,64,52,0.854,0.853,11:04
+3,9:50,CHI,Andre Drummond,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,67,55,0.878,0.877,9:54
+3,8:54,CHI,Coby White,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,69,57,0.896,0.865,8:54
+3,8:10,CHI,Patrick Williams,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,72,59,0.926,0.906,8:14
+3,7:11,CHI,Andre Drummond,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,73,61,0.917,0.892,7:15
+3,6:52,DEN,Aaron Gordon,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,73,63,0.808,0.852,6:52
+3,6:11,CHI,Torrey Craig,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,75,64,0.893,0.857,6:11
+3,5:47,CHI,Patrick Williams,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,76,64,0.925,0.9,5:49
+3,5:33,DEN,Zeke Nnaji,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,78,64,0.892,0.916,5:47
+3,3:28,CHI,Adama Sanogo,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,82,69,0.942,0.916,3:28
+3,1:59,CHI,Dalen Terry,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,83,73,0.919,0.889,2:03
+3,16.0,DEN,Jalen Pickett,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,87,77,0.838,0.88,16.0
+4,9:41,CHI,Dalen Terry,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,92,82,0.932,0.926,9:53
+4,9:13,DEN,Peyton Watson,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,92,82,0.862,0.913,9:18
+4,8:04,CHI,Julian Phillips,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,97,83,0.991,0.983,8:14
+4,6:27,CHI,Dalen Terry,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,101,85,0.997,0.995,6:30
+4,5:04,DEN,Collin Gillespie,Personal Take Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,106,90,0.998,0.998,5:10
+4,4:22,DEN,Jalen Pickett,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,106,92,0.994,0.997,4:27
+4,3:42,DEN,Braxton Key,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,109,95,0.997,0.999,3:42
+4,1:32,CHI,Quenton Jackson,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,114,99,0.999,0.999,1:41
+4,41.1,CHI,Quenton Jackson,Personal Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,115,102,0.999,0.999,41.1
+4,26.1,DEN,Amida Brimah,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Sha'Rae Mitchell,DEN,116,102,0.999,0.999,38.1

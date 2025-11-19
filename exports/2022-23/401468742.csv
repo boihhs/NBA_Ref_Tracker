@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:48,LAC,Ivica Zubac,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,0,0,0.631,0.594,12:00
+1,11:14,LAC,Marcus Morris Sr.,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,2,2,0.592,0.594,11:28
+1,11:14,LAC,Marcus Morris Sr.,Technical Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,2,2,0.613,0.592,11:14
+1,11:09,LAC,Luke Kennard,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,3,2,0.651,0.62,11:14
+1,9:53,LAC,Terance Mann,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,9,5,0.719,0.687,10:04
+1,8:44,LAC,Terance Mann,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,11,5,0.76,0.731,8:48
+1,8:44,LAC,Terance Mann,Technical Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,11,5,0.744,0.76,8:44
+1,8:02,MIN,D'Angelo Russell,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,13,5,0.75,0.752,8:16
+1,2:55,MIN,Austin Rivers,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,29,20,0.776,0.777,3:04
+1,39.1,LAC,Amir Coffey,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,33,28,0.746,0.709,52.1
+2,11:50,MIN,Rudy Gobert,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,37,33,0.64,0.662,11:50
+2,10:59,LAC,Moses Brown,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,40,34,0.77,0.737,11:07
+2,7:24,MIN,Jaylen Nowell,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,45,40,0.644,0.687,7:40
+2,6:46,LAC,Luke Kennard,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,45,43,0.672,0.629,6:51
+2,6:37,MIN,D'Angelo Russell,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,47,43,0.616,0.658,6:46
+2,4:12,MIN,Anthony Edwards,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,55,49,0.695,0.716,4:12
+2,40.1,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,67,52,0.935,0.914,40.1
+3,10:53,MIN,D'Angelo Russell,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,72,54,0.937,0.951,11:11
+3,8:56,LAC,Reggie Jackson,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,74,59,0.954,0.939,9:14
+3,4:41,MIN,Naz Reid,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,89,68,0.984,0.987,4:41
+3,3:36,MIN,Jaylen Nowell,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,92,69,0.994,0.994,3:36
+3,3:02,MIN,Taurean Prince,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,92,72,0.98,0.986,3:05
+3,2:28,MIN,Taurean Prince,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,92,72,0.981,0.987,2:31
+3,2:27,LAC,Marcus Morris Sr.,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,92,74,0.984,0.984,2:28
+3,46.0,LAC,John Wall,Technical Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,94,79,0.977,0.972,48.1
+4,11:46,LAC,John Wall,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,100,79,0.998,0.995,12:00
+4,11:43,MIN,Austin Rivers,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,102,79,0.997,0.997,11:46
+4,10:42,MIN,Kyle Anderson,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,102,79,0.996,0.998,10:44
+4,10:25,LAC,Norman Powell,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,105,81,0.999,0.998,10:25
+4,10:09,MIN,Austin Rivers,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,106,81,0.998,0.999,10:25
+4,8:52,MIN,Taurean Prince,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,106,90,0.98,0.99,8:52
+4,8:40,LAC,Robert Covington,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,106,90,0.994,0.989,8:49
+4,8:24,MIN,Taurean Prince,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,108,90,0.988,0.993,8:40
+4,7:18,MIN,D'Angelo Russell,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,111,93,0.994,0.997,7:18
+4,6:37,MIN,Jaden McDaniels,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,111,96,0.983,0.992,6:37
+4,6:25,LAC,John Wall,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,111,96,0.996,0.992,6:34
+4,5:57,MIN,Rudy Gobert,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,114,98,0.991,0.996,5:57
+4,5:22,LAC,Norman Powell,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,114,98,0.998,0.996,5:31
+4,5:14,LAC,Moses Brown,Offensive Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,115,98,0.998,0.997,5:19
+4,4:28,LAC,Amir Coffey,Personal Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,117,100,0.999,0.998,4:45
+4,1:37,MIN,Austin Rivers,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,123,107,0.999,0.999,1:43
+4,1:23,LAC,Moses Brown,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,123,109,0.999,0.999,1:37
+4,5.0,MIN,Josh Minott,Shooting Foul,Foul,Jason Goldenberg,David Guthrie,Natalie Sago,MIN,128,114,0.999,0.999,5.0

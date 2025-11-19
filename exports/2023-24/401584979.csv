@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:41,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,5,2,0.902,0.889,9:53
+1,8:19,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,9,4,0.916,0.904,8:32
+1,5:06,PHI,Joel Embiid,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,18,6,0.933,0.943,5:17
+1,3:48,CHI,Alex Caruso,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,20,10,0.935,0.936,3:53
+2,11:06,PHI,Robert Covington,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,24,25,0.757,0.755,11:11
+2,10:35,PHI,Paul Reed,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,24,27,0.687,0.73,10:35
+2,10:24,PHI,Kelly Oubre Jr.,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,24,27,0.705,0.705,10:31
+2,4:37,CHI,Jevon Carter,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,33,41,0.571,0.525,4:50
+2,4:37,CHI,Nikola Vucevic,Flopping Technical,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,33,41,0.521,0.571,4:37
+2,6.1,CHI,Alex Caruso,Personal Take Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,44,55,0.4,0.35,19.1
+3,9:44,PHI,Tyrese Maxey,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,51,57,0.397,0.453,9:52
+3,9:03,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,53,59,0.544,0.488,9:12
+3,6:18,PHI,Joel Embiid,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,61,61,0.588,0.645,6:22
+3,5:02,CHI,Nikola Vucevic,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,63,65,0.594,0.597,5:17
+3,3:33,PHI,Kelly Oubre Jr.,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,65,70,0.401,0.405,3:54
+3,1:17,PHI,Kelly Oubre Jr.,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,69,75,0.249,0.316,1:29
+3,1:09,PHI,Joel Embiid,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,69,75,0.278,0.309,1:09
+4,11:47,CHI,Dalen Terry,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,69,81,0.16,0.093,0.0
+4,11:32,PHI,Robert Covington,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,71,81,0.125,0.132,11:32
+4,10:48,CHI,Dalen Terry,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,74,81,0.281,0.265,10:50
+4,10:37,CHI,DeMar DeRozan,Loose Ball Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,74,81,0.287,0.268,10:37
+4,9:15,PHI,Patrick Beverley,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,78,81,0.389,0.405,9:15
+4,6:19,PHI,Paul Reed,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,89,87,0.639,0.661,6:28
+4,5:34,PHI,Joel Embiid,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,89,90,0.332,0.447,5:41
+4,4:03,CHI,Nikola Vucevic,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,89,97,0.147,0.085,4:16
+4,2:48,CHI,Alex Caruso,Personal Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,92,100,0.112,0.067,3:04
+4,2:22,CHI,Patrick Williams,Loose Ball Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,94,100,0.2,0.118,2:22
+4,1:56,PHI,Tyrese Maxey,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,96,100,0.109,0.151,1:56
+4,1:44,CHI,Alex Caruso,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,96,102,0.18,0.105,1:56
+4,1:05,CHI,Alex Caruso,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,100,105,0.234,0.13,1:07
+4,16.0,PHI,Tobias Harris,Shooting Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,104,105,0.139,0.329,33.0
+4,5.2,PHI,Tyrese Maxey,Personal Take Foul,Foul,James Capers,Phenizee Ransom,Brett Nansel,PHI,104,106,0.035,0.094,5.2

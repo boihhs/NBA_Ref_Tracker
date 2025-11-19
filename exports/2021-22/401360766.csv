@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:34,CLE,Isaac Okoro,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,4,6,0.695,0.696,10:42
+1,10:25,CLE,Jarrett Allen,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,4,6,0.71,0.694,10:25
+1,7:46,PHI,Matisse Thybulle,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,11,15,0.609,0.612,7:56
+1,6:46,PHI,James Harden,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,11,19,0.476,0.525,6:46
+1,6:00,CLE,Lauri Markkanen,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,13,20,0.545,0.492,6:05
+1,5:49,PHI,Tyrese Maxey,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,13,22,0.419,0.46,5:51
+1,3:12,CLE,Lauri Markkanen,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,18,33,0.338,0.37,5:09
+1,2:10,PHI,Georges Niang,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,18,36,0.16,0.191,2:25
+1,53.6,CLE,Lamar Stevens,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,26,41,0.297,0.248,53.6
+1,10.2,PHI,Georges Niang,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,30,41,0.31,0.353,30.6
+1,1.6,PHI,James Harden,Offensive Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,30,43,0.293,0.327,10.2
+2,10:41,CLE,Lamar Stevens,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,32,43,0.413,0.366,10:50
+2,10:26,PHI,Danny Green,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,34,45,0.314,0.363,10:26
+2,8:05,CLE,Cedi Osman,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,36,50,0.279,0.23,8:05
+2,7:32,PHI,Tobias Harris,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,37,53,0.178,0.177,7:35
+2,5:18,CLE,Brandon Goodwin,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,44,60,0.196,0.156,5:18
+2,5:12,PHI,Joel Embiid,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,45,60,0.179,0.179,5:18
+2,3:23,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,51,60,0.281,0.33,3:42
+2,3:10,CLE,Jarrett Allen,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,51,62,0.341,0.297,3:23
+2,2:17,PHI,Tobias Harris,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,52,65,0.163,0.199,2:20
+2,49.5,CLE,Darius Garland,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,56,69,0.256,0.214,49.5
+2,7.2,CLE,Evan Mobley,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,60,69,0.35,0.291,7.2
+2,4.5,PHI,Matisse Thybulle,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,61,69,0.274,0.328,7.2
+2,0.4,CLE,Lamar Stevens,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,61,71,0.345,0.294,4.5
+3,11:28,PHI,Matisse Thybulle,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,63,71,0.317,0.32,11:43
+3,11:14,CLE,Evan Mobley,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,63,71,0.406,0.351,11:19
+3,10:21,PHI,Tyrese Maxey,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,67,71,0.397,0.454,10:46
+3,9:51,PHI,Matisse Thybulle,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,70,73,0.431,0.486,10:08
+3,8:50,CLE,Darius Garland,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,70,80,0.309,0.26,8:57
+3,8:24,CLE,Lauri Markkanen,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,72,80,0.377,0.323,8:28
+3,8:08,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,74,82,0.257,0.319,8:08
+3,7:50,PHI,Joel Embiid,Offensive Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,74,82,0.281,0.318,8:06
+3,6:37,PHI,Tobias Harris,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,79,82,0.398,0.46,6:56
+3,5:27,CLE,Kevin Love,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,81,85,0.478,0.407,5:27
+3,4:44,CLE,Darius Garland,Technical Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,82,85,0.514,0.401,4:45
+3,4:00,PHI,Matisse Thybulle,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,85,87,0.411,0.476,4:12
+3,2:17,CLE,Evan Mobley,Flagrant Foul Type 1,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,91,93,0.492,0.459,2:17
+3,5.4,PHI,Georges Niang,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,97,98,0.414,0.49,8.8
+4,9:49,PHI,James Harden,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,102,101,0.521,0.629,9:49
+4,9:41,CLE,Kevin Love,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,102,102,0.665,0.573,9:49
+4,7:52,PHI,Shake Milton,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,104,104,0.49,0.509,7:55
+4,5:01,PHI,Tyrese Maxey,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,114,108,0.832,0.846,5:20
+4,1:54,CLE,Evan Mobley,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,116,112,0.938,0.856,2:21
+4,27.3,CLE,Cedi Osman,Personal Take Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,122,116,0.995,0.981,30.3
+4,14.2,CLE,Isaac Okoro,Personal Take Foul,Foul,Brent Barnaky,Eric Lewis,Jacyn Goble,PHI,124,119,0.994,0.979,17.1

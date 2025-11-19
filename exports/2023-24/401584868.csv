@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:13,MIA,Haywood Highsmith,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,0,0,0.759,0.743,11:13
+1,8:14,MIA,Kyle Lowry,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,7,5,0.797,0.772,8:27
+1,7:55,MIA,Thomas Bryant,Offensive Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,9,5,0.805,0.789,8:14
+1,5:22,MIA,Haywood Highsmith,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,18,8,0.903,0.887,5:28
+1,5:09,BKN,Dorian Finney-Smith,Defensive 3-Seconds Technical,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,20,8,0.901,0.897,5:22
+1,3:06,BKN,Royce O'Neale,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,23,15,0.82,0.844,3:20
+1,1:19,BKN,Spencer Dinwiddie,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,26,20,0.78,0.808,1:29
+1,1:09,BKN,Trendon Watford,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,26,20,0.793,0.808,1:09
+2,10:01,BKN,Lonnie Walker IV,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,34,29,0.749,0.781,10:10
+2,9:06,MIA,Nikola Jovic,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,37,33,0.795,0.781,9:06
+2,6:36,BKN,Mikal Bridges,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,46,41,0.774,0.774,6:37
+2,5:57,MIA,Kyle Lowry,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,46,41,0.824,0.795,6:03
+2,5:19,MIA,Nikola Jovic,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,48,43,0.824,0.793,5:33
+2,4:22,MIA,Nikola Jovic,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,51,45,0.841,0.812,4:29
+2,4:11,BKN,Day'Ron Sharpe,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,54,45,0.852,0.85,4:11
+2,3:36,BKN,Trendon Watford,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,56,45,0.86,0.883,3:59
+2,12.1,BKN,Trendon Watford,Offensive Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,63,53,0.87,0.888,27.1
+3,8:41,BKN,Spencer Dinwiddie,Offensive Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,69,57,0.91,0.922,9:07
+3,8:08,MIA,Jamal Cain,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,69,57,0.942,0.924,8:17
+3,6:29,MIA,Caleb Martin,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,76,62,0.963,0.951,6:41
+3,6:20,BKN,Mikal Bridges,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,78,62,0.96,0.96,6:29
+3,5:51,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,78,64,0.944,0.943,5:51
+3,5:30,MIA,Caleb Martin,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,78,64,0.953,0.954,5:36
+3,2:14,BKN,Royce O'Neale,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,87,70,0.968,0.978,2:16
+3,1:29,BKN,Nic Claxton,Loose Ball Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,87,72,0.953,0.967,1:29
+3,1:05,MIA,Kevin Love,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,87,74,0.972,0.959,1:16
+3,19.1,MIA,Kevin Love,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,89,74,0.983,0.971,19.1
+4,8:55,BKN,Cameron Johnson,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,96,80,0.987,0.988,8:57
+4,8:52,BKN,Cameron Johnson,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,96,80,0.987,0.987,8:55
+4,7:36,MIA,Josh Richardson,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,96,82,0.987,0.986,7:52
+4,7:05,BKN,Royce O'Neale,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,99,82,0.989,0.994,7:22
+4,6:12,MIA,Nikola Jovic,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,99,83,0.996,0.995,6:24
+4,5:25,MIA,Nikola Jovic,Personal Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,101,83,0.999,0.998,5:25
+4,4:26,BKN,Royce O'Neale,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,106,87,0.999,0.999,4:26
+4,2:35,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,110,90,0.999,0.999,2:44
+4,1:41,MIA,Cole Swider,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,111,92,0.999,0.999,1:47
+4,1:01,BKN,Trendon Watford,Shooting Foul,Foul,Kevin Cutler,Aaron Smith,Andy Nagy,BKN,112,97,0.999,0.999,1:01

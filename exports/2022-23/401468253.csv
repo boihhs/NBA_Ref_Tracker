@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:09,IND,Jalen Smith,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,2,2,0.699,0.699,10:17
+1,9:46,BKN,Joe Harris,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,4,2,0.721,0.721,10:03
+1,7:00,BKN,Nic Claxton,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,14,4,0.832,0.855,7:13
+1,3:33,IND,James Johnson,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,20,14,0.83,0.804,3:38
+1,2:13,IND,T.J. McConnell,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,22,16,0.801,0.802,2:26
+1,2:05,IND,James Johnson,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,22,16,0.83,0.801,2:13
+1,1:45,IND,Jalen Smith,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,24,16,0.861,0.838,1:52
+1,1:26,BKN,Markieff Morris,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,26,18,0.804,0.838,1:26
+1,20.0,IND,Oshae Brissett,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,31,18,0.92,0.904,20.0
+2,10:26,BKN,Nic Claxton,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,41,23,0.932,0.943,10:31
+2,9:18,BKN,Joe Harris,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,48,24,0.972,0.978,9:34
+2,8:42,IND,Andrew Nembhard,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,48,26,0.975,0.975,8:52
+2,8:11,IND,Buddy Hield,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,48,26,0.975,0.975,8:17
+2,3:19,IND,Chris Duarte,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,55,41,0.925,0.926,3:29
+2,3:16,IND,Buddy Hield,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,55,41,0.94,0.925,3:19
+2,3:16,BKN,Kevin Durant,Technical Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,55,41,0.904,0.94,3:16
+2,2:11,IND,Jalen Smith,Offensive Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,57,44,0.917,0.916,2:38
+3,11:09,BKN,Nic Claxton,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,61,54,0.756,0.797,11:22
+3,10:44,BKN,Kevin Durant,Loose Ball Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,64,55,0.842,0.843,10:44
+3,8:04,BKN,Kevin Durant,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,74,59,0.926,0.942,8:17
+3,7:09,BKN,Royce O'Neale,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,74,60,0.914,0.934,7:11
+3,6:15,IND,Myles Turner,Offensive Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,76,61,0.958,0.948,6:15
+3,4:19,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,82,67,0.947,0.964,4:19
+3,3:28,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,82,70,0.909,0.935,3:28
+3,2:42,IND,James Johnson,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,82,73,0.889,0.887,2:54
+3,2:02,BKN,Royce O'Neale,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,84,73,0.88,0.911,2:06
+3,1:51,IND,Chris Duarte,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,84,74,0.936,0.912,2:00
+3,1:25,BKN,Royce O'Neale,Loose Ball Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,86,74,0.904,0.946,1:30
+3,1:16,IND,T.J. McConnell,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,86,76,0.939,0.915,1:25
+3,43.4,IND,Goga Bitadze,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,88,79,0.926,0.899,1:03
+3,28.9,BKN,Joe Harris,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,90,81,0.857,0.902,28.9
+4,11:30,IND,James Johnson,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,92,85,0.903,0.861,11:34
+4,10:52,IND,Bennedict Mathurin,Offensive Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,96,87,0.915,0.892,10:54
+4,9:03,IND,Jalen Smith,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,96,94,0.694,0.68,9:11
+4,5:34,IND,Myles Turner,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,104,100,0.823,0.806,5:43
+4,5:28,IND,James Johnson,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,104,100,0.882,0.823,5:34
+4,5:13,BKN,Royce O'Neale,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,106,100,0.859,0.862,5:28
+4,4:19,IND,James Johnson,Personal Take Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,106,100,0.947,0.911,4:27
+4,3:52,BKN,Nic Claxton,Shooting Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,107,100,0.849,0.914,4:03
+4,2:58,BKN,Kyrie Irving,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,112,105,0.918,0.927,3:07
+4,2:50,IND,Myles Turner,Offensive Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,112,105,0.955,0.918,2:58
+4,33.6,IND,Tyrese Haliburton,Personal Foul,Foul,Derek Richardson,John Goble,Ben Taylor,BKN,114,109,0.985,0.959,33.6

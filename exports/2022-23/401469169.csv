@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:07,BKN,Dorian Finney-Smith,Loose Ball Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,4,7,0.625,0.625,9:07
+1,7:24,DEN,Michael Porter Jr.,Personal Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,9,12,0.591,0.59,7:35
+1,6:40,BKN,Nerlens Noel,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,13,12,0.724,0.685,6:40
+1,5:33,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,14,14,0.639,0.681,5:33
+1,2:55,DEN,Jeff Green,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,25,20,0.73,0.764,3:06
+1,2:04,BKN,Royce O'Neale,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,27,25,0.732,0.717,2:04
+2,11:50,DEN,Jeff Green,Offensive Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,30,30,0.634,0.648,12:00
+2,11:01,DEN,Vlatko Cancar,Flagrant Foul Type 1,Foul,Ed Malloy,Brian Forte,John Butler,DEN,33,35,0.581,0.602,11:01
+2,10:30,BKN,Seth Curry,Loose Ball Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,33,36,0.572,0.572,10:30
+2,10:09,DEN,Vlatko Cancar,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,33,36,0.495,0.54,10:14
+2,9:12,BKN,Seth Curry,Loose Ball Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,35,41,0.475,0.474,9:12
+2,9:07,BKN,Nic Claxton,Personal Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,35,41,0.475,0.475,9:12
+2,8:02,DEN,Jeff Green,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,37,45,0.351,0.402,8:02
+2,4:56,DEN,Bruce Brown,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,49,53,0.428,0.477,5:06
+2,3:01,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,57,54,0.644,0.69,3:19
+2,1:19,BKN,Nic Claxton,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,62,55,0.845,0.817,1:27
+2,4.1,DEN,Michael Porter Jr.,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,66,59,0.754,0.795,11.1
+3,11:34,DEN,Nikola Jokic,Personal Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,71,61,0.857,0.856,11:45
+3,11:17,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,71,63,0.828,0.84,11:17
+3,10:00,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,71,68,0.754,0.712,10:06
+3,9:07,BKN,Nic Claxton,Personal Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,74,71,0.708,0.711,9:19
+3,8:59,BKN,Nic Claxton,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,76,71,0.788,0.739,8:59
+3,8:20,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,77,73,0.657,0.706,8:25
+3,7:49,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,77,77,0.535,0.603,7:49
+3,5:09,BKN,Royce O'Neale,Personal Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,80,80,0.653,0.593,5:18
+3,4:59,DEN,Bruce Brown,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,80,82,0.434,0.509,4:59
+3,4:27,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,80,83,0.358,0.421,4:39
+3,4:27,DEN,Kentavious Caldwell-Pope,Technical Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,80,83,0.39,0.358,4:27
+3,4:19,BKN,Dorian Finney-Smith,Personal Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,80,86,0.401,0.339,4:27
+3,3:48,DEN,Bruce Brown,Technical Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,81,86,0.298,0.329,3:48
+3,3:16,BKN,Royce O'Neale,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,81,87,0.391,0.328,3:24
+3,1:52,BKN,Spencer Dinwiddie,Personal Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,83,92,0.249,0.198,2:03
+4,11:27,BKN,Royce O'Neale,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,87,98,0.157,0.105,11:43
+4,9:14,BKN,Royce O'Neale,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,90,103,0.078,0.048,9:19
+4,7:15,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,99,109,0.114,0.061,7:15
+4,5:10,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,107,116,0.105,0.055,5:10
+4,1:32,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,117,121,0.351,0.223,1:43
+4,41.1,BKN,Spencer Dinwiddie,Personal Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,119,121,0.533,0.377,41.1
+4,23.0,BKN,Spencer Dinwiddie,Offensive Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,120,121,0.461,0.36,41.1
+4,3.2,DEN,Bruce Brown,Personal Take Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,120,121,0.047,0.12,3.2
+4,1.1,DEN,Bruce Brown,Personal Foul,Foul,Ed Malloy,Brian Forte,John Butler,DEN,120,121,0.021,0.111,3.2

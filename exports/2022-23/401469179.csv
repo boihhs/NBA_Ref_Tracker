@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:03,HOU,Jalen Green,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,0,4,0.07,0.08,10:08
+1,9:11,BOS,Derrick White,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,3,6,0.101,0.101,9:17
+1,7:20,BOS,Derrick White,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,7,8,0.149,0.129,7:38
+1,4:54,BOS,Malcolm Brogdon,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,15,16,0.163,0.13,4:54
+1,4:14,HOU,Jalen Green,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,19,16,0.167,0.189,4:24
+1,2:52,BOS,Marcus Smart,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,19,21,0.16,0.138,2:57
+1,1:38,BOS,Blake Griffin,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,22,23,0.185,0.159,1:43
+1,1:30,HOU,KJ Martin,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,23,23,0.138,0.159,1:38
+1,1:06,BOS,Marcus Smart,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,25,26,0.175,0.145,1:06
+2,12:00,BOS,Marcus Smart,Technical Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,31,29,0.242,0.213,12:00
+2,11:49,HOU,Jae'Sean Tate,Offensive Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,32,29,0.224,0.247,12:00
+2,9:15,BOS,Malcolm Brogdon,Loose Ball Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,34,29,0.323,0.322,9:17
+2,9:03,BOS,Malcolm Brogdon,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,34,29,0.365,0.323,9:15
+2,7:58,BOS,Blake Griffin,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,38,33,0.379,0.335,8:14
+2,7:44,HOU,Josh Christopher,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,39,35,0.265,0.311,7:44
+2,4:03,BOS,Jaylen Brown,Offensive Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,46,46,0.245,0.217,4:19
+2,3:41,BOS,Derrick White,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,46,46,0.286,0.247,3:51
+2,3:33,HOU,Jabari Smith Jr.,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,48,46,0.273,0.272,3:41
+2,3:13,BOS,Marcus Smart,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,48,48,0.29,0.249,3:27
+2,1:39,BOS,Sam Hauser,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,57,50,0.515,0.453,1:39
+3,9:19,BOS,BOS,Technical Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,68,58,0.708,0.64,9:19
+3,8:52,HOU,Tari Eason,Loose Ball Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,69,58,0.687,0.684,8:52
+3,8:30,BOS,Jayson Tatum,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,71,58,0.818,0.764,8:30
+3,7:00,HOU,Kevin Porter Jr.,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,73,60,0.792,0.787,7:12
+3,6:03,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,73,64,0.601,0.661,6:10
+3,3:58,BOS,Marcus Smart,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,77,68,0.769,0.703,3:58
+3,3:25,HOU,Jae'Sean Tate,Offensive Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,78,71,0.629,0.67,3:40
+3,3:06,HOU,Jalen Green,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,78,71,0.565,0.629,3:25
+3,46.1,BOS,Derrick White,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,85,77,0.824,0.767,51.0
+4,11:35,HOU,Usman Garuba,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,85,80,0.589,0.605,11:36
+4,10:21,BOS,Sam Hauser,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,87,85,0.535,0.515,10:33
+4,7:06,HOU,Usman Garuba,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,98,89,0.841,0.875,7:18
+4,6:20,HOU,Tari Eason,Loose Ball Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,98,93,0.693,0.715,6:20
+4,4:57,BOS,Marcus Smart,Offensive Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,102,93,0.942,0.912,5:11
+4,3:19,HOU,Jae'Sean Tate,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,104,95,0.898,0.948,3:26
+4,3:16,HOU,KJ Martin,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,104,97,0.846,0.92,3:16
+4,3:05,BOS,Al Horford,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,104,97,0.96,0.922,3:11
+4,2:57,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,106,97,0.932,0.95,3:05
+4,2:13,HOU,Jalen Green,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,106,99,0.885,0.91,2:24
+4,1:44,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,106,103,0.618,0.782,1:44
+4,52.1,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,108,105,0.557,0.715,57.2
+4,13.0,BOS,Malcolm Brogdon,Personal Take Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,108,107,0.869,0.63,33.2
+4,10.0,BOS,Marcus Smart,Personal Take Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,108,107,0.878,0.869,13.0
+4,7.1,BOS,Derrick White,Personal Take Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,110,109,0.905,0.75,8.1
+4,1:44,HOU,Jae'Sean Tate,Loose Ball Foul,Foul,Ben Taylor,Scott Twardoski,Robert Hussey,HOU,106,105,0.385,1.0,0.0

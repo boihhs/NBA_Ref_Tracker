@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:38,WSH,Aaron Holiday,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,2,5,0.718,0.707,9:38
+1,9:10,WSH,Aaron Holiday,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,3,5,0.773,0.747,9:22
+1,7:54,WSH,Aaron Holiday,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,7,9,0.739,0.763,8:42
+1,6:29,PHX,Chris Paul,Personal Take Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,11,11,0.752,0.751,6:29
+1,5:45,PHX,Mikal Bridges,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,14,13,0.767,0.768,5:58
+1,5:05,PHX,Landry Shamet,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,16,13,0.8,0.802,5:15
+1,2:49,WSH,Raul Neto,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,20,20,0.743,0.733,2:49
+1,1:12,PHX,Jalen Smith,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,23,22,0.709,0.746,1:24
+1,1:01,WSH,Raul Neto,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,23,22,0.794,0.77,1:10
+1,53.5,PHX,Elfrid Payton,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,25,22,0.755,0.786,1:01
+1,35.9,WSH,Bradley Beal,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,27,23,0.82,0.804,35.9
+2,11:13,WSH,Davis Bertans,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,33,25,0.879,0.879,11:19
+2,9:05,PHX,Cameron Payne,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,38,33,0.795,0.829,9:05
+2,8:30,PHX,Cameron Johnson,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,40,33,0.845,0.844,8:43
+2,8:24,PHX,JaVale McGee,Defensive 3-Seconds Technical,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,40,33,0.848,0.845,8:30
+2,3:48,PHX,Jae Crowder,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,51,44,0.805,0.837,3:50
+2,2:25,WSH,Corey Kispert,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,53,48,0.813,0.814,2:26
+2,1:41,WSH,Montrezl Harrell,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,57,50,0.853,0.833,1:41
+3,11:04,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,62,52,0.921,0.902,11:21
+3,6:00,WSH,Kyle Kuzma,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,78,58,0.989,0.986,6:00
+3,5:10,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,78,58,0.993,0.99,5:13
+3,3:11,PHX,Cameron Payne,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,80,63,0.977,0.978,3:21
+3,2:36,WSH,Montrezl Harrell,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,80,65,0.981,0.973,2:57
+3,2:29,PHX,Cameron Johnson,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,82,65,0.979,0.979,2:36
+3,42.0,PHX,JaVale McGee,Loose Ball Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,86,69,0.975,0.984,42.5
+3,6.8,WSH,Bradley Beal,Offensive Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,89,71,0.992,0.988,20.7
+3,3.6,PHX,Cameron Johnson,Offensive Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,89,71,0.989,0.992,6.8
+4,11:12,WSH,Kentavious Caldwell-Pope,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,91,73,0.994,0.993,11:23
+4,11:07,WSH,Daniel Gafford,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,93,73,0.996,0.995,11:07
+4,10:09,PHX,JaVale McGee,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,96,73,0.997,0.998,10:20
+4,9:58,PHX,JaVale McGee,Offensive Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,96,74,0.998,0.998,10:09
+4,9:21,WSH,Aaron Holiday,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,96,74,0.999,0.999,9:27
+4,8:44,PHX,Cameron Payne,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,98,76,0.999,0.999,8:44
+4,8:27,PHX,Cameron Johnson,Offensive Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,98,76,0.999,0.999,8:29
+4,7:15,WSH,Anthony Gill,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,100,78,0.999,0.999,7:16
+4,7:06,PHX,Landry Shamet,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,102,78,0.999,0.999,7:15
+4,6:30,WSH,Bradley Beal,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,102,78,0.999,0.999,6:37
+4,5:44,PHX,Landry Shamet,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,106,80,0.999,0.999,6:01
+4,5:33,PHX,Cameron Payne,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,106,84,0.999,0.999,5:33
+4,3:50,WSH,Anthony Gill,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,109,87,0.999,0.999,4:08
+4,3:28,WSH,Corey Kispert,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,111,89,0.999,0.999,3:38
+4,3:22,PHX,Cameron Payne,Personal Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,113,89,0.999,0.999,3:28
+4,2:14,PHX,Cameron Payne,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,113,93,0.999,0.999,2:14
+4,1:42,PHX,Jalen Smith,Offensive Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,116,94,0.999,0.999,1:46
+4,1:28,PHX,Jalen Smith,Shooting Foul,Foul,Phenizee Ransom,Tre Maddox,Mitchell Ervin,PHX,116,94,0.999,0.999,1:42

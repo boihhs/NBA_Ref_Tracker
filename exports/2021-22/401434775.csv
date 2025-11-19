@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:37,GS,Draymond Green,Loose Ball Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,0,0,0.46,0.46,11:37
+1,9:33,GS,Kevon Looney,Offensive Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,5,4,0.485,0.51,9:38
+1,6:49,GS,Stephen Curry,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,13,7,0.579,0.619,6:52
+1,5:29,GS,Stephen Curry,Personal Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,16,8,0.673,0.67,5:34
+1,3:07,MEM,Steven Adams,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,21,18,0.615,0.573,3:13
+1,53.2,MEM,Kyle Anderson,Offensive Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,28,23,0.633,0.605,1:09
+2,11:28,GS,Draymond Green,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,33,28,0.587,0.639,11:28
+2,10:26,GS,Nemanja Bjelica,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,36,28,0.653,0.69,10:38
+2,7:28,MEM,Desmond Bane,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,44,37,0.724,0.677,7:28
+2,4:51,GS,Kevon Looney,Personal Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,44,48,0.343,0.34,4:54
+2,4:48,GS,Andrew Wiggins,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,44,48,0.298,0.343,4:51
+2,4:26,GS,Damion Lee,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,44,49,0.27,0.31,4:29
+2,3:23,MEM,Dillon Brooks,Flagrant Foul Type 1,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,46,51,0.331,0.34,3:23
+2,3:23,MEM,Dillon Brooks,Double Technical Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,46,51,0.331,0.331,3:23
+2,1:42,MEM,Desmond Bane,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,47,51,0.389,0.367,1:44
+2,45.0,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,51,51,0.552,0.502,51.3
+3,10:06,GS,Klay Thompson,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,53,53,0.44,0.464,10:06
+3,9:18,GS,Andrew Wiggins,Personal Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,55,54,0.505,0.506,9:30
+3,8:58,GS,Klay Thompson,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,55,54,0.478,0.505,9:02
+3,5:32,MEM,Tyus Jones,Offensive Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,69,66,0.633,0.591,5:36
+3,5:20,MEM,Tyus Jones,Loose Ball Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,69,66,0.634,0.634,5:20
+3,3:13,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,72,68,0.684,0.643,3:16
+3,2:14,GS,Draymond Green,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,74,68,0.668,0.727,2:34
+3,6.0,MEM,De'Anthony Melton,Personal Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,78,77,0.639,0.568,24.4
+4,8:21,MEM,Steven Adams,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,83,83,0.624,0.52,8:31
+4,4:46,GS,Stephen Curry,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,97,89,0.858,0.912,5:04
+4,2:10,GS,Kevon Looney,Personal Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,105,92,0.997,0.997,2:17
+4,1:32,GS,Kevon Looney,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,108,94,0.998,0.999,1:32
+4,1:30,GS,Draymond Green,Shooting Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,108,94,0.998,0.999,1:30
+4,1:08,MEM,Desmond Bane,Personal Take Foul,Foul,James Williams,Josh Tiven,Kane Fitzgerald,GS,108,96,0.999,0.999,1:11

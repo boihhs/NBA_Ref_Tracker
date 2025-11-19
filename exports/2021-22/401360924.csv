@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:24,POR,CJ Elleby,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,4,10,0.216,0.241,8:33
+1,5:11,HOU,Jae'Sean Tate,Personal Take Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,10,23,0.139,0.14,5:12
+1,4:00,HOU,Alperen Sengun,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,10,28,0.094,0.079,4:11
+1,1:20,POR,Greg Brown III,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,15,31,0.07,0.083,1:25
+1,45.4,HOU,KJ Martin,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,19,33,0.132,0.108,45.4
+1,34.8,POR,Drew Eubanks,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,20,33,0.101,0.122,45.4
+2,11:05,POR,Elijah Hughes,Flagrant Foul Type 1,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,25,40,0.095,0.102,11:05
+2,10:04,HOU,Josh Christopher,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,27,43,0.109,0.09,10:15
+2,9:01,POR,Kris Dunn,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,32,47,0.08,0.101,9:01
+2,8:24,HOU,Garrison Mathews,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,32,49,0.076,0.077,8:40
+2,8:16,HOU,Garrison Mathews,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,34,49,0.11,0.087,8:16
+2,7:38,POR,Trendon Watford,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,36,49,0.113,0.112,7:47
+2,7:10,POR,Ben McLemore,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,36,51,0.078,0.098,7:10
+2,5:46,POR,CJ Elleby,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,38,57,0.035,0.045,5:49
+2,4:28,HOU,Alperen Sengun,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,44,58,0.117,0.091,4:28
+2,2:21,POR,Trendon Watford,Offensive Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,47,60,0.099,0.116,2:28
+2,2:05,POR,Keljin Blevins,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,47,60,0.078,0.099,2:21
+3,8:48,POR,Brandon Williams,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,59,77,0.03,0.029,8:59
+3,7:01,HOU,Christian Wood,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,61,82,0.024,0.016,7:05
+3,6:52,POR,CJ Elleby,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,62,82,0.016,0.016,7:01
+3,6:42,POR,Greg Brown III,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,62,82,0.016,0.016,6:52
+3,6:40,POR,Greg Brown III,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,62,82,0.011,0.016,6:42
+3,6:02,POR,Kris Dunn,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,65,85,0.01,0.015,6:12
+3,5:18,HOU,Jae'Sean Tate,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,65,89,0.009,0.006,5:34
+3,2:02,HOU,Kevin Porter Jr.,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,76,93,0.025,0.025,2:08
+3,10.2,HOU,Garrison Mathews,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,80,93,0.076,0.055,28.3
+4,11:47,POR,Drew Eubanks,Offensive Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,82,96,0.029,0.036,12:00
+4,11:29,HOU,Alperen Sengun,Loose Ball Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,82,96,0.039,0.037,11:29
+4,10:42,HOU,KJ Martin,Loose Ball Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,82,99,0.016,0.014,10:42
+4,8:49,POR,Keon Johnson,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,86,104,0.002,0.004,8:56
+4,7:56,HOU,Josh Christopher,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,90,108,0.007,0.003,7:56
+4,5:24,HOU,Dennis Schroder,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,93,113,0.001,0.001,5:37
+4,5:24,HOU,Dennis Schroder,Technical Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,93,113,0.001,0.001,5:24
+4,5:17,HOU,Dennis Schroder,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,93,113,0.001,0.001,5:24
+4,4:57,HOU,Dennis Schroder,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,95,113,0.003,0.001,4:58
+4,4:40,POR,Trendon Watford,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,96,113,0.001,0.001,4:54
+4,3:37,POR,Keljin Blevins,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,98,113,0.001,0.001,3:42
+4,2:56,HOU,Daishen Nix,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,98,117,0.001,0.001,3:12
+4,2:46,POR,Keon Johnson,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,100,117,0.001,0.001,2:56
+4,1:31,POR,Ben McLemore,Shooting Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,102,121,0.001,0.001,1:41
+4,52.9,HOU,Bruno Fernando,Personal Foul,Foul,Brent Barnaky,Sean Wright,Ray Acosta,POR,104,125,0.001,0.001,1:08

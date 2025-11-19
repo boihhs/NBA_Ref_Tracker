@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:07,IND,Aaron Nesmith,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,3,4,0.691,0.66,10:22
+1,8:23,BOS,Jaylen Brown,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,9,8,0.64,0.674,8:33
+1,6:57,IND,Myles Turner,Offensive Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,15,16,0.647,0.624,7:12
+1,4:59,IND,Ben Sheppard,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,17,20,0.587,0.587,5:00
+1,4:43,BOS,Jaylen Brown,Loose Ball Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,17,20,0.561,0.559,4:43
+1,2:40,IND,T.J. McConnell,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,20,25,0.521,0.522,2:57
+1,2:07,IND,Pascal Siakam,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,20,25,0.561,0.518,2:11
+2,9:41,IND,T.J. McConnell,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,32,27,0.796,0.766,10:00
+2,8:50,BOS,Sam Hauser,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,37,27,0.843,0.843,9:07
+2,7:49,IND,Obi Toppin,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,39,27,0.908,0.89,8:01
+2,6:45,BOS,Derrick White,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,42,27,0.897,0.915,7:04
+2,6:09,IND,Andrew Nembhard,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,42,29,0.922,0.906,6:19
+2,4:11,IND,Myles Turner,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,47,37,0.887,0.865,4:12
+2,12.0,IND,Aaron Nesmith,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,56,49,0.843,0.81,31.0
+3,11:34,BOS,Jayson Tatum,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,59,51,0.773,0.811,11:47
+3,9:40,IND,Andrew Nembhard,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,64,57,0.814,0.816,9:57
+3,9:33,IND,Pascal Siakam,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,64,57,0.813,0.814,9:40
+3,7:28,BOS,Derrick White,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,70,66,0.7,0.701,7:38
+3,7:10,IND,Aaron Nesmith,Loose Ball Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,70,66,0.731,0.734,7:10
+3,5:20,IND,Aaron Nesmith,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,75,68,0.861,0.826,5:32
+3,3:19,IND,Pascal Siakam,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,84,71,0.954,0.933,3:19
+3,2:04,BOS,Derrick White,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,89,76,0.915,0.937,2:23
+3,1:22,BOS,Jaylen Brown,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,91,77,0.935,0.953,1:44
+3,1:18,BOS,Jrue Holiday,Loose Ball Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,91,77,0.935,0.955,1:18
+4,10:49,IND,T.J. McConnell,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,95,82,0.976,0.956,10:49
+4,9:25,BOS,Jrue Holiday,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,99,82,0.989,0.99,9:34
+4,8:41,BOS,Jayson Tatum,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,99,84,0.981,0.983,8:47
+4,7:40,IND,Ben Sheppard,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,102,86,0.994,0.993,7:41
+4,7:26,BOS,Jaylen Brown,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,104,86,0.991,0.996,7:33
+4,6:45,IND,Andrew Nembhard,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,104,89,0.992,0.992,6:58
+4,6:45,IND,Isaiah Jackson,Double Technical Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,104,89,0.991,0.992,6:45
+4,6:31,IND,Jalen Smith,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,104,89,0.996,0.991,6:45
+4,5:36,IND,Andrew Nembhard,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,108,92,0.998,0.996,5:42
+4,4:51,BOS,Derrick White,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,113,96,0.996,0.998,4:51
+4,3:15,BOS,Payton Pritchard,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,115,101,0.994,0.998,3:15
+4,2:55,IND,Jalen Smith,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,117,102,0.999,0.998,2:55
+4,1:15,IND,Jarace Walker,Personal Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,121,106,0.999,0.999,1:29
+4,32.0,BOS,Svi Mykhailiuk,Shooting Foul,Foul,James Williams,Sean Wright,Scott Foster,BOS,126,106,0.999,0.999,34.0

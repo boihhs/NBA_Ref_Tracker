@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:03,DET,Frank Jackson,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,0,0,0.851,0.851,11:12
+1,10:26,DET,Hamidou Diallo,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,0,3,0.828,0.808,10:44
+1,8:23,DET,Trey Lyles,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,8,11,0.816,0.794,8:32
+1,8:13,MIA,Duncan Robinson,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,10,11,0.808,0.809,8:23
+1,8:01,MIA,Kyle Lowry,Loose Ball Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,10,11,0.807,0.807,8:01
+1,6:41,MIA,Gabe Vincent,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,12,13,0.799,0.799,6:43
+1,6:20,MIA,KZ Okpala,Offensive Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,12,16,0.74,0.762,6:30
+1,4:29,MIA,Duncan Robinson,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,12,19,0.613,0.653,4:35
+1,4:06,DET,Trey Lyles,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,14,21,0.676,0.647,4:06
+1,2:51,DET,Frank Jackson,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,17,24,0.701,0.667,3:11
+1,2:09,MIA,Marcus Garrett,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,21,24,0.694,0.732,2:20
+1,1:55,DET,Hamidou Diallo,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,21,26,0.737,0.706,2:09
+1,1:03,MIA,Gabe Vincent,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,25,26,0.745,0.759,1:03
+1,13.0,DET,Josh Jackson,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,27,29,0.745,0.733,13.0
+2,9:26,MIA,Omer Yurtseven,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,36,38,0.712,0.735,9:26
+2,7:14,MIA,Gabe Vincent,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,43,45,0.693,0.693,7:14
+2,4:59,MIA,Kyle Lowry,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,43,50,0.516,0.517,5:03
+2,4:22,MIA,Kyle Lowry,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,43,50,0.458,0.512,4:39
+2,4:00,MIA,Tyler Herro,Loose Ball Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,43,50,0.505,0.505,4:00
+2,3:01,MIA,Duncan Robinson,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,43,54,0.298,0.352,3:12
+2,2:50,DET,Jamorko Pickett,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,43,56,0.313,0.317,3:01
+3,8:11,DET,Frank Jackson,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,62,70,0.447,0.387,8:17
+3,8:11,DET,Frank Jackson,Technical Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,62,70,0.416,0.447,8:11
+3,8:00,MIA,Omer Yurtseven,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,65,70,0.465,0.466,8:11
+3,7:00,DET,Hamidou Diallo,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,68,72,0.53,0.533,7:14
+3,6:51,MIA,Omer Yurtseven,Offensive Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,68,72,0.487,0.53,7:00
+3,6:26,DET,Cory Joseph,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,68,72,0.522,0.526,6:38
+3,5:02,DET,Hamidou Diallo,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,71,72,0.609,0.632,5:10
+3,4:04,MIA,Max Strus,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,73,75,0.47,0.534,4:08
+3,3:45,DET,Trey Lyles,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,73,77,0.464,0.487,3:45
+3,2:36,MIA,Tyler Herro,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,81,80,0.649,0.651,2:47
+3,2:25,MIA,Marcus Garrett,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,81,80,0.582,0.649,2:36
+3,1:44,MIA,Udonis Haslem,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,81,83,0.433,0.506,1:49
+3,1:20,DET,Hamidou Diallo,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,83,83,0.618,0.598,1:20
+4,10:12,MIA,Gabe Vincent,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,94,89,0.784,0.794,10:23
+4,10:04,MIA,Max Strus,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,94,91,0.704,0.754,10:04
+4,9:28,MIA,MIA,Technical Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,96,92,0.709,0.745,9:28
+4,9:17,MIA,Marcus Garrett,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,96,95,0.623,0.651,9:17
+4,8:22,DET,Frank Jackson,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,96,96,0.596,0.582,8:28
+4,8:18,MIA,Omer Yurtseven,Offensive Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,96,96,0.524,0.596,8:22
+4,5:17,DET,Saddiq Bey,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,98,100,0.443,0.428,5:26
+4,4:11,MIA,Kyle Lowry,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,102,103,0.291,0.416,4:26
+4,3:34,MIA,Kyle Lowry,Personal Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,102,105,0.156,0.246,3:46
+4,2:54,DET,Frank Jackson,Shooting Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,104,107,0.293,0.22,2:54
+4,2:09,DET,Cory Joseph,Offensive Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,107,110,0.272,0.207,2:25
+4,25.6,DET,Frank Jackson,Loose Ball Foul,Foul,Eric Lewis,Gediminas Petraitis,Jonathan Sterling,MIA,115,112,0.943,0.865,25.6

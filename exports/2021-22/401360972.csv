@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:36,BOS,Marcus Smart,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,2,0,0.933,0.934,11:45
+1,11:06,BOS,Daniel Theis,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,2,0,0.922,0.932,11:10
+1,6:48,BOS,Jaylen Brown,Personal Take Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,14,11,0.924,0.924,6:48
+1,6:42,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,14,11,0.912,0.924,6:48
+1,5:38,IND,Tyrese Haliburton,Personal Take Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,19,16,0.928,0.928,5:40
+1,3:10,IND,Justin Anderson,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,27,21,0.946,0.935,3:10
+1,2:19,IND,Tyrese Haliburton,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,30,23,0.954,0.946,2:39
+1,2.0,IND,Duane Washington Jr.,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,37,28,0.96,0.953,8.1
+2,11:47,BOS,Daniel Theis,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,37,30,0.927,0.94,11:47
+2,11:03,IND,Jalen Smith,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,37,33,0.927,0.915,11:05
+2,8:54,IND,Justin Anderson,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,42,33,0.956,0.947,8:56
+2,8:40,BOS,Payton Pritchard,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,43,33,0.946,0.947,8:54
+2,8:17,IND,Lance Stephenson,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,43,35,0.949,0.94,8:35
+2,7:41,IND,Jalen Smith,Personal Take Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,45,38,0.941,0.931,7:47
+2,7:27,BOS,Payton Pritchard,Loose Ball Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,45,38,0.921,0.92,7:28
+2,6:29,IND,Terry Taylor,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,50,41,0.948,0.935,6:29
+2,5:21,BOS,Grant Williams,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,54,45,0.919,0.933,5:31
+2,4:55,IND,Isaiah Jackson,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,54,47,0.936,0.925,5:06
+2,1:42,IND,Goga Bitadze,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,62,57,0.91,0.892,1:56
+2,1:34,BOS,Marcus Smart,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,64,57,0.882,0.904,1:42
+2,1:10,BOS,Jaylen Brown,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,64,59,0.849,0.874,1:13
+2,55.1,IND,Tyrese Haliburton,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,64,61,0.881,0.86,1:10
+2,13.4,IND,Buddy Hield,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,68,61,0.913,0.9,29.8
+3,11:23,IND,Terry Taylor,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,68,61,0.911,0.913,11:38
+3,10:35,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,70,61,0.901,0.921,10:37
+3,10:26,IND,Buddy Hield,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,70,63,0.926,0.909,10:35
+3,9:47,IND,Oshae Brissett,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,72,66,0.893,0.876,10:00
+3,9:38,IND,Buddy Hield,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,72,66,0.891,0.893,9:47
+3,9:00,BOS,Daniel Theis,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,74,66,0.881,0.905,9:10
+3,8:12,IND,Tyrese Haliburton,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,76,68,0.934,0.917,8:19
+3,7:08,BOS,Al Horford,Loose Ball Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,79,71,0.902,0.901,7:08
+3,6:34,IND,Goga Bitadze,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,79,73,0.908,0.886,6:51
+3,6:13,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,81,73,0.873,0.901,6:34
+3,4:27,IND,Tyrese Haliburton,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,84,77,0.922,0.899,4:29
+3,4:13,IND,Jalen Smith,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,86,77,0.929,0.913,4:27
+3,35.1,IND,Buddy Hield,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,92,89,0.792,0.759,51.0
+3,3.4,IND,Lance Stephenson,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,94,91,0.837,0.79,10.5
+4,10:15,BOS,Jaylen Brown,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,100,95,0.819,0.855,10:34
+4,10:06,IND,Isaiah Jackson,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,100,95,0.855,0.819,10:15
+4,8:27,BOS,Jaylen Brown,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,103,99,0.697,0.778,8:40
+4,8:13,IND,Tyrese Haliburton,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,103,101,0.743,0.732,8:27
+4,7:47,BOS,Payton Pritchard,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,106,101,0.74,0.817,8:02
+4,7:28,IND,Duane Washington Jr.,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,106,103,0.844,0.814,7:28
+4,3:25,IND,Duane Washington Jr.,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,116,112,0.863,0.814,3:55
+4,3:15,IND,Oshae Brissett,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,118,112,0.951,0.896,3:15
+4,2:07,IND,Lance Stephenson,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,119,114,0.962,0.92,2:30
+4,1:55,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,120,114,0.839,0.922,2:07
+4,1:04,BOS,Jaylen Brown,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Brett Nansel,BOS,124,119,0.782,0.878,1:13

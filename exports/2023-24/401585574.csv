@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:05,DET,Jalen Duren,Offensive Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,2,2,0.664,0.683,10:21
+1,6:28,TOR,Immanuel Quickley,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,14,12,0.717,0.717,6:37
+1,5:58,DET,Jalen Duren,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,16,12,0.705,0.738,6:19
+1,4:23,DET,Quentin Grimes,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,18,19,0.595,0.641,4:23
+1,5.1,DET,Marcus Sasser,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,32,26,0.736,0.77,23.0
+1,2.1,DET,Evan Fournier,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,32,26,0.736,0.736,5.1
+2,10:32,DET,Marcus Sasser,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,32,29,0.679,0.696,10:35
+2,8:05,TOR,Jontay Porter,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,32,38,0.479,0.458,8:15
+2,7:00,TOR,Jalen McDaniels,Loose Ball Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,33,40,0.416,0.426,8:27
+2,3:13,DET,Isaiah Stewart,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,37,51,0.132,0.164,3:18
+2,2:35,TOR,Ochai Agbaji,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,39,53,0.218,0.183,2:35
+2,2:28,DET,Jaden Ivey,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,41,53,0.203,0.204,2:35
+2,1:35,DET,Cade Cunningham,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,44,57,0.139,0.173,1:39
+3,11:40,DET,Jaden Ivey,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,52,57,0.344,0.397,11:44
+3,11:21,TOR,Immanuel Quickley,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,52,59,0.411,0.356,11:23
+3,10:31,TOR,Ochai Agbaji,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,56,59,0.552,0.497,10:33
+3,10:08,DET,Cade Cunningham,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,58,59,0.531,0.532,10:27
+3,10:08,TOR,Immanuel Quickley,Technical Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,58,59,0.595,0.531,10:08
+3,9:42,TOR,Kelly Olynyk,Defensive 3-Seconds Technical,Foul,James Williams,Marat Kogut,Andy Nagy,DET,58,59,0.556,0.566,9:52
+3,8:21,TOR,Bruce Brown,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,64,61,0.723,0.667,8:21
+3,6:28,TOR,Kelly Olynyk,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,67,68,0.611,0.553,6:44
+3,5:10,TOR,Kelly Olynyk,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,71,70,0.684,0.628,5:23
+3,4:45,TOR,Jordan Nwora,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,73,73,0.646,0.586,4:56
+3,4:02,DET,Isaiah Stewart,Offensive Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,75,73,0.624,0.664,4:05
+3,3:49,DET,James Wiseman,Offensive Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,75,73,0.624,0.664,3:49
+3,3:44,DET,Quentin Grimes,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,75,73,0.56,0.664,3:49
+3,2:29,TOR,Jalen McDaniels,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,77,77,0.644,0.578,2:37
+3,1:28,TOR,Jahmi'us Ramsey,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,79,79,0.643,0.574,1:33
+4,11:49,DET,Quentin Grimes,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,83,81,0.565,0.665,11:49
+4,10:39,DET,Stanley Umude,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,85,81,0.694,0.707,10:43
+4,10:24,TOR,Jalen McDaniels,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,85,81,0.76,0.749,10:27
+4,10:02,DET,Simone Fontecchio,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,85,81,0.615,0.709,10:07
+4,8:43,TOR,Jalen McDaniels,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,87,81,0.844,0.833,8:47
+4,8:01,DET,James Wiseman,Offensive Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,89,81,0.873,0.901,8:11
+4,5:21,DET,Marcus Sasser,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,97,86,0.937,0.965,5:28
+4,5:08,DET,Jalen Duren,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,97,86,0.94,0.937,5:21
+4,3:39,TOR,Kelly Olynyk,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,103,89,0.998,0.997,3:51
+4,2:18,DET,Marcus Sasser,Shooting Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,105,94,0.983,0.994,2:18
+4,43.2,TOR,Jontay Porter,Personal Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,107,98,0.998,0.995,52.0
+4,39.0,TOR,Kelly Olynyk,Personal Take Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,107,98,0.998,0.991,43.2
+4,14.1,TOR,Gradey Dick,Personal Take Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,109,102,0.998,0.996,15.1
+4,6.1,TOR,Gradey Dick,Personal Take Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,110,104,0.998,0.996,7.1
+4,4.0,TOR,Bruce Brown,Personal Take Foul,Foul,James Williams,Marat Kogut,Andy Nagy,DET,111,104,0.999,0.999,5.0

@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:40,OKC,Darius Bazley,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,6,7,0.79,0.779,8:40
+1,8:33,CLE,Isaac Okoro,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,7,7,0.778,0.778,8:35
+1,7:42,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,9,10,0.764,0.755,7:42
+1,7:18,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,10,10,0.789,0.773,7:42
+1,5:47,CLE,Jarrett Allen,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,14,10,0.808,0.832,5:49
+1,4:28,CLE,Darius Garland,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,17,12,0.843,0.844,4:34
+1,3:13,OKC,Josh Giddey,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,19,14,0.852,0.855,3:20
+1,2:41,CLE,Cedi Osman,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,19,14,0.812,0.837,2:47
+1,49.8,OKC,Tre Mann,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,23,19,0.824,0.816,49.8
+1,2:47,CLE,Lamar Stevens,Loose Ball Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,19,14,0.813,0.83,49.8
+2,11:21,OKC,Tre Mann,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,24,22,0.792,0.792,11:29
+2,11:11,OKC,Tre Mann,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,24,22,0.817,0.792,11:21
+2,8:30,OKC,Kenrich Williams,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,30,30,0.732,0.734,8:34
+2,7:32,OKC,Tre Mann,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,34,30,0.842,0.814,7:32
+2,7:19,CLE,Darius Garland,Offensive Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,34,30,0.794,0.842,7:32
+2,6:01,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,36,33,0.777,0.789,6:01
+2,5:24,CLE,Lauri Markkanen,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,36,33,0.728,0.763,5:30
+2,4:55,CLE,Isaac Okoro,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,39,35,0.785,0.786,5:06
+2,3:24,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,41,37,0.833,0.803,3:43
+2,2:04,OKC,Luguentz Dort,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,46,37,0.901,0.875,2:04
+3,11:36,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,47,45,0.74,0.741,11:42
+3,11:21,OKC,Darius Bazley,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,47,45,0.759,0.74,11:21
+3,10:07,CLE,Dean Wade,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,51,45,0.811,0.811,10:18
+3,9:45,CLE,Evan Mobley,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,51,45,0.773,0.81,9:48
+3,8:41,CLE,Darius Garland,Personal Take Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,53,50,0.727,0.727,8:43
+3,8:00,OKC,Jeremiah Robinson-Earl,Defensive 3-Seconds Technical,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,55,50,0.803,0.809,8:11
+3,7:55,OKC,Luguentz Dort,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,59,50,0.903,0.875,7:55
+3,7:30,OKC,Josh Giddey,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,60,53,0.884,0.855,7:41
+3,7:16,OKC,Luguentz Dort,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,61,53,0.901,0.874,7:26
+3,7:02,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,63,53,0.909,0.892,7:02
+3,6:14,OKC,Darius Bazley,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,63,53,0.931,0.91,6:24
+3,3:08,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,73,57,0.985,0.978,3:14
+3,1:49,CLE,Cedi Osman,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,76,63,0.956,0.95,1:54
+4,11:33,CLE,Lamar Stevens,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,78,70,0.888,0.9,11:33
+4,10:13,OKC,Aaron Wiggins,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,78,73,0.872,0.817,10:33
+4,9:43,CLE,Cedi Osman,Personal Take Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,81,73,0.872,0.881,9:49
+4,9:27,CLE,Isaac Okoro,Offensive Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,81,73,0.878,0.905,9:38
+4,8:31,OKC,Josh Giddey,Offensive Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,81,73,0.911,0.881,8:48
+4,7:04,CLE,Kevin Love,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,81,73,0.886,0.893,7:19
+4,7:04,OKC,Luguentz Dort,Flagrant Foul Type 2,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,81,73,0.914,0.886,7:04
+4,6:04,OKC,Aaron Wiggins,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,83,75,0.96,0.929,6:12
+4,3:02,CLE,Isaac Okoro,Shooting Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,89,80,0.966,0.98,3:02
+4,1:55,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,89,83,0.97,0.927,2:17
+4,59.7,CLE,Darius Garland,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,91,85,0.847,0.922,1:10
+4,36.4,OKC,Josh Giddey,Personal Take Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,91,85,0.991,0.974,37.8
+4,14.7,OKC,Josh Giddey,Personal Foul,Foul,Ed Malloy,Tom Washington,J.T. Orr,CLE,93,87,0.997,0.984,22.7

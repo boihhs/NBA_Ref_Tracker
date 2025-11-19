@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:10,IND,Domantas Sabonis,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,0,3,0.473,0.437,11:20
+1,10:22,CLE,Jarrett Allen,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,2,5,0.412,0.41,10:33
+1,10:05,IND,Chris Duarte,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,2,7,0.384,0.387,10:13
+1,8:56,CLE,Collin Sexton,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,7,13,0.337,0.336,9:01
+1,7:48,CLE,Evan Mobley,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,7,14,0.295,0.335,7:48
+1,7:14,IND,Malcolm Brogdon,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,11,15,0.396,0.383,7:14
+1,5:11,IND,Chris Duarte,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,16,17,0.527,0.487,5:13
+1,5:06,IND,Jeremy Lamb,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,16,17,0.527,0.527,5:11
+1,2:14,CLE,Kevin Love,Personal Take Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,26,27,0.417,0.454,2:14
+1,1:07,CLE,Ricky Rubio,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,28,32,0.335,0.374,1:16
+1,26.6,IND,Domantas Sabonis,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,28,32,0.441,0.399,30.7
+2,10:15,IND,Isaiah Jackson,Away from Play Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,32,34,0.454,0.454,10:15
+2,9:17,CLE,Darius Garland,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,35,37,0.424,0.424,9:17
+2,7:51,IND,Brad Wanamaker,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,40,42,0.452,0.452,7:53
+2,7:36,IND,Isaiah Jackson,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,40,42,0.499,0.452,7:51
+2,6:44,CLE,Evan Mobley,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,45,42,0.531,0.574,7:07
+2,4:41,CLE,Evan Mobley,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,50,48,0.499,0.548,4:48
+2,3:05,IND,Myles Turner,Offensive Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,52,54,0.449,0.416,3:20
+2,2:26,IND,Chris Duarte,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,54,56,0.448,0.416,2:26
+2,1:45,IND,T.J. McConnell,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,55,59,0.431,0.383,2:07
+3,11:08,IND,Domantas Sabonis,Offensive Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,62,66,0.378,0.34,11:26
+3,9:03,CLE,Jarrett Allen,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,62,70,0.17,0.209,9:08
+3,8:52,IND,Torrey Craig,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,62,72,0.223,0.183,9:03
+3,8:19,CLE,Isaac Okoro,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,62,72,0.156,0.154,8:19
+3,6:02,IND,Myles Turner,Offensive Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,65,74,0.192,0.164,6:10
+3,6:10,CLE,Darius Garland,Offensive Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,65,74,0.164,0.145,3:34
+3,3:27,CLE,Ricky Rubio,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,69,78,0.144,0.164,6:10
+3,2:53,IND,Malcolm Brogdon,Offensive Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,71,80,0.169,0.141,3:04
+3,2:01,IND,T.J. McConnell,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,74,80,0.323,0.263,2:06
+4,11:47,IND,Goga Bitadze,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,75,86,0.096,0.08,12:00
+4,9:57,IND,Goga Bitadze,Offensive Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,78,90,0.059,0.047,10:11
+4,8:20,IND,Brad Wanamaker,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,81,92,0.068,0.064,8:35
+4,6:53,IND,Brad Wanamaker,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,83,92,0.103,0.094,6:57
+4,5:46,CLE,Kevin Pangos,Personal Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,87,94,0.102,0.107,5:50
+4,2:36,IND,Goga Bitadze,Loose Ball Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,91,106,0.001,0.001,2:37
+4,2:03,CLE,Tacko Fall,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,93,106,0.001,0.001,2:07
+4,1:38,IND,Goga Bitadze,Offensive Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,95,107,0.002,0.001,1:47
+4,1:05,IND,Goga Bitadze,Shooting Foul,Foul,James Williams,Brandon Adair,Dannica Mosher,CLE,95,107,0.005,0.001,1:06

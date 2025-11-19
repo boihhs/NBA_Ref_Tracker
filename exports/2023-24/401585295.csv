@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:20,MIL,Brook Lopez,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,2,7,0.494,0.45,10:20
+1,9:20,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,3,12,0.406,0.368,9:40
+1,3:00,MIL,Cameron Payne,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,13,26,0.277,0.243,3:03
+1,2:41,MIL,Cameron Payne,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,15,26,0.326,0.287,2:50
+1,5.1,DEN,Reggie Jackson,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,25,26,0.485,0.529,17.0
+2,11:40,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,25,26,0.553,0.556,11:40
+2,11:26,MIL,Bobby Portis,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,27,26,0.63,0.583,11:26
+2,11:06,DEN,DeAndre Jordan,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,28,26,0.589,0.609,11:06
+2,10:54,MIL,Bobby Portis,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,28,27,0.649,0.609,11:02
+2,9:58,DEN,DeAndre Jordan,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,32,30,0.608,0.607,10:16
+2,9:55,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,32,32,0.528,0.579,9:55
+2,9:36,DEN,Christian Braun,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,34,32,0.565,0.608,9:47
+2,5:35,DEN,Michael Porter Jr.,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,42,42,0.493,0.541,5:49
+2,3:27,MIL,Damian Lillard,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,46,52,0.423,0.375,3:43
+3,11:53,MIL,Khris Middleton,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,56,56,0.563,0.546,12:00
+3,10:16,DEN,Aaron Gordon,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,58,58,0.524,0.564,10:35
+3,8:49,MIL,Brook Lopez,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,60,63,0.447,0.444,8:49
+3,7:55,DEN,Michael Porter Jr.,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,63,63,0.518,0.517,8:04
+3,7:50,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,63,63,0.519,0.518,7:55
+3,7:03,MIL,Damian Lillard,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,65,65,0.614,0.558,7:09
+3,6:50,MIL,Khris Middleton,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,67,65,0.633,0.634,6:50
+3,6:15,DEN,Aaron Gordon,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,67,65,0.564,0.595,6:30
+3,4:30,MIL,Khris Middleton,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,69,68,0.655,0.552,4:39
+3,3:55,DEN,Nikola Jokic,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,72,68,0.614,0.674,4:02
+3,1:56,DEN,Reggie Jackson,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,76,70,0.698,0.755,2:16
+3,1:10,DEN,Reggie Jackson,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,80,72,0.778,0.83,1:24
+3,49.1,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,80,74,0.848,0.802,1:10
+3,3.1,DEN,Christian Braun,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,82,74,0.789,0.837,8.0
+4,10:44,DEN,Reggie Jackson,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,84,77,0.748,0.818,10:48
+4,8:09,MIL,Jae Crowder,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,88,90,0.528,0.425,8:19
+4,7:51,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,91,90,0.62,0.604,7:55
+4,7:14,MIL,Bobby Portis,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,91,90,0.635,0.614,7:22
+4,6:56,MIL,Brook Lopez,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,93,90,0.784,0.681,6:56
+4,6:42,DEN,Aaron Gordon,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,94,90,0.647,0.744,6:56
+4,5:59,DEN,Aaron Gordon,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,96,92,0.729,0.748,6:04
+4,5:48,DEN,Aaron Gordon,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,96,92,0.641,0.729,5:59
+4,4:40,MIL,Malik Beasley,Personal Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,98,97,0.717,0.615,5:02
+4,4:08,MIL,Brook Lopez,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,102,97,0.853,0.803,4:23
+4,3:08,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,106,97,0.925,0.958,3:16
+4,2:09,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,108,102,0.864,0.897,2:09
+4,24.0,MIL,Khris Middleton,Personal Take Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,110,105,0.987,0.961,24.1
+4,18.1,DEN,Aaron Gordon,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,111,105,0.904,0.961,24.0
+4,11.1,MIL,Khris Middleton,Personal Take Foul,Foul,Dedric Taylor,Tony Brothers,Mousa Dagher,DEN,111,107,0.987,0.94,18.1

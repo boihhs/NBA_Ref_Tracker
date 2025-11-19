@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:32,PHX,Kevin Durant,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,5,0,0.778,0.749,9:34
+1,7:37,PHX,Grayson Allen,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,8,3,0.747,0.749,7:42
+1,7:32,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,8,3,0.728,0.747,7:37
+1,6:13,PHX,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,8,5,0.735,0.704,6:16
+1,6:10,PHX,Kevin Durant,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,10,5,0.776,0.746,6:12
+1,4:32,MIN,Anthony Edwards,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,16,7,0.805,0.805,4:49
+1,4:02,MIN,Naz Reid,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,16,11,0.705,0.743,4:02
+1,2:39,PHX,Eric Gordon,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,18,14,0.754,0.722,2:54
+1,2:21,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,20,14,0.709,0.744,2:39
+1,2:01,MIN,Monte Morris,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,20,15,0.686,0.719,2:05
+1,1:53,PHX,Royce O'Neale,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,20,17,0.731,0.695,2:01
+1,53.2,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,22,19,0.633,0.673,53.2
+2,11:06,MIN,Monte Morris,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,24,24,0.587,0.586,11:09
+2,10:47,MIN,Rudy Gobert,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,24,24,0.566,0.585,10:47
+2,10:02,PHX,Grayson Allen,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,24,26,0.598,0.555,10:05
+2,8:03,MIN,Jaden McDaniels,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,31,35,0.431,0.487,8:03
+2,7:17,MIN,Monte Morris,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,31,36,0.374,0.419,7:20
+2,5:25,MIN,Jaden McDaniels,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,37,42,0.362,0.41,5:46
+2,4:15,PHX,Devin Booker,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,40,46,0.404,0.404,4:23
+2,4:15,MIN,Jaden McDaniels,Technical Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,40,46,0.347,0.404,4:15
+2,59.0,PHX,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,46,51,0.468,0.417,1:00
+3,9:17,MIN,Rudy Gobert,Loose Ball Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,52,53,0.506,0.506,9:18
+3,8:52,PHX,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,52,55,0.523,0.466,9:05
+3,8:21,PHX,Royce O'Neale,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,56,57,0.569,0.502,8:21
+3,5:49,PHX,Bradley Beal,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,62,63,0.592,0.532,5:52
+3,5:18,PHX,Devin Booker,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,64,63,0.669,0.611,5:25
+3,4:32,PHX,Bradley Beal,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,66,63,0.741,0.688,4:42
+3,4:25,MIN,Anthony Edwards,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,68,63,0.722,0.723,4:32
+3,4:13,MIN,Naz Reid,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,68,63,0.722,0.723,4:14
+3,2:11,PHX,Devin Booker,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,72,65,0.871,0.831,2:29
+3,1:14,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,77,67,0.85,0.886,1:33
+3,9.1,MIN,Karl-Anthony Towns,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,77,69,0.795,0.842,27.0
+3,1.1,PHX,Royce O'Neale,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,77,71,0.839,0.815,9.1
+4,11:33,PHX,Kevin Durant,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,78,71,0.897,0.832,12:00
+4,9:55,PHX,Devin Booker,Offensive Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,84,76,0.895,0.867,10:00
+4,6:24,MIN,Anthony Edwards,Offensive Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,96,81,0.99,0.993,6:43
+4,5:17,PHX,Drew Eubanks,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,96,83,0.995,0.99,5:19
+4,5:17,PHX,PHX,Technical Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,96,83,0.993,0.995,5:17
+4,3:26,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,102,87,0.995,0.998,3:32
+4,3:12,PHX,Jusuf Nurkic,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,102,88,0.998,0.998,3:24
+4,2:46,MIN,Jaden McDaniels,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,102,88,0.998,0.998,2:57
+4,2:32,PHX,Devin Booker,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,102,88,0.999,0.999,2:34
+4,2:17,PHX,Devin Booker,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,104,88,0.999,0.999,2:17
+4,2:12,MIN,Anthony Edwards,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,105,88,0.999,0.999,2:17
+4,1:12,MIN,Wendell Moore Jr.,Personal Foul,Foul,Zach Zarba,Marat Kogut,Josh Tiven,MIN,105,88,0.999,0.999,1:22

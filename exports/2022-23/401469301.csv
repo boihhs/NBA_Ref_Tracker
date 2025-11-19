@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:44,BOS,Marcus Smart,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,9,11,0.392,0.392,8:57
+1,8:27,BOS,Jayson Tatum,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,9,11,0.393,0.392,8:28
+1,8:01,BOS,Al Horford,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,11,11,0.482,0.442,8:07
+1,5:30,BOS,Jaylen Brown,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,17,17,0.488,0.447,5:33
+1,4:35,BOS,Grant Williams,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,17,17,0.49,0.449,4:36
+1,1:36,MIL,Joe Ingles,Loose Ball Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,24,27,0.31,0.346,1:36
+2,10:33,BOS,Robert Williams III,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,28,39,0.214,0.182,10:42
+2,9:41,MIL,Wesley Matthews,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,30,42,0.122,0.144,9:46
+2,6:57,MIL,Brook Lopez,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,30,49,0.047,0.052,6:57
+2,6:42,MIL,Khris Middleton,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,30,51,0.029,0.037,6:44
+2,5:58,BOS,Grant Williams,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,32,52,0.051,0.05,5:58
+2,4:17,BOS,Derrick White,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,32,54,0.033,0.033,4:21
+2,1:56,MIL,Bobby Portis,Loose Ball Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,38,63,0.009,0.012,1:56
+2,1:21,MIL,Jae Crowder,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,40,65,0.008,0.012,1:31
+2,39.1,BOS,Al Horford,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,42,70,0.008,0.006,39.1
+2,11.1,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,45,73,0.003,0.005,30.1
+3,11:19,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,47,75,0.004,0.004,11:23
+3,8:55,MIL,Khris Middleton,Transition Take Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,53,82,0.002,0.002,8:57
+3,8:55,MIL,Khris Middleton,Technical Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,53,82,0.001,0.002,8:55
+3,2:28,BOS,Malcolm Brogdon,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,64,108,0.001,0.001,2:34
+3,1:11,BOS,Malcolm Brogdon,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,69,112,0.001,0.001,1:17
+4,10:30,BOS,Malcolm Brogdon,Loose Ball Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,76,117,0.001,0.001,10:30
+4,10:25,MIL,Wesley Matthews,Offensive Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,76,117,0.001,0.001,10:30
+4,10:14,MIL,Jae Crowder,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,76,117,0.001,0.001,10:25
+4,9:04,MIL,Jevon Carter,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,76,118,0.001,0.001,9:13
+4,8:09,MIL,MarJon Beauchamp,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,79,120,0.001,0.001,8:17
+4,7:21,BOS,Malcolm Brogdon,Loose Ball Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,79,125,0.001,0.001,7:21
+4,5:54,BOS,Blake Griffin,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,82,128,0.001,0.001,6:04
+4,5:29,MIL,Thanasis Antetokounmpo,Loose Ball Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,82,128,0.001,0.001,5:29
+4,4:48,BOS,Blake Griffin,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,82,128,0.001,0.001,4:57
+4,4:21,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,82,128,0.001,0.001,4:28
+4,4:04,BOS,Mike Muscala,Shooting Foul,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,82,129,0.001,0.001,4:21
+4,1:25,BOS,Blake Griffin,Flagrant Foul Type 1,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,92,136,0.001,0.001,1:27
+4,1:25,MIL,Thanasis Antetokounmpo,Flagrant Foul Type 2,Foul,Matt Boland,Kevin Scott,Scott Twardoski,MIL,92,136,0.001,0.001,1:25

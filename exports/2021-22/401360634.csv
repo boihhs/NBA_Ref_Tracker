@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:11,PHI,Joel Embiid,Loose Ball Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,0,2,0.401,0.401,10:12
+1,7:09,PHX,Chris Paul,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,4,10,0.344,0.327,7:09
+1,5:44,PHI,Seth Curry,Personal Take Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,8,12,0.35,0.349,5:45
+1,5:27,PHX,Devin Booker,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,8,14,0.325,0.326,5:35
+1,4:46,PHX,Deandre Ayton,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,10,14,0.414,0.375,5:00
+1,4:28,PHI,Tobias Harris,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,12,14,0.403,0.401,4:46
+1,3:31,PHX,Mikal Bridges,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,15,14,0.55,0.512,3:31
+1,2:39,PHI,Matisse Thybulle,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,17,16,0.439,0.482,2:47
+1,1:54,PHI,Seth Curry,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,17,18,0.388,0.423,2:08
+2,2:09,PHI,Joel Embiid,Personal Take Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,52,51,0.495,0.492,2:09
+2,1:24,PHI,Seth Curry,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,52,53,0.378,0.424,1:30
+2,3.2,PHX,Jae Crowder,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,57,55,0.618,0.567,8.2
+3,10:10,PHX,Devin Booker,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,61,55,0.758,0.716,10:13
+3,9:31,PHX,Chris Paul,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,63,55,0.776,0.776,9:42
+3,9:08,PHX,Jae Crowder,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,65,55,0.862,0.83,9:13
+3,8:07,PHI,Seth Curry,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,69,57,0.823,0.859,8:09
+3,6:31,PHX,Jae Crowder,Defensive 3-Seconds Technical,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,71,63,0.787,0.794,6:48
+3,6:28,PHX,Deandre Ayton,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,72,63,0.859,0.825,6:31
+3,6:08,PHI,Georges Niang,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,72,63,0.798,0.795,6:15
+3,5:33,PHX,Chris Paul,Technical Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,74,67,0.795,0.772,5:36
+3,2:34,PHI,Joel Embiid,Offensive Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,79,73,0.723,0.765,2:34
+3,2:07,PHX,Cameron Johnson,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,79,75,0.749,0.723,2:34
+3,1:27,PHI,Georges Niang,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,80,77,0.535,0.606,1:34
+3,1:20,PHX,Elfrid Payton,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,80,79,0.63,0.563,1:27
+3,1:02,PHI,Andre Drummond,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,82,79,0.536,0.605,1:20
+4,11:22,PHX,Elfrid Payton,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,84,85,0.558,0.47,11:36
+4,9:52,PHI,Andre Drummond,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,88,89,0.362,0.473,9:52
+4,7:56,PHI,Andre Drummond,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,92,92,0.359,0.462,8:13
+4,6:57,PHX,JaVale McGee,Loose Ball Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,94,94,0.539,0.521,6:57
+4,6:28,PHI,Matisse Thybulle,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,94,94,0.343,0.539,6:57
+4,5:01,PHX,Devin Booker,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,94,97,0.442,0.313,5:08
+4,4:09,PHI,Seth Curry,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,99,97,0.477,0.604,4:32
+4,3:39,PHI,Matisse Thybulle,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,99,99,0.325,0.437,3:47
+4,3:02,PHI,Tobias Harris,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,102,103,0.244,0.356,3:17
+4,2:43,PHI,Tyrese Maxey,Shooting Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,102,107,0.075,0.146,2:43
+4,56.1,PHX,Deandre Ayton,Personal Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,107,110,0.409,0.23,1:13
+4,20.1,PHI,Tyrese Maxey,Personal Take Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,107,110,0.048,0.11,21.9
+4,11.4,PHI,Matisse Thybulle,Personal Take Foul,Foul,John Goble,Eric Dalen,Brandon Adair,PHI,109,112,0.029,0.084,12.4

@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:00,DEN,Aaron Gordon,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,8,2,0.378,0.38,9:05
+1,8:47,DEN,Jamal Murray,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,8,2,0.417,0.378,9:00
+1,7:06,CHA,Brandon Miller,Offensive Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,14,4,0.474,0.503,7:09
+1,6:38,DEN,Michael Porter Jr.,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,14,6,0.451,0.448,6:53
+1,5:24,CHA,Miles Bridges,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,16,11,0.336,0.38,5:24
+1,1:03,DEN,Peyton Watson,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,23,25,0.257,0.221,1:03
+1,43.2,CHA,Cody Martin,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,24,25,0.214,0.243,46.1
+2,11:26,CHA,Ish Smith,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,27,30,0.193,0.229,11:26
+2,11:18,DEN,Zeke Nnaji,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,27,31,0.239,0.208,11:26
+2,10:06,CHA,Nate Mensah,Loose Ball Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,33,34,0.257,0.255,10:06
+2,9:31,DEN,Zeke Nnaji,Offensive Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,33,34,0.281,0.259,9:33
+2,8:32,DEN,Zeke Nnaji,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,35,36,0.306,0.286,8:35
+2,8:17,CHA,Nate Mensah,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,37,36,0.277,0.312,8:32
+2,7:42,DEN,Christian Braun,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,37,38,0.29,0.29,7:46
+2,5:32,DEN,Nikola Jokic,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,43,40,0.443,0.387,5:32
+2,3:59,CHA,Gordon Hayward,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,46,46,0.269,0.307,4:12
+2,1:19,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,56,50,0.614,0.56,1:20
+3,9:28,CHA,Ish Smith,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,60,56,0.434,0.489,9:32
+3,9:17,DEN,Nikola Jokic,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,60,58,0.455,0.455,9:28
+3,7:41,CHA,Bryce McGowens,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,60,63,0.255,0.263,7:41
+3,5:46,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,60,71,0.087,0.129,6:32
+3,3:26,DEN,Nikola Jokic,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,61,79,0.026,0.018,3:42
+3,2:51,DEN,Nikola Jokic,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,63,79,0.032,0.027,2:51
+4,11:49,DEN,Reggie Jackson,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,69,84,0.04,0.023,12:00
+4,11:03,DEN,Zeke Nnaji,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,70,84,0.041,0.03,11:03
+4,10:37,DEN,Reggie Jackson,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,71,86,0.025,0.023,10:46
+4,9:48,CHA,Nick Smith Jr.,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,73,86,0.026,0.028,9:58
+4,8:28,DEN,Peyton Watson,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,76,91,0.029,0.016,8:41
+4,4:28,CHA,Miles Bridges,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,88,93,0.118,0.155,4:28
+4,2:41,DEN,Nikola Jokic,Offensive Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,94,97,0.301,0.231,2:52
+4,2:17,CHA,Nick Richards,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,94,97,0.201,0.219,2:26
+4,1:08,CHA,Nick Smith Jr.,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,94,99,0.033,0.135,1:23
+4,28.2,CHA,P.J. Washington,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,94,101,0.002,0.013,42.2
+4,26.1,DEN,Nikola Jokic,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Nate Green,CHA,94,102,0.032,0.011,27.1

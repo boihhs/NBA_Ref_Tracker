@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:51,GS,Stephen Curry,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,7,2,0.756,0.727,9:57
+1,8:20,DEN,Aaron Gordon,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,11,4,0.732,0.766,8:20
+1,7:12,GS,Klay Thompson,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,11,5,0.747,0.748,7:16
+1,4:45,DEN,Reggie Jackson,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,17,9,0.735,0.767,5:03
+1,2:26,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,23,13,0.85,0.828,2:40
+1,2:14,DEN,Julian Strawther,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,25,15,0.792,0.828,2:14
+1,1:31,GS,Brandin Podziemski,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,25,16,0.836,0.809,1:34
+2,8:41,GS,Trayce Jackson-Davis,Loose Ball Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,34,30,0.7,0.702,8:41
+2,7:36,DEN,Reggie Jackson,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,36,32,0.65,0.7,7:36
+2,7:24,GS,Stephen Curry,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,36,33,0.67,0.673,7:36
+2,6:25,DEN,Michael Porter Jr.,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,36,33,0.642,0.642,6:36
+2,5:40,GS,Brandin Podziemski,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,38,36,0.643,0.643,5:45
+2,5:03,GS,Kevon Looney,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,38,36,0.684,0.643,5:13
+2,4:07,DEN,Collin Gillespie,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,41,38,0.643,0.639,4:11
+2,3:36,DEN,Julian Strawther,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,43,41,0.56,0.61,3:49
+2,3:06,DEN,Aaron Gordon,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,43,41,0.559,0.609,3:18
+3,10:18,DEN,Nikola Jokic,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,59,49,0.838,0.837,10:32
+3,9:24,DEN,Reggie Jackson,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,59,52,0.722,0.767,9:25
+3,7:52,DEN,Reggie Jackson,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,63,58,0.656,0.709,7:55
+3,7:35,GS,Kevon Looney,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,63,60,0.725,0.675,7:52
+3,7:35,GS,GS,Technical Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,63,60,0.702,0.676,7:35
+3,7:12,DEN,Collin Gillespie,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,65,60,0.656,0.71,7:14
+3,6:10,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,67,63,0.62,0.678,6:16
+3,5:23,GS,Kevon Looney,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,69,63,0.78,0.782,5:23
+3,4:07,DEN,Nikola Jokic,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,69,65,0.62,0.681,4:15
+3,3:57,GS,Kevon Looney,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,69,67,0.642,0.643,4:07
+3,3:44,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,69,67,0.672,0.642,3:57
+3,28.1,DEN,Nikola Jokic,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,76,76,0.428,0.507,29.1
+4,10:25,DEN,Christian Braun,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,80,81,0.35,0.447,10:41
+4,9:32,GS,Chris Paul,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,83,84,0.503,0.49,9:38
+4,9:05,GS,Jonathan Kuminga,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,86,87,0.594,0.494,9:14
+4,8:16,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,91,87,0.812,0.717,8:16
+4,7:05,DEN,Justin Holiday,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,92,89,0.574,0.681,7:12
+4,4:34,GS,Kevon Looney,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,97,97,0.678,0.559,4:47
+4,3:55,DEN,Kentavious Caldwell-Pope,Transition Take Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,99,97,0.644,0.644,3:55
+4,3:49,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,99,98,0.545,0.648,3:55
+4,2:57,GS,Andrew Wiggins,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,99,98,0.761,0.651,2:59
+4,2:03,DEN,Reggie Jackson,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,103,98,0.759,0.866,2:23
+4,51.1,GS,Andrew Wiggins,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,105,102,0.914,0.842,51.1
+4,15.0,GS,Chris Paul,Personal Take Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,107,105,0.927,0.815,18.0
+4,3.1,GS,Andrew Wiggins,Personal Foul,Foul,Kevin Scott,Brett Nansel,Aaron Smith,DEN,107,105,0.979,0.92,5.0

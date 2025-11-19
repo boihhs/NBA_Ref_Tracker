@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:32,BKN,Dorian Finney-Smith,Shooting Foul,Foul,,,,BKN,0,0,0.172,0.196,11:37
+1,10:26,PHI,Tyrese Maxey,Shooting Foul,Foul,,,,BKN,0,2,0.208,0.183,10:34
+1,10:01,PHI,Tobias Harris,Shooting Foul,Foul,,,,BKN,2,4,0.209,0.185,10:06
+1,9:34,PHI,Joel Embiid,Flagrant Foul Type 1,Foul,,,,BKN,6,4,0.25,0.238,9:34
+1,9:34,BKN,Nic Claxton,Technical Foul,Foul,,,,BKN,6,4,0.224,0.25,9:34
+1,6:21,PHI,P.J. Tucker,Shooting Foul,Foul,,,,BKN,19,13,0.412,0.369,6:46
+1,3:54,BKN,Nic Claxton,Loose Ball Foul,Foul,,,,BKN,24,20,0.317,0.316,3:54
+1,2:46,PHI,Tyrese Maxey,Shooting Foul,Foul,,,,BKN,26,25,0.313,0.277,3:05
+1,8.0,BKN,Royce O'Neale,Personal Foul,Foul,,,,BKN,28,32,0.15,0.172,21.2
+2,11:03,PHI,Jalen McDaniels,Personal Foul,Foul,,,,BKN,28,34,0.159,0.159,11:08
+2,9:41,BKN,Cameron Johnson,Shooting Foul,Foul,,,,BKN,30,36,0.124,0.145,9:56
+2,9:29,PHI,De'Anthony Melton,Shooting Foul,Foul,,,,BKN,32,37,0.195,0.163,9:29
+2,8:06,BKN,Cam Thomas,Personal Foul,Foul,,,,BKN,36,40,0.186,0.183,8:19
+2,7:55,BKN,Cameron Johnson,Personal Foul,Foul,,,,BKN,36,40,0.187,0.186,8:06
+2,6:13,BKN,Cameron Johnson,Loose Ball Foul,Foul,,,,BKN,36,42,0.131,0.155,6:13
+2,5:54,PHI,Joel Embiid,Shooting Foul,Foul,,,,BKN,36,42,0.203,0.174,5:59
+2,5:41,BKN,Cam Thomas,Personal Foul,Foul,,,,BKN,38,42,0.164,0.192,5:54
+2,1:32,BKN,Royce O'Neale,Personal Foul,Foul,,,,BKN,42,53,0.066,0.084,1:39
+2,54.1,BKN,Spencer Dinwiddie,Shooting Foul,Foul,,,,BKN,45,57,0.063,0.084,54.1
+2,13.0,PHI,James Harden,Personal Foul,Foul,,,,BKN,47,58,0.118,0.097,23.0
+3,6:56,PHI,Joel Embiid,Shooting Foul,Foul,,,,BKN,65,63,0.494,0.424,6:56
+3,6:03,PHI,P.J. Tucker,Shooting Foul,Foul,,,,BKN,66,65,0.494,0.514,6:03
+3,13.1,PHI,James Harden,Flagrant Foul Type 2,Foul,,,,BKN,80,76,0.62,0.583,24.0
+4,11:16,PHI,Tyrese Maxey,Shooting Foul,Foul,,,,BKN,82,78,0.736,0.652,11:23
+4,9:10,PHI,Joel Embiid,Offensive Foul,Foul,,,,BKN,85,81,0.69,0.629,9:25
+4,8:48,BKN,Nic Claxton,Technical Foul,Foul,,,,BKN,87,81,0.705,0.743,8:49
+4,5:06,PHI,Tyrese Maxey,Shooting Foul,Foul,,,,BKN,90,87,0.807,0.706,5:20
+4,3:57,BKN,Dorian Finney-Smith,Personal Foul,Foul,,,,BKN,92,89,0.663,0.665,3:57
+4,52.1,BKN,Dorian Finney-Smith,Personal Foul,Foul,,,,BKN,96,96,0.255,0.472,52.1
+4,39.0,PHI,P.J. Tucker,Shooting Foul,Foul,,,,BKN,96,99,0.399,0.213,44.1
+4,8.0,BKN,Mikal Bridges,Personal Take Foul,Foul,,,,BKN,97,99,0.047,0.126,8.0

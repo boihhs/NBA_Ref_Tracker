@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:42,BOS,Jayson Tatum,Shooting Foul,Foul,,,,BKN,9,8,0.384,0.351,8:57
+1,5:48,BKN,Cam Thomas,Personal Foul,Foul,,,,BKN,11,16,0.208,0.209,5:57
+1,32.0,BKN,Dennis Schroder,Shooting Foul,Foul,,,,BKN,27,35,0.149,0.181,32.0
+1,12.0,BOS,Luke Kornet,Shooting Foul,Foul,,,,BKN,29,36,0.214,0.178,12.0
+2,11:39,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,,,,BKN,30,36,0.2,0.199,11:39
+2,10:46,BKN,Mikal Bridges,Technical Foul,Foul,,,,BKN,33,39,0.186,0.221,10:46
+2,10:11,BKN,Mikal Bridges,Shooting Foul,Foul,,,,BKN,36,40,0.211,0.241,10:28
+2,9:21,BOS,Payton Pritchard,Shooting Foul,Foul,,,,BKN,38,43,0.262,0.221,9:21
+2,8:17,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,,,,BKN,41,45,0.248,0.246,8:17
+2,8:09,BKN,Mikal Bridges,Personal Foul,Foul,,,,BKN,41,45,0.214,0.248,8:17
+2,7:54,BKN,Nic Claxton,Loose Ball Foul,Foul,,,,BKN,41,45,0.214,0.249,7:54
+2,7:39,BOS,Jrue Holiday,Shooting Foul,Foul,,,,BKN,41,45,0.311,0.272,7:51
+2,6:18,BKN,Nic Claxton,Shooting Foul,Foul,,,,BKN,43,50,0.156,0.184,6:33
+2,5:11,BOS,Jayson Tatum,Personal Foul,Foul,,,,BKN,45,53,0.183,0.184,5:31
+2,4:45,BOS,Jrue Holiday,Shooting Foul,Foul,,,,BKN,45,53,0.217,0.184,4:48
+2,4:26,BKN,Ben Simmons,Personal Foul,Foul,,,,BKN,46,53,0.155,0.182,4:42
+2,4:21,BOS,Sam Hauser,Personal Take Foul,Foul,,,,BKN,46,55,0.194,0.163,4:26
+2,3:16,BKN,Ben Simmons,Personal Foul,Foul,,,,BKN,49,57,0.136,0.165,3:27
+2,3:13,BOS,Sam Hauser,Personal Take Foul,Foul,,,,BKN,49,59,0.173,0.144,3:16
+2,3:04,BKN,Ben Simmons,Personal Foul,Foul,,,,BKN,50,59,0.119,0.144,3:13
+2,3:02,BOS,Luke Kornet,Personal Take Foul,Foul,,,,BKN,50,61,0.153,0.128,3:04
+2,1:31,BKN,Dorian Finney-Smith,Shooting Foul,Foul,,,,BKN,52,66,0.054,0.069,1:34
+2,37.1,BOS,Derrick White,Shooting Foul,Foul,,,,BKN,52,72,0.038,0.028,43.0
+3,10:31,BKN,Nic Claxton,Loose Ball Foul,Foul,,,,BKN,62,75,0.075,0.075,10:32
+3,10:25,BOS,Jaylen Brown,Offensive Foul,Foul,,,,BKN,62,75,0.086,0.075,10:31
+3,10:12,BOS,Jrue Holiday,Personal Foul,Foul,,,,BKN,62,75,0.087,0.086,10:25
+3,9:36,BOS,Jaylen Brown,Personal Foul,Foul,,,,BKN,62,78,0.051,0.051,9:46
+3,9:02,BKN,Cam Thomas,Personal Foul,Foul,,,,BKN,64,78,0.06,0.06,9:21
+3,8:56,BKN,Cam Thomas,Personal Foul,Foul,,,,BKN,64,78,0.06,0.06,9:02
+3,8:35,BOS,Jaylen Brown,Personal Foul,Foul,,,,BKN,64,81,0.04,0.041,8:49
+3,6:49,BKN,Mikal Bridges,Personal Foul,Foul,,,,BKN,66,81,0.032,0.077,6:49
+3,5:12,BKN,Cam Thomas,Shooting Foul,Foul,,,,BKN,70,86,0.022,0.031,5:29
+3,1:58,BOS,Payton Pritchard,Shooting Foul,Foul,,,,BKN,76,97,0.011,0.007,2:03
+3,1:33,BOS,Jrue Holiday,Shooting Foul,Foul,,,,BKN,78,97,0.018,0.012,1:43
+3,1:21,BOS,Luke Kornet,Offensive Foul,Foul,,,,BKN,79,97,0.015,0.011,1:28
+3,1:12,BOS,Luke Kornet,Personal Foul,Foul,,,,BKN,79,97,0.023,0.015,1:21
+3,1:00,BKN,Ben Simmons,Personal Foul,Foul,,,,BKN,80,97,0.009,0.014,1:12
+3,45.1,BOS,Luke Kornet,Shooting Foul,Foul,,,,BKN,80,98,0.021,0.014,58.0
+4,9:08,BKN,Cam Thomas,Shooting Foul,Foul,,,,BKN,86,98,0.019,0.035,9:35
+4,7:20,BOS,Payton Pritchard,Shooting Foul,Foul,,,,BKN,95,102,0.173,0.104,7:20
+4,5:40,BKN,Nic Claxton,Offensive Foul,Foul,,,,BKN,95,108,0.01,0.016,5:51
+4,5:38,BKN,Nic Claxton,Technical Foul,Foul,,,,BKN,95,108,0.007,0.01,5:40
+4,4:46,BOS,Jaylen Brown,Personal Foul,Foul,,,,BKN,98,109,0.028,0.026,4:51
+4,3:44,BOS,Jrue Holiday,Personal Foul,Foul,,,,BKN,100,111,0.022,0.02,4:03
+4,3:21,BKN,Jalen Wilson,Personal Foul,Foul,,,,BKN,102,111,0.024,0.029,3:38
+4,1:06,BOS,Jayson Tatum,Personal Foul,Foul,,,,BKN,108,116,0.068,0.027,1:23

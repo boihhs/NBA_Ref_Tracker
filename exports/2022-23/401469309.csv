@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:23,NY,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,2,5,0.624,0.589,10:24
+1,10:00,NY,Obi Toppin,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,4,5,0.669,0.635,10:04
+1,9:24,CLE,Lamar Stevens,Personal Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,7,7,0.633,0.633,9:31
+1,8:44,CLE,Lamar Stevens,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,7,9,0.544,0.58,8:50
+1,8:10,NY,Quentin Grimes,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,11,11,0.669,0.629,8:10
+1,5:49,CLE,Donovan Mitchell,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,22,18,0.682,0.716,5:51
+1,2:37,CLE,Darius Garland,Personal Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,37,33,0.675,0.712,2:37
+1,2:10,NY,Josh Hart,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,39,33,0.792,0.755,2:10
+1,1:03,NY,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,40,38,0.719,0.685,1:11
+1,52.0,CLE,Donovan Mitchell,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,42,38,0.672,0.709,1:03
+2,10:41,CLE,Robin Lopez,Personal Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,51,45,0.753,0.752,10:56
+2,10:36,CLE,Ricky Rubio,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,51,45,0.717,0.753,10:41
+2,8:00,CLE,Darius Garland,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,56,52,0.663,0.701,8:03
+2,5:15,CLE,Ricky Rubio,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,59,62,0.461,0.518,5:15
+2,4:36,NY,Josh Hart,Personal Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,62,66,0.481,0.481,4:48
+2,3:33,CLE,Donovan Mitchell,Offensive Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,64,69,0.406,0.443,3:35
+3,9:40,CLE,Evan Mobley,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,79,82,0.412,0.439,9:40
+3,8:22,CLE,Lamar Stevens,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,81,86,0.332,0.394,8:22
+3,6:32,NY,Mitchell Robinson,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,85,88,0.521,0.463,6:51
+3,4:17,NY,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,93,97,0.436,0.36,4:17
+3,4:03,CLE,Caris LeVert,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,94,97,0.34,0.402,4:17
+3,2:48,NY,Jalen Brunson,Personal Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,94,101,0.266,0.268,2:52
+3,2:09,CLE,Cedi Osman,Offensive Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,97,101,0.34,0.387,2:10
+3,1:58,CLE,Cedi Osman,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,97,103,0.228,0.298,1:58
+3,54.1,CLE,Cedi Osman,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,100,104,0.264,0.327,55.1
+4,10:45,CLE,Robin Lopez,Personal Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,102,107,0.247,0.255,10:47
+4,9:04,CLE,Raul Neto,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,104,112,0.094,0.152,9:04
+4,6:48,NY,RJ Barrett,Personal Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,107,119,0.038,0.036,6:51
+4,6:25,CLE,Donovan Mitchell,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,107,119,0.012,0.023,6:32
+4,5:36,NY,Isaiah Hartenstein,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,107,120,0.034,0.017,5:41
+4,4:14,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,111,123,0.004,0.009,4:14
+4,3:59,CLE,Lamar Stevens,Personal Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,111,123,0.003,0.004,4:14
+4,2:03,NY,Quentin Grimes,Personal Foul,Foul,Ed Malloy,Eric Dalen,Natalie Sago,CLE,116,128,0.003,0.004,2:18

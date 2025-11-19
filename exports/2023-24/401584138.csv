@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,SAC,Domantas Sabonis,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,2,0,0.727,0.694,11:45
+1,10:41,MIN,Rudy Gobert,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,5,4,0.669,0.667,10:56
+1,9:31,MIN,Karl-Anthony Towns,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,5,10,0.515,0.515,9:41
+1,9:19,SAC,Chris Duarte,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,5,10,0.578,0.541,9:26
+1,6:34,SAC,De'Aaron Fox,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,12,21,0.459,0.42,6:44
+1,3:59,MIN,Karl-Anthony Towns,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,18,25,0.428,0.43,4:19
+1,1:58,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,22,34,0.328,0.309,2:08
+1,32.0,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,27,38,0.368,0.327,41.0
+2,11:27,SAC,Trey Lyles,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,31,40,0.375,0.374,11:46
+2,9:21,MIN,Shake Milton,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,33,48,0.149,0.179,9:24
+2,9:12,SAC,Kevin Huerter,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,33,50,0.188,0.159,9:21
+2,6:15,SAC,Davion Mitchell,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,42,57,0.196,0.158,6:15
+2,5:54,MIN,Troy Brown Jr.,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,43,57,0.176,0.2,6:02
+2,4:59,SAC,Chris Duarte,Offensive Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,46,57,0.268,0.269,5:05
+2,4:01,SAC,De'Aaron Fox,Offensive Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,50,60,0.29,0.261,4:08
+2,3:34,SAC,De'Aaron Fox,Technical Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,52,63,0.279,0.258,3:35
+2,3:24,SAC,Kessler Edwards,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,53,63,0.329,0.286,3:34
+2,1:49,SAC,De'Aaron Fox,Loose Ball Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,57,65,0.384,0.333,1:54
+3,10:44,SAC,Chris Duarte,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,66,72,0.403,0.338,10:44
+3,10:22,MIN,Rudy Gobert,Offensive Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,67,72,0.374,0.41,10:33
+3,8:48,SAC,Domantas Sabonis,Offensive Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,70,72,0.514,0.477,9:11
+3,8:19,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,70,72,0.473,0.472,8:19
+3,7:32,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,70,76,0.29,0.353,7:32
+3,3:58,MIN,Kyle Anderson,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,74,85,0.127,0.129,4:08
+3,1:47,SAC,Domantas Sabonis,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,74,90,0.06,0.043,2:03
+3,6.1,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,79,92,0.044,0.068,6.1
+4,10:06,SAC,JaVale McGee,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,82,96,0.064,0.039,10:13
+4,6:34,MIN,Mike Conley,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,89,104,0.007,0.008,6:35
+4,6:01,MIN,Rudy Gobert,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,89,104,0.006,0.007,6:17
+4,5:04,SAC,Domantas Sabonis,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,91,106,0.013,0.006,5:14
+4,4:15,MIN,Anthony Edwards,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,97,108,0.007,0.017,4:29
+4,2:20,MIN,Rudy Gobert,Offensive Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,102,114,0.002,0.005,2:22
+4,2:01,MIN,Rudy Gobert,Loose Ball Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,102,116,0.001,0.001,2:01
+4,1:45,MIN,Anthony Edwards,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,105,116,0.001,0.002,1:55
+4,39.1,SAC,Domantas Sabonis,Shooting Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,108,120,0.002,0.001,46.1
+4,24.1,SAC,Domantas Sabonis,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,110,120,0.007,0.001,24.1
+4,18.2,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Marc Davis,John Butler,Matt Kallio,MIN,111,120,0.001,0.001,24.1

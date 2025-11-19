@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,LAC,Terance Mann,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,2,0,0.527,0.527,11:36
+1,9:52,LAC,Marcus Morris Sr.,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,2,9,0.289,0.326,9:52
+1,8:52,DEN,Aaron Gordon,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,4,10,0.367,0.325,8:52
+1,6:07,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,12,17,0.369,0.371,6:27
+1,5:15,LAC,Reggie Jackson,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,16,17,0.41,0.449,5:28
+1,1:52,DEN,Davon Reed,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,21,29,0.327,0.291,2:09
+1,1:31,LAC,Nicolas Batum,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,23,29,0.275,0.313,1:52
+1,33.0,DEN,Zeke Nnaji,Loose Ball Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,25,31,0.378,0.339,36.5
+2,10:58,DEN,Ish Smith,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,28,31,0.418,0.388,11:05
+2,10:51,DEN,Davon Reed,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,28,31,0.459,0.418,10:58
+2,9:11,LAC,John Wall,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,31,37,0.305,0.301,9:14
+2,8:00,LAC,Robert Covington,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,31,39,0.231,0.249,8:00
+2,6:26,DEN,Vlatko Cancar,Offensive Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,36,45,0.246,0.22,6:43
+2,3:11,DEN,Jamal Murray,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,44,53,0.273,0.235,3:17
+2,3:04,LAC,John Wall,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,46,53,0.259,0.259,3:11
+2,2:42,DEN,Nikola Jokic,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,46,55,0.271,0.233,2:52
+2,2:31,LAC,Ivica Zubac,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,47,57,0.165,0.206,2:31
+2,2:24,DEN,Aaron Gordon,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,47,58,0.217,0.184,2:31
+2,2:10,LAC,Terance Mann,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,48,58,0.148,0.182,2:24
+3,11:50,LAC,Marcus Morris Sr.,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,52,64,0.13,0.144,12:00
+3,9:04,DEN,Aaron Gordon,Loose Ball Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,61,68,0.264,0.262,9:04
+3,8:26,DEN,Bruce Brown,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,61,71,0.175,0.178,8:44
+3,8:04,LAC,Marcus Morris Sr.,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,61,71,0.151,0.15,8:12
+3,8:04,LAC,Terance Mann,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,61,71,0.153,0.151,8:04
+3,7:32,LAC,Amir Coffey,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,63,71,0.16,0.2,7:49
+3,7:12,DEN,Jamal Murray,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,63,72,0.241,0.199,7:32
+3,6:16,LAC,Amir Coffey,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,63,74,0.091,0.119,6:24
+3,4:28,LAC,Marcus Morris Sr.,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,65,80,0.04,0.059,4:28
+3,2:40,LAC,Nicolas Batum,Loose Ball Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,68,81,0.043,0.061,2:40
+3,2:29,DEN,Bruce Brown,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,68,83,0.068,0.048,2:40
+3,2:05,LAC,Robert Covington,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,68,83,0.024,0.037,2:11
+3,53.5,DEN,Vlatko Cancar,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,74,87,0.092,0.066,1:07
+3,30.6,DEN,Vlatko Cancar,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,76,87,0.134,0.099,34.6
+4,11:47,DEN,Bruce Brown,Loose Ball Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,77,87,0.119,0.11,11:47
+4,10:59,DEN,Davon Reed,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,77,87,0.161,0.109,11:12
+4,9:56,DEN,Bruce Brown,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,79,87,0.231,0.161,10:02
+4,7:50,LAC,Ivica Zubac,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,82,94,0.032,0.035,7:58
+4,7:46,LAC,John Wall,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,82,94,0.018,0.032,7:50
+4,6:22,LAC,John Wall,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,84,99,0.003,0.008,6:43
+4,5:31,DEN,Aaron Gordon,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,84,103,0.003,0.001,5:35
+4,5:16,DEN,Nikola Jokic,Loose Ball Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,86,103,0.006,0.003,5:16
+4,4:24,DEN,Bruce Brown,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,88,107,0.001,0.001,4:34
+4,2:01,DEN,Nikola Jokic,Personal Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,95,114,0.001,0.001,2:08
+4,18.1,DEN,Jack White,Shooting Foul,Foul,David Guthrie,Brett Nansel,Gediminas Petraitis,LAC,101,114,0.001,0.001,30.1

@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:01,POR,Damian Lillard,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,6,3,0.549,0.585,9:10
+1,5:54,UTAH,Kelly Olynyk,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,15,5,0.778,0.775,5:54
+1,5:39,UTAH,Mike Conley,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,15,5,0.805,0.778,5:54
+1,4:33,UTAH,Mike Conley,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,19,9,0.793,0.781,4:37
+1,4:04,POR,Jerami Grant,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,21,9,0.769,0.796,4:08
+2,8:54,POR,Justise Winslow,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,35,27,0.69,0.728,9:04
+2,8:54,POR,Justise Winslow,Technical Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,35,27,0.709,0.69,8:54
+2,7:34,UTAH,Malik Beasley,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,37,35,0.592,0.591,7:55
+2,7:24,UTAH,Kelly Olynyk,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,37,35,0.635,0.592,7:34
+2,5:17,UTAH,Jordan Clarkson,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,41,43,0.514,0.466,5:39
+2,3:45,UTAH,Jarred Vanderbilt,Loose Ball Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,43,45,0.513,0.463,3:45
+2,3:26,POR,Damian Lillard,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,43,47,0.342,0.398,3:26
+2,2:41,UTAH,Jarred Vanderbilt,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,43,50,0.349,0.303,2:50
+2,2:30,POR,Jerami Grant,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,45,50,0.332,0.331,2:41
+2,1:44,UTAH,Lauri Markkanen,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,47,52,0.411,0.361,1:51
+2,1:34,POR,Jusuf Nurkic,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,49,52,0.343,0.39,1:44
+2,1:26,UTAH,Malik Beasley,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,49,53,0.443,0.397,1:34
+2,26.2,POR,Anfernee Simons,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,51,56,0.277,0.324,30.8
+3,11:24,POR,Josh Hart,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,53,58,0.319,0.322,11:37
+3,9:16,POR,Anfernee Simons,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,56,65,0.191,0.189,9:21
+3,8:40,POR,Josh Hart,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,56,67,0.141,0.141,8:50
+3,8:26,UTAH,Talen Horton-Tucker,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,56,67,0.162,0.161,8:26
+3,6:30,POR,Jusuf Nurkic,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,58,76,0.027,0.04,6:30
+3,5:29,POR,Justise Winslow,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,60,79,0.018,0.028,5:29
+3,4:28,UTAH,Jordan Clarkson,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,64,80,0.051,0.051,4:31
+3,3:44,POR,Drew Eubanks,Offensive Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,67,82,0.045,0.059,4:04
+3,3:28,UTAH,Walker Kessler,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,69,82,0.1,0.068,3:28
+4,10:24,POR,Justise Winslow,Offensive Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,83,91,0.125,0.158,10:34
+4,9:20,UTAH,Simone Fontecchio,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,86,94,0.213,0.146,9:24
+4,8:49,POR,Jusuf Nurkic,Offensive Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,87,96,0.088,0.119,9:06
+4,8:22,UTAH,Kelly Olynyk,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,89,96,0.22,0.137,8:22
+4,7:38,POR,Jusuf Nurkic,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,91,96,0.205,0.214,7:45
+4,7:29,POR,Justise Winslow,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,91,96,0.137,0.208,7:32
+4,6:09,UTAH,Lauri Markkanen,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,93,101,0.178,0.108,6:12
+4,5:20,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,95,104,0.125,0.073,5:23
+4,4:20,POR,Josh Hart,Loose Ball Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,99,104,0.154,0.168,4:20
+4,3:50,POR,Josh Hart,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,101,104,0.168,0.142,8:22
+4,2:41,UTAH,Lauri Markkanen,Offensive Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,106,105,0.631,0.54,2:56
+4,2:00,UTAH,Jarred Vanderbilt,Personal Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,106,107,0.596,0.457,2:13
+4,1:16,POR,Justise Winslow,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,108,112,0.088,0.192,1:16
+4,1:03,UTAH,Lauri Markkanen,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,108,113,0.227,0.129,1:16
+4,12.9,POR,Anfernee Simons,Personal Take Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,113,115,0.067,0.174,14.8
+4,3.8,POR,Josh Hart,Personal Take Foul,Foul,Derek Richardson,Curtis Blair,Che Flores,POR,113,117,0.003,0.015,4.2

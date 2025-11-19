@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:12,MIA,Gabe Vincent,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,0,2,0.508,0.549,11:12
+1,10:08,CHA,P.J. Washington,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,0,9,0.367,0.369,10:16
+1,10:04,CHA,Miles Bridges,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,0,9,0.367,0.367,10:08
+1,9:57,CHA,Mason Plumlee,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,0,9,0.404,0.367,10:04
+1,7:49,CHA,Mason Plumlee,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,7,14,0.449,0.411,7:54
+1,6:05,MIA,Bam Adebayo,Offensive Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,14,18,0.455,0.484,6:15
+1,1:03,CHA,Jalen McDaniels,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,24,28,0.49,0.469,1:15
+2,11:38,MIA,Omer Yurtseven,Loose Ball Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,29,32,0.464,0.462,11:38
+2,10:13,MIA,Caleb Martin,Loose Ball Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,33,39,0.373,0.372,10:13
+2,9:35,MIA,Caleb Martin,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,36,41,0.396,0.397,9:49
+2,8:06,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,41,41,0.596,0.545,8:06
+2,5:27,MIA,Tyler Herro,Offensive Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,51,49,0.603,0.633,5:35
+2,3:33,CHA,P.J. Washington,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,53,54,0.534,0.535,3:42
+2,1:37,MIA,Gabe Vincent,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,64,57,0.707,0.75,1:50
+2,45.5,MIA,Duncan Robinson,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,66,59,0.708,0.751,1:00
+3,10:10,CHA,Mason Plumlee,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,72,68,0.721,0.663,10:10
+3,9:58,MIA,Bam Adebayo,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,73,68,0.646,0.697,10:10
+3,9:31,MIA,P.J. Tucker,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,75,72,0.603,0.667,9:31
+3,7:46,CHA,Terry Rozier,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,81,80,0.622,0.555,7:46
+3,7:18,CHA,Mason Plumlee,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,82,83,0.575,0.517,7:34
+3,7:18,CHA,Mason Plumlee,Technical Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,82,83,0.546,0.575,7:18
+3,2:33,MIA,Max Strus,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,97,91,0.755,0.753,2:44
+3,2:20,MIA,Tyler Herro,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,97,91,0.698,0.755,2:24
+3,12.6,MIA,Omer Yurtseven,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,102,97,0.662,0.723,26.2
+4,10:51,CHA,Isaiah Thomas,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,104,99,0.844,0.781,11:14
+4,10:26,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,107,99,0.91,0.887,10:26
+4,8:34,CHA,Isaiah Thomas,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,112,99,0.988,0.977,8:45
+4,7:32,MIA,Caleb Martin,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,117,99,0.995,0.996,7:55
+4,7:06,CHA,Miles Bridges,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,117,101,0.996,0.995,7:06
+4,6:58,MIA,Omer Yurtseven,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,118,101,0.99,0.995,7:03
+4,6:58,CHA,P.J. Washington,Double Technical Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,118,101,0.996,0.99,6:58
+4,6:48,CHA,LaMelo Ball,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,118,102,0.997,0.995,6:58
+4,6:30,MIA,Jimmy Butler III,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,120,102,0.993,0.996,6:48
+4,4:47,MIA,Duncan Robinson,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,127,106,0.999,0.999,4:47
+4,3:25,CHA,LaMelo Ball,Shooting Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,130,108,0.999,0.999,3:38
+4,2:08,CHA,LaMelo Ball,Personal Take Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,135,112,0.999,0.999,2:10
+4,2:08,MIA,Haywood Highsmith,Personal Take Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,137,112,0.999,0.999,2:08
+4,56.1,CHA,Nick Richards,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,140,114,0.999,0.999,1:07
+4,30.6,MIA,Haywood Highsmith,Personal Foul,Foul,James Williams,Scott Wall,Karl Lane,MIA,144,114,0.999,0.999,38.4

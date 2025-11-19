@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:52,DET,Jalen Duren,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,10,2,0.684,0.719,9:04
+1,8:25,DET,Cade Cunningham,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,10,4,0.673,0.674,8:32
+1,7:53,DET,Ausar Thompson,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,10,7,0.58,0.626,7:53
+1,5:29,WSH,Daniel Gafford,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,16,14,0.639,0.602,5:39
+1,5:12,DET,Isaiah Stewart,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,17,14,0.561,0.6,5:26
+1,4:51,WSH,Corey Kispert,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,17,16,0.575,0.576,4:54
+1,4:31,DET,Jalen Duren,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,17,16,0.526,0.547,4:31
+1,1:53,WSH,Corey Kispert,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,19,25,0.418,0.378,1:59
+1,1:14,DET,Killian Hayes,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,20,25,0.383,0.378,1:25
+1,40.0,WSH,Deni Avdija,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,22,29,0.389,0.347,43.0
+2,8:59,DET,Alec Burks,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,31,39,0.261,0.307,8:59
+2,7:06,DET,Jaden Ivey,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,38,42,0.386,0.385,7:19
+2,6:21,WSH,Danilo Gallinari,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,40,44,0.414,0.415,6:21
+2,5:55,DET,Cade Cunningham,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,42,46,0.359,0.414,5:55
+2,5:08,WSH,Jordan Poole,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,44,49,0.379,0.38,5:19
+2,4:53,DET,Ausar Thompson,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,44,49,0.305,0.35,4:57
+2,56.0,DET,Jalen Duren,Offensive Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,53,55,0.437,0.467,1:10
+2,6.1,WSH,Deni Avdija,Flopping Technical,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,53,57,0.396,0.397,23.1
+3,11:53,DET,Jaden Ivey,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,54,57,0.344,0.416,12:00
+3,8:31,WSH,Deni Avdija,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,62,67,0.374,0.311,8:31
+3,6:44,WSH,Jordan Poole,Offensive Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,65,71,0.302,0.266,6:59
+3,5:41,DET,Jalen Duren,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,67,73,0.212,0.258,5:44
+3,4:43,WSH,Bilal Coulibaly,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,69,79,0.205,0.163,4:52
+3,3:56,DET,Isaiah Livers,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,72,83,0.095,0.13,3:56
+3,3:02,WSH,Jordan Poole,Loose Ball Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,74,86,0.102,0.101,3:02
+3,3:02,WSH,Jordan Poole,Technical Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,74,86,0.118,0.102,3:02
+3,1:20,DET,Killian Hayes,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,80,88,0.167,0.161,1:33
+3,59.1,WSH,Corey Kispert,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,80,89,0.206,0.158,1:08
+3,47.1,DET,Marcus Sasser,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,80,89,0.093,0.126,51.1
+3,5.1,WSH,Danilo Gallinari,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,82,91,0.173,0.121,5.1
+4,11:33,DET,Killian Hayes,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,83,96,0.032,0.058,11:33
+4,9:16,DET,Ausar Thompson,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,85,103,0.004,0.005,9:21
+4,9:08,DET,Ausar Thompson,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,85,103,0.004,0.004,9:16
+4,9:08,WSH,Deni Avdija,Offensive Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,85,103,0.006,0.004,9:08
+4,8:32,WSH,Landry Shamet,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,90,106,0.016,0.007,8:32
+4,8:17,DET,Jalen Duren,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,90,106,0.008,0.007,8:27
+4,8:04,WSH,Corey Kispert,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,90,107,0.011,0.006,8:04
+4,7:19,DET,Stanley Umude,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,93,107,0.007,0.014,7:38
+4,6:52,DET,Stanley Umude,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,93,108,0.004,0.007,6:55
+4,6:24,WSH,Daniel Gafford,Loose Ball Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,93,110,0.005,0.002,6:31
+4,5:58,DET,Isaiah Stewart,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,95,110,0.003,0.006,6:14
+4,5:10,DET,Jaden Ivey,Personal Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,98,112,0.003,0.007,5:26
+4,3:35,WSH,Landry Shamet,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,98,114,0.003,0.001,3:42
+4,3:01,DET,Jalen Duren,Offensive Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,100,116,0.001,0.001,3:15
+4,1:01,WSH,Jared Butler,Shooting Foul,Foul,Bill Kennedy,Nick Buchert,Che Flores,DET,106,126,0.001,0.001,1:11

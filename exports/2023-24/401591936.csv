@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:01,ATL,De'Andre Hunter,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,5,5,0.551,0.51,9:02
+1,9:01,ATL,Trae Young,Technical Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,5,5,0.533,0.551,9:01
+1,8:06,PHI,Joel Embiid,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,9,7,0.5,0.538,8:09
+1,4:48,PHI,De'Anthony Melton,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,14,15,0.42,0.513,7:18
+1,3:22,PHI,Tyrese Maxey,Loose Ball Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,16,20,0.339,0.377,3:22
+1,3:19,ATL,Jalen Johnson,Loose Ball Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,16,20,0.404,0.404,3:19
+1,1:41,PHI,Danny Green,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,21,22,0.416,0.456,1:53
+2,11:21,ATL,Bogdan Bogdanovic,Defensive 3-Seconds Technical,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,24,27,0.418,0.429,11:38
+2,10:59,PHI,Kelly Oubre Jr.,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,25,27,0.426,0.425,11:04
+2,10:11,PHI,Kelly Oubre Jr.,Technical Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,25,35,0.202,0.238,10:11
+2,9:50,PHI,Danny Green,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,25,38,0.144,0.174,9:50
+2,9:30,PHI,Furkan Korkmaz,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,27,39,0.149,0.175,9:39
+2,8:41,ATL,Jalen Johnson,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,29,41,0.191,0.193,8:56
+2,6:52,ATL,Jalen Johnson,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,32,46,0.145,0.146,7:06
+2,6:47,ATL,De'Andre Hunter,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,34,46,0.198,0.163,6:47
+2,5:25,PHI,Paul Reed,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,37,46,0.188,0.223,5:32
+2,5:14,PHI,Jaden Springer,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,37,46,0.187,0.188,5:25
+2,4:48,ATL,Clint Capela,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,37,47,0.258,0.221,4:51
+2,4:13,PHI,De'Anthony Melton,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,40,47,0.231,0.268,4:27
+2,3:28,PHI,Tyrese Maxey,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,40,54,0.102,0.131,3:28
+2,1:52,PHI,De'Anthony Melton,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,44,54,0.15,0.184,1:57
+2,1:40,ATL,Clint Capela,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,44,55,0.201,0.185,1:40
+2,59.0,PHI,P.J. Tucker,Offensive Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,46,57,0.156,0.183,1:13
+2,37.1,ATL,Dejounte Murray,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,46,59,0.168,0.138,47.2
+2,11.1,ATL,Dejounte Murray,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,47,61,0.144,0.118,32.0
+3,11:47,PHI,P.J. Tucker,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,49,61,0.105,0.147,12:00
+3,9:37,ATL,Clint Capela,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,57,68,0.2,0.163,9:48
+3,8:51,ATL,Trae Young,Offensive Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,59,68,0.208,0.181,9:01
+3,7:51,PHI,Tobias Harris,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,65,68,0.314,0.365,8:04
+3,7:08,PHI,P.J. Tucker,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,68,69,0.383,0.441,7:34
+3,5:42,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,73,75,0.5,0.438,5:52
+3,4:24,ATL,Jalen Johnson,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,77,79,0.5,0.436,4:35
+3,3:59,ATL,Onyeka Okongwu,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,79,79,0.586,0.521,4:10
+3,1:14,PHI,Jaden Springer,Flopping Technical,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,84,87,0.336,0.384,1:15
+3,26.1,ATL,Jalen Johnson,Defensive 3-Seconds Technical,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,84,88,0.322,0.336,46.1
+4,11:15,ATL,Jalen Johnson,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,89,94,0.365,0.283,11:29
+4,10:55,ATL,Jalen Johnson,Offensive Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,91,94,0.381,0.327,11:15
+4,10:20,ATL,Kobe Bufkin,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,91,94,0.393,0.378,10:23
+4,9:40,ATL,Onyeka Okongwu,Offensive Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,91,94,0.38,0.326,9:52
+4,6:31,ATL,AJ Griffin,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,102,98,0.796,0.778,6:35
+4,5:55,ATL,Wesley Matthews,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,102,100,0.779,0.681,6:16
+4,5:09,PHI,Danuel House Jr.,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,106,100,0.777,0.851,5:25
+4,3:53,PHI,Paul Reed,Shooting Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,110,101,0.917,0.971,3:59
+4,3:04,ATL,Mouhamed Gueye,Loose Ball Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,112,104,0.985,0.969,3:04
+4,52.0,PHI,Paul Reed,Personal Foul,Foul,James Williams,Ray Acosta,Matt Kallio,PHI,117,106,0.992,0.998,53.0

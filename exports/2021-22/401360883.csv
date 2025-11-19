@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:33,NO,Naji Marshall,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,3,0,0.717,0.72,10:41
+1,7:23,NO,Herbert Jones,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,9,12,0.569,0.571,7:39
+1,7:17,NO,Trey Murphy III,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,9,12,0.588,0.569,7:17
+1,5:25,ATL,Trae Young,Personal Take Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,11,14,0.534,0.533,5:26
+1,5:02,ATL,Kevin Huerter,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,11,16,0.457,0.504,5:02
+1,3:49,NO,Willy Hernangomez,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,11,23,0.348,0.282,3:54
+1,3:30,ATL,Onyeka Okongwu,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,12,23,0.29,0.303,3:30
+1,31.1,NO,Jose Alvarado,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,14,33,0.164,0.136,46.2
+1,18.7,ATL,Onyeka Okongwu,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,16,33,0.125,0.151,31.1
+1,5.0,NO,Jose Alvarado,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,16,35,0.158,0.135,18.7
+2,10:46,NO,Gary Clark,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,20,37,0.191,0.161,10:55
+2,10:35,NO,Jose Alvarado,Offensive Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,22,37,0.199,0.181,10:46
+2,8:19,NO,Trey Murphy III,Loose Ball Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,30,39,0.341,0.341,8:19
+2,6:14,NO,Jaxson Hayes,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,32,45,0.22,0.221,6:23
+2,5:19,ATL,Onyeka Okongwu,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,36,45,0.248,0.29,5:35
+2,3:31,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,43,49,0.322,0.372,3:44
+2,3:05,ATL,Kevin Huerter,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,45,51,0.369,0.368,3:15
+2,2:38,ATL,Trae Young,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,45,53,0.28,0.332,2:38
+2,2:06,ATL,De'Andre Hunter,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,45,54,0.225,0.27,2:20
+2,33.6,ATL,Kevin Huerter,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,48,57,0.213,0.259,52.3
+2,27.8,NO,Jaxson Hayes,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,48,58,0.299,0.254,33.6
+2,15.0,NO,Naji Marshall,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,48,58,0.298,0.299,27.8
+3,9:12,NO,Naji Marshall,Personal Take Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,61,67,0.359,0.358,9:12
+3,8:00,NO,Jaxson Hayes,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,61,71,0.215,0.218,8:12
+3,7:03,ATL,Clint Capela,Loose Ball Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,63,74,0.153,0.152,7:03
+3,6:32,ATL,Danilo Gallinari,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,63,76,0.092,0.125,6:32
+3,3:48,ATL,Trae Young,Personal Take Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,69,84,0.054,0.054,3:49
+3,3:26,NO,Willy Hernangomez,Loose Ball Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,69,84,0.065,0.063,3:26
+3,3:05,NO,Willy Hernangomez,Offensive Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,71,84,0.095,0.078,3:19
+3,27.3,ATL,Delon Wright,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,76,90,0.035,0.054,27.3
+4,11:05,NO,Naji Marshall,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,78,91,0.092,0.06,11:09
+4,10:16,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,82,93,0.064,0.069,10:25
+4,9:57,NO,Willy Hernangomez,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,82,93,0.132,0.085,10:08
+4,9:31,NO,Jonas Valanciunas,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,84,95,0.132,0.083,9:36
+4,9:17,ATL,Delon Wright,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,86,95,0.1,0.11,9:31
+4,8:03,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,90,97,0.096,0.151,8:16
+4,7:16,NO,CJ McCollum,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,92,101,0.16,0.105,7:24
+4,6:16,ATL,Clint Capela,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,95,103,0.07,0.124,6:16
+4,4:30,ATL,Delon Wright,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,101,104,0.187,0.271,4:47
+4,1:45,ATL,Clint Capela,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,108,108,0.317,0.46,1:46
+4,36.9,NO,Jonas Valanciunas,Shooting Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,110,114,0.295,0.174,48.5
+4,13.5,ATL,Trae Young,Personal Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,112,114,0.069,0.182,17.3
+4,4.2,ATL,Bogdan Bogdanovic,Personal Take Foul,Foul,Derek Richardson,Sean Wright,Brett Nansel,ATL,112,116,0.004,0.016,4.5

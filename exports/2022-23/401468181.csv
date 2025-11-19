@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:12,DEN,Nikola Jokic,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,2,5,0.605,0.606,10:22
+1,9:14,DEN,Michael Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,8,10,0.659,0.599,9:14
+1,9:04,DEN,Aaron Gordon,Offensive Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,9,10,0.647,0.625,9:14
+1,8:41,GS,Kevon Looney,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,11,10,0.671,0.67,8:53
+1,7:27,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,15,12,0.678,0.713,7:43
+1,7:22,DEN,Michael Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,15,13,0.742,0.712,7:26
+1,5:25,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,20,20,0.636,0.636,5:26
+1,5:03,DEN,Bruce Brown,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,20,22,0.646,0.61,5:16
+2,11:36,GS,JaMychal Green,Offensive Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,34,42,0.379,0.412,11:42
+2,11:30,DEN,DeAndre Jordan,Offensive Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,34,42,0.411,0.379,11:36
+2,11:09,GS,Donte DiVincenzo,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,34,42,0.336,0.377,11:17
+2,10:47,DEN,Davon Reed,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,34,44,0.391,0.348,11:09
+2,10:15,GS,Jonathan Kuminga,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,36,44,0.328,0.371,10:23
+2,9:07,GS,James Wiseman,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,38,48,0.288,0.306,9:07
+2,6:31,GS,Kevon Looney,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,41,52,0.222,0.261,6:40
+2,6:07,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,41,55,0.206,0.206,6:21
+2,5:10,DEN,Nikola Jokic,Offensive Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,43,55,0.249,0.224,5:28
+2,5:04,GS,Draymond Green,Offensive Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,43,55,0.221,0.222,5:10
+2,2:51,GS,Kevon Looney,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,46,60,0.128,0.159,3:02
+2,1:23,GS,JaMychal Green,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,50,66,0.085,0.111,1:44
+2,1:07,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,50,68,0.058,0.077,1:14
+2,49.7,DEN,Christian Braun,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,50,70,0.082,0.062,1:07
+3,11:04,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,52,70,0.1,0.078,11:12
+3,8:51,DEN,Michael Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,60,77,0.1,0.076,9:00
+3,8:18,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,64,77,0.096,0.123,8:25
+3,6:58,DEN,Bruce Brown,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,67,82,0.122,0.094,7:02
+3,6:46,GS,Andrew Wiggins,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,69,82,0.11,0.111,6:58
+3,3:01,GS,James Wiseman,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,81,89,0.202,0.205,3:14
+3,1:51,DEN,Bones Hyland,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,84,93,0.241,0.189,1:55
+3,1:35,GS,Donte DiVincenzo,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,84,93,0.115,0.188,1:49
+3,1:06,DEN,Bones Hyland,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,84,96,0.136,0.103,1:19
+3,1.6,GS,James Wiseman,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,88,96,0.122,0.169,14.1
+4,10:19,DEN,Michael Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,90,103,0.071,0.04,10:19
+4,10:19,DEN,Jeff Green,Loose Ball Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,90,103,0.061,0.056,10:19
+4,10:07,GS,JaMychal Green,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,90,103,0.039,0.04,10:07
+4,9:18,DEN,Michael Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,92,103,0.11,0.061,9:18
+4,7:14,DEN,Bones Hyland,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,95,106,0.103,0.064,7:24
+4,6:16,DEN,Nikola Jokic,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,99,108,0.153,0.104,6:32
+4,4:21,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,105,113,0.049,0.097,4:21
+4,56.0,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,114,121,0.111,0.05,1:02
+4,24.8,GS,Stephen Curry,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,119,123,0.029,0.095,27.5
+4,22.9,GS,Stephen Curry,Personal Take Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,119,123,0.027,0.029,24.8
+4,20.1,DEN,Nikola Jokic,Personal Take Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,119,124,0.166,0.075,22.9
+4,6.6,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Brandon Adair,GS,123,126,0.017,0.051,6.6

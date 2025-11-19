@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:04,IND,Andrew Nembhard,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,6,5,0.464,0.431,10:21
+1,9:16,MIL,Patrick Beverley,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,8,5,0.455,0.454,9:29
+1,8:50,IND,Aaron Nesmith,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,8,5,0.52,0.482,9:01
+1,8:20,IND,Pascal Siakam,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,10,8,0.456,0.457,8:29
+1,6:21,IND,Tyrese Haliburton,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,19,13,0.611,0.571,6:25
+1,2:15,MIL,Khris Middleton,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,23,26,0.298,0.342,2:15
+1,42.2,MIL,Bobby Portis,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,26,28,0.328,0.368,42.2
+1,24.1,MIL,Pat Connaughton,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,26,28,0.308,0.343,26.0
+2,11:04,IND,Ben Sheppard,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,28,33,0.313,0.268,11:04
+2,10:35,IND,Pascal Siakam,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,29,35,0.307,0.27,10:48
+2,8:21,MIL,Damian Lillard,Loose Ball Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,38,35,0.496,0.496,8:21
+2,6:33,IND,Andrew Nembhard,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,38,40,0.378,0.38,6:35
+2,4:13,IND,Aaron Nesmith,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,48,48,0.496,0.448,4:28
+3,10:14,MIL,Damian Lillard,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,58,66,0.163,0.205,10:14
+3,9:08,IND,Tyrese Haliburton,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,60,69,0.217,0.178,9:14
+3,8:10,MIL,Khris Middleton,Loose Ball Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,62,69,0.201,0.199,8:10
+3,8:05,MIL,Patrick Beverley,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,62,69,0.163,0.201,8:10
+3,8:05,IND,Andrew Nembhard,Technical Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,62,69,0.253,0.163,8:05
+3,6:55,IND,Pascal Siakam,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,67,74,0.247,0.195,6:55
+3,5:41,MIL,Damian Lillard,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,70,77,0.17,0.188,5:41
+3,5:29,IND,Obi Toppin,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,70,79,0.165,0.165,5:41
+3,5:21,IND,Aaron Nesmith,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,70,79,0.204,0.165,5:29
+3,4:57,IND,Andrew Nembhard,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,73,79,0.277,0.215,4:57
+3,3:19,MIL,Pat Connaughton,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,78,81,0.287,0.356,3:19
+3,1:18,MIL,AJ Green,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,80,86,0.151,0.194,1:21
+4,11:40,IND,Aaron Nesmith,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,83,92,0.179,0.118,0.0
+4,11:17,IND,Obi Toppin,Flagrant Foul Type 1,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,87,92,0.265,0.221,11:17
+4,10:43,MIL,Jae Crowder,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,88,92,0.253,0.264,10:47
+4,5:09,IND,Tyrese Haliburton,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,96,117,0.001,0.001,5:09
+4,4:40,IND,Andrew Nembhard,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,97,119,0.001,0.001,4:46
+4,1:55,MIL,AJ Green,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,106,121,0.001,0.001,2:07
+4,11.1,MIL,Chris Livingston,Double Technical Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,MIL,108,125,0.001,0.001,11.1

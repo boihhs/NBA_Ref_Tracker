@@ -1,0 +1,59 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:04,DET,Simone Fontecchio,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,6,4,0.893,0.878,10:16
+1,9:37,PHX,Eric Gordon,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,8,6,0.856,0.876,9:37
+1,9:29,DET,Jaden Ivey,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,8,6,0.875,0.876,9:35
+1,7:42,DET,Ausar Thompson,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,10,8,0.885,0.869,7:47
+1,7:34,PHX,Devin Booker,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,12,8,0.88,0.88,7:42
+1,7:12,DET,Simone Fontecchio,Loose Ball Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,12,10,0.884,0.866,7:12
+1,7:10,PHX,Kevin Durant,Offensive Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,12,10,0.854,0.884,7:12
+1,6:36,PHX,Jusuf Nurkic,Defensive 3-Seconds Technical,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,14,10,0.879,0.876,6:57
+1,6:36,PHX,Devin Booker,Technical Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,14,10,0.866,0.875,6:36
+1,6:36,PHX,Devin Booker,Technical Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,14,11,0.854,0.863,6:36
+1,6:36,PHX,PHX,Technical Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,14,12,0.84,0.851,6:36
+1,5:56,DET,Jaden Ivey,Transition Take Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,16,15,0.848,0.848,5:56
+1,4:52,PHX,Jusuf Nurkic,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,21,15,0.876,0.893,5:01
+1,3:59,PHX,Kevin Durant,Offensive Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,23,19,0.866,0.88,4:11
+1,3:48,PHX,Grayson Allen,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,23,19,0.845,0.866,3:59
+1,3:44,PHX,Grayson Allen,Offensive Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,23,21,0.838,0.852,3:48
+1,2:57,DET,Ausar Thompson,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,23,23,0.842,0.818,3:00
+1,59.2,DET,Troy Brown Jr.,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,31,25,0.91,0.894,1:20
+1,48.1,DET,James Wiseman,Offensive Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,34,25,0.923,0.914,59.2
+1,38.2,DET,James Wiseman,Defensive 3-Seconds Technical,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,34,25,0.92,0.923,48.1
+1,1.0,DET,James Wiseman,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,35,25,0.935,0.929,1.0
+2,10:08,DET,Cade Cunningham,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,44,25,0.978,0.978,10:22
+2,9:15,DET,Jaden Ivey,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,47,25,0.989,0.986,9:20
+2,8:44,DET,Evan Fournier,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,49,25,0.99,0.99,8:54
+2,8:13,DET,Simone Fontecchio,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,49,28,0.988,0.984,8:29
+2,7:04,DET,Ausar Thompson,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,50,33,0.977,0.971,7:09
+2,5:37,PHX,Josh Okogie,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,56,37,0.975,0.974,5:51
+2,3:00,DET,Evan Fournier,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,60,39,0.989,0.986,3:03
+2,2:39,DET,Tosan Evbuomwan,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,62,39,0.993,0.991,2:45
+2,38.1,DET,James Wiseman,Offensive Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,69,41,0.997,0.997,53.1
+2,29.0,DET,James Wiseman,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,69,41,0.998,0.997,38.1
+3,11:02,Unknown,Unknown,No Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,73,41,0.999,0.999,11:07
+3,10:24,PHX,Royce O'Neale,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,76,41,0.999,0.999,10:42
+3,9:34,PHX,Jusuf Nurkic,Offensive Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,76,47,0.998,0.998,9:48
+3,7:45,PHX,Jusuf Nurkic,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,83,51,0.999,0.999,7:54
+3,7:35,DET,Jalen Duren,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,83,53,0.999,0.999,7:45
+3,6:36,DET,Cade Cunningham,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,85,55,0.999,0.999,6:43
+3,6:20,DET,Jalen Duren,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,85,55,0.999,0.999,6:21
+3,5:43,DET,Jalen Duren,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,87,55,0.999,0.999,5:52
+3,5:00,DET,Cade Cunningham,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,88,57,0.999,0.999,5:15
+3,4:43,PHX,Jusuf Nurkic,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,89,57,0.999,0.999,4:45
+3,4:03,PHX,Eric Gordon,Defensive 3-Seconds Technical,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,92,57,0.999,0.999,4:19
+3,3:19,DET,Ausar Thompson,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,92,60,0.999,0.999,3:37
+3,2:57,DET,James Wiseman,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,94,60,0.999,0.999,3:06
+4,10:54,DET,Marcus Sasser,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,99,69,0.999,0.999,10:54
+4,9:08,PHX,Bol Bol,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,99,77,0.998,0.999,9:08
+4,8:50,DET,Marcus Sasser,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,99,78,0.999,0.998,9:08
+4,7:19,PHX,Theo Maledon,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,103,78,0.999,0.999,7:22
+4,7:03,DET,Malachi Flynn,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,103,79,0.999,0.999,7:17
+4,6:29,PHX,David Roddy,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,105,79,0.999,0.999,6:48
+4,6:18,PHX,Bol Bol,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,105,79,0.999,0.999,6:29
+4,4:27,PHX,Theo Maledon,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,110,83,0.999,0.999,4:27
+4,4:15,DET,James Wiseman,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,110,84,0.999,0.999,4:27
+4,3:18,PHX,Nassir Little,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,111,87,0.999,0.999,3:21
+4,2:47,DET,Marcus Sasser,Personal Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,111,88,0.999,0.999,2:49
+4,1:17,PHX,Theo Maledon,Offensive Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,112,93,0.999,0.999,1:25
+4,58.1,DET,Marcus Sasser,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,114,95,0.999,0.999,58.1
+4,32.2,DET,Mike Muscala,Shooting Foul,Foul,J.T. Orr,Karl Lane,Justin Van Duyne,PHX,115,97,0.999,0.999,39.2

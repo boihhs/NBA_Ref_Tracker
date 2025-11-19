@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:41,WSH,Anthony Gill,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,0,2,0.732,0.702,9:47
+1,9:26,DET,Saddiq Bey,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,2,4,0.661,0.7,9:26
+1,6:31,WSH,Kristaps Porzingis,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,9,10,0.708,0.688,6:46
+1,6:24,DET,Isaiah Stewart,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,9,10,0.686,0.708,6:31
+1,5:52,WSH,Deni Avdija,Defensive 3-Seconds Technical,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,9,12,0.651,0.659,6:07
+1,5:27,DET,Saddiq Bey,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,12,12,0.704,0.704,5:43
+1,4:30,DET,Cade Cunningham,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,16,12,0.753,0.783,4:47
+1,3:19,WSH,Deni Avdija,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,18,14,0.798,0.798,3:31
+1,3:11,WSH,Thomas Bryant,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,18,14,0.822,0.798,3:19
+1,51.0,WSH,Thomas Bryant,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,22,21,0.76,0.731,57.4
+2,11:29,DET,Braxton Key,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,24,25,0.649,0.646,11:42
+2,11:19,DET,Rodney McGruder,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,24,25,0.606,0.649,11:29
+2,9:05,WSH,Thomas Bryant,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,31,32,0.682,0.634,9:05
+2,7:05,WSH,Kristaps Porzingis,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,32,38,0.5,0.501,7:15
+2,6:38,DET,Braxton Key,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,32,38,0.416,0.466,6:51
+2,6:31,DET,Braxton Key,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,32,39,0.428,0.464,6:38
+2,5:00,WSH,Anthony Gill,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,32,42,0.398,0.35,5:06
+2,3:58,WSH,Kentavious Caldwell-Pope,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,34,46,0.325,0.281,4:11
+2,1:46,DET,Isaiah Stewart,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,41,50,0.268,0.32,2:00
+2,1:08,DET,Cory Joseph,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,41,54,0.172,0.221,1:08
+2,57.0,DET,Isaiah Stewart,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,41,55,0.164,0.193,1:08
+2,38.4,WSH,Rui Hachimura,Technical Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,41,57,0.157,0.142,38.4
+2,12.9,DET,Cade Cunningham,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,44,57,0.148,0.184,28.7
+2,3.4,DET,Cade Cunningham,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,44,59,0.135,0.159,12.9
+2,3.4,DET,Cade Cunningham,Technical Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,44,59,0.121,0.135,3.4
+3,10:22,WSH,Kristaps Porzingis,Defensive 3-Seconds Technical,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,48,63,0.134,0.14,10:29
+3,9:32,DET,DET,Technical Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,53,63,0.161,0.205,9:34
+3,5:53,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,61,71,0.276,0.223,5:57
+3,4:16,DET,Killian Hayes,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,64,73,0.203,0.238,4:21
+3,1:07,WSH,Corey Kispert,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,66,77,0.18,0.132,1:08
+3,30.8,DET,Isaiah Stewart,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,70,77,0.167,0.227,47.0
+4,11:23,DET,Rodney McGruder,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,70,79,0.127,0.135,11:31
+4,10:39,WSH,Thomas Bryant,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,72,79,0.238,0.227,10:47
+4,7:11,WSH,Rui Hachimura,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,83,86,0.402,0.386,7:11
+4,6:03,DET,Killian Hayes,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,85,88,0.292,0.309,6:08
+4,5:48,WSH,Kristaps Porzingis,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,85,88,0.386,0.362,5:48
+4,5:15,DET,Killian Hayes,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,88,88,0.373,0.504,5:31
+4,3:59,WSH,Corey Kispert,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,91,90,0.748,0.636,4:07
+4,2:52,DET,Killian Hayes,Defensive 3-Seconds Technical,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,93,93,0.517,0.494,3:08
+4,1:26,DET,Cade Cunningham,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,95,96,0.228,0.381,1:38
+4,11.4,DET,Rodney McGruder,Personal Foul,Foul,Tony Brothers,J.T. Orr,Evan Scott,DET,97,98,0.125,0.29,11.9

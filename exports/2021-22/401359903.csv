@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:16,DET,Isaiah Stewart,Offensive Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,4,8,0.588,0.617,9:35
+1,9:05,ORL,Mo Bamba,Technical Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,4,8,0.632,0.614,9:05
+1,7:34,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,7,8,0.664,0.679,7:39
+1,6:04,DET,Killian Hayes,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,12,8,0.758,0.758,6:21
+1,9:05,ORL,Mo Bamba,Loose Ball Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,4,8,0.612,0.793,4:20
+1,1:38,ORL,Terrence Ross,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,20,16,0.782,0.747,1:38
+1,35.8,ORL,R.J. Hampton,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,23,18,0.816,0.786,45.8
+2,10:36,ORL,Gary Harris,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,27,22,0.812,0.785,10:50
+2,8:49,DET,Kelly Olynyk,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,32,22,0.855,0.856,8:55
+2,8:46,DET,Josh Jackson,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,32,22,0.83,0.855,8:49
+2,7:33,ORL,Cole Anthony,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,32,25,0.847,0.821,7:34
+2,7:23,DET,Kelly Olynyk,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,33,25,0.789,0.82,7:33
+2,7:06,ORL,Mo Bamba,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,33,26,0.81,0.821,7:23
+2,3:30,ORL,Mo Bamba,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,42,35,0.833,0.798,3:30
+2,2:54,DET,Isaiah Stewart,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,43,38,0.761,0.748,2:54
+2,1:41,ORL,Franz Wagner,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,45,40,0.76,0.774,1:41
+2,1:01,DET,Jerami Grant,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,48,40,0.784,0.822,1:14
+3,10:57,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,50,47,0.716,0.717,10:57
+3,10:25,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,50,47,0.759,0.716,10:30
+3,9:44,ORL,Jalen Suggs,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,52,49,0.713,0.715,9:50
+3,8:30,DET,Saddiq Bey,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,55,52,0.679,0.679,8:41
+3,7:20,DET,Killian Hayes,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,55,56,0.548,0.527,7:22
+3,6:11,ORL,Moritz Wagner,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,55,62,0.378,0.324,6:35
+3,5:24,DET,Josh Jackson,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,60,64,0.395,0.39,5:24
+3,4:54,DET,Josh Jackson,Loose Ball Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,63,67,0.325,0.388,5:00
+3,4:28,DET,Cory Joseph,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,63,67,0.32,0.385,4:29
+3,3:34,DET,Saddiq Bey,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,67,69,0.395,0.461,3:46
+3,3:09,DET,Cory Joseph,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,70,70,0.478,0.548,3:19
+3,2:22,ORL,Moritz Wagner,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,76,70,0.838,0.781,2:22
+3,1:42,ORL,Moritz Wagner,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,78,70,0.86,0.872,1:42
+4,10:34,ORL,Ignas Brazdeikis,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,86,73,0.982,0.969,10:36
+4,8:41,DET,Cory Joseph,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,92,79,0.967,0.97,8:41
+4,6:13,DET,Kelly Olynyk,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,100,83,0.997,0.995,6:31
+4,4:34,ORL,Cole Anthony,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,103,88,0.997,0.997,4:41
+4,3:20,DET,Jerami Grant,Offensive Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,103,88,0.998,0.999,3:20
+4,1:54,DET,Cory Joseph,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,105,94,0.98,0.994,1:57
+4,1:18,ORL,Mychal Mulder,Loose Ball Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,105,94,0.999,0.998,1:18
+4,22.3,ORL,Moritz Wagner,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,105,96,0.999,0.997,37.4
+4,15.1,ORL,R.J. Hampton,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,107,98,0.998,0.999,16.0
+4,8.3,ORL,Moritz Wagner,Personal Take Foul,Foul,Marc Davis,Lauren Holtkamp,Brandon Schwab,DET,108,101,0.999,0.998,10.1

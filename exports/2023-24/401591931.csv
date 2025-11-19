@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:36,PHX,Jusuf Nurkic,Offensive Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,0,0,0.51,0.49,12:00
+1,10:46,PHX,Jusuf Nurkic,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,2,0,0.599,0.563,10:49
+1,9:40,LAL,Taurean Prince,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,7,0,0.626,0.662,9:59
+1,8:35,PHX,Eric Gordon,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,10,4,0.698,0.664,8:47
+1,8:17,LAL,Taurean Prince,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,12,4,0.687,0.686,8:19
+1,6:29,PHX,Josh Okogie,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,12,4,0.747,0.715,6:32
+1,6:20,LAL,Anthony Davis,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,12,4,0.655,0.69,6:26
+1,4:08,PHX,Jordan Goodwin,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,14,9,0.685,0.648,4:14
+1,3:23,PHX,Jordan Goodwin,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,14,11,0.615,0.594,3:30
+1,1:12,PHX,Jordan Goodwin,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,15,17,0.499,0.455,1:34
+1,1:03,LAL,Max Christie,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,17,17,0.44,0.485,1:12
+2,11:19,LAL,LeBron James,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,22,24,0.383,0.425,11:19
+2,8:58,LAL,Jaxson Hayes,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,31,29,0.524,0.546,9:01
+2,7:52,PHX,Yuta Watanabe,Loose Ball Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,35,32,0.604,0.605,7:52
+2,7:10,PHX,Nassir Little,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,35,34,0.544,0.545,7:20
+2,6:13,PHX,Keon Johnson,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,40,38,0.578,0.578,6:24
+2,6:05,PHX,Jusuf Nurkic,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,40,38,0.622,0.579,6:13
+2,5:37,PHX,Josh Okogie,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,44,38,0.718,0.667,5:37
+2,5:08,PHX,Grayson Allen,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,45,40,0.713,0.67,5:21
+2,3:43,LAL,Rui Hachimura,Loose Ball Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,51,42,0.759,0.757,3:43
+2,2:37,LAL,D'Angelo Russell,Offensive Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,54,45,0.763,0.788,2:39
+2,1:13,LAL,Cam Reddish,Loose Ball Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,54,51,0.532,0.587,1:13
+2,1:05,LAL,Anthony Davis,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,54,51,0.532,0.532,1:13
+2,53.1,LAL,LeBron James,Double Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,54,52,0.498,0.583,1:03
+2,29.0,PHX,Josh Okogie,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,56,52,0.7,0.655,38.0
+3,10:47,PHX,Nassir Little,Loose Ball Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,58,54,0.659,0.661,10:53
+3,10:23,PHX,Jusuf Nurkic,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,60,54,0.768,0.726,10:28
+3,10:08,LAL,Taurean Prince,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,62,56,0.669,0.725,10:08
+3,8:55,PHX,Jusuf Nurkic,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,62,59,0.628,0.631,8:57
+3,8:49,PHX,Jordan Goodwin,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,62,59,0.68,0.628,8:55
+3,8:19,LAL,Anthony Davis,Offensive Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,62,61,0.515,0.555,8:33
+3,7:28,LAL,Taurean Prince,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,62,63,0.411,0.48,7:28
+3,4:58,PHX,Josh Okogie,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,67,70,0.426,0.354,4:58
+3,3:19,PHX,Nassir Little,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,70,74,0.412,0.349,3:23
+3,3:08,LAL,Cam Reddish,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,71,74,0.287,0.347,3:17
+3,2:32,LAL,Max Christie,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,71,77,0.179,0.227,2:41
+3,1:20,LAL,Cam Reddish,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,71,83,0.047,0.066,1:32
+4,11:48,LAL,Maxwell Lewis,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,73,91,0.006,0.013,11:48
+4,10:05,LAL,Cam Reddish,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,73,93,0.001,0.003,10:08
+4,9:42,LAL,Max Christie,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,75,95,0.001,0.002,9:53
+4,8:41,LAL,Colin Castleton,Offensive Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,78,100,0.001,0.001,9:02
+4,8:34,LAL,Alex Fudge,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,78,100,0.001,0.001,8:41
+4,7:58,PHX,Bol Bol,Offensive Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,81,102,0.001,0.001,8:09
+4,5:31,LAL,D'Moi Hodge,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,90,107,0.001,0.001,5:33
+4,5:09,PHX,Saben Lee,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,90,108,0.001,0.001,5:17
+4,3:58,PHX,Udoka Azubuike,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,92,110,0.001,0.001,4:11
+4,2:39,PHX,Saben Lee,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,93,113,0.001,0.001,3:05
+4,1:52,LAL,Max Christie,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,95,113,0.001,0.001,1:59
+4,1:26,LAL,Maxwell Lewis,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,95,115,0.001,0.001,1:37
+4,1:05,LAL,D'Moi Hodge,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,LAL,95,116,0.001,0.001,1:08

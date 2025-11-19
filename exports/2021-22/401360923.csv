@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:59,MIN,Anthony Edwards,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,3,0,0.645,0.678,11:14
+1,7:05,MIN,Anthony Edwards,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,11,12,0.572,0.57,7:10
+1,6:37,DAL,Dwight Powell,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,11,14,0.544,0.545,6:47
+1,5:30,MIN,Jarred Vanderbilt,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,15,14,0.626,0.621,6:02
+1,4:07,MIN,Karl-Anthony Towns,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,15,16,0.564,0.564,4:13
+1,2:10,MIN,Taurean Prince,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,19,18,0.571,0.612,2:11
+1,1:58,DAL,Maxi Kleber,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,19,18,0.674,0.639,2:05
+1,1:15,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,21,20,0.673,0.642,1:28
+1,47.2,DAL,Maxi Kleber,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,22,20,0.698,0.663,58.3
+1,27.7,DAL,Josh Green,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,24,22,0.697,0.662,37.9
+2,11:01,MIN,Jordan McLaughlin,Personal Take Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,28,22,0.735,0.734,11:09
+2,9:21,MIN,Taurean Prince,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,34,26,0.764,0.802,9:21
+2,7:53,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,36,34,0.655,0.654,8:03
+2,7:29,MIN,Nathan Knight,Loose Ball Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,38,34,0.682,0.682,7:29
+2,7:05,DAL,Frank Ntilikina,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,38,34,0.746,0.71,7:09
+2,6:41,MIN,Malik Beasley,Personal Take Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,40,34,0.695,0.733,6:43
+2,5:43,DAL,Dwight Powell,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,42,34,0.82,0.784,5:43
+2,4:11,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,45,36,0.841,0.807,4:11
+2,2:42,DAL,Jalen Brunson,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,49,38,0.882,0.85,2:42
+2,1:46,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,52,41,0.823,0.851,2:02
+2,1:37,DAL,Spencer Dinwiddie,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,52,43,0.863,0.832,1:46
+2,55.7,MIN,Karl-Anthony Towns,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,56,46,0.803,0.835,1:10
+2,47.4,DAL,Jalen Brunson,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,56,48,0.845,0.81,55.7
+2,33.3,DAL,Dwight Powell,Loose Ball Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,58,48,0.885,0.857,33.3
+2,12.3,DAL,Jalen Brunson,Loose Ball Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,60,48,0.914,0.891,12.3
+3,10:08,DAL,Dwight Powell,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,61,50,0.907,0.883,10:17
+3,9:55,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,62,52,0.827,0.865,9:55
+3,10:04,MIN,Karl-Anthony Towns,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,62,50,0.883,0.845,9:55
+3,9:13,MIN,Karl-Anthony Towns,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,64,53,0.868,0.867,9:34
+3,8:58,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,64,53,0.886,0.887,9:03
+3,6:31,DAL,Dwight Powell,Offensive Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,70,55,0.951,0.941,6:32
+3,6:23,MIN,Naz Reid,Offensive Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,70,55,0.942,0.949,6:31
+3,3:07,MIN,Anthony Edwards,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,77,62,0.937,0.955,3:08
+3,49.5,MIN,Taurean Prince,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,86,66,0.987,0.991,1:03
+3,25.7,DAL,Josh Green,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,88,67,0.997,0.995,25.7
+3,0.0,DAL,Luka Doncic,Double Technical Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,89,67,0.997,0.997,0.0
+4,10:28,MIN,Jaylen Nowell,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,91,67,0.997,0.998,10:43
+4,8:55,MIN,D'Angelo Russell,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,93,70,0.999,0.999,8:55
+4,8:05,DAL,Dorian Finney-Smith,Personal Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,93,75,0.996,0.996,8:13
+4,4:26,MIN,D'Angelo Russell,Personal Take Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,108,83,0.999,0.999,4:36
+4,2:50,MIN,Jaylen Nowell,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,110,87,0.999,0.999,3:04
+4,39.4,MIN,Josh Okogie,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Andy Nagy,MIN,116,93,0.999,0.999,51.3

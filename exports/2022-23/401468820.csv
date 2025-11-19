@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:41,TOR,Scottie Barnes,Offensive Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,5,0,0.599,0.573,10:52
+1,10:20,MIL,Jrue Holiday,Personal Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,7,0,0.627,0.626,10:28
+1,10:14,MIL,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,7,0,0.59,0.627,10:20
+1,5:21,MIL,Joe Ingles,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,23,16,0.6,0.637,5:33
+1,5:04,TOR,Precious Achiuwa,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,23,19,0.628,0.586,5:21
+1,3:39,MIL,Jevon Carter,Personal Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,27,21,0.577,0.617,3:47
+1,1:00,MIL,Bobby Portis,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,39,30,0.682,0.728,1:00
+1,43.1,TOR,Chris Boucher,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,39,31,0.743,0.703,1:00
+2,9:03,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,51,45,0.644,0.634,9:18
+2,6:27,MIL,Brook Lopez,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,53,52,0.467,0.486,6:27
+2,5:07,TOR,Fred VanVleet,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,55,60,0.382,0.308,5:16
+2,3:52,TOR,Gary Trent Jr.,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,56,63,0.319,0.278,4:19
+2,3:12,MIL,Brook Lopez,Offensive Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,58,66,0.222,0.248,3:27
+2,1:05,MIL,Jordan Nwora,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,65,72,0.223,0.268,1:05
+3,10:08,TOR,Fred VanVleet,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,67,76,0.244,0.2,10:11
+3,8:39,MIL,Bobby Portis,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,75,80,0.261,0.315,8:39
+3,7:04,MIL,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,82,80,0.483,0.425,7:20
+3,6:41,MIL,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,85,82,0.524,0.582,6:54
+3,5:54,MIL,Brook Lopez,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,88,83,0.606,0.665,5:59
+3,5:34,TOR,Precious Achiuwa,Personal Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,88,85,0.629,0.629,5:54
+3,3:47,MIL,Joe Ingles,Personal Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,96,88,0.735,0.786,3:56
+3,1:16,TOR,Chris Boucher,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,100,93,0.855,0.806,1:46
+3,1:02,MIL,Jordan Nwora,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,102,93,0.791,0.837,1:16
+3,50.2,TOR,Chris Boucher,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,104,94,0.91,0.872,50.2
+4,10:06,MIL,George Hill,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,107,99,0.776,0.844,10:08
+4,9:50,TOR,OG Anunoby,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,107,100,0.893,0.841,10:06
+4,9:27,MIL,Jordan Nwora,Personal Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,109,100,0.869,0.877,9:32
+4,9:23,MIL,Jordan Nwora,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,109,100,0.811,0.869,9:27
+4,6:40,TOR,OG Anunoby,Technical Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,113,110,0.737,0.658,4:57
+4,4:55,TOR,Fred VanVleet,Personal Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,116,114,0.674,0.737,6:40
+4,6:40,MIL,Brook Lopez,Technical Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,113,110,0.594,0.67,4:34
+4,6:40,MIL,Brook Lopez,Technical Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,113,110,0.594,0.732,4:20
+4,6:40,Unknown,Unknown,Technical Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,113,110,0.594,0.81,3:34
+4,1:03,MIL,Grayson Allen,Personal Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,126,119,0.884,0.957,1:06
+4,20.1,MIL,Grayson Allen,Shooting Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,126,119,0.966,0.98,20.1
+4,14.1,TOR,Fred VanVleet,Personal Take Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,126,120,0.997,0.982,20.1
+4,14.1,TOR,Gary Trent Jr.,Personal Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,126,120,0.997,0.991,14.1
+4,3.2,TOR,Pascal Siakam,Personal Take Foul,Foul,Bill Kennedy,Brent Barnaky,Evan Scott,MIL,128,122,0.999,0.997,6.1

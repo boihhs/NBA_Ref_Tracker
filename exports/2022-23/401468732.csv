@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:50,DAL,Luka Doncic,Personal Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,2,5,0.305,0.302,9:52
+1,9:28,BOS,Jayson Tatum,Offensive Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,2,5,0.326,0.304,9:34
+1,8:14,BOS,Derrick White,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,5,7,0.389,0.353,8:20
+1,8:03,DAL,Spencer Dinwiddie,Loose Ball Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,7,7,0.377,0.376,8:04
+1,7:46,BOS,Derrick White,Personal Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,7,7,0.402,0.403,7:50
+1,7:26,BOS,Jaylen Brown,Offensive Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,7,7,0.403,0.378,7:34
+1,6:17,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,9,7,0.433,0.432,6:21
+1,5:02,BOS,Al Horford,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,9,12,0.371,0.334,5:22
+1,3:59,BOS,Jayson Tatum,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,10,17,0.277,0.245,4:14
+1,3:59,BOS,BOS,Delay Technical,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,10,17,0.238,0.277,3:59
+1,1:33,BOS,Robert Williams III,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,14,24,0.215,0.185,1:35
+1,8.2,BOS,Grant Williams,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,18,29,0.194,0.167,28.2
+2,10:42,DAL,Frank Ntilikina,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,20,33,0.107,0.13,10:42
+2,9:06,DAL,Davis Bertans,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,24,34,0.138,0.162,9:22
+2,8:50,BOS,Jaylen Brown,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,24,36,0.157,0.145,8:50
+2,8:00,DAL,Christian Wood,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,28,38,0.149,0.179,8:00
+2,7:46,BOS,Malcolm Brogdon,Personal Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,28,39,0.16,0.16,8:00
+2,7:25,DAL,Kemba Walker,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,28,39,0.12,0.142,7:37
+2,6:49,BOS,Al Horford,Personal Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,31,44,0.125,0.126,7:03
+2,4:02,BOS,Malcolm Brogdon,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,39,55,0.087,0.068,4:02
+2,2:52,DAL,Luka Doncic,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,41,55,0.077,0.086,2:53
+2,2:23,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,41,56,0.058,0.074,2:32
+2,2:07,BOS,Al Horford,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,43,58,0.095,0.073,2:07
+2,42.2,BOS,Grant Williams,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,44,63,0.054,0.04,43.0
+2,32.0,DAL,Luka Doncic,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,46,63,0.038,0.049,42.2
+3,9:50,BOS,Jaylen Brown,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,50,64,0.096,0.071,9:50
+3,9:15,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,50,64,0.053,0.07,9:24
+3,8:49,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,50,65,0.043,0.056,8:52
+3,8:16,DAL,Luka Doncic,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,50,67,0.027,0.037,8:24
+3,6:51,BOS,Derrick White,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,53,71,0.046,0.033,6:57
+3,5:30,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,57,71,0.04,0.056,5:38
+3,4:27,BOS,Marcus Smart,Personal Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,59,75,0.041,0.043,4:37
+3,1:30,BOS,Robert Williams III,Technical Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,62,83,0.009,0.005,1:30
+3,13.2,DAL,McKinley Wright IV,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,65,86,0.002,0.004,32.2
+4,10:55,DAL,Jaden Hardy,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,65,91,0.001,0.001,11:09
+4,8:45,BOS,Grant Williams,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,69,97,0.001,0.001,8:47
+4,6:57,DAL,Dwight Powell,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,78,99,0.001,0.001,7:48
+4,4:37,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,88,105,0.001,0.001,4:37
+4,3:45,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,88,108,0.001,0.001,3:56
+4,2:43,BOS,Derrick White,Personal Take Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,88,116,0.001,0.001,2:49
+4,2:34,BOS,Sam Hauser,Loose Ball Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,88,116,0.001,0.001,2:43
+4,46.1,BOS,Justin Jackson,Shooting Foul,Foul,Sean Wright,J.T. Orr,Karl Lane,DAL,92,120,0.001,0.001,46.1

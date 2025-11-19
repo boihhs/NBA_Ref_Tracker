@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:52,PHI,Tyrese Maxey,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,3,4,0.771,0.745,10:59
+1,10:01,PHX,Devin Booker,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,7,6,0.73,0.759,10:13
+1,8:26,PHX,Deandre Ayton,Offensive Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,13,10,0.789,0.807,8:36
+1,7:46,PHI,Matisse Thybulle,Loose Ball Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,13,12,0.768,0.768,7:46
+1,5:53,PHI,James Harden,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,19,15,0.825,0.798,5:53
+1,5:20,PHX,Jae Crowder,Offensive Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,19,15,0.795,0.814,5:29
+1,5:09,PHX,Jae Crowder,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,19,15,0.767,0.795,5:20
+1,4:47,PHX,Torrey Craig,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,19,16,0.746,0.776,4:49
+1,3:44,PHX,Deandre Ayton,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,22,21,0.697,0.731,3:57
+1,2:59,PHX,Bismack Biyombo,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,24,28,0.586,0.631,2:59
+1,1:02,PHX,Bismack Biyombo,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,31,36,0.517,0.565,1:12
+1,4.2,PHI,Danny Green,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,36,39,0.677,0.639,7.5
+1,4.2,PHI,DeAndre Jordan,Away from Play Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,36,39,0.677,0.677,4.2
+2,10:34,PHX,Cameron Payne,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,37,41,0.571,0.57,10:45
+2,10:26,PHX,Cameron Payne,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,37,41,0.571,0.571,10:34
+2,9:39,PHX,Torrey Craig,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,37,45,0.444,0.442,9:53
+2,7:18,PHI,Danny Green,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,39,54,0.24,0.24,7:21
+2,6:33,PHI,James Harden,Flagrant Foul Type 1,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,42,54,0.308,0.291,6:51
+2,4:52,PHI,Matisse Thybulle,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,50,54,0.558,0.559,4:59
+2,4:25,PHX,Deandre Ayton,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,52,54,0.538,0.588,4:44
+2,3:19,PHX,Devin Booker,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,52,56,0.461,0.513,3:26
+2,2:16,PHX,Devin Booker,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,52,60,0.315,0.368,2:21
+2,1:39,PHI,Georges Niang,Loose Ball Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,52,62,0.373,0.323,1:39
+2,54.9,PHX,Jae Crowder,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,57,62,0.4,0.456,1:06
+3,10:52,PHI,Matisse Thybulle,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,62,64,0.632,0.581,11:13
+3,10:18,PHX,Jae Crowder,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,63,66,0.475,0.54,10:18
+3,10:08,PHI,Tyrese Maxey,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,63,67,0.502,0.503,10:18
+3,8:21,PHI,Matisse Thybulle,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,67,69,0.619,0.564,8:25
+3,4:59,PHI,Joel Embiid,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,75,76,0.64,0.582,5:15
+3,2:30,PHX,Deandre Ayton,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,83,81,0.585,0.651,2:45
+3,1:05,PHX,Bismack Biyombo,Loose Ball Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,86,84,0.578,0.646,1:05
+3,56.1,PHI,Shake Milton,Offensive Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,86,84,0.689,0.578,1:05
+3,38.8,PHI,Danny Green,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,88,84,0.793,0.727,38.8
+4,11:27,PHI,DeAndre Jordan,Offensive Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,91,86,0.81,0.768,11:36
+4,11:14,PHI,James Harden,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,93,86,0.895,0.84,11:14
+4,10:29,PHX,Landry Shamet,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,95,88,0.813,0.848,10:44
+4,9:04,PHX,Chris Paul,Personal Take Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,95,90,0.763,0.777,9:04
+4,4:42,PHX,Jae Crowder,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,101,98,0.568,0.697,4:48
+4,4:24,PHI,Danny Green,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,103,100,0.804,0.691,4:24
+4,2:24,PHI,Joel Embiid,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Tre Maddox,PHX,108,102,0.969,0.932,2:26

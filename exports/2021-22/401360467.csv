@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,LAC,Amir Coffey,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,3,2,0.66,0.664,10:56
+1,9:17,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,5,2,0.733,0.702,9:21
+1,8:21,SA,Jock Landale,Offensive Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,10,4,0.742,0.763,8:23
+1,7:05,SA,Keldon Johnson,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,10,8,0.634,0.676,7:05
+1,5:40,SA,Devin Vassell,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,13,14,0.533,0.574,5:53
+1,2:43,LAC,Serge Ibaka,Loose Ball Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,21,21,0.616,0.616,2:43
+1,1:24,SA,Derrick White,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,21,21,0.544,0.587,1:24
+1,3.7,LAC,Nicolas Batum,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,21,21,0.61,0.61,3.7
+1,0.6,SA,Keita Bates-Diop,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,21,21,0.54,0.582,1.8
+2,9:19,LAC,Eric Bledsoe,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,31,22,0.822,0.823,9:28
+2,9:07,LAC,Eric Bledsoe,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,31,22,0.822,0.822,9:19
+2,8:35,LAC,Brandon Boston,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,31,22,0.813,0.823,8:35
+2,3:25,LAC,Terance Mann,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,49,38,0.892,0.867,3:33
+2,43.6,SA,Lonnie Walker IV,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,56,45,0.827,0.855,46.1
+3,11:51,LAC,Nicolas Batum,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,56,47,0.839,0.826,12:00
+3,10:27,LAC,Nicolas Batum,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,56,49,0.832,0.799,10:44
+3,9:43,LAC,Ivica Zubac,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,61,49,0.911,0.901,9:43
+3,9:19,LAC,Ivica Zubac,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,63,52,0.909,0.885,9:30
+3,8:54,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,64,55,0.877,0.846,9:09
+3,7:48,SA,Keldon Johnson,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,69,58,0.872,0.871,8:04
+3,6:36,SA,Doug McDermott,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,71,61,0.856,0.855,6:41
+3,5:46,LAC,Nicolas Batum,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,73,63,0.909,0.881,5:56
+3,3:36,LAC,Eric Bledsoe,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,77,70,0.861,0.822,3:40
+3,2:53,LAC,Terance Mann,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,82,72,0.924,0.897,3:03
+3,2:48,SA,Devin Vassell,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,83,72,0.897,0.897,2:53
+4,7:41,SA,Jock Landale,Personal Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,87,90,0.302,0.318,7:53
+4,7:13,LAC,Brandon Boston,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,87,92,0.346,0.256,7:24
+4,5:12,LAC,Brandon Boston,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,91,92,0.602,0.478,5:16
+4,4:23,SA,Keldon Johnson,Away from Play Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,93,92,0.538,0.554,4:23
+4,1:47,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Michael Smith,Karl Lane,Aaron Smith,SA,99,94,0.964,0.912,2:04

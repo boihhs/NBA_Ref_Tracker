@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:25,POR,Keon Johnson,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,0,2,0.099,0.098,10:37
+1,9:53,POR,Didi Louzada,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,3,2,0.133,0.131,10:09
+1,8:34,POR,Brandon Williams,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,3,4,0.101,0.115,8:37
+1,7:59,POR,Didi Louzada,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,3,5,0.093,0.108,8:04
+1,7:49,UTAH,Rudy Gobert,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,3,7,0.114,0.099,7:59
+1,6:57,UTAH,Juancho Hernangomez,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,4,9,0.093,0.092,7:04
+1,5:53,UTAH,Royce O'Neale,Offensive Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,7,9,0.127,0.116,5:58
+1,3:35,POR,Reggie Perry,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,15,11,0.191,0.218,3:35
+1,57.9,POR,Greg Brown III,Loose Ball Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,17,15,0.175,0.202,57.9
+2,11:46,POR,Brandon Williams,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,19,16,0.229,0.238,12:00
+2,10:54,UTAH,Rudy Gay,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,19,16,0.294,0.256,11:10
+2,10:43,POR,Keljin Blevins,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,21,16,0.249,0.282,10:54
+2,10:18,UTAH,Mike Conley,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,21,18,0.262,0.263,10:24
+2,10:02,UTAH,Danuel House Jr.,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,21,20,0.221,0.219,10:13
+2,9:14,POR,Didi Louzada,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,23,20,0.218,0.247,9:23
+2,8:25,POR,Keljin Blevins,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,23,24,0.162,0.176,8:25
+2,6:42,UTAH,Hassan Whiteside,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,25,34,0.093,0.075,6:42
+2,6:28,POR,Keon Johnson,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,25,34,0.062,0.075,6:40
+2,5:36,POR,CJ Elleby,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,30,35,0.104,0.123,5:52
+2,5:24,UTAH,Jared Butler,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,30,37,0.133,0.11,5:36
+2,4:45,UTAH,Jordan Clarkson,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,31,40,0.106,0.087,5:02
+2,45.3,POR,Greg Brown III,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,40,49,0.066,0.082,55.8
+3,10:19,POR,CJ Elleby,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,44,52,0.078,0.096,10:35
+3,10:10,UTAH,Mike Conley,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,44,53,0.097,0.097,10:19
+3,8:55,POR,CJ Elleby,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,44,53,0.084,0.084,8:55
+3,8:16,POR,CJ Elleby,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,44,55,0.048,0.061,8:21
+3,7:46,POR,Brandon Williams,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,46,55,0.067,0.084,7:57
+3,7:33,POR,Keljin Blevins,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,46,55,0.067,0.085,7:33
+3,7:08,POR,Reggie Perry,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,48,56,0.079,0.1,7:18
+3,6:54,POR,Reggie Perry,Offensive Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,48,57,0.084,0.101,7:08
+3,5:57,POR,Keon Johnson,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,48,61,0.035,0.049,5:57
+3,5:11,POR,Didi Louzada,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,48,64,0.017,0.026,5:11
+3,3:59,UTAH,Juancho Hernangomez,Personal Take Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,50,68,0.015,0.015,4:01
+3,3:39,POR,Ben McLemore,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,50,68,0.007,0.011,3:47
+3,47.8,POR,Elijah Hughes,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,53,74,0.001,0.003,53.2
+4,11:06,UTAH,Jordan Clarkson,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,56,78,0.002,0.002,11:13
+4,10:10,UTAH,Rudy Gobert,Offensive Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,58,80,0.001,0.001,10:26
+4,7:23,POR,CJ Elleby,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,62,87,0.001,0.001,7:30
+4,5:40,POR,Brandon Williams,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,64,92,0.001,0.001,5:57
+4,5:29,UTAH,Jared Butler,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,64,94,0.001,0.001,5:40
+4,4:49,UTAH,Nickeil Alexander-Walker,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,66,96,0.001,0.001,4:54
+4,3:27,POR,Reggie Perry,Shooting Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,73,100,0.001,0.001,3:39
+4,42.2,UTAH,Nickeil Alexander-Walker,Personal Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,77,111,0.001,0.001,50.2
+4,42.2,UTAH,Nickeil Alexander-Walker,Technical Foul,Foul,Bill Kennedy,Dedric Taylor,Lauren Holtkamp,POR,77,111,0.001,0.001,42.2

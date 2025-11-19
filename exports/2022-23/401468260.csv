@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:25,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,4,8,0.501,0.549,9:25
+1,8:50,OKC,Luguentz Dort,Personal Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,6,9,0.548,0.546,9:05
+1,8:47,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,6,9,0.508,0.548,8:50
+1,8:29,ORL,Wendell Carter Jr.,Offensive Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,8,11,0.57,0.547,8:42
+1,8:17,ORL,Bol Bol,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,8,11,0.607,0.57,8:29
+1,5:57,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,16,17,0.548,0.588,6:10
+1,4:47,ORL,Bol Bol,Offensive Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,19,19,0.635,0.61,4:56
+1,1:52,OKC,Josh Giddey,Personal Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,29,24,0.69,0.727,1:59
+1,27.8,ORL,R.J. Hampton,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,33,29,0.739,0.7,27.8
+1,9.5,OKC,Ousmane Dieng,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,33,31,0.629,0.677,9.5
+2,9:32,ORL,Chuma Okeke,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,42,34,0.823,0.789,9:32
+2,9:21,ORL,Mo Bamba,Offensive Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,43,34,0.828,0.811,9:32
+2,7:28,OKC,Luguentz Dort,Personal Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,47,42,0.72,0.72,7:42
+2,5:56,ORL,Mo Bamba,Technical Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,52,47,0.763,0.745,5:56
+2,3:15,OKC,Darius Bazley,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,59,54,0.674,0.717,3:22
+2,1:07,ORL,Wendell Carter Jr.,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,59,60,0.608,0.558,1:08
+2,23.4,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,60,63,0.396,0.447,23.4
+2,15.1,OKC,Aaron Wiggins,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,60,65,0.353,0.415,15.1
+3,9:06,OKC,Jalen Williams,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,63,73,0.159,0.198,9:27
+3,8:42,OKC,Luguentz Dort,Personal Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,65,75,0.195,0.194,8:55
+3,4:53,OKC,Josh Giddey,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,71,84,0.067,0.091,5:00
+3,3:33,ORL,Wendell Carter Jr.,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,73,86,0.115,0.079,3:33
+3,34.3,ORL,Kevon Harris,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,83,88,0.36,0.279,34.3
+4,9:53,ORL,Franz Wagner,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,87,92,0.383,0.296,10:06
+4,8:51,ORL,ORL,Delay Technical,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,89,96,0.185,0.195,8:52
+4,8:25,OKC,Tre Mann,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,92,98,0.15,0.232,8:25
+4,7:48,ORL,Jalen Suggs,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,92,101,0.172,0.114,8:06
+4,6:13,ORL,R.J. Hampton,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,96,104,0.192,0.12,6:17
+4,5:22,ORL,R.J. Hampton,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,98,104,0.28,0.186,5:23
+4,3:42,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,105,104,0.446,0.578,3:44
+4,1:18,OKC,Luguentz Dort,Personal Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,111,106,0.771,0.889,1:23
+4,1:11,OKC,Tre Mann,Shooting Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,111,106,0.773,0.771,1:18
+4,35.9,ORL,Franz Wagner,Personal Take Foul,Foul,James Capers,Jason Goldenberg,Ashley Moyer-Gleich,OKC,114,108,0.991,0.971,40.8

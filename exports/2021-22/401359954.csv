@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:46,NO,Garrett Temple,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,0,0,0.762,0.762,12:00
+1,9:44,GS,Andrew Wiggins,Offensive Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,4,8,0.647,0.673,9:52
+1,8:33,GS,Kevon Looney,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,9,11,0.652,0.687,8:48
+1,7:38,GS,Kevon Looney,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,14,12,0.736,0.766,7:56
+1,6:48,GS,Draymond Green,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,16,16,0.689,0.722,6:51
+1,6:34,NO,Jonas Valanciunas,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,16,18,0.731,0.701,6:48
+2,11:18,GS,Juan Toscano-Anderson,Offensive Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,38,33,0.795,0.817,11:35
+2,9:30,NO,Devonte' Graham,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,43,33,0.889,0.889,9:36
+2,7:10,GS,Jordan Poole,Defensive 3-Seconds Technical,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,48,35,0.916,0.912,7:27
+2,5:31,GS,Jordan Poole,Technical Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,50,39,0.878,0.902,5:31
+2,4:31,GS,Stephen Curry,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,50,39,0.89,0.889,4:44
+2,2:37,GS,Draymond Green,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,50,45,0.736,0.774,2:43
+2,2:31,NO,Garrett Temple,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,50,47,0.749,0.75,2:37
+2,1.2,NO,Josh Hart,Personal Take Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,54,50,0.808,0.77,3.1
+3,10:37,GS,Jordan Poole,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,54,52,0.679,0.68,10:45
+3,10:22,NO,Nickeil Alexander-Walker,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,54,52,0.694,0.679,10:37
+3,10:05,GS,Jordan Poole,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,54,52,0.677,0.676,10:06
+3,10:03,NO,Jonas Valanciunas,Offensive Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,54,52,0.711,0.677,10:05
+3,9:37,GS,Kevon Looney,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,57,52,0.721,0.767,9:52
+3,8:44,NO,Garrett Temple,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,59,52,0.87,0.841,8:48
+3,7:11,NO,Garrett Temple,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,63,55,0.891,0.863,7:19
+3,11:47,GS,Draymond Green,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,54,50,0.698,0.884,6:57
+3,6:45,NO,Nickeil Alexander-Walker,Loose Ball Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,64,55,0.908,0.884,6:45
+3,6:24,NO,Josh Hart,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,64,55,0.909,0.885,6:29
+3,6:08,GS,Draymond Green,Defensive 3-Seconds Technical,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,66,55,0.905,0.9,6:24
+3,5:14,NO,Josh Hart,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,71,58,0.954,0.934,5:14
+3,4:18,GS,Andrew Wiggins,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,76,58,0.969,0.978,4:27
+3,3:16,GS,Draymond Green,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,79,62,0.971,0.975,3:18
+3,1:03,NO,Willy Hernangomez,Clear Path Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,84,66,0.99,0.99,1:03
+4,10:32,GS,Jordan Poole,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,91,68,0.998,0.998,10:53
+4,9:15,NO,Naji Marshall,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,97,72,0.999,0.999,9:23
+4,8:54,NO,Nickeil Alexander-Walker,Personal Take Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,99,72,0.999,0.999,8:56
+4,5:09,NO,Kira Lewis Jr.,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,113,78,0.999,0.999,5:09
+4,3:43,NO,Trey Murphy III,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,116,80,0.999,0.999,3:56
+4,3:39,NO,Kira Lewis Jr.,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,116,80,0.999,0.999,3:43
+4,2:00,GS,Jonathan Kuminga,Personal Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,122,80,0.999,0.999,2:13
+4,29.4,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Jacyn Goble,Leon Wood,David Guthrie,GS,126,82,0.999,0.999,29.4

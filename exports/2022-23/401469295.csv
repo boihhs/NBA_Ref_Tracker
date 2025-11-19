@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:57,LAL,LeBron James,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,2,7,0.615,0.58,10:18
+1,9:08,CHI,Nikola Vucevic,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,6,9,0.559,0.598,9:21
+1,8:40,CHI,Zach LaVine,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,6,12,0.498,0.544,8:40
+1,6:23,LAL,Anthony Davis,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,8,18,0.462,0.422,6:37
+1,4:22,LAL,Rui Hachimura,Loose Ball Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,10,25,0.271,0.271,4:22
+1,3:30,CHI,Coby White,Defensive 3-Seconds Technical,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,13,27,0.27,0.267,3:47
+1,1:34,LAL,Troy Brown Jr.,Personal Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,17,29,0.372,0.303,2:04
+2,10:47,CHI,Patrick Williams,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,25,31,0.407,0.454,11:05
+2,9:16,CHI,Ayo Dosunmu,Personal Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,27,34,0.413,0.412,9:32
+2,9:02,LAL,Jarred Vanderbilt,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,29,34,0.525,0.47,9:02
+2,9:02,LAL,Dennis Schroder,Technical Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,29,34,0.526,0.525,9:02
+2,6:19,CHI,Patrick Williams,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,39,36,0.655,0.695,6:28
+2,5:38,CHI,Nikola Vucevic,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,39,37,0.645,0.667,5:38
+2,4:32,CHI,Ayo Dosunmu,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,41,41,0.555,0.604,4:49
+2,1:55,CHI,Patrick Beverley,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,51,49,0.607,0.657,2:06
+2,57.1,CHI,Zach LaVine,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,51,53,0.465,0.521,1:09
+3,10:33,LAL,Jarred Vanderbilt,Personal Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,53,63,0.257,0.262,10:54
+3,9:08,LAL,D'Angelo Russell,Loose Ball Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,53,66,0.158,0.159,9:08
+3,8:13,CHI,DeMar DeRozan,Loose Ball Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,55,66,0.177,0.175,8:13
+3,4:03,CHI,Nikola Vucevic,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,63,77,0.063,0.072,4:03
+3,3:40,CHI,Coby White,Personal Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,63,79,0.044,0.046,3:47
+3,1:55,LAL,Troy Brown Jr.,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,71,81,0.186,0.134,1:55
+3,1:15,CHI,Coby White,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,74,81,0.168,0.219,1:24
+3,29.0,CHI,Alex Caruso,Loose Ball Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,76,83,0.158,0.209,29.0
+4,11:31,CHI,Ayo Dosunmu,Personal Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,76,85,0.122,0.131,11:43
+4,8:52,LAL,Troy Brown Jr.,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,78,94,0.022,0.01,8:52
+4,8:22,CHI,Coby White,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,79,96,0.004,0.009,8:22
+4,8:01,CHI,Coby White,Flagrant Foul Type 1,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,81,97,0.008,0.008,8:09
+4,7:47,LAL,Troy Brown Jr.,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,83,98,0.023,0.01,7:47
+4,5:46,LAL,Troy Brown Jr.,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,89,105,0.009,0.003,5:46
+4,4:23,CHI,Javonte Green,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,96,109,0.003,0.008,4:40
+4,3:17,CHI,Javonte Green,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,98,112,0.001,0.003,3:17
+4,3:07,LAL,Jarred Vanderbilt,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,100,113,0.008,0.002,3:07
+4,1:18,CHI,Nikola Vucevic,Shooting Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,106,119,0.001,0.001,1:31
+4,1:12,LAL,Lonnie Walker IV,Personal Take Foul,Foul,John Goble,Jason Goldenberg,Ben Taylor,CHI,106,121,0.001,0.001,1:18

@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:23,BKN,Andre Drummond,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,0,3,0.442,0.45,11:33
+1,9:26,BKN,Bruce Brown,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,6,7,0.537,0.499,9:30
+1,5:56,MIA,Kyle Lowry,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,19,15,0.584,0.628,5:56
+1,5:05,MIA,Kyle Lowry,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,21,15,0.655,0.655,5:13
+1,2:08,MIA,Jimmy Butler III,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,25,23,0.553,0.551,2:25
+1,51.7,BKN,Goran Dragic,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,25,26,0.54,0.497,1:09
+1,37.1,MIA,Caleb Martin,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,25,26,0.425,0.463,40.7
+2,11:49,MIA,Dewayne Dedmon,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,25,27,0.393,0.453,12:00
+2,10:15,MIA,Dewayne Dedmon,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,28,32,0.335,0.375,10:17
+2,9:46,MIA,Victor Oladipo,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,30,33,0.406,0.404,9:46
+2,9:29,BKN,Goran Dragic,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,32,35,0.457,0.405,9:29
+2,9:15,MIA,Caleb Martin,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,33,37,0.354,0.405,9:15
+2,8:21,BKN,James Johnson,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,33,40,0.361,0.319,8:44
+2,6:37,BKN,Patty Mills,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,36,45,0.257,0.26,6:44
+2,6:23,BKN,Andre Drummond,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,36,45,0.297,0.259,6:37
+2,6:04,BKN,Kevin Durant,Technical Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,38,45,0.333,0.28,6:04
+2,5:19,BKN,James Johnson,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,38,47,0.293,0.253,5:28
+2,3:35,MIA,P.J. Tucker,Loose Ball Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,40,53,0.109,0.134,3:35
+2,2:50,BKN,Seth Curry,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,40,57,0.106,0.086,3:06
+2,2:01,MIA,P.J. Tucker,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,42,59,0.055,0.07,2:15
+2,2.8,MIA,Bam Adebayo,Offensive Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,46,65,0.043,0.052,8.6
+2,1.5,MIA,Kyle Lowry,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,46,65,0.032,0.043,2.8
+3,11:00,BKN,Andre Drummond,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,46,67,0.032,0.032,11:00
+3,9:54,MIA,Bam Adebayo,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,48,70,0.013,0.019,10:12
+3,9:25,MIA,Duncan Robinson,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,51,72,0.022,0.022,9:37
+3,9:00,BKN,Andre Drummond,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,51,74,0.016,0.016,9:11
+3,8:57,MIA,Bam Adebayo,Offensive Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,51,74,0.013,0.016,9:00
+3,8:49,MIA,Jimmy Butler III,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,51,74,0.013,0.013,8:57
+3,8:49,MIA,Bam Adebayo,Technical Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,51,74,0.01,0.013,8:49
+3,8:43,MIA,Duncan Robinson,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,51,75,0.007,0.01,8:49
+3,8:34,BKN,Kyrie Irving,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,51,77,0.007,0.008,8:43
+3,7:38,MIA,P.J. Tucker,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,55,80,0.004,0.007,7:50
+3,6:41,BKN,Andre Drummond,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,55,82,0.006,0.004,7:04
+3,6:17,BKN,Nic Claxton,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,56,82,0.008,0.005,6:24
+3,5:35,MIA,Jimmy Butler III,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,57,84,0.001,0.002,5:37
+3,3:48,BKN,Nic Claxton,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,57,94,0.001,0.001,4:02
+3,1:39,BKN,Kyrie Irving,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,64,94,0.001,0.001,1:39
+3,38.0,BKN,Kevin Durant,Flagrant Foul Type 1,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,65,94,0.001,0.001,41.8
+3,38.0,BKN,James Johnson,Double Technical Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,65,94,0.001,0.001,38.0
+3,28.9,MIA,Caleb Martin,Flagrant Foul Type 1,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,65,94,0.001,0.001,28.9
+4,11:16,BKN,Goran Dragic,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,70,96,0.001,0.001,11:23
+4,11:06,BKN,Kessler Edwards,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,70,96,0.001,0.001,11:16
+4,10:02,MIA,Dewayne Dedmon,Offensive Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,72,96,0.001,0.001,10:09
+4,7:54,BKN,Kessler Edwards,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,76,105,0.001,0.001,7:54
+4,7:39,BKN,Blake Griffin,Offensive Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,77,105,0.001,0.001,7:54
+4,7:26,BKN,James Johnson,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,77,105,0.001,0.001,7:39
+4,1:45,BKN,James Johnson,Offensive Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,89,105,0.001,0.001,2:05
+4,22.2,MIA,Max Strus,Personal Foul,Foul,Bill Kennedy,Matt Boland,Michael Smith,MIA,92,110,0.001,0.001,22.2

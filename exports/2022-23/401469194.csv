@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:52,MIN,Mike Conley,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,7,5,0.327,0.361,9:53
+1,6:45,MIN,Rudy Gobert,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,13,14,0.302,0.3,6:56
+1,6:25,BOS,Grant Williams,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,13,14,0.362,0.327,6:30
+1,4:35,MIN,Taurean Prince,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,16,14,0.383,0.382,4:39
+1,3:55,BOS,Sam Hauser,Offensive Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,16,17,0.336,0.31,4:02
+1,2:13,BOS,Blake Griffin,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,19,19,0.365,0.366,2:21
+1,2:09,BOS,Blake Griffin,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,19,19,0.407,0.365,2:13
+2,10:18,MIN,Taurean Prince,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,23,25,0.264,0.3,10:24
+2,6:33,MIN,Taurean Prince,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,25,31,0.181,0.212,6:47
+2,6:12,BOS,Jaylen Brown,Technical Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,25,33,0.207,0.17,6:12
+2,5:29,BOS,Grant Williams,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,28,36,0.207,0.17,5:29
+2,4:24,MIN,Mike Conley,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,32,36,0.224,0.26,4:31
+2,3:44,MIN,Rudy Gobert,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,35,39,0.242,0.289,3:44
+2,3:22,BOS,Jayson Tatum,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,35,40,0.263,0.263,3:26
+2,2:24,MIN,Jaden McDaniels,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,37,40,0.249,0.292,2:41
+3,7:59,MIN,Kyle Anderson,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,53,57,0.264,0.264,8:04
+3,7:52,MIN,Jaden McDaniels,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,53,57,0.222,0.264,7:59
+3,7:34,MIN,Jaden McDaniels,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,53,59,0.208,0.206,7:42
+3,7:09,MIN,Rudy Gobert,Technical Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,55,61,0.186,0.206,7:10
+3,6:59,MIN,Rudy Gobert,Flagrant Foul Type 1,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,55,64,0.138,0.156,6:59
+3,6:35,BOS,Jaylen Brown,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,55,67,0.095,0.096,6:46
+3,5:50,MIN,Taurean Prince,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,57,70,0.046,0.063,5:57
+3,5:11,BOS,Jayson Tatum,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,57,71,0.082,0.061,5:16
+3,4:04,BOS,Derrick White,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,61,73,0.098,0.069,4:04
+3,3:15,BOS,Blake Griffin,Loose Ball Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,62,73,0.129,0.097,3:15
+3,2:32,BOS,Blake Griffin,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,64,75,0.108,0.075,2:32
+4,11:47,BOS,Marcus Smart,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,71,77,0.282,0.195,12:00
+4,10:45,MIN,Naz Reid,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,73,80,0.131,0.138,10:45
+4,10:45,MIN,Kyle Anderson,Technical Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,73,80,0.115,0.131,10:45
+4,10:07,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,76,80,0.171,0.238,10:20
+4,9:48,MIN,Taurean Prince,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,78,82,0.163,0.23,9:57
+4,9:06,MIN,Naz Reid,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,80,84,0.158,0.22,9:10
+4,7:54,MIN,Naz Reid,Offensive Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,82,90,0.079,0.109,8:17
+4,7:44,BOS,Jayson Tatum,Offensive Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,82,90,0.104,0.079,7:54
+4,7:28,BOS,Jaylen Brown,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,84,90,0.207,0.127,7:28
+4,6:58,BOS,Derrick White,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,85,90,0.298,0.207,7:08
+4,6:33,BOS,Marcus Smart,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,86,92,0.241,0.166,6:44
+4,6:19,BOS,Marcus Smart,Loose Ball Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,86,92,0.239,0.169,6:19
+4,4:23,BOS,Marcus Smart,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,91,95,0.294,0.189,4:23
+4,3:08,MIN,Kyle Anderson,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,93,97,0.131,0.228,3:08
+4,1:55,MIN,Kyle Anderson,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,95,99,0.075,0.137,1:55
+4,1:43,BOS,Marcus Smart,Personal Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,95,101,0.166,0.095,1:55
+4,1:29,BOS,Jayson Tatum,Offensive Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,97,101,0.192,0.133,1:43
+4,1:09,BOS,Jayson Tatum,Shooting Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,97,101,0.314,0.192,1:29
+4,1.1,MIN,Kyle Anderson,Personal Take Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,99,101,0.01,0.034,2.0
+4,1.1,MIN,Anthony Edwards,Technical Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,99,103,0.003,0.015,1.1
+4,1.1,MIN,Kyle Anderson,Technical Foul,Foul,Derrick Collins,Brian Forte,Justin Van Duyne,MIN,99,103,0.003,0.015,1.1

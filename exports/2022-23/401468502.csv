@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:12,DET,Marvin Bagley III,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,0,0,0.285,0.319,11:19
+1,9:16,MEM,Brandon Clarke,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,5,9,0.29,0.26,9:19
+1,7:29,DET,Isaiah Stewart,Defensive 3-Seconds Technical,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,9,13,0.248,0.243,7:37
+1,6:13,MEM,Dillon Brooks,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,9,21,0.15,0.13,6:29
+1,5:57,DET,Isaiah Stewart,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,11,21,0.122,0.141,6:13
+1,5:29,DET,Jaden Ivey,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,13,23,0.143,0.14,5:29
+1,5:11,MEM,Xavier Tillman,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,13,23,0.183,0.157,5:16
+1,4:20,DET,Jalen Duren,Offensive Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,15,26,0.128,0.143,4:31
+1,3:54,MEM,Ja Morant,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,15,29,0.122,0.103,3:54
+1,3:26,DET,Alec Burks,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,15,33,0.052,0.065,3:26
+1,3:15,MEM,Ja Morant,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,15,34,0.07,0.058,3:26
+1,3:02,MEM,Santi Aldama,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,16,34,0.079,0.065,3:12
+1,1:15,DET,Saddiq Bey,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,24,37,0.086,0.104,1:27
+2,11:51,DET,Jalen Duren,Loose Ball Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,26,40,0.091,0.09,11:51
+2,11:01,MEM,Brandon Clarke,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,26,42,0.086,0.078,11:03
+2,10:18,DET,Marvin Bagley III,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,31,44,0.092,0.112,10:18
+2,8:04,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,42,47,0.299,0.259,8:18
+2,7:54,DET,Killian Hayes,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,43,47,0.262,0.26,8:02
+2,6:37,MEM,Dillon Brooks,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,45,53,0.228,0.195,6:40
+2,4:50,MEM,Dillon Brooks,Technical Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,49,59,0.169,0.154,4:55
+2,2:14,MEM,Xavier Tillman,Loose Ball Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,55,64,0.203,0.171,2:14
+2,1:35,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,55,64,0.203,0.169,1:37
+2,1:24,DET,Jaden Ivey,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,57,64,0.161,0.189,1:35
+2,58.1,DET,Isaiah Stewart,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,57,64,0.16,0.189,1:06
+3,11:00,DET,Killian Hayes,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,59,71,0.083,0.107,11:00
+3,10:26,DET,Isaiah Stewart,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,59,72,0.062,0.079,10:37
+3,9:40,DET,Isaiah Stewart,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,59,73,0.057,0.063,9:40
+3,6:17,MEM,Santi Aldama,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,67,80,0.103,0.078,6:19
+3,6:10,DET,Saddiq Bey,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,69,82,0.056,0.078,6:10
+3,5:14,MEM,Dillon Brooks,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,71,86,0.069,0.075,5:14
+3,4:26,DET,Jalen Duren,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,75,88,0.05,0.072,4:26
+3,3:51,MEM,Xavier Tillman,Loose Ball Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,77,89,0.085,0.084,3:51
+3,3:12,DET,Kevin Knox II,Loose Ball Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,77,89,0.047,0.065,3:12
+3,1:45,MEM,Santi Aldama,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,79,94,0.052,0.037,2:08
+3,1:08,MEM,David Roddy,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,79,96,0.025,0.02,1:08
+4,11:41,DET,Hamidou Diallo,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,83,101,0.004,0.01,12:00
+4,10:44,DET,Alec Burks,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,85,104,0.004,0.004,10:47
+4,9:35,DET,Saddiq Bey,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,90,104,0.016,0.018,9:49
+4,8:42,DET,Cory Joseph,Loose Ball Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,90,108,0.001,0.003,8:42
+4,7:28,MEM,Dillon Brooks,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,93,112,0.004,0.002,7:29
+4,7:14,MEM,Brandon Clarke,Offensive Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,95,112,0.004,0.003,7:28
+4,7:02,MEM,Xavier Tillman,Loose Ball Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,95,112,0.005,0.004,7:02
+4,5:21,DET,Isaiah Stewart,Technical Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,99,114,0.002,0.003,5:22
+4,4:00,DET,Killian Hayes,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,102,116,0.001,0.002,4:20
+4,3:55,MEM,John Konchar,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,102,117,0.002,0.002,4:00
+4,3:30,MEM,John Konchar,Shooting Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,102,119,0.001,0.001,3:37
+4,25.3,DET,Killian Hayes,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,110,119,0.001,0.002,43.8
+4,14.2,DET,Killian Hayes,Personal Foul,Foul,Ed Malloy,Matt Myers,Ashley Moyer-Gleich,DET,112,120,0.001,0.001,16.1

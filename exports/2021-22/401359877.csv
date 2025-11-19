@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:29,LAL,DeAndre Jordan,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,0,2,0.558,0.52,10:45
+1,10:17,SA,Doug McDermott,Loose Ball Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,2,2,0.546,0.547,10:17
+1,6:39,LAL,Kent Bazemore,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,8,13,0.454,0.435,6:39
+1,3:04,LAL,Rajon Rondo,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,16,21,0.425,0.395,3:04
+1,1:18,LAL,Russell Westbrook,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,24,25,0.575,0.533,1:26
+1,1:03,SA,Devin Vassell,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,24,25,0.504,0.504,1:07
+1,7.5,SA,Keita Bates-Diop,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,29,25,0.602,0.645,29.4
+1,2.1,SA,Dejounte Murray,Offensive Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,29,27,0.587,0.619,7.5
+2,8:57,SA,Thaddeus Young,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,37,34,0.613,0.613,9:01
+2,8:08,SA,Keldon Johnson,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,37,35,0.541,0.587,8:13
+2,7:56,LAL,Malik Monk,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,37,37,0.6,0.558,8:08
+2,7:18,SA,Keldon Johnson,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,38,40,0.462,0.462,7:26
+2,6:37,SA,Thaddeus Young,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,38,40,0.416,0.46,6:53
+2,4:24,LAL,Anthony Davis,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,44,48,0.472,0.423,4:28
+2,4:05,LAL,Anthony Davis,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,45,50,0.391,0.392,4:14
+2,3:17,SA,Lonnie Walker IV,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,48,52,0.362,0.42,3:17
+2,2:36,SA,Jakob Poeltl,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,50,55,0.305,0.351,2:42
+2,1:41,SA,Jakob Poeltl,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,56,56,0.466,0.515,1:54
+2,46.1,SA,Dejounte Murray,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,59,60,0.428,0.48,48.5
+3,10:36,LAL,DeAndre Jordan,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,64,65,0.565,0.508,10:46
+3,8:09,SA,Dejounte Murray,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,75,72,0.618,0.62,8:19
+3,7:56,LAL,Russell Westbrook,Personal Take Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,75,72,0.656,0.658,7:56
+3,7:30,SA,Keldon Johnson,Offensive Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,75,72,0.639,0.658,7:38
+3,6:04,SA,Jakob Poeltl,Offensive Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,79,76,0.622,0.662,6:12
+3,5:53,SA,Keldon Johnson,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,79,76,0.622,0.622,6:04
+3,5:53,SA,SA,Technical Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,79,76,0.593,0.622,5:53
+3,5:45,SA,Derrick White,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,79,77,0.553,0.584,5:45
+3,3:49,LAL,Kent Bazemore,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,79,82,0.413,0.412,3:51
+3,2:17,LAL,Austin Reaves,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,88,82,0.833,0.787,2:21
+3,2:01,SA,Drew Eubanks,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,90,82,0.767,0.818,2:17
+4,11:43,LAL,Carmelo Anthony,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,97,85,0.952,0.936,12:00
+4,10:42,LAL,Austin Reaves,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,97,87,0.93,0.925,10:49
+4,9:39,LAL,Russell Westbrook,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,101,92,0.923,0.915,9:52
+4,9:18,SA,Derrick White,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,101,92,0.846,0.898,9:28
+4,8:28,SA,Devin Vassell,Personal Take Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,101,96,0.749,0.763,8:28
+4,6:33,LAL,Austin Reaves,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,104,104,0.658,0.554,6:39
+4,5:27,LAL,Russell Westbrook,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,106,107,0.461,0.424,5:27
+4,4:55,LAL,Dwight Howard,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,106,107,0.605,0.497,5:03
+4,4:50,LAL,Russell Westbrook,Personal Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,106,107,0.605,0.496,4:52
+4,43.1,LAL,Carmelo Anthony,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,112,114,0.529,0.415,58.6
+5,3:42,SA,Devin Vassell,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,114,116,0.207,0.312,3:56
+5,2:48,LAL,Kent Bazemore,Shooting Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,114,119,0.256,0.162,2:55
+5,2:16,LAL,Carmelo Anthony,Offensive Foul,Foul,Brian Forte,Curtis Blair,Andy Nagy,SA,117,121,0.202,0.146,2:26

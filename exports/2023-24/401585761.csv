@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:36,IND,Pascal Siakam,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,4,4,0.451,0.492,9:54
+1,8:49,MIA,Nikola Jovic,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,7,5,0.567,0.568,9:03
+1,7:18,IND,Andrew Nembhard,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,12,7,0.62,0.618,7:30
+1,7:15,IND,Myles Turner,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,12,7,0.621,0.62,7:18
+1,6:53,MIA,Duncan Robinson,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,12,7,0.681,0.646,7:01
+1,5:42,IND,Pascal Siakam,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,18,11,0.653,0.697,5:42
+1,4:50,IND,Obi Toppin,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,23,14,0.684,0.719,5:05
+1,1:22,IND,Jalen Smith,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,33,22,0.739,0.773,1:25
+1,45.2,MIA,Haywood Highsmith,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,36,24,0.842,0.819,45.2
+2,9:41,IND,Obi Toppin,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,42,28,0.847,0.846,9:53
+2,9:12,IND,T.J. McConnell,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,42,28,0.848,0.848,9:17
+2,6:02,MIA,Duncan Robinson,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,48,33,0.912,0.891,6:05
+2,5:27,MIA,Caleb Martin,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,50,33,0.937,0.92,5:41
+2,4:31,MIA,Terry Rozier,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,54,33,0.96,0.961,4:40
+2,3:41,MIA,Kevin Love,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,54,35,0.959,0.947,3:41
+2,3:02,IND,Aaron Nesmith,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,56,37,0.922,0.939,3:11
+2,1:12,MIA,Terry Rozier,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,59,41,0.958,0.944,1:22
+2,7.0,IND,Andrew Nembhard,Personal Take Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,63,43,0.944,0.957,15.1
+3,11:07,MIA,Bam Adebayo,Offensive Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,65,46,0.962,0.952,11:26
+3,10:59,MIA,Duncan Robinson,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,65,46,0.962,0.962,11:07
+3,8:46,IND,Myles Turner,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,69,53,0.91,0.93,8:58
+3,8:22,MIA,Bam Adebayo,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,69,55,0.918,0.92,8:22
+3,8:09,IND,Andrew Nembhard,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,69,55,0.878,0.906,8:14
+3,6:17,IND,Myles Turner,Defensive 3-Seconds Technical,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,77,62,0.933,0.93,6:38
+3,6:13,IND,Tyrese Haliburton,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,77,65,0.864,0.9,6:13
+3,6:05,MIA,Nikola Jovic,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,77,66,0.88,0.881,6:13
+3,4:36,MIA,Tyler Herro,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,77,68,0.88,0.843,4:59
+3,3:30,IND,Aaron Nesmith,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,81,70,0.859,0.899,3:30
+3,1:46,MIA,Caleb Martin,Offensive Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,84,73,0.911,0.887,2:03
+3,1:22,IND,Obi Toppin,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,87,73,0.921,0.944,1:35
+4,11:45,IND,Ben Sheppard,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,91,78,0.939,0.946,12:00
+4,11:40,IND,Ben Sheppard,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,91,78,0.91,0.939,11:45
+4,10:12,IND,Aaron Nesmith,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,95,82,0.933,0.964,10:12
+4,8:12,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,95,85,0.937,0.932,8:14
+4,7:23,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,99,85,0.989,0.977,7:23
+4,6:41,IND,Ben Sheppard,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,99,87,0.936,0.963,6:46
+4,6:36,IND,Tyrese Haliburton,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,99,87,0.937,0.938,0.1
+4,5:53,IND,Pascal Siakam,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,99,89,0.9,0.932,6:14
+4,4:51,MIA,Bam Adebayo,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,101,94,0.945,0.896,5:20
+4,2:34,MIA,Jimmy Butler III,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,103,101,0.906,0.828,2:38
+4,1:58,MIA,Tyler Herro,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,107,103,0.954,0.9,1:58
+4,1:47,IND,Aaron Nesmith,Loose Ball Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,108,103,0.881,0.939,1:47
+4,1:25,MIA,Bam Adebayo,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,110,105,0.98,0.948,1:25
+4,23.0,IND,Pascal Siakam,Shooting Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,111,108,0.604,0.911,29.0
+4,17.0,MIA,Bam Adebayo,Personal Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,113,111,0.921,0.802,23.0
+4,6.1,MIA,Tyler Herro,Personal Take Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,115,114,0.92,0.711,11.1
+4,3.1,IND,Andrew Nembhard,Personal Take Foul,Foul,Marat Kogut,Scott Foster,Danielle Scott,IND,117,114,0.863,0.891,6.1

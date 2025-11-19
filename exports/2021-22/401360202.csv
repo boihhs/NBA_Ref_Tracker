@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:51,BOS,Jayson Tatum,Offensive Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,10,12,0.605,0.581,7:04
+1,4:49,BOS,Robert Williams III,Offensive Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,13,15,0.599,0.573,4:54
+1,3:30,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,17,19,0.581,0.594,3:30
+1,4.5,LAC,Brandon Boston,Personal Take Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,24,26,0.508,0.551,10.4
+1,0.6,LAC,Terance Mann,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,24,26,0.506,0.508,4.5
+2,9:02,BOS,Romeo Langford,Personal Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,31,32,0.596,0.599,9:07
+2,8:53,BOS,Jayson Tatum,Personal Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,31,32,0.594,0.596,9:25
+2,8:47,LAC,Brandon Boston,Technical Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,33,32,0.601,0.624,8:47
+2,6:42,BOS,Marcus Smart,Personal Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,40,37,0.701,0.702,6:48
+2,5:48,LAC,Isaiah Hartenstein,Personal Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,43,37,0.751,0.752,5:53
+2,5:15,BOS,Dennis Schroder,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,45,37,0.834,0.798,5:15
+2,4:46,LAC,Reggie Jackson,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,46,37,0.787,0.818,5:01
+2,1:03,LAC,Reggie Jackson,Offensive Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,56,47,0.835,0.845,1:07
+2,34.0,BOS,Marcus Smart,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,56,49,0.835,0.803,54.0
+2,28.3,BOS,Grant Williams,Loose Ball Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,58,49,0.875,0.846,28.3
+3,9:28,BOS,Jayson Tatum,Technical Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,67,55,0.918,0.908,9:28
+3,8:53,LAC,Terance Mann,Personal Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,68,55,0.909,0.912,8:53
+3,7:17,BOS,Dennis Schroder,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,74,55,0.985,0.98,7:21
+3,6:38,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,76,57,0.971,0.981,6:38
+3,5:29,LAC,Brandon Boston,Flagrant Foul Type 1,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,76,60,0.957,0.966,5:29
+3,4:59,BOS,Al Horford,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,76,62,0.956,0.95,4:59
+3,3:27,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,78,70,0.83,0.855,3:27
+3,3:12,BOS,Dennis Schroder,Loose Ball Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,78,71,0.831,0.832,3:12
+3,2:45,BOS,Josh Richardson,Away from Play Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,78,73,0.819,0.772,2:46
+3,2:11,BOS,Robert Williams III,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,81,75,0.83,0.77,2:11
+3,2:00,LAC,Isaiah Hartenstein,Defensive 3-Seconds Technical,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,81,75,0.783,0.77,2:09
+3,1:50,BOS,Grant Williams,Personal Take Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,81,76,0.824,0.775,1:50
+3,59.6,BOS,Robert Williams III,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,83,76,0.882,0.842,1:15
+3,51.6,BOS,Jayson Tatum,Offensive Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,85,76,0.896,0.868,59.6
+3,0.3,LAC,Eric Bledsoe,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,87,76,0.885,0.919,1.4
+4,10:10,BOS,Marcus Smart,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,92,82,0.957,0.932,10:18
+4,9:18,LAC,Ivica Zubac,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,94,82,0.939,0.954,9:18
+4,9:00,LAC,Ivica Zubac,Personal Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,94,84,0.931,0.921,9:03
+4,7:58,LAC,Ivica Zubac,Offensive Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,96,87,0.901,0.927,7:58
+4,5:09,LAC,Ivica Zubac,Offensive Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,102,90,0.978,0.985,5:17
+4,4:49,LAC,Luke Kennard,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,102,92,0.958,0.972,4:49
+4,2:55,BOS,Marcus Smart,Personal Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,105,97,0.967,0.963,3:05
+4,40.8,LAC,Ivica Zubac,Shooting Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,111,105,0.848,0.945,43.5
+4,16.0,BOS,Marcus Smart,Personal Take Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,111,109,0.924,0.783,22.9
+4,12.8,BOS,Dennis Schroder,Personal Take Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,111,109,0.932,0.924,16.0
+4,9.3,LAC,Marcus Morris Sr.,Personal Take Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,112,109,0.646,0.825,12.8
+4,1.6,BOS,Jayson Tatum,Personal Take Foul,Foul,Michael Smith,Tre Maddox,Andy Nagy,LAC,112,111,0.98,0.734,9.3

@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:01,CHI,Nikola Vucevic,Offensive Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,10,4,0.867,0.854,9:04
+1,8:44,CHI,Patrick Williams,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,10,4,0.882,0.867,9:01
+1,7:53,MIA,Tyler Herro,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,13,4,0.878,0.887,7:53
+1,7:30,MIA,Kyle Lowry,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,13,6,0.842,0.863,7:42
+1,6:40,CHI,Javonte Green,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,16,10,0.86,0.861,6:58
+1,4:50,MIA,Caleb Martin,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,21,14,0.846,0.871,4:50
+1,2:27,MIA,Dewayne Dedmon,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,23,21,0.75,0.784,2:27
+1,1:27,CHI,Coby White,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,26,25,0.777,0.764,1:31
+1,1:06,CHI,Andre Drummond,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,28,25,0.824,0.796,1:09
+2,11:21,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,36,28,0.86,0.86,11:21
+2,11:19,MIA,Gabe Vincent,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,36,28,0.837,0.86,11:21
+2,11:12,MIA,Jimmy Butler III,Offensive Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,36,29,0.845,0.86,11:19
+2,9:55,CHI,Alex Caruso,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,36,29,0.88,0.858,9:59
+2,8:59,MIA,Dewayne Dedmon,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,40,32,0.832,0.857,9:22
+2,6:20,MIA,Bam Adebayo,Loose Ball Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,46,42,0.742,0.776,6:20
+2,5:22,MIA,Max Strus,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,48,42,0.783,0.815,5:29
+2,3:50,CHI,Coby White,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,50,45,0.842,0.813,3:55
+2,3:26,MIA,Bam Adebayo,Loose Ball Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,51,45,0.778,0.811,3:26
+2,1:57,CHI,Coby White,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,53,53,0.721,0.682,2:22
+3,11:29,CHI,Alex Caruso,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,59,61,0.599,0.598,11:41
+3,11:07,MIA,Kyle Lowry,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,59,61,0.561,0.561,11:10
+3,10:41,CHI,DeMar DeRozan,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,59,63,0.577,0.523,10:52
+3,10:27,MIA,Tyler Herro,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,61,65,0.455,0.519,10:27
+3,10:20,CHI,Ayo Dosunmu,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,61,65,0.52,0.52,10:25
+3,7:56,MIA,Caleb Martin,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,68,73,0.386,0.454,7:56
+3,5:54,MIA,Bam Adebayo,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,68,79,0.137,0.18,6:10
+3,5:21,CHI,DeMar DeRozan,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,70,81,0.251,0.201,5:28
+3,4:52,CHI,Javonte Green,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,70,81,0.244,0.196,4:57
+3,4:22,MIA,Bam Adebayo,Offensive Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,72,83,0.158,0.191,4:33
+3,2:25,MIA,Dewayne Dedmon,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,76,87,0.096,0.133,2:34
+3,2:16,CHI,Javonte Green,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,76,89,0.145,0.107,2:25
+3,57.9,CHI,Javonte Green,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,80,93,0.127,0.09,57.9
+3,44.2,MIA,Jimmy Butler III,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,82,93,0.076,0.112,57.9
+4,11:33,MIA,Max Strus,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,86,96,0.109,0.115,11:37
+4,11:01,CHI,Andre Drummond,Offensive Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,88,96,0.198,0.164,11:12
+4,10:57,CHI,Goran Dragic,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,88,96,0.214,0.198,11:01
+4,10:37,CHI,Andre Drummond,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,88,98,0.142,0.133,10:48
+4,10:00,MIA,Duncan Robinson,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,90,98,0.125,0.156,10:00
+4,8:42,CHI,Alex Caruso,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,92,100,0.185,0.173,8:46
+4,8:29,MIA,Dewayne Dedmon,Offensive Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,92,100,0.137,0.185,8:31
+4,7:47,CHI,Andre Drummond,Offensive Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,94,100,0.249,0.2,7:47
+4,7:47,CHI,CHI,Delay Technical,Foul,John Goble,Aaron Smith,John Conley,MIA,94,100,0.236,0.249,7:47
+4,7:24,CHI,DeMar DeRozan,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,95,100,0.389,0.292,7:29
+4,6:02,MIA,Kyle Lowry,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,98,102,0.253,0.279,6:19
+4,5:49,MIA,Max Strus,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,98,102,0.176,0.265,6:02
+4,5:24,MIA,Kyle Lowry,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,98,104,0.095,0.199,5:49
+4,5:18,CHI,Javonte Green,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,98,104,0.227,0.189,5:21
+4,4:07,CHI,Javonte Green,Personal Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,98,109,0.051,0.029,4:11
+4,3:45,CHI,Alex Caruso,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,101,109,0.102,0.053,3:45
+4,1:29,CHI,Goran Dragic,Shooting Foul,Foul,John Goble,Aaron Smith,John Conley,MIA,104,114,0.027,0.011,1:36

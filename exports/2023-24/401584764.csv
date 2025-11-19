@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:16,BKN,Dorian Finney-Smith,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,13,16,0.218,0.246,7:17
+1,5:27,BOS,Sam Hauser,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,13,22,0.161,0.162,5:44
+1,4:56,BKN,Royce O'Neale,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,13,22,0.147,0.146,5:10
+1,3:53,BKN,Royce O'Neale,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,18,24,0.17,0.214,4:04
+1,3:10,BOS,Jaylen Brown,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,20,26,0.246,0.216,3:15
+1,2:29,BKN,Trendon Watford,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,24,26,0.248,0.28,2:41
+1,1:26,BKN,Spencer Dinwiddie,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,29,30,0.272,0.305,1:36
+1,1:07,BOS,Kristaps Porzingis,Technical Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,31,31,0.38,0.333,1:07
+1,17.2,BOS,Payton Pritchard,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,31,34,0.323,0.285,32.1
+1,3.0,BOS,Sam Hauser,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,33,34,0.357,0.312,3.0
+2,11:07,BOS,Luke Kornet,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,34,34,0.409,0.366,11:19
+2,10:20,BOS,Jayson Tatum,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,38,34,0.486,0.488,10:20
+2,9:55,BKN,Mikal Bridges,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,38,34,0.414,0.456,10:02
+2,8:28,BOS,Payton Pritchard,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,41,40,0.45,0.405,8:41
+2,5:53,BKN,Dorian Finney-Smith,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,46,47,0.331,0.33,5:56
+2,5:24,BOS,Jaylen Brown,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,46,49,0.345,0.304,5:47
+2,5:05,BKN,Cam Thomas,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,48,51,0.258,0.304,5:05
+2,4:45,BKN,Dennis Smith Jr.,Loose Ball Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,48,52,0.218,0.252,4:45
+2,4:02,BKN,Dennis Smith Jr.,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,50,52,0.266,0.305,4:14
+2,3:16,BKN,Dennis Smith Jr.,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,50,56,0.189,0.208,3:16
+2,3:06,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,50,58,0.22,0.183,3:06
+2,1:35,BOS,Al Horford,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,54,62,0.22,0.182,1:56
+2,38.0,BKN,Day'Ron Sharpe,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,58,65,0.153,0.181,52.1
+3,6:44,BKN,Mikal Bridges,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,75,79,0.258,0.258,6:52
+3,4:33,BOS,Kristaps Porzingis,Offensive Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,79,85,0.223,0.193,4:46
+3,4:07,BKN,Day'Ron Sharpe,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,82,85,0.239,0.291,4:22
+3,3:53,BOS,Jrue Holiday,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,82,87,0.259,0.257,4:07
+3,2:59,BKN,Royce O'Neale,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,84,87,0.29,0.29,3:20
+3,2:56,BOS,Sam Hauser,Offensive Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,84,87,0.33,0.29,2:59
+3,2:39,BOS,Luke Kornet,Loose Ball Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,84,87,0.33,0.33,2:39
+3,2:03,BOS,Jaylen Brown,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,86,89,0.331,0.33,2:14
+3,2.1,BOS,Jaylen Brown,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,88,91,0.402,0.332,11.1
+4,11:41,BKN,Day'Ron Sharpe,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,88,91,0.214,0.317,12:00
+4,10:39,BOS,Luke Kornet,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,88,93,0.315,0.236,10:46
+4,9:51,BKN,Dorian Finney-Smith,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,90,95,0.158,0.237,9:51
+4,7:03,BKN,Cam Thomas,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,97,99,0.293,0.309,7:13
+4,5:10,BKN,BKN,Technical Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,99,109,0.02,0.039,5:11
+4,4:16,BKN,Royce O'Neale,Personal Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,102,110,0.023,0.045,4:20
+4,3:00,BKN,Mikal Bridges,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,102,112,0.005,0.011,3:11
+4,1:28,BOS,Al Horford,Hanging Technical Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,105,119,0.001,0.001,1:28
+4,1:05,BKN,Mikal Bridges,Shooting Foul,Foul,David Guthrie,Natalie Sago,John Butler,BKN,109,119,0.001,0.002,1:18

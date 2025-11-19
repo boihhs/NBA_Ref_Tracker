@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:49,OKC,Darius Bazley,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,10,5,0.866,0.873,9:17
+1,8:44,DAL,Dorian Finney-Smith,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,12,5,0.84,0.861,8:49
+1,7:02,OKC,Luguentz Dort,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,14,9,0.863,0.844,7:14
+1,4:09,DAL,Dwight Powell,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,21,16,0.821,0.821,4:19
+1,1:22,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,28,20,0.893,0.874,1:26
+1,49.0,OKC,Mike Muscala,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,30,22,0.893,0.874,1:01
+1,33.2,DAL,Sterling Brown,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,32,22,0.864,0.885,49.0
+1,21.5,OKC,Tre Mann,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,32,22,0.913,0.898,31.4
+1,1.9,DAL,Sterling Brown,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,33,22,0.878,0.896,21.5
+2,11:34,OKC,Mamadi Diakite,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,33,24,0.884,0.885,11:42
+2,9:58,OKC,Mamadi Diakite,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,35,28,0.854,0.855,10:10
+2,7:24,DAL,Kristaps Porzingis,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,39,32,0.834,0.833,7:31
+2,6:57,DAL,Kristaps Porzingis,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,39,32,0.833,0.833,7:11
+2,6:44,OKC,Tre Mann,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,39,32,0.85,0.851,6:47
+2,5:52,DAL,Kristaps Porzingis,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,39,32,0.801,0.831,6:03
+2,4:40,DAL,Josh Green,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,41,34,0.799,0.83,5:01
+2,4:21,DAL,Jalen Brunson,Personal Take Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,41,36,0.788,0.788,4:21
+2,3:11,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,44,40,0.817,0.786,3:14
+2,1:51,OKC,Aaron Wiggins,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,47,40,0.871,0.847,2:00
+3,11:02,OKC,Darius Bazley,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,53,44,0.881,0.883,11:08
+3,10:00,DAL,Jalen Brunson,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,55,44,0.873,0.898,10:17
+3,9:42,OKC,Tre Mann,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,55,46,0.906,0.883,10:00
+3,5:48,DAL,Luka Doncic,Personal Take Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,70,48,0.991,0.991,5:48
+3,2:56,DAL,Josh Green,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,72,61,0.888,0.916,3:08
+3,1:01,DAL,Josh Green,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,72,66,0.749,0.802,1:10
+3,44.9,DAL,Dorian Finney-Smith,Personal Take Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,72,68,0.752,0.732,45.1
+3,18.9,DAL,Josh Green,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,75,70,0.71,0.766,34.8
+3,8.8,OKC,Luguentz Dort,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,75,72,0.788,0.733,18.9
+3,3.9,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,75,72,0.788,0.788,8.8
+4,11:40,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,77,72,0.864,0.788,12:00
+4,5:15,DAL,Kristaps Porzingis,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,92,87,0.806,0.811,5:18
+4,4:57,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,92,87,0.867,0.859,4:59
+4,3:36,OKC,Luguentz Dort,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,94,91,0.8,0.779,3:51
+4,3:12,DAL,Jalen Brunson,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,97,91,0.882,0.886,3:25
+4,2:22,OKC,Luguentz Dort,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,97,91,0.971,0.94,2:22
+4,2:05,OKC,Luguentz Dort,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,97,93,0.938,0.881,2:16
+4,1:31,DAL,Jalen Brunson,Shooting Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,99,93,0.838,0.93,1:34
+4,1:05,DAL,Luka Doncic,Personal Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,99,95,0.688,0.814,1:10
+4,20.0,OKC,Josh Giddey,Personal Take Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,99,97,0.914,0.797,25.6
+4,8.9,OKC,Tre Mann,Personal Take Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,102,99,0.976,0.926,9.5
+4,2.9,OKC,Mike Muscala,Personal Take Foul,Foul,James Williams,Mitchell Ervin,Suyash Mehta,DAL,104,102,0.982,0.944,3.5

@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:57,ORL,Mo Bamba,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,10,19,0.127,0.148,6:14
+1,5:34,MIN,Karl-Anthony Towns,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,10,21,0.155,0.135,5:57
+1,1:26,ORL,Admiral Schofield,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,21,34,0.088,0.108,1:26
+1,42.8,ORL,Franz Wagner,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,23,38,0.062,0.075,47.5
+1,29.2,MIN,Rudy Gobert,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,23,40,0.08,0.067,42.8
+2,11:36,ORL,Admiral Schofield,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,24,42,0.049,0.05,11:39
+2,10:26,ORL,Bol Bol,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,24,44,0.037,0.036,10:29
+2,8:45,ORL,Franz Wagner,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,26,49,0.021,0.021,8:49
+2,8:29,MIN,Jaden McDaniels,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,26,49,0.025,0.025,8:33
+2,7:27,ORL,Terrence Ross,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,28,49,0.022,0.028,7:27
+2,6:07,ORL,Mo Bamba,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,30,51,0.02,0.027,6:20
+2,4:25,ORL,R.J. Hampton,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,38,57,0.03,0.042,4:25
+2,4:06,ORL,Mo Bamba,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,40,58,0.031,0.04,4:16
+2,3:26,MIN,Karl-Anthony Towns,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,40,63,0.02,0.02,3:44
+2,3:11,ORL,Admiral Schofield,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,40,65,0.009,0.012,3:11
+2,2:19,ORL,Admiral Schofield,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,42,68,0.006,0.01,2:19
+2,2:05,MIN,Rudy Gobert,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,42,69,0.011,0.008,2:19
+2,56.2,ORL,Chuma Okeke,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,46,71,0.006,0.008,1:11
+2,10.9,ORL,Jalen Suggs,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,48,72,0.007,0.01,30.5
+2,10.9,MIN,Kyle Anderson,Technical Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,48,74,0.009,0.008,10.9
+3,9:50,ORL,Bol Bol,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,53,77,0.005,0.008,10:02
+3,8:31,MIN,Jaden McDaniels,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,55,79,0.008,0.008,8:43
+3,8:11,ORL,Mo Bamba,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,55,79,0.004,0.006,8:20
+3,4:57,ORL,Chuma Okeke,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,63,83,0.009,0.014,4:57
+3,2:52,MIN,Taurean Prince,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,68,89,0.008,0.008,2:59
+3,1:57,ORL,Admiral Schofield,Offensive Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,70,91,0.005,0.007,2:08
+3,1:25,ORL,Chuma Okeke,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,73,93,0.004,0.006,1:33
+3,33.7,MIN,Anthony Edwards,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,76,98,0.005,0.003,37.9
+3,4.9,MIN,Taurean Prince,Flagrant Foul Type 2,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,79,98,0.007,0.008,8.1
+4,11:14,MIN,Jaden McDaniels,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,83,98,0.027,0.025,11:18
+4,10:19,MIN,Kyle Anderson,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,88,98,0.114,0.067,10:19
+4,10:09,ORL,Jalen Suggs,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,89,98,0.083,0.09,10:19
+4,8:44,ORL,Terrence Ross,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,91,102,0.026,0.044,8:50
+4,8:31,MIN,Jaden McDaniels,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,91,103,0.072,0.043,8:44
+4,6:38,ORL,Mo Bamba,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,97,109,0.015,0.032,6:38
+4,6:05,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,97,109,0.049,0.027,6:05
+4,5:07,ORL,Terrence Ross,Personal Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,97,112,0.002,0.004,5:07
+4,4:30,MIN,Rudy Gobert,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,97,114,0.003,0.002,4:45
+4,3:38,ORL,Jalen Suggs,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,101,118,0.001,0.001,3:38
+4,2:57,ORL,Jalen Suggs,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,101,119,0.001,0.001,3:16
+4,1:46,ORL,Franz Wagner,Shooting Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,101,123,0.001,0.001,1:46
+4,1:45,MIN,A.J. Lawson,Personal Take Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,101,124,0.001,0.001,1:46
+4,23.0,MIN,Anthony Edwards,Technical Foul,Foul,James Capers,Tre Maddox,Suyash Mehta,ORL,105,126,0.001,0.001,26.1

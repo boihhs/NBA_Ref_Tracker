@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:29,BOS,Al Horford,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,2,2,0.489,0.489,10:32
+1,9:28,BOS,Marcus Smart,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,4,4,0.489,0.488,9:39
+1,7:43,BOS,Al Horford,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,10,11,0.423,0.459,7:50
+1,7:17,CHA,Mason Plumlee,Transition Take Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,13,13,0.513,0.513,7:17
+1,6:31,BOS,Jaylen Brown,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,13,15,0.416,0.462,6:31
+1,6:15,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,14,16,0.501,0.46,6:31
+1,6:01,BOS,Marcus Smart,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,16,16,0.447,0.487,6:15
+1,5:52,CHA,Mason Plumlee,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,16,16,0.553,0.514,6:00
+1,5:16,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,18,19,0.485,0.487,5:32
+1,4:53,BOS,Jaylen Brown,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,20,19,0.472,0.514,5:03
+1,2:40,BOS,Noah Vonleh,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,22,20,0.5,0.542,2:49
+1,2:09,BOS,Grant Williams,Loose Ball Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,25,22,0.528,0.568,2:09
+1,2:01,CHA,Jalen McDaniels,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,25,22,0.636,0.596,2:07
+1,37.6,BOS,Noah Vonleh,Offensive Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,26,24,0.544,0.572,42.7
+2,11:14,BOS,Noah Vonleh,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,34,26,0.707,0.708,11:15
+2,10:52,BOS,Mfiondu Kabengele,Offensive Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,34,26,0.707,0.735,10:59
+2,9:48,CHA,JT Thor,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,39,26,0.845,0.845,9:51
+2,7:32,CHA,JT Thor,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,45,30,0.885,0.885,7:35
+2,6:51,BOS,Grant Williams,Loose Ball Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,45,32,0.836,0.835,6:51
+2,6:07,CHA,P.J. Washington,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,50,32,0.936,0.918,6:07
+2,5:07,BOS,Al Horford,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,51,34,0.887,0.908,5:15
+2,3:57,BOS,Jaylen Brown,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,57,35,0.948,0.96,4:08
+2,3:04,BOS,Jaylen Brown,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,57,35,0.951,0.963,3:04
+2,2:46,CHA,P.J. Washington,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,57,37,0.967,0.957,2:48
+2,2:31,BOS,Jayson Tatum,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,58,37,0.945,0.957,2:44
+2,2:01,BOS,Derrick White,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,58,39,0.925,0.942,2:13
+2,1:35,BOS,Derrick White,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,60,40,0.938,0.953,1:42
+2,1:01,BOS,Derrick White,Offensive Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,63,42,0.962,0.969,1:03
+2,0.3,CHA,LaMelo Ball,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,66,46,0.967,0.96,0.0
+3,10:50,CHA,LaMelo Ball,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,71,48,0.988,0.984,10:56
+3,9:58,BOS,Noah Vonleh,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,73,48,0.988,0.988,10:06
+3,9:07,CHA,Nick Richards,Offensive Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,73,50,0.987,0.983,9:25
+3,8:56,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,75,50,0.993,0.99,8:56
+3,6:31,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,83,57,0.997,0.995,6:35
+3,6:18,BOS,Marcus Smart,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,84,57,0.994,0.996,6:31
+3,5:11,BOS,Marcus Smart,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,87,65,0.987,0.987,5:17
+3,2:39,BOS,Payton Pritchard,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,96,71,0.995,0.997,2:48
+3,2:16,CHA,Jalen McDaniels,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,96,73,0.997,0.996,2:26
+3,1:43,CHA,James Bouknight,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,101,75,0.999,0.998,1:43
+4,9:29,BOS,Grant Williams,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,115,83,0.999,0.999,9:36
+4,8:05,BOS,Noah Vonleh,Offensive Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,115,85,0.999,0.999,8:17
+4,7:36,CHA,Kai Jones,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,117,85,0.999,0.999,7:36
+4,7:23,BOS,Justin Jackson,Personal Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,118,85,0.999,0.999,7:36
+4,5:24,CHA,Dennis Smith Jr.,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,122,85,0.999,0.999,5:24
+4,4:02,BOS,Luka Samanic,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,127,85,0.999,0.999,4:10
+4,2:52,BOS,Luka Samanic,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,132,88,0.999,0.999,2:52
+4,2:01,BOS,JD Davison,Shooting Foul,Foul,Sean Corbin,Brandon Adair,Tyler Mirkovich,BOS,132,90,0.999,0.999,2:04

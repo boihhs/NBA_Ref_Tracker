@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:32,MIL,Jrue Holiday,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,0,3,0.577,0.542,11:47
+1,9:26,NY,Mitchell Robinson,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,2,6,0.462,0.482,9:26
+1,8:03,MIL,Jrue Holiday,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,4,10,0.47,0.424,8:03
+1,7:49,NY,Mitchell Robinson,Defensive 3-Seconds Technical,Foul,James Williams,Rodney Mott,Nate Green,NY,5,10,0.456,0.45,8:03
+1,7:32,MIL,Jrue Holiday,Personal Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,5,11,0.449,0.449,7:35
+1,3:00,NY,Immanuel Quickley,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,17,17,0.548,0.597,3:00
+1,2:23,MIL,Jevon Carter,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,19,20,0.61,0.57,2:28
+1,2:01,MIL,Giannis Antetokounmpo,Defensive 3-Seconds Technical,Foul,James Williams,Rodney Mott,Nate Green,NY,21,20,0.616,0.624,2:09
+2,10:53,NY,Julius Randle,Personal Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,24,24,0.562,0.561,11:05
+2,10:33,MIL,MarJon Beauchamp,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,26,26,0.609,0.56,10:33
+2,8:09,MIL,MarJon Beauchamp,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,34,32,0.662,0.615,8:09
+2,6:03,NY,Evan Fournier,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,40,36,0.626,0.669,6:21
+2,5:13,NY,Mitchell Robinson,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,43,38,0.655,0.698,5:25
+2,3:30,MIL,Grayson Allen,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,45,39,0.788,0.752,3:42
+2,59.1,MIL,Brook Lopez,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,49,43,0.794,0.757,1:04
+3,11:09,NY,Julius Randle,Personal Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,54,46,0.787,0.787,11:09
+3,10:39,MIL,Grayson Allen,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,56,48,0.831,0.789,10:39
+3,9:26,NY,Mitchell Robinson,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,57,50,0.742,0.765,9:26
+3,5:00,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,68,53,0.962,0.955,5:08
+3,4:23,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,70,56,0.937,0.937,4:23
+3,3:38,NY,Isaiah Hartenstein,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,70,56,0.918,0.941,3:39
+3,2:40,MIL,Jevon Carter,Personal Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,73,60,0.944,0.943,2:55
+3,2:25,MIL,MarJon Beauchamp,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,75,60,0.972,0.957,2:25
+3,1:36,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,76,62,0.928,0.95,1:36
+3,20.1,MIL,Jevon Carter,Personal Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,76,70,0.853,0.808,33.1
+4,11:09,MIL,Bobby Portis,Loose Ball Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,81,73,0.886,0.88,11:09
+4,7:41,MIL,Brook Lopez,Offensive Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,84,85,0.493,0.432,7:47
+4,2:00,MIL,Brook Lopez,Shooting Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,96,97,0.624,0.467,2:23
+4,9.1,MIL,Giannis Antetokounmpo,Personal Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,103,107,0.233,0.12,16.1
+4,8.1,NY,Immanuel Quickley,Personal Take Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,105,107,0.052,0.157,9.1
+4,8.0,NY,Evan Fournier,Personal Take Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,105,107,0.047,0.14,8.1
+4,0.1,NY,Immanuel Quickley,Personal Take Foul,Foul,James Williams,Rodney Mott,Nate Green,NY,107,109,0.003,0.028,1.1

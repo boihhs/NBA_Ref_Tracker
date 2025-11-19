@@ -1,0 +1,62 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:01,DET,Killian Hayes,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,6,4,0.792,0.82,10:10
+1,8:07,DET,Killian Hayes,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,9,14,0.632,0.676,8:07
+1,6:49,POR,Justise Winslow,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,9,19,0.578,0.537,6:57
+1,6:37,DET,Cade Cunningham,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,10,19,0.534,0.535,6:49
+1,6:08,POR,CJ Elleby,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,10,19,0.598,0.561,6:29
+1,5:58,DET,Saben Lee,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,12,19,0.541,0.583,6:08
+1,5:02,DET,Cade Cunningham,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,14,19,0.587,0.63,5:05
+1,4:05,POR,Greg Brown III,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,14,21,0.634,0.596,4:25
+1,3:29,POR,Ben McLemore,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,16,21,0.66,0.643,3:29
+1,3:18,DET,Saben Lee,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,18,21,0.628,0.668,3:29
+1,2:59,POR,Greg Brown III,Defensive 3-Seconds Technical,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,18,21,0.682,0.689,3:15
+1,1:36,DET,Isaiah Livers,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,19,23,0.607,0.626,1:36
+1,1:19,POR,Greg Brown III,Loose Ball Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,19,25,0.637,0.598,1:19
+1,24.9,DET,Luka Garza,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,20,27,0.482,0.53,44.9
+1,17.5,POR,Greg Brown III,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,20,29,0.545,0.501,24.9
+2,10:08,POR,Keon Johnson,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,26,35,0.501,0.444,10:08
+2,8:45,DET,Jamorko Pickett,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,26,42,0.202,0.246,8:45
+2,8:16,DET,Jamorko Pickett,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,28,43,0.204,0.245,8:28
+2,7:47,DET,Jamorko Pickett,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,30,44,0.225,0.268,7:58
+2,4:44,DET,Isaiah Stewart,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,37,51,0.191,0.231,4:48
+2,4:44,POR,Ben McLemore,Away from Play Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,37,53,0.204,0.205,4:44
+2,4:34,POR,Trendon Watford,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,37,53,0.202,0.202,4:34
+2,2:32,POR,Elijah Hughes,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,44,56,0.34,0.292,2:38
+2,1:52,POR,Trendon Watford,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,46,59,0.299,0.257,2:10
+2,53.4,DET,Saben Lee,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,50,61,0.222,0.269,1:01
+2,2.2,POR,Kris Dunn,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,50,67,0.165,0.13,5.5
+3,10:18,DET,Killian Hayes,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,54,69,0.133,0.131,10:37
+3,9:50,DET,Cade Cunningham,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,54,71,0.067,0.088,9:55
+3,9:10,DET,Saddiq Bey,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,56,78,0.024,0.036,9:10
+3,8:28,POR,Trendon Watford,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,59,79,0.052,0.052,8:32
+3,8:09,DET,Saddiq Bey,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,62,79,0.056,0.076,8:17
+3,7:39,DET,Marvin Bagley III,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,62,81,0.034,0.048,7:49
+3,7:22,POR,CJ Elleby,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,62,81,0.057,0.058,7:36
+3,5:32,POR,Greg Brown III,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,70,83,0.169,0.123,5:32
+3,5:06,POR,Trendon Watford,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,71,83,0.193,0.17,5:06
+3,4:27,DET,Isaiah Stewart,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,73,83,0.168,0.191,4:29
+3,4:16,DET,Marvin Bagley III,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,73,85,0.098,0.129,4:18
+3,3:44,DET,Isaiah Livers,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,75,87,0.092,0.123,3:52
+3,3:27,POR,Kris Dunn,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,75,89,0.135,0.104,3:44
+3,2:14,POR,Brandon Williams,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,77,94,0.062,0.044,2:26
+3,2:06,DET,Luka Garza,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,79,94,0.035,0.055,2:14
+3,1:40,POR,Keon Johnson,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,79,95,0.071,0.037,1:49
+3,31.8,POR,Drew Eubanks,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,86,95,0.257,0.198,32.1
+3,9.3,DET,Isaiah Livers,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,88,95,0.173,0.233,31.8
+4,11:17,POR,Greg Brown III,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,88,96,0.288,0.21,11:22
+4,10:46,POR,Drew Eubanks,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,90,96,0.31,0.294,10:46
+4,10:35,POR,Drew Eubanks,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,92,96,0.462,0.346,10:35
+4,10:28,DET,Killian Hayes,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,92,96,0.269,0.355,10:33
+4,9:51,DET,Jamorko Pickett,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,94,97,0.375,0.394,10:03
+4,6:46,POR,Trendon Watford,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,101,103,0.572,0.464,6:54
+4,5:55,DET,Killian Hayes,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,102,103,0.387,0.46,5:55
+4,5:02,POR,Brandon Williams,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,105,105,0.685,0.588,5:04
+4,4:44,DET,Isaiah Livers,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,106,105,0.457,0.581,4:55
+4,4:25,DET,Cade Cunningham,Shooting Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,106,105,0.507,0.565,4:25
+4,4:02,POR,Ben McLemore,Loose Ball Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,106,107,0.604,0.491,4:02
+4,3:52,DET,Luka Garza,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,108,107,0.446,0.563,4:02
+4,3:39,DET,Cade Cunningham,Offensive Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,108,109,0.406,0.489,3:52
+4,2:26,DET,Isaiah Stewart,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,108,109,0.262,0.381,2:26
+4,44.5,DET,Isaiah Stewart,Offensive Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,112,116,0.101,0.175,47.8
+4,16.5,DET,Killian Hayes,Personal Take Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,112,116,0.018,0.058,18.0
+4,6.7,DET,Saddiq Bey,Personal Foul,Foul,Brent Barnaky,Tyler Ford,Jonathan Sterling,DET,112,118,0.001,0.002,6.7

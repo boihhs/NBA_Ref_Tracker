@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:40,LAL,Anthony Davis,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,0,0,0.607,0.569,11:44
+1,10:46,HOU,Dillon Brooks,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,4,0,0.607,0.642,11:00
+1,8:25,HOU,Jalen Green,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,15,8,0.678,0.712,8:39
+1,2:00,HOU,Jae'Sean Tate,Personal Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,33,29,0.603,0.642,2:02
+1,1:51,HOU,Amen Thompson,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,33,29,0.603,0.642,2:00
+1,1:18,HOU,Amen Thompson,Personal Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,35,30,0.629,0.669,1:24
+2,11:50,HOU,Amen Thompson,Offensive Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,42,31,0.809,0.808,12:00
+2,11:03,HOU,Dillon Brooks,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,44,33,0.794,0.827,11:03
+2,10:48,LAL,Christian Wood,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,44,34,0.837,0.809,11:03
+2,10:17,LAL,Jarred Vanderbilt,Technical Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,46,36,0.825,0.81,10:18
+2,10:17,LAL,Jarred Vanderbilt,Technical Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,46,36,0.825,0.825,10:17
+2,9:43,LAL,Christian Wood,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,49,38,0.843,0.812,9:43
+2,9:18,LAL,Taurean Prince,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,50,38,0.871,0.849,9:22
+2,8:30,LAL,LeBron James,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,53,40,0.889,0.867,8:33
+2,8:00,HOU,Alperen Sengun,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,56,40,0.875,0.91,8:12
+2,6:16,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,62,44,0.909,0.926,6:20
+2,4:35,LAL,Anthony Davis,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,66,49,0.946,0.931,4:59
+2,2:46,LAL,LeBron James,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,70,53,0.951,0.937,2:58
+2,2:32,HOU,Alperen Sengun,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,71,55,0.905,0.927,2:32
+3,10:04,HOU,Dillon Brooks,Personal Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,85,60,0.989,0.989,10:22
+3,10:01,HOU,Dillon Brooks,Personal Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,85,60,0.989,0.989,10:04
+3,9:52,HOU,Jae'Sean Tate,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,85,60,0.985,0.989,10:01
+3,5:01,LAL,LeBron James,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,98,70,0.999,0.998,5:05
+3,4:04,LAL,Austin Reaves,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,99,72,0.999,0.998,4:06
+3,1:42,HOU,Fred VanVleet,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,101,79,0.99,0.994,1:45
+3,26.1,HOU,HOU,Delay Technical,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,108,83,0.998,0.998,26.1
+4,9:07,HOU,Alperen Sengun,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,114,89,0.998,0.999,9:20
+4,7:37,HOU,Fred VanVleet,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,116,96,0.995,0.998,7:43
+4,5:45,HOU,Dillon Brooks,Flagrant Foul Type 1,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,119,103,0.993,0.994,5:45
+4,5:14,HOU,Fred VanVleet,Offensive Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,119,105,0.988,0.991,5:35
+4,5:11,LAL,Jaxson Hayes,Offensive Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,119,105,0.992,0.988,5:14
+4,4:14,LAL,Jaxson Hayes,Personal Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,121,108,0.993,0.993,4:21
+4,2:58,LAL,LeBron James,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,121,111,0.991,0.986,3:00
+4,2:58,LAL,LAL,Delay Technical,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,121,111,0.984,0.991,2:58
+4,2:13,LAL,D'Angelo Russell,Technical Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,126,111,0.999,0.999,2:13
+4,1:54,HOU,Alperen Sengun,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,129,113,0.999,0.999,1:54
+4,23.0,LAL,Jalen Hood-Schifino,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Suyash Mehta,HOU,133,116,0.999,0.999,25.0

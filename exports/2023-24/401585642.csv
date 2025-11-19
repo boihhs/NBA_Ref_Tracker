@@ -1,0 +1,29 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:32,CLE,Jarrett Allen,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,2,2,0.717,0.699,10:32
+1,8:00,CLE,Caris LeVert,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,6,7,0.703,0.67,8:08
+1,7:48,MIN,Naz Reid,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,7,7,0.633,0.669,8:00
+1,6:32,MIN,Anthony Edwards,Clear Path Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,9,11,0.616,0.613,6:34
+1,4:18,CLE,Georges Niang,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,18,16,0.74,0.702,4:18
+1,4:01,MIN,Naz Reid,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,19,16,0.69,0.725,4:18
+1,2:11,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,21,17,0.708,0.743,2:17
+1,1:46,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,21,18,0.683,0.717,1:52
+1,59.0,CLE,Tristan Thompson,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,21,20,0.726,0.695,1:04
+2,11:17,CLE,Georges Niang,Offensive Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,27,20,0.818,0.798,11:24
+2,10:49,MIN,Rudy Gobert,Defensive 3-Seconds Technical,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,27,20,0.803,0.798,10:59
+2,9:36,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,33,27,0.776,0.776,9:48
+2,7:06,CLE,Georges Niang,Loose Ball Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,38,31,0.817,0.817,7:06
+2,4:06,MIN,Naz Reid,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,44,40,0.679,0.747,4:06
+2,3:52,MIN,MIN,Delay Technical,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,44,41,0.699,0.692,3:52
+2,3:27,CLE,Isaac Okoro,Personal Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,44,42,0.692,0.692,3:36
+2,2:52,CLE,Caris LeVert,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,44,42,0.73,0.691,2:56
+2,3.1,MIN,Jaden McDaniels,Personal Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,46,49,0.424,0.478,16.1
+3,8:31,CLE,Georges Niang,Personal Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,53,56,0.492,0.491,8:36
+3,8:24,CLE,Darius Garland,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,53,56,0.55,0.492,8:31
+3,7:15,CLE,Darius Garland,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,57,58,0.619,0.564,7:19
+3,7:02,MIN,Mike Conley,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,58,58,0.5,0.558,7:15
+4,8:35,CLE,Tristan Thompson,Personal Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,84,73,0.961,0.958,8:48
+4,6:37,MIN,Rudy Gobert,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,88,77,0.93,0.961,6:39
+4,4:44,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,91,81,0.957,0.959,4:57
+4,3:17,MIN,Rudy Gobert,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,96,85,0.962,0.982,3:42
+4,1:05,CLE,Isaac Okoro,Personal Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,101,91,0.999,0.999,1:12
+4,1:02,CLE,Caris LeVert,Personal Take Foul,Foul,Marc Davis,Justin Van Duyne,Ashley Moyer-Gleich,MIN,101,91,0.999,0.999,1:05

@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:36,SAC,Trey Lyles,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,3,2,0.35,0.348,10:51
+1,8:33,SAC,Alex Len,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,5,6,0.279,0.307,8:50
+1,8:18,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,7,7,0.375,0.335,8:18
+1,7:52,SAC,Justin Holiday,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,10,9,0.362,0.359,7:59
+1,5:43,SAC,Alex Len,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,17,20,0.257,0.296,5:43
+1,3:26,SAC,Damian Jones,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,23,26,0.246,0.278,3:29
+1,1:07,DEN,Bryn Forbes,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,27,32,0.293,0.261,1:18
+2,9:51,DEN,JaMychal Green,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,29,34,0.3,0.263,10:04
+2,9:35,DEN,DeMarcus Cousins,Offensive Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,30,34,0.287,0.261,9:51
+2,9:27,DEN,Bryn Forbes,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,32,34,0.359,0.314,9:27
+2,7:21,SAC,Chimezie Metu,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,33,39,0.187,0.217,7:23
+2,7:13,DEN,DeMarcus Cousins,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,33,41,0.196,0.198,7:21
+2,6:06,SAC,De'Aaron Fox,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,33,44,0.124,0.123,6:11
+2,6:00,SAC,Alex Len,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,33,46,0.087,0.11,6:00
+2,5:42,DEN,Davon Reed,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,35,47,0.136,0.11,5:42
+2,3:50,SAC,Trey Lyles,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,39,53,0.072,0.093,3:50
+2,1:37,DEN,Austin Rivers,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,43,59,0.073,0.054,1:37
+2,1:04,DEN,Austin Rivers,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,43,59,0.081,0.064,1:18
+2,0.8,DEN,Austin Rivers,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,48,63,0.093,0.072,3.2
+2,0.8,DEN,Austin Rivers,Technical Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,48,63,0.084,0.093,0.8
+3,11:08,SAC,De'Aaron Fox,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,56,63,0.19,0.187,11:18
+3,9:26,SAC,Alex Len,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,58,68,0.125,0.124,9:45
+3,5:34,DEN,Monte Morris,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,65,74,0.191,0.152,5:36
+3,2:27,SAC,De'Aaron Fox,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,73,76,0.297,0.297,2:32
+3,2:27,SAC,Chimezie Metu,Technical Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,73,76,0.268,0.297,2:27
+3,2:27,SAC,De'Aaron Fox,Away from Play Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,73,77,0.208,0.258,2:27
+3,12:00,DEN,DEN,Technical Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,51,63,0.129,0.208,2:27
+3,2:11,DEN,Facundo Campazzo,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,73,77,0.299,0.3,2:11
+3,1:28,DEN,JaMychal Green,Offensive Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,75,80,0.261,0.223,1:41
+3,1:07,DEN,DeMarcus Cousins,Offensive Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,77,80,0.338,0.296,1:17
+3,9.8,SAC,Damian Jones,Offensive Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,77,80,0.294,0.338,23.7
+4,11:48,DEN,DeMarcus Cousins,Offensive Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,77,80,0.341,0.3,0.0
+4,10:37,SAC,Chimezie Metu,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,77,85,0.104,0.109,10:40
+4,9:55,SAC,Donte DiVincenzo,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,80,85,0.136,0.197,10:13
+4,9:09,DEN,Facundo Campazzo,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,80,87,0.161,0.15,9:11
+4,6:42,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,86,87,0.552,0.437,7:03
+4,5:01,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,90,91,0.472,0.447,5:01
+4,3:44,SAC,Davion Mitchell,Offensive Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,92,94,0.303,0.381,3:52
+4,1:55,SAC,Damian Jones,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,95,98,0.13,0.262,1:55
+4,1:28,SAC,Davion Mitchell,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,95,101,0.028,0.072,1:28
+4,44.7,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,97,102,0.151,0.047,44.7
+4,30.7,SAC,Damian Jones,Personal Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,98,102,0.035,0.099,44.7
+4,17.7,SAC,Harrison Barnes,Personal Take Foul,Foul,James Williams,Brent Barnaky,Evan Scott,SAC,100,104,0.02,0.075,26.4

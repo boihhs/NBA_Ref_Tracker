@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:35,GS,Stephen Curry,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,9,4,0.81,0.809,9:38
+1,7:54,LAL,D'Angelo Russell,Loose Ball Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,14,11,0.788,0.789,7:54
+1,4:59,LAL,Spencer Dinwiddie,Loose Ball Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,19,16,0.779,0.78,4:59
+1,4:32,GS,Klay Thompson,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,19,16,0.727,0.76,4:47
+1,32.1,GS,Jonathan Kuminga,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,30,27,0.713,0.745,38.1
+1,0.1,LAL,Anthony Davis,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,30,28,0.777,0.747,4.2
+2,10:50,LAL,Spencer Dinwiddie,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,31,32,0.665,0.669,11:03
+2,10:06,LAL,Jaxson Hayes,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,33,35,0.654,0.608,10:06
+2,8:30,GS,Dario Saric,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,38,41,0.521,0.569,8:36
+2,7:35,GS,Trayce Jackson-Davis,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,42,42,0.65,0.649,7:46
+2,7:01,GS,Moses Moody,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,44,42,0.661,0.702,7:02
+2,5:30,LAL,Austin Reaves,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,46,48,0.608,0.61,5:34
+2,5:13,GS,Jonathan Kuminga,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,46,48,0.529,0.576,5:20
+2,4:34,LAL,Spencer Dinwiddie,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,48,48,0.707,0.666,4:38
+2,4:03,GS,Brandin Podziemski,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,50,48,0.644,0.69,4:04
+2,2:10,GS,Draymond Green,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,57,51,0.75,0.787,2:26
+3,9:09,LAL,Rui Hachimura,Offensive Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,72,61,0.909,0.891,9:11
+3,6:03,LAL,Anthony Davis,Offensive Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,79,69,0.902,0.883,6:07
+3,4:31,GS,Lester Quinones,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,86,69,0.972,0.972,4:47
+3,3:29,LAL,Austin Reaves,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,88,73,0.973,0.961,3:29
+3,2:55,GS,Lester Quinones,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,89,75,0.954,0.952,3:02
+3,2:43,GS,Moses Moody,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,89,75,0.954,0.954,2:55
+3,1:36,LAL,Spencer Dinwiddie,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,89,80,0.926,0.898,2:02
+3,21.0,GS,Klay Thompson,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,96,80,0.967,0.977,27.0
+3,12.1,GS,Lester Quinones,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,96,80,0.967,0.967,21.0
+4,11:11,GS,Andrew Wiggins,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,98,85,0.945,0.957,11:11
+4,9:56,LAL,D'Angelo Russell,Loose Ball Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,103,88,0.986,0.985,9:56
+4,9:49,LAL,D'Angelo Russell,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,103,88,0.992,0.986,9:56
+4,9:39,GS,Andrew Wiggins,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,105,88,0.989,0.99,9:49
+4,8:53,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,107,93,0.966,0.983,8:53
+4,8:42,LAL,Spencer Dinwiddie,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,107,94,0.978,0.976,8:53
+4,4:15,LAL,Jalen Hood-Schifino,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,115,100,0.998,0.997,4:27
+4,3:40,LAL,Jaxson Hayes,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,115,100,0.999,0.998,3:49
+4,2:38,LAL,Skylar Mays,Loose Ball Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,120,102,0.999,0.999,2:38
+4,2:08,GS,Jerome Robinson,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,121,102,0.999,0.999,2:26
+4,1:11,GS,Lester Quinones,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,GS,126,106,0.999,0.999,1:22

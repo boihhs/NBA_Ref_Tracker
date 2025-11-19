@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:15,OKC,Jaylin Williams,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,0,2,0.771,0.773,11:34
+1,10:38,OKC,Jaylin Williams,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,4,2,0.842,0.818,10:38
+1,9:26,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,6,4,0.849,0.828,9:28
+1,8:31,OKC,Jalen Williams,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,9,4,0.883,0.866,8:35
+1,6:53,OKC,Luguentz Dort,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,17,4,0.947,0.938,7:02
+1,5:43,LAC,Paul George,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,18,6,0.916,0.931,5:43
+1,4:22,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,18,12,0.887,0.869,4:38
+1,2:21,OKC,Jalen Williams,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,19,17,0.827,0.802,2:32
+1,1:19,LAC,Nicolas Batum,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,22,21,0.722,0.757,1:22
+2,10:49,LAC,Mason Plumlee,Offensive Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,25,23,0.767,0.789,11:03
+2,10:35,OKC,Lindy Waters III,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,27,23,0.836,0.806,10:35
+2,9:01,OKC,Isaiah Joe,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,31,28,0.798,0.8,9:04
+2,8:46,LAC,Terance Mann,Offensive Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,31,28,0.778,0.798,9:01
+2,7:56,LAC,Terance Mann,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,31,31,0.702,0.705,8:19
+2,6:11,OKC,Aaron Wiggins,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,36,33,0.819,0.788,6:15
+2,4:24,LAC,Kawhi Leonard,Technical Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,41,37,0.763,0.783,4:27
+2,4:24,LAC,Terance Mann,Technical Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,41,37,0.763,0.763,4:24
+2,4:24,LAC,Terance Mann,Technical Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,41,37,0.763,0.763,4:24
+2,4:19,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,41,40,0.664,0.733,4:24
+2,4:04,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,41,41,0.745,0.709,4:19
+2,3:58,OKC,Jaylin Williams,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,43,41,0.773,0.733,3:58
+2,1:55,OKC,Jaylin Williams,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,47,49,0.656,0.601,1:55
+2,29.1,LAC,Ivica Zubac,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,51,54,0.499,0.553,48.2
+3,10:48,LAC,Ivica Zubac,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,54,56,0.546,0.576,11:05
+3,9:09,OKC,Olivier Sarr,Offensive Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,59,61,0.596,0.558,9:14
+3,8:52,OKC,Olivier Sarr,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,59,61,0.647,0.596,9:09
+3,8:52,LAC,Russell Westbrook,Loose Ball Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,60,61,0.594,0.656,8:52
+3,7:20,OKC,Luguentz Dort,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,63,63,0.706,0.657,7:28
+3,6:46,OKC,Olivier Sarr,Double Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,64,63,0.686,0.688,6:46
+3,6:24,LAC,Ivica Zubac,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,66,63,0.666,0.719,6:39
+3,5:50,LAC,Mason Plumlee,Offensive Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,69,67,0.682,0.717,5:56
+3,2.1,OKC,Luguentz Dort,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,81,80,0.72,0.658,18.0
+4,8:03,LAC,Nicolas Batum,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,87,87,0.514,0.532,8:03
+4,5:45,LAC,Robert Covington,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,91,89,0.623,0.639,5:57
+4,4:38,OKC,Luguentz Dort,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,91,91,0.571,0.565,4:38
+4,3:39,LAC,Kawhi Leonard,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,93,93,0.453,0.48,3:39
+4,3:06,LAC,Russell Westbrook,Offensive Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,93,95,0.304,0.39,3:16
+4,2:49,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,93,97,0.237,0.232,2:56
+4,2:39,OKC,Aaron Wiggins,Shooting Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,93,97,0.371,0.237,2:49
+4,2:26,LAC,Kawhi Leonard,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,95,97,0.174,0.3,2:39
+4,1:42,LAC,Russell Westbrook,Personal Foul,Foul,Curtis Blair,Gediminas Petraitis,Mousa Dagher,LAC,95,97,0.148,0.261,2:01

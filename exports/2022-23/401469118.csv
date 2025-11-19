@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:00,CHI,Zach LaVine,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,3,0,0.771,0.772,11:06
+1,10:50,IND,Tyrese Haliburton,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,5,0,0.832,0.806,10:50
+1,9:56,CHI,DeMar DeRozan,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,8,5,0.755,0.787,9:56
+1,8:41,IND,Andrew Nembhard,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,13,5,0.878,0.861,8:43
+1,3:45,IND,Buddy Hield,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,24,20,0.788,0.79,3:49
+1,1:55,IND,Isaiah Jackson,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,29,25,0.811,0.786,2:11
+1,1:29,IND,T.J. McConnell,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,31,25,0.846,0.819,1:31
+1,3.1,CHI,Coby White,Personal Take Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,35,27,0.808,0.834,12.1
+2,11:00,IND,T.J. McConnell,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,37,32,0.825,0.8,11:16
+2,9:08,CHI,Coby White,Loose Ball Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,42,37,0.774,0.774,9:20
+2,8:43,CHI,Ayo Dosunmu,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,42,37,0.738,0.773,8:52
+2,7:51,IND,Isaiah Jackson,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,42,42,0.672,0.675,8:09
+2,7:10,CHI,Patrick Beverley,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,44,44,0.641,0.641,7:16
+2,5:58,CHI,Nikola Vucevic,Offensive Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,44,51,0.412,0.449,6:15
+2,5:42,CHI,Alex Caruso,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,44,51,0.364,0.412,5:58
+2,5:06,CHI,Nikola Vucevic,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,46,52,0.39,0.442,5:23
+2,4:54,IND,Oshae Brissett,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,48,56,0.428,0.373,4:54
+2,2:56,CHI,Alex Caruso,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,54,60,0.369,0.422,3:13
+2,2:06,IND,Andrew Nembhard,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,56,64,0.43,0.379,2:18
+3,11:49,IND,Jordan Nwora,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,60,67,0.39,0.377,12:00
+3,10:47,CHI,DeMar DeRozan,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,63,67,0.452,0.451,10:47
+3,10:40,CHI,Patrick Beverley,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,63,69,0.353,0.415,10:40
+3,10:21,IND,Myles Turner,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,63,70,0.43,0.379,10:40
+3,9:29,IND,Jordan Nwora,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,65,72,0.365,0.368,9:37
+3,9:11,CHI,DeMar DeRozan,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,67,72,0.346,0.403,9:23
+3,2:27,CHI,CHI,Delay Technical,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,85,87,0.47,0.372,2:47
+3,3.0,CHI,Ayo Dosunmu,Personal Take Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,89,93,0.273,0.341,6.1
+4,11:19,IND,Oshae Brissett,Loose Ball Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,89,97,0.212,0.197,11:19
+4,11:13,IND,Isaiah Jackson,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,89,97,0.28,0.248,11:38
+4,9:22,CHI,Ayo Dosunmu,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,97,104,0.169,0.18,9:32
+4,9:01,CHI,Derrick Jones Jr.,Offensive Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,97,104,0.168,0.214,9:07
+4,8:52,CHI,Ayo Dosunmu,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,97,106,0.08,0.137,8:52
+4,8:04,IND,Chris Duarte,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,100,107,0.281,0.194,8:07
+4,7:03,IND,Chris Duarte,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,102,107,0.374,0.278,7:15
+4,5:28,CHI,Nikola Vucevic,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,106,107,0.322,0.445,5:29
+4,4:48,IND,Myles Turner,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,109,108,0.74,0.646,4:57
+4,2:47,CHI,Patrick Beverley,Flagrant Foul Type 1,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,114,114,0.495,0.583,2:47
+4,22.1,IND,Bennedict Mathurin,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Natalie Sago,CHI,120,122,0.502,0.346,34.0

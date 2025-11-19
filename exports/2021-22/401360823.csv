@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:43,WSH,Kyle Kuzma,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,3,2,0.644,0.615,10:56
+1,10:23,LAL,Stanley Johnson,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,4,2,0.573,0.61,10:24
+1,5:16,LAL,Austin Reaves,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,17,13,0.655,0.654,5:24
+1,4:59,WSH,Kentavious Caldwell-Pope,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,17,13,0.679,0.68,5:04
+1,2:58,LAL,Malik Monk,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,21,17,0.655,0.654,3:04
+1,2:27,WSH,Daniel Gafford,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,21,17,0.714,0.681,2:34
+1,1:50,WSH,Kentavious Caldwell-Pope,Technical Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,26,17,0.807,0.771,1:56
+1,1:44,LAL,D.J. Augustin,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,26,17,0.737,0.792,1:50
+1,1:01,LAL,Talen Horton-Tucker,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,26,21,0.64,0.679,1:04
+2,10:06,WSH,Tomas Satoransky,Loose Ball Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,31,31,0.568,0.569,10:06
+2,10:02,WSH,Rui Hachimura,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,31,31,0.567,0.568,10:06
+2,9:47,LAL,Russell Westbrook,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,33,31,0.553,0.596,9:54
+2,7:22,LAL,Wenyen Gabriel,Loose Ball Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,40,40,0.533,0.532,7:22
+2,7:18,LAL,Wenyen Gabriel,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,40,40,0.488,0.533,7:22
+2,6:31,LAL,Carmelo Anthony,Offensive Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,40,42,0.468,0.502,6:42
+2,6:01,LAL,Malik Monk,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,42,42,0.484,0.53,6:10
+2,5:17,LAL,Russell Westbrook,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,45,44,0.515,0.564,5:36
+2,5:05,WSH,Rui Hachimura,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,45,45,0.564,0.563,5:17
+2,2:43,LAL,Malik Monk,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,50,53,0.375,0.426,2:47
+2,1:18,WSH,Kentavious Caldwell-Pope,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,52,59,0.371,0.322,1:33
+3,11:28,LAL,Malik Monk,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,52,59,0.234,0.274,11:46
+3,11:07,WSH,Kristaps Porzingis,Defensive 3-Seconds Technical,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,52,61,0.238,0.249,11:27
+3,9:56,LAL,Russell Westbrook,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,53,61,0.218,0.237,9:56
+3,7:04,WSH,Kristaps Porzingis,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,66,69,0.461,0.391,7:04
+3,5:32,WSH,Deni Avdija,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,74,71,0.667,0.669,5:34
+3,4:26,WSH,Ish Smith,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,76,71,0.742,0.743,4:26
+3,4:17,LAL,Talen Horton-Tucker,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,76,71,0.707,0.706,4:17
+3,4:05,LAL,LeBron James,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,76,71,0.649,0.707,4:17
+3,3:39,WSH,Deni Avdija,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,76,71,0.797,0.747,3:49
+3,3:39,WSH,Rui Hachimura,Double Technical Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,76,71,0.735,0.797,3:39
+3,3:09,WSH,Ish Smith,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,78,74,0.768,0.71,3:27
+3,3:09,WSH,Ish Smith,Technical Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,78,74,0.74,0.768,3:09
+3,2:44,LAL,Carmelo Anthony,Loose Ball Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,80,74,0.691,0.748,2:44
+3,2:03,WSH,Corey Kispert,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,82,75,0.864,0.823,2:05
+3,1:14,LAL,Wenyen Gabriel,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,84,77,0.734,0.791,1:29
+4,11:30,WSH,Rui Hachimura,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,89,85,0.803,0.734,11:48
+4,10:29,WSH,Corey Kispert,Personal Take Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,91,85,0.835,0.824,10:33
+4,9:27,WSH,Corey Kispert,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,91,89,0.68,0.663,9:28
+4,9:04,LAL,Wenyen Gabriel,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,93,89,0.709,0.716,9:19
+4,5:30,LAL,LeBron James,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,103,93,0.949,0.951,5:48
+4,4:15,LAL,Talen Horton-Tucker,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,107,97,0.928,0.962,4:36
+4,3:32,WSH,Tomas Satoransky,Personal Take Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,109,98,0.995,0.989,3:33
+4,2:53,WSH,Corey Kispert,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,113,98,0.999,0.999,2:53
+4,2:22,LAL,Malik Monk,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,114,100,0.997,0.999,2:22
+4,1:51,LAL,Stanley Johnson,Personal Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,116,101,0.998,0.999,2:04
+4,1:40,LAL,LeBron James,Personal Take Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,119,101,0.999,0.999,1:41
+4,1:16,LAL,Talen Horton-Tucker,Shooting Foul,Foul,James Williams,Jacyn Goble,Evan Scott,LAL,119,103,0.999,0.999,1:22

@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:07,PHX,Devin Booker,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,2,6,0.399,0.401,10:20
+1,9:59,PHX,Kevin Durant,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,2,6,0.437,0.399,10:07
+1,5:36,PHX,Drew Eubanks,Offensive Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,16,17,0.475,0.448,5:59
+1,4:55,ORL,Joe Ingles,Loose Ball Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,18,17,0.501,0.501,4:55
+1,3:59,ORL,Markelle Fultz,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,20,23,0.374,0.419,3:59
+1,3:42,ORL,Moritz Wagner,Loose Ball Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,20,24,0.368,0.365,3:42
+1,3:15,PHX,Udoka Azubuike,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,20,27,0.355,0.317,3:27
+1,2:45,ORL,Cole Anthony,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,22,27,0.302,0.34,2:52
+1,2:19,ORL,Cole Anthony,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,22,29,0.254,0.288,2:31
+1,1:43,PHX,Bradley Beal,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,22,31,0.303,0.264,2:01
+1,1:16,ORL,Jonathan Isaac,Loose Ball Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,24,33,0.208,0.239,1:16
+1,53.0,ORL,Cole Anthony,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,24,34,0.189,0.217,56.1
+2,11:18,PHX,Chimezie Metu,Away from Play Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,26,39,0.174,0.173,11:35
+2,8:48,PHX,Kevin Durant,Offensive Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,34,43,0.251,0.227,8:56
+2,5:07,ORL,Wendell Carter Jr.,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,43,45,0.411,0.413,5:07
+2,5:02,ORL,Jalen Suggs,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,43,45,0.366,0.411,5:07
+2,3:44,PHX,Keita Bates-Diop,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,45,48,0.459,0.412,3:46
+2,3:19,PHX,Grayson Allen,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,45,50,0.347,0.347,3:30
+2,1:42,ORL,Markelle Fultz,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,47,52,0.268,0.313,1:57
+3,11:15,ORL,Jalen Suggs,Offensive Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,51,56,0.305,0.334,11:18
+3,11:02,ORL,Jalen Suggs,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,51,56,0.302,0.305,11:15
+3,10:53,ORL,Franz Wagner,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,51,58,0.222,0.27,10:53
+3,9:44,PHX,Bradley Beal,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,55,60,0.386,0.334,9:50
+3,5:41,ORL,Franz Wagner,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,63,71,0.159,0.159,5:48
+3,4:33,ORL,Jalen Suggs,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,66,73,0.118,0.152,4:43
+3,4:18,ORL,Paolo Banchero,Offensive Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,66,74,0.176,0.207,4:31
+3,4:11,ORL,Joe Ingles,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,66,74,0.138,0.176,4:18
+3,3:09,PHX,Grayson Allen,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,71,76,0.336,0.305,3:09
+3,2:27,PHX,Devin Booker,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,72,78,0.323,0.266,2:51
+3,48.1,PHX,Eric Gordon,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,79,80,0.506,0.421,48.1
+3,39.0,ORL,Joe Ingles,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,80,80,0.398,0.475,48.1
+3,6.2,ORL,Anthony Black,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,82,84,0.34,0.423,6.2
+4,9:54,PHX,Drew Eubanks,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,91,92,0.527,0.417,9:54
+4,9:17,PHX,Bradley Beal,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,92,92,0.592,0.531,9:17
+4,8:32,PHX,Drew Eubanks,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,92,92,0.606,0.541,8:32
+4,6:59,PHX,Devin Booker,Transition Take Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,94,92,0.673,0.673,6:59
+4,6:30,ORL,Jonathan Isaac,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,97,92,0.693,0.781,6:41
+4,3:24,PHX,Kevin Durant,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,104,94,0.993,0.608,7:02
+4,3:11,ORL,Markelle Fultz,Personal Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,106,94,0.991,0.991,3:24
+4,2:59,PHX,Bradley Beal,Shooting Foul,Foul,Marc Davis,CJ Washington,Nate Green,ORL,106,94,0.997,0.996,3:02

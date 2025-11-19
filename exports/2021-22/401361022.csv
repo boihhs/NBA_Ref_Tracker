@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:13,DET,Isaiah Livers,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,0,0,0.327,0.364,11:18
+1,8:52,DET,Isaiah Stewart,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,2,7,0.228,0.256,8:56
+1,6:55,MIL,Brook Lopez,Offensive Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,2,12,0.183,0.166,7:08
+1,6:42,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,2,12,0.21,0.183,6:55
+1,5:03,DET,Kelly Olynyk,Loose Ball Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,4,17,0.122,0.122,5:03
+1,2:48,MIL,Jrue Holiday,Personal Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,4,19,0.106,0.107,2:51
+1,43.6,DET,Braxton Key,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,8,27,0.049,0.063,43.6
+2,11:13,DET,Braxton Key,Personal Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,11,30,0.052,0.052,11:27
+2,10:07,DET,Frank Jackson,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,16,37,0.033,0.043,10:07
+2,8:47,MIL,Jevon Carter,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,21,37,0.095,0.086,8:47
+2,8:12,MIL,Jevon Carter,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,25,37,0.153,0.125,8:12
+2,7:21,DET,Frank Jackson,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,29,39,0.144,0.175,7:21
+2,6:40,DET,Rodney McGruder,Personal Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,29,40,0.115,0.137,6:41
+2,6:10,MIL,Khris Middleton,Personal Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,31,42,0.154,0.155,6:10
+2,3:49,DET,Isaiah Stewart,Personal Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,34,50,0.052,0.066,3:57
+2,3:15,MIL,Jrue Holiday,Personal Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,34,52,0.069,0.055,3:18
+3,11:00,DET,Killian Hayes,Personal Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,40,58,0.035,0.034,11:12
+3,9:27,DET,Isaiah Livers,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,42,62,0.015,0.021,9:30
+3,8:18,MIL,Jrue Holiday,Personal Take Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,42,68,0.005,0.005,8:18
+3,7:59,DET,Saddiq Bey,Personal Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,44,68,0.007,0.006,8:07
+3,7:27,DET,Cade Cunningham,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,44,72,0.001,0.002,7:27
+3,6:58,DET,Isaiah Stewart,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,44,75,0.001,0.001,6:58
+3,6:12,DET,Saddiq Bey,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,46,76,0.001,0.001,6:25
+3,4:17,MIL,Wesley Matthews,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,53,81,0.002,0.001,4:20
+3,4:00,MIL,George Hill,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,57,81,0.005,0.003,4:00
+3,3:47,DET,Rodney McGruder,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,58,81,0.003,0.004,4:00
+3,3:12,MIL,Pat Connaughton,Personal Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,60,85,0.004,0.002,3:20
+3,3:09,MIL,Bobby Portis,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,60,85,0.004,0.004,3:12
+3,2:36,MIL,Brook Lopez,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,62,88,0.002,0.001,2:46
+3,1:41,MIL,Jevon Carter,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,63,88,0.003,0.001,1:43
+3,59.4,MIL,Serge Ibaka,Loose Ball Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,66,88,0.007,0.004,59.4
+4,11:19,MIL,Pat Connaughton,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,68,92,0.002,0.001,11:19
+4,10:33,DET,Braxton Key,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,73,96,0.001,0.001,10:33
+4,9:04,DET,Carsen Edwards,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,78,104,0.001,0.001,9:04
+4,7:51,MIL,Serge Ibaka,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,80,107,0.001,0.001,7:53
+4,7:30,DET,Cade Cunningham,Loose Ball Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,82,107,0.001,0.001,7:30
+4,5:43,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,87,114,0.001,0.001,5:48
+4,4:58,DET,Cade Cunningham,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,89,116,0.001,0.001,4:59
+4,4:07,MIL,Lindell Wigginton,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,89,120,0.001,0.001,4:30
+4,2:24,MIL,Serge Ibaka,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,98,124,0.001,0.001,2:24
+4,1:07,DET,Kelly Olynyk,Shooting Foul,Foul,Ed Malloy,Sean Wright,Nate Green,DET,99,130,0.001,0.001,1:11

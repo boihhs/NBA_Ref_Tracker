@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,PHI,Mo Bamba,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,3,0,0.809,0.786,10:46
+1,10:25,SAC,Keon Ellis,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,5,2,0.752,0.784,10:25
+1,10:00,PHI,Kyle Lowry,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,5,3,0.764,0.765,10:00
+1,9:40,PHI,Mo Bamba,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,7,3,0.798,0.799,9:40
+1,7:09,PHI,KJ Martin,Away from Play Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,13,5,0.874,0.855,7:14
+1,6:42,SAC,Keon Ellis,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,13,5,0.839,0.84,6:47
+1,3:15,PHI,KJ Martin,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,18,18,0.732,0.698,3:25
+1,1:48,SAC,Domantas Sabonis,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,24,23,0.691,0.718,1:57
+1,1:40,PHI,KJ Martin,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,24,23,0.717,0.691,1:48
+1,1:14,SAC,Keegan Murray,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,24,23,0.65,0.689,1:17
+1,53.0,SAC,SAC,Technical Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,27,24,0.72,0.737,1:00
+1,34.0,PHI,Tyrese Maxey,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,27,25,0.766,0.736,35.1
+2,10:28,SAC,Malik Monk,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,33,29,0.734,0.775,10:28
+2,10:07,SAC,Harrison Barnes,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,33,30,0.692,0.726,10:15
+2,9:51,PHI,Cameron Payne,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,33,32,0.7,0.827,7:43
+2,8:18,SAC,Chris Duarte,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,36,32,0.71,0.745,8:20
+2,7:43,PHI,Kyle Lowry,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,36,36,0.669,0.67,7:53
+2,6:37,PHI,Tyrese Maxey,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,38,36,0.717,0.718,6:51
+2,5:50,SAC,Keon Ellis,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,38,36,0.644,0.688,5:50
+2,5:40,PHI,Tobias Harris,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,38,36,0.716,0.644,5:50
+2,4:39,PHI,Tobias Harris,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,43,38,0.8,0.785,4:43
+2,3:53,PHI,KJ Martin,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,48,40,0.844,0.827,4:07
+2,3:16,PHI,Paul Reed,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,50,40,0.879,0.863,3:39
+2,2:47,PHI,Paul Reed,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,50,40,0.902,0.88,2:47
+2,2:16,SAC,Davion Mitchell,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,52,42,0.851,0.881,2:16
+2,2:01,PHI,Tyrese Maxey,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,52,43,0.877,0.864,2:16
+2,2:01,PHI,Tyrese Maxey,Technical Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,52,43,0.877,0.877,2:01
+3,11:06,PHI,Mo Bamba,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,60,51,0.892,0.869,11:22
+3,10:10,SAC,Keon Ellis,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,60,51,0.85,0.849,10:21
+3,7:20,PHI,Mo Bamba,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,65,53,0.942,0.925,7:22
+3,7:20,PHI,Mo Bamba,Technical Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,65,53,0.934,0.942,7:20
+3,6:57,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,67,53,0.919,0.939,6:57
+3,5:50,SAC,De'Aaron Fox,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,67,53,0.922,0.942,5:56
+3,3:09,SAC,Domantas Sabonis,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,75,58,0.965,0.975,3:23
+3,1:57,PHI,Cameron Payne,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,77,62,0.977,0.965,1:57
+3,1:24,PHI,Cameron Payne,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,78,65,0.97,0.956,1:38
+4,9:27,SAC,De'Aaron Fox,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,89,68,0.997,0.997,9:39
+4,7:46,PHI,Kyle Lowry,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,92,72,0.999,0.998,7:53
+4,6:40,SAC,Domantas Sabonis,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,94,76,0.993,0.997,6:42
+4,6:15,SAC,Keegan Murray,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,97,78,0.995,0.998,6:33
+4,3:12,SAC,Davion Mitchell,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,103,85,0.999,0.999,3:28
+4,2:27,PHI,Ricky Council IV,Personal Take Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,105,87,0.999,0.999,2:31
+4,40.0,PHI,D.J. Wilson,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,105,95,0.999,0.998,41.0
+4,37.0,PHI,Cameron Payne,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,105,95,0.999,0.999,40.0
+4,31.1,PHI,KJ Martin,Personal Take Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,106,95,0.999,0.999,34.1
+4,19.0,SAC,Jalen Slawson,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Mousa Dagher,SAC,108,95,0.999,0.999,31.1

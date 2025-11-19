@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:39,PHX,JaVale McGee,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,2,5,0.38,0.367,10:39
+1,10:21,MEM,Steven Adams,Personal Take Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,3,5,0.392,0.391,10:21
+1,10:04,PHX,JaVale McGee,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,3,5,0.417,0.417,10:07
+1,7:53,MEM,Jaren Jackson Jr.,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,10,13,0.37,0.367,7:59
+1,5:52,PHX,Chris Paul,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,10,15,0.381,0.341,5:54
+1,5:13,MEM,De'Anthony Melton,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,12,17,0.32,0.316,5:20
+1,1:47,PHX,Abdel Nader,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,20,28,0.256,0.245,1:47
+1,29.8,PHX,Cameron Johnson,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,23,33,0.256,0.222,30.3
+2,10:43,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,23,38,0.11,0.122,10:43
+2,8:31,PHX,JaVale McGee,Offensive Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,25,41,0.105,0.093,8:35
+2,7:20,PHX,Mikal Bridges,Offensive Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,30,43,0.15,0.131,7:33
+2,7:04,PHX,Jalen Smith,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,30,43,0.139,0.149,7:04
+2,5:58,MEM,Desmond Bane,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,35,45,0.168,0.204,5:58
+2,5:00,MEM,Ja Morant,Personal Take Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,35,50,0.095,0.093,5:01
+2,4:06,PHX,Devin Booker,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,35,52,0.079,0.079,4:07
+2,3:24,MEM,Steven Adams,Loose Ball Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,35,52,0.071,0.065,3:24
+2,2:43,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,37,58,0.031,0.038,2:50
+2,2:10,MEM,Kyle Anderson,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,37,58,0.023,0.03,2:12
+2,1:09,PHX,Mikal Bridges,Personal Take Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,37,60,0.031,0.023,1:09
+2,57.4,PHX,Mikal Bridges,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,37,60,0.027,0.031,1:09
+3,10:42,MEM,Desmond Bane,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,45,62,0.049,0.049,10:47
+3,10:02,PHX,Devin Booker,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,47,65,0.055,0.038,10:02
+3,8:15,PHX,Mikal Bridges,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,49,73,0.01,0.011,8:29
+3,6:49,MEM,Ziaire Williams,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,49,75,0.002,0.003,6:58
+3,6:20,PHX,Jae Crowder,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,49,79,0.001,0.001,6:28
+3,5:36,PHX,Abdel Nader,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,51,81,0.001,0.001,5:43
+3,4:42,PHX,Jae Crowder,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,51,84,0.001,0.001,4:48
+3,4:14,PHX,JaVale McGee,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,51,87,0.001,0.001,4:28
+3,3:46,PHX,Abdel Nader,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,52,90,0.001,0.001,3:56
+3,2:13,PHX,Devin Booker,Technical Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,58,90,0.001,0.001,2:15
+3,43.7,MEM,Ziaire Williams,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,60,90,0.001,0.001,44.1
+3,32.0,PHX,Frank Kaminsky,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,60,92,0.001,0.001,43.7
+3,3.2,PHX,Cameron Payne,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,63,92,0.001,0.001,3.2
+4,8:17,MEM,Ja Morant,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,75,99,0.001,0.001,8:39
+4,7:47,MEM,Sam Merrill,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,78,101,0.001,0.001,7:57
+4,7:18,MEM,John Konchar,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,78,101,0.001,0.001,7:30
+4,6:27,MEM,Brandon Clarke,Shooting Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,80,106,0.001,0.001,6:27
+4,5:21,PHX,Chris Paul,Personal Take Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,83,107,0.001,0.001,5:21
+4,4:00,PHX,Cameron Payne,Personal Foul,Foul,David Guthrie,Mark Lindsay,Jonathan Sterling,MEM,87,110,0.001,0.001,4:04

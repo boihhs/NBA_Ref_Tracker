@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:17,DET,Isaiah Stewart,Offensive Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,0,2,0.606,0.584,11:21
+1,6:46,DET,Saddiq Bey,Offensive Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,12,13,0.619,0.588,6:56
+1,5:59,DET,Frank Jackson,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,12,15,0.603,0.565,6:07
+1,5:47,CHI,Javonte Green,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,14,15,0.59,0.589,5:59
+1,5:18,DET,Kelly Olynyk,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,14,15,0.612,0.614,5:20
+1,2:32,DET,Josh Jackson,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,21,23,0.617,0.578,2:40
+1,1:49,CHI,Alize Johnson,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,24,23,0.587,0.627,1:56
+1,1:10,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,26,25,0.608,0.657,1:10
+1,6.0,CHI,Troy Brown Jr.,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,31,27,0.663,0.704,18.1
+2,11:39,CHI,DeMar DeRozan,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,31,28,0.675,0.675,11:39
+2,10:44,CHI,Lonzo Ball,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,33,30,0.636,0.674,11:02
+2,9:49,DET,Josh Jackson,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,33,33,0.658,0.62,9:52
+2,9:31,DET,Hamidou Diallo,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,34,33,0.684,0.645,9:36
+2,8:38,DET,Hamidou Diallo,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,38,35,0.694,0.696,8:41
+2,8:33,DET,Killian Hayes,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,38,35,0.733,0.694,8:38
+2,8:07,CHI,Lonzo Ball,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,40,35,0.72,0.72,8:18
+2,7:00,CHI,Zach LaVine,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,40,35,0.681,0.719,7:02
+2,6:56,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,40,35,0.681,0.681,7:00
+2,6:22,DET,Killian Hayes,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,40,39,0.683,0.639,6:31
+2,3:36,DET,Jerami Grant,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,49,41,0.845,0.814,3:39
+2,1:39,DET,Jerami Grant,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,51,43,0.85,0.817,1:47
+2,58.7,DET,Frank Jackson,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,53,43,0.876,0.862,1:01
+3,9:27,DET,Killian Hayes,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,57,45,0.905,0.905,9:33
+3,2:51,CHI,Javonte Green,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,71,47,0.996,0.996,2:51
+3,2:29,CHI,DeMar DeRozan,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,71,49,0.993,0.993,2:32
+3,2:01,DET,Hamidou Diallo,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,73,49,0.998,0.997,2:01
+3,1:43,CHI,Javonte Green,Away from Play Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,74,51,0.996,0.997,1:43
+3,1:23,DET,Trey Lyles,Offensive Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,74,52,0.996,0.994,1:27
+4,9:36,DET,Luka Garza,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,85,58,0.999,0.999,9:38
+4,9:14,CHI,Javonte Green,Personal Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,87,58,0.999,0.999,9:19
+4,6:35,CHI,Nikola Vucevic,Flagrant Foul Type 1,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,89,66,0.999,0.999,6:45
+4,6:02,CHI,Lonzo Ball,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,89,72,0.996,0.997,6:02
+4,4:57,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Eric Dalen,Ray Acosta,CHI,91,75,0.991,0.999,6:35

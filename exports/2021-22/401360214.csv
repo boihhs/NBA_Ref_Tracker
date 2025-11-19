@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:49,PHX,JaVale McGee,Shooting Foul,Foul,,,,PHX,7,5,0.634,0.674,9:49
+1,7:45,PHX,Chris Paul,Shooting Foul,Foul,,,,PHX,11,8,0.635,0.67,7:49
+1,3:44,BOS,Grant Williams,Offensive Foul,Foul,,,,PHX,17,20,0.533,0.506,3:53
+1,3:34,BOS,Dennis Schroder,Personal Foul,Foul,,,,PHX,17,20,0.531,0.533,3:44
+1,6.3,BOS,Aaron Nesmith,Personal Foul,Foul,,,,PHX,25,24,0.672,0.632,13.5
+2,8:00,PHX,JaVale McGee,Personal Take Foul,Foul,,,,PHX,32,30,0.627,0.627,8:00
+2,7:37,BOS,Al Horford,Personal Foul,Foul,,,,PHX,32,30,0.653,0.653,7:40
+2,7:36,BOS,Aaron Nesmith,Shooting Foul,Foul,,,,PHX,34,30,0.727,0.68,7:36
+2,6:30,BOS,Romeo Langford,Personal Foul,Foul,,,,PHX,37,30,0.78,0.783,6:46
+2,5:43,PHX,Jalen Smith,Shooting Foul,Foul,,,,PHX,42,32,0.808,0.844,5:43
+2,5:11,PHX,Landry Shamet,Personal Foul,Foul,,,,PHX,45,33,0.863,0.861,5:26
+2,5:01,PHX,Mikal Bridges,Shooting Foul,Foul,,,,PHX,45,33,0.835,0.863,5:11
+2,3:45,BOS,Robert Williams III,Shooting Foul,Foul,,,,PHX,47,33,0.928,0.911,3:50
+2,3:25,PHX,Jalen Smith,Offensive Foul,Foul,,,,PHX,49,33,0.923,0.934,3:30
+2,2:48,PHX,Mikal Bridges,Shooting Foul,Foul,,,,PHX,52,33,0.94,0.953,3:04
+2,2:33,BOS,Dennis Schroder,Shooting Foul,Foul,,,,PHX,52,33,0.97,0.96,2:46
+2,1:42,PHX,Jae Crowder,Shooting Foul,Foul,,,,PHX,57,33,0.976,0.982,2:05
+2,1:42,PHX,Jae Crowder,Technical Foul,Foul,,,,PHX,57,33,0.978,0.976,1:42
+2,16.7,BOS,Romeo Langford,Offensive Foul,Foul,,,,PHX,57,39,0.957,0.949,32.9
+3,10:48,PHX,Chris Paul,Personal Foul,Foul,,,,PHX,60,41,0.963,0.963,10:50
+3,7:50,PHX,Chris Paul,Loose Ball Foul,Foul,,,,PHX,64,45,0.971,0.971,7:52
+3,7:50,PHX,Chris Paul,Technical Foul,Foul,,,,PHX,64,45,0.966,0.971,7:50
+3,5:54,BOS,Dennis Schroder,Offensive Foul,Foul,,,,PHX,64,50,0.943,0.93,6:01
+3,3:59,PHX,Cameron Payne,Personal Foul,Foul,,,,PHX,73,55,0.975,0.975,4:07
+3,3:45,PHX,Jalen Smith,Shooting Foul,Foul,,,,PHX,73,55,0.966,0.975,3:59
+3,3:32,BOS,Grant Williams,Personal Foul,Foul,,,,PHX,73,57,0.97,0.971,3:45
+3,3:16,PHX,Cameron Payne,Personal Foul,Foul,,,,PHX,73,57,0.949,0.964,3:20
+3,3:16,PHX,Mikal Bridges,Technical Foul,Foul,,,,PHX,73,57,0.956,0.964,3:16
+3,2:43,BOS,Marcus Smart,Shooting Foul,Foul,,,,PHX,75,61,0.969,0.957,2:59
+3,2:30,PHX,Mikal Bridges,Personal Foul,Foul,,,,PHX,77,61,0.952,0.967,2:43
+3,2:03,BOS,Jayson Tatum,Offensive Foul,Foul,,,,PHX,77,63,0.961,0.95,2:04
+3,1:37,PHX,Cameron Johnson,Shooting Foul,Foul,,,,PHX,77,63,0.931,0.952,1:42
+3,1:20,BOS,Grant Williams,Shooting Foul,Foul,,,,PHX,77,65,0.958,0.939,1:37
+3,10.7,BOS,Jayson Tatum,Personal Foul,Foul,,,,PHX,82,69,0.972,0.957,27.6
+4,9:16,PHX,Landry Shamet,Personal Foul,Foul,,,,PHX,94,69,0.999,0.999,9:31
+4,8:51,BOS,Grant Williams,Personal Foul,Foul,,,,PHX,94,72,0.999,0.999,8:51
+4,8:50,PHX,Cameron Payne,Offensive Foul,Foul,,,,PHX,94,72,0.998,0.999,8:51
+4,8:09,PHX,Chris Paul,Personal Foul,Foul,,,,PHX,94,72,0.999,0.998,8:50
+4,5:00,BOS,Robert Williams III,Personal Foul,Foul,,,,PHX,102,80,0.999,0.999,5:00
+4,1:11,PHX,Ish Wainright,Shooting Foul,Foul,,,,PHX,111,84,0.999,0.999,1:18
+4,23.4,PHX,Ish Wainright,Shooting Foul,Foul,,,,PHX,111,88,0.999,0.999,23.4

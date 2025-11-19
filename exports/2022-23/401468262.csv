@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:16,BOS,Al Horford,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,2,4,0.463,0.464,10:18
+1,9:26,CLE,Donovan Mitchell,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,5,4,0.496,0.514,9:26
+1,8:45,CLE,Evan Mobley,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,8,6,0.542,0.542,8:45
+1,6:00,CLE,Evan Mobley,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,18,11,0.635,0.669,6:25
+1,5:30,BOS,Jaylen Brown,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,20,13,0.713,0.671,5:30
+1,4:04,BOS,Derrick White,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,21,13,0.722,0.722,4:20
+1,2:31,BOS,Grant Williams,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,23,18,0.691,0.622,5:36
+1,1:57,CLE,Dean Wade,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,28,18,0.713,0.75,2:10
+1,1:02,CLE,Cedi Osman,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,30,20,0.715,0.752,1:07
+1,50.8,BOS,Luke Kornet,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,32,22,0.793,0.752,50.8
+1,32.8,BOS,Grant Williams,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,33,24,0.789,0.757,38.2
+2,11:48,BOS,Marcus Smart,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,35,27,0.735,0.722,12:00
+2,11:35,CLE,Isaac Okoro,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,35,27,0.69,0.71,11:35
+2,8:00,CLE,Evan Mobley,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,43,38,0.638,0.666,8:12
+2,7:05,CLE,Caris LeVert,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,43,38,0.595,0.639,7:21
+2,5:30,BOS,Jaylen Brown,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,43,41,0.582,0.582,5:33
+2,4:08,CLE,Kevin Love,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,46,43,0.56,0.615,4:08
+2,3:37,CLE,Donovan Mitchell,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,46,44,0.502,0.553,3:39
+3,11:21,BOS,Marcus Smart,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,50,58,0.25,0.251,11:36
+3,11:13,BOS,Jaylen Brown,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,50,58,0.249,0.25,11:21
+3,9:38,BOS,Al Horford,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,53,61,0.288,0.242,9:40
+3,9:05,CLE,Darius Garland,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,54,64,0.128,0.158,9:07
+3,4:41,BOS,Marcus Smart,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,68,68,0.586,0.523,4:53
+3,3:30,BOS,Sam Hauser,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,72,71,0.631,0.568,3:31
+3,3:21,CLE,Caris LeVert,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,74,71,0.611,0.609,3:30
+3,2:59,BOS,Sam Hauser,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,74,74,0.59,0.523,3:07
+3,2:19,BOS,Malcolm Brogdon,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,76,74,0.679,0.612,2:24
+3,1:39,CLE,Dean Wade,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,79,74,0.636,0.698,1:46
+3,1:25,BOS,Derrick White,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,79,74,0.799,0.744,1:27
+3,1:09,BOS,Derrick White,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,80,74,0.832,0.786,1:11
+3,36.7,BOS,Sam Hauser,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,81,74,0.866,0.821,43.9
+3,26.6,CLE,Dean Wade,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,83,74,0.803,0.85,36.7
+4,11:47,CLE,Caris LeVert,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,83,76,0.723,0.81,12:00
+4,10:48,CLE,Jarrett Allen,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,83,82,0.461,0.574,10:48
+4,10:10,CLE,Caris LeVert,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,83,83,0.439,0.456,10:10
+4,7:50,BOS,Grant Williams,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,85,90,0.244,0.237,8:08
+4,6:42,BOS,Derrick White,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,89,92,0.391,0.268,6:42
+4,6:00,CLE,Dean Wade,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,90,92,0.229,0.325,6:04
+4,3:35,CLE,Darius Garland,Loose Ball Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,97,96,0.393,0.511,3:35
+4,3:22,CLE,Darius Garland,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,97,98,0.355,0.438,3:35
+4,2:48,BOS,Grant Williams,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,97,98,0.46,0.437,3:00
+4,2:26,BOS,Jaylen Brown,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,99,98,0.614,0.521,2:35
+4,1:21,CLE,Donovan Mitchell,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,104,102,0.545,0.724,1:21
+4,14.3,BOS,Jaylen Brown,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,106,105,0.867,0.644,24.7
+4,10.3,BOS,Grant Williams,Personal Take Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,106,105,0.878,0.867,14.3
+5,46.9,CLE,Jarrett Allen,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Brandon Adair,CLE,114,113,0.533,0.662,1:04

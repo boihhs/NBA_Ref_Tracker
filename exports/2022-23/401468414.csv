@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:26,PHX,Cameron Payne,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,5,4,0.781,0.812,8:26
+1,6:47,LAL,Austin Reaves,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,9,9,0.798,0.767,6:47
+1,6:07,PHX,Torrey Craig,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,10,11,0.727,0.763,6:07
+1,5:16,PHX,Devin Booker,Personal Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,13,13,0.759,0.759,5:23
+1,5:07,LAL,Russell Westbrook,Offensive Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,13,13,0.777,0.759,5:16
+1,3:12,LAL,Austin Reaves,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,20,17,0.845,0.823,3:19
+1,2:55,PHX,Damion Lee,Technical Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,22,19,0.79,0.821,2:55
+2,6:31,LAL,Wenyen Gabriel,Loose Ball Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,39,32,0.863,0.865,6:31
+2,5:11,PHX,Cameron Payne,Offensive Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,44,37,0.844,0.862,5:23
+2,4:03,PHX,Mikal Bridges,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,47,37,0.868,0.89,4:25
+2,2:27,PHX,Deandre Ayton,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,49,44,0.763,0.799,2:45
+2,1:40,PHX,Devin Booker,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,49,48,0.649,0.693,1:41
+2,49.7,PHX,Deandre Ayton,Personal Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,49,50,0.576,0.629,56.4
+2,7.5,PHX,Deandre Ayton,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,51,52,0.567,0.861,3:49
+3,7:06,PHX,Cameron Payne,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,65,57,0.821,0.856,7:07
+3,6:46,PHX,Deandre Ayton,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,65,59,0.768,0.81,6:49
+3,6:34,LAL,Austin Reaves,Personal Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,65,61,0.781,0.782,6:46
+3,5:25,PHX,Mikal Bridges,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,71,61,0.867,0.896,5:31
+3,5:14,PHX,Cameron Payne,Offensive Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,71,63,0.857,0.878,5:25
+3,4:46,PHX,Torrey Craig,Loose Ball Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,71,66,0.73,0.778,4:46
+3,3:24,PHX,Devin Booker,Personal Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,75,71,0.69,0.747,3:44
+3,1:29,PHX,Ish Wainright,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,78,77,0.584,0.667,1:29
+4,10:34,LAL,Patrick Beverley,Offensive Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,88,81,0.881,0.85,10:42
+4,9:48,LAL,Thomas Bryant,Offensive Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,92,81,0.957,0.944,9:56
+4,9:35,LAL,Anthony Davis,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,92,81,0.974,0.957,9:48
+4,9:11,LAL,Austin Reaves,Personal Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,92,83,0.938,0.931,9:27
+4,8:46,PHX,Ish Wainright,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,92,83,0.871,0.917,8:49
+4,8:06,LAL,Anthony Davis,Offensive Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,96,84,0.976,0.964,8:15
+4,6:57,PHX,Cameron Payne,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,98,88,0.926,0.946,6:57
+4,6:45,LAL,Patrick Beverley,Personal Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,98,90,0.935,0.926,6:57
+4,5:20,PHX,Mikal Bridges,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,100,92,0.861,0.92,5:29
+4,3:55,PHX,Devin Booker,Flagrant Foul Type 1,Foul,Marc Davis,Rodney Mott,John Butler,PHX,106,96,0.97,0.968,4:07
+4,1:40,PHX,Devin Booker,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,113,102,0.989,0.992,1:56
+4,43.7,PHX,Devin Booker,Shooting Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,115,105,0.992,0.995,52.5
+4,35.8,LAL,Austin Reaves,Personal Foul,Foul,Marc Davis,Rodney Mott,John Butler,PHX,115,105,0.999,0.999,35.8

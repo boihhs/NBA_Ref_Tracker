@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:09,CLE,Evan Mobley,Shooting Foul,Foul,,,,NY,0,2,0.555,0.518,11:13
+1,10:36,CLE,Donovan Mitchell,Shooting Foul,Foul,,,,NY,2,4,0.554,0.517,10:37
+1,6:09,NY,Quentin Grimes,Shooting Foul,Foul,,,,NY,9,8,0.524,0.563,6:14
+1,5:13,CLE,Caris LeVert,Shooting Foul,Foul,,,,NY,9,8,0.627,0.588,5:14
+1,2:56,CLE,Ricky Rubio,Personal Foul,Foul,,,,NY,14,12,0.653,0.615,3:05
+2,11:05,CLE,Ricky Rubio,Personal Foul,Foul,,,,NY,17,17,0.556,0.557,11:25
+2,9:41,CLE,Darius Garland,Offensive Foul,Foul,,,,NY,21,19,0.614,0.586,9:58
+2,9:27,NY,Obi Toppin,Shooting Foul,Foul,,,,NY,21,19,0.563,0.586,9:31
+2,8:09,NY,Josh Hart,Loose Ball Foul,Foul,,,,NY,25,24,0.554,0.553,8:09
+2,7:27,CLE,Isaac Okoro,Personal Foul,Foul,,,,NY,25,24,0.581,0.583,7:27
+2,6:44,NY,Josh Hart,Shooting Foul,Foul,,,,NY,27,24,0.569,0.612,6:45
+2,5:03,NY,Julius Randle,Personal Foul,Foul,,,,NY,32,27,0.629,0.674,5:10
+2,2:01,NY,RJ Barrett,Personal Foul,Foul,,,,NY,38,29,0.75,0.809,2:13
+3,7:02,NY,Jalen Brunson,Personal Foul,Foul,,,,NY,56,42,0.918,0.917,7:11
+3,5:59,NY,Julius Randle,Personal Foul,Foul,,,,NY,58,44,0.924,0.923,6:02
+3,5:33,NY,RJ Barrett,Shooting Foul,Foul,,,,NY,58,46,0.878,0.911,5:33
+3,4:32,CLE,Evan Mobley,Shooting Foul,Foul,,,,NY,61,50,0.925,0.898,4:50
+3,3:48,CLE,Caris LeVert,Personal Foul,Foul,,,,NY,62,53,0.861,0.858,4:09
+3,2:47,CLE,Danny Green,Shooting Foul,Foul,,,,NY,62,53,0.9,0.868,2:51
+3,2:31,NY,RJ Barrett,Personal Foul,Foul,,,,NY,64,53,0.856,0.89,2:47
+3,1:39,NY,RJ Barrett,Shooting Foul,Foul,,,,NY,67,55,0.887,0.914,2:03
+3,1:01,CLE,Donovan Mitchell,Personal Foul,Foul,,,,NY,69,55,0.974,0.963,1:02
+3,13.1,CLE,Cedi Osman,Personal Foul,Foul,,,,NY,71,55,0.988,0.981,32.0
+4,11:05,CLE,Evan Mobley,Shooting Foul,Foul,,,,NY,72,57,0.987,0.971,11:10
+4,9:35,CLE,Caris LeVert,Personal Foul,Foul,,,,NY,75,59,0.99,0.989,9:42
+4,8:00,NY,Jalen Brunson,Loose Ball Foul,Foul,,,,NY,80,62,0.995,0.995,8:01
+4,7:32,CLE,Darius Garland,Shooting Foul,Foul,,,,NY,82,62,0.999,0.998,7:32
+4,4:42,CLE,Donovan Mitchell,Shooting Foul,Foul,,,,NY,90,68,0.999,0.999,4:42
+4,3:10,CLE,Robin Lopez,Shooting Foul,Foul,,,,NY,96,70,0.999,0.999,3:10
+4,2:30,NY,Obi Toppin,Personal Foul,Foul,,,,NY,97,70,0.999,0.999,2:38
+4,2:18,NY,DaQuan Jeffries,Shooting Foul,Foul,,,,NY,97,70,0.999,0.999,2:18
+4,2:00,NY,DaQuan Jeffries,Shooting Foul,Foul,,,,NY,97,72,0.999,0.999,2:04
+4,56.1,CLE,Robin Lopez,Offensive Foul,Foul,,,,NY,99,76,0.999,0.999,59.0
+4,45.1,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,,,,NY,99,76,0.999,0.999,45.1

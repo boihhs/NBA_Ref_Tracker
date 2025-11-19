@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,MEM,John Konchar,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,4,6,0.666,0.668,10:30
+1,8:03,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,10,12,0.632,0.659,8:28
+1,7:18,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,10,15,0.578,0.58,7:18
+1,3:07,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,17,29,0.306,0.354,3:07
+1,1.0,MIN,Kyle Anderson,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,30,29,0.631,0.673,10.0
+2,10:32,MEM,GG Jackson,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,32,32,0.666,0.668,10:46
+2,8:59,MEM,GG Jackson,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,32,34,0.646,0.604,9:05
+2,4:41,MEM,David Roddy,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,38,42,0.519,0.52,5:01
+2,3:30,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,42,46,0.557,0.513,3:49
+2,2:43,MEM,Santi Aldama,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,43,48,0.474,0.436,2:52
+2,2:29,MEM,Santi Aldama,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,43,48,0.521,0.473,2:29
+2,1:36,MIN,Rudy Gobert,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,47,53,0.343,0.394,1:37
+2,1:32,MIN,Anthony Edwards,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,47,53,0.342,0.343,1:36
+3,11:42,MEM,John Konchar,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,50,55,0.444,0.438,12:00
+3,11:32,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,52,55,0.545,0.48,11:32
+3,9:39,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,57,63,0.448,0.395,9:50
+3,8:59,MIN,Mike Conley,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,58,63,0.331,0.385,9:01
+3,8:28,MEM,Xavier Tillman,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,60,65,0.42,0.383,8:41
+3,8:17,MEM,Santi Aldama,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,62,65,0.525,0.455,8:17
+3,8:03,MIN,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,63,67,0.388,0.454,8:03
+3,7:45,MEM,John Konchar,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,63,68,0.474,0.416,8:03
+3,5:13,MEM,John Konchar,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,71,71,0.657,0.6,5:32
+3,3:49,MEM,Luke Kennard,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,72,73,0.615,0.506,4:02
+3,2:34,MEM,Vince Williams Jr.,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,73,78,0.431,0.368,2:51
+3,1:48,MIN,Anthony Edwards,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,77,81,0.287,0.353,1:53
+3,1:05,MIN,Naz Reid,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,77,81,0.278,0.345,1:12
+3,52.2,MEM,David Roddy,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,77,82,0.417,0.593,3:49
+3,31.0,MIN,Kyle Anderson,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,78,84,0.222,0.301,31.0
+3,5.1,MIN,Kyle Anderson,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,81,84,0.313,0.385,17.1
+4,11:44,MEM,Ziaire Williams,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,81,86,0.331,0.311,12:00
+4,10:47,MIN,Naz Reid,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,85,88,0.28,0.365,11:06
+4,10:09,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,88,89,0.515,0.46,10:15
+4,7:07,MIN,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,99,93,0.742,0.821,7:18
+4,5:46,MEM,Santi Aldama,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,101,97,0.8,0.788,6:11
+4,2:25,MEM,Vince Williams Jr.,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,110,103,0.961,0.956,2:35
+4,1:22,MEM,Vince Williams Jr.,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Scott Twardoski,MIN,117,103,0.999,0.999,1:22

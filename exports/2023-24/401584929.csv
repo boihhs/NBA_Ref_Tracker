@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:57,NO,Herbert Jones,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,2,0,0.548,0.585,11:12
+1,10:04,MIN,Rudy Gobert,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,2,3,0.552,0.534,10:04
+1,9:37,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,5,3,0.625,0.583,9:37
+1,8:56,MIN,Rudy Gobert,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,6,3,0.666,0.631,9:02
+1,7:13,NO,Brandon Ingram,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,12,11,0.516,0.555,7:30
+1,6:37,MIN,Karl-Anthony Towns,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,14,13,0.619,0.581,6:51
+1,5:10,NO,Brandon Ingram,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,16,13,0.607,0.605,5:22
+1,2:46,NO,Naji Marshall,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,21,19,0.539,0.58,3:00
+1,2:21,NO,Jose Alvarado,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,21,21,0.48,0.525,2:23
+1,2:11,MIN,Jaden McDaniels,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,21,23,0.537,0.496,2:21
+1,1:31,NO,Jose Alvarado,Loose Ball Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,25,23,0.538,0.58,1:31
+1,51.0,MIN,Shake Milton,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,27,27,0.595,0.55,1:00
+2,10:51,NO,Jonas Valanciunas,Offensive Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,31,31,0.519,0.55,11:06
+2,10:22,MIN,Nickeil Alexander-Walker,Loose Ball Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,31,33,0.489,0.488,10:22
+2,8:10,MIN,Troy Brown Jr.,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,36,40,0.469,0.426,8:32
+2,5:05,MIN,Jaden McDaniels,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,43,45,0.504,0.449,5:05
+2,3:19,NO,Dyson Daniels,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,47,47,0.484,0.544,3:19
+2,2:39,NO,Herbert Jones,Loose Ball Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,50,49,0.544,0.543,2:39
+2,2:08,NO,Dyson Daniels,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,52,49,0.617,0.608,2:21
+2,2:01,NO,Jose Alvarado,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,52,50,0.577,0.577,2:08
+2,1:15,MIN,Karl-Anthony Towns,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,54,50,0.719,0.674,1:22
+2,18.1,NO,Brandon Ingram,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,56,52,0.651,0.641,35.0
+3,11:27,MIN,Rudy Gobert,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,61,52,0.834,0.797,11:27
+3,10:42,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,62,54,0.814,0.798,10:42
+3,10:15,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,64,56,0.797,0.798,10:31
+3,9:42,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,64,56,0.834,0.8,9:51
+3,9:33,NO,Zion Williamson,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,66,56,0.822,0.824,9:42
+3,8:36,MIN,Rudy Gobert,Loose Ball Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,68,59,0.862,0.83,8:36
+3,6:26,MIN,Naz Reid,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,75,63,0.926,0.902,6:33
+3,6:15,NO,Herbert Jones,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,77,63,0.919,0.919,6:26
+3,5:19,MIN,Kyle Anderson,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,77,63,0.955,0.938,5:24
+3,4:20,MIN,Shake Milton,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,78,69,0.888,0.854,4:33
+3,3:28,MIN,Shake Milton,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,79,71,0.827,0.835,3:33
+3,3:15,MIN,Naz Reid,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,80,71,0.896,0.861,3:28
+3,2:29,NO,Dyson Daniels,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,81,73,0.761,0.813,2:32
+3,1:43,MIN,Naz Reid,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,85,78,0.842,0.784,1:43
+3,1:14,MIN,Shake Milton,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,85,80,0.808,0.752,1:28
+4,9:48,MIN,Shake Milton,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,95,86,0.929,0.884,9:48
+4,9:30,NO,CJ McCollum,Offensive Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,96,86,0.914,0.933,9:37
+4,8:46,NO,Jonas Valanciunas,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,99,86,0.962,0.964,9:06
+4,8:39,MIN,Karl-Anthony Towns,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,99,86,0.977,0.975,8:39
+4,7:29,NO,CJ McCollum,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,99,89,0.885,0.931,7:29
+4,5:59,MIN,Mike Conley,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,101,91,0.979,0.971,5:59
+4,5:47,NO,Jonas Valanciunas,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,104,93,0.946,0.975,5:47
+4,4:51,MIN,Jaden McDaniels,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,108,94,0.996,0.991,4:51
+4,4:01,MIN,Karl-Anthony Towns,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,109,97,0.996,0.992,4:06
+4,3:29,NO,Dyson Daniels,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,111,97,0.99,0.996,3:36
+4,2:35,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,113,99,0.999,0.998,2:53
+4,2:03,MIN,Jaden McDaniels,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,114,102,0.999,0.997,2:20
+4,51.0,NO,Herbert Jones,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,121,104,0.999,0.999,59.1
+4,28.2,NO,Naji Marshall,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,NO,121,106,0.999,0.999,28.2

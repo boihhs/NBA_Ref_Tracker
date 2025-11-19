@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:03,PHX,Chris Paul,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,0,0,0.784,0.786,11:21
+1,7:32,PHX,Jae Crowder,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,11,4,0.878,0.873,7:51
+1,6:58,PHX,Jae Crowder,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,15,6,0.894,0.896,7:08
+1,5:59,PHX,Deandre Ayton,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,17,8,0.898,0.903,5:59
+1,5:43,PHX,Chris Paul,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,19,9,0.887,0.904,5:53
+1,3:55,PHX,Deandre Ayton,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,24,15,0.88,0.901,3:55
+1,3:45,HOU,KJ Martin,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,24,16,0.888,0.89,3:55
+1,1:58,PHX,Cameron Johnson,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,26,22,0.786,0.814,1:59
+1,1:30,PHX,Abdel Nader,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,28,23,0.837,0.829,1:30
+1,22.3,PHX,JaVale McGee,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,33,29,0.794,0.825,22.3
+1,8.0,HOU,David Nwaba,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,33,30,0.831,0.807,22.3
+2,10:19,HOU,Eric Gordon,Offensive Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,36,35,0.761,0.737,10:33
+2,9:38,HOU,David Nwaba,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,36,35,0.756,0.759,9:48
+2,7:59,HOU,Alperen Sengun,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,41,40,0.748,0.751,8:16
+2,7:52,HOU,Alperen Sengun,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,41,40,0.78,0.748,7:59
+2,3:40,PHX,Elfrid Payton,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,48,52,0.561,0.58,3:40
+2,2:18,PHX,Elfrid Payton,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,52,58,0.435,0.498,2:18
+2,1:00,PHX,Devin Booker,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,56,61,0.429,0.485,1:06
+2,57.5,HOU,Kevin Porter Jr.,Offensive Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,56,61,0.521,0.429,1:00
+2,32.3,HOU,Jae'Sean Tate,Loose Ball Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,56,61,0.567,0.516,32.3
+3,9:22,HOU,Christian Wood,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,58,66,0.423,0.366,9:26
+3,8:25,PHX,Mikal Bridges,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,64,68,0.47,0.472,8:37
+3,8:25,PHX,Jae Crowder,Technical Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,64,68,0.44,0.47,8:25
+3,7:41,PHX,Deandre Ayton,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,64,69,0.363,0.465,8:03
+3,7:36,HOU,Kevin Porter Jr.,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,66,70,0.502,0.502,7:41
+3,7:09,PHX,Deandre Ayton,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,68,72,0.455,0.497,7:09
+3,6:47,PHX,Devin Booker,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,68,72,0.39,0.454,6:56
+3,5:33,HOU,Kevin Porter Jr.,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,70,76,0.396,0.397,5:33
+3,3:48,HOU,Christian Wood,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,75,79,0.492,0.46,3:48
+3,3:30,HOU,KJ Martin,Loose Ball Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,76,79,0.566,0.5,3:30
+3,3:15,HOU,Christian Wood,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,78,81,0.497,0.498,3:20
+3,47.3,HOU,Alperen Sengun,Offensive Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,91,83,0.89,0.867,1:00
+4,11:00,HOU,Alperen Sengun,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,96,88,0.933,0.901,11:13
+4,9:53,HOU,Alperen Sengun,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,101,90,0.974,0.957,10:02
+4,9:39,PHX,Abdel Nader,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,103,90,0.958,0.969,9:39
+4,8:13,PHX,Abdel Nader,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,108,95,0.971,0.973,8:25
+4,8:01,HOU,Christian Wood,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,108,95,0.99,0.981,8:04
+4,7:43,PHX,Chris Paul,Loose Ball Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,110,95,0.987,0.988,7:43
+4,6:44,PHX,Abdel Nader,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,110,97,0.962,0.979,6:47
+4,6:07,PHX,Elfrid Payton,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,110,97,0.966,0.979,6:15
+4,5:02,PHX,Devin Booker,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,110,101,0.899,0.937,5:06
+4,4:30,PHX,Deandre Ayton,Offensive Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,110,103,0.829,0.919,4:41
+4,4:06,HOU,Jalen Green,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,110,103,0.959,0.926,4:08
+4,3:36,HOU,Kevin Porter Jr.,Personal Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,112,103,0.986,0.97,3:48
+4,1:28,PHX,Deandre Ayton,Shooting Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,121,106,0.999,0.999,1:38
+4,1:28,PHX,Deandre Ayton,Technical Foul,Foul,James Capers,Michael Smith,Andy Nagy,PHX,121,106,0.999,0.999,1:28

@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:43,DEN,Bruce Brown,Offensive Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,0,0,0.644,0.662,11:44
+1,10:43,CHA,LaMelo Ball,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,0,0,0.66,0.659,10:44
+1,8:16,CHA,Mason Plumlee,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,2,5,0.618,0.582,8:24
+1,6:56,CHA,Mason Plumlee,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,5,9,0.569,0.523,6:56
+1,6:43,CHA,Mason Plumlee,Offensive Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,6,9,0.574,0.547,6:56
+1,5:22,DEN,Aaron Gordon,Technical Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,9,9,0.601,0.621,5:24
+1,2:44,CHA,Jalen McDaniels,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,15,17,0.625,0.588,2:58
+2,10:19,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,22,30,0.319,0.36,10:31
+2,9:11,DEN,Nikola Jokic,Technical Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,24,34,0.277,0.324,9:11
+2,9:06,DEN,DEN,Technical Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,24,35,0.249,0.271,9:11
+2,8:31,CHA,Jalen McDaniels,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,26,36,0.341,0.319,8:31
+2,8:31,CHA,Jalen McDaniels,Technical Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,26,36,0.34,0.341,8:31
+2,7:58,CHA,Nick Richards,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,29,39,0.359,0.317,8:12
+2,7:37,CHA,Kai Jones,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,30,39,0.341,0.342,7:46
+2,5:28,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,37,45,0.304,0.357,5:28
+2,5:13,CHA,Kai Jones,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,37,46,0.37,0.327,5:28
+2,4:35,CHA,Kai Jones,Loose Ball Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,41,48,0.432,0.349,4:35
+2,3:46,DEN,Aaron Gordon,Loose Ball Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,41,48,0.343,0.343,3:46
+2,1:58,CHA,P.J. Washington,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,49,51,0.559,0.501,1:58
+2,1:35,CHA,Nick Richards,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,49,51,0.584,0.533,1:37
+2,5.0,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,55,51,0.644,0.692,29.0
+3,11:19,DEN,Nikola Jokic,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,58,52,0.751,0.753,11:19
+3,9:28,CHA,Mason Plumlee,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,65,57,0.849,0.808,9:28
+3,8:27,DEN,Bruce Brown,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,70,59,0.845,0.876,8:40
+3,7:12,DEN,Aaron Gordon,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,75,61,0.907,0.93,7:13
+3,6:12,CHA,Gordon Hayward,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,77,64,0.933,0.933,6:18
+3,4:52,DEN,Bruce Brown,Offensive Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,80,67,0.925,0.939,5:01
+3,4:26,CHA,LaMelo Ball,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,82,70,0.936,0.912,4:26
+3,3:41,CHA,Jalen McDaniels,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,83,72,0.926,0.915,3:41
+3,2:45,DEN,Bones Hyland,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,90,74,0.959,0.965,2:59
+3,1:14,CHA,Theo Maledon,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,94,78,0.986,0.979,1:25
+4,11:45,DEN,DeAndre Jordan,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,94,80,0.94,0.964,12:00
+4,11:30,DEN,DeAndre Jordan,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,94,82,0.919,0.937,11:30
+4,8:45,CHA,JT Thor,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,96,88,0.933,0.895,8:52
+4,7:55,CHA,Nick Richards,Loose Ball Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,97,90,0.885,0.879,7:55
+4,7:37,DEN,Bruce Brown,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,97,90,0.837,0.85,7:38
+4,7:03,CHA,Jalen McDaniels,Offensive Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,97,90,0.887,0.85,7:08
+4,6:25,DEN,Nikola Jokic,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,100,92,0.861,0.92,6:25
+4,5:27,CHA,Nick Richards,Shooting Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,100,95,0.894,0.821,5:47
+4,4:51,DEN,Nikola Jokic,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,102,95,0.815,0.876,5:05
+4,4:23,DEN,Aaron Gordon,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,105,97,0.864,0.913,4:38
+4,42.0,CHA,Mason Plumlee,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,114,109,0.978,0.935,42.0
+4,40.0,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,114,109,0.979,0.978,42.0
+4,34.1,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,115,111,0.962,0.911,35.1
+4,16.1,CHA,P.J. Washington,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,116,113,0.959,0.875,28.0
+4,13.0,CHA,Gordon Hayward,Personal Foul,Foul,Brian Forte,Leon Wood,Brandon Adair,DEN,117,115,0.932,0.83,13.1

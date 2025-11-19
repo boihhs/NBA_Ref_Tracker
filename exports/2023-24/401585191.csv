@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:23,BOS,Jrue Holiday,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,8,8,0.378,0.337,7:23
+1,7:13,TOR,Immanuel Quickley,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,9,8,0.325,0.358,7:23
+1,3:08,TOR,Dennis Schroder,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,18,24,0.199,0.234,3:08
+1,22.1,TOR,Thaddeus Young,Personal Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,25,29,0.227,0.258,29.1
+2,11:46,BOS,Luke Kornet,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,25,29,0.32,0.273,12:00
+2,6:16,TOR,Chris Boucher,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,38,40,0.279,0.319,6:31
+2,4:10,TOR,Jontay Porter,Personal Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,42,47,0.243,0.242,4:25
+2,3:47,BOS,Payton Pritchard,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,42,47,0.311,0.268,3:56
+2,3:34,TOR,Dennis Schroder,Personal Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,44,47,0.299,0.296,3:47
+2,3:24,TOR,RJ Barrett,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,44,49,0.225,0.268,3:24
+2,2:16,BOS,Oshae Brissett,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,46,53,0.258,0.218,2:18
+2,2:02,TOR,Jontay Porter,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,48,53,0.206,0.243,2:16
+2,1:40,TOR,Jontay Porter,Personal Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,48,55,0.163,0.194,1:49
+2,56.0,BOS,Jrue Holiday,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,48,59,0.161,0.134,1:06
+2,48.1,TOR,Immanuel Quickley,Personal Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,50,59,0.122,0.152,56.0
+3,11:50,TOR,Jontay Porter,Offensive Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,55,61,0.212,0.231,12:00
+3,10:32,BOS,Al Horford,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,57,61,0.35,0.303,10:34
+3,8:53,BOS,Al Horford,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,62,64,0.425,0.369,8:56
+3,8:01,BOS,Kristaps Porzingis,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,68,64,0.628,0.564,8:01
+3,7:27,BOS,Al Horford,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,71,64,0.74,0.682,7:27
+3,4:48,TOR,RJ Barrett,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,73,68,0.565,0.625,4:56
+3,4:30,TOR,RJ Barrett,Personal Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,73,70,0.548,0.545,4:37
+3,4:24,TOR,Thaddeus Young,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,73,72,0.43,0.505,4:24
+3,3:11,TOR,Pascal Siakam,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,75,73,0.445,0.509,3:22
+3,2:44,TOR,Scottie Barnes,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,75,75,0.358,0.425,2:48
+3,1:32,BOS,Jayson Tatum,Personal Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,75,79,0.361,0.298,1:39
+4,10:43,TOR,Dennis Schroder,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,75,84,0.058,0.088,10:48
+4,10:31,BOS,Payton Pritchard,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,75,86,0.104,0.067,10:43
+4,9:34,TOR,RJ Barrett,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,78,88,0.047,0.081,9:34
+4,7:12,TOR,Dennis Schroder,Personal Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,84,94,0.039,0.043,7:18
+4,6:24,BOS,Jayson Tatum,Personal Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,86,94,0.102,0.093,6:24
+4,5:43,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,88,97,0.073,0.065,5:43
+4,5:10,TOR,Immanuel Quickley,Loose Ball Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,88,100,0.007,0.021,5:10
+4,4:00,BOS,Kristaps Porzingis,Offensive Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,90,100,0.03,0.019,4:12
+4,3:24,BOS,Derrick White,Shooting Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,90,100,0.053,0.024,3:30
+4,50.1,TOR,Scottie Barnes,Personal Foul,Foul,Brett Nansel,Tyler Ford,Che Flores,TOR,96,103,0.006,0.019,57.1

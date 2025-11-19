@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:33,DET,Cade Cunningham,Offensive Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,0,0,0.863,0.865,12:00
+1,11:22,DET,Bojan Bogdanovic,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,0,0,0.863,0.863,11:33
+1,10:52,DET,Jaden Ivey,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,2,0,0.898,0.884,10:56
+1,7:48,MIL,Grayson Allen,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,11,4,0.899,0.913,7:55
+1,6:13,DET,Isaiah Stewart,Offensive Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,18,8,0.94,0.933,6:24
+1,6:00,DET,Bojan Bogdanovic,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,20,8,0.951,0.945,6:00
+1,6:00,DET,Saddiq Bey,Loose Ball Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,20,8,0.959,0.951,6:00
+1,4:10,MIL,Wesley Matthews,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,26,12,0.955,0.955,4:24
+1,1:41,DET,Hamidou Diallo,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,31,20,0.95,0.941,1:47
+1,1:13,DET,Isaiah Livers,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,32,20,0.955,0.947,1:20
+1,52.0,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,34,20,0.943,0.954,1:00
+2,11:49,MIL,George Hill,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,34,23,0.931,0.935,0.0
+2,10:44,DET,Hamidou Diallo,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,39,25,0.961,0.952,10:44
+2,9:11,DET,Isaiah Livers,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,44,32,0.942,0.944,9:29
+2,8:09,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,45,35,0.939,0.928,8:23
+2,7:44,DET,Bojan Bogdanovic,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,47,35,0.941,0.943,7:53
+2,5:31,MIL,Jevon Carter,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,52,42,0.905,0.925,5:31
+2,4:16,MIL,Brook Lopez,Offensive Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,54,44,0.913,0.923,4:25
+2,4:06,MIL,Brook Lopez,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,54,44,0.912,0.945,10:51
+2,2:47,DET,Isaiah Stewart,Offensive Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,57,44,0.949,0.942,2:58
+2,2:15,DET,Cade Cunningham,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,57,46,0.932,0.932,2:25
+3,11:17,MIL,Jevon Carter,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,60,57,0.756,0.801,11:17
+3,10:11,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,62,61,0.764,0.742,10:11
+3,9:55,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,64,61,0.768,0.796,9:59
+3,8:25,DET,Bojan Bogdanovic,Technical Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,70,61,0.919,0.892,8:25
+3,8:00,DET,Saddiq Bey,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,71,63,0.892,0.893,8:04
+3,5:54,DET,Saddiq Bey,Loose Ball Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,79,65,0.964,0.965,5:55
+3,5:30,DET,Killian Hayes,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,79,65,0.974,0.964,5:36
+3,3:49,DET,Killian Hayes,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,82,69,0.971,0.96,4:04
+3,3:17,DET,Nerlens Noel,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,83,69,0.978,0.969,3:26
+3,3:06,MIL,Wesley Matthews,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,85,69,0.975,0.975,3:17
+3,1:26,DET,Jaden Ivey,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,85,71,0.982,0.973,1:38
+3,39.8,MIL,Serge Ibaka,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,86,73,0.941,0.959,41.2
+3,14.9,MIL,Jordan Nwora,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,88,75,0.952,0.961,14.9
+4,11:31,MIL,Jevon Carter,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,88,77,0.937,0.941,11:43
+4,11:27,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,88,79,0.878,0.924,11:27
+4,11:14,DET,Hamidou Diallo,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,88,80,0.908,0.903,11:27
+4,11:06,DET,Jaden Ivey,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,88,80,0.937,0.908,11:14
+4,10:32,MIL,Bobby Portis,Loose Ball Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,90,80,0.922,0.929,10:32
+4,9:47,MIL,Brook Lopez,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,90,80,0.892,0.928,9:56
+4,4:56,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,97,92,0.721,0.804,5:02
+4,3:39,DET,Saddiq Bey,Loose Ball Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,100,95,0.876,0.864,3:39
+4,2:52,MIL,Wesley Matthews,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,102,97,0.74,0.83,3:01
+4,2:36,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,102,99,0.876,0.779,2:52
+4,2:26,MIL,Brook Lopez,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,103,99,0.687,0.793,2:36
+4,1:28,MIL,Jrue Holiday,Personal Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,105,101,0.69,0.812,1:30
+4,1.5,DET,Saddiq Bey,Personal Take Foul,Foul,Dedric Taylor,Rodney Mott,J.T. Orr,MIL,108,105,0.996,0.985,1.9

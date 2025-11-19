@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:13,PHX,Deandre Ayton,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,2,0,0.402,0.385,11:23
+1,10:28,CLE,Darius Garland,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,6,2,0.377,0.411,10:49
+1,8:13,CLE,Dean Wade,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,12,12,0.327,0.325,8:18
+1,8:02,PHX,Devin Booker,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,12,14,0.304,0.304,8:11
+1,7:49,CLE,Dean Wade,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,12,14,0.294,0.282,7:54
+1,7:49,CLE,Darius Garland,Technical Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,12,14,0.268,0.294,7:49
+1,5:00,CLE,Isaac Okoro,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,19,24,0.199,0.226,5:05
+1,2:18,CLE,Lauri Markkanen,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,26,31,0.2,0.231,2:28
+1,1:30,PHX,Cameron Payne,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,28,32,0.31,0.274,1:40
+1,40.0,CLE,Cedi Osman,Offensive Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,30,34,0.254,0.275,51.3
+1,3.8,CLE,Cedi Osman,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,33,34,0.291,0.326,9.4
+2,11:48,PHX,Devin Booker,Offensive Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,33,36,0.304,0.288,0.0
+2,9:44,CLE,Kevin Love,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,38,38,0.32,0.359,9:57
+2,8:23,PHX,Deandre Ayton,Away from Play Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,40,40,0.394,0.396,8:23
+2,8:01,CLE,Darius Garland,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,43,40,0.411,0.453,8:03
+2,7:15,CLE,Darius Garland,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,45,45,0.349,0.4,7:15
+2,6:04,PHX,Chris Paul,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,51,48,0.545,0.497,6:11
+2,2:27,CLE,Dean Wade,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,56,55,0.37,0.418,2:29
+2,25.9,PHX,Devin Booker,Technical Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,64,61,0.524,0.493,26.6
+2,9.2,PHX,Mikal Bridges,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,65,61,0.587,0.534,25.9
+3,11:45,PHX,Jae Crowder,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,68,61,0.681,0.644,11:45
+3,11:30,CLE,Lauri Markkanen,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,68,61,0.642,0.643,11:43
+3,9:35,PHX,Chris Paul,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,68,65,0.548,0.549,9:55
+3,9:30,PHX,Deandre Ayton,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,68,65,0.602,0.548,9:35
+3,9:08,PHX,Mikal Bridges,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,69,67,0.569,0.513,9:16
+3,6:24,PHX,Deandre Ayton,Offensive Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,73,73,0.451,0.408,6:32
+3,5:02,CLE,Jarrett Allen,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,73,78,0.207,0.263,5:02
+3,2:34,PHX,JaVale McGee,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,78,82,0.357,0.296,2:41
+3,2:19,PHX,Cameron Johnson,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,80,82,0.446,0.376,2:21
+3,1:42,CLE,Kevin Love,Offensive Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,82,82,0.424,0.47,1:50
+4,11:48,PHX,Landry Shamet,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,86,87,0.448,0.434,12:00
+4,10:14,PHX,JaVale McGee,Offensive Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,86,92,0.205,0.17,10:22
+4,9:03,PHX,Chris Paul,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,86,94,0.241,0.131,9:12
+4,9:01,CLE,CLE,Technical Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,86,94,0.087,0.241,9:03
+4,7:06,CLE,Kevin Love,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,90,98,0.082,0.086,7:14
+4,5:53,CLE,Darius Garland,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,95,102,0.088,0.095,6:05
+4,5:00,PHX,JaVale McGee,Personal Take Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,97,102,0.213,0.195,5:03
+4,4:47,PHX,Mikal Bridges,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,97,102,0.3,0.213,5:00
+4,4:24,PHX,Jae Crowder,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,99,104,0.297,0.209,4:34
+4,4:14,CLE,Darius Garland,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,101,104,0.165,0.261,4:24
+4,1:17,CLE,Cedi Osman,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,109,111,0.151,0.271,1:22
+4,1:14,CLE,Darius Garland,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,109,111,0.149,0.151,1:17
+4,50.1,CLE,Ricky Rubio,Personal Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,109,113,0.049,0.105,50.1
+4,46.9,PHX,Deandre Ayton,Shooting Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,111,115,0.169,0.101,46.9
+4,8.8,CLE,Ricky Rubio,Personal Take Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,114,115,0.327,0.25,11.6
+4,6.5,PHX,Mikal Bridges,Personal Take Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,114,117,0.247,0.144,8.8
+4,5.3,CLE,Isaac Okoro,Personal Take Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,115,117,0.031,0.103,6.5
+4,4.6,PHX,Mikal Bridges,Personal Take Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,115,118,0.174,0.087,5.3
+4,3.8,CLE,Ricky Rubio,Personal Take Foul,Foul,Sean Corbin,Ray Acosta,Suyash Mehta,CLE,115,118,0.01,0.035,4.6

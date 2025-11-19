@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:28,MIL,Brook Lopez,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,2,0,0.56,0.56,9:33
+1,8:15,BKN,Bruce Brown,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,7,2,0.575,0.611,8:24
+1,4:10,BKN,Seth Curry,Personal Take Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,15,16,0.456,0.456,4:11
+1,2:21,MIL,Khris Middleton,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,19,21,0.455,0.456,2:29
+1,2:20,BKN,Nic Claxton,Offensive Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,19,21,0.428,0.455,2:21
+2,10:34,MIL,George Hill,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,32,25,0.745,0.709,10:49
+2,10:14,BKN,Kessler Edwards,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,35,27,0.69,0.736,10:14
+2,9:40,BKN,Kyrie Irving,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,37,28,0.698,0.736,9:54
+2,8:45,BKN,Kessler Edwards,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,42,32,0.728,0.715,8:45
+2,8:12,BKN,James Johnson,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,42,38,0.582,0.635,8:12
+2,7:35,MIL,Jrue Holiday,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,45,39,0.732,0.69,7:37
+2,5:51,BKN,Seth Curry,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,50,42,0.681,0.725,5:54
+2,5:13,BKN,Andre Drummond,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,50,44,0.624,0.668,5:25
+2,2:55,MIL,Khris Middleton,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,54,47,0.736,0.736,2:55
+2,2:42,MIL,Wesley Matthews,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,54,47,0.773,0.721,2:55
+3,10:53,BKN,Kevin Durant,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,62,58,0.624,0.621,10:55
+3,10:38,BKN,Seth Curry,Personal Take Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,62,58,0.625,0.624,10:38
+3,9:29,BKN,Kyrie Irving,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,64,60,0.599,0.662,9:29
+3,8:41,BKN,Seth Curry,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,67,61,0.675,0.699,8:47
+3,6:35,BKN,Andre Drummond,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,73,68,0.618,0.675,6:39
+3,5:57,BKN,Kevin Durant,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,75,70,0.62,0.677,6:17
+3,4:49,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,75,74,0.564,0.566,4:50
+3,1:19,BKN,James Johnson,Personal Take Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,84,81,0.546,0.615,1:22
+4,11:16,MIL,Khris Middleton,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,89,87,0.64,0.624,11:27
+4,10:49,BKN,James Johnson,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,89,87,0.527,0.583,10:49
+4,6:46,BKN,Goran Dragic,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,95,96,0.386,0.402,6:53
+4,5:05,MIL,Khris Middleton,Flagrant Foul Type 2,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,99,96,0.727,0.733,5:06
+4,3:01,BKN,Kevin Durant,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,108,99,0.916,0.961,3:04
+4,2:27,BKN,Andre Drummond,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,108,101,0.929,0.957,3:01
+4,1:27,MIL,Jrue Holiday,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,110,105,0.941,0.905,1:27
+4,1:14,BKN,Seth Curry,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,110,105,0.77,0.867,1:25
+4,30.2,BKN,Bruce Brown,Offensive Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,110,107,0.773,0.851,44.5
+5,2:51,MIL,Jrue Holiday,Personal Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,113,117,0.219,0.23,3:10
+5,2:40,MIL,Grayson Allen,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,113,117,0.335,0.219,2:51
+5,2:26,BKN,Nic Claxton,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,115,117,0.174,0.289,2:40
+5,1:39,BKN,Kevin Durant,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,115,118,0.09,0.184,1:57
+5,41.2,MIL,Grayson Allen,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,115,118,0.404,0.223,51.1
+5,8.7,MIL,Wesley Matthews,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,116,118,0.364,0.312,16.8
+5,3.0,BKN,Nic Claxton,Shooting Foul,Foul,Derek Richardson,Brent Barnaky,John Goble,BKN,119,118,0.28,0.601,8.7

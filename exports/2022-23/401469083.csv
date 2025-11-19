@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:22,OKC,Luguentz Dort,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,2,2,0.366,0.406,11:22
+1,9:46,OKC,Josh Giddey,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,4,7,0.285,0.317,9:50
+1,7:14,OKC,Josh Giddey,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,11,19,0.189,0.215,7:24
+1,6:07,OKC,Josh Giddey,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,15,26,0.15,0.179,6:07
+1,4:26,SAC,Davion Mitchell,Loose Ball Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,21,30,0.212,0.212,4:26
+1,3:46,SAC,Trey Lyles,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,23,32,0.23,0.194,3:46
+1,2:23,SAC,Matthew Dellavedova,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,26,35,0.23,0.192,2:23
+1,2:02,SAC,Matthew Dellavedova,Personal Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,27,35,0.266,0.234,2:05
+1,1:29,SAC,Chimezie Metu,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,29,37,0.266,0.235,1:44
+1,1:23,OKC,Tre Mann,Personal Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,31,37,0.22,0.254,1:29
+1,3.0,OKC,Jalen Williams,Personal Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,38,42,0.265,0.301,14.1
+2,10:43,SAC,Trey Lyles,Personal Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,41,47,0.275,0.276,10:48
+2,10:28,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,43,47,0.264,0.298,10:37
+2,10:08,OKC,Kenrich Williams,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,43,49,0.219,0.251,10:14
+2,9:30,OKC,Aaron Wiggins,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,43,51,0.179,0.207,9:41
+2,7:54,SAC,Trey Lyles,Technical Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,45,53,0.246,0.229,7:54
+2,6:32,SAC,Domantas Sabonis,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,46,60,0.137,0.114,6:50
+2,5:59,OKC,Tre Mann,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,48,62,0.08,0.098,6:01
+2,5:20,SAC,Davion Mitchell,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,50,64,0.123,0.097,5:20
+2,4:17,OKC,Jaylin Williams,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,53,64,0.115,0.141,4:35
+2,3:29,SAC,Keegan Murray,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,56,66,0.209,0.176,3:35
+2,1:26,OKC,Jaylin Williams,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,62,70,0.178,0.215,1:26
+2,42.2,SAC,Domantas Sabonis,Offensive Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,64,71,0.242,0.214,1:04
+3,10:26,SAC,Kevin Huerter,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,70,76,0.311,0.264,10:32
+3,9:52,SAC,Domantas Sabonis,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,72,76,0.38,0.327,10:01
+3,9:42,OKC,Jalen Williams,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,72,76,0.249,0.295,9:49
+3,9:07,OKC,Isaiah Joe,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,72,79,0.188,0.233,9:07
+3,6:06,SAC,Domantas Sabonis,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,74,89,0.067,0.048,6:06
+3,4:20,OKC,Kenrich Williams,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,80,91,0.081,0.093,4:20
+3,2:56,OKC,Jeremiah Robinson-Earl,Loose Ball Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,82,91,0.095,0.125,2:56
+3,36.0,SAC,Malik Monk,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,82,93,0.123,0.091,53.1
+4,11:01,SAC,Richaun Holmes,Offensive Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,92,93,0.453,0.401,11:14
+4,10:57,SAC,Kevin Huerter,Personal Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,92,93,0.466,0.453,11:01
+4,9:26,SAC,Malik Monk,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,94,96,0.504,0.405,9:28
+4,8:50,SAC,Kevin Huerter,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,97,98,0.529,0.407,8:50
+4,6:56,OKC,Luguentz Dort,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,98,101,0.21,0.295,7:13
+4,3:25,OKC,Dario Saric,Offensive Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,104,112,0.042,0.067,3:32
+4,2:58,SAC,Kevin Huerter,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,104,114,0.054,0.024,3:08
+4,2:28,SAC,Davion Mitchell,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,106,117,0.018,0.012,2:28
+4,2:23,OKC,Aaron Wiggins,Personal Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,108,117,0.019,0.02,2:28
+4,1:45,OKC,Jalen Williams,Shooting Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,110,117,0.016,0.043,2:06
+4,1:18,OKC,Kenrich Williams,Offensive Foul,Foul,Curtis Blair,Aaron Smith,Simone Jelks,OKC,110,119,0.007,0.017,1:24

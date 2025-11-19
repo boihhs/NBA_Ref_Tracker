@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:31,SA,Zach Collins,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,2,2,0.828,0.806,10:49
+1,9:50,SA,Jeremy Sochan,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,4,4,0.825,0.802,9:57
+1,9:42,IND,Obi Toppin,Personal Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,6,4,0.818,0.817,9:50
+1,9:22,SA,Jeremy Sochan,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,8,4,0.867,0.845,9:22
+1,8:45,IND,Bennedict Mathurin,Personal Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,11,6,0.857,0.857,9:00
+1,7:07,SA,Victor Wembanyama,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,16,13,0.857,0.838,7:15
+1,6:00,IND,Myles Turner,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,18,15,0.805,0.833,6:00
+1,5:27,SA,Keldon Johnson,Personal Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,18,15,0.853,0.832,5:32
+1,1:49,SA,Tre Jones,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,35,25,0.925,0.912,1:50
+1,1:38,IND,Jalen Smith,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,37,25,0.905,0.92,1:49
+1,28.1,SA,Charles Bassey,Personal Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,39,27,0.94,0.928,44.1
+1,18.0,IND,Jalen Smith,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,41,27,0.923,0.936,28.1
+2,11:16,IND,Isaiah Jackson,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,47,28,0.959,0.956,11:41
+2,10:05,IND,Isaiah Jackson,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,50,32,0.958,0.962,10:05
+2,9:13,IND,Myles Turner,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,53,38,0.939,0.95,9:13
+2,8:33,IND,Andrew Nembhard,Offensive Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,56,38,0.963,0.968,8:35
+2,8:20,IND,Andrew Nembhard,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,56,38,0.955,0.963,8:33
+2,6:25,IND,Tyrese Haliburton,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,63,44,0.966,0.969,6:39
+2,6:17,IND,Obi Toppin,Offensive Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,63,46,0.958,0.965,6:25
+2,6:05,IND,Myles Turner,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,63,46,0.949,0.958,6:17
+2,4:53,IND,Andrew Nembhard,Personal Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,69,47,0.976,0.982,5:04
+2,3:50,IND,Jalen Smith,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,74,53,0.976,0.982,3:50
+2,3:27,SA,Zach Collins,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,76,54,0.988,0.983,3:27
+2,1:51,IND,Bruce Brown,Personal Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,83,56,0.992,0.994,2:06
+2,1:12,IND,Isaiah Jackson,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,83,60,0.985,0.989,1:12
+2,3.1,SA,Cedi Osman,Personal Take Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,86,61,0.995,0.994,5.1
+3,7:23,IND,Obi Toppin,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,95,69,0.995,0.996,7:43
+3,6:07,IND,Bennedict Mathurin,Personal Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,97,74,0.993,0.993,6:22
+3,5:31,SA,SA,Delay Technical,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,99,74,0.997,0.997,5:31
+3,4:00,SA,Charles Bassey,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,104,74,0.999,0.999,4:15
+3,39.0,SA,Doug McDermott,Personal Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,119,82,0.999,0.999,53.0
+4,9:34,SA,Charles Bassey,Loose Ball Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,124,94,0.999,0.999,9:34
+4,7:03,IND,Ben Sheppard,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,136,96,0.999,0.999,7:15
+4,5:42,IND,T.J. McConnell,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,138,100,0.999,0.999,5:52
+4,3:45,IND,Isaiah Jackson,Personal Take Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,145,104,0.999,0.999,3:54
+4,3:14,SA,Dominick Barlow,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,145,104,0.999,0.999,3:31
+4,2:23,SA,Blake Wesley,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,147,104,0.999,0.999,2:39
+4,1:06,SA,Blake Wesley,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,150,108,0.999,0.999,1:10
+4,52.1,IND,Isaiah Jackson,Shooting Foul,Foul,Jason Goldenberg,Marc Davis,Ashley Moyer-Gleich,IND,152,108,0.999,0.999,1:06

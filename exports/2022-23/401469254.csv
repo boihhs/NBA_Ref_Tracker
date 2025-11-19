@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:33,DET,Marvin Bagley III,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,0,0,0.949,0.941,11:39
+1,11:17,TOR,Pascal Siakam,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,1,2,0.923,0.934,11:17
+1,10:54,TOR,Jakob Poeltl,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,1,3,0.908,0.92,11:04
+1,8:09,DET,Jaden Ivey,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,13,7,0.967,0.961,8:19
+1,7:34,TOR,OG Anunoby,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,17,7,0.971,0.971,7:45
+1,5:02,DET,Killian Hayes,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,22,12,0.975,0.971,5:10
+1,4:33,DET,Eugene Omoruyi,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,24,12,0.98,0.976,4:36
+1,3:03,TOR,Malachi Flynn,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,30,16,0.973,0.978,3:08
+1,1:39,DET,R.J. Hampton,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,32,20,0.976,0.97,1:39
+1,1:28,TOR,Malachi Flynn,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,33,20,0.968,0.974,1:39
+1,1:19,DET,Jared Rhoden,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,33,21,0.978,0.967,1:28
+1,1:08,TOR,Christian Koloko,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,34,21,0.968,0.973,1:28
+1,29.1,DET,R.J. Hampton,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,36,26,0.971,0.966,33.0
+2,11:42,TOR,Chris Boucher,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,38,26,0.962,0.97,12:00
+2,11:01,TOR,Jeff Dowtin Jr.,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,40,27,0.965,0.972,11:23
+2,10:35,TOR,Christian Koloko,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,40,31,0.949,0.959,10:35
+2,10:13,TOR,Pascal Siakam,Offensive Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,40,32,0.946,0.953,10:35
+2,10:02,TOR,Jakob Poeltl,Defensive 3-Seconds Technical,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,40,32,0.947,0.946,10:13
+2,9:15,DET,Jared Rhoden,Offensive Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,44,33,0.966,0.961,9:25
+2,9:02,DET,Isaiah Livers,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,44,33,0.971,0.966,9:15
+2,7:30,TOR,Will Barton,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,49,35,0.966,0.972,7:36
+2,5:16,DET,James Wiseman,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,52,41,0.968,0.962,5:31
+2,3:22,TOR,Jakob Poeltl,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,61,43,0.981,0.984,3:22
+2,2:46,TOR,Pascal Siakam,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,64,47,0.978,0.984,2:46
+2,2:37,DET,Marvin Bagley III,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,64,48,0.984,0.981,2:46
+2,46.1,DET,Jaden Ivey,Flagrant Foul Type 1,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,70,52,0.986,0.984,59.0
+3,9:15,TOR,Jakob Poeltl,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,74,57,0.981,0.981,9:21
+3,7:31,TOR,Fred VanVleet,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,77,59,0.986,0.985,7:32
+3,5:11,TOR,Fred VanVleet,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,82,61,0.994,0.994,5:23
+3,4:54,DET,Marvin Bagley III,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,82,63,0.992,0.992,5:09
+3,4:12,TOR,Jeff Dowtin Jr.,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,84,67,0.982,0.988,4:12
+3,3:20,DET,Eugene Omoruyi,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,86,68,0.994,0.991,3:26
+3,1:03,TOR,Christian Koloko,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,90,71,0.99,0.994,1:03
+3,21.0,TOR,Fred VanVleet,Personal Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,92,73,0.991,0.994,36.0
+4,10:52,TOR,Christian Koloko,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,94,73,0.995,0.997,11:15
+4,10:29,DET,Killian Hayes,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,94,74,0.998,0.997,10:52
+4,9:42,DET,Jalen Duren,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,98,74,0.999,0.999,9:42
+4,7:46,TOR,Chris Boucher,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,104,77,0.999,0.999,7:53
+4,7:33,DET,Jaden Ivey,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,104,80,0.999,0.999,7:46
+4,7:18,TOR,Christian Koloko,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,106,82,0.999,0.999,7:18
+4,7:02,DET,R.J. Hampton,Loose Ball Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,106,82,0.999,0.999,7:02
+4,47.0,TOR,Chris Boucher,Shooting Foul,Foul,John Goble,Mitchell Ervin,Matt Myers,TOR,118,95,0.999,0.999,50.1

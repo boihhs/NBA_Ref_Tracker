@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:09,BKN,Andre Drummond,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,2,4,0.69,0.691,10:14
+1,8:56,PHI,Tobias Harris,Offensive Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,4,9,0.59,0.616,9:10
+1,8:23,BKN,Bruce Brown,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,4,11,0.579,0.559,8:23
+1,7:26,BKN,Kevin Durant,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,7,13,0.617,0.579,7:42
+1,6:58,PHI,Matisse Thybulle,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,8,16,0.494,0.576,7:01
+1,5:58,PHI,James Harden,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,13,19,0.5,0.544,6:17
+1,5:27,BKN,Kyrie Irving,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,13,22,0.525,0.484,5:41
+1,5:15,PHI,Tyrese Maxey,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,15,24,0.433,0.482,5:15
+1,4:35,BKN,Andre Drummond,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,15,26,0.462,0.42,4:50
+1,3:54,BKN,Bruce Brown,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,17,26,0.514,0.471,3:54
+1,3:27,BKN,Andre Drummond,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,20,26,0.573,0.523,3:27
+1,1:11,BKN,Bruce Brown,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,21,33,0.404,0.358,1:16
+2,11:01,PHI,Shake Milton,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,25,45,0.115,0.144,11:01
+2,8:14,BKN,Kyrie Irving,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,32,47,0.231,0.23,8:20
+2,7:47,BKN,Kevin Durant,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,32,47,0.267,0.228,7:54
+2,7:18,BKN,Patty Mills,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,34,50,0.234,0.199,7:31
+2,5:49,BKN,Seth Curry,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,38,54,0.22,0.184,5:55
+2,5:31,BKN,Bruce Brown,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,38,54,0.217,0.18,5:35
+2,5:11,PHI,James Harden,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,40,54,0.201,0.203,5:31
+2,4:39,BKN,Kyrie Irving,Personal Take Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,40,57,0.183,0.152,4:39
+2,4:09,PHI,Joel Embiid,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,42,59,0.117,0.148,4:09
+2,3:33,PHI,Georges Niang,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,42,59,0.1,0.122,3:42
+2,2:41,PHI,Joel Embiid,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,42,62,0.055,0.074,2:56
+2,1:07,BKN,Nic Claxton,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,45,69,0.043,0.034,1:07
+2,56.7,BKN,Nic Claxton,Loose Ball Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,47,69,0.066,0.051,56.7
+3,11:31,PHI,James Harden,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,51,72,0.031,0.044,11:43
+3,9:15,PHI,Joel Embiid,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,57,79,0.021,0.025,9:15
+3,9:01,BKN,Kevin Durant,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,57,79,0.044,0.031,9:13
+4,11:17,BKN,James Johnson,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,72,105,0.001,0.001,11:17
+4,10:44,PHI,Shake Milton,Personal Take Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,73,105,0.001,0.001,10:45
+4,9:18,PHI,Shake Milton,Technical Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,79,108,0.001,0.001,9:26
+4,8:55,BKN,Nic Claxton,Loose Ball Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,79,109,0.001,0.001,8:55
+4,8:41,PHI,Georges Niang,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,79,109,0.001,0.001,8:47
+4,8:07,PHI,Shake Milton,Personal Take Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,79,111,0.001,0.001,8:09
+4,7:43,BKN,Nic Claxton,Loose Ball Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,79,114,0.001,0.001,7:43
+4,6:49,PHI,Paul Reed,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,82,114,0.001,0.001,7:10
+4,6:09,PHI,Shake Milton,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,84,119,0.001,0.001,6:09
+4,5:31,BKN,Cam Thomas,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,86,122,0.001,0.001,5:37
+4,5:01,BKN,Cam Thomas,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,89,122,0.001,0.001,5:05
+4,4:32,PHI,Paul Reed,Personal Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,91,122,0.001,0.001,4:32
+4,1:16,PHI,DeAndre Jordan,Shooting Foul,Foul,John Goble,Tre Maddox,Brandon Adair,PHI,98,128,0.001,0.001,1:32

@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:06,MIN,Anthony Edwards,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,3,4,0.616,0.618,10:13
+1,9:31,MIN,Rudy Gobert,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,6,4,0.717,0.685,9:36
+1,5:40,MIN,Jaden McDaniels,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,13,15,0.578,0.579,5:50
+1,4:24,MIN,Anthony Edwards,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,15,21,0.485,0.435,4:24
+1,4:18,CLE,Robin Lopez,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,16,21,0.461,0.463,4:24
+1,2:07,CLE,Evan Mobley,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,16,26,0.315,0.315,2:13
+1,15.5,CLE,Mamadi Diakite,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,18,35,0.121,0.146,27.9
+1,2.0,MIN,Austin Rivers,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,18,37,0.152,0.13,15.5
+1,0.2,CLE,Darius Garland,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,20,37,0.123,0.156,2.0
+2,9:56,CLE,Cedi Osman,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,26,42,0.152,0.155,10:10
+2,9:03,MIN,Taurean Prince,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,26,44,0.156,0.13,9:19
+2,7:52,MIN,Jaden McDaniels,Flagrant Foul Type 1,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,33,47,0.194,0.179,7:52
+2,7:23,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,36,47,0.271,0.245,7:32
+2,7:09,MIN,Kyle Anderson,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,36,47,0.267,0.271,7:23
+2,6:39,MIN,Jaylen Nowell,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,36,49,0.252,0.218,6:46
+2,6:26,CLE,Kevin Love,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,36,49,0.159,0.191,6:30
+2,6:19,MIN,Jaylen Nowell,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,36,51,0.202,0.167,6:26
+2,4:19,CLE,Isaac Okoro,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,41,57,0.118,0.117,4:28
+2,1:01,MIN,Rudy Gobert,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,45,62,0.11,0.099,1:01
+2,17.2,MIN,Anthony Edwards,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,45,66,0.061,0.047,32.3
+2,4.7,CLE,Evan Mobley,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,47,66,0.041,0.056,17.2
+3,12:00,CLE,Darius Garland,Technical Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,50,67,0.064,0.087,12:00
+3,12:00,CLE,CLE,Technical Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,50,68,0.054,0.06,12:00
+3,9:59,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,55,74,0.072,0.055,10:15
+3,9:43,MIN,Jaden McDaniels,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,57,76,0.052,0.052,9:49
+3,9:12,CLE,Kevin Love,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,59,78,0.035,0.049,9:12
+3,9:05,MIN,D'Angelo Russell,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,59,78,0.067,0.05,9:10
+3,7:46,MIN,Rudy Gobert,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,63,83,0.047,0.034,7:46
+3,7:14,CLE,Lamar Stevens,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,65,83,0.03,0.042,7:32
+3,6:42,CLE,Evan Mobley,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,65,84,0.022,0.031,6:53
+3,6:31,MIN,Kyle Anderson,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,65,86,0.034,0.024,6:42
+3,6:02,MIN,Taurean Prince,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,67,86,0.05,0.036,6:02
+3,5:22,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,68,88,0.037,0.027,5:44
+3,4:01,MIN,D'Angelo Russell,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,69,92,0.013,0.009,4:12
+3,2:21,CLE,Cedi Osman,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,75,98,0.003,0.006,2:21
+3,2:04,MIN,Anthony Edwards,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,75,99,0.007,0.004,2:21
+3,40.5,CLE,Caris LeVert,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,82,101,0.008,0.013,40.5
+4,10:55,CLE,Evan Mobley,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,84,104,0.002,0.004,11:01
+4,10:02,CLE,Kevin Love,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,84,105,0.001,0.002,10:02
+4,9:29,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,84,106,0.002,0.001,9:29
+4,8:56,MIN,Jaylen Nowell,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,88,106,0.011,0.005,8:56
+4,7:03,CLE,Robin Lopez,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,97,111,0.012,0.014,7:10
+4,6:25,CLE,Isaac Okoro,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,97,113,0.002,0.005,6:35
+4,5:47,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,99,115,0.012,0.005,5:59
+4,3:39,CLE,Darius Garland,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,108,117,0.019,0.028,3:39
+4,3:34,MIN,Jaden McDaniels,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,108,117,0.087,0.043,3:36
+4,2:59,CLE,Lamar Stevens,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,111,117,0.049,0.092,3:13
+4,2:12,MIN,Jaden McDaniels,Shooting Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,111,120,0.059,0.031,2:22
+4,1:26,MIN,Jaden McDaniels,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,115,122,0.112,0.055,1:31
+4,1:26,MIN,Jaden McDaniels,Technical Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,115,122,0.079,0.112,1:26
+4,13.3,CLE,Cedi Osman,Personal Take Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,122,124,0.068,0.169,13.3
+4,8.3,MIN,Kyle Anderson,Personal Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,122,126,0.195,0.077,8.3
+4,6.5,CLE,Darius Garland,Personal Take Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,124,126,0.038,0.132,8.3
+4,4.1,CLE,Cedi Osman,Personal Take Foul,Foul,Eric Dalen,Karl Lane,Matt Kallio,CLE,124,127,0.01,0.032,4.1

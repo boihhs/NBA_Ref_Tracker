@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:19,LAC,Norman Powell,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,7,4,0.848,0.823,8:19
+1,7:18,CLE,Evan Mobley,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,13,4,0.88,0.897,7:31
+1,5:58,CLE,Donovan Mitchell,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,17,6,0.914,0.914,6:14
+1,5:07,LAC,Ivica Zubac,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,21,6,0.955,0.944,5:07
+1,4:07,LAC,Amir Coffey,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,22,10,0.929,0.929,4:25
+1,4:00,LAC,Norman Powell,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,22,10,0.94,0.929,4:07
+1,3:50,LAC,Amir Coffey,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,22,10,0.94,0.94,4:00
+1,2:22,CLE,Isaac Okoro,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,26,10,0.949,0.95,2:22
+1,1:37,LAC,Brandon Boston,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,26,10,0.959,0.956,1:37
+1,1:22,CLE,Evan Mobley,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,28,10,0.952,0.961,1:37
+1,36.0,CLE,Caris LeVert,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,28,13,0.931,0.943,40.1
+2,6:33,CLE,Caris LeVert,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,46,22,0.986,0.986,6:41
+2,6:06,LAC,Moses Brown,Offensive Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,48,22,0.992,0.991,6:13
+2,5:23,LAC,Brandon Boston,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,50,22,0.996,0.995,5:26
+2,3:46,CLE,Jarrett Allen,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,54,24,0.995,0.996,3:59
+2,3:09,CLE,Isaac Okoro,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,57,27,0.996,0.996,3:20
+2,1:58,LAC,Norman Powell,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,57,29,0.997,0.996,2:16
+2,1:04,LAC,Amir Coffey,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,63,29,0.998,0.998,1:04
+2,32.1,LAC,Jason Preston,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,64,31,0.998,0.998,41.0
+2,1.1,CLE,Evan Mobley,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,64,33,0.997,0.998,5.0
+3,10:33,CLE,Evan Mobley,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,69,34,0.999,0.998,10:34
+3,9:15,LAC,Jason Preston,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,72,38,0.999,0.999,9:17
+3,8:26,CLE,Isaac Okoro,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,77,40,0.999,0.999,8:39
+3,7:41,LAC,Amir Coffey,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,77,40,0.999,0.999,7:44
+3,6:07,LAC,Brandon Boston,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,77,42,0.999,0.999,6:18
+3,5:58,LAC,Terance Mann,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,77,42,0.999,0.999,6:07
+3,4:14,CLE,Jarrett Allen,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,84,44,0.999,0.999,4:25
+3,3:17,CLE,Donovan Mitchell,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,84,46,0.999,0.999,3:24
+3,1:00,CLE,Ricky Rubio,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,89,56,0.999,0.999,1:00
+4,11:15,CLE,Lamar Stevens,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,92,60,0.999,0.999,11:26
+4,10:24,LAC,Brandon Boston,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,95,64,0.999,0.999,10:46
+4,9:59,LAC,Brandon Boston,Offensive Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,95,64,0.999,0.999,10:21
+4,9:06,CLE,Robin Lopez,Offensive Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,95,68,0.999,0.999,9:20
+4,6:18,CLE,Dean Wade,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,100,76,0.999,0.999,6:31
+4,5:55,CLE,Robin Lopez,Loose Ball Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,103,78,0.999,0.999,5:55
+4,5:47,CLE,Lamar Stevens,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,103,78,0.999,0.999,5:55
+4,5:47,CLE,Robin Lopez,Loose Ball Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,103,79,0.999,0.999,5:47
+4,5:39,LAC,Amir Coffey,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,103,81,0.999,0.999,5:47
+4,3:12,LAC,Amir Coffey,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,112,87,0.999,0.999,3:27
+4,2:06,CLE,Robin Lopez,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,116,89,0.999,0.999,2:06
+4,1:02,CLE,Caris LeVert,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,122,92,0.999,0.999,1:23
+4,17.1,CLE,Robin Lopez,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,122,98,0.999,0.999,17.1

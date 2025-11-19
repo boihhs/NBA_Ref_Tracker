@@ -1,0 +1,30 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:53,NY,Mitchell Robinson,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,6,8,0.616,0.598,8:12
+1,6:31,NY,Immanuel Quickley,Personal Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,8,11,0.566,0.567,6:44
+1,4:13,NY,Alec Burks,Personal Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,13,19,0.474,0.475,4:32
+1,4:04,NY,Julius Randle,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,13,19,0.516,0.474,4:13
+1,1:54,NY,RJ Barrett,Personal Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,17,22,0.534,0.491,1:59
+1,1:40,BOS,Enes Freedom,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,19,22,0.477,0.519,1:54
+1,1:26,NY,RJ Barrett,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,19,23,0.538,0.518,1:40
+2,10:38,BOS,Josh Richardson,Personal Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,23,31,0.355,0.357,10:56
+2,10:01,NY,Quentin Grimes,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,23,31,0.427,0.381,10:03
+2,8:26,NY,Obi Toppin,Personal Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,27,33,0.434,0.433,8:26
+2,7:29,BOS,Dennis Schroder,Loose Ball Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,32,33,0.554,0.582,7:29
+2,7:25,BOS,Dennis Schroder,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,32,33,0.507,0.554,7:29
+2,6:53,NY,Immanuel Quickley,Personal Take Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,32,34,0.55,0.55,6:54
+2,5:16,BOS,Robert Williams III,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,36,37,0.495,0.545,5:33
+2,3:27,BOS,Robert Williams III,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,38,37,0.552,0.602,3:28
+2,0.9,BOS,Al Horford,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,44,40,0.685,0.688,11.0
+3,7:54,BOS,Al Horford,Personal Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,58,46,0.895,0.895,8:14
+3,6:21,BOS,Jaylen Brown,Personal Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,61,49,0.901,0.9,6:45
+3,6:13,BOS,Robert Williams III,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,61,51,0.865,0.885,6:13
+3,5:49,NY,Julius Randle,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,61,51,0.912,0.885,6:13
+3,4:57,NY,RJ Barrett,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,65,51,0.944,0.938,4:57
+3,3:43,NY,Alec Burks,Personal Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,66,53,0.943,0.943,3:43
+3,56.4,NY,Immanuel Quickley,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,71,57,0.977,0.964,1:21
+4,7:49,BOS,Dennis Schroder,Personal Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,82,62,0.998,0.998,7:51
+4,7:27,BOS,Josh Richardson,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,82,62,0.996,0.998,7:31
+4,3:45,BOS,Grant Williams,Personal Take Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,92,71,0.999,0.999,3:45
+4,2:52,BOS,Grant Williams,Personal Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,92,73,0.999,0.999,2:54
+4,2:08,NY,Miles McBride,Shooting Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,94,75,0.999,0.999,2:08
+4,1:30,BOS,Dennis Schroder,Away from Play Foul,Foul,Pat Fraher,Aaron Smith,Jenna Reneau,BOS,97,75,0.999,0.999,1:43

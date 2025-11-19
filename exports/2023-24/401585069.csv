@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:52,NY,Isaiah Hartenstein,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,4,10,0.562,0.514,8:52
+1,5:24,NY,Julius Randle,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,14,19,0.551,0.553,5:24
+1,4:07,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,19,23,0.572,0.571,4:07
+1,3:43,IND,Andrew Nembhard,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,22,23,0.62,0.623,3:58
+1,6.0,IND,Buddy Hield,Personal Take Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,32,27,0.721,0.755,9.0
+2,10:27,IND,Isaiah Jackson,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,34,30,0.731,0.755,10:37
+2,9:04,IND,Isaiah Jackson,Defensive 3-Seconds Technical,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,36,34,0.683,0.521,9:26
+2,7:51,NY,Miles McBride,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,41,37,0.766,0.724,7:51
+2,6:47,NY,Miles McBride,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,46,40,0.807,0.769,6:47
+2,6:18,NY,Jalen Brunson,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,47,42,0.771,0.771,6:26
+2,6:02,IND,Isaiah Jackson,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,47,42,0.705,0.746,6:09
+2,2:15,NY,Miles McBride,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,55,54,0.698,0.656,2:16
+2,1:35,IND,Andrew Nembhard,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,57,56,0.572,0.621,1:36
+2,49.2,IND,Andrew Nembhard,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,59,57,0.6,0.651,1:02
+3,11:54,IND,Jalen Smith,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,64,62,0.651,0.666,12:00
+3,11:27,IND,IND,Technical Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,64,64,0.551,0.617,11:37
+3,8:10,NY,Donte DiVincenzo,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,75,70,0.808,0.768,8:23
+3,7:14,NY,Donte DiVincenzo,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,79,75,0.739,0.739,7:27
+3,5:41,IND,Myles Turner,Defensive 3-Seconds Technical,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,84,78,0.779,0.77,5:58
+3,5:09,IND,Obi Toppin,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,87,79,0.786,0.829,5:26
+3,3:56,NY,Isaiah Hartenstein,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,92,81,0.917,0.9,4:04
+3,2:18,IND,Obi Toppin,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,98,85,0.917,0.94,2:18
+3,1:31,NY,Taj Gibson,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,100,87,0.969,0.956,1:47
+3,1:04,NY,Julius Randle,Technical Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,102,87,0.979,0.975,1:04
+3,44.1,IND,Jalen Smith,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,103,89,0.95,0.969,44.1
+4,11:46,NY,Taj Gibson,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,105,92,0.964,0.955,12:00
+4,11:37,NY,Taj Gibson,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,105,92,0.978,0.964,11:46
+4,11:17,IND,Obi Toppin,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,105,92,0.931,0.956,11:19
+4,10:29,NY,Josh Hart,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,107,95,0.975,0.969,10:29
+4,10:13,IND,Obi Toppin,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,109,95,0.951,0.971,10:27
+4,9:37,IND,Jalen Smith,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,112,96,0.973,0.989,9:50
+4,8:51,NY,Josh Hart,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,112,100,0.979,0.963,9:14
+4,8:51,NY,Josh Hart,Technical Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,112,100,0.973,0.979,8:51
+4,8:40,IND,Jalen Smith,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,115,100,0.969,0.982,8:51
+4,8:29,NY,Taj Gibson,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,115,100,0.993,0.987,8:29
+4,8:19,IND,Aaron Nesmith,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,115,100,0.984,0.993,8:29
+4,6:52,IND,Jalen Smith,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,117,103,0.971,0.982,6:55
+4,6:52,IND,Jalen Smith,Technical Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,117,103,0.977,0.971,6:52
+4,5:50,NY,Jalen Brunson,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,121,107,0.993,0.987,5:50
+4,5:42,IND,Aaron Nesmith,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,122,107,0.984,0.991,5:50
+4,3:42,IND,Andrew Nembhard,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,128,115,0.983,0.991,3:46
+4,2:11,NY,Jalen Brunson,Personal Take Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,131,121,0.996,0.99,2:22
+4,1:44,NY,Josh Hart,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Evan Scott,IND,133,121,0.999,0.998,1:58

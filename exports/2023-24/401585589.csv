@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:45,CHA,Nick Richards,Loose Ball Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,0,2,0.151,0.15,10:45
+1,10:36,CHA,Tre Mann,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,0,2,0.133,0.151,10:45
+1,9:18,CHA,Brandon Miller,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,0,6,0.094,0.108,9:25
+1,8:14,CHA,Brandon Miller,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,2,9,0.087,0.101,8:23
+1,7:59,PHX,Jusuf Nurkic,Defensive 3-Seconds Technical,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,2,10,0.1,0.1,8:14
+1,6:05,PHX,Jusuf Nurkic,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,11,10,0.269,0.238,6:10
+1,5:24,CHA,Miles Bridges,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,15,10,0.273,0.306,5:37
+1,2:13,PHX,Eric Gordon,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,19,21,0.216,0.2,2:28
+1,3.2,PHX,Devin Booker,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,24,28,0.203,0.173,15.1
+2,10:55,PHX,Royce O'Neale,Loose Ball Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,30,30,0.26,0.261,10:55
+2,5:48,PHX,Bol Bol,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,32,41,0.136,0.113,6:05
+2,5:23,PHX,Devin Booker,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,35,41,0.177,0.144,5:23
+2,4:01,CHA,Davis Bertans,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,36,45,0.093,0.116,4:01
+2,2:41,PHX,Bol Bol,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,38,48,0.125,0.103,2:50
+2,41.2,PHX,Eric Gordon,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,44,51,0.145,0.134,41.2
+2,2.1,PHX,Eric Gordon,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,44,54,0.128,0.105,16.1
+3,10:26,CHA,Vasilije Micic,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,50,56,0.158,0.154,10:32
+3,6:48,CHA,Tre Mann,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,54,69,0.029,0.04,6:48
+3,6:38,PHX,Jusuf Nurkic,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,54,70,0.044,0.033,6:48
+3,6:23,PHX,Grayson Allen,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,56,72,0.033,0.033,6:27
+3,5:31,CHA,Brandon Miller,Loose Ball Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,58,72,0.039,0.038,5:31
+3,5:16,PHX,Jusuf Nurkic,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,58,75,0.034,0.025,5:21
+3,3:40,CHA,Aleksej Pokusevski,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,65,78,0.031,0.029,4:02
+3,2:07,PHX,Eric Gordon,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,65,82,0.027,0.019,2:16
+3,1:57,CHA,Miles Bridges,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,65,82,0.009,0.013,2:04
+3,29.0,PHX,Bradley Beal,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,65,90,0.001,0.001,38.1
+4,10:01,PHX,Drew Eubanks,Offensive Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,71,92,0.002,0.001,10:19
+4,9:31,PHX,Drew Eubanks,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,73,92,0.006,0.003,9:31
+4,9:15,CHA,Nick Richards,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,74,94,0.002,0.002,9:15
+4,8:56,PHX,Jusuf Nurkic,Offensive Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,76,94,0.005,0.003,9:05
+4,7:45,PHX,Bradley Beal,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,78,94,0.016,0.008,8:04
+4,7:27,PHX,Kevin Durant,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,79,94,0.023,0.012,7:31
+4,6:43,CHA,Nick Richards,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,83,94,0.027,0.031,6:57
+4,6:43,PHX,Jusuf Nurkic,Technical Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,83,94,0.052,0.027,6:43
+4,5:56,CHA,Davis Bertans,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,87,97,0.018,0.035,6:05
+4,4:57,PHX,Jusuf Nurkic,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,87,101,0.016,0.009,5:06
+4,3:32,CHA,Brandon Miller,Personal Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,89,103,0.001,0.002,3:39
+4,1:23,CHA,Nick Richards,Shooting Foul,Foul,Sean Wright,Gediminas Petraitis,Natalie Sago,CHA,92,105,0.001,0.001,1:29

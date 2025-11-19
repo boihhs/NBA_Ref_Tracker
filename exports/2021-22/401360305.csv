@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:46,DAL,Jalen Brunson,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,2,5,0.423,0.46,10:04
+1,6:14,MIL,Rodney Hood,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,16,15,0.586,0.588,6:18
+1,5:43,MIL,Semi Ojeleye,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,16,15,0.586,0.586,5:43
+1,4:39,DAL,Theo Pinson,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,16,15,0.559,0.558,4:49
+1,2.0,DAL,Theo Pinson,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,23,15,0.702,0.738,17.9
+2,10:04,DAL,Dorian Finney-Smith,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,27,18,0.73,0.767,10:11
+2,8:22,DAL,Theo Pinson,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,29,24,0.667,0.695,8:22
+2,8:00,DAL,Marquese Chriss,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,29,25,0.655,0.64,8:02
+2,5:15,DAL,Dorian Finney-Smith,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,33,31,0.533,0.613,5:25
+2,4:56,MIL,Jrue Holiday,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,33,33,0.55,0.517,5:05
+2,4:50,MIL,Grayson Allen,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,33,33,0.598,0.55,4:56
+2,4:18,DAL,Theo Pinson,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,34,33,0.5,0.55,4:22
+2,1:53,MIL,Rodney Hood,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,37,39,0.531,0.477,2:06
+2,1:33,DAL,Marquese Chriss,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,40,39,0.494,0.544,1:48
+2,12.9,MIL,Wesley Matthews,Defensive 3-Seconds Technical,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,42,41,0.569,0.577,27.5
+3,11:43,MIL,DeMarcus Cousins,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,43,41,0.598,0.614,11:43
+3,11:21,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,45,41,0.647,0.647,11:21
+3,10:27,MIL,DeMarcus Cousins,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,49,43,0.73,0.714,10:27
+3,8:07,MIL,Khris Middleton,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,59,53,0.736,0.719,8:07
+3,7:34,DAL,Dwight Powell,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,59,55,0.626,0.689,7:34
+3,6:07,DAL,Frank Ntilikina,Offensive Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,64,58,0.727,0.762,6:19
+3,5:32,DAL,Frank Ntilikina,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,67,60,0.741,0.797,5:32
+3,5:22,MIL,Grayson Allen,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,67,61,0.81,0.766,5:32
+3,3:16,DAL,Brandon Knight,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,69,68,0.471,0.538,3:22
+3,2:38,DAL,Marquese Chriss,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,69,70,0.381,0.446,2:44
+3,1:13,MIL,Khris Middleton,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,71,73,0.395,0.444,1:15
+3,44.4,MIL,Pat Connaughton,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,73,73,0.611,0.535,49.4
+3,0.6,DAL,Marquese Chriss,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,74,73,0.464,0.537,5.0
+4,10:27,DAL,Marquese Chriss,Offensive Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,76,79,0.326,0.385,10:40
+4,8:00,DAL,Dorian Finney-Smith,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,83,87,0.284,0.312,8:00
+4,6:29,MIL,Khris Middleton,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,85,90,0.232,0.232,6:29
+4,6:21,MIL,Grayson Allen,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,85,90,0.332,0.24,6:29
+4,4:45,DAL,Marquese Chriss,Personal Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,90,95,0.15,0.164,4:56
+4,21.7,DAL,Sterling Brown,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,92,100,0.001,0.003,30.2
+4,17.7,DAL,Frank Ntilikina,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Ray Acosta,DAL,92,100,0.001,0.002,21.7

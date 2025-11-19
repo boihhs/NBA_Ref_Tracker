@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:22,PHX,JaVale McGee,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,6,12,0.555,0.57,7:22
+1,6:45,PHX,Chris Paul,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,6,15,0.486,0.515,6:45
+1,6:17,PHX,Cameron Johnson,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,6,15,0.481,0.483,6:20
+1,5:51,MEM,Desmond Bane,Clear Path Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,6,17,0.45,0.452,5:52
+1,4:41,MEM,Steven Adams,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,11,19,0.568,0.527,4:50
+1,4:18,MEM,Kyle Anderson,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,13,19,0.578,0.579,4:30
+1,3:50,MEM,Kyle Anderson,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,13,22,0.534,0.492,4:02
+1,3:18,PHX,Cameron Payne,Personal Take Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,15,22,0.469,0.513,3:19
+2,10:53,MEM,Brandon Clarke,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,24,27,0.623,0.626,11:06
+2,8:47,MEM,John Konchar,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,28,31,0.609,0.612,8:58
+2,7:30,PHX,JaVale McGee,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,31,33,0.554,0.603,7:45
+2,5:39,MEM,Steven Adams,Offensive Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,35,39,0.556,0.523,5:44
+2,4:24,MEM,Kyle Anderson,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,39,41,0.595,0.579,4:24
+2,3:20,PHX,Cameron Payne,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,40,44,0.454,0.504,3:25
+2,2:47,MEM,Ja Morant,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,42,49,0.484,0.431,2:51
+2,2:26,PHX,JaVale McGee,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,44,49,0.438,0.462,2:42
+2,1:26,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,44,56,0.303,0.256,1:42
+2,52.8,MEM,Desmond Bane,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,45,56,0.327,0.283,54.6
+2,3.7,MEM,John Konchar,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,47,60,0.256,0.213,9.9
+2,1.8,PHX,Elfrid Payton,Personal Take Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,48,60,0.173,0.212,3.7
+3,11:17,MEM,Desmond Bane,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,50,62,0.228,0.229,11:27
+3,8:54,PHX,JaVale McGee,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,56,69,0.148,0.151,9:07
+3,8:40,MEM,Ja Morant,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,56,71,0.159,0.126,8:54
+3,3:15,PHX,Devin Booker,Technical Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,71,85,0.061,0.071,3:16
+3,43.4,PHX,Elfrid Payton,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,73,89,0.03,0.03,43.4
+4,11:06,PHX,Cameron Johnson,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,77,89,0.04,0.066,11:12
+4,10:30,MEM,Brandon Clarke,Offensive Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,80,91,0.094,0.078,10:52
+4,9:05,MEM,Tyus Jones,Loose Ball Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,86,94,0.179,0.129,9:05
+4,8:24,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,86,94,0.162,0.167,8:45
+4,8:13,MEM,Desmond Bane,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,86,94,0.172,0.16,8:14
+4,8:02,PHX,Jalen Smith,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,88,94,0.185,0.202,8:13
+4,7:57,PHX,Cameron Payne,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,88,94,0.178,0.185,8:02
+4,5:50,PHX,Chris Paul,Personal Take Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,91,96,0.119,0.185,5:51
+4,5:38,MEM,Steven Adams,Loose Ball Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,91,96,0.243,0.224,5:38
+4,4:06,PHX,JaVale McGee,Loose Ball Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,95,98,0.173,0.255,4:06
+4,2:25,MEM,Steven Adams,Personal Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,98,106,0.098,0.047,2:40
+4,2:21,MEM,Kyle Anderson,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,98,106,0.096,0.098,2:25
+4,2:05,PHX,JaVale McGee,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,101,108,0.03,0.069,2:05
+4,1:13,MEM,Desmond Bane,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,106,110,0.195,0.127,1:13
+4,51.3,MEM,John Konchar,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,John Butler,PHX,107,112,0.218,0.119,54.4

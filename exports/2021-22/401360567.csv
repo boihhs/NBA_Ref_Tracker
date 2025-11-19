@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,TOR,Scottie Barnes,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,0,0,0.592,0.592,12:00
+1,11:20,TOR,Pascal Siakam,Loose Ball Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,0,0,0.592,0.57,11:20
+1,11:04,MIA,Gabe Vincent,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,0,0,0.568,0.568,11:10
+1,6:44,TOR,Gary Trent Jr.,Loose Ball Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,12,13,0.559,0.561,6:44
+1,6:39,TOR,Chris Boucher,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,12,13,0.598,0.56,6:44
+1,3:37,TOR,Chris Boucher,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,18,22,0.513,0.472,3:42
+1,2:38,MIA,Caleb Martin,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,21,24,0.47,0.469,2:51
+1,19.2,MIA,Caleb Martin,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,27,28,0.52,0.52,19.2
+2,5:47,TOR,Pascal Siakam,Personal Take Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,36,48,0.211,0.21,5:48
+2,5:21,MIA,Max Strus,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,36,48,0.187,0.187,5:29
+2,4:15,MIA,Max Strus,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,36,50,0.112,0.14,4:28
+2,3:59,TOR,OG Anunoby,Defensive 3-Seconds Technical,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,36,51,0.133,0.139,4:15
+2,3:21,TOR,Fred VanVleet,Personal Take Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,39,51,0.198,0.199,3:21
+2,3:11,TOR,OG Anunoby,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,41,51,0.233,0.22,3:11
+2,2:34,TOR,Chris Boucher,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,42,53,0.257,0.219,2:48
+2,1:59,MIA,Bam Adebayo,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,45,55,0.176,0.214,2:14
+2,1:47,TOR,Scottie Barnes,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,45,57,0.186,0.187,1:59
+2,1:10,TOR,Gary Trent Jr.,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,47,57,0.276,0.234,1:10
+2,4.8,MIA,Gabe Vincent,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,53,57,0.331,0.384,26.4
+3,10:40,MIA,Gabe Vincent,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,56,59,0.411,0.412,10:56
+3,8:18,TOR,Pascal Siakam,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,59,64,0.363,0.364,8:19
+3,6:19,TOR,Chris Boucher,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,61,71,0.229,0.185,6:28
+3,3:55,TOR,OG Anunoby,Personal Take Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,63,79,0.05,0.05,3:56
+3,3:55,TOR,Fred VanVleet,Technical Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,63,79,0.05,0.05,3:55
+3,3:35,MIA,Tyler Herro,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,64,79,0.048,0.048,3:41
+3,2:52,TOR,Scottie Barnes,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,66,79,0.117,0.086,2:57
+3,1:18,MIA,Dewayne Dedmon,Offensive Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,70,83,0.057,0.074,1:26
+3,1.9,MIA,Jimmy Butler III,Offensive Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,75,85,0.107,0.127,8.8
+4,10:07,TOR,Dalano Banton,Offensive Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,83,85,0.434,0.385,10:23
+4,9:19,MIA,Dewayne Dedmon,Offensive Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,83,85,0.377,0.431,9:26
+4,8:44,MIA,Max Strus,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,83,85,0.36,0.373,8:48
+4,7:18,MIA,Caleb Martin,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,85,90,0.199,0.2,7:21
+4,5:35,TOR,Gary Trent Jr.,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,87,92,0.31,0.217,5:42
+4,3:45,MIA,Bam Adebayo,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,94,94,0.434,0.461,3:45
+4,36.6,MIA,Jimmy Butler III,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,100,98,0.474,0.667,51.9
+4,2.9,MIA,Jimmy Butler III,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,100,98,0.649,1.0,4.5
+5,4:13,MIA,Gabe Vincent,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,100,100,0.455,0.466,4:32
+5,2:38,TOR,Pascal Siakam,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,102,100,0.716,0.711,2:49
+5,2:16,MIA,P.J. Tucker,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,102,100,0.49,0.633,2:23
+5,2:03,MIA,Bam Adebayo,Offensive Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,102,101,0.534,0.636,2:16
+5,1:26,TOR,Fred VanVleet,Loose Ball Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,102,103,0.62,0.506,1:26
+5,16.8,MIA,Bam Adebayo,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,105,103,0.499,0.732,24.1
+6,4:23,MIA,P.J. Tucker,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,108,105,0.624,0.679,4:43
+6,4:09,TOR,Scottie Barnes,Shooting Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,110,107,0.799,0.684,4:09
+6,1:40,MIA,P.J. Tucker,Personal Take Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,112,111,0.532,0.532,1:41
+6,37.7,TOR,Gary Trent Jr.,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,112,114,0.499,0.275,41.5
+7,2:21,MIA,Tyler Herro,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,117,119,0.274,0.284,2:36
+7,16.3,TOR,Pascal Siakam,Offensive Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,120,122,0.274,0.183,30.5
+7,10.8,MIA,P.J. Tucker,Personal Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,120,122,0.053,0.158,10.8
+7,9.8,MIA,Bam Adebayo,Personal Take Foul,Foul,Matt Boland,Kevin Scott,Jonathan Sterling,MIA,120,122,0.051,0.053,10.8

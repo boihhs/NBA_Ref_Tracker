@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:44,BOS,Jaylen Brown,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,3,3,0.532,0.532,10:54
+1,10:09,BOS,Jaylen Brown,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,3,5,0.482,0.458,10:22
+1,7:54,BOS,Al Horford,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,8,8,0.57,0.531,8:08
+1,5:01,BOS,Neemias Queta,Offensive Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,14,16,0.479,0.448,5:04
+1,3:58,LAC,Norman Powell,Loose Ball Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,14,16,0.45,0.447,3:58
+1,3:19,LAC,Paul George,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,14,19,0.367,0.366,3:19
+1,3:03,LAC,Norman Powell,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,14,19,0.369,0.392,3:11
+1,1:18,BOS,Neemias Queta,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,19,23,0.459,0.478,4:31
+2,10:18,LAC,James Harden,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,23,30,0.263,0.3,10:21
+2,8:10,LAC,Russell Westbrook,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,31,38,0.296,0.294,8:22
+2,7:34,LAC,Kobe Brown,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,34,41,0.295,0.293,7:40
+2,7:21,BOS,Jrue Holiday,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,34,44,0.241,0.242,7:26
+2,6:20,LAC,Ivica Zubac,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,36,47,0.175,0.19,6:20
+2,5:04,BOS,Sam Hauser,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,40,55,0.127,0.128,5:20
+2,4:19,LAC,Kobe Brown,Flagrant Foul Type 1,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,40,55,0.112,0.08,4:19
+2,2:49,LAC,Ivica Zubac,Offensive Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,42,63,0.037,0.046,3:09
+2,1:38,LAC,James Harden,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,44,63,0.037,0.049,1:53
+2,47.0,LAC,Russell Westbrook,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,49,64,0.071,0.091,1:00
+3,11:13,LAC,Terance Mann,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,53,71,0.048,0.045,11:16
+3,10:31,LAC,Terance Mann,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,53,73,0.031,0.03,10:40
+3,9:54,BOS,Al Horford,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,53,78,0.011,0.011,10:01
+3,5:01,LAC,Ivica Zubac,Flagrant Foul Type 1,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,62,90,0.001,0.001,5:05
+3,3:47,LAC,James Harden,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,64,95,0.001,0.001,4:04
+3,3:06,BOS,Sam Hauser,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,68,99,0.001,0.001,3:06
+3,2:41,BOS,Sam Hauser,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,69,101,0.001,0.001,2:46
+3,2:22,LAC,Norman Powell,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,71,101,0.001,0.001,2:41
+3,1:12,BOS,Payton Pritchard,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,73,106,0.001,0.001,1:18
+3,1:01,BOS,Neemias Queta,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,75,106,0.001,0.001,1:01
+4,11:10,LAC,Norman Powell,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,81,108,0.001,0.001,11:16
+4,10:55,LAC,Russell Westbrook,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,81,108,0.001,0.001,11:10
+4,10:40,BOS,Payton Pritchard,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,81,109,0.001,0.001,10:55
+4,10:18,LAC,Brandon Boston,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,84,109,0.001,0.001,10:33
+4,9:28,LAC,Norman Powell,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,86,111,0.001,0.001,9:48
+4,9:06,BOS,Derrick White,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,88,112,0.001,0.001,9:06
+4,8:42,BOS,Neemias Queta,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,89,114,0.001,0.001,8:48
+4,8:25,LAC,Kobe Brown,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,89,114,0.001,0.001,8:32
+4,7:48,LAC,Daniel Theis,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,91,115,0.001,0.001,8:12
+4,7:22,LAC,Daniel Theis,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,91,119,0.001,0.001,7:22
+4,5:05,BOS,Derrick White,Personal Take Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,95,128,0.001,0.001,5:10
+4,4:17,BOS,Neemias Queta,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,98,131,0.001,0.001,4:37
+4,3:46,BOS,Payton Pritchard,Personal Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,100,131,0.001,0.001,3:59
+4,1:26,BOS,Drew Peterson,Shooting Foul,Foul,Kevin Cutler,Justin Van Duyne,Mousa Dagher,LAC,104,140,0.001,0.001,1:35

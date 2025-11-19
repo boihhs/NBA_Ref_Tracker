@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:49,DEN,Austin Rivers,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,11,12,0.6,0.552,7:49
+1,7:19,DAL,Dwight Powell,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,11,14,0.503,0.502,7:26
+1,6:07,DEN,Jeff Green,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,15,16,0.598,0.553,6:07
+1,5:34,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,16,18,0.525,0.523,5:45
+1,3:36,DEN,Bones Hyland,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,23,25,0.565,0.519,3:36
+1,3:09,DEN,Aaron Gordon,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,24,25,0.612,0.573,3:18
+2,11:16,DEN,JaMychal Green,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,35,32,0.674,0.675,11:27
+2,10:10,DAL,Sterling Brown,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,37,36,0.568,0.618,10:10
+2,9:34,DAL,Jalen Brunson,Personal Take Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,37,39,0.499,0.499,9:36
+2,9:15,DEN,Bol Bol,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,37,39,0.573,0.529,9:21
+2,8:09,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,41,42,0.502,0.527,8:09
+2,7:21,DEN,Aaron Gordon,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,41,44,0.491,0.495,7:31
+2,5:11,DAL,Luka Doncic,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,44,44,0.499,0.546,5:18
+2,4:19,DAL,Dorian Finney-Smith,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,44,45,0.465,0.515,4:20
+2,47.9,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,49,56,0.315,0.406,2:30
+3,12:00,DAL,Luka Doncic,Technical Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,49,58,0.212,0.25,12:00
+3,11:28,DEN,Aaron Gordon,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,49,61,0.177,0.178,11:40
+3,10:09,DEN,Monte Morris,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,53,66,0.145,0.147,10:20
+3,9:29,DAL,Dwight Powell,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,56,66,0.201,0.186,9:29
+3,6:59,DEN,Nikola Jokic,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,62,70,0.308,0.257,7:04
+3,6:23,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,63,72,0.189,0.219,6:23
+3,5:34,DAL,Kristaps Porzingis,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,66,73,0.245,0.245,5:50
+3,5:14,DEN,PJ Dozier,Double Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,66,75,0.258,0.21,5:15
+3,1:44,DAL,Boban Marjanovic,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,77,81,0.261,0.325,1:59
+3,1:32,DEN,Bones Hyland,Personal Take Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,77,81,0.437,0.356,1:35
+4,10:39,DEN,JaMychal Green,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,85,83,0.757,0.359,24.0
+4,10:39,DAL,Dorian Finney-Smith,Double Technical Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,85,83,0.726,0.368,1:35
+4,8:27,DEN,Bones Hyland,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,92,85,0.914,0.902,8:27
+4,8:09,DAL,Jalen Brunson,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,93,85,0.924,0.928,8:27
+4,8:06,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,93,85,0.881,0.924,8:09
+4,6:58,DAL,Kristaps Porzingis,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,95,88,0.905,0.91,7:17
+4,5:52,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,98,88,0.948,0.97,6:01
+4,2:46,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,106,97,0.968,0.984,2:52
+4,44.0,DAL,Luka Doncic,Shooting Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,111,98,0.999,0.999,52.8
+4,35.2,DEN,Monte Morris,Personal Foul,Foul,Derrick Collins,CJ Washington,Kevin Scott,DAL,111,101,0.999,0.999,35.5

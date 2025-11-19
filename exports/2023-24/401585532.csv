@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:32,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,5,11,0.427,0.463,9:48
+1,2:36,MIA,Duncan Robinson,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,24,31,0.432,0.429,2:42
+1,2:35,MIA,Caleb Martin,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,24,31,0.432,0.432,2:36
+2,11:37,MIA,Thomas Bryant,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,28,36,0.429,0.387,11:39
+2,8:44,DAL,Dante Exum,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,40,45,0.427,0.428,8:56
+2,8:34,MIA,Jimmy Butler III,Loose Ball Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,40,45,0.457,0.457,8:35
+2,7:38,DAL,Dereck Lively II,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,43,45,0.47,0.517,7:45
+2,7:01,MIA,Thomas Bryant,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,43,46,0.558,0.515,7:08
+2,5:13,MIA,Bam Adebayo,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,44,50,0.457,0.411,5:35
+2,5:00,MIA,Caleb Martin,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,45,50,0.463,0.439,5:00
+2,4:27,DAL,Daniel Gafford,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,46,50,0.435,0.435,4:32
+2,4:13,MIA,Duncan Robinson,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,46,50,0.517,0.468,4:16
+2,1:52,MIA,Terry Rozier,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,50,55,0.473,0.422,2:01
+2,1:17,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,52,55,0.4,0.449,1:22
+2,11.0,DAL,P.J. Washington,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,54,57,0.393,0.448,13.0
+3,6:51,MIA,Terry Rozier,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,65,67,0.556,0.496,7:06
+3,6:32,DAL,Dereck Lively II,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,67,67,0.472,0.532,6:51
+3,5:42,MIA,Duncan Robinson,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,69,71,0.553,0.492,6:00
+3,3:45,DAL,Dante Exum,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,79,73,0.761,0.759,4:03
+3,3:35,MIA,Caleb Martin,Flagrant Foul Type 1,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,79,73,0.785,0.796,3:37
+3,2:42,DAL,Luka Doncic,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,83,75,0.831,0.829,2:45
+3,2:25,MIA,Duncan Robinson,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,83,75,0.892,0.858,2:28
+3,1:36,DAL,Maxi Kleber,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,88,78,0.848,0.885,1:46
+3,1:21,DAL,Luka Doncic,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,88,78,0.85,0.848,1:36
+3,33.1,DAL,Dereck Lively II,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,91,83,0.789,0.869,33.1
+4,10:42,DAL,Daniel Gafford,Loose Ball Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,93,88,0.735,0.747,10:42
+4,10:34,DAL,Kyrie Irving,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,93,88,0.729,0.735,10:42
+4,9:56,MIA,Jimmy Butler III,Offensive Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,93,88,0.786,0.739,10:08
+4,7:21,DAL,Daniel Gafford,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,95,93,0.486,0.596,7:35
+4,7:12,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,95,95,0.545,0.532,7:21
+4,4:05,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,100,101,0.475,0.461,4:26
+4,1:19,MIA,Caleb Martin,Loose Ball Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,109,104,0.969,0.929,1:19
+4,33.1,DAL,Dereck Lively II,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,111,106,0.806,0.914,37.1
+4,21.1,MIA,Caleb Martin,Personal Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,111,108,0.949,0.866,33.1
+4,9.1,MIA,Caleb Martin,Shooting Foul,Foul,Zach Zarba,Aaron Smith,Andy Nagy,DAL,113,108,0.997,0.982,12.0

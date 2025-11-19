@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,ATL,Jalen Johnson,Offensive Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,2,0,0.649,0.671,11:04
+1,10:26,HOU,Dillon Brooks,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,2,3,0.635,0.648,10:26
+1,5:08,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,15,17,0.491,0.532,5:17
+1,4:01,ATL,Jalen Johnson,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,15,21,0.377,0.417,4:05
+1,1:15,HOU,Jae'Sean Tate,Loose Ball Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,19,29,0.365,0.323,1:15
+2,11:35,HOU,Jeff Green,Offensive Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,19,31,0.259,0.231,11:42
+2,11:25,HOU,Aaron Holiday,Personal Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,19,31,0.258,0.259,11:35
+2,10:56,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,21,31,0.246,0.284,11:18
+2,9:05,HOU,Aaron Holiday,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,28,34,0.436,0.383,9:05
+2,8:51,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,29,34,0.392,0.412,8:51
+2,7:42,HOU,Amen Thompson,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,29,36,0.423,0.346,7:55
+2,6:20,HOU,HOU,Technical Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,35,38,0.518,0.463,6:21
+2,5:40,HOU,Jock Landale,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,38,38,0.632,0.554,5:45
+2,5:23,ATL,Saddiq Bey,Loose Ball Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,40,38,0.617,0.617,5:40
+2,5:02,ATL,Onyeka Okongwu,Offensive Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,40,40,0.552,0.588,5:16
+2,4:52,ATL,Trae Young,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,40,40,0.504,0.552,5:02
+2,42.1,HOU,Jalen Green,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,53,49,0.748,0.707,51.1
+3,10:55,HOU,Dillon Brooks,Defensive 3-Seconds Technical,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,62,49,0.906,0.909,11:02
+3,10:51,HOU,Amen Thompson,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,62,49,0.929,0.909,10:55
+3,10:09,HOU,Jeff Green,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,64,52,0.919,0.898,10:10
+3,9:35,HOU,Jeff Green,Offensive Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,66,54,0.9,0.883,9:40
+3,7:14,HOU,Amen Thompson,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,70,62,0.861,0.829,7:29
+3,6:42,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,71,64,0.752,0.804,6:42
+3,4:58,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,80,68,0.94,0.92,4:58
+3,4:39,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,80,70,0.846,0.885,4:39
+3,3:32,HOU,Jae'Sean Tate,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,80,72,0.881,0.846,3:44
+3,2:23,ATL,Kobe Bufkin,Loose Ball Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,86,72,0.946,0.946,2:23
+3,1:50,HOU,Nate Williams,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,86,75,0.944,0.919,2:18
+3,33.1,HOU,Nate Williams,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,93,81,0.962,0.944,48.0
+3,28.1,ATL,Jalen Johnson,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,95,83,0.915,0.946,28.1
+4,11:30,HOU,Amen Thompson,Personal Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,95,84,0.941,0.938,11:39
+4,10:46,HOU,Reggie Bullock Jr.,Personal Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,95,86,0.915,0.909,10:46
+4,10:43,HOU,Aaron Holiday,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,97,86,0.959,0.931,10:43
+4,10:35,ATL,Trae Young,Personal Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,98,86,0.944,0.947,10:43
+4,10:34,ATL,Garrison Mathews,Personal Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,98,86,0.941,0.944,10:35
+4,10:14,ATL,Bogdan Bogdanovic,Offensive Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,98,88,0.911,0.93,10:23
+4,10:05,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,98,88,0.865,0.911,10:14
+4,9:01,HOU,Aaron Holiday,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,98,92,0.864,0.835,9:01
+4,6:35,HOU,Nate Williams,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,104,95,0.964,0.942,6:40
+4,5:50,HOU,Jeff Green,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,107,97,0.979,0.964,5:54
+4,5:10,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,109,97,0.96,0.978,5:15
+4,4:49,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,109,98,0.989,0.978,5:10
+4,4:46,ATL,Trae Young,Personal Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,111,98,0.974,0.986,4:49
+4,3:06,HOU,Dillon Brooks,Shooting Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,113,107,0.936,0.876,3:06
+4,2:32,HOU,Amen Thompson,Personal Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,114,109,0.939,0.886,2:49
+4,1:05,HOU,Dillon Brooks,Personal Foul,Foul,Tom Washington,Tyler Ford,Jonathan Sterling,ATL,118,113,0.967,0.926,1:09

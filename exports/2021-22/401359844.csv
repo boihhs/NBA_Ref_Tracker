@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:12,NY,Julius Randle,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,0,3,0.233,0.207,11:28
+1,8:10,ORL,Franz Wagner,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,9,9,0.227,0.255,8:14
+1,8:00,ORL,Mo Bamba,Loose Ball Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,9,10,0.237,0.256,8:00
+1,6:25,ORL,Wendell Carter Jr.,Personal Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,13,16,0.206,0.204,6:33
+1,6:17,ORL,Cole Anthony,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,13,16,0.182,0.315,9:04
+1,5:56,NY,Mitchell Robinson,Personal Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,13,17,0.208,0.208,6:14
+1,5:12,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,13,19,0.148,0.176,5:12
+1,4:34,ORL,R.J. Hampton,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,16,22,0.149,0.177,4:34
+1,24.6,NY,Julius Randle,Offensive Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,16,36,0.036,0.031,29.2
+1,16.5,ORL,Moritz Wagner,Offensive Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,16,36,0.031,0.036,24.6
+2,11:30,NY,Obi Toppin,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,18,36,0.052,0.04,11:30
+2,11:05,ORL,Ignas Brazdeikis,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,19,38,0.037,0.04,11:05
+2,9:36,ORL,Cole Anthony,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,22,43,0.02,0.025,10:00
+2,9:24,NY,Jericho Sims,Personal Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,22,44,0.024,0.025,9:36
+2,7:32,ORL,Jalen Suggs,Personal Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,25,50,0.012,0.011,7:42
+2,6:20,ORL,Terrence Ross,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,25,50,0.008,0.011,6:35
+2,5:12,NY,Mitchell Robinson,Personal Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,25,56,0.003,0.003,5:26
+2,2:26,ORL,R.J. Hampton,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,33,58,0.009,0.008,2:29
+2,6.2,NY,Evan Fournier,Personal Take Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,35,65,0.002,0.002,8.2
+3,10:27,NY,Julius Randle,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,35,69,0.001,0.001,10:27
+3,9:36,ORL,Jalen Suggs,Personal Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,39,69,0.001,0.001,9:37
+3,7:58,NY,Evan Fournier,Personal Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,43,69,0.004,0.003,8:06
+3,6:48,NY,Mitchell Robinson,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,49,71,0.015,0.01,6:53
+3,5:37,NY,Kemba Walker,Personal Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,54,73,0.026,0.019,5:55
+3,3:39,NY,Obi Toppin,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,57,78,0.013,0.008,3:55
+3,1:08,ORL,Moritz Wagner,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,62,86,0.001,0.001,1:13
+4,11:03,NY,Alec Burks,Personal Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,67,89,0.002,0.003,11:25
+4,10:51,NY,Mitchell Robinson,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,69,89,0.003,0.003,10:51
+4,8:52,NY,Obi Toppin,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,76,97,0.004,0.002,9:03
+4,6:41,NY,Mitchell Robinson,Offensive Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,81,105,0.001,0.001,7:00
+4,4:30,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,83,114,0.001,0.001,4:32
+4,4:30,NY,Julius Randle,Technical Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,83,114,0.001,0.001,4:30
+4,4:28,NY,Derrick Rose,Personal Take Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,83,115,0.001,0.001,4:29
+4,3:49,NY,Kevin Knox II,Shooting Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,85,115,0.001,0.001,3:56
+4,2:40,ORL,Moritz Wagner,Personal Foul,Foul,Bennie Adams,Rodney Mott,J.B. DeRosa,ORL,89,121,0.001,0.001,2:40

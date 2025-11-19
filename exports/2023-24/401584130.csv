@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,UTAH,Ochai Agbaji,Personal Foul,Foul,,,,LAL,2,0,0.627,0.628,10:47
+1,7:57,UTAH,John Collins,Shooting Foul,Foul,,,,LAL,6,4,0.661,0.625,7:59
+1,7:31,LAL,Cam Reddish,Personal Foul,Foul,,,,LAL,8,4,0.651,0.65,7:31
+1,6:15,UTAH,Kelly Olynyk,Shooting Foul,Foul,,,,LAL,11,7,0.708,0.674,6:23
+1,4:50,UTAH,Kelly Olynyk,Shooting Foul,Foul,,,,LAL,14,9,0.732,0.698,4:58
+1,2:40,LAL,Christian Wood,Shooting Foul,Foul,,,,LAL,24,11,0.814,0.841,2:52
+1,1:12,LAL,Christian Wood,Shooting Foul,Foul,,,,LAL,29,12,0.881,0.901,1:21
+1,55.1,UTAH,Lauri Markkanen,Shooting Foul,Foul,,,,LAL,29,12,0.929,0.914,1:02
+2,11:08,LAL,Jaxson Hayes,Shooting Foul,Foul,,,,LAL,32,20,0.803,0.833,11:10
+2,7:27,UTAH,Collin Sexton,Shooting Foul,Foul,,,,LAL,40,29,0.853,0.821,7:27
+2,6:56,UTAH,Simone Fontecchio,Personal Foul,Foul,,,,LAL,40,29,0.841,0.841,7:13
+2,4:48,UTAH,Keyonte George,Personal Foul,Foul,,,,LAL,48,35,0.881,0.883,4:50
+2,2:59,LAL,Anthony Davis,Offensive Foul,Foul,,,,LAL,51,37,0.887,0.901,3:10
+2,2:24,UTAH,Ochai Agbaji,Loose Ball Foul,Foul,,,,LAL,51,37,0.923,0.888,2:35
+2,2:10,UTAH,Keyonte George,Personal Foul,Foul,,,,LAL,51,37,0.924,0.903,2:24
+2,1:57,UTAH,Jordan Clarkson,Loose Ball Foul,Foul,,,,LAL,53,37,0.946,0.93,1:57
+2,1:40,UTAH,Lauri Markkanen,Personal Foul,Foul,,,,LAL,55,37,0.963,0.951,1:40
+2,40.1,UTAH,John Collins,Loose Ball Foul,Foul,,,,LAL,60,39,0.98,0.973,40.1
+2,38.0,LAL,D'Angelo Russell,Personal Foul,Foul,,,,LAL,62,39,0.971,0.979,40.1
+2,33.0,LAL,D'Angelo Russell,Shooting Foul,Foul,,,,LAL,62,39,0.971,0.971,38.0
+3,7:50,LAL,Max Christie,Shooting Foul,Foul,,,,LAL,72,53,0.963,0.976,7:50
+3,5:03,UTAH,John Collins,Shooting Foul,Foul,,,,LAL,83,59,0.996,0.994,5:03
+3,4:45,LAL,Rui Hachimura,Shooting Foul,Foul,,,,LAL,84,59,0.993,0.995,4:48
+3,3:52,UTAH,Kelly Olynyk,Offensive Foul,Foul,,,,LAL,86,63,0.995,0.993,4:04
+3,2:56,LAL,Rui Hachimura,Personal Foul,Foul,,,,LAL,92,63,0.999,0.999,3:14
+3,1:45,LAL,Christian Wood,Personal Foul,Foul,,,,LAL,95,65,0.999,0.999,2:01
+3,1:21,UTAH,Collin Sexton,Hanging Technical Foul,Foul,,,,LAL,95,67,0.999,0.999,1:22
+3,1:09,UTAH,Collin Sexton,Shooting Foul,Foul,,,,LAL,95,67,0.999,0.999,1:21
+3,28.0,UTAH,Omer Yurtseven,Shooting Foul,Foul,,,,LAL,101,73,0.999,0.999,28.0
+4,11:46,UTAH,Talen Horton-Tucker,Personal Foul,Foul,,,,LAL,102,75,0.999,0.999,0.0
+4,7:44,UTAH,Luka Samanic,Shooting Foul,Foul,,,,LAL,112,81,0.999,0.999,8:03
+4,7:12,LAL,Rui Hachimura,Shooting Foul,Foul,,,,LAL,114,86,0.999,0.999,7:12
+4,6:56,UTAH,Kris Dunn,Shooting Foul,Foul,,,,LAL,116,86,0.999,0.999,6:56
+4,5:19,UTAH,Simone Fontecchio,Personal Foul,Foul,,,,LAL,122,86,0.999,0.999,5:33
+4,4:58,LAL,Max Christie,Shooting Foul,Foul,,,,LAL,124,86,0.999,0.999,5:10
+4,4:27,LAL,Christian Wood,Shooting Foul,Foul,,,,LAL,124,88,0.999,0.999,4:27
+4,3:25,UTAH,Simone Fontecchio,Personal Foul,Foul,,,,LAL,126,90,0.999,0.999,3:30

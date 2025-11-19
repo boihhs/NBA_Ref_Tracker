@@ -1,0 +1,59 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:16,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,5,4,0.901,0.915,10:33
+1,6:58,UTAH,Royce O'Neale,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,9,17,0.759,0.793,6:58
+1,6:17,UTAH,Hassan Whiteside,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,9,18,0.712,0.747,6:25
+1,4:40,UTAH,Joe Ingles,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,11,22,0.636,0.679,4:56
+1,4:13,UTAH,Donovan Mitchell,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,11,22,0.629,0.67,4:13
+1,4:01,DAL,Moses Brown,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,11,24,0.627,0.642,4:01
+1,3:26,DAL,Sterling Brown,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,13,26,0.632,0.603,3:26
+1,3:18,UTAH,Rudy Gay,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,14,26,0.585,0.633,3:26
+1,2:11,DAL,Jalen Brunson,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,17,30,0.655,0.614,2:18
+1,1.3,DAL,Charlie Brown Jr.,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,23,34,0.621,0.638,9.6
+2,11:48,DAL,Sterling Brown,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,25,34,0.725,0.677,12:00
+2,10:07,DAL,Frank Ntilikina,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,33,36,0.802,0.806,10:18
+2,9:23,UTAH,Joe Ingles,Technical Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,36,38,0.782,0.798,9:28
+2,9:03,DAL,Marquese Chriss,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,36,38,0.811,0.813,9:14
+2,8:28,DAL,Sterling Brown,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,39,38,0.879,0.858,8:29
+2,8:00,DAL,Marquese Chriss,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,39,40,0.847,0.823,8:10
+2,7:40,DAL,Jalen Brunson,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,43,40,0.891,0.867,7:40
+2,6:33,UTAH,Donovan Mitchell,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,46,43,0.838,0.861,6:35
+2,6:11,DAL,Frank Ntilikina,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,46,43,0.895,0.874,6:17
+2,5:58,UTAH,Hassan Whiteside,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,47,43,0.876,0.875,6:09
+2,5:46,UTAH,Hassan Whiteside,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,47,44,0.833,0.858,5:58
+2,5:32,DAL,George King,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,47,46,0.864,0.841,5:46
+2,4:14,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,52,46,0.872,0.893,4:17
+2,2:43,DAL,Brandon Knight,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,58,54,0.866,0.858,2:43
+2,1:47,UTAH,Mike Conley,Personal Take Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,61,56,0.845,0.87,1:50
+2,1:31,DAL,Jalen Brunson,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,61,56,0.905,0.885,1:37
+2,1:26,UTAH,Bojan Bogdanovic,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,63,56,0.875,0.898,1:31
+2,49.8,DAL,Dwight Powell,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,63,58,0.903,0.883,56.4
+2,0.4,UTAH,Rudy Gay,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,65,61,0.814,0.845,15.4
+3,11:34,UTAH,Donovan Mitchell,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,65,65,0.749,0.779,11:34
+3,11:34,UTAH,Donovan Mitchell,Technical Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,65,65,0.729,0.749,11:34
+3,10:17,DAL,Jalen Brunson,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,68,70,0.71,0.712,10:28
+3,9:16,UTAH,Royce O'Neale,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,70,70,0.728,0.728,9:23
+3,8:20,DAL,Kristaps Porzingis,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,70,72,0.686,0.689,8:30
+3,8:14,UTAH,Bojan Bogdanovic,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,70,72,0.65,0.686,8:20
+3,7:11,UTAH,Rudy Gobert,Away from Play Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,72,77,0.52,0.56,7:11
+3,6:30,UTAH,Hassan Whiteside,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,75,78,0.529,0.593,6:49
+3,5:49,DAL,Moses Brown,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,75,80,0.539,0.541,5:58
+3,3:01,DAL,Moses Brown,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,84,86,0.597,0.575,3:01
+3,1:45,DAL,Moses Brown,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,86,88,0.6,0.6,1:45
+3,1:15,DAL,Marquese Chriss,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,87,88,0.668,0.638,1:15
+3,33.6,UTAH,Rudy Gay,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,90,88,0.734,0.715,34.6
+3,5.4,DAL,Marquese Chriss,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,90,90,0.667,0.626,9.7
+4,10:54,DAL,Brandon Knight,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,92,93,0.66,0.559,10:54
+4,10:36,UTAH,Joe Ingles,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,92,93,0.461,0.561,10:52
+4,10:25,DAL,Marquese Chriss,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,92,94,0.646,0.555,10:36
+4,10:04,DAL,Sterling Brown,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,94,94,0.659,0.659,10:04
+4,7:14,DAL,Dwight Powell,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,99,94,0.911,0.863,7:26
+4,5:48,UTAH,Bojan Bogdanovic,Away from Play Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,105,96,0.945,0.947,5:48
+4,4:55,UTAH,Rudy Gobert,Clear Path Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,107,100,0.903,0.913,4:55
+4,4:25,DAL,Sterling Brown,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,107,105,0.819,0.739,4:25
+4,2:53,DAL,Jalen Brunson,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,111,107,0.922,0.867,2:53
+4,2:30,UTAH,Royce O'Neale,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,112,107,0.767,0.874,2:30
+4,2:19,DAL,Kristaps Porzingis,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,112,107,0.908,0.767,2:30
+4,1:40,UTAH,Royce O'Neale,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,115,107,0.929,0.961,2:01
+4,1:23,DAL,Frank Ntilikina,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,117,109,0.985,0.971,1:23
+4,1:00,UTAH,Rudy Gobert,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,118,112,0.927,0.956,1:14
+4,26.5,DAL,Dwight Powell,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,UTAH,118,114,0.969,0.925,26.5

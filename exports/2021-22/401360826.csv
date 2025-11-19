@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,SA,Zach Collins,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,6,2,0.644,0.687,10:27
+1,9:52,IND,Chris Duarte,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,6,5,0.613,0.615,9:59
+1,9:02,SA,Devin Vassell,Loose Ball Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,8,5,0.638,0.639,9:02
+1,8:40,IND,Oshae Brissett,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,8,8,0.625,0.59,8:52
+1,8:39,SA,Tre Jones,Personal Take Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,11,8,0.637,0.638,8:40
+1,7:31,SA,Zach Collins,Loose Ball Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,11,11,0.523,0.562,7:31
+1,5:33,IND,Buddy Hield,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,15,15,0.583,0.585,5:39
+1,4:55,IND,Chris Duarte,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,15,18,0.543,0.503,5:12
+1,4:39,SA,Joshua Primo,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,15,18,0.435,0.476,4:49
+1,4:28,IND,Duane Washington Jr.,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,15,20,0.488,0.448,4:39
+1,2:32,IND,Keifer Sykes,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,17,28,0.319,0.282,2:40
+1,1:01,SA,Josh Richardson,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,26,32,0.336,0.38,1:17
+2,9:06,IND,Goga Bitadze,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,37,45,0.335,0.334,9:12
+2,8:31,SA,Joshua Primo,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,39,45,0.36,0.357,8:44
+2,8:08,SA,Keita Bates-Diop,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,41,45,0.373,0.417,8:20
+2,7:32,SA,Zach Collins,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,43,47,0.37,0.416,7:51
+2,7:32,IND,Isaiah Jackson,Double Technical Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,43,47,0.44,0.37,7:32
+2,5:52,SA,Josh Richardson,Offensive Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,45,54,0.261,0.293,6:06
+2,5:08,SA,Jock Landale,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,45,56,0.191,0.209,5:18
+2,4:52,IND,Duane Washington Jr.,Loose Ball Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,45,58,0.184,0.184,4:52
+2,3:51,IND,Keifer Sykes,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,47,62,0.168,0.138,4:03
+2,3:41,SA,Devin Vassell,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,48,62,0.11,0.136,3:51
+3,10:26,IND,Isaiah Jackson,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,64,76,0.203,0.164,10:40
+3,8:40,SA,Zach Collins,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,68,83,0.059,0.077,8:54
+3,6:17,IND,Buddy Hield,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,70,88,0.041,0.042,6:20
+3,4:42,IND,Chris Duarte,Personal Take Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,74,90,0.053,0.055,4:46
+3,4:22,SA,Josh Richardson,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,74,90,0.043,0.043,4:30
+3,3:43,IND,Goga Bitadze,Personal Take Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,74,93,0.034,0.024,3:46
+3,2:57,IND,Goga Bitadze,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,74,93,0.031,0.021,3:07
+3,1:54,IND,Duane Washington Jr.,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,75,93,0.033,0.042,6:37
+4,10:58,IND,Jalen Smith,Offensive Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,82,99,0.016,0.012,11:05
+4,10:04,IND,Isaiah Jackson,Offensive Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,88,99,0.079,0.061,10:07
+4,7:43,IND,Duane Washington Jr.,Shooting Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,95,106,0.079,0.042,7:43
+4,5:25,IND,Isaiah Jackson,Offensive Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,97,113,0.004,0.003,5:34
+4,3:26,SA,Devin Vassell,Personal Take Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,101,113,0.005,0.005,3:28
+4,3:13,IND,Jalen Smith,Personal Foul,Foul,Matt Boland,David Guthrie,J.T. Orr,SA,101,113,0.01,0.008,3:15

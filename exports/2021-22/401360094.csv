@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:21,BOS,Grant Williams,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,3,8,0.349,0.386,9:25
+1,8:25,BOS,Jaylen Brown,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,5,12,0.337,0.336,8:28
+1,7:34,BKN,James Harden,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,5,14,0.346,0.309,7:52
+1,7:10,BKN,James Harden,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,7,16,0.307,0.308,7:17
+1,6:22,BOS,Jayson Tatum,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,9,18,0.282,0.282,6:32
+1,4:12,BOS,Al Horford,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,16,20,0.362,0.4,4:29
+1,2:27,BOS,Dennis Schroder,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,18,24,0.303,0.345,2:34
+1,1:40,BOS,Jayson Tatum,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,20,25,0.327,0.37,1:58
+1,47.8,BOS,Romeo Langford,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,20,27,0.273,0.31,54.4
+1,37.2,BKN,Paul Millsap,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,20,29,0.327,0.284,47.8
+1,26.0,BKN,Patty Mills,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,20,29,0.326,0.287,26.7
+2,10:36,BKN,Paul Millsap,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,24,34,0.274,0.232,10:36
+2,9:36,BKN,Jevon Carter,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,25,40,0.175,0.146,9:47
+2,9:26,BOS,Aaron Nesmith,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,27,40,0.137,0.164,9:36
+2,7:06,BOS,Aaron Nesmith,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,33,45,0.147,0.174,7:09
+2,5:54,BKN,Jevon Carter,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,36,50,0.15,0.151,6:07
+2,4:04,BKN,DeAndre' Bembry,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,37,52,0.151,0.124,4:09
+2,4:04,BKN,DeAndre' Bembry,Technical Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,37,52,0.137,0.151,4:04
+2,1:44,BOS,Grant Williams,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,46,56,0.157,0.193,2:01
+2,41.7,BOS,Al Horford,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,49,58,0.174,0.214,52.6
+3,12:00,BOS,BOS,Technical Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,49,62,0.108,0.108,12:00
+3,10:35,BKN,Kevin Durant,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,51,67,0.074,0.068,10:35
+3,8:12,BKN,Kevin Durant,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,52,80,0.003,0.003,8:21
+3,7:40,BOS,Al Horford,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,55,80,0.004,0.006,8:06
+3,7:13,BKN,James Harden,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,55,82,0.007,0.004,7:24
+3,5:56,BKN,DeAndre' Bembry,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,59,84,0.009,0.006,6:04
+3,4:32,BOS,Al Horford,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,62,89,0.001,0.002,5:01
+3,4:15,BOS,Dennis Schroder,Personal Take Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,62,90,0.001,0.001,4:16
+3,3:50,BOS,Jabari Parker,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,62,90,0.001,0.001,3:50
+3,3:40,BKN,DeAndre' Bembry,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,62,91,0.001,0.001,3:48
+3,2:50,BOS,Jaylen Brown,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,66,91,0.001,0.002,3:05
+3,5.5,BKN,Cam Thomas,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,73,97,0.003,0.001,15.3
+3,4.3,BKN,James Johnson,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,74,97,0.005,0.002,4.3
+4,11:33,BKN,Paul Millsap,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,76,97,0.009,0.005,11:38
+4,11:00,BOS,Marcus Smart,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,81,97,0.015,0.018,11:14
+4,10:55,BOS,Marcus Smart,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,81,97,0.014,0.015,11:00
+4,10:48,BOS,Marcus Smart,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,81,97,0.014,0.014,10:55
+4,8:26,BOS,Dennis Schroder,Personal Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,85,99,0.009,0.017,8:38
+4,7:40,BKN,James Johnson,Loose Ball Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,85,102,0.006,0.004,8:02
+4,7:33,BKN,Paul Millsap,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,85,102,0.009,0.006,7:33
+4,7:06,BKN,James Johnson,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,87,102,0.01,0.013,7:06
+4,6:39,BOS,Jabari Parker,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,88,106,0.002,0.003,6:39
+4,5:46,BKN,Kevin Durant,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,91,107,0.008,0.003,5:46
+4,4:08,BOS,Grant Williams,Personal Take Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,96,112,0.001,0.001,4:08
+4,2:18,BOS,Jabari Parker,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,96,119,0.001,0.001,2:18
+4,1:10,BKN,Cam Thomas,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,98,121,0.001,0.001,1:10
+4,50.0,BKN,Jevon Carter,Shooting Foul,Foul,Matt Boland,Tony Brothers,Evan Scott,BOS,101,123,0.001,0.001,50.0

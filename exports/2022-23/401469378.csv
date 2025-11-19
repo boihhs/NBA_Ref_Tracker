@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:32,CHI,Alex Caruso,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,4,2,0.934,0.935,10:48
+1,7:46,CHI,Patrick Beverley,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,15,7,0.959,0.959,8:03
+1,7:02,DET,Jalen Duren,Defensive 3-Seconds Technical,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,15,7,0.961,0.962,7:15
+1,4:46,CHI,DeMar DeRozan,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,20,9,0.966,0.967,4:48
+1,4:21,CHI,Zach LaVine,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,22,9,0.968,0.973,4:29
+1,2:31,CHI,Nikola Vucevic,Transition Take Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,22,12,0.959,0.959,2:31
+1,1:28,DET,Jared Rhoden,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,24,18,0.95,0.941,1:38
+2,11:11,CHI,Andre Drummond,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,29,25,0.901,0.91,11:11
+2,9:51,DET,Cory Joseph,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,31,28,0.911,0.904,9:51
+2,7:38,DET,Jared Rhoden,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,35,31,0.905,0.906,7:41
+2,6:48,DET,Marvin Bagley III,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,37,31,0.935,0.923,6:57
+2,3:51,CHI,Patrick Beverley,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,45,33,0.945,0.955,4:12
+2,2:26,CHI,Patrick Beverley,Technical Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,45,43,0.821,0.884,2:27
+2,1:55,DET,Jaden Ivey,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,45,44,0.857,0.833,1:58
+2,1:33,CHI,Patrick Beverley,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,47,44,0.818,0.849,1:55
+2,1:05,DET,Jalen Duren,Offensive Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,49,44,0.893,0.878,1:16
+3,9:28,DET,Jaden Ivey,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,56,50,0.895,0.897,9:28
+3,9:16,DET,Jaden Ivey,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,56,50,0.893,0.895,9:28
+3,7:41,CHI,Andre Drummond,Defensive 3-Seconds Technical,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,60,53,0.894,0.892,8:01
+3,6:51,DET,James Wiseman,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,60,55,0.895,0.871,7:01
+3,6:36,CHI,Patrick Beverley,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,60,55,0.849,0.849,6:46
+3,3:03,CHI,Patrick Williams,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,62,60,0.747,0.748,3:15
+3,1:23,CHI,Dalen Terry,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,64,62,0.672,0.734,1:31
+3,1:08,DET,Jaden Ivey,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,64,62,0.815,0.767,1:11
+4,8:43,CHI,Ayo Dosunmu,Defensive 3-Seconds Technical,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,74,68,0.863,0.855,8:58
+4,8:33,CHI,Dalen Terry,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,74,69,0.811,0.82,8:43
+4,8:14,DET,Marvin Bagley III,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,74,69,0.901,0.852,8:19
+4,6:45,CHI,Marko Simonovic,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,83,71,0.973,0.975,6:55
+4,5:41,DET,James Wiseman,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,87,73,0.996,0.993,5:46
+4,4:49,CHI,Marko Simonovic,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,92,73,0.998,0.999,4:49
+4,4:33,CHI,Terry Taylor,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,92,75,0.996,0.998,4:35
+4,3:52,DET,Jared Rhoden,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,94,75,0.999,0.999,3:56
+4,3:33,DET,Jalen Duren,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,98,75,0.999,0.999,3:33
+4,3:24,DET,Jaden Ivey,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,98,75,0.999,0.999,3:24
+4,2:47,CHI,Marko Simonovic,Shooting Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,99,75,0.999,0.999,2:59
+4,2:12,DET,Jaden Ivey,Personal Foul,Foul,Marc Davis,Michael Smith,Leon Wood,CHI,99,79,0.999,0.999,2:22

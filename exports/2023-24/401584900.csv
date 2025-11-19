@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,ATL,Clint Capela,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,5,2,0.301,0.265,10:51
+1,9:45,SA,Jeremy Sochan,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,9,4,0.283,0.31,10:07
+1,7:56,SA,Victor Wembanyama,Offensive Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,18,9,0.429,0.456,8:01
+1,6:57,SA,Zach Collins,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,20,9,0.453,0.492,7:00
+1,6:21,ATL,De'Andre Hunter,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,22,13,0.47,0.472,6:29
+1,3:39,ATL,Dejounte Murray,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,26,18,0.47,0.469,3:45
+1,3:02,SA,Charles Bassey,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,29,18,0.512,0.536,3:02
+1,2:34,SA,Charles Bassey,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,29,20,0.436,0.478,2:46
+1,1.0,SA,Charles Bassey,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,35,25,0.49,0.536,5.0
+2,10:26,ATL,Saddiq Bey,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,35,30,0.432,0.433,10:27
+2,9:24,ATL,Clint Capela,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,40,33,0.549,0.499,9:47
+2,9:02,ATL,Onyeka Okongwu,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,42,35,0.502,0.504,9:12
+2,8:32,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,42,35,0.532,0.509,8:32
+2,8:18,SA,Cedi Osman,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,44,35,0.495,0.542,8:32
+2,5:59,ATL,De'Andre Hunter,Offensive Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,48,45,0.406,0.373,6:10
+2,3:45,ATL,Clint Capela,Offensive Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,54,50,0.459,0.427,3:51
+2,2:45,SA,Zach Collins,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,57,53,0.387,0.436,2:55
+2,1:23,ATL,Trae Young,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,61,58,0.503,0.446,1:31
+3,11:12,ATL,De'Andre Hunter,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,66,62,0.506,0.508,11:14
+3,9:04,ATL,Clint Capela,Loose Ball Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,71,71,0.378,0.379,9:04
+3,8:51,SA,Keldon Johnson,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,71,71,0.294,0.34,8:54
+3,7:28,SA,Malaki Branham,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,77,77,0.326,0.391,7:28
+3,7:02,ATL,Onyeka Okongwu,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,77,78,0.356,0.355,7:05
+3,5:02,ATL,Wesley Matthews,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,84,81,0.595,0.53,5:12
+3,4:42,SA,Cedi Osman,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,86,81,0.513,0.572,5:02
+3,3:13,SA,Julian Champagnie,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,92,84,0.66,0.724,3:19
+3,2:38,ATL,De'Andre Hunter,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,97,86,0.885,0.834,2:38
+3,1:58,ATL,Saddiq Bey,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,98,89,0.86,0.815,2:15
+3,1:58,ATL,ATL,Technical Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,99,89,0.867,0.867,1:58
+3,1:51,SA,Cedi Osman,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,100,91,0.756,0.821,1:51
+3,6.1,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,103,99,0.71,0.638,29.1
+4,11:42,ATL,Garrison Mathews,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,105,101,0.733,0.617,12:00
+4,10:45,ATL,Saddiq Bey,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,108,105,0.674,0.563,10:45
+4,8:43,SA,Devin Vassell,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,115,109,0.703,0.801,8:43
+4,8:08,ATL,Onyeka Okongwu,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,117,112,0.776,0.756,8:17
+4,7:35,ATL,Bogdan Bogdanovic,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,117,112,0.847,0.774,7:42
+4,6:57,SA,Julian Champagnie,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,117,114,0.62,0.638,6:57
+4,6:23,SA,Tre Jones,Offensive Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,117,117,0.447,0.515,6:33
+4,3:33,ATL,De'Andre Hunter,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,121,123,0.506,0.384,3:51
+4,3:22,SA,Jeremy Sochan,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,123,123,0.32,0.46,3:33
+4,39.1,SA,Jeremy Sochan,Shooting Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,128,132,0.041,0.118,52.0
+4,31.1,ATL,Bogdan Bogdanovic,Personal Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,128,134,0.122,0.055,39.1
+4,28.2,SA,Keldon Johnson,Personal Take Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,130,134,0.033,0.083,31.1
+4,17.1,SA,Jeremy Sochan,Personal Take Foul,Foul,David Guthrie,J.T. Orr,Gediminas Petraitis,SA,133,136,0.042,0.101,18.1

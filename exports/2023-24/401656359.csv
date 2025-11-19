@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:46,BOS,Jayson Tatum,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,5,5,0.643,0.643,9:47
+1,7:17,BOS,Jaylen Brown,Loose Ball Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,12,11,0.658,0.657,7:17
+1,6:55,DAL,P.J. Washington,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,12,13,0.667,0.633,6:58
+1,5:24,DAL,Luka Doncic,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,20,15,0.792,0.765,5:40
+1,4:17,DAL,P.J. Washington,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,24,18,0.78,0.781,4:21
+2,10:19,BOS,Sam Hauser,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,42,24,0.924,0.936,10:30
+2,9:20,DAL,Kyrie Irving,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,44,26,0.947,0.946,9:26
+2,8:49,BOS,Payton Pritchard,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,44,26,0.926,0.94,9:00
+2,8:16,BOS,Kristaps Porzingis,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,44,27,0.931,0.931,8:26
+2,5:36,BOS,Jrue Holiday,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,48,29,0.94,0.953,5:54
+2,4:49,DAL,Maxi Kleber,Offensive Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,53,29,0.984,0.98,5:01
+2,3:02,BOS,Jrue Holiday,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,58,31,0.987,0.991,3:03
+2,1:18,DAL,Maxi Kleber,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,63,37,0.994,0.992,1:25
+3,8:22,DAL,Dereck Lively II,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,66,48,0.976,0.974,8:22
+3,6:54,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,68,54,0.957,0.942,7:07
+3,6:40,BOS,Derrick White,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,70,54,0.947,0.954,6:40
+3,6:29,DAL,Dereck Lively II,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,70,56,0.943,0.944,6:40
+3,5:33,DAL,Dereck Lively II,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,72,59,0.952,0.936,5:34
+3,4:39,BOS,Derrick White,Loose Ball Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,72,61,0.892,0.892,4:39
+3,3:55,DAL,Dereck Lively II,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,72,64,0.886,0.852,4:05
+3,2:44,DAL,Dereck Lively II,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,75,64,0.942,0.919,3:00
+3,14.1,BOS,Sam Hauser,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,86,64,0.995,0.996,14.1
+4,11:00,DAL,Kyrie Irving,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,88,68,0.996,0.996,11:11
+4,10:37,BOS,Jaylen Brown,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,88,70,0.986,0.993,10:37
+4,9:39,BOS,Derrick White,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,88,70,0.985,0.991,9:55
+4,6:09,BOS,Jrue Holiday,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,96,75,0.998,0.999,6:24
+4,5:17,DAL,P.J. Washington,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,99,75,0.999,0.999,5:28
+4,4:08,DAL,Jaden Hardy,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,100,78,0.999,0.999,4:26
+4,3:19,DAL,Dwight Powell,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,100,80,0.999,0.999,3:45
+4,2:40,BOS,Luke Kornet,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,101,80,0.999,0.999,2:46
+4,1:49,BOS,Payton Pritchard,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Josh Tiven,BOS,105,82,0.999,0.999,2:02

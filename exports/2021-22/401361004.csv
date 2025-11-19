@@ -1,0 +1,30 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:36,OKC,Zavier Simpson,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,0,0,0.673,0.709,12:00
+1,10:07,OKC,Jaylen Hoard,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,4,6,0.639,0.677,10:07
+1,9:18,OKC,Jaylen Hoard,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,8,9,0.641,0.673,9:26
+1,8:47,OKC,Isaiah Roby,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,8,10,0.612,0.649,8:48
+1,6:37,POR,Greg Brown III,Personal Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,10,13,0.639,0.642,6:48
+1,5:55,OKC,Isaiah Roby,Loose Ball Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,12,13,0.621,0.659,5:55
+1,5:29,POR,Ben McLemore,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,12,15,0.668,0.634,5:33
+1,4:49,POR,Keljin Blevins,Personal Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,13,18,0.576,0.578,5:01
+1,4:26,POR,Drew Eubanks,Personal Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,15,18,0.663,0.625,4:26
+1,1:56,POR,Reggie Perry,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,23,25,0.675,0.638,2:04
+1,1:42,POR,Ben McLemore,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,25,25,0.724,0.687,1:45
+2,10:20,OKC,Georgios Kalaitzakis,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,31,34,0.539,0.593,10:20
+2,9:40,POR,Keon Johnson,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,31,35,0.581,0.563,10:20
+2,8:48,POR,Greg Brown III,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,31,37,0.537,0.493,9:03
+2,8:08,POR,Elijah Hughes,Personal Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,34,37,0.577,0.58,8:13
+2,5:15,POR,Drew Eubanks,Loose Ball Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,38,43,0.545,0.496,5:15
+2,4:45,POR,Keljin Blevins,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,38,43,0.541,0.493,4:46
+2,1:35,POR,Didi Louzada,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,44,50,0.487,0.435,1:37
+2,1:15,OKC,Zavier Simpson,Personal Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,46,50,0.414,0.467,1:35
+2,1:10,OKC,Olivier Sarr,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,46,50,0.413,0.414,1:15
+3,11:30,OKC,Isaiah Roby,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,48,54,0.326,0.375,11:37
+3,9:55,POR,Drew Eubanks,Personal Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,51,60,0.294,0.296,10:08
+3,5:56,POR,Kris Dunn,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,55,73,0.069,0.051,6:13
+3,4:50,POR,CJ Elleby,Personal Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,58,75,0.053,0.055,5:01
+3,4:06,OKC,Zavier Simpson,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,63,75,0.1,0.116,4:19
+3,2:33,POR,Ben McLemore,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,63,79,0.072,0.052,2:45
+4,8:53,POR,Drew Eubanks,Shooting Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,74,90,0.03,0.016,9:02
+4,7:27,POR,Drew Eubanks,Personal Foul,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,78,90,0.05,0.046,7:38
+4,5:29,POR,Greg Brown III,Flagrant Foul Type 1,Foul,John Goble,Andy Nagy,Brandon Adair,OKC,86,92,0.193,0.192,5:41

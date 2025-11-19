@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:31,LAC,Norman Powell,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,2,0,0.63,0.63,11:41
+1,10:55,PHX,Deandre Ayton,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,2,0,0.651,0.652,10:55
+1,9:22,LAC,Nicolas Batum,Loose Ball Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,6,2,0.673,0.672,9:24
+1,7:03,PHX,Devin Booker,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,6,12,0.477,0.441,7:17
+1,6:41,PHX,Chris Paul,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,7,12,0.504,0.462,6:43
+1,5:02,LAC,Ivica Zubac,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,12,12,0.527,0.568,5:17
+1,1:14,LAC,Bones Hyland,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,22,20,0.594,0.64,1:14
+1,55.1,PHX,Devin Booker,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,22,23,0.602,0.559,1:00
+1,30.1,PHX,Bismack Biyombo,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,23,25,0.57,0.528,45.1
+2,10:35,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,27,31,0.411,0.462,10:35
+2,8:21,PHX,T.J. Warren,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,30,32,0.563,0.517,8:35
+2,7:53,LAC,Bones Hyland,Offensive Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,32,34,0.486,0.516,8:10
+2,7:37,LAC,Mason Plumlee,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,32,34,0.484,0.485,7:40
+2,7:34,LAC,Terance Mann,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,32,34,0.484,0.484,7:37
+2,7:23,LAC,Mason Plumlee,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,32,34,0.44,0.484,7:34
+2,6:41,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,34,35,0.468,0.485,7:38
+2,6:41,LAC,Marcus Morris Sr.,Technical Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,34,35,0.49,0.468,6:41
+2,5:30,PHX,Chris Paul,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,37,41,0.447,0.447,5:41
+2,1:20,PHX,Bismack Biyombo,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,44,52,0.347,0.3,1:35
+3,11:28,LAC,Nicolas Batum,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,51,54,0.368,0.42,11:30
+3,10:44,LAC,Eric Gordon,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,53,56,0.364,0.418,11:03
+3,9:58,LAC,Nicolas Batum,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,53,57,0.353,0.378,9:58
+3,7:58,LAC,Russell Westbrook,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,59,65,0.248,0.301,8:13
+3,7:16,LAC,Eric Gordon,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,59,69,0.135,0.174,7:29
+3,7:08,PHX,Torrey Craig,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,61,71,0.218,0.17,7:08
+3,5:33,LAC,Marcus Morris Sr.,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,66,73,0.195,0.243,5:37
+3,5:14,LAC,Eric Gordon,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,66,75,0.14,0.178,5:20
+3,4:05,PHX,Josh Okogie,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,68,81,0.131,0.105,4:53
+3,3:54,LAC,Mason Plumlee,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,69,81,0.071,0.098,4:00
+3,2:31,LAC,Russell Westbrook,Personal Take Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,75,84,0.114,0.153,2:42
+3,2:08,PHX,Damion Lee,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,77,85,0.238,0.176,2:08
+3,1:36,LAC,Russell Westbrook,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,78,88,0.085,0.117,1:36
+3,56.1,LAC,Terance Mann,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,80,91,0.074,0.112,56.1
+4,11:44,LAC,Bones Hyland,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,85,94,0.081,0.136,12:00
+4,11:01,PHX,Damion Lee,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,87,98,0.134,0.088,11:10
+4,9:50,LAC,Mason Plumlee,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,90,101,0.046,0.062,10:07
+4,9:24,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,92,105,0.022,0.042,9:24
+4,6:33,PHX,Chris Paul,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,101,109,0.125,0.116,6:46
+4,5:12,LAC,Bones Hyland,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,103,111,0.039,0.068,5:12
+4,4:26,PHX,Torrey Craig,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,106,113,0.184,0.109,4:26
+4,3:30,PHX,Chris Paul,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,108,117,0.085,0.051,3:44
+4,3:10,LAC,Terance Mann,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,110,117,0.034,0.061,3:10
+4,2:07,PHX,Torrey Craig,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,112,119,0.127,0.069,2:10
+4,1:45,LAC,Terance Mann,Loose Ball Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,114,119,0.047,0.087,1:45
+4,1:44,PHX,Torrey Craig,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,114,119,0.24,0.139,1:44
+4,42.0,LAC,Norman Powell,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,116,124,0.003,0.017,42.0
+4,36.1,PHX,Torrey Craig,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,119,125,0.087,0.026,36.1
+4,31.0,LAC,Norman Powell,Personal Take Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,120,125,0.016,0.052,36.1
+4,19.1,LAC,Terance Mann,Personal Take Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,120,125,0.009,0.032,20.1
+4,11.1,LAC,Russell Westbrook,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,David Guthrie,LAC,122,127,0.004,0.025,16.1

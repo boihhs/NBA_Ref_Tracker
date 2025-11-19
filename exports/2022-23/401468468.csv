@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:21,ORL,Bol Bol,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,4,4,0.234,0.264,10:35
+1,8:29,ORL,Markelle Fultz,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,8,10,0.205,0.231,8:39
+1,7:02,ORL,Cole Anthony,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,12,16,0.199,0.2,7:13
+1,6:51,ORL,Paolo Banchero,Loose Ball Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,12,16,0.176,0.2,6:51
+1,4:45,ATL,De'Andre Hunter,Transition Take Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,14,20,0.188,0.188,4:45
+1,4:33,ATL,Trent Forrest,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,15,20,0.236,0.19,4:45
+1,3:56,ORL,Cole Anthony,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,17,24,0.146,0.172,3:56
+1,3:33,ORL,Cole Anthony,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,19,24,0.165,0.192,3:39
+1,48.1,ORL,Admiral Schofield,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,24,36,0.086,0.106,48.1
+1,39.3,ATL,Clint Capela,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,24,36,0.125,0.106,45.2
+2,11:22,ATL,Onyeka Okongwu,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,27,41,0.099,0.082,11:48
+2,10:43,ORL,Admiral Schofield,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,28,41,0.082,0.082,10:48
+2,8:01,ATL,Onyeka Okongwu,Offensive Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,32,43,0.118,0.105,8:09
+2,7:17,ATL,Onyeka Okongwu,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,35,45,0.158,0.133,7:29
+2,6:50,ATL,Clint Capela,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,37,47,0.133,0.133,7:01
+2,4:56,ORL,Moritz Wagner,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,41,49,0.137,0.149,4:56
+2,4:37,ORL,Gary Harris,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,41,51,0.118,0.117,4:43
+2,4:27,ATL,Dejounte Murray,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,41,51,0.159,0.133,4:29
+2,3:07,ORL,Markelle Fultz,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,45,58,0.068,0.078,3:07
+2,1:33,ATL,John Collins,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,47,66,0.038,0.028,1:33
+3,9:43,ATL,Vit Krejci,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,53,76,0.011,0.011,9:59
+3,9:11,ORL,Kevon Harris,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,55,76,0.011,0.013,9:11
+3,8:13,ORL,Paolo Banchero,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,59,77,0.024,0.024,8:28
+3,6:31,ATL,Clint Capela,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,64,81,0.044,0.032,6:39
+3,5:43,ATL,Vit Krejci,Defensive 3-Seconds Technical,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,65,83,0.022,0.025,5:53
+3,5:34,ATL,Vit Krejci,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,68,83,0.053,0.037,5:34
+3,4:56,ORL,Cole Anthony,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,69,85,0.02,0.029,5:04
+3,4:33,ORL,Kevon Harris,Offensive Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,69,87,0.016,0.023,4:56
+3,2:55,ATL,Vit Krejci,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,71,92,0.012,0.008,3:00
+3,2:44,ORL,Moritz Wagner,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,73,92,0.006,0.01,2:55
+3,6.7,ORL,Moritz Wagner,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,76,98,0.001,0.002,21.7
+4,10:10,ATL,Trent Forrest,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,80,104,0.001,0.001,10:14
+4,8:14,ORL,Franz Wagner,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,87,108,0.001,0.001,8:16
+4,6:38,ATL,Dejounte Murray,Technical Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,93,111,0.004,0.001,6:45
+4,6:07,ATL,Vit Krejci,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,94,113,0.003,0.001,6:22
+4,5:57,ORL,Cole Anthony,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,96,113,0.002,0.002,6:07
+4,4:49,ATL,Jarrett Culver,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,98,115,0.004,0.001,4:52
+4,4:08,ORL,Cole Anthony,Personal Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,100,115,0.001,0.001,4:13
+4,3:00,ATL,Clint Capela,Shooting Foul,Foul,Josh Tiven,Scott Wall,Tyler Ford,ORL,102,118,0.002,0.001,3:06

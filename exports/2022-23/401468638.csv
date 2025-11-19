@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,BKN,Kyrie Irving,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,0,2,0.498,0.538,11:24
+1,6:15,BKN,Ben Simmons,Personal Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,15,10,0.681,0.68,6:28
+1,4:34,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,20,15,0.707,0.705,4:34
+1,2:36,MIL,MarJon Beauchamp,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,25,17,0.803,0.772,3:43
+1,2:26,BKN,Yuta Watanabe,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,27,19,0.734,0.772,2:26
+1,2:05,BKN,T.J. Warren,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,29,20,0.739,0.772,2:15
+1,47.2,BKN,Edmond Sumner,Personal Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,31,26,0.642,0.682,54.0
+2,10:58,BKN,Ben Simmons,Personal Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,40,29,0.817,0.818,11:08
+2,10:31,BKN,Seth Curry,Offensive Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,40,32,0.755,0.777,10:46
+2,9:21,BKN,Kyrie Irving,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,43,36,0.695,0.733,9:36
+2,6:33,BKN,Nic Claxton,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,48,38,0.774,0.807,6:36
+2,6:02,MIL,Jevon Carter,Personal Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,50,40,0.829,0.83,6:02
+2,3:42,BKN,Nic Claxton,Personal Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,56,44,0.823,0.852,4:03
+2,3:42,BKN,Nic Claxton,Technical Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,56,44,0.84,0.823,3:42
+2,1:51,MIL,MarJon Beauchamp,Personal Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,56,47,0.85,0.817,1:51
+2,1:25,MIL,Jrue Holiday,Offensive Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,58,47,0.862,0.839,1:33
+2,37.2,MIL,Jrue Holiday,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,58,47,0.891,0.864,50.0
+2,31.1,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,60,47,0.899,0.88,37.2
+3,11:19,BKN,Royce O'Neale,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,62,47,0.893,0.916,11:41
+3,10:40,BKN,Kevin Durant,Personal Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,64,48,0.932,0.932,10:51
+3,8:20,BKN,Ben Simmons,Personal Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,68,52,0.922,0.939,8:40
+3,8:15,MIL,Jrue Holiday,Offensive Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,68,52,0.952,0.922,8:20
+3,8:15,MIL,MIL,Technical Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,68,52,0.958,0.952,8:15
+3,6:58,BKN,Royce O'Neale,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,72,52,0.968,0.977,7:04
+3,6:21,MIL,Grayson Allen,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,74,54,0.988,0.984,6:24
+3,2:35,BKN,Kevin Durant,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,79,63,0.95,0.964,2:55
+3,2:03,BKN,Ben Simmons,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,81,65,0.952,0.967,2:15
+3,1:04,BKN,Yuta Watanabe,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,83,69,0.932,0.952,1:13
+4,10:26,MIL,Pat Connaughton,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,88,77,0.964,0.943,10:30
+4,8:03,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,94,84,0.95,0.945,8:07
+4,6:58,MIL,MIL,Technical Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,96,86,0.965,0.956,7:01
+4,4:30,MIL,Brook Lopez,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,107,92,0.998,0.996,4:30
+4,3:51,MIL,Pat Connaughton,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,108,92,0.999,0.999,4:07
+4,1:47,BKN,Edmond Sumner,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Suyash Mehta,BKN,113,97,0.999,0.999,1:47

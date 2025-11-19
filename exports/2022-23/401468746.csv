@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:54,SA,Tre Jones,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,2,9,0.031,0.037,8:54
+1,8:11,SA,Jeremy Sochan,Personal Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,2,13,0.023,0.023,8:12
+1,7:42,BOS,Marcus Smart,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,2,13,0.031,0.026,7:45
+1,7:42,BOS,Jaylen Brown,Away from Play Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,4,13,0.032,0.032,7:42
+1,6:41,BOS,Jayson Tatum,Personal Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,8,18,0.03,0.03,6:50
+1,4:15,BOS,Jaylen Brown,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,14,22,0.049,0.041,4:34
+1,2:33,SA,Doug McDermott,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,23,25,0.067,0.076,2:43
+2,10:14,SA,Stanley Johnson,Personal Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,32,39,0.054,0.054,10:24
+2,9:54,BOS,Robert Williams III,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,34,42,0.06,0.048,9:54
+2,6:16,SA,Isaiah Roby,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,42,51,0.04,0.049,6:24
+2,5:36,BOS,Al Horford,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,44,53,0.063,0.05,5:36
+2,4:55,BOS,Al Horford,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,45,55,0.063,0.051,5:16
+2,4:37,SA,Jeremy Sochan,Offensive Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,46,55,0.052,0.059,4:40
+2,2:29,SA,Charles Bassey,Loose Ball Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,53,63,0.048,0.048,2:29
+2,1:31,SA,Keita Bates-Diop,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,53,65,0.029,0.036,1:42
+2,38.2,SA,Malaki Branham,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,55,68,0.025,0.031,50.1
+3,8:44,BOS,Marcus Smart,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,67,71,0.168,0.133,8:44
+3,8:13,SA,Romeo Langford,Personal Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,70,71,0.201,0.151,8:44
+3,7:57,SA,Zach Collins,Offensive Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,70,71,0.203,0.229,8:00
+3,7:49,BOS,Al Horford,Offensive Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,70,71,0.231,0.203,7:57
+3,3:43,SA,Stanley Johnson,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,78,81,0.161,0.209,3:43
+3,3:21,BOS,Jayson Tatum,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,78,82,0.227,0.181,3:43
+3,2:53,SA,Stanley Johnson,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,80,82,0.172,0.214,2:54
+3,1:39,SA,Doug McDermott,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,82,90,0.067,0.096,1:39
+4,11:21,BOS,Jaylen Brown,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,91,95,0.273,0.203,11:27
+4,7:32,BOS,Sam Hauser,Personal Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,97,107,0.055,0.051,7:45
+4,6:17,SA,Doug McDermott,Personal Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,101,110,0.041,0.046,6:43
+4,6:11,SA,Jeremy Sochan,Shooting Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,101,112,0.015,0.03,6:11
+4,6:02,BOS,Malcolm Brogdon,Personal Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,101,112,0.033,0.029,6:08
+4,5:30,SA,Charles Bassey,Offensive Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,103,112,0.039,0.055,5:32
+4,3:14,BOS,Jayson Tatum,Offensive Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,107,114,0.078,0.055,3:33
+4,1:22,BOS,Jaylen Brown,Offensive Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,111,114,0.25,0.166,1:42
+4,9.1,SA,Romeo Langford,Personal Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,116,118,0.048,0.145,9.1
+4,4.2,SA,Tre Jones,Personal Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,116,118,0.025,0.048,5.1
+4,2.1,SA,Romeo Langford,Personal Foul,Foul,Matt Boland,Rodney Mott,John Butler,SA,116,119,0.004,0.015,2.1

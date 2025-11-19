@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:56,LAL,Anthony Davis,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,11,9,0.784,0.756,6:15
+1,5:29,LAL,Avery Bradley,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,12,11,0.735,0.736,5:36
+1,2:43,LAL,Anthony Davis,Loose Ball Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,19,19,0.701,0.701,2:43
+1,2:13,LAC,Isaiah Hartenstein,Loose Ball Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,19,19,0.676,0.674,2:13
+1,2:02,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,19,19,0.635,0.676,2:13
+1,1:30,LAC,Terance Mann,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,21,21,0.632,0.673,1:44
+2,10:00,LAC,Eric Bledsoe,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,30,32,0.599,0.599,10:10
+2,9:29,LAL,Austin Reaves,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,32,32,0.666,0.652,9:29
+2,9:17,LAC,Brandon Boston,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,33,32,0.639,0.624,9:32
+2,8:23,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,36,39,0.576,0.591,8:23
+2,7:06,LAC,Serge Ibaka,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,40,40,0.597,0.642,7:18
+2,6:55,LAC,Terance Mann,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,40,40,0.596,0.641,7:03
+2,5:19,LAL,Stanley Johnson,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,43,41,0.755,0.719,5:27
+2,5:00,LAL,Avery Bradley,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,45,41,0.782,0.741,5:00
+2,4:30,LAL,Malik Monk,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,45,44,0.728,0.688,4:44
+2,1:10,LAC,Eric Bledsoe,Offensive Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,55,51,0.729,0.76,1:10
+2,1:10,LAC,Eric Bledsoe,Technical Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,55,51,0.712,0.729,1:10
+3,10:29,LAC,Serge Ibaka,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,65,58,0.809,0.834,10:29
+3,10:07,LAC,Reggie Jackson,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,67,58,0.852,0.853,10:15
+3,7:27,LAC,Serge Ibaka,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,74,63,0.866,0.894,7:48
+3,5:04,LAC,Reggie Jackson,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,82,67,0.94,0.953,5:26
+3,3:03,LAC,Reggie Jackson,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,84,70,0.933,0.952,3:11
+3,2:13,LAC,Serge Ibaka,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,86,74,0.93,0.943,2:13
+3,27.9,LAC,Luke Kennard,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,94,78,0.967,0.977,44.0
+4,10:57,LAL,Austin Reaves,Personal Take Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,94,82,0.963,0.959,10:58
+4,9:50,LAL,Trevor Ariza,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,94,86,0.912,0.904,10:07
+4,9:35,LAC,Brandon Boston,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,94,88,0.823,0.859,9:35
+4,9:31,LAL,Dwight Howard,Loose Ball Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,94,88,0.9,0.856,9:31
+4,8:54,LAC,Luke Kennard,Personal Take Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,94,88,0.828,0.828,8:54
+4,7:27,LAC,Reggie Jackson,Personal Take Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,94,90,0.733,0.75,7:30
+4,6:57,LAC,Marcus Morris Sr.,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,96,90,0.76,0.833,7:11
+4,6:57,LAC,Marcus Morris Sr.,Technical Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,96,90,0.795,0.76,6:57
+4,6:25,LAC,Reggie Jackson,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,96,91,0.712,0.789,6:31
+4,5:36,LAL,Trevor Ariza,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,96,94,0.776,0.694,5:53
+4,3:27,LAL,Malik Monk,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,102,97,0.924,0.872,3:32
+4,3:27,LAL,Malik Monk,Technical Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,102,97,0.902,0.924,3:27
+4,1:31,LAC,Serge Ibaka,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Aaron Smith,LAC,104,102,0.638,0.741,1:31

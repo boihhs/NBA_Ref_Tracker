@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:52,UTAH,Lauri Markkanen,Offensive Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,3,0,0.753,0.733,11:11
+1,9:26,GS,Draymond Green,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,7,4,0.713,0.75,9:26
+1,9:03,GS,Stephen Curry,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,7,5,0.675,0.707,9:06
+1,8:40,UTAH,Collin Sexton,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,10,7,0.776,0.726,8:40
+1,8:07,UTAH,Jarred Vanderbilt,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,11,9,0.724,0.727,8:15
+1,7:42,UTAH,Kelly Olynyk,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,13,9,0.777,0.745,7:42
+2,11:37,UTAH,Nickeil Alexander-Walker,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,37,23,0.911,0.913,11:37
+2,10:02,GS,Draymond Green,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,42,25,0.919,0.934,10:11
+2,7:32,UTAH,Walker Kessler,Defensive 3-Seconds Technical,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,44,33,0.875,0.879,7:50
+2,7:17,UTAH,Jordan Clarkson,Offensive Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,45,33,0.893,0.878,7:23
+2,6:59,GS,Donte DiVincenzo,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,45,33,0.855,0.879,7:04
+2,6:10,UTAH,Nickeil Alexander-Walker,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,45,38,0.81,0.811,6:22
+2,8.5,GS,Klay Thompson,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,59,49,0.824,0.854,25.0
+3,8:11,GS,Stephen Curry,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,70,66,0.706,0.703,8:23
+3,7:44,UTAH,Kelly Olynyk,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,70,68,0.67,0.671,8:00
+3,7:39,UTAH,Collin Sexton,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,70,68,0.669,0.67,7:44
+3,7:07,UTAH,Jarred Vanderbilt,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,70,71,0.614,0.632,7:07
+3,6:22,UTAH,Lauri Markkanen,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,74,71,0.751,0.703,6:27
+3,5:05,GS,Stephen Curry,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,76,71,0.736,0.736,5:24
+3,4:54,GS,Andrew Wiggins,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,76,71,0.684,0.736,5:05
+4,10:17,UTAH,Lauri Markkanen,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,103,94,0.933,0.892,10:17
+4,9:57,UTAH,Nickeil Alexander-Walker,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,104,94,0.941,0.937,10:02
+4,8:44,UTAH,Walker Kessler,Defensive 3-Seconds Technical,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,106,98,0.903,0.907,9:03
+4,7:58,GS,Draymond Green,Offensive Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,107,98,0.914,0.935,8:07
+4,7:24,UTAH,Collin Sexton,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,110,98,0.979,0.977,7:25
+4,7:07,GS,Jordan Poole,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,113,98,0.98,0.989,7:21
+4,3:21,GS,Kevon Looney,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,121,108,0.994,0.995,3:26
+4,3:13,GS,Andrew Wiggins,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,121,108,0.986,0.994,3:21
+4,1:29,GS,Andrew Wiggins,Personal Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,126,113,0.996,0.999,1:42
+4,40.7,GS,Andrew Wiggins,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,126,115,0.994,0.998,46.9
+4,5.6,GS,Stephen Curry,Loose Ball Foul,Foul,Zach Zarba,Rodney Mott,Brandon Schwab,GS,129,117,0.999,0.999,5.6

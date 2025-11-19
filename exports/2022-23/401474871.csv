@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,DEN,Aaron Gordon,Offensive Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,0,0,0.51,0.49,12:00
+1,11:25,CHI,DeMar DeRozan,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,0,0,0.449,0.49,11:31
+1,10:07,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,2,2,0.55,0.512,10:13
+1,9:36,CHI,Javonte Green,Loose Ball Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,4,4,0.487,0.486,9:36
+1,8:37,DEN,Jamal Murray,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,4,7,0.435,0.434,8:38
+1,7:45,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,8,7,0.576,0.538,7:53
+1,7:18,CHI,Nikola Vucevic,Offensive Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,9,9,0.486,0.512,7:29
+1,2:21,CHI,Zach LaVine,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,21,19,0.543,0.541,2:30
+1,1:36,DEN,Davon Reed,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,21,21,0.557,0.513,1:38
+1,7.6,CHI,Coby White,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,27,24,0.529,0.572,22.3
+2,10:58,DEN,Zeke Nnaji,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,31,28,0.623,0.571,10:58
+2,10:26,DEN,Davon Reed,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,31,31,0.558,0.515,10:26
+2,10:03,DEN,Jeff Green,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,33,31,0.616,0.574,10:05
+2,9:51,CHI,Coby White,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,35,33,0.522,0.574,9:51
+2,7:12,CHI,Alex Caruso,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,43,39,0.607,0.606,7:20
+2,5:22,DEN,DeAndre Jordan,Transition Take Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,49,42,0.727,0.727,5:22
+2,4:35,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,54,44,0.742,0.78,4:45
+2,3:03,CHI,DeMar DeRozan,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,60,52,0.691,0.735,3:06
+2,2:58,CHI,Ayo Dosunmu,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,60,52,0.691,0.691,3:03
+2,2:31,CHI,Patrick Williams,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,62,54,0.693,0.737,2:48
+2,2:03,DEN,Jamal Murray,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,62,58,0.695,0.65,2:14
+2,29.4,CHI,Alex Caruso,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,70,61,0.731,0.773,35.0
+3,11:25,CHI,DeMar DeRozan,Loose Ball Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,72,63,0.779,0.781,11:25
+3,11:22,CHI,Zach LaVine,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,72,63,0.779,0.779,11:25
+3,11:15,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,72,63,0.735,0.779,11:22
+3,9:28,DEN,Michael Porter Jr.,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,78,68,0.84,0.81,10:13
+3,8:08,DEN,Zeke Nnaji,Loose Ball Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,81,70,0.866,0.868,8:09
+3,7:59,DEN,Michael Porter Jr.,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,81,70,0.867,0.867,8:08
+3,6:47,DEN,Aaron Gordon,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,86,70,0.957,0.939,6:47
+3,6:31,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,87,70,0.933,0.95,6:47
+3,6:26,CHI,Goran Dragic,Offensive Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,87,72,0.927,0.94,6:31
+3,5:53,CHI,Goran Dragic,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,87,75,0.846,0.88,5:56
+3,5:46,DEN,Bones Hyland,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,87,78,0.871,0.837,5:53
+3,4:23,CHI,Alex Caruso,Loose Ball Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,89,78,0.831,0.868,4:25
+3,1:59,CHI,Patrick Williams,Offensive Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,96,84,0.908,0.928,2:11
+3,1:53,DEN,DeAndre Jordan,Offensive Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,96,84,0.93,0.908,1:59
+3,1:38,DEN,Davon Reed,Offensive Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,96,84,0.932,0.909,1:45
+3,53.6,DEN,Ish Smith,Shooting Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,101,86,0.975,0.96,53.6
+4,9:41,CHI,Patrick Williams,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,107,94,0.953,0.954,9:59
+4,8:40,CHI,Ayo Dosunmu,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,109,96,0.958,0.961,8:50
+4,8:19,DEN,Davon Reed,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,109,96,0.975,0.974,8:22
+4,7:12,DEN,Zeke Nnaji,Loose Ball Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,112,98,0.987,0.986,7:12
+4,6:39,CHI,Ayo Dosunmu,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,115,98,0.994,0.987,6:54
+4,3:53,CHI,Dalen Terry,Personal Foul,Foul,James Capers,Nate Green,Jonathan Sterling,CHI,123,102,0.999,0.999,3:53

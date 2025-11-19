@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,CHA,Nick Richards,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,2,3,0.912,0.9,10:57
+1,8:57,DAL,Maxi Kleber,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,5,7,0.85,0.869,9:04
+1,8:49,CHA,Nick Richards,Defensive 3-Seconds Technical,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,5,8,0.865,0.869,8:57
+1,6:13,CHA,Dennis Smith Jr.,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,14,18,0.859,0.839,6:16
+1,5:49,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,16,20,0.807,0.835,5:49
+1,5:25,DAL,Christian Wood,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,16,20,0.791,0.816,5:27
+1,3:36,DAL,Jaden Hardy,Personal Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,20,26,0.73,0.764,3:39
+2,11:49,DAL,Justin Holiday,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,26,37,0.534,0.605,12:00
+2,11:31,DAL,Justin Holiday,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,26,40,0.43,0.482,11:32
+2,11:03,DAL,Maxi Kleber,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,26,44,0.316,0.371,11:03
+2,10:14,CHA,Dennis Smith Jr.,Personal Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,28,45,0.388,0.392,10:19
+2,8:08,CHA,Dennis Smith Jr.,Personal Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,33,49,0.383,0.387,8:15
+2,7:12,CHA,JT Thor,Personal Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,35,51,0.363,0.368,7:20
+2,6:45,CHA,Theo Maledon,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,37,51,0.477,0.427,6:50
+2,6:18,CHA,Svi Mykhailiuk,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,40,53,0.477,0.417,6:18
+2,5:41,CHA,JT Thor,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,41,53,0.528,0.476,5:48
+2,3:14,DAL,Dwight Powell,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,48,58,0.408,0.466,3:21
+2,1:26,DAL,Frank Ntilikina,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,53,63,0.37,0.431,1:32
+2,1:12,CHA,Svi Mykhailiuk,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,53,65,0.445,0.39,1:26
+2,54.0,CHA,Theo Maledon,Personal Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,54,67,0.402,0.35,1:01
+3,9:07,CHA,Svi Mykhailiuk,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,64,73,0.483,0.42,9:13
+3,7:14,DAL,Dwight Powell,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,66,79,0.174,0.231,7:14
+3,7:04,CHA,P.J. Washington,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,66,80,0.244,0.197,7:14
+3,6:46,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,67,82,0.117,0.159,6:46
+3,6:16,DAL,Christian Wood,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,67,83,0.078,0.106,6:21
+3,5:39,DAL,Frank Ntilikina,Personal Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,67,83,0.071,0.097,5:42
+3,5:13,DAL,Josh Green,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,67,85,0.041,0.058,5:16
+3,4:26,DAL,Christian Wood,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,69,89,0.025,0.04,4:26
+3,3:41,CHA,Bryce McGowens,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,71,90,0.066,0.046,3:48
+3,2:51,CHA,Svi Mykhailiuk,Offensive Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,74,90,0.081,0.065,3:13
+3,1:30,DAL,Frank Ntilikina,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,79,92,0.083,0.125,1:30
+3,30.0,CHA,Theo Maledon,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,85,95,0.262,0.204,39.2
+4,11:10,DAL,Frank Ntilikina,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,90,95,0.257,0.345,11:20
+4,4:56,CHA,Nick Richards,Loose Ball Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,96,107,0.038,0.035,4:56
+4,3:21,CHA,Svi Mykhailiuk,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,101,112,0.042,0.02,3:36
+4,2:36,DAL,Jaden Hardy,Shooting Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,103,112,0.008,0.02,2:41
+4,2:00,DAL,Jaden Hardy,Loose Ball Foul,Foul,Eric Dalen,Marc Davis,Evan Scott,DAL,103,114,0.001,0.003,2:01

@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:01,MEM,Dillon Brooks,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,0,2,0.498,0.498,11:01
+1,8:18,TOR,Precious Achiuwa,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,5,9,0.418,0.418,8:19
+1,8:14,TOR,Svi Mykhailiuk,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,5,9,0.38,0.418,8:18
+1,5:30,TOR,Pascal Siakam,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,7,16,0.286,0.286,5:37
+1,2:51,TOR,Pascal Siakam,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,16,18,0.419,0.461,3:02
+1,2:27,TOR,Yuta Watanabe,Loose Ball Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,16,19,0.448,0.433,2:27
+2,11:44,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,18,27,0.33,0.281,12:00
+2,11:19,MEM,Brandon Clarke,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,20,29,0.328,0.291,11:31
+2,11:05,MEM,Brandon Clarke,Offensive Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,21,29,0.315,0.289,11:19
+2,10:31,MEM,Brandon Clarke,Loose Ball Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,21,29,0.308,0.313,10:31
+2,9:52,TOR,Fred VanVleet,Offensive Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,23,29,0.335,0.364,9:56
+2,9:36,TOR,Precious Achiuwa,Loose Ball Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,23,29,0.336,0.334,9:36
+2,9:23,MEM,Dillon Brooks,Personal Take Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,23,29,0.406,0.364,9:23
+2,2:45,TOR,Svi Mykhailiuk,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,33,45,0.119,0.155,2:45
+2,1:46,TOR,Pascal Siakam,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,35,48,0.106,0.133,1:48
+2,1:01,MEM,Dillon Brooks,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,35,50,0.139,0.111,1:07
+3,11:25,TOR,Pascal Siakam,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,39,50,0.158,0.185,11:25
+3,9:57,TOR,Precious Achiuwa,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,45,54,0.2,0.198,10:07
+3,7:24,TOR,Dalano Banton,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,51,56,0.308,0.306,7:30
+3,7:11,TOR,Precious Achiuwa,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,51,56,0.257,0.308,7:24
+3,2:40,MEM,Santi Aldama,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,60,65,0.378,0.316,2:49
+3,1:31,TOR,Pascal Siakam,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,63,65,0.416,0.394,1:31
+3,1:17,MEM,Desmond Bane,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,63,66,0.464,0.394,1:30
+4,11:22,TOR,Chris Boucher,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,67,72,0.202,0.29,11:22
+4,10:14,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,71,77,0.208,0.187,10:14
+4,9:21,TOR,Malachi Flynn,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,72,77,0.155,0.226,9:32
+4,9:06,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,72,79,0.255,0.179,9:21
+4,7:45,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,73,84,0.064,0.06,7:58
+4,6:15,MEM,Dillon Brooks,Loose Ball Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,75,84,0.14,0.086,6:15
+4,5:48,TOR,Precious Achiuwa,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,77,84,0.066,0.395,1:28
+4,5:23,TOR,Precious Achiuwa,Offensive Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,77,86,0.054,0.079,5:35
+4,4:57,MEM,Kyle Anderson,Shooting Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,79,88,0.09,0.048,4:57
+4,2:23,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,82,90,0.053,0.032,2:25
+4,1:04,TOR,Fred VanVleet,Personal Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,85,93,0.003,0.013,1:07
+4,16.5,TOR,Malachi Flynn,Personal Take Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,91,95,0.018,0.061,19.5
+4,6.0,TOR,Scottie Barnes,Personal Take Foul,Foul,Tom Washington,Rodney Mott,John Conley,TOR,91,97,0.001,0.004,9.2

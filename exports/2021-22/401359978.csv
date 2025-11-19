@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,LAL,DeAndre Jordan,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,2,2,0.499,0.509,11:24
+1,7:42,LAL,Anthony Davis,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,11,7,0.551,0.589,7:58
+1,6:26,CHA,Mason Plumlee,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,11,13,0.499,0.461,6:37
+1,4:48,CHA,Nick Richards,Offensive Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,15,15,0.513,0.486,4:48
+1,4:27,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,15,15,0.553,0.513,4:48
+1,4:17,LAL,Avery Bradley,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,17,15,0.54,0.539,4:27
+1,3:56,LAL,Avery Bradley,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,17,17,0.5,0.512,3:56
+1,2:21,CHA,Nick Richards,Loose Ball Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,20,21,0.484,0.487,2:21
+1,30.5,LAL,Wayne Ellington,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,29,23,0.633,0.68,30.5
+1,4.4,LAL,Carmelo Anthony,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,29,24,0.586,0.63,7.4
+2,10:17,CHA,Mason Plumlee,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,31,31,0.536,0.515,10:17
+2,8:47,CHA,Terry Rozier,Offensive Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,34,34,0.515,0.482,8:56
+2,7:48,CHA,Mason Plumlee,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,36,36,0.514,0.516,7:56
+2,7:24,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,38,36,0.62,0.577,7:27
+2,7:14,CHA,Gordon Hayward,Offensive Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,40,36,0.635,0.605,7:24
+2,7:00,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,40,36,0.636,0.635,7:14
+2,6:30,CHA,Jalen McDaniels,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,41,36,0.708,0.669,6:32
+2,5:49,LAL,Malik Monk,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,45,36,0.748,0.75,6:04
+2,5:47,LAL,Austin Reaves,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,45,36,0.75,0.748,5:49
+2,5:34,LAL,Austin Reaves,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,45,36,0.732,0.749,5:34
+2,2:11,LAL,Avery Bradley,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,52,48,0.567,0.615,2:19
+2,1:54,CHA,Nick Richards,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,52,50,0.635,0.583,2:07
+2,1:26,CHA,LaMelo Ball,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,53,52,0.603,0.549,1:33
+2,35.9,CHA,Cody Martin,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,56,57,0.534,0.485,41.5
+3,11:29,CHA,Mason Plumlee,Defensive 3-Seconds Technical,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,61,62,0.47,0.479,11:41
+3,10:04,CHA,CHA,Delay Technical,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,63,67,0.362,0.303,10:04
+3,7:39,CHA,Terry Rozier,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,64,72,0.278,0.229,7:42
+3,7:24,LAL,Austin Reaves,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,66,74,0.2,0.227,7:24
+3,4:52,LAL,Anthony Davis,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,70,76,0.196,0.243,5:07
+3,2:40,CHA,CHA,Technical Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,80,78,0.645,0.566,2:40
+3,1:27,CHA,Miles Bridges,Offensive Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,83,83,0.524,0.474,1:32
+3,1:03,LAL,Austin Reaves,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,86,83,0.547,0.617,1:11
+3,44.4,LAL,Anthony Davis,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,88,83,0.64,0.703,54.3
+3,2.5,CHA,CHA,Delay Technical,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,90,87,0.656,0.667,2.5
+4,11:44,CHA,Mason Plumlee,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,94,87,0.883,0.831,12:00
+4,10:55,LAL,Rajon Rondo,Flagrant Foul Type 2,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,95,87,0.83,0.844,10:58
+4,9:56,LAL,Carmelo Anthony,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,100,89,0.918,0.923,10:12
+4,9:37,CHA,LaMelo Ball,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,100,89,0.947,0.942,9:40
+4,8:39,LAL,Dwight Howard,Offensive Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,103,92,0.935,0.95,8:51
+4,8:09,LAL,Russell Westbrook,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,103,92,0.896,0.938,8:13
+4,7:34,LAL,Dwight Howard,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,105,93,0.926,0.955,7:45
+4,7:12,CHA,Terry Rozier,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,105,95,0.966,0.942,7:14
+4,6:13,LAL,Russell Westbrook,Personal Take Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,106,98,0.884,0.884,6:13
+4,6:04,CHA,Nick Richards,Defensive 3-Seconds Technical,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,106,99,0.878,0.887,6:13
+4,3:39,LAL,Austin Reaves,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,110,101,0.907,0.946,3:50
+4,3:39,LAL,LAL,Delay Technical,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,110,101,0.952,0.907,3:39
+4,3:39,LAL,Carmelo Anthony,Technical Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,110,102,0.9,0.923,3:39
+4,3:39,LAL,Russell Westbrook,Technical Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,110,103,0.86,0.892,3:39
+4,3:23,CHA,Mason Plumlee,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,110,106,0.887,0.802,3:39
+4,1:38,CHA,Terry Rozier,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,114,110,0.929,0.862,1:46
+5,1:18,LAL,Russell Westbrook,Personal Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,124,121,0.559,0.759,1:27
+5,49.4,CHA,Mason Plumlee,Shooting Foul,Foul,Sean Wright,Karl Lane,Scott Twardoski,LAL,124,123,0.802,0.626,1:11

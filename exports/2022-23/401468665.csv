@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:10,PHX,Deandre Ayton,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,4,0,0.809,0.777,11:10
+1,8:48,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,8,3,0.79,0.808,9:04
+1,6:21,PHX,Torrey Craig,Personal Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,8,7,0.726,0.729,6:40
+1,4:48,PHX,Damion Lee,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,10,11,0.708,0.675,4:58
+1,4:36,MEM,Dillon Brooks,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,11,11,0.636,0.674,4:43
+1,3:23,MEM,Brandon Clarke,Offensive Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,13,18,0.534,0.563,3:30
+1,2:46,PHX,Ish Wainright,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,13,20,0.544,0.507,3:07
+1,2:12,PHX,Duane Washington Jr.,Clear Path Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,15,23,0.513,0.471,2:12
+1,47.1,PHX,Duane Washington Jr.,Personal Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,18,23,0.589,0.547,1:02
+2,11:03,MEM,Brandon Clarke,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,24,23,0.636,0.674,11:16
+2,8:55,PHX,Josh Okogie,Personal Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,26,25,0.692,0.695,9:11
+2,8:55,PHX,Josh Okogie,Technical Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,26,25,0.712,0.692,8:55
+2,8:18,MEM,John Konchar,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,27,28,0.564,0.608,8:25
+2,7:50,MEM,John Konchar,Loose Ball Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,29,30,0.608,0.634,7:50
+2,7:09,PHX,Chris Paul,Flagrant Foul Type 1,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,29,33,0.533,0.542,7:20
+2,6:01,MEM,Dillon Brooks,Personal Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,33,38,0.42,0.47,6:10
+2,5:43,PHX,Josh Okogie,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,33,40,0.485,0.436,5:53
+2,4:19,MEM,Ja Morant,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,38,48,0.251,0.297,4:36
+2,3:55,MEM,Dillon Brooks,Offensive Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,38,50,0.234,0.262,3:55
+2,3:55,MEM,Dillon Brooks,Technical Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,38,50,0.214,0.234,3:55
+2,3:39,PHX,Mikal Bridges,Loose Ball Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,38,51,0.274,0.233,3:39
+2,2:18,PHX,Jock Landale,Personal Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,42,55,0.261,0.222,2:31
+2,1:37,PHX,Torrey Craig,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,44,60,0.175,0.142,1:42
+2,41.1,MEM,Desmond Bane,Loose Ball Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,49,63,0.122,0.153,41.1
+3,10:12,MEM,Dillon Brooks,Personal Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,51,70,0.053,0.053,10:27
+3,9:42,PHX,Mikal Bridges,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,51,70,0.082,0.063,9:58
+3,9:23,PHX,Jock Landale,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,53,72,0.08,0.06,9:31
+3,7:57,PHX,Chris Paul,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,57,72,0.125,0.092,7:57
+3,6:33,MEM,Ziaire Williams,Personal Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,61,72,0.166,0.166,6:44
+3,5:45,PHX,Deandre Ayton,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,64,75,0.23,0.186,5:56
+3,4:51,MEM,Ziaire Williams,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,68,78,0.134,0.176,5:12
+3,4:31,PHX,Deandre Ayton,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,70,80,0.225,0.17,4:31
+3,4:13,PHX,Damion Lee,Offensive Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,71,80,0.23,0.198,4:31
+3,3:40,MEM,Steven Adams,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,74,80,0.239,0.198,4:18
+3,3:11,MEM,Ziaire Williams,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,74,83,0.161,0.218,3:11
+3,2:00,MEM,Ja Morant,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,76,89,0.053,0.047,2:00
+3,1:33,MEM,Ziaire Williams,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,76,93,0.016,0.026,1:43
+3,35.0,PHX,Damion Lee,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,78,95,0.035,0.029,36.1
+4,11:26,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,80,97,0.014,0.014,11:26
+4,10:31,MEM,Dillon Brooks,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,80,97,0.007,0.012,10:42
+4,10:28,MEM,Brandon Clarke,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,80,98,0.006,0.008,10:28
+4,8:36,MEM,Desmond Bane,Personal Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,86,103,0.003,0.006,8:36
+4,5:23,PHX,Bismack Biyombo,Personal Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,88,112,0.001,0.001,5:41
+4,4:54,PHX,Ish Wainright,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,90,112,0.001,0.001,4:56
+4,3:50,PHX,Bismack Biyombo,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,92,116,0.001,0.001,4:04
+4,3:10,PHX,Ish Wainright,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,96,118,0.001,0.001,3:12
+4,2:12,MEM,David Roddy,Shooting Foul,Foul,Scott Foster,Nate Green,Ashley Moyer-Gleich,MEM,99,120,0.001,0.001,2:21

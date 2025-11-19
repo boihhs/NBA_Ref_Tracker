@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:08,PHI,James Harden,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,0,0,0.51,0.51,11:12
+1,9:04,PHI,James Harden,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,4,9,0.423,0.386,9:19
+1,7:56,PHI,Tobias Harris,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,5,12,0.333,0.334,8:01
+1,6:51,CLE,Jarrett Allen,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,7,14,0.274,0.307,6:55
+1,6:30,CLE,Isaiah Mobley,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,7,15,0.268,0.283,6:34
+1,6:17,CLE,Donovan Mitchell,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,7,16,0.231,0.262,6:19
+1,6:05,PHI,Tyrese Maxey,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,7,18,0.273,0.24,6:17
+1,5:47,CLE,Donovan Mitchell,Offensive Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,7,18,0.217,0.239,5:51
+1,5:36,CLE,Isaiah Mobley,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,7,18,0.192,0.217,5:47
+1,4:38,PHI,De'Anthony Melton,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,7,21,0.207,0.179,4:53
+1,2:11,PHI,Shake Milton,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,15,26,0.264,0.231,2:21
+1,1:47,PHI,Tyrese Maxey,Loose Ball Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,17,26,0.312,0.274,1:47
+1,1:28,PHI,Paul Reed,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,18,26,0.336,0.3,1:31
+1,29.4,CLE,Isaac Okoro,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,20,28,0.233,0.268,36.7
+2,11:37,CLE,Donovan Mitchell,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,20,33,0.16,0.173,12:00
+2,10:39,PHI,Paul Reed,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,22,35,0.177,0.176,10:43
+2,8:10,PHI,Danuel House Jr.,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,28,40,0.203,0.168,8:10
+2,7:40,PHI,Danuel House Jr.,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,29,42,0.166,0.168,7:52
+2,6:02,PHI,James Harden,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,31,45,0.169,0.142,6:09
+2,4:58,PHI,P.J. Tucker,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,34,45,0.232,0.174,5:06
+2,2:37,PHI,P.J. Tucker,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,43,53,0.248,0.213,2:58
+2,7.3,CLE,Donovan Mitchell,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,50,61,0.125,0.153,24.9
+3,10:19,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,54,61,0.321,0.271,10:23
+3,9:29,CLE,Dean Wade,Offensive Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,56,64,0.211,0.24,9:34
+3,9:13,PHI,P.J. Tucker,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,56,64,0.239,0.238,9:16
+3,8:31,PHI,James Harden,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,58,67,0.251,0.207,8:47
+3,5:36,CLE,Isaiah Mobley,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,66,71,0.231,0.319,5:49
+3,4:30,PHI,Shake Milton,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,68,74,0.305,0.277,4:30
+3,4:01,PHI,Paul Reed,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,70,76,0.331,0.275,4:15
+3,1:32,CLE,Jarrett Allen,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,75,80,0.201,0.337,1:46
+3,1:27,CLE,Isaac Okoro,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,75,80,0.201,0.362,1:32
+3,54.6,CLE,Isaac Okoro,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,75,82,0.136,0.182,1:11
+4,11:09,PHI,Shake Milton,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,75,89,0.042,0.042,11:33
+4,9:59,PHI,Matisse Thybulle,Away from Play Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,77,94,0.015,0.013,9:59
+4,8:45,PHI,Paul Reed,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,77,96,0.005,0.005,9:07
+4,8:24,CLE,Mamadi Diakite,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,77,96,0.002,0.003,8:27
+4,8:16,PHI,Michael Foster Jr.,Offensive Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,77,96,0.004,0.002,8:24
+4,7:47,PHI,Michael Foster Jr.,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,77,96,0.007,0.003,7:49
+4,6:36,PHI,Michael Foster Jr.,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,83,102,0.003,0.001,6:36
+4,6:23,PHI,Jaden Springer,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,84,102,0.007,0.003,6:26
+4,5:19,PHI,Charlie Brown Jr.,Offensive Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,88,104,0.005,0.003,5:27
+4,4:58,PHI,Charlie Brown Jr.,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,88,104,0.009,0.005,5:19
+4,3:51,CLE,RJ Nembhard Jr.,Personal Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,93,106,0.005,0.006,4:01
+4,3:03,PHI,Michael Foster Jr.,Offensive Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,93,109,0.001,0.001,3:13
+4,2:53,PHI,Jaden Springer,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,93,109,0.002,0.001,3:03
+4,1:16,PHI,Jaden Springer,Shooting Foul,Foul,Matt Boland,Josh Tiven,Matt Myers,CLE,94,113,0.001,0.001,1:27

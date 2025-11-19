@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,GS,Kevon Looney,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,2,3,0.568,0.6,10:25
+1,9:38,CHA,Terry Rozier,Offensive Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,2,5,0.576,0.552,9:50
+1,6:12,GS,Kevon Looney,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,13,10,0.67,0.688,6:18
+1,5:21,CHA,LaMelo Ball,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,17,11,0.788,0.753,5:21
+1,4:25,CHA,Terry Rozier,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,21,13,0.835,0.811,4:29
+1,3:33,GS,Anthony Lamb,Personal Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,25,15,0.826,0.827,3:44
+1,3:17,GS,Ty Jerome,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,25,15,0.799,0.826,3:33
+1,1:42,CHA,Theo Maledon,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,28,22,0.801,0.771,2:06
+2,11:51,GS,Draymond Green,Personal Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,37,26,0.845,0.852,12:00
+2,11:03,GS,Draymond Green,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,37,28,0.78,0.809,11:05
+2,9:15,CHA,LaMelo Ball,Flagrant Foul Type 1,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,43,31,0.874,0.865,9:23
+2,8:35,CHA,JT Thor,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,48,33,0.925,0.906,8:35
+2,8:05,GS,Moses Moody,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,49,33,0.9,0.929,8:15
+2,7:47,CHA,P.J. Washington,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,49,36,0.913,0.894,8:05
+2,5:45,CHA,LaMelo Ball,Loose Ball Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,55,40,0.937,0.923,5:45
+2,5:17,GS,Jordan Poole,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,57,40,0.917,0.933,5:31
+2,3:23,CHA,Jalen McDaniels,Away from Play Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,59,44,0.942,0.916,3:25
+2,3:01,GS,Klay Thompson,Offensive Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,60,47,0.889,0.904,3:05
+2,2:43,CHA,Jalen McDaniels,Personal Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,60,47,0.924,0.905,2:49
+2,58.1,GS,Jordan Poole,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,62,49,0.869,0.893,1:00
+2,45.1,CHA,Jalen McDaniels,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,64,50,0.931,0.909,45.1
+3,11:39,CHA,Mason Plumlee,Transition Take Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,65,52,0.912,0.912,11:41
+3,10:50,GS,Jordan Poole,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,70,52,0.944,0.939,11:02
+3,10:31,CHA,LaMelo Ball,Offensive Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,70,54,0.95,0.941,10:31
+3,8:47,GS,Donte DiVincenzo,Loose Ball Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,72,59,0.909,0.908,8:47
+3,8:32,CHA,Mason Plumlee,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,74,61,0.932,0.908,8:32
+3,7:38,CHA,P.J. Washington,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,75,63,0.932,0.912,7:43
+3,7:03,GS,Kevon Looney,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,78,65,0.903,0.93,7:03
+3,5:27,CHA,Mason Plumlee,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,78,70,0.876,0.842,5:36
+3,2:50,CHA,Mark Williams,Offensive Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,82,75,0.832,0.798,3:08
+3,59.0,GS,Anthony Lamb,Loose Ball Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,89,75,0.936,0.956,59.0
+3,21.1,GS,Ty Jerome,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,89,77,0.905,0.931,30.0
+4,10:48,GS,Jordan Poole,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,92,81,0.887,0.927,10:56
+4,9:31,GS,Ty Jerome,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,94,87,0.791,0.866,9:31
+4,8:00,GS,Anthony Lamb,Personal Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,96,92,0.687,0.707,8:03
+4,4:57,GS,Jonathan Kuminga,Loose Ball Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,98,95,0.553,0.672,4:57
+4,4:34,CHA,P.J. Washington,Shooting Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,100,98,0.719,0.594,4:34
+4,4:07,GS,Draymond Green,Offensive Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,101,101,0.441,0.519,4:19
+4,1:10,GS,Draymond Green,Personal Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,105,101,0.663,0.611,1:22
+4,42.1,GS,Jonathan Kuminga,Personal Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,107,101,0.849,0.928,49.1
+4,16.1,CHA,LaMelo Ball,Personal Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,109,105,0.981,0.925,19.1
+4,14.2,CHA,Gordon Hayward,Personal Take Foul,Foul,Matt Boland,Tre Maddox,Justin Van Duyne,GS,109,105,0.983,0.981,16.1

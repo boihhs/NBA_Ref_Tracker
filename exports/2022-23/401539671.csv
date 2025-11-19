@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:19,MIA,Gabe Vincent,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,2,0,0.603,0.603,11:24
+1,11:09,MIA,Tyler Herro,Loose Ball Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,2,0,0.602,0.602,11:09
+1,9:53,ATL,John Collins,Loose Ball Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,2,3,0.549,0.551,9:53
+1,9:03,MIA,Max Strus,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,4,5,0.486,0.525,9:20
+1,7:55,ATL,Clint Capela,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,4,11,0.429,0.392,8:19
+1,7:19,MIA,Tyler Herro,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,9,13,0.422,0.468,7:19
+1,6:51,MIA,Max Strus,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,9,15,0.367,0.415,6:51
+1,5:40,ATL,De'Andre Hunter,Offensive Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,11,19,0.359,0.332,5:43
+1,4:59,ATL,John Collins,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,11,19,0.396,0.357,5:06
+1,4:39,MIA,Kyle Lowry,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,13,19,0.358,0.379,4:39
+1,3:39,ATL,De'Andre Hunter,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,13,23,0.339,0.299,3:50
+1,1:23,ATL,Onyeka Okongwu,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,24,34,0.309,0.264,1:23
+2,9:06,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,29,43,0.21,0.176,9:11
+2,8:53,MIA,Victor Oladipo,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,30,43,0.148,0.176,9:03
+2,6:21,MIA,Gabe Vincent,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,38,53,0.103,0.128,6:32
+2,5:45,ATL,Onyeka Okongwu,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,38,55,0.133,0.109,5:48
+2,2:37,MIA,Tyler Herro,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,39,62,0.02,0.033,2:45
+2,1:56,MIA,Kyle Lowry,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,42,63,0.033,0.037,1:56
+2,1:47,ATL,Saddiq Bey,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,42,63,0.059,0.045,1:53
+2,1:05,ATL,De'Andre Hunter,Loose Ball Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,44,63,0.08,0.06,1:05
+2,0.2,MIA,Max Strus,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,50,63,0.104,0.129,4.0
+3,11:25,ATL,De'Andre Hunter,Loose Ball Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,52,65,0.145,0.141,11:25
+3,9:57,ATL,Dejounte Murray,Loose Ball Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,56,67,0.18,0.181,9:57
+3,7:21,ATL,Dejounte Murray,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,65,71,0.341,0.277,7:21
+3,6:44,MIA,Bam Adebayo,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,66,71,0.311,0.308,6:48
+3,5:59,MIA,Jimmy Butler III,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,68,73,0.278,0.304,5:59
+3,5:35,MIA,Kyle Lowry,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,68,73,0.25,0.303,5:39
+3,4:14,ATL,John Collins,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,70,79,0.24,0.194,4:27
+3,2:58,ATL,Jalen Johnson,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,72,81,0.228,0.184,3:14
+3,1:26,MIA,Cody Zeller,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,76,85,0.117,0.135,1:26
+3,1:14,ATL,Jalen Johnson,Loose Ball Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,76,85,0.215,0.165,1:14
+3,1:08,MIA,Caleb Martin,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,78,85,0.147,0.194,1:14
+4,5:17,ATL,De'Andre Hunter,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,94,104,0.052,0.049,5:24
+4,5:10,ATL,Saddiq Bey,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,94,104,0.054,0.052,5:17
+4,4:33,ATL,Trae Young,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,97,106,0.069,0.063,4:41
+4,3:11,ATL,John Collins,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,99,110,0.039,0.018,3:27
+4,2:30,MIA,Kyle Lowry,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,101,110,0.021,0.021,2:30
+4,1:40,MIA,Bam Adebayo,Shooting Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,101,114,0.001,0.001,1:40
+4,31.1,MIA,Tyler Herro,Personal Foul,Foul,Sean Wright,John Goble,Aaron Smith,MIA,103,114,0.001,0.001,41.0

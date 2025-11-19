@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,LAC,Reggie Jackson,Offensive Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,0,3,0.67,0.646,10:46
+1,9:06,BOS,Jayson Tatum,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,2,5,0.62,0.663,9:06
+1,6:54,LAC,Reggie Jackson,Technical Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,11,10,0.756,0.718,6:54
+1,5:49,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,11,13,0.703,0.67,6:02
+1,4:11,BOS,Jaylen Brown,Personal Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,17,13,0.771,0.771,4:22
+1,36.1,LAC,Kawhi Leonard,Personal Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,27,23,0.809,0.783,47.0
+2,11:09,LAC,John Wall,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,27,26,0.746,0.714,11:25
+2,8:17,BOS,Jayson Tatum,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,35,33,0.66,0.701,8:18
+2,7:31,BOS,Grant Williams,Loose Ball Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,38,33,0.771,0.771,7:33
+2,5:27,BOS,Jaylen Brown,Offensive Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,41,35,0.788,0.81,5:33
+2,5:06,BOS,Derrick White,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,41,35,0.753,0.788,5:27
+2,4:57,LAC,Reggie Jackson,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,43,37,0.824,0.788,4:57
+2,4:32,LAC,Norman Powell,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,44,37,0.856,0.829,4:42
+2,1:30,BOS,Robert Williams III,Loose Ball Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,56,46,0.839,0.866,1:30
+2,1:00,BOS,Jaylen Brown,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,56,46,0.839,0.866,1:05
+2,10.1,LAC,Ivica Zubac,Personal Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,58,49,0.893,0.866,28.1
+3,11:28,BOS,Marcus Smart,Offensive Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,60,52,0.83,0.851,11:41
+3,11:08,LAC,Kawhi Leonard,Personal Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,60,55,0.783,0.782,11:18
+3,8:35,BOS,Marcus Smart,Offensive Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,67,62,0.753,0.782,8:50
+3,6:31,LAC,Ivica Zubac,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,70,69,0.704,0.651,6:35
+3,5:06,BOS,Derrick White,Personal Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,75,74,0.607,0.608,5:27
+3,2:40,BOS,Sam Hauser,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,78,76,0.574,0.641,2:48
+3,1:45,LAC,Ivica Zubac,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,83,80,0.749,0.679,1:45
+3,38.1,LAC,Nicolas Batum,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,83,85,0.564,0.489,48.1
+4,11:37,BOS,Jaylen Brown,Personal Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,84,85,0.469,0.487,11:46
+4,11:04,BOS,Robert Williams III,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,86,85,0.478,0.573,11:20
+4,10:35,BOS,Derrick White,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,88,89,0.399,0.515,10:35
+4,10:08,LAC,Nicolas Batum,Offensive Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,90,90,0.555,0.5,10:20
+4,9:58,LAC,Paul George,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,90,90,0.646,0.555,10:08
+4,7:51,BOS,Grant Williams,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,100,94,0.729,0.807,7:58
+4,7:01,LAC,Luke Kennard,Personal Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,100,97,0.729,0.712,7:23
+4,5:32,BOS,Jaylen Brown,Offensive Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,102,99,0.672,0.733,5:37
+4,4:53,LAC,Kawhi Leonard,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,106,99,0.936,0.877,4:53
+4,3:05,LAC,Paul George,Personal Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,112,102,0.993,0.983,3:14
+4,1:37,LAC,Norman Powell,Loose Ball Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,112,106,0.974,0.941,1:51
+4,10.1,LAC,Paul George,Shooting Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,113,110,0.951,0.92,10.1
+4,2.0,LAC,Kawhi Leonard,Personal Take Foul,Foul,Brent Barnaky,Scott Foster,Matt Myers,BOS,115,110,0.998,0.997,2.0

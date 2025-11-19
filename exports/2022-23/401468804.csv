@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,12:00,HOU,Alperen Sengun,Loose Ball Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,0,0,0.781,0.781,12:00
+1,11:16,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,0,0,0.733,0.763,11:32
+1,8:33,LAC,Kawhi Leonard,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,7,8,0.697,0.729,8:37
+1,5:34,LAC,Kawhi Leonard,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,15,16,0.678,0.713,5:36
+1,2:02,LAC,Robert Covington,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,25,27,0.627,0.667,2:10
+1,28.1,LAC,Norman Powell,Personal Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,28,28,0.669,0.706,34.0
+2,11:45,LAC,Moses Brown,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,31,32,0.658,0.703,11:45
+2,10:00,HOU,Usman Garuba,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,31,37,0.597,0.554,10:04
+2,9:43,LAC,Reggie Jackson,Flagrant Foul Type 1,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,33,37,0.588,0.58,9:54
+2,9:33,HOU,Eric Gordon,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,33,40,0.564,0.519,9:34
+2,2:28,LAC,Nicolas Batum,Personal Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,51,53,0.586,0.585,2:43
+2,59.1,HOU,Daishen Nix,Personal Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,54,59,0.555,0.502,1:06
+3,9:52,LAC,Ivica Zubac,Offensive Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,64,69,0.434,0.469,9:57
+3,9:09,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,66,69,0.444,0.505,9:37
+3,8:37,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,66,71,0.429,0.421,8:49
+3,8:17,HOU,KJ Martin,Technical Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,66,74,0.367,0.339,8:17
+3,7:52,HOU,Alperen Sengun,Offensive Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,69,74,0.451,0.413,8:03
+3,6:58,HOU,Daishen Nix,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,72,74,0.62,0.562,7:03
+3,6:37,LAC,Terance Mann,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,73,74,0.528,0.559,6:37
+3,5:39,LAC,Amir Coffey,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,73,76,0.406,0.466,5:42
+3,4:37,HOU,Jabari Smith Jr.,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,76,79,0.564,0.503,4:53
+3,4:08,LAC,Norman Powell,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,80,79,0.559,0.623,4:16
+3,3:23,HOU,Daishen Nix,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,80,82,0.565,0.534,3:37
+3,1:54,HOU,Tari Eason,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,84,85,0.633,0.567,2:10
+4,11:46,HOU,Usman Garuba,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,91,90,0.694,0.644,11:46
+4,9:44,HOU,TyTy Washington Jr.,Personal Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,95,92,0.756,0.743,9:44
+4,9:24,HOU,Garrison Mathews,Offensive Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,97,92,0.826,0.788,9:33
+4,7:25,HOU,Jabari Smith Jr.,Personal Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,103,94,0.949,0.943,7:31
+4,6:41,HOU,Tari Eason,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,105,94,0.981,0.965,6:41
+4,6:13,HOU,Garrison Mathews,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,108,94,0.995,0.989,6:13
+4,4:00,HOU,KJ Martin,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,112,98,0.998,0.997,4:11
+4,3:50,HOU,KJ Martin,Shooting Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,114,98,0.999,0.999,3:54
+4,3:31,LAC,Nicolas Batum,Loose Ball Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,116,98,0.999,0.999,3:31
+4,3:23,LAC,Robert Covington,Personal Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,116,98,0.999,0.999,3:23
+4,2:21,LAC,Moses Brown,Loose Ball Foul,Foul,James Williams,Michael Smith,Mousa Dagher,LAC,119,100,0.999,0.999,2:21

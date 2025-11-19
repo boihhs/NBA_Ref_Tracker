@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:03,WSH,Bradley Beal,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,2,2,0.759,0.729,11:23
+1,10:49,CLE,Donovan Mitchell,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,5,2,0.768,0.769,11:03
+1,7:19,WSH,Daniel Gafford,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,17,11,0.837,0.809,7:19
+1,3:07,WSH,Deni Avdija,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,24,18,0.833,0.802,3:07
+1,2:14,CLE,Evan Mobley,Loose Ball Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,27,20,0.818,0.819,2:14
+1,1:33,CLE,Mamadi Diakite,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,27,20,0.788,0.818,1:41
+2,10:49,CLE,Mamadi Diakite,Offensive Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,33,27,0.794,0.814,11:08
+2,10:29,WSH,Kyle Kuzma,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,35,27,0.859,0.83,10:29
+2,9:17,WSH,Kyle Kuzma,Offensive Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,40,27,0.915,0.903,9:29
+2,8:28,CLE,Cedi Osman,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,40,29,0.878,0.878,8:30
+2,6:17,CLE,Ricky Rubio,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,45,31,0.916,0.917,6:18
+2,5:22,WSH,Deni Avdija,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,47,35,0.906,0.906,5:30
+2,4:07,WSH,Johnny Davis,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,52,35,0.96,0.948,4:07
+2,3:58,CLE,Donovan Mitchell,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,53,37,0.933,0.948,3:58
+2,3:57,WSH,Kristaps Porzingis,Technical Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,53,37,0.954,0.948,3:57
+2,1:44,WSH,Corey Kispert,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,58,42,0.962,0.952,1:47
+3,11:32,CLE,Lamar Stevens,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,61,46,0.928,0.949,11:32
+3,10:50,WSH,Bradley Beal,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,63,47,0.962,0.949,10:50
+3,9:37,CLE,Evan Mobley,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,64,51,0.896,0.918,9:43
+3,7:59,WSH,Bradley Beal,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,64,55,0.874,0.874,8:05
+3,7:22,WSH,Daniel Gafford,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,64,55,0.901,0.875,7:32
+3,6:42,WSH,Kyle Kuzma,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,69,55,0.956,0.939,6:42
+3,3:30,CLE,Isaac Okoro,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,73,62,0.876,0.906,3:38
+3,2:22,CLE,Mamadi Diakite,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,75,66,0.832,0.87,2:28
+3,1:32,CLE,Caris LeVert,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,79,68,0.885,0.914,1:41
+3,1:08,CLE,Mamadi Diakite,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,79,70,0.836,0.876,1:13
+3,42.2,CLE,Mamadi Diakite,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,81,72,0.838,0.877,53.0
+3,36.0,WSH,Johnny Davis,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,81,72,0.929,0.904,40.1
+3,34.2,CLE,Cedi Osman,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,82,72,0.867,0.903,36.0
+4,11:47,WSH,Daniel Gafford,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,86,74,0.965,0.942,11:47
+4,10:44,CLE,Caris LeVert,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,91,77,0.968,0.97,10:53
+4,8:42,CLE,Cedi Osman,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,93,77,0.978,0.991,8:56
+4,7:45,WSH,Kyle Kuzma,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,96,82,0.993,0.986,8:00
+4,7:33,CLE,Isaac Okoro,Shooting Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,98,82,0.982,0.991,7:45
+4,5:23,WSH,Kristaps Porzingis,Transition Take Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,100,87,0.989,0.989,5:23
+4,4:38,WSH,Corey Kispert,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,103,87,0.998,0.997,4:50
+4,1:14,WSH,Kendrick Nunn,Personal Foul,Foul,Zach Zarba,Leon Wood,Tre Maddox,CLE,114,91,0.999,0.999,1:17

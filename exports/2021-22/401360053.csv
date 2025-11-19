@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:23,UTAH,Donovan Mitchell,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,2,2,0.839,0.86,10:23
+1,9:32,UTAH,Mike Conley,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,2,6,0.769,0.8,9:32
+1,9:13,TOR,Khem Birch,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,2,7,0.779,0.783,9:32
+1,5:02,UTAH,Royce O'Neale,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,17,18,0.777,0.805,5:06
+1,4:06,TOR,Fred VanVleet,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,17,23,0.717,0.72,4:22
+2,10:33,TOR,Malachi Flynn,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,37,31,0.89,0.891,10:44
+2,8:43,UTAH,Joe Ingles,Personal Take Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,42,33,0.91,0.91,8:45
+2,8:11,TOR,Khem Birch,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,42,36,0.894,0.885,8:11
+2,7:57,UTAH,Trent Forrest,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,44,36,0.877,0.897,8:11
+2,7:15,UTAH,Joe Ingles,Personal Take Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,44,38,0.868,0.868,7:16
+2,5:48,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,46,42,0.802,0.831,5:59
+2,5:36,TOR,Khem Birch,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,46,44,0.802,0.812,5:36
+2,3:43,TOR,Malachi Flynn,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,53,53,0.791,0.758,3:50
+3,10:28,TOR,Scottie Barnes,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,66,65,0.747,0.748,10:41
+3,10:25,UTAH,Mike Conley,Offensive Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,66,65,0.719,0.747,10:28
+3,9:40,UTAH,Rudy Gobert,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,68,67,0.72,0.714,9:50
+3,7:39,TOR,Khem Birch,Loose Ball Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,73,70,0.787,0.787,7:39
+3,5:49,TOR,Malachi Flynn,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,76,72,0.807,0.809,6:15
+3,5:41,TOR,Malachi Flynn,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,78,72,0.869,0.83,5:41
+3,5:33,UTAH,Joe Ingles,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,79,72,0.854,0.856,5:41
+3,4:56,TOR,Fred VanVleet,Personal Take Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,81,74,0.903,0.875,4:56
+3,4:16,UTAH,Donovan Mitchell,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,83,74,0.864,0.893,4:31
+3,2:55,UTAH,Joe Ingles,Offensive Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,83,78,0.798,0.828,2:58
+3,46.9,UTAH,Rudy Gay,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,90,78,0.948,0.948,53.8
+4,11:02,UTAH,Mike Conley,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,95,80,0.978,0.98,11:07
+4,9:01,TOR,Svi Mykhailiuk,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,98,82,0.994,0.992,9:07
+4,8:53,UTAH,Rudy Gobert,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,99,82,0.986,0.992,9:01
+4,6:29,UTAH,Hassan Whiteside,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,108,87,0.999,0.999,6:29
+4,4:58,UTAH,Donovan Mitchell,Personal Take Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,110,92,0.998,0.998,5:00
+4,4:27,TOR,Justin Champagnie,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,110,94,0.999,0.998,4:36
+4,25.2,UTAH,Jared Butler,Personal Take Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,119,101,0.999,0.999,25.5
+4,2:48,UTAH,Rudy Gobert,Offensive Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,UTAH,117,96,0.999,1.0,0.0

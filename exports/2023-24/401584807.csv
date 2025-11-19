@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:55,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,3,7,0.691,0.668,9:16
+1,7:41,LAC,Ivica Zubac,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,7,12,0.613,0.659,7:41
+1,7:18,MEM,Jacob Gilyard,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,7,16,0.551,0.553,7:26
+1,5:18,LAC,Moussa Diabate,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,11,19,0.534,0.534,5:31
+1,2:42,MEM,Ziaire Williams,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,15,23,0.538,0.54,2:48
+1,1:51,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,17,26,0.502,0.472,2:07
+1,29.0,MEM,Bismack Biyombo,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,19,32,0.412,0.364,34.2
+1,10.1,LAC,P.J. Tucker,Defensive 3-Seconds Technical,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,20,32,0.371,0.362,29.0
+2,11:52,MEM,Jacob Gilyard,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,20,33,0.359,0.343,12:00
+2,11:44,MEM,John Konchar,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,20,33,0.402,0.359,11:52
+2,9:14,LAC,Ivica Zubac,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,28,33,0.547,0.547,9:15
+2,7:19,LAC,Russell Westbrook,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,32,36,0.562,0.561,7:26
+2,7:05,MEM,John Konchar,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,32,36,0.633,0.651,7:05
+2,6:19,LAC,Terance Mann,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,35,36,0.645,0.644,6:19
+2,5:47,MEM,Marcus Smart,Flopping Technical,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,35,36,0.669,0.641,5:47
+2,4:34,MEM,Desmond Bane,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,39,40,0.704,0.662,4:39
+2,3:45,LAC,Kawhi Leonard,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,42,42,0.61,0.656,3:54
+2,2:06,MEM,Desmond Bane,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,42,44,0.664,0.617,2:14
+2,37.1,LAC,Paul George,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,43,49,0.377,0.43,37.1
+2,36.1,MEM,Desmond Bane,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,43,50,0.485,0.429,37.1
+3,10:18,LAC,Kawhi Leonard,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,45,55,0.216,0.26,10:21
+3,9:52,LAC,Kawhi Leonard,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,45,57,0.158,0.196,9:55
+3,7:58,LAC,Ivica Zubac,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,52,63,0.182,0.231,7:58
+3,7:44,MEM,Marcus Smart,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,52,64,0.199,0.202,7:58
+3,6:29,LAC,Paul George,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,56,67,0.144,0.183,6:29
+3,5:51,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,56,69,0.191,0.153,6:09
+3,5:26,LAC,Norman Powell,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,57,69,0.109,0.144,5:26
+3,4:12,LAC,Norman Powell,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,62,74,0.111,0.155,4:12
+3,4:04,MEM,Bismack Biyombo,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,62,75,0.127,0.128,4:04
+3,2:55,MEM,Marcus Smart,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,64,77,0.153,0.117,3:14
+3,1:20,MEM,Marcus Smart,Offensive Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,64,79,0.059,0.048,1:30
+4,11:53,LAC,Terance Mann,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,68,79,0.089,0.111,12:00
+4,11:26,LAC,Paul George,Transition Take Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,68,81,0.053,0.072,11:41
+4,10:59,MEM,Jacob Gilyard,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,68,82,0.052,0.048,11:00
+4,10:27,LAC,P.J. Tucker,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,71,82,0.072,0.081,10:45
+4,8:48,MEM,Desmond Bane,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,73,82,0.142,0.131,8:48
+4,7:58,MEM,Santi Aldama,Offensive Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,76,82,0.246,0.198,8:07
+4,7:21,LAC,Russell Westbrook,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,79,82,0.313,0.34,7:42
+4,7:16,LAC,Norman Powell,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,79,82,0.233,0.313,7:21
+4,6:01,LAC,Terance Mann,Flopping Technical,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,84,89,0.181,0.235,6:01
+4,4:47,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,90,91,0.604,0.472,4:52
+4,3:46,MEM,Luke Kennard,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,92,93,0.603,0.471,3:46
+4,3:36,MEM,David Roddy,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,92,93,0.603,0.603,3:46
+4,1:55,LAC,Russell Westbrook,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,95,97,0.178,0.283,1:55
+4,1:15,LAC,Norman Powell,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,98,98,0.31,0.465,1:15
+4,25.1,LAC,Norman Powell,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,98,101,0.058,0.127,28.1
+4,18.2,MEM,Bismack Biyombo,Shooting Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,98,103,0.162,0.082,25.1
+4,6.0,LAC,Paul George,Personal Foul,Foul,Eric Dalen,Tyler Ford,John Conley,LAC,101,103,0.037,0.188,18.2

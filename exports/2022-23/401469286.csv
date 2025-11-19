@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,ATL,De'Andre Hunter,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,5,4,0.495,0.494,10:26
+1,3:25,CLE,Ricky Rubio,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,17,19,0.443,0.444,3:32
+1,1:30,ATL,Vit Krejci,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,22,22,0.429,0.47,1:38
+1,44.1,CLE,Cedi Osman,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,22,24,0.485,0.442,52.0
+2,11:51,CLE,Caris LeVert,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,24,24,0.543,0.485,12:00
+2,11:01,ATL,Onyeka Okongwu,Offensive Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,28,24,0.587,0.618,11:06
+2,10:47,ATL,Vit Krejci,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,28,26,0.509,0.56,10:47
+2,9:44,ATL,Onyeka Okongwu,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,30,26,0.547,0.589,9:56
+2,7:31,CLE,Mamadi Diakite,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,34,32,0.609,0.564,7:34
+2,6:42,CLE,Mamadi Diakite,Defensive 3-Seconds Technical,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,38,32,0.677,0.683,6:53
+2,6:15,ATL,Clint Capela,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,41,32,0.701,0.737,6:34
+2,4:33,CLE,Lamar Stevens,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,50,36,0.888,0.857,4:33
+2,3:47,CLE,Lamar Stevens,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,51,39,0.871,0.843,3:47
+2,3:37,CLE,Lamar Stevens,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,51,39,0.872,0.871,3:47
+2,3:19,CLE,Evan Mobley,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,53,41,0.873,0.845,3:27
+2,1:55,ATL,De'Andre Hunter,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,55,45,0.746,0.785,1:59
+3,11:43,ATL,Clint Capela,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,59,53,0.657,0.716,11:43
+3,10:48,CLE,Darius Garland,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,59,56,0.617,0.617,11:06
+3,10:15,CLE,Darius Garland,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,63,56,0.77,0.719,10:15
+3,8:48,CLE,Caris LeVert,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,68,63,0.716,0.658,8:48
+3,6:32,CLE,Donovan Mitchell,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,70,67,0.685,0.63,6:49
+3,6:00,ATL,John Collins,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,71,67,0.573,0.631,6:03
+3,4:14,CLE,Donovan Mitchell,Loose Ball Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,74,73,0.62,0.558,4:14
+3,2:53,CLE,Caris LeVert,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,78,77,0.627,0.562,3:04
+3,2:53,CLE,Caris LeVert,Technical Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,78,77,0.594,0.627,2:53
+3,1:53,CLE,Cedi Osman,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,84,77,0.852,0.806,2:00
+3,1:14,ATL,Vit Krejci,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,89,79,0.827,0.868,1:25
+3,35.0,CLE,Ricky Rubio,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,92,84,0.889,0.848,39.1
+3,7.0,CLE,Ricky Rubio,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,93,84,0.912,0.88,10.1
+4,9:10,ATL,Onyeka Okongwu,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,102,91,0.889,0.93,9:21
+4,8:44,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,105,93,0.914,0.948,8:56
+4,8:07,ATL,De'Andre Hunter,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,105,95,0.859,0.912,8:17
+4,7:44,ATL,De'Andre Hunter,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,105,97,0.788,0.855,7:50
+4,5:55,ATL,Onyeka Okongwu,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,105,103,0.514,0.565,5:55
+4,5:10,CLE,Ricky Rubio,Personal Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,105,106,0.44,0.432,5:30
+4,4:06,CLE,Evan Mobley,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,112,109,0.778,0.653,4:06
+4,2:27,ATL,Clint Capela,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,112,111,0.382,0.513,2:39
+4,2:14,CLE,Evan Mobley,Shooting Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,112,113,0.523,0.439,2:27
+4,9.0,CLE,Caris LeVert,Personal Take Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,119,118,0.889,0.707,9.1
+4,3.0,CLE,Darius Garland,Personal Take Foul,Foul,David Guthrie,CJ Washington,Brett Nansel,ATL,119,118,0.962,0.737,9.0

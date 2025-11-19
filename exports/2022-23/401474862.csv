@@ -1,0 +1,59 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:15,PHX,Cameron Johnson,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,2,0,0.598,0.562,11:19
+1,10:25,PHX,Mikal Bridges,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,3,5,0.497,0.511,10:25
+1,9:08,PHX,Mikal Bridges,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,10,7,0.586,0.587,9:20
+1,9:02,PHX,Mikal Bridges,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,10,7,0.625,0.586,9:08
+1,8:54,PHX,Chris Paul,Offensive Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,12,7,0.635,0.615,9:02
+1,8:29,LAL,Wenyen Gabriel,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,12,7,0.574,0.615,8:35
+1,7:41,LAL,Wenyen Gabriel,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,14,9,0.614,0.615,7:42
+1,7:02,LAL,Patrick Beverley,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,17,12,0.617,0.615,7:11
+1,5:03,LAL,LeBron James,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,23,19,0.552,0.592,5:11
+1,1:44,LAL,Juan Toscano-Anderson,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,32,21,0.737,0.77,1:57
+1,1:05,PHX,Torrey Craig,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,32,24,0.764,0.729,1:16
+1,47.6,LAL,Russell Westbrook,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,35,24,0.739,0.772,1:00
+2,11:43,PHX,Landry Shamet,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,35,28,0.744,0.693,12:00
+2,11:40,LAL,Patrick Beverley,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,37,28,0.731,0.734,11:43
+2,11:01,PHX,Chris Paul,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,37,28,0.758,0.758,11:01
+2,8:52,PHX,Dario Saric,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,39,30,0.764,0.764,9:09
+2,8:47,PHX,Jock Landale,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,39,30,0.796,0.764,8:52
+2,8:36,LAL,Russell Westbrook,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,40,30,0.727,0.763,8:47
+2,8:12,LAL,LeBron James,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,42,32,0.764,0.765,8:12
+2,7:05,LAL,Patrick Beverley,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,48,38,0.757,0.792,7:16
+2,6:37,PHX,Mikal Bridges,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,48,38,0.845,0.818,6:41
+2,4:58,LAL,Wenyen Gabriel,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,53,45,0.714,0.753,5:15
+2,4:19,PHX,Devin Booker,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,55,50,0.743,0.7,4:21
+2,3:33,LAL,Juan Toscano-Anderson,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,59,50,0.746,0.784,3:35
+2,3:08,PHX,Chris Paul,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,59,49,0.842,0.809,3:08
+2,2:46,PHX,Mikal Bridges,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,61,54,0.774,0.72,7:25
+2,2:23,LAL,Juan Toscano-Anderson,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,62,54,0.692,0.739,2:23
+2,33.0,PHX,Damion Lee,Technical Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,67,62,0.707,0.685,40.9
+2,33.0,PHX,Damion Lee,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,67,62,0.731,0.707,33.0
+3,9:29,LAL,Wenyen Gabriel,Offensive Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,74,68,0.699,0.733,9:40
+3,8:48,PHX,Devin Booker,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,74,70,0.692,0.667,8:48
+3,8:06,PHX,Deandre Ayton,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,75,70,0.749,0.703,8:15
+3,7:28,PHX,Chris Paul,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,76,72,0.67,0.671,7:31
+3,7:03,LAL,Cole Swider,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,76,72,0.634,0.636,7:09
+3,6:23,PHX,Mikal Bridges,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,78,74,0.728,0.676,6:28
+3,5:08,PHX,Devin Booker,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,83,74,0.876,0.842,5:11
+3,4:11,LAL,Thomas Bryant,Technical Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,87,74,0.897,0.911,4:13
+3,3:50,LAL,Kendrick Nunn,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,87,75,0.894,0.895,3:50
+3,3:25,PHX,Landry Shamet,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,87,78,0.846,0.852,3:39
+3,3:04,LAL,Damian Jones,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,88,78,0.815,0.854,3:15
+3,59.5,LAL,Max Christie,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,92,87,0.638,0.699,1:14
+4,11:01,LAL,Cole Swider,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,95,93,0.513,0.622,11:01
+4,10:44,LAL,Austin Reaves,Offensive Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,95,96,0.407,0.62,10:00
+4,10:23,PHX,Damion Lee,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,97,91,0.837,0.761,10:23
+4,8:39,PHX,Jock Landale,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,97,99,0.427,0.409,8:39
+4,6:54,PHX,Duane Washington Jr.,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,99,104,0.296,0.19,6:54
+4,6:31,PHX,Ish Wainright,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,100,106,0.278,0.196,6:45
+4,6:30,PHX,Dario Saric,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,101,106,0.334,0.248,6:30
+4,3:57,PHX,Timothe Luwawu-Cabarrot,Loose Ball Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,103,108,0.306,0.211,3:57
+4,3:24,LAL,Scotty Pippen Jr.,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,105,108,0.156,0.26,3:33
+4,2:49,PHX,Duane Washington Jr.,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,105,110,0.279,0.184,2:57
+4,2:35,LAL,Jay Huff,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,107,110,0.134,0.231,2:36
+4,40.9,LAL,Jay Huff,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,112,114,0.121,0.252,1:01
+4,31.9,PHX,Duane Washington Jr.,Shooting Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,112,115,0.401,0.23,33.1
+4,8.6,LAL,Jay Huff,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,114,115,0.103,0.274,9.6
+4,5.5,PHX,Duane Washington Jr.,Personal Take Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,114,117,0.209,0.141,8.6
+4,2.5,LAL,Matt Ryan,Personal Take Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,115,117,0.014,0.081,5.1
+4,11:15,PHX,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Bill Kennedy,Rodney Mott,Jenna Reneau,LAL,95,97,0.442,0.522,11:30

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:31,BOS,Marcus Smart,Personal Take Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,9,8,0.696,0.695,8:31
+1,4:45,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,20,15,0.815,0.767,4:45
+1,4:33,BOS,Grant Williams,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,21,15,0.758,0.788,4:45
+1,3:15,BOS,Robert Williams III,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,24,20,0.745,0.745,3:33
+1,2:23,BOS,Marcus Smart,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,26,20,0.754,0.784,2:27
+1,1:44,BOS,Daniel Theis,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,28,24,0.725,0.763,1:44
+1,4.7,MIN,Karl-Anthony Towns,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,34,28,0.827,0.8,9.1
+2,11:24,MIN,Naz Reid,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,39,30,0.862,0.836,11:24
+2,10:45,MIN,D'Angelo Russell,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,40,32,0.859,0.837,10:56
+2,10:20,BOS,Derrick White,Loose Ball Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,42,32,0.851,0.851,10:20
+2,10:10,MIN,Naz Reid,Offensive Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,42,32,0.867,0.851,10:20
+2,8:56,BOS,Aaron Nesmith,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,47,32,0.919,0.918,9:05
+2,8:51,BOS,Daniel Theis,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,47,32,0.902,0.919,8:56
+2,8:16,MIN,Naz Reid,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,49,34,0.941,0.93,8:18
+2,8:16,MIN,Naz Reid,Technical Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,49,34,0.936,0.93,8:16
+2,6:59,BOS,Daniel Theis,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,51,36,0.912,0.931,6:59
+2,6:23,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,53,37,0.941,0.931,6:46
+2,6:13,MIN,Patrick Beverley,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,53,37,0.952,0.941,6:23
+2,5:50,BOS,Grant Williams,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,53,37,0.915,0.932,5:59
+2,5:38,MIN,Patrick Beverley,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,53,38,0.945,0.932,5:50
+2,5:22,BOS,Robert Williams III,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,55,38,0.927,0.941,5:24
+2,5:04,MIN,Karl-Anthony Towns,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,55,39,0.953,0.942,5:22
+2,1:11,MIN,Taurean Prince,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,65,47,0.971,0.962,1:17
+3,8:53,MIN,Jarred Vanderbilt,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,78,60,0.973,0.974,9:08
+3,8:11,BOS,Grant Williams,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,80,60,0.979,0.979,8:18
+3,8:09,BOS,Grant Williams,Away from Play Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,80,60,0.979,0.979,8:11
+3,7:35,MIN,Anthony Edwards,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,80,63,0.969,0.969,7:56
+3,5:54,BOS,Derrick White,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,89,65,0.994,0.994,6:02
+3,2:46,MIN,Jordan McLaughlin,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,94,74,0.991,0.991,3:04
+3,2:18,BOS,Marcus Smart,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,97,74,0.993,0.995,2:34
+3,1:06,MIN,Jordan McLaughlin,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,101,74,0.999,0.999,1:21
+3,55.7,MIN,MIN,Delay Technical,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,101,76,0.998,0.998,55.7
+3,10.9,MIN,D'Angelo Russell,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,105,78,0.999,0.999,10.9
+4,10:50,BOS,Aaron Nesmith,Personal Take Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,106,85,0.996,0.996,10:51
+4,10:37,BOS,Aaron Nesmith,Personal Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,106,85,0.996,0.996,10:50
+4,10:21,MIN,Naz Reid,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,106,85,0.998,0.997,10:24
+4,10:10,BOS,Daniel Theis,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,107,85,0.995,0.997,10:21
+4,6:52,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,117,93,0.999,0.999,7:05
+4,6:40,BOS,Daniel Theis,Offensive Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,117,93,0.999,0.999,6:52
+4,4:18,MIN,Jaylen Nowell,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,119,100,0.999,0.999,4:44
+4,3:49,MIN,Jake Layman,Shooting Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,121,100,0.999,0.999,4:02
+4,3:44,BOS,Jayson Tatum,Personal Take Foul,Foul,Ben Taylor,Gediminas Petraitis,Jonathan Sterling,BOS,123,100,0.999,0.999,3:49

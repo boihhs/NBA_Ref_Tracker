@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:59,GS,Klay Thompson,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,3,0,0.592,0.576,10:59
+1,10:48,PHX,Devin Booker,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,4,0,0.575,0.573,10:59
+1,10:14,GS,Andrew Wiggins,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,4,0,0.599,0.6,10:24
+1,6:39,PHX,Jusuf Nurkic,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,13,9,0.58,0.579,6:53
+1,5:48,GS,Draymond Green,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,13,9,0.625,0.608,6:03
+1,4:51,PHX,Yuta Watanabe,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,16,11,0.589,0.635,4:51
+1,4:32,GS,Moses Moody,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,16,12,0.647,0.609,4:51
+1,28.1,GS,Dario Saric,Loose Ball Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,24,22,0.602,0.533,28.1
+1,0.1,PHX,Eric Gordon,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,25,25,0.431,0.475,1.0
+2,11:20,PHX,Bradley Beal,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,25,27,0.395,0.444,11:20
+2,11:03,GS,Brandin Podziemski,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,25,27,0.445,0.444,11:18
+2,9:48,PHX,Bol Bol,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,25,29,0.318,0.358,10:09
+2,9:33,PHX,Jordan Goodwin,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,25,31,0.267,0.304,9:36
+2,8:05,PHX,Bradley Beal,Offensive Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,27,38,0.183,0.204,8:19
+2,7:15,GS,Dario Saric,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,29,40,0.2,0.201,7:18
+2,6:43,GS,Stephen Curry,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,29,40,0.198,0.199,6:44
+2,6:30,GS,Kevon Looney,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,29,40,0.233,0.198,6:43
+2,6:14,GS,Kevon Looney,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,29,40,0.232,0.196,6:14
+2,5:59,PHX,Josh Okogie,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,31,40,0.185,0.219,6:14
+2,3:30,PHX,Devin Booker,Loose Ball Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,45,48,0.331,0.375,3:30
+2,51.1,PHX,Devin Booker,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,52,52,0.425,0.474,1:05
+2,18.0,GS,Jonathan Kuminga,Loose Ball Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,52,53,0.527,0.476,18.0
+3,11:25,GS,Draymond Green,Defensive 3-Seconds Technical,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,53,58,0.327,0.335,11:46
+3,11:15,GS,Draymond Green,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,54,58,0.397,0.372,11:25
+3,10:05,PHX,Chimezie Metu,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,58,62,0.309,0.366,10:05
+3,8:23,PHX,Bradley Beal,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,60,65,0.296,0.293,8:31
+3,8:23,GS,Draymond Green,Flagrant Foul Type 2,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,60,65,0.319,0.296,8:23
+3,6:39,PHX,Chimezie Metu,Transition Take Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,66,70,0.32,0.321,6:42
+3,6:14,GS,Jonathan Kuminga,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,68,71,0.395,0.394,6:15
+3,5:51,PHX,Jordan Goodwin,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,68,71,0.3,0.354,6:01
+3,5:09,GS,Jonathan Kuminga,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,71,73,0.495,0.433,5:14
+3,4:56,GS,Stephen Curry,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,71,73,0.495,0.495,5:09
+3,4:28,GS,Moses Moody,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,73,75,0.495,0.432,4:40
+3,3:17,GS,Dario Saric,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,79,75,0.717,0.646,3:17
+3,1:10,PHX,Jordan Goodwin,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,83,85,0.311,0.378,1:23
+3,57.0,GS,Chris Paul,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,85,87,0.461,0.377,57.0
+3,1.1,GS,Dario Saric,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,88,87,0.609,0.519,1.1
+4,11:32,PHX,Jusuf Nurkic,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,90,87,0.528,0.615,11:49
+4,10:14,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,92,89,0.724,0.619,10:14
+4,9:40,GS,Brandin Podziemski,Loose Ball Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,93,89,0.747,0.733,9:40
+4,9:29,GS,Moses Moody,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,93,89,0.816,0.747,9:40
+4,6:19,PHX,Yuta Watanabe,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,100,96,0.625,0.73,6:20
+4,4:14,GS,Jonathan Kuminga,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,105,96,0.983,0.964,4:24
+4,4:08,GS,Chris Paul,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,105,96,0.983,0.983,4:14
+4,3:03,PHX,Devin Booker,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,109,98,0.967,0.986,3:09
+4,2:30,PHX,Jusuf Nurkic,Shooting Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,111,99,0.984,0.993,2:42
+4,1:19,GS,Chris Paul,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,113,106,0.988,0.971,1:26
+4,9.1,GS,Dario Saric,Personal Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,115,114,0.886,0.701,15.1
+4,5.0,GS,Chris Paul,Personal Take Foul,Foul,Brian Forte,Jacyn Goble,Brett Nansel,PHX,117,114,0.986,0.961,5.0

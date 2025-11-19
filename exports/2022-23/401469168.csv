@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:22,PHX,Torrey Craig,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,7,4,0.589,0.625,9:27
+1,8:01,SAC,Kevin Huerter,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,12,6,0.734,0.697,8:01
+1,7:32,PHX,Devin Booker,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,12,6,0.696,0.718,7:35
+1,5:57,PHX,Terrence Ross,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,17,8,0.746,0.781,6:53
+1,3:43,SAC,Kessler Edwards,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,22,17,0.698,0.699,3:55
+1,3:15,PHX,Terrence Ross,Loose Ball Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,25,17,0.709,0.743,3:16
+1,3:15,PHX,Deandre Ayton,Technical Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,25,17,0.726,0.709,3:15
+1,3:03,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,25,19,0.755,0.722,3:15
+1,1:36,SAC,Chimezie Metu,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,26,26,0.61,0.567,1:52
+1,1:25,PHX,Jock Landale,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,28,26,0.553,0.595,1:36
+1,57.1,PHX,Cameron Payne,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,30,26,0.608,0.649,1:07
+1,36.0,PHX,Cameron Payne,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,30,28,0.552,0.595,36.1
+1,6.0,PHX,Cameron Payne,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,30,30,0.491,0.537,16.1
+2,11:13,PHX,T.J. Warren,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,34,31,0.579,0.619,11:30
+2,10:04,PHX,T.J. Warren,Loose Ball Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,36,36,0.534,0.532,10:04
+2,9:46,SAC,Keegan Murray,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,36,36,0.605,0.564,9:48
+2,8:34,PHX,Jock Landale,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,38,41,0.419,0.471,8:34
+2,8:29,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,40,42,0.523,0.469,8:29
+2,8:19,PHX,T.J. Warren,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,41,42,0.456,0.502,8:29
+2,6:28,SAC,Kevin Huerter,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,43,49,0.374,0.375,6:39
+2,5:56,SAC,Trey Lyles,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,45,49,0.479,0.432,6:03
+2,4:55,PHX,Damion Lee,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,47,52,0.319,0.366,5:05
+2,4:41,SAC,Domantas Sabonis,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,47,54,0.382,0.333,4:41
+2,4:18,SAC,Kevin Huerter,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,49,54,0.442,0.396,4:22
+2,3:18,PHX,Josh Okogie,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,52,59,0.255,0.295,3:24
+2,2:53,PHX,Deandre Ayton,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,54,61,0.253,0.293,3:02
+2,2:10,PHX,Deandre Ayton,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,56,62,0.277,0.323,2:11
+2,1:24,SAC,Kessler Edwards,Away from Play Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,56,64,0.335,0.285,1:33
+2,0.1,SAC,Kessler Edwards,Offensive Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,59,67,0.281,0.254,18.0
+3,11:09,PHX,Devin Booker,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,61,69,0.203,0.244,11:25
+3,8:58,SAC,Keegan Murray,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,67,76,0.229,0.23,9:09
+3,8:14,SAC,Keegan Murray,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,69,78,0.272,0.226,8:26
+3,3:25,PHX,Ish Wainright,Loose Ball Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,85,83,0.588,0.588,3:25
+3,3:13,PHX,Terrence Ross,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,85,83,0.521,0.588,3:25
+3,2:18,PHX,Ish Wainright,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,88,85,0.566,0.631,2:38
+4,11:38,PHX,Chris Paul,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,95,96,0.35,0.443,11:40
+4,6:31,PHX,Devin Booker,Loose Ball Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,105,108,0.27,0.285,6:31
+4,4:53,SAC,De'Aaron Fox,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,109,112,0.328,0.325,4:58
+4,4:48,SAC,Kessler Edwards,Personal Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,109,112,0.337,0.328,4:53
+4,3:39,SAC,De'Aaron Fox,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,114,115,0.611,0.467,3:41
+4,1:22,SAC,De'Aaron Fox,Shooting Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,117,119,0.464,0.249,1:22
+4,59.1,PHX,Devin Booker,Offensive Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,118,121,0.187,0.298,1:09
+4,28.1,SAC,Kessler Edwards,Loose Ball Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,118,124,0.135,0.051,28.1
+4,26.1,PHX,Chris Paul,Personal Take Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,119,124,0.013,0.055,28.1
+4,22.1,PHX,Devin Booker,Personal Take Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,119,124,0.011,0.013,26.1
+4,7.1,PHX,Torrey Craig,Personal Take Foul,Foul,Marc Davis,Tre Maddox,Ray Acosta,PHX,119,126,0.001,0.001,11.1

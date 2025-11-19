@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:26,SA,Keldon Johnson,Personal Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,0,0,0.661,0.661,11:40
+1,9:29,SA,Keldon Johnson,Personal Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,0,7,0.48,0.481,9:37
+1,9:17,SA,Derrick White,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,0,7,0.518,0.48,9:29
+1,7:09,DAL,Dorian Finney-Smith,Personal Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,1,16,0.239,0.265,7:34
+1,6:44,DAL,Dwight Powell,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,1,16,0.204,0.237,6:53
+1,3:43,DAL,Luka Doncic,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,5,23,0.132,0.159,3:57
+1,3:31,SA,Dejounte Murray,Personal Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,5,25,0.167,0.241,7:14
+1,1:09,SA,Bryn Forbes,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,10,25,0.259,0.224,1:21
+2,10:49,DAL,Jalen Brunson,Personal Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,15,25,0.308,0.308,10:49
+2,6:21,DAL,Maxi Kleber,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,33,29,0.699,0.699,6:21
+2,3:32,SA,Devin Vassell,Offensive Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,39,37,0.666,0.638,3:43
+2,3:06,DAL,Dorian Finney-Smith,Personal Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,41,37,0.694,0.695,3:18
+2,59.3,SA,Devin Vassell,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,43,44,0.614,0.563,1:02
+2,11.7,DAL,Tim Hardaway Jr.,Personal Take Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,47,46,0.545,0.595,23.2
+3,10:06,DAL,Tim Hardaway Jr.,Personal Take Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,50,53,0.443,0.442,10:07
+3,7:31,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,56,57,0.446,0.506,7:32
+3,5:08,SA,Jakob Poeltl,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,64,66,0.472,0.451,5:08
+3,4:27,DAL,Luka Doncic,Personal Take Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,64,69,0.324,0.322,4:29
+3,3:14,SA,Bryn Forbes,Offensive Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,68,71,0.439,0.395,3:22
+3,1:25,DAL,Maxi Kleber,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,76,73,0.59,0.657,1:43
+3,7.7,DAL,Jalen Brunson,Personal Take Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,76,74,0.539,0.614,22.3
+3,3.6,SA,Tre Jones,Personal Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,76,76,0.636,0.566,7.7
+4,10:10,SA,Derrick White,Personal Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,76,79,0.415,0.404,10:13
+4,9:49,SA,Drew Eubanks,Offensive Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,79,79,0.566,0.511,10:04
+4,9:26,DAL,Maxi Kleber,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,82,81,0.514,0.618,9:26
+4,6:55,DAL,Dwight Powell,Offensive Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,90,86,0.73,0.781,7:00
+4,4:30,DAL,Maxi Kleber,Personal Take Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,97,88,0.941,0.946,4:31
+4,3:44,DAL,Dwight Powell,Offensive Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,100,92,0.933,0.954,3:55
+4,3:19,DAL,Luka Doncic,Loose Ball Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,100,92,0.941,0.941,3:19
+4,2:51,DAL,Tim Hardaway Jr.,Personal Take Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,100,92,0.888,0.946,2:52
+4,1:12,SA,Devin Vassell,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,102,96,0.981,0.947,1:21
+4,20.6,SA,Jakob Poeltl,Personal Take Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,102,99,0.892,0.892,21.6
+4,11.9,DAL,Maxi Kleber,Shooting Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,103,99,0.76,0.872,20.6
+4,10.0,SA,Jakob Poeltl,Personal Take Foul,Foul,Sean Corbin,Tyler Ford,Brandon Adair,DAL,103,99,0.99,0.957,11.9

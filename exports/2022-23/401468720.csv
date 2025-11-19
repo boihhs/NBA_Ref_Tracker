@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:24,PHX,Landry Shamet,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,0,5,0.6,0.562,8:25
+1,7:16,CLE,Donovan Mitchell,Offensive Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,2,8,0.499,0.528,7:27
+1,6:45,PHX,Dario Saric,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,2,8,0.525,0.524,6:49
+1,5:38,PHX,Chris Paul,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,4,8,0.592,0.547,5:38
+1,4:38,PHX,Dario Saric,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,6,10,0.608,0.569,4:51
+1,3:36,PHX,Cameron Payne,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,7,10,0.629,0.589,3:39
+1,3:24,CLE,Kevin Love,Loose Ball Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,9,10,0.613,0.615,3:24
+1,2:06,PHX,Deandre Ayton,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,11,10,0.704,0.687,2:18
+1,1:29,CLE,Kevin Love,Offensive Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,13,12,0.659,0.685,1:49
+2,11:55,CLE,Raul Neto,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,15,14,0.656,0.666,12:00
+2,11:46,CLE,Caris LeVert,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,15,14,0.656,0.656,11:55
+2,9:49,PHX,Ish Wainright,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,15,18,0.605,0.563,10:13
+2,7:30,CLE,Lamar Stevens,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,20,26,0.38,0.427,7:45
+2,6:46,CLE,Evan Mobley,Offensive Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,20,26,0.42,0.453,6:56
+2,6:12,CLE,Lamar Stevens,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,22,26,0.431,0.481,6:25
+2,3:21,CLE,Isaac Okoro,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,28,34,0.346,0.395,3:32
+2,1:00,CLE,Donovan Mitchell,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,30,38,0.262,0.313,1:14
+2,48.1,PHX,Landry Shamet,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,30,40,0.321,0.276,1:00
+3,10:50,CLE,Isaac Okoro,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,33,43,0.187,0.226,10:51
+3,9:36,PHX,Chris Paul,Transition Take Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,36,44,0.31,0.31,9:36
+3,9:29,PHX,Landry Shamet,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,37,44,0.399,0.307,9:36
+3,7:03,CLE,Donovan Mitchell,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,43,49,0.321,0.318,7:03
+3,5:55,CLE,Kevin Love,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,43,53,0.14,0.178,6:02
+3,5:10,PHX,Mikal Bridges,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,46,54,0.264,0.265,5:13
+3,4:29,CLE,Jarrett Allen,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,46,56,0.126,0.165,4:42
+3,2:18,PHX,Chris Paul,Loose Ball Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,52,61,0.199,0.198,2:18
+3,1:30,PHX,Ish Wainright,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,54,61,0.329,0.264,1:37
+3,1:19,PHX,Bismack Biyombo,Offensive Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,55,61,0.303,0.256,1:28
+3,44.1,PHX,Duane Washington Jr.,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,55,61,0.364,0.298,48.1
+4,11:43,PHX,Landry Shamet,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,59,64,0.375,0.325,11:43
+4,11:28,CLE,Raul Neto,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,61,64,0.289,0.374,11:43
+4,10:24,PHX,Damion Lee,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,66,68,0.521,0.407,10:24
+4,10:08,CLE,Kevin Love,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,67,68,0.369,0.469,10:24
+4,5:36,CLE,Donovan Mitchell,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,74,79,0.11,0.181,5:38
+4,5:27,PHX,Landry Shamet,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,74,81,0.218,0.135,5:36
+4,1:00,PHX,Deandre Ayton,Loose Ball Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,CLE,85,85,0.74,0.552,1:00

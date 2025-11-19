@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:46,WSH,Kyle Kuzma,Loose Ball Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,0,0,0.491,0.491,12:00
+1,10:39,CLE,Evan Mobley,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,2,2,0.431,0.469,10:48
+1,9:54,WSH,Kentavious Caldwell-Pope,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,2,4,0.443,0.443,9:58
+1,8:24,CLE,Evan Mobley,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,2,4,0.381,0.416,8:38
+1,6:47,CLE,Cedi Osman,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,4,8,0.33,0.365,6:52
+1,6:18,WSH,Bradley Beal,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,6,10,0.392,0.366,6:18
+1,5:32,WSH,Raul Neto,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,6,10,0.431,0.391,5:48
+1,4:32,WSH,Montrezl Harrell,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,6,13,0.352,0.315,4:36
+1,52.3,WSH,Corey Kispert,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,17,20,0.456,0.416,55.2
+1,7.7,CLE,Darius Garland,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,19,22,0.347,0.389,24.1
+2,11:20,CLE,Cedi Osman,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,22,24,0.392,0.411,11:20
+2,10:19,WSH,Deni Avdija,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,24,28,0.427,0.385,10:39
+2,8:58,CLE,Isaac Okoro,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,29,28,0.503,0.502,9:01
+2,8:18,CLE,Isaac Okoro,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,31,30,0.459,0.502,8:25
+2,4:30,CLE,Lamar Stevens,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,36,40,0.302,0.347,4:44
+2,3:17,WSH,Bradley Beal,Defensive 3-Seconds Technical,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,38,44,0.306,0.316,3:35
+2,2:47,WSH,Daniel Gafford,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,43,44,0.499,0.442,2:47
+2,1:19,CLE,Jarrett Allen,Offensive Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,44,44,0.473,0.506,1:22
+2,9.9,WSH,Bradley Beal,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,47,44,0.664,0.615,27.0
+3,11:20,CLE,Dean Wade,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,49,44,0.651,0.651,11:20
+3,9:50,CLE,Darius Garland,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,49,48,0.528,0.545,9:50
+3,8:23,CLE,Dean Wade,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,55,49,0.696,0.694,8:38
+3,7:58,WSH,Bradley Beal,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,55,49,0.754,0.734,7:58
+3,5:38,CLE,Evan Mobley,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,61,52,0.762,0.806,5:54
+3,2:47,WSH,Aaron Holiday,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,64,60,0.748,0.692,2:54
+3,2:36,CLE,Cedi Osman,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,65,60,0.627,0.688,2:45
+3,2:22,WSH,Aaron Holiday,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,67,62,0.762,0.69,2:22
+3,1:20,WSH,Montrezl Harrell,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,70,64,0.827,0.778,1:28
+4,9:36,WSH,Spencer Dinwiddie,Offensive Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,80,74,0.815,0.775,9:42
+4,8:55,WSH,Kyle Kuzma,Shooting Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,82,76,0.822,0.782,8:55
+4,7:29,WSH,Aaron Holiday,Personal Take Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,84,78,0.853,0.841,7:37
+4,6:56,CLE,Jarrett Allen,Offensive Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,84,78,0.814,0.855,7:01
+4,6:40,CLE,Jarrett Allen,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,84,78,0.81,0.814,6:56
+4,6:18,WSH,Raul Neto,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,84,78,0.863,0.82,6:21
+4,4:56,WSH,Raul Neto,Personal Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,86,81,0.91,0.849,5:06
+4,3:59,WSH,Bradley Beal,Offensive Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,89,84,0.876,0.824,4:09
+4,15.8,WSH,Bradley Beal,Personal Take Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,93,92,0.879,0.731,26.0
+4,4:47,CLE,Ricky Rubio,Personal Take Foul,Foul,Tre Maddox,Brandon Adair,Nate Green,CLE,87,81,0.854,0.508,11.4

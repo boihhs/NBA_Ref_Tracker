@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:34,OKC,Cason Wallace,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,5,0,0.95,0.95,10:44
+1,3:59,OKC,Jaylin Williams,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,23,12,0.965,0.965,4:04
+2,11:36,CHA,Ish Smith,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,41,19,0.993,0.99,11:36
+2,9:46,OKC,Ousmane Dieng,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,45,24,0.989,0.989,9:48
+2,9:20,CHA,Nick Smith Jr.,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,45,26,0.989,0.987,9:36
+2,8:04,OKC,Kenrich Williams,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,46,28,0.98,0.985,8:04
+2,6:51,CHA,P.J. Washington,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,50,35,0.98,0.976,7:02
+2,6:25,CHA,Brandon Miller,Offensive Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,52,35,0.982,0.979,6:28
+2,4:22,CHA,P.J. Washington,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,57,35,0.994,0.992,4:41
+2,4:11,CHA,Bryce McGowens,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,57,35,0.994,0.994,4:22
+2,3:17,CHA,Bryce McGowens,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,61,37,0.995,0.994,3:17
+2,39.1,CHA,Bryce McGowens,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,68,42,0.998,0.997,45.1
+2,35.2,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,70,42,0.996,0.997,39.1
+2,3.0,CHA,Brandon Miller,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,72,42,0.999,0.998,3.0
+3,11:29,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,74,45,0.998,0.998,11:30
+3,12:00,CHA,Brandon Miller,Technical Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,74,42,0.999,0.998,11:29
+3,10:42,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,77,47,0.998,0.999,10:42
+3,10:17,CHA,Brandon Miller,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,77,49,0.998,0.998,10:29
+3,9:41,OKC,Chet Holmgren,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,80,49,0.998,0.999,9:45
+3,8:57,CHA,Bryce McGowens,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,83,53,0.999,0.999,9:07
+3,8:30,OKC,Luguentz Dort,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,83,55,0.998,0.999,8:30
+3,7:20,CHA,Nick Richards,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,85,61,0.997,0.997,7:30
+3,6:25,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,89,63,0.997,0.998,6:38
+3,5:22,CHA,Brandon Miller,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,92,65,0.999,0.999,5:24
+3,4:51,OKC,Ousmane Dieng,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,92,65,0.998,0.998,5:07
+3,4:43,CHA,Nick Smith Jr.,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,92,67,0.998,0.998,4:51
+3,1:57,CHA,Nick Smith Jr.,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,97,69,0.999,0.999,1:57
+3,1:15,CHA,Miles Bridges,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,98,69,0.999,0.999,1:30
+3,49.1,CHA,Nick Smith Jr.,Personal Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,99,69,0.999,0.999,53.1
+3,30.1,CHA,Miles Bridges,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,100,72,0.999,0.999,35.0
+4,11:08,OKC,Kenrich Williams,Loose Ball Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,107,72,0.999,0.999,11:08
+4,9:36,OKC,Aaron Wiggins,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,110,77,0.999,0.999,9:48
+4,7:37,OKC,Keyontae Johnson,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,114,83,0.999,0.999,7:52
+4,6:49,CHA,P.J. Washington,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,114,86,0.999,0.999,7:00
+4,6:12,OKC,Olivier Sarr,Loose Ball Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,116,86,0.999,0.999,6:12
+4,5:01,OKC,Lindy Waters III,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,116,90,0.999,0.999,5:01
+4,3:05,OKC,Olivier Sarr,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,119,100,0.999,0.999,3:05
+4,2:54,CHA,JT Thor,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,119,100,0.999,0.999,3:02
+4,1:59,CHA,Bryce McGowens,Shooting Foul,Foul,John Goble,Justin Van Duyne,Dannica Mosher,OKC,122,103,0.999,0.999,2:03

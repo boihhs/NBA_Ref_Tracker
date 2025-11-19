@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:05,SAC,Kevin Huerter,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,2,3,0.7,0.702,10:08
+1,7:13,SAC,Kevin Huerter,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,16,11,0.82,0.789,7:13
+1,5:17,SAC,Keegan Murray,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,25,20,0.8,0.804,5:23
+1,3:36,SAC,Davion Mitchell,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,31,24,0.846,0.818,3:36
+1,3:27,PHX,Grayson Allen,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,31,24,0.789,0.818,3:32
+1,3:11,SAC,Keegan Murray,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,31,26,0.826,0.798,3:27
+1,1:27,PHX,Devin Booker,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,34,32,0.694,0.734,1:27
+1,54.0,PHX,Royce O'Neale,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,36,33,0.698,0.752,1:06
+1,33.1,SAC,Keon Ellis,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,36,37,0.699,0.659,43.1
+2,11:08,PHX,Jusuf Nurkic,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,40,41,0.582,0.624,11:21
+2,10:38,SAC,Kessler Edwards,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,40,43,0.595,0.595,10:43
+2,10:30,SAC,Kessler Edwards,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,40,43,0.635,0.595,10:38
+2,9:43,PHX,Kevin Durant,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,44,43,0.673,0.674,9:55
+2,8:36,PHX,Jusuf Nurkic,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,44,48,0.524,0.523,8:51
+2,8:10,SAC,Alex Len,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,44,48,0.595,0.551,8:18
+2,5:26,SAC,Malik Monk,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,47,58,0.354,0.31,5:38
+2,4:40,PHX,Royce O'Neale,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,49,58,0.285,0.331,4:42
+2,3:04,SAC,De'Aaron Fox,Transition Take Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,55,63,0.378,0.379,3:05
+2,1:47,SAC,Keegan Murray,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,55,65,0.349,0.304,1:58
+2,1:21,PHX,Devin Booker,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,57,65,0.283,0.335,1:28
+2,34.1,SAC,Malik Monk,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,61,67,0.455,0.393,34.1
+3,11:13,SAC,Domantas Sabonis,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,64,67,0.576,0.523,11:19
+3,10:33,PHX,Grayson Allen,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,65,70,0.353,0.407,10:37
+3,9:16,SAC,De'Aaron Fox,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,67,76,0.288,0.289,9:19
+3,9:13,SAC,Keegan Murray,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,67,76,0.286,0.288,9:16
+3,9:07,SAC,Domantas Sabonis,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,69,76,0.385,0.32,9:07
+3,9:03,PHX,Jusuf Nurkic,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,70,76,0.356,0.354,9:07
+3,6:42,PHX,Eric Gordon,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,72,81,0.184,0.226,6:45
+3,5:51,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,74,83,0.303,0.25,5:51
+3,5:16,SAC,Keon Ellis,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,78,85,0.345,0.275,5:16
+3,4:37,SAC,Kevin Huerter,Defensive 3-Seconds Technical,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,79,87,0.259,0.272,4:57
+3,4:03,SAC,Harrison Barnes,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,83,87,0.492,0.427,4:05
+3,3:16,PHX,Royce O'Neale,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,87,87,0.517,0.509,3:36
+3,2:43,PHX,Devin Booker,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,87,89,0.39,0.46,2:59
+3,3:32,SAC,Davion Mitchell,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,85,87,0.575,0.656,0.0
+4,9:38,PHX,Royce O'Neale,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,103,96,0.808,0.876,9:38
+4,7:03,PHX,Grayson Allen,Flagrant Foul Type 1,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,108,100,0.893,0.893,7:04
+4,6:54,PHX,Kevin Durant,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,108,100,0.825,0.889,7:03
+4,4:06,SAC,Harrison Barnes,Shooting Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,110,112,0.511,0.393,4:18
+4,18.0,SAC,De'Aaron Fox,Personal Take Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,124,123,0.874,0.727,24.1
+4,18.0,SAC,Keegan Murray,Away from Play Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,124,123,0.874,0.874,18.0
+4,15.1,SAC,Domantas Sabonis,Personal Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,125,123,0.934,0.73,18.0
+4,11.1,SAC,De'Aaron Fox,Personal Take Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,126,123,0.976,0.929,11.1
+4,3.0,SAC,Harrison Barnes,Personal Take Foul,Foul,Derek Richardson,Brian Forte,Curtis Blair,PHX,128,125,0.993,0.965,5.0

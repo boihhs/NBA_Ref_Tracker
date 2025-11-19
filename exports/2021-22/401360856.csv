@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:12,POR,Trendon Watford,Loose Ball Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,2,0,0.874,0.874,11:12
+1,10:05,POR,Justise Winslow,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,2,0,0.886,0.87,10:08
+1,9:44,NY,Alec Burks,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,4,0,0.88,0.881,10:05
+1,9:39,POR,Drew Eubanks,Offensive Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,4,0,0.89,0.88,9:44
+1,9:17,NY,Julius Randle,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,4,0,0.879,0.879,9:25
+1,9:01,POR,Josh Hart,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,4,3,0.852,0.854,9:12
+1,5:45,NY,Evan Fournier,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,15,13,0.816,0.839,5:53
+1,4:44,POR,Greg Brown III,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,20,18,0.868,0.849,4:57
+1,1:30,POR,Keon Johnson,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,34,25,0.927,0.911,1:30
+1,41.4,POR,Ben McLemore,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,35,27,0.924,0.91,42.9
+2,11:31,POR,Ben McLemore,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,37,31,0.883,0.884,11:31
+2,11:24,POR,Keon Johnson,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,37,31,0.883,0.883,11:31
+2,11:15,POR,Kris Dunn,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,37,31,0.9,0.883,11:24
+2,10:08,POR,Ben McLemore,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,41,34,0.908,0.893,10:28
+2,7:30,NY,Miles McBride,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,48,39,0.88,0.9,7:44
+2,7:08,POR,Brandon Williams,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,48,40,0.915,0.899,7:30
+2,4:15,POR,Kris Dunn,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,56,48,0.904,0.88,4:15
+2,4:00,NY,Alec Burks,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,57,48,0.873,0.894,4:15
+2,3:22,POR,Drew Eubanks,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,57,48,0.923,0.906,3:23
+2,2:41,POR,Trendon Watford,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,58,50,0.912,0.892,2:53
+2,1:26,NY,RJ Barrett,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,62,54,0.864,0.89,1:26
+2,45.8,POR,CJ Elleby,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,62,55,0.897,0.877,56.3
+2,8.0,POR,Trendon Watford,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,64,55,0.923,0.904,28.0
+3,10:26,POR,Justise Winslow,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,69,57,0.939,0.939,10:27
+3,10:02,POR,Josh Hart,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,69,57,0.953,0.94,10:03
+3,9:23,POR,Drew Eubanks,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,71,57,0.957,0.958,9:26
+3,8:44,NY,Evan Fournier,Personal Take Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,74,57,0.971,0.971,8:46
+3,5:38,NY,Julius Randle,Offensive Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,78,66,0.934,0.945,5:49
+3,4:39,POR,Ben McLemore,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,80,70,0.933,0.907,4:39
+3,4:07,POR,Kris Dunn,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,80,70,0.942,0.923,4:15
+3,1:22,POR,CJ Elleby,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,89,74,0.986,0.979,1:34
+3,1:08,POR,Ben McLemore,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,91,74,0.992,0.988,1:08
+3,45.4,POR,CJ Elleby,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,93,74,0.996,0.994,52.6
+4,8:22,NY,Immanuel Quickley,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,103,82,0.998,0.999,8:22
+4,8:02,NY,Immanuel Quickley,Offensive Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,103,82,0.998,0.999,8:20
+4,7:21,POR,Keon Johnson,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,103,84,0.998,0.998,7:22
+4,7:17,POR,Keon Johnson,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,103,84,0.999,0.998,7:21
+4,6:47,NY,Immanuel Quickley,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,107,84,0.999,0.999,6:59
+4,6:18,NY,Jericho Sims,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,107,87,0.997,0.999,6:22
+4,6:08,POR,Brandon Williams,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,107,88,0.999,0.998,6:16
+4,4:50,POR,Trendon Watford,Personal Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,112,90,0.999,0.999,4:55
+4,4:46,POR,Greg Brown III,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,112,90,0.999,0.999,4:50
+4,3:38,NY,Mitchell Robinson,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,115,90,0.999,0.999,3:44
+4,2:40,POR,Elijah Hughes,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,118,90,0.999,0.999,2:44
+4,1:46,NY,Jericho Sims,Shooting Foul,Foul,Rodney Mott,Ben Taylor,Brett Nansel,NY,123,90,0.999,0.999,2:06

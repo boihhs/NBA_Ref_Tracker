@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:12,NY,Julius Randle,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,11,9,0.749,0.755,9:26
+1,7:08,BOS,Jrue Holiday,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,21,13,0.835,0.837,7:20
+1,6:13,BOS,Jayson Tatum,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,21,15,0.774,0.803,6:19
+1,5:12,BOS,Sam Hauser,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,23,19,0.732,0.763,5:28
+1,4:48,BOS,Jaylen Brown,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,23,21,0.686,0.719,4:54
+1,4:37,NY,Josh Hart,Loose Ball Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,23,21,0.741,0.743,4:37
+1,2:14,BOS,Al Horford,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,28,26,0.675,0.713,2:28
+1,1:11,NY,Isaiah Hartenstein,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,30,30,0.721,0.685,1:23
+2,11:33,BOS,Payton Pritchard,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,33,32,0.638,0.676,11:42
+2,9:04,NY,Josh Hart,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,41,38,0.759,0.716,9:04
+2,8:36,NY,Isaiah Hartenstein,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,42,41,0.689,0.692,8:58
+2,6:32,NY,Mitchell Robinson,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,47,48,0.626,0.628,6:41
+2,6:00,BOS,Derrick White,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,47,48,0.547,0.596,6:20
+2,5:46,NY,Immanuel Quickley,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,47,51,0.576,0.531,6:00
+2,4:55,BOS,Jaylen Brown,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,52,53,0.538,0.588,5:07
+2,4:35,NY,Josh Hart,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,55,54,0.718,0.676,4:36
+2,3:56,BOS,Jayson Tatum,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,57,54,0.659,0.703,4:04
+2,2:55,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,62,58,0.686,0.726,2:55
+2,2:44,NY,Mitchell Robinson,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,62,58,0.789,0.755,2:55
+2,1:11,NY,Donte DiVincenzo,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,70,63,0.837,0.801,1:11
+3,9:52,NY,Jalen Brunson,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,77,70,0.826,0.829,10:02
+3,9:23,NY,Isaiah Hartenstein,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,79,70,0.894,0.87,9:29
+3,9:05,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,81,70,0.902,0.903,9:05
+3,5:35,BOS,Jaylen Brown,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,96,79,0.968,0.968,5:44
+3,5:20,NY,Jalen Brunson,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,96,79,0.982,0.975,5:34
+3,3:28,BOS,Derrick White,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,101,81,0.981,0.987,3:34
+3,3:02,BOS,Derrick White,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,103,83,0.988,0.988,3:12
+4,11:41,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,109,95,0.963,0.965,11:41
+4,11:06,NY,Josh Hart,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,109,97,0.96,0.955,11:26
+4,9:53,BOS,Payton Pritchard,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,114,97,0.98,0.983,10:36
+4,9:29,BOS,Jaylen Brown,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,114,99,0.978,0.979,9:35
+4,7:39,NY,Quentin Grimes,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,118,106,0.979,0.96,7:39
+4,7:19,BOS,Jaylen Brown,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,119,106,0.954,0.972,7:39
+4,7:19,BOS,Jaylen Brown,Technical Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,119,106,0.964,0.954,7:19
+4,7:19,BOS,Jaylen Brown,Technical Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,119,107,0.951,0.961,7:19
+4,7:14,BOS,Jayson Tatum,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,119,108,0.919,0.948,7:19
+4,4:08,NY,Immanuel Quickley,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,121,112,0.982,0.96,4:17
+4,1:31,NY,Donte DiVincenzo,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,125,116,0.996,0.988,1:40
+4,1:24,BOS,Derrick White,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,127,116,0.986,0.994,1:31
+4,38.1,NY,Jalen Brunson,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,129,119,0.999,0.998,46.0
+4,21.1,NY,Julius Randle,Personal Take Foul,Foul,Mark Lindsay,Jason Goldenberg,Sean Corbin,BOS,131,121,0.999,0.999,33.0

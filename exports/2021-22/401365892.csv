@@ -1,0 +1,62 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:47,LAL,Anthony Davis,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,0,0,0.49,0.509,12:00
+1,11:19,BKN,Paul Millsap,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,2,0,0.579,0.539,11:19
+1,10:43,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,3,3,0.549,0.511,11:03
+1,10:18,LAL,DeAndre Jordan,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,3,3,0.498,0.486,10:18
+1,8:25,LAL,DeAndre Jordan,Personal Take Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,3,8,0.37,0.358,8:25
+1,7:24,BKN,Jevon Carter,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,3,11,0.309,0.312,7:36
+1,5:20,BKN,Bruce Brown,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,7,17,0.277,0.236,5:20
+1,4:52,BKN,LaMarcus Aldridge,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,8,17,0.317,0.282,4:56
+1,4:16,BKN,Nic Claxton,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,11,17,0.352,0.326,4:24
+1,3:53,BKN,David Duke Jr.,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,11,17,0.351,0.325,3:56
+1,3:21,BKN,Nic Claxton,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,11,17,0.35,0.324,3:28
+1,2:38,LAL,Anthony Davis,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,13,17,0.358,0.374,2:38
+1,2:15,BKN,Nic Claxton,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,13,19,0.349,0.349,2:18
+1,2:07,BKN,Bruce Brown,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,13,19,0.388,0.349,2:15
+1,1:38,BKN,Nic Claxton,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,16,21,0.415,0.375,1:48
+1,21.6,BKN,Bruce Brown,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,17,25,0.332,0.295,26.5
+1,11.1,LAL,Rajon Rondo,Personal Take Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,19,25,0.28,0.318,21.6
+2,11:21,LAL,Dwight Howard,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,21,25,0.368,0.396,11:21
+2,10:42,LAL,Wayne Ellington,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,21,27,0.276,0.315,10:44
+2,8:02,BKN,Jevon Carter,Loose Ball Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,28,35,0.309,0.309,8:02
+2,6:59,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,31,35,0.438,0.393,7:15
+2,6:19,LAL,Dwight Howard,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,34,35,0.407,0.453,6:31
+2,5:30,LAL,Austin Reaves,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,36,39,0.368,0.422,5:30
+2,5:06,LAL,Dwight Howard,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,36,42,0.301,0.33,5:19
+2,4:05,BKN,DeAndre' Bembry,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,39,44,0.355,0.356,4:17
+2,3:58,BKN,Bruce Brown,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,39,44,0.402,0.355,4:05
+2,3:52,BKN,Cam Thomas,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,39,44,0.402,0.402,3:58
+2,3:34,LAL,Kendrick Nunn,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,40,44,0.31,0.421,6:08
+2,2:09,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,45,47,0.388,0.416,2:09
+2,58.3,LAL,Kent Bazemore,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,47,51,0.364,0.345,58.3
+2,45.3,BKN,Paul Millsap,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,47,52,0.396,0.348,58.3
+2,24.1,LAL,DeAndre Jordan,Personal Take Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,49,55,0.241,0.284,24.1
+3,10:16,BKN,Bruce Brown,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,49,59,0.19,0.191,10:21
+3,7:26,LAL,Wayne Ellington,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,57,63,0.214,0.258,7:40
+3,7:00,LAL,Talen Horton-Tucker,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,57,65,0.197,0.197,7:04
+3,6:35,BKN,Jevon Carter,Away from Play Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,60,65,0.325,0.288,6:35
+3,6:05,BKN,Jevon Carter,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,61,67,0.285,0.288,6:15
+3,3:34,BKN,Nic Claxton,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,65,72,0.261,0.235,3:34
+3,3:21,LAL,Joel Ayayi,Loose Ball Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,67,72,0.269,0.268,3:21
+3,3:16,LAL,Austin Reaves,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,67,72,0.216,0.269,3:21
+3,3:02,LAL,Dwight Howard,Loose Ball Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,67,73,0.183,0.23,3:02
+3,2:38,BKN,Cam Thomas,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,69,75,0.268,0.228,2:50
+3,2:28,BKN,Day'Ron Sharpe,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,69,75,0.327,0.268,2:38
+3,1:37,LAL,Dwight Howard,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,71,77,0.171,0.219,1:50
+3,1:22,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,74,79,0.363,0.256,1:22
+3,1:22,LAL,Dwight Howard,Technical Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,74,79,0.225,0.363,1:22
+3,1:22,LAL,Dwight Howard,Flagrant Foul Type 1,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,74,80,0.231,0.216,1:22
+4,11:07,LAL,Cameron Oliver,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,81,86,0.168,0.233,11:15
+4,10:29,LAL,Austin Reaves,Personal Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,81,87,0.174,0.187,10:43
+4,10:20,BKN,Nic Claxton,Loose Ball Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,81,87,0.233,0.219,10:20
+4,9:23,BKN,David Duke Jr.,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,81,91,0.077,0.091,9:42
+4,7:46,LAL,Cameron Oliver,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,82,99,0.002,0.004,7:52
+4,7:30,BKN,Kessler Edwards,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,82,101,0.006,0.002,7:46
+4,7:15,LAL,Austin Reaves,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,83,103,0.001,0.001,7:15
+4,5:54,LAL,Cameron Oliver,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,83,108,0.001,0.001,5:54
+4,5:30,LAL,Mac McClung,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,83,108,0.001,0.001,5:34
+4,4:10,LAL,Trevelin Queen,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,86,112,0.001,0.001,4:23
+4,3:58,BKN,Sekou Doumbouya,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,86,113,0.001,0.001,4:10
+4,1:26,LAL,Mac McClung,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,91,118,0.001,0.001,1:36
+4,1:04,LAL,Joel Ayayi,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,91,120,0.001,0.001,1:09
+4,34.9,BKN,Devontae Cacok,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,Mousa Dagher,LAL,96,121,0.001,0.001,34.9

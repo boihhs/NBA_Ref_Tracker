@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,HOU,Alperen Sengun,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,2,0,0.87,0.851,11:39
+1,10:21,GS,Jordan Poole,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,7,2,0.882,0.881,10:40
+1,5:56,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,22,6,0.969,0.964,6:04
+1,5:02,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,23,10,0.955,0.947,5:23
+1,2:46,GS,JaMychal Green,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,32,15,0.955,0.962,2:47
+2,9:49,GS,Donte DiVincenzo,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,48,25,0.985,0.984,9:56
+2,8:47,HOU,Usman Garuba,Loose Ball Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,50,27,0.987,0.987,8:47
+2,6:59,GS,Jonathan Kuminga,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,52,27,0.99,0.99,7:07
+2,5:57,GS,Anthony Lamb,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,52,30,0.983,0.983,6:09
+2,5:49,GS,Anthony Lamb,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,52,32,0.974,0.98,5:49
+2,5:49,GS,Anthony Lamb,Technical Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,52,32,0.974,0.974,5:49
+2,4:38,GS,Andrew Wiggins,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,55,40,0.944,0.958,4:38
+2,3:32,GS,Draymond Green,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,55,44,0.904,0.925,3:32
+2,2:16,HOU,Alperen Sengun,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,57,47,0.93,0.913,2:37
+2,1:50,GS,Kevon Looney,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,61,49,0.915,0.935,1:50
+2,45.0,HOU,Jabari Smith Jr.,Offensive Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,63,50,0.943,0.935,46.0
+3,11:00,GS,Kevon Looney,Loose Ball Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,68,54,0.945,0.944,11:00
+3,10:44,GS,Jordan Poole,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,68,54,0.946,0.945,11:00
+3,9:35,GS,Jordan Poole,Loose Ball Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,71,56,0.956,0.956,9:35
+3,8:28,HOU,Jabari Smith Jr.,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,74,60,0.957,0.957,8:36
+3,8:19,GS,Jordan Poole,Offensive Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,74,60,0.949,0.957,8:28
+3,7:41,HOU,Kevin Porter Jr.,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,74,62,0.939,0.94,7:43
+3,7:21,GS,Draymond Green,Offensive Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,74,62,0.929,0.94,7:29
+3,6:02,HOU,KJ Martin,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,78,64,0.966,0.953,6:02
+3,3:33,GS,Draymond Green,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,88,70,0.976,0.983,3:42
+3,2:51,GS,JaMychal Green,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,88,74,0.953,0.968,2:51
+3,1:26,GS,Donte DiVincenzo,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,94,77,0.975,0.983,1:40
+3,36.7,GS,Donte DiVincenzo,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,94,79,0.962,0.973,57.2
+4,10:24,GS,Jonathan Kuminga,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,97,84,0.945,0.965,10:31
+4,10:10,HOU,Tari Eason,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,97,87,0.946,0.941,10:24
+4,6:59,GS,Donte DiVincenzo,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,100,94,0.765,0.838,7:17
+4,5:40,GS,Anthony Lamb,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,103,96,0.873,0.885,5:42
+4,4:11,GS,Anthony Lamb,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,106,98,0.869,0.926,4:19
+4,3:52,HOU,Bruno Fernando,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,106,98,0.951,0.946,4:03
+4,2:37,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,111,98,0.999,0.998,2:46
+4,1:12,GS,Jonathan Kuminga,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,116,100,0.999,0.999,1:12
+4,46.1,HOU,Daishen Nix,Offensive Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,118,101,0.999,0.999,1:01
+4,35.1,HOU,Usman Garuba,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Brett Nansel,GS,118,101,0.999,0.999,46.1

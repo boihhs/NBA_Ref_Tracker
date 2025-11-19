@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:39,DAL,Luka Doncic,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,0,0,0.737,0.737,10:41
+1,10:21,LAC,Terance Mann,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,0,0,0.753,0.753,10:27
+1,10:14,LAC,Ivica Zubac,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,0,0,0.779,0.753,10:21
+1,9:37,DAL,Luka Doncic,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,2,0,0.769,0.769,9:54
+1,8:58,DAL,Derrick Jones Jr.,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,4,0,0.803,0.803,9:10
+1,8:03,LAC,James Harden,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,6,5,0.775,0.764,8:03
+1,7:32,LAC,James Harden,Loose Ball Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,8,7,0.788,0.761,7:32
+1,6:21,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,8,9,0.658,0.692,6:41
+1,5:16,DAL,Josh Green,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,10,11,0.652,0.685,5:20
+1,4:43,DAL,Kyrie Irving,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,10,15,0.597,0.61,4:43
+1,3:40,LAC,Ivica Zubac,Offensive Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,10,19,0.491,0.462,3:54
+1,2:04,LAC,Mason Plumlee,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,12,24,0.411,0.39,2:09
+1,16.0,LAC,Mason Plumlee,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,14,36,0.156,0.125,31.1
+2,6:31,DAL,Dereck Lively II,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,24,49,0.042,0.044,6:37
+2,5:59,DAL,Luka Doncic,Technical Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,24,51,0.024,0.028,5:59
+2,5:32,LAC,Terance Mann,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,26,55,0.019,0.017,5:32
+2,3:36,DAL,Kyrie Irving,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,38,58,0.08,0.082,3:46
+2,1:22,DAL,Luka Doncic,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,45,63,0.072,0.096,1:46
+2,36.1,DAL,Kyrie Irving,Loose Ball Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,47,66,0.056,0.073,36.1
+2,27.0,LAC,Russell Westbrook,Loose Ball Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,47,66,0.114,0.087,27.0
+2,6.2,LAC,Russell Westbrook,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,47,66,0.11,0.114,27.0
+3,11:03,LAC,Ivica Zubac,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,53,68,0.169,0.124,11:03
+3,9:56,LAC,James Harden,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,57,71,0.161,0.163,9:56
+3,9:42,DAL,P.J. Washington,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,59,71,0.184,0.186,9:51
+3,8:56,LAC,Terance Mann,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,59,71,0.204,0.202,8:56
+3,8:20,DAL,P.J. Washington,Offensive Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,61,71,0.224,0.258,8:24
+3,7:47,LAC,Paul George,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,61,74,0.205,0.166,8:07
+3,6:13,DAL,Daniel Gafford,Offensive Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,65,76,0.17,0.199,6:15
+3,5:04,LAC,Terance Mann,Transition Take Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,65,78,0.129,0.129,5:06
+3,4:05,LAC,James Harden,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,68,78,0.256,0.204,4:12
+3,3:52,LAC,Paul George,Offensive Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,68,78,0.2,0.172,4:02
+3,2:22,LAC,Ivica Zubac,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,73,78,0.41,0.33,2:22
+3,37.1,DAL,Maxi Kleber,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,76,82,0.233,0.31,37.1
+3,7.1,LAC,Paul George,Offensive Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,78,82,0.396,0.348,25.1
+4,11:27,DAL,Luka Doncic,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,78,82,0.321,0.333,11:28
+4,11:22,LAC,Norman Powell,Offensive Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,78,82,0.382,0.321,11:27
+4,10:49,LAC,Norman Powell,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,80,84,0.386,0.378,11:03
+4,10:43,LAC,Mason Plumlee,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,80,84,0.436,0.378,10:44
+4,9:33,LAC,Norman Powell,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,81,90,0.16,0.152,9:45
+4,9:23,LAC,Mason Plumlee,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,81,90,0.218,0.16,9:33
+4,6:46,DAL,Kyrie Irving,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,89,97,0.109,0.115,6:46
+4,6:07,LAC,Mason Plumlee,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,91,97,0.257,0.171,6:07
+4,5:55,DAL,Luka Doncic,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,92,97,0.135,0.218,6:07
+4,1:20,DAL,P.J. Washington,Shooting Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,105,109,0.092,0.207,1:20
+4,1:10,LAC,Amir Coffey,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,105,110,0.233,0.133,1:20
+4,26.1,DAL,Derrick Jones Jr.,Personal Take Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,107,112,0.013,0.051,35.1
+4,17.0,DAL,Josh Green,Personal Take Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,109,113,0.019,0.068,22.1
+4,17.0,LAC,Russell Westbrook,Personal Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,109,115,0.091,0.027,17.0
+4,13.0,DAL,Derrick Jones Jr.,Personal Take Foul,Foul,Tony Brothers,Ben Taylor,Nick Buchert,DAL,111,115,0.014,0.055,17.0

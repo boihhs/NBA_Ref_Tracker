@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:11,TOR,Fred VanVleet,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,2,7,0.544,0.531,9:16
+1,8:34,POR,Anfernee Simons,Shooting Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,2,10,0.513,0.472,8:36
+1,7:08,TOR,OG Anunoby,Defensive 3-Seconds Technical,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,4,16,0.336,0.331,7:23
+1,7:02,TOR,Pascal Siakam,Shooting Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,4,17,0.316,0.304,7:02
+1,4:59,TOR,OG Anunoby,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,4,22,0.177,0.179,5:00
+1,3:42,POR,Jusuf Nurkic,Offensive Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,7,25,0.188,0.17,3:43
+1,2:00,TOR,Fred VanVleet,Personal Take Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,10,27,0.188,0.178,2:00
+1,2:00,TOR,Fred VanVleet,Technical Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,10,27,0.161,0.188,2:00
+2,11:19,TOR,Scottie Barnes,Loose Ball Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,15,36,0.099,0.106,11:19
+2,10:03,POR,Dennis Smith Jr.,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,15,41,0.046,0.047,10:08
+2,8:03,TOR,Pascal Siakam,Offensive Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,15,41,0.033,0.04,8:19
+2,6:45,TOR,OG Anunoby,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,20,45,0.035,0.035,6:50
+2,5:54,POR,Jusuf Nurkic,Defensive 3-Seconds Technical,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,23,48,0.037,0.039,6:07
+2,4:25,POR,CJ Elleby,Shooting Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,26,50,0.041,0.034,4:25
+2,3:26,POR,Robert Covington,Shooting Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,29,54,0.042,0.031,3:46
+2,1:49,TOR,Fred VanVleet,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,30,62,0.004,0.004,1:51
+2,48.2,POR,Jusuf Nurkic,Personal Take Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,30,64,0.004,0.004,1:03
+2,41.3,POR,CJ Elleby,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,30,64,0.004,0.004,48.2
+3,11:33,POR,Jusuf Nurkic,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,34,64,0.005,0.005,11:33
+3,11:18,POR,Anfernee Simons,Offensive Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,37,64,0.011,0.01,11:29
+3,11:08,POR,CJ McCollum,Shooting Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,37,64,0.017,0.011,11:18
+3,7:45,TOR,Fred VanVleet,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,45,70,0.008,0.008,7:51
+3,3:54,POR,Robert Covington,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,55,75,0.021,0.022,4:12
+3,11.6,POR,CJ McCollum,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,67,86,0.021,0.012,11.6
+4,10:18,POR,Dennis Smith Jr.,Shooting Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,70,92,0.002,0.003,10:18
+4,9:52,POR,Dennis Smith Jr.,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,71,94,0.001,0.002,10:02
+4,8:54,TOR,OG Anunoby,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,71,94,0.001,0.001,8:59
+4,8:32,TOR,Pascal Siakam,Shooting Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,71,94,0.001,0.001,8:54
+4,7:43,POR,Trendon Watford,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,73,95,0.001,0.001,7:50
+4,7:34,POR,Ben McLemore,Shooting Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,73,95,0.002,0.001,7:43
+4,7:10,POR,Jusuf Nurkic,Offensive Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,76,95,0.002,0.002,7:17
+4,6:20,TOR,Fred VanVleet,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,81,95,0.012,0.014,6:30
+4,3:58,TOR,Dalano Banton,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,88,100,0.004,0.012,4:14
+4,3:55,TOR,OG Anunoby,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,88,100,0.003,0.004,3:58
+4,3:31,TOR,Gary Trent Jr.,Personal Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,90,100,0.009,0.02,3:42
+4,2:51,TOR,OG Anunoby,Shooting Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,93,103,0.013,0.023,2:51
+4,26.5,TOR,OG Anunoby,Shooting Foul,Foul,Brent Barnaky,Brian Forte,CJ Washington,TOR,105,111,0.005,0.021,29.1

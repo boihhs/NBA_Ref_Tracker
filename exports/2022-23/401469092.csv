@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:44,NY,Jalen Brunson,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,8,6,0.84,0.85,9:50
+1,9:18,BKN,Spencer Dinwiddie,Personal Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,8,8,0.834,0.834,9:21
+1,9:09,BKN,Nic Claxton,Loose Ball Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,8,8,0.833,0.833,9:09
+1,8:01,NY,RJ Barrett,Personal Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,12,11,0.828,0.829,8:14
+1,7:38,BKN,Spencer Dinwiddie,Offensive Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,14,11,0.867,0.855,7:45
+1,6:09,NY,Quentin Grimes,Personal Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,23,11,0.938,0.937,6:19
+1,6:02,NY,Mitchell Robinson,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,23,13,0.917,0.931,6:02
+1,4:57,BKN,Mikal Bridges,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,26,19,0.917,0.904,5:14
+1,4:01,BKN,Royce O'Neale,Personal Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,28,21,0.916,0.902,4:08
+2,11:04,NY,Isaiah Hartenstein,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,47,29,0.961,0.968,11:15
+2,10:02,NY,Isaiah Hartenstein,Offensive Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,49,30,0.972,0.976,10:17
+2,8:57,BKN,Nic Claxton,Offensive Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,52,33,0.977,0.972,9:14
+2,7:51,NY,Immanuel Quickley,Personal Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,55,33,0.983,0.983,7:56
+2,6:40,NY,Jalen Brunson,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,60,38,0.979,0.983,6:47
+2,5:33,NY,Josh Hart,Personal Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,65,40,0.988,0.99,5:44
+2,5:09,NY,Josh Hart,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,65,42,0.985,0.989,5:09
+2,4:46,NY,Mitchell Robinson,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,68,43,0.988,0.991,4:57
+2,4:04,NY,Quentin Grimes,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,72,45,0.992,0.994,4:16
+2,3:47,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,74,47,0.996,0.994,3:47
+2,1:55,NY,Quentin Grimes,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,76,52,0.987,0.99,2:02
+2,1:37,BKN,Cameron Johnson,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,78,54,0.993,0.991,1:37
+2,1:12,NY,RJ Barrett,Offensive Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,79,54,0.992,0.994,1:17
+3,10:50,BKN,Cameron Johnson,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,84,59,0.996,0.995,11:07
+3,10:38,NY,Julius Randle,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,85,61,0.991,0.994,10:38
+3,10:25,BKN,Cameron Johnson,Personal Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,85,62,0.992,0.992,10:38
+3,9:51,BKN,Nic Claxton,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,85,65,0.99,0.986,10:08
+3,8:34,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,90,70,0.989,0.984,8:34
+3,5:13,BKN,Mikal Bridges,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,100,76,0.998,0.996,5:16
+3,4:11,BKN,Cam Thomas,Away from Play Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,101,79,0.997,0.995,4:11
+3,3:41,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,101,81,0.995,0.992,3:53
+3,3:00,NY,Julius Randle,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,103,85,0.981,0.988,3:00
+3,1:46,NY,Josh Hart,Transition Take Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,105,86,0.99,0.989,1:48
+3,1:08,BKN,Cam Thomas,Personal Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,105,87,0.994,0.991,1:17
+3,47.1,NY,Julius Randle,Offensive Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,106,87,0.991,0.994,55.0
+4,11:48,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,110,87,0.999,0.998,12:00
+4,9:37,NY,Obi Toppin,Offensive Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,114,89,0.999,0.999,9:47
+4,9:09,BKN,Cam Thomas,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,116,91,0.999,0.999,9:09
+4,8:33,NY,RJ Barrett,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,119,94,0.999,0.999,8:45
+4,7:20,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,121,100,0.999,0.999,7:22
+4,6:44,BKN,Cam Thomas,Shooting Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,123,102,0.999,0.999,7:05
+4,2:56,NY,Josh Hart,Transition Take Foul,Foul,Scott Foster,Gediminas Petraitis,Evan Scott,NY,139,109,0.999,0.999,3:01

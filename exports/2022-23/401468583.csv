@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:03,ATL,Trent Forrest,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,2,0,0.731,0.701,11:09
+1,10:11,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,6,2,0.74,0.741,10:11
+1,9:32,CHA,Gordon Hayward,Offensive Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,6,4,0.675,0.698,9:39
+1,8:51,CHA,Mason Plumlee,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,8,7,0.615,0.651,9:06
+1,6:06,CHA,Jalen McDaniels,Transition Take Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,10,17,0.428,0.428,6:06
+1,5:22,CHA,Jalen McDaniels,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,10,20,0.307,0.344,5:35
+1,4:16,ATL,Onyeka Okongwu,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,15,26,0.36,0.313,4:16
+1,1:15,ATL,Frank Kaminsky,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,22,34,0.335,0.294,1:22
+1,53.1,ATL,Jalen Johnson,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,24,34,0.389,0.347,58.1
+1,39.1,CHA,Nick Richards,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,23,34,0.255,0.288,49.2
+1,29.0,ATL,AJ Griffin,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,23,36,0.304,0.266,35.2
+1,9.1,CHA,Kai Jones,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,24,36,0.225,0.267,29.0
+2,11:08,ATL,Frank Kaminsky,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,24,40,0.183,0.184,11:24
+2,11:06,ATL,Aaron Holiday,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,24,40,0.181,0.183,11:08
+2,10:18,CHA,LaMelo Ball,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,24,40,0.159,0.159,10:28
+2,9:49,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,27,45,0.11,0.137,9:49
+2,9:09,ATL,Aaron Holiday,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,29,45,0.172,0.174,9:19
+2,8:51,CHA,Gordon Hayward,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,29,45,0.126,0.151,8:58
+2,8:47,ATL,Aaron Holiday,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,29,47,0.161,0.133,8:51
+2,5:42,CHA,Jalen McDaniels,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,37,57,0.058,0.073,5:48
+2,3:45,CHA,Mason Plumlee,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,44,64,0.049,0.065,3:55
+2,3:24,CHA,Theo Maledon,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,46,66,0.048,0.063,3:33
+2,3:06,CHA,Mason Plumlee,Loose Ball Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,46,68,0.032,0.043,3:06
+2,2:44,ATL,AJ Griffin,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,48,70,0.057,0.042,2:44
+2,2:23,ATL,De'Andre Hunter,Offensive Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,48,70,0.048,0.042,2:41
+2,1:34,ATL,Trae Young,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,48,72,0.042,0.03,1:52
+2,15.1,CHA,LaMelo Ball,Technical Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,59,74,0.1,0.113,19.1
+3,11:07,ATL,Trent Forrest,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,64,75,0.239,0.188,11:07
+3,9:23,CHA,Terry Rozier,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,70,75,0.362,0.363,9:38
+3,7:32,CHA,Mason Plumlee,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,75,77,0.435,0.462,7:32
+3,6:01,ATL,De'Andre Hunter,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,77,81,0.414,0.414,6:01
+3,5:36,CHA,Jalen McDaniels,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,77,81,0.373,0.371,5:44
+3,5:13,ATL,Trent Forrest,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,77,83,0.328,0.332,5:27
+3,4:18,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,77,83,0.229,0.28,4:20
+3,4:18,CHA,CHA,Technical Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,77,83,0.254,0.229,4:18
+3,4:06,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,77,86,0.262,0.211,4:06
+3,3:43,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,77,86,0.136,0.174,3:46
+3,3:05,CHA,Nick Richards,Offensive Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,79,91,0.093,0.12,3:15
+3,2:43,ATL,AJ Griffin,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,79,91,0.151,0.115,2:46
+3,1:30,ATL,Frank Kaminsky,Offensive Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,84,94,0.149,0.126,1:47
+3,1:15,CHA,Kelly Oubre Jr.,Technical Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,87,94,0.185,0.21,1:16
+3,1:01,CHA,Theo Maledon,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,87,94,0.158,0.207,1:03
+4,11:51,ATL,Aaron Holiday,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,92,98,0.283,0.255,12:00
+4,10:49,CHA,JT Thor,Offensive Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,94,100,0.221,0.264,10:56
+4,10:36,CHA,Nick Richards,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,94,100,0.153,0.221,10:49
+4,9:01,ATL,Frank Kaminsky,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,94,107,0.072,0.045,9:18
+4,7:45,CHA,Jalen McDaniels,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,95,112,0.002,0.005,7:49
+4,7:26,ATL,Aaron Holiday,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,95,113,0.01,0.005,7:43
+4,5:17,CHA,Gordon Hayward,Personal Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,96,118,0.001,0.001,5:31
+4,3:47,CHA,LaMelo Ball,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tyler Ford,CHA,100,122,0.001,0.001,4:07

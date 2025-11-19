@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:41,TOR,Pascal Siakam,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,2,2,0.398,0.437,10:54
+1,9:06,BKN,James Harden,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,5,5,0.462,0.462,9:22
+1,8:43,TOR,Fred VanVleet,Defensive 3-Seconds Technical,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,7,5,0.495,0.489,8:53
+1,6:59,TOR,Pascal Siakam,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,12,8,0.545,0.544,7:04
+1,6:06,TOR,Scottie Barnes,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,14,11,0.481,0.521,6:18
+1,5:36,BKN,James Harden,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,14,15,0.441,0.441,5:42
+2,10:39,BKN,Joe Harris,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,26,31,0.375,0.335,10:42
+2,9:48,BKN,Joe Harris,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,29,34,0.333,0.334,9:59
+2,9:43,BKN,Paul Millsap,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,31,34,0.39,0.361,9:43
+2,8:58,TOR,Dalano Banton,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,34,34,0.403,0.446,9:15
+2,8:29,TOR,Dalano Banton,Defensive 3-Seconds Technical,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,34,36,0.396,0.388,8:41
+2,6:24,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,39,40,0.434,0.449,6:24
+2,4:57,BKN,DeAndre' Bembry,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,43,43,0.562,0.483,5:02
+2,2:54,BKN,Kevin Durant,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,49,46,0.635,0.584,2:58
+2,2:54,BKN,Kevin Durant,Technical Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,49,46,0.61,0.584,2:54
+2,2:45,TOR,Scottie Barnes,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,52,47,0.57,0.617,2:54
+3,9:46,TOR,Scottie Barnes,Personal Take Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,60,59,0.496,0.496,9:46
+3,8:54,TOR,Gary Trent Jr.,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,62,62,0.402,0.456,9:14
+3,8:32,TOR,Scottie Barnes,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,62,64,0.383,0.383,8:45
+3,7:59,TOR,Pascal Siakam,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,64,64,0.401,0.458,8:05
+3,7:08,BKN,Blake Griffin,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,64,69,0.364,0.312,7:24
+3,6:38,BKN,James Harden,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,64,69,0.363,0.309,6:40
+3,5:31,TOR,OG Anunoby,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,65,69,0.323,0.305,5:35
+3,1:37,BKN,DeAndre' Bembry,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,75,80,0.35,0.289,1:47
+3,18.8,TOR,Dalano Banton,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,77,87,0.101,0.113,18.8
+4,11:51,TOR,Precious Achiuwa,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,77,88,0.043,0.08,12:00
+4,10:27,BKN,DeAndre' Bembry,Personal Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,82,91,0.127,0.12,10:41
+4,10:20,TOR,Precious Achiuwa,Loose Ball Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,82,91,0.088,0.095,10:20
+4,7:19,TOR,Svi Mykhailiuk,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,86,96,0.034,0.048,7:27
+4,5:59,BKN,Patty Mills,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,88,99,0.052,0.037,6:17
+4,5:25,BKN,James Harden,Shooting Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,92,101,0.055,0.045,5:25
+4,1:41,BKN,Kevin Durant,Offensive Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,103,111,0.032,0.012,1:42
+4,47.8,TOR,Scottie Barnes,Personal Take Foul,Foul,Brian Forte,Kevin Cutler,Nate Green,TOR,103,113,0.001,0.001,50.1

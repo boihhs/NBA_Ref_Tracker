@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:48,ATL,Solomon Hill,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,0,0,0.837,0.815,12:00
+1,10:02,UTAH,Rudy Gobert,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,3,3,0.764,0.793,10:21
+1,7:46,UTAH,Royce O'Neale,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,10,11,0.761,0.779,7:46
+1,3:06,UTAH,Mike Conley,Loose Ball Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,23,26,0.688,0.686,3:06
+1,2:08,ATL,Clint Capela,Loose Ball Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,26,26,0.768,0.769,2:08
+1,1:12,ATL,John Collins,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,26,28,0.753,0.723,1:35
+2,11:45,ATL,Danilo Gallinari,Personal Take Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,30,28,0.788,0.798,11:45
+2,10:40,ATL,Gorgui Dieng,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,30,28,0.792,0.793,10:51
+2,9:57,UTAH,Rudy Gobert,Loose Ball Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,33,31,0.768,0.768,9:57
+2,7:18,ATL,Kevin Huerter,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,41,38,0.796,0.798,7:30
+2,5:24,ATL,Solomon Hill,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,48,40,0.9,0.881,5:31
+2,5:08,UTAH,Hassan Whiteside,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,48,40,0.864,0.864,5:15
+2,4:24,UTAH,Royce O'Neale,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,50,40,0.893,0.894,4:34
+2,3:56,ATL,Clint Capela,Loose Ball Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,50,42,0.899,0.877,3:56
+2,3:42,ATL,John Collins,Offensive Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,52,42,0.906,0.893,3:56
+2,2:22,ATL,Clint Capela,Loose Ball Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,57,45,0.923,0.929,2:22
+2,1:43,UTAH,Hassan Whiteside,Offensive Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,59,45,0.938,0.947,1:57
+2,1:39,UTAH,Royce O'Neale,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,59,45,0.923,0.938,1:43
+2,4.4,UTAH,Mike Conley,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,62,48,0.924,0.939,17.9
+3,11:21,ATL,John Collins,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,62,52,0.937,0.907,11:40
+3,9:16,ATL,John Collins,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,64,61,0.801,0.764,9:30
+3,8:53,ATL,Solomon Hill,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,66,61,0.812,0.814,9:03
+3,7:56,ATL,Clint Capela,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,71,64,0.856,0.856,7:59
+3,6:29,ATL,Kevin Huerter,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,75,66,0.918,0.896,6:52
+3,4:42,ATL,Solomon Hill,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,80,71,0.922,0.9,5:03
+3,4:01,UTAH,Joe Ingles,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,82,73,0.881,0.881,4:10
+3,3:54,UTAH,Joe Ingles,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,82,73,0.881,0.881,4:01
+3,2:47,ATL,Trae Young,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,86,75,0.953,0.936,2:51
+4,11:00,UTAH,Mike Conley,Loose Ball Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,95,83,0.952,0.952,11:00
+4,10:15,UTAH,Rudy Gobert,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,95,83,0.938,0.952,10:29
+4,10:15,UTAH,Joe Ingles,Technical Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,95,83,0.951,0.938,10:15
+4,8:26,UTAH,Mike Conley,Personal Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,98,88,0.922,0.929,8:33
+4,8:04,UTAH,Hassan Whiteside,Offensive Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,98,91,0.849,0.881,8:18
+4,6:09,ATL,Trae Young,Personal Take Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,103,93,0.963,0.961,6:11
+4,4:56,UTAH,Donovan Mitchell,Loose Ball Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,108,93,0.995,0.994,4:56
+4,4:47,UTAH,Donovan Mitchell,Shooting Foul,Foul,Derek Richardson,Curtis Blair,Mitchell Ervin,UTAH,108,93,0.988,0.995,4:56

@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:30,DET,Isaiah Stewart,Loose Ball Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,0,2,0.505,0.504,11:30
+1,10:21,DET,Ausar Thompson,Loose Ball Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,0,5,0.426,0.424,10:23
+1,10:01,POR,Scoot Henderson,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,0,5,0.488,0.452,10:08
+1,9:49,POR,Matisse Thybulle,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,2,5,0.501,0.5,9:49
+1,7:32,POR,Jerami Grant,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,13,9,0.689,0.65,7:32
+1,7:27,DET,Ausar Thompson,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,14,9,0.674,0.674,7:32
+1,7:20,DET,Isaiah Stewart,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,14,11,0.605,0.649,7:20
+1,4:18,DET,James Wiseman,Offensive Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,21,18,0.622,0.649,4:27
+1,3:55,DET,Stanley Umude,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,21,18,0.583,0.621,3:56
+1,3:37,DET,James Wiseman,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,21,19,0.557,0.597,3:41
+1,2:57,DET,James Wiseman,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,23,21,0.556,0.597,3:08
+1,2:20,POR,Robert Williams III,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,26,23,0.684,0.647,2:28
+2,11:57,POR,Shaedon Sharpe,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,32,26,0.723,0.595,2:59
+2,11:29,DET,Marcus Sasser,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,32,26,0.661,0.699,11:38
+2,9:25,DET,Killian Hayes,Offensive Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,37,33,0.647,0.676,9:37
+2,9:17,DET,Jaden Ivey,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,37,33,0.606,0.647,9:25
+2,6:28,DET,Marcus Sasser,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,44,34,0.802,0.802,6:39
+2,5:16,DET,Isaiah Stewart,Offensive Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,48,36,0.846,0.863,5:26
+2,3:55,DET,Stanley Umude,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,52,38,0.859,0.882,4:06
+2,2:45,DET,Cade Cunningham,Defensive 3-Seconds Technical,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,57,40,0.932,0.927,3:01
+2,2:02,DET,Jaden Ivey,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,59,41,0.925,0.941,2:17
+3,9:46,POR,Scoot Henderson,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,64,54,0.852,0.854,9:51
+3,8:49,DET,Marvin Bagley III,Offensive Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,64,56,0.784,0.81,8:59
+3,4:27,DET,Ausar Thompson,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,75,64,0.881,0.881,4:30
+3,4:04,POR,Robert Williams III,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,77,66,0.915,0.884,4:04
+3,2:46,POR,Malcolm Brogdon,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,78,71,0.858,0.816,3:03
+3,1:29,POR,Jerami Grant,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,82,79,0.739,0.677,1:42
+3,42.1,DET,James Wiseman,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,84,81,0.6,0.682,42.1
+3,15.0,DET,Joe Harris,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,84,82,0.518,0.59,27.0
+4,11:22,POR,Robert Williams III,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,88,85,0.735,0.636,11:22
+4,10:58,POR,Robert Williams III,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,89,85,0.755,0.742,10:59
+4,10:31,DET,Marvin Bagley III,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,91,85,0.713,0.787,10:45
+4,9:28,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,93,87,0.778,0.791,9:28
+4,8:37,DET,Jaden Ivey,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,93,87,0.776,0.791,8:37
+4,8:27,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,93,87,0.708,0.776,8:37
+4,7:13,POR,Jerami Grant,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,93,91,0.663,0.624,7:19
+4,4:20,DET,Killian Hayes,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,95,96,0.277,0.457,4:34
+4,4:02,DET,Ausar Thompson,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,97,97,0.34,0.448,4:06
+4,3:23,DET,Isaiah Stewart,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,99,99,0.327,0.442,3:27
+4,3:06,POR,Toumani Camara,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,99,101,0.508,0.368,3:23
+4,2:43,DET,Isaiah Stewart,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,99,101,0.195,0.297,2:52
+4,1:55,POR,Toumani Camara,Shooting Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,99,103,0.327,0.206,1:58
+4,1:42,DET,Stanley Umude,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,101,103,0.166,0.276,1:55
+4,1:04,DET,Marcus Sasser,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,101,104,0.096,0.173,1:04
+4,14.1,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Sean Wright,Jonathan Sterling,DET,101,108,0.001,0.006,25.0

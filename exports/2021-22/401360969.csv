@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:43,UTAH,Rudy Gobert,Defensive 3-Seconds Technical,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,0,0,0.854,0.854,12:00
+1,9:15,LAL,Stanley Johnson,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,10,4,0.915,0.916,9:25
+1,8:27,UTAH,Mike Conley,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,14,4,0.925,0.936,8:41
+1,7:27,LAL,Dwight Howard,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,14,7,0.93,0.92,7:31
+1,4:37,UTAH,Greg Monroe,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,21,14,0.889,0.904,4:47
+1,4:08,UTAH,Greg Monroe,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,21,18,0.846,0.869,4:08
+1,2:05,UTAH,Juancho Hernangomez,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,30,23,0.889,0.908,2:05
+2,11:47,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,36,28,0.92,0.902,11:47
+2,11:34,UTAH,Mike Conley,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,36,28,0.885,0.903,11:45
+2,10:40,LAL,Wenyen Gabriel,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,36,33,0.847,0.849,10:49
+2,10:25,LAL,Wenyen Gabriel,Loose Ball Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,36,33,0.846,0.847,10:25
+2,9:33,LAL,Wenyen Gabriel,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,39,35,0.879,0.859,9:50
+2,9:15,UTAH,Juancho Hernangomez,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,39,35,0.815,0.841,9:18
+2,8:51,UTAH,Danuel House Jr.,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,41,37,0.813,0.84,9:01
+2,7:35,UTAH,Juancho Hernangomez,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,45,40,0.826,0.851,7:47
+2,7:00,UTAH,Royce O'Neale,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,47,40,0.856,0.88,7:15
+2,6:01,LAL,Talen Horton-Tucker,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,49,42,0.908,0.891,6:10
+2,4:33,UTAH,Royce O'Neale,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,52,46,0.843,0.872,4:33
+2,2:57,LAL,Dwight Howard,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,55,52,0.844,0.817,3:09
+2,2:43,UTAH,Danuel House Jr.,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,57,52,0.803,0.834,2:57
+2,2:13,LAL,Stanley Johnson,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,59,53,0.89,0.867,2:19
+3,11:47,UTAH,Rudy Gobert,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,66,55,0.901,0.919,11:50
+3,10:45,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,69,59,0.897,0.907,10:52
+3,10:29,UTAH,Rudy Gobert,Technical Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,69,61,0.864,0.878,10:29
+3,8:50,UTAH,Rudy Gobert,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,73,66,0.856,0.857,8:50
+3,8:45,LAL,Malik Monk,Offensive Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,73,66,0.877,0.856,8:50
+3,8:02,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,75,68,0.84,0.876,8:02
+3,6:41,LAL,Stanley Johnson,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,75,69,0.871,0.857,6:45
+3,6:15,LAL,Malik Monk,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,78,71,0.888,0.855,6:15
+3,4:32,LAL,Dwight Howard,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,84,75,0.921,0.911,4:32
+3,2:14,LAL,Wenyen Gabriel,Offensive Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,93,81,0.956,0.943,2:24
+3,1:14,LAL,Wenyen Gabriel,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,93,83,0.953,0.934,1:25
+3,50.5,UTAH,Danuel House Jr.,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,97,83,0.952,0.968,54.3
+4,11:33,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,99,85,0.987,0.979,11:38
+4,9:52,LAL,Russell Westbrook,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,102,89,0.98,0.977,10:07
+4,9:43,LAL,Austin Reaves,Loose Ball Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,102,89,0.981,0.979,9:43
+4,8:15,LAL,Russell Westbrook,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,107,91,0.997,0.994,8:25
+4,7:46,UTAH,Mike Conley,Personal Take Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,109,93,0.992,0.993,7:47
+4,5:45,UTAH,Bojan Bogdanovic,Personal Take Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,113,100,0.985,0.986,5:45
+4,4:08,UTAH,Rudy Gobert,Offensive Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,116,103,0.992,0.995,4:09
+4,3:49,LAL,Malik Monk,Personal Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,116,103,0.998,0.996,3:55
+4,3:42,UTAH,Royce O'Neale,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,118,103,0.994,0.998,3:49
+4,1:18,LAL,D.J. Augustin,Shooting Foul,Foul,Eric Lewis,Karl Lane,Evan Scott,UTAH,122,107,0.999,0.999,1:30

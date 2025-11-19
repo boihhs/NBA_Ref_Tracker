@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:22,HOU,KJ Martin,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,7,7,0.934,0.925,9:36
+1,8:07,HOU,Alperen Sengun,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,12,11,0.932,0.919,8:07
+1,7:52,NY,Mitchell Robinson,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,13,13,0.904,0.918,7:52
+1,6:35,NY,Mitchell Robinson,Loose Ball Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,13,15,0.885,0.884,6:35
+1,3:19,HOU,Jabari Smith Jr.,Personal Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,26,22,0.932,0.934,3:32
+1,2:58,NY,Immanuel Quickley,Personal Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,26,22,0.924,0.924,3:04
+1,1:50,HOU,Tari Eason,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,28,26,0.917,0.911,1:50
+1,8.1,HOU,Usman Garuba,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,35,31,0.928,0.915,8.1
+1,4.1,NY,Miles McBride,Personal Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,36,31,0.909,0.922,8.1
+2,11:16,HOU,Josh Christopher,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,36,33,0.924,0.912,11:24
+2,9:51,NY,Josh Hart,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,40,35,0.899,0.915,9:57
+2,8:02,NY,Obi Toppin,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,44,37,0.913,0.928,8:20
+2,7:49,HOU,Tari Eason,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,46,39,0.94,0.926,7:49
+2,7:21,NY,Isaiah Hartenstein,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,49,39,0.937,0.948,7:37
+2,6:55,NY,Isaiah Hartenstein,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,49,41,0.919,0.933,7:01
+2,6:20,NY,Josh Hart,Personal Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,49,42,0.907,0.923,6:30
+2,4:16,HOU,Boban Marjanovic,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,52,49,0.899,0.881,4:17
+2,3:50,NY,Josh Hart,Loose Ball Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,53,49,0.854,0.877,3:50
+2,3:07,NY,Quentin Grimes,Personal Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,55,53,0.812,0.843,3:16
+2,32.1,NY,Mitchell Robinson,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,64,60,0.847,0.877,32.1
+3,10:32,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,68,63,0.895,0.869,10:32
+3,9:36,HOU,Kevin Porter Jr.,Personal Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,71,63,0.922,0.923,9:40
+3,9:36,HOU,Jabari Smith Jr.,Technical Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,71,63,0.931,0.922,9:36
+3,6:07,NY,Quentin Grimes,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,79,69,0.911,0.931,6:11
+3,4:44,NY,Immanuel Quickley,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,81,71,0.909,0.93,5:04
+3,4:05,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,86,75,0.959,0.943,4:05
+3,3:07,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,89,80,0.949,0.931,3:12
+3,2:45,NY,Immanuel Quickley,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,91,80,0.923,0.943,3:07
+4,11:14,HOU,Daishen Nix,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,104,90,0.987,0.977,11:14
+4,10:45,HOU,Tari Eason,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,105,90,0.993,0.988,10:56
+4,10:20,HOU,Alperen Sengun,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,106,90,0.995,0.992,10:25
+4,9:26,NY,Isaiah Hartenstein,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,112,90,0.998,0.999,9:40
+4,8:21,NY,Isaiah Hartenstein,Personal Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,117,92,0.999,0.999,8:33
+4,8:00,NY,Miles McBride,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,117,92,0.999,0.999,8:05
+4,6:55,HOU,Tari Eason,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,120,95,0.999,0.999,6:58
+4,5:13,HOU,Josh Christopher,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,129,99,0.999,0.999,5:38
+4,4:11,HOU,Boban Marjanovic,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,130,99,0.999,0.999,4:29
+4,4:09,NY,Miles McBride,Personal Take Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,132,99,0.999,0.999,4:11
+4,2:10,NY,Jericho Sims,Shooting Foul,Foul,Derek Richardson,Marc Davis,Tyler Ford,NY,132,105,0.999,0.999,2:13

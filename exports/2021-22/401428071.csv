@@ -1,0 +1,56 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,LAC,Marcus Morris Sr.,Loose Ball Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,2,0,0.648,0.648,11:04
+1,10:19,MIN,Jarred Vanderbilt,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,4,0,0.671,0.67,10:31
+1,9:27,MIN,D'Angelo Russell,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,7,4,0.629,0.67,9:27
+1,6:29,MIN,Patrick Beverley,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,7,12,0.437,0.432,6:31
+1,5:52,LAC,Paul George,Offensive Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,10,12,0.54,0.513,6:08
+1,5:43,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,10,12,0.533,0.54,5:52
+1,4:09,MIN,Karl-Anthony Towns,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,11,14,0.44,0.481,4:09
+1,3:53,LAC,Marcus Morris Sr.,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,11,16,0.454,0.454,4:02
+1,3:53,LAC,Marcus Morris Sr.,Technical Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,11,16,0.474,0.454,3:53
+1,3:13,MIN,Jaden McDaniels,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,11,16,0.379,0.423,3:17
+1,3:03,LAC,Norman Powell,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,11,17,0.422,0.422,3:13
+1,2:32,MIN,Patrick Beverley,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,13,17,0.406,0.448,2:53
+1,2:25,LAC,Norman Powell,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,13,19,0.461,0.42,2:32
+1,1:33,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,15,22,0.357,0.39,1:49
+2,11:24,MIN,Jaden McDaniels,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,23,26,0.464,0.463,11:43
+2,10:51,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,23,29,0.448,0.407,11:12
+2,10:03,MIN,D'Angelo Russell,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,26,32,0.329,0.371,10:06
+2,9:27,LAC,Reggie Jackson,Personal Take Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,28,34,0.4,0.399,9:28
+2,9:08,MIN,Jaylen Nowell,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,28,34,0.326,0.369,9:20
+2,6:05,MIN,Anthony Edwards,Personal Take Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,36,41,0.339,0.384,6:07
+2,4:51,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,36,41,0.332,0.378,5:00
+2,4:20,MIN,Anthony Edwards,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,36,43,0.272,0.316,4:30
+2,4:02,LAC,Nicolas Batum,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,36,44,0.36,0.316,4:20
+2,3:48,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,38,44,0.297,0.343,3:48
+2,3:34,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,38,45,0.39,0.342,3:46
+2,2:23,MIN,Anthony Edwards,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,44,45,0.446,0.501,2:37
+2,1:59,LAC,Reggie Jackson,Offensive Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,44,46,0.499,0.465,2:07
+2,1:45,LAC,Reggie Jackson,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,44,46,0.55,0.499,1:59
+2,1:14,LAC,Robert Covington,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,47,46,0.621,0.562,1:14
+2,53.9,MIN,Malik Beasley,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,48,46,0.545,0.598,58.1
+3,11:45,LAC,Paul George,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,53,51,0.679,0.615,12:00
+3,11:26,LAC,Ivica Zubac,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,54,51,0.663,0.664,11:26
+3,11:07,MIN,Patrick Beverley,Technical Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,54,51,0.603,0.63,11:14
+3,8:15,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,59,56,0.691,0.667,8:15
+3,4:56,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,65,66,0.575,0.514,5:18
+3,3:39,MIN,Jaden McDaniels,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,69,71,0.354,0.419,3:47
+3,3:31,LAC,Reggie Jackson,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,69,72,0.485,0.421,3:39
+3,2:32,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,72,74,0.529,0.457,2:38
+3,1:42,MIN,D'Angelo Russell,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,73,77,0.257,0.279,1:42
+3,1:31,LAC,Norman Powell,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,73,80,0.304,0.243,1:42
+3,30.1,LAC,Paul George,Offensive Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,75,82,0.231,0.192,33.8
+3,15.3,LAC,Nicolas Batum,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,75,82,0.29,0.231,30.1
+3,6.4,MIN,Josh Okogie,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,75,82,0.141,0.188,13.8
+4,9:46,MIN,Jaden McDaniels,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,83,86,0.247,0.33,10:05
+4,8:01,LAC,Norman Powell,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,85,93,0.204,0.138,8:08
+4,7:34,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,86,93,0.121,0.128,7:34
+4,7:14,LAC,Paul George,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,86,93,0.237,0.158,7:18
+4,5:03,MIN,Jaden McDaniels,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,94,95,0.377,0.403,5:16
+4,3:24,LAC,Reggie Jackson,Personal Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,99,95,0.838,0.821,3:24
+4,1:35,MIN,Anthony Edwards,Offensive Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,104,98,0.918,0.957,1:35
+4,1:06,MIN,D'Angelo Russell,Personal Take Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,104,101,0.57,0.756,1:07
+4,38.5,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,104,101,0.927,0.823,57.6
+4,32.2,LAC,Marcus Morris Sr.,Personal Take Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,106,101,0.983,0.952,32.2
+4,21.4,LAC,Ivica Zubac,Personal Take Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,107,101,0.996,0.983,22.7
+4,6.4,LAC,Nicolas Batum,Personal Take Foul,Foul,Ed Malloy,Tom Washington,Scott Foster,MIN,108,104,0.993,0.956,12.5

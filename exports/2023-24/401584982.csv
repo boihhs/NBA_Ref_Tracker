@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:02,TOR,Jakob Poeltl,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,3,5,0.767,0.78,10:02
+1,4:38,CHA,Bryce McGowens,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,9,18,0.601,0.572,4:43
+1,2:03,CHA,Nick Smith Jr.,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,13,22,0.594,0.573,2:03
+1,1:16,CHA,Terry Rozier,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,15,24,0.606,0.567,1:29
+1,50.0,TOR,Precious Achiuwa,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,17,26,0.501,0.559,50.0
+2,10:25,TOR,Dennis Schroder,Personal Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,23,30,0.56,0.56,10:38
+2,10:09,CHA,Brandon Miller,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,23,30,0.629,0.588,10:14
+2,9:35,TOR,Chris Boucher,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,25,30,0.565,0.609,9:41
+2,6:12,TOR,OG Anunoby,Personal Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,32,36,0.607,0.607,6:29
+2,5:42,TOR,Jakob Poeltl,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,32,36,0.552,0.601,5:45
+2,5:28,TOR,Pascal Siakam,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,32,38,0.534,0.57,5:42
+2,4:39,CHA,P.J. Washington,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,34,43,0.482,0.421,4:39
+2,3:40,CHA,Nick Smith Jr.,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,37,43,0.572,0.512,3:40
+2,2:42,CHA,Terry Rozier,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,40,48,0.518,0.465,2:47
+2,1:48,TOR,Dennis Schroder,Personal Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,42,50,0.363,0.423,2:00
+2,1:03,CHA,Nick Richards,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,45,52,0.534,0.478,1:04
+2,48.2,CHA,Brandon Miller,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,46,52,0.515,0.479,1:00
+3,11:25,CHA,Brandon Miller,Personal Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,48,52,0.566,0.571,11:34
+3,10:12,TOR,Jakob Poeltl,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,51,54,0.551,0.593,10:33
+3,9:56,CHA,Terry Rozier,Offensive Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,51,54,0.587,0.551,10:12
+3,9:18,CHA,P.J. Washington,Personal Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,53,56,0.581,0.581,9:22
+3,6:46,TOR,OG Anunoby,Personal Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,59,64,0.432,0.432,7:02
+3,3:32,TOR,Scottie Barnes,Loose Ball Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,69,70,0.56,0.56,3:32
+3,3:24,CHA,Ish Smith,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,69,70,0.665,0.605,3:32
+4,9:47,CHA,Leaky Black,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,83,85,0.596,0.5,10:08
+4,9:27,CHA,P.J. Washington,Flagrant Foul Type 1,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,85,85,0.612,0.611,9:29
+4,9:13,CHA,P.J. Washington,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,86,85,0.754,0.669,9:27
+4,5:17,TOR,Malachi Flynn,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,97,91,0.795,0.865,5:28
+4,4:38,CHA,P.J. Washington,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,99,93,0.932,0.872,4:38
+4,4:03,TOR,Gary Trent Jr.,Personal Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,102,93,0.956,0.958,4:16
+4,3:35,CHA,Nick Richards,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,104,93,0.994,0.985,3:35
+4,2:44,TOR,OG Anunoby,Shooting Foul,Foul,Jacyn Goble,Rodney Mott,John Butler,TOR,107,95,0.983,0.996,2:53

@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:49,CHA,Terry Rozier,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,0,0,0.426,0.426,12:00
+1,9:58,NY,RJ Barrett,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,5,4,0.475,0.477,10:10
+1,8:11,CHA,Terry Rozier,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,7,7,0.429,0.427,8:16
+1,6:38,NY,Quentin Grimes,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,9,7,0.508,0.511,6:40
+1,6:19,CHA,Jalen McDaniels,Loose Ball Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,9,7,0.484,0.483,6:19
+1,5:42,CHA,P.J. Washington,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,11,12,0.387,0.432,5:42
+1,4:48,NY,Quentin Grimes,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,14,16,0.407,0.405,5:09
+1,4:43,NY,Mitchell Robinson,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,14,16,0.445,0.481,4:48
+1,2:22,NY,Julius Randle,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,16,20,0.394,0.354,2:42
+1,1:55,CHA,Nick Richards,Offensive Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,18,22,0.329,0.354,1:57
+2,10:51,NY,Isaiah Hartenstein,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,22,26,0.396,0.352,11:02
+2,9:44,NY,Miles McBride,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,28,26,0.551,0.501,9:44
+2,8:56,CHA,Jalen McDaniels,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,29,29,0.397,0.439,8:57
+2,7:57,CHA,Kai Jones,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,31,33,0.341,0.383,8:06
+2,7:51,CHA,Nick Richards,Offensive Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,31,35,0.324,0.354,7:57
+2,7:26,NY,Immanuel Quickley,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,33,35,0.434,0.382,7:26
+2,4:51,CHA,Theo Maledon,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,38,41,0.354,0.352,5:01
+2,4:36,CHA,Theo Maledon,Offensive Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,38,41,0.352,0.383,4:44
+2,3:02,CHA,P.J. Washington,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,40,45,0.271,0.32,3:02
+2,2:28,CHA,Terry Rozier,Loose Ball Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,42,45,0.305,0.351,2:30
+2,1:34,CHA,P.J. Washington,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,42,49,0.216,0.232,1:34
+2,44.1,NY,Jalen Brunson,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,44,53,0.222,0.182,44.1
+2,18.1,NY,Julius Randle,Offensive Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,47,53,0.287,0.259,30.1
+2,6.0,NY,RJ Barrett,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,47,53,0.333,0.287,18.1
+2,1.1,CHA,Bryce McGowens,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,49,53,0.268,0.318,6.0
+3,11:14,CHA,P.J. Washington,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,52,57,0.24,0.284,11:16
+3,10:59,CHA,Mason Plumlee,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,52,59,0.226,0.222,10:59
+3,10:26,CHA,Bryce McGowens,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,52,61,0.143,0.173,10:29
+3,10:11,NY,Mitchell Robinson,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,52,63,0.186,0.151,10:26
+3,9:26,CHA,Mason Plumlee,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,56,65,0.154,0.196,9:26
+3,7:42,NY,Quentin Grimes,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,62,71,0.207,0.161,7:42
+3,6:55,NY,Jalen Brunson,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,65,71,0.326,0.238,7:10
+3,2:27,CHA,Jalen McDaniels,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,70,81,0.063,0.088,2:30
+3,1:52,NY,Julius Randle,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,70,84,0.076,0.055,2:08
+3,1:05,CHA,Jalen McDaniels,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,71,84,0.034,0.05,1:12
+3,43.1,CHA,Nick Richards,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,71,85,0.024,0.035,51.1
+4,10:38,NY,Immanuel Quickley,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,73,94,0.006,0.004,11:00
+4,10:03,CHA,Nick Richards,Loose Ball Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,75,96,0.001,0.002,10:03
+4,9:21,NY,Jericho Sims,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,75,96,0.002,0.002,9:24
+4,7:54,CHA,Mason Plumlee,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,77,101,0.001,0.001,8:09
+4,7:13,NY,Miles McBride,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,79,103,0.001,0.001,7:16
+4,6:28,CHA,Kai Jones,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,83,105,0.001,0.001,6:49
+4,4:22,CHA,Mason Plumlee,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,92,112,0.001,0.001,4:22
+4,3:02,CHA,Kai Jones,Loose Ball Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,95,113,0.001,0.001,3:03
+4,2:17,NY,Jalen Brunson,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,95,115,0.001,0.001,2:37
+4,1:44,NY,Svi Mykhailiuk,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,97,115,0.001,0.001,1:53
+4,31.1,NY,Miles McBride,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Aaron Smith,CHA,100,121,0.001,0.001,35.2

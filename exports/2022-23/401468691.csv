@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:44,GS,Jordan Poole,Personal Foul,Foul,,,,GS,19,6,0.768,0.767,6:49
+1,6:41,GS,Jonathan Kuminga,Personal Foul,Foul,,,,GS,19,6,0.768,0.768,6:44
+1,4:47,GS,Draymond Green,Shooting Foul,Foul,,,,GS,24,11,0.742,0.773,5:15
+1,3:29,GS,Anthony Lamb,Shooting Foul,Foul,,,,GS,29,12,0.841,0.856,3:29
+1,1:23,GS,Ty Jerome,Shooting Foul,Foul,,,,GS,35,20,0.795,0.829,1:26
+1,1:11,POR,Trendon Watford,Personal Foul,Foul,,,,GS,35,20,0.871,0.845,1:21
+1,56.1,GS,Jonathan Kuminga,Personal Foul,Foul,,,,GS,35,20,0.798,0.828,1:06
+2,10:57,GS,Anthony Lamb,Personal Foul,Foul,,,,GS,41,29,0.779,0.778,11:03
+2,10:54,POR,Drew Eubanks,Offensive Foul,Foul,,,,GS,41,29,0.801,0.779,10:57
+2,10:07,POR,Shaedon Sharpe,Personal Foul,Foul,,,,GS,41,31,0.757,0.758,10:14
+2,9:50,GS,Ty Jerome,Shooting Foul,Foul,,,,GS,41,31,0.695,0.734,9:57
+2,8:54,POR,Drew Eubanks,Shooting Foul,Foul,,,,GS,41,35,0.699,0.658,9:11
+2,7:18,POR,Anfernee Simons,Shooting Foul,Foul,,,,GS,49,38,0.823,0.794,7:23
+2,6:58,POR,Damian Lillard,Personal Foul,Foul,,,,GS,51,38,0.864,0.836,7:02
+2,5:59,POR,Damian Lillard,Shooting Foul,Foul,,,,GS,53,40,0.869,0.84,6:05
+2,4:03,GS,Draymond Green,Shooting Foul,Foul,,,,GS,56,45,0.748,0.783,4:21
+2,3:21,GS,Jordan Poole,Personal Foul,Foul,,,,GS,56,47,0.695,0.738,3:23
+2,1:15,GS,Klay Thompson,Personal Foul,Foul,,,,GS,58,51,0.64,0.689,1:24
+2,1:07,GS,Draymond Green,Offensive Foul,Foul,,,,GS,58,53,0.625,0.659,1:15
+2,59.0,POR,Drew Eubanks,Offensive Foul,Foul,,,,GS,58,53,0.661,0.625,1:07
+2,40.2,GS,Anthony Lamb,Loose Ball Foul,Foul,,,,GS,58,56,0.471,0.557,40.2
+2,34.0,POR,Damian Lillard,Personal Foul,Foul,,,,GS,58,56,0.615,0.557,40.0
+3,11:42,POR,Josh Hart,Personal Foul,Foul,,,,GS,60,58,0.563,0.563,11:48
+3,6:43,POR,Drew Eubanks,Shooting Foul,Foul,,,,GS,72,77,0.362,0.306,7:03
+3,6:16,POR,Damian Lillard,Personal Foul,Foul,,,,GS,74,80,0.27,0.271,6:25
+3,5:47,GS,Jonathan Kuminga,Shooting Foul,Foul,,,,GS,76,80,0.251,0.304,6:09
+3,5:38,GS,Donte DiVincenzo,Offensive Foul,Foul,,,,GS,76,82,0.233,0.269,5:47
+3,4:23,GS,Jordan Poole,Shooting Foul,Foul,,,,GS,80,84,0.245,0.298,4:34
+3,3:27,GS,Kevon Looney,Loose Ball Foul,Foul,,,,GS,83,88,0.258,0.257,3:27
+3,2:39,POR,Josh Hart,Shooting Foul,Foul,,,,GS,83,92,0.201,0.158,2:47
+3,2:16,POR,Jabari Walker,Loose Ball Foul,Foul,,,,GS,85,92,0.272,0.215,2:16
+3,1:55,GS,Jonathan Kuminga,Shooting Foul,Foul,,,,GS,85,92,0.158,0.178,1:55
+3,1:06,GS,Kevon Looney,Shooting Foul,Foul,,,,GS,85,95,0.083,0.119,1:06
+4,7:19,POR,Jabari Walker,Shooting Foul,Foul,,,,GS,95,103,0.18,0.118,7:26
+4,6:42,POR,Drew Eubanks,Shooting Foul,Foul,,,,GS,98,105,0.221,0.149,6:59
+4,4:35,GS,Donte DiVincenzo,Personal Foul,Foul,,,,GS,102,110,0.055,0.058,4:41
+4,3:03,POR,Josh Hart,Personal Foul,Foul,,,,GS,106,110,0.257,0.227,3:05
+4,1:06,GS,Jordan Poole,Personal Foul,Foul,,,,GS,114,110,0.662,0.837,1:15
+4,15.0,POR,Josh Hart,Personal Take Foul,Foul,,,,GS,117,112,0.993,0.968,16.0
+4,14.0,POR,Josh Hart,Personal Take Foul,Foul,,,,GS,117,112,0.994,0.993,15.0

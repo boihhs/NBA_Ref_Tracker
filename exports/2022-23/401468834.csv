@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:02,GS,Draymond Green,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,5,6,0.741,0.728,10:03
+1,4:12,BOS,Jaylen Brown,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,17,14,0.765,0.764,4:17
+1,2:05,GS,Kevon Looney,Offensive Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,21,19,0.757,0.736,2:16
+2,9:36,GS,Andrew Wiggins,Offensive Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,33,28,0.806,0.785,9:45
+2,7:44,BOS,Malcolm Brogdon,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,36,28,0.837,0.839,8:03
+2,7:22,GS,Anthony Lamb,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,36,28,0.879,0.857,7:32
+2,6:22,GS,Klay Thompson,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,38,33,0.828,0.8,6:40
+2,5:46,BOS,Jaylen Brown,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,40,33,0.787,0.818,5:48
+2,5:07,GS,Anthony Lamb,Loose Ball Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,42,35,0.836,0.838,5:07
+2,4:21,BOS,Robert Williams III,Offensive Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,42,37,0.773,0.795,4:40
+2,3:47,BOS,Marcus Smart,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,42,40,0.65,0.695,3:53
+2,3:19,GS,Andrew Wiggins,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,42,42,0.706,0.665,3:20
+2,2:50,GS,Jordan Poole,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,44,45,0.676,0.631,3:04
+2,1:45,GS,Draymond Green,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,49,47,0.735,0.686,1:45
+2,1:35,BOS,Jaylen Brown,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,50,49,0.63,0.684,1:35
+2,1:01,GS,Jordan Poole,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,52,50,0.755,0.711,1:05
+3,10:57,GS,Klay Thompson,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,54,57,0.591,0.537,11:02
+3,8:38,BOS,Al Horford,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,61,63,0.461,0.52,8:54
+3,8:02,BOS,Marcus Smart,Offensive Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,64,68,0.436,0.477,8:14
+3,7:52,BOS,Jayson Tatum,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,64,68,0.436,0.436,8:02
+3,7:00,BOS,Al Horford,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,67,73,0.293,0.35,7:19
+3,5:53,BOS,Jayson Tatum,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,72,78,0.278,0.336,6:08
+3,4:09,GS,Klay Thompson,Offensive Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,72,81,0.24,0.204,4:14
+3,4:02,GS,Donte DiVincenzo,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,72,81,0.237,0.24,4:09
+3,2:58,GS,Anthony Lamb,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,72,81,0.278,0.225,3:07
+3,2:12,BOS,Derrick White,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,74,83,0.134,0.177,2:20
+3,2:04,GS,Jordan Poole,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,74,85,0.193,0.148,2:12
+3,1:11,GS,Kevon Looney,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,79,87,0.264,0.196,1:11
+3,57.0,BOS,Derrick White,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,80,87,0.174,0.275,1:11
+4,11:45,GS,Klay Thompson,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,82,89,0.332,0.235,12:00
+4,10:50,BOS,Derrick White,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,83,89,0.17,0.243,11:02
+4,10:33,GS,Draymond Green,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,83,89,0.366,0.281,10:50
+4,9:24,GS,Jordan Poole,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,86,95,0.157,0.15,9:36
+4,8:23,GS,Kevon Looney,Loose Ball Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,88,95,0.296,0.213,8:23
+4,8:11,GS,Klay Thompson,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,88,95,0.293,0.296,8:23
+4,5:57,BOS,Malcolm Brogdon,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,92,97,0.207,0.222,6:10
+4,5:18,GS,Donte DiVincenzo,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,94,97,0.485,0.381,5:30
+4,1:51,BOS,Marcus Smart,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,100,102,0.175,0.305,2:00
+5,3:44,BOS,Jaylen Brown,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,110,106,0.649,0.752,3:59
+5,3:23,GS,Draymond Green,Loose Ball Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,110,108,0.702,0.698,3:23
+5,3:18,GS,Stephen Curry,Personal Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,110,108,0.712,0.702,3:23
+5,1:18,BOS,Jaylen Brown,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,118,111,0.879,0.955,1:26
+5,1:02,GS,Klay Thompson,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,118,113,0.968,0.908,1:18
+5,38.0,GS,Andrew Wiggins,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,119,113,0.99,0.962,54.1
+5,37.0,BOS,Al Horford,Shooting Foul,Foul,Brent Barnaky,David Guthrie,Aaron Smith,BOS,121,113,0.957,0.984,38.0

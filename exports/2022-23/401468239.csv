@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:45,PHI,Tyrese Maxey,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,0,2,0.279,0.248,11:06
+1,10:15,CHI,Alex Caruso,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,3,2,0.294,0.291,10:26
+1,9:44,CHI,DeMar DeRozan,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,3,2,0.265,0.294,9:53
+1,9:12,PHI,Tyrese Maxey,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,3,7,0.247,0.218,9:18
+1,5:39,PHI,Matisse Thybulle,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,7,19,0.116,0.109,5:47
+1,4:43,CHI,Dalen Terry,Defensive 3-Seconds Technical,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,9,21,0.099,0.096,4:49
+1,3:43,PHI,Matisse Thybulle,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,11,24,0.114,0.097,4:01
+2,10:55,PHI,Matisse Thybulle,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,24,39,0.091,0.073,10:57
+2,10:30,PHI,Tyrese Maxey,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,26,41,0.075,0.074,10:37
+2,10:12,CHI,Zach LaVine,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,26,41,0.054,0.066,10:18
+2,9:48,PHI,Georges Niang,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,26,42,0.079,0.065,9:52
+2,8:53,PHI,Montrezl Harrell,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,29,44,0.081,0.065,8:53
+2,8:13,CHI,Goran Dragic,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,30,44,0.074,0.074,8:26
+2,6:26,PHI,Joel Embiid,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,33,51,0.058,0.046,6:35
+2,6:12,PHI,Joel Embiid,Offensive Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,35,51,0.062,0.054,6:26
+2,5:27,PHI,Joel Embiid,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,35,54,0.049,0.039,5:42
+2,4:05,PHI,P.J. Tucker,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,42,54,0.116,0.105,4:05
+2,3:24,CHI,DeMar DeRozan,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,44,54,0.098,0.119,3:28
+3,11:25,CHI,Nikola Vucevic,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,59,66,0.155,0.192,11:25
+3,10:30,CHI,Zach LaVine,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,64,70,0.161,0.193,10:39
+3,9:38,PHI,P.J. Tucker,Offensive Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,64,72,0.17,0.148,9:47
+3,8:02,PHI,P.J. Tucker,Offensive Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,70,72,0.347,0.311,8:21
+3,7:27,PHI,P.J. Tucker,Offensive Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,70,72,0.349,0.312,7:37
+3,6:08,CHI,Nikola Vucevic,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,76,72,0.491,0.552,6:26
+3,5:01,PHI,Tobias Harris,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,76,76,0.436,0.438,5:14
+3,4:02,CHI,Nikola Vucevic,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,81,78,0.496,0.574,4:02
+3,3:44,CHI,Nikola Vucevic,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,81,79,0.453,0.488,3:44
+3,1:58,CHI,Derrick Jones Jr.,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,83,82,0.383,0.451,2:09
+4,11:44,CHI,Goran Dragic,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,87,90,0.208,0.279,12:00
+4,11:38,PHI,Danuel House Jr.,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,89,92,0.367,0.269,11:38
+4,10:54,PHI,Montrezl Harrell,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,90,94,0.364,0.277,11:01
+4,10:12,PHI,Tyrese Maxey,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,94,94,0.545,0.428,10:12
+4,6:12,PHI,Georges Niang,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,100,103,0.435,0.327,6:34
+4,5:56,CHI,Javonte Green,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,101,103,0.32,0.335,5:56
+4,5:45,CHI,Javonte Green,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,101,103,0.306,0.32,5:56
+4,5:15,PHI,Georges Niang,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,101,103,0.437,0.385,5:15
+4,3:16,CHI,Javonte Green,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,107,105,0.479,0.618,3:26
+4,2:31,CHI,Patrick Williams,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,107,107,0.315,0.44,2:50
+4,1:10,PHI,Joel Embiid,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,107,109,0.494,0.361,1:21
+4,1:01,CHI,Patrick Williams,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,109,109,0.295,0.451,1:10
+4,4.4,CHI,Zach LaVine,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Jamahl Ralls,CHI,109,112,0.011,0.034,4.4

@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:16,MIL,Grayson Allen,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,2,0,0.696,0.711,11:16
+1,8:48,MEM,Steven Adams,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,4,10,0.554,0.515,8:52
+1,7:30,MIL,Khris Middleton,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,11,10,0.626,0.662,7:41
+1,6:15,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,16,13,0.716,0.705,6:15
+1,5:04,MIL,George Hill,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,20,15,0.712,0.747,5:20
+1,41.9,MEM,De'Anthony Melton,Personal Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,32,30,0.68,0.692,47.0
+2,10:42,MIL,Giannis Antetokounmpo,Personal Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,39,34,0.748,0.735,10:42
+2,10:33,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,39,34,0.76,0.735,10:35
+2,9:30,MEM,Jarrett Culver,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,44,34,0.856,0.839,9:30
+2,8:27,MIL,Giannis Antetokounmpo,Personal Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,45,34,0.856,0.856,8:29
+2,7:42,MEM,Jarrett Culver,Personal Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,47,34,0.899,0.901,7:47
+2,6:52,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,50,36,0.907,0.901,6:56
+2,5:37,MEM,De'Anthony Melton,Personal Take Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,53,38,0.927,0.927,5:40
+2,4:57,MEM,De'Anthony Melton,Personal Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,53,40,0.922,0.905,4:57
+2,4:29,MIL,Pat Connaughton,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,53,40,0.898,0.891,4:29
+2,1:48,MIL,Jrue Holiday,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,55,40,0.903,0.922,1:54
+2,2.5,MEM,Ja Morant,Personal Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,59,47,0.92,0.9,11.4
+3,10:05,MEM,Steven Adams,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,65,53,0.907,0.906,10:14
+3,8:30,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,73,59,0.915,0.938,8:30
+3,6:51,MIL,Pat Connaughton,Personal Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,78,64,0.932,0.931,7:02
+3,6:25,MEM,Ja Morant,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,80,66,0.945,0.934,6:25
+3,4:35,MIL,Bobby Portis,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,86,71,0.934,0.951,4:47
+3,4:28,MEM,De'Anthony Melton,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,86,73,0.956,0.941,4:35
+3,3:34,MIL,Jrue Holiday,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,88,75,0.931,0.945,3:34
+3,3:05,MIL,Wesley Matthews,Personal Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,91,75,0.952,0.966,3:17
+3,2:33,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,93,79,0.955,0.949,2:33
+3,32.8,MIL,Jrue Holiday,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,96,86,0.877,0.917,32.8
+4,11:30,MEM,Jarrett Culver,Personal Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,96,89,0.864,0.856,11:40
+4,11:08,MIL,Donte DiVincenzo,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,96,89,0.763,0.83,11:19
+4,9:01,MIL,Wesley Matthews,Loose Ball Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,102,91,0.935,0.94,9:01
+4,8:20,MEM,Jarrett Culver,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,102,93,0.943,0.924,8:20
+4,7:32,MEM,John Konchar,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,103,93,0.971,0.93,7:47
+4,6:36,MIL,Bobby Portis,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,108,93,0.984,0.99,6:38
+4,4:40,MIL,Khris Middleton,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,112,98,0.983,0.991,4:58
+4,4:00,MEM,Ja Morant,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,112,103,0.955,0.964,4:01
+4,3:02,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,114,106,0.942,0.96,3:15
+4,2:54,MIL,Khris Middleton,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,114,108,0.882,0.92,2:54
+4,2:20,MEM,Ziaire Williams,Personal Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,114,111,0.876,0.928,7:47
+4,39.5,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,122,111,0.992,0.998,39.5
+4,10.5,MEM,Jaren Jackson Jr.,Personal Take Foul,Foul,James Capers,Brian Forte,Brett Nansel,MIL,124,114,0.999,0.999,14.3

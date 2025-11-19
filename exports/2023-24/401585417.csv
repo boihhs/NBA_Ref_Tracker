@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:42,LAC,Amir Coffey,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,10,7,0.627,0.629,7:42
+1,4:30,LAC,Russell Westbrook,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,19,16,0.666,0.629,4:37
+1,4:08,LAC,Norman Powell,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,21,16,0.675,0.681,4:13
+1,3:30,LAC,Amir Coffey,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,23,18,0.716,0.679,3:38
+1,3:25,LAC,Amir Coffey,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,23,18,0.716,0.716,3:30
+1,2:57,LAC,Terance Mann,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,23,18,0.717,0.677,3:02
+1,2:43,GS,Klay Thompson,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,24,20,0.608,0.657,2:43
+1,2:16,GS,Lester Quinones,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,26,20,0.679,0.68,2:27
+1,1:36,LAC,Norman Powell,Offensive Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,28,20,0.754,0.728,1:46
+1,55.2,LAC,Mason Plumlee,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,28,22,0.745,0.706,1:00
+1,9.2,GS,Lester Quinones,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,30,22,0.694,0.73,22.0
+1,2.2,GS,Draymond Green,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,30,22,0.695,0.694,9.2
+2,11:20,GS,Lester Quinones,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,30,23,0.709,0.709,11:22
+2,8:41,LAC,Brandon Boston,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,35,29,0.713,0.716,8:48
+2,6:53,GS,Dario Saric,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,43,33,0.755,0.79,7:04
+2,6:24,GS,Dario Saric,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,43,35,0.705,0.744,6:28
+2,3:21,LAC,Brandon Boston,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,50,43,0.753,0.752,3:26
+2,1:36,GS,Jonathan Kuminga,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,56,43,0.855,0.87,1:36
+2,1:08,GS,Stephen Curry,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,59,44,0.879,0.904,1:21
+2,50.0,GS,Stephen Curry,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,59,45,0.863,0.888,50.1
+2,42.1,LAC,Paul George,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,59,47,0.899,0.874,50.0
+3,9:51,GS,Andrew Wiggins,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,62,58,0.619,0.681,9:51
+3,9:41,GS,Stephen Curry,Offensive Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,62,59,0.611,0.647,9:51
+3,9:35,LAC,Ivica Zubac,Offensive Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,62,59,0.648,0.611,9:41
+3,6:58,GS,Brandin Podziemski,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,69,63,0.723,0.723,7:07
+3,5:47,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,James Williams,Scott Twardoski,John Butler,GS,72,65,0.784,0.792,5:53
+3,5:22,GS,Stephen Curry,Defensive 3-Seconds Technical,Foul,James Williams,Scott Twardoski,John Butler,GS,75,65,0.855,0.848,5:38
+3,5:04,LAC,Russell Westbrook,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,75,68,0.837,0.795,5:16
+3,4:24,GS,Moses Moody,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,80,71,0.807,0.829,4:24
+3,4:16,LAC,Paul George,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,82,73,0.872,0.829,4:16
+3,2:49,GS,Gary Payton II,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,89,76,0.898,0.924,3:00
+3,2:23,GS,Draymond Green,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,89,79,0.829,0.868,2:36
+4,10:42,GS,Draymond Green,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,102,90,0.92,0.952,10:42
+4,10:18,GS,Draymond Green,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,102,91,0.897,0.94,10:26
+4,10:18,LAC,LAC,Technical Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,102,91,0.948,0.897,10:18
+4,9:59,LAC,Paul George,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,103,92,0.943,0.938,10:18
+4,9:36,LAC,LAC,Technical Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,103,94,0.923,0.9,10:18
+4,9:36,LAC,Mason Plumlee,Flagrant Foul Type 1,Foul,James Williams,Scott Twardoski,John Butler,GS,103,94,0.905,0.923,9:36
+4,9:29,LAC,Paul George,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,105,94,0.96,0.93,9:29
+4,9:36,GS,Jonathan Kuminga,Technical Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,103,94,0.865,0.94,8:36
+4,8:27,GS,Klay Thompson,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,106,98,0.831,0.899,8:27
+4,7:46,GS,Kevon Looney,Defensive 3-Seconds Technical,Foul,James Williams,Scott Twardoski,John Butler,GS,106,99,0.849,0.833,8:00
+4,7:40,GS,Gary Payton II,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,106,100,0.719,0.883,9:36
+4,5:08,LAC,Paul George,Offensive Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,110,111,0.456,0.383,5:17
+4,3:07,LAC,Paul George,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,115,116,0.587,0.447,3:22
+4,2:54,GS,Andrew Wiggins,Personal Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,115,116,0.263,0.376,2:54
+4,2:47,GS,Draymond Green,Offensive Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,115,118,0.226,0.3,2:54
+4,48.1,GS,Jonathan Kuminga,Shooting Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,120,124,0.048,0.113,55.1
+4,39.0,GS,Klay Thompson,Personal Take Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,123,126,0.074,0.142,39.1
+4,4.1,GS,Andrew Wiggins,Personal Take Foul,Foul,James Williams,Scott Twardoski,John Butler,GS,125,128,0.012,0.048,6.0

@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:04,SA,Victor Wembanyama,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,2,4,0.317,0.316,9:05
+1,6:06,SA,Cedi Osman,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,10,7,0.427,0.447,6:06
+1,5:08,SA,Malaki Branham,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,12,10,0.424,0.423,5:24
+1,4:38,SA,Doug McDermott,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,12,12,0.355,0.375,4:38
+1,3:05,TOR,Gradey Dick,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,15,14,0.433,0.431,3:05
+1,2:57,TOR,OG Anunoby,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,18,14,0.537,0.487,2:57
+1,45.1,TOR,Scottie Barnes,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,25,19,0.627,0.582,1:00
+2,9:11,TOR,OG Anunoby,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,30,25,0.574,0.573,9:14
+2,6:12,SA,Malaki Branham,Loose Ball Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,37,27,0.709,0.709,6:12
+2,4:09,SA,Malaki Branham,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,44,27,0.856,0.882,4:18
+2,2:42,SA,Doug McDermott,Offensive Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,46,29,0.892,0.905,3:02
+2,8.1,SA,Tre Jones,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,54,35,0.913,0.934,22.1
+3,9:20,TOR,Jakob Poeltl,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,61,46,0.932,0.911,9:38
+3,7:45,SA,Keldon Johnson,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,69,50,0.949,0.966,7:45
+3,6:34,SA,Jeremy Sochan,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,71,54,0.921,0.942,6:41
+3,4:18,TOR,Jakob Poeltl,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,75,61,0.948,0.93,4:31
+3,4:07,SA,Cedi Osman,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,76,61,0.931,0.931,4:18
+3,3:59,SA,Cedi Osman,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,76,61,0.908,0.931,4:07
+3,3:17,TOR,Otto Porter Jr.,Loose Ball Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,76,64,0.906,0.905,3:17
+3,1:37,SA,Tre Jones,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,81,66,0.939,0.96,1:37
+3,1:00,SA,Charles Bassey,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,83,67,0.947,0.963,1:18
+3,4.2,SA,Cedi Osman,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,86,71,0.94,0.966,30.1
+4,10:15,TOR,Malachi Flynn,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,90,78,0.953,0.948,10:18
+4,9:20,SA,Malaki Branham,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,93,78,0.959,0.942,9:21
+4,4:34,TOR,OG Anunoby,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,98,94,0.804,0.791,4:44
+4,3:53,TOR,Dennis Schroder,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,100,94,0.91,0.894,4:04
+4,3:48,TOR,Otto Porter Jr.,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,100,94,0.948,0.91,3:53
+4,2:49,SA,Zach Collins,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,104,97,0.865,0.926,2:57
+4,2:17,SA,Tre Jones,Shooting Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,104,99,0.745,0.865,2:25
+4,2:00,TOR,Pascal Siakam,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,104,101,0.897,0.806,2:17
+4,14.1,TOR,Pascal Siakam,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,108,108,0.804,0.544,16.1
+5,24.1,SA,Tre Jones,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,116,120,0.022,0.065,24.1
+5,16.1,SA,Zach Collins,Personal Take Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,116,120,0.015,0.022,24.1
+5,0.2,SA,Zach Collins,Personal Foul,Foul,Zach Zarba,Dedric Taylor,Che Flores,SA,116,121,0.001,0.01,11.0

@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:35,DEN,Nikola Jokic,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,2,0,0.824,0.8,11:35
+1,9:59,PHI,Joel Embiid,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,6,7,0.707,0.739,10:12
+1,9:29,PHI,De'Anthony Melton,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,9,9,0.725,0.756,9:50
+1,7:47,DEN,Aaron Gordon,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,11,14,0.72,0.704,7:47
+1,6:00,PHI,P.J. Tucker,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,13,17,0.608,0.645,6:05
+1,5:46,DEN,Michael Porter Jr.,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,13,18,0.681,0.645,6:00
+2,11:10,DEN,Jeff Green,Defensive 3-Seconds Technical,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,32,38,0.555,0.566,11:20
+2,9:43,DEN,Bones Hyland,Personal Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,36,42,0.551,0.555,9:59
+2,5:36,DEN,Bruce Brown,Flagrant Foul Type 1,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,47,50,0.597,0.595,5:36
+2,3:57,PHI,De'Anthony Melton,Personal Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,50,55,0.499,0.609,5:36
+2,2:48,PHI,Montrezl Harrell,Personal Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,53,61,0.382,0.383,2:58
+2,1:52,DEN,Jamal Murray,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,53,66,0.291,0.218,2:03
+3,11:01,PHI,P.J. Tucker,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,63,73,0.225,0.271,11:11
+3,10:24,PHI,De'Anthony Melton,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,65,75,0.219,0.266,10:45
+3,9:44,DEN,Michael Porter Jr.,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,67,77,0.342,0.289,9:49
+3,6:01,PHI,James Harden,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,79,88,0.215,0.274,6:01
+3,5:18,DEN,Nikola Jokic,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,79,89,0.282,0.232,5:27
+3,4:29,DEN,DEN,Technical Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,81,89,0.319,0.252,4:29
+3,4:08,PHI,P.J. Tucker,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,82,89,0.23,0.284,4:18
+3,3:28,PHI,P.J. Tucker,Personal Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,84,90,0.255,0.315,3:39
+3,3:28,PHI,P.J. Tucker,Technical Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,84,90,0.284,0.255,3:28
+3,2:55,PHI,PHI,Technical Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,84,95,0.118,0.165,2:55
+3,1:59,PHI,PHI,Technical Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,84,99,0.041,0.051,2:08
+3,31.1,DEN,Jamal Murray,Offensive Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,90,99,0.194,0.164,55.0
+3,24.1,DEN,Jeff Green,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,92,99,0.306,0.228,24.1
+3,0.2,DEN,Bruce Brown,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,93,99,0.381,0.307,4.0
+4,9:09,PHI,Montrezl Harrell,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,98,104,0.147,0.217,9:19
+4,8:53,DEN,Jeff Green,Defensive 3-Seconds Technical,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,98,106,0.155,0.169,9:09
+4,7:46,PHI,Tobias Harris,Personal Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,103,106,0.32,0.34,7:58
+4,6:19,PHI,Tyrese Maxey,Loose Ball Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,108,108,0.474,0.496,6:19
+4,2:04,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,118,112,0.971,0.94,2:07
+4,17.1,DEN,Jamal Murray,Personal Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,125,119,0.997,0.982,23.1
+4,16.0,DEN,Kentavious Caldwell-Pope,Personal Take Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,125,119,0.997,0.997,17.1
+4,11.2,PHI,Tobias Harris,Personal Take Foul,Foul,John Goble,Brian Forte,Dedric Taylor,PHI,126,119,0.966,0.989,15.1

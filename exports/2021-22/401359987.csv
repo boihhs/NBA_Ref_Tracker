@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,CHI,Zach LaVine,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,0,0,0.544,0.585,12:00
+1,7:39,CHI,DeMar DeRozan,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,13,7,0.683,0.718,7:42
+1,7:14,CHI,Zach LaVine,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,16,9,0.706,0.738,7:27
+1,7:02,DAL,Dwight Powell,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,16,11,0.749,0.717,7:14
+1,6:45,CHI,Lonzo Ball,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,17,11,0.701,0.717,6:59
+1,4:54,DAL,Reggie Bullock Jr.,Personal Take Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,22,13,0.799,0.799,4:54
+1,3:40,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,24,15,0.779,0.779,3:47
+1,3:00,DAL,Willie Cauley-Stein,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,24,19,0.751,0.718,3:05
+1,2:14,CHI,Alex Caruso,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,26,23,0.623,0.666,2:14
+1,1:36,DAL,Sterling Brown,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,26,24,0.658,0.642,1:36
+1,2.7,CHI,Derrick Jones Jr.,Personal Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,32,32,0.512,0.556,6.9
+2,8:59,CHI,DeMar DeRozan,Personal Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,39,41,0.489,0.489,8:59
+2,8:08,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,39,46,0.351,0.504,8:59
+2,6:37,CHI,Zach LaVine,Personal Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,44,46,0.481,0.483,6:53
+2,4:46,CHI,Javonte Green,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,48,50,0.429,0.475,4:49
+2,2:50,CHI,Lonzo Ball,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,53,51,0.578,0.603,3:03
+2,2:42,DAL,Kristaps Porzingis,Personal Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,53,52,0.603,0.603,2:50
+2,1:07,DAL,Kristaps Porzingis,Offensive Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,60,52,0.806,0.78,1:27
+2,37.1,DAL,Kristaps Porzingis,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,60,54,0.791,0.754,55.4
+3,11:48,DAL,Kristaps Porzingis,Defensive 3-Seconds Technical,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,61,54,0.776,0.766,12:00
+3,9:01,CHI,Javonte Green,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,71,63,0.748,0.79,9:21
+3,8:03,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,73,66,0.794,0.795,8:18
+3,3:24,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,83,78,0.753,0.754,3:29
+3,3:17,DAL,Dwight Powell,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,83,78,0.802,0.753,3:24
+3,2:37,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,88,78,0.835,0.872,2:49
+3,1:28,CHI,DeMar DeRozan,Personal Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,90,80,0.843,0.879,1:46
+3,1:17,DAL,Jalen Brunson,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,92,80,0.931,0.923,1:17
+4,10:56,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,98,83,0.988,0.98,11:08
+4,9:56,DAL,Sterling Brown,Personal Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,100,85,0.985,0.984,9:56
+4,5:56,DAL,Tim Hardaway Jr.,Personal Take Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,109,94,0.995,0.994,6:02
+4,5:17,DAL,Kristaps Porzingis,Personal Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,111,94,0.999,0.998,5:25
+4,1:50,CHI,Zach LaVine,Technical Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,115,101,0.998,0.999,1:50
+4,1:18,CHI,Alex Caruso,Shooting Foul,Foul,Zach Zarba,Michael Smith,Che Flores,CHI,115,101,0.998,0.999,1:33

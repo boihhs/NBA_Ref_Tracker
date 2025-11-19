@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:23,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,7,7,0.863,0.842,10:23
+1,10:13,HOU,Alperen Sengun,Offensive Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,8,7,0.866,0.853,10:23
+1,8:53,MEM,Xavier Tillman,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,13,12,0.836,0.846,8:56
+1,8:00,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,15,13,0.885,0.869,8:01
+1,6:42,MEM,Desmond Bane,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,21,15,0.897,0.897,6:57
+1,5:28,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,21,19,0.876,0.858,5:33
+1,2:59,HOU,Jabari Smith Jr.,Offensive Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,30,28,0.847,0.833,3:05
+1,2:31,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,30,28,0.806,0.832,2:49
+1,44.2,HOU,Tari Eason,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,36,32,0.876,0.854,44.2
+2,11:50,HOU,KJ Martin,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,39,34,0.886,0.863,11:50
+2,11:38,MEM,Kenneth Lofton Jr.,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,40,34,0.856,0.876,11:50
+2,11:05,MEM,John Konchar,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,40,37,0.818,0.847,11:05
+2,10:49,HOU,Usman Garuba,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,42,38,0.87,0.845,10:49
+2,10:23,MEM,Kenneth Lofton Jr.,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,44,40,0.819,0.844,10:32
+2,9:47,HOU,Usman Garuba,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,46,45,0.806,0.806,9:57
+2,8:11,MEM,Ja Morant,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,48,45,0.787,0.816,8:19
+2,2:19,MEM,Santi Aldama,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,69,59,0.899,0.92,2:19
+2,1:51,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,69,61,0.869,0.895,1:51
+3,11:28,MEM,David Roddy,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,77,64,0.94,0.942,11:42
+3,10:39,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,77,67,0.936,0.92,10:56
+3,9:42,MEM,Xavier Tillman,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,79,71,0.874,0.875,9:42
+3,7:12,MEM,Xavier Tillman,Offensive Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,85,82,0.75,0.783,7:33
+3,6:20,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,85,85,0.731,0.682,6:21
+3,6:05,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,87,87,0.613,0.68,6:05
+3,3:28,MEM,Kenneth Lofton Jr.,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,94,90,0.716,0.767,3:45
+3,1:20,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,98,92,0.889,0.854,1:40
+3,45.0,HOU,Tari Eason,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,100,94,0.89,0.856,1:03
+4,11:27,HOU,Usman Garuba,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,101,98,0.771,0.763,11:43
+4,11:15,HOU,Usman Garuba,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,101,98,0.827,0.771,11:27
+4,10:36,MEM,Kenneth Lofton Jr.,Loose Ball Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,102,98,0.758,0.765,10:36
+4,10:25,HOU,Daishen Nix,Offensive Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,102,98,0.804,0.758,10:36
+4,10:18,HOU,Daishen Nix,Technical Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,102,98,0.828,0.804,10:25
+4,9:13,HOU,Usman Garuba,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,103,100,0.778,0.765,9:24
+4,8:39,HOU,Usman Garuba,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,106,100,0.917,0.877,8:46
+4,5:33,MEM,John Konchar,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,111,108,0.676,0.793,5:33
+4,4:38,HOU,Jalen Green,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,111,112,0.64,0.536,4:58
+4,4:20,MEM,Tyus Jones,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,113,112,0.462,0.6,4:38
+4,3:43,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,115,113,0.53,0.815,6:24
+4,1:52,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,117,116,0.776,0.657,2:08
+4,1:38,HOU,Alperen Sengun,Loose Ball Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,118,116,0.844,0.744,1:38
+4,56.1,MEM,David Roddy,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,122,116,0.851,0.923,1:08
+4,33.1,MEM,Ja Morant,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,124,117,0.927,0.97,39.0
+4,24.1,HOU,Tari Eason,Personal Take Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,124,119,0.987,0.951,33.1
+4,21.2,MEM,Ja Morant,Personal Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,126,119,0.944,0.981,24.1
+4,20.1,HOU,Tari Eason,Personal Take Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,126,121,0.99,0.965,21.2
+4,8.2,HOU,Tari Eason,Personal Take Foul,Foul,Pat Fraher,Sean Corbin,Nate Green,MEM,128,123,0.997,0.985,10.1

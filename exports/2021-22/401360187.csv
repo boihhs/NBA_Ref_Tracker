@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:00,BKN,DeAndre' Bembry,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,7,4,0.516,0.518,9:08
+1,7:20,BKN,DeAndre' Bembry,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,11,6,0.573,0.575,7:26
+1,5:05,BKN,Kevin Durant,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,15,10,0.578,0.583,5:17
+1,4:40,DAL,Maxi Kleber,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,17,12,0.57,0.583,4:40
+1,3:50,DAL,Maxi Kleber,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,17,13,0.532,0.53,3:55
+2,11:18,BKN,Nic Claxton,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,29,23,0.63,0.631,11:29
+2,8:18,BKN,Nic Claxton,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,36,26,0.751,0.752,8:26
+2,7:54,DAL,Josh Green,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,36,29,0.622,0.674,7:54
+2,7:37,BKN,LaMarcus Aldridge,Loose Ball Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,36,30,0.645,0.616,7:38
+2,7:05,BKN,James Johnson,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,36,32,0.634,0.587,7:21
+2,6:55,DAL,Dwight Powell,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,38,32,0.572,0.617,7:05
+2,4:30,BKN,James Johnson,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,44,39,0.676,0.63,4:40
+2,3:07,DAL,Luka Doncic,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,48,39,0.729,0.725,3:18
+2,2:10,DAL,Luka Doncic,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,52,44,0.655,0.703,2:19
+3,10:35,BKN,DeAndre' Bembry,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,64,52,0.856,0.854,10:55
+3,10:25,DAL,Dorian Finney-Smith,Offensive Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,64,52,0.837,0.858,10:25
+3,9:40,BKN,LaMarcus Aldridge,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,64,52,0.862,0.863,9:42
+3,8:58,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,64,52,0.895,0.866,9:09
+3,8:04,BKN,DeAndre' Bembry,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,66,54,0.9,0.871,8:18
+3,6:19,DAL,Kristaps Porzingis,Personal Take Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,71,59,0.864,0.864,6:21
+3,5:27,BKN,James Harden,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,71,61,0.834,0.848,5:27
+3,5:15,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,73,61,0.836,0.871,5:27
+3,4:57,BKN,Bruce Brown,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,75,63,0.886,0.875,4:57
+3,4:15,BKN,Bruce Brown,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,76,65,0.911,0.88,4:30
+3,3:24,DAL,Luka Doncic,Technical Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,78,69,0.788,0.811,3:24
+3,2:27,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,80,70,0.806,0.849,2:32
+3,2:13,BKN,Bruce Brown,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,82,72,0.895,0.852,2:13
+3,51.1,BKN,James Johnson,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,86,75,0.938,0.912,58.8
+3,32.0,DAL,Maxi Kleber,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,86,75,0.854,0.89,49.2
+4,6:45,DAL,Luka Doncic,Personal Take Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,90,89,0.509,0.518,6:45
+4,6:41,DAL,Luka Doncic,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,90,89,0.402,0.509,6:45
+4,6:09,BKN,James Johnson,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,90,91,0.558,0.447,6:14
+4,5:02,BKN,Nic Claxton,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,94,93,0.711,0.59,5:20
+4,4:07,BKN,Nic Claxton,Loose Ball Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,95,95,0.56,0.532,4:07
+4,3:15,BKN,James Harden,Personal Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,97,95,0.814,0.702,3:29
+4,1:16,BKN,James Johnson,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,97,100,0.44,0.296,1:23
+4,39.2,DAL,Kristaps Porzingis,Loose Ball Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,99,102,0.073,0.159,39.3
+4,20.7,DAL,Luka Doncic,Shooting Foul,Foul,Zach Zarba,Tom Washington,Aaron Smith,DAL,99,102,0.049,0.073,39.2

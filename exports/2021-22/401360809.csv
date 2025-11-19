@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:38,UTAH,Mike Conley,Personal Take Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,0,0,0.934,0.934,9:39
+1,8:22,POR,Brandon Williams,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,2,2,0.944,0.936,8:31
+1,7:12,POR,CJ Elleby,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,7,2,0.958,0.958,7:15
+1,6:47,UTAH,Hassan Whiteside,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,9,2,0.961,0.962,6:59
+1,6:12,UTAH,Donovan Mitchell,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,12,4,0.964,0.964,6:20
+1,5:45,POR,Trendon Watford,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,12,4,0.967,0.967,5:45
+1,4:47,POR,Josh Hart,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,14,6,0.971,0.966,4:54
+1,1:46,POR,Keljin Blevins,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,25,10,0.986,0.983,2:01
+1,1.9,POR,Keljin Blevins,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,31,15,0.987,0.984,6.8
+2,10:00,POR,Keon Johnson,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,33,19,0.982,0.979,10:15
+2,9:05,POR,Greg Brown III,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,33,21,0.971,0.971,9:11
+2,8:54,POR,Keon Johnson,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,33,21,0.975,0.971,9:05
+2,8:25,UTAH,Rudy Gay,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,35,21,0.974,0.974,8:28
+2,8:13,UTAH,Rudy Gobert,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,35,21,0.971,0.974,8:14
+2,7:11,UTAH,Jordan Clarkson,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,39,22,0.982,0.983,7:23
+2,6:10,POR,CJ Elleby,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,42,22,0.992,0.99,6:17
+2,5:19,UTAH,Donovan Mitchell,Personal Take Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,46,24,0.989,0.992,5:19
+2,5:03,UTAH,Royce O'Neale,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,46,24,0.989,0.989,5:19
+2,4:52,POR,Ben McLemore,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,46,26,0.992,0.99,5:03
+2,4:00,UTAH,Hassan Whiteside,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,49,26,0.991,0.993,4:16
+2,2:10,POR,Drew Eubanks,Personal Take Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,54,27,0.998,0.997,2:10
+3,10:41,UTAH,Mike Conley,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,68,37,0.999,0.999,10:53
+3,10:22,UTAH,Rudy Gobert,Offensive Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,68,37,0.999,0.999,10:26
+3,10:02,POR,Brandon Williams,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,68,37,0.999,0.999,10:03
+3,9:43,UTAH,Rudy Gobert,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,68,37,0.998,0.999,9:50
+3,9:06,POR,Brandon Williams,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,68,37,0.999,0.999,9:22
+3,5:48,UTAH,Rudy Gobert,Loose Ball Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,80,39,0.999,0.999,5:48
+3,4:46,POR,Ben McLemore,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,85,43,0.999,0.999,4:46
+3,4:18,POR,Trendon Watford,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,86,43,0.999,0.999,4:27
+3,3:55,POR,Greg Brown III,Offensive Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,88,43,0.999,0.999,4:05
+3,3:32,POR,Greg Brown III,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,88,43,0.999,0.999,3:55
+3,2:34,POR,Ben McLemore,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,92,43,0.999,0.999,2:43
+3,2:08,UTAH,Rudy Gay,Offensive Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,94,43,0.999,0.999,2:19
+3,39.6,UTAH,Hassan Whiteside,Technical Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,94,48,0.999,0.999,40.7
+3,31.2,POR,Greg Brown III,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,94,49,0.999,0.999,39.6
+4,10:18,UTAH,Hassan Whiteside,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,99,52,0.999,0.999,10:37
+4,9:55,POR,Trendon Watford,Loose Ball Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,99,54,0.999,0.999,9:55
+4,9:49,UTAH,Hassan Whiteside,Offensive Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,99,54,0.999,0.999,9:55
+4,9:35,UTAH,Jared Butler,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,99,54,0.999,0.999,9:49
+4,9:18,UTAH,Udoka Azubuike,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,99,56,0.999,0.999,9:21
+4,8:49,POR,CJ Elleby,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,99,58,0.999,0.999,8:56
+4,8:02,UTAH,Nickeil Alexander-Walker,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,102,60,0.999,0.999,8:02
+4,6:52,UTAH,Udoka Azubuike,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,104,63,0.999,0.999,6:57
+4,6:40,POR,Elijah Hughes,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,104,65,0.999,0.999,6:52
+4,5:40,UTAH,Eric Paschall,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,106,71,0.999,0.999,5:49
+4,3:51,UTAH,Eric Paschall,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Ray Acosta,UTAH,113,76,0.999,0.999,4:05

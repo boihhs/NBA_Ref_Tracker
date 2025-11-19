@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:30,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,4,2,0.539,0.539,10:33
+1,9:50,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,4,6,0.436,0.461,9:50
+1,7:58,CHA,Miles Bridges,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,7,12,0.381,0.384,8:15
+1,7:41,CHA,Mason Plumlee,Offensive Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,9,12,0.433,0.409,7:50
+1,5:30,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,11,14,0.408,0.406,5:33
+1,4:57,CHA,Terry Rozier,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,13,16,0.453,0.406,4:57
+1,3:09,CHA,Ish Smith,Loose Ball Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,16,21,0.377,0.377,3:09
+1,2:52,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,16,21,0.311,0.435,7:07
+1,2:29,OKC,Tre Mann,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,18,22,0.337,0.376,2:34
+1,1:37,OKC,Aleksej Pokusevski,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,18,27,0.231,0.271,1:37
+1,28.7,CHA,Ish Smith,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,18,32,0.195,0.164,44.3
+1,0.2,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,18,32,0.145,0.132,0.2
+2,11:26,OKC,Jeremiah Robinson-Earl,Offensive Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,18,34,0.114,0.126,11:32
+2,11:07,CHA,Mason Plumlee,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,18,34,0.15,0.125,11:12
+2,10:55,OKC,Ty Jerome,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,20,34,0.143,0.142,10:59
+2,10:36,OKC,Ty Jerome,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,20,36,0.11,0.11,10:36
+2,8:40,CHA,Mason Plumlee,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,26,40,0.143,0.135,8:40
+2,8:03,CHA,Miles Bridges,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,26,42,0.116,0.117,8:03
+2,7:54,CHA,Cody Martin,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,26,42,0.14,0.116,8:03
+2,7:16,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,30,45,0.142,0.127,7:18
+2,6:14,OKC,Josh Giddey,Offensive Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,33,48,0.108,0.124,6:29
+2,5:15,OKC,Isaiah Roby,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,38,48,0.167,0.199,5:39
+2,3:39,CHA,Ish Smith,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,38,57,0.08,0.062,3:42
+2,1:49,OKC,Isaiah Roby,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,45,57,0.141,0.141,1:49
+3,11:14,OKC,Gabriel Deck,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,48,69,0.022,0.032,11:14
+3,10:35,CHA,Gordon Hayward,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,48,73,0.017,0.012,10:45
+3,10:08,CHA,LaMelo Ball,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,49,73,0.015,0.015,10:08
+3,9:40,OKC,Theo Maledon,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,52,73,0.019,0.022,9:57
+3,8:26,OKC,Theo Maledon,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,57,74,0.047,0.045,8:26
+3,8:15,CHA,Mason Plumlee,Offensive Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,57,74,0.056,0.047,8:26
+3,7:39,CHA,Terry Rozier,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,57,76,0.035,0.035,7:50
+3,5:19,OKC,Mike Muscala,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,64,80,0.036,0.042,5:21
+3,5:11,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,64,81,0.059,0.043,5:19
+3,4:58,CHA,Nick Richards,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,64,81,0.058,0.059,5:11
+3,4:34,OKC,Ty Jerome,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,66,81,0.035,0.049,4:34
+3,4:05,CHA,Cody Martin,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,66,83,0.053,0.037,4:05
+3,2:31,OKC,Tre Mann,Offensive Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,68,85,0.023,0.031,2:40
+3,2:10,OKC,Josh Giddey,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,68,85,0.014,0.021,2:10
+3,51.0,OKC,Ty Jerome,Offensive Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,71,91,0.006,0.009,51.9
+4,11:08,CHA,JT Thor,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,71,93,0.006,0.004,11:21
+4,10:45,CHA,James Bouknight,Offensive Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,75,93,0.011,0.008,10:53
+4,8:17,CHA,Jalen McDaniels,Personal Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,78,95,0.009,0.008,8:20
+4,7:19,OKC,Gabriel Deck,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,78,97,0.001,0.002,7:19
+4,6:56,OKC,Mamadi Diakite,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,80,98,0.001,0.002,6:56
+4,6:42,CHA,Cody Martin,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,80,99,0.005,0.002,6:56
+4,3:05,OKC,Mamadi Diakite,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,87,106,0.001,0.001,3:11
+4,3:04,OKC,Mamadi Diakite,Loose Ball Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,87,107,0.001,0.001,3:04
+4,2:44,CHA,James Bouknight,Shooting Foul,Foul,Karl Lane,Gediminas Petraitis,J.B. DeRosa,OKC,87,107,0.001,0.001,2:51

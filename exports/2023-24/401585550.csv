@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:07,UTAH,Kris Dunn,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,22,12,0.916,0.898,5:07
+1,3:59,UTAH,Luka Samanic,Loose Ball Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,26,14,0.926,0.926,4:02
+1,3:04,UTAH,Luka Samanic,Offensive Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,31,16,0.947,0.941,3:17
+1,2:55,UTAH,Jordan Clarkson,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,31,16,0.948,0.947,3:04
+1,2:22,DEN,Aaron Gordon,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,34,16,0.955,0.959,2:22
+1,2:06,UTAH,Talen Horton-Tucker,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,34,17,0.967,0.959,2:19
+1,1:19,DEN,Christian Braun,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,36,17,0.955,0.964,1:35
+2,9:39,UTAH,Kris Dunn,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,47,24,0.984,0.984,9:40
+2,6:53,UTAH,Kris Dunn,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,54,29,0.992,0.99,7:13
+2,6:40,DEN,Christian Braun,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,57,29,0.993,0.993,6:53
+2,3:36,DEN,Aaron Gordon,Offensive Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,67,32,0.997,0.998,3:45
+2,3:26,DEN,Aaron Gordon,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,67,34,0.997,0.998,3:36
+2,5.0,UTAH,John Collins,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,76,44,0.999,0.998,20.0
+3,11:47,DEN,Nikola Jokic,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,78,44,0.998,0.998,12:00
+3,9:15,DEN,Aaron Gordon,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,84,52,0.999,0.999,9:15
+3,7:28,DEN,Michael Porter Jr.,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,90,60,0.998,0.999,7:28
+3,7:00,DEN,Jamal Murray,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,92,61,0.998,0.999,7:09
+3,6:31,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,94,61,0.999,0.999,6:45
+3,4:46,UTAH,Keyonte George,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,94,67,0.999,0.998,5:03
+3,4:32,DEN,Peyton Watson,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,95,69,0.997,0.998,4:32
+3,4:19,DEN,Christian Braun,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,95,72,0.993,0.996,4:19
+3,3:29,DEN,Christian Braun,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,95,74,0.988,0.992,3:30
+3,2:10,UTAH,Collin Sexton,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,97,82,0.974,0.974,2:31
+4,10:42,UTAH,Walker Kessler,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,106,90,0.993,0.988,10:52
+4,10:11,UTAH,Kris Dunn,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,108,92,0.991,0.99,10:20
+4,9:42,DEN,Zeke Nnaji,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,110,94,0.982,0.991,9:42
+4,8:29,DEN,Christian Braun,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,115,97,0.99,0.994,8:45
+4,8:19,UTAH,Collin Sexton,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,115,99,0.996,0.993,8:29
+4,8:03,DEN,Justin Holiday,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,116,99,0.993,0.993,8:17
+4,7:39,UTAH,Luka Samanic,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,116,99,0.998,0.996,7:47
+4,5:29,DEN,Christian Braun,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,126,106,0.998,0.999,5:32
+4,4:50,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,128,107,0.999,0.999,4:54
+4,4:23,DEN,Zeke Nnaji,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,128,111,0.996,0.999,4:23
+4,2:37,DEN,Jamal Murray,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,134,115,0.999,0.999,2:37
+4,2:32,UTAH,Keyonte George,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,134,116,0.999,0.999,2:37
+4,51.1,DEN,Julian Strawther,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,140,118,0.999,0.999,57.1
+4,29.1,DEN,Hunter Tyson,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Mousa Dagher,DEN,142,119,0.999,0.999,37.1

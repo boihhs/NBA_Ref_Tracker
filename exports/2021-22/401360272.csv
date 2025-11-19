@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:44,CHI,Lonzo Ball,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,2,2,0.606,0.645,10:55
+1,9:20,LAL,Isaiah Thomas,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,4,2,0.721,0.707,9:20
+2,11:52,LAL,Rajon Rondo,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,28,22,0.776,0.767,12:00
+2,11:29,CHI,DeMar DeRozan,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,30,22,0.766,0.798,11:45
+2,8:53,LAL,Carmelo Anthony,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,33,33,0.665,0.626,9:01
+2,4:35,LAL,DeAndre Jordan,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,48,41,0.814,0.776,4:35
+2,3:52,LAL,DeAndre Jordan,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,49,43,0.809,0.775,3:54
+2,3:39,CHI,DeMar DeRozan,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,49,43,0.751,0.751,3:50
+2,3:01,CHI,Javonte Green,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,52,46,0.749,0.751,3:17
+2,2:36,LAL,Wayne Ellington,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,52,48,0.764,0.726,2:46
+2,1:23,LAL,LeBron James,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,57,52,0.79,0.753,1:27
+2,28.9,LAL,Carmelo Anthony,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,59,57,0.71,0.661,35.2
+3,11:10,LAL,Wayne Ellington,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,63,59,0.709,0.692,11:10
+3,10:14,CHI,Alex Caruso,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,64,59,0.702,0.725,10:14
+3,10:08,LAL,Russell Westbrook,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,64,61,0.693,0.696,10:14
+3,9:21,CHI,Alex Caruso,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,64,63,0.59,0.59,9:21
+3,9:01,LAL,Wayne Ellington,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,64,63,0.624,0.627,9:03
+3,8:20,LAL,Russell Westbrook,Technical Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,64,67,0.453,0.474,8:20
+3,5:22,LAL,Isaiah Thomas,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,70,72,0.559,0.496,5:25
+3,5:03,CHI,Javonte Green,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,71,72,0.43,0.493,5:07
+3,4:12,LAL,DeAndre Jordan,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,75,76,0.565,0.488,4:12
+3,1:11,LAL,DeAndre Jordan,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,82,83,0.592,0.522,1:23
+3,57.5,CHI,Alfonzo McKinnie,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,83,83,0.445,0.522,1:09
+3,10.7,CHI,Coby White,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,83,83,0.441,0.521,31.9
+4,11:51,CHI,Lonzo Ball,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,83,86,0.314,0.42,11:51
+4,11:39,LAL,LeBron James,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,83,87,0.371,0.362,11:51
+4,11:01,LAL,Russell Westbrook,Personal Take Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,83,87,0.373,0.358,11:01
+4,10:33,CHI,Tony Bradley,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,85,89,0.308,0.359,10:33
+4,10:20,LAL,Rajon Rondo,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,87,90,0.376,0.348,10:20
+4,9:20,CHI,Alfonzo McKinnie,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,92,92,0.407,0.512,9:36
+4,8:52,CHI,Alfonzo McKinnie,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,94,93,0.459,0.555,9:06
+4,8:29,CHI,Tyler Cook,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,94,94,0.4,0.485,8:34
+4,8:16,LAL,Isaiah Thomas,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,94,94,0.642,0.546,8:25
+4,7:38,LAL,Isaiah Thomas,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,96,94,0.747,0.672,7:47
+4,6:05,LAL,Russell Westbrook,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,98,96,0.651,0.682,6:11
+4,3:58,CHI,Javonte Green,Personal Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,103,104,0.292,0.399,3:58
+4,3:04,LAL,LeBron James,Offensive Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,105,106,0.472,0.389,3:18
+4,2:24,CHI,Lonzo Ball,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,107,106,0.596,0.549,2:48
+4,2:10,LAL,LeBron James,Shooting Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,107,108,0.6,0.466,2:24
+4,15.6,LAL,Rajon Rondo,Personal Take Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,111,110,0.863,0.697,17.8
+4,2.7,LAL,LeBron James,Personal Take Foul,Foul,Tony Brothers,Tyler Ford,Jenna Schroeder,CHI,113,110,0.992,0.979,2.7

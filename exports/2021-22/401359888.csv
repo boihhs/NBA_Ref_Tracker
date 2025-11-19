@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:42,LAC,Ivica Zubac,Personal Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,2,2,0.751,0.752,9:47
+1,9:26,LAC,Paul George,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,2,2,0.758,0.749,9:26
+1,8:21,LAC,Eric Bledsoe,Loose Ball Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,2,3,0.722,0.722,8:21
+1,7:07,CLE,Evan Mobley,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,4,7,0.727,0.696,7:24
+1,3:06,LAC,Luke Kennard,Loose Ball Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,9,15,0.518,0.562,3:06
+1,1:09,LAC,Isaiah Hartenstein,Loose Ball Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,11,15,0.561,0.602,1:09
+1,47.3,CLE,Ricky Rubio,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,11,19,0.537,0.516,53.9
+1,20.6,CLE,Lamar Stevens,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,12,21,0.526,0.482,32.6
+2,11:10,LAC,Terance Mann,Personal Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,16,25,0.438,0.439,11:27
+2,9:56,LAC,Justise Winslow,Offensive Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,18,27,0.425,0.453,9:58
+2,9:08,LAC,Paul George,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,18,31,0.291,0.323,9:08
+2,6:54,LAC,Eric Bledsoe,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,23,36,0.232,0.27,7:10
+2,6:08,CLE,Jarrett Allen,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,23,38,0.276,0.236,6:20
+2,4:54,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,29,40,0.255,0.256,5:04
+2,2:05,LAC,Ivica Zubac,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,35,45,0.258,0.305,2:12
+2,1:17,CLE,Lauri Markkanen,Personal Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,35,47,0.312,0.266,1:22
+3,11:59,LAC,Eric Bledsoe,Personal Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,40,47,0.38,0.402,12:00
+3,11:38,LAC,Paul George,Personal Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,40,47,0.378,0.38,11:59
+3,10:54,CLE,Evan Mobley,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,42,49,0.386,0.368,10:54
+3,10:40,CLE,Evan Mobley,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,42,49,0.459,0.405,10:50
+3,10:25,LAC,Reggie Jackson,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,43,51,0.347,0.366,10:25
+3,5:26,CLE,Ricky Rubio,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,55,63,0.328,0.263,5:26
+3,4:57,LAC,Reggie Jackson,Personal Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,56,63,0.238,0.333,4:58
+3,3:54,CLE,Lamar Stevens,Loose Ball Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,59,65,0.428,0.363,3:54
+3,3:00,LAC,Isaiah Hartenstein,Loose Ball Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,62,65,0.369,0.436,3:00
+3,1:18,LAC,Isaiah Hartenstein,Loose Ball Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,64,69,0.258,0.324,1:18
+3,27.8,LAC,Justise Winslow,Loose Ball Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,64,70,0.208,0.264,27.8
+4,11:20,LAC,Terance Mann,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,66,72,0.178,0.251,11:35
+4,11:04,CLE,Collin Sexton,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,68,74,0.335,0.236,11:04
+4,9:54,LAC,Terance Mann,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,68,78,0.058,0.095,10:09
+4,9:47,LAC,Ivica Zubac,Personal Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,68,80,0.048,0.051,9:47
+4,8:52,CLE,Ricky Rubio,Personal Take Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,68,82,0.026,0.03,8:53
+4,7:22,CLE,Evan Mobley,Loose Ball Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,70,82,0.05,0.045,7:22
+4,6:20,CLE,Jarrett Allen,Offensive Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,72,84,0.037,0.028,6:40
+4,5:44,LAC,Reggie Jackson,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,72,84,0.021,0.021,5:44
+4,5:07,LAC,Nicolas Batum,Personal Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,72,86,0.003,0.007,5:17
+4,4:52,CLE,Lamar Stevens,Personal Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,72,86,0.02,0.01,5:03
+4,51.9,LAC,Terance Mann,Shooting Foul,Foul,Derrick Collins,Tre Maddox,Mousa Dagher,LAC,77,90,0.001,0.001,51.9

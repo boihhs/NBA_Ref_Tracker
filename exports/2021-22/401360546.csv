@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:24,MIA,Jimmy Butler III,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,3,0,0.706,0.707,10:37
+1,5:10,MIA,Duncan Robinson,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,20,8,0.863,0.862,5:16
+1,5:04,MIA,Duncan Robinson,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,20,8,0.864,0.863,5:10
+1,4:12,MIA,Bam Adebayo,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,20,8,0.841,0.863,4:27
+1,3:32,MIA,Max Strus,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,20,11,0.788,0.816,3:35
+1,2:55,NY,Alec Burks,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,22,11,0.865,0.864,2:55
+1,2:37,NY,Taj Gibson,Loose Ball Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,22,11,0.865,0.865,2:37
+1,1:32,NY,Taj Gibson,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,26,13,0.899,0.878,1:32
+1,53.1,NY,Quentin Grimes,Defensive 3-Seconds Technical,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,27,13,0.9,0.903,1:04
+2,7:40,MIA,Max Strus,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,38,26,0.845,0.87,7:49
+2,7:40,MIA,Max Strus,Technical Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,38,26,0.858,0.845,7:40
+2,6:56,NY,Quentin Grimes,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,41,27,0.911,0.899,7:04
+2,6:38,NY,Mitchell Robinson,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,41,29,0.885,0.885,6:48
+2,6:20,NY,RJ Barrett,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,44,29,0.923,0.925,6:22
+2,5:25,NY,Mitchell Robinson,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,44,34,0.88,0.856,5:36
+2,4:26,NY,Kemba Walker,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,44,34,0.882,0.857,4:36
+2,3:58,NY,RJ Barrett,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,48,36,0.882,0.874,3:58
+2,3:19,NY,RJ Barrett,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,52,36,0.953,0.939,3:19
+2,3:00,MIA,Duncan Robinson,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,54,36,0.948,0.948,3:19
+2,2:32,MIA,P.J. Tucker,Offensive Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,54,36,0.95,0.957,2:40
+2,1:14,MIA,P.J. Tucker,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,58,39,0.948,0.96,1:21
+2,53.0,NY,Evan Fournier,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,58,42,0.956,0.946,1:06
+2,43.7,MIA,Jimmy Butler III,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,59,42,0.93,0.945,51.3
+3,11:34,NY,Julius Randle,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,59,46,0.915,0.913,11:42
+3,11:08,MIA,Gabe Vincent,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,61,46,0.909,0.929,11:20
+3,10:25,NY,Evan Fournier,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,63,48,0.948,0.932,10:25
+3,8:26,NY,Mitchell Robinson,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,70,50,0.986,0.981,8:34
+3,8:06,MIA,Bam Adebayo,Technical Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,72,50,0.982,0.985,8:06
+3,7:32,NY,Evan Fournier,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,72,51,0.99,0.986,7:36
+3,6:51,MIA,P.J. Tucker,Offensive Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,74,53,0.983,0.987,7:02
+3,5:11,NY,Julius Randle,Loose Ball Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,79,53,0.997,0.997,5:11
+3,4:54,MIA,Tyler Herro,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,81,53,0.998,0.998,5:11
+3,4:13,MIA,Duncan Robinson,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,81,57,0.994,0.996,4:13
+3,2:51,NY,Taj Gibson,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,86,58,0.999,0.999,3:03
+3,1:56,NY,Taj Gibson,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,88,64,0.998,0.997,2:14
+3,56.3,MIA,Jimmy Butler III,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,89,64,0.997,0.998,58.8
+3,13.4,MIA,Dewayne Dedmon,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,89,66,0.997,0.998,13.4
+4,10:06,NY,Obi Toppin,Personal Take Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,92,69,0.999,0.999,10:08
+4,8:08,NY,Immanuel Quickley,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,92,73,0.999,0.998,8:32
+4,7:55,MIA,Gabe Vincent,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,94,73,0.998,0.999,8:08
+4,7:42,MIA,Duncan Robinson,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,94,73,0.998,0.999,7:42
+4,6:48,NY,Mitchell Robinson,Personal Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,94,78,0.995,0.994,6:58
+4,2:08,MIA,Bam Adebayo,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,106,88,0.999,0.999,2:08
+4,1:43,MIA,Omer Yurtseven,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,108,91,0.999,0.999,1:43
+4,1:32,NY,Obi Toppin,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,108,92,0.999,0.999,1:43
+4,1:07,MIA,Gabe Vincent,Shooting Foul,Foul,John Goble,Gediminas Petraitis,Suyash Mehta,MIA,110,94,0.999,0.999,1:10

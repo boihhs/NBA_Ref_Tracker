@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,LAC,Kawhi Leonard,Offensive Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,0,0,0.411,0.391,12:00
+1,9:57,IND,Bruce Brown,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,4,2,0.443,0.443,10:02
+1,9:38,LAC,Ivica Zubac,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,4,4,0.456,0.417,9:51
+1,6:57,LAC,Kawhi Leonard,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,13,14,0.416,0.374,6:57
+1,5:34,LAC,Russell Westbrook,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,20,21,0.419,0.375,5:34
+1,4:59,IND,Bennedict Mathurin,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,23,23,0.363,0.401,5:07
+1,3:03,IND,Bruce Brown,Offensive Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,27,30,0.328,0.352,3:05
+1,49.1,IND,Obi Toppin,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,31,35,0.269,0.302,1:07
+1,33.1,IND,T.J. McConnell,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,33,35,0.317,0.356,39.1
+1,13.1,LAC,Daniel Theis,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,33,37,0.369,0.328,33.1
+1,4.0,LAC,Daniel Theis,Offensive Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,35,37,0.384,0.354,13.1
+2,10:51,IND,T.J. McConnell,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,43,37,0.59,0.588,11:03
+2,10:09,LAC,Amir Coffey,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,43,40,0.578,0.532,10:27
+2,10:02,IND,Aaron Nesmith,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,45,40,0.518,0.563,10:09
+2,7:58,IND,Buddy Hield,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,49,44,0.572,0.571,8:04
+2,6:46,IND,Aaron Nesmith,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,51,48,0.468,0.513,6:52
+2,6:17,IND,Tyrese Haliburton,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,53,50,0.469,0.516,6:32
+2,1:59,IND,Bennedict Mathurin,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,62,70,0.164,0.199,2:18
+2,1:08,LAC,Norman Powell,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,62,74,0.162,0.133,1:12
+2,7.0,IND,Isaiah Jackson,Loose Ball Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,64,76,0.09,0.113,7.0
+2,2.0,LAC,Ivica Zubac,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,64,77,0.14,0.112,7.0
+3,11:34,IND,Obi Toppin,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,66,79,0.083,0.106,11:34
+3,10:35,LAC,Paul George,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,68,85,0.054,0.055,10:47
+3,10:14,IND,Obi Toppin,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,68,85,0.044,0.044,10:20
+3,10:02,IND,Buddy Hield,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,68,85,0.038,0.043,10:02
+3,8:15,IND,Bruce Brown,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,71,91,0.014,0.02,8:26
+3,8:08,LAC,James Harden,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,71,91,0.025,0.025,8:08
+3,7:24,IND,Bruce Brown,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,71,91,0.013,0.018,7:30
+3,7:18,LAC,Paul George,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,71,93,0.014,0.015,7:24
+3,3:26,IND,Bennedict Mathurin,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,84,102,0.012,0.018,3:42
+3,1:21,LAC,Russell Westbrook,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,89,112,0.004,0.002,1:21
+4,11:23,IND,Jordan Nwora,Personal Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,97,114,0.01,0.011,11:39
+4,9:36,LAC,Paul George,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,99,119,0.007,0.003,9:46
+4,6:38,IND,IND,Technical Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,107,130,0.001,0.001,6:44
+4,6:20,LAC,Amir Coffey,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,107,134,0.001,0.001,6:29
+4,5:32,LAC,Brandon Boston,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,108,137,0.001,0.001,5:42
+4,2:52,IND,James Johnson,Offensive Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,116,147,0.001,0.001,3:05
+4,39.1,LAC,Kobe Brown,Shooting Foul,Foul,Tom Washington,Scott Foster,John Conley,IND,123,151,0.001,0.001,43.1

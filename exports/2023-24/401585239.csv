@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:20,DAL,Kyrie Irving,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,2,0,0.384,0.42,10:28
+1,8:38,BOS,Jrue Holiday,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,4,4,0.417,0.375,8:38
+1,8:25,DAL,Luka Doncic,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,5,4,0.363,0.399,8:38
+1,6:53,DAL,Dereck Lively II,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,9,8,0.367,0.404,6:56
+1,1:24,BOS,Luke Kornet,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,24,19,0.604,0.562,1:24
+1,1:02,DAL,Kyrie Irving,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,24,21,0.455,0.502,1:02
+1,47.1,BOS,Sam Hauser,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,24,22,0.518,0.476,1:02
+2,10:02,BOS,Jayson Tatum,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,30,32,0.369,0.368,10:04
+2,8:47,BOS,Jayson Tatum,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,32,35,0.344,0.346,8:55
+2,6:45,BOS,Jaylen Brown,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,35,45,0.175,0.176,6:59
+2,5:03,DAL,Luka Doncic,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,39,51,0.108,0.136,5:03
+2,5:03,DAL,Luka Doncic,Technical Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,39,51,0.108,0.108,5:03
+2,4:33,BOS,Jaylen Brown,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,41,55,0.127,0.105,4:41
+2,1:15,DAL,Dereck Lively II,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,54,61,0.177,0.209,1:31
+2,25.2,BOS,Al Horford,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,57,65,0.25,0.207,36.0
+2,3.1,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,59,65,0.197,0.236,25.2
+3,9:47,DAL,Luka Doncic,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,64,71,0.202,0.199,9:54
+3,9:11,DAL,Josh Green,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,64,73,0.124,0.152,9:18
+3,9:03,BOS,Al Horford,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,64,74,0.153,0.153,9:09
+3,8:44,DAL,Kyrie Irving,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,64,74,0.105,0.131,8:52
+3,6:45,BOS,Derrick White,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,66,79,0.087,0.088,6:48
+3,6:39,BOS,Jayson Tatum,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,68,79,0.138,0.103,6:39
+3,5:28,BOS,Jaylen Brown,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,70,84,0.089,0.068,5:44
+3,2:34,BOS,Luke Kornet,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,74,90,0.032,0.026,2:42
+3,2:13,DAL,Grant Williams,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,77,90,0.036,0.052,2:19
+3,1:33,DAL,Josh Green,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,79,91,0.042,0.059,1:38
+4,11:16,BOS,Jayson Tatum,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,83,96,0.051,0.049,11:28
+4,11:05,BOS,Payton Pritchard,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,83,96,0.053,0.051,11:16
+4,8:44,DAL,Josh Green,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,86,98,0.033,0.035,8:44
+4,8:00,BOS,Derrick White,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,86,100,0.025,0.022,8:07
+4,6:24,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,90,102,0.021,0.023,6:31
+4,6:07,DAL,Maxi Kleber,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,90,102,0.018,0.02,6:07
+4,5:53,DAL,Luka Doncic,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,90,102,0.01,0.018,6:07
+4,5:31,BOS,Derrick White,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,92,103,0.046,0.022,5:31
+4,4:24,BOS,Jaylen Brown,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,96,105,0.094,0.06,4:45
+4,4:10,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,98,108,0.016,0.035,4:10
+4,2:58,BOS,Jrue Holiday,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,100,111,0.03,0.016,3:11
+4,1:10,DAL,Maxi Kleber,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,105,113,0.004,0.012,1:11
+4,1:01,BOS,Jaylen Brown,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,107,115,0.038,0.01,1:01
+4,56.1,DAL,Josh Green,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,108,115,0.006,0.02,1:01
+4,34.0,DAL,Luka Doncic,Personal Foul,Foul,Marat Kogut,Josh Tiven,Michael Smith,DAL,110,117,0.003,0.016,49.2

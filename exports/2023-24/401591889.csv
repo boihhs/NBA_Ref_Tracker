@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:42,DEN,Nikola Jokic,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,0,0,0.55,0.509,12:00
+1,7:21,PHX,Josh Okogie,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,12,8,0.591,0.59,7:24
+1,6:23,DEN,Jamal Murray,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,12,13,0.485,0.487,6:23
+1,5:21,PHX,Grayson Allen,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,12,18,0.33,0.329,5:22
+1,2:03,PHX,Yuta Watanabe,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,21,20,0.515,0.512,2:09
+1,1:40,PHX,Saben Lee,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,21,20,0.47,0.513,1:42
+1,1:31,DEN,Peyton Watson,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,21,22,0.531,0.487,1:40
+1,1:27,DEN,Julian Strawther,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,21,22,0.531,0.531,1:31
+1,7.1,DEN,Peyton Watson,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,23,25,0.5,0.455,30.1
+2,11:24,DEN,Peyton Watson,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,23,28,0.413,0.372,11:44
+2,10:55,DEN,Hunter Tyson,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,25,28,0.425,0.428,10:59
+2,10:41,DEN,Hunter Tyson,Loose Ball Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,25,28,0.423,0.426,10:41
+2,5:09,DEN,Hunter Tyson,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,34,38,0.433,0.389,5:10
+2,3:44,PHX,Jusuf Nurkic,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,38,40,0.39,0.446,3:44
+2,2:53,DEN,Aaron Gordon,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,40,43,0.465,0.416,2:59
+2,2:07,DEN,Reggie Jackson,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,42,46,0.431,0.383,2:21
+2,1:14,PHX,Jusuf Nurkic,Defensive 3-Seconds Technical,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,44,46,0.422,0.413,1:27
+2,1:05,PHX,Josh Okogie,Loose Ball Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,44,47,0.33,0.376,1:05
+2,40.0,PHX,Josh Okogie,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,44,51,0.236,0.284,40.0
+2,31.1,DEN,Nikola Jokic,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,44,52,0.301,0.252,40.0
+2,3.2,DEN,Jamal Murray,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,46,55,0.265,0.224,13.1
+3,11:20,DEN,Reggie Jackson,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,50,55,0.366,0.31,11:20
+3,10:09,DEN,Reggie Jackson,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,52,59,0.297,0.24,10:09
+3,9:48,DEN,Peyton Watson,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,53,59,0.353,0.304,9:58
+3,8:43,DEN,DeAndre Jordan,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,57,63,0.349,0.3,8:57
+3,7:21,PHX,Josh Okogie,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,62,66,0.326,0.328,7:37
+3,7:21,PHX,Josh Okogie,Technical Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,62,66,0.299,0.326,7:21
+3,6:03,PHX,Chimezie Metu,Defensive 3-Seconds Technical,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,65,68,0.368,0.358,6:08
+3,25.0,DEN,Zeke Nnaji,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,76,85,0.194,0.148,36.1
+3,2.2,PHX,Yuta Watanabe,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,77,85,0.104,0.391,3:05
+4,11:09,PHX,Bol Bol,Offensive Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,80,87,0.16,0.199,11:19
+4,10:35,DEN,Collin Gillespie,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,80,90,0.109,0.102,10:47
+4,10:22,DEN,Braxton Key,Offensive Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,82,90,0.16,0.127,10:28
+4,9:26,PHX,Saben Lee,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,88,90,0.353,0.369,9:42
+4,9:17,PHX,Bol Bol,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,88,92,0.217,0.311,9:17
+4,8:24,DEN,Peyton Watson,Personal Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,88,95,0.179,0.167,8:34
+4,2:28,PHX,Keon Johnson,Loose Ball Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,103,106,0.188,0.205,2:28
+4,2:07,PHX,Bol Bol,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,103,108,0.042,0.087,2:09
+4,1:35,PHX,Keon Johnson,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,106,110,0.055,0.114,1:53
+4,1:13,PHX,Nassir Little,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,106,114,0.006,0.02,1:13
+4,35.0,DEN,Peyton Watson,Shooting Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,106,115,0.021,0.004,36.1
+4,14.1,DEN,Hunter Tyson,Loose Ball Foul,Foul,Nick Buchert,Scott Twardoski,Andy Nagy,PHX,106,115,0.007,0.001,14.1

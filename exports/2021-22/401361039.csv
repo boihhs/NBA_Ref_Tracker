@@ -1,0 +1,58 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,DEN,Bones Hyland,Personal Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,3,2,0.697,0.696,10:58
+1,8:31,DEN,DeMarcus Cousins,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,5,11,0.475,0.513,8:33
+1,7:52,DEN,DeMarcus Cousins,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,8,13,0.498,0.537,7:54
+1,4:03,DEN,Bryn Forbes,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,22,24,0.555,0.597,4:16
+1,3:52,LAL,Wayne Ellington,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,22,26,0.609,0.569,4:03
+1,2:59,DEN,Zeke Nnaji,Personal Take Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,23,26,0.522,0.565,2:59
+1,34.4,DEN,Zeke Nnaji,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,31,34,0.528,0.58,34.4
+1,1.7,DEN,JaMychal Green,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,33,35,0.555,0.578,21.3
+2,9:39,LAL,Mac McClung,Personal Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,37,44,0.442,0.442,9:42
+2,9:33,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,37,44,0.488,0.442,9:39
+2,8:34,DEN,Zeke Nnaji,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,42,44,0.512,0.56,8:47
+2,7:24,LAL,Wenyen Gabriel,Flagrant Foul Type 1,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,47,48,0.603,0.612,7:27
+2,7:24,DEN,Facundo Campazzo,Flagrant Foul Type 2,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,47,48,0.59,0.603,7:24
+2,6:45,DEN,Markus Howard,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,49,50,0.556,0.58,6:47
+2,6:01,LAL,D.J. Augustin,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,49,54,0.529,0.482,6:11
+2,5:48,LAL,Stanley Johnson,Flagrant Foul Type 1,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,51,54,0.533,0.543,5:50
+2,4:29,DEN,Jeff Green,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,55,56,0.542,0.599,4:29
+2,3:58,LAL,Malik Monk,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,55,56,0.645,0.599,3:59
+2,3:25,LAL,Wenyen Gabriel,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,57,59,0.613,0.565,3:42
+2,2:46,DEN,Bones Hyland,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,60,59,0.576,0.624,2:55
+2,1:37,DEN,DeMarcus Cousins,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,64,63,0.571,0.62,1:53
+2,32.0,LAL,Wenyen Gabriel,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,64,67,0.568,0.511,46.0
+2,21.6,DEN,Bones Hyland,Personal Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,66,67,0.495,0.55,32.0
+3,10:25,DEN,DeMarcus Cousins,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,73,72,0.555,0.611,10:30
+3,8:23,LAL,Stanley Johnson,Loose Ball Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,83,76,0.82,0.822,8:23
+3,7:23,DEN,DeMarcus Cousins,Offensive Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,83,76,0.797,0.823,7:35
+3,7:03,LAL,Mason Jones,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,83,76,0.858,0.824,7:13
+3,6:45,DEN,Jeff Green,Loose Ball Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,85,76,0.848,0.847,6:45
+3,5:56,DEN,Jeff Green,Personal Take Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,85,78,0.802,0.8,5:59
+3,5:21,DEN,Austin Rivers,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,87,78,0.816,0.853,5:29
+3,5:15,LAL,D.J. Augustin,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,90,80,0.907,0.876,5:15
+3,4:35,DEN,Austin Rivers,Personal Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,91,80,0.866,0.895,4:45
+3,4:25,LAL,Wayne Ellington,Personal Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,91,82,0.906,0.879,4:35
+3,4:19,LAL,Stanley Johnson,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,94,82,0.94,0.914,4:19
+3,4:03,DEN,JaMychal Green,Personal Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,95,82,0.906,0.93,4:19
+3,3:18,DEN,JaMychal Green,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,97,83,0.926,0.946,3:22
+3,1:35,LAL,Mac McClung,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,101,90,0.949,0.927,1:58
+3,6.9,LAL,Mac McClung,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,108,95,0.969,0.951,6.9
+4,11:20,DEN,Vlatko Cancar,Personal Take Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,110,95,0.971,0.974,11:22
+4,9:56,DEN,Vlatko Cancar,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,114,97,0.979,0.987,10:11
+4,8:09,DEN,Davon Reed,Personal Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,118,105,0.963,0.968,8:18
+4,4:10,DEN,Davon Reed,Offensive Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,125,118,0.889,0.922,4:13
+4,3:35,DEN,Vlatko Cancar,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,128,118,0.938,0.967,3:44
+4,3:12,DEN,Markus Howard,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,131,120,0.962,0.981,3:17
+4,2:38,DEN,Markus Howard,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,131,122,0.928,0.975,6:25
+4,2:15,DEN,Bryn Forbes,Personal Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,133,124,0.937,0.967,2:22
+4,1:02,LAL,Mason Jones,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,133,126,0.992,0.971,1:19
+4,51.1,DEN,Markus Howard,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,135,129,0.898,0.964,51.1
+5,4:34,DEN,Vlatko Cancar,Personal Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,135,135,0.455,0.466,4:37
+5,4:03,LAL,Mason Jones,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,135,135,0.658,0.537,4:19
+5,3:22,LAL,Stanley Johnson,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,135,135,0.673,0.54,3:42
+5,2:18,LAL,Mason Jones,Loose Ball Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,137,137,0.575,0.547,2:18
+5,1:15,LAL,Mac McClung,Flagrant Foul Type 1,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,137,139,0.345,0.356,1:18
+5,40.3,LAL,Mac McClung,Shooting Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,137,142,0.224,0.12,48.8
+5,6.1,DEN,Vlatko Cancar,Personal Take Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,139,142,0.016,0.054,6.1
+5,5.2,DEN,Markus Howard,Personal Take Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,139,142,0.013,0.047,6.1
+5,2.4,LAL,Wenyen Gabriel,Personal Foul,Foul,Josh Tiven,Mitchell Ervin,Justin Van Duyne,DEN,139,144,0.031,0.021,5.2

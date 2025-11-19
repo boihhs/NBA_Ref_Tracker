@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:26,NO,Brandon Ingram,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,0,2,0.692,0.66,11:37
+1,9:25,DEN,Jamal Murray,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,3,6,0.585,0.629,9:25
+1,7:58,DEN,Thomas Bryant,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,3,12,0.415,0.463,7:58
+1,6:01,DEN,Thomas Bryant,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,9,17,0.45,0.452,6:21
+1,45.2,DEN,Zeke Nnaji,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,17,21,0.485,0.529,53.1
+1,3.1,NO,Naji Marshall,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,17,21,0.596,0.553,21.1
+2,10:50,DEN,Zeke Nnaji,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,19,23,0.472,0.515,11:07
+2,8:58,NO,Jonas Valanciunas,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,23,28,0.551,0.504,9:01
+2,8:24,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,24,28,0.502,0.502,8:37
+2,4:02,NO,CJ McCollum,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,32,42,0.357,0.311,4:15
+2,3:24,NO,Larry Nance Jr.,Offensive Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,33,42,0.338,0.306,3:48
+2,2:52,DEN,Jeff Green,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,35,42,0.316,0.364,3:09
+3,11:50,DEN,Thomas Bryant,Offensive Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,40,50,0.24,0.26,12:00
+3,11:32,NO,Herbert Jones,Loose Ball Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,40,50,0.27,0.271,11:32
+3,11:17,NO,Jonas Valanciunas,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,40,50,0.314,0.27,11:32
+3,11:03,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,41,50,0.262,0.264,11:17
+3,10:34,DEN,Aaron Gordon,Offensive Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,41,52,0.2,0.231,10:51
+3,9:54,NO,CJ McCollum,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,41,54,0.208,0.172,10:15
+3,8:37,NO,Brandon Ingram,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,44,59,0.143,0.113,8:46
+3,8:23,NO,Jonas Valanciunas,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,44,59,0.141,0.131,8:23
+3,5:50,NO,CJ McCollum,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,51,67,0.097,0.073,6:02
+3,5:24,NO,Trey Murphy III,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,53,69,0.093,0.057,5:37
+3,4:25,DEN,Aaron Gordon,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,57,72,0.053,0.077,4:25
+3,3:50,DEN,Aaron Gordon,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,57,73,0.032,0.047,3:55
+3,3:20,NO,Brandon Ingram,Loose Ball Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,59,75,0.076,0.053,3:20
+3,2:45,NO,Josh Richardson,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,59,78,0.035,0.025,3:06
+3,1:40,NO,Dyson Daniels,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,63,78,0.078,0.056,1:48
+3,1:26,DEN,Jeff Green,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,64,78,0.036,0.053,1:40
+3,1:02,NO,Naji Marshall,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,64,80,0.057,0.039,1:08
+3,26.1,DEN,Bruce Brown,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,68,80,0.051,0.073,38.0
+4,11:26,DEN,Jeff Green,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,70,84,0.028,0.05,11:26
+4,11:09,NO,Jonas Valanciunas,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,70,85,0.058,0.036,11:26
+4,9:08,DEN,Zeke Nnaji,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,75,87,0.026,0.045,9:19
+4,7:31,DEN,Christian Braun,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,81,91,0.052,0.06,7:50
+4,7:24,DEN,Aaron Gordon,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,81,91,0.032,0.052,7:31
+4,7:13,NO,Herbert Jones,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,81,93,0.041,0.038,7:24
+4,6:32,NO,CJ McCollum,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,81,93,0.038,0.035,6:44
+4,6:00,NO,Larry Nance Jr.,Loose Ball Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,81,93,0.056,0.031,6:00
+4,5:43,NO,Brandon Ingram,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,81,93,0.052,0.056,6:00
+4,4:30,NO,Larry Nance Jr.,Loose Ball Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,83,95,0.037,0.02,4:30
+4,3:21,DEN,Jeff Green,Offensive Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,83,97,0.001,0.004,3:21
+4,3:08,DEN,Christian Braun,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,83,97,0.001,0.001,3:21
+4,2:23,NO,Larry Nance Jr.,Shooting Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,85,102,0.001,0.001,2:36
+4,1:17,DEN,Peyton Watson,Personal Foul,Foul,Mark Lindsay,Leon Wood,Mitchell Ervin,DEN,86,105,0.001,0.001,1:21

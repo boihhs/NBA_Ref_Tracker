@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:43,BOS,Jaylen Brown,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,6,11,0.21,0.211,8:55
+1,8:21,BOS,Jaylen Brown,Technical Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,8,13,0.226,0.212,8:22
+1,6:43,DEN,Michael Porter Jr.,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,14,15,0.275,0.274,6:43
+1,6:31,DEN,Aaron Gordon,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,14,15,0.245,0.275,6:43
+1,6:17,BOS,Derrick White,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,14,16,0.292,0.276,6:31
+1,5:30,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,16,18,0.258,0.257,5:39
+1,3:17,BOS,Al Horford,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,18,23,0.223,0.203,3:26
+1,1:38,BOS,Jayson Tatum,Defensive 3-Seconds Technical,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,22,26,0.242,0.245,1:57
+1,4.1,BOS,Jrue Holiday,Personal Take Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,27,28,0.362,0.321,9.2
+2,11:37,BOS,Jaylen Brown,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,30,30,0.391,0.35,11:43
+2,11:21,BOS,Derrick White,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,32,30,0.45,0.407,11:26
+2,10:29,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,36,32,0.417,0.471,10:29
+2,9:30,DEN,Jamal Murray,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,38,32,0.461,0.506,9:35
+2,8:03,DEN,Christian Braun,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,42,35,0.55,0.547,8:18
+2,7:10,DEN,Peyton Watson,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,44,40,0.438,0.494,7:10
+2,5:43,BOS,Jayson Tatum,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,44,41,0.496,0.503,5:43
+2,5:36,DEN,Michael Porter Jr.,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,47,41,0.487,0.471,5:43
+2,4:47,BOS,Jaylen Brown,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,49,45,0.558,0.508,5:07
+2,4:17,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,49,45,0.431,0.478,4:19
+2,3:16,BOS,Jrue Holiday,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,49,46,0.539,0.488,3:26
+2,27.1,BOS,Derrick White,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,57,54,0.536,0.51,27.1
+2,27.1,BOS,Kristaps Porzingis,Technical Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,57,54,0.536,0.536,27.1
+3,10:41,BOS,Kristaps Porzingis,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,62,60,0.484,0.484,10:41
+3,8:03,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,66,64,0.404,0.461,8:09
+3,4:42,BOS,Jayson Tatum,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,76,71,0.713,0.654,4:45
+3,2:38,DEN,Aaron Gordon,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,80,73,0.654,0.718,2:42
+3,13.1,DEN,Christian Braun,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,90,80,0.805,0.85,31.1
+4,11:34,DEN,Jamal Murray,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,92,80,0.907,0.912,11:46
+4,11:34,DEN,Aaron Gordon,Technical Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,92,80,0.894,0.907,11:34
+4,10:57,DEN,Justin Holiday,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,92,83,0.769,0.835,11:03
+4,9:44,DEN,Christian Braun,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,96,85,0.899,0.905,9:57
+4,9:02,DEN,Zeke Nnaji,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,96,85,0.863,0.91,9:11
+4,8:42,BOS,Jayson Tatum,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,96,86,0.932,0.912,8:42
+4,7:50,BOS,Payton Pritchard,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,97,91,0.859,0.786,8:04
+4,5:06,DEN,Michael Porter Jr.,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,103,93,0.903,0.929,5:53
+4,4:16,DEN,Michael Porter Jr.,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,105,96,0.911,0.954,4:16
+4,4:16,DEN,Nikola Jokic,Technical Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,105,96,0.911,0.911,4:16
+4,4:03,BOS,Jaylen Brown,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,105,98,0.918,0.905,4:16
+4,1:52,DEN,Nikola Jokic,Shooting Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,109,102,0.866,0.922,2:06
+4,40.1,BOS,Kristaps Porzingis,Personal Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,111,109,0.877,0.75,40.2
+4,9.1,BOS,Derrick White,Personal Take Foul,Foul,Marat Kogut,Tony Brothers,CJ Washington,DEN,113,109,0.99,0.951,14.0

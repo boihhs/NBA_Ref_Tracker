@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:23,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,2,0,0.633,0.597,11:24
+1,6:41,CLE,Caris LeVert,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,10,4,0.673,0.671,6:50
+1,5:46,BKN,Cameron Johnson,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,12,4,0.774,0.743,5:49
+1,4:24,CLE,Isaac Okoro,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,16,4,0.804,0.801,4:37
+1,4:12,CLE,Dean Wade,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,16,4,0.775,0.804,4:24
+1,4:03,BKN,Nic Claxton,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,16,6,0.786,0.788,4:12
+1,2:14,CLE,Georges Niang,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,20,10,0.735,0.769,2:20
+1,1:12,BKN,Nic Claxton,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,22,14,0.783,0.749,1:21
+1,39.0,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,24,16,0.769,0.752,39.0
+2,11:47,BKN,Lonnie Walker IV,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,26,16,0.795,0.781,12:00
+2,8:36,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,35,21,0.898,0.877,8:38
+2,8:11,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,37,21,0.924,0.906,8:18
+2,7:28,CLE,Isaac Okoro,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,38,21,0.908,0.907,7:38
+2,5:29,CLE,Dean Wade,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,45,26,0.936,0.935,5:37
+2,5:19,CLE,Sam Merrill,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,45,26,0.937,0.936,5:29
+2,4:36,CLE,Caris LeVert,Away from Play Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,45,29,0.881,0.904,4:44
+2,3:55,BKN,Cameron Johnson,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,47,30,0.944,0.932,3:58
+2,3:28,BKN,Cam Thomas,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,49,30,0.962,0.95,3:37
+2,2:19,CLE,Dean Wade,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,54,32,0.957,0.967,2:28
+3,11:39,BKN,Cameron Johnson,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,54,34,0.977,0.962,12:00
+3,10:40,BKN,Dorian Finney-Smith,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,58,34,0.988,0.987,10:45
+3,9:52,CLE,Jarrett Allen,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,60,34,0.991,0.991,9:58
+3,8:31,BKN,Trendon Watford,Loose Ball Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,62,39,0.988,0.988,8:31
+3,7:55,BKN,Trendon Watford,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,62,41,0.987,0.983,7:57
+3,7:34,CLE,Jarrett Allen,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,64,41,0.98,0.987,7:35
+3,5:54,CLE,Dean Wade,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,66,43,0.984,0.989,5:57
+3,5:45,BKN,Trendon Watford,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,66,45,0.99,0.986,5:54
+3,4:00,CLE,Isaac Okoro,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,68,49,0.968,0.977,4:05
+3,2:47,CLE,Georges Niang,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,73,52,0.984,0.989,2:52
+3,2:46,BKN,Royce O'Neale,Personal Take Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,73,54,0.99,0.986,2:47
+3,2:31,BKN,Royce O'Neale,Personal Take Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,74,54,0.993,0.989,2:31
+3,2:13,CLE,Georges Niang,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,74,54,0.98,0.987,2:28
+4,11:35,BKN,Trendon Watford,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,78,62,0.99,0.982,11:49
+4,11:16,BKN,Nic Claxton,Double Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,80,62,0.992,0.988,11:16
+4,10:38,CLE,Tristan Thompson,Loose Ball Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,80,63,0.985,0.975,10:38
+4,9:03,BKN,Trendon Watford,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,83,70,0.976,0.973,9:11
+4,8:03,BKN,Mikal Bridges,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,85,74,0.977,0.97,8:15
+4,7:02,CLE,Jarrett Allen,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,86,74,0.965,0.967,7:19
+4,5:42,CLE,Jarrett Allen,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,91,78,0.966,0.979,5:53
+4,4:51,CLE,Isaac Okoro,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,90,83,0.85,0.937,4:51
+4,3:26,CLE,Donovan Mitchell,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,97,87,0.943,0.971,3:26
+4,2:51,BKN,Dennis Smith Jr.,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,97,87,0.994,0.986,2:58
+4,2:41,CLE,Dean Wade,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,99,87,0.982,0.992,2:51
+4,1:55,BKN,Trendon Watford,Shooting Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,102,91,0.998,0.996,2:05
+4,1:11,BKN,Cam Thomas,Personal Take Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,102,93,0.997,0.996,1:14
+4,56.0,BKN,Lonnie Walker IV,Personal Take Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,104,96,0.997,0.994,1:04
+4,51.1,CLE,Jarrett Allen,Personal Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,107,96,0.992,0.997,56.0
+4,43.1,BKN,Mikal Bridges,Personal Take Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,106,98,0.998,0.996,51.1
+4,34.0,BKN,Mikal Bridges,Personal Take Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,108,100,0.998,0.998,35.0
+4,25.1,BKN,Cam Thomas,Personal Take Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,108,100,0.998,0.997,25.1
+4,9:51,BKN,Nic Claxton,Technical Foul,Foul,Eric Dalen,Marc Davis,John Butler,CLE,81,71,0.938,0.925,9:51
+4,9:51,CLE,Tristan Thompson,Flagrant Foul Type 2,Foul,Eric Dalen,Marc Davis,John Butler,CLE,81,71,0.911,0.938,9:51

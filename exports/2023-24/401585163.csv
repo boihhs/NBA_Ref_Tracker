@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:17,ORL,Jalen Suggs,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,6,4,0.733,0.742,10:17
+1,8:43,ORL,Caleb Houstan,Loose Ball Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,10,12,0.605,0.605,8:46
+1,7:52,ORL,Paolo Banchero,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,12,12,0.667,0.626,7:52
+1,7:20,ORL,Jalen Suggs,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,13,12,0.705,0.674,7:30
+1,7:03,MIA,Haywood Highsmith,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,15,12,0.66,0.691,7:20
+1,3:45,ORL,Jalen Suggs,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,18,14,0.749,0.734,3:48
+1,3:26,MIA,Josh Richardson,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,19,14,0.699,0.732,3:43
+1,3:06,ORL,Paolo Banchero,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,21,15,0.791,0.754,3:06
+1,1:20,MIA,Kevin Love,Loose Ball Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,23,20,0.646,0.684,1:20
+1,1:15,MIA,Caleb Martin,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,23,20,0.646,0.646,1:20
+1,42.1,ORL,Cole Anthony,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,27,22,0.767,0.728,42.1
+2,10:32,MIA,Kevin Love,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,33,24,0.798,0.832,10:32
+2,9:46,ORL,Moritz Wagner,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,33,25,0.815,0.814,9:53
+2,6:46,MIA,Duncan Robinson,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,41,34,0.737,0.773,6:51
+2,1:15,ORL,Caleb Houstan,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,51,50,0.676,0.633,1:34
+2,6.2,MIA,Bam Adebayo,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,56,55,0.544,0.595,10.1
+3,8:26,ORL,Caleb Houstan,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,61,60,0.62,0.621,8:32
+3,8:01,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,63,60,0.655,0.657,8:14
+3,7:38,ORL,Goga Bitadze,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,63,60,0.691,0.693,7:47
+3,4:28,MIA,Nikola Jovic,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,69,62,0.795,0.795,4:39
+3,3:11,MIA,Jaime Jaquez Jr.,Loose Ball Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,69,67,0.616,0.614,3:12
+3,1:27,ORL,Joe Ingles,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,69,72,0.496,0.427,1:38
+3,45.1,ORL,Markelle Fultz,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,71,72,0.59,0.519,1:03
+3,24.1,ORL,Joe Ingles,Flagrant Foul Type 1,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,73,72,0.6,0.615,31.1
+3,2.1,MIA,Bam Adebayo,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,75,72,0.586,0.656,8.0
+4,11:26,MIA,Josh Richardson,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,77,73,0.618,0.702,11:41
+4,11:02,ORL,Moritz Wagner,Loose Ball Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,77,75,0.67,0.655,11:02
+4,9:20,MIA,Kevin Love,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,81,77,0.698,0.712,9:32
+4,8:09,ORL,Markelle Fultz,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,86,82,0.774,0.76,8:18
+4,8:04,ORL,Moritz Wagner,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,86,82,0.782,0.774,8:09
+4,8:04,MIA,Bam Adebayo,Technical Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,86,82,0.687,0.782,8:04
+4,4:17,ORL,Moritz Wagner,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,90,86,0.891,0.819,4:19
+4,4:03,MIA,Haywood Highsmith,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,92,86,0.781,0.869,4:17
+4,3:21,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,92,88,0.663,0.781,3:23
+4,2:43,MIA,Bam Adebayo,Shooting Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,92,89,0.589,0.708,2:57
+4,1:24,ORL,Moritz Wagner,Loose Ball Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,94,92,0.845,0.741,1:25
+4,7.1,ORL,Caleb Houstan,Personal Foul,Foul,Mark Lindsay,Aaron Smith,Dannica Mosher,MIA,97,96,0.906,0.757,8.1

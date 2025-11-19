@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:44,OKC,Jalen Williams,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,7,14,0.397,0.358,7:58
+1,7:24,OKC,Chet Holmgren,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,9,14,0.409,0.411,7:36
+1,6:03,OKC,Luguentz Dort,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,11,14,0.459,0.46,6:13
+1,6:03,MIN,Anthony Edwards,Offensive Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,11,14,0.431,0.459,6:03
+1,2:50,OKC,Isaiah Joe,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,15,20,0.441,0.401,3:04
+1,1:47,OKC,Luguentz Dort,Loose Ball Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,17,20,0.495,0.452,1:47
+1,1:36,MIN,Kyle Anderson,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,19,20,0.44,0.483,1:47
+2,10:12,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,24,29,0.32,0.359,10:33
+2,9:58,OKC,Aaron Wiggins,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,24,30,0.403,0.361,10:12
+2,9:43,MIN,Shake Milton,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,26,30,0.346,0.387,9:58
+2,7:43,MIN,Mike Conley,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,32,35,0.416,0.414,7:59
+2,6:45,MIN,Naz Reid,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,32,43,0.18,0.218,6:45
+2,6:01,OKC,Aaron Wiggins,Loose Ball Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,35,44,0.265,0.266,6:01
+2,3:37,OKC,Luguentz Dort,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,42,52,0.267,0.227,3:50
+2,2:54,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,45,52,0.238,0.276,3:05
+2,2:01,MIN,Rudy Gobert,Loose Ball Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,47,56,0.182,0.22,2:01
+2,1:15,OKC,Jalen Williams,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,47,57,0.234,0.215,1:15
+2,10.1,MIN,Anthony Edwards,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,51,57,0.251,0.297,26.1
+2,4.1,OKC,Kenrich Williams,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,51,59,0.309,0.263,10.1
+2,1.1,MIN,Karl-Anthony Towns,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,53,59,0.25,0.293,4.1
+3,11:33,MIN,Mike Conley,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,53,61,0.194,0.233,11:49
+3,11:12,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,55,62,0.261,0.257,11:20
+3,9:55,OKC,Luguentz Dort,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,57,64,0.285,0.283,9:56
+3,7:34,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,63,64,0.552,0.493,7:54
+3,6:16,MIN,Anthony Edwards,Technical Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,67,66,0.5,0.531,6:16
+3,5:02,MIN,Anthony Edwards,Defensive 3-Seconds Technical,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,69,67,0.585,0.573,5:15
+3,3:33,OKC,Kenrich Williams,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,71,71,0.597,0.532,3:41
+3,1:28,OKC,Jaylin Williams,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,74,76,0.508,0.436,1:30
+3,34.1,OKC,Kenrich Williams,Personal Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,74,78,0.41,0.343,44.0
+4,11:05,MIN,Naz Reid,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,78,78,0.389,0.482,11:25
+4,10:56,OKC,Kenrich Williams,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,78,79,0.568,0.477,11:05
+4,9:59,OKC,Jalen Williams,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,80,79,0.681,0.588,10:02
+4,9:26,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,82,79,0.646,0.7,9:43
+4,9:02,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,82,79,0.633,0.648,9:02
+4,8:27,OKC,Josh Giddey,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,82,82,0.64,0.538,8:41
+4,4:40,OKC,Isaiah Joe,Loose Ball Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,93,90,0.84,0.755,4:40
+4,4:34,OKC,Chet Holmgren,Personal Take Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,93,90,0.842,0.84,4:40
+4,2:16,OKC,Shai Gilgeous-Alexander,Loose Ball Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,97,94,0.895,0.818,2:16
+4,59.1,MIN,Troy Brown Jr.,Shooting Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,101,96,0.775,0.891,1:02
+4,12.2,OKC,Jalen Williams,Personal Take Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,103,101,0.932,0.793,26.1
+4,4.1,OKC,Luguentz Dort,Personal Take Foul,Foul,Ben Taylor,Scott Twardoski,Jenna Schroeder,MIN,105,103,0.973,0.911,5.1

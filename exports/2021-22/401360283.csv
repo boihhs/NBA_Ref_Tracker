@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:07,HOU,Jae'Sean Tate,Personal Take Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,4,0,0.697,0.7,11:08
+1,9:35,CHI,DeMar DeRozan,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,9,0,0.748,0.778,9:48
+1,9:14,HOU,Garrison Mathews,Loose Ball Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,9,0,0.796,0.797,9:14
+1,8:32,CHI,Javonte Green,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,9,2,0.738,0.759,8:32
+1,2:46,HOU,Alperen Sengun,Offensive Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,28,22,0.739,0.717,2:56
+1,2:29,CHI,Alfonzo McKinnie,Personal Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,28,22,0.717,0.717,2:41
+1,2:21,CHI,Coby White,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,28,22,0.682,0.717,2:29
+1,1:46,CHI,Lonzo Ball,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,30,24,0.682,0.717,2:06
+1,48.0,HOU,Alperen Sengun,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,33,26,0.795,0.761,57.7
+2,11:18,HOU,KJ Martin,Personal Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,35,26,0.804,0.805,11:19
+2,10:56,HOU,Alperen Sengun,Offensive Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,37,26,0.841,0.825,11:10
+2,10:30,CHI,Alfonzo McKinnie,Personal Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,39,26,0.859,0.86,10:44
+2,9:55,HOU,Josh Christopher,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,39,26,0.896,0.877,10:08
+2,9:36,CHI,Tony Bradley,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,41,26,0.868,0.89,9:55
+2,7:57,CHI,Javonte Green,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,45,30,0.872,0.894,8:09
+2,7:15,HOU,Christian Wood,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,48,31,0.944,0.932,7:19
+2,6:46,HOU,KJ Martin,Defensive 3-Seconds Technical,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,50,34,0.919,0.921,7:03
+2,5:17,HOU,Garrison Mathews,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,57,36,0.967,0.966,5:20
+2,5:09,CHI,Devon Dotson,Personal Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,58,36,0.956,0.965,5:15
+2,4:04,CHI,Tyler Cook,Offensive Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,61,39,0.968,0.972,4:27
+2,3:35,CHI,Lonzo Ball,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,61,39,0.959,0.969,3:39
+2,2:40,HOU,Jae'Sean Tate,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,63,43,0.973,0.964,3:02
+2,57.4,CHI,Nikola Vucevic,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,69,50,0.959,0.962,57.4
+2,31.0,CHI,Lonzo Ball,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,71,51,0.952,0.964,43.0
+3,11:30,HOU,Armoni Brooks,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,73,54,0.975,0.967,11:43
+3,11:30,HOU,Garrison Mathews,Technical Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,73,54,0.971,0.975,11:30
+3,10:15,HOU,Christian Wood,Defensive 3-Seconds Technical,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,79,57,0.983,0.983,10:30
+3,8:19,CHI,Javonte Green,Personal Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,85,62,0.987,0.987,8:29
+3,7:51,CHI,Javonte Green,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,87,62,0.989,0.993,8:04
+3,6:00,HOU,Jae'Sean Tate,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,89,70,0.986,0.979,6:14
+3,5:35,HOU,Jae'Sean Tate,Personal Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,91,72,0.981,0.98,5:44
+3,4:52,HOU,Christian Wood,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,91,72,0.988,0.982,5:00
+3,4:15,CHI,Alfonzo McKinnie,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,93,74,0.969,0.978,4:17
+3,3:57,HOU,Christian Wood,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,93,76,0.982,0.973,4:15
+3,1:31,HOU,Garrison Mathews,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,102,80,0.997,0.994,1:31
+4,8:32,CHI,Tony Bradley,Personal Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,113,90,0.999,0.999,8:42
+4,6:46,CHI,Nikola Vucevic,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,116,94,0.998,0.999,7:09
+4,3:53,CHI,Javonte Green,Personal Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,124,104,0.999,0.999,4:16
+4,2:53,CHI,Lonzo Ball,Personal Take Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,126,106,0.999,0.999,2:53
+4,1:57,CHI,Devon Dotson,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,129,108,0.999,0.999,2:11
+4,49.2,HOU,David Nwaba,Shooting Foul,Foul,James Williams,Jacyn Goble,Natalie Sago,CHI,131,114,0.999,0.999,1:02

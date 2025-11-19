@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:48,LAC,Ivica Zubac,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,3,2,0.831,0.853,11:11
+1,10:29,LAC,Paul George,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,5,4,0.83,0.851,10:36
+1,8:21,MEM,David Roddy,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,10,8,0.883,0.868,8:34
+1,7:41,LAC,Russell Westbrook,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,13,12,0.826,0.85,7:41
+1,5:26,LAC,Ivica Zubac,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,13,18,0.676,0.714,5:38
+1,4:46,MEM,Santi Aldama,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,15,20,0.76,0.73,4:50
+2,10:13,MEM,Ziaire Williams,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,35,33,0.848,0.824,10:15
+2,9:55,MEM,Santi Aldama,Loose Ball Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,37,33,0.854,0.855,9:55
+2,8:39,MEM,Xavier Tillman,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,39,37,0.841,0.817,8:51
+2,8:17,MEM,Ziaire Williams,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,43,37,0.886,0.863,8:17
+2,7:20,MEM,Ziaire Williams,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,44,39,0.872,0.863,7:39
+2,7:10,LAC,Russell Westbrook,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,46,41,0.83,0.862,7:10
+2,4:53,MEM,David Roddy,Personal Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,51,49,0.826,0.797,4:54
+2,3:14,LAC,Paul George,Personal Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,58,52,0.848,0.849,3:34
+2,2:07,LAC,Paul George,Personal Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,60,54,0.844,0.845,2:09
+2,1:24,MEM,Xavier Tillman,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,62,56,0.874,0.861,1:24
+2,59.1,LAC,Eric Gordon,Personal Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,64,56,0.85,0.878,1:01
+3,10:30,MEM,Desmond Bane,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,72,64,0.902,0.891,10:30
+3,10:14,LAC,Nicolas Batum,Away from Play Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,74,66,0.873,0.891,10:14
+3,9:28,LAC,Russell Westbrook,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,76,69,0.822,0.854,9:32
+3,8:41,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,79,71,0.889,0.89,8:50
+3,8:26,LAC,Paul George,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,79,73,0.814,0.853,8:26
+3,5:53,MEM,David Roddy,Personal Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,84,87,0.56,0.564,6:17
+3,4:29,MEM,David Roddy,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,84,91,0.434,0.37,4:36
+3,2:27,LAC,Mason Plumlee,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,88,101,0.083,0.121,2:27
+3,1:41,MEM,Santi Aldama,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,92,104,0.161,0.106,1:41
+3,11.2,MEM,Luke Kennard,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,95,109,0.103,0.073,30.0
+4,10:35,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,101,114,0.108,0.072,10:44
+4,10:33,LAC,Terance Mann,Personal Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,102,114,0.065,0.071,10:33
+4,10:15,MEM,Desmond Bane,Personal Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,102,116,0.054,0.05,10:22
+4,8:59,LAC,Mason Plumlee,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,107,120,0.029,0.054,8:59
+4,8:44,MEM,John Konchar,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,107,121,0.065,0.037,8:59
+4,8:30,LAC,Marcus Morris Sr.,Personal Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,109,121,0.045,0.052,8:44
+4,8:26,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,109,121,0.061,0.045,8:30
+4,7:26,LAC,Kawhi Leonard,Personal Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,111,121,0.042,0.073,7:41
+4,3:21,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,122,121,0.752,0.633,3:35
+4,2:47,MEM,Desmond Bane,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,126,123,0.834,0.724,2:47
+4,1:35,MEM,Desmond Bane,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,129,123,0.975,0.944,1:47
+4,1:26,LAC,Eric Gordon,Shooting Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,131,125,0.884,0.951,1:26
+4,15.1,MEM,Jaren Jackson Jr.,Personal Take Foul,Foul,Josh Tiven,Michael Smith,Matt Myers,LAC,133,129,0.982,0.927,25.1

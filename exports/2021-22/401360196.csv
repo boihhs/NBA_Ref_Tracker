@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:28,BKN,James Johnson,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,4,2,0.624,0.564,10:28
+1,9:57,BKN,DeAndre' Bembry,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,7,2,0.694,0.635,9:57
+1,6:55,HOU,Christian Wood,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,10,11,0.484,0.484,7:05
+1,6:25,HOU,Jae'Sean Tate,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,12,12,0.511,0.509,6:37
+1,6:05,BKN,Paul Millsap,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,12,14,0.522,0.483,6:17
+1,3:38,HOU,David Nwaba,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,20,16,0.595,0.615,3:39
+1,1:15,BKN,Bruce Brown,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,28,21,0.74,0.72,1:36
+1,8.3,HOU,Armoni Brooks,Personal Take Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,30,23,0.659,0.698,25.6
+2,11:49,BKN,James Harden,Offensive Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,30,23,0.724,0.709,12:00
+2,11:26,HOU,Alperen Sengun,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,32,23,0.746,0.748,11:36
+2,11:22,HOU,Alperen Sengun,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,32,23,0.712,0.746,11:26
+2,9:59,BKN,Nic Claxton,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,36,25,0.845,0.817,10:15
+2,9:41,HOU,Josh Christopher,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,38,25,0.837,0.835,9:48
+2,8:05,BKN,Nic Claxton,Flagrant Foul Type 1,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,44,29,0.9,0.89,8:22
+2,7:42,HOU,Josh Christopher,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,49,29,0.923,0.937,7:55
+2,7:34,BKN,Blake Griffin,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,49,31,0.927,0.929,7:42
+2,5:51,HOU,Jae'Sean Tate,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,49,37,0.797,0.829,6:01
+2,4:56,BKN,Blake Griffin,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,54,41,0.883,0.852,4:56
+2,4:44,HOU,Eric Gordon,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,55,41,0.843,0.869,4:56
+2,3:57,HOU,Armoni Brooks,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,57,47,0.803,0.814,3:57
+2,2:45,BKN,Bruce Brown,Personal Take Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,59,48,0.87,0.843,2:47
+2,1:48,BKN,Bruce Brown,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,62,50,0.891,0.865,1:57
+3,10:54,BKN,DeAndre' Bembry,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,67,56,0.848,0.859,11:03
+3,10:16,BKN,Patty Mills,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,67,56,0.86,0.861,10:23
+3,9:46,BKN,James Johnson,Loose Ball Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,67,56,0.863,0.863,9:46
+3,9:29,HOU,Jae'Sean Tate,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,67,56,0.806,0.844,9:37
+3,8:48,HOU,Jae'Sean Tate,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,69,58,0.847,0.845,9:08
+3,8:14,HOU,Garrison Mathews,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,69,60,0.779,0.828,8:14
+3,5:43,HOU,Eric Gordon,Technical Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,75,62,0.892,0.922,5:43
+3,4:06,HOU,KJ Martin,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,80,65,0.934,0.955,4:06
+3,3:27,BKN,Blake Griffin,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,80,68,0.911,0.919,3:42
+4,11:00,HOU,Garrison Mathews,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,90,75,0.952,0.971,11:06
+4,9:55,HOU,Eric Gordon,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,93,79,0.943,0.966,10:03
+4,8:59,BKN,David Duke Jr.,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,95,83,0.976,0.959,9:09
+4,7:50,BKN,David Duke Jr.,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,95,87,0.905,0.895,8:05
+4,7:21,HOU,Garrison Mathews,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,95,90,0.712,0.804,7:21
+4,6:17,HOU,Eric Gordon,Technical Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,98,93,0.727,0.768,6:17
+4,5:59,BKN,James Harden,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,98,94,0.854,0.771,6:05
+4,5:31,HOU,Jae'Sean Tate,Technical Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,100,94,0.796,0.873,5:31
+4,4:25,BKN,David Duke Jr.,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,103,95,0.97,0.94,4:44
+4,3:43,BKN,Paul Millsap,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,104,97,0.965,0.928,4:12
+4,3:24,BKN,James Harden,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,107,97,0.992,0.985,3:24
+4,3:09,HOU,Christian Wood,Loose Ball Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,109,97,0.978,0.991,3:09
+4,3:02,HOU,Garrison Mathews,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,109,97,0.979,0.978,3:09
+4,2:14,BKN,Paul Millsap,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,111,98,0.999,0.997,2:14
+4,57.2,HOU,Josh Christopher,Personal Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,114,100,0.999,0.999,58.5
+4,16.8,HOU,Christian Wood,Shooting Foul,Foul,Josh Tiven,Tyler Ford,Brandon Schwab,HOU,114,102,0.999,0.999,16.8

@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:40,IND,Chris Duarte,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,0,0,0.643,0.68,12:00
+1,10:57,NY,Julius Randle,Defensive 3-Seconds Technical,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,0,4,0.598,0.606,11:18
+1,10:11,IND,Caris LeVert,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,3,4,0.649,0.648,10:34
+1,7:50,IND,Domantas Sabonis,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,12,4,0.796,0.821,8:16
+1,6:52,IND,Caris LeVert,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,15,6,0.812,0.838,6:58
+1,6:43,NY,Alec Burks,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,15,8,0.82,0.82,6:52
+1,5:19,NY,Mitchell Robinson,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,17,14,0.743,0.745,5:36
+1,2:55,NY,RJ Barrett,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,25,18,0.841,0.816,2:57
+1,16.7,NY,Mitchell Robinson,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,35,29,0.824,0.796,33.5
+2,11:19,NY,Immanuel Quickley,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,38,29,0.847,0.848,11:29
+2,10:47,NY,Obi Toppin,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,40,29,0.87,0.877,10:52
+2,8:06,IND,Brad Wanamaker,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,44,37,0.792,0.791,8:29
+2,7:48,NY,Immanuel Quickley,Personal Take Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,44,37,0.811,0.814,7:48
+2,7:16,NY,Mitchell Robinson,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,46,37,0.86,0.829,7:16
+2,6:47,IND,Oshae Brissett,Personal Take Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,50,37,0.894,0.894,6:53
+2,5:52,IND,Brad Wanamaker,Personal Take Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,52,41,0.866,0.866,5:53
+2,5:04,NY,Julius Randle,Loose Ball Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,54,43,0.903,0.882,5:04
+2,4:46,NY,Evan Fournier,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,55,43,0.916,0.897,4:53
+2,3:56,NY,Julius Randle,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,59,45,0.938,0.923,4:12
+2,3:11,IND,Domantas Sabonis,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,62,47,0.905,0.924,3:23
+2,1:30,IND,Chris Duarte,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,68,51,0.933,0.946,1:54
+2,55.0,NY,Julius Randle,Technical Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,70,55,0.947,0.939,59.1
+3,11:50,NY,Taj Gibson,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,70,57,0.919,0.912,12:00
+3,11:45,NY,Evan Fournier,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,70,57,0.919,0.919,11:50
+3,11:07,NY,Julius Randle,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,70,57,0.937,0.921,11:15
+3,7:34,IND,Myles Turner,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,80,63,0.948,0.961,7:55
+3,7:13,NY,RJ Barrett,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,80,66,0.958,0.943,7:34
+3,6:19,NY,Evan Fournier,Personal Take Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,82,66,0.974,0.965,6:19
+3,5:48,NY,Taj Gibson,Loose Ball Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,84,68,0.975,0.966,5:48
+3,5:29,IND,Malcolm Brogdon,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,86,68,0.973,0.972,5:48
+3,4:35,NY,Evan Fournier,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,86,71,0.973,0.962,4:39
+3,2:36,IND,Kelan Martin,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,90,71,0.978,0.985,2:41
+3,1:55,IND,Malcolm Brogdon,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,92,72,0.984,0.989,2:19
+3,1:20,NY,Immanuel Quickley,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,92,74,0.992,0.988,1:26
+3,13.6,IND,Myles Turner,Loose Ball Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,96,74,0.994,0.996,13.6
+4,10:16,IND,Brad Wanamaker,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,98,80,0.984,0.991,10:29
+4,9:09,IND,Jeremy Lamb,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,102,81,0.997,0.997,9:24
+4,6:33,IND,Brad Wanamaker,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,106,88,0.996,0.996,6:43
+4,5:32,IND,Malcolm Brogdon,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,108,91,0.992,0.995,5:53
+4,43.9,IND,Goga Bitadze,Personal Take Foul,Foul,Marc Davis,J.B. DeRosa,Brandon Adair,IND,122,97,0.999,0.999,45.9

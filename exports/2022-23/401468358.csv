@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:53,HOU,Jabari Smith Jr.,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,2,0,0.436,0.435,11:07
+1,8:50,HOU,Alperen Sengun,Offensive Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,6,6,0.391,0.413,9:03
+1,6:37,LAC,Reggie Jackson,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,12,9,0.498,0.499,6:47
+1,37.2,LAC,Terance Mann,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,20,28,0.265,0.233,41.5
+1,25.8,HOU,Tari Eason,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,23,28,0.242,0.275,30.4
+2,10:48,LAC,Nicolas Batum,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,23,36,0.137,0.136,11:01
+2,10:27,HOU,Josh Christopher,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,23,36,0.101,0.12,10:30
+2,9:59,HOU,Josh Christopher,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,23,37,0.088,0.121,10:27
+2,9:50,LAC,Norman Powell,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,23,39,0.113,0.094,9:59
+2,8:29,LAC,Nicolas Batum,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,27,39,0.161,0.149,8:32
+2,8:15,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,28,39,0.126,0.148,8:29
+2,7:33,LAC,Amir Coffey,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,30,43,0.156,0.132,7:34
+2,4:06,LAC,Ivica Zubac,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,34,43,0.235,0.199,4:17
+2,3:30,HOU,Alperen Sengun,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,36,47,0.125,0.157,3:30
+2,2:59,LAC,Reggie Jackson,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,37,50,0.146,0.121,3:09
+2,2:36,LAC,Reggie Jackson,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,41,50,0.213,0.175,2:36
+2,4:06,LAC,Ivica Zubac,Loose Ball Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,35,43,0.262,0.133,2:19
+2,1:34,HOU,Eric Gordon,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,44,53,0.141,0.172,1:36
+2,1:14,LAC,Paul George,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,44,55,0.181,0.153,1:34
+2,9.6,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,45,58,0.139,0.113,31.5
+3,9:51,LAC,Reggie Jackson,Offensive Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,51,63,0.117,0.103,10:02
+3,9:02,HOU,Kevin Porter Jr.,Technical Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,53,63,0.12,0.157,9:02
+3,7:05,LAC,Luke Kennard,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,57,72,0.083,0.062,7:18
+3,6:56,HOU,Kevin Porter Jr.,Loose Ball Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,59,74,0.051,0.061,6:56
+3,6:46,LAC,Paul George,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,59,74,0.061,0.061,6:46
+3,6:37,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,61,75,0.083,0.06,6:37
+3,6:24,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,62,75,0.055,0.072,6:37
+3,6:03,LAC,Marcus Morris Sr.,Offensive Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,62,76,0.07,0.058,6:09
+3,2:15,HOU,Usman Garuba,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,73,85,0.047,0.067,2:34
+3,1:20,HOU,KJ Martin,Technical Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,78,87,0.098,0.114,1:26
+4,11:25,LAC,Robert Covington,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,78,92,0.06,0.039,11:48
+4,11:14,HOU,Usman Garuba,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,79,92,0.035,0.038,11:25
+4,11:05,HOU,Josh Christopher,Loose Ball Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,79,92,0.033,0.035,11:05
+4,10:42,HOU,Usman Garuba,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,81,92,0.035,0.056,10:53
+4,9:50,HOU,Josh Christopher,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,85,97,0.023,0.037,10:02
+4,9:37,LAC,Robert Covington,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,85,97,0.075,0.046,9:45
+4,9:03,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,86,97,0.028,0.044,9:10
+4,8:39,HOU,Kevin Porter Jr.,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,86,98,0.019,0.03,8:39
+4,8:14,LAC,Nicolas Batum,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,86,100,0.039,0.022,8:39
+4,8:05,HOU,Alperen Sengun,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,87,102,0.007,0.015,8:05
+4,7:49,HOU,Alperen Sengun,Loose Ball Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,87,103,0.003,0.006,7:49
+4,7:20,HOU,Alperen Sengun,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,87,105,0.001,0.003,7:20
+4,5:05,LAC,Terance Mann,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,89,110,0.001,0.001,5:14
+4,4:55,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,91,110,0.001,0.001,4:55
+4,4:15,LAC,Norman Powell,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,91,114,0.001,0.001,4:18
+4,1:10,HOU,Josh Christopher,Personal Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,105,120,0.001,0.001,1:22
+4,33.1,LAC,Robert Covington,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Phenizee Ransom,HOU,105,122,0.001,0.001,45.1

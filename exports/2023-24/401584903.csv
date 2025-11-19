@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:40,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,13,13,0.652,0.691,8:40
+1,7:01,PHI,Paul Reed,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,18,18,0.72,0.687,7:05
+1,6:29,PHI,Paul Reed,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,21,18,0.779,0.751,6:37
+1,5:59,PHI,De'Anthony Melton,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,24,18,0.818,0.787,5:59
+1,5:43,BOS,Sam Hauser,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,25,18,0.777,0.805,5:45
+1,3:50,BOS,Jayson Tatum,Technical Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,28,25,0.704,0.722,3:55
+1,3:23,PHI,Furkan Korkmaz,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,30,26,0.777,0.742,3:23
+1,3:22,PHI,Mo Bamba,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,30,26,0.792,0.763,3:22
+1,1:51,PHI,Furkan Korkmaz,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,35,32,0.77,0.739,2:02
+1,1:43,BOS,Derrick White,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,37,32,0.728,0.758,1:51
+1,1:27,BOS,Derrick White,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,37,32,0.727,0.758,1:32
+1,1:27,PHI,PHI,Technical Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,37,32,0.794,0.727,1:27
+1,39.1,BOS,Sam Hauser,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,41,36,0.742,0.777,39.1
+2,11:30,BOS,Payton Pritchard,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,44,36,0.815,0.816,11:42
+2,11:15,BOS,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,44,36,0.787,0.815,11:16
+2,9:32,BOS,Neemias Queta,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,47,44,0.708,0.705,9:40
+2,5:37,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,54,58,0.456,0.515,5:37
+2,4:13,PHI,Paul Reed,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,56,61,0.474,0.477,4:26
+2,2:09,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,61,63,0.475,0.53,2:29
+2,1:22,PHI,De'Anthony Melton,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,63,66,0.574,0.526,1:32
+2,1:11,PHI,Marcus Morris Sr.,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,65,66,0.615,0.557,1:11
+3,10:43,PHI,De'Anthony Melton,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,71,75,0.524,0.473,10:59
+3,6:14,PHI,De'Anthony Melton,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,80,79,0.69,0.635,6:20
+3,5:18,BOS,Dalano Banton,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,84,79,0.688,0.74,5:22
+3,5:03,PHI,Patrick Beverley,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,86,81,0.796,0.741,5:03
+3,5:03,PHI,Patrick Beverley,Technical Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,86,81,0.796,0.796,5:03
+3,3:05,PHI,Furkan Korkmaz,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,87,87,0.65,0.588,3:20
+3,1:27,PHI,Robert Covington,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,91,89,0.732,0.668,1:43
+3,1:03,PHI,KJ Martin,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,93,91,0.733,0.668,1:15
+3,2.1,BOS,Jayson Tatum,Flagrant Foul Type 1,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,95,94,0.585,0.573,2.1
+3,2.1,BOS,Jayson Tatum,Technical Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,95,94,0.54,0.585,2.1
+4,10:24,BOS,Jrue Holiday,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,98,99,0.449,0.468,10:42
+4,10:14,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,98,99,0.398,0.449,10:24
+4,9:30,PHI,Robert Covington,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,100,101,0.596,0.501,9:40
+4,8:07,PHI,Robert Covington,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,104,104,0.577,0.558,8:08
+4,7:15,PHI,De'Anthony Melton,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,104,106,0.462,0.441,7:18
+4,6:34,BOS,Jaylen Brown,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,107,106,0.544,0.567,6:56
+4,5:28,PHI,Tobias Harris,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,109,108,0.732,0.626,5:51
+4,5:08,PHI,De'Anthony Melton,Loose Ball Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,111,108,0.836,0.763,5:08
+4,3:35,BOS,Jaylen Brown,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,113,110,0.589,0.779,3:48
+4,2:28,BOS,Luke Kornet,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,115,115,0.334,0.464,2:28
+4,1:34,PHI,Patrick Beverley,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,117,116,0.777,0.651,1:42
+4,1:01,PHI,Patrick Beverley,Shooting Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,119,116,0.906,0.696,3:48
+4,4.1,PHI,Patrick Beverley,Personal Take Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,123,119,0.995,0.979,5.1
+4,3.2,BOS,Jaylen Brown,Personal Foul,Foul,Bill Kennedy,Phenizee Ransom,Nick Buchert,BOS,125,119,0.973,0.993,4.1

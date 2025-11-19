@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:36,IND,Caris LeVert,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,2,6,0.526,0.529,9:48
+1,7:56,SAC,Maurice Harkless,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,4,8,0.494,0.494,7:57
+1,6:51,SAC,De'Aaron Fox,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,6,10,0.49,0.489,6:51
+1,6:32,IND,Torrey Craig,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,6,10,0.514,0.515,6:32
+1,4:15,SAC,Alex Len,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,11,15,0.438,0.477,4:27
+1,58.5,IND,Caris LeVert,Personal Take Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,16,24,0.422,0.38,59.2
+2,11:32,SAC,Davion Mitchell,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,19,27,0.342,0.342,11:41
+2,11:17,IND,Domantas Sabonis,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,19,27,0.37,0.34,11:17
+2,11:03,IND,Goga Bitadze,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,21,27,0.449,0.396,11:03
+2,9:57,IND,Goga Bitadze,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,22,27,0.451,0.452,10:09
+2,8:40,SAC,Tyrese Haliburton,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,24,29,0.371,0.416,8:54
+2,8:30,IND,T.J. McConnell,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,24,31,0.384,0.384,8:30
+2,8:25,IND,Torrey Craig,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,24,31,0.43,0.384,8:30
+2,6:18,IND,Myles Turner,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,32,33,0.584,0.56,6:18
+2,6:02,SAC,Richaun Holmes,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,34,33,0.59,0.592,6:18
+2,3:29,IND,Chris Duarte,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,34,40,0.437,0.391,3:48
+2,3:03,SAC,De'Aaron Fox,Offensive Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,35,42,0.319,0.354,3:18
+2,2:57,IND,Caris LeVert,Offensive Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,35,42,0.404,0.319,3:03
+2,2:31,IND,Myles Turner,Offensive Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,37,42,0.417,0.382,2:48
+2,1:31,IND,Myles Turner,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,37,44,0.396,0.344,1:31
+3,10:39,SAC,Maurice Harkless,Away from Play Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,43,52,0.228,0.312,10:39
+3,9:12,IND,T.J. McConnell,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,45,58,0.178,0.143,9:35
+3,8:46,IND,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,49,60,0.174,0.162,8:46
+3,6:19,SAC,Buddy Hield,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,52,65,0.075,0.098,6:22
+3,4:31,SAC,Terence Davis,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,54,68,0.069,0.084,4:31
+3,3:00,SAC,De'Aaron Fox,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,62,69,0.176,0.223,3:10
+3,2:51,SAC,Richaun Holmes,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,62,69,0.198,0.222,2:51
+3,1:10,SAC,Buddy Hield,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,62,73,0.066,0.094,1:18
+3,1:05,IND,Torrey Craig,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,62,74,0.129,0.095,1:10
+3,27.5,IND,Myles Turner,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,65,74,0.217,0.167,34.4
+4,10:49,SAC,Davion Mitchell,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,70,74,0.284,0.297,11:01
+4,10:08,IND,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,72,74,0.529,0.386,10:20
+4,9:51,SAC,Maurice Harkless,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,73,74,0.435,0.437,10:08
+4,9:00,SAC,Alex Len,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,75,74,0.436,0.532,9:21
+4,8:11,IND,Torrey Craig,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,75,75,0.539,0.519,8:11
+4,7:30,IND,Chris Duarte,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,78,77,0.597,0.588,7:39
+4,7:29,IND,Domantas Sabonis,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,78,77,0.694,0.597,7:30
+4,5:38,SAC,Richaun Holmes,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,78,83,0.121,0.184,5:49
+4,4:32,IND,Domantas Sabonis,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,80,85,0.304,0.214,4:40
+4,3:22,IND,Myles Turner,Personal Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,82,87,0.283,0.192,3:36
+4,1:45,IND,Justin Holiday,Shooting Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,86,91,0.241,0.143,1:54
+4,2.5,SAC,Buddy Hield,Personal Take Foul,Foul,Sean Wright,Marat Kogut,Mitchell Ervin,SAC,91,94,0.006,0.0,0.0

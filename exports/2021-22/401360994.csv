@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:30,SA,Joshua Primo,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,2,7,0.763,0.766,9:39
+1,9:08,SA,Zach Collins,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,2,7,0.746,0.76,9:08
+1,8:02,POR,Drew Eubanks,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,2,15,0.625,0.588,8:16
+1,4:46,SA,Devin Vassell,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,14,21,0.675,0.676,4:57
+1,4:36,SA,Keldon Johnson,Loose Ball Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,14,21,0.635,0.779,1:22
+2,11:27,SA,Joshua Primo,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,26,26,0.755,0.786,11:29
+2,9:47,POR,Kris Dunn,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,29,36,0.624,0.629,10:08
+2,9:00,SA,Joshua Primo,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,29,38,0.521,0.522,9:02
+2,8:37,POR,Reggie Perry,Clear Path Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,29,38,0.549,0.551,8:39
+2,2:43,POR,Drew Eubanks,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,39,48,0.515,0.469,2:59
+2,2:02,SA,Keldon Johnson,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,41,48,0.488,0.487,2:02
+2,31.5,SA,Lonnie Walker IV,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,46,52,0.475,0.541,31.5
+3,11:42,POR,CJ Elleby,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,48,56,0.453,0.456,11:52
+3,10:52,POR,CJ Elleby,Loose Ball Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,51,58,0.48,0.478,10:53
+3,10:16,SA,Tre Jones,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,53,58,0.45,0.506,10:17
+3,9:17,POR,Greg Brown III,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,55,58,0.609,0.61,9:19
+3,9:07,POR,Greg Brown III,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,55,58,0.658,0.609,9:17
+3,8:31,POR,CJ Elleby,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,58,58,0.748,0.704,8:36
+3,8:09,SA,Keldon Johnson,Offensive Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,60,58,0.73,0.761,8:14
+3,7:51,POR,Drew Eubanks,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,60,58,0.798,0.76,7:57
+3,5:40,SA,Zach Collins,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,68,60,0.842,0.875,5:42
+3,4:05,SA,Devin Vassell,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,71,63,0.877,0.876,4:25
+3,3:08,POR,Didi Louzada,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,71,66,0.866,0.828,3:12
+3,2:50,SA,Devin Vassell,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,72,66,0.782,0.827,3:08
+3,2:37,POR,Keljin Blevins,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,72,68,0.843,0.8,2:50
+3,1:10,POR,Reggie Perry,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,79,70,0.941,0.858,1:16
+3,49.3,SA,Keita Bates-Diop,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,81,70,0.91,0.934,49.4
+4,11:53,POR,Kris Dunn,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,82,72,0.944,0.93,12:00
+4,11:30,POR,Greg Brown III,Clear Path Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,82,72,0.947,0.943,11:31
+4,11:28,POR,Greg Brown III,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,84,72,0.969,0.956,11:30
+4,10:26,SA,Joshua Primo,Loose Ball Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,84,75,0.913,0.919,10:26
+4,8:58,POR,Kris Dunn,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,90,75,0.994,0.99,9:06
+4,8:58,POR,Greg Brown III,Loose Ball Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,91,75,0.996,0.993,8:58
+4,8:01,POR,Kris Dunn,Flagrant Foul Type 1,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,96,78,0.997,0.998,8:03
+4,7:06,POR,Drew Eubanks,Loose Ball Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,97,80,0.998,0.997,7:06
+4,4:01,SA,Tre Jones,Personal Take Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,105,89,0.998,0.999,4:05
+4,3:44,SA,Keldon Johnson,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,105,89,0.998,0.999,3:44
+4,3:04,POR,Reggie Perry,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,105,90,0.999,0.999,3:11
+4,1:58,POR,Reggie Perry,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,105,92,0.999,0.999,1:58
+4,1:20,SA,Tre Jones,Personal Take Foul,Foul,Courtney Kirkland,Eric Dalen,Jason Goldenberg,SA,109,92,0.999,0.999,1:25

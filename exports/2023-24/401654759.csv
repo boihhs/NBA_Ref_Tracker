@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:34,MIN,Anthony Edwards,Transition Take Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,4,4,0.632,0.632,9:34
+1,8:49,MIN,Rudy Gobert,Loose Ball Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,6,7,0.601,0.598,8:49
+1,8:30,PHX,Grayson Allen,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,6,7,0.625,0.628,8:32
+1,3:19,MIN,Jaden McDaniels,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,17,20,0.528,0.529,3:39
+1,19.0,PHX,Royce O'Neale,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,25,25,0.667,0.628,28.0
+2,10:48,PHX,Eric Gordon,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,31,30,0.65,0.653,10:54
+2,10:27,MIN,Kyle Anderson,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,31,30,0.623,0.622,10:37
+2,10:26,MIN,Kyle Anderson,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,31,32,0.544,0.594,10:26
+2,10:12,PHX,Jusuf Nurkic,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,31,32,0.634,0.593,10:24
+2,7:55,PHX,Devin Booker,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,38,34,0.722,0.725,7:55
+2,7:24,MIN,Mike Conley,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,40,36,0.677,0.723,7:24
+2,6:59,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,40,36,0.656,0.697,6:59
+2,6:22,PHX,Kevin Durant,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,42,38,0.742,0.697,6:22
+2,5:34,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,43,38,0.681,0.721,5:49
+2,4:50,PHX,Devin Booker,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,43,39,0.759,0.723,5:01
+2,3:52,PHX,Jusuf Nurkic,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,48,41,0.811,0.772,3:52
+2,3:18,MIN,Anthony Edwards,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,51,41,0.807,0.838,3:27
+2,2:33,PHX,Devin Booker,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,51,43,0.849,0.817,2:44
+2,2:05,PHX,Royce O'Neale,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,53,45,0.85,0.817,2:14
+2,1:39,MIN,Rudy Gobert,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,55,45,0.81,0.841,1:49
+2,54.0,PHX,Bradley Beal,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,59,47,0.917,0.897,58.0
+2,44.1,MIN,Mike Conley,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,61,47,0.888,0.91,54.0
+2,21.1,MIN,Mike Conley,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,61,49,0.853,0.882,21.1
+3,10:53,PHX,Jusuf Nurkic,Defensive 3-Seconds Technical,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,61,56,0.744,0.749,11:10
+3,9:18,PHX,Grayson Allen,Offensive Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,66,58,0.831,0.806,9:37
+3,7:38,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,71,63,0.79,0.812,7:38
+3,5:55,MIN,Rudy Gobert,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,73,67,0.71,0.76,6:12
+3,5:34,PHX,Jusuf Nurkic,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,75,68,0.806,0.79,5:34
+3,4:44,MIN,Karl-Anthony Towns,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,78,68,0.871,0.87,4:58
+3,3:44,PHX,Royce O'Neale,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,78,68,0.896,0.896,3:50
+3,3:33,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,78,68,0.877,0.896,3:44
+3,3:11,PHX,Bradley Beal,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,78,68,0.912,0.9,3:11
+3,1:28,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,83,68,0.947,0.963,1:35
+3,44.1,PHX,Drew Eubanks,Offensive Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,86,70,0.981,0.975,48.0
+3,26.0,PHX,Drew Eubanks,Loose Ball Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,86,70,0.988,0.982,26.0
+3,15.0,MIN,Naz Reid,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,89,70,0.984,0.99,22.0
+4,11:14,MIN,Rudy Gobert,Loose Ball Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,92,74,0.988,0.989,11:14
+4,10:32,MIN,Mike Conley,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,92,76,0.98,0.981,10:40
+4,10:27,MIN,Mike Conley,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,92,76,0.966,0.98,10:32
+4,10:03,PHX,Jusuf Nurkic,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,92,77,0.989,0.98,10:25
+4,7:09,MIN,Anthony Edwards,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,105,80,0.999,0.999,7:09
+4,5:44,PHX,Devin Booker,Shooting Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,105,86,0.999,0.998,5:48
+4,5:38,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Marc Davis,Ben Taylor,Aaron Smith,MIN,107,86,0.998,0.999,5:44

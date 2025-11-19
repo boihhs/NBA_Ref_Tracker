@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:33,BOS,Marcus Smart,Loose Ball Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,4,2,0.579,0.579,10:33
+1,8:58,BOS,Al Horford,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,6,7,0.5,0.498,9:11
+1,8:16,BOS,Jaylen Brown,Personal Take Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,8,7,0.553,0.552,8:18
+1,5:00,PHX,Devin Booker,Technical Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,13,14,0.543,0.494,5:06
+1,2:21,PHX,Ish Wainright,Offensive Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,22,18,0.653,0.628,2:24
+1,1:25,PHX,Ish Wainright,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,29,18,0.827,0.796,1:25
+2,11:22,PHX,Mikal Bridges,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,32,20,0.851,0.842,11:22
+2,10:00,PHX,Jalen Smith,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,40,25,0.888,0.889,10:07
+2,9:51,PHX,Jalen Smith,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,40,25,0.886,0.888,10:00
+2,9:00,BOS,Josh Richardson,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,44,26,0.883,0.904,9:07
+2,6:38,PHX,Cameron Johnson,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,50,33,0.938,0.923,6:48
+2,6:34,PHX,Cameron Johnson,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,50,33,0.938,0.938,6:38
+2,4:47,BOS,Robert Williams III,Loose Ball Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,52,35,0.918,0.918,4:47
+2,3:14,PHX,Devin Booker,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,56,35,0.974,0.966,3:15
+2,1:15,BOS,Marcus Smart,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,65,35,0.995,0.994,1:26
+2,6.6,BOS,Grant Williams,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,67,39,0.99,0.992,25.0
+3,10:47,BOS,Jaylen Brown,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,69,43,0.99,0.988,10:47
+3,10:37,PHX,Jalen Smith,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,71,46,0.992,0.988,10:37
+3,10:25,BOS,Jaylen Brown,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,71,46,0.986,0.988,10:35
+3,9:18,BOS,Robert Williams III,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,73,53,0.969,0.976,9:18
+3,9:08,PHX,Mikal Bridges,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,73,54,0.977,0.969,9:18
+3,7:59,PHX,Jalen Smith,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,75,59,0.961,0.948,8:18
+3,7:25,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,77,59,0.945,0.96,7:27
+3,3:41,PHX,Cameron Payne,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,85,66,0.989,0.983,3:56
+3,2:51,PHX,Emanuel Terry,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,87,69,0.985,0.982,2:51
+3,1:38,PHX,Devin Booker,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,92,69,0.997,0.995,1:38
+3,1:06,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,95,71,0.997,0.998,1:06
+3,38.2,BOS,Grant Williams,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,95,72,0.995,0.996,43.1
+4,11:34,BOS,Josh Richardson,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,100,79,0.993,0.997,11:34
+4,9:15,BOS,Payton Pritchard,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,104,83,0.997,0.997,9:20
+4,7:32,PHX,Elfrid Payton,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,106,89,0.996,0.995,7:51
+4,6:52,PHX,Mikal Bridges,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,106,91,0.995,0.991,7:09
+4,5:19,BOS,Romeo Langford,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,107,93,0.983,0.989,5:21
+4,4:08,PHX,Cameron Johnson,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,111,97,0.997,0.996,4:17
+4,3:07,PHX,Cameron Payne,Personal Take Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,113,99,0.998,0.998,3:07
+4,2:13,PHX,Jalen Smith,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,115,102,0.999,0.998,2:35
+4,56.8,BOS,Jaylen Brown,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,119,106,0.998,0.999,56.9
+4,54.2,BOS,Marcus Smart,Offensive Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,119,108,0.998,0.999,54.3
+4,44.3,PHX,Chris Paul,Personal Take Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,119,108,0.999,0.999,44.3
+4,39.6,PHX,Chris Paul,Personal Take Foul,Foul,Bill Kennedy,Scott Twardoski,Tyler Mirkovich,BOS,121,108,0.999,0.999,42.8

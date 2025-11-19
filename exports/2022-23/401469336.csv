@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:33,BOS,Grant Williams,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,0,0,0.645,0.608,11:47
+1,8:49,BOS,Jayson Tatum,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,9,2,0.759,0.76,8:49
+1,8:31,BOS,Marcus Smart,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,9,2,0.789,0.759,8:49
+1,6:23,PHI,P.J. Tucker,Offensive Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,12,7,0.698,0.719,6:43
+1,3:47,BOS,Al Horford,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,16,16,0.634,0.595,3:57
+1,45.1,PHI,Tyrese Maxey,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,25,19,0.682,0.718,55.1
+1,33.1,PHI,Joel Embiid,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,25,19,0.682,0.718,33.1
+1,14.1,BOS,Grant Williams,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,27,20,0.781,0.742,14.1
+2,11:04,PHI,De'Anthony Melton,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,28,22,0.682,0.719,11:08
+2,7:46,BOS,Derrick White,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,33,33,0.581,0.583,7:54
+2,6:42,PHI,Tobias Harris,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,35,33,0.563,0.61,6:54
+2,3:38,PHI,Tobias Harris,Offensive Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,40,37,0.636,0.667,3:50
+2,1:29,BOS,Derrick White,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,47,42,0.767,0.727,1:36
+2,58.0,PHI,Joel Embiid,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,49,42,0.71,0.754,1:15
+2,8.1,BOS,Marcus Smart,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,51,44,0.819,0.784,24.1
+3,10:53,PHI,Tyrese Maxey,Offensive Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,53,46,0.762,0.791,10:56
+3,10:39,PHI,Joel Embiid,Defensive 3-Seconds Technical,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,53,46,0.771,0.762,10:53
+3,10:31,BOS,Derrick White,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,53,47,0.759,0.765,10:31
+3,8:36,PHI,P.J. Tucker,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,58,52,0.735,0.735,8:42
+3,3:54,PHI,De'Anthony Melton,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,66,63,0.637,0.638,3:54
+3,3:07,PHI,Jalen McDaniels,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,68,65,0.638,0.638,3:24
+3,2:31,BOS,Al Horford,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,68,65,0.682,0.684,2:31
+3,1:43,BOS,Jayson Tatum,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,68,65,0.744,0.686,1:44
+3,1:29,PHI,Tyrese Maxey,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,68,65,0.573,0.643,1:30
+3,26.1,BOS,Al Horford,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,70,67,0.751,0.688,31.1
+4,10:35,BOS,Blake Griffin,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,74,71,0.745,0.646,10:35
+4,9:03,PHI,James Harden,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,77,77,0.477,0.497,9:21
+4,8:03,PHI,Paul Reed,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,77,79,0.273,0.369,8:05
+4,5:35,PHI,Tobias Harris,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,84,86,0.312,0.334,5:57
+4,5:24,PHI,Tyrese Maxey,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,84,86,0.223,0.312,5:35
+4,3:40,BOS,Marcus Smart,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,88,88,0.59,0.434,3:40
+4,3:26,PHI,P.J. Tucker,Offensive Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,89,88,0.519,0.519,3:33
+4,3:13,PHI,Tobias Harris,Personal Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,89,88,0.396,0.519,3:26
+4,1:58,BOS,Grant Williams,Technical Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,95,89,0.951,0.891,2:03
+4,44.2,PHI,P.J. Tucker,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,101,95,0.842,0.923,53.1
+4,16.2,BOS,Grant Williams,Personal Take Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,101,96,0.992,0.966,16.2
+4,9.1,BOS,Al Horford,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,101,96,0.997,0.986,9.1
+4,5.1,PHI,Tyrese Maxey,Shooting Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,103,98,0.953,0.991,5.1
+4,2.0,PHI,Joel Embiid,Offensive Foul,Foul,Eric Lewis,J.T. Orr,J.B. DeRosa,PHI,103,101,0.94,0.968,2.0

@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:39,TOR,Pascal Siakam,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,22,10,0.88,0.86,6:48
+1,6:28,IND,Jordan Nwora,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,23,10,0.837,0.86,6:39
+1,6:11,TOR,Otto Porter Jr.,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,23,11,0.86,0.86,6:28
+1,5:25,TOR,Otto Porter Jr.,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,23,13,0.853,0.833,5:32
+1,5:16,IND,T.J. McConnell,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,25,15,0.8,0.832,5:16
+1,4:34,IND,T.J. McConnell,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,25,16,0.795,0.795,4:52
+1,1:28,IND,Bennedict Mathurin,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,30,25,0.674,0.711,1:34
+1,1:17,IND,Jalen Smith,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,30,25,0.674,0.674,1:28
+2,10:46,IND,Tyrese Haliburton,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,37,32,0.709,0.709,10:46
+2,9:26,TOR,Chris Boucher,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,40,38,0.696,0.656,9:40
+2,7:57,IND,Jalen Smith,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,42,43,0.491,0.537,8:00
+2,6:34,TOR,Pascal Siakam,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,47,47,0.595,0.596,6:45
+2,4:29,TOR,TOR,Delay Technical,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,49,51,0.516,0.525,4:29
+2,4:07,IND,Bruce Brown,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,52,53,0.499,0.555,4:07
+2,3:28,TOR,Dennis Schroder,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,52,56,0.455,0.456,3:38
+3,11:09,IND,Bruce Brown,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,68,68,0.487,0.539,11:12
+3,10:45,IND,Bruce Brown,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,71,71,0.514,0.58,10:45
+3,8:17,TOR,OG Anunoby,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,77,76,0.663,0.607,8:24
+3,5:34,IND,Myles Turner,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,84,80,0.625,0.682,5:38
+3,4:04,IND,Jordan Nwora,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,89,87,0.54,0.604,4:23
+3,3:44,IND,T.J. McConnell,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,91,91,0.484,0.564,3:44
+3,3:27,TOR,Malachi Flynn,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,91,92,0.584,0.52,3:44
+3,2:05,IND,T.J. McConnell,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,97,97,0.477,0.56,2:05
+3,1:14,TOR,Malachi Flynn,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,97,98,0.582,0.51,1:16
+3,56.1,IND,Jordan Nwora,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,97,98,0.389,0.459,1:10
+4,11:26,IND,Tyrese Haliburton,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,101,100,0.462,0.55,11:29
+4,10:16,TOR,Chris Boucher,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,104,106,0.538,0.441,10:28
+4,9:34,TOR,OG Anunoby,Offensive Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,108,108,0.554,0.495,9:48
+4,8:44,TOR,Gary Trent Jr.,Offensive Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,108,110,0.44,0.379,8:53
+4,6:40,IND,Buddy Hield,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,113,112,0.531,0.549,6:56
+4,5:03,IND,T.J. McConnell,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,117,114,0.657,0.681,5:04
+4,4:22,TOR,Dennis Schroder,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,119,116,0.795,0.678,4:22
+4,3:37,IND,Myles Turner,Offensive Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,123,118,0.816,0.861,3:48
+4,2:00,IND,Obi Toppin,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,125,121,0.657,0.794,2:19
+4,35.2,IND,Tyrese Haliburton,Personal Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,127,126,0.363,0.51,41.0
+4,27.0,IND,Myles Turner,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,129,130,0.2,0.43,27.0
+4,16.1,IND,Bruce Brown,Personal Take Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,129,131,0.069,0.164,17.0
+4,15.1,TOR,Dennis Schroder,Personal Take Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,129,132,0.388,0.165,16.1
+4,12.1,TOR,OG Anunoby,Shooting Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,129,132,0.384,0.388,15.1
+4,8.0,IND,Buddy Hield,Personal Take Foul,Foul,Nick Buchert,Matt Myers,Andy Nagy,IND,131,132,0.098,0.291,12.1

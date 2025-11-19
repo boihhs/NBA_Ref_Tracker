@@ -1,0 +1,30 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:02,LAL,Anthony Davis,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,3,4,0.677,0.644,10:09
+1,7:26,LAL,Malik Monk,Offensive Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,10,8,0.703,0.681,7:32
+1,7:10,LAL,Avery Bradley,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,10,8,0.735,0.703,7:26
+1,3:07,LAL,Talen Horton-Tucker,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,20,18,0.729,0.695,3:29
+1,25.9,PHI,Tyrese Maxey,Loose Ball Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,32,22,0.807,0.835,25.9
+2,10:29,PHI,Andre Drummond,Offensive Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,34,26,0.809,0.798,10:43
+2,9:08,LAL,Carmelo Anthony,Offensive Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,39,29,0.854,0.838,9:17
+2,6:41,LAL,Stanley Johnson,Offensive Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,41,31,0.857,0.84,6:42
+2,6:25,PHI,Joel Embiid,Offensive Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,41,31,0.84,0.857,6:41
+2,6:10,PHI,Tyrese Maxey,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,41,31,0.809,0.84,6:25
+2,5:43,LAL,Malik Monk,Personal Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,41,35,0.776,0.779,5:50
+2,5:32,LAL,Stanley Johnson,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,41,35,0.794,0.778,5:32
+2,4:59,PHI,Furkan Korkmaz,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,42,35,0.741,0.777,5:02
+2,3:10,LAL,Anthony Davis,Personal Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,46,41,0.754,0.752,3:29
+2,2:44,PHI,Furkan Korkmaz,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,48,41,0.74,0.778,2:58
+2,42.8,PHI,Tyrese Maxey,Personal Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,54,45,0.792,0.826,45.9
+2,35.7,PHI,Joel Embiid,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,54,47,0.759,0.807,35.7
+3,10:28,PHI,Matisse Thybulle,Personal Take Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,54,52,0.648,0.632,10:28
+3,8:05,LAL,Russell Westbrook,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,60,54,0.825,0.789,8:21
+3,3:06,PHI,Georges Niang,Personal Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,75,63,0.919,0.918,3:22
+3,2:51,LAL,Carmelo Anthony,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,75,63,0.953,0.936,2:53
+3,2:31,LAL,Anthony Davis,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,78,63,0.968,0.96,2:31
+3,2:09,LAL,Dwight Howard,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,79,63,0.984,0.976,2:14
+3,1:04,LAL,Dwight Howard,Personal Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,83,66,0.985,0.984,1:13
+3,46.5,LAL,Dwight Howard,Offensive Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,85,66,0.992,0.988,1:04
+3,5.6,PHI,Andre Drummond,Shooting Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,88,66,0.994,0.996,12.3
+4,10:21,PHI,Furkan Korkmaz,Personal Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,88,71,0.986,0.987,10:27
+4,7:01,PHI,Georges Niang,Personal Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,94,78,0.991,0.992,7:11
+4,33.1,PHI,Tyrese Maxey,Personal Take Foul,Foul,James Capers,Kevin Cutler,Leon Wood,PHI,105,87,0.999,0.999,34.4

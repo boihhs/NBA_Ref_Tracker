@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,BOS,Jaylen Brown,Offensive Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,0,4,0.176,0.159,10:42
+1,8:37,LAL,Taurean Prince,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,3,14,0.078,0.095,8:37
+1,7:43,BOS,Kristaps Porzingis,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,5,14,0.135,0.116,7:44
+1,7:24,LAL,Cam Reddish,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,6,14,0.1,0.116,7:43
+1,6:53,LAL,Austin Reaves,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,8,18,0.089,0.106,6:53
+1,5:20,BOS,Kristaps Porzingis,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,10,25,0.075,0.063,5:30
+1,4:13,LAL,Austin Reaves,Offensive Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,12,28,0.049,0.056,4:17
+1,1:48,BOS,Neemias Queta,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,18,32,0.086,0.071,1:52
+2,11:44,BOS,Al Horford,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,23,32,0.15,0.121,12:00
+2,10:07,BOS,Payton Pritchard,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,28,38,0.115,0.115,10:16
+2,8:28,BOS,Neemias Queta,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,32,41,0.13,0.131,8:30
+2,6:52,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,37,45,0.121,0.131,7:17
+2,5:54,BOS,Jaylen Brown,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,41,47,0.218,0.187,5:55
+2,2:41,BOS,Jrue Holiday,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,48,52,0.258,0.214,2:41
+2,2:26,LAL,Rui Hachimura,Loose Ball Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,49,52,0.237,0.237,2:26
+2,1:32,LAL,Taurean Prince,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,52,54,0.228,0.269,1:33
+2,4.1,BOS,Derrick White,Offensive Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,57,58,0.334,0.304,19.1
+3,10:52,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,59,58,0.325,0.376,10:54
+3,10:20,LAL,LeBron James,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,62,62,0.321,0.381,10:20
+3,10:14,BOS,Jaylen Brown,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,62,62,0.433,0.382,10:17
+3,10:00,LAL,Taurean Prince,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,64,62,0.363,0.412,10:14
+3,8:53,LAL,Jarred Vanderbilt,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,66,69,0.216,0.256,8:53
+3,7:51,BOS,Kristaps Porzingis,Defensive 3-Seconds Technical,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,68,71,0.282,0.29,8:03
+3,7:31,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,69,73,0.21,0.26,7:31
+3,6:31,LAL,Anthony Davis,Loose Ball Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,72,76,0.189,0.231,6:32
+3,3:16,LAL,Anthony Davis,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,79,85,0.133,0.171,3:29
+3,2:16,BOS,Al Horford,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,81,89,0.186,0.143,2:32
+3,47.1,LAL,Rui Hachimura,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,85,95,0.052,0.074,50.0
+3,37.1,BOS,Neemias Queta,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,87,97,0.108,0.073,37.1
+3,32.0,LAL,Cam Reddish,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,88,97,0.065,0.089,37.1
+3,21.1,BOS,Al Horford,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,88,99,0.101,0.074,32.0
+4,11:20,LAL,Taurean Prince,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,90,99,0.055,0.082,11:23
+4,7:58,LAL,D'Angelo Russell,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,94,107,0.011,0.024,7:58
+4,7:36,BOS,Derrick White,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,94,107,0.04,0.023,7:58
+4,5:15,BOS,Derrick White,Loose Ball Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,103,113,0.044,0.04,5:15
+4,2:40,LAL,Austin Reaves,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,107,121,0.001,0.001,2:41
+4,2:25,BOS,Kristaps Porzingis,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Karl Lane,LAL,107,122,0.002,0.001,2:40

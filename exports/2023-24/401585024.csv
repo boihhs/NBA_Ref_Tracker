@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,CHI,Coby White,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,5,2,0.727,0.728,10:25
+1,7:21,CHI,Ayo Dosunmu,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,7,15,0.424,0.471,7:21
+1,5:16,CHI,Ayo Dosunmu,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,14,18,0.539,0.542,5:21
+1,4:34,CLE,Isaac Okoro,Away from Play Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,16,20,0.565,0.564,4:34
+1,2:30,CLE,Georges Niang,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,21,25,0.595,0.555,2:44
+1,1:16,CHI,DeMar DeRozan,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,25,28,0.504,0.549,1:30
+1,44.1,CHI,Andre Drummond,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,28,30,0.53,0.574,45.1
+2,10:26,CLE,Georges Niang,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,30,37,0.441,0.442,10:35
+2,10:06,CLE,Tristan Thompson,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,30,37,0.439,0.439,10:06
+2,9:52,CHI,Alex Caruso,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,30,37,0.362,0.407,9:55
+2,9:41,CLE,Isaac Okoro,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,32,38,0.489,0.435,9:41
+2,7:40,CLE,Damian Jones,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,37,38,0.649,0.608,7:48
+2,7:14,CHI,Patrick Williams,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,39,40,0.575,0.574,7:14
+2,5:24,CHI,Patrick Williams,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,41,48,0.328,0.374,5:40
+2,5:16,CHI,DeMar DeRozan,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,41,48,0.327,0.371,5:20
+2,4:37,CHI,Nikola Vucevic,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,41,50,0.263,0.308,4:44
+2,4:31,CHI,Andre Drummond,Offensive Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,41,52,0.247,0.278,4:37
+2,2:31,CHI,Andre Drummond,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,48,54,0.336,0.388,2:45
+2,35.1,CLE,Georges Niang,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,52,57,0.491,0.441,41.1
+2,10.0,CLE,Craig Porter Jr.,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,54,57,0.561,0.505,27.2
+3,10:16,CHI,DeMar DeRozan,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,58,57,0.605,0.607,10:18
+3,9:09,CHI,DeMar DeRozan,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,60,61,0.47,0.527,9:12
+3,4:43,CHI,Coby White,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,69,71,0.426,0.502,4:43
+3,3:21,CLE,Damian Jones,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,69,72,0.449,0.452,3:24
+3,2:50,CHI,Jevon Carter,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,69,72,0.366,0.4,2:50
+3,2:12,CLE,Damian Jones,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,69,75,0.311,0.31,2:12
+3,2:04,CLE,Max Strus,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,69,75,0.375,0.311,2:12
+3,58.1,CLE,Georges Niang,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,70,80,0.198,0.151,1:08
+4,11:40,CHI,Alex Caruso,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,72,84,0.05,0.083,11:40
+4,11:01,CHI,Andre Drummond,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,72,86,0.03,0.034,11:17
+4,10:55,CHI,Alex Caruso,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,72,88,0.012,0.023,10:55
+4,9:54,CLE,Damian Jones,Offensive Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,75,89,0.033,0.025,10:02
+4,9:45,CLE,Damian Jones,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,75,89,0.056,0.033,9:54
+4,9:45,CLE,Georges Niang,Technical Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,75,89,0.043,0.056,9:45
+4,8:25,CLE,Dean Wade,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,81,89,0.184,0.111,8:25
+4,7:47,CHI,Patrick Williams,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,82,89,0.09,0.137,7:47
+4,7:23,CHI,Dalen Terry,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,82,89,0.084,0.126,7:25
+4,4:14,CHI,Ayo Dosunmu,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,88,98,0.011,0.024,4:32
+4,2:25,CLE,Max Strus,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Evan Scott,CHI,94,106,0.01,0.002,2:25

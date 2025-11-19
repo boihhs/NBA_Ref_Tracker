@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:50,NO,Naji Marshall,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,0,0,0.55,0.51,10:58
+1,9:51,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,4,0,0.588,0.588,9:51
+1,9:26,NO,Willy Hernangomez,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,6,2,0.614,0.588,9:26
+1,9:10,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,7,4,0.576,0.588,9:10
+1,9:09,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,7,4,0.545,0.564,9:09
+1,8:08,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,9,6,0.545,0.565,8:08
+1,7:33,MIN,Josh Okogie,Personal Take Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,11,8,0.527,0.564,7:33
+1,7:06,MIN,D'Angelo Russell,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,13,10,0.565,0.565,7:11
+1,5:21,NO,Devonte' Graham,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,18,13,0.663,0.648,5:21
+1,4:23,NO,Willy Hernangomez,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,20,18,0.607,0.566,4:32
+1,4:08,MIN,Naz Reid,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,21,20,0.494,0.544,4:08
+1,2:57,NO,Nickeil Alexander-Walker,Offensive Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,24,23,0.545,0.515,3:07
+1,1:24,NO,Nickeil Alexander-Walker,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,24,28,0.442,0.4,1:29
+2,11:09,NO,Nickeil Alexander-Walker,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,27,28,0.528,0.487,11:16
+2,11:04,NO,Tomas Satoransky,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,29,28,0.544,0.544,11:04
+2,8:58,NO,Josh Hart,Offensive Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,36,31,0.663,0.634,9:04
+2,8:58,MIN,Patrick Beverley,Technical Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,36,31,0.61,0.663,8:58
+2,8:58,NO,Josh Hart,Technical Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,36,31,0.681,0.61,8:58
+2,8:31,NO,Kira Lewis Jr.,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,36,31,0.664,0.664,8:32
+2,6:49,MIN,Naz Reid,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,42,31,0.794,0.794,6:54
+2,6:36,NO,Willy Hernangomez,Loose Ball Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,42,31,0.845,0.816,6:36
+2,3:56,MIN,Josh Okogie,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,46,38,0.73,0.728,4:08
+2,3:19,MIN,Jaden McDaniels,Offensive Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,46,38,0.732,0.758,3:23
+2,2:48,MIN,Anthony Edwards,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,49,38,0.775,0.809,2:57
+2,2:06,MIN,Patrick Beverley,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,52,40,0.802,0.835,2:21
+2,1:43,NO,Willy Hernangomez,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,54,40,0.894,0.876,1:43
+2,38.4,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,60,42,0.918,0.935,52.5
+3,11:37,MIN,Jaden McDaniels,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,65,45,0.961,0.96,12:00
+3,11:05,NO,Willy Hernangomez,Offensive Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,65,45,0.969,0.962,11:11
+3,10:44,NO,Naji Marshall,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,65,45,0.977,0.97,10:53
+3,6:34,MIN,Patrick Beverley,Personal Take Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,76,57,0.969,0.969,6:35
+3,5:37,NO,Brandon Ingram,Personal Take Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,78,60,0.972,0.972,5:38
+3,5:09,MIN,Taurean Prince,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,81,60,0.984,0.983,5:27
+3,2:08,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,91,70,0.985,0.994,2:52
+3,1:25,NO,Josh Hart,Personal Take Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,91,75,0.983,0.99,2:08
+3,1:14,MIN,Jarred Vanderbilt,Offensive Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,91,75,0.967,0.975,1:25
+3,1:00,MIN,Jake Layman,Loose Ball Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,91,75,0.953,0.968,1:00
+3,16.4,NO,Tomas Satoransky,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,93,78,0.972,0.963,16.4
+4,11:36,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,94,78,0.959,0.976,11:43
+4,10:57,MIN,Jordan McLaughlin,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,94,80,0.96,0.96,10:57
+4,9:34,MIN,Nathan Knight,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,99,84,0.975,0.982,9:34
+4,8:23,MIN,Jaden McDaniels,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,101,87,0.951,0.97,8:40
+4,7:59,NO,Josh Hart,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,103,90,0.98,0.96,7:59
+4,4:41,NO,Wenyen Gabriel,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,111,100,0.979,0.976,4:46
+4,4:29,NO,Herbert Jones,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,111,100,0.99,0.979,4:41
+4,4:05,MIN,MIN,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,112,100,0.976,0.983,4:05
+4,2:50,MIN,MIN,Shooting Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,114,107,0.878,0.941,2:50
+4,2:09,MIN,Nathan Knight,Offensive Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,114,108,0.887,0.922,2:17
+4,12.4,NO,Herbert Jones,Personal Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,114,112,0.933,0.766,28.7
+4,11.2,NO,Trey Murphy III,Personal Take Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,114,112,0.937,0.933,12.4
+4,6.5,NO,Kira Lewis Jr.,Personal Take Foul,Foul,Pat Fraher,Phenizee Ransom,Lauren Holtkamp,MIN,116,114,0.961,0.884,7.3

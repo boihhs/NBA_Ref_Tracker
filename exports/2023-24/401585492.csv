@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:12,CHI,Nikola Vucevic,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,9,11,0.417,0.455,9:22
+1,7:40,MIL,Jae Crowder,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,9,16,0.351,0.349,7:53
+1,5:55,CHI,DeMar DeRozan,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,14,19,0.334,0.37,5:56
+1,5:44,CHI,Andre Drummond,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,14,20,0.327,0.345,5:44
+1,3:53,CHI,Nikola Vucevic,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,16,26,0.215,0.244,3:59
+1,2:37,CHI,Andre Drummond,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,18,28,0.21,0.241,2:37
+1,1:03,CHI,Jevon Carter,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,18,31,0.148,0.176,1:14
+1,17.2,MIL,Pat Connaughton,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,21,33,0.247,0.215,27.1
+2,11:23,MIL,Danilo Gallinari,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,28,33,0.405,0.354,11:23
+2,11:00,CHI,Ayo Dosunmu,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,29,33,0.342,0.382,11:23
+2,9:34,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,29,35,0.353,0.353,9:48
+2,9:24,MIL,Danilo Gallinari,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,29,35,0.352,0.325,10:08
+2,8:35,MIL,Bobby Portis,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,29,37,0.336,0.294,8:42
+2,7:49,MIL,Patrick Beverley,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,29,37,0.333,0.29,7:50
+2,7:21,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,31,39,0.332,0.289,7:34
+2,5:36,CHI,Onuralp Bitim,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,35,44,0.232,0.232,5:40
+2,5:00,MIL,Jae Crowder,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,37,44,0.354,0.308,5:01
+2,3:36,CHI,DeMar DeRozan,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,38,46,0.212,0.246,3:47
+2,2:33,CHI,Coby White,Loose Ball Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,38,50,0.122,0.15,2:33
+2,1:16,MIL,Brook Lopez,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,38,50,0.2,0.163,1:16
+2,24.1,MIL,Damian Lillard,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,42,55,0.173,0.142,32.1
+3,8:49,CHI,Coby White,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,51,63,0.092,0.119,8:51
+3,6:03,MIL,Jae Crowder,Loose Ball Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,58,70,0.12,0.12,6:03
+3,1:59,MIL,Brook Lopez,Offensive Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,69,80,0.111,0.093,2:14
+3,1:46,CHI,Ayo Dosunmu,Offensive Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,69,80,0.089,0.05,2:48
+3,1:21,CHI,Onuralp Bitim,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,69,80,0.061,0.086,1:23
+3,31.1,CHI,DeMar DeRozan,Flagrant Foul Type 1,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,69,80,0.085,0.079,34.1
+3,31.1,CHI,DeMar DeRozan,Technical Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,69,80,0.067,0.085,31.1
+4,11:15,MIL,AJ Green,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,74,84,0.117,0.108,11:18
+4,11:07,MIL,Pat Connaughton,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,74,84,0.167,0.117,11:15
+4,10:57,CHI,Alex Caruso,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,76,84,0.133,0.14,11:07
+4,10:57,CHI,Alex Caruso,Technical Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,76,84,0.116,0.133,10:57
+4,10:25,CHI,Alex Caruso,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,76,87,0.041,0.066,10:40
+4,9:27,CHI,Nikola Vucevic,Flagrant Foul Type 2,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,76,88,0.042,0.042,9:34
+4,8:43,CHI,Andre Drummond,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,76,92,0.005,0.009,8:55
+4,5:57,CHI,Julian Phillips,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,82,101,0.001,0.001,6:09
+4,4:46,CHI,Terry Taylor,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,89,105,0.001,0.001,4:58
+4,3:25,MIL,Damian Lillard,Personal Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,91,109,0.001,0.001,3:36
+4,3:21,MIL,Pat Connaughton,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,93,109,0.001,0.001,3:21
+4,2:17,CHI,Andre Drummond,Shooting Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,96,109,0.001,0.001,2:40
+4,1:42,MIL,Giannis Antetokounmpo,Personal Take Foul,Foul,Josh Tiven,Matt Myers,J.B. DeRosa,CHI,96,111,0.001,0.001,1:42

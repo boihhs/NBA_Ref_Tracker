@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:00,BKN,Bruce Brown,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,5,0,0.607,0.604,10:21
+1,9:35,MIA,Omer Yurtseven,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,7,3,0.625,0.58,9:35
+1,9:07,MIA,Duncan Robinson,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,7,5,0.556,0.557,9:10
+1,8:44,BKN,Andre Drummond,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,7,5,0.531,0.53,9:01
+1,7:55,MIA,Max Strus,Technical Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,9,7,0.576,0.557,8:04
+1,6:43,BKN,Goran Dragic,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,17,7,0.696,0.731,6:54
+1,6:07,MIA,Omer Yurtseven,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,19,8,0.773,0.776,6:09
+1,5:34,BKN,Andre Drummond,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,19,10,0.692,0.733,5:34
+1,4:02,BKN,Kevin Durant,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,26,13,0.77,0.8,4:10
+1,3:38,BKN,Cam Thomas,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,26,15,0.726,0.76,3:51
+1,7.1,MIA,Dewayne Dedmon,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,33,23,0.77,0.747,25.1
+1,2.1,MIA,Gabe Vincent,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,33,23,0.803,0.77,7.1
+2,10:18,BKN,Nic Claxton,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,35,27,0.705,0.705,10:18
+2,8:43,MIA,Caleb Martin,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,40,27,0.846,0.846,8:50
+2,8:18,BKN,James Johnson,Defensive 3-Seconds Technical,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,42,27,0.868,0.863,8:33
+2,8:11,BKN,James Johnson,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,42,28,0.817,0.847,8:18
+2,7:42,BKN,James Johnson,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,42,31,0.77,0.811,7:42
+2,7:19,BKN,Seth Curry,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,44,32,0.778,0.811,7:27
+2,5:37,BKN,Patty Mills,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,51,38,0.808,0.838,5:54
+2,5:26,MIA,Max Strus,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,51,39,0.838,0.84,5:37
+2,5:02,BKN,Kevin Durant,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,54,39,0.85,0.878,5:15
+2,5:02,BKN,Seth Curry,Technical Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,54,39,0.863,0.85,5:02
+2,2:27,MIA,Duncan Robinson,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,57,50,0.772,0.762,2:27
+2,2:07,BKN,Goran Dragic,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,60,50,0.749,0.785,2:27
+2,44.6,BKN,Kevin Durant,Technical Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,65,56,0.749,0.792,44.9
+3,11:45,BKN,Kevin Durant,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,67,60,0.715,0.727,12:00
+3,11:40,MIA,Bam Adebayo,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,67,60,0.749,0.715,11:45
+3,11:29,MIA,Max Strus,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,67,60,0.747,0.749,11:40
+3,9:32,MIA,Caleb Martin,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,69,65,0.708,0.659,9:47
+3,9:14,MIA,Gabe Vincent,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,71,67,0.658,0.66,9:21
+3,9:14,MIA,MIA,Technical Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,71,67,0.685,0.658,9:14
+3,7:32,BKN,Seth Curry,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,74,72,0.555,0.553,7:42
+3,6:05,BKN,Andre Drummond,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,74,76,0.395,0.435,6:09
+3,4:45,BKN,James Johnson,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,74,78,0.312,0.353,4:58
+3,4:12,MIA,Bam Adebayo,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,74,81,0.292,0.239,4:31
+3,3:30,MIA,Max Strus,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,76,81,0.368,0.307,3:30
+3,1:33,BKN,James Johnson,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,80,84,0.235,0.294,1:52
+4,11:41,MIA,Gabe Vincent,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,84,88,0.378,0.329,11:41
+4,10:22,MIA,Dewayne Dedmon,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,88,92,0.338,0.324,10:28
+4,9:58,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,90,92,0.453,0.435,9:58
+4,8:14,MIA,Dewayne Dedmon,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,92,97,0.321,0.274,8:27
+4,7:59,BKN,Seth Curry,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,94,97,0.32,0.331,8:14
+4,7:55,BKN,Andre Drummond,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,94,99,0.184,0.275,7:55
+4,6:15,MIA,Bam Adebayo,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,94,102,0.177,0.124,6:34
+4,5:49,BKN,Seth Curry,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,96,102,0.134,0.147,5:49
+4,4:55,BKN,Kevin Durant,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,96,104,0.037,0.069,4:55
+4,4:52,BKN,Bruce Brown,Personal Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,96,104,0.037,0.037,4:55
+4,4:44,MIA,Bam Adebayo,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,96,106,0.075,0.044,4:52
+4,2:23,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,105,109,0.331,0.216,2:23
+4,23.5,BKN,Patty Mills,Personal Take Foul,Foul,Eric Lewis,J.T. Orr,Ben Taylor,BKN,107,111,0.027,0.077,27.5

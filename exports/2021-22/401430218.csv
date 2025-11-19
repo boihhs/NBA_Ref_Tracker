@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:38,ATL,John Collins,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,3,3,0.55,0.55,9:38
+1,8:41,MIA,Bam Adebayo,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,5,7,0.52,0.522,8:52
+1,7:49,ATL,Kevin Huerter,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,11,7,0.609,0.646,8:03
+1,6:20,ATL,Trae Young,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,16,12,0.647,0.646,6:29
+1,5:57,MIA,Gabe Vincent,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,16,15,0.596,0.596,6:13
+1,3:21,ATL,John Collins,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,19,21,0.463,0.512,3:21
+1,2:36,MIA,Dewayne Dedmon,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,19,22,0.523,0.483,2:52
+1,1:21,ATL,Danilo Gallinari,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,23,22,0.519,0.565,1:27
+1,1:03,MIA,Jimmy Butler III,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,23,24,0.58,0.536,1:04
+1,45.3,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,26,24,0.549,0.592,58.9
+1,30.5,MIA,Dewayne Dedmon,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,26,25,0.63,0.596,45.3
+2,9:26,MIA,Caleb Martin,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,31,27,0.694,0.647,9:26
+2,8:51,MIA,Duncan Robinson,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,32,27,0.701,0.701,9:03
+2,8:07,MIA,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,34,27,0.783,0.751,8:13
+2,7:53,MIA,Caleb Martin,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,35,29,0.761,0.725,7:59
+2,7:40,ATL,Bogdan Bogdanovic,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,35,29,0.698,0.699,7:40
+2,6:25,ATL,Danilo Gallinari,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,37,31,0.659,0.701,6:35
+2,6:23,ATL,John Collins,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,37,34,0.594,0.643,6:23
+2,6:06,MIA,Victor Oladipo,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,37,35,0.661,0.618,6:23
+2,5:52,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,37,35,0.538,0.585,5:52
+2,4:29,ATL,De'Andre Hunter,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,37,39,0.406,0.455,4:43
+2,3:17,MIA,Bam Adebayo,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,40,44,0.47,0.422,3:17
+2,1:54,ATL,John Collins,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,41,47,0.274,0.32,1:54
+3,9:31,MIA,Gabe Vincent,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,46,60,0.143,0.116,9:41
+3,9:09,MIA,P.J. Tucker,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,48,60,0.152,0.15,9:09
+3,8:29,MIA,Bam Adebayo,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,51,60,0.272,0.226,8:40
+3,7:00,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,52,63,0.105,0.137,7:20
+3,5:20,ATL,Onyeka Okongwu,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,54,69,0.057,0.058,5:37
+3,5:20,MIA,P.J. Tucker,Technical Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,54,69,0.08,0.057,5:20
+3,4:34,ATL,Onyeka Okongwu,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,56,69,0.078,0.097,4:38
+3,3:11,MIA,Max Strus,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,56,72,0.063,0.045,3:15
+3,3:01,ATL,Onyeka Okongwu,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,56,72,0.035,0.042,3:01
+3,2:27,MIA,Gabe Vincent,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,56,72,0.058,0.04,2:37
+3,26.8,MIA,Victor Oladipo,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,59,77,0.025,0.018,37.4
+4,7:32,ATL,John Collins,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,67,91,0.001,0.001,7:32
+4,6:28,ATL,Trae Young,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,69,94,0.001,0.001,6:28
+4,6:22,MIA,Victor Oladipo,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,69,95,0.001,0.001,6:28
+4,5:30,MIA,Max Strus,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,74,95,0.001,0.002,8:55
+4,5:03,ATL,De'Andre Hunter,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,74,95,0.001,0.001,5:07
+4,4:16,MIA,Victor Oladipo,Double Technical Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,74,98,0.001,0.001,4:16
+4,3:23,MIA,Caleb Martin,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,74,100,0.001,0.001,3:35
+4,3:03,MIA,Victor Oladipo,Personal Take Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,74,100,0.001,0.001,3:03
+4,2:28,ATL,Skylar Mays,Away from Play Foul,Foul,Courtney Kirkland,Brent Barnaky,David Guthrie,ATL,77,103,0.001,0.001,2:28

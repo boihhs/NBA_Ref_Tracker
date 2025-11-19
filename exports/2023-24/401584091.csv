@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:27,MIA,Bam Adebayo,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,6,5,0.713,0.744,9:33
+1,8:17,WSH,Tyus Jones,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,8,8,0.768,0.74,8:30
+1,6:18,WSH,Jordan Poole,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,16,19,0.697,0.664,6:38
+1,5:54,WSH,Daniel Gafford,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,18,21,0.695,0.66,6:01
+1,5:19,MIA,Bam Adebayo,Offensive Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,20,23,0.631,0.658,5:36
+1,4:30,WSH,Deni Avdija,Personal Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,20,26,0.614,0.576,4:46
+2,8:50,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,43,42,0.669,0.716,8:50
+2,8:43,MIA,Josh Richardson,Flopping Technical,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,43,42,0.687,0.715,8:45
+2,7:30,WSH,Kyle Kuzma,Personal Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,45,44,0.708,0.709,7:31
+2,3:56,MIA,Haywood Highsmith,Offensive Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,58,48,0.871,0.887,4:05
+2,2:38,MIA,Haywood Highsmith,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,58,50,0.82,0.855,2:38
+2,57.0,WSH,Jordan Poole,Personal Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,60,53,0.862,0.814,58.1
+2,34.1,MIA,Haywood Highsmith,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,60,53,0.776,0.813,46.1
+3,10:32,WSH,Daniel Gafford,Personal Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,62,54,0.857,0.857,10:32
+3,9:10,WSH,Daniel Gafford,Offensive Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,69,58,0.909,0.893,9:22
+3,8:12,WSH,Kyle Kuzma,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,71,60,0.93,0.91,8:29
+3,5:51,WSH,Kyle Kuzma,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,78,64,0.965,0.954,6:04
+3,4:53,MIA,Jimmy Butler III,Personal Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,83,64,0.982,0.982,5:09
+3,3:31,MIA,Kyle Lowry,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,89,67,0.989,0.993,3:44
+3,2:27,MIA,Bam Adebayo,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,91,73,0.979,0.987,2:27
+3,1:39,WSH,Mike Muscala,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,93,76,0.988,0.98,1:39
+3,3.1,WSH,Jordan Poole,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,100,81,0.996,0.994,3.1
+3,1.2,MIA,Tyler Herro,Personal Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,101,81,0.99,0.994,1.2
+4,8:48,MIA,Thomas Bryant,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,109,85,0.998,0.999,8:58
+4,8:38,MIA,Thomas Bryant,Offensive Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,109,87,0.998,0.999,8:48
+4,7:20,WSH,Daniel Gafford,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,111,90,0.999,0.999,7:20
+4,7:03,MIA,Josh Richardson,Loose Ball Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,112,90,0.999,0.999,7:03
+4,6:15,MIA,Thomas Bryant,Offensive Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,115,92,0.999,0.999,6:22
+4,6:08,MIA,Thomas Bryant,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,115,92,0.999,0.999,6:15
+4,4:53,WSH,Anthony Gill,Personal Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,115,100,0.996,0.996,5:00
+4,4:00,MIA,Tyler Herro,Shooting Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,115,104,0.966,0.986,4:00
+4,3:59,WSH,Ryan Rollins,Personal Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,115,105,0.98,0.977,4:00
+4,3:19,WSH,Eugene Omoruyi,Personal Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,117,105,0.997,0.992,3:37
+4,37.0,MIA,Tyler Herro,Personal Foul,Foul,Zach Zarba,Sean Corbin,John Conley,MIA,121,109,0.998,0.999,40.0

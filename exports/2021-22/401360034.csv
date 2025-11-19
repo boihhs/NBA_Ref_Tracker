@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:42,GS,Jordan Poole,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,0,0,0.471,0.471,12:00
+1,11:16,BKN,Bruce Brown,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,3,0,0.487,0.525,11:38
+1,10:00,GS,Kevon Looney,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,7,5,0.514,0.501,10:00
+1,9:43,BKN,Blake Griffin,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,7,5,0.501,0.5,9:58
+1,9:27,GS,Draymond Green,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,7,7,0.512,0.476,9:38
+1,7:31,GS,Kevon Looney,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,13,11,0.568,0.529,7:46
+1,4:53,GS,Andrew Wiggins,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,20,16,0.627,0.587,5:07
+1,1:27,GS,Nemanja Bjelica,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,30,28,0.582,0.539,1:48
+1,31.5,GS,Stephen Curry,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,32,28,0.639,0.599,44.2
+1,6.8,BKN,DeAndre' Bembry,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,34,28,0.608,0.627,6.8
+2,11:35,BKN,James Harden,Offensive Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,34,31,0.542,0.575,11:42
+2,11:16,GS,Jonathan Kuminga,Offensive Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,34,31,0.575,0.542,11:18
+2,10:24,BKN,James Johnson,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,34,31,0.544,0.544,10:31
+2,9:51,BKN,Jevon Carter,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,36,32,0.577,0.577,10:02
+2,9:38,BKN,Jevon Carter,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,36,32,0.535,0.577,9:51
+2,8:59,GS,Jonathan Kuminga,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,36,33,0.624,0.579,9:08
+2,8:42,BKN,James Harden,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,38,33,0.565,0.609,8:59
+2,7:11,BKN,Jevon Carter,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,40,37,0.507,0.553,7:15
+2,7:02,GS,Jonathan Kuminga,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,40,39,0.522,0.523,7:11
+2,6:34,BKN,James Harden,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,40,39,0.445,0.491,6:51
+2,5:23,GS,Jordan Poole,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,42,43,0.46,0.43,5:23
+2,5:10,BKN,Blake Griffin,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,43,43,0.412,0.459,5:23
+2,4:44,BKN,DeAndre' Bembry,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,45,47,0.374,0.429,4:44
+2,1:07,GS,Andrew Wiggins,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,54,55,0.514,0.464,1:15
+3,11:47,BKN,Bruce Brown,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,58,63,0.294,0.316,12:00
+3,10:49,GS,Andrew Wiggins,Offensive Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,58,67,0.193,0.181,10:56
+3,10:39,GS,Draymond Green,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,58,67,0.206,0.206,10:49
+3,8:26,BKN,Blake Griffin,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,63,71,0.159,0.196,8:32
+3,8:13,GS,Stephen Curry,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,63,73,0.209,0.171,8:26
+3,7:00,GS,Stephen Curry,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,65,78,0.09,0.1,7:00
+3,6:32,BKN,Patty Mills,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,65,78,0.081,0.08,6:38
+3,6:09,GS,Draymond Green,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,65,80,0.087,0.066,6:24
+3,5:51,BKN,Bruce Brown,Loose Ball Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,66,80,0.063,0.063,5:51
+3,5:31,GS,Kevon Looney,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,66,82,0.046,0.052,5:40
+3,5:16,BKN,Patty Mills,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,68,82,0.044,0.061,5:31
+3,4:55,BKN,Kevin Durant,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,68,84,0.027,0.038,4:58
+3,3:03,BKN,DeAndre' Bembry,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,70,88,0.012,0.019,3:15
+3,2:43,GS,Jordan Poole,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,70,91,0.015,0.01,2:49
+3,2:04,GS,Gary Payton II,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,71,91,0.018,0.02,2:04
+3,1:43,GS,Gary Payton II,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,74,91,0.038,0.027,1:55
+4,11:21,GS,Jonathan Kuminga,Offensive Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,78,98,0.005,0.004,11:38
+4,9:04,BKN,Bruce Brown,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,80,106,0.001,0.001,9:04
+4,7:52,BKN,DeAndre' Bembry,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,85,107,0.001,0.001,8:02
+4,7:16,GS,Damion Lee,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,85,108,0.001,0.001,7:16
+4,4:08,GS,Jordan Poole,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,87,113,0.001,0.001,4:27
+4,3:55,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,87,113,0.001,0.001,4:08
+4,1:02,BKN,Cam Thomas,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Justin Van Duyne,BKN,97,115,0.001,0.001,1:09

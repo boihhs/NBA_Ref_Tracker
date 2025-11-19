@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:15,CHI,Tyler Cook,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,5,0,0.862,0.843,10:16
+1,9:20,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,5,3,0.777,0.795,9:25
+1,7:03,CHI,Tyler Cook,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,7,8,0.743,0.707,7:03
+1,5:26,MIL,Bobby Portis,Personal Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,10,10,0.722,0.722,5:46
+1,43.9,CHI,Tyler Cook,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,21,16,0.833,0.803,43.9
+1,20.9,CHI,Matt Thomas,Personal Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,22,18,0.828,0.803,29.9
+1,3.2,MIL,Wesley Matthews,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,24,18,0.794,0.82,20.9
+2,10:13,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,26,22,0.777,0.778,10:13
+2,8:56,MIL,Wesley Matthews,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,28,24,0.74,0.774,9:12
+2,7:52,CHI,Ayo Dosunmu,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,28,26,0.78,0.747,8:10
+2,6:41,MIL,Khris Middleton,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,31,30,0.671,0.692,6:55
+2,6:04,MIL,Grayson Allen,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,33,32,0.647,0.69,6:17
+2,2:39,CHI,Nikola Vucevic,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,38,36,0.767,0.729,2:43
+2,2:26,MIL,Donte DiVincenzo,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,40,36,0.713,0.754,2:39
+2,24.4,CHI,Ayo Dosunmu,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,43,44,0.674,0.631,44.0
+3,9:24,MIL,Bobby Portis,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,51,46,0.748,0.771,9:47
+3,9:24,MIL,Bobby Portis,Technical Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,51,46,0.748,0.748,9:24
+3,9:05,CHI,Nikola Vucevic,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,51,49,0.732,0.71,9:05
+3,8:28,CHI,Tyler Cook,Personal Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,53,49,0.766,0.767,8:32
+3,6:36,MIL,Khris Middleton,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,55,51,0.683,0.735,6:54
+3,6:13,MIL,Grayson Allen,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,55,53,0.607,0.665,6:18
+3,6:01,CHI,Coby White,Personal Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,55,54,0.664,0.666,6:09
+3,5:45,MIL,Grayson Allen,Flagrant Foul Type 2,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,55,54,0.644,0.625,5:47
+3,3:25,CHI,Alex Caruso,Personal Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,60,60,0.675,0.614,3:36
+3,3:23,MIL,Wesley Matthews,Offensive Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,60,60,0.502,0.675,3:25
+3,55.6,CHI,Coby White,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,64,65,0.625,0.556,1:06
+4,10:54,CHI,Tyler Cook,Offensive Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,70,72,0.485,0.439,11:16
+4,9:59,CHI,Matt Thomas,Personal Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,70,74,0.384,0.377,10:03
+4,7:55,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,76,74,0.665,0.694,8:02
+4,7:24,CHI,Nikola Vucevic,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,76,76,0.579,0.58,7:34
+4,6:48,CHI,Nikola Vucevic,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,79,76,0.757,0.757,6:48
+4,6:27,MIL,Bobby Portis,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,80,78,0.682,0.713,6:27
+4,5:36,CHI,Nikola Vucevic,Loose Ball Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,80,79,0.617,0.651,5:36
+4,5:02,CHI,Coby White,Personal Take Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,82,79,0.853,0.785,5:06
+4,3:01,CHI,Ayo Dosunmu,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,87,83,0.917,0.856,3:17
+4,2:32,CHI,Alex Caruso,Personal Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,88,83,0.952,0.91,2:39
+4,2:23,MIL,Jrue Holiday,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,90,83,0.888,0.94,2:32
+4,1:10,MIL,Donte DiVincenzo,Shooting Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,92,88,0.687,0.839,1:17
+4,15.8,CHI,Coby White,Personal Foul,Foul,Josh Tiven,Justin Van Duyne,John Butler,MIL,92,90,0.925,0.81,19.9

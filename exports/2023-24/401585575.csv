@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:42,ORL,Jalen Suggs,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,19,10,0.792,0.819,5:53
+1,4:58,BKN,Cameron Johnson,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,19,11,0.819,0.819,5:00
+1,4:26,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,22,11,0.865,0.865,4:26
+1,4:15,BKN,Jalen Wilson,Loose Ball Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,22,11,0.865,0.865,4:15
+1,3:52,ORL,Paolo Banchero,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,24,11,0.878,0.878,4:06
+1,2:36,ORL,Jalen Suggs,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,29,13,0.898,0.914,2:41
+1,32.0,BKN,Cam Thomas,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,33,16,0.947,0.935,44.0
+2,11:50,BKN,Cameron Johnson,Flopping Technical,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,33,16,0.938,0.929,12:00
+2,11:37,ORL,Jonathan Isaac,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,33,18,0.898,0.918,11:37
+2,8:32,BKN,Cam Thomas,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,41,29,0.904,0.885,8:44
+2,8:16,ORL,Franz Wagner,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,42,29,0.863,0.884,8:32
+2,7:33,ORL,Joe Ingles,Technical Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,47,31,0.914,0.923,7:35
+2,6:57,ORL,Joe Ingles,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,49,34,0.914,0.912,7:00
+2,6:50,ORL,Franz Wagner,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,49,36,0.876,0.901,6:50
+2,6:50,ORL,Franz Wagner,Technical Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,49,36,0.876,0.876,6:50
+2,6:37,BKN,Dennis Schroder,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,49,38,0.874,0.873,6:50
+2,6:32,BKN,Dorian Finney-Smith,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,49,38,0.873,0.894,6:37
+2,5:45,BKN,Nic Claxton,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,51,38,0.92,0.901,5:53
+2,3:27,ORL,Franz Wagner,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,56,42,0.895,0.92,3:27
+2,3:11,BKN,Day'Ron Sharpe,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,56,43,0.925,0.907,3:27
+2,2:20,ORL,Markelle Fultz,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,58,43,0.901,0.921,2:27
+2,2:01,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,58,44,0.888,0.923,2:01
+2,1:31,BKN,Dorian Finney-Smith,Loose Ball Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,58,46,0.918,0.898,1:31
+3,11:44,BKN,Mikal Bridges,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,61,54,0.839,0.81,11:46
+3,10:30,ORL,Franz Wagner,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,65,56,0.794,0.831,10:35
+3,10:24,BKN,Dennis Schroder,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,65,59,0.781,0.784,10:30
+3,9:44,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,67,59,0.808,0.833,9:51
+3,9:36,BKN,Nic Claxton,Offensive Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,67,59,0.833,0.808,9:44
+3,8:07,ORL,Wendell Carter Jr.,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,69,59,0.859,0.858,8:19
+3,7:53,BKN,Nic Claxton,Technical Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,69,61,0.854,0.825,7:53
+3,7:34,BKN,Dennis Schroder,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,70,61,0.889,0.86,7:53
+3,7:03,BKN,Cam Thomas,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,71,61,0.908,0.882,7:12
+3,6:29,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,75,61,0.91,0.93,6:36
+3,5:48,BKN,Cameron Johnson,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,77,65,0.94,0.92,5:57
+3,5:48,BKN,Dennis Schroder,Technical Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,77,65,0.931,0.94,5:48
+3,2:19,ORL,Paolo Banchero,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,90,74,0.962,0.976,2:19
+3,1:17,ORL,Paolo Banchero,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,90,75,0.948,0.964,1:22
+4,9:36,BKN,Cam Thomas,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,95,81,0.988,0.978,10:00
+4,9:36,BKN,Cam Thomas,Technical Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,95,81,0.985,0.988,9:36
+4,8:16,ORL,Moritz Wagner,Offensive Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,98,86,0.96,0.97,8:36
+4,8:06,ORL,Cole Anthony,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,98,86,0.934,0.96,8:16
+4,6:27,ORL,Franz Wagner,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,101,90,0.927,0.958,6:38
+4,5:27,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,103,91,0.991,0.983,5:36
+4,4:13,ORL,Paolo Banchero,Personal Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,107,95,0.982,0.985,4:15
+4,3:44,BKN,Cam Thomas,Shooting Foul,Foul,Tony Brothers,Jonathan Sterling,Ashley Moyer-Gleich,ORL,107,95,0.997,0.991,3:58

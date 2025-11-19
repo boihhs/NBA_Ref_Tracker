@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:17,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,2,0,0.898,0.882,11:17
+1,10:19,PHI,Tobias Harris,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,3,0,0.888,0.889,10:31
+1,10:02,BKN,Nic Claxton,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,3,3,0.865,0.866,10:11
+1,7:50,BKN,Cameron Johnson,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,7,10,0.811,0.812,8:01
+1,6:05,BKN,Dorian Finney-Smith,Loose Ball Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,9,15,0.771,0.742,6:05
+1,5:27,PHI,Tobias Harris,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,11,15,0.725,0.758,5:44
+1,4:29,PHI,P.J. Tucker,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,16,17,0.804,0.806,4:44
+1,3:22,PHI,Jalen McDaniels,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,21,17,0.853,0.874,3:35
+1,1:40,BKN,Mikal Bridges,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,23,22,0.859,0.841,1:43
+1,40.0,PHI,Georges Niang,Offensive Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,25,25,0.8,0.817,48.2
+2,11:40,PHI,James Harden,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,25,25,0.793,0.804,12:00
+2,8:31,PHI,Jalen McDaniels,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,29,29,0.772,0.771,8:35
+2,7:36,PHI,James Harden,Offensive Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,32,34,0.717,0.743,7:43
+2,7:28,PHI,De'Anthony Melton,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,32,34,0.678,0.717,7:36
+2,6:06,BKN,Royce O'Neale,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,32,40,0.555,0.558,6:16
+2,5:38,PHI,Tyrese Maxey,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,32,40,0.463,0.515,5:46
+2,5:06,PHI,Tobias Harris,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,34,40,0.524,0.576,5:17
+2,4:40,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,34,40,0.648,0.603,4:49
+2,2:01,BKN,Mikal Bridges,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,37,45,0.55,0.497,2:04
+2,1:22,PHI,Georges Niang,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,39,45,0.468,0.525,1:35
+2,33.0,BKN,Joe Harris,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,42,49,0.566,0.513,47.1
+2,23.0,PHI,De'Anthony Melton,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,42,49,0.416,0.468,27.0
+3,7:01,BKN,Nic Claxton,Loose Ball Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,58,56,0.759,0.759,7:01
+3,5:07,PHI,Joel Embiid,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,64,59,0.807,0.808,5:14
+3,4:35,BKN,Royce O'Neale,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,64,61,0.777,0.78,4:55
+3,3:48,BKN,Cameron Johnson,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,66,61,0.85,0.803,3:48
+3,3:01,BKN,Royce O'Neale,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,66,61,0.867,0.831,3:14
+3,13.1,PHI,Georges Niang,Personal Take Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,68,63,0.743,0.797,25.2
+4,11:14,BKN,Nic Claxton,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,68,65,0.826,0.767,11:23
+4,10:54,PHI,De'Anthony Melton,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,69,67,0.632,0.728,10:54
+4,10:43,BKN,Spencer Dinwiddie,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,69,68,0.69,0.678,10:54
+4,10:24,BKN,Royce O'Neale,Loose Ball Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,69,68,0.7,0.681,10:24
+4,8:57,PHI,Jalen McDaniels,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,74,68,0.834,0.844,8:59
+4,8:33,PHI,Paul Reed,Offensive Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,74,68,0.84,0.875,8:39
+4,6:43,BKN,Seth Curry,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,76,71,0.906,0.852,7:08
+4,6:37,BKN,Cameron Johnson,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,76,71,0.906,0.863,6:43
+4,6:00,BKN,Seth Curry,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,78,71,0.952,0.921,6:19
+4,5:44,PHI,Tyrese Maxey,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,80,71,0.903,0.943,6:00
+4,2:26,PHI,Joel Embiid,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,89,78,0.976,0.99,2:39
+4,1:16,BKN,Royce O'Neale,Personal Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,92,81,0.999,0.998,1:21
+4,50.0,PHI,Tobias Harris,Shooting Foul,Foul,Curtis Blair,David Guthrie,Tre Maddox,PHI,96,81,0.999,0.999,59.1

@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:34,PHX,Chris Paul,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,3,0,0.887,0.889,9:39
+1,9:04,PHX,Torrey Craig,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,3,0,0.901,0.887,9:16
+1,7:56,PHX,Mikal Bridges,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,7,0,0.919,0.919,8:08
+1,2:56,BOS,Derrick White,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,12,17,0.697,0.7,3:02
+1,2:14,BOS,Luke Kornet,Offensive Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,14,19,0.691,0.718,2:28
+1,2.1,PHX,Saben Lee,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,20,24,0.756,0.722,10.1
+2,11:24,BOS,Grant Williams,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,20,27,0.61,0.608,11:29
+2,10:50,BOS,Jayson Tatum,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,20,30,0.511,0.512,10:57
+2,9:46,BOS,Grant Williams,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,25,35,0.449,0.497,9:57
+2,8:12,PHX,Saben Lee,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,25,39,0.423,0.378,8:22
+2,7:37,BOS,Malcolm Brogdon,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,27,39,0.351,0.398,7:38
+2,5:03,PHX,Torrey Craig,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,29,47,0.246,0.208,5:19
+2,4:33,BOS,Jaylen Brown,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,31,49,0.137,0.173,4:42
+2,1:13,PHX,Torrey Craig,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,42,53,0.416,0.367,1:19
+2,45.2,BOS,Al Horford,Offensive Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,44,53,0.394,0.428,50.1
+2,45.2,BOS,Jayson Tatum,Technical Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,44,53,0.364,0.394,45.2
+3,11:30,BOS,Robert Williams III,Offensive Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,44,57,0.236,0.262,11:41
+3,9:29,BOS,Robert Williams III,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,49,59,0.276,0.339,9:29
+3,9:17,PHX,Mikal Bridges,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,49,60,0.354,0.302,9:29
+3,8:53,BOS,Al Horford,Offensive Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,52,60,0.365,0.407,9:01
+3,8:32,PHX,Deandre Ayton,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,52,60,0.46,0.401,8:37
+3,7:58,PHX,Torrey Craig,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,54,62,0.392,0.396,8:18
+3,7:50,PHX,Chris Paul,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,54,62,0.448,0.392,7:58
+3,7:00,PHX,Dario Saric,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,59,62,0.606,0.536,7:00
+3,6:44,BOS,Al Horford,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,59,62,0.472,0.536,7:00
+3,5:42,PHX,Dario Saric,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,61,66,0.542,0.483,6:04
+3,4:46,BOS,Jayson Tatum,Loose Ball Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,64,68,0.468,0.463,4:46
+3,4:17,PHX,Ish Wainright,Loose Ball Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,64,68,0.566,0.502,4:18
+3,2:33,BOS,Jayson Tatum,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,68,70,0.452,0.523,2:43
+3,2:26,BOS,Grant Williams,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,68,72,0.392,0.475,2:26
+3,2:02,PHX,Mikal Bridges,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,68,72,0.539,0.475,2:26
+4,10:57,BOS,Luke Kornet,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,73,79,0.221,0.315,10:57
+4,8:59,BOS,Robert Williams III,Offensive Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,75,88,0.036,0.053,9:15
+4,8:19,BOS,Jaylen Brown,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,77,88,0.055,0.06,8:27
+4,7:53,PHX,Jock Landale,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,77,88,0.118,0.093,7:53
+4,6:48,PHX,Chris Paul,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,81,90,0.116,0.111,7:01
+4,6:09,PHX,Ish Wainright,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,81,90,0.166,0.102,6:22
+4,5:51,BOS,Derrick White,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,83,90,0.075,0.132,6:09
+4,5:07,PHX,Deandre Ayton,Offensive Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,83,92,0.079,0.06,5:25
+4,2:43,PHX,Ish Wainright,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,86,96,0.054,0.024,2:59
+4,2:19,PHX,Mikal Bridges,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,88,96,0.107,0.06,2:28
+4,1:03,PHX,Dario Saric,Shooting Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,90,101,0.005,0.003,1:03
+4,1:02,BOS,Jaylen Brown,Personal Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,91,101,0.001,0.002,1:03
+4,52.1,BOS,Payton Pritchard,Personal Take Foul,Foul,Derrick Collins,John Goble,Gediminas Petraitis,BOS,91,101,0.001,0.001,1:02

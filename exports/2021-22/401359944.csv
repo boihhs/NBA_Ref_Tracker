@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:10,UTAH,Joe Ingles,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,12,7,0.575,0.573,5:18
+1,4:45,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,12,7,0.507,0.546,4:56
+1,4:10,UTAH,Jordan Clarkson,Personal Take Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,14,9,0.577,0.579,4:12
+1,45.3,ATL,Gorgui Dieng,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,16,12,0.532,0.532,45.3
+2,10:10,ATL,Gorgui Dieng,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,18,18,0.379,0.421,10:28
+2,9:55,ATL,Clint Capela,Loose Ball Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,18,18,0.422,0.422,9:55
+2,9:44,ATL,Clint Capela,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,18,20,0.346,0.395,9:44
+2,8:08,UTAH,Rudy Gobert,Technical Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,18,21,0.354,0.369,8:08
+2,8:03,UTAH,Hassan Whiteside,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,19,21,0.442,0.398,8:08
+2,7:18,ATL,Trae Young,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,23,21,0.443,0.49,7:32
+2,6:49,UTAH,Jordan Clarkson,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,25,21,0.608,0.552,6:49
+2,6:38,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,25,21,0.507,0.553,6:47
+2,6:14,UTAH,Hassan Whiteside,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,25,22,0.602,0.556,6:38
+2,5:25,ATL,Trae Young,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,28,24,0.51,0.557,5:42
+3,11:03,UTAH,Bojan Bogdanovic,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,42,39,0.583,0.583,11:18
+3,9:12,UTAH,Joe Ingles,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,48,44,0.628,0.628,9:27
+3,8:00,UTAH,Mike Conley,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,53,46,0.784,0.738,8:14
+3,7:30,UTAH,Rudy Gobert,Defensive 3-Seconds Technical,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,55,49,0.701,0.705,7:51
+3,7:08,ATL,De'Andre Hunter,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,56,49,0.712,0.714,7:08
+3,6:43,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,56,51,0.732,0.678,6:57
+3,6:02,UTAH,Royce O'Neale,Personal Take Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,58,53,0.738,0.683,6:03
+3,5:42,UTAH,Trent Forrest,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,60,56,0.74,0.685,5:52
+3,5:31,ATL,Kevin Huerter,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,62,56,0.687,0.684,5:42
+3,4:46,ATL,John Collins,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,62,56,0.633,0.691,4:55
+3,4:18,ATL,De'Andre Hunter,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,62,58,0.554,0.616,4:28
+3,4:11,ATL,Kevin Huerter,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,62,60,0.533,0.578,4:11
+3,3:11,ATL,Clint Capela,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,65,64,0.461,0.493,3:11
+3,2:45,ATL,Cam Reddish,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,65,68,0.321,0.363,2:45
+3,1:51,UTAH,Rudy Gobert,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,67,71,0.384,0.32,1:59
+3,53.8,ATL,Kevin Huerter,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,69,73,0.215,0.272,1:05
+3,0.2,UTAH,Mike Conley,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,73,75,0.438,0.351,0.2
+4,9:37,ATL,Lou Williams,Personal Take Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,76,80,0.245,0.249,9:37
+4,8:48,UTAH,Joe Ingles,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,76,83,0.233,0.243,9:05
+4,7:39,UTAH,Mike Conley,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,78,89,0.057,0.053,7:50
+4,7:01,UTAH,Trent Forrest,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,80,91,0.055,0.05,7:14
+4,5:25,ATL,De'Andre Hunter,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,86,97,0.023,0.028,5:51
+4,5:00,UTAH,Rudy Gobert,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,86,99,0.029,0.015,5:13
+4,4:22,ATL,Clint Capela,Loose Ball Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,88,99,0.016,0.018,4:22
+4,3:25,ATL,John Collins,Personal Take Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,88,102,0.001,0.002,3:29
+4,3:20,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,88,104,0.001,0.001,3:20
+4,3:09,UTAH,Jordan Clarkson,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,88,105,0.001,0.001,3:20
+4,3:09,ATL,John Collins,Personal Take Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,90,105,0.001,0.001,3:09
+4,2:51,ATL,De'Andre Hunter,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,90,107,0.001,0.001,2:54
+4,2:07,ATL,Gorgui Dieng,Shooting Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,90,109,0.001,0.001,2:13
+4,2:05,UTAH,Miye Oni,Personal Take Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,90,111,0.001,0.001,2:07
+4,30.5,UTAH,Elijah Hughes,Personal Foul,Foul,Derrick Collins,Mark Lindsay,John Butler,ATL,97,116,0.001,0.001,39.2

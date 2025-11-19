@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:02,MIA,Tyler Herro,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,2,2,0.655,0.691,11:06
+1,5:31,IND,Myles Turner,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,15,17,0.642,0.644,5:45
+1,4:54,IND,Myles Turner,Defensive 3-Seconds Technical,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,15,20,0.553,0.564,5:11
+1,4:44,IND,Andrew Nembhard,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,16,20,0.626,0.588,4:54
+1,4:05,IND,Chris Duarte,Loose Ball Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,17,20,0.609,0.608,4:05
+1,3:33,IND,Buddy Hield,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,17,22,0.593,0.552,3:33
+1,3:02,IND,Chris Duarte,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,17,24,0.535,0.495,3:12
+1,2:42,MIA,Orlando Robinson,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,21,24,0.532,0.575,2:48
+1,1:05,IND,Bennedict Mathurin,Offensive Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,26,26,0.673,0.647,1:10
+2,10:19,MIA,Orlando Robinson,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,34,34,0.636,0.635,10:19
+2,7:15,IND,Myles Turner,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,36,40,0.532,0.534,7:27
+2,6:40,IND,Jalen Smith,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,38,40,0.634,0.59,6:56
+2,4:59,IND,Buddy Hield,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,40,45,0.484,0.486,5:12
+2,1:51,MIA,Jimmy Butler III,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,54,54,0.573,0.631,1:51
+2,1:21,MIA,Tyler Herro,Loose Ball Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,54,55,0.511,0.563,1:21
+2,21.0,IND,Oshae Brissett,Loose Ball Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,58,56,0.732,0.686,21.0
+3,11:43,MIA,Kyle Lowry,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,58,56,0.655,0.673,12:00
+3,9:42,MIA,Bam Adebayo,Offensive Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,63,56,0.799,0.825,9:49
+3,8:08,IND,Bennedict Mathurin,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,65,61,0.743,0.744,8:17
+3,7:21,IND,Tyrese Haliburton,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,67,63,0.765,0.712,7:21
+3,5:44,IND,Jalen Smith,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,70,68,0.676,0.677,5:53
+3,5:32,IND,Chris Duarte,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,70,68,0.727,0.676,5:44
+3,4:39,IND,Jalen Smith,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,73,68,0.82,0.776,4:44
+3,1:19,IND,Jalen Smith,Defensive 3-Seconds Technical,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,75,78,0.428,0.444,1:35
+3,30.1,IND,Andrew Nembhard,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,78,81,0.507,0.382,30.1
+4,7:59,MIA,Victor Oladipo,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,86,94,0.088,0.147,7:59
+4,7:13,IND,T.J. McConnell,Loose Ball Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,88,95,0.178,0.167,7:13
+4,5:25,MIA,Victor Oladipo,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,91,102,0.018,0.037,5:25
+4,5:06,IND,Andrew Nembhard,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,91,102,0.037,0.032,5:07
+4,4:34,MIA,Bam Adebayo,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,93,104,0.012,0.028,4:34
+4,4:18,MIA,Haywood Highsmith,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,95,105,0.011,0.025,4:24
+4,3:26,MIA,Victor Oladipo,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,98,105,0.031,0.058,3:27
+4,3:18,IND,T.J. McConnell,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,98,107,0.045,0.038,3:26
+4,1:01,MIA,Victor Oladipo,Personal Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,103,107,0.047,0.108,1:20
+4,51.2,IND,Myles Turner,Shooting Foul,Foul,Brent Barnaky,John Goble,Mousa Dagher,MIA,103,108,0.219,0.102,1:01

@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:41,POR,CJ McCollum,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,3,9,0.383,0.423,9:41
+1,5:58,SAC,De'Aaron Fox,Loose Ball Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,7,13,0.414,0.415,5:58
+1,5:49,SAC,Tristan Thompson,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,7,13,0.454,0.414,5:58
+1,4:42,POR,Jusuf Nurkic,Offensive Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,13,20,0.354,0.386,4:50
+1,4:30,SAC,Tristan Thompson,Offensive Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,13,20,0.385,0.354,4:42
+1,3:39,POR,Norman Powell,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,15,20,0.365,0.405,3:50
+1,3:15,POR,Nassir Little,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,15,21,0.338,0.379,3:20
+1,2:20,SAC,Davion Mitchell,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,17,22,0.473,0.431,2:28
+1,1:13,SAC,Terence Davis,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,21,22,0.585,0.542,1:13
+1,2.0,POR,Larry Nance Jr.,Personal Take Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,23,24,0.468,0.512,3.3
+2,11:24,POR,Robert Covington,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,25,24,0.524,0.565,11:36
+2,11:17,SAC,Davion Mitchell,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,25,26,0.537,0.537,11:24
+2,11:01,SAC,Richaun Holmes,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,25,26,0.522,0.537,11:01
+2,10:38,POR,Cody Zeller,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,26,28,0.478,0.506,10:38
+2,9:06,POR,Jusuf Nurkic,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,28,34,0.356,0.356,9:13
+2,8:48,SAC,Terence Davis,Loose Ball Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,28,34,0.37,0.384,8:48
+2,8:35,SAC,Terence Davis,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,28,34,0.427,0.37,8:48
+2,4:48,POR,Larry Nance Jr.,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,35,41,0.292,0.336,4:52
+2,4:17,SAC,De'Aaron Fox,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,37,45,0.351,0.304,4:26
+2,2:55,POR,CJ McCollum,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,42,49,0.255,0.295,3:03
+2,2:26,POR,Damian Lillard,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,45,52,0.273,0.324,2:26
+2,1:57,POR,Damian Lillard,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,48,53,0.305,0.354,2:09
+2,1:13,POR,Norman Powell,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,47,56,0.191,0.32,1:21
+2,10.4,POR,CJ McCollum,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,49,60,0.141,0.174,29.3
+2,3:19,POR,Larry Nance Jr.,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,39,49,0.181,0.243,3:19
+3,7:15,SAC,Richaun Holmes,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,57,75,0.045,0.045,7:22
+3,7:05,SAC,Tyrese Haliburton,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,59,75,0.078,0.054,7:05
+3,6:29,POR,Robert Covington,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,63,77,0.058,0.079,6:45
+3,5:42,SAC,Buddy Hield,Personal Take Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,67,82,0.073,0.072,5:45
+3,5:12,SAC,Davion Mitchell,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,70,85,0.092,0.07,5:21
+3,5:10,SAC,Buddy Hield,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,70,85,0.063,0.092,5:12
+3,4:13,SAC,De'Aaron Fox,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,74,88,0.105,0.078,4:22
+4,10:37,SAC,Maurice Harkless,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,88,105,0.017,0.016,10:51
+4,10:15,POR,CJ McCollum,Loose Ball Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,91,105,0.026,0.027,10:15
+4,9:14,SAC,Maurice Harkless,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,96,107,0.079,0.072,9:14
+4,8:22,POR,Larry Nance Jr.,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,98,109,0.046,0.051,8:33
+4,8:06,SAC,Tristan Thompson,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,98,111,0.061,0.035,8:15
+4,7:32,SAC,De'Aaron Fox,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,100,111,0.099,0.062,7:43
+4,7:11,SAC,Tyrese Haliburton,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,102,111,0.158,0.107,7:15
+4,6:23,POR,Jusuf Nurkic,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,104,114,0.028,0.052,6:31
+4,1:52,POR,Norman Powell,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,114,117,0.068,0.213,1:54
+4,23.5,SAC,De'Aaron Fox,Shooting Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,116,120,0.191,0.134,23.5
+4,19.6,POR,Damian Lillard,Personal Take Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,117,120,0.047,0.114,23.5
+4,8.8,POR,Jusuf Nurkic,Personal Foul,Foul,Sean Wright,Phenizee Ransom,Nick Buchert,POR,121,122,0.106,0.288,11.1

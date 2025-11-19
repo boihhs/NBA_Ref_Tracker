@@ -1,0 +1,54 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:03,IND,Bennedict Mathurin,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,0,2,0.46,0.46,11:12
+1,10:30,IND,Bruce Brown,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,2,2,0.53,0.511,10:30
+1,10:09,IND,Daniel Theis,Offensive Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,3,2,0.539,0.511,10:30
+1,9:55,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,3,4,0.441,0.486,9:55
+1,8:53,IND,Obi Toppin,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,8,9,0.483,0.485,9:06
+1,7:33,HOU,Dillon Brooks,Away from Play Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,13,9,0.591,0.589,7:54
+1,7:27,HOU,Dillon Brooks,Flagrant Foul Type 2,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,13,10,0.57,0.59,7:33
+1,4:35,IND,Bennedict Mathurin,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,17,19,0.499,0.459,4:56
+1,3:55,IND,Buddy Hield,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,17,19,0.499,0.458,3:57
+1,3:02,HOU,Tari Eason,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,21,22,0.418,0.455,3:14
+1,1:57,IND,Isaiah Jackson,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,23,26,0.471,0.429,2:04
+1,1:11,IND,Isaiah Jackson,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,27,26,0.583,0.547,1:16
+1,24.1,IND,Jarace Walker,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,28,29,0.531,0.484,29.1
+2,11:27,IND,Jarace Walker,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,32,31,0.587,0.546,11:33
+2,10:54,IND,Ben Sheppard,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,36,33,0.623,0.573,10:54
+2,9:03,IND,T.J. McConnell,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,44,38,0.725,0.687,9:06
+2,8:44,HOU,Alperen Sengun,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,46,38,0.674,0.713,9:03
+2,7:58,HOU,Fred VanVleet,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,46,39,0.691,0.689,8:16
+2,6:41,IND,Daniel Theis,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,46,39,0.759,0.722,6:53
+2,6:30,HOU,Aaron Holiday,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,47,39,0.679,0.721,6:41
+2,5:48,IND,Jarace Walker,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,47,40,0.763,0.724,5:52
+2,4:42,IND,Isaiah Jackson,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,50,40,0.834,0.802,4:51
+2,3:11,IND,Aaron Nesmith,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,52,47,0.72,0.676,3:27
+2,2:28,HOU,Jock Landale,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,54,47,0.661,0.708,2:33
+2,2:22,HOU,Jock Landale,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,54,47,0.661,0.661,2:28
+2,59.2,IND,Aaron Nesmith,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,56,54,0.638,0.583,1:22
+2,35.0,HOU,Jock Landale,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,58,54,0.57,0.655,40.1
+3,10:21,IND,Bruce Brown,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,64,57,0.777,0.728,10:21
+3,9:43,IND,Bennedict Mathurin,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,66,59,0.779,0.73,9:43
+3,9:22,IND,Bruce Brown,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,67,59,0.787,0.789,9:29
+3,8:55,HOU,Alperen Sengun,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,69,59,0.774,0.814,9:18
+3,8:55,HOU,Alperen Sengun,Hanging Technical Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,69,59,0.823,0.774,8:55
+3,8:45,IND,T.J. McConnell,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,71,62,0.834,0.789,8:45
+3,8:02,HOU,Jalen Green,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,74,62,0.866,0.865,8:10
+3,7:36,IND,Daniel Theis,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,74,65,0.859,0.823,7:53
+3,7:10,IND,Bruce Brown,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,75,67,0.839,0.799,7:15
+3,4:58,HOU,Jalen Green,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,80,69,0.864,0.865,5:04
+3,2:34,HOU,Amen Thompson,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,80,75,0.631,0.691,2:38
+3,1:22,HOU,Jock Landale,Offensive Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,82,77,0.696,0.742,1:34
+3,44.1,HOU,Amen Thompson,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,84,79,0.672,0.748,44.1
+3,27.1,IND,Aaron Nesmith,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,84,80,0.771,0.71,44.1
+4,10:07,HOU,Aaron Holiday,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,88,85,0.616,0.628,10:07
+4,9:56,HOU,Cam Whitmore,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,88,85,0.568,0.616,10:07
+4,8:57,HOU,Alperen Sengun,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,93,88,0.671,0.775,8:57
+4,8:49,IND,Isaiah Wong,Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,93,88,0.777,0.768,8:57
+4,8:44,IND,Isaiah Jackson,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,93,88,0.843,0.777,8:49
+4,7:43,IND,Isaiah Jackson,Offensive Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,98,88,0.941,0.917,7:54
+4,7:09,IND,Isaiah Wong,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,98,91,0.923,0.874,7:18
+4,6:39,IND,Isaiah Wong,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,101,91,0.965,0.934,6:39
+4,5:02,HOU,Jermaine Samuels Jr.,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,107,91,0.991,0.995,5:14
+4,2:59,HOU,Matthew Mayer,Double Personal Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,112,96,0.997,0.998,3:12
+4,2:05,HOU,Trevor Hudgins,Shooting Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,115,98,0.999,0.999,2:05
+4,1:29,HOU,Nate Hinton,Loose Ball Foul,Foul,Jason Goldenberg,Mitchell Ervin,Tyler Ricks,HOU,115,99,0.999,0.999,1:29

@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:05,DEN,Michael Porter Jr.,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,7,2,0.722,0.752,10:13
+1,5:35,DAL,Dwight Powell,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,15,9,0.785,0.787,5:35
+1,4:40,DAL,Frank Ntilikina,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,19,9,0.863,0.836,4:40
+1,4:13,DEN,Facundo Campazzo,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,20,9,0.852,0.851,4:15
+1,3:07,DEN,Nikola Jokic,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,22,15,0.782,0.782,3:16
+1,2:26,DAL,Willie Cauley-Stein,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,22,15,0.828,0.802,2:29
+1,45.6,DEN,JaMychal Green,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,29,17,0.843,0.867,1:03
+1,32.1,DEN,Jeff Green,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,29,19,0.844,0.835,34.7
+2,9:55,DAL,Josh Green,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,29,28,0.698,0.661,10:06
+2,8:53,DAL,Tim Hardaway Jr.,Flagrant Foul Type 1,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,31,30,0.657,0.628,9:07
+2,6:11,DEN,Jeff Green,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,41,33,0.801,0.8,6:21
+2,5:39,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,41,33,0.82,0.823,5:39
+2,5:34,DAL,Dorian Finney-Smith,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,41,33,0.849,0.82,5:39
+2,1:49,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,54,37,0.948,0.944,1:49
+2,43.7,DEN,Nikola Jokic,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,54,42,0.883,0.899,43.7
+2,43.7,DEN,Nikola Jokic,Technical Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,54,42,0.869,0.883,43.7
+3,11:26,DEN,Nikola Jokic,Loose Ball Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,54,46,0.807,0.807,11:26
+3,11:16,DEN,Nikola Jokic,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,54,46,0.768,0.807,11:26
+3,10:08,DAL,Luka Doncic,Personal Take Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,58,47,0.891,0.892,10:10
+3,9:18,DAL,Dwight Powell,Offensive Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,60,47,0.924,0.908,9:28
+3,8:02,DEN,Aaron Gordon,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,64,49,0.931,0.95,8:02
+3,7:49,DEN,Monte Morris,Loose Ball Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,64,50,0.929,0.94,8:02
+3,5:10,DAL,Maxi Kleber,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,70,50,0.985,0.987,5:12
+3,5:00,DAL,Jalen Brunson,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,70,50,0.986,0.985,5:10
+3,4:02,DEN,Will Barton,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,75,50,0.994,0.996,4:14
+3,3:48,DAL,Boban Marjanovic,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,77,52,0.997,0.997,3:48
+3,3:29,DEN,Jeff Green,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,78,52,0.996,0.998,3:48
+3,2:42,DAL,Boban Marjanovic,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,80,53,0.999,0.999,2:57
+3,2:18,DEN,Jeff Green,Offensive Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,82,53,0.999,0.999,2:27
+4,11:17,DAL,Frank Ntilikina,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,87,56,0.999,0.999,11:19
+4,8:54,DEN,Austin Rivers,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,91,58,0.999,0.999,9:04
+4,8:37,DEN,JaMychal Green,Offensive Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,91,60,0.999,0.999,8:41
+4,7:26,DEN,PJ Dozier,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,94,60,0.999,0.999,7:27
+4,7:14,DEN,Bol Bol,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,94,60,0.999,0.999,7:15
+4,6:33,DEN,Bones Hyland,Loose Ball Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,94,63,0.999,0.999,6:47
+4,5:50,DEN,Austin Rivers,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,94,65,0.999,0.999,5:52
+4,5:36,DEN,Austin Rivers,Offensive Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,94,65,0.999,0.999,5:48
+4,4:50,DEN,Zeke Nnaji,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,97,67,0.999,0.999,5:12
+4,4:19,DAL,Eugene Omoruyi,Personal Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,97,68,0.999,0.999,4:22
+4,2:20,DEN,Bol Bol,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,101,71,0.999,0.999,2:34
+4,55.7,DEN,Zeke Nnaji,Shooting Foul,Foul,Bennie Adams,Scott Foster,J.T. Orr,DEN,106,73,0.999,0.999,1:09

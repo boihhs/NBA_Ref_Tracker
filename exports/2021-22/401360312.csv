@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:03,ORL,Admiral Schofield,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,4,4,0.765,0.733,10:03
+1,9:52,MIA,Duncan Robinson,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,4,4,0.698,0.731,10:01
+1,9:03,MIA,Gabe Vincent,Offensive Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,4,9,0.611,0.639,9:18
+1,8:36,ORL,Admiral Schofield,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,4,11,0.62,0.584,8:49
+1,7:47,ORL,Hassani Gravett,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,5,11,0.639,0.603,7:56
+1,6:57,ORL,Admiral Schofield,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,9,13,0.665,0.621,6:57
+1,5:38,MIA,Omer Yurtseven,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,12,15,0.599,0.638,5:46
+1,2:13,MIA,Udonis Haslem,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,18,21,0.577,0.617,2:13
+2,11:51,ORL,Tim Frazier,Personal Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,22,24,0.655,0.643,0.0
+2,11:26,MIA,Udonis Haslem,Loose Ball Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,22,24,0.626,0.626,11:36
+2,7:49,MIA,Tyler Herro,Personal Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,26,27,0.634,0.634,8:06
+2,7:49,MIA,Tyler Herro,Double Technical Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,26,27,0.639,0.634,7:49
+2,7:29,ORL,Aleem Ford,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,26,27,0.698,0.659,7:37
+2,5:38,ORL,Wendell Carter Jr.,Personal Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,33,29,0.777,0.779,5:40
+2,2:21,MIA,Omer Yurtseven,Offensive Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,40,33,0.816,0.838,2:22
+2,1:35,MIA,Jimmy Butler III,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,40,35,0.73,0.77,1:41
+2,1:31,ORL,Gary Harris,Personal Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,40,37,0.782,0.747,1:35
+3,10:55,ORL,Gary Harris,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,47,39,0.871,0.837,10:55
+3,8:30,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,54,44,0.896,0.878,8:42
+3,8:18,MIA,Max Strus,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,54,44,0.848,0.879,8:22
+3,5:07,MIA,Omer Yurtseven,Personal Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,63,50,0.935,0.934,5:07
+3,2:03,MIA,Caleb Martin,Personal Take Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,67,56,0.917,0.917,2:03
+3,1:23,MIA,Udonis Haslem,Loose Ball Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,70,58,0.91,0.936,1:23
+3,1:10,MIA,Udonis Haslem,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,70,58,0.911,0.91,1:23
+3,39.0,ORL,Freddie Gillespie,Personal Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,72,58,0.981,0.972,39.0
+3,29.2,MIA,Tyler Herro,Offensive Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,72,58,0.963,0.981,39.0
+3,29.2,MIA,Tyler Herro,Technical Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,72,58,0.968,0.963,29.2
+4,11:34,MIA,Udonis Haslem,Loose Ball Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,72,60,0.941,0.945,11:34
+4,9:12,MIA,Marcus Garrett,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,75,65,0.879,0.923,9:24
+4,7:49,ORL,Aleem Ford,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,77,66,0.978,0.961,8:07
+4,5:23,ORL,Freddie Gillespie,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,82,72,0.978,0.954,5:23
+4,5:15,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,83,72,0.98,0.969,5:23
+4,5:02,MIA,Omer Yurtseven,Offensive Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,83,72,0.972,0.98,5:15
+4,4:49,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,83,72,0.978,0.972,5:02
+4,3:02,ORL,Franz Wagner,Loose Ball Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,88,72,0.999,0.999,3:02
+4,2:08,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,90,75,0.999,0.999,2:30
+4,1:52,ORL,Hassani Gravett,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,90,75,0.999,0.999,1:55
+4,1:51,MIA,Marcus Garrett,Shooting Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,91,75,0.999,0.999,1:52
+4,13.2,ORL,Freddie Gillespie,Personal Foul,Foul,Jason Goldenberg,Ben Taylor,Dannica Mosher,MIA,91,83,0.999,0.996,27.4

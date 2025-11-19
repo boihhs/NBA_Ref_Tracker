@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,CHI,DeMar DeRozan,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,0,2,0.841,0.854,10:51
+1,8:46,ORL,Franz Wagner,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,0,8,0.77,0.742,8:56
+1,7:36,ORL,Tim Frazier,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,4,11,0.75,0.751,7:45
+1,4:14,ORL,R.J. Hampton,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,8,17,0.706,0.67,4:19
+1,2:46,CHI,Ayo Dosunmu,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,10,17,0.638,0.677,2:50
+1,1:32,ORL,Terrence Ross,Personal Take Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,10,21,0.624,0.578,1:33
+2,9:50,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,20,25,0.632,0.676,10:09
+2,7:49,ORL,Mo Bamba,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,27,26,0.842,0.817,7:53
+2,5:02,CHI,DeMar DeRozan,Personal Take Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,35,32,0.819,0.819,5:04
+2,4:55,CHI,Nikola Vucevic,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,35,34,0.76,0.799,4:55
+2,3:46,CHI,Nikola Vucevic,Offensive Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,35,34,0.77,0.793,3:56
+2,3:04,ORL,Mo Bamba,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,35,34,0.788,0.789,3:13
+2,1:55,CHI,Lonzo Ball,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,38,34,0.792,0.824,1:55
+3,11:33,ORL,Tim Frazier,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,45,40,0.866,0.853,11:35
+3,8:54,CHI,Zach LaVine,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,51,47,0.801,0.825,8:54
+3,7:37,CHI,Nikola Vucevic,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,55,51,0.752,0.797,7:48
+3,7:06,ORL,Gary Harris,Personal Take Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,58,53,0.84,0.842,7:06
+3,6:52,ORL,Admiral Schofield,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,60,53,0.872,0.862,6:52
+3,6:32,CHI,Zach LaVine,Loose Ball Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,60,53,0.862,0.861,6:32
+3,3:07,ORL,R.J. Hampton,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,66,60,0.876,0.834,3:07
+3,1:27,ORL,R.J. Hampton,Defensive 3-Seconds Technical,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,69,64,0.824,0.833,1:47
+4,11:55,ORL,Mo Bamba,Technical Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,69,66,0.798,0.735,0.5
+4,10:18,CHI,DeMar DeRozan,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,75,68,0.81,0.866,10:38
+4,8:44,CHI,Coby White,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,79,72,0.858,0.868,8:55
+4,8:23,ORL,R.J. Hampton,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,79,72,0.931,0.895,8:31
+4,4:32,CHI,Nikola Vucevic,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,86,83,0.587,0.715,4:45
+4,2:23,ORL,Terrence Ross,Personal Take Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,92,87,0.91,0.905,2:24
+4,27.2,ORL,Franz Wagner,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,97,93,0.968,0.893,36.2
+4,24.5,ORL,Gary Harris,Personal Take Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,97,93,0.929,0.968,27.2
+4,20.8,CHI,Lonzo Ball,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,98,93,0.834,0.922,23.8
+4,19.7,ORL,Franz Wagner,Personal Take Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,98,96,0.915,0.809,20.8
+4,13.2,CHI,Derrick Jones Jr.,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,100,96,0.757,0.876,19.7
+4,12.1,ORL,R.J. Hampton,Flagrant Foul Type 1,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,100,98,0.935,0.832,13.2
+4,10.6,ORL,R.J. Hampton,Personal Take Foul,Foul,Marc Davis,Jonathan Sterling,Dannica Mosher,CHI,101,98,0.972,0.829,12.1

@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,UTAH,Lauri Markkanen,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,0,0,0.739,0.707,10:42
+1,9:28,UTAH,Collin Sexton,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,4,2,0.772,0.745,9:44
+1,8:47,UTAH,Kelly Olynyk,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,6,4,0.742,0.742,8:47
+1,8:24,NY,Jalen Brunson,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,8,6,0.705,0.741,8:24
+1,7:08,UTAH,Kelly Olynyk,Offensive Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,12,9,0.757,0.738,7:20
+1,6:15,NY,Jericho Sims,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,14,11,0.735,0.735,6:16
+1,2:38,UTAH,Rudy Gay,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,22,20,0.758,0.725,2:41
+2,11:49,NY,Josh Hart,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,33,28,0.762,0.771,12:00
+2,10:37,UTAH,Rudy Gay,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,35,34,0.688,0.693,10:52
+2,10:17,NY,Josh Hart,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,37,34,0.714,0.713,10:31
+2,9:58,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,37,34,0.714,0.712,9:58
+2,8:15,UTAH,Simone Fontecchio,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,42,36,0.828,0.8,8:21
+2,8:06,NY,RJ Barrett,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,43,36,0.767,0.8,8:15
+2,5:56,NY,Jericho Sims,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,47,39,0.787,0.819,6:15
+2,5:41,NY,Josh Hart,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,47,42,0.734,0.777,5:41
+2,5:26,UTAH,Collin Sexton,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,47,43,0.786,0.754,5:41
+2,5:12,UTAH,UTAH,Delay Technical,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,49,43,0.792,0.797,5:12
+2,4:45,UTAH,Jordan Clarkson,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,50,43,0.846,0.82,4:52
+2,3:00,UTAH,Walker Kessler,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,56,47,0.869,0.839,3:00
+2,1:23,NY,Immanuel Quickley,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,62,50,0.867,0.892,1:37
+3,10:33,NY,Jericho Sims,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,62,62,0.555,0.62,10:33
+3,10:28,UTAH,Collin Sexton,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,62,63,0.634,0.58,10:33
+3,9:09,UTAH,Kelly Olynyk,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,64,65,0.575,0.575,9:13
+3,8:29,NY,Jalen Brunson,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,64,65,0.477,0.535,8:47
+3,7:09,NY,Julius Randle,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,67,66,0.603,0.605,7:24
+3,7:03,NY,Julius Randle,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,67,66,0.545,0.603,7:09
+3,5:42,UTAH,Walker Kessler,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,73,69,0.767,0.711,5:42
+3,5:25,NY,RJ Barrett,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,74,69,0.691,0.744,5:42
+3,4:26,NY,Jericho Sims,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,76,73,0.644,0.711,4:26
+3,3:12,UTAH,Udoka Azubuike,Defensive 3-Seconds Technical,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,78,73,0.772,0.781,3:24
+3,1:09,NY,Immanuel Quickley,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,82,77,0.69,0.747,1:29
+3,56.1,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,82,79,0.771,0.714,1:09
+3,50.1,NY,Immanuel Quickley,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,84,79,0.69,0.745,56.1
+4,11:44,NY,NY,Technical Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,87,84,0.638,0.721,11:44
+4,11:24,UTAH,Kelly Olynyk,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,87,85,0.751,0.628,11:44
+4,11:12,UTAH,Collin Sexton,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,89,85,0.83,0.766,11:14
+4,11:05,UTAH,Collin Sexton,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,89,85,0.835,0.772,11:10
+4,10:27,NY,RJ Barrett,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,91,87,0.691,0.781,10:27
+4,9:58,UTAH,Jordan Clarkson,Offensive Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,93,88,0.815,0.773,10:25
+4,8:26,NY,RJ Barrett,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,95,92,0.633,0.742,8:26
+4,8:11,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,95,93,0.766,0.684,8:26
+4,7:45,UTAH,Kelly Olynyk,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,97,96,0.722,0.643,7:59
+4,7:17,UTAH,Ochai Agbaji,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,99,99,0.673,0.589,7:36
+4,6:28,NY,Isaiah Hartenstein,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,104,101,0.591,0.702,6:44
+4,4:54,UTAH,Walker Kessler,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,108,107,0.737,0.642,5:20
+4,2:55,NY,RJ Barrett,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,118,109,0.931,0.966,3:09
+4,1:13,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,123,116,0.896,0.953,1:13
+4,29.0,UTAH,Collin Sexton,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,123,116,0.997,0.99,32.0
+4,23.0,NY,RJ Barrett,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,125,116,0.986,0.995,29.0
+4,23.0,NY,RJ Barrett,Technical Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,125,116,0.992,0.986,23.0
+4,19.0,UTAH,Jordan Clarkson,Personal Take Foul,Foul,David Guthrie,Mitchell Ervin,Dannica Mosher,NY,125,118,0.998,0.994,23.0

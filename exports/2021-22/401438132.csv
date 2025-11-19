@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:18,BOS,Jaylen Brown,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,4,10,0.523,0.565,9:18
+1,8:14,MIA,Max Strus,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,4,16,0.401,0.403,8:31
+1,7:47,MIA,Kyle Lowry,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,4,16,0.435,0.397,7:49
+1,6:50,MIA,Bam Adebayo,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,6,20,0.372,0.335,7:07
+1,6:43,BOS,Al Horford,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,7,20,0.333,0.332,6:50
+1,3:01,MIA,Dewayne Dedmon,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,10,29,0.199,0.185,3:03
+1,2:43,MIA,Dewayne Dedmon,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,13,29,0.285,0.251,2:49
+1,14.9,BOS,Derrick White,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,18,38,0.113,0.147,14.9
+2,10:23,BOS,Grant Williams,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,20,41,0.1,0.098,10:32
+2,9:21,MIA,Gabe Vincent,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,22,46,0.076,0.058,9:21
+2,8:49,MIA,Duncan Robinson,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,25,48,0.086,0.065,8:49
+2,7:44,MIA,Duncan Robinson,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,28,51,0.071,0.071,7:55
+2,6:58,BOS,Jayson Tatum,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,31,53,0.06,0.078,6:58
+2,6:24,BOS,Jayson Tatum,Offensive Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,33,54,0.075,0.09,6:27
+2,6:14,BOS,Payton Pritchard,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,33,54,0.075,0.075,6:24
+2,5:59,MIA,Tyler Herro,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,33,54,0.11,0.088,6:04
+2,4:41,MIA,Jimmy Butler III,Loose Ball Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,34,54,0.116,0.094,4:41
+2,4:12,BOS,Al Horford,Offensive Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,35,54,0.09,0.105,4:20
+2,3:53,BOS,Jaylen Brown,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,35,54,0.069,0.088,3:54
+2,2:16,MIA,Max Strus,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,35,60,0.043,0.031,2:39
+2,1:30,MIA,P.J. Tucker,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,39,62,0.05,0.036,1:30
+3,10:57,BOS,Marcus Smart,Loose Ball Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,49,62,0.159,0.16,10:57
+3,8:19,MIA,Bam Adebayo,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,54,69,0.145,0.114,8:39
+3,7:31,MIA,Kyle Lowry,Loose Ball Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,55,69,0.124,0.125,7:31
+3,7:01,MIA,P.J. Tucker,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,57,72,0.101,0.101,7:07
+3,6:52,MIA,P.J. Tucker,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,57,72,0.129,0.101,7:01
+3,4:01,BOS,Marcus Smart,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,65,76,0.117,0.162,4:01
+3,2:45,BOS,Grant Williams,Personal Take Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,67,77,0.148,0.146,2:46
+3,2:35,BOS,Grant Williams,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,67,79,0.084,0.12,2:35
+4,11:05,MIA,Max Strus,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,72,89,0.034,0.02,11:19
+4,10:55,BOS,Grant Williams,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,73,89,0.018,0.021,11:05
+4,10:25,MIA,Gabe Vincent,Offensive Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,73,89,0.023,0.017,10:33
+4,10:03,BOS,Marcus Smart,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,75,89,0.027,0.03,10:12
+4,9:21,MIA,Dewayne Dedmon,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,75,89,0.059,0.035,9:34
+4,9:21,MIA,Gabe Vincent,Technical Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,75,89,0.045,0.059,9:21
+4,5:18,MIA,Victor Oladipo,Shooting Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,84,93,0.103,0.05,5:18
+4,3:40,MIA,Max Strus,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,89,93,0.38,0.262,3:48
+4,3:05,BOS,Jayson Tatum,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,89,93,0.111,0.201,3:22
+4,2:22,BOS,Marcus Smart,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,92,93,0.256,0.381,2:40
+4,1:07,BOS,Grant Williams,Personal Take Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,92,98,0.018,0.045,1:09
+4,1:01,MIA,Max Strus,Loose Ball Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,92,100,0.062,0.024,1:01
+4,48.0,BOS,Marcus Smart,Personal Take Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,94,100,0.012,0.042,1:01
+4,39.6,BOS,Marcus Smart,Personal Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,97,103,0.009,0.029,40.1
+4,39.6,BOS,Marcus Smart,Technical Foul,Foul,James Capers,James Williams,Curtis Blair,BOS,97,103,0.016,0.042,39.6
+4,24.7,BOS,Grant Williams,Flagrant Foul Type 1,Foul,James Capers,James Williams,Curtis Blair,BOS,100,106,0.024,0.023,31.3

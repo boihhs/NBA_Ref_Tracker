@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,DEN,Justin Holiday,Loose Ball Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,3,0,0.834,0.835,11:11
+1,9:58,SA,Zach Collins,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,3,5,0.765,0.766,10:10
+1,9:25,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,5,5,0.753,0.78,9:28
+1,9:05,SA,Malaki Branham,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,5,7,0.787,0.762,9:25
+1,5:32,SA,Malaki Branham,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,22,14,0.902,0.882,5:32
+1,5:23,DEN,Zeke Nnaji,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,22,14,0.882,0.902,5:32
+1,4:26,DEN,Zeke Nnaji,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,26,17,0.874,0.892,4:35
+1,3:56,DEN,Julian Strawther,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,26,19,0.846,0.867,3:58
+1,2:55,SA,Charles Bassey,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,32,27,0.861,0.836,2:55
+1,2:25,SA,Tre Jones,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,33,27,0.884,0.864,2:30
+1,44.1,SA,Tre Jones,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,37,33,0.852,0.83,52.1
+1,43.1,SA,Victor Wembanyama,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,37,33,0.852,0.829,43.1
+2,11:41,DEN,Reggie Jackson,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,39,35,0.81,0.811,11:41
+2,10:42,DEN,Julian Strawther,Offensive Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,42,35,0.856,0.871,10:43
+2,9:40,DEN,DeAndre Jordan,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,42,40,0.745,0.782,9:40
+2,9:33,DEN,Reggie Jackson,Offensive Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,42,40,0.761,0.781,9:37
+2,8:51,SA,Victor Wembanyama,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,44,40,0.818,0.82,8:55
+2,8:45,SA,Zach Collins,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,46,40,0.863,0.835,8:45
+2,8:09,DEN,Peyton Watson,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,48,40,0.866,0.866,8:27
+2,6:17,SA,Malaki Branham,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,53,44,0.891,0.892,6:29
+2,5:56,DEN,Nikola Jokic,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,55,44,0.884,0.904,6:12
+2,5:44,SA,Cedi Osman,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,55,44,0.93,0.916,5:47
+2,5:31,SA,Zach Collins,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,57,44,0.948,0.935,5:35
+2,5:22,DEN,Christian Braun,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,58,44,0.92,0.935,5:28
+2,5:14,SA,Charles Bassey,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,60,46,0.95,0.935,5:14
+2,1:57,DEN,Nikola Jokic,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,68,50,0.957,0.966,2:10
+2,1:44,SA,Victor Wembanyama,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,68,52,0.969,0.961,1:57
+2,25.1,DEN,Reggie Jackson,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,70,59,0.893,0.917,25.1
+3,10:34,DEN,Justin Holiday,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,74,63,0.882,0.904,10:36
+3,8:43,SA,Keldon Johnson,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,78,69,0.903,0.875,8:43
+3,8:28,SA,Zach Collins,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,80,69,0.93,0.907,8:28
+3,5:01,SA,Devin Vassell,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,90,73,0.985,0.979,5:20
+3,3:14,SA,Charles Bassey,Loose Ball Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,99,77,0.997,0.995,3:14
+3,2:26,DEN,Julian Strawther,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,101,77,0.995,0.997,2:29
+3,2:04,DEN,Reggie Jackson,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,103,81,0.994,0.996,2:04
+3,47.1,DEN,DeAndre Jordan,Loose Ball Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,107,82,0.998,0.999,47.1
+3,37.1,DEN,Julian Strawther,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,107,82,0.998,0.999,47.1
+4,10:37,SA,Victor Wembanyama,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,113,86,0.999,0.999,10:37
+4,9:02,SA,Cedi Osman,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,114,90,0.999,0.999,9:08
+4,8:25,DEN,DeAndre Jordan,Loose Ball Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,114,90,0.999,0.999,8:25
+4,8:14,DEN,Nikola Jokic,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,114,92,0.998,0.999,8:14
+4,7:20,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,118,95,0.999,0.999,7:20
+4,4:38,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,121,102,0.998,0.999,4:45
+4,2:00,SA,Sandro Mamukelashvili,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,126,111,0.999,0.999,2:02
+4,1:46,DEN,Reggie Jackson,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,128,113,0.999,0.999,1:46
+4,1:31,SA,Julian Champagnie,Personal Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,128,114,0.999,0.999,1:46
+4,1:23,DEN,Jalen Pickett,Shooting Foul,Foul,Scott Foster,Tre Maddox,Jenna Schroeder,DEN,130,116,0.999,0.999,1:23

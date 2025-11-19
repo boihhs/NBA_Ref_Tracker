@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:56,IND,Myles Turner,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,4,2,0.782,0.752,10:56
+1,9:24,DAL,Kyrie Irving,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,5,6,0.649,0.683,9:29
+1,8:35,IND,Aaron Nesmith,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,7,10,0.689,0.656,8:48
+1,6:53,IND,Buddy Hield,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,14,13,0.765,0.736,6:56
+1,5:58,IND,Myles Turner,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,16,13,0.799,0.773,6:06
+1,5:47,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,16,13,0.721,0.751,5:56
+1,5:13,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,18,16,0.729,0.731,5:26
+1,4:42,DAL,Luka Doncic,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,20,16,0.738,0.77,4:52
+1,4:10,IND,Jalen Smith,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,20,18,0.777,0.747,4:17
+1,4:03,DAL,Luka Doncic,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,22,18,0.736,0.768,4:10
+1,2:58,IND,Bennedict Mathurin,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,26,20,0.845,0.821,3:06
+1,1:39,DAL,Maxi Kleber,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,29,26,0.707,0.741,1:44
+2,11:01,DAL,Markieff Morris,Loose Ball Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,33,36,0.574,0.572,11:01
+2,10:54,DAL,Christian Wood,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,33,36,0.528,0.574,11:01
+2,10:18,DAL,Markieff Morris,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,33,38,0.466,0.51,10:33
+2,7:37,IND,Jordan Nwora,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,39,44,0.569,0.522,7:53
+2,6:37,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,44,44,0.592,0.636,6:37
+2,5:30,DAL,Kyrie Irving,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,47,46,0.617,0.661,5:39
+2,4:53,IND,Aaron Nesmith,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,49,49,0.68,0.628,4:53
+2,4:45,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,49,49,0.58,0.627,4:51
+2,4:16,DAL,Dwight Powell,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,51,51,0.578,0.625,4:31
+2,3:54,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,51,54,0.503,0.562,3:54
+2,3:30,DAL,Luka Doncic,Technical Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,51,58,0.365,0.423,3:30
+2,2:46,IND,Buddy Hield,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,53,60,0.469,0.417,2:56
+2,2:28,IND,Buddy Hield,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,54,60,0.501,0.449,2:30
+2,1:51,IND,Andrew Nembhard,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,54,62,0.426,0.372,2:03
+3,11:21,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,59,69,0.251,0.249,11:26
+3,9:53,IND,Aaron Nesmith,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,65,73,0.388,0.334,10:06
+3,9:53,IND,Aaron Nesmith,Technical Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,65,73,0.36,0.388,9:53
+3,8:49,IND,Aaron Nesmith,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,68,75,0.358,0.36,9:07
+3,6:10,IND,Myles Turner,Offensive Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,81,80,0.649,0.611,6:27
+3,4:57,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,84,84,0.532,0.607,4:57
+3,4:23,DAL,Kyrie Irving,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,84,89,0.317,0.393,4:23
+3,4:08,IND,Tyrese Haliburton,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,86,90,0.464,0.387,4:08
+3,3:57,DAL,Christian Wood,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,87,90,0.365,0.43,4:08
+3,3:55,DAL,Luka Doncic,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,87,90,0.365,0.365,3:57
+3,1:46,DAL,Josh Green,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,94,96,0.382,0.455,1:58
+3,49.1,IND,Jalen Smith,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,94,101,0.334,0.268,1:04
+3,35.0,DAL,Josh Green,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,96,101,0.236,0.304,49.1
+4,11:19,DAL,Christian Wood,Offensive Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,100,108,0.16,0.199,11:29
+4,10:28,DAL,Christian Wood,Offensive Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,100,110,0.094,0.123,10:42
+4,8:32,IND,Jalen Smith,Loose Ball Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,104,112,0.169,0.157,8:32
+4,8:04,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,106,112,0.185,0.199,8:16
+4,5:10,IND,Myles Turner,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,112,121,0.078,0.077,5:28
+4,4:13,DAL,Maxi Kleber,Personal Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,112,121,0.036,0.042,4:28
+4,2:13,DAL,Dwight Powell,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,120,121,0.222,0.379,2:30
+4,23.1,DAL,Kyrie Irving,Personal Take Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,120,122,0.084,0.182,25.1
+4,19.0,DAL,Reggie Bullock Jr.,Personal Take Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,120,122,0.075,0.084,23.1
+4,11.0,IND,Myles Turner,Shooting Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,120,124,0.239,0.11,19.0
+4,7.1,DAL,Josh Green,Personal Take Foul,Foul,Michael Smith,Andy Nagy,Tyler Ford,DAL,122,124,0.045,0.163,11.0

@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,PHI,P.J. Tucker,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,0,2,0.511,0.549,11:08
+1,6:32,MIL,Brook Lopez,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,12,17,0.52,0.455,6:46
+1,4:55,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,18,23,0.476,0.446,5:07
+1,1:26,PHI,P.J. Tucker,Offensive Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,20,32,0.246,0.272,1:32
+1,31.9,PHI,Shake Milton,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,20,32,0.208,0.241,35.8
+1,3.5,PHI,Paul Reed,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,22,33,0.226,0.263,19.1
+1,0.1,MIL,George Hill,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,22,34,0.305,0.263,3.5
+2,7:11,MIL,MIL,Delay Technical,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,35,46,0.251,0.259,7:13
+2,6:11,PHI,Georges Niang,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,42,48,0.368,0.368,6:27
+2,5:01,PHI,Georges Niang,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,44,51,0.286,0.329,5:11
+2,2:09,PHI,Joel Embiid,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,49,58,0.234,0.281,2:09
+2,1:36,MIL,Jevon Carter,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,52,58,0.424,0.374,1:38
+2,1:34,PHI,Shake Milton,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,53,58,0.323,0.372,1:36
+3,11:46,PHI,P.J. Tucker,Offensive Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,55,62,0.29,0.316,12:00
+3,11:09,PHI,Danuel House Jr.,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,57,62,0.308,0.359,11:17
+3,10:07,MIL,MarJon Beauchamp,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,60,65,0.414,0.387,10:07
+3,9:00,MIL,Brook Lopez,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,63,65,0.55,0.495,9:16
+3,7:57,MIL,Bobby Portis,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,67,67,0.566,0.568,8:15
+3,7:28,MIL,Giannis Antetokounmpo,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,69,67,0.692,0.64,7:33
+3,6:59,MIL,Jordan Nwora,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,69,67,0.693,0.641,6:59
+3,5:48,PHI,Joel Embiid,Flagrant Foul Type 1,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,71,69,0.613,0.602,5:50
+3,5:14,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,71,71,0.592,0.561,5:14
+3,3:21,PHI,Matisse Thybulle,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,75,77,0.361,0.425,3:28
+3,2:37,MIL,Bobby Portis,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,78,77,0.666,0.604,2:42
+3,2:37,MIL,Bobby Portis,Technical Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,78,77,0.635,0.666,2:37
+3,1:56,PHI,Paul Reed,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,84,77,0.74,0.794,2:14
+3,1:50,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,84,77,0.871,0.831,1:50
+3,1:06,PHI,Paul Reed,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,87,79,0.782,0.834,1:15
+4,11:23,MIL,Jrue Holiday,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,89,86,0.772,0.7,11:46
+4,9:52,MIL,Grayson Allen,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,92,90,0.747,0.662,9:58
+4,9:40,PHI,P.J. Tucker,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,92,90,0.601,0.616,9:40
+4,9:11,PHI,Danuel House Jr.,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,92,90,0.508,0.609,9:14
+4,7:42,PHI,De'Anthony Melton,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,94,93,0.522,0.545,7:42
+4,7:35,PHI,De'Anthony Melton,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,94,93,0.432,0.522,7:42
+4,7:00,MIL,Jevon Carter,Personal Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,94,95,0.486,0.466,7:12
+4,5:52,MIL,Bobby Portis,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,96,97,0.582,0.468,5:52
+4,4:58,MIL,Bobby Portis,Shooting Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,98,97,0.669,0.546,4:58
+4,2:47,MIL,Jrue Holiday,Offensive Foul,Foul,John Goble,Phenizee Ransom,Ben Taylor,PHI,104,99,0.887,0.829,3:03

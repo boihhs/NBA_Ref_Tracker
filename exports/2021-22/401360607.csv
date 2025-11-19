@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:42,DET,Hamidou Diallo,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,0,2,0.174,0.18,11:42
+1,10:18,DET,Isaiah Stewart,Offensive Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,2,7,0.132,0.146,10:20
+1,7:22,BOS,Jaylen Brown,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,6,11,0.153,0.153,7:44
+1,7:22,BOS,Jaylen Brown,Technical Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,6,11,0.164,0.153,7:22
+1,4:50,DET,Cory Joseph,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,11,16,0.126,0.145,5:05
+1,33.9,BOS,Romeo Langford,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,16,28,0.099,0.084,38.9
+2,8:17,BOS,Dennis Schroder,Personal Take Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,21,34,0.076,0.075,8:17
+2,7:02,DET,Frank Jackson,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,21,34,0.065,0.065,7:10
+2,6:48,BOS,Robert Williams III,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,21,34,0.091,0.075,6:51
+2,6:48,BOS,Jayson Tatum,Technical Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,21,34,0.083,0.091,6:48
+2,6:31,DET,Rodney McGruder,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,22,36,0.061,0.065,6:31
+2,5:05,DET,Killian Hayes,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,24,37,0.053,0.064,5:06
+2,3:59,BOS,Jaylen Brown,Offensive Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,26,40,0.065,0.056,4:01
+2,3:40,BOS,Marcus Smart,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,26,40,0.065,0.065,3:59
+2,1:48,DET,Hamidou Diallo,Loose Ball Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,29,42,0.068,0.073,1:50
+2,1:29,DET,Cory Joseph,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,29,42,0.05,0.068,1:48
+3,8:07,DET,Cory Joseph,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,38,54,0.031,0.031,8:10
+3,7:41,BOS,Robert Williams III,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,38,56,0.034,0.024,7:44
+3,7:13,DET,Jerami Grant,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,42,56,0.048,0.044,7:17
+3,7:05,BOS,Robert Williams III,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,42,57,0.058,0.044,7:13
+3,6:46,DET,Hamidou Diallo,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,46,57,0.076,0.076,6:59
+3,6:26,BOS,Marcus Smart,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,46,57,0.083,0.09,6:31
+3,1:53,DET,Trey Lyles,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,52,72,0.005,0.008,1:53
+4,11:45,DET,Frank Jackson,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,56,78,0.001,0.002,12:00
+4,11:00,BOS,Dennis Schroder,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,59,80,0.003,0.003,11:15
+4,10:08,DET,Killian Hayes,Personal Take Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,61,80,0.003,0.003,10:09
+4,10:00,BOS,Dennis Schroder,Offensive Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,61,80,0.004,0.003,8:47
+4,8:25,DET,Killian Hayes,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,61,80,0.002,0.001,8:27
+4,8:21,DET,Killian Hayes,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,61,80,0.001,0.002,8:25
+4,7:56,BOS,Grant Williams,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,63,82,0.003,0.001,7:56
+4,7:44,DET,Kelly Olynyk,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,64,82,0.001,0.002,7:56
+4,7:06,DET,Killian Hayes,Personal Take Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,66,86,0.001,0.001,7:07
+4,6:51,BOS,Josh Richardson,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,68,88,0.001,0.001,6:51
+4,6:34,DET,Trey Lyles,Offensive Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,69,88,0.001,0.001,6:39
+4,5:29,DET,Frank Jackson,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,71,88,0.001,0.001,5:31
+4,4:00,BOS,Grant Williams,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,74,96,0.001,0.001,4:04
+4,2:19,BOS,Payton Pritchard,Shooting Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,80,96,0.001,0.001,2:19
+4,1:23,BOS,Aaron Nesmith,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,84,98,0.001,0.001,1:31
+4,1:07,BOS,Enes Freedom,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,86,98,0.004,0.001,1:12
+4,57.9,DET,Hamidou Diallo,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,88,98,0.001,0.002,1:07
+4,14.8,DET,Hamidou Diallo,Personal Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,93,100,0.001,0.004,20.6
+4,5.3,DET,Isaiah Stewart,Personal Take Foul,Foul,James Capers,Brent Barnaky,Scott Wall,DET,93,100,0.001,0.001,5.4

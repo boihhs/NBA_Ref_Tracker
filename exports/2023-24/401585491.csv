@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:56,NO,Jonas Valanciunas,Offensive Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,2,5,0.555,0.583,11:05
+1,4:55,IND,Myles Turner,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,28,16,0.872,0.872,5:06
+1,3:53,NO,Brandon Ingram,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,34,16,0.927,0.928,3:59
+1,2:59,IND,Obi Toppin,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,36,16,0.951,0.951,3:10
+1,1:54,IND,Aaron Nesmith,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,40,20,0.961,0.953,2:03
+1,1:20,NO,Jose Alvarado,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,42,20,0.95,0.96,1:28
+1,1:01,NO,Jose Alvarado,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,44,22,0.951,0.961,1:13
+1,40.1,IND,Myles Turner,Defensive 3-Seconds Technical,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,44,24,0.954,0.954,1:01
+1,29.0,NO,Trey Murphy III,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,45,24,0.943,0.957,32.2
+2,11:18,IND,Obi Toppin,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,53,26,0.987,0.983,11:18
+2,8:07,IND,T.J. McConnell,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,59,34,0.987,0.983,8:08
+2,3:25,IND,Jalen Smith,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,60,49,0.872,0.873,3:27
+2,1:20,NO,CJ McCollum,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,69,53,0.914,0.932,1:23
+2,57.0,NO,Brandon Ingram,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,72,53,0.947,0.959,1:08
+2,6.1,IND,Pascal Siakam,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,74,56,0.97,0.961,22.1
+3,10:08,NO,Brandon Ingram,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,80,56,0.984,0.989,10:10
+3,9:23,IND,Aaron Nesmith,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,82,57,0.994,0.992,9:23
+3,9:11,NO,Herbert Jones,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,83,57,0.99,0.993,9:23
+3,8:33,IND,Myles Turner,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,85,57,0.997,0.997,8:43
+3,7:17,IND,Andrew Nembhard,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,89,59,0.998,0.998,7:23
+3,6:38,IND,Myles Turner,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,89,59,0.999,0.999,6:49
+3,6:17,IND,Andrew Nembhard,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,91,59,0.999,0.999,6:21
+3,5:57,NO,CJ McCollum,Loose Ball Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,91,59,0.999,0.999,5:57
+3,4:21,NO,Herbert Jones,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,98,62,0.999,0.999,4:32
+3,4:01,IND,Isaiah Jackson,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,98,62,0.999,0.999,4:10
+3,3:32,NO,Larry Nance Jr.,Loose Ball Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,98,65,0.999,0.999,3:32
+3,3:32,IND,Jarace Walker,Double Technical Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,98,65,0.999,0.999,3:32
+3,3:32,NO,Herbert Jones,Double Technical Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,98,65,0.999,0.999,3:32
+3,2:30,IND,Obi Toppin,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,100,68,0.999,0.999,2:32
+3,38.1,IND,Jarace Walker,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,105,72,0.999,0.999,59.1
+3,8.1,IND,Bennedict Mathurin,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,107,72,0.999,0.999,26.1
+4,11:03,IND,James Johnson,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,108,75,0.999,0.999,11:08
+4,10:01,IND,James Johnson,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,109,79,0.999,0.999,10:14
+4,10:01,IND,Bennedict Mathurin,Flopping Technical,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,109,79,0.999,0.999,10:01
+4,8:32,NO,Jonas Valanciunas,Offensive Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,113,81,0.999,0.999,8:52
+4,7:14,NO,Trey Murphy III,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,115,86,0.999,0.999,7:25
+4,6:37,IND,James Johnson,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,117,88,0.999,0.999,6:39
+4,4:42,NO,Matt Ryan,Personal Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,125,90,0.999,0.999,4:53
+4,4:15,NO,Cody Zeller,Offensive Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,125,93,0.999,0.999,4:18
+4,4:02,IND,Andrew Nembhard,Offensive Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,125,93,0.999,0.999,4:15
+4,1:08,IND,Oscar Tshiebwe,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,125,99,0.999,0.999,1:14
+4,34.2,NO,Cody Zeller,Shooting Foul,Foul,Tyler Ford,Natalie Sago,Mousa Dagher,NO,129,101,0.999,0.999,39.0

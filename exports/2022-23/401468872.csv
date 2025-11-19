@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:50,DAL,Luka Doncic,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,2,2,0.667,0.703,11:06
+1,7:40,WSH,Daniel Gafford,Personal Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,8,11,0.639,0.641,7:51
+1,6:30,WSH,Daniel Gafford,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,11,15,0.646,0.611,6:45
+1,6:00,WSH,Deni Avdija,Personal Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,15,17,0.655,0.63,6:00
+1,5:15,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,15,17,0.588,0.627,5:30
+1,1:17,WSH,Anthony Gill,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,25,29,0.599,0.548,1:17
+1,1:00,DAL,Josh Green,Personal Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,26,29,0.535,0.58,1:17
+1,6.1,DAL,Davis Bertans,Personal Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,28,31,0.53,0.579,25.0
+2,9:36,DAL,Josh Green,Personal Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,40,34,0.788,0.787,9:49
+2,9:02,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,40,36,0.707,0.743,9:11
+2,8:53,WSH,Taj Gibson,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,40,38,0.753,0.718,9:02
+2,6:23,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,47,45,0.642,0.685,6:33
+2,6:11,WSH,Deni Avdija,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,47,47,0.697,0.658,6:23
+2,2:25,DAL,Josh Green,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,59,53,0.74,0.778,2:44
+2,2:05,DAL,Reggie Bullock Jr.,Loose Ball Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,59,54,0.713,0.754,2:05
+2,1:39,DAL,Dwight Powell,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,59,55,0.683,0.726,1:44
+2,1:27,WSH,Bradley Beal,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,59,57,0.741,0.697,1:39
+2,37.0,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,60,59,0.582,0.63,37.0
+2,32.0,DAL,Dwight Powell,Offensive Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,60,61,0.566,0.602,37.0
+3,11:12,WSH,Bradley Beal,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,63,65,0.608,0.555,11:23
+3,10:54,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,65,65,0.563,0.587,10:54
+3,10:04,WSH,Corey Kispert,Personal Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,67,66,0.655,0.657,10:11
+3,9:48,DAL,Luka Doncic,Technical Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,67,68,0.519,0.585,9:48
+3,9:19,WSH,Daniel Gafford,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,67,71,0.527,0.471,9:33
+3,8:52,WSH,Daniel Gafford,Personal Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,69,73,0.524,0.467,9:01
+3,8:45,WSH,Bradley Beal,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,69,73,0.523,0.524,8:52
+3,7:32,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,73,76,0.397,0.455,7:39
+3,7:23,WSH,Anthony Gill,Personal Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,73,78,0.475,0.415,7:32
+3,6:31,DAL,Dwight Powell,Defensive 3-Seconds Technical,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,77,80,0.457,0.447,6:46
+3,5:50,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,79,80,0.461,0.523,6:01
+3,5:35,WSH,Anthony Gill,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,79,81,0.584,0.522,5:48
+3,3:35,DAL,Luka Doncic,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,86,88,0.43,0.507,3:35
+3,3:18,WSH,Anthony Gill,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,88,89,0.583,0.504,3:18
+3,1:09,DAL,Dwight Powell,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,93,96,0.326,0.397,1:13
+3,11.1,DAL,Reggie Bullock Jr.,Loose Ball Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,95,97,0.36,0.432,11.1
+4,10:13,WSH,Kyle Kuzma,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,102,105,0.473,0.358,10:13
+4,10:01,DAL,Dorian Finney-Smith,Personal Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,103,105,0.401,0.42,10:13
+4,9:53,DAL,Josh Green,Loose Ball Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,103,105,0.392,0.409,9:53
+4,9:50,WSH,Daniel Gafford,Offensive Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,103,105,0.459,0.392,9:53
+4,9:15,WSH,Kyle Kuzma,Offensive Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,103,105,0.455,0.395,9:24
+4,8:23,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,105,107,0.326,0.448,8:23
+4,7:23,DAL,Davis Bertans,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,108,111,0.221,0.306,7:25
+4,6:32,WSH,Daniel Gafford,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,112,115,0.407,0.28,6:32
+4,4:42,DAL,Dwight Powell,Transition Take Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,115,117,0.318,0.318,4:42
+4,4:41,DAL,DAL,Technical Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,115,118,0.211,0.32,4:42
+4,4:25,WSH,Bradley Beal,Loose Ball Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,115,119,0.276,0.254,4:25
+4,2:47,WSH,Bradley Beal,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,119,119,0.62,0.444,2:47
+4,47.0,DAL,Josh Green,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,123,124,0.196,0.346,56.0
+4,12.1,WSH,Deni Avdija,Shooting Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,125,126,0.635,0.461,15.0
+4,5.0,DAL,Luka Doncic,Personal Foul,Foul,Courtney Kirkland,Natalie Sago,Dannica Mosher,DAL,126,126,0.126,0.451,10.1

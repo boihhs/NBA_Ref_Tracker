@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:39,LAC,Reggie Jackson,Personal Foul,Foul,,,,DEN,14,9,0.886,0.885,7:48
+1,1:56,LAC,Ivica Zubac,Personal Foul,Foul,,,,DEN,27,22,0.889,0.873,2:20
+1,1:41,DEN,Facundo Campazzo,Shooting Foul,Foul,,,,DEN,27,22,0.833,0.855,1:42
+1,1:11,DEN,Austin Rivers,Loose Ball Foul,Foul,,,,DEN,27,23,0.839,0.839,1:11
+2,7:02,LAC,Serge Ibaka,Personal Foul,Foul,,,,DEN,34,43,0.489,0.49,7:12
+2,5:59,LAC,Serge Ibaka,Personal Foul,Foul,,,,DEN,34,46,0.374,0.377,6:07
+2,3:30,DEN,Davon Reed,Personal Foul,Foul,,,,DEN,38,50,0.307,0.31,3:40
+2,3:09,LAC,Luke Kennard,Shooting Foul,Foul,,,,DEN,38,52,0.318,0.275,3:23
+2,2:46,DEN,Nikola Jokic,Personal Foul,Foul,,,,DEN,41,52,0.328,0.33,3:04
+2,2:26,LAC,Amir Coffey,Shooting Foul,Foul,,,,DEN,41,52,0.411,0.36,2:30
+2,1:52,LAC,Terance Mann,Loose Ball Foul,Foul,,,,DEN,42,54,0.37,0.315,1:52
+2,4.2,DEN,Davon Reed,Personal Take Foul,Foul,,,,DEN,47,59,0.213,0.259,8.8
+2,4.2,LAC,Luke Kennard,Offensive Foul,Foul,,,,DEN,47,59,0.289,0.213,4.2
+3,11:11,LAC,Serge Ibaka,Personal Foul,Foul,,,,DEN,50,61,0.309,0.316,11:22
+3,9:03,DEN,Aaron Gordon,Shooting Foul,Foul,,,,DEN,57,70,0.197,0.184,9:14
+3,8:48,LAC,Ivica Zubac,Personal Foul,Foul,,,,DEN,57,71,0.178,0.183,9:03
+3,7:04,LAC,Justise Winslow,Shooting Foul,Foul,,,,DEN,63,71,0.417,0.358,7:08
+3,5:05,DEN,Nikola Jokic,Shooting Foul,Foul,,,,DEN,69,71,0.558,0.536,5:08
+3,5:00,LAC,Terance Mann,Technical Foul,Foul,,,,DEN,69,72,0.515,0.538,5:03
+3,4:40,DEN,Nikola Jokic,Technical Foul,Foul,,,,DEN,72,72,0.615,0.615,4:40
+3,3:08,DEN,Nikola Jokic,Offensive Foul,Foul,,,,DEN,72,73,0.556,0.604,3:11
+3,2:43,LAC,Justise Winslow,Personal Take Foul,Foul,,,,DEN,72,73,0.576,0.6,2:45
+3,2:31,LAC,Justise Winslow,Personal Foul,Foul,,,,DEN,72,73,0.662,0.663,2:43
+3,2:07,LAC,Justise Winslow,Shooting Foul,Foul,,,,DEN,76,73,0.804,0.719,2:07
+3,1:29,LAC,Justise Winslow,Personal Foul,Foul,,,,DEN,77,76,0.678,0.678,1:29
+3,1:18,DEN,Davon Reed,Personal Foul,Foul,,,,DEN,79,76,0.652,0.717,1:29
+4,10:40,DEN,Bones Hyland,Offensive Foul,Foul,,,,DEN,86,83,0.705,0.755,10:56
+4,9:44,DEN,Zeke Nnaji,Personal Foul,Foul,,,,DEN,88,85,0.692,0.703,10:01
+4,9:22,LAC,Ivica Zubac,Shooting Foul,Foul,,,,DEN,90,87,0.723,0.698,9:22
+4,7:10,DEN,Davon Reed,Personal Foul,Foul,,,,DEN,95,94,0.572,0.59,7:17
+4,5:36,DEN,Jeff Green,Offensive Foul,Foul,,,,DEN,95,101,0.146,0.197,5:46
+4,3:46,LAC,Luke Kennard,Personal Foul,Foul,,,,DEN,100,108,0.082,0.079,4:00
+4,3:12,LAC,Reggie Jackson,Shooting Foul,Foul,,,,DEN,102,108,0.198,0.093,3:12
+4,2:38,LAC,Brandon Boston,Shooting Foul,Foul,,,,DEN,103,108,0.298,0.179,2:49
+4,2:00,LAC,Ivica Zubac,Shooting Foul,Foul,,,,DEN,107,108,0.571,0.4,2:00
+4,1:34,LAC,Ivica Zubac,Personal Foul,Foul,,,,DEN,108,110,0.545,0.411,1:47
+4,1:22,DEN,Nikola Jokic,Personal Foul,Foul,,,,DEN,110,110,0.315,0.51,1:34
+4,1:15,DEN,Jeff Green,Personal Foul,Foul,,,,DEN,110,110,0.312,0.315,1:22
+5,4:44,LAC,Brandon Boston,Defensive 3-Seconds Technical,Foul,,,,DEN,114,114,0.517,0.5,5:00
+5,2:44,LAC,Terance Mann,Shooting Foul,Foul,,,,DEN,118,121,0.418,0.292,3:01
+5,2:22,LAC,Amir Coffey,Personal Foul,Foul,,,,DEN,120,121,0.465,0.462,2:25
+5,34.5,LAC,Amir Coffey,Shooting Foul,Foul,,,,DEN,126,125,0.604,0.515,34.5
+5,1.7,DEN,Davon Reed,Technical Foul,Foul,,,,DEN,130,127,0.957,0.969,2.2

@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:28,CHA,Grant Williams,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,2,2,0.782,0.754,10:40
+1,9:47,CHA,Brandon Miller,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,4,4,0.779,0.751,9:49
+1,7:50,CHA,Vasilije Micic,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,12,12,0.757,0.723,7:50
+1,6:02,DET,Simone Fontecchio,Personal Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,16,14,0.756,0.755,6:09
+1,4:00,CHA,JT Thor,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,22,19,0.813,0.788,4:12
+1,43.0,DET,Marcus Sasser,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,34,23,0.869,0.901,43.0
+2,11:10,DET,Evan Fournier,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,37,26,0.879,0.9,11:10
+2,8:37,CHA,Nick Smith Jr.,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,41,29,0.927,0.912,8:41
+2,8:23,CHA,Nick Richards,Loose Ball Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,43,29,0.931,0.932,8:23
+2,7:31,CHA,Miles Bridges,Offensive Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,46,31,0.941,0.932,7:42
+2,4:15,CHA,Grant Williams,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,48,41,0.864,0.84,4:25
+2,1:13,DET,Cade Cunningham,Personal Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,53,46,0.782,0.817,1:17
+3,9:51,CHA,Brandon Miller,Technical Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,60,48,0.931,0.923,9:52
+3,8:30,DET,Simone Fontecchio,Personal Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,65,50,0.948,0.948,8:31
+3,7:09,DET,Simone Fontecchio,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,70,53,0.955,0.967,7:26
+3,6:20,DET,Jalen Duren,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,70,54,0.948,0.961,6:30
+3,5:26,DET,Simone Fontecchio,Personal Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,72,58,0.927,0.945,5:37
+3,4:41,DET,Isaiah Stewart,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,74,58,0.953,0.966,4:45
+3,1:24,CHA,Davis Bertans,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,79,65,0.978,0.969,1:28
+3,54.1,CHA,Nick Smith Jr.,Personal Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,81,65,0.988,0.983,1:06
+4,11:47,DET,Quentin Grimes,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,86,69,0.98,0.99,11:47
+4,11:35,CHA,Brandon Miller,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,86,70,0.991,0.984,11:47
+4,11:01,DET,James Wiseman,Loose Ball Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,88,72,0.981,0.983,11:01
+4,10:54,DET,Stanley Umude,Personal Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,88,72,0.98,0.981,11:01
+4,10:51,DET,Quentin Grimes,Flagrant Foul Type 1,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,88,72,0.981,0.98,10:54
+4,9:37,DET,James Wiseman,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,90,74,0.979,0.984,9:37
+4,9:37,DET,Evan Fournier,Loose Ball Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,90,74,0.974,0.984,9:37
+4,6:41,DET,Isaiah Stewart,Away from Play Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,96,83,0.959,0.974,6:41
+4,4:38,CHA,Vasilije Micic,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,98,91,0.939,0.909,4:58
+4,4:32,DET,Jalen Duren,Personal Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,100,91,0.902,0.941,4:38
+4,3:45,DET,Jalen Duren,Away from Play Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,104,93,0.961,0.978,3:45
+4,3:17,DET,Jaden Ivey,Personal Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,106,94,0.977,0.958,3:45
+4,3:01,CHA,Vasilije Micic,Shooting Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,106,97,0.989,0.972,3:17
+4,1:36,CHA,Grant Williams,Personal Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,110,97,0.999,0.999,1:40
+4,1:18,CHA,Grant Williams,Personal Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,110,97,0.999,0.999,1:18
+4,1:14,CHA,Grant Williams,Offensive Foul,Foul,Derrick Collins,Matt Myers,Ray Acosta,DET,112,97,0.999,0.999,1:18

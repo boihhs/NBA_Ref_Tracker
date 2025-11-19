@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:52,WSH,Daniel Gafford,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,12,10,0.189,0.213,8:01
+1,2:15,WSH,Danilo Gallinari,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,21,21,0.183,0.209,2:20
+1,44.1,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,25,25,0.255,0.218,44.1
+1,37.2,WSH,Jared Butler,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,26,25,0.207,0.237,44.1
+2,10:53,PHI,Robert Covington,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,31,25,0.403,0.402,11:07
+2,9:29,WSH,Jared Butler,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,35,27,0.405,0.448,9:45
+2,8:00,WSH,Deni Avdija,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,40,31,0.453,0.499,8:14
+2,6:39,WSH,Jared Butler,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,43,35,0.462,0.519,6:39
+2,6:02,PHI,De'Anthony Melton,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,46,36,0.594,0.595,6:04
+2,5:08,WSH,Kyle Kuzma,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,48,39,0.488,0.534,5:24
+2,3:53,WSH,Daniel Gafford,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,50,44,0.402,0.45,3:56
+2,3:27,WSH,Bilal Coulibaly,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,50,48,0.309,0.36,3:27
+2,3:00,PHI,Nicolas Batum,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,50,51,0.277,0.304,3:09
+2,2:33,PHI,Tobias Harris,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,52,53,0.322,0.279,2:41
+2,1:14,WSH,Jordan Poole,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,58,55,0.33,0.381,1:24
+3,8:27,PHI,Tyrese Maxey,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,71,69,0.485,0.425,8:41
+3,7:20,WSH,Deni Avdija,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,75,75,0.301,0.364,7:20
+3,6:53,WSH,Daniel Gafford,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,77,76,0.313,0.363,7:10
+3,5:43,WSH,Jordan Poole,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,82,80,0.356,0.411,6:04
+3,4:37,PHI,Nicolas Batum,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,87,86,0.427,0.427,4:46
+3,2:36,PHI,Joel Embiid,Technical Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,94,89,0.665,0.631,2:36
+3,2:21,PHI,Tyrese Maxey,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,95,89,0.682,0.68,2:22
+3,2:19,WSH,Kyle Kuzma,Offensive Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,95,89,0.634,0.682,2:21
+3,2:19,WSH,WSH,Delay Technical,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,95,89,0.647,0.634,2:19
+3,1:17,WSH,Jared Butler,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,95,94,0.346,0.414,1:18
+4,11:38,PHI,Paul Reed,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,95,99,0.26,0.251,11:38
+4,11:07,PHI,Paul Reed,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,95,99,0.337,0.255,11:11
+4,9:21,PHI,Paul Reed,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,100,101,0.429,0.41,9:26
+4,7:35,WSH,Jared Butler,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,102,105,0.22,0.317,7:35
+4,7:23,PHI,Tobias Harris,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,102,106,0.353,0.261,7:35
+4,5:43,WSH,Daniel Gafford,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,104,109,0.104,0.168,6:04
+4,5:16,WSH,Daniel Gafford,Personal Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,106,110,0.185,0.203,5:23
+4,4:55,PHI,Joel Embiid,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,106,113,0.171,0.113,5:07
+4,1:58,WSH,Daniel Gafford,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,119,122,0.11,0.209,2:17
+4,49.1,WSH,Corey Kispert,Shooting Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,119,123,0.048,0.117,1:08
+4,11.1,WSH,Kyle Kuzma,Personal Take Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,123,127,0.012,0.046,13.1
+4,5.1,WSH,Jordan Poole,Personal Take Foul,Foul,Michael Smith,David Guthrie,Robert Hussey,WSH,126,129,0.014,0.053,6.2

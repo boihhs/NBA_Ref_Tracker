@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:35,POR,Scoot Henderson,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,0,0,0.51,0.51,11:36
+1,10:33,POR,Toumani Camara,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,7,3,0.63,0.587,10:33
+1,9:49,PHX,Drew Eubanks,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,8,5,0.544,0.587,9:49
+1,9:37,POR,Jabari Walker,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,8,5,0.586,0.588,9:45
+1,8:23,POR,Scoot Henderson,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,11,8,0.625,0.588,8:36
+1,7:07,POR,Toumani Camara,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,11,11,0.551,0.512,7:31
+1,6:59,PHX,Devin Booker,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,12,11,0.513,0.513,7:07
+1,6:12,POR,Shaedon Sharpe,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,12,15,0.472,0.434,6:25
+1,5:06,POR,Duop Reath,Offensive Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,21,19,0.566,0.54,5:14
+1,4:59,POR,Toumani Camara,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,21,19,0.606,0.566,5:06
+1,4:52,PHX,Josh Okogie,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,23,19,0.593,0.592,4:59
+1,2:11,PHX,Chimezie Metu,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,31,23,0.661,0.699,2:11
+1,1:58,POR,Rayan Rupert,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,31,23,0.761,0.726,2:08
+1,51.1,POR,Moses Brown,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,33,23,0.767,0.775,1:00
+2,11:44,PHX,Chimezie Metu,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,36,23,0.789,0.826,12:00
+2,11:31,POR,Skylar Mays,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,36,25,0.829,0.8,11:44
+2,11:02,POR,Kris Murray,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,37,28,0.752,0.757,11:18
+2,10:53,POR,Jabari Walker,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,38,28,0.81,0.78,11:02
+2,10:32,POR,Jabari Walker,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,39,28,0.829,0.802,10:37
+2,9:58,PHX,Jordan Goodwin,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,44,30,0.842,0.842,10:08
+2,9:53,PHX,Chimezie Metu,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,44,30,0.815,0.842,9:58
+2,9:36,PHX,Jordan Goodwin,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,44,31,0.795,0.825,9:39
+2,8:52,PHX,Jordan Goodwin,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,48,36,0.793,0.827,8:52
+2,8:46,POR,Rayan Rupert,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,48,37,0.837,0.81,8:52
+2,7:36,POR,Duop Reath,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,50,37,0.877,0.85,7:43
+2,6:46,POR,Kevin Knox II,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,56,37,0.943,0.926,6:46
+2,6:06,POR,Toumani Camara,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,59,39,0.953,0.937,6:06
+2,5:49,PHX,Drew Eubanks,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,59,39,0.923,0.938,5:50
+2,5:07,PHX,Jordan Goodwin,Loose Ball Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,61,40,0.936,0.949,5:07
+2,4:21,POR,Shaedon Sharpe,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,64,43,0.968,0.96,4:34
+2,12.2,PHX,Devin Booker,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,75,52,0.967,0.973,33.1
+2,0.1,POR,Scoot Henderson,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,75,54,0.977,0.971,12.2
+3,11:09,PHX,Keita Bates-Diop,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,78,56,0.965,0.974,11:17
+3,9:00,POR,Duop Reath,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,83,63,0.974,0.974,9:10
+3,8:55,POR,Scoot Henderson,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,83,63,0.974,0.974,9:00
+3,8:27,POR,Toumani Camara,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,83,63,0.975,0.975,8:33
+3,4:41,PHX,Nassir Little,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,87,71,0.932,0.95,4:44
+3,3:00,POR,Kris Murray,Loose Ball Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,91,75,0.978,0.967,3:00
+3,2:12,POR,Justin Minaya,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,93,75,0.986,0.977,2:12
+3,1:01,PHX,Udoka Azubuike,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,99,77,0.993,0.996,1:01
+4,11:02,POR,Moses Brown,Offensive Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,101,81,0.995,0.994,11:03
+4,10:33,PHX,Saben Lee,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,101,81,0.994,0.995,10:42
+4,9:41,PHX,Chimezie Metu,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,101,83,0.983,0.991,9:44
+4,9:27,POR,Kris Murray,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,101,84,0.991,0.991,9:30
+4,8:45,PHX,Bol Bol,Offensive Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,103,86,0.989,0.992,8:59
+4,7:57,PHX,Saben Lee,Loose Ball Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,103,88,0.981,0.983,7:57
+4,7:29,PHX,Bol Bol,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,103,90,0.956,0.978,7:29
+4,5:20,POR,George Conditt IV,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,105,91,0.995,0.99,5:25
+4,4:07,POR,Justin Minaya,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,107,91,0.999,0.998,4:11
+4,1:59,POR,Skylar Mays,Shooting Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,113,100,0.999,0.999,2:01
+4,37.1,PHX,Saben Lee,Loose Ball Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,115,103,0.997,0.999,37.1
+4,31.0,PHX,Saben Lee,Personal Foul,Foul,Bill Kennedy,Leon Wood,John Butler,PHX,117,104,0.999,0.999,31.1

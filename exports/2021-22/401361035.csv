@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:33,BKN,Kyrie Irving,Clear Path Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,12,5,0.905,0.905,8:33
+1,8:19,IND,T.J. McConnell,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,12,6,0.917,0.905,8:24
+1,7:11,BKN,Kessler Edwards,Loose Ball Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,16,8,0.91,0.91,7:11
+1,5:25,IND,Isaiah Jackson,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,20,13,0.913,0.896,5:25
+1,3:05,IND,Lance Stephenson,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,28,17,0.946,0.937,3:07
+1,2:41,IND,Terry Taylor,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,30,19,0.946,0.936,2:54
+1,13.3,BKN,Nic Claxton,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,39,28,0.918,0.934,13.3
+2,11:03,IND,Gabe York,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,44,29,0.959,0.96,11:20
+2,9:58,IND,Isaiah Jackson,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,47,33,0.952,0.953,10:12
+2,8:13,BKN,Nic Claxton,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,51,35,0.954,0.959,8:13
+2,7:46,IND,Oshae Brissett,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,51,37,0.961,0.952,7:48
+2,7:14,IND,Oshae Brissett,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,52,40,0.948,0.937,7:30
+2,7:04,IND,Buddy Hield,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,52,40,0.948,0.948,7:14
+2,6:19,BKN,Kessler Edwards,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,54,42,0.913,0.928,6:19
+2,3:42,IND,Oshae Brissett,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,62,48,0.962,0.952,3:54
+2,2:47,IND,Lance Stephenson,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,66,51,0.968,0.96,2:58
+2,1:33,IND,Isaiah Jackson,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,68,55,0.957,0.947,1:54
+2,1:04,BKN,Andre Drummond,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,72,55,0.957,0.967,1:14
+2,54.2,IND,Lance Stephenson,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,72,57,0.97,0.961,1:04
+3,9:53,BKN,Bruce Brown,Offensive Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,76,68,0.871,0.888,10:09
+3,8:41,BKN,Bruce Brown,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,78,74,0.781,0.779,8:44
+3,8:35,BKN,Andre Drummond,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,78,74,0.781,0.781,8:41
+3,7:47,IND,Oshae Brissett,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,80,79,0.718,0.716,7:47
+3,5:34,BKN,Andre Drummond,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,87,84,0.686,0.737,5:39
+3,4:57,IND,Isaiah Jackson,Loose Ball Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,89,87,0.734,0.736,4:58
+3,2:32,IND,T.J. McConnell,Personal Take Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,94,91,0.76,0.762,2:36
+3,7.3,IND,Terry Taylor,Personal Take Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,103,94,0.942,0.92,15.6
+4,11:36,IND,Lance Stephenson,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,103,94,0.949,0.924,11:41
+4,10:45,BKN,Kyrie Irving,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,107,97,0.89,0.929,10:46
+4,10:38,BKN,Nic Claxton,Offensive Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,107,98,0.907,0.927,10:45
+4,10:22,BKN,Bruce Brown,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,107,98,0.862,0.907,10:38
+4,10:14,BKN,Nic Claxton,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,107,99,0.825,0.88,10:18
+4,8:43,BKN,Kessler Edwards,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,111,103,0.83,0.882,8:56
+4,4:30,IND,Buddy Hield,Personal Take Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,122,113,0.963,0.96,4:30
+4,3:32,BKN,Patty Mills,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,127,115,0.982,0.988,3:32
+4,3:21,IND,T.J. McConnell,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,127,117,0.985,0.981,3:32
+4,2:46,IND,Buddy Hield,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,127,119,0.984,0.961,3:06
+4,2:30,IND,Isaiah Jackson,Personal Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,128,119,0.992,0.982,2:30
+4,36.8,IND,Oshae Brissett,Shooting Foul,Foul,Marc Davis,Karl Lane,Nate Green,BKN,132,124,0.998,0.991,51.6

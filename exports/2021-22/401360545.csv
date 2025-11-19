@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:51,BKN,James Johnson,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,0,0,0.425,0.465,11:52
+1,11:33,BKN,James Johnson,Loose Ball Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,0,1,0.439,0.436,11:33
+1,10:54,TOR,Khem Birch,Personal Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,0,1,0.462,0.464,11:09
+1,9:49,BKN,Patty Mills,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,5,4,0.453,0.49,9:59
+1,9:07,TOR,Khem Birch,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,5,7,0.477,0.439,9:13
+1,8:20,TOR,Khem Birch,Loose Ball Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,7,9,0.439,0.439,8:20
+1,8:03,BKN,Blake Griffin,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,7,11,0.346,0.387,8:03
+1,7:03,BKN,Cam Thomas,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,10,16,0.296,0.339,7:03
+1,6:52,TOR,Chris Boucher,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,10,17,0.35,0.315,7:03
+1,5:02,BKN,Cam Thomas,Offensive Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,16,20,0.36,0.386,5:04
+1,3:59,TOR,Chris Boucher,Personal Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,18,23,0.399,0.36,4:07
+1,1:53,BKN,Goran Dragic,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,24,33,0.204,0.234,1:55
+2,11:26,BKN,Seth Curry,Loose Ball Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,29,42,0.15,0.151,11:26
+2,10:38,TOR,Chris Boucher,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,31,44,0.196,0.166,10:52
+2,9:20,BKN,Seth Curry,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,36,48,0.15,0.182,9:20
+2,9:10,TOR,Pascal Siakam,Personal Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,36,49,0.163,0.164,9:20
+2,7:04,TOR,Thaddeus Young,Personal Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,36,54,0.079,0.081,7:23
+2,6:49,BKN,Goran Dragic,Loose Ball Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,36,54,0.07,0.068,6:49
+2,5:35,TOR,Pascal Siakam,Personal Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,38,59,0.061,0.048,5:42
+2,4:05,TOR,Thaddeus Young,Loose Ball Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,38,63,0.028,0.02,4:05
+2,2:45,TOR,Gary Trent Jr.,Personal Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,39,67,0.013,0.01,2:55
+2,2:35,TOR,Precious Achiuwa,Offensive Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,41,67,0.014,0.012,2:45
+3,11:38,BKN,Seth Curry,Loose Ball Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,48,71,0.016,0.015,11:38
+3,9:51,BKN,Andre Drummond,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,54,76,0.012,0.017,9:52
+3,8:51,TOR,Malachi Flynn,Personal Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,54,78,0.012,0.012,9:06
+3,6:43,BKN,James Johnson,Flagrant Foul Type 1,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,58,81,0.009,0.009,6:47
+3,5:43,BKN,James Johnson,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,60,83,0.005,0.007,5:43
+3,5:43,BKN,James Johnson,Technical Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,60,83,0.006,0.005,5:43
+3,4:54,TOR,Pascal Siakam,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,60,87,0.004,0.002,5:00
+3,4:07,TOR,Gary Trent Jr.,Technical Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,62,91,0.001,0.001,4:07
+3,3:10,TOR,Chris Boucher,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,63,91,0.001,0.001,3:14
+3,1:57,BKN,Goran Dragic,Personal Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,67,96,0.001,0.001,1:57
+3,1:13,TOR,Chris Boucher,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,67,97,0.001,0.001,1:13
+4,11:13,TOR,Scottie Barnes,Personal Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,71,100,0.001,0.001,11:20
+4,10:58,BKN,Kessler Edwards,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,71,102,0.001,0.001,10:58
+4,8:55,BKN,David Duke Jr.,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,76,109,0.001,0.001,9:03
+4,8:43,TOR,Thaddeus Young,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,76,109,0.001,0.001,8:43
+4,6:26,BKN,Kessler Edwards,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,81,118,0.001,0.001,6:26
+4,6:15,TOR,Yuta Watanabe,Shooting Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,81,118,0.001,0.001,6:22
+4,4:35,TOR,D.J. Wilson,Loose Ball Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,86,124,0.001,0.001,4:35
+4,53.3,BKN,David Duke Jr.,Personal Foul,Foul,Curtis Blair,Mitchell Ervin,Matt Myers,BKN,97,133,0.001,0.001,56.3

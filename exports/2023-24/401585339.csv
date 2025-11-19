@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:39,UTAH,Lauri Markkanen,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,8,6,0.731,0.761,9:49
+1,9:09,MIL,Malik Beasley,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,8,11,0.707,0.675,9:20
+1,7:53,UTAH,Kris Dunn,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,16,13,0.773,0.773,8:05
+1,6:26,MIL,Damian Lillard,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,16,15,0.776,0.748,6:30
+1,6:03,UTAH,Simone Fontecchio,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,18,15,0.766,0.767,6:03
+1,1:15,UTAH,Walker Kessler,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,26,26,0.642,0.683,1:26
+1,1:01,MIL,Robin Lopez,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,26,26,0.74,0.705,1:08
+1,35.0,MIL,AJ Green,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,27,26,0.757,0.73,44.1
+2,11:38,MIL,Pat Connaughton,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,32,26,0.823,0.824,11:43
+2,10:54,UTAH,Keyonte George,Offensive Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,32,29,0.742,0.767,11:17
+2,10:46,UTAH,Jordan Clarkson,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,32,29,0.741,0.742,10:54
+2,10:35,UTAH,Walker Kessler,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,32,29,0.706,0.741,10:46
+2,9:24,UTAH,Kelly Olynyk,Transition Take Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,32,37,0.515,0.515,9:24
+2,8:47,UTAH,Jordan Clarkson,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,32,38,0.481,0.482,8:57
+2,7:35,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,34,45,0.344,0.316,7:44
+2,5:23,UTAH,Lauri Markkanen,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,38,49,0.27,0.321,5:23
+2,3:54,MIL,Malik Beasley,Loose Ball Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,42,55,0.249,0.249,3:54
+2,3:49,UTAH,Kris Dunn,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,42,55,0.181,0.219,3:52
+2,1:10,MIL,Malik Beasley,Double Technical Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,48,61,0.21,0.189,1:14
+3,11:02,MIL,Malik Beasley,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,53,66,0.238,0.192,11:18
+3,10:35,UTAH,Collin Sexton,Loose Ball Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,55,69,0.142,0.142,10:35
+3,8:56,UTAH,Kris Dunn,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,58,71,0.117,0.147,9:01
+3,8:44,MIL,Jae Crowder,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,60,72,0.22,0.17,8:44
+3,8:10,MIL,Malik Beasley,Loose Ball Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,60,74,0.177,0.138,8:10
+3,7:44,UTAH,Lauri Markkanen,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,63,74,0.149,0.189,7:59
+3,7:27,MIL,Damian Lillard,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,63,76,0.199,0.159,7:44
+3,6:43,MIL,Bobby Portis,Offensive Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,65,76,0.205,0.207,6:54
+3,6:26,UTAH,Kris Dunn,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,65,76,0.134,0.172,6:26
+3,6:13,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,65,76,0.2,0.134,6:26
+3,6:06,UTAH,John Collins,Offensive Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,65,76,0.169,0.2,6:13
+3,4:58,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,69,81,0.177,0.127,4:58
+3,4:30,MIL,Damian Lillard,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,70,81,0.226,0.181,4:42
+3,3:19,UTAH,Collin Sexton,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,74,89,0.048,0.074,3:19
+3,2:40,UTAH,John Collins,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,74,89,0.036,0.069,2:50
+3,8.1,MIL,AJ Green,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,80,93,0.108,0.08,29.1
+4,11:01,UTAH,Walker Kessler,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,85,97,0.039,0.067,11:21
+4,8:51,MIL,Jae Crowder,Flagrant Foul Type 1,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,93,99,0.245,0.247,9:00
+4,7:06,UTAH,Keyonte George,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,101,102,0.427,0.445,7:20
+4,6:53,UTAH,Kelly Olynyk,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,101,102,0.411,0.427,7:06
+4,6:07,UTAH,Kelly Olynyk,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,104,102,0.5,0.613,6:26
+4,5:37,MIL,Bobby Portis,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,106,105,0.668,0.533,5:37
+4,5:15,MIL,Damian Lillard,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,107,105,0.78,0.675,5:22
+4,3:56,MIL,Damian Lillard,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,110,105,0.917,0.853,4:06
+4,37.1,UTAH,Lauri Markkanen,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,122,108,0.999,0.999,40.1
+4,35.1,MIL,Andre Jackson Jr.,Personal Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,122,108,0.999,0.999,35.2
+4,21.0,UTAH,Walker Kessler,Shooting Foul,Foul,Marat Kogut,Tyler Ford,Mousa Dagher,UTAH,123,108,0.999,0.999,24.1

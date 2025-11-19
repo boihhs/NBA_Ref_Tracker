@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:29,LAL,Anthony Davis,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,0,4,0.753,0.728,10:50
+1,10:17,PHI,Joel Embiid,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,1,4,0.724,0.723,10:29
+1,8:08,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,11,13,0.698,0.73,8:18
+1,7:44,LAL,Taurean Prince,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,11,13,0.775,0.748,7:46
+1,6:54,PHI,Tobias Harris,Loose Ball Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,16,13,0.815,0.816,6:54
+1,1:23,LAL,Jaxson Hayes,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,30,17,0.945,0.935,1:27
+2,11:35,LAL,Jaxson Hayes,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,32,19,0.935,0.934,11:45
+2,9:26,LAL,Austin Reaves,Loose Ball Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,38,23,0.949,0.949,9:26
+2,7:58,PHI,Patrick Beverley,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,46,27,0.968,0.967,8:06
+2,6:50,PHI,Paul Reed,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,49,29,0.972,0.965,6:50
+2,5:37,PHI,Marcus Morris Sr.,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,54,31,0.979,0.984,5:51
+2,4:40,LAL,Max Christie,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,57,35,0.988,0.981,4:51
+2,4:26,PHI,Nicolas Batum,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,59,35,0.983,0.987,4:40
+2,3:30,LAL,Christian Wood,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,59,37,0.988,0.985,3:38
+2,2:21,PHI,Robert Covington,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,64,42,0.978,0.983,2:21
+3,7:41,LAL,Anthony Davis,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,82,65,0.982,0.976,7:46
+3,7:27,PHI,Nicolas Batum,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,84,65,0.972,0.98,7:41
+3,6:55,PHI,Tyrese Maxey,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,87,67,0.984,0.984,7:10
+3,6:31,PHI,Nicolas Batum,Transition Take Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,87,67,0.985,0.985,6:35
+3,6:02,PHI,De'Anthony Melton,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,87,68,0.975,0.982,6:12
+3,5:15,PHI,De'Anthony Melton,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,89,71,0.975,0.984,5:15
+3,5:01,LAL,Anthony Davis,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,89,72,0.979,0.979,5:15
+3,4:34,LAL,Max Christie,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,89,72,0.986,0.98,4:38
+3,3:55,LAL,Austin Reaves,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,91,72,0.99,0.989,3:55
+3,2:17,PHI,Marcus Morris Sr.,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,93,75,0.977,0.984,2:29
+3,2:07,LAL,Taurean Prince,Personal Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,93,76,0.99,0.985,2:15
+3,1:09,LAL,Taurean Prince,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,94,80,0.98,0.971,1:24
+3,19.0,LAL,Anthony Davis,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,97,80,0.993,0.988,38.2
+4,8:39,LAL,Max Christie,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,107,84,0.999,0.999,8:43
+4,8:02,PHI,Patrick Beverley,Loose Ball Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,111,84,0.999,0.999,8:02
+4,5:29,PHI,Tyrese Maxey,Personal Take Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,117,86,0.999,0.999,5:41
+4,5:01,PHI,KJ Martin,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,117,88,0.999,0.999,5:01
+4,1:41,LAL,Jaxson Hayes,Offensive Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,132,92,0.999,0.999,1:48
+4,1:31,LAL,D'Moi Hodge,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,134,92,0.999,0.999,1:31
+4,1:04,LAL,Jalen Hood-Schifino,Shooting Foul,Foul,Brent Barnaky,Sean Corbin,Tyler Ford,PHI,135,92,0.999,0.999,1:08

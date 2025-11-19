@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:02,MIA,Kyle Lowry,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,0,5,0.31,0.278,10:14
+1,8:10,CHI,Coby White,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,1,12,0.132,0.152,8:11
+1,3:23,MIA,Kevin Love,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,5,24,0.067,0.067,3:27
+1,3:15,MIA,Kevin Love,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,5,24,0.067,0.067,3:15
+1,1:56,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,10,24,0.141,0.119,1:59
+1,24.1,CHI,Andre Drummond,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,14,24,0.14,0.163,24.1
+2,10:45,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,16,28,0.143,0.143,10:57
+2,9:02,CHI,Ayo Dosunmu,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,22,28,0.241,0.238,9:21
+2,9:01,CHI,Andre Drummond,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,22,28,0.242,0.241,9:02
+2,8:52,CHI,Jevon Carter,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,22,28,0.241,0.242,9:01
+2,8:20,CHI,Patrick Williams,Loose Ball Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,22,30,0.169,0.197,8:20
+2,7:43,MIA,Duncan Robinson,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,22,30,0.254,0.219,7:52
+2,7:36,CHI,Andre Drummond,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,24,30,0.208,0.241,7:43
+2,7:02,CHI,Nikola Vucevic,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,27,32,0.229,0.265,7:13
+2,6:29,CHI,Coby White,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,27,34,0.185,0.217,6:38
+2,6:14,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,27,35,0.253,0.217,6:26
+2,2:33,MIA,Jimmy Butler III,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,35,43,0.251,0.212,2:39
+2,2:26,CHI,Nikola Vucevic,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,36,43,0.178,0.209,2:33
+2,2:17,MIA,Haywood Highsmith,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,36,45,0.223,0.187,2:26
+2,1:21,CHI,Alex Caruso,Loose Ball Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,40,45,0.221,0.261,1:21
+2,38.1,CHI,Coby White,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,40,47,0.175,0.206,48.1
+2,26.0,CHI,Jevon Carter,Away from Play Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,40,49,0.132,0.163,26.0
+3,8:32,CHI,Coby White,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,48,58,0.129,0.128,8:45
+3,8:21,CHI,Zach LaVine,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,48,58,0.116,0.129,8:32
+3,5:56,CHI,Torrey Craig,Loose Ball Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,53,62,0.138,0.137,5:56
+3,3:51,CHI,Alex Caruso,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,58,69,0.066,0.091,3:58
+3,3:35,CHI,Ayo Dosunmu,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,58,71,0.041,0.059,3:43
+3,55.1,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,64,74,0.148,0.11,1:06
+4,11:44,CHI,Patrick Williams,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,68,76,0.115,0.142,0.0
+4,10:54,MIA,Bam Adebayo,Offensive Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,70,76,0.209,0.173,11:12
+4,9:07,MIA,Bam Adebayo,Loose Ball Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,72,79,0.169,0.159,9:07
+4,7:45,MIA,Caleb Martin,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,75,85,0.077,0.072,8:04
+4,5:43,MIA,Kyle Lowry,Offensive Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,84,87,0.324,0.265,5:54
+4,2:38,CHI,Zach LaVine,Shooting Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,89,90,0.236,0.366,2:46
+4,1:27,CHI,Coby White,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,94,94,0.274,0.495,1:39
+4,57.1,MIA,Duncan Robinson,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,94,94,0.7,0.485,1:11
+4,10.2,MIA,Jimmy Butler III,Personal Take Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,99,97,0.937,0.837,10.2
+4,5.1,MIA,Kyle Lowry,Personal Foul,Foul,Curtis Blair,Tre Maddox,Intae Hwang,CHI,100,97,0.985,0.958,5.1

@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:36,CHI,Ayo Dosunmu,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,4,8,0.569,0.533,8:54
+1,2:04,NY,Evan Fournier,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,17,26,0.334,0.337,2:18
+1,1:42,NY,Immanuel Quickley,Personal Take Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,17,28,0.246,0.28,1:43
+1,59.1,CHI,Javonte Green,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,22,28,0.466,0.415,59.1
+1,1.9,CHI,Tristan Thompson,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,23,28,0.509,0.464,2.9
+2,11:48,NY,Alec Burks,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,24,30,0.387,0.437,11:48
+2,10:59,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,24,33,0.389,0.346,11:21
+2,10:25,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,25,35,0.356,0.315,10:37
+2,9:47,NY,Mitchell Robinson,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,27,37,0.246,0.283,9:58
+2,5:36,NY,Immanuel Quickley,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,37,39,0.454,0.501,5:54
+2,3:46,NY,Alec Burks,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,44,43,0.543,0.592,4:00
+2,2:58,CHI,DeMar DeRozan,Offensive Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,49,45,0.712,0.682,3:08
+2,55.7,NY,Jericho Sims,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,49,47,0.593,0.649,55.7
+2,46.0,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,51,48,0.706,0.65,46.0
+2,6.9,CHI,Zach LaVine,Technical Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,52,48,0.735,0.679,6.9
+3,11:33,CHI,DeMar DeRozan,Offensive Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,55,50,0.74,0.714,11:41
+3,11:18,CHI,DeMar DeRozan,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,57,50,0.814,0.772,11:18
+3,9:29,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,64,52,0.913,0.887,9:29
+3,8:50,NY,Mitchell Robinson,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,65,54,0.837,0.87,8:56
+3,7:41,NY,Julius Randle,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,68,56,0.863,0.894,7:42
+3,7:40,NY,Julius Randle,Loose Ball Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,68,57,0.873,0.874,7:40
+3,6:47,NY,Mitchell Robinson,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,71,60,0.845,0.878,6:48
+3,5:54,CHI,Nikola Vucevic,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,71,62,0.862,0.86,6:11
+3,4:55,NY,RJ Barrett,Technical Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,74,64,0.847,0.866,4:55
+3,4:24,NY,Evan Fournier,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,74,65,0.804,0.843,4:29
+3,4:01,CHI,Ayo Dosunmu,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,74,67,0.859,0.822,4:02
+3,3:46,CHI,Zach LaVine,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,74,67,0.86,0.859,4:01
+3,3:27,NY,Evan Fournier,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,77,67,0.836,0.871,3:46
+3,3:00,NY,Julius Randle,Technical Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,77,68,0.833,0.878,3:01
+3,2:46,CHI,Ayo Dosunmu,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,77,69,0.889,0.827,3:00
+3,2:32,NY,Obi Toppin,Loose Ball Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,78,69,0.812,0.853,2:32
+3,1:26,NY,Obi Toppin,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,80,71,0.818,0.859,1:40
+3,49.3,CHI,Coby White,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,80,75,0.825,0.772,56.9
+4,11:07,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,84,75,0.936,0.904,11:19
+4,10:53,NY,Obi Toppin,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,84,75,0.832,0.883,11:05
+4,9:52,NY,Mitchell Robinson,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,86,77,0.833,0.886,10:09
+4,9:24,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,88,79,0.933,0.888,9:24
+4,9:12,NY,Alec Burks,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,89,81,0.828,0.895,9:12
+4,6:41,NY,RJ Barrett,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,95,88,0.783,0.852,6:50
+4,5:08,CHI,Ayo Dosunmu,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,97,90,0.945,0.901,5:21
+4,4:32,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,99,93,0.913,0.883,4:32
+4,3:48,NY,RJ Barrett,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,99,97,0.565,0.697,3:48
+4,1:58,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,101,100,0.765,0.64,2:24
+4,1:24,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,102,100,0.845,0.736,1:37
+4,1:17,NY,Julius Randle,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,104,102,0.568,0.743,1:17
+4,18.4,CHI,DeMar DeRozan,Offensive Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,107,103,0.941,0.868,22.6
+4,17.8,CHI,Coby White,Personal Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,107,103,0.979,0.879,18.4
+4,12.5,NY,Mitchell Robinson,Shooting Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,109,103,0.923,0.971,17.8
+4,11.7,CHI,Zach LaVine,Personal Take Foul,Foul,Pat Fraher,Brian Forte,Mousa Dagher,NY,109,104,0.995,0.981,12.5

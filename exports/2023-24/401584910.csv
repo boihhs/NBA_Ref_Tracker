@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,BKN,Cam Thomas,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,3,2,0.709,0.746,10:27
+1,8:54,BKN,Cam Thomas,Loose Ball Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,8,4,0.777,0.775,8:54
+1,8:08,BKN,Nic Claxton,Loose Ball Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,8,6,0.735,0.758,8:25
+1,7:40,ORL,Anthony Black,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,8,9,0.724,0.691,7:57
+1,5:31,BKN,Mikal Bridges,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,17,9,0.812,0.836,5:38
+1,3:55,BKN,Mikal Bridges,Personal Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,22,14,0.809,0.834,4:00
+1,3:47,ORL,Gary Harris,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,22,16,0.842,0.819,3:55
+1,1:50,ORL,Franz Wagner,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,33,18,0.942,0.93,2:02
+1,1:04,ORL,ORL,Technical Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,37,20,0.952,0.946,1:04
+1,59.1,ORL,Franz Wagner,Away from Play Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,38,20,0.961,0.954,1:04
+1,54.0,ORL,Moritz Wagner,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,39,20,0.967,0.953,59.1
+1,11.0,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,41,20,0.956,0.966,27.0
+2,10:20,BKN,Royce O'Neale,Loose Ball Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,45,24,0.967,0.967,10:20
+2,9:52,BKN,Trendon Watford,Offensive Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,45,26,0.955,0.962,9:58
+2,9:24,BKN,Royce O'Neale,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,45,26,0.945,0.955,9:26
+2,9:24,ORL,Joe Ingles,Double Technical Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,45,27,0.954,0.943,9:24
+2,8:03,BKN,Nic Claxton,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,49,28,0.96,0.968,8:12
+2,6:55,BKN,Spencer Dinwiddie,Personal Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,52,33,0.948,0.958,7:09
+2,6:18,BKN,Cameron Johnson,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,52,35,0.932,0.944,6:24
+2,5:36,ORL,Paolo Banchero,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,54,39,0.95,0.937,5:47
+2,4:17,BKN,Cameron Johnson,Personal Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,59,39,0.958,0.967,4:20
+2,4:13,ORL,Jalen Suggs,Personal Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,59,41,0.961,0.962,4:17
+2,4:05,ORL,Jalen Suggs,Personal Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,59,41,0.96,0.961,4:13
+2,3:56,ORL,Cole Anthony,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,61,41,0.976,0.967,3:56
+2,3:48,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,62,41,0.964,0.972,3:56
+2,3:06,ORL,Goga Bitadze,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,64,44,0.979,0.973,3:23
+2,2:50,BKN,Nic Claxton,Loose Ball Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,65,44,0.966,0.974,2:50
+2,2:07,ORL,Paolo Banchero,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,69,45,0.99,0.986,2:07
+2,1:25,ORL,Jalen Suggs,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,70,47,0.99,0.986,1:30
+2,1:16,BKN,Mikal Bridges,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,72,47,0.984,0.989,1:25
+2,59.2,ORL,Goga Bitadze,Personal Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,72,49,0.99,0.986,59.2
+2,48.0,BKN,Royce O'Neale,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,73,49,0.982,0.987,59.2
+3,10:51,BKN,Nic Claxton,Offensive Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,73,55,0.964,0.972,11:02
+3,9:15,ORL,Jalen Suggs,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,76,60,0.97,0.96,9:23
+3,9:05,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,77,60,0.947,0.96,9:15
+3,8:14,ORL,Paolo Banchero,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,80,64,0.972,0.962,8:25
+3,7:03,ORL,Anthony Black,Personal Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,81,68,0.936,0.937,7:14
+3,5:12,ORL,Jalen Suggs,Offensive Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,85,73,0.93,0.916,5:14
+3,1:42,ORL,Moritz Wagner,Offensive Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,94,80,0.966,0.956,1:53
+3,1:08,ORL,Cole Anthony,Personal Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,94,80,0.978,0.968,1:08
+3,12.0,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,96,85,0.909,0.939,12.0
+3,1.2,ORL,Franz Wagner,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,96,85,0.958,0.937,9.1
+4,11:34,BKN,Spencer Dinwiddie,Technical Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,98,85,0.946,0.966,11:34
+4,9:12,ORL,Cole Anthony,Personal Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,105,90,0.988,0.987,9:25
+4,8:47,ORL,Joe Ingles,Offensive Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,107,90,0.994,0.991,9:00
+4,8:06,ORL,Joe Ingles,Personal Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,107,90,0.996,0.995,8:15
+4,7:21,ORL,Caleb Houstan,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,109,92,0.998,0.995,7:21
+4,5:50,ORL,Franz Wagner,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,109,94,0.997,0.995,6:01
+4,5:22,ORL,Franz Wagner,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,113,94,0.999,0.999,5:22
+4,25.1,ORL,Anthony Black,Shooting Foul,Foul,Ben Taylor,Natalie Sago,Tyler Mirkovich,BKN,128,101,0.999,0.999,25.1

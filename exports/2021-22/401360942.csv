@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,CLE,Lauri Markkanen,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,3,0,0.732,0.76,10:48
+1,9:51,CLE,Evan Mobley,Offensive Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,3,3,0.699,0.76,10:37
+1,7:56,ORL,R.J. Hampton,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,8,8,0.711,0.711,8:02
+1,6:41,ORL,Mo Bamba,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,12,11,0.758,0.728,6:59
+1,6:06,ORL,R.J. Hampton,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,12,14,0.657,0.659,6:24
+1,4:58,ORL,Wendell Carter Jr.,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,14,14,0.732,0.699,4:58
+1,2:30,ORL,Franz Wagner,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,19,18,0.746,0.713,2:39
+1,53.7,ORL,Admiral Schofield,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,23,22,0.742,0.708,59.8
+1,30.9,ORL,Wendell Carter Jr.,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,25,22,0.783,0.752,42.1
+2,11:01,ORL,Jeff Dowtin Jr.,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,31,25,0.822,0.79,11:01
+2,8:43,CLE,Lamar Stevens,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,42,25,0.941,0.949,8:49
+2,8:37,ORL,Admiral Schofield,Loose Ball Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,42,25,0.949,0.95,8:37
+2,7:40,ORL,Moritz Wagner,Offensive Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,45,27,0.957,0.942,7:48
+2,6:38,ORL,R.J. Hampton,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,47,31,0.955,0.944,6:44
+2,6:11,ORL,Ignas Brazdeikis,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,47,31,0.955,0.944,6:13
+2,4:00,CLE,Brandon Goodwin,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,49,39,0.832,0.861,4:06
+2,3:12,CLE,Caris LeVert,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,51,43,0.824,0.823,3:20
+2,1:43,ORL,Franz Wagner,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,51,49,0.74,0.697,2:03
+2,51.3,ORL,Cole Anthony,Away from Play Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,56,51,0.813,0.779,1:01
+3,8:59,CLE,Isaac Okoro,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,64,62,0.599,0.656,9:26
+3,6:11,ORL,R.J. Hampton,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,69,66,0.741,0.682,6:11
+3,5:51,CLE,Moses Brown,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,70,66,0.661,0.716,5:54
+3,4:07,ORL,Mo Bamba,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,75,70,0.827,0.783,4:17
+3,2:44,CLE,Dylan Windler,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,79,72,0.768,0.816,2:47
+3,1.6,ORL,Franz Wagner,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,81,80,0.696,0.63,11.9
+4,11:46,ORL,Moritz Wagner,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,81,80,0.643,0.616,12:00
+4,10:57,CLE,Lamar Stevens,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,81,84,0.323,0.432,10:57
+4,8:19,CLE,Lauri Markkanen,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,85,85,0.405,0.509,8:23
+4,5:27,CLE,Isaac Okoro,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,90,92,0.324,0.341,5:27
+4,4:09,ORL,Moritz Wagner,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,93,92,0.633,0.617,4:09
+4,3:55,ORL,Admiral Schofield,Shooting Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,93,92,0.747,0.633,4:09
+4,3:38,CLE,Lauri Markkanen,Loose Ball Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,95,92,0.575,0.706,3:38
+4,1:49,ORL,Admiral Schofield,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,100,92,0.99,0.977,1:49
+4,22.5,ORL,Admiral Schofield,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,102,98,0.973,0.922,27.9
+4,16.0,ORL,Ignas Brazdeikis,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,104,101,0.96,0.898,18.5
+4,8.1,ORL,Moritz Wagner,Personal Foul,Foul,CJ Washington,Ben Taylor,Nick Buchert,CLE,106,101,0.997,0.988,8.1

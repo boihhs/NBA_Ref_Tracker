@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:31,TOR,Pascal Siakam,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,2,4,0.755,0.721,10:31
+1,8:28,PHX,Jae Crowder,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,7,4,0.805,0.804,8:28
+1,8:25,PHX,Mikal Bridges,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,7,4,0.779,0.805,8:28
+1,7:08,PHX,Mikal Bridges,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,11,8,0.799,0.801,7:19
+1,7:03,TOR,Fred VanVleet,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,11,8,0.815,0.799,7:08
+1,5:22,PHX,Jae Crowder,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,18,13,0.801,0.828,5:32
+1,2:35,PHX,Torrey Craig,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,18,20,0.634,0.673,2:37
+2,10:40,TOR,Chris Boucher,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,27,30,0.646,0.648,10:41
+2,10:08,TOR,Precious Achiuwa,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,27,33,0.555,0.557,10:17
+2,9:41,PHX,Torrey Craig,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,29,33,0.581,0.579,9:42
+2,8:40,TOR,Fred VanVleet,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,32,33,0.686,0.687,8:49
+2,8:37,PHX,JaVale McGee,Offensive Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,32,33,0.659,0.686,8:40
+2,6:59,PHX,Landry Shamet,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,34,33,0.663,0.704,7:01
+2,6:46,PHX,Cameron Payne,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,34,35,0.625,0.675,6:46
+2,3:12,PHX,Landry Shamet,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,43,47,0.499,0.559,3:12
+3,9:28,PHX,Cameron Payne,Away from Play Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,59,61,0.545,0.58,9:28
+3,9:19,TOR,Fred VanVleet,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,59,62,0.6,0.656,9:28
+3,8:11,TOR,Scottie Barnes,Personal Take Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,63,64,0.61,0.647,8:11
+3,7:46,PHX,Mikal Bridges,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,65,64,0.643,0.643,7:53
+3,6:31,TOR,Khem Birch,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,65,69,0.538,0.48,6:36
+3,6:18,PHX,Devin Booker,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,66,69,0.476,0.475,6:29
+3,3:45,PHX,Jae Crowder,Technical Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,71,76,0.328,0.406,3:45
+3,3:45,PHX,Cameron Payne,Technical Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,71,77,0.286,0.318,3:45
+3,3:27,PHX,Devin Booker,Flagrant Foul Type 1,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,71,78,0.285,0.319,3:45
+3,2:58,TOR,Fred VanVleet,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,71,83,0.181,0.138,2:58
+3,2:29,PHX,JaVale McGee,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,73,83,0.117,0.163,2:50
+3,1:59,TOR,Precious Achiuwa,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,73,85,0.167,0.127,1:59
+3,36.1,TOR,Chris Boucher,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,77,90,0.122,0.085,36.1
+4,10:52,PHX,Bismack Biyombo,Offensive Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,84,96,0.065,0.084,10:57
+4,10:38,PHX,Cameron Payne,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,84,96,0.056,0.065,10:52
+4,9:44,TOR,Thaddeus Young,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,86,96,0.122,0.115,9:54
+4,8:27,TOR,Pascal Siakam,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,90,98,0.243,0.172,8:47
+4,7:03,TOR,Pascal Siakam,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,94,100,0.287,0.232,7:14
+4,6:47,TOR,Gary Trent Jr.,Offensive Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,96,100,0.34,0.287,7:03
+4,6:32,TOR,Pascal Siakam,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,96,100,0.443,0.335,6:32
+4,6:22,PHX,Bismack Biyombo,Offensive Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,96,100,0.285,0.345,6:22
+4,6:10,PHX,Bismack Biyombo,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,96,100,0.267,0.285,6:22
+4,6:06,PHX,Devin Booker,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,96,100,0.254,0.267,6:10
+4,4:13,TOR,Gary Trent Jr.,Flagrant Foul Type 1,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,102,102,0.559,0.506,4:36
+4,2:28,PHX,Cameron Payne,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,107,105,0.512,0.665,2:29
+4,1:14,TOR,Khem Birch,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,107,113,0.165,0.092,1:33
+4,17.5,PHX,Cameron Payne,Personal Take Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,112,113,0.143,0.311,20.4
+4,8.1,PHX,Cameron Payne,Personal Take Foul,Foul,Brent Barnaky,Eric Lewis,Leon Wood,PHX,112,115,0.021,0.076,9.7

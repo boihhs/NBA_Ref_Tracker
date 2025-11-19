@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,BOS,Jayson Tatum,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,0,0,0.525,0.565,12:00
+1,8:42,BOS,Dennis Schroder,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,7,11,0.435,0.453,8:46
+1,8:17,BOS,Grant Williams,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,7,12,0.389,0.426,8:21
+1,7:47,BOS,Al Horford,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,7,13,0.361,0.396,7:54
+1,6:31,LAL,Russell Westbrook,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,9,18,0.342,0.343,6:51
+1,6:13,BOS,Jayson Tatum,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,12,18,0.354,0.342,6:31
+1,5:04,LAL,LeBron James,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,15,24,0.335,0.336,5:21
+1,3:07,BOS,Payton Pritchard,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,21,28,0.352,0.353,3:23
+1,2:40,LAL,Rajon Rondo,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,23,32,0.324,0.3,2:40
+1,2:40,LAL,Carmelo Anthony,Loose Ball Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,20,32,0.325,0.325,2:40
+1,1:36,LAL,Rajon Rondo,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,25,32,0.377,0.377,1:36
+1,36.0,LAL,Anthony Davis,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,29,38,0.304,0.289,36.0
+2,9:53,BOS,Romeo Langford,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,35,40,0.347,0.389,10:13
+2,9:39,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,35,42,0.403,0.361,9:53
+2,8:37,BOS,Enes Freedom,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,39,42,0.423,0.444,8:37
+2,8:19,LAL,LeBron James,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,39,44,0.46,0.413,8:37
+2,8:17,LAL,Russell Westbrook,Offensive Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,41,44,0.476,0.445,8:19
+2,7:24,LAL,Dwight Howard,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,41,46,0.456,0.411,7:38
+2,4:49,LAL,Talen Horton-Tucker,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,47,48,0.576,0.528,4:57
+2,3:28,BOS,Marcus Smart,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,54,51,0.626,0.621,3:38
+2,1:57,LAL,Talen Horton-Tucker,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,54,56,0.489,0.489,1:58
+2,1:17,BOS,Dennis Schroder,Away from Play Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,58,58,0.522,0.522,1:19
+2,16.1,BOS,Grant Williams,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,60,61,0.46,0.521,16.1
+3,8:19,LAL,Avery Bradley,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,74,65,0.84,0.84,8:25
+3,7:37,LAL,Russell Westbrook,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,74,68,0.803,0.762,8:01
+3,4:16,BOS,Enes Freedom,Offensive Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,85,75,0.861,0.882,4:30
+3,2:55,LAL,Talen Horton-Tucker,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,87,75,0.926,0.927,2:55
+3,2:23,BOS,Josh Richardson,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,89,75,0.922,0.943,2:44
+3,1:32,LAL,Wayne Ellington,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,89,80,0.911,0.88,1:40
+3,1:23,LAL,Carmelo Anthony,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,89,80,0.912,0.911,1:32
+3,42.9,BOS,Jayson Tatum,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,91,80,0.871,0.905,53.1
+3,34.7,LAL,Malik Monk,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,91,82,0.917,0.888,39.2
+4,11:32,LAL,Russell Westbrook,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,95,84,0.95,0.918,11:32
+4,10:32,LAL,LeBron James,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,97,89,0.923,0.883,10:48
+4,10:08,LAL,Carmelo Anthony,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,99,91,0.929,0.889,10:24
+4,9:28,BOS,Al Horford,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,101,91,0.876,0.919,9:39
+4,8:44,LAL,Carmelo Anthony,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,103,92,0.967,0.957,8:50
+4,7:55,BOS,Marcus Smart,Personal Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,103,94,0.905,0.91,8:08
+4,7:20,LAL,Carmelo Anthony,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,105,94,0.979,0.966,7:25
+4,6:59,LAL,Russell Westbrook,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,108,94,0.986,0.984,6:59
+4,6:50,BOS,Al Horford,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,109,94,0.977,0.989,6:59
+4,6:33,LAL,Anthony Davis,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,109,94,0.996,0.992,6:48
+4,5:33,LAL,Malik Monk,Loose Ball Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,112,99,0.993,0.989,5:33
+4,5:02,BOS,Dennis Schroder,Technical Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,116,99,0.996,0.997,5:02
+4,4:26,LAL,Rajon Rondo,Loose Ball Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,118,100,0.999,0.999,4:26
+4,3:58,LAL,Wayne Ellington,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,120,100,0.999,0.999,4:13
+4,3:45,BOS,Dennis Schroder,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,122,102,0.999,0.999,3:45
+4,2:59,BOS,Enes Freedom,Offensive Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,122,103,0.999,0.999,3:10
+4,1:02,LAL,Dwight Howard,Shooting Foul,Foul,Sean Wright,Tyler Ford,Ray Acosta,BOS,125,105,0.999,0.999,1:24

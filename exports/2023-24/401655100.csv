@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,BOS,Kristaps Porzingis,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,4,3,0.794,0.819,10:35
+1,10:04,MIA,Tyler Herro,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,4,4,0.817,0.818,10:14
+1,1:57,MIA,Duncan Robinson,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,20,24,0.723,0.69,2:01
+1,53.1,MIA,Kevin Love,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,22,27,0.693,0.655,1:02
+1,7.0,BOS,Payton Pritchard,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,25,27,0.663,0.698,27.0
+1,0.1,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,25,28,0.735,0.699,7.0
+2,11:25,MIA,Kevin Love,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,27,28,0.74,0.744,11:39
+2,10:41,BOS,Jrue Holiday,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,30,28,0.781,0.782,10:53
+2,8:52,BOS,Jrue Holiday,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,35,30,0.801,0.83,9:07
+2,8:32,BOS,Payton Pritchard,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,38,32,0.845,0.845,8:44
+2,7:10,MIA,Bam Adebayo,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,40,35,0.841,0.842,7:17
+2,6:54,MIA,Caleb Martin,Loose Ball Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,40,35,0.84,0.841,6:54
+2,6:33,BOS,Kristaps Porzingis,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,40,35,0.792,0.822,6:50
+2,5:17,MIA,Caleb Martin,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,42,40,0.809,0.779,5:35
+2,3:41,MIA,Bam Adebayo,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,44,47,0.677,0.632,4:00
+2,2:37,BOS,Kristaps Porzingis,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,50,52,0.571,0.623,2:49
+2,2:09,BOS,Jayson Tatum,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,50,53,0.532,0.582,2:10
+3,11:38,MIA,Jaime Jaquez Jr.,Offensive Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,61,58,0.777,0.762,12:00
+3,10:29,BOS,Jaylen Brown,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,61,61,0.601,0.652,10:44
+3,10:16,MIA,Nikola Jovic,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,61,62,0.7,0.651,10:29
+3,5:36,MIA,Bam Adebayo,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,70,75,0.45,0.453,5:54
+3,5:22,MIA,Tyler Herro,Offensive Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,70,75,0.447,0.403,5:23
+3,3:18,MIA,Duncan Robinson,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,70,82,0.151,0.154,3:36
+3,2:20,MIA,Nikola Jovic,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,73,82,0.293,0.235,2:27
+3,2:08,BOS,Payton Pritchard,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,75,82,0.266,0.271,2:20
+3,1:31,BOS,Jrue Holiday,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,77,82,0.278,0.347,1:41
+3,25.1,MIA,Duncan Robinson,Offensive Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,79,85,0.333,0.283,37.1
+4,11:28,BOS,Jayson Tatum,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,79,85,0.249,0.267,11:44
+4,10:29,MIA,Delon Wright,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,79,85,0.378,0.291,10:40
+4,8:39,BOS,Payton Pritchard,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,81,88,0.161,0.172,8:47
+4,6:22,MIA,Duncan Robinson,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,88,94,0.261,0.161,6:22
+4,5:13,MIA,Tyler Herro,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,91,100,0.087,0.084,5:37
+4,5:03,BOS,Derrick White,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,91,100,0.05,0.057,5:11
+4,4:22,BOS,Derrick White,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,91,100,0.022,0.045,4:33
+4,3:16,MIA,Haywood Highsmith,Shooting Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,94,102,0.123,0.065,3:27
+4,1:57,MIA,Caleb Martin,Loose Ball Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,96,107,0.02,0.008,1:57
+4,1:17,MIA,Caleb Martin,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,98,107,0.041,0.017,1:20
+4,41.1,BOS,Jayson Tatum,Personal Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,99,107,0.001,0.007,46.1
+4,33.1,BOS,Jrue Holiday,Personal Take Foul,Foul,Sean Wright,David Guthrie,J.B. DeRosa,BOS,101,109,0.001,0.005,35.1

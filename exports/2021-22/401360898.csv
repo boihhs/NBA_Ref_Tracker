@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:18,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,12,7,0.589,0.626,8:21
+1,7:40,MIN,Jarred Vanderbilt,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,12,11,0.55,0.552,7:50
+1,6:47,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,12,14,0.511,0.472,7:02
+1,5:03,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,15,18,0.463,0.442,5:14
+1,4:02,MIN,Patrick Beverley,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,19,20,0.517,0.469,4:02
+1,3:20,DAL,Spencer Dinwiddie,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,22,20,0.552,0.552,3:38
+1,1:46,MIN,Jordan McLaughlin,Personal Take Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,22,25,0.481,0.441,1:47
+2,11:50,DAL,Maxi Kleber,Offensive Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,23,29,0.326,0.342,12:00
+2,9:23,DAL,Jalen Brunson,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,30,31,0.419,0.462,9:30
+2,8:37,MIN,Jordan McLaughlin,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,30,33,0.434,0.434,8:44
+2,7:40,MIN,Jordan McLaughlin,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,34,36,0.508,0.462,7:51
+2,7:24,MIN,D'Angelo Russell,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,35,36,0.492,0.493,7:24
+2,6:31,MIN,Naz Reid,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,37,36,0.599,0.554,6:49
+2,6:14,MIN,Naz Reid,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,39,36,0.661,0.613,6:20
+2,5:03,DAL,Dorian Finney-Smith,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,45,39,0.676,0.677,5:11
+2,5:00,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,45,39,0.676,0.676,5:03
+2,2:44,DAL,Luka Doncic,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,51,47,0.574,0.621,2:45
+2,2:37,MIN,Patrick Beverley,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,51,48,0.671,0.625,2:42
+2,46.8,DAL,Luka Doncic,Loose Ball Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,58,53,0.61,0.658,46.8
+3,10:20,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,65,54,0.858,0.86,10:20
+3,10:06,DAL,Luka Doncic,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,65,54,0.839,0.837,10:06
+3,8:36,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,70,54,0.912,0.932,8:51
+3,7:15,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,70,61,0.848,0.831,7:15
+3,7:06,DAL,Dwight Powell,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,72,61,0.854,0.854,7:15
+3,4:26,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,76,65,0.835,0.871,4:36
+3,3:04,MIN,Patrick Beverley,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,79,70,0.861,0.857,3:28
+3,2:17,DAL,Josh Green,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,82,73,0.793,0.838,2:18
+4,8:57,DAL,Jalen Brunson,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,93,83,0.865,0.914,9:04
+4,8:27,DAL,Maxi Kleber,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,93,85,0.793,0.86,8:30
+4,8:12,MIN,Taurean Prince,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,93,87,0.882,0.821,8:27
+4,7:39,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,95,92,0.574,0.698,7:39
+4,5:27,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,99,92,0.786,0.862,5:31
+4,4:19,MIN,Anthony Edwards,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,99,99,0.635,0.506,4:36
+4,3:54,MIN,Patrick Beverley,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,100,101,0.464,0.439,4:01
+4,3:23,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,100,101,0.255,0.363,3:31
+4,1:50,MIN,Jaylen Nowell,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,104,103,0.765,0.623,1:50
+4,34.3,DAL,Spencer Dinwiddie,Personal Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,110,105,0.804,0.897,40.6
+4,6.5,DAL,Reggie Bullock Jr.,Personal Take Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,110,107,0.752,0.834,10.3
+4,2.5,DAL,Luka Doncic,Personal Take Foul,Foul,Derrick Collins,Sean Wright,Ray Acosta,DAL,110,107,0.904,0.958,2.5

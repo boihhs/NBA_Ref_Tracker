@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:31,PHI,Matisse Thybulle,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,2,0,0.768,0.768,11:39
+1,11:23,PHI,Matisse Thybulle,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,2,0,0.767,0.768,11:31
+1,11:08,SAC,Keegan Murray,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,2,0,0.808,0.785,11:12
+1,9:59,SAC,Domantas Sabonis,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,2,5,0.711,0.679,10:13
+1,8:26,SAC,Keegan Murray,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,9,10,0.744,0.715,8:33
+1,7:46,PHI,P.J. Tucker,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,11,10,0.701,0.733,7:55
+1,7:36,SAC,Domantas Sabonis,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,11,11,0.76,0.732,7:44
+1,6:58,SAC,Neemias Queta,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,11,11,0.758,0.729,7:11
+1,5:43,PHI,P.J. Tucker,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,14,13,0.69,0.724,5:50
+1,5:39,SAC,Neemias Queta,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,14,15,0.735,0.701,5:43
+1,5:19,SAC,Neemias Queta,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,16,15,0.772,0.746,5:23
+1,4:26,SAC,Harrison Barnes,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,23,15,0.871,0.845,4:26
+1,3:29,PHI,Georges Niang,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,25,19,0.786,0.813,3:31
+1,1:14,SAC,Trey Lyles,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,33,26,0.855,0.826,1:14
+2,11:47,PHI,Georges Niang,Defensive 3-Seconds Technical,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,39,32,0.828,0.832,12:00
+2,11:24,SAC,Domantas Sabonis,Defensive 3-Seconds Technical,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,39,35,0.781,0.788,11:34
+2,10:53,SAC,Domantas Sabonis,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,40,35,0.831,0.806,11:00
+2,10:30,PHI,James Harden,Loose Ball Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,42,35,0.822,0.821,10:30
+2,6:24,SAC,De'Aaron Fox,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,58,37,0.976,0.977,6:29
+2,6:10,SAC,De'Aaron Fox,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,58,37,0.981,0.976,6:24
+2,6:03,PHI,Tobias Harris,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,59,37,0.976,0.976,6:10
+2,5:28,SAC,Kevin Huerter,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,61,37,0.99,0.986,5:36
+2,5:02,SAC,KZ Okpala,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,64,39,0.99,0.987,5:02
+2,3:05,PHI,Joel Embiid,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,69,41,0.991,0.993,3:09
+2,2:50,PHI,P.J. Tucker,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,69,43,0.987,0.99,2:50
+2,2:36,PHI,Matisse Thybulle,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,69,43,0.987,0.99,2:39
+2,2:29,SAC,KZ Okpala,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,69,44,0.993,0.991,2:36
+2,1:53,PHI,Joel Embiid,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,71,44,0.99,0.992,2:01
+2,5.1,PHI,Georges Niang,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,77,53,0.983,0.988,25.0
+3,8:06,SAC,Domantas Sabonis,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,85,59,0.998,0.997,8:27
+3,7:49,PHI,Joel Embiid,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,87,61,0.995,0.997,7:49
+3,6:40,SAC,Keegan Murray,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,89,64,0.996,0.996,6:49
+3,5:46,PHI,Shake Milton,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,93,66,0.997,0.997,5:54
+3,2:27,PHI,Shake Milton,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,95,76,0.98,0.986,2:29
+3,1:17,SAC,Davion Mitchell,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,100,80,0.995,0.992,1:17
+4,9:18,PHI,Montrezl Harrell,Shooting Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,105,88,0.983,0.99,9:28
+4,7:35,SAC,Terence Davis,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,110,89,0.999,0.999,7:45
+4,5:16,SAC,Keon Ellis,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,117,91,0.999,0.999,5:21
+4,4:54,PHI,Matisse Thybulle,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,117,91,0.999,0.999,5:08
+4,4:33,SAC,KZ Okpala,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,117,93,0.999,0.999,4:43
+4,4:14,PHI,Shake Milton,Personal Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,120,93,0.999,0.999,4:28
+4,2:14,PHI,Furkan Korkmaz,Offensive Foul,Foul,Tony Brothers,Aaron Smith,Dannica Mosher,PHI,120,103,0.999,0.999,2:30

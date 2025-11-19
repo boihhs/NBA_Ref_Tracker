@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:04,WSH,Kyle Kuzma,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,2,10,0.273,0.31,9:04
+1,7:30,WSH,Bilal Coulibaly,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,4,14,0.243,0.244,7:39
+1,6:25,CHA,Frank Ntilikina,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,6,18,0.222,0.222,6:29
+1,6:21,CHA,Frank Ntilikina,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,6,18,0.251,0.222,6:25
+1,5:20,CHA,Mark Williams,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,10,20,0.277,0.234,5:20
+1,4:59,CHA,Brandon Miller,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,13,22,0.299,0.258,4:59
+1,3:41,CHA,Brandon Miller,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,19,26,0.345,0.233,3:41
+1,3:28,WSH,Corey Kispert,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,19,26,0.298,0.301,3:38
+1,1:41,CHA,Nick Richards,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,23,28,0.393,0.273,1:41
+2,11:15,CHA,JT Thor,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,23,30,0.357,0.317,11:26
+2,10:28,CHA,JT Thor,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,24,34,0.482,0.239,10:44
+2,9:38,WSH,Danilo Gallinari,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,24,34,0.457,0.452,9:52
+2,8:47,WSH,Delon Wright,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,26,34,0.24,0.258,8:47
+2,8:06,WSH,Mike Muscala,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,29,38,0.233,0.232,8:14
+2,7:35,CHA,JT Thor,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,29,38,0.294,0.258,7:49
+2,7:23,WSH,Corey Kispert,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,31,38,0.242,0.28,7:35
+2,7:14,WSH,Tyus Jones,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,31,38,0.242,0.307,7:17
+2,7:00,CHA,Brandon Miller,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,31,39,0.273,0.28,7:14
+2,3:55,WSH,Kyle Kuzma,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,35,45,0.177,0.193,3:55
+2,3:53,CHA,LaMelo Ball,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,35,47,0.205,0.172,3:55
+2,3:42,WSH,Daniel Gafford,Hanging Technical Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,37,47,0.198,0.194,3:42
+2,2:55,CHA,Terry Rozier,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,37,49,0.201,0.166,2:59
+2,2:32,CHA,Bryce McGowens,Technical Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,39,49,0.229,0.21,2:32
+2,2:17,WSH,Daniel Gafford,Offensive Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,40,49,0.21,0.234,2:32
+2,1:46,WSH,Daniel Gafford,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,40,49,0.189,0.208,1:46
+2,1:39,CHA,Edmond Sumner,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,40,50,0.244,0.207,1:46
+2,1:24,CHA,P.J. Washington,Offensive Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,41,50,0.229,0.207,1:39
+3,11:30,WSH,Bilal Coulibaly,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,45,52,0.249,0.245,11:46
+3,10:41,WSH,Daniel Gafford,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,45,52,0.206,0.243,10:46
+3,8:47,WSH,Daniel Gafford,Loose Ball Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,50,56,0.271,0.268,8:49
+3,4:49,CHA,Terry Rozier,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,55,61,0.281,0.282,4:59
+3,4:27,WSH,Bilal Coulibaly,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,55,63,0.159,0.209,4:27
+3,2:56,CHA,P.J. Washington,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,58,65,0.233,0.232,3:03
+3,2:21,WSH,Danilo Gallinari,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,58,67,0.118,0.164,2:21
+3,1:58,WSH,Danilo Gallinari,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,58,67,0.099,0.132,2:01
+4,9:54,WSH,Corey Kispert,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,67,77,0.046,0.075,10:10
+4,8:57,WSH,Eugene Omoruyi,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,69,82,0.024,0.027,9:09
+4,8:09,CHA,Edmond Sumner,Loose Ball Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,72,82,0.08,0.073,8:09
+4,7:31,CHA,Nick Richards,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,72,84,0.068,0.039,7:32
+4,6:31,CHA,Bryce McGowens,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,74,84,0.109,0.063,6:39
+4,6:17,WSH,Ryan Rollins,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,76,84,0.075,0.087,6:31
+4,6:11,WSH,Mike Muscala,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,76,84,0.047,0.075,6:17
+4,3:53,WSH,Jared Butler,Personal Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,83,86,0.155,0.238,4:06
+4,3:08,CHA,Nick Smith Jr.,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,86,86,0.662,0.523,3:09
+4,2:34,CHA,Nate Mensah,Loose Ball Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,90,86,0.906,0.84,2:34
+4,1:14,CHA,Nate Mensah,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,94,88,0.98,0.95,1:22
+4,24.1,WSH,Ryan Rollins,Shooting Foul,Foul,Dedric Taylor,Tyler Ford,Tyler Ricks,WSH,98,90,0.969,0.988,28.0

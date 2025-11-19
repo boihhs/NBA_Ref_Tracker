@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:23,UTAH,Bojan Bogdanovic,Personal Take Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,4,0,0.55,0.564,10:23
+1,9:49,UTAH,Donovan Mitchell,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,6,0,0.649,0.614,9:50
+1,4:18,DEN,Will Barton,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,26,22,0.55,0.577,4:18
+1,3:12,UTAH,Rudy Gay,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,28,23,0.595,0.58,3:12
+1,1:51,DEN,Zeke Nnaji,Personal Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,31,28,0.486,0.526,1:51
+1,1:34,DEN,Davon Reed,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,31,28,0.486,0.486,1:51
+1,57.7,UTAH,Mike Conley,Offensive Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,33,31,0.531,0.503,1:10
+2,10:05,DEN,Facundo Campazzo,Personal Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,36,43,0.258,0.255,10:08
+2,8:04,UTAH,Rudy Gobert,Offensive Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,36,47,0.218,0.168,8:15
+2,6:22,DEN,Bones Hyland,Personal Take Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,38,47,0.203,0.203,6:22
+2,6:05,UTAH,Jordan Clarkson,Personal Take Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,38,47,0.224,0.224,6:06
+2,4:21,DEN,Nikola Jokic,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,45,49,0.285,0.327,4:34
+2,4:06,UTAH,Rudy Gobert,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,47,50,0.374,0.359,4:06
+2,36.6,UTAH,Royce O'Neale,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,55,63,0.222,0.209,36.6
+2,33.9,DEN,Aaron Gordon,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,56,63,0.198,0.231,36.6
+3,10:49,DEN,Nikola Jokic,Loose Ball Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,58,71,0.099,0.1,10:49
+3,9:28,UTAH,Royce O'Neale,Personal Take Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,63,73,0.171,0.171,9:29
+3,8:51,UTAH,Royce O'Neale,Personal Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,63,73,0.167,0.169,8:56
+3,6:23,DEN,Jeff Green,Personal Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,71,75,0.306,0.305,6:32
+3,5:35,UTAH,Donovan Mitchell,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,73,77,0.321,0.302,5:35
+3,4:25,DEN,Bones Hyland,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,76,79,0.281,0.336,4:46
+3,3:27,UTAH,Rudy Gay,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,80,80,0.571,0.46,3:27
+3,3:07,DEN,Nikola Jokic,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,81,80,0.528,0.504,3:07
+3,17.1,DEN,Facundo Campazzo,Personal Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,88,89,0.342,0.409,33.5
+4,11:24,DEN,Zeke Nnaji,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,88,93,0.249,0.272,11:24
+4,11:10,DEN,Facundo Campazzo,Loose Ball Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,88,94,0.172,0.183,11:10
+4,10:27,DEN,Zeke Nnaji,Personal Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,88,97,0.083,0.09,10:37
+4,10:20,DEN,Davon Reed,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,88,99,0.041,0.067,10:20
+4,9:58,DEN,Facundo Campazzo,Personal Take Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,88,100,0.023,0.036,9:58
+4,9:48,UTAH,Eric Paschall,Personal Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,88,102,0.028,0.027,9:58
+4,9:18,UTAH,Joe Ingles,Personal Take Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,88,102,0.028,0.024,9:20
+4,8:32,UTAH,Rudy Gay,Personal Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,90,102,0.045,0.042,8:32
+4,7:56,DEN,Nikola Jokic,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,90,102,0.029,0.029,8:00
+4,6:21,DEN,Nikola Jokic,Personal Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,95,108,0.008,0.015,6:42
+4,3:57,DEN,Bones Hyland,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,97,116,0.001,0.001,4:00
+4,2:47,DEN,Facundo Campazzo,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,100,118,0.001,0.001,3:07
+4,35.3,DEN,Bones Hyland,Personal Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,100,123,0.001,0.001,54.9
+4,35.3,UTAH,Rudy Gay,Double Technical Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,100,124,0.001,0.001,35.3
+4,22.5,UTAH,Trent Forrest,Shooting Foul,Foul,Derek Richardson,Tom Washington,John Butler,DEN,102,125,0.001,0.001,22.5

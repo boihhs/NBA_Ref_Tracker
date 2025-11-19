@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:07,SA,Jakob Poeltl,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,0,0,0.666,0.702,11:21
+1,8:41,SA,Doug McDermott,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,4,5,0.632,0.664,8:49
+1,7:54,SA,Joshua Primo,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,6,7,0.628,0.661,7:58
+1,7:01,SAC,Trey Lyles,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,8,12,0.61,0.611,7:13
+1,6:37,SA,Jakob Poeltl,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,8,12,0.542,0.583,6:53
+1,4:48,SA,Zach Collins,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,14,18,0.53,0.57,4:51
+1,4:06,SAC,Trey Lyles,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,16,21,0.568,0.623,4:17
+1,3:42,SAC,Davion Mitchell,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,16,21,0.565,0.567,3:52
+1,3:22,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,16,21,0.602,0.564,3:22
+1,46.1,SAC,Donte DiVincenzo,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,20,26,0.559,0.517,51.3
+1,3.6,SA,Zach Collins,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,27,28,0.585,0.624,14.0
+2,10:33,SAC,Chimezie Metu,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,29,32,0.63,0.591,10:37
+2,9:44,SA,Doug McDermott,Offensive Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,32,36,0.521,0.554,9:52
+2,6:21,SA,Keita Bates-Diop,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,42,50,0.325,0.372,6:30
+2,5:14,SA,Tre Jones,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,46,57,0.273,0.271,5:19
+2,3:58,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,50,57,0.442,0.417,3:58
+2,3:26,SAC,Domantas Sabonis,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,51,57,0.446,0.447,3:31
+2,1:19,SAC,Damian Jones,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,51,59,0.412,0.359,1:26
+2,1:04,SA,Devin Vassell,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,51,59,0.277,0.322,1:17
+3,5:46,SA,Josh Richardson,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,67,79,0.099,0.132,5:55
+3,3:19,SA,Lonnie Walker IV,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,74,88,0.069,0.069,3:21
+3,30.2,SAC,De'Aaron Fox,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,82,88,0.368,0.299,45.1
+4,8:49,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,84,91,0.281,0.202,9:01
+4,6:28,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,91,94,0.486,0.376,6:41
+4,5:53,SA,Jakob Poeltl,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,94,96,0.309,0.435,5:53
+4,3:49,SA,Devin Vassell,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,103,101,0.565,0.713,3:49
+4,3:16,SA,Tre Jones,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,103,102,0.527,0.554,3:25
+4,3:10,SA,Jakob Poeltl,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,103,102,0.404,0.527,3:16
+4,2:32,SA,Devin Vassell,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,103,103,0.309,0.436,2:36
+4,1:56,SA,Dejounte Murray,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,103,104,0.212,0.35,2:14
+4,1:00,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,103,108,0.229,0.113,1:16
+4,24.6,SA,Tre Jones,Personal Take Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,104,108,0.029,0.08,28.6
+4,15.7,SA,Lonnie Walker IV,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,106,110,0.017,0.052,15.9
+4,8.4,SA,Keita Bates-Diop,Personal Take Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,109,112,0.022,0.071,9.1
+4,1.4,SA,Keita Bates-Diop,Personal Take Foul,Foul,Sean Wright,Mitchell Ervin,Justin Van Duyne,SA,112,114,0.008,0.035,2.2

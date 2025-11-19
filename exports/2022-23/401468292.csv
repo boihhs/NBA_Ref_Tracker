@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,MIN,Anthony Edwards,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,4,4,0.707,0.741,10:49
+1,9:36,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,12,8,0.766,0.793,9:49
+1,7:46,HOU,Alperen Sengun,Offensive Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,14,14,0.731,0.712,8:00
+1,6:55,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,16,17,0.682,0.707,7:05
+1,6:38,HOU,Kevin Porter Jr.,Personal Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,16,17,0.704,0.705,6:42
+1,5:12,HOU,KJ Martin,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,22,20,0.775,0.74,5:12
+1,5:04,MIN,Anthony Edwards,Personal Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,23,20,0.76,0.761,5:12
+1,4:22,MIN,D'Angelo Russell,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,23,23,0.658,0.695,4:33
+1,3:49,HOU,Tari Eason,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,25,25,0.732,0.692,3:49
+1,1:42,HOU,Usman Garuba,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,33,29,0.816,0.79,1:53
+1,40.0,MIN,Jaden McDaniels,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,39,32,0.795,0.824,55.0
+1,35.2,HOU,Alperen Sengun,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,39,33,0.849,0.823,40.0
+1,20.7,MIN,Naz Reid,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,40,33,0.795,0.823,33.1
+2,11:30,MIN,Naz Reid,Offensive Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,40,36,0.766,0.787,11:39
+2,11:15,MIN,Naz Reid,Personal Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,40,36,0.764,0.766,11:30
+2,9:23,HOU,Daishen Nix,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,43,38,0.829,0.801,9:30
+2,8:26,HOU,Alperen Sengun,Personal Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,45,40,0.798,0.799,8:29
+2,6:48,MIN,D'Angelo Russell,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,48,40,0.805,0.834,6:53
+2,6:40,MIN,Kyle Anderson,Offensive Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,48,42,0.795,0.815,6:48
+2,3:38,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,57,45,0.875,0.897,3:53
+2,3:29,HOU,Jalen Green,Personal Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,57,46,0.898,0.899,3:38
+2,2:08,MIN,Kyle Anderson,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,57,46,0.86,0.884,2:17
+2,1:19,MIN,Taurean Prince,Loose Ball Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,62,47,0.919,0.937,1:19
+2,1:00,HOU,Eric Gordon,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,64,49,0.953,0.937,1:00
+3,9:48,MIN,Kyle Anderson,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,71,59,0.895,0.92,9:48
+3,9:16,MIN,Jaden McDaniels,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,73,60,0.911,0.921,9:16
+3,9:08,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,73,61,0.939,0.921,9:16
+3,8:31,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,78,63,0.961,0.946,8:31
+3,7:52,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,81,65,0.968,0.956,7:52
+3,7:52,HOU,KJ Martin,Technical Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,81,65,0.969,0.968,7:52
+3,7:01,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,84,69,0.941,0.958,7:01
+3,3:21,HOU,Tari Eason,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,95,75,0.994,0.991,3:35
+3,2:35,MIN,Taurean Prince,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,97,77,0.987,0.992,2:35
+3,1:34,MIN,Naz Reid,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,99,77,0.992,0.995,1:39
+3,36.9,MIN,Jordan McLaughlin,Personal Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,103,79,0.996,0.998,55.5
+3,24.5,MIN,Naz Reid,Offensive Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,103,81,0.996,0.997,36.9
+4,11:02,HOU,Usman Garuba,Personal Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,105,83,0.998,0.998,11:02
+4,8:21,MIN,Jaden McDaniels,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,110,91,0.993,0.997,8:24
+4,6:40,MIN,D'Angelo Russell,Personal Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,113,95,0.996,0.998,6:43
+4,5:59,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,115,98,0.996,0.997,6:14
+4,4:31,HOU,Tari Eason,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,119,103,0.998,0.997,4:31
+4,2:41,HOU,Josh Christopher,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,123,107,0.999,0.999,2:42
+4,1:53,HOU,Boban Marjanovic,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,128,107,0.999,0.999,1:53
+4,28.8,MIN,Naz Reid,Shooting Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,129,116,0.999,0.999,28.8
+4,8.8,MIN,Jaden McDaniels,Personal Foul,Foul,Brian Forte,Marat Kogut,Aaron Smith,MIN,129,116,0.999,0.999,9.7

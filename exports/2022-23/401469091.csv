@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:48,PHI,Tobias Harris,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,0,0,0.498,0.497,12:00
+1,11:18,MIA,Kevin Love,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,2,0,0.526,0.525,11:39
+1,9:31,PHI,De'Anthony Melton,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,6,4,0.589,0.553,9:51
+1,7:45,PHI,P.J. Tucker,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,16,10,0.672,0.629,7:45
+1,5:12,PHI,De'Anthony Melton,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,21,17,0.627,0.582,5:12
+1,2:36,MIA,Victor Oladipo,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,28,24,0.587,0.587,2:46
+1,1:14,MIA,Victor Oladipo,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,31,28,0.519,0.561,1:17
+1,55.1,PHI,Shake Milton,Loose Ball Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,31,30,0.574,0.538,55.1
+1,33.2,PHI,Tyrese Maxey,Loose Ball Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,33,32,0.574,0.539,33.2
+2,11:09,MIA,Max Strus,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,38,37,0.462,0.503,11:17
+2,8:58,MIA,Cody Zeller,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,43,45,0.373,0.415,9:00
+2,8:40,MIA,Max Strus,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,43,47,0.315,0.357,8:41
+2,7:28,PHI,Shake Milton,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,43,51,0.315,0.276,7:40
+2,6:40,MIA,Gabe Vincent,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,45,53,0.211,0.246,6:49
+2,5:42,PHI,Paul Reed,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,45,58,0.186,0.157,6:02
+2,5:31,MIA,Gabe Vincent,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,47,58,0.145,0.175,5:42
+2,4:09,MIA,Jimmy Butler III,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,49,60,0.153,0.169,4:09
+2,2:36,PHI,Tyrese Maxey,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,51,65,0.124,0.124,2:39
+2,2:08,PHI,James Harden,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,51,68,0.098,0.078,2:12
+3,10:57,PHI,Tyrese Maxey,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,55,73,0.054,0.055,11:11
+3,10:18,PHI,P.J. Tucker,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,55,73,0.069,0.053,10:29
+3,9:23,PHI,Tobias Harris,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,57,78,0.035,0.026,9:45
+3,6:47,MIA,Kevin Love,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,63,82,0.017,0.024,6:50
+3,4:51,PHI,P.J. Tucker,Loose Ball Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,69,84,0.081,0.06,4:51
+3,4:37,PHI,P.J. Tucker,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,69,84,0.079,0.081,4:51
+3,3:41,MIA,Kevin Love,Offensive Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,73,84,0.098,0.121,3:45
+3,1:31,MIA,Max Strus,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,73,92,0.008,0.013,1:31
+3,1:09,PHI,Danuel House Jr.,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,73,93,0.015,0.009,1:09
+4,10:15,MIA,Cody Zeller,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,77,100,0.001,0.001,10:27
+4,9:23,PHI,Paul Reed,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,79,102,0.001,0.001,9:27
+4,7:08,MIA,Caleb Martin,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,86,106,0.001,0.001,7:14
+4,5:00,MIA,Max Strus,Offensive Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,90,108,0.001,0.001,5:11
+4,3:17,MIA,Max Strus,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,90,108,0.001,0.001,3:26
+4,3:17,MIA,Max Strus,Technical Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,90,108,0.001,0.001,3:17
+4,2:18,PHI,Paul Reed,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,92,112,0.001,0.001,2:18
+4,1:17,MIA,Victor Oladipo,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Jonathan Sterling,MIA,96,115,0.001,0.001,1:40

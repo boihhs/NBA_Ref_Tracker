@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:22,LAL,Russell Westbrook,Personal Take Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,2,15,0.1,0.099,8:23
+1,6:27,LAL,Avery Bradley,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,2,19,0.053,0.063,6:40
+1,4:32,TOR,Fred VanVleet,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,4,26,0.045,0.037,4:37
+1,4:10,TOR,Khem Birch,Loose Ball Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,6,26,0.048,0.048,4:10
+1,2:12,LAL,Avery Bradley,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,6,29,0.021,0.026,2:14
+1,1:45,TOR,Khem Birch,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,6,30,0.032,0.026,1:50
+1,45.8,TOR,Gary Trent Jr.,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,10,30,0.056,0.046,45.8
+2,11:03,TOR,Thaddeus Young,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,14,33,0.062,0.051,11:10
+2,10:53,LAL,Talen Horton-Tucker,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,15,35,0.033,0.043,10:53
+2,9:20,TOR,Scottie Barnes,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,17,37,0.046,0.035,9:20
+2,8:15,TOR,Chris Boucher,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,18,39,0.044,0.035,8:22
+2,6:12,TOR,Scottie Barnes,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,22,44,0.035,0.027,6:21
+2,4:48,LAL,LeBron James,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,27,46,0.031,0.035,4:48
+2,4:41,TOR,Gary Trent Jr.,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,27,47,0.045,0.036,4:48
+2,3:10,TOR,Fred VanVleet,Offensive Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,30,47,0.055,0.046,3:26
+2,2:34,TOR,Scottie Barnes,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,32,49,0.06,0.045,2:34
+2,1:53,LAL,Wenyen Gabriel,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,36,49,0.066,0.085,2:05
+2,1:01,LAL,Wenyen Gabriel,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,37,52,0.046,0.06,1:16
+2,41.9,LAL,LeBron James,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,38,54,0.04,0.049,42.3
+2,23.5,TOR,Thaddeus Young,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,38,58,0.033,0.029,23.5
+3,11:57,LAL,Wenyen Gabriel,Loose Ball Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,40,58,0.033,0.031,11:57
+3,11:45,LAL,Malik Monk,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,40,58,0.025,0.033,11:57
+3,11:09,LAL,Malik Monk,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,42,60,0.033,0.032,11:20
+3,9:12,LAL,Wenyen Gabriel,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,45,64,0.017,0.023,9:12
+3,8:08,TOR,Precious Achiuwa,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,48,67,0.032,0.021,8:08
+3,6:00,LAL,Russell Westbrook,Personal Take Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,52,72,0.009,0.013,6:00
+3,4:08,LAL,Talen Horton-Tucker,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,54,80,0.001,0.002,4:08
+3,3:04,LAL,Carmelo Anthony,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,57,83,0.001,0.001,3:14
+3,2:17,TOR,Khem Birch,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,60,87,0.001,0.001,2:18
+3,1:58,LAL,Carmelo Anthony,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,62,87,0.001,0.001,2:17
+3,51.0,TOR,Thaddeus Young,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,65,88,0.004,0.002,53.0
+3,29.3,LAL,Talen Horton-Tucker,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,66,90,0.001,0.001,29.3
+4,9:25,LAL,Talen Horton-Tucker,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,78,94,0.008,0.01,9:34
+4,9:16,LAL,Stanley Johnson,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,78,94,0.004,0.008,9:25
+4,9:04,TOR,Fred VanVleet,Personal Take Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,78,96,0.006,0.005,9:04
+4,5:11,LAL,Malik Monk,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,83,102,0.001,0.001,5:11
+4,4:34,LAL,Carmelo Anthony,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,85,102,0.001,0.001,4:34
+4,4:24,TOR,Gary Trent Jr.,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,87,102,0.005,0.001,4:24
+4,4:09,LAL,LeBron James,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,87,104,0.001,0.001,4:09
+4,3:20,TOR,Precious Achiuwa,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,90,104,0.008,0.002,3:25
+4,2:59,TOR,Gary Trent Jr.,Shooting Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,93,106,0.007,0.003,2:59
+4,1:20,LAL,Carmelo Anthony,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,97,106,0.002,0.009,1:35
+4,53.1,LAL,LeBron James,Loose Ball Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,97,107,0.001,0.001,53.1
+4,46.2,LAL,Wayne Ellington,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,99,109,0.001,0.001,46.5
+4,29.7,LAL,Talen Horton-Tucker,Personal Take Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,101,111,0.001,0.001,37.7
+4,27.2,TOR,Pascal Siakam,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,101,112,0.003,0.001,29.7
+4,20.0,LAL,Wayne Ellington,Personal Foul,Foul,James Capers,Derrick Collins,Andy Nagy,LAL,103,112,0.001,0.001,27.2

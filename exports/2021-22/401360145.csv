@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,WSH,Daniel Gafford,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,0,2,0.508,0.509,10:52
+1,9:01,MIN,Taurean Prince,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,6,4,0.631,0.632,9:11
+1,8:54,WSH,Kentavious Caldwell-Pope,Offensive Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,6,4,0.606,0.631,9:01
+1,6:49,MIN,Taurean Prince,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,8,10,0.526,0.526,6:57
+1,6:49,WSH,Kentavious Caldwell-Pope,Technical Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,8,10,0.478,0.526,6:49
+1,5:16,MIN,Taurean Prince,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,12,13,0.536,0.523,5:16
+1,3:14,MIN,Leandro Bolmaro,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,19,19,0.613,0.573,3:20
+1,2:59,WSH,Montrezl Harrell,Loose Ball Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,19,19,0.545,0.545,2:59
+1,2:30,MIN,Naz Reid,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,19,19,0.613,0.496,5:17
+1,1:42,WSH,Daniel Gafford,Offensive Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,20,21,0.513,0.543,1:50
+2,11:29,MIN,Josh Okogie,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,24,24,0.568,0.569,11:37
+2,10:16,WSH,Spencer Dinwiddie,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,29,29,0.538,0.536,10:21
+2,9:22,MIN,Leandro Bolmaro,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,33,31,0.664,0.624,9:30
+2,8:34,WSH,Montrezl Harrell,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,34,33,0.565,0.565,8:34
+2,8:29,WSH,Deni Avdija,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,34,33,0.565,0.565,8:34
+2,6:31,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,41,40,0.577,0.563,6:31
+2,5:39,MIN,Leandro Bolmaro,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,42,42,0.608,0.563,5:47
+2,4:50,WSH,Kyle Kuzma,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,45,44,0.511,0.559,5:03
+2,4:27,MIN,Leandro Bolmaro,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,45,44,0.64,0.591,4:40
+2,4:09,WSH,Kyle Kuzma,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,45,46,0.467,0.528,4:09
+2,2:16,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,47,51,0.341,0.387,2:24
+2,1:57,WSH,Daniel Gafford,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,47,53,0.278,0.325,2:03
+2,55.4,WSH,Kentavious Caldwell-Pope,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,49,55,0.273,0.32,1:02
+3,10:30,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,56,60,0.462,0.41,10:44
+3,7:36,WSH,Spencer Dinwiddie,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,65,69,0.302,0.357,7:50
+3,5:44,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,72,74,0.466,0.466,5:44
+3,5:05,WSH,Raul Neto,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,74,74,0.548,0.504,5:09
+3,4:06,WSH,Deni Avdija,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,76,76,0.438,0.502,4:23
+3,3:31,WSH,Montrezl Harrell,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,78,77,0.478,0.545,3:52
+3,3:04,WSH,Raul Neto,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,78,81,0.337,0.41,3:04
+3,2:53,MIN,Leandro Bolmaro,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,78,82,0.368,0.37,3:04
+3,2:49,MIN,Josh Okogie,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,78,82,0.434,0.368,2:53
+3,2:15,WSH,Montrezl Harrell,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,81,82,0.474,0.45,2:15
+3,1:36,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,83,83,0.615,0.542,1:42
+3,1:21,WSH,Davis Bertans,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,84,83,0.471,0.543,1:33
+3,54.0,MIN,Josh Okogie,Loose Ball Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,86,88,0.519,0.448,54.9
+4,9:40,MIN,Malik Beasley,Loose Ball Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,93,93,0.549,0.489,9:40
+4,8:00,WSH,Deni Avdija,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,98,95,0.559,0.656,8:07
+4,6:03,MIN,Josh Okogie,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,100,97,0.819,0.73,6:15
+4,5:23,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,104,97,0.84,0.878,5:35
+4,4:16,MIN,Naz Reid,Shooting Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,106,98,0.936,0.924,4:16
+4,3:11,WSH,Spencer Dinwiddie,Loose Ball Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,110,103,0.928,0.913,3:11
+4,1:05,MIN,Malik Beasley,Offensive Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,112,107,0.921,0.964,2:36
+4,12.6,MIN,Naz Reid,Personal Foul,Foul,Sean Wright,Lauren Holtkamp,Brandon Adair,WSH,115,107,0.999,0.996,29.3

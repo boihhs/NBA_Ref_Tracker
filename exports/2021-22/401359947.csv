@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:16,LAL,Kent Bazemore,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,8,3,0.732,0.746,9:16
+1,4:29,OKC,Derrick Favors,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,19,12,0.813,0.798,4:29
+1,4:07,OKC,Ty Jerome,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,20,14,0.78,0.781,4:17
+1,3:46,LAL,Rajon Rondo,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,22,14,0.769,0.798,3:57
+2,7:02,OKC,Aleksej Pokusevski,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,40,25,0.923,0.923,7:11
+2,6:40,LAL,Russell Westbrook,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,42,25,0.934,0.934,6:53
+2,5:36,LAL,Carmelo Anthony,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,44,25,0.94,0.952,5:38
+2,4:56,LAL,Malik Monk,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,44,27,0.922,0.937,5:02
+2,4:23,OKC,Ty Jerome,Personal Take Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,44,28,0.939,0.939,4:23
+2,3:57,LAL,Anthony Davis,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,46,28,0.952,0.947,4:04
+2,3:11,OKC,Kenrich Williams,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,46,33,0.925,0.905,3:19
+2,2:41,OKC,Josh Giddey,Defensive 3-Seconds Technical,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,47,36,0.874,0.879,2:53
+2,2:13,LAL,Avery Bradley,Offensive Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,50,38,0.879,0.895,2:18
+2,1:10,LAL,Avery Bradley,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,52,40,0.853,0.881,1:23
+3,11:04,LAL,Carmelo Anthony,Offensive Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,55,50,0.727,0.753,11:16
+3,10:48,LAL,Carmelo Anthony,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,55,50,0.727,0.727,10:51
+3,10:03,OKC,Josh Giddey,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,55,50,0.795,0.756,10:08
+3,8:46,LAL,Avery Bradley,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,62,52,0.857,0.855,9:01
+3,7:41,LAL,DeAndre Jordan,Offensive Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,62,57,0.726,0.758,7:43
+3,7:29,LAL,DeAndre Jordan,Technical Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,62,59,0.676,0.696,7:29
+3,7:10,OKC,Luguentz Dort,Loose Ball Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,62,60,0.658,0.66,7:10
+3,5:45,OKC,Darius Bazley,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,66,65,0.676,0.622,5:55
+3,5:06,LAL,Anthony Davis,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,68,65,0.598,0.657,5:13
+3,15.8,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,79,72,0.886,0.848,31.4
+3,5.9,LAL,Rajon Rondo,Personal Take Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,80,72,0.8,0.845,13.4
+4,11:15,OKC,Derrick Favors,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,80,75,0.85,0.791,11:30
+4,10:57,OKC,Luguentz Dort,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,82,75,0.87,0.863,11:02
+4,10:33,OKC,Josh Giddey,Personal Take Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,82,75,0.876,0.87,10:33
+4,9:32,LAL,Carmelo Anthony,Technical Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,84,78,0.784,0.851,9:34
+4,7:58,LAL,Malik Monk,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,84,78,0.749,0.821,8:08
+4,7:48,OKC,Kenrich Williams,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,84,79,0.88,0.821,7:58
+4,7:21,LAL,Austin Reaves,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,84,79,0.707,0.792,7:32
+4,4:52,LAL,Anthony Davis,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,84,87,0.293,0.362,4:52
+4,4:21,OKC,Luguentz Dort,Personal Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,86,88,0.533,0.419,4:22
+4,4:11,LAL,Russell Westbrook,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,88,90,0.342,0.417,4:11
+4,3:03,OKC,Mike Muscala,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,91,93,0.514,0.391,3:06
+4,2:09,LAL,Avery Bradley,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,95,93,0.504,0.633,2:23
+4,53.6,LAL,Austin Reaves,Shooting Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,98,101,0.089,0.176,1:08
+4,7.8,LAL,Anthony Davis,Personal Take Foul,Foul,Kevin Scott,Lauren Holtkamp,John Conley,LAL,104,105,0.094,0.251,8.8

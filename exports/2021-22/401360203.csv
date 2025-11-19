@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:20,PHI,Danny Green,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,4,5,0.278,0.304,10:36
+1,9:18,UTAH,Bojan Bogdanovic,Defensive 3-Seconds Technical,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,4,7,0.285,0.289,9:34
+1,4:59,UTAH,Donovan Mitchell,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,19,21,0.323,0.323,5:17
+1,4:24,PHI,Seth Curry,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,19,21,0.301,0.3,4:27
+1,3:40,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,21,21,0.315,0.35,4:04
+1,18.3,UTAH,Mike Conley,Personal Take Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,29,27,0.487,0.445,21.4
+2,11:30,PHI,Georges Niang,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,32,29,0.427,0.48,11:30
+2,10:36,PHI,Andre Drummond,Defensive 3-Seconds Technical,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,34,32,0.432,0.423,10:44
+2,10:11,UTAH,Jordan Clarkson,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,34,34,0.383,0.397,10:23
+2,7:46,PHI,Georges Niang,Flagrant Foul Type 1,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,38,39,0.307,0.347,7:57
+2,3:56,UTAH,Rudy Gobert,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,46,50,0.342,0.299,4:16
+2,3:00,UTAH,Rudy Gobert,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,48,53,0.314,0.271,3:06
+2,2:44,PHI,Tobias Harris,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,50,53,0.3,0.298,3:00
+2,2:38,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,50,53,0.258,0.3,2:44
+2,45.5,UTAH,Royce O'Neale,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,50,59,0.207,0.172,1:03
+2,27.3,PHI,Andre Drummond,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,52,59,0.163,0.193,45.5
+3,9:36,PHI,Seth Curry,Personal Take Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,58,63,0.242,0.243,9:36
+3,8:37,UTAH,Donovan Mitchell,Loose Ball Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,61,63,0.374,0.373,8:37
+3,7:16,UTAH,Rudy Gobert,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,61,69,0.184,0.185,7:39
+3,5:19,PHI,Seth Curry,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,65,71,0.204,0.203,5:31
+3,3:13,PHI,Seth Curry,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,68,77,0.104,0.142,3:13
+3,2:27,PHI,Shake Milton,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,68,80,0.052,0.077,2:27
+3,2:15,UTAH,Rudy Gobert,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,68,81,0.087,0.063,2:27
+3,1:19,PHI,Georges Niang,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,73,83,0.063,0.087,1:20
+3,1:09,UTAH,Rudy Gay,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,75,84,0.15,0.106,1:09
+3,27.6,PHI,Andre Drummond,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,76,86,0.07,0.082,27.6
+4,11:41,PHI,Tobias Harris,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,76,88,0.029,0.057,12:00
+4,8:14,UTAH,Rudy Gay,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,80,97,0.009,0.006,8:15
+4,8:04,PHI,Seth Curry,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,81,97,0.005,0.006,8:14
+4,6:57,UTAH,Joe Ingles,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,83,99,0.01,0.004,6:57
+4,6:07,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,86,101,0.005,0.009,6:07
+4,5:04,PHI,Joel Embiid,Personal Take Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,86,104,0.001,0.001,5:06
+4,5:04,PHI,Joel Embiid,Technical Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,86,104,0.001,0.001,5:04
+4,4:27,PHI,Furkan Korkmaz,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,86,106,0.001,0.001,4:31
+4,2:30,UTAH,Eric Paschall,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,92,113,0.001,0.001,2:33
+4,2:28,UTAH,Jared Butler,Personal Foul,Foul,Brent Barnaky,Rodney Mott,Leon Wood,PHI,92,113,0.001,0.001,2:30

@@ -1,0 +1,58 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:30,MIN,Taurean Prince,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,0,5,0.623,0.606,10:30
+1,9:39,MIN,Taurean Prince,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,1,7,0.611,0.572,9:42
+1,8:20,MIN,D'Angelo Russell,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,3,9,0.603,0.566,8:31
+1,7:15,MIN,D'Angelo Russell,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,4,13,0.518,0.475,7:23
+1,6:04,PHI,Tyrese Maxey,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,10,15,0.51,0.551,6:11
+1,5:28,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,10,17,0.561,0.522,5:43
+1,4:50,MIN,Karl-Anthony Towns,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,12,19,0.557,0.519,5:14
+1,3:01,MIN,Anthony Edwards,Defensive 3-Seconds Technical,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,16,23,0.495,0.506,3:20
+1,2:35,PHI,Andre Drummond,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,17,23,0.499,0.5,2:45
+1,42.2,PHI,Andre Drummond,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,17,31,0.222,0.259,49.8
+2,11:46,MIN,Naz Reid,Offensive Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,20,35,0.245,0.248,12:00
+2,9:22,MIN,Jaden McDaniels,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,26,35,0.4,0.4,9:40
+2,6:49,PHI,Matisse Thybulle,Loose Ball Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,30,41,0.285,0.259,6:49
+2,5:03,MIN,Karl-Anthony Towns,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,34,43,0.361,0.361,5:08
+2,4:37,PHI,Joel Embiid,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,34,43,0.325,0.327,4:53
+2,4:33,PHI,Seth Curry,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,34,43,0.326,0.325,4:37
+2,4:06,MIN,Jarred Vanderbilt,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,34,46,0.262,0.267,4:21
+2,3:45,PHI,Matisse Thybulle,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,34,46,0.193,0.232,3:51
+2,3:33,PHI,Tyrese Maxey,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,34,46,0.191,0.193,3:45
+2,3:19,MIN,Jaden McDaniels,Defensive 3-Seconds Technical,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,34,47,0.22,0.23,3:30
+2,3:06,MIN,Jaden McDaniels,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,35,47,0.298,0.255,3:19
+2,2:45,PHI,Tyrese Maxey,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,36,49,0.176,0.223,2:45
+2,2:18,MIN,Leandro Bolmaro,Offensive Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,36,50,0.192,0.167,2:26
+2,2:04,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,36,50,0.229,0.192,2:18
+2,29.3,PHI,Furkan Korkmaz,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,41,54,0.141,0.176,44.3
+3,11:13,PHI,Seth Curry,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,41,58,0.084,0.083,11:18
+3,11:07,PHI,Tyrese Maxey,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,41,58,0.084,0.084,11:13
+3,10:04,MIN,D'Angelo Russell,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,43,61,0.076,0.062,10:04
+3,9:05,PHI,Tobias Harris,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,43,61,0.044,0.06,9:22
+3,7:21,MIN,Karl-Anthony Towns,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,49,64,0.105,0.106,7:25
+3,7:13,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,49,64,0.136,0.105,7:21
+3,4:08,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,58,64,0.342,0.302,4:22
+3,4:00,MIN,Jaden McDaniels,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,60,67,0.298,0.259,4:00
+3,1:37,PHI,Furkan Korkmaz,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,65,71,0.211,0.268,1:44
+3,4.7,PHI,Joel Embiid,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,70,71,0.408,0.483,17.3
+4,11:49,PHI,Andre Drummond,Offensive Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,70,72,0.431,0.454,12:00
+4,9:59,PHI,Isaiah Joe,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,74,80,0.204,0.218,10:08
+4,9:44,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,74,80,0.339,0.253,9:48
+4,9:32,PHI,Tyrese Maxey,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,76,80,0.285,0.302,9:44
+4,8:20,PHI,Georges Niang,Away from Play Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,76,87,0.046,0.068,8:20
+4,7:35,MIN,Naz Reid,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,79,88,0.099,0.102,7:52
+4,5:57,PHI,Joel Embiid,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,86,91,0.118,0.177,6:06
+4,4:26,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,92,95,0.282,0.248,4:26
+4,3:47,MIN,D'Angelo Russell,Offensive Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,95,95,0.542,0.461,4:06
+4,1:00,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,98,100,0.316,0.322,1:11
+4,18.5,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,99,100,0.384,0.462,18.6
+5,4:28,PHI,Seth Curry,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,100,100,0.455,0.466,4:37
+5,4:00,MIN,Naz Reid,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,100,102,0.506,0.387,4:16
+5,2:06,PHI,Seth Curry,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,106,105,0.532,0.635,2:23
+5,1:55,MIN,Naz Reid,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,106,107,0.62,0.467,1:59
+5,1:25,MIN,Naz Reid,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,106,107,0.62,0.48,1:37
+5,57.0,PHI,Joel Embiid,Offensive Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,108,107,0.543,0.66,1:08
+5,2.1,MIN,Jaden McDaniels,Personal Take Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,110,113,0.079,0.057,4.7
+6,3:59,PHI,Matisse Thybulle,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,113,116,0.161,0.253,4:13
+6,3:42,MIN,Jaden McDaniels,Shooting Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,113,117,0.211,0.241,3:42
+6,1:07,PHI,Seth Curry,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,120,117,0.57,0.763,1:20
+6,59.7,MIN,Jarred Vanderbilt,Personal Foul,Foul,Jacyn Goble,Sean Corbin,Mitchell Ervin,PHI,120,117,0.82,0.82,59.7

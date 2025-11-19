@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:36,POR,Anfernee Simons,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,0,3,0.438,0.481,11:36
+1,11:07,BKN,Joe Harris,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,0,6,0.442,0.403,11:18
+1,10:36,POR,Anfernee Simons,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,1,8,0.319,0.352,10:41
+1,6:48,BKN,Kevin Durant,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,10,17,0.369,0.369,6:59
+1,6:00,BKN,Seth Curry,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,12,19,0.366,0.367,6:05
+1,5:00,POR,Josh Hart,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,18,19,0.496,0.496,5:09
+1,3:40,BKN,Kevin Durant,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,18,21,0.509,0.468,3:46
+1,1:33,POR,Justise Winslow,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,24,21,0.563,0.605,1:46
+2,11:33,BKN,Ben Simmons,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,28,28,0.59,0.547,11:45
+2,8:49,POR,Jusuf Nurkic,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,39,34,0.662,0.662,8:59
+2,7:28,POR,Jerami Grant,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,42,36,0.69,0.689,7:39
+2,5:47,BKN,Nic Claxton,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,47,40,0.784,0.747,5:52
+2,4:44,POR,Shaedon Sharpe,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,51,42,0.737,0.772,4:55
+2,3:45,BKN,Ben Simmons,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,51,46,0.717,0.696,3:45
+2,35.9,BKN,Royce O'Neale,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,57,57,0.589,0.541,41.7
+2,32.3,BKN,Royce O'Neale,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,57,57,0.589,0.589,35.9
+3,11:22,BKN,Joe Harris,Loose Ball Foul,Foul,James Williams,Aaron Smith,John Butler,POR,61,57,0.676,0.678,11:22
+3,10:17,POR,Damian Lillard,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,64,57,0.695,0.743,10:27
+3,8:39,BKN,Joe Harris,Offensive Foul,Foul,James Williams,Aaron Smith,John Butler,POR,67,60,0.779,0.747,8:52
+3,7:57,BKN,Nic Claxton,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,69,62,0.779,0.781,8:04
+3,7:40,POR,Jusuf Nurkic,Loose Ball Foul,Foul,James Williams,Aaron Smith,John Butler,POR,69,62,0.752,0.752,7:40
+3,7:05,POR,Jusuf Nurkic,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,69,64,0.632,0.687,7:10
+3,6:52,BKN,Yuta Watanabe,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,69,66,0.652,0.654,7:05
+3,4:17,BKN,Ben Simmons,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,78,71,0.822,0.769,4:17
+3,4:07,POR,Drew Eubanks,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,79,71,0.751,0.801,4:17
+3,3:49,BKN,Kevin Durant,Technical Foul,Foul,James Williams,Aaron Smith,John Butler,POR,79,71,0.853,0.831,3:54
+3,2:27,POR,Jerami Grant,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,82,73,0.796,0.84,2:29
+3,1:27,POR,Jerami Grant,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,82,80,0.546,0.629,1:27
+3,36.0,POR,Nassir Little,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,82,81,0.461,0.535,38.7
+4,11:28,BKN,Seth Curry,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,85,85,0.626,0.535,11:32
+4,10:30,BKN,Joe Harris,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,89,87,0.732,0.645,10:42
+4,9:29,BKN,Nic Claxton,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,91,90,0.629,0.605,9:35
+4,8:44,BKN,Royce O'Neale,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,91,90,0.703,0.617,8:57
+4,8:20,BKN,Seth Curry,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,93,90,0.797,0.73,8:28
+4,8:10,POR,Justise Winslow,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,95,90,0.764,0.775,8:20
+4,8:01,POR,Justise Winslow,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,95,92,0.617,0.729,8:01
+4,7:31,POR,Justise Winslow,Offensive Foul,Foul,James Williams,Aaron Smith,John Butler,POR,95,93,0.616,0.675,7:31
+4,6:06,BKN,Ben Simmons,Loose Ball Foul,Foul,James Williams,Aaron Smith,John Butler,POR,95,97,0.533,0.43,6:06
+4,5:27,POR,Jerami Grant,Loose Ball Foul,Foul,James Williams,Aaron Smith,John Butler,POR,95,97,0.333,0.357,5:35
+4,4:05,BKN,Ben Simmons,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,95,100,0.303,0.21,4:12
+4,3:30,POR,Damian Lillard,Loose Ball Foul,Foul,James Williams,Aaron Smith,John Butler,POR,97,100,0.16,0.254,3:30
+4,3:28,POR,Josh Hart,Personal Take Foul,Foul,James Williams,Aaron Smith,John Butler,POR,97,100,0.16,0.16,3:30
+4,2:56,POR,Josh Hart,Personal Take Foul,Foul,James Williams,Aaron Smith,John Butler,POR,99,102,0.146,0.233,3:03
+4,31.8,BKN,Kevin Durant,Offensive Foul,Foul,James Williams,Aaron Smith,John Butler,POR,103,106,0.229,0.131,31.8
+4,24.3,BKN,Ben Simmons,Loose Ball Foul,Foul,James Williams,Aaron Smith,John Butler,POR,103,106,0.396,0.212,24.3
+4,14.9,POR,Justise Winslow,Personal Foul,Foul,James Williams,Aaron Smith,John Butler,POR,104,106,0.073,0.197,22.6
+4,6.5,BKN,Kevin Durant,Shooting Foul,Foul,James Williams,Aaron Smith,John Butler,POR,106,107,0.474,0.185,6.5

@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,4:46,DEN,Nikola Jokic,Loose Ball Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,20,13,0.665,0.665,4:46
+1,2:27,DEN,Thomas Bryant,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,28,18,0.764,0.723,2:27
+1,1:51,DEN,Thomas Bryant,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,29,20,0.76,0.726,2:06
+1,1:27,MIA,Haywood Highsmith,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,31,20,0.713,0.749,1:37
+1,46.1,MIA,Gabe Vincent,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,31,22,0.663,0.702,1:00
+1,33.1,DEN,Christian Braun,Loose Ball Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,31,24,0.719,0.681,33.1
+2,9:01,MIA,Gabe Vincent,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,40,34,0.636,0.635,9:08
+2,8:53,MIA,Bam Adebayo,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,40,34,0.592,0.636,9:01
+2,6:25,DEN,Christian Braun,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,43,44,0.458,0.459,6:44
+2,4:14,DEN,Bruce Brown,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,49,49,0.542,0.495,4:32
+2,4:01,MIA,Orlando Robinson,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,51,51,0.437,0.495,4:01
+2,2:39,MIA,Orlando Robinson,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,54,54,0.437,0.459,2:39
+2,2:04,DEN,Vlatko Cancar,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,54,56,0.48,0.427,2:08
+2,16.1,DEN,Nikola Jokic,Technical Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,61,65,0.384,0.361,16.1
+3,11:49,MIA,Gabe Vincent,Loose Ball Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,62,65,0.359,0.379,12:00
+3,10:04,DEN,Michael Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,64,67,0.445,0.39,10:17
+3,9:16,DEN,Bruce Brown,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,68,67,0.566,0.501,9:16
+3,7:49,MIA,Gabe Vincent,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,69,72,0.3,0.349,7:56
+3,7:03,DEN,Michael Porter Jr.,Loose Ball Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,69,74,0.312,0.313,7:03
+4,11:09,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,83,89,0.239,0.23,11:17
+4,8:46,DEN,Thomas Bryant,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,90,93,0.376,0.363,9:03
+4,8:24,MIA,Haywood Highsmith,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,92,93,0.324,0.419,8:36
+4,7:33,DEN,Christian Braun,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,94,97,0.375,0.357,7:45
+4,6:33,DEN,Jeff Green,Loose Ball Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,94,99,0.337,0.24,6:33
+4,5:09,DEN,Bruce Brown,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,96,103,0.207,0.142,5:23
+4,3:19,DEN,Nikola Jokic,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,101,108,0.172,0.109,3:34
+4,2:49,MIA,Max Strus,Offensive Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,103,108,0.129,0.188,3:01
+4,2:23,DEN,Nikola Jokic,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,103,108,0.273,0.172,2:30
+4,1:31,MIA,Bam Adebayo,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,104,110,0.024,0.061,1:41
+4,7.1,MIA,Gabe Vincent,Personal Take Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,106,110,0.007,0.03,8.0
+4,5.0,DEN,Bruce Brown,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,106,111,0.065,0.028,6.2
+4,1.1,MIA,Gabe Vincent,Personal Take Foul,Foul,Courtney Kirkland,Jenna Schroeder,Ray Acosta,MIA,108,111,0.004,0.025,3.1

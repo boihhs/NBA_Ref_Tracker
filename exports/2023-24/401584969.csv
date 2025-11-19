@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:14,POR,Shaedon Sharpe,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,11,10,0.427,0.475,8:14
+1,7:57,POR,Anfernee Simons,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,13,11,0.434,0.471,8:05
+1,7:45,DAL,Grant Williams,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,13,13,0.485,0.445,7:57
+1,5:52,POR,Toumani Camara,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,20,18,0.457,0.504,5:52
+1,3:59,POR,Scoot Henderson,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,27,19,0.602,0.642,4:03
+1,3:59,POR,Malcolm Brogdon,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,27,19,0.602,0.602,3:59
+1,2:49,DAL,Seth Curry,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,30,26,0.608,0.566,3:06
+1,2:40,POR,Duop Reath,Defensive 3-Seconds Technical,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,32,26,0.602,0.594,2:49
+1,1:51,DAL,Seth Curry,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,34,27,0.672,0.624,1:51
+1,32.0,POR,Malcolm Brogdon,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,37,31,0.558,0.599,42.1
+2,11:35,POR,Deandre Ayton,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,39,39,0.43,0.459,11:48
+2,11:00,POR,Scoot Henderson,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,39,42,0.347,0.345,11:02
+2,10:28,POR,Deandre Ayton,Defensive 3-Seconds Technical,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,39,42,0.355,0.346,10:37
+2,9:17,POR,Deandre Ayton,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,41,48,0.228,0.27,9:17
+2,8:23,DAL,Seth Curry,Defensive 3-Seconds Technical,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,41,49,0.238,0.244,8:33
+2,8:00,DAL,Dante Exum,Offensive Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,42,49,0.269,0.244,8:05
+2,7:25,POR,Jerami Grant,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,42,51,0.184,0.219,7:25
+2,6:44,DAL,Dante Exum,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,44,54,0.196,0.197,6:44
+2,5:41,POR,Toumani Camara,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,48,54,0.228,0.265,5:47
+2,4:52,DAL,Jaden Hardy,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,52,58,0.312,0.263,4:52
+2,4:13,POR,Shaedon Sharpe,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,53,60,0.201,0.237,4:25
+2,1:37,POR,Malcolm Brogdon,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,57,68,0.113,0.14,1:41
+2,1:24,DAL,Grant Williams,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,57,69,0.171,0.141,1:35
+2,49.1,DAL,Dwight Powell,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,60,69,0.24,0.202,59.1
+2,36.1,POR,Deandre Ayton,Away from Play Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,61,71,0.126,0.178,36.1
+2,32.0,DAL,Derrick Jones Jr.,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,61,72,0.189,0.159,36.1
+3,10:07,POR,Toumani Camara,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,66,81,0.058,0.077,10:07
+3,9:32,POR,Anfernee Simons,Technical Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,68,81,0.079,0.09,9:32
+3,8:26,DAL,Dwight Powell,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,72,86,0.097,0.071,8:26
+3,8:10,DAL,Dante Exum,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,75,86,0.154,0.118,8:10
+3,7:50,DAL,Grant Williams,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,76,86,0.198,0.158,7:52
+3,4:54,DAL,Grant Williams,Shooting Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,84,93,0.21,0.168,5:00
+3,3:25,DAL,Luka Doncic,Loose Ball Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,85,98,0.101,0.073,3:25
+3,8.1,DAL,Luka Doncic,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,97,110,0.081,0.056,26.0
+3,4.1,POR,Jerami Grant,Personal Take Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,99,110,0.048,0.068,8.1
+4,10:05,POR,Shaedon Sharpe,Loose Ball Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,103,112,0.085,0.09,10:05
+4,7:15,DAL,Seth Curry,Loose Ball Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,105,118,0.027,0.024,7:15
+4,5:48,DAL,Markieff Morris,Defensive 3-Seconds Technical,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,107,120,0.016,0.019,6:11
+4,5:09,DAL,Luka Doncic,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,110,120,0.049,0.044,5:11
+4,2:16,POR,Shaedon Sharpe,Personal Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,116,125,0.012,0.013,2:16
+4,44.1,POR,Malcolm Brogdon,Personal Take Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,120,129,0.001,0.002,49.1
+4,38.0,POR,Anfernee Simons,Personal Take Foul,Foul,Tony Brothers,J.T. Orr,Aaron Smith,POR,120,129,0.001,0.001,44.1

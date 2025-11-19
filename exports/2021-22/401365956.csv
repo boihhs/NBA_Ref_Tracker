@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:00,HOU,Jae'Sean Tate,Personal Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,3,2,0.543,0.543,9:01
+1,6:41,SA,Derrick White,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,10,9,0.511,0.566,6:41
+1,6:08,SA,Lonnie Walker IV,Personal Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,12,10,0.54,0.54,6:12
+1,5:19,HOU,Jae'Sean Tate,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,15,12,0.633,0.594,5:22
+1,4:30,HOU,Christian Wood,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,18,12,0.708,0.671,4:31
+1,4:24,SA,Drew Eubanks,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,18,12,0.608,0.646,4:28
+1,4:12,SA,Drew Eubanks,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,18,13,0.621,0.621,4:13
+1,4:02,HOU,D.J. Augustin,Personal Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,18,14,0.659,0.622,4:12
+1,2:26,SA,Derrick White,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,20,16,0.577,0.597,2:28
+1,2:13,HOU,David Nwaba,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,20,19,0.582,0.546,2:26
+1,1.2,HOU,Alperen Sengun,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,28,21,0.744,0.708,16.6
+2,9:40,SA,Doug McDermott,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,32,27,0.588,0.631,9:43
+2,7:45,HOU,Josh Christopher,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,38,32,0.713,0.694,7:45
+2,7:16,SA,Bryn Forbes,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,42,34,0.701,0.747,7:16
+2,6:38,HOU,Josh Christopher,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,44,37,0.761,0.723,6:49
+2,5:28,HOU,Jae'Sean Tate,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,47,42,0.691,0.641,5:28
+2,3:29,SA,Lonnie Walker IV,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,52,44,0.69,0.731,3:42
+2,2:18,HOU,Christian Wood,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,58,45,0.898,0.873,2:22
+2,2:07,SA,Doug McDermott,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,59,45,0.846,0.874,2:13
+2,1:19,HOU,Alperen Sengun,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,61,49,0.875,0.841,1:19
+3,11:21,SA,Doug McDermott,Loose Ball Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,65,49,0.919,0.919,11:21
+3,9:56,SA,Doug McDermott,Personal Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,71,49,0.977,0.977,10:08
+3,9:45,SA,Derrick White,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,71,49,0.969,0.977,9:56
+3,9:19,SA,Keldon Johnson,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,71,52,0.945,0.959,9:31
+3,8:42,SA,Doug McDermott,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,71,54,0.947,0.942,8:42
+3,8:42,SA,Doug McDermott,Technical Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,71,54,0.934,0.947,8:42
+3,8:31,HOU,Alperen Sengun,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,71,57,0.937,0.918,8:42
+3,7:41,HOU,Jae'Sean Tate,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,76,59,0.968,0.956,7:51
+3,6:48,SA,Derrick White,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,79,61,0.946,0.96,7:02
+3,5:31,SA,Jakob Poeltl,Loose Ball Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,81,68,0.873,0.905,5:31
+3,5:11,HOU,Danuel House Jr.,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,81,70,0.913,0.887,5:14
+3,4:35,SA,Drew Eubanks,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,85,70,0.917,0.937,4:49
+3,2:36,HOU,David Nwaba,Loose Ball Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,89,74,0.96,0.96,2:36
+3,1:51,HOU,Christian Wood,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,89,77,0.949,0.93,2:00
+3,1:12,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,93,77,0.972,0.967,1:12
+3,59.4,SA,Devin Vassell,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,94,77,0.963,0.974,1:12
+3,39.5,HOU,Kevin Porter Jr.,Loose Ball Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,94,78,0.974,0.979,39.5
+3,0.7,SA,Drew Eubanks,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,96,78,0.985,0.985,0.7
+4,11:30,HOU,Jae'Sean Tate,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,96,82,0.981,0.967,11:39
+4,11:18,HOU,David Nwaba,Personal Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,96,82,0.973,0.97,11:18
+4,10:30,SA,Doug McDermott,Personal Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,98,84,0.963,0.966,10:34
+4,8:22,SA,Devin Vassell,Personal Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,103,88,0.981,0.982,8:36
+4,7:07,SA,Devin Vassell,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,103,88,0.973,0.986,7:10
+4,6:52,HOU,Jalen Green,Personal Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,103,89,0.988,0.986,7:07
+4,4:05,SA,Joe Wieskamp,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,115,91,0.999,0.999,4:09
+4,1:07,SA,Joshua Primo,Shooting Foul,Foul,Che Flores,Tre Maddox,Ray Acosta,SA,121,94,0.999,0.999,1:12

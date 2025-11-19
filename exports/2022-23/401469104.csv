@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:34,MIA,Gabe Vincent,Offensive Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,6,5,0.348,0.376,9:40
+1,9:23,MIA,Bam Adebayo,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,6,5,0.315,0.348,9:34
+1,8:59,NY,RJ Barrett,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,6,7,0.345,0.327,9:23
+1,7:53,NY,Mitchell Robinson,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,10,12,0.324,0.308,7:53
+1,7:25,NY,RJ Barrett,Loose Ball Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,12,12,0.355,0.356,7:25
+1,7:02,MIA,Kevin Love,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,14,12,0.345,0.38,7:17
+1,6:40,MIA,Gabe Vincent,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,17,14,0.371,0.407,6:55
+1,6:18,NY,Immanuel Quickley,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,17,15,0.45,0.408,6:40
+1,5:06,NY,Immanuel Quickley,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,20,17,0.482,0.441,5:21
+1,4:16,MIA,Kevin Love,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,24,20,0.405,0.445,4:18
+1,4:08,NY,Julius Randle,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,24,21,0.467,0.445,4:16
+1,3:36,MIA,Victor Oladipo,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,26,23,0.383,0.423,3:37
+1,1:34,NY,Jalen Brunson,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,28,32,0.295,0.255,1:34
+1,49.1,MIA,Victor Oladipo,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,29,34,0.22,0.258,49.1
+2,11:03,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,31,40,0.178,0.176,11:03
+2,9:16,MIA,Max Strus,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,34,45,0.106,0.126,9:17
+2,9:08,NY,Isaiah Hartenstein,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,34,47,0.113,0.113,9:16
+2,5:41,NY,Josh Hart,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,42,57,0.081,0.083,5:54
+2,3:50,NY,Josh Hart,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,47,59,0.145,0.136,4:23
+2,3:50,NY,Josh Hart,Technical Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,47,59,0.131,0.145,3:50
+2,2:49,NY,Quentin Grimes,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,52,64,0.144,0.118,3:00
+2,1:51,MIA,Tyler Herro,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,54,68,0.067,0.089,1:51
+3,10:38,MIA,Gabe Vincent,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,60,71,0.109,0.108,10:49
+3,9:07,NY,Mitchell Robinson,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,64,73,0.18,0.163,9:22
+3,7:09,MIA,Bam Adebayo,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,71,82,0.086,0.114,7:09
+3,5:52,NY,Jalen Brunson,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,76,83,0.203,0.204,5:59
+3,2:56,NY,Quentin Grimes,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,83,89,0.28,0.228,3:09
+3,34.2,MIA,Cody Zeller,Away from Play Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,88,96,0.092,0.152,34.2
+4,11:21,MIA,Victor Oladipo,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,90,96,0.162,0.174,11:32
+4,10:53,NY,Josh Hart,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,90,96,0.244,0.201,10:53
+4,10:34,MIA,Bam Adebayo,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,92,96,0.229,0.243,10:53
+4,10:03,NY,Obi Toppin,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,94,98,0.331,0.232,10:03
+4,7:24,NY,Josh Hart,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,100,106,0.23,0.142,7:24
+4,7:08,MIA,Tyler Herro,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,101,106,0.169,0.188,7:24
+4,4:29,NY,Mitchell Robinson,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,107,110,0.427,0.307,4:45
+4,3:56,NY,Josh Hart,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,109,112,0.371,0.317,3:56
+4,3:35,NY,Mitchell Robinson,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,111,112,0.586,0.466,3:42
+4,2:08,MIA,Victor Oladipo,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,112,114,0.172,0.289,2:09
+4,56.0,MIA,Bam Adebayo,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,116,118,0.182,0.359,56.0
+4,46.2,NY,Immanuel Quickley,Loose Ball Foul,Foul,Zach Zarba,Kevin Cutler,Ashley Moyer-Gleich,MIA,116,119,0.404,0.254,56.0

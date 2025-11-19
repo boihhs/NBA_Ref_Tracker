@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:22,NO,Herbert Jones,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,0,2,0.51,0.51,10:26
+1,10:19,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,0,2,0.484,0.51,10:22
+1,10:02,OKC,Jaylin Williams,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,0,2,0.484,0.484,10:19
+1,9:09,NO,Jonas Valanciunas,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,0,7,0.399,0.381,9:09
+1,8:19,NO,Herbert Jones,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,5,12,0.397,0.351,8:19
+1,7:32,NO,Josh Richardson,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,6,12,0.439,0.402,7:34
+1,4:53,OKC,Luguentz Dort,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,13,19,0.368,0.367,5:04
+1,3:54,OKC,Kenrich Williams,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,15,24,0.256,0.29,3:59
+2,8:55,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,31,40,0.227,0.262,9:12
+2,8:31,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,31,44,0.157,0.191,8:31
+2,8:12,OKC,Josh Giddey,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,31,45,0.124,0.15,8:17
+2,7:16,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,31,49,0.068,0.083,7:18
+2,6:58,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,31,49,0.067,0.068,7:16
+2,5:43,NO,Jonas Valanciunas,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,31,50,0.079,0.081,5:43
+2,1:22,NO,Herbert Jones,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,47,60,0.188,0.155,1:34
+2,59.1,NO,Trey Murphy III,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,47,60,0.186,0.153,1:04
+2,25.1,NO,Jose Alvarado,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,49,60,0.231,0.196,31.1
+3,10:32,NO,Jonas Valanciunas,Offensive Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,55,60,0.359,0.329,10:47
+3,9:06,OKC,Luguentz Dort,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,55,62,0.254,0.251,9:10
+3,8:50,NO,Jose Alvarado,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,55,62,0.336,0.283,8:52
+3,7:24,OKC,Jaylin Williams,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,60,64,0.294,0.348,7:44
+3,7:05,NO,Jonas Valanciunas,Offensive Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,60,65,0.345,0.309,7:11
+3,5:29,OKC,Josh Giddey,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,64,69,0.272,0.337,5:29
+3,5:07,NO,Jose Alvarado,Loose Ball Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,64,70,0.296,0.298,5:07
+3,3:48,NO,Larry Nance Jr.,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,68,70,0.485,0.409,3:48
+3,1:48,OKC,Isaiah Joe,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,71,72,0.376,0.443,2:05
+3,1:04,OKC,Kenrich Williams,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,71,74,0.284,0.35,1:07
+4,5:07,NO,Josh Richardson,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,85,93,0.15,0.092,5:20
+4,4:58,OKC,Jalen Williams,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,87,93,0.116,0.123,5:07
+4,3:01,NO,Brandon Ingram,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,89,95,0.209,0.123,3:09
+4,1:51,NO,Brandon Ingram,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,93,97,0.347,0.192,1:55
+4,50.1,NO,Josh Richardson,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,96,101,0.232,0.127,58.0
+4,18.1,OKC,Luguentz Dort,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,98,101,0.044,0.14,27.0
+4,9.1,OKC,Shai Gilgeous-Alexander,Personal Take Foul,Foul,Brian Forte,Curtis Blair,Brandon Schwab,OKC,98,101,0.025,0.102,15.1

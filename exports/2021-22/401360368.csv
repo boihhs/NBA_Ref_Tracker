@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:25,PHX,Jalen Smith,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,9,16,0.416,0.393,8:25
+1,7:28,CHA,Gordon Hayward,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,10,16,0.375,0.412,7:32
+1,5:39,PHX,Devin Booker,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,15,26,0.303,0.306,5:54
+1,3.2,PHX,Mikal Bridges,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,27,36,0.373,0.329,6.3
+2,10:39,CHA,Gordon Hayward,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,30,36,0.379,0.378,10:52
+2,10:39,PHX,Jalen Smith,Offensive Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,30,36,0.407,0.379,10:39
+2,7:39,CHA,Miles Bridges,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,34,45,0.213,0.252,7:39
+2,7:09,PHX,Cameron Johnson,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,34,48,0.214,0.181,7:19
+2,5:22,PHX,Chris Paul,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,36,55,0.084,0.084,5:23
+2,5:17,PHX,Devin Booker,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,36,55,0.083,0.084,5:22
+2,2:57,CHA,Mason Plumlee,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,42,62,0.057,0.062,2:57
+2,17.5,CHA,Ish Smith,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,47,72,0.012,0.018,17.5
+2,4.1,PHX,Elfrid Payton,Personal Take Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,47,73,0.02,0.014,17.5
+3,11:09,PHX,Chris Paul,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,47,73,0.018,0.012,11:15
+3,10:00,CHA,Terry Rozier,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,51,77,0.008,0.008,10:06
+3,9:44,PHX,Devin Booker,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,51,77,0.01,0.01,9:47
+3,9:35,CHA,Miles Bridges,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,52,77,0.01,0.01,9:41
+3,9:03,CHA,Terry Rozier,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,52,77,0.009,0.009,9:09
+3,8:53,CHA,Terry Rozier,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,52,80,0.004,0.005,8:53
+3,8:23,CHA,LaMelo Ball,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,55,81,0.004,0.007,8:42
+3,6:35,PHX,Jalen Smith,Technical Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,60,87,0.006,0.004,6:35
+3,6:27,PHX,Landry Shamet,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,60,87,0.004,0.004,6:35
+3,5:12,PHX,Landry Shamet,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,62,90,0.004,0.002,5:23
+3,4:21,CHA,Cody Martin,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,63,90,0.001,0.002,4:28
+3,1:06,PHX,Devin Booker,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,69,102,0.001,0.001,1:07
+4,8:34,CHA,Nick Richards,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,80,119,0.001,0.001,8:54
+4,7:44,PHX,Ish Wainright,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,82,119,0.001,0.001,7:47
+4,7:02,PHX,Ish Wainright,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,84,121,0.001,0.001,7:02
+4,6:25,PHX,MJ Walker,Loose Ball Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,85,123,0.001,0.001,6:25
+4,5:27,PHX,Emanuel Terry,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,85,123,0.001,0.001,5:34
+4,4:13,CHA,Jalen McDaniels,Personal Take Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,88,125,0.001,0.001,4:13
+4,3:23,PHX,Emanuel Terry,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,88,129,0.001,0.001,3:34
+4,3:06,CHA,JT Thor,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,89,129,0.001,0.001,3:07
+4,2:39,PHX,Emanuel Terry,Offensive Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,91,131,0.001,0.001,2:45
+4,1:58,CHA,James Bouknight,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,93,131,0.001,0.001,2:07
+4,1:25,PHX,Ish Wainright,Shooting Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,95,131,0.001,0.001,1:25
+4,11.4,PHX,Paris Bass,Personal Foul,Foul,Sean Corbin,Suyash Mehta,Jamahl Ralls,CHA,99,133,0.001,0.001,20.2

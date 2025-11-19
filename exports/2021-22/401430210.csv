@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:31,BOS,Al Horford,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,0,3,0.803,0.826,10:39
+1,9:20,BKN,Andre Drummond,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,0,9,0.726,0.728,9:27
+1,8:49,BOS,Daniel Theis,Loose Ball Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,2,9,0.744,0.742,8:49
+1,8:06,BKN,Bruce Brown,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,4,11,0.771,0.736,8:06
+1,7:38,BKN,Seth Curry,Flagrant Foul Type 1,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,4,11,0.747,0.753,7:38
+1,6:01,BOS,Daniel Theis,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,8,16,0.693,0.693,6:09
+1,5:54,BOS,Grant Williams,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,8,16,0.653,0.693,6:01
+1,5:48,BKN,Kessler Edwards,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,8,18,0.703,0.666,5:54
+1,4:54,BOS,Marcus Smart,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,10,21,0.559,0.603,4:59
+1,4:12,BKN,Kessler Edwards,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,12,23,0.659,0.621,4:18
+1,3:45,BKN,Patty Mills,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,13,23,0.681,0.642,3:53
+1,3:23,BOS,Derrick White,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,14,23,0.593,0.638,3:45
+1,3:09,BKN,Nic Claxton,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,14,25,0.646,0.608,3:23
+1,2:08,BKN,Kevin Durant,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,16,27,0.633,0.591,2:09
+1,1:21,BOS,Derrick White,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,18,31,0.464,0.519,1:21
+1,31.9,BOS,Derrick White,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,21,32,0.492,0.536,39.4
+2,10:25,BKN,Goran Dragic,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,27,35,0.629,0.632,10:45
+2,9:02,BOS,Grant Williams,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,31,40,0.497,0.549,9:20
+2,7:13,BKN,Andre Drummond,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,31,45,0.435,0.386,7:28
+2,5:35,BOS,Jaylen Brown,Loose Ball Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,37,47,0.458,0.457,5:35
+2,5:01,BKN,Seth Curry,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,37,49,0.468,0.418,5:08
+2,4:20,BKN,Kevin Durant,Personal Take Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,39,51,0.457,0.404,4:21
+2,3:25,BKN,Goran Dragic,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,41,53,0.414,0.351,3:25
+2,2:16,BKN,Goran Dragic,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,44,57,0.386,0.331,2:19
+2,1:29,BKN,Nic Claxton,Double Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,48,62,0.336,0.254,1:32
+3,11:27,BOS,Daniel Theis,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,55,65,0.301,0.354,11:31
+3,9:45,BKN,Bruce Brown,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,60,70,0.42,0.366,9:58
+3,9:11,BKN,Kyrie Irving,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,64,70,0.537,0.466,9:11
+3,8:52,BOS,Al Horford,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,65,70,0.506,0.507,9:11
+3,8:44,BOS,Al Horford,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,65,72,0.394,0.462,8:44
+3,8:39,BKN,Seth Curry,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,65,72,0.46,0.463,8:44
+3,7:00,BOS,Jayson Tatum,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,70,75,0.411,0.475,7:00
+3,6:54,BOS,Jayson Tatum,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,70,75,0.41,0.411,7:00
+3,6:47,BKN,Seth Curry,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,70,77,0.494,0.433,6:54
+3,6:33,BKN,Andre Drummond,Offensive Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,70,77,0.426,0.384,6:39
+3,4:32,BKN,Kevin Durant,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,72,79,0.458,0.394,4:44
+3,4:17,BOS,Al Horford,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,75,79,0.404,0.479,4:30
+3,4:08,BKN,Nic Claxton,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,75,79,0.58,0.518,4:17
+3,2:40,BKN,Kevin Durant,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,79,81,0.646,0.585,2:52
+3,2:26,BOS,Marcus Smart,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,81,81,0.555,0.627,2:40
+3,2:18,BOS,Daniel Theis,Loose Ball Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,81,83,0.461,0.531,2:18
+3,2:05,BOS,Marcus Smart,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,81,85,0.362,0.434,2:07
+3,44.9,BOS,Payton Pritchard,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,83,88,0.29,0.365,55.0
+4,10:54,BKN,Kyrie Irving,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,85,92,0.245,0.229,10:56
+4,5:23,BKN,Andre Drummond,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,99,94,0.874,0.865,5:35
+4,4:38,BOS,Grant Williams,Personal Take Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,99,94,0.827,0.832,4:39
+4,4:03,BKN,Kevin Durant,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,99,94,0.916,0.877,4:18
+4,3:52,BOS,Al Horford,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,101,94,0.91,0.916,4:03
+4,3:32,BKN,Bruce Brown,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,101,96,0.939,0.886,3:46
+4,3:21,BKN,Kyrie Irving,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,101,96,0.942,0.897,3:32
+4,2:42,BOS,Al Horford,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,105,96,0.968,0.975,2:48
+4,1:53,BOS,Daniel Theis,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,108,96,0.99,0.996,2:07
+4,1:34,BOS,Jaylen Brown,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,108,98,0.974,0.989,1:36
+4,1:06,BOS,Jayson Tatum,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Tyler Ford,BOS,110,100,0.98,0.993,1:09

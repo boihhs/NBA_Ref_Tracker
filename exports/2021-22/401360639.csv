@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,DET,Hamidou Diallo,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,0,0,0.808,0.783,12:00
+1,11:26,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,1,0,0.756,0.783,11:39
+1,11:12,DAL,Jalen Brunson,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,1,2,0.717,0.747,11:17
+1,8:58,DET,Jerami Grant,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,6,8,0.748,0.734,8:58
+1,8:43,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,7,10,0.673,0.711,8:43
+1,5:55,DAL,Luka Doncic,Technical Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,16,14,0.763,0.795,5:55
+1,4:45,DET,Cory Joseph,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,18,19,0.746,0.709,4:45
+1,4:33,DET,Isaiah Stewart,Loose Ball Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,19,19,0.78,0.751,4:33
+1,4:21,DET,Frank Jackson,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,19,19,0.78,0.78,4:33
+1,2:52,DET,Trey Lyles,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,24,21,0.827,0.802,3:04
+1,1:41,DAL,Maxi Kleber,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,30,25,0.803,0.832,1:41
+2,10:59,DET,Kelly Olynyk,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,36,28,0.873,0.874,11:05
+2,8:30,DET,Frank Jackson,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,42,35,0.866,0.838,8:30
+2,8:15,DAL,Frank Ntilikina,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,43,35,0.854,0.854,8:30
+2,7:54,DET,Rodney McGruder,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,43,37,0.836,0.837,8:10
+2,7:02,DET,Rodney McGruder,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,45,39,0.859,0.835,7:17
+2,6:33,DET,Hamidou Diallo,Offensive Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,47,39,0.867,0.851,6:43
+2,5:52,DAL,Frank Ntilikina,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,49,39,0.882,0.882,5:56
+2,3:15,DAL,Dwight Powell,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,57,46,0.874,0.895,3:27
+2,2:24,DET,Isaiah Stewart,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,59,47,0.93,0.909,2:24
+2,1:01,DET,Saddiq Bey,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,63,49,0.955,0.942,1:10
+3,11:51,DAL,Dwight Powell,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,65,51,0.918,0.938,12:00
+3,10:15,DAL,Luka Doncic,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,69,56,0.906,0.926,10:23
+3,9:24,DET,Jerami Grant,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,72,58,0.961,0.948,9:42
+3,6:35,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,77,63,0.928,0.945,6:39
+3,5:53,DET,Hamidou Diallo,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,80,65,0.964,0.965,5:53
+3,5:06,DET,Isaiah Stewart,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,80,65,0.975,0.966,5:14
+3,4:17,DET,Killian Hayes,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,83,65,0.989,0.985,4:22
+3,3:47,DET,Killian Hayes,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,83,65,0.99,0.985,4:04
+3,2:26,DAL,Trey Burke,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,90,65,0.996,0.998,2:38
+3,0.1,DAL,Josh Green,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,98,70,0.999,0.999,15.4
+4,10:46,DET,Killian Hayes,Personal Take Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,100,73,0.999,0.999,10:46
+4,10:20,DET,Trey Lyles,Offensive Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,103,73,0.999,0.999,10:35
+4,9:00,DAL,Luka Doncic,Personal Take Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,108,73,0.999,0.999,9:05
+4,7:44,DAL,Marquese Chriss,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,110,77,0.999,0.999,7:44
+4,3:58,DAL,Trey Burke,Personal Take Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,114,82,0.999,0.999,3:58
+4,3:30,DAL,Josh Green,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,114,82,0.999,0.999,3:38
+4,3:21,DET,Saddiq Bey,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,114,84,0.999,0.999,3:30
+4,2:09,DET,Cory Joseph,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,116,86,0.999,0.999,2:19
+4,1:42,DET,Cory Joseph,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Jacyn Goble,DAL,116,86,0.999,0.999,1:45

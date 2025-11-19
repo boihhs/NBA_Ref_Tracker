@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:15,BKN,Ben Simmons,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,3,0,0.853,0.855,11:35
+1,8:08,GS,Moses Moody,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,17,8,0.93,0.919,8:20
+1,7:07,GS,Moses Moody,Loose Ball Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,23,10,0.945,0.946,7:07
+1,7:01,GS,Draymond Green,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,23,10,0.954,0.945,7:07
+1,6:05,BKN,Ben Simmons,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,27,10,0.961,0.961,6:13
+1,6:02,GS,Jonathan Kuminga,Offensive Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,27,10,0.965,0.961,6:05
+1,5:18,BKN,Royce O'Neale,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,29,10,0.969,0.969,5:28
+1,1:56,GS,Anthony Lamb,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,41,14,0.993,0.99,1:56
+1,46.0,GS,Moses Moody,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,44,17,0.994,0.992,53.1
+1,37.1,BKN,Edmond Sumner,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,46,17,0.991,0.993,46.0
+2,11:07,BKN,Yuta Watanabe,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,48,19,0.992,0.993,11:13
+2,10:18,BKN,Yuta Watanabe,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,53,23,0.994,0.996,10:18
+2,10:06,GS,James Wiseman,Defensive 3-Seconds Technical,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,53,23,0.995,0.996,10:15
+2,7:28,BKN,Seth Curry,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,61,29,0.997,0.997,7:43
+2,6:15,BKN,Kevin Durant,Technical Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,68,31,0.997,0.997,6:22
+2,6:04,BKN,Nic Claxton,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,68,32,0.997,0.997,6:15
+2,2:59,GS,Kevon Looney,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,75,43,0.998,0.998,3:00
+2,2:50,GS,Kevon Looney,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,75,43,0.998,0.998,2:59
+2,2:15,BKN,Joe Harris,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,79,45,0.998,0.998,2:25
+2,1:24,BKN,Edmond Sumner,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,84,46,0.998,0.998,1:35
+3,11:24,BKN,Ben Simmons,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,93,51,0.999,0.998,11:34
+3,10:24,BKN,BKN,Delay Technical,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,95,51,0.999,0.999,10:25
+3,10:16,BKN,Ben Simmons,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,95,52,0.999,0.999,10:24
+3,10:03,GS,Draymond Green,Loose Ball Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,95,52,0.999,0.999,10:03
+3,9:27,BKN,Kevin Durant,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,95,52,0.999,0.999,9:27
+3,9:03,BKN,Nic Claxton,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,95,54,0.999,0.999,9:14
+3,8:01,BKN,Royce O'Neale,Offensive Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,95,59,0.999,0.999,8:02
+3,7:37,GS,Jordan Poole,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,95,59,0.999,0.999,7:48
+3,6:48,GS,Kevon Looney,Loose Ball Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,97,62,0.999,0.999,6:48
+3,4:16,GS,Jonathan Kuminga,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,101,66,0.999,0.999,4:24
+3,3:15,BKN,Kevin Durant,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,101,66,0.999,0.999,3:35
+3,2:54,GS,Ty Jerome,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,101,68,0.999,0.999,2:58
+4,11:22,BKN,Seth Curry,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,112,83,0.999,0.999,11:22
+4,10:40,BKN,T.J. Warren,Offensive Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,112,87,0.999,0.999,10:56
+4,10:29,BKN,Markieff Morris,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,112,89,0.997,0.999,10:29
+4,9:55,BKN,Seth Curry,Personal Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,114,93,0.997,0.997,9:57
+4,7:57,BKN,T.J. Warren,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,124,96,0.999,0.999,8:01
+4,5:42,BKN,Patty Mills,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,131,99,0.999,0.999,5:59
+4,3:39,GS,James Wiseman,Shooting Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,139,101,0.999,0.999,3:47
+4,1:49,BKN,Markieff Morris,Loose Ball Foul,Foul,John Goble,Aaron Smith,Matt Kallio,BKN,143,105,0.999,0.999,1:49

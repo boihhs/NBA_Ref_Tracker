@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:55,TOR,OG Anunoby,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,2,0,0.687,0.719,11:10
+1,8:32,TOR,Khem Birch,Personal Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,9,5,0.751,0.751,8:32
+1,5:16,TOR,Pascal Siakam,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,17,12,0.773,0.784,5:16
+1,3:27,NO,Herbert Jones,Personal Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,22,16,0.799,0.8,3:40
+2,10:44,NO,Naji Marshall,Personal Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,29,28,0.681,0.682,10:45
+2,9:20,NO,Naji Marshall,Offensive Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,36,28,0.823,0.814,9:38
+2,8:14,TOR,Scottie Barnes,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,38,28,0.822,0.849,8:31
+2,7:56,NO,Herbert Jones,Personal Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,38,30,0.831,0.832,8:14
+2,6:56,NO,Garrett Temple,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,40,32,0.857,0.832,7:10
+2,6:10,TOR,Precious Achiuwa,Personal Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,43,35,0.812,0.811,6:22
+2,4:15,TOR,Khem Birch,Offensive Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,43,41,0.661,0.69,4:15
+2,3:12,TOR,Khem Birch,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,43,43,0.593,0.593,3:12
+2,2:23,TOR,OG Anunoby,Loose Ball Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,45,46,0.508,0.558,2:23
+2,1:44,NO,Devonte' Graham,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,45,48,0.573,0.523,2:08
+3,11:41,NO,Herbert Jones,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,51,48,0.71,0.68,11:41
+3,11:27,TOR,OG Anunoby,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,52,48,0.661,0.709,11:41
+3,9:28,TOR,Khem Birch,Loose Ball Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,55,54,0.606,0.606,9:28
+3,9:12,TOR,Precious Achiuwa,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,55,54,0.551,0.606,9:28
+3,7:43,NO,Devonte' Graham,Personal Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,60,60,0.601,0.603,8:01
+3,7:17,NO,Brandon Ingram,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,62,60,0.673,0.636,7:17
+3,5:43,NO,Garrett Temple,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,68,63,0.814,0.77,6:02
+3,5:26,TOR,OG Anunoby,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,70,63,0.753,0.799,5:43
+3,4:31,NO,Nickeil Alexander-Walker,Personal Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,70,65,0.818,0.774,4:35
+3,3:28,NO,Brandon Ingram,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,76,69,0.854,0.806,3:28
+3,2:43,NO,Nickeil Alexander-Walker,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,77,69,0.864,0.864,2:43
+3,1:55,TOR,Svi Mykhailiuk,Loose Ball Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,79,72,0.812,0.812,1:55
+3,58.3,TOR,Svi Mykhailiuk,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,79,73,0.781,0.781,1:00
+4,11:11,NO,Gary Clark,Flagrant Foul Type 1,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,79,77,0.749,0.669,11:17
+4,10:09,NO,Nickeil Alexander-Walker,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,81,79,0.759,0.677,10:16
+4,9:34,TOR,Chris Boucher,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,83,79,0.643,0.727,9:49
+4,7:26,TOR,OG Anunoby,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,91,82,0.865,0.914,7:41
+4,6:52,TOR,Khem Birch,Loose Ball Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,91,84,0.857,0.863,6:52
+4,6:32,TOR,Pascal Siakam,Offensive Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,91,84,0.854,0.896,6:34
+4,5:57,TOR,Scottie Barnes,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,91,86,0.735,0.832,5:57
+4,5:45,NO,Garrett Temple,Personal Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,91,87,0.795,0.775,5:57
+4,5:01,TOR,Chris Boucher,Shooting Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,91,87,0.643,0.736,5:12
+4,2:03,NO,Jonas Valanciunas,Personal Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,96,99,0.421,0.273,2:26
+4,5.7,NO,Devonte' Graham,Personal Take Foul,Foul,Zach Zarba,Mitchell Ervin,Gediminas Petraitis,TOR,104,101,0.984,0.956,5.8

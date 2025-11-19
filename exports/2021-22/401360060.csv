@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:21,DEN,Will Barton,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,10,4,0.647,0.685,9:38
+1,7:35,CHI,Tony Bradley,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,12,10,0.647,0.612,7:40
+1,1:14,DEN,JaMychal Green,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,28,27,0.567,0.581,1:14
+1,50.4,DEN,Facundo Campazzo,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,28,28,0.482,0.525,55.2
+2,10:51,DEN,Bones Hyland,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,33,30,0.609,0.607,11:03
+2,9:11,CHI,Tony Bradley,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,35,32,0.622,0.607,9:11
+2,7:28,CHI,Alex Caruso,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,36,34,0.61,0.609,7:35
+2,7:00,CHI,Alex Caruso,Personal Take Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,36,34,0.609,0.579,7:00
+2,4:00,CHI,Lonzo Ball,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,44,42,0.595,0.578,4:00
+2,2:44,DEN,Jeff Green,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,48,44,0.594,0.642,2:47
+2,2:27,CHI,Javonte Green,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,48,46,0.657,0.609,2:44
+3,10:14,DEN,Jeff Green,Offensive Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,52,59,0.256,0.291,10:26
+3,10:06,DEN,Monte Morris,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,52,59,0.26,0.256,10:14
+3,7:11,DEN,Monte Morris,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,56,64,0.171,0.213,7:24
+3,7:01,CHI,Derrick Jones Jr.,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,56,66,0.227,0.183,7:11
+3,5:01,DEN,Austin Rivers,Loose Ball Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,62,68,0.259,0.258,5:01
+3,5:00,DEN,Jeff Green,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,62,68,0.211,0.259,5:01
+3,4:44,CHI,Derrick Jones Jr.,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,62,70,0.278,0.225,4:53
+3,4:20,CHI,Derrick Jones Jr.,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,63,70,0.314,0.257,4:30
+3,4:09,DEN,Austin Rivers,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,65,72,0.196,0.255,4:09
+3,3:59,CHI,Javonte Green,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,65,73,0.272,0.219,4:09
+3,3:37,DEN,PJ Dozier,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,65,73,0.143,0.186,3:49
+3,1:37,CHI,Ayo Dosunmu,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,73,81,0.254,0.197,1:48
+3,1:12,CHI,Alex Caruso,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,75,83,0.25,0.193,1:23
+3,37.8,DEN,Bones Hyland,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,76,83,0.14,0.187,42.3
+4,11:27,DEN,Bones Hyland,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,78,88,0.085,0.091,11:34
+4,10:30,DEN,Facundo Campazzo,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,78,88,0.075,0.08,10:36
+4,10:22,CHI,Tony Bradley,Offensive Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,78,88,0.097,0.075,10:30
+4,9:59,CHI,DeMar DeRozan,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,78,88,0.083,0.094,10:01
+4,8:53,DEN,Facundo Campazzo,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,84,88,0.243,0.258,8:54
+4,7:26,CHI,Derrick Jones Jr.,Offensive Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,87,92,0.237,0.194,7:35
+4,7:04,CHI,Javonte Green,Offensive Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,87,92,0.231,0.188,7:14
+4,6:56,DEN,JaMychal Green,Offensive Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,87,92,0.183,0.231,7:04
+4,6:29,DEN,Jeff Green,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,87,92,0.114,0.176,6:31
+4,5:54,CHI,Ayo Dosunmu,Loose Ball Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,90,94,0.271,0.201,5:54
+4,2:33,CHI,Javonte Green,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,97,101,0.337,0.197,2:39
+4,1:15,DEN,PJ Dozier,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,103,106,0.084,0.161,1:27
+4,38.2,DEN,Austin Rivers,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,105,108,0.062,0.14,55.4
+4,11.3,DEN,PJ Dozier,Shooting Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,108,110,0.055,0.184,29.4
+4,4.7,DEN,PJ Dozier,Personal Foul,Foul,James Williams,Scott Twardoski,J.B. DeRosa,DEN,108,112,0.004,0.015,4.7

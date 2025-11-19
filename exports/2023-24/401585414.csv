@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,3:38,SAC,Harrison Barnes,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,19,14,0.78,0.749,3:52
+1,2:26,DEN,Nikola Jokic,Loose Ball Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,23,14,0.806,0.805,2:26
+1,4.1,DEN,Peyton Watson,Personal Take Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,27,16,0.816,0.843,7.1
+2,10:10,SAC,Alex Len,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,31,18,0.908,0.89,10:17
+2,9:54,DEN,Reggie Jackson,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,33,18,0.883,0.904,10:10
+2,8:46,SAC,Alex Len,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,35,23,0.877,0.878,8:57
+2,8:31,DEN,Christian Braun,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,35,23,0.837,0.862,8:38
+2,7:39,DEN,Collin Gillespie,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,35,26,0.779,0.809,7:40
+2,6:00,SAC,Malik Monk,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,40,30,0.874,0.851,6:05
+2,5:22,SAC,Keegan Murray,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,42,30,0.904,0.883,5:24
+2,2:16,DEN,Justin Holiday,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,46,36,0.806,0.838,2:21
+2,1:50,SAC,Domantas Sabonis,Loose Ball Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,48,37,0.9,0.877,1:50
+3,11:07,DEN,Justin Holiday,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,55,43,0.87,0.899,11:07
+3,11:00,SAC,Keegan Murray,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,55,44,0.883,0.884,11:07
+3,9:13,DEN,Nikola Jokic,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,60,46,0.92,0.919,9:28
+3,8:13,SAC,Harrison Barnes,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,62,49,0.924,0.924,8:36
+3,7:59,DEN,Nikola Jokic,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,62,49,0.911,0.909,8:02
+3,3:59,DEN,Nikola Jokic,Technical Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,67,56,0.878,0.873,3:58
+3,3:59,DEN,DEN,Technical Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,67,56,0.878,0.878,3:59
+3,3:47,SAC,Kevin Huerter,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,67,60,0.862,0.849,3:59
+3,2:47,DEN,Justin Holiday,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,69,62,0.747,0.799,2:51
+3,1:47,SAC,De'Aaron Fox,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,72,66,0.849,0.804,2:06
+3,1:32,DEN,Collin Gillespie,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,72,66,0.712,0.768,1:45
+3,1:13,DEN,Collin Gillespie,Loose Ball Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,72,67,0.673,0.73,1:13
+4,11:14,DEN,Zeke Nnaji,Offensive Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,76,71,0.745,0.789,11:23
+4,10:57,SAC,Trey Lyles,Loose Ball Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,76,71,0.798,0.791,10:57
+4,10:01,DEN,Christian Braun,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,78,71,0.766,0.834,10:14
+4,9:03,SAC,Malik Monk,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,78,75,0.729,0.714,9:05
+4,9:00,SAC,Malik Monk,Shooting Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,78,75,0.801,0.729,9:03
+4,7:07,DEN,Peyton Watson,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,82,79,0.671,0.685,7:12
+4,5:51,SAC,Domantas Sabonis,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,82,82,0.673,0.565,6:11
+4,4:37,SAC,Malik Monk,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,85,87,0.542,0.431,4:56
+4,4:13,SAC,Keegan Murray,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,87,87,0.683,0.579,4:22
+4,3:15,DEN,Nikola Jokic,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,91,87,0.767,0.787,3:31
+4,56.1,SAC,De'Aaron Fox,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,93,100,0.105,0.046,58.1
+4,45.0,DEN,Christian Braun,Personal Foul,Foul,David Guthrie,Nate Green,Ray Acosta,DEN,95,100,0.023,0.075,56.1

@@ -1,0 +1,58 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:53,MEM,Steven Adams,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,2,9,0.661,0.7,8:53
+1,7:14,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,7,15,0.664,0.662,7:14
+1,5:14,POR,Josh Hart,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,13,21,0.662,0.643,5:14
+1,4:51,POR,CJ Elleby,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,15,21,0.722,0.688,4:54
+1,3:03,POR,Anfernee Simons,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,22,28,0.707,0.674,3:21
+1,2:35,POR,Greg Brown III,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,23,31,0.654,0.618,2:48
+1,56.6,POR,Josh Hart,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,27,36,0.612,0.572,1:12
+1,41.4,POR,Greg Brown III,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,29,36,0.661,0.624,47.6
+1,25.9,POR,Elijah Hughes,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,31,36,0.71,0.672,29.0
+1,7.7,MEM,John Konchar,Personal Take Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,32,36,0.631,0.674,25.9
+2,10:25,MEM,Desmond Bane,Offensive Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,34,38,0.652,0.683,10:50
+2,10:19,MEM,John Konchar,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,34,38,0.653,0.652,10:25
+2,9:29,POR,Elijah Hughes,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,34,43,0.572,0.525,9:38
+2,9:17,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,35,43,0.474,0.523,9:26
+2,7:40,MEM,Desmond Bane,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,38,50,0.327,0.373,7:42
+2,6:37,MEM,Ziaire Williams,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,40,51,0.342,0.394,6:55
+2,6:32,MEM,Brandon Clarke,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,40,51,0.341,0.342,6:37
+2,6:06,MEM,Steven Adams,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,42,53,0.334,0.387,6:20
+2,5:12,POR,CJ Elleby,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,42,55,0.386,0.337,5:14
+2,4:40,POR,Jusuf Nurkic,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,43,57,0.344,0.299,4:55
+2,2:48,POR,CJ Elleby,Loose Ball Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,49,59,0.453,0.401,2:48
+3,10:28,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,63,70,0.41,0.405,10:28
+3,8:46,MEM,Ja Morant,Loose Ball Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,65,75,0.277,0.274,8:46
+3,8:07,MEM,Steven Adams,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,67,75,0.34,0.341,8:23
+3,8:04,MEM,Ja Morant,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,67,75,0.286,0.34,8:07
+3,7:01,POR,Anfernee Simons,Loose Ball Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,69,79,0.287,0.284,7:01
+3,6:55,POR,Jusuf Nurkic,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,69,79,0.339,0.287,7:01
+3,6:12,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,71,79,0.253,0.312,6:26
+3,5:43,MEM,Ja Morant,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,74,83,0.236,0.301,5:43
+3,4:26,POR,Justise Winslow,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,76,84,0.35,0.278,4:26
+3,3:36,POR,Anfernee Simons,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,79,84,0.502,0.438,3:38
+3,3:31,POR,Greg Brown III,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,79,84,0.422,0.502,3:36
+3,2:39,MEM,John Konchar,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,82,84,0.441,0.513,2:55
+3,2:22,POR,Greg Brown III,Loose Ball Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,82,86,0.531,0.462,2:22
+3,54.5,MEM,John Konchar,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,86,91,0.307,0.4,54.5
+3,31.8,MEM,Brandon Clarke,Loose Ball Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,86,92,0.229,0.288,31.8
+3,9.6,POR,Trendon Watford,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,86,94,0.309,0.249,31.8
+3,5.4,POR,Josh Hart,Technical Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,87,94,0.318,0.24,6.6
+4,12:00,MEM,Ja Morant,Technical Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,90,94,0.334,0.402,12:00
+4,11:26,POR,Trendon Watford,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,90,95,0.46,0.369,11:29
+4,10:57,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,92,95,0.324,0.413,10:59
+4,10:22,MEM,John Konchar,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,94,97,0.306,0.401,10:37
+4,9:49,POR,Greg Brown III,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,94,98,0.401,0.386,9:54
+4,9:45,POR,Greg Brown III,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,94,98,0.412,0.401,9:49
+4,9:38,POR,Greg Brown III,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,94,98,0.494,0.412,9:45
+4,9:31,MEM,Steven Adams,Offensive Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,94,98,0.352,0.494,9:38
+4,8:24,POR,Jusuf Nurkic,Personal Take Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,96,100,0.479,0.392,8:24
+4,8:05,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,98,102,0.271,0.387,8:05
+4,6:58,MEM,Desmond Bane,Loose Ball Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,101,103,0.311,0.412,6:58
+4,6:58,MEM,Desmond Bane,Technical Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,101,103,0.354,0.311,6:58
+4,6:10,POR,Justise Winslow,Personal Take Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,103,106,0.488,0.39,6:10
+4,4:08,POR,Jusuf Nurkic,Shooting Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,110,110,0.68,0.578,4:34
+4,2:24,MEM,Brandon Clarke,Loose Ball Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,114,114,0.342,0.474,2:24
+4,1:31,POR,Justise Winslow,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,116,117,0.61,0.47,1:42
+4,1:19,MEM,Steven Adams,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,117,117,0.314,0.644,3:47
+4,26.5,POR,Josh Hart,Personal Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,117,122,0.183,0.089,28.8
+4,9.0,MEM,Desmond Bane,Personal Take Foul,Foul,Dedric Taylor,Jason Goldenberg,Kevin Scott,MEM,119,122,0.024,0.106,19.5

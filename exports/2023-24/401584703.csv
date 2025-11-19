@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:25,MIL,Brook Lopez,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,2,2,0.585,0.625,10:37
+1,10:06,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,2,3,0.656,0.623,10:25
+1,8:54,PHI,Tyrese Maxey,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,5,5,0.641,0.642,8:57
+1,8:07,PHI,P.J. Tucker,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,8,5,0.707,0.708,8:10
+1,7:18,PHI,Tyrese Maxey,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,10,5,0.778,0.749,7:26
+1,5:47,MIL,Jae Crowder,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,17,9,0.757,0.787,5:57
+1,4:30,PHI,De'Anthony Melton,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,19,14,0.778,0.746,4:39
+1,1:01,MIL,Bobby Portis,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,30,21,0.775,0.808,1:08
+1,50.1,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,30,21,0.789,0.775,1:01
+2,11:49,MIL,Cameron Payne,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,30,25,0.703,0.747,11:49
+2,11:29,PHI,P.J. Tucker,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,30,25,0.777,0.746,11:37
+2,11:22,MIL,Cameron Payne,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,30,25,0.721,0.721,11:28
+2,11:07,PHI,Paul Reed,Offensive Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,30,25,0.745,0.746,11:49
+2,10:41,MIL,Cameron Payne,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,30,25,0.683,0.694,10:01
+2,8:55,PHI,P.J. Tucker,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,34,30,0.754,0.72,9:05
+2,7:29,PHI,Paul Reed,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,38,32,0.798,0.766,7:31
+2,6:59,MIL,Brook Lopez,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,40,32,0.772,0.788,6:59
+2,6:39,PHI,Jaden Springer,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,43,33,0.861,0.829,6:39
+2,5:27,MIL,Jae Crowder,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,48,35,0.858,0.881,5:50
+2,5:03,MIL,Jae Crowder,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,50,36,0.876,0.897,5:16
+2,4:16,MIL,MarJon Beauchamp,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,55,37,0.929,0.943,4:26
+2,4:04,PHI,De'Anthony Melton,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,55,38,0.955,0.944,4:16
+2,2:38,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,57,44,0.864,0.888,2:43
+2,1:36,PHI,Joel Embiid,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,60,49,0.9,0.877,1:43
+2,1:02,MIL,Malik Beasley,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,61,53,0.777,0.815,1:02
+2,49.0,PHI,Tyrese Maxey,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,61,54,0.828,0.798,1:02
+3,10:27,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,65,60,0.787,0.746,10:29
+3,8:30,PHI,P.J. Tucker,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,71,67,0.718,0.719,8:39
+3,7:16,PHI,Joel Embiid,Offensive Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,75,69,0.78,0.749,7:26
+3,7:07,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,75,69,0.75,0.78,7:16
+3,5:47,PHI,Tobias Harris,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,77,69,0.858,0.842,5:47
+3,5:26,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,78,69,0.801,0.839,5:47
+3,5:03,MIL,Bobby Portis,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,78,70,0.818,0.818,5:04
+3,4:41,MIL,Damian Lillard,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,78,70,0.821,0.82,4:42
+3,4:27,PHI,Patrick Beverley,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,78,70,0.88,0.846,4:30
+3,4:17,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,78,70,0.881,0.88,4:27
+3,2:17,PHI,Patrick Beverley,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,82,80,0.713,0.651,2:36
+3,1:42,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,84,80,0.789,0.735,1:53
+3,1:16,PHI,Paul Reed,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,86,80,0.852,0.808,1:28
+3,1:02,MIL,MarJon Beauchamp,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,86,82,0.663,0.739,1:02
+4,10:17,MIL,Bobby Portis,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,90,87,0.604,0.71,10:17
+4,8:41,PHI,Paul Reed,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,94,93,0.626,0.611,8:57
+4,8:20,MIL,MarJon Beauchamp,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,94,93,0.455,0.559,8:30
+4,6:47,MIL,Brook Lopez,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,94,100,0.098,0.16,6:57
+4,3:34,PHI,Tobias Harris,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,107,104,0.822,0.695,3:34
+4,3:24,PHI,Kelly Oubre Jr.,Offensive Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,107,104,0.772,0.702,3:29
+4,3:15,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,107,104,0.866,0.772,3:24
+4,2:45,PHI,P.J. Tucker,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,112,104,0.975,0.946,2:45
+4,2:30,MIL,Damian Lillard,Personal Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,113,104,0.938,0.965,2:45
+4,1:39,MIL,Brook Lopez,Offensive Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,113,109,0.804,0.864,1:47
+4,11.1,PHI,Joel Embiid,Shooting Foul,Foul,Brent Barnaky,Mark Lindsay,Evan Scott,MIL,116,114,0.936,0.785,30.1

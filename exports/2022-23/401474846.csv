@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:36,TOR,Gary Trent Jr.,Loose Ball Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,0,0,0.489,0.49,11:36
+1,11:06,TOR,Scottie Barnes,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,0,0,0.49,0.489,11:12
+1,9:32,UTAH,Kelly Olynyk,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,3,4,0.525,0.488,9:43
+1,8:50,UTAH,Mike Conley,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,4,4,0.512,0.513,8:57
+1,8:03,UTAH,Kelly Olynyk,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,6,7,0.484,0.486,8:21
+1,5.7,UTAH,Jordan Clarkson,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,20,22,0.501,0.457,5.7
+2,11:42,UTAH,Jordan Clarkson,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,22,22,0.557,0.514,11:45
+2,11:31,TOR,Chris Boucher,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,24,24,0.464,0.514,11:31
+2,10:47,UTAH,Walker Kessler,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,26,24,0.615,0.573,10:53
+2,10:31,TOR,Scottie Barnes,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,27,24,0.529,0.572,10:45
+2,9:11,TOR,Chris Boucher,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,30,28,0.546,0.543,2:34
+2,5:54,TOR,Pascal Siakam,Loose Ball Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,35,32,0.533,0.577,5:54
+2,5:23,TOR,Malachi Flynn,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,37,32,0.595,0.641,5:31
+2,5:08,UTAH,Jarred Vanderbilt,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,37,32,0.714,0.672,5:20
+2,4:19,TOR,Juancho Hernangomez,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,41,34,0.657,0.702,4:38
+2,3:05,UTAH,Rudy Gay,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,43,38,0.721,0.678,3:08
+2,2:39,TOR,Christian Koloko,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,43,38,0.656,0.645,2:51
+2,2:20,UTAH,Lauri Markkanen,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,43,39,0.694,0.65,2:22
+2,2:12,TOR,Juancho Hernangomez,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,44,39,0.601,0.647,2:20
+2,1:31,TOR,Christian Koloko,Offensive Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,47,41,0.679,0.71,1:38
+2,57.6,TOR,Malachi Flynn,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,47,43,0.569,0.615,1:04
+2,47.1,UTAH,Jarred Vanderbilt,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,47,44,0.67,0.623,55.9
+3,11:24,UTAH,Mike Conley,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,50,49,0.554,0.554,11:33
+3,9:57,TOR,Gary Trent Jr.,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,57,49,0.756,0.757,9:58
+3,8:32,UTAH,Kelly Olynyk,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,60,49,0.879,0.866,8:32
+3,7:00,UTAH,Mike Conley,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,62,52,0.868,0.853,7:05
+3,6:49,TOR,Chris Boucher,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,64,52,0.876,0.875,7:00
+3,6:31,UTAH,Lauri Markkanen,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,64,52,0.909,0.897,6:31
+3,6:03,UTAH,Kelly Olynyk,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,65,52,0.937,0.915,6:21
+3,2:52,UTAH,Collin Sexton,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,71,58,0.954,0.936,2:58
+3,1:13,TOR,D.J. Wilson,Offensive Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,78,60,0.981,0.985,1:25
+3,10.3,TOR,Josh Jackson,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,82,62,0.986,0.991,23.8
+4,9:06,TOR,Jeff Dowtin Jr.,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,86,66,0.996,0.997,9:11
+4,7:31,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,88,66,0.999,0.999,7:35
+4,7:20,UTAH,Cody Zeller,Offensive Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,89,66,0.999,0.999,7:29
+4,6:46,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,93,66,0.999,0.999,6:46
+4,4:47,TOR,Christian Koloko,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,99,68,0.999,0.999,4:59
+4,4:21,TOR,Christian Koloko,Transition Take Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,99,68,0.999,0.999,4:22
+4,4:18,TOR,Ron Harper Jr.,Personal Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,99,68,0.999,0.999,4:21
+4,2:05,TOR,Gabe Brown,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,105,72,0.999,0.999,2:20
+4,1:35,UTAH,Jared Butler,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,107,74,0.999,0.999,1:39
+4,29.0,TOR,Josh Jackson,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Matt Kallio,TOR,112,81,0.999,0.999,32.4

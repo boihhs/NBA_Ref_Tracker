@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,HOU,Jalen Green,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,0,0,0.736,0.705,10:56
+1,9:43,MIN,Mike Conley,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,1,2,0.659,0.658,9:52
+1,6:27,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,5,8,0.655,0.619,6:40
+1,6:00,HOU,Amen Thompson,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,6,8,0.676,0.642,6:12
+1,3:38,MIN,Monte Morris,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,12,15,0.577,0.577,3:41
+1,3:26,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,12,15,0.536,0.662,5:00
+1,3:10,HOU,Jock Landale,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,12,17,0.589,0.549,3:26
+1,11.1,MIN,Monte Morris,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,16,23,0.418,0.471,11.1
+2,11:17,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,16,26,0.305,0.648,2:05
+2,10:27,HOU,Jeff Green,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,22,27,0.473,0.487,10:27
+2,10:08,HOU,Aaron Holiday,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,23,27,0.546,0.547,10:12
+2,9:34,HOU,Aaron Holiday,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,25,27,0.6,0.601,9:35
+2,8:54,HOU,Jabari Smith Jr.,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,27,27,0.694,0.655,9:04
+2,5:59,MIN,Naz Reid,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,31,37,0.398,0.457,5:59
+2,3:56,MIN,Jaden McDaniels,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,38,41,0.506,0.506,4:15
+2,23.1,HOU,Dillon Brooks,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,52,45,0.849,0.819,37.1
+2,9.0,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,54,45,0.808,0.84,23.1
+3,9:17,HOU,Fred VanVleet,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,57,51,0.797,0.801,9:31
+3,9:02,HOU,Dillon Brooks,Loose Ball Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,57,51,0.795,0.799,9:02
+3,8:19,HOU,Jalen Green,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,60,53,0.821,0.823,8:38
+3,7:45,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,60,55,0.809,0.771,7:58
+3,7:29,MIN,Rudy Gobert,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,62,55,0.754,0.8,7:45
+3,6:56,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,62,57,0.74,0.74,6:56
+3,6:44,HOU,Dillon Brooks,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,62,57,0.814,0.771,6:48
+3,6:16,HOU,Dillon Brooks,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,66,59,0.846,0.801,6:16
+3,5:51,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,67,59,0.831,0.829,5:51
+3,5:36,MIN,Kyle Anderson,Offensive Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,67,59,0.831,0.853,5:46
+3,3:57,MIN,Rudy Gobert,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,71,61,0.847,0.88,4:13
+3,2:55,HOU,Amen Thompson,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,73,65,0.897,0.864,2:59
+3,2:14,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,75,68,0.761,0.812,2:19
+4,9:55,HOU,Fred VanVleet,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,89,77,0.966,0.962,10:03
+4,7:12,HOU,Cam Whitmore,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,96,81,0.993,0.992,7:25
+4,7:01,MIN,Mike Conley,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,96,83,0.969,0.985,7:01
+4,5:23,MIN,Rudy Gobert,Shooting Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,98,87,0.955,0.979,5:23
+4,3:26,HOU,Jalen Green,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,98,91,0.948,0.938,3:42
+4,3:17,HOU,Fred VanVleet,Loose Ball Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,98,91,0.973,0.946,3:17
+4,38.0,HOU,Fred VanVleet,Clear Path Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,107,100,0.997,0.991,40.0
+4,24.0,HOU,Fred VanVleet,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,109,103,0.996,0.984,26.0
+4,11.1,HOU,Jalen Green,Personal Take Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,111,106,0.995,0.962,13.0
+4,6.1,MIN,Anthony Edwards,Personal Foul,Foul,Dedric Taylor,Mitchell Ervin,Nate Green,MIN,113,106,0.981,0.99,11.1

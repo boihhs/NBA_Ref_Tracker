@@ -1,0 +1,59 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,IND,Bruce Brown,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,2,5,0.509,0.472,11:03
+1,9:44,IND,Tyrese Haliburton,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,7,5,0.596,0.596,9:46
+1,9:37,IND,Bruce Brown,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,7,5,0.596,0.596,9:44
+1,7:52,LAL,Anthony Davis,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,13,11,0.571,0.569,8:01
+1,7:12,LAL,LeBron James,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,15,11,0.583,0.621,7:29
+1,6:32,IND,Myles Turner,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,19,13,0.712,0.671,6:32
+1,5:49,IND,Myles Turner,Offensive Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,22,15,0.72,0.695,5:56
+1,5:07,LAL,Taurean Prince,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,22,15,0.677,0.696,5:10
+1,4:39,IND,Bennedict Mathurin,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,24,17,0.738,0.696,4:39
+1,4:28,LAL,Jarred Vanderbilt,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,24,17,0.66,0.696,4:37
+1,3:45,LAL,Rui Hachimura,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,26,22,0.604,0.649,3:45
+1,2:58,IND,Bennedict Mathurin,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,28,23,0.713,0.672,3:08
+1,2:15,IND,Aaron Nesmith,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,29,25,0.687,0.65,2:16
+1,1:44,LAL,LeBron James,Offensive Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,30,27,0.598,0.621,1:56
+1,1:32,LAL,Rui Hachimura,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,30,27,0.556,0.598,1:32
+1,47.1,IND,Buddy Hield,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,30,29,0.61,0.575,47.1
+2,11:03,IND,T.J. McConnell,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,34,33,0.569,0.572,11:12
+2,9:37,LAL,Cam Reddish,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,40,36,0.584,0.626,9:48
+2,6:33,IND,Buddy Hield,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,46,40,0.753,0.715,6:40
+2,6:15,LAL,Taurean Prince,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,48,40,0.701,0.74,6:33
+2,3:27,LAL,Rui Hachimura,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,52,47,0.618,0.664,3:29
+2,3:19,LAL,LeBron James,Offensive Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,52,49,0.601,0.634,3:27
+2,2:55,LAL,Cam Reddish,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,54,49,0.618,0.666,3:03
+2,2:12,IND,Myles Turner,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,54,52,0.602,0.603,2:12
+2,46.0,IND,Obi Toppin,Transition Take Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,60,56,0.67,0.67,47.1
+2,36.0,LAL,Cam Reddish,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,63,56,0.685,0.73,37.0
+2,24.1,IND,Aaron Nesmith,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,63,58,0.746,0.702,36.0
+2,0.1,LAL,Taurean Prince,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,65,58,0.682,0.736,1.1
+3,11:08,IND,Buddy Hield,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,67,60,0.785,0.738,11:08
+3,10:34,LAL,Taurean Prince,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,70,60,0.779,0.817,10:43
+3,10:28,IND,Obi Toppin,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,70,61,0.851,0.82,10:34
+3,9:48,IND,Myles Turner,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,72,63,0.82,0.823,9:48
+3,8:12,IND,Aaron Nesmith,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,74,67,0.816,0.775,8:21
+3,7:55,LAL,Cam Reddish,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,74,67,0.746,0.746,8:01
+3,6:37,IND,Isaiah Jackson,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,76,67,0.872,0.839,6:43
+3,5:17,IND,Aaron Nesmith,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,77,69,0.858,0.82,5:21
+3,5:07,IND,Isaiah Jackson,Offensive Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,78,69,0.848,0.82,5:17
+3,4:51,LAL,Jaxson Hayes,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,78,69,0.779,0.822,4:55
+3,3:55,LAL,Max Christie,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,80,71,0.784,0.801,3:55
+3,3:42,IND,Bennedict Mathurin,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,80,73,0.845,0.802,3:53
+3,2:43,LAL,Anthony Davis,Offensive Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,84,75,0.837,0.864,3:02
+3,1:34,IND,Isaiah Jackson,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,84,79,0.804,0.747,2:02
+4,11:06,IND,T.J. McConnell,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,92,84,0.88,0.871,11:19
+4,10:47,LAL,Austin Reaves,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,92,84,0.836,0.849,10:49
+4,9:20,IND,T.J. McConnell,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,96,91,0.796,0.785,9:20
+4,8:53,IND,T.J. McConnell,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,96,91,0.809,0.793,8:55
+4,7:58,IND,Bennedict Mathurin,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,98,94,0.835,0.768,7:58
+4,7:05,LAL,D'Angelo Russell,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,100,94,0.745,0.823,7:16
+4,5:08,IND,Aaron Nesmith,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,105,99,0.932,0.893,5:08
+4,5:00,IND,Myles Turner,Offensive Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,107,99,0.945,0.919,5:08
+4,4:09,IND,Myles Turner,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,109,99,0.99,0.98,4:14
+4,3:38,IND,Obi Toppin,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,111,99,0.997,0.993,3:57
+4,2:55,LAL,LeBron James,Offensive Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,115,99,0.999,0.999,2:58
+4,2:13,IND,Obi Toppin,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,117,104,0.999,0.999,2:17
+4,2:05,LAL,Cam Reddish,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,118,104,0.997,0.999,2:13
+4,1:52,IND,Obi Toppin,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,120,106,0.999,0.999,1:52
+4,1:18,LAL,LeBron James,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,123,108,0.999,0.999,1:18
+4,29.1,LAL,Jalen Hood-Schifino,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Tyler Ford,LAL,123,108,0.999,0.999,29.1

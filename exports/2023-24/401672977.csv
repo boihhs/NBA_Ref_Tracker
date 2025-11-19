@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:54,DAL,Kyrie Irving,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,0,2,0.521,0.484,10:57
+1,8:45,DAL,Daniel Gafford,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,6,7,0.547,0.509,8:52
+1,8:10,DAL,Dereck Lively II,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,7,7,0.572,0.508,8:38
+1,8:01,MIN,Anthony Edwards,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,9,7,0.56,0.558,8:10
+1,7:33,DAL,P.J. Washington,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,11,9,0.604,0.559,7:33
+1,7:22,MIN,Karl-Anthony Towns,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,12,9,0.585,0.582,7:33
+1,7:18,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,12,11,0.516,0.559,7:18
+1,3:25,DAL,Josh Green,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,23,22,0.6,0.562,3:27
+1,35.0,MIN,Kyle Anderson,Loose Ball Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,31,26,0.603,0.641,35.0
+1,27.1,MIN,Naz Reid,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,31,26,0.604,0.603,35.0
+1,26.0,DAL,P.J. Washington,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,31,26,0.709,0.668,26.0
+2,11:04,MIN,Naz Reid,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,37,26,0.758,0.793,11:16
+2,9:30,MIN,Kyle Anderson,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,42,31,0.763,0.797,9:39
+2,7:14,MIN,Mike Conley,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,52,37,0.851,0.877,7:15
+2,5:54,MIN,Rudy Gobert,Transition Take Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,55,37,0.923,0.923,5:54
+2,5:43,MIN,Anthony Edwards,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,55,38,0.891,0.924,5:54
+2,3:26,DAL,Dereck Lively II,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,57,40,0.946,0.931,3:39
+2,3:02,DAL,Kyrie Irving,Offensive Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,58,40,0.943,0.933,3:05
+3,10:49,MIN,Rudy Gobert,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,63,48,0.885,0.911,10:55
+3,10:33,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,63,50,0.918,0.896,10:34
+3,9:16,DAL,Daniel Gafford,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,65,52,0.923,0.903,9:23
+3,9:07,DAL,Kyrie Irving,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,66,52,0.937,0.918,9:15
+3,7:02,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,70,58,0.92,0.895,7:21
+3,5:51,MIN,Rudy Gobert,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,71,63,0.787,0.786,5:52
+3,4:14,MIN,Jaden McDaniels,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,75,67,0.798,0.795,4:25
+3,2:10,DAL,Kyrie Irving,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,75,73,0.684,0.618,2:26
+3,39.1,DAL,Jaden Hardy,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,81,77,0.774,0.714,52.1
+3,21.1,MIN,Kyle Anderson,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,83,77,0.69,0.75,39.1
+3,12.1,MIN,Rudy Gobert,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,83,77,0.692,0.69,21.1
+4,7:53,DAL,Dereck Lively II,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,89,90,0.577,0.478,8:14
+4,5:31,MIN,Mike Conley,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,96,96,0.466,0.47,5:41
+4,5:17,MIN,Mike Conley,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,96,96,0.333,0.466,5:31
+4,3:31,MIN,Jaden McDaniels,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,102,99,0.551,0.68,3:44
+4,1:56,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,104,103,0.763,0.613,2:12
+4,1:44,MIN,Rudy Gobert,Shooting Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,106,103,0.588,0.725,1:56
+4,1:29,DAL,Derrick Jones Jr.,Personal Foul,Foul,Zach Zarba,Josh Tiven,Mitchell Ervin,MIN,106,103,0.894,0.807,1:42

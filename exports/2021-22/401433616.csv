@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,BOS,Grant Williams,Offensive Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,3,2,0.768,0.79,10:56
+1,9:10,BOS,Al Horford,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,3,6,0.644,0.678,9:14
+1,2:19,BOS,Jaylen Brown,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,14,22,0.469,0.493,2:19
+1,2:10,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,14,24,0.453,0.464,2:19
+1,1:19,BOS,Marcus Smart,Personal Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,15,24,0.408,0.453,1:29
+1,1:07,MIL,Bobby Portis,Offensive Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,15,24,0.478,0.408,1:19
+1,9.7,MIL,Jrue Holiday,Personal Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,18,26,0.549,0.508,27.8
+2,11:18,MIL,Jrue Holiday,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,20,28,0.54,0.499,11:35
+2,11:07,BOS,Grant Williams,Personal Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,22,28,0.524,0.523,11:18
+2,10:59,MIL,Bobby Portis,Loose Ball Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,22,28,0.553,0.553,10:59
+2,10:09,MIL,Wesley Matthews,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,24,28,0.645,0.605,10:14
+2,8:53,MIL,Wesley Matthews,Personal Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,28,30,0.691,0.651,8:57
+2,8:49,MIL,Bobby Portis,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,30,30,0.721,0.677,8:49
+2,8:02,BOS,Al Horford,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,32,30,0.686,0.725,8:19
+2,7:43,BOS,Jayson Tatum,Personal Take Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,32,31,0.699,0.7,7:43
+2,6:30,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,32,35,0.607,0.576,6:43
+2,3:17,BOS,Al Horford,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,38,39,0.565,0.615,3:20
+2,2:02,BOS,Jayson Tatum,Personal Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,42,40,0.653,0.7,2:10
+2,1:41,BOS,Marcus Smart,Offensive Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,42,41,0.666,0.699,2:02
+2,0.9,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,45,43,0.758,0.721,1.5
+3,9:36,MIL,Jrue Holiday,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,61,49,0.934,0.914,9:36
+3,8:10,MIL,Brook Lopez,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,61,51,0.921,0.9,8:17
+3,7:44,BOS,Jayson Tatum,Offensive Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,63,53,0.884,0.9,7:59
+3,5:22,MIL,Jrue Holiday,Personal Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,68,55,0.946,0.948,5:22
+3,5:11,BOS,Marcus Smart,Offensive Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,68,55,0.935,0.946,5:22
+3,4:27,MIL,George Hill,Offensive Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,68,55,0.95,0.938,4:31
+3,4:09,BOS,Jaylen Brown,Personal Take Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,68,55,0.938,0.939,4:10
+3,3:15,MIL,Grayson Allen,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,70,58,0.958,0.941,3:28
+3,1:23,BOS,Grant Williams,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,76,60,0.964,0.975,1:30
+4,10:48,BOS,Grant Williams,Personal Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,82,66,0.982,0.984,10:50
+4,9:26,MIL,Brook Lopez,Offensive Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,87,68,0.996,0.995,9:35
+4,9:06,MIL,Brook Lopez,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,87,68,0.998,0.995,9:14
+4,8:22,BOS,Marcus Smart,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,88,70,0.99,0.995,8:28
+4,8:14,MIL,Giannis Antetokounmpo,Personal Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,88,71,0.996,0.995,8:22
+4,5:38,BOS,Grant Williams,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,94,73,0.998,0.999,5:42
+4,4:58,BOS,Marcus Smart,Personal Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,97,75,0.999,0.999,4:59
+4,2:55,MIL,Pat Connaughton,Shooting Foul,Foul,James Capers,John Goble,Kane Fitzgerald,BOS,97,77,0.999,0.999,3:03

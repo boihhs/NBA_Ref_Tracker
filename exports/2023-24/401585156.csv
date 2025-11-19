@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:59,BOS,Kristaps Porzingis,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,10,2,0.699,0.661,9:59
+1,9:45,MIL,Damian Lillard,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,11,2,0.645,0.681,9:59
+1,8:32,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,13,8,0.548,0.586,8:43
+1,8:00,BOS,Jrue Holiday,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,15,12,0.6,0.563,8:08
+1,4:28,BOS,Jaylen Brown,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,23,17,0.685,0.647,4:35
+1,4:09,BOS,Sam Hauser,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,25,17,0.734,0.697,4:10
+2,9:43,BOS,Jayson Tatum,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,46,23,0.967,0.958,9:46
+2,7:54,MIL,Khris Middleton,Personal Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,56,23,0.991,0.991,8:02
+2,5:48,MIL,Brook Lopez,Personal Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,59,29,0.989,0.99,5:52
+2,2:26,MIL,Andre Jackson Jr.,Personal Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,69,31,0.995,0.995,2:38
+2,2:09,BOS,Kristaps Porzingis,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,69,33,0.996,0.996,2:20
+2,1:16,MIL,Brook Lopez,Offensive Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,73,37,0.996,0.997,1:25
+2,40.2,BOS,Jayson Tatum,Personal Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,73,37,0.997,0.997,42.0
+2,28.0,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,73,37,0.996,0.996,31.1
+3,11:12,BOS,Lamar Stevens,Personal Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,77,38,0.998,0.997,11:24
+3,10:49,MIL,Khris Middleton,Loose Ball Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,77,38,0.997,0.997,10:49
+3,10:27,BOS,Luke Kornet,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,77,38,0.998,0.998,10:33
+3,9:47,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,81,41,0.998,0.998,9:55
+3,8:25,MIL,Brook Lopez,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,85,45,0.998,0.998,8:30
+3,6:57,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,90,50,0.999,0.999,7:10
+3,5:31,BOS,Dalano Banton,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,93,53,0.999,0.999,5:35
+3,4:31,MIL,Pat Connaughton,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,98,58,0.999,0.999,4:34
+3,3:13,MIL,Pat Connaughton,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,100,61,0.999,0.999,3:13
+3,2:59,BOS,Payton Pritchard,Personal Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,100,62,0.999,0.999,3:13
+3,2:45,MIL,Pat Connaughton,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,100,62,0.999,0.999,2:50
+3,1:46,BOS,Neemias Queta,Offensive Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,104,65,0.999,0.999,1:55
+3,1:21,MIL,Andre Jackson Jr.,Personal Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,106,65,0.999,0.999,1:35
+4,10:32,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,111,76,0.999,0.999,10:39
+4,9:19,MIL,Bobby Portis,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,116,80,0.999,0.999,9:28
+4,8:54,MIL,Andre Jackson Jr.,Personal Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,116,81,0.999,0.999,8:54
+4,8:43,MIL,Thanasis Antetokounmpo,Flopping Technical,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,116,83,0.999,0.999,8:43
+4,7:40,MIL,AJ Green,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,116,84,0.999,0.999,7:52
+4,7:07,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,116,86,0.999,0.999,7:13
+4,5:13,MIL,Thanasis Antetokounmpo,Offensive Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,123,91,0.999,0.999,5:23
+4,4:41,BOS,Lamar Stevens,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,126,93,0.999,0.999,4:41
+4,4:33,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,127,93,0.999,0.999,4:41
+4,40.2,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Josh Tiven,Matt Myers,Justin Van Duyne,MIL,135,101,0.999,0.999,46.0

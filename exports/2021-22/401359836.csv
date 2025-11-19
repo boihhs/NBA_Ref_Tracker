@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:59,CLE,Collin Sexton,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,11,10,0.716,0.719,8:11
+1,6:36,CLE,Isaac Okoro,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,15,12,0.751,0.753,6:40
+1,5:32,MEM,John Konchar,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,17,14,0.73,0.729,5:32
+1,4:12,CLE,Ricky Rubio,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,21,19,0.724,0.727,4:21
+1,2:54,MEM,John Konchar,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,25,24,0.686,0.699,2:54
+2,10:17,MEM,Brandon Clarke,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,38,38,0.631,0.63,10:22
+2,7:49,CLE,Evan Mobley,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,49,40,0.852,0.853,7:54
+2,6:38,CLE,Isaac Okoro,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,54,40,0.92,0.921,6:39
+2,5:03,MEM,John Konchar,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,58,47,0.878,0.886,5:03
+2,4:40,MEM,Desmond Bane,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,58,48,0.826,0.854,4:51
+2,4:40,MEM,Desmond Bane,Technical Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,58,48,0.839,0.826,4:40
+2,4:32,CLE,Isaac Okoro,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,58,50,0.834,0.836,4:40
+2,4:28,CLE,Collin Sexton,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,58,50,0.862,0.834,4:32
+2,3:37,CLE,Kevin Love,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,60,50,0.894,0.871,3:42
+2,1:56,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,66,52,0.897,0.916,2:17
+2,29.9,MEM,Desmond Bane,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,70,59,0.848,0.874,35.0
+3,10:15,CLE,Evan Mobley,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,73,67,0.832,0.799,10:38
+3,8:48,MEM,Ja Morant,Personal Take Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,75,71,0.71,0.71,8:52
+3,8:26,CLE,Darius Garland,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,75,71,0.74,0.741,8:40
+3,7:45,CLE,Darius Garland,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,77,71,0.797,0.798,7:48
+3,4:07,MEM,John Konchar,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,83,79,0.726,0.744,4:07
+3,2:10,MEM,Ja Morant,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,90,83,0.815,0.813,2:21
+3,1:57,MEM,Kyle Anderson,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,90,83,0.763,0.815,2:10
+3,1:15,CLE,Ricky Rubio,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,92,85,0.886,0.849,1:23
+3,0.7,MEM,Ziaire Williams,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,94,89,0.721,0.793,0.7
+4,10:01,CLE,Jarrett Allen,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,104,90,0.975,0.979,10:01
+4,8:36,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,106,92,0.961,0.978,8:45
+4,7:20,MEM,Brandon Clarke,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,106,97,0.887,0.938,7:20
+4,4:24,MEM,Kyle Anderson,Shooting Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,114,105,0.896,0.941,4:49
+4,1:43,CLE,Collin Sexton,Personal Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,119,118,0.799,0.649,1:53
+4,43.7,CLE,Collin Sexton,Clear Path Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,126,118,0.998,0.994,43.9
+4,37.3,CLE,Isaac Okoro,Personal Take Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,128,118,0.999,0.994,43.7
+4,18.0,CLE,Ricky Rubio,Personal Take Foul,Foul,Michael Smith,Kevin Scott,John Conley,MEM,130,121,0.999,0.999,19.4

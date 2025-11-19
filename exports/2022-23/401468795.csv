@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,SAC,Terence Davis,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,0,0,0.777,0.806,12:00
+1,8:23,SAC,Keegan Murray,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,9,7,0.795,0.82,8:39
+1,7:23,SAC,Keegan Murray,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,13,7,0.851,0.872,7:40
+1,6:57,SAC,Domantas Sabonis,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,13,11,0.801,0.83,6:57
+1,5:37,SAC,Terence Davis,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,17,15,0.781,0.808,5:59
+1,5:21,HOU,Alperen Sengun,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,17,17,0.815,0.79,5:37
+1,3:45,SAC,Trey Lyles,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,21,21,0.729,0.761,3:45
+1,2:49,HOU,Josh Christopher,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,23,24,0.786,0.758,3:10
+1,2:17,HOU,Tari Eason,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,25,26,0.783,0.755,2:31
+1,1:48,SAC,Chimezie Metu,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,27,28,0.693,0.726,1:57
+2,11:41,HOU,Tari Eason,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,36,32,0.834,0.835,11:41
+2,9:51,SAC,De'Aaron Fox,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,41,36,0.828,0.828,9:54
+2,9:37,SAC,KZ Okpala,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,41,38,0.775,0.809,9:37
+2,9:32,HOU,Garrison Mathews,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,41,39,0.789,0.789,9:37
+2,9:03,HOU,KJ Martin,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,41,41,0.743,0.744,9:03
+2,8:20,HOU,Eric Gordon,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,41,44,0.702,0.666,8:32
+2,8:00,HOU,Garrison Mathews,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,43,47,0.673,0.633,8:06
+2,6:56,HOU,Tari Eason,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,44,47,0.692,0.62,6:58
+2,6:41,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,48,49,0.724,0.677,6:41
+2,6:06,HOU,Usman Garuba,Offensive Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,51,52,0.7,0.674,6:17
+2,3:04,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,62,55,0.874,0.845,3:04
+2,53.1,HOU,KJ Martin,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,65,63,0.788,0.748,53.1
+2,6.1,HOU,Eric Gordon,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,67,66,0.762,0.721,29.0
+3,11:39,SAC,Keegan Murray,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,69,68,0.666,0.719,11:39
+3,9:34,SAC,Keegan Murray,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,75,75,0.616,0.678,9:34
+3,9:11,HOU,Jalen Green,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,77,75,0.758,0.705,9:11
+3,8:15,SAC,Trey Lyles,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,80,75,0.745,0.789,8:33
+3,8:07,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,80,77,0.8,0.763,8:15
+3,6:21,HOU,Jalen Green,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,90,81,0.919,0.897,6:24
+3,5:19,HOU,Alperen Sengun,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,97,83,0.971,0.96,5:19
+3,4:38,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,99,83,0.979,0.976,4:38
+3,46.1,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,92,0.989,0.993,46.1
+4,11:37,SAC,Malik Monk,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,92,0.991,0.996,0.0
+4,11:09,HOU,Garrison Mathews,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,94,0.994,0.99,11:21
+4,11:09,HOU,Garrison Mathews,Technical Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,94,0.995,0.994,11:09
+4,11:09,SAC,Malik Monk,Technical Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,94,0.988,0.995,11:09
+4,11:09,SAC,Chimezie Metu,Technical Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,94,0.988,0.993,11:09
+4,11:09,HOU,Tari Eason,Technical Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,94,0.995,0.988,11:09
+4,9:47,HOU,Josh Christopher,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,97,0.988,0.986,10:02
+4,9:38,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,97,0.981,0.983,9:38
+4,9:09,SAC,Keegan Murray,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,99,0.957,0.978,9:09
+4,9:09,SAC,Harrison Barnes,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,99,0.948,0.968,9:09
+4,8:58,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,112,99,0.978,0.966,8:58
+4,8:14,HOU,Alperen Sengun,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,115,99,0.996,0.988,8:35
+4,7:05,SAC,Trey Lyles,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,119,99,0.997,0.998,7:29
+4,5:13,HOU,KJ Martin,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,125,104,0.999,0.999,5:29
+4,20.1,SAC,Richaun Holmes,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,SAC,139,113,0.999,0.978,8:58

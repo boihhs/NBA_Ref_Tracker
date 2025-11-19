@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:58,ORL,Paolo Banchero,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,2,0,0.463,0.501,11:09
+1,10:49,ATL,Jalen Johnson,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,4,2,0.543,0.501,10:49
+1,10:04,ATL,Clint Capela,Loose Ball Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,6,4,0.526,0.527,10:05
+1,9:20,ATL,De'Andre Hunter,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,9,4,0.601,0.605,9:21
+1,7:21,ORL,Moritz Wagner,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,17,4,0.771,0.771,7:27
+1,6:58,ATL,De'Andre Hunter,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,17,6,0.782,0.752,7:16
+1,5:54,ORL,Markelle Fultz,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,22,6,0.831,0.832,6:03
+1,5:50,ORL,Markelle Fultz,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,22,8,0.782,0.815,5:50
+1,3:51,ATL,Onyeka Okongwu,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,29,15,0.85,0.822,4:03
+1,2:58,ATL,Jarrett Culver,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,36,17,0.912,0.889,2:58
+1,2:36,ATL,Onyeka Okongwu,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,37,17,0.931,0.916,2:37
+1,2:28,ATL,Bogdan Bogdanovic,Offensive Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,39,17,0.935,0.927,2:36
+1,2:28,ATL,ATL,Technical Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,39,17,0.942,0.935,2:28
+1,2:28,ATL,Trae Young,Technical Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,40,17,0.951,0.944,2:28
+1,40.1,ORL,Terrence Ross,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,46,19,0.958,0.967,48.0
+1,14.1,ORL,Cole Anthony,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,48,21,0.959,0.968,31.1
+1,2.2,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,48,22,0.976,0.969,14.1
+2,9:45,ORL,Cole Anthony,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,54,28,0.959,0.969,9:49
+2,9:19,ORL,Franz Wagner,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,56,30,0.97,0.97,9:26
+2,7:28,ATL,Justin Holiday,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,59,32,0.986,0.982,7:33
+2,5:52,ATL,Justin Holiday,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,59,37,0.969,0.952,6:03
+2,4:46,ORL,Kevon Harris,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,64,40,0.964,0.969,4:46
+2,2:25,ATL,Clint Capela,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,72,48,0.984,0.979,2:30
+2,2:05,ORL,Paolo Banchero,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,74,48,0.977,0.983,2:25
+2,9.1,ORL,Paolo Banchero,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,76,61,0.879,0.909,9.1
+3,10:52,ORL,Franz Wagner,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,78,66,0.806,0.844,11:07
+3,10:30,ATL,AJ Griffin,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,78,69,0.833,0.797,10:48
+3,8:41,ORL,Markelle Fultz,Loose Ball Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,83,71,0.857,0.858,8:41
+3,7:48,ATL,AJ Griffin,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,86,73,0.923,0.903,7:49
+3,4:55,ATL,Trae Young,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,93,80,0.94,0.922,4:57
+3,2:38,ORL,Moritz Wagner,Offensive Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,100,88,0.901,0.918,2:52
+3,2:12,ORL,Cole Anthony,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,100,88,0.887,0.905,2:12
+3,1:34,ORL,Mo Bamba,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,102,90,0.876,0.909,1:35
+3,1:22,ORL,Cole Anthony,Technical Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,102,92,0.845,0.867,1:22
+3,42.1,ORL,Mo Bamba,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,102,93,0.796,0.843,51.0
+4,10:36,ORL,Admiral Schofield,Loose Ball Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,108,94,0.959,0.962,10:36
+4,9:32,ATL,Onyeka Okongwu,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,108,94,0.977,0.976,9:33
+4,8:10,ATL,Trae Young,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,110,97,0.984,0.967,8:10
+4,7:59,ORL,Cole Anthony,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,111,97,0.976,0.978,8:10
+4,6:50,ORL,Mo Bamba,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,113,101,0.936,0.964,6:58
+4,6:38,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,113,103,0.972,0.95,6:50
+4,6:28,ATL,De'Andre Hunter,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,113,103,0.973,0.972,6:38
+4,3:27,ORL,Paolo Banchero,Shooting Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,126,112,0.993,0.998,3:27
+4,1:06,ATL,Trae Young,Personal Foul,Foul,Bill Kennedy,Lauren Holtkamp,John Conley,ORL,131,122,0.998,0.993,1:11

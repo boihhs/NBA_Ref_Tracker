@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,TOR,Pascal Siakam,Loose Ball Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,2,3,0.676,0.678,10:49
+1,10:37,BKN,Nic Claxton,Offensive Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,2,3,0.654,0.676,10:37
+1,10:12,BKN,Kevin Durant,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,2,5,0.567,0.604,10:14
+1,9:25,TOR,Scottie Barnes,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,4,9,0.574,0.577,9:32
+1,9:18,TOR,Scottie Barnes,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,4,9,0.572,0.574,9:25
+1,7:58,BKN,David Duke Jr.,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,11,11,0.667,0.667,8:11
+1,7:38,TOR,Chris Boucher,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,11,13,0.676,0.643,7:51
+1,6:31,BKN,Patty Mills,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,14,16,0.573,0.612,6:33
+1,6:23,TOR,Yuta Watanabe,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,14,17,0.648,0.613,6:31
+1,5:39,BKN,Blake Griffin,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,18,19,0.596,0.632,5:51
+1,4:39,BKN,David Duke Jr.,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,20,23,0.557,0.603,4:39
+2,11:23,TOR,Justin Champagnie,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,35,32,0.751,0.708,11:23
+2,8:47,TOR,Svi Mykhailiuk,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,43,35,0.833,0.775,10:21
+2,8:45,TOR,Chris Boucher,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,43,35,0.831,0.833,8:47
+2,8:36,TOR,Pascal Siakam,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,43,35,0.844,0.833,8:36
+2,5:52,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,48,38,0.851,0.85,5:52
+2,5:03,BKN,David Duke Jr.,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,48,40,0.813,0.812,5:13
+2,4:49,TOR,Pascal Siakam,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,48,40,0.823,0.832,4:51
+2,3:24,BKN,Cam Thomas,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,52,45,0.773,0.792,3:34
+2,2:11,TOR,Gary Trent Jr.,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,57,49,0.864,0.834,2:16
+2,1:58,BKN,Nic Claxton,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,59,49,0.826,0.855,2:11
+2,26.9,TOR,Fred VanVleet,Technical Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,63,53,0.888,0.876,28.2
+3,11:09,TOR,Gary Trent Jr.,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,68,58,0.877,0.878,11:21
+3,9:51,BKN,David Duke Jr.,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,71,64,0.809,0.796,9:51
+3,9:43,TOR,Chris Boucher,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,71,66,0.767,0.769,9:51
+3,9:02,BKN,Blake Griffin,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,74,66,0.819,0.819,9:14
+3,8:28,BKN,Patty Mills,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,74,69,0.753,0.739,8:31
+3,6:24,BKN,Blake Griffin,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,81,75,0.771,0.801,6:24
+3,4:37,BKN,Kessler Edwards,Defensive 3-Seconds Technical,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,83,85,0.474,0.465,4:50
+3,4:21,TOR,Chris Boucher,Technical Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,83,86,0.495,0.419,4:21
+3,4:10,BKN,Day'Ron Sharpe,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,84,86,0.397,0.506,4:21
+3,3:31,TOR,Scottie Barnes,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,84,90,0.329,0.331,3:40
+3,2:05,TOR,Fred VanVleet,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,84,94,0.214,0.168,2:21
+4,10:30,BKN,Kessler Edwards,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,97,102,0.252,0.261,10:36
+4,10:13,TOR,Svi Mykhailiuk,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,97,102,0.393,0.305,10:25
+4,8:24,BKN,Kessler Edwards,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,104,107,0.244,0.337,8:39
+4,5:54,TOR,Pascal Siakam,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,112,111,0.727,0.618,5:59
+4,3:36,TOR,Gary Trent Jr.,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,117,114,0.791,0.773,3:40
+4,2:26,BKN,Blake Griffin,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,117,114,0.703,0.73,2:39
+4,51.2,BKN,Blake Griffin,Loose Ball Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,117,120,0.223,0.172,51.2
+5,52.7,BKN,Blake Griffin,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,128,126,0.465,0.681,1:06
+5,39.1,TOR,Chris Boucher,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,128,126,0.695,0.762,39.1
+5,10.3,TOR,Scottie Barnes,Personal Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,128,126,0.939,0.836,11.5
+5,3.3,TOR,Pascal Siakam,Personal Take Foul,Foul,Ed Malloy,J.T. Orr,Brett Nansel,BKN,130,129,0.96,0.845,5.4

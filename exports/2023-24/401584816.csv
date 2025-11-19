@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:56,BOS,Jayson Tatum,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,3,2,0.816,0.817,11:11
+1,6:21,NY,Julius Randle,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,14,15,0.776,0.778,6:35
+1,6:01,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,14,15,0.724,0.756,6:07
+1,4:20,NY,Julius Randle,Loose Ball Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,16,19,0.723,0.723,4:21
+1,38.1,BOS,Jaylen Brown,Loose Ball Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,22,24,0.659,0.698,38.1
+2,9:46,NY,Donte DiVincenzo,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,25,29,0.688,0.648,9:51
+2,8:25,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,29,33,0.585,0.637,8:25
+2,5:22,NY,Immanuel Quickley,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,32,40,0.479,0.482,5:30
+2,5:12,NY,Josh Hart,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,34,40,0.569,0.512,5:12
+2,5:01,NY,Mitchell Robinson,Offensive Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,35,40,0.575,0.545,5:12
+2,4:09,BOS,Jayson Tatum,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,35,40,0.535,0.534,4:12
+2,3:37,NY,Mitchell Robinson,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,37,42,0.586,0.529,3:37
+2,2:57,BOS,Payton Pritchard,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,40,45,0.52,0.52,3:06
+3,11:26,NY,Quentin Grimes,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,52,53,0.703,0.656,11:42
+3,11:21,BOS,Jayson Tatum,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,54,53,0.687,0.689,11:25
+3,10:48,BOS,Derrick White,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,54,53,0.684,0.685,10:50
+3,10:27,NY,Julius Randle,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,54,56,0.614,0.618,10:39
+3,10:09,BOS,Jrue Holiday,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,56,56,0.647,0.647,10:17
+3,9:48,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,56,56,0.591,0.644,9:48
+3,8:15,BOS,Kristaps Porzingis,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,58,56,0.649,0.704,8:28
+3,7:00,BOS,Kristaps Porzingis,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,61,58,0.677,0.727,7:26
+3,5:48,BOS,Derrick White,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,63,59,0.705,0.755,5:48
+3,4:02,NY,Josh Hart,Transition Take Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,68,67,0.681,0.681,4:02
+3,2:49,NY,Immanuel Quickley,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,72,72,0.694,0.635,3:05
+3,2:17,NY,Quentin Grimes,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,75,72,0.797,0.748,2:20
+3,1:43,NY,Quentin Grimes,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,77,74,0.736,0.747,1:55
+3,1.1,BOS,Payton Pritchard,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,84,74,0.883,0.915,10.1
+4,11:12,BOS,Payton Pritchard,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,86,76,0.915,0.92,11:37
+4,10:07,NY,Immanuel Quickley,Loose Ball Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,86,80,0.86,0.851,10:08
+4,7:57,NY,Josh Hart,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,94,88,0.895,0.829,7:57
+4,7:30,NY,Josh Hart,Offensive Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,95,88,0.903,0.872,7:33
+4,6:29,BOS,Jaylen Brown,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,98,88,0.931,0.951,6:29
+4,5:33,NY,Julius Randle,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,98,90,0.967,0.939,5:39
+4,4:47,BOS,Jayson Tatum,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,102,90,0.964,0.981,5:07
+4,4:47,BOS,Jayson Tatum,Technical Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,102,90,0.976,0.964,4:47
+4,3:11,BOS,Jaylen Brown,Personal Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,108,92,0.997,0.999,3:30
+4,2:35,BOS,Jayson Tatum,Loose Ball Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,108,94,0.994,0.998,2:35
+4,2:05,BOS,Jrue Holiday,Personal Take Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,111,95,0.998,0.999,2:15
+4,1:40,BOS,Kristaps Porzingis,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,111,95,0.999,0.999,2:05
+4,55.1,BOS,Kristaps Porzingis,Shooting Foul,Foul,Bill Kennedy,Gediminas Petraitis,Tyler Mirkovich,BOS,114,97,0.999,0.999,1:06

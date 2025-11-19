@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:36,ATL,Dejounte Murray,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,4,4,0.501,0.542,10:48
+1,8:14,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,8,10,0.549,0.511,8:20
+1,3:22,DEN,Nikola Jokic,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,25,18,0.767,0.735,3:30
+2,10:12,DEN,Michael Porter Jr.,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,40,32,0.767,0.741,10:21
+2,9:45,ATL,Onyeka Okongwu,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,42,34,0.724,0.768,9:45
+2,9:11,ATL,AJ Griffin,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,44,35,0.767,0.767,9:23
+2,7:38,DEN,Zeke Nnaji,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,47,42,0.696,0.694,7:56
+2,4:21,DEN,Aaron Gordon,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,55,52,0.642,0.61,4:29
+2,4:21,DEN,Aaron Gordon,Technical Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,55,52,0.666,0.642,4:21
+2,4:13,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,56,52,0.713,0.673,4:21
+2,3:57,ATL,Clint Capela,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,58,52,0.679,0.7,3:57
+2,2:18,ATL,Trae Young,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,60,57,0.564,0.611,2:26
+2,6.1,DEN,Michael Porter Jr.,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,62,65,0.492,0.44,26.0
+3,10:05,ATL,Garrison Mathews,Defensive 3-Seconds Technical,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,66,69,0.406,0.396,10:23
+3,8:54,ATL,Dejounte Murray,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,69,75,0.287,0.282,9:02
+3,8:33,DEN,Nikola Jokic,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,69,77,0.252,0.252,8:41
+3,8:23,ATL,Clint Capela,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,69,77,0.222,0.221,8:23
+3,8:11,ATL,Garrison Mathews,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,69,77,0.199,0.219,8:11
+3,5:03,ATL,Clint Capela,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,71,85,0.049,0.067,5:03
+3,4:45,ATL,Onyeka Okongwu,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,71,87,0.036,0.055,4:45
+3,2:59,DEN,Christian Braun,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,73,91,0.04,0.028,3:11
+3,2:34,ATL,Trae Young,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,75,93,0.012,0.019,2:37
+3,1:21,ATL,Wesley Matthews,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,81,98,0.016,0.027,1:21
+3,34.1,DEN,Zeke Nnaji,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,86,99,0.066,0.052,49.1
+3,25.1,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,86,99,0.034,0.05,25.1
+3,25.1,ATL,Trae Young,Technical Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,86,100,0.031,0.031,25.1
+3,25.1,ATL,ATL,Technical Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,86,100,0.031,0.031,25.1
+3,25.1,ATL,Trae Young,Technical Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,86,100,0.031,0.031,25.1
+4,10:30,DEN,Peyton Watson,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,88,105,0.017,0.015,10:36
+4,10:24,DEN,Peyton Watson,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,88,105,0.017,0.017,10:30
+4,9:42,DEN,Christian Braun,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,90,108,0.015,0.007,9:42
+4,9:25,DEN,Zeke Nnaji,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,91,108,0.024,0.014,9:32
+4,9:13,DEN,Julian Strawther,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,91,108,0.023,0.024,9:25
+4,7:42,ATL,Saddiq Bey,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,95,110,0.011,0.013,7:42
+4,4:35,DEN,Michael Porter Jr.,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,104,118,0.018,0.011,4:55
+4,4:17,ATL,Clint Capela,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,106,120,0.002,0.007,4:17
+4,3:39,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,108,121,0.001,0.005,4:01
+4,3:26,DEN,Nikola Jokic,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,108,122,0.006,0.004,3:26
+4,2:12,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,112,122,0.003,0.011,2:27
+4,1:45,ATL,Clint Capela,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,115,122,0.016,0.037,1:52
+4,53.0,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,118,124,0.013,0.042,1:01
+4,30.1,DEN,Jamal Murray,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,121,126,0.191,0.093,32.0
+4,22.1,ATL,Onyeka Okongwu,Personal Take Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,122,126,0.026,0.146,28.1
+4,3.1,ATL,Saddiq Bey,Personal Take Foul,Foul,Sean Corbin,Ben Taylor,Brent Haskill,ATL,122,128,0.001,0.002,6.0

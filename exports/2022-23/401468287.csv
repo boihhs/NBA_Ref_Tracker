@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:13,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,13,5,0.535,0.576,8:16
+1,6:50,SAC,Domantas Sabonis,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,19,8,0.704,0.66,6:50
+1,6:24,SAC,Trey Lyles,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,20,8,0.747,0.711,6:39
+1,6:01,ORL,Chuma Okeke,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,22,10,0.671,0.715,6:01
+1,5:35,ORL,Bol Bol,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,24,11,0.717,0.717,5:44
+1,4:03,ORL,Jalen Suggs,Offensive Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,26,18,0.596,0.622,4:09
+1,2:28,ORL,Franz Wagner,Loose Ball Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,26,23,0.422,0.462,2:28
+2,11:34,SAC,Richaun Holmes,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,33,25,0.65,0.617,11:49
+2,10:02,SAC,Malik Monk,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,37,27,0.728,0.712,10:02
+2,9:53,SAC,Keegan Murray,Offensive Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,39,27,0.762,0.736,10:02
+2,9:44,ORL,Terrence Ross,Offensive Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,39,27,0.738,0.762,9:53
+2,7:24,SAC,Domantas Sabonis,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,45,36,0.739,0.699,7:40
+2,6:29,SAC,Kevin Huerter,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,47,39,0.719,0.678,6:46
+2,6:00,ORL,Paolo Banchero,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,47,41,0.565,0.622,6:00
+2,2:58,ORL,R.J. Hampton,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,55,43,0.745,0.782,3:14
+2,1:37,SAC,Domantas Sabonis,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,60,43,0.923,0.898,1:37
+2,1:10,SAC,De'Aaron Fox,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,61,45,0.923,0.899,1:21
+2,4.8,ORL,Jalen Suggs,Personal Take Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,65,47,0.898,0.922,15.3
+3,11:51,ORL,Franz Wagner,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,65,47,0.923,0.925,12:00
+3,10:52,ORL,Bol Bol,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,67,47,0.936,0.952,11:00
+3,9:13,ORL,Jalen Suggs,Offensive Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,67,54,0.854,0.875,9:30
+3,7:45,ORL,Bol Bol,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,69,59,0.791,0.789,7:56
+3,7:05,ORL,Jalen Suggs,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,71,61,0.748,0.797,7:12
+3,5:41,ORL,Wendell Carter Jr.,Technical Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,73,65,0.719,0.745,5:41
+3,3:15,ORL,Paolo Banchero,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,75,72,0.536,0.568,3:15
+3,2:33,SAC,Domantas Sabonis,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,75,74,0.598,0.531,2:50
+3,1:54,ORL,Kevon Harris,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,77,76,0.413,0.483,2:03
+3,1:28,SAC,Davion Mitchell,Offensive Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,77,78,0.439,0.39,1:39
+3,51.0,SAC,Davion Mitchell,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,77,78,0.514,0.439,54.5
+4,11:40,ORL,Franz Wagner,Offensive Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,77,83,0.181,0.204,12:00
+4,11:04,SAC,Malik Monk,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,79,86,0.214,0.143,11:04
+4,10:24,SAC,Malik Monk,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,80,89,0.127,0.12,10:44
+4,10:12,SAC,Terence Davis,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,80,89,0.178,0.127,10:24
+4,10:12,SAC,Terence Davis,Technical Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,80,89,0.147,0.178,10:12
+4,7:32,ORL,Jalen Suggs,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,90,92,0.262,0.415,7:43
+4,4:02,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,96,95,0.41,0.54,4:10
+4,3:50,SAC,Kevin Huerter,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,96,96,0.668,0.539,4:02
+4,3:08,SAC,De'Aaron Fox,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,96,98,0.522,0.396,3:26
+4,51.9,ORL,Bol Bol,Shooting Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,106,102,0.689,0.838,59.5
+5,3:03,ORL,Wendell Carter Jr.,Away from Play Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,111,115,0.163,0.227,3:03
+5,2:23,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,111,116,0.098,0.147,2:25
+5,46.4,SAC,Harrison Barnes,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,113,119,0.155,0.058,54.8
+5,28.3,SAC,Trey Lyles,Offensive Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,115,119,0.168,0.111,41.3
+5,21.5,ORL,Bol Bol,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,117,119,0.089,0.222,25.0
+5,20.5,ORL,Wendell Carter Jr.,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,117,119,0.087,0.089,21.5
+5,14.1,ORL,Franz Wagner,Personal Take Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,119,121,0.07,0.173,14.7
+5,11.7,SAC,De'Aaron Fox,Personal Foul,Foul,Leon Wood,David Guthrie,Lauren Holtkamp,ORL,119,123,0.239,0.107,14.1

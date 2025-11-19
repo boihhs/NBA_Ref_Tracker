@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:04,PHX,Torrey Craig,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,7,4,0.686,0.652,7:07
+1,2:55,PHX,Cameron Payne,Loose Ball Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,19,9,0.806,0.806,2:55
+1,1:41,PHX,Dario Saric,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,21,11,0.835,0.808,1:58
+2,10:34,PHX,Jock Landale,Defensive 3-Seconds Technical,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,27,16,0.83,0.832,10:48
+2,10:29,NY,Evan Fournier,Offensive Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,27,16,0.816,0.832,10:34
+2,10:18,PHX,Jock Landale,Offensive Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,27,16,0.833,0.816,10:29
+2,9:28,PHX,Josh Okogie,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,29,18,0.861,0.835,9:45
+2,8:31,NY,Jalen Brunson,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,34,20,0.846,0.871,8:45
+2,7:39,PHX,Deandre Ayton,Offensive Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,39,20,0.945,0.935,7:48
+2,3:55,NY,Julius Randle,Offensive Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,52,22,0.993,0.994,4:19
+2,2:55,PHX,Torrey Craig,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,52,24,0.994,0.992,3:14
+2,2:05,NY,Mitchell Robinson,Loose Ball Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,54,27,0.989,0.989,2:05
+2,1:18,PHX,Mikal Bridges,Loose Ball Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,54,29,0.991,0.988,1:18
+2,1:14,PHX,Mikal Bridges,Personal Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,54,29,0.991,0.991,1:18
+3,11:15,NY,Julius Randle,Loose Ball Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,56,31,0.988,0.988,11:15
+3,10:08,NY,Julius Randle,Personal Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,59,33,0.991,0.991,10:13
+3,9:48,PHX,Mikal Bridges,Personal Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,59,33,0.993,0.993,10:02
+3,6:19,NY,Immanuel Quickley,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,63,37,0.993,0.995,6:31
+3,6:00,PHX,Chris Paul,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,63,39,0.996,0.994,6:19
+3,5:03,PHX,Damion Lee,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,64,43,0.992,0.988,5:19
+3,4:24,PHX,Torrey Craig,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,67,43,0.997,0.995,4:30
+3,3:44,NY,Jalen Brunson,Personal Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,72,43,0.998,0.999,3:56
+3,3:28,PHX,Ish Wainright,Personal Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,72,43,0.999,0.999,3:36
+3,2:14,PHX,Damion Lee,Personal Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,76,49,0.999,0.999,2:29
+3,2:02,NY,Isaiah Hartenstein,Personal Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,77,49,0.998,0.999,2:14
+4,10:22,NY,Immanuel Quickley,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,83,62,0.995,0.997,10:22
+4,9:45,PHX,Ish Wainright,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,83,65,0.996,0.993,9:52
+4,7:15,PHX,Chris Paul,Shooting Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,94,73,0.999,0.999,7:42
+4,6:25,NY,Jalen Brunson,Personal Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,96,73,0.999,0.999,6:37
+4,3:25,NY,Immanuel Quickley,Loose Ball Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,98,73,0.999,0.999,3:25
+4,28.2,NY,Ryan Arcidiacono,Personal Take Foul,Foul,Michael Smith,Ben Taylor,Jonathan Sterling,NY,102,83,0.999,0.999,33.0

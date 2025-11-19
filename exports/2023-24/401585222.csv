@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:18,SA,Keldon Johnson,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,17,22,0.512,0.512,5:24
+1,4:25,SA,Julian Champagnie,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,21,24,0.601,0.562,4:35
+1,3:46,SA,Malaki Branham,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,25,26,0.631,0.612,3:49
+1,3:32,WSH,Tyus Jones,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,27,26,0.635,0.638,3:46
+1,2:36,SA,Cedi Osman,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,27,28,0.647,0.608,2:44
+1,2:06,SA,Zach Collins,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,28,30,0.619,0.578,2:14
+2,11:45,SA,Keldon Johnson,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,36,37,0.639,0.584,12:00
+2,10:57,WSH,Marvin Bagley III,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,41,39,0.632,0.679,10:57
+2,10:07,WSH,Landry Shamet,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,46,39,0.772,0.772,10:19
+2,8:29,WSH,Corey Kispert,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,49,45,0.699,0.699,8:29
+2,6:50,WSH,Landry Shamet,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,55,49,0.73,0.772,6:50
+2,4:49,SA,Blake Wesley,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,57,53,0.723,0.725,4:56
+2,4:07,WSH,Tyus Jones,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,59,55,0.652,0.695,4:11
+2,3:36,WSH,Jordan Poole,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,59,57,0.588,0.637,3:40
+2,53.1,WSH,Deni Avdija,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,63,67,0.371,0.424,1:06
+3,11:04,WSH,Deni Avdija,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,68,74,0.342,0.335,11:06
+3,10:41,SA,Jeremy Sochan,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,68,74,0.373,0.374,10:44
+3,9:38,SA,Jeremy Sochan,Loose Ball Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,71,74,0.477,0.476,9:38
+3,9:12,WSH,Marvin Bagley III,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,71,74,0.381,0.433,9:19
+3,8:48,WSH,Marvin Bagley III,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,73,78,0.332,0.396,8:48
+3,8:39,SA,Jeremy Sochan,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,75,78,0.499,0.433,8:39
+3,6:49,SA,Jeremy Sochan,Loose Ball Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,80,83,0.521,0.461,6:49
+3,5:43,SA,Julian Champagnie,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,84,87,0.516,0.455,5:52
+3,4:52,WSH,Jordan Poole,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,86,87,0.426,0.489,4:54
+3,1:31,SA,Zach Collins,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,94,97,0.461,0.427,1:31
+3,1:08,SA,Doug McDermott,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,96,97,0.59,0.519,1:10
+3,41.1,WSH,Bilal Coulibaly,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,98,97,0.49,0.564,55.0
+4,10:43,WSH,Patrick Baldwin Jr.,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,102,102,0.49,0.51,10:57
+4,10:24,SA,Doug McDermott,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,104,104,0.607,0.499,10:24
+4,8:26,WSH,Patrick Baldwin Jr.,Offensive Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,112,104,0.873,0.903,8:38
+4,6:59,WSH,Jordan Poole,Technical Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,117,106,0.942,0.955,7:01
+4,6:26,WSH,Patrick Baldwin Jr.,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,117,106,0.955,0.959,6:29
+4,5:48,WSH,Patrick Baldwin Jr.,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,117,106,0.957,0.962,5:55
+4,5:44,WSH,Marvin Bagley III,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,117,108,0.899,0.946,5:44
+4,5:26,SA,Victor Wembanyama,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,117,109,0.957,0.92,5:44
+4,36.1,SA,Victor Wembanyama,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,125,126,0.524,0.458,36.1
+4,28.1,WSH,Marvin Bagley III,Shooting Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,127,126,0.385,0.544,36.1
+4,20.1,WSH,Jordan Poole,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,127,128,0.151,0.309,20.1
+4,6.1,WSH,Jordan Poole,Personal Foul,Foul,Zach Zarba,Sean Corbin,Suyash Mehta,WSH,127,130,0.016,0.049,6.1

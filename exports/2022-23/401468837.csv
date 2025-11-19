@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:45,PHI,James Harden,Personal Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,0,0,0.41,0.409,10:54
+1,9:19,POR,Jerami Grant,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,2,5,0.286,0.318,9:25
+1,8:31,POR,Jusuf Nurkic,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,2,7,0.246,0.276,8:38
+1,7:35,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,2,11,0.199,0.198,7:35
+1,3:17,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,10,20,0.225,0.195,3:23
+1,1:12,PHI,Montrezl Harrell,Offensive Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,12,26,0.125,0.113,1:18
+1,31.1,PHI,Matisse Thybulle,Personal Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,14,26,0.184,0.158,37.0
+2,11:45,POR,Josh Hart,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,14,26,0.118,0.141,12:00
+2,10:29,PHI,Matisse Thybulle,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,14,32,0.09,0.074,10:39
+2,8:23,POR,Jusuf Nurkic,Personal Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,19,40,0.038,0.037,8:23
+2,8:11,PHI,Montrezl Harrell,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,19,40,0.055,0.044,8:14
+2,4:47,POR,Josh Hart,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,26,47,0.024,0.031,4:54
+2,3:13,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,28,50,0.033,0.029,3:13
+2,1:59,PHI,Tobias Harris,Offensive Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,30,52,0.027,0.022,2:25
+2,23.1,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,32,55,0.026,0.019,33.1
+2,8.1,POR,Drew Eubanks,Personal Take Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,34,55,0.017,0.023,23.1
+3,9:56,PHI,De'Anthony Melton,Personal Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,39,59,0.028,0.028,9:56
+3,9:29,PHI,De'Anthony Melton,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,39,59,0.037,0.026,9:32
+3,5:03,PHI,P.J. Tucker,Offensive Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,51,75,0.005,0.004,5:20
+3,5:03,PHI,P.J. Tucker,Technical Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,51,75,0.007,0.004,5:03
+3,4:53,PHI,Joel Embiid,Personal Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,52,75,0.007,0.007,5:03
+3,4:23,PHI,James Harden,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,52,75,0.01,0.007,4:25
+3,2:10,POR,Drew Eubanks,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,59,75,0.016,0.025,2:18
+3,1:56,PHI,Montrezl Harrell,Personal Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,59,75,0.045,0.031,2:07
+3,1:31,PHI,Georges Niang,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,63,75,0.09,0.062,1:31
+3,56.1,PHI,Matisse Thybulle,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,63,77,0.065,0.045,1:10
+3,4.1,POR,Jerami Grant,Personal Take Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,65,77,0.036,0.053,16.1
+4,11:03,PHI,Montrezl Harrell,Loose Ball Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,67,82,0.029,0.026,11:03
+4,10:13,PHI,Montrezl Harrell,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,67,85,0.017,0.01,10:29
+4,8:14,POR,Josh Hart,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,73,87,0.009,0.016,8:15
+4,7:00,POR,Josh Hart,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,75,90,0.004,0.008,7:11
+4,6:03,POR,Damian Lillard,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,80,94,0.006,0.013,6:03
+4,5:42,PHI,Tobias Harris,Personal Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,80,95,0.008,0.007,5:42
+4,5:33,PHI,De'Anthony Melton,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,80,95,0.015,0.008,5:42
+4,5:20,POR,Jusuf Nurkic,Personal Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,83,95,0.008,0.018,5:33
+4,3:34,PHI,Joel Embiid,Loose Ball Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,86,95,0.081,0.045,3:34
+4,2:44,POR,Anfernee Simons,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,88,97,0.009,0.021,2:46
+4,2:32,PHI,James Harden,Personal Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,88,99,0.026,0.013,2:44
+4,51.0,POR,Jusuf Nurkic,Personal Foul,Foul,Marat Kogut,Tony Brothers,Matt Kallio,POR,95,103,0.002,0.011,1:07

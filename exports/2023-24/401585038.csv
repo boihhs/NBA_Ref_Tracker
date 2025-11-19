@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:25,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,0,0,0.728,0.728,11:25
+1,9:47,NO,Jonas Valanciunas,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,4,2,0.744,0.745,10:02
+1,7:40,MEM,Desmond Bane,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,6,10,0.641,0.624,7:45
+1,5:51,MEM,Ja Morant,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,11,12,0.702,0.663,5:51
+1,2:25,NO,Naji Marshall,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,16,20,0.521,0.564,2:30
+1,36.0,MEM,Ziaire Williams,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,16,24,0.508,0.466,45.1
+1,10.0,MEM,Santi Aldama,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,17,24,0.533,0.493,27.0
+1,5.0,NO,Zion Williamson,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,19,24,0.473,0.52,10.0
+2,9:46,MEM,Marcus Smart,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,21,24,0.634,0.595,9:50
+2,6:34,NO,Dyson Daniels,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,33,31,0.669,0.717,6:34
+2,5:19,NO,Brandon Ingram,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,33,31,0.641,0.685,5:22
+2,2:47,NO,Brandon Ingram,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,40,38,0.63,0.676,2:48
+2,1:39,NO,Trey Murphy III,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,42,42,0.586,0.642,1:39
+2,1:22,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,42,43,0.655,0.609,1:39
+3,10:47,NO,CJ McCollum,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,50,48,0.662,0.664,10:49
+3,10:14,NO,CJ McCollum,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,52,48,0.724,0.724,10:29
+3,7:53,MEM,Desmond Bane,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,59,52,0.847,0.832,7:53
+3,7:03,MEM,Bismack Biyombo,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,61,54,0.833,0.833,7:14
+3,6:26,NO,Herbert Jones,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,61,57,0.666,0.717,6:30
+3,5:57,MEM,Bismack Biyombo,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,61,59,0.683,0.684,5:57
+3,5:41,NO,Naji Marshall,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,63,59,0.664,0.717,5:49
+3,4:34,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,67,61,0.813,0.783,4:44
+3,4:20,MEM,Bismack Biyombo,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,67,61,0.851,0.813,4:34
+3,47.2,MEM,Santi Aldama,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,77,65,0.965,0.95,1:01
+3,5.0,NO,Brandon Ingram,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,80,65,0.957,0.971,9.1
+4,11:06,MEM,Marcus Smart,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,80,67,0.98,0.967,11:14
+4,10:11,MEM,Ja Morant,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,81,73,0.906,0.899,10:26
+4,9:18,MEM,Xavier Tillman,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,83,75,0.942,0.906,9:42
+4,8:50,NO,Dyson Daniels,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,86,77,0.888,0.914,8:50
+4,8:20,MEM,Desmond Bane,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,86,78,0.933,0.915,8:20
+4,7:28,NO,Dyson Daniels,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,90,80,0.938,0.942,7:28
+4,5:46,NO,Jonas Valanciunas,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,93,87,0.807,0.893,5:46
+4,5:33,NO,Jonas Valanciunas,Offensive Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,93,88,0.808,0.851,5:46
+4,5:25,MEM,Bismack Biyombo,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,93,88,0.905,0.856,5:25
+4,4:43,NO,Zion Williamson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,95,88,0.829,0.896,4:55
+4,3:01,NO,Zion Williamson,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,99,93,0.804,0.878,3:09
+4,1:44,NO,Trey Murphy III,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,101,95,0.833,0.908,1:45
+4,1:12,NO,Jonas Valanciunas,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,101,97,0.686,0.812,1:17
+4,0.1,NO,Jonas Valanciunas,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,103,102,0.249,0.957,0.1
+5,4:08,MEM,Marcus Smart,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,103,103,0.544,0.534,4:08
+5,3:59,MEM,Desmond Bane,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,103,103,0.555,0.544,4:08
+5,3:53,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,103,103,0.682,0.555,3:59
+5,3:41,NO,Zion Williamson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,104,103,0.428,0.552,3:50
+5,3:18,NO,CJ McCollum,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,104,106,0.248,0.387,3:18
+5,2:55,MEM,Desmond Bane,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,104,107,0.444,0.307,3:18
+5,2:25,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,106,107,0.554,0.484,2:30
+5,16.1,MEM,Marcus Smart,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,109,113,0.279,0.149,23.1
+5,4.1,NO,CJ McCollum,Personal Take Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,112,115,0.012,0.087,9.1
+5,3.2,NO,Dyson Daniels,Personal Take Foul,Foul,Mitchell Ervin,J.B. DeRosa,Brandon Schwab,NO,112,115,0.01,0.012,4.1

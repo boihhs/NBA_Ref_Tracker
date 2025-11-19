@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:15,DAL,Luka Doncic,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,6,2,0.512,0.509,10:23
+1,8:39,DAL,Luka Doncic,Defensive 3-Seconds Technical,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,10,5,0.549,0.541,8:53
+1,8:36,DAL,Grant Williams,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,10,5,0.544,0.542,8:39
+1,8:02,DAL,Grant Williams,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,12,5,0.598,0.596,8:15
+1,8:02,PHX,Jusuf Nurkic,Technical Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,12,5,0.643,0.598,8:02
+1,8:02,PHX,Kevin Durant,Double Technical Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,12,5,0.616,0.643,8:02
+1,7:27,DAL,Dereck Lively II,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,15,7,0.586,0.624,7:29
+1,6:38,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,17,9,0.588,0.629,6:40
+1,6:17,DAL,Derrick Jones Jr.,Offensive Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,17,11,0.576,0.604,6:38
+1,4:17,DAL,Dante Exum,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,19,15,0.487,0.527,4:29
+1,4:08,PHX,Jusuf Nurkic,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,19,17,0.502,0.504,4:17
+1,4:07,PHX,Josh Okogie,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,19,17,0.5,0.502,4:08
+1,1:37,DAL,Jaden Hardy,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,28,24,0.494,0.537,2:00
+2,11:41,PHX,Drew Eubanks,Offensive Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,34,25,0.709,0.694,12:00
+2,10:23,DAL,Maxi Kleber,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,40,25,0.798,0.832,10:39
+2,10:08,PHX,Kevin Durant,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,40,26,0.858,0.829,10:21
+2,8:06,PHX,Kevin Durant,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,46,32,0.868,0.839,8:23
+2,7:47,DAL,Grant Williams,Offensive Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,48,32,0.86,0.877,7:54
+2,7:38,DAL,Dereck Lively II,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,48,32,0.861,0.86,7:47
+2,7:11,PHX,Jusuf Nurkic,Flopping Technical,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,48,32,0.881,0.864,7:11
+2,6:23,PHX,Grayson Allen,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,50,35,0.879,0.881,7:11
+2,5:03,PHX,Jusuf Nurkic,Transition Take Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,51,40,0.793,0.768,5:06
+2,4:20,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,54,44,0.727,0.773,4:20
+2,3:52,DAL,Maxi Kleber,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,54,45,0.678,0.722,3:59
+2,3:16,PHX,Bradley Beal,Offensive Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,56,47,0.753,0.726,3:25
+2,2:50,DAL,Josh Green,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,56,47,0.684,0.729,2:53
+2,1:56,DAL,Maxi Kleber,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,56,50,0.589,0.639,1:57
+3,10:38,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,58,65,0.198,0.243,10:38
+3,12:00,DAL,Luka Doncic,Technical Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,58,58,0.414,0.244,10:36
+3,9:28,PHX,Bradley Beal,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,60,65,0.329,0.305,9:30
+3,8:46,DAL,Grant Williams,Technical Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,61,69,0.166,0.213,8:52
+3,8:28,DAL,Derrick Jones Jr.,Technical Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,63,70,0.191,0.21,8:31
+3,7:54,PHX,Jusuf Nurkic,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,63,72,0.182,0.183,8:06
+3,5:37,PHX,Jusuf Nurkic,Offensive Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,63,80,0.038,0.03,5:41
+3,5:01,PHX,Kevin Durant,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,65,82,0.042,0.028,5:01
+3,4:23,PHX,Chimezie Metu,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,68,86,0.031,0.02,4:23
+3,3:13,PHX,Grayson Allen,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,70,89,0.021,0.013,3:13
+4,9:27,PHX,Kevin Durant,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,83,104,0.002,0.003,9:42
+4,9:25,PHX,Bradley Beal,Personal Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,83,104,0.002,0.002,9:27
+4,9:19,PHX,Grayson Allen,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,85,104,0.008,0.004,9:19
+4,7:25,PHX,Bradley Beal,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,88,107,0.006,0.003,7:41
+4,1:16,PHX,Yuta Watanabe,Shooting Foul,Foul,Sean Corbin,David Guthrie,Brett Nansel,DAL,103,130,0.001,0.001,1:16

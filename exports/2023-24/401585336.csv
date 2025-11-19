@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:29,LAC,Ivica Zubac,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,2,0,0.384,0.348,10:33
+1,10:19,MIA,Haywood Highsmith,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,4,0,0.374,0.371,10:29
+1,8:51,LAC,Ivica Zubac,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,7,3,0.445,0.406,8:58
+1,1:39,MIA,Josh Richardson,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,20,15,0.408,0.449,1:44
+2,11:47,MIA,Josh Richardson,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,22,19,0.405,0.419,12:00
+2,11:30,LAC,Amir Coffey,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,22,19,0.479,0.436,11:33
+2,1:04,LAC,Amir Coffey,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,41,43,0.383,0.335,1:17
+3,11:43,MIA,Haywood Highsmith,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,43,43,0.324,0.387,12:00
+3,10:45,LAC,Paul George,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,43,48,0.25,0.251,10:59
+3,10:21,MIA,Haywood Highsmith,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,45,48,0.281,0.279,10:36
+3,8:47,LAC,Terance Mann,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,47,50,0.367,0.316,9:04
+3,4:27,LAC,James Harden,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,56,64,0.162,0.163,4:44
+3,4:07,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,59,64,0.219,0.219,4:23
+3,2:06,MIA,Kevin Love,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,63,69,0.14,0.18,2:12
+3,40.1,LAC,Norman Powell,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,65,69,0.317,0.285,40.1
+4,10:54,MIA,Caleb Martin,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,70,69,0.382,0.468,11:14
+4,10:05,MIA,Caleb Martin,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,72,71,0.455,0.468,10:24
+4,9:52,MIA,Haywood Highsmith,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,72,74,0.26,0.361,9:52
+4,9:48,LAC,Amir Coffey,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,72,75,0.317,0.305,9:52
+4,9:00,MIA,Haywood Highsmith,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,74,75,0.273,0.359,9:11
+4,8:52,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,74,75,0.273,0.273,9:00
+4,5:19,MIA,Terry Rozier,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,78,88,0.015,0.012,5:19
+4,4:18,LAC,Paul George,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,80,91,0.03,0.012,4:18
+4,2:55,MIA,Terry Rozier,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,81,91,0.004,0.01,3:07
+4,2:16,LAC,Kawhi Leonard,Offensive Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,83,92,0.02,0.014,2:36
+4,1:04,MIA,Bam Adebayo,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,87,94,0.006,0.016,1:10
+4,41.1,MIA,Terry Rozier,Personal Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,89,96,0.003,0.01,46.1
+4,21.1,MIA,Jimmy Butler III,Personal Take Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,92,98,0.003,0.021,37.0
+4,13.1,LAC,Kawhi Leonard,Shooting Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,94,99,0.09,0.015,13.1
+4,7.2,MIA,Terry Rozier,Personal Take Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,95,99,0.007,0.045,13.1
+4,1.1,MIA,Caleb Martin,Personal Take Foul,Foul,John Goble,Brett Nansel,Ray Acosta,MIA,95,101,0.001,0.001,1.1

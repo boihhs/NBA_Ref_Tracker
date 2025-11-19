@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:14,LAC,Ivica Zubac,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,6,2,0.962,0.967,8:18
+1,7:27,LAC,Eric Gordon,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,8,5,0.956,0.962,7:36
+1,6:22,POR,Trendon Watford,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,12,11,0.961,0.955,6:33
+1,3:54,LAC,Norman Powell,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,16,18,0.915,0.92,3:54
+1,3:21,POR,John Butler Jr.,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,18,23,0.906,0.888,3:21
+1,3:07,LAC,Mason Plumlee,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,19,23,0.881,0.899,3:21
+1,2:45,POR,Justin Minaya,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,19,25,0.893,0.884,2:45
+1,2:05,POR,Jabari Walker,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,21,27,0.896,0.88,2:12
+1,1:32,LAC,Robert Covington,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,22,29,0.82,0.845,1:35
+1,51.1,POR,John Butler Jr.,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,24,31,0.875,0.856,58.0
+2,11:03,POR,Jabari Walker,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,28,35,0.835,0.836,11:08
+2,10:27,LAC,Terance Mann,Loose Ball Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,31,35,0.86,0.859,10:27
+2,6:52,LAC,Mason Plumlee,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,46,48,0.847,0.872,6:52
+2,6:32,POR,Skylar Mays,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,46,49,0.876,0.859,6:52
+2,6:11,LAC,Eric Gordon,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,48,49,0.844,0.87,6:32
+2,2:58,POR,Trendon Watford,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,55,64,0.663,0.67,3:07
+2,2:40,LAC,Norman Powell,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,57,64,0.642,0.691,2:51
+2,1:05,LAC,Norman Powell,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,62,69,0.607,0.663,1:22
+2,51.1,POR,Shaquille Harrison,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,62,70,0.703,0.657,1:03
+3,10:07,LAC,Ivica Zubac,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,71,70,0.796,0.831,10:10
+3,9:57,POR,Trendon Watford,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,73,72,0.862,0.829,9:57
+3,8:46,POR,Nate Williams,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,80,75,0.905,0.908,9:02
+3,8:41,POR,Kevin Knox II,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,80,75,0.923,0.905,8:46
+3,7:23,POR,Nate Williams,Loose Ball Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,84,79,0.92,0.9,7:23
+3,7:15,POR,Kevin Knox II,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,84,79,0.919,0.92,7:23
+3,7:01,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,86,79,0.916,0.914,7:15
+3,6:50,LAC,Eric Gordon,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,86,82,0.849,0.881,6:50
+3,2:26,LAC,Norman Powell,Defensive 3-Seconds Technical,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,102,92,0.946,0.943,2:46
+3,2:20,POR,John Butler Jr.,Loose Ball Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,102,92,0.966,0.954,2:20
+4,11:49,POR,Jabari Walker,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,109,96,0.988,0.978,12:00
+4,11:10,LAC,Bones Hyland,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,111,96,0.976,0.986,11:18
+4,9:35,POR,John Butler Jr.,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,113,97,0.995,0.991,9:35
+4,9:29,LAC,Mason Plumlee,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,114,97,0.993,0.994,9:35
+4,9:13,POR,Shaquille Harrison,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,114,97,0.997,0.995,9:16
+4,9:00,POR,Justin Minaya,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,114,97,0.998,0.996,9:10
+4,8:53,LAC,Mason Plumlee,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,116,97,0.997,0.997,9:00
+4,8:02,POR,Justin Minaya,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,116,101,0.996,0.993,8:11
+4,1:41,LAC,Terance Mann,Personal Take Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,132,119,0.995,0.999,1:45
+4,1:01,LAC,Xavier Moon,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Ray Acosta,LAC,134,121,0.999,0.999,1:01

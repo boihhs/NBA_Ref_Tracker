@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:06,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,2,0,0.593,0.593,11:09
+1,6:51,MIL,Jrue Holiday,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,14,11,0.658,0.614,6:51
+1,5:35,LAC,Serge Ibaka,Defensive 3-Seconds Technical,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,18,14,0.646,0.639,5:46
+1,1:47,MIL,Wesley Matthews,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,24,23,0.571,0.585,1:49
+1,53.4,LAC,Norman Powell,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,28,25,0.572,0.611,1:00
+2,10:53,LAC,Norman Powell,Offensive Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,37,30,0.718,0.743,11:10
+2,10:05,LAC,Robert Covington,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,37,32,0.626,0.667,10:10
+2,9:49,LAC,Norman Powell,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,37,36,0.533,0.586,9:49
+2,9:11,MIL,Khris Middleton,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,40,37,0.64,0.64,9:17
+2,7:46,MIL,Rodney Hood,Loose Ball Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,40,37,0.626,0.641,7:46
+2,7:15,LAC,Isaiah Hartenstein,Loose Ball Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,40,37,0.625,0.61,7:15
+2,5:24,LAC,Amir Coffey,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,40,39,0.503,0.551,5:32
+2,4:56,LAC,Nicolas Batum,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,40,40,0.469,0.517,5:01
+2,3:21,LAC,Reggie Jackson,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,45,47,0.401,0.45,3:23
+2,2:38,MIL,Wesley Matthews,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,45,51,0.352,0.351,2:48
+2,1:49,MIL,Greg Monroe,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,45,53,0.332,0.285,2:07
+2,32.0,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,49,55,0.309,0.309,35.9
+2,16.0,MIL,Bobby Portis,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,49,57,0.323,0.274,32.0
+3,11:27,MIL,Bobby Portis,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,51,60,0.24,0.238,11:32
+3,11:10,LAC,Marcus Morris Sr.,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,51,60,0.212,0.211,11:19
+3,10:08,LAC,Reggie Jackson,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,53,65,0.144,0.155,10:08
+3,9:57,MIL,Pat Connaughton,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,53,65,0.155,0.154,9:57
+3,9:15,LAC,Nicolas Batum,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,53,68,0.061,0.079,9:18
+3,7:31,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,59,79,0.017,0.024,7:43
+3,7:24,MIL,Bobby Portis,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,59,81,0.027,0.019,7:31
+3,5:19,MIL,Khris Middleton,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,65,86,0.026,0.018,5:25
+3,4:45,LAC,Norman Powell,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,69,89,0.017,0.017,4:53
+3,2:43,LAC,Marcus Morris Sr.,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,75,97,0.004,0.006,2:55
+3,1:43,MIL,Jordan Nwora,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,78,99,0.014,0.009,1:49
+4,11:29,LAC,Robert Covington,Offensive Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,81,99,0.009,0.013,11:42
+4,11:07,MIL,Khris Middleton,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,81,99,0.014,0.012,11:11
+4,10:24,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,86,101,0.024,0.02,10:24
+4,8:53,LAC,Luke Kennard,Loose Ball Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,92,101,0.089,0.094,8:53
+4,8:47,LAC,Serge Ibaka,Personal Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,92,101,0.085,0.089,8:53
+4,7:28,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,92,105,0.054,0.032,7:53
+4,36.3,LAC,Robert Covington,Shooting Foul,Foul,Scott Foster,Brett Nansel,Ray Acosta,LAC,111,136,0.001,0.001,43.5

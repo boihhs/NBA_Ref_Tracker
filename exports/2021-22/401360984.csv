@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:01,GS,Jordan Poole,Offensive Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,0,5,0.302,0.324,11:13
+1,8:41,GS,Andrew Wiggins,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,6,9,0.33,0.372,8:41
+1,7:41,GS,Klay Thompson,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,8,12,0.289,0.324,8:04
+1,6:59,UTAH,Mike Conley,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,8,17,0.237,0.237,7:09
+1,6:07,UTAH,Jordan Clarkson,Personal Take Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,10,20,0.215,0.216,6:07
+1,3:02,GS,Nemanja Bjelica,Loose Ball Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,18,25,0.252,0.251,3:02
+1,1:02,GS,Otto Porter Jr.,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,23,28,0.262,0.298,1:09
+1,3.1,UTAH,Danuel House Jr.,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,23,30,0.31,0.273,19.1
+2,6:46,UTAH,Jordan Clarkson,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,28,47,0.061,0.063,7:00
+2,6:41,GS,Andrew Wiggins,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,28,47,0.041,0.052,6:42
+2,5:46,UTAH,Royce O'Neale,Personal Take Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,31,49,0.068,0.068,5:48
+2,5:33,GS,Draymond Green,Loose Ball Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,31,49,0.058,0.057,5:33
+2,4:48,GS,Jonathan Kuminga,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,31,49,0.057,0.055,4:48
+2,2:36,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,37,53,0.103,0.082,2:41
+2,37.8,GS,Draymond Green,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,45,55,0.127,0.157,49.5
+2,30.6,GS,Andrew Wiggins,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,45,55,0.127,0.127,37.8
+3,10:57,GS,Draymond Green,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,47,58,0.132,0.13,10:59
+3,10:28,UTAH,Donovan Mitchell,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,47,61,0.095,0.096,10:46
+3,8:28,UTAH,Bojan Bogdanovic,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,54,71,0.049,0.05,8:46
+3,7:58,UTAH,Rudy Gobert,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,56,71,0.08,0.07,8:02
+3,7:16,GS,Jordan Poole,Loose Ball Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,58,71,0.08,0.079,7:16
+3,6:36,GS,Jordan Poole,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,60,73,0.068,0.092,6:36
+3,6:12,GS,Jordan Poole,Technical Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,63,74,0.095,0.109,6:18
+3,4:16,GS,Andrew Wiggins,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,67,77,0.089,0.118,4:27
+3,3:04,GS,Kevon Looney,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,70,79,0.1,0.132,3:16
+3,1:02,GS,Andre Iguodala,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,75,85,0.068,0.095,1:08
+3,34.7,UTAH,Jordan Clarkson,Personal Take Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,78,87,0.186,0.139,35.1
+4,11:04,GS,Nemanja Bjelica,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,81,90,0.078,0.1,11:20
+4,10:43,GS,Klay Thompson,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,81,92,0.054,0.057,10:43
+4,10:32,GS,Draymond Green,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,81,92,0.033,0.054,10:43
+4,8:34,UTAH,Rudy Gobert,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,87,101,0.03,0.014,8:34
+4,7:38,GS,Jordan Poole,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,87,103,0.002,0.005,7:40
+4,7:26,UTAH,Bojan Bogdanovic,Personal Take Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,87,103,0.009,0.007,7:26
+4,4:22,UTAH,Donovan Mitchell,Loose Ball Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,99,103,0.254,0.233,4:22
+4,2:10,UTAH,Mike Conley,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,105,103,0.819,0.696,2:20
+4,2:01,GS,Klay Thompson,Personal Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,105,103,0.494,0.626,2:03
+4,1:44,UTAH,Rudy Gobert,Shooting Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,105,104,0.766,0.638,2:01
+4,19.2,UTAH,Mike Conley,Personal Take Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,107,106,0.852,0.69,20.2
+4,7.8,UTAH,Royce O'Neale,Personal Take Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,109,106,0.979,0.922,9.9
+4,2.8,GS,Gary Payton II,Loose Ball Foul,Foul,Matt Boland,J.T. Orr,Tre Maddox,GS,111,106,0.963,0.988,2.8

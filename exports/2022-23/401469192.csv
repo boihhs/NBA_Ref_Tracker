@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:00,SAC,De'Aaron Fox,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,6,6,0.645,0.607,8:26
+1,7:04,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,9,6,0.619,0.656,7:08
+1,5:47,SAC,Keegan Murray,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,11,10,0.666,0.629,6:00
+1,4:27,SAC,Kevin Huerter,Personal Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,15,15,0.601,0.601,4:33
+1,3:06,SAC,Malik Monk,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,21,15,0.778,0.746,3:14
+1,2:45,CHI,Andre Drummond,Offensive Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,23,15,0.765,0.787,2:53
+1,8.0,SAC,Kessler Edwards,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,28,25,0.71,0.673,28.1
+1,5.1,CHI,Ayo Dosunmu,Personal Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,30,25,0.662,0.696,8.0
+2,11:45,SAC,Malik Monk,Personal Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,30,25,0.723,0.726,11:49
+2,10:55,SAC,Alex Len,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,30,27,0.711,0.674,11:01
+2,9:39,CHI,Patrick Williams,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,39,27,0.835,0.846,9:51
+2,8:18,CHI,Coby White,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,45,32,0.842,0.866,8:29
+2,4:19,CHI,Patrick Beverley,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,52,40,0.83,0.858,4:24
+2,1:52,SAC,De'Aaron Fox,Personal Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,54,46,0.838,0.805,1:52
+2,1:00,CHI,Ayo Dosunmu,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,54,48,0.706,0.756,1:00
+2,45.1,SAC,Domantas Sabonis,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,54,48,0.795,0.756,58.1
+3,11:10,CHI,Patrick Beverley,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,58,50,0.746,0.787,11:18
+3,9:24,SAC,Harrison Barnes,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,58,55,0.72,0.674,9:26
+3,7:42,CHI,Ayo Dosunmu,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,60,60,0.465,0.522,7:44
+3,6:55,SAC,De'Aaron Fox,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,62,62,0.591,0.52,6:55
+3,6:42,CHI,Patrick Beverley,Personal Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,63,62,0.56,0.561,6:55
+3,5:04,CHI,Patrick Beverley,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,65,64,0.495,0.558,5:10
+3,3:20,CHI,Dalen Terry,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,73,74,0.434,0.512,3:20
+3,3:02,CHI,Patrick Williams,Offensive Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,73,75,0.422,0.467,3:20
+3,2:25,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,73,75,0.351,0.419,2:28
+3,1:50,SAC,Kessler Edwards,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,73,77,0.438,0.372,1:59
+3,57.1,SAC,Domantas Sabonis,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,77,83,0.314,0.232,57.1
+3,4.0,CHI,Coby White,Personal Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,80,83,0.288,0.358,19.2
+4,10:15,CHI,Andre Drummond,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,86,85,0.452,0.545,10:37
+4,7:19,CHI,Andre Drummond,Personal Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,94,94,0.462,0.481,7:33
+4,6:48,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,97,94,0.727,0.718,6:48
+4,6:39,SAC,Domantas Sabonis,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,99,94,0.858,0.772,6:39
+4,5:12,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,99,99,0.396,0.549,5:12
+4,3:50,SAC,Harrison Barnes,Flagrant Foul Type 1,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,102,102,0.542,0.458,3:50
+4,2:29,CHI,Patrick Beverley,Personal Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,103,105,0.169,0.286,2:32
+4,2:21,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,103,105,0.165,0.169,2:29
+4,1:00,SAC,Domantas Sabonis,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,105,110,0.227,0.105,1:09
+4,38.0,SAC,Harrison Barnes,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,106,112,0.131,0.058,41.0
+4,24.1,CHI,Patrick Beverley,Personal Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,108,112,0.028,0.081,29.1
+4,16.2,CHI,DeMar DeRozan,Personal Take Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,110,113,0.041,0.1,17.1
+4,12.1,SAC,Harrison Barnes,Shooting Foul,Foul,Zach Zarba,Matt Myers,J.B. DeRosa,CHI,113,114,0.527,0.291,12.1

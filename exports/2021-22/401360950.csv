@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:29,MIL,Brook Lopez,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,2,0,0.626,0.626,11:29
+1,9:26,MIL,Wesley Matthews,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,4,5,0.567,0.524,9:26
+1,7:15,PHI,James Harden,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,11,9,0.579,0.597,7:15
+1,6:44,PHI,Joel Embiid,Offensive Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,11,13,0.491,0.519,6:53
+1,4:15,MIL,Bobby Portis,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,11,18,0.379,0.433,4:25
+1,1:02,MIL,Grayson Allen,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,19,27,0.381,0.343,1:10
+1,35.7,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,24,27,0.52,0.451,35.7
+1,29.8,PHI,Danny Green,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,24,27,0.409,0.451,33.9
+2,11:20,PHI,Paul Millsap,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,24,27,0.446,0.445,11:30
+2,10:05,PHI,Paul Millsap,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,24,29,0.383,0.383,10:09
+2,10:02,PHI,Tyrese Maxey,Loose Ball Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,24,29,0.382,0.383,10:02
+2,7:59,PHI,Danny Green,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,31,34,0.391,0.438,7:59
+2,7:41,PHI,Shake Milton,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,31,34,0.39,0.391,7:59
+2,5:42,MIL,Bobby Portis,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,41,37,0.679,0.681,5:44
+2,5:32,MIL,Brook Lopez,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,41,37,0.719,0.679,5:42
+2,3:43,MIL,Bobby Portis,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,46,41,0.749,0.709,3:53
+2,3:19,PHI,Tobias Harris,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,49,41,0.722,0.763,3:29
+2,2:53,MIL,Serge Ibaka,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,49,44,0.751,0.71,3:09
+2,2:16,PHI,Tobias Harris,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,54,44,0.779,0.813,2:28
+3,11:42,PHI,Joel Embiid,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,61,53,0.752,0.8,11:42
+3,11:29,MIL,Brook Lopez,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,63,54,0.84,0.801,11:29
+3,9:10,MIL,Wesley Matthews,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,68,62,0.794,0.755,9:12
+3,8:37,PHI,James Harden,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,70,62,0.782,0.783,8:37
+3,7:56,PHI,James Harden,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,72,62,0.799,0.837,8:06
+3,3:37,PHI,Shake Milton,Away from Play Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,82,71,0.85,0.885,3:37
+3,2:22,MIL,Giannis Antetokounmpo,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,82,72,0.894,0.894,2:33
+3,1:12,MIL,Grayson Allen,Loose Ball Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,85,77,0.893,0.856,1:12
+3,33.6,MIL,George Hill,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,85,79,0.846,0.799,53.4
+3,5.7,MIL,Pat Connaughton,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,87,79,0.901,0.861,25.4
+4,10:41,PHI,Danny Green,Flagrant Foul Type 1,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,91,83,0.843,0.849,10:48
+4,6:46,PHI,Shake Milton,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,100,101,0.292,0.401,6:56
+4,6:26,MIL,Brook Lopez,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,102,102,0.582,0.455,6:26
+4,5:43,PHI,Tobias Harris,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,102,105,0.177,0.261,5:46
+4,5:14,PHI,Tobias Harris,Shooting Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,102,107,0.096,0.148,5:19
+4,1:42,MIL,Giannis Antetokounmpo,Personal Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,111,114,0.415,0.249,1:57
+4,13.2,PHI,Georges Niang,Personal Take Foul,Foul,James Capers,Mitchell Ervin,Brandon Adair,PHI,116,117,0.129,0.297,15.0

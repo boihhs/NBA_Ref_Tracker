@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:44,HOU,Christian Wood,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,5,0,0.574,0.611,10:49
+1,9:28,HOU,Daniel Theis,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,7,3,0.551,0.588,9:38
+1,8:17,HOU,Eric Gordon,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,9,5,0.602,0.59,8:19
+1,5:13,HOU,Jalen Green,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,17,11,0.606,0.645,5:17
+1,5:04,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,17,11,0.607,0.606,5:13
+1,4:25,WSH,Montrezl Harrell,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,17,14,0.595,0.596,4:31
+1,4:15,WSH,Montrezl Harrell,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,20,14,0.691,0.647,4:15
+1,1:49,HOU,David Nwaba,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,24,19,0.584,0.625,2:00
+1,1:35,WSH,Anthony Gill,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,24,21,0.637,0.597,1:49
+1,27.4,HOU,Alperen Sengun,Loose Ball Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,30,21,0.691,0.729,27.4
+2,11:22,HOU,Alperen Sengun,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,30,23,0.642,0.709,11:26
+2,11:14,WSH,Daniel Gafford,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,30,25,0.697,0.659,11:22
+2,10:39,WSH,Daniel Gafford,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,31,28,0.643,0.603,10:50
+2,8:42,WSH,Daniel Gafford,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,36,34,0.575,0.575,8:42
+2,8:33,WSH,Aaron Holiday,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,36,34,0.617,0.575,8:42
+2,7:30,HOU,Kevin Porter Jr.,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,37,34,0.588,0.572,7:30
+2,6:54,WSH,Bradley Beal,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,37,36,0.59,0.544,7:04
+2,5:02,HOU,Daniel Theis,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,43,43,0.482,0.516,5:02
+2,4:32,WSH,Corey Kispert,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,45,46,0.532,0.482,4:39
+2,2:20,WSH,Kyle Kuzma,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,50,51,0.533,0.481,2:36
+2,1:37,HOU,David Nwaba,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,51,51,0.432,0.482,1:46
+2,1:25,WSH,Corey Kispert,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,51,53,0.501,0.449,1:37
+2,33.3,WSH,Spencer Dinwiddie,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,56,58,0.432,0.416,33.3
+2,18.2,HOU,Jae'Sean Tate,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,57,58,0.396,0.449,33.3
+3,11:47,HOU,Christian Wood,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,57,60,0.327,0.399,12:00
+3,10:52,HOU,Daniel Theis,Offensive Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,63,66,0.375,0.41,11:00
+3,9:12,WSH,Bradley Beal,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,68,71,0.406,0.369,9:12
+3,8:22,WSH,Kyle Kuzma,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,69,73,0.367,0.367,8:34
+3,7:13,WSH,Daniel Gafford,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,71,73,0.47,0.4,7:13
+3,4:54,WSH,Bradley Beal,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,77,84,0.297,0.245,5:04
+3,3:40,HOU,Jae'Sean Tate,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,82,84,0.39,0.39,3:51
+3,3:36,HOU,Christian Wood,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,82,84,0.39,0.39,3:40
+3,2:49,HOU,Jalen Green,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,82,84,0.356,0.388,3:04
+3,2:34,HOU,Alperen Sengun,Loose Ball Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,82,86,0.244,0.347,2:49
+3,2:01,WSH,Aaron Holiday,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,84,87,0.454,0.387,2:05
+3,1:46,HOU,Jae'Sean Tate,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,86,87,0.361,0.427,2:01
+3,1:20,HOU,D.J. Augustin,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,89,88,0.451,0.522,1:30
+4,5:58,HOU,Josh Christopher,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,103,105,0.238,0.335,6:09
+4,5:07,WSH,Jaime Echenique,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,108,109,0.526,0.389,5:07
+4,4:44,HOU,Josh Christopher,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,108,109,0.272,0.391,5:04
+4,10:50,WSH,Corey Kispert,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,91,96,0.278,0.197,4:44
+4,10:34,HOU,Alperen Sengun,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,91,96,0.214,0.233,10:46
+4,10:34,HOU,Jae'Sean Tate,Away from Play Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,91,96,0.214,0.214,10:34
+4,2:51,WSH,Jay Huff,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,111,116,0.103,0.218,10:29
+4,2:14,WSH,Jordan Goodwin,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,113,116,0.139,0.057,2:14
+4,10:20,HOU,Alperen Sengun,Loose Ball Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,91,97,0.143,0.146,2:05
+4,1:08,WSH,Jordan Goodwin,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,117,116,0.434,0.255,1:08
+4,55.0,HOU,KJ Martin,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,117,116,0.139,0.187,9:51
+4,9:49,HOU,KJ Martin,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,91,97,0.138,0.254,55.0
+4,14.0,WSH,Jordan Schakel,Personal Take Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,121,119,0.5,0.317,18.6
+4,9:44,HOU,Jalen Green,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,91,97,0.137,0.5,14.0
+4,5.4,WSH,Isaiah Todd,Personal Take Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,122,119,0.935,0.22,9:25
+4,1.2,WSH,Isaiah Todd,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,123,119,0.98,0.946,5.4
+4,8:37,WSH,Aaron Holiday,Personal Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,93,98,0.336,0.261,8:39
+4,8:35,WSH,Jaime Echenique,Shooting Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,93,98,0.336,0.336,8:37
+4,7:00,WSH,Davis Bertans,Personal Take Foul,Foul,Eric Lewis,Mitchell Ervin,Jenna Reneau,HOU,97,103,0.268,0.194,7:03

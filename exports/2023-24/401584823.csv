@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,TOR,Jakob Poeltl,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,0,0,0.467,0.507,11:18
+1,9:29,TOR,Gradey Dick,Offensive Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,8,4,0.604,0.631,9:40
+1,8:51,TOR,Jakob Poeltl,Defensive 3-Seconds Technical,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,8,4,0.613,0.605,9:06
+1,6:36,MIL,Bobby Portis,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,8,16,0.323,0.322,6:47
+1,5:54,TOR,Dennis Schroder,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,10,19,0.273,0.272,5:56
+1,2:56,TOR,Pascal Siakam,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,14,25,0.191,0.22,3:10
+1,2:20,TOR,Chris Boucher,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,16,27,0.189,0.218,2:35
+1,50.1,MIL,Pat Connaughton,Offensive Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,20,34,0.172,0.156,1:00
+1,6.1,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,20,36,0.162,0.136,16.1
+1,0.0,MIL,Thanasis Antetokounmpo,Flopping Technical,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,20,36,0.138,0.131,0.0
+2,11:04,MIL,Khris Middleton,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,23,38,0.148,0.146,11:23
+2,10:25,MIL,MarJon Beauchamp,Loose Ball Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,23,38,0.145,0.13,10:28
+2,9:17,MIL,MarJon Beauchamp,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,27,42,0.154,0.126,9:17
+2,8:38,MIL,Bobby Portis,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,28,42,0.173,0.156,8:38
+2,8:21,TOR,Precious Achiuwa,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,29,42,0.129,0.156,8:23
+2,6:39,TOR,Precious Achiuwa,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,34,47,0.15,0.149,6:39
+2,6:09,MIL,Malik Beasley,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,34,47,0.198,0.167,6:24
+2,5:04,TOR,Dennis Schroder,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,38,49,0.181,0.181,5:08
+2,5:00,TOR,Jakob Poeltl,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,38,49,0.152,0.181,5:04
+2,4:35,TOR,Gradey Dick,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,40,50,0.17,0.205,4:48
+2,2:02,MIL,Damian Lillard,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,43,59,0.12,0.097,2:15
+2,1:12,TOR,Scottie Barnes,Offensive Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,45,62,0.067,0.08,1:30
+2,14.1,TOR,Dennis Schroder,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,45,65,0.027,0.039,35.1
+3,8:52,MIL,Khris Middleton,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,51,80,0.003,0.003,9:03
+3,8:38,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,51,80,0.004,0.003,8:52
+3,7:14,MIL,Andre Jackson Jr.,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,55,85,0.001,0.001,7:23
+3,6:55,TOR,Precious Achiuwa,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,58,85,0.002,0.003,7:04
+3,6:55,TOR,TOR,Technical Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,58,85,0.002,0.002,6:55
+3,5:53,TOR,Gradey Dick,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,58,88,0.001,0.001,6:05
+3,5:45,MIL,Malik Beasley,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,58,90,0.001,0.001,5:53
+3,4:57,MIL,Bobby Portis,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,62,93,0.001,0.001,4:57
+3,4:38,MIL,Pat Connaughton,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,63,93,0.001,0.001,4:40
+3,4:02,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,65,96,0.001,0.001,4:21
+3,3:17,TOR,Jakob Poeltl,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,66,98,0.001,0.001,3:24
+3,2:12,MIL,Bobby Portis,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,68,98,0.001,0.001,2:14
+3,5.1,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,78,100,0.006,0.004,16.0
+3,2.1,TOR,Malachi Flynn,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,79,100,0.002,0.003,5.1
+4,11:45,MIL,Brook Lopez,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,79,100,0.005,0.005,11:45
+4,11:01,MIL,Cameron Payne,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,81,100,0.009,0.008,11:01
+4,10:47,MIL,Bobby Portis,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,81,100,0.013,0.008,10:47
+4,8:28,MIL,Khris Middleton,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,87,104,0.018,0.01,8:34
+4,7:31,MIL,Brook Lopez,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,90,107,0.014,0.008,7:39
+4,6:25,TOR,Jakob Poeltl,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,96,112,0.004,0.008,6:25
+4,3:31,TOR,Scottie Barnes,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,103,123,0.001,0.001,3:36
+4,2:56,TOR,Gradey Dick,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,103,126,0.001,0.001,3:00
+4,2:22,MIL,Cameron Payne,Personal Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,103,128,0.001,0.001,2:32
+4,15.1,MIL,Lindell Wigginton,Shooting Foul,Foul,Sean Corbin,Gediminas Petraitis,Robert Hussey,TOR,110,128,0.001,0.001,38.0

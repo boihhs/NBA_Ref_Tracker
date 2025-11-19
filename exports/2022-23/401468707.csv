@@ -1,0 +1,65 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:05,CHI,Patrick Williams,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,0,3,0.664,0.631,11:06
+1,10:38,CHI,DeMar DeRozan,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,3,3,0.711,0.675,10:38
+1,9:42,CHI,Ayo Dosunmu,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,3,7,0.596,0.601,9:54
+1,8:11,CHI,Nikola Vucevic,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,3,9,0.578,0.541,8:22
+1,7:05,CLE,Caris LeVert,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,7,14,0.437,0.479,7:08
+1,6:49,CHI,Patrick Williams,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,7,16,0.491,0.452,7:05
+1,5:06,CLE,Caris LeVert,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,16,21,0.479,0.52,5:22
+1,2:28,CHI,Coby White,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,22,30,0.491,0.449,2:34
+1,1:21,CLE,Isaac Okoro,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,23,30,0.395,0.442,1:28
+1,6.1,CHI,Alex Caruso,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,26,34,0.454,0.438,30.0
+2,11:35,CHI,Andre Drummond,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,27,34,0.479,0.458,11:35
+2,10:58,CLE,Robin Lopez,Loose Ball Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,30,36,0.454,0.45,10:58
+2,9:23,CHI,Andre Drummond,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,30,42,0.293,0.296,9:31
+2,9:11,CLE,Jarrett Allen,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,30,42,0.229,0.266,9:16
+2,7:41,CLE,Kevin Love,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,32,45,0.193,0.229,8:03
+2,7:22,CHI,Zach LaVine,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,32,46,0.226,0.228,7:39
+2,5:23,CHI,Nikola Vucevic,Offensive Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,35,50,0.185,0.162,5:28
+2,3:29,CLE,Jarrett Allen,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,39,50,0.224,0.244,3:29
+2,1:50,CLE,Donovan Mitchell,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,39,57,0.075,0.086,1:50
+2,1:50,CLE,CLE,Technical Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,39,57,0.075,0.075,1:50
+2,1:21,CLE,Isaac Okoro,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,41,60,0.052,0.07,1:33
+2,39.1,CHI,Alex Caruso,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,46,61,0.163,0.125,39.1
+2,8.0,CLE,Donovan Mitchell,Offensive Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,47,64,0.088,0.107,29.1
+2,8.0,CLE,Donovan Mitchell,Technical Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,47,64,0.08,0.088,8.0
+3,11:49,CHI,Ayo Dosunmu,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,47,65,0.086,0.084,12:00
+3,11:26,CHI,DeMar DeRozan,Defensive 3-Seconds Technical,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,47,65,0.079,0.085,11:35
+3,11:22,CHI,Ayo Dosunmu,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,48,65,0.099,0.098,11:26
+3,10:54,CHI,Zach LaVine,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,48,65,0.121,0.095,11:00
+3,7:01,CHI,Ayo Dosunmu,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,57,73,0.107,0.082,7:12
+3,6:11,CHI,Patrick Williams,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,64,75,0.203,0.151,6:11
+3,5:27,CHI,Alex Caruso,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,65,77,0.166,0.148,5:27
+3,4:40,CHI,Alex Caruso,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,68,80,0.158,0.14,4:40
+3,4:25,CLE,Jarrett Allen,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,70,80,0.142,0.162,4:25
+3,4:02,CLE,Isaac Okoro,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,70,84,0.062,0.089,4:02
+3,3:34,CHI,Zach LaVine,Offensive Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,73,85,0.127,0.105,3:40
+3,3:25,CHI,Zach LaVine,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,75,85,0.204,0.151,3:25
+3,2:44,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,76,87,0.164,0.144,2:44
+3,2:15,CLE,Cedi Osman,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,78,89,0.114,0.112,2:16
+3,1:59,CHI,CHI,Technical Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,80,89,0.219,0.161,1:59
+3,1:50,CLE,Jarrett Allen,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,81,89,0.146,0.227,1:59
+3,1:44,CLE,Isaac Okoro,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,81,89,0.144,0.146,1:50
+3,1:36,CHI,Nikola Vucevic,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,81,91,0.207,0.159,1:44
+3,1:20,CHI,Derrick Jones Jr.,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,83,91,0.284,0.22,1:22
+3,12.2,CLE,Isaac Okoro,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,91,95,0.299,0.379,12.2
+4,11:19,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,91,98,0.312,0.235,11:36
+4,10:41,CLE,Cedi Osman,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,93,98,0.259,0.27,10:49
+4,9:34,CLE,Kevin Love,Loose Ball Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,97,100,0.331,0.346,9:34
+4,8:50,CLE,Caris LeVert,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,99,102,0.313,0.333,9:06
+4,7:59,CLE,Caris LeVert,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,99,104,0.176,0.265,7:59
+4,7:00,CLE,Kevin Love,Away from Play Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,103,108,0.132,0.238,7:00
+4,6:33,CLE,Kevin Love,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,106,109,0.202,0.282,6:49
+4,5:21,CHI,DeMar DeRozan,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,108,113,0.263,0.156,5:21
+4,4:48,CHI,Alex Caruso,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,108,113,0.221,0.203,4:51
+4,4:39,CHI,DeMar DeRozan,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,110,113,0.448,0.26,4:39
+4,3:26,CHI,Alex Caruso,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,112,117,0.289,0.2,3:46
+4,1:42,CLE,Isaac Okoro,Loose Ball Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,119,122,0.113,0.198,1:42
+4,1:08,CHI,DeMar DeRozan,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,122,123,0.604,0.461,1:08
+4,18.1,CLE,Kevin Love,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,125,126,0.146,0.313,22.1
+4,7.1,CLE,Donovan Mitchell,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,127,128,0.089,0.254,8.2
+4,4.1,CHI,Ayo Dosunmu,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,127,130,0.167,0.122,7.1
+5,1:10,CLE,Cedi Osman,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,140,130,0.977,0.994,1:11
+5,52.0,CHI,Zach LaVine,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,140,132,0.997,0.987,1:05
+5,41.1,CLE,Kevin Love,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,143,132,0.994,0.998,44.1
+5,31.0,CHI,Derrick Jones Jr.,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Suyash Mehta,CLE,143,134,0.999,0.997,41.1

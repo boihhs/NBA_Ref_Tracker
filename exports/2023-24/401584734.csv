@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:03,DAL,Dereck Lively II,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,0,0,0.521,0.481,11:07
+1,6:46,DAL,Luka Doncic,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,11,17,0.351,0.306,6:46
+1,6:21,DAL,Dereck Lively II,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,12,17,0.395,0.358,6:28
+1,5:40,MEM,Desmond Bane,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,12,17,0.295,0.331,5:46
+1,5:31,MEM,Marcus Smart,Offensive Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,12,19,0.282,0.308,5:40
+1,5:27,DAL,Jaden Hardy,Offensive Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,12,19,0.308,0.308,5:31
+1,4:30,MEM,John Konchar,Loose Ball Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,16,19,0.381,0.38,4:30
+2,11:45,DAL,Maxi Kleber,Offensive Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,36,30,0.662,0.646,12:00
+2,10:11,DAL,Maxi Kleber,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,38,32,0.707,0.667,10:25
+2,10:04,MEM,Jake LaRavia,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,39,32,0.667,0.666,10:07
+2,9:35,MEM,Jake LaRavia,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,39,35,0.539,0.582,9:39
+2,7:14,MEM,Jake LaRavia,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,41,40,0.497,0.496,7:17
+2,6:22,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,41,45,0.419,0.374,6:40
+2,6:10,MEM,Derrick Rose,Loose Ball Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,42,45,0.329,0.375,6:10
+2,5:46,DAL,Dwight Powell,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,42,48,0.359,0.316,5:59
+2,4:52,MEM,John Konchar,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,45,48,0.327,0.373,5:05
+2,3:28,MEM,Desmond Bane,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,49,51,0.354,0.401,3:35
+2,2:49,DAL,Dereck Lively II,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,51,54,0.425,0.369,2:49
+2,1:14,DAL,Dereck Lively II,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,55,61,0.353,0.306,1:26
+3,10:58,DAL,Dereck Lively II,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,61,69,0.281,0.236,11:01
+3,10:50,MEM,Marcus Smart,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,63,69,0.266,0.262,10:58
+3,10:24,DAL,Dwight Powell,Defensive 3-Seconds Technical,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,63,69,0.285,0.295,10:33
+3,10:04,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,64,71,0.213,0.262,10:04
+3,9:31,DAL,Grant Williams,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,66,73,0.284,0.23,9:31
+3,8:42,MEM,Ziaire Williams,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,68,75,0.208,0.257,8:42
+3,7:35,MEM,Marcus Smart,Offensive Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,70,75,0.286,0.319,7:39
+3,1:45,MEM,Jaren Jackson Jr.,Flagrant Foul Type 1,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,84,91,0.192,0.18,1:48
+3,1:38,MEM,Ziaire Williams,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,84,93,0.093,0.126,1:45
+3,37.1,DAL,Seth Curry,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,86,97,0.133,0.099,56.2
+4,10:59,DAL,Seth Curry,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,88,99,0.087,0.081,11:11
+4,9:18,DAL,Luka Doncic,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,90,104,0.032,0.029,9:20
+4,7:14,DAL,Luka Doncic,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,93,107,0.023,0.02,7:16
+4,3:42,MEM,David Roddy,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,106,115,0.016,0.034,3:54
+4,3:34,DAL,Luka Doncic,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,106,117,0.043,0.02,3:42
+4,1:58,MEM,Marcus Smart,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,108,119,0.001,0.004,2:02
+4,1:51,MEM,Marcus Smart,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,108,119,0.001,0.001,1:58
+4,1:23,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,110,120,0.001,0.005,1:37
+4,55.1,MEM,David Roddy,Personal Take Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,110,121,0.001,0.001,1:11
+4,38.0,MEM,Marcus Smart,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Adair,MEM,110,123,0.001,0.001,41.2

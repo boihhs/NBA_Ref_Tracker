@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,PHI,Shake Milton,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,0,2,0.509,0.508,11:19
+1,9:55,ATL,De'Andre Hunter,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,2,5,0.524,0.504,9:55
+1,9:09,PHI,Joel Embiid,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,4,7,0.484,0.477,9:20
+1,7:45,PHI,P.J. Tucker,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,11,10,0.54,0.579,8:01
+1,5:29,ATL,John Collins,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,16,18,0.562,0.523,5:44
+1,3:42,PHI,P.J. Tucker,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,18,25,0.353,0.351,3:42
+1,3:05,PHI,Danuel House Jr.,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,18,25,0.313,0.351,3:14
+1,3:27,PHI,Tobias Harris,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,18,25,0.314,0.299,2:41
+1,1:49,ATL,AJ Griffin,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,20,29,0.363,0.32,2:01
+1,27.9,ATL,AJ Griffin,Offensive Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,20,32,0.243,0.222,39.1
+2,9:44,ATL,Onyeka Okongwu,Offensive Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,28,37,0.301,0.277,9:50
+2,9:30,PHI,Paul Reed,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,28,37,0.276,0.275,9:30
+2,9:30,PHI,Danuel House Jr.,Technical Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,28,37,0.257,0.276,9:30
+2,8:52,ATL,Dejounte Murray,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,28,37,0.34,0.298,9:12
+2,7:38,PHI,Tobias Harris,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,30,39,0.229,0.266,7:40
+2,6:57,ATL,De'Andre Hunter,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,30,40,0.264,0.263,6:59
+2,6:31,PHI,De'Anthony Melton,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,32,40,0.248,0.286,6:33
+2,5:47,ATL,Onyeka Okongwu,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,34,44,0.258,0.257,5:55
+2,5:17,PHI,De'Anthony Melton,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,34,44,0.193,0.228,5:28
+2,5:08,PHI,Joel Embiid,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,34,44,0.193,0.193,5:17
+2,3:32,PHI,Matisse Thybulle,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,36,50,0.107,0.133,3:39
+2,3:24,ATL,De'Andre Hunter,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,38,51,0.187,0.15,3:24
+2,2:34,PHI,Matisse Thybulle,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,41,51,0.176,0.215,2:45
+3,8:53,PHI,De'Anthony Melton,Offensive Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,56,64,0.23,0.26,8:56
+3,7:34,ATL,John Collins,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,58,64,0.318,0.318,7:46
+3,6:18,PHI,De'Anthony Melton,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,63,69,0.274,0.273,6:30
+3,3:42,ATL,Justin Holiday,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,70,75,0.332,0.332,3:47
+3,3:09,ATL,Onyeka Okongwu,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,74,75,0.535,0.454,3:09
+3,1:11,PHI,Georges Niang,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,80,80,0.424,0.495,1:20
+3,1.5,ATL,Trent Forrest,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,80,81,0.565,0.495,7.5
+4,10:57,ATL,Justin Holiday,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,81,85,0.351,0.341,11:08
+4,7:23,ATL,Dejounte Murray,Offensive Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,91,90,0.608,0.545,7:35
+4,5:07,PHI,Joel Embiid,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,91,92,0.339,0.476,5:27
+4,5:07,PHI,Georges Niang,Double Technical Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,91,92,0.418,0.339,5:07
+4,3:42,ATL,John Collins,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,93,96,0.44,0.318,4:02
+4,2:52,ATL,Clint Capela,Offensive Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,95,98,0.295,0.229,3:02
+4,2:42,ATL,Dejounte Murray,Shooting Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,95,98,0.384,0.295,2:52
+4,45.3,PHI,Georges Niang,Personal Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,99,100,0.166,0.324,56.3
+4,5.1,ATL,John Collins,Personal Take Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,101,100,0.938,0.78,7.0
+4,4.0,ATL,Clint Capela,Personal Take Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,101,100,0.951,0.854,5.1
+4,3.3,PHI,P.J. Tucker,Personal Take Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,103,100,0.874,0.934,4.0
+4,1.9,ATL,Clint Capela,Personal Take Foul,Foul,Bill Kennedy,Marat Kogut,Brandon Adair,PHI,103,101,0.988,0.947,3.3

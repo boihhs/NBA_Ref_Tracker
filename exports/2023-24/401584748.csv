@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:07,CLE,Georges Niang,Personal Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,2,5,0.51,0.511,9:12
+1,8:23,CLE,Evan Mobley,Defensive 3-Seconds Technical,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,4,5,0.553,0.56,8:35
+1,8:15,CLE,Georges Niang,Personal Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,5,5,0.583,0.584,8:23
+1,6:54,CLE,Isaac Okoro,Loose Ball Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,5,5,0.581,0.582,6:54
+1,2:55,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,14,13,0.575,0.577,2:55
+1,1:43,CLE,Craig Porter Jr.,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,14,15,0.589,0.548,1:53
+1,48.0,CLE,Craig Porter Jr.,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,17,19,0.537,0.484,48.0
+1,39.0,NY,Jalen Brunson,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,18,19,0.476,0.518,48.0
+1,7.1,NY,Isaiah Hartenstein,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,20,22,0.446,0.487,30.1
+2,11:28,NY,Donte DiVincenzo,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,24,24,0.5,0.544,11:47
+2,10:11,CLE,Max Strus,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,29,28,0.641,0.602,10:25
+2,8:42,NY,Miles McBride,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,33,28,0.641,0.683,8:49
+2,6:13,CLE,Georges Niang,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,38,36,0.669,0.626,6:26
+2,3:51,NY,Mitchell Robinson,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,43,43,0.506,0.564,3:51
+2,2:35,CLE,Max Strus,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,43,46,0.509,0.461,2:36
+2,1:54,CLE,Isaac Okoro,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,46,46,0.584,0.524,1:54
+2,59.0,CLE,Isaac Okoro,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,49,46,0.681,0.627,59.0
+3,11:24,NY,Mitchell Robinson,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,50,49,0.502,0.559,11:35
+3,9:11,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,52,54,0.479,0.479,9:11
+3,5:04,NY,Julius Randle,Loose Ball Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,55,60,0.304,0.302,5:04
+3,4:30,NY,Jalen Brunson,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,55,60,0.246,0.3,4:41
+3,3:10,CLE,Caris LeVert,Offensive Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,57,62,0.33,0.289,3:15
+3,2:34,NY,Donte DiVincenzo,Offensive Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,59,62,0.366,0.411,2:38
+4,11:17,CLE,Craig Porter Jr.,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,63,71,0.242,0.175,11:31
+4,8:50,NY,Josh Hart,Loose Ball Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,68,77,0.086,0.092,8:50
+4,6:40,CLE,Tristan Thompson,Loose Ball Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,70,79,0.097,0.089,6:40
+4,6:27,CLE,Caris LeVert,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,70,79,0.15,0.093,6:40
+4,2:52,CLE,Georges Niang,Personal Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,76,79,0.449,0.311,3:05
+4,2:48,CLE,Donovan Mitchell,Personal Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,76,79,0.448,0.449,2:52
+4,1:45,CLE,Isaac Okoro,Loose Ball Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,77,84,0.129,0.066,1:45
+4,50.1,CLE,Donovan Mitchell,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,79,87,0.058,0.028,1:07
+4,42.1,NY,Mitchell Robinson,Personal Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,80,87,0.004,0.018,47.2
+4,31.1,CLE,Donovan Mitchell,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,80,89,0.019,0.007,38.0
+4,27.1,NY,Jalen Brunson,Personal Take Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,82,89,0.002,0.008,29.1
+4,23.0,CLE,Isaac Okoro,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,82,91,0.014,0.004,27.1
+4,21.1,NY,Jalen Brunson,Personal Take Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,84,91,0.001,0.005,23.0
+4,13.0,CLE,Donovan Mitchell,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,84,93,0.006,0.003,21.1
+4,11.1,NY,Donte DiVincenzo,Personal Take Foul,Foul,Zach Zarba,Ray Acosta,Pat O'Connell,NY,86,93,0.001,0.002,13.0

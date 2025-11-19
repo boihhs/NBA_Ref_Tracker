@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:03,GS,Kevon Looney,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,3,2,0.843,0.826,11:06
+1,9:22,GS,Stephen Curry,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,10,4,0.882,0.883,9:38
+1,7:03,GS,Gary Payton II,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,14,7,0.903,0.888,7:22
+1,5:44,GS,Stephen Curry,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,18,9,0.92,0.907,5:57
+1,2:55,GS,Jordan Poole,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,26,13,0.948,0.938,3:03
+1,1:58,BOS,Derrick White,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,30,15,0.933,0.944,2:00
+1,6.3,BOS,Derrick White,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,33,20,0.913,0.928,26.1
+2,11:07,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,35,22,0.937,0.936,11:19
+2,9:48,BOS,Grant Williams,Offensive Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,39,25,0.936,0.944,9:51
+2,9:09,BOS,Robert Williams III,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,42,27,0.931,0.944,9:26
+2,8:33,BOS,Jayson Tatum,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,44,29,0.931,0.951,8:48
+2,8:02,BOS,Robert Williams III,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,46,31,0.931,0.944,8:12
+2,7:03,GS,Kevon Looney,Offensive Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,49,34,0.951,0.944,7:10
+2,5:31,GS,Kevon Looney,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,56,39,0.968,0.965,5:32
+2,4:15,GS,Stephen Curry,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,56,47,0.891,0.892,4:27
+2,3:23,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,58,49,0.901,0.876,3:23
+3,9:49,BOS,Robert Williams III,Loose Ball Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,72,61,0.907,0.906,9:49
+3,9:11,GS,Stephen Curry,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,72,64,0.9,0.875,9:18
+3,7:50,GS,Draymond Green,Loose Ball Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,77,66,0.922,0.923,7:54
+3,6:47,GS,Klay Thompson,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,79,69,0.909,0.91,7:11
+3,6:02,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,82,71,0.886,0.912,6:14
+3,5:06,BOS,Al Horford,Flagrant Foul Type 1,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,82,76,0.816,0.836,5:06
+3,3:54,BOS,Al Horford,Loose Ball Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,82,80,0.614,0.675,3:54
+3,3:19,GS,Otto Porter Jr.,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,82,83,0.653,0.594,3:45
+3,2:53,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,85,83,0.762,0.71,2:57
+3,1:39,BOS,Jaylen Brown,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,89,85,0.684,0.743,1:41
+3,1:18,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,89,86,0.796,0.743,1:19
+4,11:30,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,93,89,0.842,0.784,11:44
+4,9:51,GS,Gary Payton II,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,98,91,0.894,0.888,9:54
+4,8:06,BOS,Marcus Smart,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,104,94,0.935,0.939,8:21
+4,7:22,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,104,96,0.956,0.924,7:31
+4,6:21,BOS,Marcus Smart,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,105,96,0.93,0.934,6:38
+4,4:52,BOS,Jayson Tatum,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,110,96,0.991,0.992,5:07
+4,4:07,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,110,98,0.996,0.991,4:08
+4,2:02,GS,Jordan Poole,Personal Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,114,100,0.999,0.999,2:04
+4,2:00,BOS,Grant Williams,Personal Take Foul,Foul,Courtney Kirkland,Scott Foster,David Guthrie,BOS,116,100,0.999,0.999,2:02

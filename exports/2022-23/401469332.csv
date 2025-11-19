@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:37,MIA,Tyler Herro,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,10,10,0.122,0.104,7:52
+1,5:26,MIA,Bam Adebayo,Offensive Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,17,17,0.117,0.106,5:34
+1,3:09,MIA,Gabe Vincent,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,20,23,0.112,0.096,3:12
+1,3:08,DET,R.J. Hampton,Personal Take Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,23,23,0.118,0.117,3:09
+1,2:57,DET,R.J. Hampton,Defensive 3-Seconds Technical,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,23,23,0.122,0.118,3:08
+1,1:50,MIA,Kyle Lowry,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,23,24,0.145,0.123,2:06
+1,1:36,DET,Jalen Duren,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,25,26,0.105,0.125,1:36
+1,26.2,DET,Jalen Duren,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,27,29,0.093,0.107,30.1
+2,10:06,DET,James Wiseman,Loose Ball Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,27,36,0.054,0.054,10:06
+2,8:58,MIA,Kyle Lowry,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,27,42,0.036,0.028,9:15
+2,8:20,DET,James Wiseman,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,29,42,0.027,0.033,8:24
+2,7:07,MIA,Kyle Lowry,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,33,47,0.035,0.034,7:18
+2,6:47,DET,Jaden Ivey,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,35,47,0.04,0.04,7:02
+2,5:48,MIA,Caleb Martin,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,35,52,0.028,0.022,5:58
+2,4:53,MIA,Max Strus,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,37,52,0.039,0.031,5:06
+2,3:12,MIA,Caleb Martin,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,41,56,0.04,0.031,3:14
+2,2:36,MIA,Kevin Love,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,43,58,0.04,0.031,2:49
+2,1:19,DET,Isaiah Livers,Loose Ball Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,49,58,0.054,0.068,1:19
+2,19.1,DET,Jaden Ivey,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,52,58,0.086,0.105,29.0
+3,11:17,MIA,Bam Adebayo,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,52,59,0.107,0.105,11:26
+3,6:42,DET,Isaiah Livers,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,60,67,0.08,0.1,6:58
+3,6:02,MIA,Gabe Vincent,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,60,72,0.051,0.051,6:13
+3,5:41,DET,Eugene Omoruyi,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,63,72,0.056,0.073,5:53
+3,4:31,DET,Jaden Ivey,Loose Ball Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,69,73,0.168,0.167,4:31
+3,3:58,DET,Isaiah Livers,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,69,75,0.096,0.123,3:58
+3,3:23,MIA,Max Strus,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,69,77,0.12,0.105,3:23
+3,2:12,DET,Killian Hayes,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,75,77,0.189,0.235,2:25
+3,1:07,DET,Killian Hayes,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,77,79,0.192,0.241,1:28
+4,10:52,DET,Killian Hayes,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,81,80,0.376,0.386,10:59
+4,9:37,MIA,Kevin Love,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,83,85,0.353,0.3,9:56
+4,9:01,MIA,Kyle Lowry,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,87,87,0.476,0.36,9:01
+4,8:36,MIA,Kyle Lowry,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,87,89,0.425,0.323,8:52
+4,7:05,DET,Jalen Duren,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,94,92,0.409,0.519,7:17
+4,5:15,DET,Eugene Omoruyi,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,99,96,0.488,0.613,5:36
+4,4:48,DET,James Wiseman,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,99,98,0.354,0.473,4:51
+4,4:01,DET,James Wiseman,Personal Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,99,100,0.231,0.323,4:12
+4,2:47,DET,James Wiseman,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,99,104,0.051,0.092,2:53
+4,2:47,DET,James Wiseman,Technical Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,99,104,0.068,0.051,2:47
+4,2:13,DET,Cory Joseph,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,101,109,0.013,0.033,2:13
+4,2:00,MIA,Tyler Herro,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,101,110,0.049,0.02,2:13
+4,2:00,MIA,Tyler Herro,Technical Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,101,110,0.034,0.049,2:00
+4,1:14,MIA,Bam Adebayo,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Robert Hussey,DET,104,114,0.02,0.008,1:23

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:56,BKN,Cameron Johnson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,0,2,0.549,0.511,10:08
+1,9:41,MIA,Haywood Highsmith,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,2,2,0.498,0.538,9:56
+1,7:46,MIA,Haywood Highsmith,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,5,8,0.417,0.455,7:53
+1,7:09,BKN,Cameron Johnson,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,5,10,0.426,0.428,7:18
+1,6:35,MIA,Kyle Lowry,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,7,10,0.415,0.454,6:48
+1,5:01,BKN,Royce O'Neale,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,9,15,0.436,0.397,5:04
+1,4:25,BKN,Trendon Watford,Defensive 3-Seconds Technical,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,11,17,0.387,0.396,4:40
+1,4:05,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,15,17,0.434,0.477,4:19
+1,1:48,BKN,Trendon Watford,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,23,25,0.54,0.498,1:50
+1,1:32,BKN,Dennis Smith Jr.,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,23,25,0.54,0.498,1:32
+1,22.0,BKN,Nic Claxton,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,28,27,0.622,0.587,27.1
+2,9:05,MIA,Jaime Jaquez Jr.,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,39,36,0.609,0.607,9:06
+2,7:18,MIA,Duncan Robinson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,41,41,0.496,0.552,7:18
+2,7:06,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,41,42,0.542,0.519,7:06
+2,6:37,MIA,Bam Adebayo,Offensive Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,43,45,0.454,0.486,6:50
+2,6:05,BKN,Cameron Johnson,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,43,47,0.421,0.424,6:20
+2,5:56,BKN,Mikal Bridges,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,45,47,0.507,0.453,5:56
+2,4:13,MIA,Kevin Love,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,46,51,0.332,0.384,4:13
+2,37.1,MIA,Kevin Love,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,55,52,0.561,0.613,37.1
+3,10:51,MIA,Bam Adebayo,Offensive Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,62,54,0.771,0.798,10:56
+3,9:53,BKN,Nic Claxton,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,62,57,0.716,0.715,10:00
+3,9:07,BKN,Cameron Johnson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,62,59,0.701,0.651,9:19
+3,8:32,BKN,Lonnie Walker IV,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,66,61,0.74,0.685,8:32
+3,8:10,BKN,Mikal Bridges,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,66,61,0.763,0.72,8:15
+3,7:20,MIA,Haywood Highsmith,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,69,61,0.737,0.784,7:25
+3,6:51,MIA,Duncan Robinson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,69,63,0.671,0.722,6:55
+3,6:24,BKN,Dorian Finney-Smith,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,71,64,0.831,0.79,6:24
+3,6:04,MIA,Kyle Lowry,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,73,64,0.818,0.819,6:05
+3,5:36,BKN,Spencer Dinwiddie,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,73,66,0.836,0.793,5:46
+3,3:42,MIA,Kyle Lowry,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,77,71,0.709,0.738,3:42
+3,3:02,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,79,73,0.684,0.74,3:17
+3,2:24,BKN,Royce O'Neale,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,83,73,0.906,0.87,2:24
+3,52.1,BKN,Dennis Smith Jr.,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,89,79,0.932,0.903,1:02
+3,52.1,BKN,Dennis Smith Jr.,Technical Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,89,79,0.918,0.932,52.1
+4,9:55,MIA,Caleb Martin,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,101,87,0.968,0.968,9:55
+4,9:55,BKN,Nic Claxton,Technical Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,101,87,0.981,0.968,9:55
+4,8:24,MIA,Duncan Robinson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,106,92,0.955,0.974,8:37
+4,8:09,MIA,Caleb Martin,Technical Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,109,93,0.984,0.988,8:11
+4,7:56,MIA,Josh Richardson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,109,94,0.967,0.982,8:09
+4,6:59,MIA,Caleb Martin,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,113,97,0.981,0.99,6:59
+4,6:56,MIA,Josh Richardson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,113,97,0.981,0.986,6:59
+4,1:37,BKN,Lonnie Walker IV,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Suyash Mehta,MIA,120,111,0.996,0.988,1:37

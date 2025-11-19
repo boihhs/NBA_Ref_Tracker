@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,HOU,Jalen Green,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,0,2,0.341,0.34,11:21
+1,9:32,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,2,6,0.354,0.32,9:46
+1,8:34,HOU,Alperen Sengun,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,3,8,0.246,0.276,8:47
+1,6:05,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,5,12,0.207,0.234,6:08
+1,5:17,LAC,Ivica Zubac,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,5,17,0.163,0.165,5:32
+1,3:18,LAC,Nicolas Batum,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,8,23,0.116,0.116,3:25
+1,2:43,HOU,Jalen Green,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,10,23,0.109,0.129,2:49
+1,1:54,HOU,KJ Martin,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,13,25,0.132,0.159,1:54
+1,1:29,LAC,Nicolas Batum,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,15,28,0.155,0.128,1:29
+2,10:25,LAC,Norman Powell,Transition Take Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,28,36,0.232,0.232,10:25
+2,8:09,LAC,Reggie Jackson,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,35,40,0.323,0.277,8:09
+2,7:50,HOU,Alperen Sengun,Loose Ball Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,35,40,0.276,0.277,7:50
+2,7:50,LAC,Ivica Zubac,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,35,40,0.302,0.276,7:50
+2,7:09,HOU,Jabari Smith Jr.,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,37,40,0.33,0.36,7:21
+2,6:48,LAC,Luke Kennard,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,39,40,0.441,0.388,6:48
+2,4:00,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,43,47,0.374,0.331,4:20
+2,2:16,HOU,Garrison Mathews,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,47,52,0.272,0.301,2:17
+2,2.9,LAC,Nicolas Batum,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,51,52,0.483,0.43,19.1
+2,0.7,HOU,Alperen Sengun,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,53,55,0.341,0.394,0.7
+3,11:38,HOU,Alperen Sengun,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,53,56,0.307,0.329,11:42
+3,9:38,LAC,Moses Brown,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,59,59,0.528,0.475,9:42
+3,8:04,LAC,Moses Brown,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,63,63,0.533,0.477,8:16
+3,7:32,LAC,Paul George,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,67,66,0.546,0.476,7:32
+3,7:27,HOU,Kevin Porter Jr.,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,68,66,0.517,0.515,7:32
+3,6:37,LAC,Reggie Jackson,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,68,70,0.46,0.4,6:50
+3,3:52,LAC,Moses Brown,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,73,78,0.31,0.246,3:52
+3,3:15,HOU,Usman Garuba,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,74,78,0.279,0.319,3:19
+3,2:59,HOU,Tari Eason,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,74,78,0.28,0.279,3:15
+3,1:41,HOU,Jalen Green,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,79,80,0.334,0.398,1:45
+3,1:28,HOU,KJ Martin,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,79,80,0.334,0.334,1:41
+3,1:00,HOU,Usman Garuba,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,79,84,0.204,0.278,1:00
+4,11:05,HOU,Usman Garuba,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,79,86,0.147,0.183,11:14
+4,9:14,HOU,Tari Eason,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,82,90,0.104,0.135,9:32
+4,8:42,LAC,Nicolas Batum,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,82,90,0.138,0.128,8:43
+4,8:07,LAC,Terance Mann,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,82,90,0.138,0.13,8:14
+4,9:24,LAC,Nicolas Batum,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,82,90,0.148,0.138,8:07
+4,6:55,HOU,Alperen Sengun,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,87,92,0.174,0.19,7:11
+4,5:57,HOU,Daishen Nix,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,89,95,0.076,0.131,6:13
+4,3:35,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,91,100,0.091,0.051,3:39
+4,1:04,HOU,Alperen Sengun,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,99,105,0.016,0.055,1:22
+4,1:00,LAC,Nicolas Batum,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,99,107,0.06,0.025,1:04
+4,20.2,HOU,Usman Garuba,Personal Take Foul,Foul,Ed Malloy,J.B. DeRosa,Ashley Moyer-Gleich,HOU,101,107,0.003,0.023,31.5

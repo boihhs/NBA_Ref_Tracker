@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:22,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,6,9,0.686,0.653,7:34
+1,6:30,MIL,Khris Middleton,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,9,11,0.687,0.645,6:30
+1,6:08,PHX,Kevin Durant,Flagrant Foul Type 1,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,9,11,0.649,0.643,6:28
+1,5:55,MIL,Jae Crowder,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,9,12,0.678,0.642,5:57
+1,3:42,PHX,Eric Gordon,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,15,14,0.703,0.702,3:42
+1,2:10,MIL,Jae Crowder,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,17,19,0.685,0.65,2:28
+2,10:46,MIL,Cameron Payne,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,26,23,0.771,0.731,10:46
+2,8:16,PHX,Bol Bol,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,29,25,0.712,0.747,8:22
+2,6:17,MIL,Cameron Payne,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,31,35,0.59,0.546,6:31
+2,5:37,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,33,37,0.584,0.54,5:39
+2,4:56,PHX,Jusuf Nurkic,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,34,39,0.419,0.469,5:01
+2,2:31,PHX,Devin Booker,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,38,42,0.482,0.483,2:42
+2,1:45,MIL,Robin Lopez,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,40,47,0.459,0.408,1:53
+2,1:33,PHX,Grayson Allen,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,41,47,0.355,0.407,1:45
+2,1:19,MIL,Robin Lopez,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,43,47,0.532,0.471,1:19
+3,11:33,PHX,Jusuf Nurkic,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,50,49,0.583,0.638,11:52
+3,11:01,PHX,Jusuf Nurkic,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,53,51,0.665,0.667,11:12
+3,9:00,MIL,Pat Connaughton,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,55,51,0.794,0.754,9:03
+3,8:27,MIL,Malik Beasley,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,56,53,0.722,0.725,8:45
+3,4:58,PHX,Kevin Durant,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,68,62,0.785,0.782,5:17
+3,4:40,MIL,Jae Crowder,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,70,62,0.879,0.84,4:40
+3,4:25,PHX,Devin Booker,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,71,62,0.827,0.863,4:40
+3,3:11,PHX,Kevin Durant,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,73,66,0.769,0.818,3:14
+3,6.0,MIL,AJ Green,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,79,73,0.871,0.83,16.1
+4,10:56,PHX,Bradley Beal,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,82,73,0.842,0.891,10:59
+4,10:41,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,82,74,0.898,0.892,10:53
+4,10:38,MIL,Pat Connaughton,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,84,74,0.949,0.916,10:38
+4,9:52,PHX,Bol Bol,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,86,79,0.808,0.879,9:52
+4,9:34,PHX,Eric Gordon,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,88,79,0.846,0.898,9:39
+4,8:51,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,92,80,0.975,0.955,8:51
+4,7:38,PHX,Bradley Beal,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,95,82,0.954,0.973,7:42
+4,6:58,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,95,84,0.98,0.965,7:11
+4,6:09,MIL,Pat Connaughton,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,98,86,0.988,0.98,6:11
+4,4:48,MIL,Jae Crowder,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,104,92,0.991,0.98,4:48
+4,3:21,PHX,Jusuf Nurkic,Loose Ball Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,107,92,0.994,0.998,3:21
+4,1:53,PHX,Bradley Beal,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,107,97,0.969,0.986,1:59
+4,1:37,PHX,Grayson Allen,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,107,98,0.955,0.98,1:39
+4,1:11,MIL,Bobby Portis,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,107,99,0.995,0.969,1:24
+4,40.2,PHX,Devin Booker,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,110,99,0.994,0.998,45.0
+4,9.1,MIL,Pat Connaughton,Personal Take Foul,Foul,Sean Wright,Mitchell Ervin,Jenna Schroeder,PHX,112,104,0.999,0.999,11.1

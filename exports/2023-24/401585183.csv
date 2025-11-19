@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:31,PHI,Tyrese Maxey,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,5,0,0.812,0.811,10:43
+1,8:15,HOU,Dillon Brooks,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,9,5,0.829,0.806,8:22
+1,7:17,PHI,Tyrese Maxey,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,11,7,0.786,0.786,7:28
+1,3:13,HOU,Dillon Brooks,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,18,17,0.734,0.733,3:24
+1,2:31,HOU,Amen Thompson,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,23,17,0.84,0.81,2:31
+1,2:11,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,24,17,0.865,0.843,2:11
+1,2:02,HOU,Jae'Sean Tate,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,24,17,0.865,0.865,2:11
+1,1:27,HOU,Cam Whitmore,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,26,19,0.865,0.843,1:36
+1,50.0,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,28,19,0.89,0.871,1:07
+2,9:40,PHI,Danuel House Jr.,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,44,23,0.961,0.969,9:51
+2,9:14,HOU,Fred VanVleet,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,46,25,0.976,0.969,9:14
+2,8:21,HOU,Alperen Sengun,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,47,25,0.978,0.978,8:39
+2,6:30,PHI,Danuel House Jr.,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,50,30,0.958,0.966,6:35
+2,5:39,PHI,Joel Embiid,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,50,31,0.952,0.962,5:40
+2,4:54,HOU,Jalen Green,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,54,32,0.983,0.977,4:54
+2,4:25,HOU,Jalen Green,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,55,32,0.988,0.984,4:36
+2,4:15,PHI,Tyrese Maxey,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,57,32,0.982,0.987,4:25
+2,3:31,HOU,Jeff Green,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,57,32,0.992,0.99,3:47
+2,3:00,HOU,HOU,Technical Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,61,34,0.994,0.992,3:01
+2,2:52,PHI,Joel Embiid,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,62,34,0.991,0.994,3:00
+2,54.0,HOU,Fred VanVleet,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,65,42,0.991,0.987,1:00
+2,27.2,PHI,Tobias Harris,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,66,47,0.963,0.973,27.2
+3,10:35,PHI,Tobias Harris,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,71,53,0.96,0.973,10:35
+3,9:54,HOU,Fred VanVleet,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,73,53,0.987,0.982,9:55
+3,9:26,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,75,53,0.986,0.986,9:31
+3,7:57,PHI,Nicolas Batum,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,75,58,0.952,0.964,7:59
+3,7:33,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,75,59,0.974,0.964,7:56
+3,6:51,PHI,Nicolas Batum,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,78,61,0.954,0.966,7:02
+3,6:19,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,80,63,0.956,0.967,6:34
+3,5:33,HOU,Jabari Smith Jr.,Technical Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,80,66,0.96,0.954,5:33
+3,5:12,PHI,Joel Embiid,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,81,66,0.939,0.954,5:13
+3,4:42,PHI,Joel Embiid,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,81,67,0.938,0.947,4:42
+3,2:31,HOU,Fred VanVleet,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,87,71,0.984,0.976,2:44
+3,1:10,PHI,Marcus Morris Sr.,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,94,75,0.983,0.989,1:29
+3,1:10,HOU,Alperen Sengun,Technical Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,94,75,0.993,0.992,1:10
+3,12.1,PHI,Patrick Beverley,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,98,76,0.994,0.996,13.1
+4,11:44,HOU,Dillon Brooks,Double Technical Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,98,77,0.996,0.995,11:44
+4,11:33,PHI,Patrick Beverley,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,98,77,0.993,0.995,11:35
+4,10:51,HOU,Cam Whitmore,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,100,78,0.998,0.997,10:51
+4,8:45,PHI,Tyrese Maxey,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,108,82,0.999,0.999,8:58
+4,8:22,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,108,84,0.999,0.999,8:36
+4,6:05,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,114,94,0.998,0.999,6:05
+4,5:32,PHI,KJ Martin,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,117,97,0.998,0.999,5:32
+4,5:23,HOU,Cam Whitmore,Personal Take Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,117,98,0.999,0.999,5:32
+4,1:59,PHI,Danuel House Jr.,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,120,108,0.992,0.998,1:59
+4,1:59,PHI,Danuel House Jr.,Technical Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,120,108,0.992,0.992,1:59
+4,1:43,HOU,Nate Williams,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,122,108,0.999,0.999,1:43
+4,1:22,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,122,110,0.999,0.999,1:35
+4,54.1,HOU,Amen Thompson,Personal Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,123,113,0.999,0.994,1:00
+4,20.1,PHI,Danuel House Jr.,Shooting Foul,Foul,Ben Taylor,J.B. DeRosa,Brent Haskill,PHI,124,113,0.997,0.999,24.2

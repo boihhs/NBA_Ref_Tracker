@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:15,DEN,Justin Holiday,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,7,7,0.56,0.518,10:15
+1,5:35,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,21,22,0.552,0.513,5:51
+1,5:04,PHX,Jusuf Nurkic,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,23,24,0.484,0.484,5:05
+1,2:12,PHX,Drew Eubanks,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,25,35,0.243,0.243,2:19
+1,2:08,DEN,DeAndre Jordan,Offensive Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,25,35,0.268,0.243,2:12
+1,1:36,PHX,Jordan Goodwin,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,27,37,0.227,0.266,1:36
+1,4.0,DEN,Reggie Jackson,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,30,41,0.275,0.24,8.1
+2,10:11,DEN,Julian Strawther,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,34,46,0.207,0.207,10:15
+2,8:57,DEN,Reggie Jackson,Loose Ball Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,37,49,0.202,0.202,8:57
+2,8:34,PHX,Josh Okogie,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,37,49,0.181,0.181,8:45
+2,6:12,DEN,Julian Strawther,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,41,56,0.161,0.135,6:37
+2,5:48,DEN,Peyton Watson,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,43,58,0.159,0.132,6:00
+2,4:38,DEN,Nikola Jokic,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,45,60,0.154,0.124,4:43
+2,4:22,PHX,Jusuf Nurkic,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,47,60,0.144,0.144,4:38
+2,3:53,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,47,63,0.132,0.107,4:15
+3,11:06,PHX,Grayson Allen,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,65,72,0.258,0.254,11:13
+3,11:04,PHX,Kevin Durant,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,65,72,0.26,0.258,11:06
+3,8:57,PHX,Eric Gordon,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,70,79,0.156,0.19,9:10
+3,7:00,DEN,Reggie Jackson,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,73,84,0.193,0.153,7:13
+3,6:19,DEN,Justin Holiday,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,75,86,0.187,0.15,6:37
+3,4:44,DEN,Michael Porter Jr.,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,81,88,0.278,0.216,4:44
+3,3:57,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,82,88,0.341,0.283,3:58
+3,1:25,PHX,Drew Eubanks,Loose Ball Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,89,91,0.323,0.39,1:25
+3,27.1,DEN,DeAndre Jordan,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,89,93,0.412,0.343,43.0
+3,6.2,PHX,Josh Okogie,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,91,93,0.314,0.385,27.1
+4,7:16,PHX,Jusuf Nurkic,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,98,100,0.339,0.351,7:24
+4,6:38,PHX,Josh Okogie,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,100,102,0.281,0.404,6:38
+4,5:12,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,102,105,0.434,0.325,5:16
+4,3:57,DEN,Nikola Jokic,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,104,107,0.323,0.242,4:04
+4,3:53,DEN,Nikola Jokic,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,104,107,0.338,0.323,3:57
+4,3:28,PHX,Jusuf Nurkic,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,106,107,0.257,0.392,3:38
+4,3:20,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,106,109,0.442,0.307,3:28
+4,2:22,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,108,114,0.2,0.123,2:31
+4,1:55,DEN,Nikola Jokic,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,110,114,0.344,0.223,2:06
+4,1:38,PHX,Kevin Durant,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,111,114,0.109,0.212,1:55
+4,45.0,PHX,Jusuf Nurkic,Flagrant Foul Type 1,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,111,114,0.187,0.254,53.0
+4,5.0,PHX,Grayson Allen,Personal Foul,Foul,Dedric Taylor,Marc Davis,Karl Lane,PHX,111,117,0.001,0.01,16.1

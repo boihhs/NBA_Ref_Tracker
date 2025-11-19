@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,PHX,Devin Booker,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,2,2,0.659,0.621,10:49
+1,9:40,DAL,Luka Doncic,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,8,7,0.64,0.638,9:49
+1,8:16,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,10,7,0.665,0.684,8:36
+1,7:31,PHX,Mikal Bridges,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,10,8,0.714,0.683,7:40
+1,6:50,DAL,Spencer Dinwiddie,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,11,8,0.679,0.681,7:00
+1,5:26,PHX,Ish Wainright,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,16,11,0.759,0.725,5:26
+1,2:12,PHX,Deandre Ayton,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,27,13,0.912,0.895,2:13
+2,10:09,PHX,Cameron Payne,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,37,18,0.95,0.95,10:15
+2,9:43,DAL,Christian Wood,Offensive Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,39,20,0.941,0.95,9:53
+2,9:08,PHX,Josh Okogie,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,39,20,0.96,0.951,9:13
+2,8:13,PHX,Damion Lee,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,41,23,0.954,0.945,8:17
+2,8:13,PHX,Damion Lee,Technical Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,41,23,0.95,0.954,8:13
+2,5:09,DAL,Luka Doncic,Offensive Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,48,29,0.949,0.957,5:25
+2,4:58,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,48,29,0.937,0.949,5:09
+2,3:48,PHX,Devin Booker,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,51,33,0.963,0.953,3:53
+2,2:59,DAL,Dwight Powell,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,56,35,0.967,0.967,3:15
+2,1:28,DAL,Dwight Powell,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,61,39,0.967,0.974,1:39
+2,25.0,DAL,Dwight Powell,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,64,39,0.982,0.987,36.2
+3,11:37,PHX,Deandre Ayton,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,67,41,0.995,0.991,12:00
+3,10:53,DAL,Dwight Powell,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,68,41,0.994,0.993,11:00
+3,10:29,DAL,Tim Hardaway Jr.,Offensive Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,68,44,0.987,0.99,10:42
+3,3:00,DAL,Luka Doncic,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,89,67,0.989,0.993,3:07
+3,1:21,PHX,Devin Booker,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,91,72,0.994,0.99,1:32
+3,41.2,PHX,Devin Booker,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,91,72,0.995,0.992,49.8
+4,10:58,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,99,77,0.996,0.998,10:58
+4,10:36,DAL,Maxi Kleber,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,99,77,0.995,0.997,10:38
+4,9:33,PHX,Dario Saric,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,99,81,0.997,0.993,9:49
+4,9:22,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,101,81,0.995,0.996,9:33
+4,8:33,DAL,Maxi Kleber,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,104,83,0.996,0.997,8:50
+4,7:49,PHX,Bismack Biyombo,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,106,84,0.999,0.999,8:08
+4,7:02,DAL,Christian Wood,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,108,86,0.998,0.999,7:03
+4,6:15,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,108,88,0.997,0.998,6:19
+4,6:09,DAL,Christian Wood,Offensive Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,108,89,0.997,0.998,6:15
+4,5:28,PHX,Dario Saric,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,108,89,0.999,0.999,5:35
+4,4:47,DAL,Maxi Kleber,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,110,91,0.998,0.998,4:58
+4,3:57,DAL,Christian Wood,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,113,93,0.999,0.999,4:09
+4,2:05,DAL,Jaden Hardy,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,120,97,0.999,0.999,2:12
+4,1:31,PHX,Dario Saric,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,124,101,0.999,0.999,1:31
+4,47.2,DAL,Jaden Hardy,Personal Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,127,104,0.999,0.999,54.3
+4,39.1,PHX,Damion Lee,Shooting Foul,Foul,Marc Davis,Natalie Sago,Robert Hussey,DAL,129,106,0.999,0.999,39.1

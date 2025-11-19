@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:42,MIL,Pat Connaughton,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,0,0,0.441,0.401,12:00
+1,10:30,BKN,Cameron Johnson,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,4,3,0.408,0.405,10:34
+1,9:23,BKN,Dorian Finney-Smith,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,4,5,0.327,0.361,9:30
+1,8:08,MIL,Grayson Allen,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,9,9,0.45,0.412,8:27
+1,6:23,MIL,Giannis Antetokounmpo,Transition Take Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,16,11,0.553,0.553,6:23
+1,6:09,MIL,Grayson Allen,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,17,11,0.577,0.55,6:23
+1,2:26,BKN,Joe Harris,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,28,17,0.681,0.791,3:05
+1,2:00,BKN,Day'Ron Sharpe,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,30,20,0.656,0.706,2:00
+1,1:41,BKN,Day'Ron Sharpe,Offensive Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,30,20,0.679,0.704,1:58
+1,1:12,MIL,Jevon Carter,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,30,20,0.744,0.706,1:31
+1,51.0,MIL,Khris Middleton,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,32,20,0.79,0.755,58.0
+1,9.1,BKN,Cameron Johnson,Offensive Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,34,20,0.785,0.803,26.0
+2,11:46,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,34,22,0.764,0.772,11:46
+2,11:27,MIL,Pat Connaughton,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,34,22,0.797,0.764,11:46
+2,10:02,MIL,Jae Crowder,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,37,29,0.69,0.644,10:02
+2,9:49,BKN,Dorian Finney-Smith,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,38,29,0.67,0.671,10:02
+2,7:30,BKN,Seth Curry,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,44,37,0.628,0.625,7:41
+2,6:55,BKN,Royce O'Neale,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,44,39,0.57,0.569,6:58
+2,4:16,MIL,Joe Ingles,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,52,44,0.747,0.707,4:17
+2,2:31,BKN,Royce O'Neale,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,55,49,0.571,0.621,2:36
+2,1:22,MIL,Bobby Portis,Loose Ball Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,58,50,0.767,0.721,1:22
+2,37.0,MIL,Pat Connaughton,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,60,52,0.772,0.725,43.0
+3,11:14,BKN,Nic Claxton,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,62,56,0.618,0.682,11:14
+3,11:02,BKN,Nic Claxton,Technical Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,64,57,0.653,0.679,11:03
+3,9:51,BKN,Mikal Bridges,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,64,61,0.514,0.582,9:51
+3,8:56,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,66,64,0.548,0.508,9:06
+3,8:38,BKN,Spencer Dinwiddie,Loose Ball Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,66,64,0.511,0.509,8:38
+3,7:22,MIL,Brook Lopez,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,72,66,0.731,0.669,7:22
+3,7:03,MIL,Thanasis Antetokounmpo,Technical Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,73,66,0.765,0.742,7:03
+3,6:09,BKN,Day'Ron Sharpe,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,76,70,0.65,0.717,6:09
+3,5:11,BKN,Dorian Finney-Smith,Away from Play Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,78,73,0.585,0.647,5:11
+3,5:04,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,78,73,0.687,0.688,5:05
+3,4:34,MIL,Joe Ingles,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,81,75,0.729,0.728,4:41
+3,3:59,MIL,Joe Ingles,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,83,77,0.76,0.695,3:59
+3,2:27,MIL,Bobby Portis,Defensive 3-Seconds Technical,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,83,82,0.523,0.536,2:42
+3,12.1,MIL,Jrue Holiday,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,84,89,0.332,0.275,29.0
+4,11:14,MIL,Brook Lopez,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,85,93,0.211,0.15,11:30
+4,9:29,BKN,Royce O'Neale,Loose Ball Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,90,97,0.129,0.136,9:29
+4,8:27,BKN,Dorian Finney-Smith,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,90,102,0.023,0.043,8:27
+4,7:30,BKN,Royce O'Neale,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,90,102,0.023,0.025,7:40
+4,4:51,BKN,Spencer Dinwiddie,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,95,107,0.005,0.012,5:01
+4,2:07,MIL,Jevon Carter,Shooting Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,100,113,0.002,0.001,2:07
+4,1:01,MIL,Meyers Leonard,Personal Foul,Foul,David Guthrie,J.T. Orr,Scott Twardoski,BKN,101,115,0.001,0.001,1:08

@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:43,CLE,Isaac Okoro,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,5,4,0.56,0.527,9:56
+1,9:33,PHI,P.J. Tucker,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,7,4,0.53,0.549,9:43
+1,7:34,CLE,Evan Mobley,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,14,8,0.671,0.628,7:34
+1,1:34,CLE,Raul Neto,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,33,19,0.866,0.842,1:47
+1,34.1,PHI,Georges Niang,Offensive Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,38,21,0.877,0.89,42.1
+2,11:31,PHI,Georges Niang,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,40,24,0.842,0.867,11:48
+2,10:01,PHI,Paul Reed,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,42,26,0.847,0.872,10:20
+2,9:12,PHI,Shake Milton,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,42,26,0.851,0.876,9:14
+2,6:27,PHI,Tyrese Maxey,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,50,30,0.919,0.934,6:42
+2,5:17,CLE,Donovan Mitchell,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,52,33,0.939,0.94,5:29
+2,3:58,CLE,Lamar Stevens,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,52,35,0.92,0.923,4:16
+2,3:45,CLE,Darius Garland,Flagrant Foul Type 1,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,52,35,0.919,0.92,3:58
+2,3:02,CLE,Evan Mobley,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,56,35,0.96,0.933,3:58
+2,1:26,CLE,Jarrett Allen,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,59,35,0.987,0.982,1:33
+2,41.1,PHI,De'Anthony Melton,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,63,35,0.987,0.991,49.1
+3,10:31,PHI,P.J. Tucker,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,65,43,0.975,0.975,10:34
+3,9:26,CLE,Jarrett Allen,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,67,43,0.992,0.989,9:36
+3,8:09,CLE,Isaac Okoro,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,71,45,0.995,0.993,8:09
+3,6:13,PHI,De'Anthony Melton,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,77,53,0.991,0.991,6:18
+3,4:34,CLE,Darius Garland,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,77,59,0.975,0.975,4:44
+3,2:10,PHI,De'Anthony Melton,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,80,63,0.97,0.97,2:22
+3,1:54,PHI,Tyrese Maxey,Offensive Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,80,65,0.954,0.963,2:05
+3,1:43,PHI,Jalen McDaniels,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,80,65,0.935,0.954,1:54
+3,7.1,CLE,Caris LeVert,Personal Take Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,84,70,0.976,0.964,11.0
+4,11:20,PHI,Jalen McDaniels,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,90,70,0.992,0.993,11:39
+4,10:37,PHI,Paul Reed,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,92,72,0.991,0.996,10:37
+4,9:48,PHI,Jalen McDaniels,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,92,75,0.984,0.985,9:53
+4,9:24,CLE,Evan Mobley,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,92,78,0.985,0.973,9:38
+4,9:14,PHI,Jalen McDaniels,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,93,80,0.941,0.968,9:14
+4,8:32,PHI,James Harden,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,95,83,0.93,0.958,8:32
+4,6:46,PHI,Tyrese Maxey,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,100,88,0.933,0.956,7:03
+4,5:57,CLE,Isaac Okoro,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,100,89,0.981,0.964,6:14
+4,5:46,PHI,De'Anthony Melton,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,102,89,0.962,0.976,5:57
+4,5:30,CLE,Evan Mobley,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,102,91,0.985,0.969,5:46
+4,4:52,PHI,Joel Embiid,Personal Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,106,93,0.971,0.983,5:02
+4,3:34,PHI,Joel Embiid,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,108,100,0.901,0.949,3:34
+4,3:07,CLE,Jarrett Allen,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,108,101,0.966,0.934,3:12
+4,41.0,CLE,Evan Mobley,Personal Take Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,112,108,0.956,0.89,52.1
+4,36.1,PHI,Joel Embiid,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,114,108,0.912,0.946,36.1
+4,27.1,CLE,Darius Garland,Personal Take Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,114,110,0.968,0.909,36.1
+4,20.0,CLE,Darius Garland,Personal Take Foul,Foul,Mark Lindsay,Nick Buchert,Matt Myers,PHI,116,112,0.976,0.934,21.0

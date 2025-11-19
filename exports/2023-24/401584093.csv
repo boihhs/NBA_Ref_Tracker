@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,OKC,Luguentz Dort,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,7,5,0.385,0.42,10:55
+1,9:39,GS,Kevon Looney,Offensive Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,12,8,0.5,0.471,9:57
+1,8:47,OKC,Chet Holmgren,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,14,10,0.438,0.475,8:52
+1,8:16,OKC,Luguentz Dort,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,14,12,0.427,0.427,8:16
+1,6:16,GS,Stephen Curry,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,18,18,0.406,0.407,6:21
+1,4:31,OKC,Luguentz Dort,Offensive Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,20,23,0.311,0.311,4:51
+1,4:06,GS,Dario Saric,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,22,25,0.354,0.288,4:14
+1,2:54,GS,Moses Moody,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,25,27,0.401,0.363,2:59
+2,8:37,GS,Kevon Looney,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,40,45,0.333,0.293,8:47
+2,8:14,GS,Kevon Looney,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,42,48,0.306,0.268,8:24
+2,5:19,GS,Klay Thompson,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,48,55,0.28,0.241,5:30
+2,2:57,OKC,Jalen Williams,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,60,60,0.366,0.415,3:15
+2,1:24,GS,Draymond Green,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,63,66,0.402,0.354,1:38
+2,1:15,GS,Klay Thompson,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,63,66,0.402,0.402,1:24
+3,10:15,OKC,Chet Holmgren,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,72,71,0.407,0.463,10:19
+3,9:20,GS,Kevon Looney,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,78,75,0.578,0.579,9:20
+3,8:44,OKC,Josh Giddey,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,80,75,0.59,0.618,8:44
+3,7:37,OKC,Chet Holmgren,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,85,79,0.607,0.66,7:48
+3,6:57,GS,Gary Payton II,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,87,84,0.619,0.55,6:57
+3,5:29,GS,Dario Saric,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,94,89,0.708,0.64,5:29
+3,5:07,GS,Gary Payton II,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,94,89,0.737,0.682,5:07
+3,3:48,OKC,Jalen Williams,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,98,91,0.669,0.726,4:04
+3,3:35,GS,Jonathan Kuminga,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,98,93,0.753,0.693,3:48
+3,3:28,OKC,Aaron Wiggins,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,100,93,0.672,0.731,3:35
+3,2:29,GS,Chris Paul,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,100,97,0.686,0.621,2:29
+3,1:45,OKC,Vasilije Micic,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,102,99,0.51,0.58,1:45
+3,20.0,OKC,Jalen Williams,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,106,105,0.42,0.492,21.0
+4,11:04,GS,Jonathan Kuminga,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,108,108,0.552,0.447,11:04
+4,10:32,GS,Andrew Wiggins,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,111,111,0.565,0.452,10:32
+4,10:18,OKC,Cason Wallace,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,112,111,0.497,0.513,10:18
+4,9:27,GS,Moses Moody,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,114,115,0.478,0.458,9:27
+4,9:15,GS,Moses Moody,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,114,115,0.562,0.576,9:15
+4,7:03,OKC,Luguentz Dort,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,127,121,0.728,0.81,7:13
+4,6:09,OKC,Josh Giddey,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,127,123,0.659,0.726,6:09
+4,5:49,GS,Klay Thompson,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,127,125,0.753,0.661,6:09
+4,4:34,OKC,Jalen Williams,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,131,127,0.629,0.736,4:54
+4,3:56,OKC,Jaylin Williams,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,133,129,0.687,0.8,3:56
+4,2:20,GS,Klay Thompson,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,133,133,0.671,0.539,2:39
+4,2:09,GS,Draymond Green,Offensive Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,134,133,0.633,0.536,2:20
+4,38.1,OKC,Jalen Williams,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,136,135,0.387,0.54,38.1
+4,32.1,GS,Draymond Green,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,136,137,0.612,0.455,38.1
+4,16.1,GS,Draymond Green,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Che Flores,OKC,138,139,0.628,0.459,21.0

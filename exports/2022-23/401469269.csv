@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:25,CHI,Patrick Beverley,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,3,0,0.616,0.601,10:30
+1,8:45,LAL,Dennis Schroder,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,4,7,0.421,0.419,8:55
+1,6:32,CHI,Alex Caruso,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,11,9,0.594,0.55,6:32
+1,3:45,LAL,Anthony Davis,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,17,15,0.55,0.549,3:56
+1,2:30,CHI,Coby White,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,21,19,0.577,0.578,2:38
+1,2:12,LAL,Wenyen Gabriel,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,21,19,0.509,0.55,2:16
+1,1:54,CHI,Ayo Dosunmu,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,21,21,0.566,0.522,2:12
+1,1:45,CHI,DeMar DeRozan,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,21,21,0.566,0.566,1:54
+2,9:11,CHI,Patrick Williams,Loose Ball Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,28,40,0.195,0.195,9:11
+2,8:59,CHI,Andre Drummond,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,30,40,0.259,0.215,8:59
+2,1:40,LAL,LeBron James,Offensive Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,47,61,0.108,0.127,2:01
+2,1:08,CHI,Patrick Beverley,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,47,61,0.152,0.123,1:08
+2,1:02,CHI,Nikola Vucevic,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,47,61,0.151,0.152,1:08
+2,1:02,CHI,Nikola Vucevic,Technical Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,47,61,0.137,0.151,1:02
+2,1:02,CHI,Nikola Vucevic,Technical Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,47,61,0.137,0.137,1:02
+2,6.0,CHI,Alex Caruso,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,53,63,0.244,0.205,22.2
+2,3.0,LAL,Dennis Schroder,Personal Take Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,55,63,0.189,0.228,6.0
+3,11:45,LAL,Troy Brown Jr.,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,55,63,0.226,0.244,12:00
+3,10:50,CHI,Patrick Beverley,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,55,68,0.13,0.128,11:06
+3,10:06,LAL,Anthony Davis,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,55,68,0.085,0.107,10:18
+3,8:47,LAL,Troy Brown Jr.,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,57,74,0.049,0.048,9:00
+3,8:14,CHI,Andre Drummond,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,57,76,0.038,0.037,8:14
+3,8:07,CHI,Andre Drummond,Flagrant Foul Type 1,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,57,76,0.035,0.038,8:14
+3,8:01,CHI,Alex Caruso,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,58,76,0.061,0.045,8:07
+3,7:14,CHI,Patrick Beverley,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,58,76,0.057,0.042,7:20
+3,5:46,LAL,Dennis Schroder,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,63,81,0.021,0.029,5:54
+3,5:24,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,65,83,0.042,0.028,5:24
+3,4:26,CHI,Zach LaVine,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,67,83,0.058,0.038,4:26
+3,4:07,CHI,Ayo Dosunmu,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,67,83,0.067,0.048,4:15
+3,2:51,LAL,Anthony Davis,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,71,85,0.043,0.065,2:51
+3,33.1,LAL,Anthony Davis,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,78,89,0.055,0.081,44.1
+4,11:23,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,78,91,0.084,0.055,11:26
+4,9:28,CHI,Ayo Dosunmu,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,81,99,0.016,0.008,9:31
+4,5:08,CHI,Patrick Williams,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,92,107,0.011,0.004,5:08
+4,3:26,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,94,109,0.006,0.002,3:31
+4,2:55,LAL,Dennis Schroder,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,96,109,0.001,0.003,3:04
+4,2:44,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,98,110,0.013,0.004,2:44
+4,50.2,LAL,Austin Reaves,Personal Take Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,105,115,0.001,0.002,1:02
+4,23.0,LAL,Wenyen Gabriel,Personal Foul,Foul,Tony Brothers,Sean Corbin,Andy Nagy,LAL,105,117,0.001,0.001,31.1

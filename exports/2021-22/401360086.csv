@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:18,PHI,Georges Niang,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,2,2,0.651,0.613,11:18
+1,10:48,SAC,Harrison Barnes,Personal Take Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,3,4,0.586,0.584,10:48
+1,9:28,SAC,Maurice Harkless,Personal Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,5,7,0.554,0.555,9:37
+1,8:43,SAC,De'Aaron Fox,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,5,9,0.462,0.501,8:46
+1,8:23,PHI,Tyrese Maxey,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,7,11,0.513,0.5,8:23
+1,8:00,PHI,Furkan Korkmaz,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,8,11,0.588,0.552,8:06
+1,7:37,PHI,Tyrese Maxey,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,10,11,0.637,0.601,7:45
+1,5:49,PHI,Andre Drummond,Personal Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,15,17,0.607,0.57,6:05
+1,4:27,PHI,Paul Reed,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,16,20,0.552,0.51,4:31
+1,4:00,PHI,Andre Drummond,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,16,20,0.551,0.508,4:04
+1,2:24,SAC,De'Aaron Fox,Personal Take Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,22,25,0.504,0.504,2:26
+1,1:07,SAC,Buddy Hield,Personal Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,28,27,0.566,0.612,1:25
+2,9:24,PHI,Charles Bassey,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,35,32,0.723,0.685,9:27
+2,8:13,SAC,Davion Mitchell,Personal Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,37,37,0.569,0.567,8:24
+2,8:01,SAC,Buddy Hield,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,37,37,0.523,0.569,8:13
+2,6:46,PHI,Isaiah Joe,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,39,45,0.456,0.409,6:53
+2,3:55,SAC,Maurice Harkless,Personal Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,45,47,0.491,0.491,4:09
+2,2:13,PHI,Georges Niang,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,49,51,0.517,0.483,2:13
+2,1:50,SAC,Alex Len,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,50,51,0.466,0.517,2:13
+2,5.7,SAC,Maurice Harkless,Personal Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,52,54,0.422,0.479,23.5
+2,3.9,PHI,Shake Milton,Personal Take Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,52,55,0.529,0.474,5.7
+3,11:29,SAC,De'Aaron Fox,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,54,55,0.454,0.507,11:44
+3,10:47,PHI,Andre Drummond,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,56,57,0.596,0.54,10:48
+3,10:14,SAC,Maurice Harkless,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,58,57,0.522,0.577,10:16
+3,7:10,PHI,Andre Drummond,Personal Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,67,68,0.531,0.531,7:16
+3,6:24,PHI,Furkan Korkmaz,Personal Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,67,68,0.528,0.529,6:38
+3,6:14,PHI,Charles Bassey,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,67,68,0.588,0.528,6:24
+3,2:50,PHI,Charles Bassey,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,75,72,0.744,0.688,3:02
+4,10:33,SAC,Tyrese Haliburton,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,84,77,0.755,0.824,10:38
+4,10:23,PHI,Shake Milton,Personal Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,84,77,0.864,0.856,10:29
+4,10:09,PHI,Charles Bassey,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,84,77,0.889,0.863,10:09
+4,7:24,SAC,Davion Mitchell,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,86,81,0.684,0.773,7:37
+4,6:52,PHI,Tyrese Maxey,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,86,83,0.815,0.728,6:54
+4,2:54,SAC,Richaun Holmes,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,92,93,0.247,0.395,3:17
+4,46.1,SAC,Tyrese Haliburton,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,92,96,0.038,0.091,57.9
+4,33.6,SAC,Harrison Barnes,Personal Take Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,92,98,0.006,0.02,34.7
+4,24.8,SAC,Richaun Holmes,Personal Take Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,92,100,0.001,0.002,24.8
+4,22.1,PHI,Georges Niang,Shooting Foul,Foul,Kevin Cutler,J.B. DeRosa,John Butler,SAC,92,102,0.006,0.001,22.1

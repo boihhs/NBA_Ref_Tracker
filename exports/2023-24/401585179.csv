@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,CHA,Terry Rozier,Personal Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,0,0,0.854,0.854,10:28
+1,8:48,CHA,Nick Richards,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,2,2,0.866,0.847,8:55
+1,6:22,CHA,Cody Martin,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,10,6,0.893,0.875,6:22
+1,2:28,CHA,Nick Richards,Loose Ball Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,20,11,0.936,0.926,2:28
+1,1:25,MIA,Duncan Robinson,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,24,13,0.918,0.932,1:38
+2,11:13,CHA,P.J. Washington,Loose Ball Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,26,18,0.911,0.911,11:13
+2,9:56,CHA,Nate Mensah,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,28,20,0.922,0.909,10:10
+2,9:24,CHA,LaMelo Ball,Offensive Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,30,20,0.926,0.917,9:28
+2,8:59,MIA,Josh Richardson,Personal Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,32,20,0.934,0.934,9:09
+2,8:33,CHA,Nate Mensah,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,32,20,0.951,0.942,8:44
+2,8:02,CHA,Nate Mensah,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,33,22,0.944,0.933,8:11
+2,6:03,MIA,Bam Adebayo,Hanging Technical Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,38,22,0.962,0.96,6:03
+2,3:52,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,46,23,0.988,0.988,4:02
+2,3:10,CHA,Nick Richards,Offensive Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,46,25,0.986,0.983,3:21
+2,2:36,MIA,Nikola Jovic,Offensive Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,49,25,0.991,0.992,2:46
+2,1:33,MIA,Bam Adebayo,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,49,27,0.985,0.986,1:33
+3,10:51,MIA,Nikola Jovic,Offensive Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,54,37,0.97,0.976,11:06
+3,9:31,CHA,LaMelo Ball,Personal Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,56,40,0.971,0.972,9:36
+3,9:30,CHA,Nick Richards,Personal Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,56,40,0.971,0.971,9:31
+3,8:03,MIA,Nikola Jovic,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,58,46,0.923,0.943,8:03
+3,6:56,CHA,Cody Martin,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,63,50,0.952,0.954,7:12
+3,6:54,CHA,Terry Rozier,Personal Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,64,50,0.962,0.962,6:56
+3,6:06,CHA,P.J. Washington,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,66,52,0.968,0.956,6:06
+3,3:36,CHA,JT Thor,Personal Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,71,55,0.986,0.98,3:40
+3,1:01,MIA,Tyler Herro,Offensive Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,77,59,0.988,0.991,1:16
+4,10:50,MIA,Duncan Robinson,Personal Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,77,63,0.972,0.973,11:03
+4,10:30,CHA,LaMelo Ball,Personal Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,77,66,0.959,0.956,10:44
+4,9:55,CHA,P.J. Washington,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,77,66,0.975,0.946,10:03
+4,8:12,MIA,Caleb Martin,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,84,68,0.983,0.991,8:32
+4,6:41,MIA,Caleb Martin,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,92,71,0.999,0.999,6:48
+4,6:17,CHA,JT Thor,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,92,72,0.999,0.999,6:30
+4,5:11,MIA,Bam Adebayo,Offensive Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,95,74,0.999,0.999,5:26
+4,4:38,MIA,Bam Adebayo,Personal Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,97,74,0.999,0.999,4:47
+4,4:36,MIA,Kyle Lowry,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,97,74,0.999,0.999,4:38
+4,3:38,MIA,Caleb Martin,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,99,79,0.999,0.999,3:50
+4,53.1,MIA,Orlando Robinson,Shooting Foul,Foul,Dedric Taylor,Scott Foster,Jonathan Sterling,MIA,104,86,0.999,0.999,1:17

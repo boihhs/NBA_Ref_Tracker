@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:13,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,3,0,0.919,0.92,11:32
+1,10:29,DET,Killian Hayes,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,8,3,0.942,0.931,10:29
+1,8:36,DET,Rodney McGruder,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,11,7,0.936,0.927,8:49
+1,8:17,DET,Marvin Bagley III,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,13,10,0.917,0.918,8:24
+1,7:43,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,16,10,0.919,0.93,7:47
+1,7:18,ATL,Clint Capela,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,18,12,0.918,0.93,7:29
+1,4:45,DET,James Wiseman,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,24,23,0.9,0.887,4:59
+1,4:23,ATL,De'Andre Hunter,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,25,25,0.848,0.871,4:23
+1,3:42,DET,Eugene Omoruyi,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,25,28,0.848,0.828,3:59
+1,3:14,DET,Jaden Ivey,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,26,28,0.859,0.839,3:16
+1,1:20,ATL,Onyeka Okongwu,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,36,30,0.898,0.914,1:44
+2,10:19,DET,Jared Rhoden,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,38,34,0.909,0.895,10:36
+2,8:11,ATL,Aaron Holiday,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,43,39,0.86,0.885,8:11
+2,7:45,DET,Cory Joseph,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,43,39,0.901,0.884,7:46
+2,7:32,ATL,Onyeka Okongwu,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,44,41,0.842,0.868,7:32
+2,5:20,ATL,Trae Young,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,49,49,0.784,0.783,5:22
+2,4:55,DET,Killian Hayes,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,49,49,0.803,0.803,4:55
+2,4:49,DET,Jaden Ivey,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,49,49,0.83,0.803,4:55
+2,2:41,DET,James Wiseman,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,57,53,0.875,0.863,2:41
+2,2:30,ATL,Trae Young,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,57,53,0.816,0.845,2:41
+2,2:19,DET,James Wiseman,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,57,55,0.854,0.826,2:30
+2,1:59,DET,Rodney McGruder,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,59,55,0.883,0.861,2:02
+2,1:47,ATL,Trae Young,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,61,55,0.849,0.875,1:59
+3,10:37,DET,James Wiseman,Offensive Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,71,61,0.934,0.922,10:46
+3,10:22,DET,Killian Hayes,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,71,61,0.933,0.934,10:37
+3,10:07,ATL,De'Andre Hunter,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,71,61,0.922,0.922,10:13
+3,7:18,DET,James Wiseman,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,82,61,0.995,0.993,7:30
+3,5:50,ATL,Clint Capela,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,87,67,0.987,0.992,5:50
+3,4:53,ATL,De'Andre Hunter,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,89,69,0.986,0.991,4:55
+3,4:22,DET,Rodney McGruder,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,89,70,0.994,0.991,4:29
+3,3:34,ATL,AJ Griffin,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,91,70,0.99,0.993,3:45
+3,3:15,DET,Jaden Ivey,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,91,70,0.997,0.995,3:22
+3,1:42,ATL,Trae Young,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,95,73,0.994,0.996,2:00
+3,1:01,ATL,Aaron Holiday,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,95,75,0.991,0.994,1:10
+3,19.2,DET,R.J. Hampton,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,97,76,0.998,0.997,33.1
+3,2.1,ATL,Aaron Holiday,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,99,76,0.997,0.998,19.2
+4,11:17,DET,James Wiseman,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,99,80,0.997,0.996,11:37
+4,10:15,DET,Eugene Omoruyi,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,100,80,0.998,0.997,10:27
+4,9:48,DET,Eugene Omoruyi,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,101,80,0.998,0.998,9:54
+4,7:04,DET,Jared Rhoden,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,109,85,0.999,0.999,7:13
+4,3:14,DET,Rodney McGruder,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,121,96,0.999,0.999,3:21
+4,2:52,DET,Cory Joseph,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,123,96,0.999,0.999,2:57
+4,2:15,ATL,Garrison Mathews,Personal Take Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,123,96,0.999,0.999,2:15
+4,2:04,ATL,Vit Krejci,Shooting Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,123,96,0.999,0.999,2:15
+4,38.1,ATL,Aaron Holiday,Personal Foul,Foul,Bill Kennedy,Matt Boland,Karl Lane,ATL,129,103,0.999,0.999,3.0

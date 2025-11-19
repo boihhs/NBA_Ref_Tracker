@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:18,PHX,Bismack Biyombo,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,5,2,0.807,0.831,9:36
+1,6:49,CHA,Jalen McDaniels,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,16,7,0.908,0.908,6:55
+1,4:52,CHA,Dennis Smith Jr.,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,22,10,0.931,0.931,5:01
+1,3:57,PHX,Bismack Biyombo,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,25,10,0.945,0.945,4:12
+1,2:55,PHX,Mikal Bridges,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,27,10,0.956,0.956,2:58
+1,1:19,CHA,Theo Maledon,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,31,14,0.969,0.962,1:33
+1,3.1,PHX,Jock Landale,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,36,14,0.972,0.978,13.0
+2,10:38,PHX,Dario Saric,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,39,15,0.98,0.985,10:55
+2,9:25,CHA,Nick Richards,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,42,18,0.987,0.985,9:35
+2,8:58,PHX,Josh Okogie,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,44,18,0.99,0.989,9:14
+2,8:37,CHA,P.J. Washington,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,44,18,0.991,0.991,8:46
+2,7:54,PHX,Jock Landale,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,47,18,0.994,0.995,7:59
+2,7:28,PHX,Jock Landale,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,47,20,0.992,0.993,7:42
+2,7:01,CHA,Dennis Smith Jr.,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,49,20,0.996,0.994,7:01
+2,6:39,CHA,Bryce McGowens,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,50,22,0.994,0.994,6:49
+2,1:20,PHX,Cameron Johnson,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,55,41,0.93,0.946,1:20
+2,57.2,PHX,Bismack Biyombo,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,55,44,0.893,0.918,57.2
+3,11:28,PHX,Chris Paul,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,58,49,0.861,0.892,11:28
+3,11:06,CHA,Mason Plumlee,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,58,50,0.874,0.875,11:06
+3,9:51,CHA,Bryce McGowens,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,64,50,0.951,0.951,9:58
+3,9:22,CHA,Jalen McDaniels,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,68,52,0.97,0.96,9:22
+3,9:08,PHX,Mikal Bridges,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,69,52,0.956,0.966,9:22
+3,6:08,PHX,Cameron Johnson,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,74,57,0.972,0.972,6:15
+3,5:57,CHA,P.J. Washington,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,74,57,0.978,0.972,6:08
+3,5:47,CHA,Mason Plumlee,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,74,57,0.984,0.978,5:57
+3,4:26,CHA,Jalen McDaniels,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,80,60,0.991,0.988,4:40
+3,3:26,PHX,Jock Landale,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,85,62,0.993,0.995,3:44
+3,3:08,PHX,Jock Landale,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,85,66,0.984,0.99,3:08
+3,2:49,CHA,JT Thor,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,85,67,0.991,0.987,3:08
+3,1:03,CHA,JT Thor,Loose Ball Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,92,72,0.997,0.995,1:03
+3,49.1,PHX,Dario Saric,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,94,74,0.992,0.995,49.1
+4,11:10,PHX,Dario Saric,Loose Ball Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,98,77,0.996,0.996,11:10
+4,10:56,CHA,Jalen McDaniels,Technical Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,98,77,0.998,0.998,10:59
+4,10:14,CHA,Jalen McDaniels,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,99,77,0.998,0.997,10:22
+4,8:14,CHA,Dennis Smith Jr.,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,106,79,0.999,0.999,8:35
+4,7:24,CHA,Nick Richards,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,108,83,0.999,0.999,7:26
+4,5:49,CHA,Jalen McDaniels,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,109,85,0.999,0.999,5:53
+4,5:27,CHA,Mark Williams,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,111,85,0.999,0.999,5:35
+4,5:16,PHX,Dario Saric,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,111,85,0.999,0.999,5:27
+4,4:45,CHA,Mark Williams,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,111,87,0.999,0.999,4:59
+4,4:28,PHX,Ish Wainright,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,113,87,0.999,0.999,4:45
+4,2:45,PHX,Ish Wainright,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,118,91,0.999,0.999,2:45
+4,35.0,PHX,Duane Washington Jr.,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Ray Acosta,PHX,128,95,0.999,0.999,46.1

@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:17,BKN,Seth Curry,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,2,0,0.837,0.838,11:21
+1,10:07,BKN,Kevin Durant,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,2,4,0.793,0.769,10:24
+1,9:48,BKN,Andre Drummond,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,3,7,0.757,0.729,9:57
+1,9:35,BOS,Al Horford,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,4,7,0.727,0.726,9:48
+1,8:58,BOS,Robert Williams III,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,7,7,0.78,0.781,9:11
+1,7:12,BOS,Al Horford,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,14,15,0.738,0.77,7:12
+1,7:04,BKN,Kevin Durant,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,14,16,0.779,0.752,7:12
+1,6:43,BKN,Bruce Brown,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,18,16,0.831,0.803,6:43
+1,5:48,BOS,Marcus Smart,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,19,18,0.769,0.8,5:48
+1,3:41,BOS,Grant Williams,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,25,24,0.74,0.773,3:47
+1,2:54,BKN,Goran Dragic,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,28,28,0.784,0.748,2:54
+1,54.5,BOS,Derrick White,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,29,32,0.626,0.669,57.0
+2,11:30,BKN,Goran Dragic,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,29,34,0.666,0.629,11:47
+2,10:08,BKN,James Johnson,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,37,37,0.775,0.745,10:25
+2,9:44,BKN,Kyrie Irving,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,38,37,0.76,0.763,9:50
+2,8:53,BKN,Kyrie Irving,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,38,39,0.745,0.711,8:56
+2,7:41,BKN,Andre Drummond,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,42,43,0.739,0.704,7:53
+2,6:30,BOS,Al Horford,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,45,46,0.668,0.669,6:46
+2,6:25,BOS,Grant Williams,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,45,46,0.622,0.668,6:30
+2,2:43,BOS,Jayson Tatum,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,54,56,0.583,0.64,2:43
+2,41.8,BOS,Robert Williams III,Loose Ball Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,58,60,0.538,0.595,41.8
+3,7:09,BOS,Jayson Tatum,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,74,70,0.705,0.753,7:11
+3,6:57,BKN,Bruce Brown,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,74,72,0.723,0.724,7:09
+3,3:44,BOS,Marcus Smart,Loose Ball Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,79,82,0.461,0.46,3:50
+3,3:32,BOS,Jaylen Brown,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,79,82,0.392,0.461,3:44
+3,2:07,BKN,LaMarcus Aldridge,Offensive Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,81,87,0.351,0.308,2:22
+3,1:47,BOS,Grant Williams,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,81,87,0.238,0.302,2:00
+3,1:10,BKN,Nic Claxton,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,81,90,0.272,0.213,1:19
+3,3.6,BKN,Nic Claxton,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,86,90,0.49,0.419,21.5
+4,9:59,BKN,Nic Claxton,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,94,95,0.561,0.549,9:59
+4,9:54,BKN,Goran Dragic,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,94,95,0.569,0.561,9:59
+4,9:48,BKN,Nic Claxton,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,94,95,0.658,0.569,9:54
+4,8:55,BOS,Al Horford,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,97,95,0.653,0.667,8:55
+4,8:51,BOS,Jayson Tatum,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,97,95,0.56,0.653,8:55
+4,7:34,BKN,Bruce Brown,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,100,100,0.69,0.599,7:37
+4,6:57,BKN,Kyrie Irving,Personal Take Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,104,100,0.869,0.814,6:57
+4,6:26,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,106,100,0.927,0.888,6:37
+4,3:14,BKN,Bruce Brown,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,110,111,0.631,0.513,3:29
+4,3:03,BOS,Marcus Smart,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,112,111,0.56,0.585,3:14
+4,31.3,BKN,Goran Dragic,Personal Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,121,115,0.994,0.981,31.4
+4,22.1,BOS,Marcus Smart,Shooting Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,123,115,0.973,0.99,31.3
+4,20.1,BKN,Seth Curry,Personal Take Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,123,117,0.996,0.984,22.1
+4,12.1,BKN,Goran Dragic,Personal Take Foul,Foul,Zach Zarba,Kevin Cutler,Nick Buchert,BOS,124,120,0.987,0.951,14.6

@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:22,IND,Buddy Hield,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,7,4,0.515,0.581,8:36
+1,6:50,IND,Aaron Nesmith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,12,9,0.535,0.583,6:50
+1,6:21,IND,Andrew Nembhard,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,12,10,0.53,0.529,6:24
+1,5:50,NY,Quentin Grimes,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,12,12,0.503,0.504,6:10
+1,3:29,NY,Julius Randle,Loose Ball Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,19,17,0.558,0.56,3:29
+1,2:26,IND,Aaron Nesmith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,24,19,0.574,0.616,2:39
+1,2:00,IND,Chris Duarte,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,24,19,0.575,0.617,2:03
+1,1:41,NY,Isaiah Hartenstein,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,24,20,0.655,0.617,1:58
+1,1:01,IND,Oshae Brissett,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,25,23,0.491,0.534,1:17
+1,23.1,NY,Julius Randle,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,27,26,0.575,0.54,35.0
+2,10:49,IND,Isaiah Jackson,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,28,33,0.332,0.362,10:52
+2,9:40,NY,Jericho Sims,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,30,35,0.381,0.331,9:40
+2,7:48,IND,Jalen Smith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,35,37,0.394,0.445,7:48
+2,7:37,NY,Mitchell Robinson,Defensive 3-Seconds Technical,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,35,38,0.408,0.417,7:48
+2,5:49,IND,Buddy Hield,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,37,45,0.224,0.269,5:49
+2,5:22,NY,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,37,46,0.28,0.243,5:26
+2,4:45,NY,Mitchell Robinson,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,41,46,0.373,0.322,4:45
+2,4:45,NY,Jalen Brunson,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,42,46,0.381,0.349,4:45
+2,3:26,NY,Mitchell Robinson,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,47,48,0.501,0.442,3:26
+2,2:41,IND,Aaron Nesmith,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,48,50,0.41,0.409,2:55
+2,1:52,NY,Jalen Brunson,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,50,50,0.535,0.476,1:52
+3,11:45,IND,Myles Turner,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,53,54,0.389,0.46,12:00
+3,11:11,IND,Myles Turner,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,55,55,0.478,0.476,11:30
+3,9:23,IND,Andrew Nembhard,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,63,61,0.523,0.589,9:23
+3,8:27,IND,Buddy Hield,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,63,64,0.382,0.44,8:39
+3,7:36,IND,Andrew Nembhard,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,66,66,0.447,0.476,7:36
+3,5:00,IND,Tyrese Haliburton,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,72,74,0.331,0.391,5:00
+3,4:24,IND,Tyrese Haliburton,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,72,76,0.257,0.311,4:39
+3,3:50,IND,Buddy Hield,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,75,78,0.288,0.347,4:08
+3,3:16,NY,Jalen Brunson,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,78,80,0.43,0.428,3:23
+3,1:51,NY,Jalen Brunson,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,80,82,0.496,0.426,1:59
+3,1:39,NY,Julius Randle,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,82,82,0.557,0.475,1:39
+3,1:25,IND,Aaron Nesmith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,83,82,0.448,0.519,1:39
+3,1:11,NY,Isaiah Hartenstein,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,83,84,0.545,0.473,1:25
+4,6:55,NY,Isaiah Hartenstein,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,95,91,0.806,0.709,6:55
+4,6:19,IND,Jalen Smith,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,96,91,0.774,0.82,6:31
+4,5:52,NY,Mitchell Robinson,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,96,93,0.817,0.727,6:01
+4,5:42,IND,Chris Duarte,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,97,93,0.725,0.731,5:51
+4,5:14,IND,Buddy Hield,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,99,93,0.827,0.838,5:19
+4,5:14,NY,Jalen Brunson,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,99,93,0.877,0.827,5:14
+4,4:53,NY,Immanuel Quickley,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,99,93,0.934,0.877,5:14
+4,4:01,IND,Myles Turner,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,99,93,0.841,0.859,4:05
+4,3:53,IND,Andrew Nembhard,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,99,93,0.764,0.855,3:53
+4,2:46,NY,Julius Randle,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,99,98,0.741,0.605,3:03
+4,45.1,IND,Andrew Nembhard,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,104,103,0.392,0.542,54.1
+4,7.1,IND,Buddy Hield,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,104,105,0.089,0.228,8.0
+4,4.2,NY,RJ Barrett,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,104,107,0.186,0.121,7.1
+4,4.1,IND,Tyrese Haliburton,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Matt Myers,IND,106,107,0.054,0.139,4.2

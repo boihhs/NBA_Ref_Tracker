@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:22,DET,Marvin Bagley III,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,0,0,0.879,0.862,11:35
+1,9:36,SAC,Domantas Sabonis,Offensive Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,6,2,0.888,0.9,9:56
+1,8:35,DET,Killian Hayes,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,8,5,0.884,0.886,8:48
+1,8:26,DET,Killian Hayes,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,8,5,0.899,0.884,8:35
+1,7:47,SAC,De'Aaron Fox,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,10,7,0.861,0.882,7:47
+1,7:24,DET,Jaden Ivey,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,12,11,0.875,0.871,7:47
+1,6:45,SAC,Kevin Huerter,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,14,13,0.84,0.841,6:51
+1,5:42,SAC,De'Aaron Fox,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,16,13,0.863,0.862,5:45
+1,5:00,DET,Jalen Duren,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,18,13,0.91,0.894,5:02
+1,4:35,DET,Jaden Ivey,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,21,15,0.911,0.893,4:35
+2,10:35,DET,Hamidou Diallo,Offensive Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,40,37,0.849,0.832,10:54
+2,8:17,DET,Marvin Bagley III,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,46,45,0.829,0.804,8:32
+2,7:20,DET,Marvin Bagley III,Offensive Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,47,48,0.755,0.756,7:31
+2,6:47,DET,Kevin Knox II,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,47,50,0.736,0.703,6:55
+2,5:45,SAC,Domantas Sabonis,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,49,54,0.553,0.603,5:50
+2,5:27,DET,Isaiah Livers,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,49,55,0.644,0.601,5:39
+2,5:11,SAC,Davion Mitchell,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,50,55,0.546,0.598,5:27
+2,4:37,DET,Jalen Duren,Offensive Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,50,57,0.555,0.523,4:45
+2,3:16,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,55,59,0.555,0.637,3:21
+2,1:35,SAC,Chimezie Metu,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,61,64,0.592,0.649,1:35
+2,1:06,DET,Alec Burks,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,61,67,0.598,0.546,1:10
+3,11:34,DET,Bojan Bogdanovic,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,68,72,0.646,0.599,11:44
+3,10:28,DET,Marvin Bagley III,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,72,77,0.571,0.506,10:28
+3,9:59,SAC,Kevin Huerter,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,73,77,0.538,0.54,10:05
+3,8:39,DET,Jaden Ivey,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,76,81,0.579,0.522,8:46
+3,6:11,DET,Bojan Bogdanovic,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,84,84,0.733,0.685,6:20
+3,5:32,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,86,88,0.528,0.599,5:32
+3,5:32,SAC,Malik Monk,Technical Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,86,88,0.527,0.528,5:32
+3,5:17,DET,Marvin Bagley III,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,86,90,0.578,0.518,5:32
+3,4:19,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,90,93,0.502,0.499,4:19
+3,3:50,DET,Jaden Ivey,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,90,95,0.519,0.457,4:09
+3,2:06,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,97,97,0.537,0.61,2:18
+3,7.3,SAC,Terence Davis,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,99,100,0.463,0.541,11.9
+4,10:06,DET,Alec Burks,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,105,110,0.448,0.357,10:19
+4,8:21,SAC,De'Aaron Fox,Personal Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,110,114,0.309,0.324,8:30
+4,7:26,DET,Cory Joseph,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,114,117,0.483,0.354,7:26
+4,7:26,SAC,Malik Monk,Technical Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,114,117,0.318,0.483,7:26
+4,5:58,SAC,Kevin Huerter,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,119,120,0.342,0.46,5:58
+4,5:27,SAC,Domantas Sabonis,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,119,122,0.204,0.312,5:40
+4,3:12,SAC,De'Aaron Fox,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,124,124,0.339,0.481,3:23
+4,31.0,SAC,Kevin Huerter,Shooting Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,133,127,0.862,0.631,1:40
+4,26.0,DET,Bojan Bogdanovic,Personal Take Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,133,129,0.97,0.899,31.0
+4,22.6,DET,Jaden Ivey,Personal Take Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,133,129,0.973,0.97,26.0
+4,14.6,DET,Killian Hayes,Personal Take Foul,Foul,Marc Davis,Jonathan Sterling,Ashley Moyer-Gleich,SAC,135,129,0.997,0.99,15.4

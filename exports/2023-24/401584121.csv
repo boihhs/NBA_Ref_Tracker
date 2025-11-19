@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:19,CHI,Nikola Vucevic,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,3,0,0.65,0.666,10:19
+1,8:30,ORL,Franz Wagner,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,6,4,0.665,0.666,8:38
+1,6:36,CHI,DeMar DeRozan,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,9,4,0.709,0.708,6:50
+1,4:36,ORL,Goga Bitadze,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,11,9,0.677,0.66,4:36
+1,51.1,CHI,Ayo Dosunmu,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,16,21,0.385,0.428,59.0
+1,19.1,ORL,Cole Anthony,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,16,21,0.498,0.46,25.1
+2,9:47,CHI,Coby White,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,16,30,0.166,0.2,9:47
+2,9:23,CHI,Torrey Craig,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,16,30,0.181,0.179,9:26
+2,9:08,CHI,Zach LaVine,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,16,30,0.182,0.184,9:24
+2,7:57,CHI,Nikola Vucevic,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,18,34,0.12,0.153,7:57
+2,7:11,ORL,Cole Anthony,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,21,37,0.149,0.152,7:24
+2,6:15,ORL,Franz Wagner,Transition Take Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,23,39,0.143,0.144,6:16
+2,4:36,ORL,Paolo Banchero,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,26,39,0.194,0.195,4:43
+2,2:52,ORL,Goga Bitadze,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,28,45,0.13,0.105,3:05
+2,2:05,CHI,Zach LaVine,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,29,47,0.056,0.074,2:15
+2,1:37,ORL,Goga Bitadze,Loose Ball Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,29,48,0.091,0.069,1:37
+2,1:17,ORL,Moritz Wagner,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,31,48,0.12,0.096,1:17
+2,1:03,CHI,Alex Caruso,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,33,48,0.086,0.111,1:17
+2,14.0,ORL,Moritz Wagner,Defensive 3-Seconds Technical,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,33,48,0.118,0.123,24.1
+3,10:54,ORL,Paolo Banchero,Offensive Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,35,51,0.095,0.083,11:13
+3,10:06,CHI,Alex Caruso,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,35,55,0.03,0.042,10:06
+3,9:55,ORL,Goga Bitadze,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,35,55,0.042,0.042,10:04
+3,8:52,CHI,Zach LaVine,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,39,55,0.052,0.07,9:09
+3,8:38,ORL,Gary Harris,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,39,56,0.068,0.069,8:49
+3,6:34,ORL,Gary Harris,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,44,58,0.13,0.1,6:45
+3,5:34,CHI,Nikola Vucevic,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,48,61,0.07,0.092,5:42
+3,5:25,ORL,Cole Anthony,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,50,63,0.127,0.091,5:25
+3,5:06,ORL,Joe Ingles,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,51,63,0.168,0.129,5:07
+3,2:53,CHI,Patrick Williams,Loose Ball Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,57,69,0.065,0.088,2:53
+3,2:12,ORL,Jonathan Isaac,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,59,72,0.1,0.068,2:12
+3,41.0,CHI,Andre Drummond,Offensive Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,65,74,0.133,0.167,41.1
+3,1.1,CHI,Torrey Craig,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,65,76,0.069,0.101,1.1
+4,10:45,CHI,Torrey Craig,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,68,79,0.044,0.07,10:57
+4,10:18,ORL,Cole Anthony,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,68,83,0.03,0.028,10:27
+4,10:11,ORL,Jonathan Isaac,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,70,83,0.068,0.037,10:11
+4,9:05,ORL,Moritz Wagner,Loose Ball Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,72,83,0.084,0.076,9:05
+4,6:57,ORL,Moritz Wagner,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,74,89,0.021,0.015,7:11
+4,3:39,ORL,Paolo Banchero,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,90,89,0.709,0.576,3:39
+4,1:38,CHI,Alex Caruso,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,92,94,0.212,0.29,1:38
+4,54.1,ORL,Gary Harris,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,92,96,0.313,0.188,1:00
+4,20.1,CHI,Nikola Vucevic,Shooting Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,97,98,0.221,0.461,20.1
+4,12.0,CHI,Alex Caruso,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,97,99,0.065,0.166,12.0
+4,7.0,CHI,Zach LaVine,Personal Foul,Foul,Karl Lane,Tyler Ford,Danielle Scott,CHI,97,101,0.007,0.026,7.0

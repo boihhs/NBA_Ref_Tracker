@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:59,DET,Isaiah Stewart,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,0,4,0.695,0.698,11:14
+1,9:27,DET,Jalen Duren,Offensive Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,4,6,0.727,0.707,9:35
+1,8:56,CHI,Alex Caruso,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,6,6,0.745,0.747,9:19
+1,7:53,DET,Jalen Duren,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,6,8,0.719,0.721,8:08
+1,5:53,CHI,Terry Taylor,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,8,12,0.637,0.638,6:02
+1,5:06,DET,Ausar Thompson,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,8,14,0.605,0.607,5:15
+1,4:21,DET,Isaiah Stewart,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,10,14,0.688,0.651,4:22
+1,1:56,DET,Quentin Grimes,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,20,17,0.807,0.774,1:56
+2,11:01,DET,James Wiseman,Loose Ball Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,31,22,0.882,0.883,11:01
+2,9:51,DET,James Wiseman,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,33,25,0.887,0.869,10:04
+2,8:25,CHI,Alex Caruso,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,38,29,0.854,0.88,8:25
+2,7:56,DET,Jaden Ivey,Offensive Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,40,29,0.906,0.894,8:05
+2,7:35,CHI,Coby White,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,42,29,0.916,0.916,7:46
+2,5:06,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,44,36,0.819,0.847,5:20
+2,3:06,DET,Jaden Ivey,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,49,43,0.825,0.826,3:13
+2,2:55,DET,Ausar Thompson,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,49,43,0.853,0.825,3:06
+2,1:51,CHI,Alex Caruso,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,53,43,0.854,0.879,1:58
+2,1:41,CHI,Coby White,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,53,43,0.854,0.854,1:51
+2,46.0,CHI,Andre Drummond,Loose Ball Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,55,45,0.854,0.88,46.0
+3,11:04,CHI,DeMar DeRozan,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,57,50,0.787,0.825,11:08
+3,10:01,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,59,55,0.699,0.746,10:11
+3,6:08,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,65,71,0.321,0.389,6:08
+3,5:57,DET,Ausar Thompson,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,65,71,0.449,0.39,6:04
+3,4:22,CHI,DeMar DeRozan,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,69,75,0.267,0.324,4:23
+3,2:09,DET,Jalen Duren,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,75,79,0.461,0.378,2:09
+3,0.1,DET,Ausar Thompson,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,75,79,0.475,0.4,7.1
+4,11:43,DET,James Wiseman,Loose Ball Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,77,79,0.516,0.494,11:43
+4,10:33,DET,James Wiseman,Loose Ball Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,80,82,0.513,0.495,10:33
+4,7:29,DET,James Wiseman,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,86,89,0.522,0.411,7:40
+4,5:58,CHI,Dalen Terry,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,88,92,0.257,0.267,6:05
+4,5:38,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,88,92,0.168,0.256,5:42
+4,4:58,DET,Jalen Duren,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,88,95,0.223,0.141,5:00
+4,4:11,CHI,Alex Caruso,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,90,98,0.06,0.069,4:15
+4,3:59,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,90,98,0.03,0.06,4:11
+4,3:32,CHI,Nikola Vucevic,Loose Ball Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,90,99,0.016,0.032,3:32
+4,2:18,DET,Jaden Ivey,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,92,101,0.063,0.031,2:19
+4,26.2,CHI,Andre Drummond,Personal Foul,Foul,James Capers,J.T. Orr,Mousa Dagher,CHI,95,104,0.001,0.002,37.2

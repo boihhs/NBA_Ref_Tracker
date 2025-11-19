@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:15,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,6,2,0.279,0.32,10:15
+1,9:02,DET,Ausar Thompson,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,9,3,0.316,0.399,9:09
+1,8:12,DET,Killian Hayes,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,13,5,0.409,0.405,8:21
+1,7:37,DET,Isaiah Stewart,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,15,7,0.373,0.41,7:52
+1,7:07,PHI,De'Anthony Melton,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,15,7,0.444,0.446,7:09
+1,6:14,DET,Cade Cunningham,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,17,9,0.404,0.453,6:14
+1,5:17,DET,Marcus Sasser,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,17,11,0.342,0.379,5:19
+1,4:13,DET,Marvin Bagley III,Defensive 3-Seconds Technical,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,19,13,0.396,0.388,4:16
+1,2:48,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,21,17,0.414,0.372,3:02
+1,2:38,DET,Stanley Umude,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,23,17,0.381,0.401,2:38
+2,11:29,PHI,Marcus Morris Sr.,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,33,23,0.623,0.574,11:45
+2,11:29,PHI,Marcus Morris Sr.,Technical Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,34,23,0.634,0.634,11:29
+2,11:12,DET,Jared Rhoden,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,36,23,0.598,0.674,11:17
+2,11:11,PHI,Nicolas Batum,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,36,25,0.612,0.613,11:12
+2,10:59,PHI,Marcus Morris Sr.,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,36,25,0.655,0.612,11:11
+2,8:01,PHI,Paul Reed,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,42,28,0.776,0.735,8:01
+2,6:37,DET,Ausar Thompson,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,44,32,0.64,0.695,6:37
+2,5:25,DET,Cade Cunningham,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,49,36,0.663,0.707,5:28
+2,5:17,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,49,38,0.726,0.679,5:25
+2,5:09,DET,Marvin Bagley III,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,51,38,0.667,0.709,5:17
+2,4:56,DET,Cade Cunningham,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,51,38,0.669,0.667,5:09
+2,4:56,PHI,Joel Embiid,Technical Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,51,38,0.768,0.745,4:56
+2,4:18,DET,Marcus Sasser,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,54,40,0.708,0.747,4:35
+2,1:52,DET,Ausar Thompson,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,56,43,0.705,0.749,1:57
+2,33.1,DET,Jalen Duren,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,56,47,0.587,0.639,42.0
+3,11:04,PHI,Tyrese Maxey,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,56,52,0.511,0.511,11:19
+3,10:15,DET,Ausar Thompson,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,58,52,0.501,0.554,10:27
+3,8:53,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,58,55,0.428,0.456,8:53
+3,8:03,PHI,De'Anthony Melton,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,60,60,0.389,0.389,8:14
+3,7:27,PHI,Tobias Harris,Offensive Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,62,60,0.47,0.429,7:39
+3,5:42,PHI,Tyrese Maxey,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,65,64,0.507,0.445,5:54
+3,5:32,PHI,Joel Embiid,Offensive Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,66,64,0.487,0.445,5:38
+3,4:22,DET,Marvin Bagley III,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,69,66,0.434,0.496,4:38
+3,3:44,DET,Cade Cunningham,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,71,68,0.439,0.502,4:04
+3,3:22,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,71,70,0.357,0.419,3:30
+3,3:11,PHI,De'Anthony Melton,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,71,72,0.446,0.379,3:22
+3,2:56,PHI,Nicolas Batum,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,71,72,0.448,0.446,3:11
+3,1:04,DET,Marcus Sasser,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,73,77,0.177,0.226,1:07
+3,20.1,PHI,Jaden Springer,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,75,81,0.248,0.196,26.1
+4,10:04,PHI,Paul Reed,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,79,90,0.063,0.059,10:19
+4,9:49,PHI,Paul Reed,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,79,90,0.064,0.059,9:49
+4,7:41,PHI,Nicolas Batum,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,85,96,0.068,0.034,7:41
+4,7:22,DET,James Wiseman,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,85,96,0.021,0.036,7:37
+4,6:11,DET,Cade Cunningham,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,88,102,0.006,0.013,6:11
+4,4:55,PHI,Kelly Oubre Jr.,Loose Ball Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,90,103,0.026,0.013,5:02
+4,4:05,DET,Marcus Sasser,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,90,105,0.001,0.001,4:12
+4,3:28,PHI,Kelly Oubre Jr.,Transition Take Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,92,107,0.002,0.002,3:28
+4,3:18,PHI,Tyrese Maxey,Shooting Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,94,107,0.009,0.003,3:18
+4,2:04,PHI,Nicolas Batum,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,95,112,0.001,0.001,2:18
+4,1:56,DET,Isaiah Stewart,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,97,112,0.001,0.001,2:04
+4,1:47,DET,Stanley Umude,Personal Foul,Foul,Marat Kogut,Tony Brothers,Justin Van Duyne,DET,97,112,0.001,0.001,1:56

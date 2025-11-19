@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:16,CHI,Javonte Green,Personal Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,7,5,0.519,0.519,9:19
+1,9:00,SAC,Donte DiVincenzo,Personal Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,7,5,0.495,0.494,9:05
+1,5:32,CHI,Javonte Green,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,13,5,0.7,0.684,5:32
+1,4:12,SAC,Richaun Holmes,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,20,9,0.699,0.735,4:18
+1,3:43,SAC,De'Aaron Fox,Personal Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,20,10,0.713,0.714,3:44
+1,3:25,CHI,DeMar DeRozan,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,20,13,0.703,0.666,3:32
+1,2:27,CHI,Alex Caruso,Personal Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,23,14,0.753,0.71,4:12
+1,1:10,SAC,Richaun Holmes,Loose Ball Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,25,17,0.631,0.67,1:10
+1,56.7,CHI,DeMar DeRozan,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,25,17,0.737,0.7,58.5
+2,11:42,SAC,Josh Jackson,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,27,17,0.689,0.73,11:49
+2,11:12,SAC,Chimezie Metu,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,27,19,0.639,0.705,11:23
+2,9:47,SAC,Josh Jackson,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,31,23,0.644,0.683,9:52
+2,8:16,CHI,Tristan Thompson,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,33,30,0.621,0.575,8:26
+2,4:48,CHI,Ayo Dosunmu,Personal Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,45,36,0.76,0.76,4:53
+2,2:57,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,51,38,0.885,0.858,3:09
+3,8:28,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,68,54,0.933,0.91,8:46
+3,6:42,SAC,Trey Lyles,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,70,58,0.833,0.868,7:03
+3,2:43,SAC,Richaun Holmes,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,82,70,0.866,0.899,2:54
+3,1:52,SAC,De'Aaron Fox,Personal Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,84,72,0.873,0.904,2:16
+3,1:49,SAC,Davion Mitchell,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,84,72,0.873,0.873,1:52
+3,1:09,SAC,Maurice Harkless,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,84,74,0.846,0.866,1:09
+3,59.1,CHI,Tristan Thompson,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,84,75,0.903,0.868,1:09
+3,18.4,SAC,Chimezie Metu,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,86,75,0.86,0.895,31.9
+4,11:52,CHI,Tristan Thompson,Offensive Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,88,77,0.926,0.911,12:00
+4,11:42,CHI,Tristan Thompson,Personal Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,88,77,0.931,0.926,11:52
+4,10:02,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,90,79,0.918,0.925,10:02
+4,9:52,SAC,Davion Mitchell,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,90,81,0.838,0.902,9:52
+4,8:30,SAC,De'Aaron Fox,Offensive Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,90,87,0.622,0.68,8:41
+4,8:17,SAC,Harrison Barnes,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,90,87,0.517,0.622,8:30
+4,7:59,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,90,89,0.403,0.502,7:59
+4,7:34,CHI,Coby White,Personal Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,90,89,0.571,0.555,7:38
+4,6:54,CHI,Tristan Thompson,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,92,89,0.78,0.683,7:08
+4,5:18,CHI,Coby White,Personal Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,98,92,0.916,0.86,5:30
+4,3:56,CHI,DeMar DeRozan,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,98,94,0.84,0.802,4:02
+4,1:54,CHI,Alex Caruso,Personal Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,104,96,0.989,0.977,1:54
+4,1:23,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,106,98,0.993,0.98,1:41
+4,41.9,SAC,Domantas Sabonis,Shooting Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,108,102,0.907,0.97,41.9
+4,36.5,CHI,Zach LaVine,Personal Take Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,108,103,0.98,0.943,41.9
+4,24.5,CHI,Alex Caruso,Personal Take Foul,Foul,Zach Zarba,Karl Lane,Aaron Smith,SAC,110,103,0.998,0.993,24.5

@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:20,TOR,Fred VanVleet,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,7,2,0.499,0.497,9:20
+1,7:37,DAL,Kristaps Porzingis,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,9,2,0.585,0.584,7:37
+1,5:45,TOR,Scottie Barnes,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,16,4,0.696,0.722,5:45
+1,4:45,TOR,Fred VanVleet,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,19,7,0.705,0.7,4:57
+1,4:01,DAL,Jalen Brunson,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,19,9,0.684,0.685,4:04
+1,2:16,TOR,OG Anunoby,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,22,13,0.597,0.637,2:29
+1,1:56,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,22,15,0.656,0.612,2:06
+1,1:27,TOR,Scottie Barnes,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,25,15,0.627,0.667,1:43
+1,1:02,TOR,Goran Dragic,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,25,17,0.574,0.613,1:07
+2,11:23,DAL,Sterling Brown,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,25,18,0.626,0.628,11:23
+2,9:48,TOR,OG Anunoby,Loose Ball Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,28,21,0.607,0.606,9:48
+2,8:55,DAL,Jalen Brunson,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,28,21,0.641,0.642,9:10
+2,7:46,DAL,Maxi Kleber,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,30,24,0.64,0.586,7:46
+2,6:32,TOR,Scottie Barnes,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,36,26,0.668,0.71,6:53
+2,5:35,TOR,Precious Achiuwa,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,39,28,0.703,0.744,5:42
+2,5:18,DAL,Dwight Powell,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,39,30,0.76,0.719,5:35
+2,4:59,TOR,OG Anunoby,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,41,30,0.708,0.746,5:18
+2,4:19,TOR,Svi Mykhailiuk,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,43,34,0.652,0.697,4:30
+2,2:37,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,45,42,0.6,0.55,2:54
+2,2:28,TOR,Isaac Bonga,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,47,42,0.533,0.581,2:37
+2,28.9,DAL,Kristaps Porzingis,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,50,45,0.679,0.629,29.2
+3,10:22,TOR,Precious Achiuwa,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,55,48,0.676,0.679,10:29
+3,9:59,DAL,Dwight Powell,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,55,48,0.76,0.715,10:05
+3,9:24,TOR,Scottie Barnes,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,58,50,0.716,0.715,9:34
+3,7:26,DAL,Dwight Powell,Loose Ball Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,60,57,0.589,0.589,7:26
+3,5:32,TOR,Khem Birch,Offensive Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,62,64,0.353,0.393,5:43
+3,5:21,TOR,Fred VanVleet,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,62,64,0.354,0.353,5:32
+3,4:48,TOR,OG Anunoby,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,62,67,0.198,0.246,4:48
+3,3:17,TOR,Fred VanVleet,Offensive Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,67,72,0.24,0.278,3:25
+3,2:49,DAL,Jalen Brunson,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,67,72,0.278,0.276,2:57
+3,2:20,TOR,OG Anunoby,Loose Ball Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,67,72,0.185,0.235,2:20
+3,31.5,DAL,Sterling Brown,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,69,74,0.33,0.27,38.7
+4,10:40,DAL,Tim Hardaway Jr.,Personal Take Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,72,76,0.299,0.3,10:44
+4,9:31,DAL,Kristaps Porzingis,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,74,82,0.195,0.14,9:43
+4,8:07,DAL,Luka Doncic,Offensive Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,75,84,0.103,0.079,8:23
+4,7:54,DAL,Dwight Powell,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,75,84,0.16,0.103,8:07
+4,7:23,TOR,Goran Dragic,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,76,84,0.111,0.095,7:23
+4,7:03,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,76,84,0.127,0.121,7:03
+4,1:57,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,84,97,0.006,0.003,2:14
+4,1:25,DAL,Luka Doncic,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,86,99,0.003,0.001,1:32
+4,57.6,DAL,Luka Doncic,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,89,99,0.011,0.002,57.6
+4,44.6,TOR,Gary Trent Jr.,Personal Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,90,99,0.001,0.004,57.6
+4,21.8,TOR,Scottie Barnes,Shooting Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,93,103,0.001,0.001,21.8
+4,10.5,DAL,Tim Hardaway Jr.,Loose Ball Foul,Foul,Josh Tiven,Aaron Smith,Andy Nagy,TOR,93,103,0.001,0.001,10.5

@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,DAL,Luka Doncic,Personal Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,0,4,0.297,0.298,11:07
+1,8:26,LAC,James Harden,Offensive Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,9,10,0.345,0.369,8:47
+1,7:04,LAC,Terance Mann,Personal Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,13,14,0.35,0.348,7:10
+1,1:20,DAL,Luka Doncic,Personal Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,23,25,0.4,0.36,1:38
+1,1:14,DAL,Maxi Kleber,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,23,25,0.4,0.4,1:20
+2,11:11,DAL,Kyrie Irving,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,24,27,0.357,0.339,11:11
+2,9:16,DAL,Dereck Lively II,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,27,32,0.327,0.288,9:23
+2,8:13,LAC,Mason Plumlee,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,31,37,0.222,0.264,8:13
+2,5:35,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,37,41,0.27,0.288,5:35
+2,4:28,DAL,Dereck Lively II,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,41,43,0.398,0.346,4:28
+2,4:08,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,42,43,0.333,0.376,4:28
+2,3:50,LAC,Terance Mann,Loose Ball Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,42,44,0.304,0.346,3:50
+2,3:11,LAC,Paul George,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,42,46,0.269,0.289,3:11
+2,3:04,DAL,Derrick Jones Jr.,Personal Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,42,48,0.306,0.264,3:11
+2,2:03,LAC,Paul George,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,44,51,0.177,0.208,2:14
+2,12.0,DAL,Derrick Jones Jr.,Personal Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,44,56,0.153,0.122,14.1
+3,9:26,DAL,Kyrie Irving,Personal Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,48,59,0.131,0.134,9:41
+3,8:48,DAL,P.J. Washington,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,48,59,0.162,0.13,8:54
+3,8:20,DAL,Kyrie Irving,Loose Ball Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,50,59,0.172,0.172,8:29
+3,7:59,LAC,Norman Powell,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,50,61,0.095,0.126,7:59
+3,7:53,DAL,P.J. Washington,Personal Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,50,62,0.136,0.108,7:59
+3,6:53,DAL,Maxi Kleber,Offensive Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,50,64,0.071,0.059,7:01
+3,6:21,LAC,Terance Mann,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,50,66,0.033,0.047,6:21
+3,5:30,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,50,69,0.012,0.018,5:33
+3,4:44,LAC,Norman Powell,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,50,73,0.003,0.007,4:44
+3,4:38,DAL,Kyrie Irving,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,50,73,0.011,0.007,4:40
+3,2:50,DAL,Derrick Jones Jr.,Personal Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,56,80,0.006,0.003,2:56
+3,7.1,LAC,Mason Plumlee,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,69,88,0.005,0.009,7.1
+4,11:09,DAL,Derrick Jones Jr.,Loose Ball Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,71,89,0.011,0.01,11:09
+4,9:46,DAL,Luka Doncic,Personal Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,71,92,0.003,0.003,9:50
+4,9:32,LAC,P.J. Tucker,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,71,92,0.001,0.001,9:33
+4,9:17,DAL,Dereck Lively II,Loose Ball Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,71,94,0.001,0.001,9:17
+4,9:04,LAC,Ivica Zubac,Offensive Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,71,94,0.001,0.001,9:17
+4,8:56,DAL,Derrick Jones Jr.,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,71,94,0.002,0.001,8:57
+4,8:18,LAC,Norman Powell,Offensive Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,72,94,0.001,0.001,8:29
+4,5:40,LAC,Mason Plumlee,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,74,103,0.001,0.001,5:40
+4,5:39,DAL,Luka Doncic,Personal Take Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,74,104,0.001,0.001,5:40
+4,4:24,LAC,Brandon Boston,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,79,109,0.001,0.001,4:33
+4,2:59,LAC,Brandon Boston,Personal Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,84,113,0.001,0.001,3:01
+4,2:42,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Zach Zarba,Mitchell Ervin,LAC,84,116,0.001,0.001,2:47

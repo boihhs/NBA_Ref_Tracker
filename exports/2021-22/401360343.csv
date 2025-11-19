@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:16,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,2,0,0.554,0.542,11:16
+1,10:58,SAC,Richaun Holmes,Loose Ball Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,2,0,0.542,0.541,10:58
+1,10:17,DAL,Kristaps Porzingis,Loose Ball Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,4,2,0.567,0.567,10:17
+1,9:57,SAC,Marvin Bagley III,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,4,2,0.541,0.54,10:04
+1,8:54,SAC,Tyrese Haliburton,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,6,10,0.399,0.387,8:54
+1,8:46,SAC,Marvin Bagley III,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,6,10,0.351,0.399,8:54
+1,7:12,SAC,De'Aaron Fox,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,8,16,0.256,0.29,7:18
+1,6:59,DAL,Jalen Brunson,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,10,17,0.324,0.311,6:59
+1,6:42,SAC,Chimezie Metu,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,11,17,0.3,0.335,6:59
+1,4:21,DAL,Josh Green,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,13,21,0.345,0.308,4:31
+1,0.9,SAC,Damian Jones,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,20,29,0.215,0.271,6.9
+2,9:05,DAL,Theo Pinson,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,27,35,0.273,0.259,9:05
+2,8:10,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,30,37,0.352,0.31,8:26
+2,7:17,SAC,Tyrese Haliburton,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,33,37,0.363,0.362,7:31
+2,6:49,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,33,39,0.335,0.336,7:05
+2,6:01,SAC,De'Aaron Fox,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,37,39,0.421,0.422,6:10
+2,4:08,DAL,Josh Green,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,39,39,0.566,0.52,4:17
+2,1:40,DAL,Dorian Finney-Smith,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,45,43,0.635,0.583,1:48
+2,1:32,SAC,Damian Jones,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,47,43,0.57,0.619,1:40
+3,11:31,DAL,Dorian Finney-Smith,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,55,45,0.827,0.827,11:45
+3,10:39,SAC,Richaun Holmes,Offensive Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,57,47,0.808,0.832,10:45
+3,8:59,DAL,Jalen Brunson,Personal Take Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,59,49,0.84,0.842,8:59
+3,8:49,DAL,Dorian Finney-Smith,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,59,49,0.839,0.84,8:59
+3,5:54,SAC,De'Aaron Fox,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,68,58,0.837,0.837,5:56
+3,4:36,SAC,De'Aaron Fox,Loose Ball Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,68,60,0.79,0.79,4:36
+3,4:10,SAC,Buddy Hield,Personal Take Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,68,62,0.647,0.722,4:12
+3,3:47,DAL,Josh Green,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,68,64,0.746,0.607,4:04
+3,1:13,DAL,Sterling Brown,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,68,69,0.549,0.478,1:20
+4,7:42,SAC,Tyrese Haliburton,Loose Ball Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,77,81,0.236,0.246,7:42
+4,10:34,SAC,Richaun Holmes,Away from Play Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,72,75,0.27,0.236,7:42
+4,7:27,DAL,Dwight Powell,Loose Ball Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,77,81,0.296,0.287,7:27
+4,6:53,SAC,Damian Jones,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,79,81,0.317,0.336,7:12
+4,6:47,SAC,Damian Jones,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,79,81,0.235,0.317,6:53
+4,5:18,DAL,Jalen Brunson,Offensive Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,81,86,0.198,0.596,11:44
+4,4:18,SAC,Richaun Holmes,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,86,88,0.2,0.291,4:34
+4,3:41,SAC,Marvin Bagley III,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,88,88,0.316,0.428,4:03
+4,2:32,DAL,Kristaps Porzingis,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,88,90,0.419,0.343,2:32
+4,33.2,SAC,De'Aaron Fox,Shooting Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,92,92,0.238,0.432,43.0
+4,3.8,DAL,Dorian Finney-Smith,Personal Foul,Foul,Derrick Collins,Jonathan Sterling,Dannica Mosher,SAC,92,94,0.366,0.121,4.3

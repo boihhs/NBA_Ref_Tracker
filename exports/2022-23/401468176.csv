@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:09,BKN,Kyrie Irving,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,2,4,0.54,0.54,10:13
+1,8:58,BKN,Nic Claxton,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,4,6,0.537,0.538,9:10
+1,7:55,TOR,Fred VanVleet,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,6,8,0.559,0.561,8:06
+1,7:48,BKN,Nic Claxton,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,8,8,0.585,0.585,7:53
+1,7:26,TOR,Pascal Siakam,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,8,8,0.645,0.61,7:36
+1,5:19,TOR,Pascal Siakam,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,14,14,0.642,0.605,5:26
+1,2:51,BKN,Day'Ron Sharpe,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,20,21,0.525,0.543,2:51
+1,1:13,BKN,Markieff Morris,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,26,22,0.638,0.678,1:17
+1,1:01,TOR,Dalano Banton,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,26,24,0.686,0.651,1:13
+1,28.2,BKN,Day'Ron Sharpe,Transition Take Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,28,24,0.677,0.677,28.2
+2,11:43,TOR,Christian Koloko,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,28,24,0.735,0.686,12:00
+2,10:43,TOR,Precious Achiuwa,Loose Ball Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,28,26,0.647,0.648,10:43
+2,10:33,TOR,Precious Achiuwa,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,28,26,0.646,0.647,10:43
+2,7:22,BKN,Ben Simmons,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,35,35,0.553,0.554,7:37
+2,5:52,BKN,Kyrie Irving,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,37,39,0.439,0.486,5:56
+2,5:15,TOR,Scottie Barnes,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,37,43,0.437,0.391,5:30
+2,4:13,BKN,Day'Ron Sharpe,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,37,43,0.355,0.353,4:17
+2,3:47,TOR,OG Anunoby,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,37,46,0.334,0.291,4:03
+2,3:17,BKN,Joe Harris,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,40,46,0.302,0.348,3:28
+2,2:30,TOR,OG Anunoby,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,43,50,0.393,0.344,2:44
+2,2:09,TOR,Pascal Siakam,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,45,50,0.456,0.408,2:13
+2,1:07,BKN,Royce O'Neale,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,47,50,0.382,0.432,1:13
+3,8:27,BKN,Kevin Durant,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,58,56,0.573,0.639,8:27
+3,7:13,BKN,Kyrie Irving,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,64,56,0.8,0.8,7:33
+3,5:54,BKN,Ben Simmons,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,64,63,0.529,0.599,5:54
+3,4:24,BKN,Royce O'Neale,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,64,70,0.246,0.309,4:24
+3,3:12,TOR,OG Anunoby,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,66,76,0.208,0.164,3:31
+3,2:43,TOR,Christian Koloko,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,68,78,0.202,0.159,2:54
+3,2:35,BKN,Markieff Morris,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,69,78,0.117,0.155,2:43
+3,1:57,TOR,Christian Koloko,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,71,79,0.239,0.211,1:57
+4,10:26,TOR,Christian Koloko,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,81,79,0.703,0.652,10:26
+4,10:12,BKN,Kyrie Irving,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,83,79,0.694,0.703,10:26
+4,9:43,TOR,OG Anunoby,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,85,79,0.863,0.79,9:43
+4,7:18,TOR,Christian Koloko,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,93,88,0.883,0.766,7:57
+4,7:08,TOR,Scottie Barnes,Offensive Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,95,88,0.892,0.861,7:18
+4,2:02,BKN,Markieff Morris,Offensive Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,100,97,0.74,0.734,2:19
+4,9.0,BKN,Kevin Durant,Shooting Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,108,104,0.777,0.901,14.3
+4,6.2,TOR,Fred VanVleet,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,108,105,0.983,0.94,6.8
+4,4.3,TOR,Fred VanVleet,Personal Foul,Foul,James Capers,Sean Corbin,Dannica Mosher,BKN,108,105,0.988,0.983,6.2

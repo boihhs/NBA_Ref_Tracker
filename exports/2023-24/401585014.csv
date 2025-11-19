@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:57,GS,Kevon Looney,Personal Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,0,4,0.715,0.713,10:57
+1,8:20,GS,Kevon Looney,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,5,8,0.685,0.719,8:35
+1,6:12,GS,Chris Paul,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,11,17,0.612,0.656,6:12
+1,5:07,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,16,17,0.708,0.74,5:19
+1,1:38,GS,Chris Paul,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,22,23,0.682,0.72,1:48
+1,1:29,WSH,Mike Muscala,Defensive 3-Seconds Technical,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,22,25,0.688,0.697,1:38
+1,1:22,WSH,Mike Muscala,Personal Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,22,25,0.727,0.692,1:29
+1,15.2,WSH,Landry Shamet,Personal Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,26,25,0.802,0.78,32.1
+2,11:49,GS,Jonathan Kuminga,Offensive Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,28,25,0.791,0.804,12:00
+2,9:55,WSH,Mike Muscala,Offensive Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,35,30,0.84,0.822,10:01
+2,9:07,WSH,Jordan Poole,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,35,32,0.829,0.802,9:13
+2,8:59,GS,Brandin Podziemski,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,37,32,0.79,0.82,9:07
+2,8:30,WSH,Corey Kispert,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,42,34,0.891,0.867,8:30
+2,4:41,GS,Cory Joseph,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,47,42,0.773,0.807,4:44
+2,2:31,GS,Cory Joseph,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,56,51,0.783,0.821,2:31
+2,2:14,GS,Stephen Curry,Technical Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,58,52,0.805,0.821,2:21
+2,2:07,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,58,53,0.763,0.8,2:14
+2,1:29,WSH,Jordan Poole,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,58,54,0.829,0.799,1:42
+2,33.0,GS,Jonathan Kuminga,Loose Ball Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,61,56,0.758,0.794,33.0
+3,8:57,WSH,Deni Avdija,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,75,68,0.87,0.836,8:57
+3,8:15,WSH,Daniel Gafford,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,76,70,0.865,0.835,8:31
+3,6:32,WSH,Kyle Kuzma,Personal Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,83,75,0.876,0.877,6:55
+3,3:24,WSH,Corey Kispert,Personal Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,93,80,0.969,0.956,3:28
+3,2:24,WSH,Corey Kispert,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,93,80,0.971,0.958,2:45
+3,1:28,WSH,Landry Shamet,Personal Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,97,80,0.991,0.986,1:38
+3,6.0,GS,Moses Moody,Personal Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,101,80,0.993,0.996,20.0
+4,11:50,GS,Brandin Podziemski,Personal Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,101,83,0.989,0.991,12:00
+4,9:19,GS,Klay Thompson,Defensive 3-Seconds Technical,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,108,89,0.996,0.995,9:31
+4,8:47,GS,Dario Saric,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,111,90,0.996,0.998,8:58
+4,7:27,WSH,Jordan Poole,Offensive Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,115,94,0.999,0.998,7:31
+4,6:05,WSH,Ryan Rollins,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,117,96,0.999,0.999,6:10
+4,5:16,GS,Lester Quinones,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,119,100,0.998,0.999,5:16
+4,3:49,GS,Gui Santos,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,119,104,0.995,0.998,3:49
+4,1:54,GS,Cory Joseph,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,122,109,0.996,0.999,1:54
+4,5.1,WSH,Bilal Coulibaly,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Gediminas Petraitis,GS,127,115,0.999,0.999,5.1

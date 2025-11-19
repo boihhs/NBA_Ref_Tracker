@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:47,HOU,Alperen Sengun,Offensive Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,6,5,0.31,0.337,8:57
+1,8:16,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,6,7,0.292,0.265,8:28
+1,7:14,OKC,Josh Giddey,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,10,10,0.335,0.296,7:14
+1,6:28,HOU,Fred VanVleet,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,14,13,0.287,0.318,6:42
+1,6:18,OKC,Jalen Williams,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,14,15,0.333,0.298,6:28
+1,2:41,HOU,Dillon Brooks,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,26,25,0.3,0.334,2:50
+1,1:00,HOU,Cam Whitmore,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,31,27,0.385,0.425,1:11
+2,10:19,OKC,Kenrich Williams,Personal Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,38,31,0.562,0.564,10:21
+2,10:13,OKC,Josh Giddey,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,40,31,0.645,0.596,10:13
+2,10:00,HOU,Amen Thompson,Personal Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,40,31,0.594,0.595,10:11
+2,9:26,OKC,Josh Giddey,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,40,31,0.672,0.628,9:46
+2,6:26,OKC,Chet Holmgren,Personal Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,48,40,0.671,0.625,6:37
+2,5:57,OKC,Jalen Williams,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,51,40,0.76,0.718,6:00
+2,5:23,HOU,Alperen Sengun,Personal Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,53,40,0.752,0.751,5:27
+2,5:11,HOU,Dillon Brooks,Loose Ball Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,53,40,0.754,0.754,5:11
+2,5:00,OKC,Isaiah Joe,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,55,40,0.845,0.806,5:00
+2,2:55,HOU,Amen Thompson,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,59,48,0.697,0.749,2:55
+2,1:37,HOU,Fred VanVleet,Personal Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,61,53,0.584,0.638,1:50
+2,27.1,OKC,Jalen Williams,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,61,57,0.596,0.544,31.1
+3,11:00,OKC,Luguentz Dort,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,62,60,0.537,0.481,11:14
+3,9:14,OKC,Josh Giddey,Offensive Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,69,62,0.683,0.645,9:23
+3,6:53,OKC,Josh Giddey,Personal Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,73,67,0.667,0.669,7:04
+3,5:07,OKC,Luguentz Dort,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,73,72,0.546,0.479,5:23
+3,3:48,HOU,Cam Whitmore,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,75,76,0.303,0.361,3:57
+3,1:54,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,78,80,0.436,0.367,1:55
+3,1:40,OKC,Isaiah Joe,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,80,80,0.496,0.41,1:40
+3,4.0,HOU,Amen Thompson,Personal Take Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,83,85,0.261,0.728,7:40
+4,6:38,HOU,Jabari Smith Jr.,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,98,106,0.056,0.075,6:53
+4,6:10,HOU,Jalen Green,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,98,108,0.019,0.037,6:25
+4,5:22,OKC,Isaiah Joe,Personal Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,98,109,0.031,0.028,5:27
+4,4:09,OKC,Luguentz Dort,Personal Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,98,112,0.005,0.005,4:19
+4,3:20,OKC,Chet Holmgren,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,98,115,0.001,0.001,3:20
+4,2:52,OKC,Jalen Williams,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,100,115,0.003,0.001,2:57
+4,1:28,OKC,Chet Holmgren,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,108,121,0.001,0.001,1:28
+4,37.1,OKC,Luguentz Dort,Shooting Foul,Foul,CJ Washington,Gediminas Petraitis,Ashley Moyer-Gleich,HOU,109,123,0.001,0.001,48.2

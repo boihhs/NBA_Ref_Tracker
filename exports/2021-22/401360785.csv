@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,NY,Evan Fournier,Personal Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,0,0,0.705,0.705,11:44
+1,11:07,LAC,Ivica Zubac,Offensive Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,0,3,0.613,0.64,11:22
+1,8:56,NY,RJ Barrett,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,3,7,0.64,0.605,9:01
+1,8:08,LAC,Marcus Morris Sr.,Personal Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,7,10,0.599,0.598,8:21
+1,7:12,LAC,Nicolas Batum,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,7,12,0.522,0.54,7:12
+1,5:30,LAC,Ivica Zubac,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,11,14,0.566,0.61,5:30
+1,2:40,LAC,Isaiah Hartenstein,Loose Ball Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,15,19,0.5,0.541,2:40
+1,17.8,LAC,Reggie Jackson,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,22,24,0.564,0.585,17.8
+1,8.4,NY,Miles McBride,Personal Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,22,24,0.652,0.611,15.6
+1,4.4,NY,Jericho Sims,Loose Ball Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,22,24,0.652,0.612,4.4
+2,10:38,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,22,29,0.381,0.425,10:43
+2,9:55,LAC,Robert Covington,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,22,31,0.321,0.362,9:58
+2,9:24,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,22,33,0.264,0.305,9:41
+2,7:56,LAC,Robert Covington,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,22,37,0.155,0.187,8:00
+2,6:21,NY,Miles McBride,Personal Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,22,41,0.118,0.122,6:36
+2,5:37,LAC,Nicolas Batum,Personal Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,27,41,0.158,0.192,5:39
+2,4:34,LAC,Nicolas Batum,Personal Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,30,43,0.171,0.206,4:37
+2,1:47,LAC,Reggie Jackson,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,37,50,0.147,0.18,1:58
+2,1:24,LAC,Terance Mann,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,37,53,0.102,0.133,1:24
+2,24.0,LAC,Luke Kennard,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,40,59,0.055,0.076,24.0
+2,7.3,NY,Cam Reddish,Personal Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,40,59,0.097,0.151,47.9
+3,8:53,NY,Julius Randle,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,46,68,0.039,0.028,9:02
+3,8:12,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,48,70,0.014,0.021,8:22
+3,7:47,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,48,74,0.005,0.008,7:47
+3,7:36,NY,Alec Burks,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,48,74,0.013,0.008,7:38
+3,5:10,LAC,Ivica Zubac,Loose Ball Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,54,78,0.007,0.006,5:10
+3,4:36,NY,Alec Burks,Personal Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,54,78,0.008,0.008,4:50
+3,4:19,NY,RJ Barrett,Technical Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,57,78,0.022,0.013,4:20
+3,3:44,NY,RJ Barrett,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,58,78,0.032,0.022,3:55
+3,2:56,LAC,Amir Coffey,Personal Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,60,78,0.017,0.025,3:12
+3,1:16,LAC,Ivica Zubac,Offensive Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,66,80,0.05,0.068,1:30
+3,43.6,NY,Jericho Sims,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,66,80,0.09,0.063,59.7
+4,11:24,LAC,Terance Mann,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,68,80,0.04,0.064,11:27
+4,9:41,LAC,Luke Kennard,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,68,84,0.007,0.013,9:42
+4,8:31,NY,Miles McBride,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,68,90,0.002,0.001,8:53
+4,7:10,NY,Miles McBride,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,71,95,0.001,0.001,7:26
+4,6:03,NY,Jericho Sims,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,72,100,0.001,0.001,6:14
+4,4:07,NY,Cam Reddish,Personal Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,76,108,0.001,0.001,4:24
+4,2:02,NY,Jericho Sims,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,84,113,0.001,0.001,2:02
+4,1:56,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,84,113,0.001,0.001,1:59
+4,1:18,NY,Immanuel Quickley,Shooting Foul,Foul,Kane Fitzgerald,Tre Maddox,Justin Van Duyne,LAC,89,114,0.001,0.001,1:18

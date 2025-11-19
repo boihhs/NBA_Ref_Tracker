@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:21,TOR,Svi Mykhailiuk,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,6,2,0.789,0.762,9:26
+1,7:38,NY,Evan Fournier,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,9,6,0.717,0.739,7:38
+1,6:36,TOR,Precious Achiuwa,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,12,10,0.746,0.716,6:37
+1,5:19,TOR,Svi Mykhailiuk,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,16,14,0.711,0.713,5:43
+1,4:29,TOR,OG Anunoby,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,16,14,0.697,0.71,4:39
+1,1:24,TOR,Dalano Banton,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,29,22,0.836,0.81,1:37
+2,8:34,NY,Derrick Rose,Personal Take Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,41,26,0.914,0.915,8:34
+2,7:33,NY,Obi Toppin,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,43,30,0.889,0.889,7:44
+2,7:26,NY,Alec Burks,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,43,30,0.87,0.889,7:33
+2,6:58,TOR,Fred VanVleet,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,43,33,0.884,0.863,7:01
+2,6:13,NY,RJ Barrett,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,46,33,0.871,0.891,6:36
+2,5:34,TOR,OG Anunoby,Loose Ball Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,46,35,0.872,0.88,5:34
+2,3:05,NY,Kemba Walker,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,50,38,0.856,0.882,3:07
+2,2:59,TOR,Justin Champagnie,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,50,40,0.865,0.866,3:05
+2,2:11,NY,Julius Randle,Personal Take Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,52,43,0.797,0.83,2:12
+2,1:08,TOR,Malachi Flynn,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,52,48,0.772,0.735,1:23
+3,10:30,NY,Julius Randle,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,57,55,0.585,0.639,10:35
+3,10:26,TOR,Gary Trent Jr.,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,57,56,0.638,0.636,10:30
+3,11:28,NY,Julius Randle,Personal Take Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,57,55,0.639,0.527,9:40
+3,9:00,TOR,Svi Mykhailiuk,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,61,61,0.58,0.6,9:03
+3,5:06,NY,RJ Barrett,Personal Take Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,72,77,0.338,0.336,5:07
+3,2:56,TOR,OG Anunoby,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,74,85,0.143,0.143,2:59
+3,54.2,TOR,Gary Trent Jr.,Loose Ball Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,77,91,0.088,0.06,54.2
+3,14.4,TOR,Khem Birch,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,77,91,0.049,0.057,34.9
+4,10:05,TOR,Malachi Flynn,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,79,93,0.065,0.041,10:23
+4,9:03,TOR,Chris Boucher,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,83,93,0.09,0.102,9:05
+4,7:30,NY,Jericho Sims,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,89,98,0.051,0.089,7:47
+4,6:38,TOR,Justin Champagnie,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,89,100,0.052,0.054,6:49
+4,6:28,NY,Immanuel Quickley,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,91,100,0.067,0.075,6:38
+4,4:57,NY,Mitchell Robinson,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,91,102,0.029,0.023,4:57
+4,2:26,TOR,Svi Mykhailiuk,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,94,107,0.009,0.003,2:31
+4,1:24,TOR,Gary Trent Jr.,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Phenizee Ransom,NY,96,109,0.003,0.001,1:27

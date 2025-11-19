@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:34,HOU,Daishen Nix,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,0,0,0.695,0.661,12:00
+1,10:49,HOU,KJ Martin,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,4,2,0.733,0.703,10:51
+1,9:22,HOU,KJ Martin,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,10,4,0.791,0.761,9:22
+1,6:34,HOU,Bruno Fernando,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,18,10,0.837,0.813,6:42
+1,4:23,DET,Jalen Duren,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,25,17,0.78,0.813,4:23
+1,3:15,HOU,TyTy Washington Jr.,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,28,20,0.839,0.813,3:28
+1,2:49,HOU,Bruno Fernando,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,32,20,0.894,0.86,2:49
+1,2:01,HOU,Bruno Fernando,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,33,20,0.907,0.888,2:17
+1,1:44,DET,Isaiah Livers,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,34,20,0.868,0.89,2:00
+1,1:36,DET,Hamidou Diallo,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,34,20,0.868,0.868,1:44
+2,10:36,DET,Killian Hayes,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,40,30,0.803,0.833,10:49
+2,9:59,HOU,Usman Garuba,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,40,33,0.795,0.795,10:03
+2,8:56,DET,Hamidou Diallo,Technical Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,43,36,0.756,0.773,8:56
+2,8:47,DET,Killian Hayes,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,43,37,0.75,0.75,8:56
+2,5:06,DET,Isaiah Livers,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,47,47,0.556,0.612,5:06
+2,2:46,HOU,Jae'Sean Tate,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,52,52,0.604,0.605,2:54
+2,2:35,DET,Jalen Duren,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,52,52,0.52,0.567,2:35
+2,1:49,DET,Bojan Bogdanovic,Transition Take Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,52,52,0.567,0.567,1:49
+2,1:34,DET,Alec Burks,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,52,53,0.482,0.568,1:49
+3,11:08,DET,Jalen Duren,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,57,59,0.43,0.485,11:20
+3,10:55,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,57,61,0.504,0.45,11:08
+3,10:23,DET,Saddiq Bey,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,59,61,0.426,0.48,10:26
+3,9:42,HOU,HOU,Technical Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,59,63,0.469,0.44,9:42
+3,8:19,HOU,Tari Eason,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,60,69,0.303,0.255,8:28
+3,7:37,HOU,Daishen Nix,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,61,71,0.263,0.218,7:51
+3,6:58,DET,Alec Burks,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,64,71,0.274,0.273,7:08
+3,6:00,DET,Saddiq Bey,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,64,75,0.128,0.172,6:00
+3,5:04,HOU,Jae'Sean Tate,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,69,76,0.32,0.254,5:04
+3,4:21,HOU,Jae'Sean Tate,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,70,78,0.304,0.245,4:24
+3,4:05,DET,Isaiah Stewart,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,71,78,0.194,0.245,4:18
+3,3:36,DET,Hamidou Diallo,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,74,79,0.255,0.317,3:56
+3,2:59,HOU,Jae'Sean Tate,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,76,80,0.46,0.394,3:03
+3,28.0,DET,Killian Hayes,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,84,82,0.575,0.658,28.0
+3,6.0,HOU,Bruno Fernando,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,84,83,0.681,0.615,28.0
+4,11:44,HOU,Daishen Nix,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,86,83,0.777,0.681,12:00
+4,10:18,DET,Hamidou Diallo,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,89,83,0.787,0.798,10:18
+4,9:47,HOU,Bruno Fernando,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,89,85,0.771,0.759,9:47
+4,9:47,HOU,Bruno Fernando,Technical Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,89,85,0.793,0.771,9:47
+4,7:49,DET,Killian Hayes,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,94,93,0.541,0.561,7:49
+4,4:03,DET,Jaden Ivey,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,103,103,0.337,0.475,4:17
+4,2:06,HOU,KJ Martin,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,108,109,0.483,0.468,2:24
+4,1:20,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,111,109,0.87,0.754,1:40
+4,38.1,DET,Jalen Duren,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,112,109,0.598,0.788,44.1
+4,34.1,DET,Jalen Duren,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,112,111,0.479,0.675,34.1
+4,18.1,DET,Bojan Bogdanovic,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,112,113,0.145,0.306,18.1
+4,8.0,DET,Isaiah Stewart,Personal Take Foul,Foul,Courtney Kirkland,Marat Kogut,Nate Green,DET,114,115,0.096,0.271,9.1

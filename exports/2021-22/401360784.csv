@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:41,OKC,Tre Mann,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,5,3,0.19,0.212,10:57
+1,4:30,OKC,Vit Krejci,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,11,23,0.054,0.063,4:35
+1,2:39,UTAH,Royce O'Neale,Personal Take Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,17,33,0.046,0.046,2:39
+1,2:31,UTAH,Rudy Gay,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,17,33,0.045,0.046,2:39
+1,1:26,UTAH,Danuel House Jr.,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,17,33,0.055,0.045,1:30
+1,1:08,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,19,33,0.043,0.052,1:26
+2,11:03,UTAH,Jordan Clarkson,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,24,36,0.075,0.075,11:18
+2,10:25,UTAH,Rudy Gay,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,24,38,0.059,0.059,10:43
+2,9:59,OKC,Theo Maledon,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,24,40,0.036,0.045,9:59
+2,9:30,OKC,Vit Krejci,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,24,43,0.023,0.029,9:30
+2,9:02,OKC,Theo Maledon,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,24,44,0.017,0.022,9:06
+2,7:55,UTAH,Donovan Mitchell,Personal Take Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,24,46,0.018,0.018,7:55
+2,5:56,UTAH,Jordan Clarkson,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,28,46,0.042,0.033,6:08
+2,5:38,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,30,46,0.031,0.039,5:45
+2,5:08,OKC,Olivier Sarr,Offensive Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,30,49,0.024,0.028,5:21
+2,2:43,UTAH,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,35,52,0.047,0.037,2:46
+3,11:40,UTAH,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,45,61,0.053,0.04,11:42
+3,9:58,UTAH,Bojan Bogdanovic,Personal Take Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,51,64,0.065,0.055,10:15
+3,7:03,UTAH,Bojan Bogdanovic,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,55,73,0.022,0.022,7:19
+3,5:47,OKC,Aaron Wiggins,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,59,73,0.039,0.039,5:57
+3,5:30,OKC,Olivier Sarr,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,59,73,0.028,0.039,5:47
+3,5:21,UTAH,Hassan Whiteside,Loose Ball Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,59,75,0.042,0.031,5:21
+3,5:07,OKC,Aaron Wiggins,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,61,75,0.037,0.037,5:13
+3,3:58,UTAH,Hassan Whiteside,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,61,84,0.007,0.004,3:58
+3,3:41,OKC,Lindy Waters III,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,63,84,0.003,0.006,3:58
+3,1:49,UTAH,Rudy Gay,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,69,86,0.026,0.018,1:55
+3,44.8,OKC,Lindy Waters III,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,73,88,0.012,0.021,54.8
+3,18.8,UTAH,Trent Forrest,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,75,91,0.023,0.013,18.8
+4,10:16,OKC,Vit Krejci,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,78,94,0.009,0.01,10:23
+4,8:29,UTAH,Jordan Clarkson,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,83,96,0.028,0.025,8:29
+4,6:27,UTAH,Jordan Clarkson,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,85,98,0.02,0.018,6:37
+4,6:20,UTAH,Royce O'Neale,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,85,98,0.028,0.019,6:27
+4,5:32,OKC,Lindy Waters III,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,87,102,0.003,0.007,5:32
+4,5:29,UTAH,Jordan Clarkson,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,87,103,0.009,0.004,5:32
+4,3:42,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,97,105,0.043,0.051,3:56
+4,3:18,UTAH,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,97,108,0.034,0.019,3:34
+4,1:47,OKC,Darius Bazley,Personal Take Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,100,111,0.001,0.003,1:47
+4,1:32,OKC,Aaron Wiggins,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,100,111,0.001,0.001,1:47
+4,52.8,UTAH,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,102,111,0.029,0.011,57.5
+4,16.1,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Pat Fraher,Lauren Holtkamp,Tyler Ford,OKC,103,114,0.001,0.001,35.0

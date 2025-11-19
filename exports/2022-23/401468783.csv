@@ -1,0 +1,21 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,MIA,Haywood Highsmith,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,0,0,0.577,0.616,12:00
+1,4:09,MIL,Brook Lopez,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,10,11,0.631,0.595,4:23
+2,11:26,MIA,Max Strus,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,14,23,0.321,0.32,11:37
+2,4:13,MIL,AJ Green,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,33,41,0.355,0.3,4:13
+2,2:27,MIL,Jrue Holiday,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,36,41,0.444,0.419,2:27
+2,2:12,MIA,Bam Adebayo,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,38,41,0.4,0.451,2:27
+2,45.1,MIL,Jevon Carter,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,43,43,0.63,0.586,55.1
+3,9:15,MIA,Haywood Highsmith,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,52,51,0.519,0.577,9:30
+3,8:39,MIL,Bobby Portis,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,52,52,0.574,0.577,8:39
+3,7:35,MIA,Gabe Vincent,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,52,52,0.474,0.531,7:41
+3,6:04,MIA,Gabe Vincent,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,58,56,0.547,0.607,6:13
+3,2:41,MIL,Jrue Holiday,Loose Ball Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,66,63,0.689,0.691,2:41
+3,2:33,MIL,Bobby Portis,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,66,63,0.746,0.689,2:41
+3,1:06,MIL,Bobby Portis,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,72,69,0.725,0.65,1:06
+4,6:52,MIA,Orlando Robinson,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,93,81,0.943,0.967,6:55
+4,6:14,MIL,Pat Connaughton,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,93,82,0.984,0.971,6:22
+4,4:08,MIL,Bobby Portis,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,101,88,0.997,0.993,4:28
+4,1:40,MIA,Bam Adebayo,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,107,95,0.99,0.997,1:42
+4,34.0,MIL,Bobby Portis,Personal Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,107,99,0.998,0.992,45.1
+4,27.1,MIL,MarJon Beauchamp,Shooting Foul,Foul,Ed Malloy,Kevin Cutler,Robert Hussey,MIA,107,99,0.998,0.998,34.0

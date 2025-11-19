@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:36,LAC,Kawhi Leonard,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,3,0,0.561,0.561,11:45
+1,10:03,LAC,Nicolas Batum,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,3,2,0.514,0.513,10:09
+1,6:50,POR,Anfernee Simons,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,13,5,0.748,0.714,6:59
+1,4:15,LAC,Paul George,Transition Take Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,19,9,0.743,0.743,4:17
+1,3:25,LAC,Moses Brown,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,22,12,0.71,0.745,3:28
+1,1:56,LAC,Norman Powell,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,22,16,0.632,0.651,2:08
+1,1:19,POR,Justise Winslow,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,25,20,0.692,0.654,1:31
+1,34.4,LAC,Robert Covington,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,27,20,0.659,0.679,34.4
+2,11:39,LAC,Ivica Zubac,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,27,22,0.628,0.64,12:00
+2,10:21,POR,Keon Johnson,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,32,26,0.725,0.687,10:31
+2,9:30,POR,Damian Lillard,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,34,26,0.774,0.739,9:40
+2,8:54,LAC,Ivica Zubac,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,36,28,0.696,0.741,8:54
+2,7:56,LAC,Kawhi Leonard,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,36,29,0.649,0.691,8:01
+2,7:26,POR,Anfernee Simons,Transition Take Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,38,30,0.746,0.746,7:26
+2,5:10,POR,Drew Eubanks,Defensive 3-Seconds Technical,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,43,33,0.796,0.802,5:18
+2,4:50,LAC,Reggie Jackson,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,43,33,0.742,0.778,5:01
+2,4:07,LAC,Reggie Jackson,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,46,33,0.816,0.847,4:25
+2,3:00,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,49,35,0.874,0.868,3:18
+2,2:25,LAC,Reggie Jackson,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,49,36,0.823,0.855,2:31
+2,1:47,LAC,Ivica Zubac,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,49,37,0.802,0.837,1:56
+3,11:25,POR,Jerami Grant,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,52,44,0.815,0.778,11:39
+3,11:04,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,55,44,0.85,0.852,11:04
+3,9:32,LAC,Moses Brown,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,55,47,0.757,0.758,9:39
+3,9:07,POR,Jusuf Nurkic,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,57,49,0.808,0.76,9:07
+3,8:58,LAC,Moses Brown,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,57,51,0.673,0.73,8:58
+3,8:40,POR,Jerami Grant,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,57,53,0.715,0.697,8:58
+3,7:58,POR,Anfernee Simons,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,57,55,0.648,0.594,8:15
+3,7:41,POR,Josh Hart,Loose Ball Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,59,55,0.72,0.666,7:41
+3,7:31,LAC,Norman Powell,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,59,55,0.63,0.631,7:38
+3,6:32,LAC,Moses Brown,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,61,55,0.653,0.708,6:45
+3,6:12,LAC,Norman Powell,Offensive Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,61,57,0.636,0.671,6:32
+3,5:41,LAC,Moussa Diabate,Offensive Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,61,59,0.561,0.602,5:56
+3,5:06,LAC,Amir Coffey,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,61,61,0.446,0.521,5:06
+3,4:42,LAC,Norman Powell,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,61,62,0.373,0.435,4:45
+3,4:22,POR,Jerami Grant,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,61,63,0.5,0.437,4:42
+3,4:08,LAC,Brandon Boston,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,62,63,0.371,0.434,4:20
+3,2:45,POR,Keon Johnson,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,64,68,0.411,0.348,2:59
+3,2:04,POR,Justise Winslow,Loose Ball Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,66,70,0.409,0.343,2:04
+3,1:37,LAC,Moussa Diabate,Loose Ball Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,68,72,0.237,0.296,1:37
+3,21.8,LAC,Lucas Williamson,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,71,76,0.192,0.249,26.6
+4,11:00,LAC,Moussa Diabate,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,73,80,0.129,0.196,11:00
+4,10:19,POR,Nassir Little,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,75,81,0.303,0.224,10:23
+4,9:09,POR,Greg Brown III,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,79,81,0.436,0.42,9:12
+4,8:39,LAC,Xavier Moon,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,81,81,0.457,0.477,8:54
+4,7:57,LAC,Xavier Moon,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,81,81,0.362,0.465,8:03
+4,7:12,POR,Brandon Williams,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,84,82,0.744,0.643,7:13
+4,4:56,POR,Brandon Williams,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,90,86,0.838,0.734,4:56
+4,4:46,LAC,Moussa Diabate,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,91,86,0.702,0.8,4:56
+4,3:29,POR,Jabari Walker,Offensive Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,94,91,0.76,0.688,3:30
+4,2:43,POR,Jared Rhoden,Personal Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,97,91,0.956,0.92,2:45
+4,2:28,LAC,Brandon Boston,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,98,93,0.796,0.894,2:28
+4,1:48,POR,Brandon Williams,Shooting Foul,Foul,Rodney Mott,CJ Washington,Scott Twardoski,LAC,98,95,0.847,0.803,1:48

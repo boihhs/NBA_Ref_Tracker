@@ -1,0 +1,58 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:18,DET,Jaden Ivey,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,2,4,0.765,0.737,10:21
+1,10:02,DET,Jaden Ivey,Offensive Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,4,4,0.773,0.757,10:18
+1,8:59,POR,Jerami Grant,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,7,4,0.792,0.804,8:59
+1,4:14,DET,Cory Joseph,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,11,12,0.726,0.728,4:19
+1,1:43,POR,Trendon Watford,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,18,20,0.625,0.665,1:45
+1,1:26,DET,Hamidou Diallo,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,18,20,0.722,0.687,1:29
+1,45.0,POR,Shaedon Sharpe,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,20,23,0.592,0.637,50.1
+1,33.1,DET,Hamidou Diallo,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,20,25,0.643,0.607,45.0
+2,10:01,DET,Marvin Bagley III,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,28,31,0.679,0.644,10:22
+2,9:45,POR,Jusuf Nurkic,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,28,32,0.557,0.638,9:47
+2,8:53,POR,Jusuf Nurkic,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,32,33,0.618,0.66,9:00
+2,8:46,DET,Rodney McGruder,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,32,35,0.672,0.633,8:53
+2,8:36,POR,Keon Johnson,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,34,37,0.58,0.632,8:36
+2,8:02,POR,Damian Lillard,Loose Ball Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,36,38,0.583,0.625,8:02
+2,7:41,DET,Marvin Bagley III,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,36,38,0.693,0.654,7:47
+2,6:28,POR,POR,Delay Technical,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,44,38,0.819,0.813,6:29
+2,6:04,POR,Jusuf Nurkic,Offensive Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,44,41,0.748,0.774,6:10
+2,3:06,POR,Josh Hart,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,46,50,0.471,0.524,3:15
+2,40.1,DET,Isaiah Stewart,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,57,52,0.819,0.781,40.1
+3,9:50,POR,Damian Lillard,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,66,54,0.891,0.915,9:52
+3,8:31,DET,Jalen Duren,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,71,59,0.938,0.917,8:31
+3,7:33,DET,Jaden Ivey,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,77,59,0.984,0.974,7:33
+3,6:18,POR,Josh Hart,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,80,63,0.959,0.97,6:22
+3,5:29,DET,Jalen Duren,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,83,67,0.972,0.971,5:41
+3,5:15,POR,Damian Lillard,Technical Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,83,67,0.96,0.965,5:15
+3,5:09,DET,Isaiah Stewart,Offensive Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,83,68,0.966,0.958,5:15
+3,4:49,DET,Cory Joseph,Offensive Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,86,68,0.984,0.978,4:59
+3,4:37,DET,Hamidou Diallo,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,88,68,0.992,0.987,4:37
+3,4:02,POR,Shaedon Sharpe,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,91,73,0.976,0.985,4:02
+3,3:21,DET,Bojan Bogdanovic,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,91,74,0.985,0.981,3:26
+3,2:47,DET,Hamidou Diallo,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,93,76,0.988,0.983,2:53
+3,1:19,POR,Shaedon Sharpe,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,98,78,0.988,0.992,1:25
+3,57.0,DET,Rodney McGruder,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,98,80,0.994,0.99,59.1
+3,33.1,POR,Anfernee Simons,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,102,80,0.994,0.996,38.2
+4,11:39,POR,Gary Payton II,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,104,82,0.995,0.996,11:57
+4,11:09,DET,Rodney McGruder,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,106,84,0.998,0.997,11:09
+4,10:16,POR,Shaedon Sharpe,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,107,84,0.997,0.998,10:28
+4,9:48,POR,Gary Payton II,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,109,85,0.999,0.999,10:00
+4,8:14,POR,Shaedon Sharpe,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,109,87,0.998,0.999,8:18
+4,7:26,POR,Trendon Watford,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,112,91,0.998,0.999,7:26
+4,7:11,DET,Isaiah Stewart,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,114,92,0.999,0.999,7:11
+4,7:00,POR,Shaedon Sharpe,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,114,92,0.998,0.999,7:08
+4,6:41,POR,Trendon Watford,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,116,92,0.999,0.999,6:50
+4,6:31,POR,Trendon Watford,Offensive Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,116,93,0.999,0.999,6:41
+4,6:07,DET,Jaden Ivey,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,116,93,0.999,0.999,6:19
+4,5:42,DET,Saddiq Bey,Clear Path Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,118,93,0.999,0.999,5:42
+4,5:23,POR,Keon Johnson,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,120,93,0.999,0.999,5:27
+4,5:06,DET,Nerlens Noel,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,120,94,0.999,0.999,5:08
+4,4:39,DET,Rodney McGruder,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,122,94,0.999,0.999,4:52
+4,4:30,POR,Jabari Walker,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,123,94,0.999,0.999,4:36
+4,4:07,DET,Jaden Ivey,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,123,94,0.999,0.999,4:07
+4,3:56,POR,Greg Brown III,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,124,94,0.999,0.999,4:04
+4,2:58,DET,Isaiah Stewart,Technical Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,124,97,0.999,0.999,3:05
+4,1:42,POR,Keon Johnson,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,131,97,0.999,0.999,1:44
+4,51.1,DET,Saddiq Bey,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,133,104,0.999,0.999,58.1
+4,47.0,DET,Kevin Knox II,Shooting Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,133,104,0.999,0.999,49.1
+4,17.1,POR,Jabari Walker,Personal Foul,Foul,David Guthrie,Tre Maddox,Brett Nansel,POR,135,104,0.999,0.999,23.1

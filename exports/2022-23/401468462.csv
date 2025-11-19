@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:24,SAC,Keegan Murray,Personal Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,15,9,0.665,0.665,6:29
+1,4:22,PHX,Cameron Payne,Personal Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,19,17,0.59,0.59,4:26
+1,3:43,SAC,KZ Okpala,Personal Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,19,17,0.562,0.562,3:50
+1,3:41,PHX,Devin Booker,Offensive Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,19,17,0.59,0.562,3:43
+1,3:41,PHX,Devin Booker,Technical Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,19,17,0.61,0.59,3:41
+1,1:36,SAC,Domantas Sabonis,Offensive Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,24,24,0.507,0.535,1:49
+2,8:30,PHX,Landry Shamet,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,37,39,0.517,0.47,8:35
+2,7:45,SAC,Terence Davis,Loose Ball Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,39,39,0.501,0.499,7:45
+2,7:33,PHX,Cameron Payne,Personal Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,39,41,0.468,0.47,7:39
+2,6:16,PHX,Torrey Craig,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,43,45,0.515,0.468,6:30
+2,2:38,SAC,Malik Monk,Offensive Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,55,55,0.495,0.532,2:45
+2,2:23,PHX,Deandre Ayton,Loose Ball Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,55,55,0.579,0.532,2:23
+2,30.6,SAC,Kevin Huerter,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,62,60,0.537,0.566,30.6
+3,9:36,SAC,Keegan Murray,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,66,72,0.257,0.311,9:36
+3,6:59,PHX,Devin Booker,Offensive Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,69,76,0.264,0.233,7:10
+3,5:32,PHX,Devin Booker,Personal Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,71,78,0.255,0.255,5:43
+3,5:26,PHX,Cameron Payne,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,73,78,0.355,0.288,5:26
+3,4:58,PHX,Cameron Payne,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,74,78,0.425,0.402,4:58
+3,4:15,SAC,Terence Davis,Personal Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,77,82,0.283,0.281,4:16
+3,4:11,SAC,Davion Mitchell,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,77,84,0.191,0.246,4:11
+3,3:50,SAC,Harrison Barnes,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,77,85,0.159,0.181,3:55
+3,3:01,PHX,Ish Wainright,Personal Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,80,87,0.298,0.241,3:08
+3,2:55,PHX,Landry Shamet,Personal Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,80,87,0.298,0.298,3:01
+3,2:33,PHX,Bismack Biyombo,Offensive Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,81,87,0.274,0.234,2:53
+3,1:49,SAC,Terence Davis,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,84,87,0.284,0.348,2:01
+4,10:42,PHX,Jock Landale,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,87,94,0.271,0.197,10:47
+4,9:21,SAC,Terence Davis,Personal Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,94,96,0.357,0.373,9:32
+4,8:46,SAC,De'Aaron Fox,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,94,99,0.148,0.218,8:52
+4,7:43,PHX,Damion Lee,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,94,101,0.205,0.16,7:43
+4,6:14,PHX,Cameron Payne,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,102,101,0.715,0.602,6:16
+4,5:12,PHX,Deandre Ayton,Personal Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,104,105,0.6,0.479,5:22
+4,4:23,PHX,Damion Lee,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,106,108,0.473,0.343,4:23
+4,1:48,SAC,Davion Mitchell,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,110,115,0.048,0.105,1:59
+4,41.3,PHX,Devin Booker,Shooting Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,113,120,0.082,0.032,43.5
+4,6.8,SAC,Kevin Huerter,Personal Take Foul,Foul,Zach Zarba,Brian Forte,Justin Van Duyne,SAC,117,120,0.018,0.065,8.4

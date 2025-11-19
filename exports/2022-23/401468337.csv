@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:01,CLE,Jarrett Allen,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,6,5,0.57,0.574,10:01
+1,9:12,GS,Klay Thompson,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,8,7,0.545,0.543,9:14
+1,9:06,GS,Stephen Curry,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,8,7,0.546,0.545,9:12
+1,6:53,GS,Andrew Wiggins,Offensive Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,12,14,0.462,0.491,7:01
+1,5:41,CLE,Evan Mobley,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,16,16,0.562,0.515,5:41
+1,3:13,CLE,Kevin Love,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,19,18,0.608,0.568,3:18
+1,3:03,GS,Donte DiVincenzo,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,21,18,0.594,0.595,3:13
+1,2:42,CLE,Isaac Okoro,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,21,20,0.608,0.57,2:52
+1,1:54,GS,Stephen Curry,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,23,20,0.554,0.596,2:07
+2,11:13,GS,Kevon Looney,Offensive Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,25,25,0.509,0.539,11:23
+2,8:34,GS,Andrew Wiggins,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,30,33,0.356,0.358,8:41
+2,11:49,CLE,Isaac Okoro,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,25,25,0.582,0.33,8:28
+2,7:59,GS,Donte DiVincenzo,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,32,37,0.336,0.384,7:59
+2,5:36,GS,Anthony Lamb,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,36,38,0.396,0.44,5:38
+2,4:58,GS,Anthony Lamb,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,38,38,0.456,0.503,5:15
+2,4:15,CLE,Caris LeVert,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,38,38,0.538,0.536,4:19
+2,3:28,GS,Stephen Curry,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,38,42,0.348,0.404,3:28
+2,3:15,CLE,Caris LeVert,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,38,43,0.372,0.373,3:28
+2,3:15,GS,Draymond Green,Technical Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,38,43,0.318,0.372,3:15
+2,1:47,GS,Jordan Poole,Offensive Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,43,44,0.468,0.503,1:52
+2,1:36,GS,Andrew Wiggins,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,43,44,0.416,0.468,1:47
+2,1:36,GS,GS,Technical Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,43,45,0.407,0.407,1:36
+3,11:06,CLE,Darius Garland,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,48,52,0.389,0.393,11:13
+3,10:42,GS,Draymond Green,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,50,52,0.425,0.425,10:58
+3,10:26,CLE,Darius Garland,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,52,52,0.56,0.496,10:26
+3,10:00,CLE,Jarrett Allen,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,53,52,0.623,0.57,10:04
+3,9:32,GS,Kevon Looney,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,55,52,0.579,0.605,9:32
+3,8:25,GS,Draymond Green,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,55,55,0.466,0.493,8:25
+3,6:15,CLE,Darius Garland,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,55,64,0.246,0.202,6:25
+3,2:24,GS,Anthony Lamb,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,62,72,0.086,0.117,2:27
+3,1:06,GS,Donte DiVincenzo,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,68,74,0.172,0.223,1:32
+4,10:08,GS,Kevon Looney,Offensive Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,76,77,0.428,0.429,10:19
+4,9:32,CLE,Cedi Osman,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,76,81,0.283,0.293,11:47
+4,7:22,GS,Andrew Wiggins,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,83,81,0.586,0.599,7:27
+4,5:44,GS,Draymond Green,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,85,88,0.184,0.336,5:44
+4,5:35,GS,Stephen Curry,Offensive Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,85,89,0.211,0.27,5:44
+4,4:43,GS,Jordan Poole,Flagrant Foul Type 1,Foul,Brian Forte,David Guthrie,Matt Myers,GS,87,92,0.151,0.199,4:43
+4,3:54,CLE,Isaac Okoro,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,90,95,0.192,0.181,3:59
+4,3:43,GS,GS,Delay Technical,Foul,Brian Forte,David Guthrie,Matt Myers,GS,92,96,0.194,0.175,3:36
+4,3:13,GS,Kevon Looney,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,92,96,0.092,0.165,3:13
+4,2:37,GS,Klay Thompson,Shooting Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,95,96,0.228,0.352,2:53
+4,44.4,GS,Draymond Green,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,100,98,0.471,0.591,54.0
+4,19.0,CLE,Evan Mobley,Personal Take Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,103,99,0.977,0.926,19.0
+4,17.6,CLE,Isaac Okoro,Personal Take Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,103,99,0.979,0.977,19.0
+4,14.4,GS,Draymond Green,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,104,99,0.854,0.937,17.6
+4,13.3,CLE,Isaac Okoro,Personal Take Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,104,101,0.966,0.909,14.4
+4,5.5,CLE,Evan Mobley,Personal Foul,Foul,Brian Forte,David Guthrie,Matt Myers,GS,105,101,0.994,0.977,6.0

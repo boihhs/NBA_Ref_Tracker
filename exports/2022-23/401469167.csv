@@ -1,0 +1,30 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:32,MIL,Khris Middleton,Shooting Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,0,0,0.519,0.497,11:46
+1,8:12,GS,Klay Thompson,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,4,4,0.475,0.475,8:17
+1,6:28,GS,Klay Thompson,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,7,4,0.556,0.556,6:39
+1,5:50,GS,Kevon Looney,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,7,6,0.505,0.503,5:59
+1,2:25,GS,JaMychal Green,Shooting Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,18,16,0.49,0.532,2:40
+2,10:17,GS,Klay Thompson,Shooting Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,30,29,0.461,0.503,10:20
+2,8:40,MIL,Khris Middleton,Shooting Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,33,33,0.551,0.508,8:50
+2,8:35,GS,Moses Moody,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,35,33,0.539,0.538,8:40
+2,5:07,GS,Donte DiVincenzo,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,42,38,0.604,0.603,5:22
+2,4:56,MIL,Jevon Carter,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,42,38,0.635,0.637,4:59
+2,2:33,MIL,Jevon Carter,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,47,41,0.702,0.702,2:52
+2,2:23,GS,Stephen Curry,Loose Ball Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,47,41,0.623,0.671,2:23
+2,54.0,MIL,Brook Lopez,Offensive Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,47,47,0.511,0.511,55.1
+2,27.0,MIL,Jrue Holiday,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,47,47,0.561,0.511,30.0
+2,12.0,GS,Jordan Poole,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,47,47,0.425,0.475,20.0
+3,7:18,GS,JaMychal Green,Loose Ball Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,66,53,0.89,0.892,7:18
+3,6:25,GS,Kevon Looney,Loose Ball Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,66,56,0.832,0.831,6:25
+3,4:32,MIL,Khris Middleton,Shooting Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,68,61,0.83,0.785,4:49
+3,1:55,GS,Andre Iguodala,Shooting Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,75,68,0.715,0.695,2:25
+3,1:43,MIL,Jevon Carter,Shooting Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,77,71,0.802,0.738,1:43
+4,10:54,MIL,Khris Middleton,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,80,79,0.589,0.572,11:00
+4,7:58,MIL,Jevon Carter,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,85,87,0.436,0.418,8:13
+4,4:01,GS,Donte DiVincenzo,Shooting Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,94,100,0.06,0.11,4:19
+4,3:02,MIL,Jrue Holiday,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,97,105,0.068,0.059,3:15
+4,2:43,GS,Donte DiVincenzo,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,97,105,0.03,0.034,2:53
+5,3:40,MIL,Jrue Holiday,Offensive Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,113,113,0.537,0.464,3:55
+5,1:26,MIL,Khris Middleton,Shooting Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,120,116,0.946,0.885,1:27
+5,28.0,MIL,Joe Ingles,Personal Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,123,116,0.998,0.988,46.1
+5,24.1,GS,Klay Thompson,Shooting Foul,Foul,David Guthrie,Ben Taylor,Brett Nansel,GS,125,116,0.985,0.996,28.0

@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:26,BKN,Bruce Brown,Offensive Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,10,12,0.296,0.275,7:28
+1,7:16,BKN,Bruce Brown,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,10,12,0.33,0.296,7:26
+1,5:42,BKN,Blake Griffin,Offensive Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,15,12,0.425,0.398,5:48
+1,4:03,OKC,Luguentz Dort,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,21,16,0.42,0.459,4:14
+1,2:42,OKC,Kenrich Williams,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,21,21,0.298,0.333,2:51
+1,2:20,OKC,Kenrich Williams,Loose Ball Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,21,22,0.311,0.312,2:20
+1,1:17,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,23,25,0.29,0.315,1:22
+1,58.5,BKN,Kevin Durant,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,23,25,0.353,0.316,59.5
+2,7:08,OKC,Aleksej Pokusevski,Personal Take Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,39,39,0.361,0.36,7:08
+2,6:54,OKC,Luguentz Dort,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,39,41,0.287,0.332,6:54
+2,5:18,OKC,Luguentz Dort,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,41,47,0.21,0.211,5:36
+2,4:59,BKN,Patty Mills,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,41,50,0.171,0.169,5:18
+2,3:52,BKN,Patty Mills,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,43,53,0.148,0.149,4:00
+2,3:46,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,43,53,0.108,0.131,3:46
+2,2:46,OKC,Luguentz Dort,Offensive Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,43,55,0.099,0.115,2:50
+2,1:12,BKN,Bruce Brown,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,48,55,0.25,0.21,1:23
+2,44.7,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,48,55,0.156,0.184,1:02
+2,10.1,OKC,Josh Giddey,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,48,60,0.102,0.108,10.1
+3,9:34,OKC,Darius Bazley,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,58,68,0.118,0.139,9:34
+3,8:01,BKN,Blake Griffin,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,60,69,0.144,0.133,8:01
+3,5:10,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,63,76,0.059,0.059,5:21
+3,4:19,OKC,Kenrich Williams,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,65,76,0.063,0.085,4:34
+3,2:53,BKN,Bruce Brown,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,68,80,0.077,0.078,3:03
+3,2:25,OKC,Derrick Favors,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,68,80,0.043,0.061,2:42
+3,27.8,BKN,DeAndre' Bembry,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,72,88,0.035,0.024,34.7
+3,5.1,OKC,Kenrich Williams,Loose Ball Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,74,88,0.018,0.028,5.1
+4,11:31,OKC,Ty Jerome,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,74,90,0.012,0.014,11:37
+4,10:32,OKC,Ty Jerome,Personal Take Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,74,92,0.005,0.006,10:35
+4,9:40,BKN,DeAndre' Bembry,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,77,96,0.005,0.009,9:45
+4,8:28,BKN,LaMarcus Aldridge,Loose Ball Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,79,96,0.008,0.007,8:28
+4,8:16,BKN,James Harden,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,79,96,0.014,0.008,8:28
+4,8:00,OKC,Isaiah Roby,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,81,96,0.005,0.01,8:16
+4,7:50,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,81,99,0.008,0.004,8:00
+4,6:15,OKC,Ty Jerome,Personal Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,88,101,0.018,0.014,6:16
+4,4:48,OKC,Luguentz Dort,Shooting Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,91,103,0.006,0.014,5:04
+4,2:43,BKN,Patty Mills,Personal Take Foul,Foul,Rodney Mott,Ray Acosta,Evan Scott,OKC,93,113,0.001,0.001,2:48

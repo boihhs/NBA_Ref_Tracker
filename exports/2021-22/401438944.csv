@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:41,DAL,Dwight Powell,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,9,7,0.67,0.634,8:49
+1,7:49,GS,Andrew Wiggins,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,11,9,0.591,0.633,7:49
+1,6:12,DAL,Maxi Kleber,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,16,13,0.693,0.658,6:14
+1,5:36,GS,Draymond Green,Loose Ball Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,16,13,0.633,0.633,5:36
+1,4:17,DAL,Maxi Kleber,Personal Take Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,18,16,0.63,0.631,4:17
+1,3:29,DAL,Reggie Bullock Jr.,Personal Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,20,16,0.715,0.682,3:32
+1,1:00,DAL,Davis Bertans,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,26,18,0.806,0.776,1:04
+1,27.0,GS,Kevon Looney,Personal Take Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,28,18,0.761,0.795,29.0
+2,11:40,GS,Kevon Looney,Offensive Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,28,18,0.798,0.802,12:00
+2,10:27,GS,Damion Lee,Personal Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,30,20,0.799,0.8,10:31
+2,9:50,GS,Otto Porter Jr.,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,30,20,0.767,0.801,9:58
+2,7:45,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,34,26,0.799,0.783,7:45
+2,6:18,GS,Jordan Poole,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,35,29,0.669,0.71,6:30
+2,5:37,DAL,Maxi Kleber,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,37,33,0.704,0.655,5:37
+2,4:51,GS,Kevon Looney,Defensive 3-Seconds Technical,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,38,33,0.692,0.685,5:09
+2,4:25,GS,Draymond Green,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,38,34,0.611,0.656,4:29
+2,3:42,DAL,Spencer Dinwiddie,Technical Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,40,35,0.735,0.686,3:42
+2,3:22,GS,Draymond Green,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,43,35,0.728,0.768,3:34
+2,36.4,GS,Jordan Poole,Personal Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,54,43,0.811,0.841,50.5
+2,7.8,GS,Stephen Curry,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,54,44,0.788,0.821,29.2
+2,4.2,DAL,Jalen Brunson,Personal Take Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,54,45,0.857,0.823,7.8
+3,8:29,GS,Andrew Wiggins,Personal Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,64,49,0.928,0.929,8:35
+3,7:39,GS,Draymond Green,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,66,49,0.937,0.953,7:57
+3,6:56,GS,Stephen Curry,Offensive Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,68,50,0.964,0.971,7:02
+3,3:52,DAL,Dorian Finney-Smith,Offensive Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,77,59,0.98,0.974,3:54
+3,3:16,GS,Otto Porter Jr.,Loose Ball Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,77,59,0.976,0.976,3:16
+3,2:48,GS,Jordan Poole,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,79,61,0.973,0.982,2:48
+3,2:02,DAL,Dorian Finney-Smith,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,83,62,0.995,0.991,2:02
+3,1:31,DAL,Dorian Finney-Smith,Offensive Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,84,62,0.996,0.994,1:32
+3,37.2,GS,Stephen Curry,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,86,65,0.991,0.994,43.6
+4,10:56,DAL,Luka Doncic,Personal Take Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,90,69,0.997,0.997,11:02
+4,10:19,DAL,Frank Ntilikina,Personal Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,92,69,0.999,0.999,10:23
+4,10:07,GS,Jordan Poole,Personal Take Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,92,69,0.998,0.998,10:10
+4,8:08,GS,Jordan Poole,Personal Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,98,69,0.999,0.999,8:28
+4,8:00,DAL,Reggie Bullock Jr.,Personal Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,98,69,0.999,0.999,8:05
+4,7:15,GS,Andrew Wiggins,Personal Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,98,72,0.999,0.999,7:18
+4,7:10,GS,Jordan Poole,Technical Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,98,72,0.999,0.999,7:15
+4,6:38,DAL,Reggie Bullock Jr.,Personal Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,98,74,0.999,0.999,6:48
+4,5:27,DAL,Dorian Finney-Smith,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,100,76,0.999,0.999,5:36
+4,4:05,DAL,Marquese Chriss,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,104,76,0.999,0.999,4:07
+4,3:16,GS,Nemanja Bjelica,Shooting Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,106,80,0.999,0.999,3:16
+4,2:10,GS,Juan Toscano-Anderson,Offensive Foul,Foul,James Capers,Courtney Kirkland,Mark Lindsay,GS,106,83,0.999,0.999,2:28

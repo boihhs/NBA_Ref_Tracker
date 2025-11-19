@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:59,LAL,Dennis Schroder,Personal Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,11,6,0.841,0.84,8:01
+1,5:41,LAL,Russell Westbrook,Personal Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,15,6,0.888,0.888,5:42
+1,5:29,LAL,Patrick Beverley,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,15,6,0.904,0.888,5:41
+1,5:29,LAL,Patrick Beverley,Technical Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,16,6,0.907,0.907,5:29
+1,5:19,LAL,Russell Westbrook,Offensive Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,19,6,0.927,0.918,5:29
+1,5:04,BKN,Nic Claxton,Offensive Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,19,6,0.917,0.927,5:19
+1,3:06,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,21,12,0.872,0.886,3:19
+1,1:17,BKN,Yuta Watanabe,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,24,12,0.889,0.905,1:25
+1,1:06,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,24,15,0.859,0.883,1:06
+2,11:35,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,31,16,0.921,0.936,11:43
+2,10:29,LAL,Lonnie Walker IV,Loose Ball Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,31,20,0.905,0.906,10:29
+2,10:01,LAL,Max Christie,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,33,22,0.92,0.905,10:08
+2,9:39,LAL,Max Christie,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,38,22,0.954,0.942,9:39
+2,8:56,LAL,Lonnie Walker IV,Personal Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,41,25,0.959,0.95,9:11
+2,8:30,BKN,Markieff Morris,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,44,25,0.953,0.961,8:36
+2,7:48,BKN,Nic Claxton,Technical Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,44,28,0.936,0.95,7:48
+2,6:31,BKN,Markieff Morris,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,48,31,0.946,0.952,6:31
+2,6:13,LAL,Patrick Beverley,Personal Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,48,32,0.961,0.951,6:31
+2,5:43,LAL,Thomas Bryant,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,49,34,0.955,0.945,5:56
+2,3:16,BKN,Kyrie Irving,Offensive Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,53,36,0.955,0.962,3:24
+2,3:01,BKN,Joe Harris,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,53,36,0.943,0.955,3:16
+2,2:00,BKN,Royce O'Neale,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,53,40,0.91,0.931,2:00
+2,42.1,BKN,Joe Harris,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,56,45,0.882,0.909,42.1
+3,11:47,BKN,Kyrie Irving,Offensive Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,58,46,0.91,0.912,12:00
+3,11:02,BKN,Nic Claxton,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,58,48,0.867,0.896,11:02
+3,9:00,BKN,Seth Curry,Technical Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,58,56,0.653,0.678,9:00
+3,8:47,BKN,Seth Curry,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,58,60,0.504,0.571,8:47
+3,7:48,BKN,Royce O'Neale,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,63,60,0.655,0.707,8:02
+3,7:31,LAL,Patrick Beverley,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,65,61,0.788,0.74,7:31
+3,6:18,BKN,Joe Harris,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,66,63,0.677,0.701,6:18
+3,5:37,BKN,Kyrie Irving,Personal Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,68,68,0.525,0.587,5:43
+3,5:28,LAL,Patrick Beverley,Personal Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,68,70,0.546,0.547,5:37
+3,5:20,LAL,Dennis Schroder,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,68,70,0.606,0.546,5:28
+3,4:48,BKN,Patty Mills,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,70,72,0.434,0.498,4:51
+3,1:46,LAL,Juan Toscano-Anderson,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,77,82,0.446,0.38,1:49
+4,10:32,BKN,Cam Thomas,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,87,84,0.598,0.685,10:37
+4,9:53,BKN,Day'Ron Sharpe,Personal Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,93,85,0.864,0.873,10:01
+4,9:03,BKN,Patty Mills,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,95,85,0.877,0.921,9:15
+4,12:00,LAL,Troy Brown Jr.,Technical Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,85,82,0.744,0.879,8:47
+4,8:33,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,97,87,0.901,0.922,8:33
+4,8:20,LAL,Lonnie Walker IV,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,99,87,0.975,0.955,8:20
+4,6:17,BKN,Kyrie Irving,Personal Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,106,93,0.962,0.975,6:37
+4,3:28,BKN,Nic Claxton,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,111,99,0.974,0.986,3:40
+4,3:23,LAL,Dennis Schroder,Personal Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,111,100,0.989,0.987,3:28
+4,2:37,BKN,Royce O'Neale,Shooting Foul,Foul,Tony Brothers,Ben Taylor,John Butler,BKN,113,100,0.99,0.995,2:41

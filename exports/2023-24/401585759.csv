@@ -1,0 +1,62 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:00,HOU,Jalen Green,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,2,6,0.667,0.635,10:10
+1,9:27,DAL,Daniel Gafford,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,3,8,0.56,0.605,9:27
+1,7:37,DAL,Kyrie Irving,Offensive Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,5,17,0.376,0.407,7:47
+1,7:18,HOU,Dillon Brooks,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,5,17,0.401,0.403,7:18
+1,5:50,HOU,Fred VanVleet,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,5,24,0.244,0.213,6:00
+1,5:28,HOU,Fred VanVleet,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,7,24,0.291,0.253,5:33
+1,4:57,DAL,Maxi Kleber,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,9,24,0.237,0.272,5:00
+1,4:16,HOU,Amen Thompson,Flagrant Foul Type 2,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,9,28,0.194,0.201,4:27
+1,4:10,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,11,28,0.28,0.244,4:16
+1,4:02,DAL,Luka Doncic,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,13,28,0.266,0.266,4:10
+1,3:38,DAL,Dante Exum,Offensive Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,13,28,0.262,0.289,3:43
+1,1:29,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,21,34,0.257,0.298,1:40
+1,1:17,DAL,Derrick Jones Jr.,Loose Ball Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,21,36,0.207,0.241,1:17
+1,36.0,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,23,37,0.224,0.265,43.0
+1,1.2,HOU,Dillon Brooks,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,25,41,0.27,0.234,16.1
+1,1.2,DAL,Luka Doncic,Technical Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,25,41,0.192,0.27,1.2
+2,11:48,HOU,Aaron Holiday,Offensive Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,27,42,0.248,0.251,12:00
+2,10:57,HOU,Aaron Holiday,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,29,44,0.286,0.243,11:08
+2,10:46,DAL,Daniel Gafford,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,31,44,0.233,0.272,10:57
+2,8:41,DAL,Daniel Gafford,Offensive Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,33,52,0.138,0.14,8:50
+2,8:16,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,33,54,0.145,0.12,8:29
+2,7:18,HOU,Aaron Holiday,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,34,56,0.094,0.083,7:18
+2,5:34,HOU,Jock Landale,Offensive Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,42,61,0.115,0.1,5:46
+2,5:26,HOU,Dillon Brooks,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,42,61,0.143,0.115,5:34
+2,4:23,HOU,Jalen Green,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,45,63,0.154,0.125,4:35
+2,3:23,HOU,Jalen Green,Offensive Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,50,65,0.177,0.155,3:35
+2,3:10,HOU,Jalen Green,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,50,65,0.216,0.177,3:23
+2,3:03,DAL,Maxi Kleber,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,53,65,0.189,0.225,3:10
+2,1:48,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,57,68,0.318,0.276,2:05
+2,1:25,HOU,Cam Whitmore,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,59,68,0.38,0.329,1:28
+2,6.0,DAL,Luka Doncic,Personal Take Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,66,71,0.367,0.423,23.1
+3,11:18,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,66,73,0.316,0.375,11:18
+3,9:25,DAL,Luka Doncic,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,70,77,0.326,0.321,9:25
+3,8:29,HOU,Fred VanVleet,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,74,79,0.457,0.388,8:29
+3,6:21,DAL,Daniel Gafford,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,81,86,0.31,0.367,6:28
+3,3:40,DAL,Maxi Kleber,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,90,92,0.4,0.468,3:55
+3,3:26,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,90,94,0.422,0.422,3:26
+3,2:40,HOU,Reggie Bullock Jr.,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,93,96,0.459,0.458,2:47
+3,2:32,HOU,Dillon Brooks,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,95,96,0.581,0.5,2:32
+3,2:03,HOU,Dillon Brooks,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,96,98,0.567,0.501,2:15
+3,1:34,DAL,Daniel Gafford,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,96,98,0.377,0.449,1:45
+3,1:00,HOU,Reggie Bullock Jr.,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,96,102,0.377,0.309,1:01
+3,34.0,DAL,P.J. Washington,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,98,104,0.199,0.253,38.1
+4,11:50,DAL,Tim Hardaway Jr.,Loose Ball Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,98,106,0.158,0.192,12:00
+4,11:02,HOU,Cam Whitmore,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,98,108,0.133,0.126,11:17
+4,10:31,HOU,Jock Landale,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,98,108,0.183,0.167,11:51
+4,9:51,DAL,Maxi Kleber,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,100,110,0.058,0.092,10:01
+4,9:42,HOU,Reggie Bullock Jr.,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,100,110,0.123,0.113,9:49
+4,8:52,HOU,Jock Landale,Offensive Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,102,110,0.172,0.142,9:18
+4,6:32,DAL,Luka Doncic,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,111,113,0.27,0.379,6:35
+4,5:19,DAL,Luka Doncic,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,113,115,0.247,0.353,5:31
+4,4:51,HOU,Jabari Smith Jr.,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,113,115,0.527,0.404,4:59
+4,3:52,HOU,Reggie Bullock Jr.,Loose Ball Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,115,118,0.444,0.335,3:52
+4,3:40,DAL,Derrick Jones Jr.,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,117,118,0.29,0.403,3:52
+4,3:29,HOU,Jalen Green,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,117,120,0.44,0.33,3:40
+4,3:01,HOU,Fred VanVleet,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,119,120,0.599,0.477,3:11
+4,25.0,DAL,Dante Exum,Personal Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,126,128,0.098,0.222,34.1
+4,8.1,DAL,Derrick Jones Jr.,Personal Take Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,126,129,0.022,0.088,13.1
+5,4:37,DAL,Dante Exum,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,129,129,0.345,0.466,4:41
+5,3:59,HOU,Reggie Bullock Jr.,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,131,131,0.659,0.538,4:00
+5,2:33,HOU,Reggie Bullock Jr.,Shooting Foul,Foul,Eric Dalen,Curtis Blair,CJ Washington,DAL,135,134,0.76,0.633,2:33

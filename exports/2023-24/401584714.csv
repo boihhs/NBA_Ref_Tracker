@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:22,POR,Matisse Thybulle,Personal Foul,Foul,,,,POR,6,4,0.502,0.501,9:32
+1,7:52,POR,Deandre Ayton,Shooting Foul,Foul,,,,POR,6,10,0.333,0.375,7:52
+1,6:11,POR,Jerami Grant,Shooting Foul,Foul,,,,POR,8,15,0.245,0.28,6:22
+1,4:45,POR,Scoot Henderson,Shooting Foul,Foul,,,,POR,12,18,0.265,0.297,4:57
+1,4:40,ORL,Jalen Suggs,Personal Foul,Foul,,,,POR,12,20,0.278,0.276,4:45
+1,3:46,POR,Scoot Henderson,Shooting Foul,Foul,,,,POR,14,20,0.263,0.299,3:53
+1,3:03,POR,Scoot Henderson,Personal Foul,Foul,,,,POR,17,23,0.261,0.298,3:14
+1,59.0,ORL,Cole Anthony,Shooting Foul,Foul,,,,POR,21,28,0.334,0.293,1:02
+1,7.1,POR,Jabari Walker,Shooting Foul,Foul,,,,POR,24,30,0.273,0.293,7.1
+2,9:40,POR,Jabari Walker,Personal Foul,Foul,,,,POR,32,37,0.314,0.314,9:41
+2,8:50,ORL,Joe Ingles,Shooting Foul,Foul,,,,POR,34,40,0.356,0.315,8:53
+2,8:26,ORL,Jonathan Isaac,Shooting Foul,Foul,,,,POR,35,40,0.384,0.34,8:33
+2,7:28,POR,Jabari Walker,Personal Foul,Foul,,,,POR,37,40,0.371,0.368,7:33
+2,6:58,ORL,Joe Ingles,Shooting Foul,Foul,,,,POR,37,43,0.353,0.312,7:20
+2,5:12,POR,Deandre Ayton,Loose Ball Foul,Foul,,,,POR,44,47,0.367,0.365,5:12
+2,4:39,ORL,Wendell Carter Jr.,Offensive Foul,Foul,,,,POR,46,47,0.459,0.428,4:58
+2,3:15,POR,Jerami Grant,Shooting Foul,Foul,,,,POR,52,47,0.577,0.625,3:28
+2,3:12,POR,Deandre Ayton,Shooting Foul,Foul,,,,POR,52,47,0.601,0.626,3:12
+2,2:32,POR,Jerami Grant,Offensive Foul,Foul,,,,POR,52,52,0.46,0.496,2:48
+2,1:16,POR,Malcolm Brogdon,Shooting Foul,Foul,,,,POR,55,56,0.405,0.464,1:16
+2,35.0,POR,Robert Williams III,Shooting Foul,Foul,,,,POR,55,59,0.304,0.362,35.0
+3,11:03,ORL,Jalen Suggs,Shooting Foul,Foul,,,,POR,55,66,0.195,0.162,11:18
+3,10:47,POR,Matisse Thybulle,Shooting Foul,Foul,,,,POR,56,66,0.128,0.158,11:03
+3,9:25,ORL,Paolo Banchero,Loose Ball Foul,Foul,,,,POR,59,68,0.199,0.2,9:25
+3,8:45,ORL,Jalen Suggs,Defensive 3-Seconds Technical,Foul,,,,POR,59,70,0.142,0.128,9:00
+3,7:20,POR,Shaedon Sharpe,Shooting Foul,Foul,,,,POR,62,72,0.111,0.14,7:33
+3,5:57,ORL,Franz Wagner,Offensive Foul,Foul,,,,POR,62,72,0.155,0.132,6:07
+3,5:45,ORL,Wendell Carter Jr.,Defensive 3-Seconds Technical,Foul,,,,POR,62,72,0.148,0.155,5:57
+3,5:37,ORL,Franz Wagner,Shooting Foul,Foul,,,,POR,63,72,0.222,0.18,5:45
+3,4:51,POR,Scoot Henderson,Shooting Foul,Foul,,,,POR,69,72,0.287,0.341,5:09
+3,4:21,POR,Deandre Ayton,Shooting Foul,Foul,,,,POR,72,74,0.323,0.382,4:40
+3,2:46,ORL,Cole Anthony,Shooting Foul,Foul,,,,POR,74,80,0.29,0.259,2:46
+3,1:04,ORL,Cole Anthony,Personal Foul,Foul,,,,POR,78,80,0.488,0.418,1:12
+4,11:50,POR,Robert Williams III,Shooting Foul,Foul,,,,POR,80,82,0.316,0.389,12:00
+4,8:54,ORL,Moritz Wagner,Loose Ball Foul,Foul,,,,POR,82,88,0.217,0.207,8:54
+4,8:32,ORL,Joe Ingles,Shooting Foul,Foul,,,,POR,82,88,0.292,0.217,8:54
+4,6:55,POR,Jerami Grant,Shooting Foul,Foul,,,,POR,84,92,0.067,0.12,6:55
+4,4:18,ORL,Moritz Wagner,Personal Foul,Foul,,,,POR,84,97,0.024,0.01,4:19
+4,2:33,ORL,Jalen Suggs,Shooting Foul,Foul,,,,POR,86,97,0.028,0.013,2:38
+4,1:14,POR,Jerami Grant,Shooting Foul,Foul,,,,POR,93,99,0.019,0.06,1:33
+4,12.1,POR,Malcolm Brogdon,Personal Take Foul,Foul,,,,POR,95,100,0.004,0.02,13.1

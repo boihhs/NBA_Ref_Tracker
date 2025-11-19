@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:47,MIN,Anthony Edwards,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,0,0,0.712,0.679,12:00
+1,11:17,MIN,Jaylen Nowell,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,2,3,0.688,0.657,11:35
+1,10:29,MIN,Jaylen Nowell,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,3,5,0.662,0.629,10:32
+1,7:39,PHX,Bismack Biyombo,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,15,12,0.712,0.732,7:39
+1,4:37,MIN,Taurean Prince,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,25,20,0.798,0.769,4:41
+1,2:42,PHX,Ish Wainright,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,32,25,0.754,0.787,2:42
+1,2:17,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,34,26,0.824,0.804,2:17
+1,1:34,PHX,Devin Booker,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,34,28,0.775,0.785,1:34
+1,34.1,PHX,Jalen Smith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,37,28,0.807,0.784,39.5
+1,24.8,MIN,Naz Reid,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,37,32,0.795,0.762,34.1
+2,10:33,MIN,Naz Reid,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,42,37,0.763,0.764,10:35
+2,10:25,MIN,Jaylen Nowell,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,44,37,0.817,0.783,10:25
+2,8:42,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,47,41,0.782,0.782,8:42
+2,8:03,MIN,Anthony Edwards,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,50,43,0.83,0.802,8:19
+2,6:50,PHX,Chris Paul,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,53,46,0.745,0.782,7:01
+2,6:24,PHX,Jalen Smith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,53,50,0.679,0.706,6:24
+2,5:39,PHX,Chris Paul,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,55,53,0.606,0.652,5:46
+2,4:57,MIN,Anthony Edwards,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,57,57,0.665,0.622,5:06
+2,4:36,PHX,Ish Wainright,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,59,57,0.664,0.649,4:37
+2,2:57,MIN,Naz Reid,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,64,61,0.746,0.706,3:00
+2,2:23,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,65,64,0.69,0.644,2:41
+2,1:32,PHX,Bismack Biyombo,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,69,66,0.624,0.677,1:52
+2,1.1,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,72,66,0.819,0.785,1.6
+2,1.1,MIN,Karl-Anthony Towns,Technical Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,72,66,0.802,0.819,1.1
+3,7:38,PHX,Bismack Biyombo,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,83,77,0.762,0.763,7:52
+3,7:26,PHX,Mikal Bridges,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,83,77,0.716,0.762,7:38
+3,5:03,PHX,Cameron Johnson,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,88,81,0.797,0.796,5:14
+3,4:02,PHX,Bismack Biyombo,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,88,85,0.662,0.701,4:02
+3,3:50,MIN,Jaden McDaniels,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,88,86,0.72,0.664,4:02
+3,2:16,MIN,Jordan McLaughlin,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,95,86,0.916,0.875,2:25
+3,48.8,PHX,Jalen Smith,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,100,88,0.932,0.946,56.0
+3,2.5,PHX,Jalen Smith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,100,90,0.883,0.919,2.5
+4,11:32,PHX,Jalen Smith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,100,93,0.757,0.823,11:43
+4,10:27,PHX,Cameron Johnson,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,104,97,0.757,0.826,10:38
+4,10:11,PHX,Cameron Johnson,Loose Ball Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,104,99,0.729,0.744,10:11
+4,9:09,PHX,Ish Wainright,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,107,101,0.788,0.825,9:21
+4,8:41,MIN,Malik Beasley,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,107,104,0.711,0.7,8:58
+4,8:00,MIN,Naz Reid,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,109,104,0.798,0.754,8:00
+4,7:16,MIN,Malik Beasley,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,112,106,0.906,0.85,7:26
+4,6:30,MIN,Jaylen Nowell,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,112,108,0.856,0.783,6:48
+4,5:10,PHX,Devin Booker,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,121,110,0.944,0.968,5:26
+4,3:57,PHX,Bismack Biyombo,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,126,113,0.991,0.989,4:11
+4,3:02,MIN,Karl-Anthony Towns,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,126,118,0.981,0.962,3:02
+4,48.7,MIN,Jaden McDaniels,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,128,122,0.966,0.957,1:05
+4,46.4,PHX,Jalen Smith,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,129,122,0.913,0.964,48.7
+4,40.9,MIN,Jarred Vanderbilt,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,129,124,0.978,0.94,46.4
+4,22.5,MIN,Jarred Vanderbilt,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,130,124,0.995,0.981,26.2
+4,6.5,MIN,Taurean Prince,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Scott Twardoski,PHX,132,124,0.999,0.999,10.1

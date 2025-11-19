@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:14,LAL,Troy Brown Jr.,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,2,5,0.749,0.735,9:14
+1,8:04,BOS,Al Horford,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,7,9,0.727,0.726,8:11
+1,6:48,LAL,Dennis Schroder,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,9,12,0.75,0.721,7:08
+1,6:29,BOS,Grant Williams,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,10,12,0.718,0.718,6:48
+1,5:40,LAL,Dennis Schroder,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,13,14,0.782,0.755,5:44
+1,4:50,BOS,Jaylen Brown,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,16,16,0.733,0.768,4:50
+1,2:15,LAL,Lonnie Walker IV,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,23,21,0.821,0.796,2:27
+1,1:18,BOS,Luke Kornet,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,24,23,0.716,0.751,1:25
+2,11:25,LAL,Russell Westbrook,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,28,27,0.794,0.766,11:35
+2,9:37,LAL,Anthony Davis,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,34,27,0.885,0.866,9:52
+2,7:33,BOS,Luke Kornet,Loose Ball Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,36,31,0.81,0.811,7:33
+2,5:39,BOS,Jaylen Brown,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,36,37,0.611,0.656,5:40
+2,4:58,LAL,Patrick Beverley,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,38,38,0.725,0.678,4:58
+2,4:15,LAL,Anthony Davis,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,39,41,0.689,0.648,4:41
+2,3:14,LAL,Anthony Davis,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,41,43,0.682,0.638,3:15
+2,1:27,BOS,Grant Williams,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,45,48,0.504,0.556,1:43
+2,1:03,BOS,Jaylen Brown,Loose Ball Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,45,50,0.428,0.483,1:03
+2,37.1,BOS,Payton Pritchard,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,48,53,0.453,0.516,37.1
+3,10:33,LAL,LeBron James,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,52,54,0.653,0.601,10:36
+3,9:48,LAL,LeBron James,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,54,56,0.648,0.598,10:06
+3,9:11,BOS,Jaylen Brown,Loose Ball Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,56,59,0.515,0.514,9:11
+3,7:03,BOS,Malcolm Brogdon,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,59,67,0.297,0.299,7:15
+3,5:55,LAL,Patrick Beverley,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,59,69,0.243,0.245,5:56
+3,4:26,LAL,Dennis Schroder,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,65,73,0.356,0.296,4:30
+3,4:26,LAL,Dennis Schroder,Technical Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,65,73,0.324,0.356,4:26
+3,1:29,LAL,Russell Westbrook,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,77,77,0.681,0.617,1:46
+4,11:25,BOS,Jaylen Brown,Offensive Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,81,81,0.555,0.605,11:40
+4,10:00,BOS,Grant Williams,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,83,84,0.391,0.491,10:05
+4,9:13,LAL,Dennis Schroder,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,83,89,0.274,0.266,9:31
+4,8:29,BOS,Jayson Tatum,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,86,89,0.339,0.359,8:38
+4,5:40,BOS,Malcolm Brogdon,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,90,95,0.115,0.197,6:06
+4,3:24,LAL,Anthony Davis,Loose Ball Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,95,96,0.504,0.479,3:24
+4,1:42,BOS,Grant Williams,Personal Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,100,99,0.387,0.549,1:51
+4,41.1,LAL,Rui Hachimura,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,100,102,0.504,0.306,51.1
+4,14.1,BOS,Grant Williams,Personal Take Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,102,104,0.073,0.175,14.1
+4,4.0,LAL,Patrick Beverley,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,104,105,0.439,0.117,4.0
+5,5:00,LAL,Patrick Beverley,Technical Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,105,105,0.876,0.5,0.0
+5,4:52,LAL,Troy Brown Jr.,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,106,105,0.718,0.999,5:00
+5,4:25,LAL,Dennis Schroder,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,109,107,0.747,0.612,4:25
+5,3:13,BOS,Grant Williams,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,113,109,0.717,0.832,3:13
+5,2:47,BOS,Malcolm Brogdon,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,115,111,0.722,0.845,2:47
+5,1:57,BOS,Malcolm Brogdon,Flagrant Foul Type 1,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,117,112,0.856,0.867,1:59
+5,33.0,LAL,Russell Westbrook,Shooting Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,119,116,0.932,0.842,37.1
+5,11.1,LAL,Russell Westbrook,Personal Take Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,121,118,0.969,0.878,26.1
+5,0.1,LAL,Patrick Beverley,Personal Take Foul,Foul,Eric Lewis,Jacyn Goble,Andy Nagy,BOS,123,121,0.996,0.966,2.0

@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:26,DEN,Aaron Gordon,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,2,2,0.863,0.867,11:26
+1,7:51,PHX,Duane Washington Jr.,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,15,11,0.905,0.887,7:51
+1,6:27,PHX,Bismack Biyombo,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,19,14,0.917,0.904,6:32
+1,3:17,DEN,Michael Porter Jr.,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,27,19,0.914,0.914,3:29
+1,2:01,PHX,Ish Wainright,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,29,26,0.866,0.867,2:20
+1,1:36,DEN,Zeke Nnaji,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,29,26,0.828,0.851,1:47
+1,4.1,PHX,Saben Lee,Personal Take Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,34,28,0.912,0.897,8.1
+2,10:21,PHX,Bismack Biyombo,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,39,28,0.949,0.939,10:36
+2,9:33,PHX,Damion Lee,Technical Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,44,30,0.962,0.952,9:33
+2,7:48,DEN,Bones Hyland,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,50,33,0.968,0.968,8:01
+2,7:34,PHX,Duane Washington Jr.,Loose Ball Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,50,33,0.972,0.973,7:34
+2,7:29,DEN,Jamal Murray,Offensive Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,50,33,0.968,0.972,7:34
+2,6:47,DEN,Michael Porter Jr.,Loose Ball Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,52,33,0.977,0.976,6:55
+2,5:24,DEN,Aaron Gordon,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,60,38,0.986,0.986,5:36
+2,3:21,PHX,Mikal Bridges,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,65,45,0.988,0.984,3:39
+2,2:44,DEN,Bones Hyland,Transition Take Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,66,47,0.978,0.978,2:44
+2,1:40,DEN,Michael Porter Jr.,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,68,50,0.966,0.974,1:56
+2,1:08,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,70,51,0.972,0.978,1:18
+2,41.1,PHX,Torrey Craig,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,70,52,0.983,0.978,45.1
+3,11:08,DEN,Nikola Jokic,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,72,56,0.955,0.966,11:19
+3,7:35,PHX,Dario Saric,Away from Play Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,86,58,0.998,0.998,7:35
+3,7:27,DEN,Nikola Jokic,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,86,58,0.997,0.998,7:35
+3,6:42,PHX,Dario Saric,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,86,62,0.997,0.996,6:56
+3,5:37,DEN,Bruce Brown,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,90,62,0.998,0.998,5:42
+3,5:20,PHX,Damion Lee,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,90,62,0.999,0.999,5:28
+3,3:58,DEN,Michael Porter Jr.,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,91,64,0.998,0.998,3:59
+3,3:49,PHX,Damion Lee,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,91,64,0.999,0.999,3:54
+3,3:23,DEN,Bones Hyland,Offensive Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,92,67,0.998,0.998,3:26
+3,3:03,PHX,Ish Wainright,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,92,67,0.999,0.998,3:06
+3,34.0,DEN,Bruce Brown,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,100,71,0.999,0.999,39.0
+4,10:37,DEN,Bones Hyland,Personal Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,100,79,0.997,0.997,10:41
+4,8:58,PHX,Damion Lee,Offensive Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,107,79,0.999,0.999,9:15
+4,8:38,PHX,Ish Wainright,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,107,79,0.999,0.999,8:58
+4,6:30,DEN,DEN,Delay Technical,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,115,85,0.999,0.999,6:34
+4,3:30,DEN,Jack White,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,117,90,0.999,0.999,3:46
+4,56.1,PHX,Jock Landale,Loose Ball Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,124,94,0.999,0.999,56.1
+4,28.0,PHX,Jock Landale,Shooting Foul,Foul,David Guthrie,Ben Taylor,Dannica Mosher,DEN,124,94,0.999,0.999,40.1

@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:26,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,0,3,0.267,0.289,11:42
+1,7:31,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,6,15,0.179,0.182,7:31
+1,6:55,MIN,Mike Conley,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,10,15,0.272,0.236,6:55
+1,3:45,MEM,Derrick Rose,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,17,21,0.228,0.261,4:12
+1,2:49,MIN,Naz Reid,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,19,22,0.344,0.306,2:52
+1,1:29,MIN,Shake Milton,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,20,26,0.275,0.241,1:46
+1,55.1,MIN,Karl-Anthony Towns,Personal Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,22,26,0.324,0.287,1:05
+2,11:26,MEM,Vince Williams Jr.,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,26,31,0.213,0.241,11:36
+2,10:22,MEM,Ziaire Williams,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,28,36,0.17,0.201,10:22
+2,9:40,MIN,Troy Brown Jr.,Personal Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,28,40,0.132,0.133,9:50
+2,8:59,MIN,Naz Reid,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,28,40,0.131,0.132,8:59
+2,7:17,MIN,Rudy Gobert,Offensive Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,30,40,0.163,0.144,7:28
+2,5:49,MEM,David Roddy,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,32,45,0.099,0.096,5:49
+2,4:57,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,32,50,0.054,0.054,5:12
+2,4:37,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,32,50,0.067,0.053,4:37
+2,4:07,MEM,Ziaire Williams,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,32,50,0.035,0.045,4:15
+2,3:33,MEM,Ziaire Williams,Personal Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,34,52,0.034,0.045,3:45
+2,2:53,MEM,David Roddy,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,36,53,0.04,0.051,3:16
+2,2:18,MIN,Rudy Gobert,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,36,55,0.054,0.041,2:18
+2,1:55,MIN,Anthony Edwards,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,37,55,0.062,0.049,1:55
+2,51.1,MIN,Rudy Gobert,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,39,58,0.051,0.038,51.1
+2,31.1,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,40,58,0.059,0.046,31.1
+2,14.0,MEM,Derrick Rose,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,41,58,0.035,0.045,31.1
+2,3.0,MIN,Anthony Edwards,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,41,60,0.042,0.037,3.0
+3,10:27,MIN,Kyle Anderson,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,43,65,0.024,0.017,10:46
+3,9:33,MEM,Desmond Bane,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,44,68,0.006,0.007,9:34
+3,8:34,MIN,Rudy Gobert,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,46,70,0.013,0.009,8:43
+3,7:55,MIN,Anthony Edwards,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,48,70,0.013,0.013,7:55
+3,7:37,MEM,Desmond Bane,Double Technical Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,48,70,0.01,0.01,7:41
+3,7:37,MEM,Desmond Bane,Flagrant Foul Type 1,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,48,70,0.011,0.011,7:37
+3,7:16,MIN,Naz Reid,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,48,74,0.006,0.004,7:16
+3,6:41,MEM,Desmond Bane,Offensive Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,50,74,0.005,0.007,6:41
+3,4:06,MIN,Kyle Anderson,Personal Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,58,78,0.02,0.014,4:08
+3,1:30,MEM,Jaylen Nowell,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,64,84,0.005,0.009,1:30
+3,51.1,MIN,Kyle Anderson,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,64,88,0.003,0.001,1:09
+4,11:48,MEM,Ziaire Williams,Personal Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,66,90,0.001,0.001,12:00
+4,10:24,MEM,Bismack Biyombo,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,73,92,0.002,0.004,10:38
+4,10:24,MIN,Rudy Gobert,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,73,93,0.004,0.004,10:24
+4,9:49,MIN,Shake Milton,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,73,93,0.007,0.004,10:03
+4,9:39,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,74,93,0.003,0.003,9:49
+4,4:01,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,90,108,0.001,0.001,4:01
+4,3:10,MEM,Ziaire Williams,Personal Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,93,110,0.001,0.001,3:32
+4,2:30,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Sean Wright,J.B. DeRosa,Jenna Reneau,MEM,93,110,0.001,0.001,2:39

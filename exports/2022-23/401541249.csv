@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:44,CLE,Caris LeVert,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,7,9,0.52,0.54,7:44
+1,6:10,CLE,Jarrett Allen,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,10,12,0.494,0.536,6:17
+1,5:04,CLE,Darius Garland,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,14,17,0.505,0.504,5:11
+1,3:36,NY,Mitchell Robinson,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,14,23,0.402,0.362,3:45
+1,3:22,CLE,Danny Green,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,16,23,0.344,0.386,3:36
+1,3:01,NY,Isaiah Hartenstein,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,16,24,0.427,0.387,3:20
+1,2:04,CLE,Cedi Osman,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,18,27,0.286,0.325,2:16
+1,14.1,CLE,Danny Green,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,26,31,0.382,0.429,25.1
+2,9:00,NY,RJ Barrett,Offensive Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,29,40,0.269,0.244,9:00
+2,8:52,NY,Immanuel Quickley,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,29,40,0.268,0.269,9:00
+2,7:54,NY,RJ Barrett,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,31,42,0.262,0.265,8:13
+2,5:44,CLE,Darius Garland,Transition Take Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,36,49,0.176,0.176,5:44
+2,4:41,NY,Immanuel Quickley,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,38,50,0.255,0.219,4:48
+2,4:02,CLE,Isaac Okoro,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,39,53,0.146,0.145,4:02
+2,3:27,NY,RJ Barrett,Offensive Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,41,55,0.165,0.144,3:41
+2,2:16,NY,Julius Randle,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,43,57,0.189,0.158,2:16
+2,10.0,NY,Josh Hart,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,49,61,0.228,0.189,30.0
+2,4.1,CLE,Isaac Okoro,Personal Take Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,51,61,0.175,0.212,10.0
+3,9:12,CLE,Jarrett Allen,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,53,68,0.075,0.083,9:12
+3,8:25,NY,Jalen Brunson,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,55,68,0.135,0.113,8:25
+3,7:08,CLE,Darius Garland,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,58,73,0.054,0.072,7:10
+3,4:27,CLE,Darius Garland,Offensive Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,65,79,0.068,0.084,4:33
+3,3:37,CLE,Donovan Mitchell,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,65,81,0.028,0.039,3:38
+3,2:00,CLE,Cedi Osman,Loose Ball Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,70,85,0.027,0.04,2:00
+3,34.0,NY,Mitchell Robinson,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,73,85,0.123,0.089,40.0
+4,11:27,CLE,Isaac Okoro,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,77,87,0.062,0.098,11:43
+4,11:12,CLE,Donovan Mitchell,Loose Ball Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,77,88,0.067,0.071,11:12
+4,10:42,NY,Josh Hart,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,77,88,0.09,0.085,10:55
+4,8:59,CLE,Darius Garland,Offensive Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,80,90,0.068,0.095,9:21
+4,7:49,CLE,Jarrett Allen,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,84,90,0.109,0.173,8:10
+4,7:27,CLE,Caris LeVert,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,84,92,0.058,0.094,7:28
+4,7:27,NY,Immanuel Quickley,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,84,94,0.075,0.07,7:27
+4,4:12,NY,Mitchell Robinson,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,84,96,0.033,0.014,4:16
+4,2:37,NY,Jalen Brunson,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,88,100,0.017,0.006,2:40
+4,2:32,NY,Mitchell Robinson,Shooting Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,88,100,0.016,0.017,2:37
+4,1:22,CLE,Darius Garland,Personal Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,92,100,0.006,0.016,1:25
+4,1:06,CLE,Caris LeVert,Personal Take Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,95,102,0.008,0.045,1:07
+4,48.1,CLE,Jarrett Allen,Personal Take Foul,Foul,John Goble,Eric Dalen,Kevin Scott,CLE,95,104,0.001,0.003,52.1

@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:09,PHX,Cameron Johnson,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,2,0,0.548,0.548,10:09
+1,9:00,PHX,Deandre Ayton,Loose Ball Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,2,3,0.471,0.472,9:00
+1,8:04,NO,CJ McCollum,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,5,5,0.472,0.472,8:08
+1,5:52,PHX,Cameron Johnson,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,12,12,0.499,0.499,6:13
+1,4:49,PHX,Jae Crowder,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,14,17,0.458,0.418,5:02
+1,2:50,NO,Herbert Jones,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,18,23,0.338,0.336,2:55
+1,2:12,PHX,Landry Shamet,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,20,25,0.404,0.363,2:26
+1,2:00,NO,Naji Marshall,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,22,25,0.352,0.391,2:12
+1,1:09,NO,Naji Marshall,Loose Ball Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,22,25,0.351,0.394,1:09
+1,1:05,PHX,Cameron Payne,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,22,26,0.43,0.388,1:05
+2,10:13,PHX,Chris Paul,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,35,30,0.65,0.65,10:30
+2,10:11,NO,CJ McCollum,Offensive Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,35,30,0.621,0.65,10:13
+2,9:28,PHX,Cameron Johnson,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,35,34,0.578,0.535,9:35
+2,8:18,PHX,Jae Crowder,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,37,34,0.594,0.595,8:19
+2,8:00,NO,Jose Alvarado,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,37,34,0.563,0.564,8:08
+2,6:10,NO,Jaxson Hayes,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,39,40,0.418,0.473,6:10
+2,5:55,PHX,Deandre Ayton,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,39,41,0.49,0.442,6:10
+2,5:13,NO,Jaxson Hayes,Flagrant Foul Type 2,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,43,43,0.483,0.506,5:13
+2,4:44,PHX,Chris Paul,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,43,46,0.456,0.441,5:13
+2,4:35,NO,Jose Alvarado,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,45,45,0.424,0.472,4:44
+2,4:32,NO,Herbert Jones,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,45,45,0.424,0.424,4:35
+2,5:13,PHX,Jae Crowder,Technical Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,44,45,0.5,0.416,4:32
+2,3:10,NO,Jose Alvarado,Offensive Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,45,49,0.344,0.379,3:14
+2,2:28,PHX,Cameron Payne,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,45,51,0.362,0.316,2:30
+2,50.0,NO,Devonte' Graham,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,48,55,0.212,0.247,58.2
+3,9:58,PHX,Mikal Bridges,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,53,63,0.223,0.185,10:08
+3,9:44,NO,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,53,65,0.104,0.136,9:44
+3,7:59,PHX,Landry Shamet,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,60,66,0.316,0.256,7:59
+3,7:32,PHX,Mikal Bridges,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,61,66,0.378,0.324,7:42
+3,7:01,PHX,Jae Crowder,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,63,66,0.454,0.397,7:12
+3,6:50,NO,Brandon Ingram,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,65,68,0.33,0.396,6:50
+3,5:34,PHX,Mikal Bridges,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,67,73,0.333,0.278,5:43
+3,3:16,NO,Naji Marshall,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,74,73,0.516,0.516,3:33
+3,2:33,PHX,Cameron Payne,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,74,76,0.495,0.425,2:36
+3,1:24,NO,Larry Nance Jr.,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,77,78,0.356,0.422,1:43
+4,10:31,NO,Larry Nance Jr.,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,81,81,0.452,0.471,10:47
+4,9:57,NO,Naji Marshall,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,83,83,0.365,0.462,10:11
+4,8:21,NO,Jose Alvarado,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,88,86,0.545,0.566,8:33
+4,6:24,PHX,Jae Crowder,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,90,90,0.619,0.511,6:32
+4,4:36,NO,Jonas Valanciunas,Offensive Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,93,96,0.238,0.308,4:52
+4,3:33,NO,Larry Nance Jr.,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,95,98,0.137,0.229,3:55
+4,49.0,NO,Larry Nance Jr.,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,97,104,0.004,0.017,1:10
+4,47.1,PHX,Jae Crowder,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,97,106,0.027,0.006,49.0
+4,36.9,NO,Larry Nance Jr.,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,100,106,0.008,0.03,42.3
+4,30.3,PHX,Torrey Craig,Shooting Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,100,108,0.07,0.006,36.9
+4,28.9,NO,Herbert Jones,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,103,108,0.033,0.083,30.3
+4,20.7,NO,Trey Murphy III,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,106,110,0.024,0.067,22.5
+4,12.4,NO,Brandon Ingram,Personal Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,108,112,0.013,0.049,14.7
+4,6.5,NO,Larry Nance Jr.,Loose Ball Foul,Foul,Zach Zarba,Brent Barnaky,Curtis Blair,NO,108,114,0.001,0.002,6.5

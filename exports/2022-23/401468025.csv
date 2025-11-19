@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:35,MIN,Anthony Edwards,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,4,4,0.833,0.834,9:47
+1,5:19,OKC,Kenrich Williams,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,13,9,0.888,0.879,5:19
+1,4:41,OKC,Tre Mann,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,17,11,0.906,0.888,4:41
+1,4:36,MIN,D'Angelo Russell,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,18,13,0.868,0.889,4:36
+1,2:50,OKC,Luguentz Dort,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,22,17,0.9,0.885,2:57
+1,1:40,MIN,Anthony Edwards,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,29,19,0.906,0.921,1:54
+1,38.6,OKC,Jalen Williams,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,32,22,0.935,0.919,38.6
+2,10:20,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,37,30,0.895,0.896,10:22
+2,10:15,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,37,30,0.894,0.895,10:20
+2,9:22,OKC,Jeremiah Robinson-Earl,Loose Ball Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,40,33,0.891,0.893,9:22
+2,8:15,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,42,33,0.926,0.913,8:26
+2,6:17,MIN,Taurean Prince,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,48,36,0.916,0.93,6:30
+2,5:47,MIN,Bryn Forbes,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,51,37,0.946,0.947,5:59
+2,4:29,OKC,Jalen Williams,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,51,42,0.924,0.909,4:49
+2,2:33,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,59,44,0.942,0.954,2:38
+2,1:23,MIN,Jaden McDaniels,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,63,48,0.942,0.955,1:29
+3,11:23,MIN,D'Angelo Russell,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,65,52,0.939,0.941,11:32
+3,10:09,OKC,Josh Giddey,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,68,57,0.945,0.93,10:24
+3,9:23,OKC,Jeremiah Robinson-Earl,Loose Ball Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,69,57,0.94,0.941,9:23
+3,7:47,MIN,D'Angelo Russell,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,76,60,0.967,0.967,7:57
+3,7:41,MIN,Anthony Edwards,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,76,60,0.956,0.967,7:47
+3,7:25,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,76,62,0.938,0.953,7:25
+3,6:52,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,76,64,0.923,0.933,6:55
+3,5:19,OKC,Eugene Omoruyi,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,76,72,0.797,0.801,5:39
+3,4:20,MIN,Anthony Edwards,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,76,72,0.742,0.767,4:20
+3,4:10,OKC,Aleksej Pokusevski,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,76,74,0.781,0.736,4:20
+3,4:01,MIN,Taurean Prince,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,78,74,0.715,0.765,4:10
+3,39.7,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,81,87,0.423,0.296,40.2
+3,11.1,OKC,Kenrich Williams,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,83,87,0.512,0.437,12.4
+4,11:49,OKC,Kenrich Williams,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,87,87,0.709,0.606,12:00
+4,9:40,OKC,Josh Giddey,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,92,89,0.803,0.714,9:40
+4,9:19,MIN,Rudy Gobert,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,93,89,0.683,0.763,9:40
+4,8:10,OKC,Eugene Omoruyi,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,95,91,0.818,0.805,8:23
+4,7:30,MIN,Jaylen Nowell,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,97,91,0.777,0.846,7:38
+4,6:08,OKC,Eugene Omoruyi,Shooting Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,100,93,0.95,0.916,6:18
+4,5:07,OKC,Luguentz Dort,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,101,98,0.856,0.788,5:19
+4,4:27,OKC,Eugene Omoruyi,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,103,100,0.862,0.793,4:32
+4,4:07,MIN,D'Angelo Russell,Personal Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,105,100,0.824,0.838,4:27
+4,2:08,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,109,103,0.915,0.944,2:22
+4,2:08,MIN,Karl-Anthony Towns,Technical Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,109,103,0.888,0.915,2:08
+4,31.4,OKC,Eugene Omoruyi,Personal Take Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,109,104,0.986,0.958,36.3
+4,14.3,MIN,D'Angelo Russell,Offensive Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,111,106,0.959,0.993,31.4
+4,10.3,OKC,Luguentz Dort,Personal Take Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,111,108,0.978,0.928,12.0
+4,8.1,OKC,Josh Giddey,Personal Take Foul,Foul,Derrick Collins,Marc Davis,Mitchell Ervin,MIN,112,108,0.992,0.973,8.1

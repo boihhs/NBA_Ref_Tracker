@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:08,ATL,Saddiq Bey,Personal Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,5,2,0.72,0.723,10:25
+1,8:58,BOS,Dalano Banton,Loose Ball Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,10,4,0.76,0.76,8:58
+1,8:43,ATL,Saddiq Bey,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,10,4,0.804,0.778,8:52
+1,8:18,ATL,Trae Young,Technical Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,11,4,0.809,0.796,8:19
+1,5:27,BOS,Dalano Banton,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,16,13,0.654,0.691,5:32
+1,3:55,BOS,Luke Kornet,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,22,17,0.699,0.735,4:02
+1,1:42,ATL,Wesley Matthews,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,28,21,0.822,0.793,1:52
+1,1:42,ATL,Wesley Matthews,Technical Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,28,21,0.809,0.822,1:42
+2,8:36,BOS,Sam Hauser,Personal Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,40,34,0.749,0.748,8:44
+2,8:32,BOS,Derrick White,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,40,34,0.712,0.749,8:36
+2,8:08,ATL,De'Andre Hunter,Offensive Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,43,36,0.794,0.772,8:18
+2,7:45,ATL,Onyeka Okongwu,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,45,36,0.847,0.814,7:45
+2,5:42,ATL,Onyeka Okongwu,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,50,39,0.882,0.855,5:42
+2,4:51,ATL,Dejounte Murray,Personal Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,53,41,0.887,0.887,5:02
+2,2:26,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,62,48,0.884,0.905,2:41
+2,1:57,ATL,Trae Young,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,64,50,0.936,0.92,1:59
+3,10:48,BOS,Derrick White,Offensive Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,69,56,0.905,0.914,11:08
+3,10:38,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,69,56,0.878,0.905,10:48
+3,9:44,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,73,57,0.926,0.942,10:07
+3,9:19,ATL,Trae Young,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,73,58,0.958,0.945,9:21
+3,8:49,ATL,Saddiq Bey,Personal Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,74,58,0.955,0.956,8:51
+3,7:09,ATL,Trae Young,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,78,61,0.976,0.967,7:31
+3,6:52,BOS,Derrick White,Personal Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,80,61,0.974,0.974,6:52
+3,4:37,BOS,Jaylen Brown,Offensive Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,83,70,0.925,0.938,4:51
+3,3:53,BOS,Jayson Tatum,Clear Path Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,83,72,0.862,0.894,3:54
+3,1:37,ATL,Bogdan Bogdanovic,Offensive Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,88,80,0.865,0.838,1:47
+3,1:27,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,88,80,0.9,0.865,1:37
+3,9.1,BOS,Derrick White,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,90,82,0.823,0.873,9.1
+4,11:17,ATL,De'Andre Hunter,Offensive Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,93,82,0.942,0.925,11:25
+4,9:56,ATL,De'Andre Hunter,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,95,84,0.968,0.947,10:23
+4,8:44,BOS,Derrick White,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,100,91,0.873,0.926,8:44
+4,7:56,ATL,De'Andre Hunter,Personal Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,103,94,0.935,0.928,8:08
+4,7:53,BOS,Jayson Tatum,Offensive Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,103,94,0.909,0.935,7:56
+4,6:10,BOS,Dalano Banton,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,108,94,0.974,0.986,6:30
+4,5:55,BOS,Dalano Banton,Offensive Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,108,97,0.963,0.972,6:10
+4,5:31,BOS,Sam Hauser,Personal Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,108,97,0.961,0.965,5:36
+4,3:28,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,110,101,0.911,0.955,3:35
+4,2:58,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Ed Malloy,Brian Forte,Brent Haskill,BOS,110,101,0.989,0.973,3:01

@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,ATL,Onyeka Okongwu,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,0,0,0.418,0.418,11:20
+1,9:52,ATL,Kevin Huerter,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,2,4,0.335,0.369,10:03
+1,7:07,MIL,George Hill,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,4,8,0.345,0.346,7:07
+1,6:57,MIL,Donte DiVincenzo,Loose Ball Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,4,8,0.345,0.346,6:57
+1,3:59,ATL,Trae Young,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,11,16,0.297,0.295,3:59
+1,3:42,MIL,Pat Connaughton,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,11,16,0.36,0.322,3:45
+1,1:34,ATL,Danilo Gallinari,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,15,22,0.217,0.251,1:47
+1,1:14,ATL,Lou Williams,Personal Take Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,15,22,0.217,0.249,1:17
+2,11:12,MIL,Jordan Nwora,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,17,26,0.227,0.225,11:18
+2,10:41,ATL,Kevin Huerter,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,20,26,0.235,0.269,10:50
+2,9:52,MIL,Bobby Portis,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,22,32,0.235,0.202,10:03
+2,6:55,ATL,John Collins,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,34,40,0.229,0.266,7:01
+2,4:14,MIL,Wesley Matthews,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,44,48,0.346,0.347,4:19
+2,10.5,MIL,Wesley Matthews,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,48,62,0.127,0.104,31.8
+3,11:25,ATL,De'Andre Hunter,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,52,62,0.124,0.152,11:39
+3,10:42,ATL,Kevin Huerter,Personal Take Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,52,64,0.113,0.111,10:44
+3,9:54,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,55,64,0.193,0.194,9:54
+3,9:13,MIL,Khris Middleton,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,55,66,0.177,0.144,9:28
+3,9:08,ATL,De'Andre Hunter,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,57,66,0.165,0.164,9:13
+3,8:10,ATL,ATL,Technical Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,59,69,0.151,0.139,8:10
+3,7:17,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,62,72,0.156,0.158,7:19
+3,6:51,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,62,72,0.193,0.155,6:58
+3,4:54,ATL,Onyeka Okongwu,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,69,74,0.21,0.259,5:12
+3,4:36,ATL,Danilo Gallinari,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,69,76,0.174,0.194,4:36
+3,3:36,MIL,Pat Connaughton,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,69,77,0.239,0.187,3:41
+3,3:07,MIL,Wesley Matthews,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,71,80,0.202,0.161,3:14
+3,1:06,MIL,Wesley Matthews,Loose Ball Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,77,83,0.243,0.243,1:06
+3,38.0,MIL,Bobby Portis,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,79,86,0.263,0.204,47.4
+4,9:35,MIL,Khris Middleton,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,86,95,0.12,0.114,9:49
+4,9:13,ATL,De'Andre Hunter,Loose Ball Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,86,95,0.081,0.086,9:13
+4,9:02,ATL,Onyeka Okongwu,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,86,95,0.051,0.081,9:13
+4,8:47,MIL,Grayson Allen,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,86,97,0.066,0.061,9:02
+4,8:47,MIL,Grayson Allen,Technical Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,86,97,0.077,0.066,8:47
+4,7:47,MIL,Pat Connaughton,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,89,97,0.137,0.127,7:50
+4,7:42,MIL,Grayson Allen,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,89,97,0.193,0.137,7:47
+4,7:33,ATL,Lou Williams,Personal Take Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,89,97,0.12,0.105,7:33
+4,6:49,MIL,Wesley Matthews,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,89,99,0.105,0.069,6:53
+4,6:39,ATL,Lou Williams,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,91,99,0.054,0.092,6:49
+4,6:19,MIL,Wesley Matthews,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,93,100,0.121,0.105,6:19
+4,5:34,ATL,Onyeka Okongwu,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,97,100,0.189,0.265,5:42
+4,5:05,MIL,Bobby Portis,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,99,103,0.356,0.263,5:11
+4,4:49,MIL,Khris Middleton,Offensive Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,101,103,0.385,0.318,5:05
+4,3:29,MIL,George Hill,Personal Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,104,105,0.576,0.457,3:38
+4,51.8,ATL,Onyeka Okongwu,Shooting Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,113,108,0.782,0.88,55.2
+4,18.5,MIL,George Hill,Personal Take Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,115,109,0.996,0.986,19.2
+4,10.5,MIL,Khris Middleton,Personal Take Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,117,112,0.996,0.979,13.5
+4,4.4,MIL,Khris Middleton,Personal Take Foul,Foul,Sean Wright,Curtis Blair,Gediminas Petraitis,ATL,119,114,0.998,0.992,5.4

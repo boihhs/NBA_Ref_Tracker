@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:06,POR,Anfernee Simons,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,3,2,0.621,0.625,11:17
+1,9:22,POR,Anfernee Simons,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,5,2,0.663,0.666,9:28
+1,9:08,LAL,Stanley Johnson,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,5,2,0.642,0.643,9:19
+1,9:04,LAL,Stanley Johnson,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,5,2,0.606,0.642,9:08
+1,8:21,LAL,Russell Westbrook,Defensive 3-Seconds Technical,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,7,4,0.647,0.642,8:37
+1,5:55,LAL,Russell Westbrook,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,16,8,0.753,0.752,6:00
+1,5:04,LAL,Anthony Davis,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,16,10,0.71,0.732,5:04
+1,4:31,POR,CJ Elleby,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,16,10,0.732,0.733,4:33
+1,3:41,POR,CJ Elleby,Loose Ball Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,19,12,0.785,0.755,3:41
+1,1:44,LAL,Carmelo Anthony,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,24,12,0.805,0.832,1:48
+2,11:48,LAL,Carmelo Anthony,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,28,16,0.81,0.843,12:00
+2,10:04,POR,Norman Powell,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,31,21,0.835,0.823,10:04
+2,9:46,POR,Ben McLemore,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,31,21,0.822,0.823,9:54
+2,9:23,POR,Trendon Watford,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,33,21,0.858,0.84,9:23
+2,7:40,LAL,Dwight Howard,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,36,26,0.773,0.805,8:05
+2,7:32,POR,Trendon Watford,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,36,27,0.835,0.807,7:38
+2,3:16,POR,Anfernee Simons,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,46,43,0.704,0.657,3:32
+2,2:04,POR,Jusuf Nurkic,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,48,48,0.611,0.563,2:16
+2,1:22,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,53,48,0.722,0.722,1:22
+2,10.4,LAL,Avery Bradley,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,54,51,0.577,0.628,27.6
+3,9:06,POR,Jusuf Nurkic,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,59,63,0.404,0.409,9:26
+3,8:53,POR,CJ McCollum,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,61,63,0.509,0.441,8:53
+3,8:11,LAL,Russell Westbrook,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,62,63,0.419,0.48,8:29
+3,7:09,LAL,Dwight Howard,Offensive Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,62,65,0.394,0.438,7:21
+3,6:46,LAL,Anthony Davis,Offensive Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,62,65,0.392,0.435,6:53
+3,5:34,LAL,Russell Westbrook,Personal Take Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,65,68,0.388,0.385,5:39
+3,5:03,LAL,Russell Westbrook,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,65,68,0.327,0.384,5:07
+3,3:12,POR,Ben McLemore,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,67,71,0.438,0.376,3:28
+3,2:24,POR,Trendon Watford,Offensive Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,69,71,0.456,0.413,2:31
+3,1:29,POR,CJ Elleby,Loose Ball Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,69,73,0.43,0.362,1:29
+4,10:59,LAL,Russell Westbrook,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,76,75,0.489,0.541,10:59
+4,10:41,POR,Trendon Watford,Defensive 3-Seconds Technical,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,76,76,0.523,0.539,10:54
+4,10:08,POR,CJ McCollum,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,80,79,0.683,0.593,10:20
+4,8:54,POR,Norman Powell,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,82,81,0.616,0.601,9:15
+4,3:57,POR,Robert Covington,Personal Take Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,88,83,0.88,0.866,3:59
+4,3:48,LAL,Anthony Davis,Offensive Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,88,83,0.827,0.88,3:57
+4,3:32,LAL,Anthony Davis,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,88,83,0.821,0.827,3:48
+4,3:02,POR,Norman Powell,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,88,86,0.825,0.715,3:16
+4,2:07,POR,Robert Covington,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,91,89,0.853,0.757,2:07
+4,1:30,POR,Norman Powell,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,92,89,0.801,0.841,1:30
+4,52.0,POR,Jusuf Nurkic,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,94,89,0.966,0.946,53.1
+4,48.8,LAL,Avery Bradley,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,95,89,0.856,0.947,52.0
+4,35.4,POR,Robert Covington,Personal Take Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,95,91,0.961,0.901,43.5
+4,24.2,POR,Robert Covington,Personal Take Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,96,91,0.987,0.96,25.2
+4,15.6,POR,Norman Powell,Personal Take Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,97,93,0.982,0.944,17.1
+4,7.9,LAL,Anthony Davis,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,97,93,0.814,0.893,13.9
+4,0.9,POR,Anfernee Simons,Personal Take Foul,Foul,Curtis Blair,Jason Goldenberg,Leon Wood,LAL,97,94,0.997,0.938,7.9

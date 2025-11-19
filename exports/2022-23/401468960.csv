@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:25,TOR,Pascal Siakam,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,10,4,0.702,0.666,9:25
+1,7:41,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,15,6,0.733,0.754,7:46
+1,7:08,TOR,Precious Achiuwa,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,17,9,0.75,0.712,7:08
+1,5:11,TOR,Chris Boucher,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,23,14,0.789,0.758,5:27
+1,4:26,TOR,Pascal Siakam,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,24,16,0.77,0.737,4:44
+1,3:45,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,27,19,0.715,0.717,3:45
+1,3:04,MEM,Danny Green,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,27,22,0.605,0.642,3:05
+1,2:47,TOR,Chris Boucher,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,27,23,0.682,0.644,3:04
+1,1:59,MEM,Brandon Clarke,Loose Ball Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,29,23,0.632,0.671,1:59
+2,10:20,MEM,Danny Green,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,35,32,0.572,0.624,10:20
+2,10:11,TOR,Pascal Siakam,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,37,32,0.696,0.649,10:11
+2,10:04,MEM,Ziaire Williams,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,38,32,0.676,0.677,10:11
+2,41.1,TOR,Fred VanVleet,Technical Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,61,59,0.626,0.601,52.1
+2,28.0,TOR,Thaddeus Young,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,62,59,0.659,0.635,28.0
+3,10:55,MEM,Desmond Bane,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,64,59,0.673,0.673,11:06
+3,10:26,TOR,Gary Trent Jr.,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,66,59,0.785,0.736,10:26
+3,8:44,MEM,Xavier Tillman,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,69,61,0.726,0.771,9:00
+3,7:34,TOR,Pascal Siakam,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,69,66,0.644,0.647,7:46
+3,7:00,TOR,Scottie Barnes,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,73,66,0.801,0.75,7:00
+3,6:31,TOR,Fred VanVleet,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,73,66,0.825,0.784,6:36
+3,6:00,MEM,Desmond Bane,Personal Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,75,66,0.813,0.813,6:08
+3,5:33,TOR,TOR,Technical Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,77,66,0.902,0.866,5:33
+3,4:44,TOR,Pascal Siakam,Loose Ball Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,80,66,0.957,0.94,4:44
+3,3:14,MEM,John Konchar,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,81,70,0.865,0.882,3:14
+3,2:38,TOR,Chris Boucher,Offensive Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,84,71,0.939,0.922,2:40
+3,29.0,MEM,Brandon Clarke,Defensive 3-Seconds Technical,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,86,74,0.928,0.919,46.1
+4,11:01,TOR,Scottie Barnes,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,86,80,0.844,0.806,11:18
+4,7:30,MEM,David Roddy,Loose Ball Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,95,90,0.751,0.76,7:30
+4,7:22,MEM,Brandon Clarke,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,95,90,0.664,0.751,7:30
+4,5:51,TOR,Thaddeus Young,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,95,93,0.765,0.665,5:56
+4,4:07,MEM,Tyus Jones,Offensive Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,99,96,0.688,0.751,4:22
+4,1:32,TOR,Scottie Barnes,Shooting Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,99,100,0.556,0.489,1:40
+4,13.2,MEM,John Konchar,Personal Take Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,103,104,0.131,0.339,17.1
+4,9.0,MEM,Xavier Tillman,Personal Take Foul,Foul,Marc Davis,Phenizee Ransom,Mitchell Ervin,MEM,103,104,0.109,0.339,17.1

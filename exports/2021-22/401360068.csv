@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:17,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,0,0,0.847,0.826,11:35
+1,8:33,ORL,Jalen Suggs,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,11,9,0.862,0.843,8:40
+1,8:14,MIL,Khris Middleton,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,11,11,0.803,0.811,8:14
+1,7:20,ORL,Jalen Suggs,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,14,12,0.839,0.839,7:24
+1,6:53,ORL,Wendell Carter Jr.,Personal Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,16,12,0.881,0.864,6:59
+1,6:13,ORL,Mo Bamba,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,16,14,0.855,0.834,6:27
+1,4:18,ORL,Mo Bamba,Personal Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,23,14,0.925,0.913,4:24
+1,1:09,MIL,George Hill,Loose Ball Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,34,22,0.926,0.934,1:09
+1,25.6,ORL,Terrence Ross,Personal Take Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,34,22,0.933,0.933,25.6
+2,11:27,ORL,Moritz Wagner,Offensive Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,39,24,0.955,0.95,11:43
+2,11:03,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,39,26,0.928,0.941,11:03
+2,9:47,MIL,Khris Middleton,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,44,29,0.951,0.954,9:47
+2,7:41,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,50,35,0.963,0.954,7:47
+2,6:03,ORL,Chuma Okeke,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,54,40,0.958,0.948,6:06
+2,5:54,MIL,Justin Robinson,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,55,42,0.924,0.941,5:54
+2,4:59,MIL,Justin Robinson,Loose Ball Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,55,42,0.932,0.932,4:59
+2,4:41,ORL,Chuma Okeke,Personal Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,55,42,0.94,0.94,4:47
+2,2:34,ORL,Ignas Brazdeikis,Personal Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,57,47,0.927,0.91,2:47
+2,1:01,MIL,George Hill,Personal Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,60,47,0.915,0.932,1:01
+2,51.1,MIL,Jrue Holiday,Offensive Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,60,48,0.922,0.933,1:01
+2,33.2,MIL,Jrue Holiday,Personal Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,60,48,0.902,0.922,51.1
+3,9:16,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,70,50,0.987,0.983,9:16
+3,7:35,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,75,53,0.989,0.991,7:35
+3,6:24,MIL,Pat Connaughton,Personal Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,79,57,0.991,0.991,6:37
+3,5:43,ORL,Franz Wagner,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,82,57,0.998,0.997,5:48
+3,5:34,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,84,57,0.998,0.998,5:43
+3,4:16,ORL,Robin Lopez,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,86,61,0.998,0.998,4:25
+3,3:10,ORL,Chuma Okeke,Personal Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,88,61,0.999,0.999,3:10
+3,1:34,ORL,R.J. Hampton,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,90,64,0.999,0.999,1:50
+4,9:22,MIL,Thanasis Antetokounmpo,Loose Ball Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,99,74,0.999,0.999,9:22
+4,8:15,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,99,76,0.998,0.999,8:17
+4,6:05,MIL,Thanasis Antetokounmpo,Offensive Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,104,83,0.999,0.999,6:20
+4,5:08,ORL,Ignas Brazdeikis,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,104,86,0.999,0.999,5:19
+4,3:25,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,107,94,0.994,0.996,3:31
+4,1:46,ORL,Robin Lopez,Shooting Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,107,101,0.979,0.944,2:05
+4,1:23,ORL,Robin Lopez,Personal Take Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,108,101,0.991,0.979,1:29
+4,1:18,MIL,Jrue Holiday,Personal Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,109,101,0.935,0.978,1:23
+4,40.7,ORL,Ignas Brazdeikis,Personal Take Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,111,103,0.998,0.991,53.5
+4,24.3,ORL,Moritz Wagner,Personal Take Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,112,106,0.995,0.975,34.3
+4,17.4,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,113,106,0.991,0.987,17.4
+4,16.6,ORL,Mychal Mulder,Personal Take Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,113,108,0.992,0.972,17.4
+4,7.7,ORL,Robin Lopez,Loose Ball Foul,Foul,Sean Corbin,Mitchell Ervin,Ray Acosta,MIL,115,108,0.999,0.999,8.3

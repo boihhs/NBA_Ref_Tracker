@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:37,CHA,Mason Plumlee,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,0,0,0.489,0.49,12:00
+1,10:33,CHA,Terry Rozier,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,4,5,0.443,0.488,10:33
+1,6:02,CHA,JT Thor,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,15,22,0.272,0.309,6:14
+1,2:31,CHA,Nick Richards,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,20,28,0.24,0.276,2:37
+1,1:44,WSH,Jordan Goodwin,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,20,32,0.24,0.207,1:50
+1,50.4,CHA,JT Thor,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,20,34,0.124,0.15,1:03
+1,50.4,CHA,JT Thor,Technical Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,20,34,0.136,0.124,50.4
+2,11:50,CHA,Terry Rozier,Offensive Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,23,36,0.162,0.173,12:00
+2,11:34,CHA,Nick Richards,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,23,36,0.16,0.162,11:50
+2,11:21,WSH,Johnny Davis,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,23,36,0.194,0.178,11:21
+2,8:17,WSH,Johnny Davis,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,33,43,0.233,0.233,8:30
+2,7:52,WSH,Monte Morris,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,35,43,0.3,0.255,7:52
+2,7:43,CHA,Nick Richards,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,36,43,0.28,0.28,7:52
+2,7:28,WSH,Kyle Kuzma,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,36,43,0.349,0.306,7:31
+2,7:19,CHA,Dennis Smith Jr.,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,38,43,0.334,0.332,7:28
+2,7:11,CHA,LaMelo Ball,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,38,43,0.292,0.332,7:11
+2,7:01,CHA,Nick Richards,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,38,43,0.292,0.292,7:11
+2,6:51,CHA,JT Thor,Loose Ball Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,38,45,0.24,0.277,6:51
+2,6:35,WSH,Kristaps Porzingis,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,38,47,0.291,0.252,6:51
+2,5:14,CHA,Mark Williams,Loose Ball Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,42,49,0.234,0.271,5:14
+2,3:44,WSH,Kyle Kuzma,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,46,53,0.342,0.296,3:56
+2,3:09,WSH,Anthony Gill,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,48,53,0.4,0.355,3:25
+2,2:01,CHA,Jalen McDaniels,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,51,53,0.364,0.416,2:01
+2,1:03,CHA,Terry Rozier,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,53,56,0.353,0.409,1:03
+2,1:00,WSH,Monte Morris,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,53,57,0.43,0.384,1:03
+3,10:50,WSH,Daniel Gafford,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,60,63,0.463,0.409,10:54
+3,8:08,WSH,Anthony Gill,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,69,65,0.717,0.668,8:16
+3,8:05,CHA,Terry Rozier,Personal Take Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,71,65,0.701,0.7,8:08
+3,7:57,WSH,Daniel Gafford,Offensive Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,71,65,0.737,0.701,8:05
+3,7:45,WSH,Daniel Gafford,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,73,65,0.817,0.768,7:45
+3,6:46,CHA,JT Thor,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,75,67,0.774,0.772,7:07
+3,5:55,CHA,Nick Richards,Offensive Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,75,70,0.677,0.711,6:11
+3,4:03,WSH,Daniel Gafford,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,79,75,0.743,0.686,4:16
+3,1:40,CHA,JT Thor,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,83,79,0.625,0.658,1:40
+3,1.4,WSH,Rui Hachimura,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,87,81,0.842,0.792,7.6
+4,9:39,WSH,Daniel Gafford,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,93,87,0.853,0.778,9:39
+4,8:19,WSH,Jordan Goodwin,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,96,92,0.764,0.749,8:27
+4,7:30,CHA,CHA,Delay Technical,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,96,94,0.619,0.662,7:30
+4,3:43,WSH,Anthony Gill,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,101,104,0.453,0.613,5:02
+4,3:32,CHA,James Bouknight,Shooting Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,103,106,0.2,0.318,3:32
+4,56.1,WSH,Jordan Goodwin,Personal Foul,Foul,David Guthrie,Tyler Ford,Intae Hwang,CHA,107,114,0.103,0.041,1:03

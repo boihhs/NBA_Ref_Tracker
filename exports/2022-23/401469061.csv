@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:34,NO,Josh Richardson,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,10,4,0.867,0.85,9:46
+1,8:06,NO,Herbert Jones,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,15,8,0.868,0.846,8:06
+1,5:24,NO,Jonas Valanciunas,Loose Ball Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,24,15,0.881,0.88,5:24
+1,3:12,NO,Jose Alvarado,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,31,17,0.941,0.93,3:15
+1,2:15,NY,Isaiah Hartenstein,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,36,21,0.924,0.938,2:15
+1,1:38,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,39,22,0.933,0.944,1:38
+2,11:47,NY,Obi Toppin,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,42,26,0.926,0.941,12:00
+2,10:03,NO,Jose Alvarado,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,47,28,0.972,0.965,10:17
+2,9:01,NY,Mitchell Robinson,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,51,28,0.973,0.979,9:13
+2,8:14,NY,Obi Toppin,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,53,30,0.973,0.979,8:23
+2,7:55,NY,RJ Barrett,Offensive Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,53,32,0.971,0.976,8:14
+2,7:40,NY,Immanuel Quickley,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,53,34,0.957,0.967,7:40
+2,4:23,NO,Jonas Valanciunas,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,62,44,0.968,0.965,4:23
+2,2:22,NY,Quentin Grimes,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,66,46,0.964,0.972,2:24
+2,1:43,NY,RJ Barrett,Offensive Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,66,48,0.962,0.968,1:57
+2,49.1,NO,CJ McCollum,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,69,48,0.986,0.982,1:04
+3,11:25,NY,Mitchell Robinson,Offensive Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,73,52,0.98,0.984,11:38
+3,9:59,NO,Josh Richardson,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,78,59,0.984,0.978,10:14
+3,7:20,NY,Quentin Grimes,Personal Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,90,63,0.997,0.997,7:24
+3,7:18,NY,Mitchell Robinson,Personal Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,90,63,0.997,0.997,7:20
+3,6:14,NO,Brandon Ingram,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,90,66,0.997,0.995,6:26
+3,6:02,NY,Jalen Brunson,Personal Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,92,66,0.996,0.997,6:14
+3,5:10,NY,Mitchell Robinson,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,92,70,0.99,0.993,5:10
+3,4:08,NY,Quentin Grimes,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,94,70,0.993,0.995,4:23
+3,1:40,NY,Isaiah Hartenstein,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,96,78,0.978,0.984,1:44
+3,1:30,NO,Jose Alvarado,Personal Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,96,79,0.99,0.986,1:38
+3,1:01,NO,Brandon Ingram,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,96,79,0.991,0.986,1:05
+4,11:52,NO,Willy Hernangomez,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,102,82,0.998,0.995,12:00
+4,10:28,NY,Immanuel Quickley,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,106,82,0.998,0.999,10:28
+4,9:12,NY,Josh Hart,Personal Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,110,85,0.999,0.999,9:14
+4,8:59,NO,Josh Richardson,Personal Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,110,85,0.999,0.999,8:59
+4,6:44,NO,Jonas Valanciunas,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,116,90,0.999,0.999,6:44
+4,6:44,NO,Brandon Ingram,Technical Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,116,90,0.999,0.999,6:44
+4,6:25,NY,Jalen Brunson,Personal Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,120,90,0.999,0.999,6:31
+4,4:07,NO,Brandon Ingram,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,125,94,0.999,0.999,4:07
+4,4:02,NY,Julius Randle,Personal Take Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,126,94,0.999,0.999,4:07
+4,2:21,NY,Jericho Sims,Personal Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,126,97,0.999,0.999,2:21
+4,44.1,NY,Miles McBride,Shooting Foul,Foul,Mark Lindsay,Dedric Taylor,Tom Washington,NY,126,101,0.999,0.999,53.0

@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:12,GS,Kevon Looney,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,0,3,0.671,0.704,11:24
+1,10:30,GS,Kevon Looney,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,0,5,0.622,0.656,10:43
+1,10:25,DEN,Monte Morris,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,0,7,0.632,0.632,10:30
+1,9:53,DEN,Nikola Jokic,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,2,7,0.69,0.65,9:53
+1,9:26,DEN,Monte Morris,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,2,7,0.668,0.671,9:31
+1,6:32,GS,Jordan Poole,Personal Take Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,7,11,0.652,0.649,6:32
+1,5:04,GS,Andrew Wiggins,Offensive Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,9,18,0.505,0.535,5:17
+1,3:25,DEN,Bones Hyland,Personal Take Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,15,24,0.561,0.517,3:26
+1,22.6,DEN,Bryn Forbes,Offensive Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,25,26,0.707,0.681,30.8
+2,11:31,GS,Klay Thompson,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,25,26,0.638,0.677,11:45
+2,11:29,GS,Otto Porter Jr.,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,25,27,0.632,0.651,11:29
+2,8:12,DEN,Bryn Forbes,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,31,39,0.475,0.478,8:26
+2,8:07,DEN,DeMarcus Cousins,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,31,39,0.474,0.475,8:12
+2,8:06,DEN,DeMarcus Cousins,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,31,39,0.473,0.474,8:07
+2,5:43,DEN,Monte Morris,Technical Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,37,43,0.54,0.484,5:45
+2,5:01,GS,Draymond Green,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,40,43,0.576,0.575,5:13
+2,4:25,DEN,Aaron Gordon,Offensive Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,42,43,0.661,0.633,4:36
+2,3:55,GS,Draymond Green,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,44,43,0.644,0.69,4:11
+2,2:48,GS,Stephen Curry,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,49,47,0.69,0.738,2:48
+2,46.7,GS,Andrew Wiggins,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,57,49,0.832,0.848,46.7
+2,8.3,DEN,Austin Rivers,Personal Take Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,57,51,0.855,0.826,21.8
+2,8.3,DEN,Aaron Gordon,Away from Play Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,57,51,0.855,0.855,8.3
+3,11:43,DEN,Nikola Jokic,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,60,51,0.904,0.868,11:43
+3,10:42,DEN,Nikola Jokic,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,63,53,0.918,0.899,10:46
+3,9:37,DEN,Jeff Green,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,64,53,0.931,0.914,9:46
+3,9:09,GS,Jordan Poole,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,69,55,0.939,0.939,9:18
+3,3:49,GS,Draymond Green,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,79,66,0.931,0.941,3:49
+3,2:54,DEN,JaMychal Green,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,87,68,0.992,0.986,2:54
+3,2:31,DEN,Nikola Jokic,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,88,71,0.989,0.983,2:41
+3,2:31,DEN,Nikola Jokic,Technical Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,88,71,0.987,0.989,2:31
+3,50.9,GS,Stephen Curry,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,97,75,0.994,0.996,59.8
+3,38.7,DEN,JaMychal Green,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,97,77,0.997,0.995,50.9
+3,36.1,GS,Nemanja Bjelica,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,99,77,0.994,0.996,38.7
+3,18.8,GS,Nemanja Bjelica,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,101,79,0.995,0.996,26.2
+4,11:50,DEN,DeMarcus Cousins,Offensive Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,101,81,0.996,0.995,12:00
+4,11:40,DEN,Austin Rivers,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,101,81,0.996,0.996,11:50
+4,9:40,DEN,Bones Hyland,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,106,87,0.997,0.997,9:40
+4,8:56,DEN,Austin Rivers,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,107,89,0.998,0.996,9:01
+4,8:10,GS,Draymond Green,Personal Take Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,109,89,0.998,0.998,8:14
+4,8:06,GS,Klay Thompson,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,109,89,0.998,0.998,8:10
+4,7:34,GS,Gary Payton II,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,109,89,0.998,0.998,7:40
+4,7:00,DEN,Nikola Jokic,Technical Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,109,89,0.999,0.999,7:00
+4,5:53,GS,Stephen Curry,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,114,92,0.999,0.999,6:05
+4,5:03,GS,Klay Thompson,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,116,94,0.999,0.999,5:18
+4,3:01,DEN,Facundo Campazzo,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,119,101,0.999,0.999,3:08
+4,2:11,DEN,Facundo Campazzo,Personal Take Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,119,101,0.999,0.999,2:11
+4,1:41,DEN,Zeke Nnaji,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Kane Fitzgerald,GS,120,101,0.999,0.999,1:52

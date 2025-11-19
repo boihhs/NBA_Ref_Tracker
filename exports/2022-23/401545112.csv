@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:41,PHI,Tyrese Maxey,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,5,5,0.538,0.538,8:51
+1,8:23,BOS,Al Horford,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,5,5,0.474,0.514,8:37
+1,8:07,PHI,Joel Embiid,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,7,7,0.558,0.513,8:07
+1,7:23,BOS,Jaylen Brown,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,8,7,0.5,0.539,7:38
+1,7:09,PHI,P.J. Tucker,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,8,8,0.577,0.539,7:23
+1,6:48,BOS,Jayson Tatum,Loose Ball Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,10,8,0.565,0.565,6:48
+1,5:47,PHI,James Harden,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,12,8,0.679,0.643,5:54
+1,5:09,PHI,Georges Niang,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,12,10,0.63,0.589,5:28
+1,3:57,BOS,Malcolm Brogdon,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,16,12,0.577,0.617,4:08
+1,2:59,BOS,Malcolm Brogdon,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,18,16,0.524,0.564,3:03
+1,56.1,BOS,Grant Williams,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,23,18,0.607,0.645,1:05
+2,10:23,PHI,Jalen McDaniels,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,33,26,0.763,0.728,10:44
+2,9:55,PHI,De'Anthony Melton,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,35,26,0.805,0.775,10:00
+2,9:33,BOS,Grant Williams,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,37,26,0.764,0.798,9:41
+2,7:05,BOS,Robert Williams III,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,42,32,0.748,0.784,7:12
+2,5:10,PHI,Tyrese Maxey,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,45,38,0.777,0.742,5:14
+2,4:56,PHI,P.J. Tucker,Offensive Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,47,38,0.792,0.763,5:10
+2,3:09,PHI,Paul Reed,Offensive Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,50,42,0.773,0.746,3:13
+2,2:16,PHI,Tyrese Maxey,Loose Ball Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,50,44,0.762,0.722,2:16
+2,1:43,BOS,Derrick White,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,50,44,0.645,0.693,1:47
+3,7:46,PHI,P.J. Tucker,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,66,54,0.919,0.893,8:01
+3,7:34,BOS,Jayson Tatum,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,68,54,0.913,0.911,7:46
+3,7:22,PHI,Joel Embiid,Loose Ball Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,68,54,0.927,0.928,7:22
+3,6:52,BOS,Al Horford,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,68,54,0.89,0.915,7:07
+3,30.0,PHI,James Harden,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,92,65,0.999,0.999,38.0
+4,11:23,PHI,Paul Reed,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,92,65,0.999,0.999,11:39
+4,8:18,BOS,Payton Pritchard,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,100,71,0.999,0.999,8:24
+4,8:08,PHI,Jaden Springer,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,100,71,0.999,0.999,8:15
+4,1:50,BOS,Mike Muscala,Shooting Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,116,83,0.999,0.999,1:50
+4,1:45,PHI,Dewayne Dedmon,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,116,84,0.999,0.999,1:50
+4,1:45,PHI,Danuel House Jr.,Technical Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,116,84,0.999,0.999,1:45
+4,1:17,BOS,Justin Champagnie,Loose Ball Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,119,84,0.999,0.999,1:17
+4,27.1,BOS,Sam Hauser,Personal Foul,Foul,Zach Zarba,Rodney Mott,Kevin Scott,BOS,121,85,0.999,0.999,35.0

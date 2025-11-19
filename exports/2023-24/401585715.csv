@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:43,CHA,Grant Williams,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,0,0,0.015,0.017,12:00
+1,8:13,BOS,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,12,9,0.038,0.032,8:13
+1,7:41,CHA,Grant Williams,Personal Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,16,9,0.05,0.05,7:50
+1,4:27,CHA,Marques Bolden,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,25,20,0.046,0.053,4:45
+1,4:00,CHA,CHA,Technical Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,25,21,0.047,0.05,4:02
+1,2:49,BOS,Jayson Tatum,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,29,25,0.068,0.056,2:49
+1,7.1,BOS,Payton Pritchard,Personal Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,32,30,0.073,0.062,13.2
+2,11:01,BOS,Sam Hauser,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,34,32,0.065,0.061,11:01
+2,8:36,CHA,Tre Mann,Offensive Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,34,34,0.059,0.065,8:52
+2,8:03,CHA,Brandon Miller,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,36,36,0.052,0.061,8:07
+2,6:10,BOS,Jrue Holiday,Personal Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,42,43,0.071,0.07,6:27
+2,6:03,BOS,Xavier Tillman,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,44,43,0.099,0.081,6:03
+2,3:01,BOS,Kristaps Porzingis,Offensive Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,47,51,0.062,0.054,3:06
+2,4.2,CHA,Brandon Miller,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,53,57,0.053,0.065,19.1
+2,2.1,BOS,Derrick White,Personal Take Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,53,59,0.072,0.058,4.2
+3,10:21,BOS,Derrick White,Personal Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,58,64,0.064,0.063,10:37
+3,9:43,CHA,Vasilije Micic,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,60,66,0.052,0.067,9:43
+3,7:33,BOS,Derrick White,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,62,72,0.051,0.039,7:45
+3,6:05,CHA,Tre Mann,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,64,76,0.018,0.023,6:08
+3,5:06,BOS,Payton Pritchard,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,67,81,0.026,0.019,5:16
+3,4:24,CHA,Brandon Miller,Loose Ball Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,69,81,0.024,0.024,4:24
+3,2:39,CHA,Marques Bolden,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,76,85,0.039,0.055,2:39
+3,1:32,CHA,Marques Bolden,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,79,88,0.039,0.057,1:32
+3,1:05,CHA,Davis Bertans,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,79,89,0.026,0.037,1:14
+4,8:33,BOS,Payton Pritchard,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,86,103,0.006,0.002,8:33
+4,6:51,CHA,Davis Bertans,Personal Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,93,106,0.009,0.01,7:11
+4,5:25,BOS,Sam Hauser,Personal Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,96,111,0.005,0.004,5:37
+4,4:52,CHA,Grant Williams,Personal Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,96,111,0.002,0.002,5:11
+4,1:24,CHA,Brandon Miller,Personal Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,100,116,0.001,0.001,1:25
+4,27.0,BOS,Payton Pritchard,Shooting Foul,Foul,Bill Kennedy,Pat Fraher,Brandon Schwab,CHA,103,118,0.001,0.001,35.2

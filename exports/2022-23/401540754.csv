@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:04,MIA,Gabe Vincent,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,4,7,0.738,0.739,10:15
+1,9:58,MIA,Tyler Herro,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,4,7,0.764,0.738,10:04
+1,7:53,MIA,Gabe Vincent,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,7,11,0.701,0.703,7:58
+1,7:32,MIL,Jrue Holiday,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,7,11,0.676,0.678,7:41
+1,7:29,MIA,Max Strus,Offensive Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,7,11,0.699,0.676,7:32
+1,6:56,MIA,Caleb Martin,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,7,11,0.712,0.695,6:56
+1,6:20,MIL,Joe Ingles,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,9,13,0.649,0.691,6:20
+1,5:33,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,12,19,0.565,0.612,5:33
+1,4:46,MIL,Jrue Holiday,Offensive Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,12,22,0.494,0.525,5:09
+1,4:13,MIA,Kevin Love,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,12,24,0.501,0.459,4:31
+1,3:30,MIL,Wesley Matthews,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,15,26,0.408,0.448,3:40
+1,2:26,MIA,Bam Adebayo,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,20,31,0.491,0.437,2:26
+1,44.1,MIA,Kevin Love,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,23,31,0.584,0.544,51.2
+2,9:56,MIA,Max Strus,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,28,37,0.526,0.478,10:03
+2,8:33,MIA,Caleb Martin,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,35,43,0.496,0.498,8:35
+2,8:29,MIA,Kyle Lowry,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,35,43,0.491,0.498,8:33
+2,7:57,MIA,Kyle Lowry,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,39,43,0.634,0.58,7:57
+2,7:45,MIA,Jimmy Butler III,Offensive Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,40,43,0.639,0.609,7:57
+2,4:17,MIL,Jevon Carter,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,44,52,0.409,0.409,4:19
+2,1:32,MIL,Bobby Portis,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,52,60,0.33,0.377,1:32
+3,10:32,MIA,Gabe Vincent,Loose Ball Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,59,70,0.273,0.24,10:32
+3,9:36,MIL,Khris Middleton,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,62,70,0.33,0.332,9:47
+3,8:25,MIL,Brook Lopez,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,62,74,0.165,0.212,8:25
+3,5:51,MIA,Jimmy Butler III,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,73,78,0.47,0.395,5:51
+3,4:49,MIL,Brook Lopez,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,75,78,0.405,0.428,4:49
+3,3:40,MIL,Jrue Holiday,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,79,84,0.303,0.372,3:59
+3,2:46,MIL,Joe Ingles,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,82,90,0.205,0.271,2:46
+3,2:27,MIL,Jae Crowder,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,82,92,0.139,0.194,2:27
+3,1:50,MIA,Jimmy Butler III,Offensive Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,86,93,0.298,0.276,3:08
+3,1:28,MIL,Bobby Portis,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,86,93,0.193,0.251,1:35
+3,3:08,MIA,MIA,Delay Technical,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,80,88,0.266,0.249,1:28
+3,29.0,MIL,Bobby Portis,Loose Ball Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,88,97,0.119,0.161,29.0
+4,11:41,MIL,Joe Ingles,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,88,102,0.04,0.05,12:00
+4,11:11,MIL,Grayson Allen,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,90,104,0.029,0.051,11:11
+4,10:33,MIL,Joe Ingles,Defensive 3-Seconds Technical,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,93,105,0.064,0.06,10:52
+4,10:33,MIL,Bobby Portis,Away from Play Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,93,105,0.054,0.057,10:33
+4,9:59,MIA,Gabe Vincent,Offensive Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,95,106,0.087,0.069,10:04
+4,9:47,MIA,Caleb Martin,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,95,106,0.134,0.087,9:59
+4,8:57,MIA,Bam Adebayo,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,96,106,0.16,0.104,9:05
+4,5:54,MIA,Max Strus,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,102,113,0.05,0.046,6:04
+4,4:39,MIA,Jimmy Butler III,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,102,115,0.03,0.014,4:43
+4,3:53,MIL,Wesley Matthews,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,105,115,0.012,0.027,4:07
+4,2:55,MIA,Caleb Martin,Shooting Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,110,119,0.057,0.025,2:55
+4,2:14,MIA,Bam Adebayo,Offensive Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,111,122,0.01,0.006,2:27
+4,26.1,MIL,Grayson Allen,Personal Foul,Foul,Tony Brothers,Michael Smith,Tyler Ford,MIL,117,128,0.001,0.001,40.1

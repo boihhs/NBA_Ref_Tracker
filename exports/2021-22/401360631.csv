@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:43,CHI,Ayo Dosunmu,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,4,2,0.368,0.368,10:53
+1,5:54,PHX,Jae Crowder,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,10,20,0.17,0.144,5:54
+1,5:47,CHI,Coby White,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,11,20,0.159,0.158,5:54
+1,5:45,CHI,Zach LaVine,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,11,20,0.159,0.159,5:47
+1,5:21,PHX,Deandre Ayton,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,11,22,0.144,0.144,5:21
+1,4:30,PHX,Jae Crowder,Technical Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,13,22,0.189,0.176,4:30
+1,2:30,PHX,Elfrid Payton,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,23,28,0.253,0.253,2:52
+1,2:21,PHX,Cameron Johnson,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,23,28,0.287,0.253,2:30
+1,1:36,CHI,DeMar DeRozan,Loose Ball Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,25,30,0.203,0.233,1:36
+1,52.7,CHI,Tony Bradley,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,28,32,0.225,0.256,1:07
+1,35.7,PHX,Cameron Johnson,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,28,34,0.268,0.235,52.7
+2,10:55,CHI,Ayo Dosunmu,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,31,38,0.168,0.194,11:03
+2,9:42,PHX,JaVale McGee,Defensive 3-Seconds Technical,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,31,43,0.124,0.127,10:01
+2,8:57,CHI,Matt Thomas,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,32,45,0.083,0.098,9:01
+2,8:44,CHI,Nikola Vucevic,Offensive Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,32,48,0.066,0.077,8:57
+2,6:03,CHI,Coby White,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,37,55,0.045,0.045,6:08
+2,5:59,CHI,Troy Brown Jr.,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,37,57,0.029,0.039,5:59
+2,4:40,PHX,Deandre Ayton,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,41,60,0.05,0.038,4:40
+2,4:08,PHX,Jae Crowder,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,42,60,0.057,0.051,4:08
+2,4:01,CHI,Javonte Green,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,44,60,0.047,0.06,4:08
+2,2:44,PHX,Deandre Ayton,Offensive Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,47,62,0.077,0.066,3:03
+2,25.3,PHX,Devin Booker,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,49,67,0.057,0.043,34.4
+3,11:09,PHX,Jae Crowder,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,49,69,0.037,0.027,11:09
+3,9:22,CHI,Ayo Dosunmu,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,57,71,0.048,0.064,9:35
+3,8:39,PHX,Deandre Ayton,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,57,75,0.034,0.034,8:44
+3,5:22,PHX,Devin Booker,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,61,88,0.003,0.002,5:24
+3,5:22,PHX,Devin Booker,Technical Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,61,88,0.003,0.003,5:22
+3,4:00,PHX,Mikal Bridges,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,69,92,0.008,0.006,4:13
+3,3:42,PHX,Mikal Bridges,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,72,92,0.019,0.013,3:44
+3,1:14,PHX,Cameron Johnson,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,80,100,0.01,0.005,1:14
+4,11:43,CHI,Javonte Green,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,83,102,0.005,0.005,11:45
+4,11:24,PHX,Elfrid Payton,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,83,104,0.004,0.004,11:36
+3,3:06,PHX,JaVale McGee,Technical Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,76,95,0.019,0.004,11:24
+4,10:47,PHX,Jalen Smith,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,83,104,0.006,0.003,10:50
+4,10:06,PHX,Elfrid Payton,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,85,106,0.003,0.003,10:14
+4,8:16,PHX,Jae Crowder,Clear Path Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,93,110,0.015,0.008,8:16
+4,7:54,CHI,DeMar DeRozan,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,97,112,0.007,0.016,7:54
+4,5:56,PHX,Deandre Ayton,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,103,113,0.073,0.04,5:56
+4,4:42,CHI,Ayo Dosunmu,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,104,118,0.002,0.006,4:53
+4,4:08,CHI,Nikola Vucevic,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,106,119,0.002,0.006,4:24
+4,3:35,CHI,Coby White,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,108,121,0.001,0.004,3:57
+4,2:02,PHX,Deandre Ayton,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,110,125,0.001,0.001,2:06
+4,1:35,PHX,Mikal Bridges,Shooting Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,114,127,0.001,0.001,1:35
+4,1:12,PHX,Jae Crowder,Personal Foul,Foul,Leon Wood,David Guthrie,Evan Scott,CHI,115,127,0.005,0.001,1:21

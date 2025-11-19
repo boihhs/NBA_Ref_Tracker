@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:28,MEM,De'Anthony Melton,Personal Take Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,0,0,0.201,0.201,11:28
+1,10:03,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,0,5,0.167,0.147,10:07
+1,8:05,MEM,Xavier Tillman,Offensive Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,7,11,0.152,0.166,8:14
+1,7:29,MEM,De'Anthony Melton,Personal Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,7,11,0.154,0.153,7:38
+1,6:52,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,9,13,0.182,0.156,6:52
+1,4:41,MEM,Jarrett Culver,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,14,18,0.141,0.16,4:48
+1,4:28,BOS,Marcus Smart,Personal Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,14,20,0.148,0.148,4:41
+1,2:20,MEM,Yves Pons,Personal Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,19,27,0.096,0.113,2:33
+1,1:47,BOS,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,19,27,0.149,0.128,1:57
+2,10:49,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,25,34,0.14,0.118,11:04
+2,10:29,BOS,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,27,34,0.172,0.147,10:33
+2,9:31,BOS,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,31,36,0.212,0.183,9:40
+2,9:18,MEM,Jarrett Culver,Offensive Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,31,36,0.167,0.184,9:19
+2,8:43,BOS,Payton Pritchard,Loose Ball Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,31,39,0.159,0.136,8:43
+2,8:08,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,31,39,0.161,0.135,8:22
+2,4:52,BOS,Jayson Tatum,Personal Take Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,37,49,0.103,0.085,4:52
+2,4:07,MEM,Ziaire Williams,Personal Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,39,52,0.065,0.065,4:22
+2,3:44,MEM,John Konchar,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,39,54,0.042,0.055,3:44
+2,3:21,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,39,55,0.06,0.047,3:23
+2,2:48,BOS,Daniel Theis,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,43,55,0.095,0.074,2:48
+2,1:27,MEM,Xavier Tillman,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,46,62,0.034,0.045,1:27
+2,34.4,MEM,Santi Aldama,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,46,69,0.008,0.013,34.4
+2,14.9,MEM,Yves Pons,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,46,70,0.005,0.007,18.3
+3,11:16,BOS,Jayson Tatum,Loose Ball Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,49,74,0.007,0.006,11:16
+3,11:08,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,49,74,0.007,0.006,11:08
+3,8:47,MEM,Xavier Tillman,Loose Ball Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,55,78,0.007,0.006,8:47
+3,1:13,MEM,Jarrett Culver,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,75,98,0.001,0.002,1:23
+4,9:28,BOS,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,81,112,0.001,0.001,9:32
+4,9:14,MEM,Yves Pons,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,83,112,0.001,0.001,9:28
+4,9:03,BOS,Grant Williams,Personal Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,83,114,0.001,0.001,9:14
+4,8:03,BOS,Luke Kornet,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,88,119,0.001,0.001,8:12
+4,7:45,MEM,Santi Aldama,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,91,119,0.001,0.001,8:03
+4,6:05,BOS,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,99,123,0.001,0.001,6:05
+4,4:03,BOS,Luke Kornet,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,99,129,0.001,0.001,4:14
+4,3:48,BOS,Brodric Thomas,Shooting Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,102,129,0.001,0.001,3:48
+4,12.1,MEM,Santi Aldama,Personal Foul,Foul,Ed Malloy,Sean Wright,Marat Kogut,MEM,110,139,0.001,0.001,12.1

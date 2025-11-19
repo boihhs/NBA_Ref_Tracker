@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:23,MIN,Naz Reid,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,0,0,0.282,0.315,11:36
+1,8:37,MIN,Naz Reid,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,7,4,0.358,0.394,8:39
+1,8:00,MIN,Nathan Knight,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,10,6,0.385,0.421,8:23
+1,6:54,MIN,Anthony Edwards,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,12,11,0.318,0.353,6:56
+1,6:11,TOR,OG Anunoby,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,12,14,0.308,0.307,6:26
+1,5:39,MIN,Taurean Prince,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,14,14,0.298,0.333,5:47
+1,5:33,TOR,Gary Trent Jr.,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,16,15,0.401,0.359,5:33
+1,4:11,TOR,Pascal Siakam,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,19,20,0.336,0.338,4:25
+1,4:02,MIN,Jaden McDaniels,Defensive 3-Seconds Technical,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,19,20,0.32,0.312,4:10
+1,3:28,TOR,Fred VanVleet,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,21,25,0.286,0.248,3:28
+1,2:13,MIN,D'Angelo Russell,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,23,27,0.236,0.25,2:13
+1,1:32,TOR,Scottie Barnes,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,25,29,0.308,0.272,1:45
+2,11:39,MIN,Naz Reid,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,31,37,0.213,0.211,11:39
+2,11:11,MIN,Jaden McDaniels,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,33,37,0.254,0.253,11:17
+2,9:20,MIN,Taurean Prince,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,35,43,0.176,0.173,9:26
+2,7:42,TOR,Thaddeus Young,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,37,50,0.12,0.097,7:42
+2,7:08,TOR,Thaddeus Young,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,38,53,0.103,0.084,7:24
+2,5:37,MIN,Taurean Prince,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,42,58,0.049,0.061,5:43
+2,3:42,MIN,Kyle Anderson,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,51,64,0.072,0.09,3:50
+2,2:12,TOR,Precious Achiuwa,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,56,69,0.124,0.101,2:26
+2,59.1,MIN,Anthony Edwards,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,62,74,0.078,0.097,1:17
+3,11:33,TOR,Scottie Barnes,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,66,76,0.177,0.147,11:38
+3,10:01,TOR,Fred VanVleet,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,71,82,0.152,0.123,10:15
+3,9:40,TOR,Scottie Barnes,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,73,82,0.198,0.161,9:43
+3,7:00,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,83,87,0.219,0.264,7:03
+3,6:28,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,83,88,0.234,0.232,6:28
+3,5:43,TOR,OG Anunoby,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,83,90,0.248,0.201,5:43
+3,3:34,MIN,D'Angelo Russell,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,88,97,0.091,0.118,3:36
+3,2:24,TOR,Precious Achiuwa,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,91,101,0.148,0.114,2:43
+3,2:02,MIN,Luka Garza,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,93,103,0.078,0.11,2:02
+3,1:17,TOR,OG Anunoby,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,96,104,0.205,0.155,1:20
+4,10:38,MIN,Luka Garza,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,105,111,0.115,0.168,10:48
+4,10:19,MIN,Luka Garza,Transition Take Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,105,113,0.103,0.103,10:19
+4,9:22,TOR,Juancho Hernangomez,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,107,119,0.045,0.034,9:37
+4,8:31,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,107,119,0.016,0.029,8:42
+4,4:54,TOR,Pascal Siakam,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,119,124,0.278,0.19,5:12
+4,18.1,TOR,Scottie Barnes,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,126,126,0.79,0.516,28.2
+4,9.2,TOR,Fred VanVleet,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Tom Washington,MIN,126,126,0.819,0.544,18.1

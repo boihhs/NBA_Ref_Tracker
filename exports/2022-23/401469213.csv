@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:20,TOR,Jakob Poeltl,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,2,2,0.803,0.829,10:20
+1,9:11,TOR,Fred VanVleet,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,6,5,0.802,0.826,9:29
+1,7:27,MIN,Kyle Anderson,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,9,9,0.839,0.818,7:41
+1,5:55,TOR,Pascal Siakam,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,14,13,0.81,0.809,5:56
+1,4:32,MIN,Jordan McLaughlin,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,19,15,0.863,0.864,4:39
+1,3:02,TOR,Jakob Poeltl,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,25,19,0.861,0.883,3:02
+1,2:10,MIN,Naz Reid,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,27,22,0.877,0.855,2:10
+1,2:04,TOR,Scottie Barnes,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,28,24,0.828,0.855,2:04
+1,1:10,MIN,Josh Minott,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,28,26,0.843,0.822,1:26
+2,10:08,MIN,Naz Reid,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,38,33,0.867,0.841,10:08
+2,9:59,TOR,Christian Koloko,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,39,33,0.832,0.856,10:08
+2,9:16,TOR,Pascal Siakam,Offensive Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,39,37,0.784,0.804,9:27
+2,8:30,TOR,Will Barton,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,39,37,0.78,0.78,8:34
+2,7:03,MIN,Kyle Anderson,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,46,41,0.848,0.849,7:15
+2,6:13,TOR,OG Anunoby,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,49,44,0.799,0.829,6:29
+2,6:00,MIN,Josh Minott,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,49,45,0.853,0.829,6:13
+2,2:36,MIN,Jaden McDaniels,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,58,49,0.918,0.886,2:36
+2,1:09,MIN,Jaden McDaniels,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,59,53,0.876,0.852,1:34
+3,11:21,MIN,Mike Conley,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,66,58,0.884,0.884,11:23
+3,11:09,MIN,Rudy Gobert,Loose Ball Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,66,58,0.884,0.885,11:09
+3,10:51,TOR,Jakob Poeltl,Loose Ball Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,66,58,0.865,0.866,10:51
+3,9:51,MIN,Kyle Anderson,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,68,60,0.882,0.883,10:01
+3,9:29,TOR,Jakob Poeltl,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,68,60,0.834,0.864,9:38
+3,9:18,TOR,OG Anunoby,Offensive Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,68,62,0.822,0.846,9:29
+3,9:10,TOR,OG Anunoby,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,68,62,0.785,0.822,9:18
+3,8:43,MIN,Taurean Prince,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,68,64,0.833,0.798,8:43
+3,8:01,MIN,Jaden McDaniels,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,70,66,0.813,0.767,8:01
+3,6:13,TOR,Scottie Barnes,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,72,68,0.716,0.763,6:30
+3,5:28,MIN,Naz Reid,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,76,71,0.838,0.789,5:28
+3,4:39,TOR,Gary Trent Jr.,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,76,74,0.634,0.692,4:52
+3,4:08,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,76,77,0.67,0.612,4:16
+3,3:59,TOR,Pascal Siakam,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,77,79,0.49,0.568,3:59
+3,3:12,TOR,Fred VanVleet,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,80,80,0.534,0.604,3:22
+3,3:00,MIN,Taurean Prince,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,82,81,0.712,0.642,3:00
+4,10:29,MIN,Mike Conley,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,96,87,0.952,0.926,10:42
+4,8:12,MIN,Kyle Anderson,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,100,89,0.969,0.965,8:24
+4,7:56,TOR,Scottie Barnes,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,100,89,0.942,0.958,7:56
+4,7:14,MIN,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,100,91,0.969,0.946,7:23
+4,6:43,MIN,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,104,91,0.991,0.982,6:43
+4,6:20,MIN,Jaden McDaniels,Personal Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,105,93,0.991,0.984,6:27
+4,6:11,TOR,Chris Boucher,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,107,93,0.979,0.989,6:20
+4,5:16,TOR,Fred VanVleet,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,109,95,0.982,0.992,5:19
+4,4:19,TOR,Jakob Poeltl,Offensive Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,111,97,0.994,0.996,4:34
+4,1:13,TOR,Christian Koloko,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,120,101,0.999,0.999,1:25
+4,11.1,TOR,Will Barton,Shooting Foul,Foul,Ed Malloy,Scott Wall,J.B. DeRosa,TOR,122,105,0.999,0.999,19.1

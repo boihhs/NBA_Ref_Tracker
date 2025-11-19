@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:19,OKC,Aaron Wiggins,Personal Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,5,6,0.344,0.34,9:25
+1,8:40,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,5,8,0.269,0.3,8:44
+1,8:08,OKC,Luguentz Dort,Personal Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,5,8,0.304,0.302,8:17
+1,6:27,LAC,Ivica Zubac,Personal Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,7,11,0.304,0.303,6:42
+1,6:23,LAC,Terance Mann,Personal Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,7,11,0.303,0.304,6:27
+1,5:09,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,10,13,0.272,0.305,5:28
+1,4:22,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,13,13,0.343,0.38,4:40
+1,4.6,LAC,Isaiah Hartenstein,Personal Take Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,21,19,0.516,0.478,13.6
+2,9:33,OKC,Tre Mann,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,31,22,0.619,0.664,9:42
+2,9:16,LAC,Isaiah Hartenstein,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,31,24,0.68,0.636,9:33
+2,8:34,OKC,Tre Mann,Defensive 3-Seconds Technical,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,34,26,0.65,0.638,8:52
+2,6:07,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,38,32,0.609,0.593,6:07
+2,5:38,LAC,Luke Kennard,Personal Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,39,35,0.562,0.564,5:47
+2,2:25,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,50,44,0.614,0.647,2:25
+2,1:56,LAC,Nicolas Batum,Offensive Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,50,45,0.617,0.583,2:13
+2,1:04,OKC,Tre Mann,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,52,49,0.519,0.554,1:04
+2,27.7,LAC,Terance Mann,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,56,52,0.619,0.555,27.7
+3,9:49,OKC,Luguentz Dort,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,59,54,0.553,0.61,9:52
+3,9:27,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,59,55,0.516,0.572,9:49
+3,8:50,LAC,Justise Winslow,Personal Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,61,59,0.539,0.54,9:01
+3,8:03,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,65,59,0.657,0.581,8:13
+3,6:35,LAC,Ivica Zubac,Personal Take Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,69,65,0.629,0.632,6:35
+3,6:20,LAC,Isaiah Hartenstein,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,69,65,0.688,0.629,6:35
+3,2:15,LAC,Eric Bledsoe,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,77,77,0.554,0.483,2:30
+4,9:40,OKC,Derrick Favors,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,81,79,0.457,0.57,9:48
+4,9:19,LAC,Justise Winslow,Shooting Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,81,81,0.554,0.497,9:19
+4,8:30,OKC,Aleksej Pokusevski,Offensive Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,85,81,0.674,0.727,8:34
+4,5:41,LAC,Ivica Zubac,Offensive Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,90,86,0.775,0.713,5:56
+4,3:16,OKC,Luguentz Dort,Personal Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,97,93,0.749,0.759,3:24
+4,1:08,OKC,Kenrich Williams,Personal Take Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,97,98,0.175,0.353,1:22
+4,31.0,LAC,Eric Bledsoe,Personal Take Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,97,101,0.286,0.135,32.9
+4,17.0,OKC,Luguentz Dort,Personal Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,99,101,0.078,0.204,25.8
+4,7.8,OKC,Shai Gilgeous-Alexander,Personal Take Foul,Foul,James Williams,Tre Maddox,Suyash Mehta,OKC,101,103,0.046,0.159,10.4

@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:22,MIA,P.J. Tucker,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,2,0,0.581,0.618,11:40
+1,11:10,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,2,1,0.651,0.616,11:22
+1,10:25,MIL,Grayson Allen,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,3,3,0.59,0.591,10:33
+1,8:55,MIL,Khris Middleton,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,7,3,0.683,0.684,9:06
+1,7:53,MIL,George Hill,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,11,3,0.758,0.768,7:53
+1,7:40,MIL,George Hill,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,11,3,0.797,0.758,7:53
+1,7:39,MIA,Kyle Lowry,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,11,3,0.748,0.749,7:40
+1,6:38,MIA,Duncan Robinson,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,13,3,0.788,0.789,6:38
+1,5:46,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,15,3,0.864,0.84,6:08
+1,4:30,MIA,Duncan Robinson,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,22,3,0.902,0.918,4:46
+1,4:18,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,24,5,0.936,0.919,4:18
+1,2:41,MIA,Dewayne Dedmon,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,29,5,0.951,0.961,2:44
+1,33.5,MIL,Justin Robinson,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,35,15,0.956,0.945,40.6
+2,11:43,MIA,Markieff Morris,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,40,17,0.95,0.96,11:44
+2,10:34,MIA,Kyle Lowry,Personal Take Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,43,24,0.931,0.931,10:35
+2,10:05,MIA,Bam Adebayo,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,43,26,0.911,0.911,10:05
+2,9:18,MIL,Grayson Allen,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,43,26,0.939,0.924,9:25
+2,9:03,MIA,Tyler Herro,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,45,26,0.935,0.935,9:03
+2,8:28,MIA,Jimmy Butler III,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,45,26,0.921,0.936,8:28
+2,7:51,MIA,Max Strus,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,47,29,0.928,0.938,7:51
+2,5:38,MIL,Jordan Nwora,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,51,31,0.967,0.958,5:42
+2,5:27,MIA,P.J. Tucker,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,52,31,0.947,0.957,5:38
+2,5:15,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,52,33,0.962,0.951,5:27
+2,4:43,MIA,Jimmy Butler III,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,53,35,0.918,0.935,4:48
+2,3:00,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,57,38,0.956,0.949,3:00
+2,2:13,MIL,Justin Robinson,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,61,38,0.985,0.979,2:18
+2,1:21,MIL,Thanasis Antetokounmpo,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,65,38,0.994,0.992,1:21
+3,11:22,MIA,P.J. Tucker,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,75,45,0.996,0.997,11:22
+3,10:52,MIL,Khris Middleton,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,75,46,0.996,0.997,10:52
+3,9:15,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,78,49,0.997,0.996,9:33
+3,8:33,MIL,Pat Connaughton,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,80,49,0.998,0.998,8:33
+3,8:33,MIL,Khris Middleton,Technical Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,80,49,0.998,0.998,8:33
+3,7:16,MIA,Jimmy Butler III,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,85,54,0.998,0.999,7:16
+3,6:23,MIL,Pat Connaughton,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,91,57,0.999,0.999,6:23
+3,6:15,MIA,Bam Adebayo,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,91,57,0.999,0.999,6:20
+3,5:01,MIA,Bam Adebayo,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,93,59,0.999,0.84,5:48
+3,2:48,MIA,Dewayne Dedmon,Technical Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,100,68,0.999,0.999,2:49
+3,2:21,MIL,Justin Robinson,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,100,68,0.999,0.999,2:22
+3,27.1,MIA,Markieff Morris,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,105,68,0.999,0.999,27.1
+3,8.7,MIA,Markieff Morris,Offensive Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,105,69,0.999,0.999,27.1
+4,7:14,MIL,Sandro Mamukelashvili,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,120,84,0.999,0.999,7:22
+4,5:20,MIL,Sandro Mamukelashvili,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,124,87,0.999,0.999,5:20
+4,4:09,MIA,Gabe Vincent,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,124,87,0.999,0.999,4:09
+4,4:02,MIL,Justin Robinson,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,124,87,0.999,0.999,4:02
+4,3:42,MIL,Jordan Nwora,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,124,87,0.999,0.999,4:02
+4,2:56,MIA,Gabe Vincent,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,127,89,0.999,0.999,2:56
+4,1:59,MIA,KZ Okpala,Shooting Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,132,90,0.999,0.999,2:15
+4,1:21,MIL,Georgios Kalaitzakis,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,132,93,0.999,0.999,1:26
+4,1:13,MIA,Caleb Martin,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,133,93,0.999,0.999,1:18
+4,11.8,MIA,Marcus Garrett,Personal Foul,Foul,David Guthrie,Mitchell Ervin,Jonathan Sterling,MIA,137,95,0.999,0.999,27.8

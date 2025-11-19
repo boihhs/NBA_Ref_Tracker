@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:06,SA,Tre Jones,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,6,5,0.453,0.491,10:23
+1,7:22,SA,Jakob Poeltl,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,14,14,0.447,0.493,7:22
+1,5:50,LAL,Dennis Schroder,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,20,14,0.672,0.628,5:50
+1,2:22,LAL,Kendrick Nunn,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,26,25,0.566,0.524,2:27
+1,2:08,LAL,Russell Westbrook,Offensive Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,27,25,0.552,0.523,2:22
+2,10:15,LAL,LeBron James,Personal Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,40,35,0.645,0.646,10:23
+2,8:40,SA,Jeremy Sochan,Personal Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,47,41,0.648,0.647,8:52
+2,8:27,SA,Jakob Poeltl,Offensive Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,47,41,0.649,0.678,8:29
+2,7:51,SA,Keldon Johnson,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,49,41,0.707,0.705,7:59
+2,6:06,SA,Keldon Johnson,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,52,46,0.634,0.655,6:06
+2,5:39,SA,Zach Collins,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,52,48,0.552,0.597,5:51
+2,5:07,SA,Malaki Branham,Personal Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,55,50,0.583,0.629,5:18
+2,3:49,SA,Isaiah Roby,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,58,56,0.487,0.539,3:49
+2,3:02,LAL,Austin Reaves,Personal Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,58,60,0.438,0.438,3:22
+2,2:15,SA,Keldon Johnson,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,60,60,0.422,0.471,2:23
+3,10:55,LAL,Thomas Bryant,Personal Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,68,74,0.299,0.298,11:03
+3,10:49,SA,Zach Collins,Offensive Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,68,74,0.265,0.299,10:55
+3,10:03,SA,Devin Vassell,Personal Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,71,77,0.265,0.417,12:00
+3,9:37,LAL,Thomas Bryant,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,73,79,0.319,0.261,9:37
+3,9:22,SA,Devin Vassell,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,74,79,0.247,0.294,9:37
+3,8:41,SA,Romeo Langford,Personal Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,76,80,0.328,0.325,8:50
+3,7:47,LAL,Dennis Schroder,Personal Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,78,80,0.431,0.433,7:51
+3,7:44,SA,Doug McDermott,Offensive Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,78,80,0.395,0.431,7:47
+3,7:36,LAL,LeBron James,Offensive Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,78,80,0.432,0.395,7:44
+3,6:54,LAL,Dennis Schroder,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,78,80,0.492,0.431,6:58
+3,6:16,SA,Romeo Langford,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,78,82,0.263,0.317,6:24
+3,4:08,SA,Isaiah Roby,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,86,90,0.279,0.347,4:08
+3,3:24,LAL,Kendrick Nunn,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,90,91,0.503,0.425,3:24
+3,2:50,SA,Isaiah Roby,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,90,96,0.2,0.264,2:50
+3,2:18,LAL,Russell Westbrook,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,90,99,0.206,0.163,2:34
+3,2:00,SA,Zach Collins,Flagrant Foul Type 2,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,92,99,0.194,0.185,2:00
+3,2:00,LAL,Russell Westbrook,Technical Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,92,99,0.25,0.194,2:00
+3,1:15,SA,Devin Vassell,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,95,100,0.195,0.252,1:35
+3,55.7,SA,Doug McDermott,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,95,102,0.133,0.177,59.8
+4,11:49,SA,Isaiah Roby,Offensive Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,97,106,0.109,0.128,12:00
+4,11:39,LAL,LeBron James,Offensive Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,97,106,0.136,0.109,11:49
+4,11:25,LAL,Austin Reaves,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,97,106,0.191,0.136,11:39
+4,11:10,SA,Charles Bassey,Defensive 3-Seconds Technical,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,99,106,0.173,0.164,11:25
+4,11:07,SA,Romeo Langford,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,99,107,0.09,0.131,11:10
+4,10:12,SA,Keldon Johnson,Technical Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,103,112,0.079,0.096,10:12
+4,7:31,SA,Keldon Johnson,Personal Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,110,121,0.035,0.04,7:46
+4,6:43,LAL,Troy Brown Jr.,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,113,124,0.079,0.046,6:56
+4,6:01,SA,Romeo Langford,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,116,126,0.035,0.038,6:01
+4,5:10,LAL,Wenyen Gabriel,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,116,128,0.044,0.022,5:21
+4,4:24,SA,Isaiah Roby,Personal Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,121,131,0.012,0.027,4:43
+4,4:05,LAL,Wenyen Gabriel,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,121,131,0.066,0.034,4:17
+4,3:49,SA,Keldon Johnson,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,122,131,0.016,0.035,4:05
+4,2:41,SA,Isaiah Roby,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,125,136,0.004,0.013,2:41
+4,2:13,SA,Doug McDermott,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,128,139,0.002,0.009,2:13
+4,1:42,LAL,Austin Reaves,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,131,140,0.047,0.021,1:45
+4,31.1,SA,Keldon Johnson,Shooting Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,133,140,0.002,0.016,49.1
+4,19.7,SA,Tre Jones,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Matt Myers,SA,135,142,0.001,0.006,24.6

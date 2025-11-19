@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:31,CHI,Ayo Dosunmu,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,0,0,0.638,0.618,11:31
+1,8:09,CHI,DeMar DeRozan,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,11,10,0.638,0.64,8:20
+1,7:57,NO,Jonas Valanciunas,Loose Ball Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,11,10,0.613,0.612,7:57
+1,7:40,NO,Brandon Ingram,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,11,10,0.575,0.612,7:46
+1,5:57,CHI,Patrick Williams,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,19,16,0.681,0.682,6:11
+1,5:21,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,19,16,0.715,0.681,5:27
+2,9:58,NO,Jose Alvarado,Offensive Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,32,37,0.412,0.446,10:14
+2,8:03,NO,Dyson Daniels,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,36,39,0.419,0.467,8:24
+2,7:32,NO,Jonas Valanciunas,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,38,39,0.527,0.526,7:44
+2,6:46,NO,Dyson Daniels,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,41,39,0.62,0.618,7:07
+2,4:08,CHI,DeMar DeRozan,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,46,44,0.666,0.615,4:08
+2,3:38,NO,Larry Nance Jr.,Flagrant Foul Type 1,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,47,44,0.653,0.642,3:39
+2,2:38,CHI,DeMar DeRozan,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,52,48,0.724,0.701,2:38
+3,9:52,NO,Jonas Valanciunas,Offensive Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,67,55,0.883,0.897,10:06
+3,8:22,NO,Herbert Jones,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,69,57,0.887,0.887,8:37
+3,7:14,CHI,Goran Dragic,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,71,59,0.909,0.909,7:21
+3,5:36,CHI,Patrick Williams,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,76,64,0.937,0.916,5:47
+3,5:13,CHI,Andre Drummond,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,78,64,0.959,0.945,5:15
+3,4:43,CHI,Andre Drummond,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,80,66,0.961,0.945,5:00
+3,3:47,NO,Brandon Ingram,Offensive Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,83,68,0.951,0.96,3:58
+3,2:39,CHI,Alex Caruso,Loose Ball Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,83,68,0.976,0.966,2:39
+3,1:12,CHI,Javonte Green,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,91,76,0.981,0.971,1:26
+4,11:28,NO,Dyson Daniels,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,95,78,0.982,0.984,11:28
+4,10:55,NO,Jose Alvarado,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,97,78,0.991,0.992,11:06
+4,10:29,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,97,78,0.997,0.994,10:44
+4,9:01,CHI,Goran Dragic,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,103,80,0.999,0.999,9:11
+4,8:03,NO,Dyson Daniels,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,108,82,0.999,0.999,8:10
+4,5:52,NO,Herbert Jones,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,112,90,0.998,0.999,6:03
+4,4:39,NO,Herbert Jones,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,114,97,0.996,0.998,4:39
+4,3:44,CHI,Zach LaVine,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,116,101,0.999,0.997,4:12
+4,3:32,NO,Herbert Jones,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,118,101,0.998,0.999,3:44
+4,3:12,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,118,103,0.999,0.998,3:32
+4,2:29,CHI,Derrick Jones Jr.,Personal Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,119,105,0.999,0.998,2:55
+4,1:10,NO,Dyson Daniels,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,122,105,0.999,0.999,1:18
+4,52.4,NO,Jose Alvarado,Shooting Foul,Foul,Pat Fraher,Rodney Mott,Jonathan Sterling,NO,124,106,0.999,0.999,1:01

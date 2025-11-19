@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:37,WSH,Kyle Kuzma,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,0,0,0.616,0.654,11:48
+1,7:01,LAL,Patrick Beverley,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,13,10,0.758,0.728,7:05
+1,7:01,LAL,Patrick Beverley,Technical Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,13,10,0.743,0.758,7:01
+1,4:51,WSH,Deni Avdija,Loose Ball Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,15,18,0.549,0.548,4:51
+1,3:34,WSH,Kristaps Porzingis,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,17,23,0.436,0.487,3:34
+1,3:15,WSH,Corey Kispert,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,17,26,0.351,0.401,3:15
+1,2:36,LAL,Troy Brown Jr.,Personal Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,19,27,0.427,0.427,2:44
+1,2:33,LAL,Wenyen Gabriel,Personal Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,19,27,0.428,0.427,2:36
+1,1:40,LAL,Wenyen Gabriel,Personal Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,22,29,0.493,0.448,1:45
+2,11:50,WSH,Jordan Goodwin,Personal Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,27,33,0.438,0.453,12:00
+2,10:28,WSH,Jordan Goodwin,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,29,41,0.242,0.286,10:28
+2,8:30,WSH,Monte Morris,Personal Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,33,44,0.275,0.274,8:35
+2,8:23,LAL,LeBron James,Offensive Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,33,44,0.297,0.275,8:30
+2,7:47,WSH,Daniel Gafford,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,35,44,0.282,0.324,8:06
+2,7:14,WSH,Kyle Kuzma,Offensive Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,35,46,0.265,0.287,7:14
+2,5:29,WSH,Corey Kispert,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,35,50,0.125,0.157,5:41
+2,2:22,LAL,Lonnie Walker IV,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,43,61,0.122,0.099,2:40
+2,1:44,WSH,Deni Avdija,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,45,65,0.048,0.065,1:44
+2,16.1,LAL,Russell Westbrook,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,49,68,0.092,0.071,31.0
+3,8:20,WSH,Kristaps Porzingis,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,54,78,0.009,0.014,8:20
+3,7:54,LAL,Patrick Beverley,Personal Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,54,81,0.006,0.006,8:01
+3,7:39,WSH,Kyle Kuzma,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,54,81,0.003,0.004,7:41
+3,5:10,LAL,Anthony Davis,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,64,89,0.008,0.004,5:10
+3,4:58,WSH,Daniel Gafford,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,65,89,0.004,0.006,5:10
+3,2:03,LAL,Russell Westbrook,Loose Ball Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,77,97,0.015,0.014,2:03
+3,1:49,LAL,LAL,Delay Technical,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,77,99,0.007,0.007,1:51
+3,1:27,LAL,Thomas Bryant,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,77,99,0.011,0.007,1:31
+3,1:19,WSH,Daniel Gafford,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,78,99,0.004,0.006,1:24
+3,1:08,LAL,Austin Reaves,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,80,99,0.02,0.011,1:08
+3,4.3,WSH,Anthony Gill,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,81,104,0.001,0.003,4.3
+4,10:48,WSH,Taj Gibson,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,83,107,0.001,0.001,10:48
+4,7:30,LAL,LeBron James,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,96,111,0.02,0.014,7:39
+4,5:20,WSH,Kyle Kuzma,Loose Ball Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,105,116,0.021,0.023,5:20
+4,4:10,WSH,Kyle Kuzma,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,107,120,0.003,0.008,4:10
+4,2:39,LAL,LeBron James,Shooting Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,111,127,0.001,0.001,2:39
+4,2:31,WSH,Jordan Goodwin,Personal Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,112,127,0.001,0.001,2:39
+4,37.1,WSH,Daniel Gafford,Personal Foul,Foul,Curtis Blair,Scott Twardoski,Brandon Schwab,WSH,117,129,0.001,0.001,46.6

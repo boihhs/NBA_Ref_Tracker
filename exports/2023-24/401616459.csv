@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:36,CLE,Donovan Mitchell,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,5,2,0.677,0.71,10:58
+1,5:59,CLE,Max Strus,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,18,12,0.732,0.764,6:04
+1,4:11,CLE,Georges Niang,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,26,13,0.868,0.878,4:27
+1,1:49,ORL,Cole Anthony,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,30,20,0.871,0.851,2:13
+1,1:24,ORL,Cole Anthony,Offensive Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,32,20,0.878,0.864,1:31
+2,11:44,CLE,Evan Mobley,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,37,20,0.912,0.929,0.0
+2,11:34,ORL,Joe Ingles,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,37,21,0.927,0.926,11:44
+2,10:29,ORL,Moritz Wagner,Offensive Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,41,23,0.946,0.937,10:39
+2,9:26,ORL,Gary Harris,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,41,25,0.93,0.919,9:30
+2,9:11,CLE,Isaac Okoro,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,43,25,0.939,0.939,9:20
+2,8:22,ORL,Goga Bitadze,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,45,25,0.961,0.961,8:26
+2,8:17,ORL,Paolo Banchero,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,45,25,0.969,0.961,8:22
+2,6:59,CLE,Jarrett Allen,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,50,27,0.972,0.973,6:59
+2,6:04,CLE,Georges Niang,Offensive Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,50,31,0.951,0.958,6:12
+2,5:46,CLE,Jarrett Allen,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,50,31,0.939,0.951,6:04
+2,4:48,CLE,Dean Wade,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,55,34,0.957,0.966,4:55
+2,4:23,CLE,Jarrett Allen,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,55,36,0.941,0.954,4:30
+2,4:13,ORL,Franz Wagner,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,55,38,0.957,0.946,4:23
+2,3:57,CLE,Evan Mobley,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,57,40,0.931,0.947,3:57
+2,3:48,ORL,Paolo Banchero,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,59,40,0.966,0.956,3:48
+2,3:40,CLE,Dean Wade,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,59,40,0.949,0.876,4:11
+2,3:00,CLE,Darius Garland,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,59,44,0.899,0.919,3:00
+2,2:50,ORL,Cole Anthony,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,59,46,0.926,0.907,3:00
+2,2:24,CLE,Max Strus,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,61,46,0.9,0.92,2:50
+2,1:06,ORL,Gary Harris,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,61,49,0.918,0.899,1:08
+2,50.1,CLE,Evan Mobley,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,63,49,0.89,0.911,1:06
+3,10:59,ORL,Goga Bitadze,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,65,54,0.887,0.888,11:00
+3,10:11,CLE,Jarrett Allen,Defensive 3-Seconds Technical,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,69,54,0.935,0.932,10:25
+3,9:24,CLE,Jarrett Allen,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,71,59,0.879,0.908,9:24
+3,8:28,CLE,Max Strus,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,71,63,0.791,0.836,8:28
+3,8:02,CLE,Max Strus,Loose Ball Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,73,64,0.837,0.836,8:02
+3,8:02,CLE,Max Strus,Technical Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,73,64,0.817,0.837,8:02
+3,7:41,ORL,Anthony Black,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,73,67,0.825,0.788,7:50
+3,6:57,ORL,Gary Harris,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,77,70,0.851,0.816,7:00
+3,6:40,CLE,Tristan Thompson,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,78,70,0.774,0.815,6:55
+3,5:57,ORL,Paolo Banchero,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,80,72,0.876,0.844,6:04
+3,5:39,CLE,Georges Niang,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,83,74,0.827,0.869,5:39
+3,4:55,ORL,Gary Harris,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,83,75,0.881,0.847,5:03
+3,4:20,ORL,Goga Bitadze,Loose Ball Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,83,75,0.884,0.85,4:20
+3,3:15,CLE,Donovan Mitchell,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,86,77,0.837,0.881,3:15
+3,1:50,ORL,Joe Ingles,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,92,78,0.974,0.952,1:51
+3,12.2,CLE,Georges Niang,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,99,84,0.954,0.968,30.0
+4,11:40,ORL,Joe Ingles,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,101,86,0.985,0.972,11:40
+4,11:28,ORL,Moritz Wagner,Offensive Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,102,86,0.986,0.98,11:40
+4,8:08,CLE,Evan Mobley,Loose Ball Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,106,94,0.958,0.961,8:08
+4,4:38,CLE,Max Strus,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,113,100,0.976,0.988,4:54
+4,4:23,CLE,Jarrett Allen,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,113,102,0.947,0.975,4:24
+4,1:30,CLE,Evan Mobley,Offensive Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,119,107,0.997,0.998,1:43
+4,25.2,ORL,Caleb Houstan,Loose Ball Foul,Foul,Jacyn Goble,Tyler Ford,Evan Scott,CLE,121,111,0.999,0.999,25.2

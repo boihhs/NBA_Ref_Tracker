@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:43,POR,Damian Lillard,Offensive Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,0,0,0.49,0.509,12:00
+1,8:35,UTAH,Lauri Markkanen,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,6,6,0.551,0.51,8:52
+1,7:31,POR,Jerami Grant,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,9,6,0.566,0.565,7:47
+1,7:29,POR,Jusuf Nurkic,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,9,6,0.527,0.566,7:31
+1,5:19,UTAH,Kelly Olynyk,Defensive 3-Seconds Technical,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,13,11,0.561,0.568,5:34
+1,3:57,UTAH,Jordan Clarkson,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,20,17,0.594,0.595,4:06
+1,3:38,UTAH,Stanley Johnson,Offensive Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,20,17,0.595,0.569,3:47
+1,2:50,UTAH,Talen Horton-Tucker,Offensive Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,22,17,0.652,0.624,3:03
+1,2:10,UTAH,Collin Sexton,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,22,19,0.596,0.597,2:12
+1,1:24,UTAH,Stanley Johnson,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,22,19,0.638,0.598,1:35
+1,14.4,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,27,24,0.62,0.572,14.4
+2,10:06,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,33,26,0.686,0.686,10:06
+2,9:45,UTAH,Jarred Vanderbilt,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,33,26,0.751,0.714,9:51
+2,9:12,POR,Josh Hart,Loose Ball Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,34,29,0.634,0.634,9:12
+2,8:51,POR,Jusuf Nurkic,Offensive Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,34,32,0.546,0.574,8:56
+2,7:48,UTAH,Walker Kessler,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,36,37,0.484,0.484,7:55
+2,7:17,POR,Justise Winslow,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,38,37,0.516,0.515,7:31
+2,7:12,POR,Shaedon Sharpe,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,38,39,0.43,0.483,7:12
+2,6:31,POR,Drew Eubanks,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,41,40,0.469,0.516,6:42
+2,3:32,UTAH,Walker Kessler,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,47,47,0.566,0.517,3:40
+2,2:15,UTAH,Walker Kessler,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,49,47,0.635,0.584,2:24
+2,1:56,POR,Anfernee Simons,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,51,47,0.568,0.614,2:15
+2,1:47,UTAH,Kelly Olynyk,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,51,49,0.636,0.583,1:56
+2,1:09,UTAH,Kelly Olynyk,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,52,49,0.669,0.621,1:32
+2,6.5,POR,Damian Lillard,Loose Ball Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,54,52,0.499,0.55,6.5
+3,11:14,POR,Jusuf Nurkic,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,54,54,0.427,0.479,11:17
+3,11:02,UTAH,Mike Conley,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,54,56,0.447,0.446,11:14
+3,10:38,POR,Jusuf Nurkic,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,56,58,0.383,0.446,10:38
+3,10:00,POR,Justise Winslow,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,58,58,0.427,0.481,10:24
+3,9:50,UTAH,Kelly Olynyk,Flagrant Foul Type 1,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,58,61,0.399,0.41,10:00
+3,9:42,UTAH,Lauri Markkanen,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,58,61,0.409,0.409,9:50
+3,7:46,POR,Damian Lillard,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,66,61,0.613,0.519,9:01
+3,7:02,POR,Jusuf Nurkic,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,66,64,0.499,0.56,7:13
+3,6:49,UTAH,Jarred Vanderbilt,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,66,65,0.618,0.56,6:59
+3,6:07,UTAH,Jordan Clarkson,Defensive 3-Seconds Technical,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,68,68,0.509,0.52,6:21
+3,5:33,POR,Keon Johnson,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,69,70,0.406,0.479,5:33
+3,5:11,POR,Justise Winslow,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,71,71,0.415,0.479,5:18
+3,4:06,POR,Damian Lillard,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,73,73,0.412,0.478,4:18
+3,3:43,POR,Drew Eubanks,Loose Ball Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,73,74,0.37,0.432,3:43
+3,2:28,UTAH,Collin Sexton,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,73,77,0.41,0.345,2:29
+3,49.4,POR,Keon Johnson,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,76,80,0.261,0.29,49.4
+4,11:03,POR,Devontae Cacok,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,76,86,0.065,0.104,11:03
+4,11:02,UTAH,Stanley Johnson,Loose Ball Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,76,87,0.087,0.08,11:03
+4,10:49,POR,Greg Brown III,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,76,87,0.049,0.063,10:49
+4,9:18,UTAH,Cody Zeller,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,80,90,0.138,0.089,9:30
+4,9:06,POR,Devontae Cacok,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,81,90,0.082,0.09,9:18
+4,8:48,UTAH,Cody Zeller,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,81,90,0.167,0.108,8:55
+4,7:29,POR,Brandon Williams,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,83,95,0.021,0.04,7:29
+4,6:45,UTAH,Cody Zeller,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,83,96,0.043,0.025,6:54
+4,6:32,POR,Shaedon Sharpe,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,85,98,0.012,0.025,6:32
+4,5:59,UTAH,Cody Zeller,Offensive Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,87,99,0.03,0.021,6:05
+4,5:26,POR,Devontae Cacok,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,87,99,0.009,0.018,5:38
+4,3:25,UTAH,Cody Zeller,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,89,104,0.005,0.002,3:29
+4,2:07,UTAH,Johnny Juzang,Shooting Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,93,108,0.001,0.001,2:18
+4,1:59,POR,Isaiah Miller,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,94,108,0.001,0.001,2:07
+4,1:38,POR,Jabari Walker,Personal Foul,Foul,Pat Fraher,Scott Twardoski,Sha'Rae Mitchell,POR,96,109,0.001,0.001,1:45

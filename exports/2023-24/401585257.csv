@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:41,MIN,Mike Conley,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,11,7,0.626,0.587,7:44
+1,7:10,BKN,Nic Claxton,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,15,7,0.626,0.663,7:24
+1,3:25,BKN,Dennis Smith Jr.,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,19,18,0.487,0.485,3:25
+1,54.0,BKN,Lonnie Walker IV,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,27,23,0.532,0.574,1:03
+2,9:32,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,31,33,0.476,0.43,9:47
+2,7:14,BKN,Royce O'Neale,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,38,37,0.494,0.492,7:26
+2,7:05,MIN,Naz Reid,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,38,37,0.523,0.525,7:05
+2,5:32,BKN,Mikal Bridges,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,40,40,0.462,0.46,5:39
+2,4:13,BKN,Lonnie Walker IV,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,40,46,0.242,0.282,4:16
+2,3:37,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,40,48,0.191,0.226,3:49
+2,3:36,MIN,Rudy Gobert,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,40,49,0.226,0.227,3:36
+2,3:10,BKN,Spencer Dinwiddie,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,42,49,0.213,0.251,3:24
+2,1:43,MIN,Anthony Edwards,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,47,55,0.266,0.222,1:43
+3,10:33,BKN,Cameron Johnson,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,48,62,0.086,0.104,10:42
+3,2:57,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,70,76,0.175,0.225,3:18
+3,2:02,MIN,Jaden McDaniels,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,72,78,0.314,0.252,2:09
+3,28.1,MIN,Naz Reid,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,74,81,0.266,0.206,32.1
+3,13.1,BKN,Royce O'Neale,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,74,81,0.169,0.266,28.1
+4,11:42,MIN,Naz Reid,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,74,81,0.208,0.203,12:00
+4,9:57,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,77,86,0.181,0.123,10:01
+4,8:36,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,79,88,0.114,0.087,8:43
+4,6:51,BKN,Cameron Johnson,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,81,90,0.04,0.067,6:54
+4,6:22,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,81,91,0.061,0.043,6:26
+4,6:09,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,83,91,0.146,0.078,6:09
+4,5:19,MIN,Rudy Gobert,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,84,91,0.133,0.099,5:32
+4,4:24,MIN,Anthony Edwards,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,86,91,0.265,0.158,4:24
+4,4:01,BKN,Spencer Dinwiddie,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,87,91,0.204,0.216,4:01
+4,3:10,BKN,Spencer Dinwiddie,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,89,91,0.298,0.329,3:34
+4,2:57,BKN,Nic Claxton,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,89,91,0.244,0.312,2:57
+4,2:39,MIN,Rudy Gobert,Defensive 3-Seconds Technical,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,89,92,0.271,0.296,2:54
+4,1:11,MIN,Rudy Gobert,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,92,94,0.499,0.366,1:22
+4,2.1,MIN,Jaden McDaniels,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Suyash Mehta,BKN,94,96,0.336,0.33,7.1

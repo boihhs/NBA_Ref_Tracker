@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:44,LAC,Ivica Zubac,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,3,3,0.773,0.744,11:01
+1,10:33,MEM,Ziaire Williams,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,4,5,0.687,0.724,10:33
+1,10:16,MEM,Ziaire Williams,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,6,6,0.692,0.723,10:21
+1,9:47,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,8,8,0.722,0.721,9:57
+1,7:38,LAC,Ivica Zubac,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,14,14,0.748,0.712,7:38
+1,4:51,MEM,Desmond Bane,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,23,16,0.808,0.833,5:03
+1,4:29,LAC,Norman Powell,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,23,16,0.868,0.848,4:34
+1,2:47,MEM,Ja Morant,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,29,21,0.82,0.844,2:56
+1,2:34,LAC,Terance Mann,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,29,23,0.852,0.829,2:47
+1,2:30,LAC,Robert Covington,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,31,23,0.87,0.842,2:30
+1,1:54,MEM,John Konchar,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,32,23,0.834,0.858,1:55
+1,1:38,LAC,Amir Coffey,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,32,24,0.879,0.859,1:54
+1,10.4,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,36,26,0.848,0.87,10.4
+1,5.8,LAC,Robert Covington,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,36,27,0.89,0.872,10.4
+2,11:49,MEM,Desmond Bane,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,38,27,0.863,0.89,12:00
+2,10:24,LAC,Luke Kennard,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,41,33,0.877,0.856,10:25
+2,6:57,LAC,Ivica Zubac,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,50,37,0.935,0.921,7:02
+2,6:14,MEM,Ja Morant,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,52,37,0.923,0.931,6:14
+2,6:07,LAC,Norman Powell,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,54,38,0.953,0.94,6:07
+2,2:47,LAC,Marcus Morris Sr.,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,60,47,0.939,0.925,2:57
+2,1:46,LAC,Marcus Morris Sr.,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,62,50,0.931,0.914,1:59
+2,1:07,MEM,De'Anthony Melton,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,64,50,0.908,0.926,1:16
+2,1:07,LAC,Marcus Morris Sr.,Technical Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,64,50,0.944,0.908,1:07
+3,11:11,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,70,55,0.923,0.941,11:18
+3,10:26,LAC,Nicolas Batum,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,73,58,0.95,0.952,10:34
+3,8:15,LAC,Nicolas Batum,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,77,63,0.959,0.946,8:31
+3,8:05,MEM,Ja Morant,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,77,63,0.928,0.937,8:05
+3,6:41,LAC,LAC,Delay Technical,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,81,64,0.972,0.974,6:41
+3,4:22,LAC,Marcus Morris Sr.,Flagrant Foul Type 2,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,90,68,0.993,0.994,4:24
+3,3:47,MEM,Steven Adams,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,95,68,0.997,0.998,4:07
+3,37.1,MEM,Brandon Clarke,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,104,74,0.999,0.999,41.4
+4,9:20,LAC,Robert Covington,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,113,83,0.999,0.999,9:37
+4,7:47,MEM,Desmond Bane,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,118,88,0.999,0.999,7:47
+4,5:44,MEM,Kyle Anderson,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,120,92,0.999,0.999,5:48
+4,5:25,LAC,Brandon Boston,Shooting Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,122,92,0.999,0.999,5:25
+4,2:45,MEM,Ziaire Williams,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,128,99,0.999,0.999,2:45
+4,2:11,MEM,Ziaire Williams,Personal Foul,Foul,Bill Kennedy,Ben Taylor,Matt Myers,MEM,130,99,0.999,0.999,2:24

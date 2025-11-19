@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,LAC,Norman Powell,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,0,2,0.644,0.609,11:17
+1,9:00,LAC,Terance Mann,Offensive Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,2,12,0.394,0.37,9:02
+1,7:31,PHX,Bradley Beal,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,2,17,0.206,0.238,7:41
+1,7:05,LAC,Paul George,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,2,19,0.213,0.214,7:09
+1,5:15,PHX,Bol Bol,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,4,25,0.106,0.131,5:15
+1,2:57,LAC,Russell Westbrook,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,4,30,0.06,0.059,3:02
+1,2:05,PHX,Kevin Durant,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,4,32,0.034,0.035,2:14
+1,1:08,LAC,Amir Coffey,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,4,35,0.029,0.024,1:13
+1,36.0,LAC,Bones Hyland,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,6,37,0.028,0.023,50.1
+1,18.1,PHX,Royce O'Neale,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,8,37,0.019,0.026,36.0
+1,1.0,LAC,Russell Westbrook,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,8,37,0.038,0.025,4.1
+2,8:46,PHX,Royce O'Neale,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,14,46,0.01,0.01,8:56
+2,8:36,LAC,Norman Powell,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,14,48,0.012,0.012,8:46
+2,7:39,LAC,Amir Coffey,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,16,51,0.01,0.01,7:43
+3,10:30,LAC,Terance Mann,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,36,70,0.002,0.002,10:39
+3,10:08,LAC,Terance Mann,Technical Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,38,70,0.002,0.002,10:12
+3,10:08,LAC,Norman Powell,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,38,70,0.003,0.002,10:08
+3,5:31,PHX,Grayson Allen,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,51,79,0.002,0.002,5:42
+3,4:07,LAC,Norman Powell,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,54,81,0.004,0.002,4:17
+3,3:19,LAC,Norman Powell,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,56,84,0.002,0.001,3:30
+3,3:00,LAC,Bones Hyland,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,58,84,0.004,0.001,3:05
+3,2:01,LAC,Paul George,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,63,84,0.016,0.01,2:02
+4,11:19,PHX,Devin Booker,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,68,84,0.017,0.02,11:35
+4,10:26,LAC,Terance Mann,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,71,84,0.083,0.052,10:29
+4,10:11,PHX,Royce O'Neale,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,73,84,0.061,0.068,10:26
+4,9:59,PHX,Kevin Durant,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,73,84,0.057,0.061,10:11
+4,8:25,PHX,Grayson Allen,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,76,89,0.014,0.026,8:42
+4,8:20,LAC,Paul George,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,76,89,0.037,0.033,8:20
+4,8:13,LAC,Amir Coffey,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,76,89,0.039,0.037,8:20
+4,7:55,PHX,Royce O'Neale,Double Technical Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,76,89,0.026,0.034,7:55
+4,7:46,LAC,Terance Mann,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,76,89,0.056,0.026,7:55
+4,7:09,LAC,Amir Coffey,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,80,91,0.073,0.041,7:09
+4,6:46,LAC,Paul George,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,83,91,0.152,0.096,6:46
+4,5:32,PHX,Grayson Allen,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,84,93,0.043,0.058,5:45
+4,4:25,LAC,Russell Westbrook,Loose Ball Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,84,97,0.024,0.012,4:25
+4,2:54,PHX,Devin Booker,Shooting Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,88,97,0.011,0.028,3:16
+4,2:14,PHX,Bradley Beal,Personal Foul,Foul,Kevin Cutler,Tony Brothers,Phenizee Ransom,PHX,90,99,0.007,0.016,2:14

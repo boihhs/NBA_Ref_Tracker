@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:41,BOS,Jayson Tatum,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,22,25,0.367,0.33,5:41
+1,4:14,ATL,John Collins,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,26,25,0.37,0.407,4:18
+1,3:53,ATL,Saddiq Bey,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,26,26,0.384,0.382,4:00
+1,3:31,BOS,Jaylen Brown,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,26,26,0.409,0.41,3:39
+1,3:20,BOS,Marcus Smart,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,26,26,0.41,0.409,3:31
+1,1:54,BOS,Derrick White,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,30,31,0.43,0.388,1:55
+2,10:45,ATL,AJ Griffin,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,38,39,0.368,0.365,10:49
+2,8:59,ATL,Clint Capela,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,40,46,0.243,0.242,8:59
+2,7:45,ATL,De'Andre Hunter,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,40,49,0.179,0.178,7:50
+2,5:25,BOS,Marcus Smart,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,44,60,0.081,0.082,5:41
+2,4:45,BOS,Malcolm Brogdon,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,46,60,0.105,0.105,4:58
+2,3:38,ATL,Trae Young,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,50,62,0.095,0.117,3:53
+2,2:48,BOS,Derrick White,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,53,64,0.179,0.15,2:56
+2,43.1,BOS,Jayson Tatum,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,61,69,0.25,0.209,55.1
+2,12.0,ATL,John Collins,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,61,69,0.151,0.188,29.1
+3,11:40,BOS,Jaylen Brown,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,61,71,0.162,0.163,11:46
+3,10:15,BOS,Jayson Tatum,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,65,73,0.223,0.178,10:15
+3,7:29,ATL,De'Andre Hunter,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,68,78,0.098,0.124,7:34
+3,5:54,BOS,Al Horford,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,70,82,0.099,0.098,5:59
+3,4:56,BOS,Jayson Tatum,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,72,85,0.103,0.079,5:16
+3,2:33,ATL,Jalen Johnson,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,81,93,0.065,0.066,2:33
+3,2:17,ATL,De'Andre Hunter,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,81,93,0.055,0.064,2:20
+3,54.1,BOS,Sam Hauser,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,88,97,0.154,0.108,54.1
+3,34.1,ATL,Jalen Johnson,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,89,97,0.096,0.133,54.1
+4,11:41,BOS,Blake Griffin,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,89,101,0.097,0.059,12:00
+4,11:40,ATL,Clint Capela,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,90,101,0.06,0.063,11:40
+4,11:26,BOS,Blake Griffin,Offensive Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,90,101,0.078,0.06,11:40
+4,11:14,BOS,Sam Hauser,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,90,101,0.083,0.078,11:26
+4,5:37,BOS,Derrick White,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,107,114,0.207,0.128,5:42
+4,4:56,ATL,Onyeka Okongwu,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,109,117,0.059,0.064,4:59
+4,4:07,BOS,Jayson Tatum,Offensive Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,111,119,0.076,0.056,4:26
+4,2:40,BOS,Al Horford,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,116,124,0.079,0.03,2:40
+4,2:12,ATL,John Collins,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,117,127,0.008,0.01,2:12
+4,1:47,BOS,Jaylen Brown,Shooting Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,120,127,0.092,0.037,1:47
+4,1:25,BOS,Marcus Smart,Personal Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,121,129,0.075,0.035,1:31
+4,1:25,ATL,Trae Young,Double Technical Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,121,129,0.022,0.075,1:25
+4,26.1,ATL,Saddiq Bey,Personal Take Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,125,131,0.005,0.025,29.1
+4,8.1,ATL,John Collins,Personal Take Foul,Foul,Sean Wright,Nick Buchert,Matt Myers,ATL,125,133,0.001,0.001,12.2

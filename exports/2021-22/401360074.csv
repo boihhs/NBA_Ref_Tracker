@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:34,CHI,Alex Caruso,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,0,0,0.604,0.604,11:34
+1,10:14,NY,Kemba Walker,Personal Take Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,4,2,0.659,0.67,10:14
+1,9:18,NY,RJ Barrett,Personal Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,6,4,0.667,0.669,9:21
+1,8:31,NY,Julius Randle,Offensive Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,8,4,0.711,0.689,8:38
+1,7:40,NY,Nerlens Noel,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,11,4,0.771,0.773,7:40
+1,6:29,NY,Nerlens Noel,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,13,4,0.834,0.809,6:39
+1,2:33,CHI,Javonte Green,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,20,15,0.67,0.705,2:45
+1,2:04,NY,Alec Burks,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,22,16,0.769,0.729,2:04
+1,1:54,CHI,Javonte Green,Personal Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,23,16,0.716,0.752,2:04
+1,1:48,CHI,Alex Caruso,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,23,16,0.716,0.716,1:54
+1,1:06,NY,Nerlens Noel,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,23,18,0.763,0.727,1:11
+1,26.5,CHI,Javonte Green,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,25,18,0.751,0.751,26.5
+2,10:51,CHI,Coby White,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,30,20,0.799,0.816,11:10
+2,9:31,NY,Alec Burks,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,35,26,0.831,0.796,9:31
+2,8:47,CHI,Coby White,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,36,26,0.827,0.817,8:56
+2,6:59,CHI,Zach LaVine,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,40,33,0.767,0.779,6:59
+2,5:18,CHI,Javonte Green,Offensive Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,42,36,0.73,0.756,5:23
+2,4:36,CHI,Lonzo Ball,Personal Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,44,38,0.689,0.73,4:48
+2,4:27,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,44,38,0.71,0.689,4:36
+2,1:05,CHI,Alex Caruso,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,49,40,0.774,0.812,1:12
+2,1:00,CHI,Alex Caruso,Technical Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,49,42,0.739,0.789,1:05
+2,34.0,CHI,DeMar DeRozan,Technical Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,49,43,0.747,0.762,34.0
+2,22.8,NY,Alec Burks,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,49,43,0.799,0.762,34.0
+3,10:39,NY,RJ Barrett,Personal Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,53,49,0.707,0.709,10:46
+3,10:28,NY,Julius Randle,Personal Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,53,49,0.707,0.707,10:39
+3,9:51,CHI,Tony Bradley,Offensive Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,55,51,0.676,0.708,10:01
+3,8:56,NY,Nerlens Noel,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,55,53,0.642,0.642,8:56
+3,8:34,CHI,Alex Caruso,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,55,53,0.603,0.603,8:38
+3,7:11,CHI,Alize Johnson,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,58,56,0.604,0.603,7:11
+3,7:01,CHI,Lonzo Ball,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,58,58,0.496,0.566,7:01
+3,6:51,CHI,Lonzo Ball,Offensive Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,58,59,0.485,0.527,7:01
+3,6:39,CHI,Lonzo Ball,Personal Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,58,59,0.425,0.485,6:51
+3,5:12,NY,RJ Barrett,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,60,64,0.459,0.4,5:35
+3,4:44,CHI,Alize Johnson,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,62,66,0.355,0.395,4:44
+3,4:18,CHI,Derrick Jones Jr.,Personal Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,62,66,0.289,0.352,4:20
+3,4:05,NY,Nerlens Noel,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,64,68,0.39,0.35,4:05
+3,3:38,NY,Obi Toppin,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,65,68,0.495,0.429,3:38
+3,2:35,CHI,Ayo Dosunmu,Loose Ball Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,66,70,0.272,0.334,2:35
+4,11:38,NY,Obi Toppin,Personal Take Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,72,74,0.471,0.449,11:39
+4,10:37,CHI,Alex Caruso,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,78,76,0.554,0.66,10:37
+4,9:42,NY,Alec Burks,Personal Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,80,77,0.721,0.706,9:56
+4,6:35,NY,Derrick Rose,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,91,87,0.861,0.786,6:52
+4,6:17,CHI,Zach LaVine,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,93,87,0.755,0.833,6:35
+4,4:41,NY,Derrick Rose,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,93,91,0.797,0.697,5:03
+4,3:44,CHI,DeMar DeRozan,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,96,93,0.639,0.784,3:44
+4,2:37,CHI,Derrick Jones Jr.,Personal Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,98,94,0.73,0.8,2:37
+4,2:19,NY,Julius Randle,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,98,94,0.888,0.85,2:19
+4,1:46,NY,Derrick Rose,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,100,96,0.927,0.857,2:04
+4,1:38,CHI,Alex Caruso,Shooting Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,102,98,0.804,0.867,1:38
+4,28.4,NY,Alec Burks,Personal Take Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,104,99,0.985,0.95,34.0
+4,17.2,NY,Derrick Rose,Personal Take Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,106,101,0.955,0.967,20.1
+4,6.0,NY,Julius Randle,Personal Take Foul,Foul,Sean Wright,Marat Kogut,Jonathan Sterling,CHI,108,101,0.999,0.999,6.0

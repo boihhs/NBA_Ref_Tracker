@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:21,WSH,Corey Kispert,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,7,14,0.448,0.493,7:21
+1,6:50,WSH,Jordan Poole,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,9,14,0.479,0.519,7:02
+1,5:52,TOR,Bruce Brown,Offensive Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,11,14,0.593,0.569,6:01
+1,2:55,TOR,Gary Trent Jr.,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,19,18,0.684,0.684,3:01
+1,1:53,TOR,Jordan Nwora,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,19,21,0.642,0.605,2:06
+1,2.1,TOR,Garrett Temple,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,21,25,0.583,0.538,7.1
+2,11:30,TOR,Garrett Temple,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,25,28,0.585,0.533,11:30
+2,6:16,TOR,Gary Trent Jr.,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,30,36,0.442,0.443,6:22
+2,5:57,WSH,Jared Butler,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,33,36,0.456,0.506,6:10
+2,5:05,WSH,Patrick Baldwin Jr.,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,35,38,0.502,0.5,5:14
+2,4:54,TOR,Kelly Olynyk,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,35,38,0.577,0.533,4:56
+2,2:59,WSH,Richaun Holmes,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,43,42,0.62,0.62,3:10
+2,4.1,TOR,Gradey Dick,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,49,48,0.69,0.644,18.1
+3,8:53,TOR,Kelly Olynyk,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,58,59,0.562,0.561,9:08
+3,8:30,WSH,Jordan Poole,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,60,61,0.492,0.56,8:30
+3,8:09,WSH,Kyle Kuzma,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,60,62,0.482,0.479,8:09
+3,8:09,WSH,Kyle Kuzma,Technical Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,60,62,0.451,0.482,8:09
+3,7:14,WSH,Kyle Kuzma,Flagrant Foul Type 1,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,62,63,0.526,0.516,7:22
+3,6:13,WSH,Deni Avdija,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,62,68,0.258,0.31,6:17
+3,5:35,WSH,Kyle Kuzma,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,66,71,0.286,0.345,5:45
+3,4:16,WSH,Jordan Poole,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,68,79,0.117,0.161,4:16
+3,3:03,TOR,Garrett Temple,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,72,81,0.205,0.207,3:06
+3,2:24,TOR,Mouhamadou Gueye,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,72,81,0.251,0.201,2:39
+4,10:08,WSH,Jared Butler,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,83,81,0.522,0.62,10:16
+4,8:44,TOR,Jahmi'us Ramsey,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,85,85,0.654,0.557,8:50
+4,8:33,WSH,Jared Butler,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,86,85,0.456,0.561,8:44
+4,8:23,TOR,Jordan Nwora,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,86,87,0.517,0.498,8:33
+4,7:20,TOR,Kelly Olynyk,Loose Ball Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,89,90,0.523,0.5,7:20
+4,7:07,TOR,Jahmi'us Ramsey,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,89,90,0.613,0.523,7:20
+4,6:40,WSH,Richaun Holmes,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,92,92,0.444,0.584,6:40
+4,6:31,TOR,Kelly Olynyk,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,92,93,0.605,0.51,6:40
+4,6:04,TOR,Kelly Olynyk,Loose Ball Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,93,93,0.667,0.574,6:05
+4,5:55,WSH,Deni Avdija,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,94,93,0.453,0.567,6:04
+4,5:18,WSH,Corey Kispert,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,96,93,0.587,0.682,5:37
+4,5:04,WSH,Richaun Holmes,Personal Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,96,95,0.446,0.553,5:05
+4,1:13,TOR,Gradey Dick,Clear Path Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,107,102,0.901,0.825,1:13
+4,18.0,WSH,Kyle Kuzma,Shooting Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,112,106,0.906,0.962,23.1
+4,10.0,TOR,Gradey Dick,Personal Take Foul,Foul,James Williams,Ray Acosta,Jenna Schroeder,WSH,112,109,0.973,0.917,11.1

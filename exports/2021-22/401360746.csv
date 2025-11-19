@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:28,BOS,Jaylen Brown,Offensive Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,4,0,0.762,0.784,10:38
+1,4:14,BOS,Grant Williams,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,14,13,0.664,0.709,4:14
+1,3:07,BOS,Jayson Tatum,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,14,16,0.581,0.629,3:07
+1,38.6,BOS,Robert Williams III,Personal Take Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,19,21,0.544,0.589,39.6
+1,31.5,BOS,Marcus Smart,Flagrant Foul Type 1,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,19,21,0.596,0.544,38.6
+1,20.2,BOS,Derrick White,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,19,23,0.486,0.601,31.5
+1,0.2,BOS,Grant Williams,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,19,25,0.427,0.469,1.3
+2,11:08,ATL,Onyeka Okongwu,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,19,30,0.364,0.341,11:11
+2,9:42,ATL,Onyeka Okongwu,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,23,34,0.375,0.33,9:45
+2,9:32,ATL,Onyeka Okongwu,Offensive Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,25,34,0.39,0.357,9:42
+2,8:12,BOS,Al Horford,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,31,39,0.378,0.38,8:28
+2,7:31,BOS,Aaron Nesmith,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,31,42,0.285,0.285,7:47
+2,6:10,ATL,Kevin Huerter,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,33,49,0.171,0.153,6:20
+2,5:57,ATL,Danilo Gallinari,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,33,49,0.186,0.17,5:57
+2,4:51,BOS,Jayson Tatum,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,37,51,0.182,0.185,5:00
+2,4:42,BOS,Robert Williams III,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,37,51,0.15,0.182,4:51
+2,3:33,ATL,De'Andre Hunter,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,37,54,0.163,0.133,3:35
+2,2:52,BOS,Al Horford,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,41,54,0.156,0.193,3:08
+2,2:42,ATL,Clint Capela,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,41,56,0.204,0.167,2:52
+2,1:24,BOS,Derrick White,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,48,59,0.188,0.167,2:52
+3,11:03,ATL,De'Andre Hunter,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,55,65,0.289,0.234,11:03
+3,10:42,ATL,Trae Young,Offensive Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,56,65,0.291,0.263,11:03
+3,10:05,ATL,Kevin Huerter,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,58,65,0.357,0.357,10:15
+3,9:36,ATL,Danilo Gallinari,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,61,65,0.462,0.462,9:37
+3,9:34,ATL,Kevin Huerter,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,61,65,0.519,0.462,9:36
+3,8:15,ATL,Kevin Huerter,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,63,65,0.588,0.53,8:21
+3,8:03,BOS,Al Horford,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,65,65,0.567,0.565,8:15
+3,6:29,ATL,Danilo Gallinari,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,68,68,0.657,0.601,6:36
+3,3:55,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,71,72,0.581,0.501,3:55
+3,2:37,BOS,Grant Williams,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,76,74,0.629,0.63,2:49
+3,1:15,BOS,Marcus Smart,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,78,76,0.558,0.628,1:26
+4,10:24,ATL,Delon Wright,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,82,80,0.686,0.672,10:40
+4,9:45,ATL,Gorgui Dieng,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,84,80,0.783,0.77,9:54
+4,7:09,BOS,Payton Pritchard,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,92,84,0.84,0.897,7:22
+4,6:59,ATL,Kevin Huerter,Personal Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,92,86,0.879,0.867,7:09
+4,5:04,BOS,Robert Williams III,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,96,86,0.944,0.961,5:04
+4,3:02,BOS,Robert Williams III,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,102,88,0.995,0.997,3:02
+4,1:39,BOS,Robert Williams III,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,102,92,0.969,0.989,1:44
+4,1:16,ATL,Kevin Huerter,Shooting Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,104,94,0.998,0.991,1:16
+4,1:03,ATL,Delon Wright,Personal Take Foul,Foul,Eric Lewis,Curtis Blair,Scott Twardoski,BOS,105,96,0.998,0.993,1:12

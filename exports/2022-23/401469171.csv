@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:19,WSH,Daniel Gafford,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,0,0,0.81,0.785,10:26
+1,5:41,WSH,Kristaps Porzingis,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,13,6,0.883,0.874,5:41
+1,3:23,WSH,Corey Kispert,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,20,8,0.924,0.924,3:29
+1,2:51,PHI,Georges Niang,Defensive 3-Seconds Technical,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,22,8,0.934,0.931,3:09
+1,47.1,PHI,Tyrese Maxey,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,25,18,0.839,0.867,47.1
+1,29.1,WSH,Taj Gibson,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,25,19,0.873,0.851,47.1
+2,10:52,WSH,Deni Avdija,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,29,21,0.877,0.877,11:02
+2,9:59,PHI,Paul Reed,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,31,21,0.888,0.889,10:16
+2,9:49,PHI,Shake Milton,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,31,23,0.849,0.876,9:49
+2,9:39,WSH,Kristaps Porzingis,Defensive 3-Seconds Technical,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,31,24,0.856,0.861,9:49
+2,9:05,WSH,Deni Avdija,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,34,26,0.894,0.874,9:12
+2,8:59,PHI,De'Anthony Melton,Personal Take Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,36,26,0.886,0.887,9:05
+2,7:50,PHI,Tobias Harris,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,36,26,0.865,0.886,7:57
+2,6:13,WSH,Kristaps Porzingis,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,36,33,0.78,0.782,6:25
+2,4:52,WSH,Bradley Beal,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,39,33,0.862,0.836,4:57
+2,2:52,WSH,Bradley Beal,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,45,40,0.843,0.813,2:56
+2,2:02,PHI,P.J. Tucker,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,49,42,0.798,0.832,2:16
+2,36.0,PHI,Joel Embiid,Loose Ball Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,53,46,0.795,0.83,42.1
+2,27.0,WSH,Daniel Gafford,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,53,48,0.84,0.809,36.0
+3,11:29,PHI,Tyrese Maxey,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,57,50,0.829,0.831,11:40
+3,10:04,WSH,Monte Morris,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,60,52,0.869,0.869,10:16
+3,8:33,PHI,Tobias Harris,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,65,54,0.892,0.918,8:33
+3,8:17,WSH,Kristaps Porzingis,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,65,54,0.936,0.918,8:31
+3,6:39,PHI,Tobias Harris,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,70,59,0.907,0.907,6:48
+3,6:17,WSH,Kristaps Porzingis,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,70,59,0.941,0.923,6:23
+3,5:46,PHI,Tyrese Maxey,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,71,61,0.862,0.892,5:47
+3,1:01,PHI,Danuel House Jr.,Loose Ball Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,80,67,0.932,0.952,1:01
+3,57.0,WSH,Delon Wright,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,80,69,0.958,0.94,1:01
+3,10.0,WSH,Kyle Kuzma,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,80,69,0.961,0.942,28.0
+4,9:54,PHI,De'Anthony Melton,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,86,71,0.979,0.981,10:03
+4,9:44,PHI,Georges Niang,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,86,71,0.978,0.979,9:54
+4,6:50,WSH,Anthony Gill,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,98,78,0.999,0.999,7:15
+4,5:32,PHI,Shake Milton,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,103,78,0.999,0.999,5:41
+4,5:21,WSH,Johnny Davis,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,103,80,0.999,0.999,5:32
+4,4:48,PHI,Danuel House Jr.,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,104,80,0.999,0.999,4:50
+4,4:18,PHI,Danuel House Jr.,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,104,84,0.999,0.999,4:18
+4,3:00,WSH,Jamaree Bouyea,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,108,88,0.999,0.999,3:15
+4,2:15,PHI,Dewayne Dedmon,Shooting Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,108,88,0.999,0.999,2:34
+4,1:19,PHI,Shake Milton,Personal Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,110,89,0.999,0.999,1:26
+4,17.0,WSH,Johnny Davis,Loose Ball Foul,Foul,Sean Wright,Mitchell Ervin,Matt Kallio,PHI,112,93,0.999,0.999,17.0

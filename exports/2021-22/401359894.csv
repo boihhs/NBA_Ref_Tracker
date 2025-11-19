@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:13,GS,Stephen Curry,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,2,0,0.698,0.73,11:27
+1,10:34,MEM,De'Anthony Melton,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,2,2,0.72,0.705,10:37
+1,10:06,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,7,2,0.822,0.781,10:06
+1,9:20,GS,Kevon Looney,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,8,6,0.722,0.743,9:27
+1,7:11,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,15,8,0.826,0.811,7:35
+1,6:23,GS,Kevon Looney,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,17,8,0.817,0.841,6:42
+1,1:40,GS,Gary Payton II,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,30,18,0.86,0.88,1:46
+2,8:02,GS,Andre Iguodala,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,41,28,0.877,0.896,8:07
+2,6:38,MEM,Ziaire Williams,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,41,36,0.808,0.775,6:52
+2,5:47,GS,Juan Toscano-Anderson,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,44,36,0.818,0.817,6:02
+2,5:07,GS,Damion Lee,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,47,36,0.872,0.872,5:25
+2,3:23,MEM,De'Anthony Melton,Loose Ball Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,49,38,0.888,0.89,3:23
+2,1:16,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,52,43,0.884,0.857,1:16
+3,11:09,GS,Stephen Curry,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,55,47,0.82,0.82,11:12
+3,10:39,GS,Jordan Poole,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,55,47,0.821,0.82,10:40
+3,8:58,GS,Kevon Looney,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,59,52,0.757,0.798,9:13
+3,8:25,GS,Jordan Poole,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,59,54,0.694,0.743,8:28
+3,6:55,MEM,MEM,Technical Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,61,58,0.692,0.675,6:55
+3,3:13,MEM,Ziaire Williams,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,70,65,0.826,0.782,3:20
+3,51.3,GS,Otto Porter Jr.,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,79,69,0.863,0.897,53.0
+3,5.7,MEM,Kyle Anderson,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,79,73,0.868,0.824,22.9
+4,9:28,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,85,78,0.9,0.842,9:28
+4,8:56,MEM,Tyus Jones,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,86,81,0.823,0.814,8:56
+4,8:06,MEM,De'Anthony Melton,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,86,81,0.883,0.821,8:19
+4,3:01,GS,Damion Lee,Personal Take Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,93,96,0.241,0.244,3:02
+4,48.3,GS,Draymond Green,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,98,98,0.254,0.477,1:07
+4,2.1,MEM,De'Anthony Melton,Personal Take Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,98,98,0.929,0.551,10.1
+5,4:45,GS,Andrew Wiggins,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,98,98,0.398,0.466,4:46
+5,2:39,MEM,Kyle Anderson,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,101,100,0.751,0.625,2:58
+5,2:27,GS,Draymond Green,Personal Take Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,101,100,0.532,0.537,2:29
+5,4.8,GS,Andre Iguodala,Personal Take Foul,Foul,Bill Kennedy,Eric Dalen,Jonathan Sterling,GS,101,104,0.01,0.034,6.8

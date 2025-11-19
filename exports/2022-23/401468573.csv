@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:48,CHI,Nikola Vucevic,Offensive Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,2,11,0.337,0.365,10:02
+1,9:06,NY,Mitchell Robinson,Personal Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,4,11,0.411,0.411,9:16
+1,7:58,CHI,Alex Caruso,Transition Take Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,4,11,0.382,0.382,7:58
+1,6:08,CHI,Alex Caruso,Personal Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,10,14,0.454,0.455,6:24
+1,5:58,CHI,Patrick Williams,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,10,16,0.38,0.426,5:58
+1,5:18,NY,RJ Barrett,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,12,19,0.437,0.398,5:29
+1,5:14,CHI,Zach LaVine,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,13,19,0.358,0.398,5:18
+1,4:43,CHI,Javonte Green,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,13,21,0.305,0.344,4:58
+1,2:12,NY,Isaiah Hartenstein,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,23,27,0.49,0.441,2:12
+1,54.0,CHI,Javonte Green,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,26,27,0.48,0.494,1:25
+1,16.1,NY,Isaiah Hartenstein,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,26,29,0.535,0.491,26.0
+2,11:37,CHI,DeMar DeRozan,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,28,29,0.475,0.517,11:43
+2,11:19,NY,RJ Barrett,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,30,31,0.569,0.518,11:19
+2,9:59,NY,Jericho Sims,Personal Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,31,36,0.425,0.425,10:01
+2,9:53,CHI,DeMar DeRozan,Offensive Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,31,36,0.395,0.425,9:58
+2,7:58,NY,Quentin Grimes,Personal Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,35,45,0.275,0.276,8:09
+2,4:33,NY,Quentin Grimes,Offensive Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,43,55,0.205,0.182,4:42
+2,3:17,CHI,Zach LaVine,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,46,55,0.209,0.249,3:36
+2,2:19,NY,Quentin Grimes,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,48,60,0.231,0.193,2:27
+2,1:52,CHI,Patrick Williams,Personal Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,50,60,0.175,0.213,1:55
+2,21.1,CHI,DeMar DeRozan,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,55,62,0.245,0.286,29.2
+3,9:02,CHI,Alex Caruso,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,65,69,0.316,0.368,9:12
+3,7:39,NY,Quentin Grimes,Personal Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,67,76,0.225,0.226,7:47
+3,6:02,NY,Mitchell Robinson,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,70,76,0.37,0.313,6:10
+3,5:22,NY,Jalen Brunson,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,72,76,0.417,0.386,5:22
+3,4:28,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,75,76,0.572,0.509,4:28
+3,1:41,CHI,Zach LaVine,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,83,86,0.328,0.408,1:41
+3,1:36,CHI,Andre Drummond,Offensive Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,83,87,0.316,0.363,1:41
+3,19.1,NY,Immanuel Quickley,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,85,92,0.291,0.304,19.1
+4,11:31,NY,RJ Barrett,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,88,92,0.437,0.349,11:39
+4,10:48,CHI,Andre Drummond,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,93,92,0.493,0.549,10:48
+4,9:24,NY,Immanuel Quickley,Personal Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,95,97,0.453,0.438,9:42
+4,8:56,CHI,Andre Drummond,Defensive 3-Seconds Technical,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,97,97,0.512,0.494,9:17
+4,8:31,NY,Miles McBride,Personal Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,97,98,0.517,0.496,8:42
+4,7:51,NY,Miles McBride,Personal Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,99,101,0.546,0.447,8:01
+4,2:07,NY,Jalen Brunson,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,109,114,0.269,0.164,2:09
+4,1:15,NY,RJ Barrett,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,111,114,0.414,0.27,1:27
+4,47.1,NY,RJ Barrett,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,113,117,0.305,0.18,54.0
+5,3:02,CHI,Alex Caruso,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,119,119,0.333,0.46,3:21
+5,1:54,CHI,Alex Caruso,Shooting Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,119,121,0.144,0.269,2:08
+5,27.2,NY,Immanuel Quickley,Away from Play Foul,Foul,James Williams,Kevin Cutler,CJ Washington,CHI,119,128,0.017,0.003,27.2

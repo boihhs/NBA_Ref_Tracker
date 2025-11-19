@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:57,DEN,Nikola Jokic,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,13,2,0.652,0.649,6:59
+1,6:48,DEN,Aaron Gordon,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,13,2,0.653,0.652,6:57
+1,6:04,LAC,Kawhi Leonard,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,15,4,0.719,0.681,6:26
+1,5:23,LAC,Russell Westbrook,Loose Ball Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,20,4,0.802,0.803,5:23
+1,5:00,DEN,Michael Porter Jr.,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,20,6,0.72,0.761,5:00
+1,3:34,LAC,Bones Hyland,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,25,9,0.811,0.813,3:37
+1,33.1,LAC,Terance Mann,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,32,20,0.775,0.742,41.0
+2,10:58,LAC,Norman Powell,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,35,22,0.808,0.775,11:01
+2,10:02,DEN,Thomas Bryant,Offensive Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,38,28,0.68,0.704,10:17
+2,7:11,DEN,Bruce Brown,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,47,34,0.776,0.774,7:20
+2,4:31,LAC,Paul George,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,53,40,0.851,0.822,4:36
+2,3:06,LAC,Paul George,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,57,46,0.8,0.782,3:06
+2,1:58,DEN,Jamal Murray,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,62,51,0.72,0.761,2:06
+2,1:39,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,62,53,0.661,0.709,1:41
+2,56.0,LAC,Marcus Morris Sr.,Loose Ball Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,64,55,0.786,0.741,56.0
+2,45.0,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,64,57,0.623,0.687,45.0
+3,10:53,DEN,Aaron Gordon,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,68,60,0.673,0.731,10:53
+3,10:16,LAC,Russell Westbrook,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,68,61,0.703,0.705,10:27
+3,9:38,LAC,Nicolas Batum,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,70,64,0.673,0.675,9:49
+3,8:44,LAC,Russell Westbrook,Flagrant Foul Type 1,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,73,66,0.705,0.681,8:46
+3,7:57,LAC,Nicolas Batum,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,76,66,0.831,0.812,7:57
+3,6:15,DEN,Michael Porter Jr.,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,83,71,0.834,0.896,6:15
+3,5:55,DEN,Aaron Gordon,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,83,71,0.816,0.855,5:59
+3,5:03,DEN,Aaron Gordon,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,83,73,0.765,0.81,5:07
+3,5:03,DEN,Aaron Gordon,Technical Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,83,73,0.787,0.765,5:03
+3,4:22,LAC,Paul George,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,83,78,0.739,0.68,4:34
+3,3:41,LAC,Kawhi Leonard,Loose Ball Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,85,80,0.746,0.688,3:41
+3,1:21,LAC,Terance Mann,Loose Ball Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,93,86,0.839,0.79,1:21
+3,42.0,LAC,Norman Powell,Loose Ball Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,94,88,0.814,0.763,42.0
+4,11:15,DEN,Thomas Bryant,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,99,92,0.736,0.819,11:15
+4,10:21,DEN,Thomas Bryant,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,99,94,0.679,0.693,10:28
+4,9:53,LAC,Terance Mann,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,99,94,0.753,0.741,10:04
+4,9:49,LAC,Mason Plumlee,Flagrant Foul Type 1,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,99,94,0.747,0.753,9:53
+4,9:20,DEN,Jamal Murray,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,100,94,0.667,0.754,9:29
+4,8:52,LAC,Terance Mann,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,100,96,0.728,0.711,8:53
+4,7:21,DEN,Bruce Brown,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,105,98,0.752,0.824,7:31
+4,5:15,LAC,Eric Gordon,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,107,105,0.748,0.659,8:28
+4,4:53,DEN,Aaron Gordon,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,107,105,0.482,0.59,5:08
+4,4:17,DEN,Michael Porter Jr.,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,107,108,0.323,0.451,4:17
+4,4:00,LAC,Mason Plumlee,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,109,109,0.584,0.446,4:00
+4,3:17,LAC,Kawhi Leonard,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,110,111,0.573,0.452,3:26
+4,2:59,DEN,Aaron Gordon,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,111,111,0.327,0.446,3:15
+4,2:05,LAC,Mason Plumlee,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,113,115,0.496,0.366,2:16
+4,58.2,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,117,117,0.295,0.454,1:03
+4,23.1,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,120,118,0.498,0.665,26.1
+5,4:36,LAC,Kawhi Leonard,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,120,120,0.601,0.533,4:36
+5,2:56,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,129,120,0.932,0.964,3:05
+5,2:41,LAC,Mason Plumlee,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,129,122,0.977,0.949,2:56
+5,1:38,DEN,Nikola Jokic,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,Mousa Dagher,DEN,132,122,0.969,0.988,1:48

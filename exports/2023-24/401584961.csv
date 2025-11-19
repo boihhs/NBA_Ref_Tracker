@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:11,PHX,Jusuf Nurkic,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,4,6,0.53,0.572,10:11
+1,8:41,NY,Donte DiVincenzo,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,6,9,0.562,0.517,8:41
+1,7:28,NY,Donte DiVincenzo,Flagrant Foul Type 1,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,14,12,0.658,0.641,7:28
+1,6:05,NY,Jericho Sims,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,17,17,0.631,0.613,6:05
+1,5:08,PHX,Devin Booker,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,21,19,0.598,0.636,5:14
+1,1:04,NY,Julius Randle,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,29,31,0.588,0.546,1:10
+1,25.1,NY,Julius Randle,Flopping Technical,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,30,31,0.572,0.544,26.1
+2,10:36,NY,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,32,34,0.539,0.538,10:36
+2,10:12,PHX,Jordan Goodwin,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,32,36,0.425,0.477,10:12
+2,9:34,NY,Josh Hart,Defensive 3-Seconds Technical,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,34,39,0.437,0.446,9:46
+2,7:50,NY,Immanuel Quickley,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,39,43,0.515,0.471,8:03
+2,6:41,NY,Quentin Grimes,Personal Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,40,45,0.432,0.433,6:52
+2,6:05,NY,Isaiah Hartenstein,Personal Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,42,47,0.477,0.43,6:16
+2,4:24,PHX,Keita Bates-Diop,Defensive 3-Seconds Technical,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,47,50,0.462,0.45,4:32
+2,3:11,PHX,Jordan Goodwin,Personal Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,49,53,0.414,0.414,3:15
+2,1:45,PHX,Jusuf Nurkic,Defensive 3-Seconds Technical,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,58,58,0.552,0.546,1:57
+2,1:40,NY,Isaiah Hartenstein,Offensive Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,58,59,0.543,0.51,1:45
+2,39.1,PHX,Nassir Little,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,63,59,0.627,0.674,56.0
+2,28.1,PHX,Devin Booker,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,65,61,0.627,0.671,33.1
+3,11:49,NY,Donte DiVincenzo,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,68,63,0.776,0.715,0.0
+3,9:45,NY,Donte DiVincenzo,Personal Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,76,70,0.764,0.769,9:54
+3,9:28,PHX,Devin Booker,Personal Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,76,70,0.738,0.736,9:35
+3,7:37,PHX,Devin Booker,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,81,76,0.658,0.71,7:53
+3,4:27,NY,Jericho Sims,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,92,83,0.881,0.842,4:27
+3,4:10,PHX,Nassir Little,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,93,85,0.795,0.843,4:10
+3,2:04,PHX,Grayson Allen,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,97,92,0.696,0.723,2:12
+3,1:25,PHX,Drew Eubanks,Loose Ball Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,99,94,0.666,0.725,1:25
+3,5.0,NY,Quentin Grimes,Personal Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,99,97,0.716,0.65,12.0
+4,11:47,PHX,Grayson Allen,Personal Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,99,97,0.584,0.629,12:00
+4,10:44,NY,RJ Barrett,Personal Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,99,99,0.564,0.546,11:01
+4,8:36,PHX,Grayson Allen,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,103,108,0.155,0.229,8:48
+4,8:21,NY,Isaiah Hartenstein,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,103,110,0.258,0.179,8:36
+4,8:11,PHX,Grayson Allen,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,105,110,0.176,0.223,8:11
+4,7:54,NY,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,105,112,0.254,0.176,8:11
+4,7:45,PHX,Jordan Goodwin,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,106,112,0.116,0.175,7:54
+4,5:47,NY,Julius Randle,Away from Play Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,110,120,0.095,0.058,5:47
+4,5:30,PHX,Jusuf Nurkic,Personal Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,110,120,0.023,0.038,5:34
+4,3:14,NY,Julius Randle,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,113,129,0.001,0.001,3:14
+4,2:55,PHX,Kevin Durant,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,114,129,0.001,0.001,3:14
+4,42.1,NY,Jericho Sims,Shooting Foul,Foul,Ed Malloy,Nick Buchert,Scott Twardoski,PHX,118,139,0.001,0.001,54.1

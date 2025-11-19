@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:56,MIL,Andre Jackson Jr.,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,4,2,0.684,0.685,10:21
+1,7:27,SAC,Domantas Sabonis,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,10,12,0.641,0.605,7:28
+1,5:30,SAC,Keegan Murray,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,16,20,0.583,0.546,5:46
+1,4:54,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,21,22,0.555,0.595,5:01
+1,3:18,SAC,De'Aaron Fox,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,25,29,0.532,0.536,3:38
+2,11:24,SAC,Alex Len,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,32,40,0.441,0.401,11:44
+2,10:15,SAC,Alex Len,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,36,42,0.495,0.451,10:33
+2,9:47,SAC,De'Aaron Fox,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,40,44,0.528,0.474,9:47
+2,9:17,SAC,Malik Monk,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,40,44,0.548,0.506,9:28
+2,9:11,MIL,Bobby Portis,Defensive 3-Seconds Technical,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,42,44,0.539,0.532,9:17
+2,8:20,SAC,Alex Len,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,44,50,0.486,0.44,8:37
+2,7:52,MIL,Andre Jackson Jr.,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,48,50,0.526,0.526,8:09
+2,7:28,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,48,50,0.523,0.556,7:37
+2,7:10,SAC,Kevin Huerter,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,48,52,0.539,0.495,7:16
+2,5:51,SAC,Kevin Huerter,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,52,54,0.597,0.55,6:11
+2,4:22,MIL,Bobby Portis,Loose Ball Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,57,56,0.608,0.608,4:22
+2,4:08,MIL,Brook Lopez,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,57,56,0.56,0.608,4:22
+2,3:14,SAC,Domantas Sabonis,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,60,60,0.652,0.607,3:18
+2,1:31,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,63,66,0.411,0.461,1:34
+3,10:43,MIL,Andre Jackson Jr.,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,74,69,0.726,0.726,10:48
+3,9:12,MIL,AJ Green,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,74,71,0.659,0.66,9:14
+3,7:49,MIL,AJ Green,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,74,75,0.478,0.547,7:49
+3,7:19,SAC,Domantas Sabonis,Offensive Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,77,76,0.622,0.583,7:33
+3,5:10,SAC,Trey Lyles,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,84,84,0.61,0.535,5:10
+3,4:25,MIL,Andre Jackson Jr.,Offensive Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,84,84,0.532,0.577,4:32
+3,1:24,SAC,De'Aaron Fox,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,90,88,0.689,0.658,1:31
+3,1:15,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,93,88,0.75,0.735,1:24
+4,10:32,MIL,Pat Connaughton,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,99,93,0.75,0.83,10:32
+4,10:06,MIL,Brook Lopez,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,102,94,0.797,0.858,10:18
+4,9:27,SAC,SAC,Technical Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,105,95,0.945,0.932,9:28
+4,9:27,SAC,SAC,Technical Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,106,95,0.958,0.949,9:27
+4,6:34,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,113,107,0.804,0.818,6:48
+4,3:55,MIL,Malik Beasley,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,119,111,0.862,0.923,4:10
+4,1:12,MIL,Malik Beasley,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,123,118,0.757,0.866,1:13
+4,17.0,MIL,Malik Beasley,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,125,122,0.579,0.783,20.0
+4,13.1,SAC,Kevin Huerter,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,125,124,0.869,0.674,17.0
+4,11.1,SAC,Trey Lyles,Personal Take Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,125,124,0.874,0.706,13.1
+4,10.0,MIL,Malik Beasley,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,127,124,0.619,0.829,11.1
+4,8.1,SAC,Trey Lyles,Personal Take Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,127,126,0.896,0.714,10.0
+5,1:27,SAC,De'Aaron Fox,Personal Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,134,136,0.534,0.347,1:44
+5,1:18,SAC,Kevin Huerter,Shooting Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,134,136,0.535,0.534,1:27
+5,22.0,MIL,Pat Connaughton,Personal Take Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,137,141,0.025,0.084,26.0
+5,18.1,MIL,Pat Connaughton,Personal Take Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,137,141,0.021,0.025,22.0
+5,5.0,MIL,Malik Beasley,Personal Take Foul,Foul,Brian Forte,David Guthrie,Intae Hwang,MIL,140,141,0.062,0.265,9.1

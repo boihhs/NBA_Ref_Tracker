@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:28,TOR,Chris Boucher,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,5,4,0.427,0.458,9:28
+1,4:52,TOR,Pascal Siakam,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,14,14,0.412,0.412,4:52
+1,4:47,TOR,Yuta Watanabe,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,14,14,0.412,0.412,4:52
+1,4:21,TOR,Daniel Oturu,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,14,16,0.322,0.36,4:25
+1,2:52,PHI,Tobias Harris,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,16,20,0.375,0.334,2:56
+1,36.0,TOR,Gary Trent Jr.,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,22,26,0.275,0.31,49.0
+2,9:14,PHI,Georges Niang,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,28,32,0.38,0.337,9:24
+2,8:01,PHI,Matisse Thybulle,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,29,35,0.325,0.285,8:16
+2,6:55,TOR,Chris Boucher,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,36,38,0.324,0.367,7:05
+2,4:36,PHI,Tobias Harris,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,38,42,0.338,0.338,4:44
+2,3:48,TOR,Gary Trent Jr.,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,38,42,0.308,0.307,3:59
+2,2:36,TOR,Pascal Siakam,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,41,46,0.239,0.28,2:44
+2,1:47,TOR,Chris Boucher,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,44,47,0.292,0.337,2:06
+2,19.2,PHI,Joel Embiid,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,46,52,0.323,0.278,37.4
+3,11:26,TOR,Yuta Watanabe,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,51,55,0.26,0.303,11:44
+3,8:27,PHI,Seth Curry,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,59,62,0.37,0.368,8:29
+3,8:09,TOR,Pascal Siakam,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,59,62,0.333,0.331,8:09
+3,8:03,TOR,Yuta Watanabe,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,59,64,0.244,0.299,8:03
+3,8:03,TOR,Yuta Watanabe,Technical Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,59,64,0.244,0.244,8:03
+3,6:51,TOR,Chris Boucher,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,61,68,0.12,0.151,7:00
+3,6:36,PHI,Matisse Thybulle,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,61,70,0.174,0.177,6:51
+3,5:14,PHI,Matisse Thybulle,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,64,72,0.192,0.194,5:15
+3,4:43,TOR,Yuta Watanabe,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,66,72,0.178,0.221,5:01
+3,2:33,PHI,Seth Curry,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,74,76,0.384,0.363,2:33
+3,1:59,TOR,TOR,Delay Technical,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,78,76,0.507,0.543,2:02
+3,1:24,PHI,Paul Reed,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,78,80,0.474,0.405,1:39
+3,1:15,TOR,Gary Trent Jr.,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,80,80,0.38,0.453,1:24
+3,39.1,TOR,D.J. Wilson,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,80,82,0.325,0.357,39.1
+3,15.3,TOR,Gary Trent Jr.,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,80,83,0.25,0.314,31.5
+3,3.6,PHI,Matisse Thybulle,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,80,85,0.337,0.274,15.3
+4,11:02,PHI,Furkan Korkmaz,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,81,87,0.23,0.22,11:02
+4,9:48,PHI,Georges Niang,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,83,89,0.228,0.217,10:03
+4,8:05,TOR,Yuta Watanabe,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,85,95,0.035,0.061,8:17
+4,7:42,PHI,Paul Reed,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,85,97,0.057,0.04,7:42
+4,6:31,TOR,Malachi Flynn,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,90,97,0.105,0.114,6:42
+4,5:58,TOR,Pascal Siakam,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,92,97,0.16,0.178,6:09
+4,5:26,TOR,D.J. Wilson,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,94,97,0.29,0.261,5:37
+4,4:52,PHI,Tobias Harris,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,94,99,0.291,0.194,4:58
+4,4:15,PHI,Joel Embiid,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,96,101,0.285,0.2,4:38
+4,2:57,PHI,Tobias Harris,Personal Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,100,106,0.2,0.127,3:15
+4,1:20,TOR,Chris Boucher,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,107,106,0.398,0.541,1:41
+4,16.8,TOR,D.J. Wilson,Personal Take Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,109,110,0.3,0.304,18.5
+4,6.1,TOR,Gary Trent Jr.,Personal Take Foul,Foul,Tre Maddox,Brett Nansel,Jamahl Ralls,TOR,109,112,0.047,0.048,6.2

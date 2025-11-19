@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:40,CLE,Donovan Mitchell,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,4,9,0.755,0.758,9:50
+1,7:54,BOS,Jayson Tatum,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,4,14,0.558,0.603,8:02
+1,6:26,CLE,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,6,20,0.54,0.497,6:33
+1,5:49,CLE,Dean Wade,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,8,22,0.531,0.492,6:10
+1,46.1,BOS,Sam Hauser,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,19,31,0.404,0.447,46.1
+2,11:38,CLE,Isaac Okoro,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,21,31,0.576,0.522,12:00
+2,10:54,BOS,Payton Pritchard,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,26,34,0.548,0.551,11:03
+2,9:56,CLE,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,29,37,0.614,0.571,10:04
+2,4:35,CLE,Dean Wade,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,46,52,0.617,0.57,4:38
+2,3:52,CLE,Donovan Mitchell,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,50,52,0.725,0.684,3:57
+2,3:03,CLE,Caris LeVert,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,52,55,0.691,0.648,3:09
+2,2:33,CLE,Dean Wade,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,54,57,0.687,0.643,2:33
+2,2:18,CLE,Donovan Mitchell,Technical Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,56,57,0.721,0.7,2:18
+2,1:11,BOS,Jrue Holiday,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,59,57,0.705,0.748,1:16
+3,10:57,BOS,Jrue Holiday,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,64,60,0.748,0.786,10:59
+3,8:39,BOS,Jayson Tatum,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,68,70,0.583,0.624,8:55
+3,7:04,CLE,Jarrett Allen,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,70,74,0.557,0.485,7:04
+3,6:48,BOS,Derrick White,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,71,74,0.492,0.524,7:04
+3,2:26,BOS,Derrick White,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,86,84,0.687,0.685,2:37
+3,29.1,CLE,Jarrett Allen,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,94,91,0.807,0.757,34.1
+3,2.1,BOS,Derrick White,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,94,91,0.648,0.715,17.2
+4,9:06,CLE,Georges Niang,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,99,99,0.696,0.604,9:12
+4,8:10,CLE,Darius Garland,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,104,101,0.771,0.758,8:12
+4,5:50,CLE,Donovan Mitchell,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,106,106,0.616,0.596,6:05
+4,5:42,CLE,Jarrett Allen,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,106,106,0.709,0.616,5:50
+4,5:21,BOS,Jayson Tatum,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,108,106,0.668,0.677,5:42
+4,5:06,CLE,Max Strus,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,108,106,0.816,0.737,5:15
+4,3:45,CLE,Max Strus,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,113,106,0.971,0.945,3:59
+4,3:31,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,115,106,0.963,0.964,3:45
+4,2:51,BOS,Jrue Holiday,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,115,108,0.924,0.934,2:55
+4,1:19,BOS,Kristaps Porzingis,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Ray Acosta,BOS,120,113,0.927,0.979,1:19

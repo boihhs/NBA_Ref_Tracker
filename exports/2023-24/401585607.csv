@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,TOR,Kelly Olynyk,Loose Ball Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,4,2,0.856,0.856,10:27
+1,8:05,ORL,Jalen Suggs,Offensive Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,11,6,0.872,0.884,8:16
+1,7:36,ORL,Jalen Suggs,Personal Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,13,6,0.893,0.894,7:41
+1,6:25,ORL,Franz Wagner,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,18,10,0.892,0.91,6:25
+1,1:30,TOR,Ochai Agbaji,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,23,22,0.828,0.804,1:49
+1,4.1,ORL,Joe Ingles,Personal Take Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,26,22,0.804,0.832,6.1
+2,11:46,ORL,Joe Ingles,Personal Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,26,22,0.754,0.765,12:00
+2,11:18,TOR,Bruce Brown,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,26,24,0.836,0.812,11:35
+2,10:45,ORL,Joe Ingles,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,28,28,0.713,0.747,10:49
+2,10:32,TOR,Jordan Nwora,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,30,30,0.782,0.746,10:32
+2,8:33,ORL,Moritz Wagner,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,35,30,0.808,0.836,8:48
+2,8:02,TOR,Gradey Dick,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,35,32,0.841,0.815,8:07
+2,6:00,TOR,Kelly Olynyk,Offensive Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,41,38,0.807,0.787,6:19
+2,5:05,ORL,Franz Wagner,Personal Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,41,40,0.695,0.737,5:23
+2,4:59,ORL,Wendell Carter Jr.,Personal Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,41,40,0.695,0.695,5:05
+2,52.1,TOR,Gradey Dick,Defensive 3-Seconds Technical,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,47,47,0.702,0.711,1:17
+2,8.1,TOR,Ochai Agbaji,Personal Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,49,47,0.795,0.759,28.1
+3,11:50,TOR,Immanuel Quickley,Offensive Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,52,47,0.828,0.814,12:00
+3,11:18,TOR,Gary Trent Jr.,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,52,47,0.857,0.827,11:24
+3,10:33,ORL,Gary Harris,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,53,47,0.79,0.825,10:36
+3,9:52,TOR,Kelly Olynyk,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,55,48,0.89,0.866,10:08
+3,7:54,ORL,Franz Wagner,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,64,53,0.903,0.927,7:54
+3,6:05,TOR,Jordan Nwora,Loose Ball Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,66,56,0.916,0.917,6:05
+3,5:55,TOR,Kelly Olynyk,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,66,56,0.936,0.916,6:05
+3,3:19,ORL,Cole Anthony,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,74,60,0.95,0.966,3:19
+3,2:47,TOR,Jahmi'us Ramsey,Personal Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,74,63,0.955,0.938,2:53
+4,11:01,ORL,Cole Anthony,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,90,73,0.98,0.989,11:04
+4,10:22,TOR,Bruce Brown,Personal Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,90,75,0.986,0.986,10:24
+4,8:58,ORL,Caleb Houstan,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,92,77,0.962,0.978,9:07
+4,6:33,TOR,Gary Trent Jr.,Personal Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,96,84,0.982,0.979,6:53
+4,6:28,ORL,Franz Wagner,Offensive Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,96,84,0.973,0.982,6:33
+4,6:14,TOR,Kelly Olynyk,Loose Ball Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,96,84,0.984,0.982,6:14
+4,6:05,TOR,Gradey Dick,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,96,84,0.988,0.978,8:58
+4,4:05,ORL,Franz Wagner,Personal Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,104,89,0.997,0.997,4:13
+4,43.1,TOR,Javon Freeman-Liberty,Shooting Foul,Foul,Eric Dalen,Dedric Taylor,Scott Foster,ORL,111,94,0.999,0.999,52.2

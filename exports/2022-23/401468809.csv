@@ -1,0 +1,60 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:50,POR,Jusuf Nurkic,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,5,5,0.695,0.73,9:50
+1,8:43,POR,Jusuf Nurkic,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,11,6,0.775,0.802,9:05
+1,6:50,DAL,Dwight Powell,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,17,10,0.865,0.846,7:00
+1,5:39,POR,Josh Hart,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,21,17,0.762,0.795,5:39
+1,5:14,DAL,Spencer Dinwiddie,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,21,18,0.775,0.776,5:21
+1,5:05,POR,Shaedon Sharpe,Double Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,23,18,0.764,0.794,5:08
+1,4:53,POR,Jerami Grant,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,23,18,0.764,0.764,5:05
+1,3:30,DAL,Christian Wood,Defensive 3-Seconds Technical,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,28,22,0.82,0.825,3:37
+1,3:00,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,28,22,0.848,0.824,3:04
+1,2:53,POR,Gary Payton II,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,30,22,0.814,0.839,3:00
+1,2:02,DAL,Theo Pinson,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,30,26,0.812,0.787,2:02
+1,36.1,DAL,Theo Pinson,Defensive 3-Seconds Technical,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,32,28,0.776,0.783,50.1
+2,11:48,DAL,McKinley Wright IV,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,33,31,0.738,0.739,11:48
+2,10:52,POR,Damian Lillard,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,36,31,0.779,0.779,10:56
+2,10:41,DAL,Frank Ntilikina,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,36,31,0.825,0.799,10:46
+2,8:48,POR,Jerami Grant,Offensive Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,45,37,0.832,0.85,8:59
+2,8:40,POR,Jerami Grant,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,45,37,0.833,0.832,8:48
+2,7:30,DAL,Theo Pinson,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,45,37,0.872,0.849,7:39
+2,6:23,DAL,Dwight Powell,Offensive Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,49,37,0.906,0.893,6:35
+2,6:06,POR,Nassir Little,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,49,37,0.894,0.894,6:06
+2,5:11,POR,Jusuf Nurkic,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,51,40,0.856,0.88,5:32
+2,3:56,DAL,Spencer Dinwiddie,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,53,46,0.856,0.831,4:03
+2,2:36,DAL,Dwight Powell,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,56,48,0.874,0.847,2:43
+2,2:01,POR,Anfernee Simons,Offensive Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,58,51,0.808,0.831,2:16
+2,1:15,POR,Nassir Little,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,58,51,0.77,0.808,1:19
+2,48.1,POR,Anfernee Simons,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,58,52,0.743,0.782,54.1
+2,31.1,DAL,Davis Bertans,Flagrant Foul Type 1,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,58,54,0.75,0.76,31.1
+3,10:58,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,61,59,0.742,0.7,11:14
+3,9:58,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,65,62,0.694,0.696,9:58
+3,9:25,POR,Drew Eubanks,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,65,66,0.527,0.591,9:25
+3,9:14,DAL,Frank Ntilikina,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,65,67,0.609,0.556,9:25
+3,7:32,DAL,Frank Ntilikina,Offensive Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,71,72,0.581,0.541,7:37
+3,5:59,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,77,74,0.744,0.722,6:03
+3,5:44,POR,Drew Eubanks,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,79,74,0.702,0.752,5:59
+3,5:28,POR,Jabari Walker,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,79,75,0.667,0.719,5:31
+3,5:02,DAL,Christian Wood,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,79,78,0.703,0.649,5:17
+3,4:46,POR,Jabari Walker,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,81,78,0.625,0.684,5:02
+3,3:30,POR,Shaedon Sharpe,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,88,81,0.767,0.815,3:37
+3,2:12,POR,Jabari Walker,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,91,83,0.803,0.85,2:12
+3,2:01,DAL,McKinley Wright IV,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,93,85,0.892,0.851,2:01
+3,1:27,DAL,Jaden Hardy,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,94,87,0.889,0.852,1:37
+3,1:09,POR,Shaedon Sharpe,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,96,87,0.838,0.876,1:27
+3,12.0,POR,Gary Payton II,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,98,94,0.687,0.763,12.0
+4,11:27,POR,Jerami Grant,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,100,95,0.686,0.761,11:47
+4,11:18,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,100,97,0.732,0.721,11:24
+4,11:13,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,102,97,0.838,0.763,11:13
+4,10:48,DAL,Theo Pinson,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,103,99,0.813,0.774,10:48
+4,10:18,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,104,101,0.806,0.74,10:28
+4,9:29,DAL,Theo Pinson,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,109,103,0.9,0.861,9:29
+4,9:29,DAL,Theo Pinson,Technical Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,109,103,0.881,0.9,9:29
+4,7:13,DAL,Davis Bertans,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,120,103,0.998,0.997,7:18
+4,6:38,POR,Josh Hart,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,122,105,0.991,0.996,6:44
+4,6:02,DAL,Davis Bertans,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,122,107,0.997,0.994,6:07
+4,4:01,POR,Jerami Grant,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,132,109,0.999,0.999,4:11
+4,3:57,POR,Greg Brown III,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,132,111,0.999,0.999,3:57
+4,3:33,DAL,Frank Ntilikina,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,132,111,0.999,0.999,3:33
+4,3:16,DAL,A.J. Lawson,Loose Ball Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,134,111,0.999,0.999,3:16
+4,2:40,POR,Jabari Walker,Personal Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,136,111,0.999,0.999,2:48
+4,2:23,POR,Greg Brown III,Shooting Foul,Foul,Ben Taylor,Mitchell Ervin,Jonathan Sterling,POR,138,112,0.999,0.999,2:29

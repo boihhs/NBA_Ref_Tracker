@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:02,GS,Kevon Looney,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,2,5,0.548,0.512,10:08
+1,9:52,PHX,Mikal Bridges,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,4,5,0.498,0.511,9:52
+1,8:37,GS,Kevon Looney,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,7,10,0.545,0.507,8:49
+1,6:44,GS,James Wiseman,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,14,12,0.668,0.633,6:51
+1,6:10,GS,Draymond Green,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,15,12,0.691,0.656,6:14
+1,4:22,GS,Andrew Wiggins,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,22,16,0.76,0.726,4:39
+1,3:09,PHX,Devin Booker,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,25,21,0.616,0.655,3:21
+1,2:51,GS,Jordan Poole,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,25,22,0.692,0.654,3:06
+1,1:24,PHX,Cameron Payne,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,31,25,0.667,0.704,1:35
+2,10:39,GS,Andrew Wiggins,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,39,34,0.707,0.709,10:47
+2,8:55,GS,Moses Moody,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,42,39,0.694,0.655,9:04
+2,8:44,PHX,Landry Shamet,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,44,39,0.682,0.682,8:55
+2,7:20,GS,Stephen Curry,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,44,39,0.708,0.709,7:32
+2,6:42,PHX,Deandre Ayton,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,48,41,0.695,0.734,6:56
+2,6:08,GS,Draymond Green,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,50,43,0.795,0.762,6:13
+2,4:05,PHX,Devin Booker,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,54,50,0.609,0.654,4:13
+2,3:25,GS,Klay Thompson,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,54,53,0.642,0.592,3:32
+3,11:25,GS,Klay Thompson,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,72,66,0.748,0.755,11:25
+3,10:35,PHX,Deandre Ayton,Offensive Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,74,68,0.722,0.754,10:41
+3,10:18,GS,Draymond Green,Technical Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,74,70,0.717,0.693,10:19
+3,10:18,GS,GS,Technical Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,75,70,0.748,0.725,10:18
+3,10:01,GS,Andrew Wiggins,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,78,70,0.825,0.782,10:01
+3,9:42,PHX,Deandre Ayton,Offensive Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,79,70,0.807,0.833,9:50
+3,8:28,GS,Klay Thompson,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,79,76,0.66,0.661,8:44
+3,8:10,GS,Kevon Looney,Offensive Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,81,76,0.728,0.694,8:23
+3,7:53,PHX,Chris Paul,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,81,76,0.696,0.694,8:01
+3,7:53,PHX,Chris Paul,Technical Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,81,76,0.67,0.696,7:53
+3,7:24,PHX,Deandre Ayton,Technical Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,81,76,0.671,0.698,7:24
+3,7:13,PHX,Chris Paul,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,81,77,0.662,0.663,7:24
+3,7:07,PHX,Deandre Ayton,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,81,77,0.662,0.662,7:13
+3,6:31,GS,Draymond Green,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,83,77,0.789,0.767,6:35
+3,6:31,GS,Klay Thompson,Technical Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,83,77,0.789,0.789,6:31
+3,6:31,PHX,Devin Booker,Technical Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,83,77,0.707,0.733,6:31
+3,6:12,GS,Kevon Looney,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,86,77,0.881,0.85,6:12
+3,6:31,GS,Klay Thompson,Double Technical Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,86,77,0.84,0.911,5:44
+3,3:09,GS,Jordan Poole,Transition Take Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,94,79,0.961,0.961,3:10
+3,2:18,GS,JaMychal Green,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,97,81,0.982,0.973,2:32
+3,2:11,PHX,Landry Shamet,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,98,81,0.96,0.972,2:18
+3,2:00,PHX,Jock Landale,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,98,81,0.961,0.96,2:11
+3,1:46,GS,Andrew Wiggins,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,100,82,0.988,0.98,1:46
+3,4.7,PHX,Devin Booker,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,105,84,0.991,0.994,21.3
+4,11:43,GS,Ty Jerome,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,105,86,0.994,0.993,11:43
+4,8:57,GS,Jonathan Kuminga,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,109,90,0.997,0.997,8:57
+4,8:51,GS,Ty Jerome,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,109,90,0.997,0.997,8:57
+4,8:07,PHX,Chris Paul,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,109,92,0.99,0.993,8:07
+4,7:13,PHX,Deandre Ayton,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,109,97,0.963,0.966,7:13
+4,6:37,PHX,Mikal Bridges,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,111,97,0.982,0.984,6:44
+4,5:04,GS,Jonathan Kuminga,Offensive Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,118,101,0.998,0.997,5:16
+4,4:52,GS,Jordan Poole,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,118,101,0.999,0.998,5:04
+4,4:45,GS,Jordan Poole,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,118,101,0.999,0.999,4:52
+4,4:18,GS,Draymond Green,Shooting Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,119,101,0.999,0.999,4:29
+4,3:28,GS,Jordan Poole,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,120,101,0.999,0.999,3:34
+4,3:17,PHX,Chris Paul,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,122,101,0.999,0.999,3:28
+4,1:31,PHX,Mikal Bridges,Personal Foul,Foul,Matt Boland,Ed Malloy,Karl Lane,PHX,129,103,0.999,0.999,1:33

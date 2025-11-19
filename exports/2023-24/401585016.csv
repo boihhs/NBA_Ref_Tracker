@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:42,NY,Isaiah Hartenstein,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,0,0,0.49,0.53,12:00
+1,10:00,NY,Isaiah Hartenstein,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,4,4,0.488,0.527,10:05
+1,9:16,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,4,6,0.499,0.501,9:27
+1,8:40,MIL,Khris Middleton,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,7,9,0.537,0.499,8:57
+1,5:20,NY,Donte DiVincenzo,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,18,21,0.441,0.44,5:24
+1,4:29,MIL,Malik Beasley,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,18,24,0.385,0.385,4:30
+1,4:24,NY,Josh Hart,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,18,24,0.32,0.359,4:26
+1,3:33,NY,Taj Gibson,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,22,28,0.317,0.329,3:44
+1,1:57,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,24,34,0.295,0.25,1:57
+2,10:36,NY,Josh Hart,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,29,38,0.229,0.263,10:49
+2,10:21,MIL,Bobby Portis,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,31,39,0.333,0.284,10:21
+2,8:43,MIL,Bobby Portis,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,32,41,0.32,0.281,9:10
+2,8:12,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,34,43,0.317,0.278,8:30
+2,7:58,NY,Quentin Grimes,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,36,43,0.303,0.303,8:12
+2,4:58,NY,Quentin Grimes,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,40,53,0.122,0.148,5:04
+2,4:29,NY,Julius Randle,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,40,55,0.09,0.111,4:36
+2,3:25,MIL,Malik Beasley,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,42,55,0.194,0.162,3:27
+2,45.1,MIL,Damian Lillard,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,48,62,0.158,0.128,51.1
+2,24.1,MIL,Brook Lopez,Loose Ball Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,50,62,0.203,0.165,24.1
+3,11:16,MIL,Khris Middleton,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,56,62,0.327,0.325,11:20
+3,10:56,NY,RJ Barrett,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,56,64,0.212,0.261,10:56
+3,10:32,MIL,Brook Lopez,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,56,65,0.276,0.233,10:56
+3,9:41,NY,Julius Randle,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,58,70,0.114,0.148,9:41
+3,8:52,NY,Donte DiVincenzo,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,61,73,0.111,0.143,8:52
+3,8:37,NY,Donte DiVincenzo,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,64,74,0.134,0.167,8:47
+3,8:04,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,64,76,0.136,0.143,8:18
+3,7:35,MIL,Malik Beasley,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,65,79,0.1,0.101,7:47
+3,6:26,NY,Jalen Brunson,Offensive Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,67,82,0.061,0.076,6:33
+3,5:56,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,67,84,0.067,0.049,6:11
+3,5:26,MIL,Bobby Portis,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,69,84,0.093,0.071,5:35
+4,10:32,MIL,Khris Middleton,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,87,102,0.03,0.029,10:49
+4,10:10,NY,Taj Gibson,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,90,102,0.029,0.05,10:23
+4,7:19,MIL,Bobby Portis,Offensive Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,92,110,0.004,0.002,7:27
+4,7:04,NY,Isaiah Hartenstein,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,92,110,0.001,0.002,7:12
+4,6:41,NY,Josh Hart,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,92,111,0.001,0.001,6:41
+4,3:57,MIL,Damian Lillard,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,100,119,0.001,0.001,4:11
+4,1:56,NY,Isaiah Hartenstein,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,107,123,0.001,0.001,2:15
+4,1:51,MIL,Khris Middleton,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,107,125,0.001,0.001,1:56
+4,1:03,MIL,Brook Lopez,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,109,127,0.001,0.001,1:10
+4,20.0,NY,Ryan Arcidiacono,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Intae Hwang,NY,111,129,0.001,0.001,20.0

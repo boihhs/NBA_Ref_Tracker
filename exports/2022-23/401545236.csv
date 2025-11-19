@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,GS,Gary Payton II,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,4,2,0.711,0.679,10:34
+1,9:31,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,7,2,0.769,0.743,9:42
+1,8:26,GS,Gary Payton II,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,11,7,0.75,0.72,8:37
+1,6:59,GS,Draymond Green,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,18,7,0.868,0.848,6:59
+1,6:28,GS,Jordan Poole,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,18,9,0.827,0.816,6:28
+1,5:16,LAL,Dennis Schroder,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,24,9,0.889,0.889,5:24
+1,5:16,LAL,Dennis Schroder,Technical Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,24,9,0.879,0.889,5:16
+1,2:49,LAL,Austin Reaves,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,27,14,0.853,0.879,2:49
+1,2:37,GS,Donte DiVincenzo,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,27,15,0.885,0.864,2:49
+1,1:42,GS,Jordan Poole,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,31,18,0.899,0.88,1:45
+1,42.1,LAL,LeBron James,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,31,23,0.762,0.802,42.1
+1,31.1,LAL,Dennis Schroder,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,31,24,0.723,0.758,31.1
+2,11:18,GS,Donte DiVincenzo,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,31,26,0.769,0.738,11:21
+2,10:14,LAL,Lonnie Walker IV,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,34,29,0.712,0.712,10:23
+2,8:14,GS,Klay Thompson,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,37,33,0.747,0.711,8:27
+2,7:58,LAL,Lonnie Walker IV,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,39,33,0.734,0.735,7:58
+2,7:46,LAL,Lonnie Walker IV,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,39,33,0.697,0.734,7:58
+2,7:30,GS,Donte DiVincenzo,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,39,33,0.758,0.759,7:41
+2,6:48,GS,Stephen Curry,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,41,33,0.819,0.782,6:48
+2,6:39,LAL,Dennis Schroder,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,42,33,0.771,0.803,6:48
+2,5:36,GS,Stephen Curry,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,45,37,0.835,0.805,5:50
+2,4:46,LAL,Anthony Davis,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,47,37,0.796,0.827,5:02
+2,4:31,GS,Jordan Poole,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,47,39,0.837,0.806,4:46
+2,3:31,GS,Jordan Poole,Offensive Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,51,41,0.848,0.83,3:39
+3,10:03,LAL,Austin Reaves,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,61,48,0.874,0.903,10:06
+3,9:37,LAL,Dennis Schroder,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,64,50,0.906,0.929,9:37
+3,9:28,GS,Donte DiVincenzo,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,64,51,0.918,0.917,9:37
+3,9:23,GS,Andrew Wiggins,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,64,51,0.918,0.918,9:28
+3,7:04,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,72,56,0.958,0.958,7:23
+3,6:37,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,72,58,0.955,0.939,6:44
+3,6:20,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,74,58,0.966,0.961,6:20
+3,6:20,LAL,Dennis Schroder,Double Technical Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,74,58,0.954,0.966,6:20
+3,3:49,GS,Kevon Looney,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,81,63,0.987,0.981,3:49
+3,2:22,LAL,Lonnie Walker IV,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,85,67,0.98,0.979,2:31
+4,11:26,LAL,LeBron James,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,91,77,0.96,0.962,11:28
+4,11:19,LAL,Lonnie Walker IV,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,91,79,0.918,0.951,11:19
+4,10:40,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,91,80,0.943,0.939,10:44
+4,10:39,GS,Moses Moody,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,91,80,0.962,0.943,10:40
+4,10:15,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,95,80,0.987,0.976,10:15
+4,9:25,GS,Klay Thompson,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,98,80,0.997,0.994,9:28
+4,8:52,GS,Andrew Wiggins,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,99,80,0.998,0.997,9:06
+4,7:17,GS,Kevon Looney,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,104,82,0.999,0.999,7:32
+4,6:22,LAL,D'Angelo Russell,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,108,85,0.999,0.999,6:22
+4,5:54,GS,Kevon Looney,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,108,88,0.999,0.999,6:11
+4,5:19,GS,Stephen Curry,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,110,88,0.999,0.999,5:28
+4,5:03,LAL,Anthony Davis,Personal Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,111,88,0.999,0.999,5:16
+4,4:57,LAL,Anthony Davis,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,111,90,0.999,0.999,4:57
+4,3:50,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,114,94,0.999,0.999,3:52
+4,2:11,GS,Anthony Lamb,Shooting Foul,Foul,Courtney Kirkland,John Goble,Brian Forte,LAL,116,97,0.999,0.999,2:19

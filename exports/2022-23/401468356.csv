@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:54,OKC,Luguentz Dort,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,2,2,0.91,0.898,11:15
+1,10:38,OKC,Aleksej Pokusevski,Personal Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,4,2,0.913,0.914,10:42
+1,7:31,BOS,Grant Williams,Technical Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,8,10,0.834,0.844,7:31
+1,7:02,OKC,Jalen Williams,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,8,14,0.82,0.797,7:17
+1,4:31,OKC,Josh Giddey,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,17,23,0.801,0.774,4:36
+1,4:26,BOS,Marcus Smart,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,19,23,0.76,0.791,4:31
+1,2:48,OKC,Isaiah Joe,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,23,30,0.766,0.736,2:49
+1,35.1,BOS,Jayson Tatum,Personal Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,30,33,0.747,0.778,39.7
+2,10:56,BOS,Jayson Tatum,Personal Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,35,35,0.821,0.82,11:00
+2,10:56,BOS,Jayson Tatum,Technical Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,35,35,0.806,0.821,10:56
+2,10:33,OKC,Luguentz Dort,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,35,38,0.808,0.781,10:46
+2,10:29,BOS,Luke Kornet,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,37,38,0.769,0.799,10:33
+2,9:43,OKC,Jaylin Williams,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,40,42,0.821,0.795,9:55
+2,9:18,BOS,Marcus Smart,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,42,46,0.706,0.747,9:18
+2,9:03,BOS,Noah Vonleh,Offensive Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,42,47,0.696,0.724,9:18
+2,8:12,BOS,Noah Vonleh,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,44,50,0.614,0.659,8:13
+2,8:01,BOS,Jaylen Brown,Offensive Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,44,51,0.626,0.659,8:12
+2,7:48,OKC,Jalen Williams,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,44,51,0.696,0.654,7:50
+2,5:12,OKC,Aleksej Pokusevski,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,50,56,0.671,0.617,5:12
+2,2:39,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,56,60,0.596,0.644,2:46
+3,10:08,OKC,Aleksej Pokusevski,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,64,73,0.456,0.385,10:08
+3,4:33,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,73,88,0.082,0.118,4:33
+3,3:37,OKC,Josh Giddey,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,79,90,0.248,0.186,3:37
+3,3:18,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,80,92,0.233,0.181,3:24
+3,2:56,OKC,Aleksej Pokusevski,Personal Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,81,92,0.264,0.208,3:02
+3,2:41,BOS,Marcus Smart,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,81,92,0.145,0.167,2:47
+3,2:23,OKC,Jeremiah Robinson-Earl,Personal Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,81,94,0.18,0.138,2:41
+4,11:51,OKC,Josh Giddey,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,89,96,0.396,0.306,11:52
+4,11:47,BOS,Derrick White,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,91,98,0.217,0.309,11:47
+4,8:03,BOS,Grant Williams,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,99,106,0.116,0.177,8:10
+4,8:02,OKC,Jeremiah Robinson-Earl,Loose Ball Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,99,107,0.19,0.356,7:11
+4,6:03,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,105,107,0.468,0.396,6:05
+4,5:34,OKC,Jeremiah Robinson-Earl,Loose Ball Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,107,107,0.623,0.599,5:34
+4,5:21,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,107,107,0.713,0.609,5:34
+4,5:15,BOS,Al Horford,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,108,109,0.398,0.55,5:15
+4,4:19,OKC,Luguentz Dort,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,110,110,0.704,0.606,4:35
+4,4:01,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,111,110,0.466,0.177,8:03
+4,2:41,BOS,Derrick White,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,115,114,0.505,0.657,2:41
+4,55.0,BOS,Al Horford,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,121,117,0.769,0.891,55.0
+4,20.4,BOS,Marcus Smart,Offensive Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,123,118,0.93,0.959,26.2
+4,4.0,OKC,Jalen Williams,Personal Take Foul,Foul,John Goble,Lauren Holtkamp,Andy Nagy,BOS,125,122,0.989,0.954,5.9

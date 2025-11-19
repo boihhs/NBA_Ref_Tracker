@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:38,ATL,Jalen Johnson,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,2,6,0.238,0.239,10:48
+1,9:03,ORL,Franz Wagner,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,5,13,0.147,0.172,9:03
+1,8:07,ORL,Paolo Banchero,Flagrant Foul Type 1,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,7,13,0.195,0.189,8:19
+1,7:28,ATL,Jalen Johnson,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,7,18,0.152,0.132,7:35
+1,5:23,ORL,Jalen Suggs,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,17,18,0.262,0.292,5:37
+1,4:33,ATL,De'Andre Hunter,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,20,22,0.33,0.296,4:48
+1,4:03,ATL,Dejounte Murray,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,20,24,0.287,0.253,4:19
+1,3:03,ATL,AJ Griffin,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,21,24,0.312,0.279,3:05
+1,2:04,ATL,Clint Capela,Defensive 3-Seconds Technical,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,26,26,0.346,0.351,2:19
+1,1:38,ORL,Anthony Black,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,27,26,0.315,0.354,1:45
+1,1:31,ATL,Clint Capela,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,27,28,0.372,0.329,1:38
+1,1:11,ORL,Moritz Wagner,Loose Ball Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,28,30,0.251,0.282,1:11
+2,10:38,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,34,34,0.41,0.367,10:50
+2,10:08,ORL,Anthony Black,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,36,34,0.356,0.399,10:11
+2,9:04,ATL,Bruno Fernando,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,36,42,0.257,0.224,9:21
+2,8:52,ORL,Anthony Black,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,38,44,0.188,0.224,8:52
+2,5:50,ATL,Dejounte Murray,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,43,52,0.194,0.166,6:03
+2,5:26,ORL,Joe Ingles,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,45,52,0.17,0.184,5:26
+2,4:39,ATL,De'Andre Hunter,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,49,56,0.241,0.205,4:45
+2,4:28,ATL,Trae Young,Technical Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,52,56,0.299,0.252,4:31
+2,3:22,ATL,Onyeka Okongwu,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,56,61,0.274,0.228,3:22
+2,3:17,ATL,Onyeka Okongwu,Offensive Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,57,61,0.281,0.253,3:22
+2,2:56,ORL,Jalen Suggs,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,60,61,0.294,0.338,3:04
+2,1:48,ORL,Goga Bitadze,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,64,65,0.296,0.343,1:59
+2,1:38,ATL,De'Andre Hunter,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,67,67,0.431,0.373,1:38
+2,1:26,ORL,Jonathan Isaac,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,67,67,0.329,0.373,1:35
+2,58.0,ORL,Jalen Suggs,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,69,69,0.331,0.376,59.1
+3,11:21,ATL,Clint Capela,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,69,76,0.243,0.202,11:35
+3,10:46,ATL,De'Andre Hunter,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,69,76,0.205,0.204,10:51
+3,8:40,ORL,Jalen Suggs,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,77,80,0.289,0.288,8:50
+3,8:07,ATL,Saddiq Bey,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,77,82,0.258,0.259,8:07
+3,7:55,ATL,Jalen Johnson,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,77,82,0.308,0.258,8:07
+3,6:58,ORL,Markelle Fultz,Loose Ball Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,78,84,0.199,0.197,6:58
+3,2:51,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,89,88,0.571,0.504,2:57
+3,2:13,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,91,88,0.666,0.6,2:13
+3,1:52,ATL,Trae Young,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,93,88,0.753,0.69,1:55
+3,56.1,ATL,Saddiq Bey,Flagrant Foul Type 1,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,95,91,0.643,0.661,56.1
+3,36.1,ATL,Jalen Johnson,Loose Ball Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,96,91,0.768,0.705,36.1
+4,10:40,ATL,Onyeka Okongwu,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,103,96,0.827,0.818,10:40
+4,10:20,ORL,Franz Wagner,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,103,96,0.774,0.787,10:22
+4,10:17,ATL,Bogdan Bogdanovic,Loose Ball Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,103,96,0.832,0.824,10:17
+4,10:05,ATL,Saddiq Bey,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,105,96,0.914,0.86,10:05
+4,9:52,ORL,Cole Anthony,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,106,96,0.886,0.892,10:05
+4,8:33,ORL,Cole Anthony,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,108,98,0.85,0.903,8:50
+4,5:10,ORL,Cole Anthony,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,113,109,0.653,0.761,5:10
+4,1:56,ORL,Paolo Banchero,Personal Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,117,114,0.558,0.699,1:56
+4,1:20,ORL,Jalen Suggs,Loose Ball Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,117,115,0.467,0.605,1:20
+4,1:03,ORL,Paolo Banchero,Shooting Foul,Foul,Pat Fraher,Courtney Kirkland,Matt Myers,ORL,117,116,0.361,0.519,1:11

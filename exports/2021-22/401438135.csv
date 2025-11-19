@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:11,MIA,P.J. Tucker,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,3,5,0.693,0.661,10:23
+1,8:00,BOS,Al Horford,Loose Ball Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,5,12,0.497,0.498,8:00
+1,7:20,BOS,Al Horford,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,5,12,0.493,0.493,7:34
+1,6:29,MIA,P.J. Tucker,Personal Take Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,7,12,0.566,0.568,6:30
+1,5:57,MIA,Caleb Martin,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,7,14,0.511,0.513,6:07
+1,3:52,MIA,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,12,19,0.539,0.499,3:58
+1,3:38,BOS,Grant Williams,Loose Ball Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,14,19,0.527,0.521,3:38
+1,2:53,MIA,Gabe Vincent,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,14,19,0.589,0.549,3:06
+1,1:04,MIA,Jimmy Butler III,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,18,27,0.464,0.422,1:18
+2,10:56,MIA,Duncan Robinson,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,22,29,0.462,0.463,11:03
+2,10:05,MIA,Gabe Vincent,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,22,29,0.455,0.456,10:12
+2,10:00,MIA,Duncan Robinson,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,22,29,0.5,0.455,10:05
+2,7:35,BOS,Grant Williams,Loose Ball Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,31,35,0.499,0.497,7:37
+2,7:18,BOS,Payton Pritchard,Loose Ball Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,31,35,0.499,0.496,7:18
+2,6:49,BOS,Grant Williams,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,31,35,0.449,0.496,7:05
+2,6:22,BOS,Jayson Tatum,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,33,37,0.445,0.494,6:38
+2,5:50,MIA,Kyle Lowry,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,33,40,0.475,0.427,6:10
+2,5:22,MIA,P.J. Tucker,Offensive Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,33,40,0.42,0.388,5:38
+2,3:46,MIA,Bam Adebayo,Offensive Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,37,40,0.539,0.508,4:07
+2,3:05,MIA,Caleb Martin,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,39,40,0.649,0.604,3:17
+2,2:55,BOS,Derrick White,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,41,40,0.585,0.632,3:05
+2,1:52,MIA,Caleb Martin,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,45,42,0.741,0.693,1:52
+2,27.9,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,46,46,0.54,0.59,28.0
+3,11:49,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,46,48,0.517,0.534,12:00
+3,10:37,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,49,48,0.617,0.619,10:54
+3,10:03,BOS,Grant Williams,Loose Ball Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,49,51,0.505,0.505,10:03
+3,7:37,MIA,P.J. Tucker,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,55,57,0.558,0.489,7:37
+3,7:07,BOS,Marcus Smart,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,56,61,0.339,0.407,7:07
+3,6:54,MIA,Kyle Lowry,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,56,62,0.366,0.371,7:07
+3,6:30,BOS,Marcus Smart,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,56,62,0.269,0.323,6:42
+3,4:37,MIA,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,60,70,0.247,0.2,4:43
+3,3:29,BOS,Jaylen Brown,Offensive Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,64,73,0.183,0.221,3:47
+3,3:17,BOS,Marcus Smart,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,64,73,0.139,0.183,3:29
+3,2:08,BOS,Jayson Tatum,Loose Ball Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,66,77,0.082,0.113,2:08
+3,13.2,MIA,Gabe Vincent,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,73,82,0.229,0.178,31.1
+4,11:26,BOS,Grant Williams,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,78,84,0.193,0.277,11:26
+4,10:34,MIA,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,78,87,0.211,0.147,10:37
+4,9:36,MIA,Kyle Lowry,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,85,89,0.411,0.298,9:36
+4,8:47,BOS,Jayson Tatum,Offensive Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,85,89,0.295,0.351,8:57
+4,8:33,MIA,Max Strus,Offensive Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,85,89,0.346,0.295,8:47
+4,8:14,BOS,Derrick White,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,85,89,0.273,0.289,8:18
+4,7:55,MIA,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,85,89,0.441,0.333,7:58
+4,6:40,MIA,P.J. Tucker,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,89,92,0.491,0.382,6:52
+4,3:36,BOS,Jaylen Brown,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,97,97,0.358,0.504,3:58
+4,3:27,MIA,Kyle Lowry,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,97,99,0.537,0.415,3:36
+4,2:18,MIA,Kyle Lowry,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,99,99,0.709,0.582,2:36
+4,2:06,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,99,101,0.23,0.398,2:06
+4,1:45,BOS,Derrick White,Personal Take Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,99,102,0.114,0.202,1:48
+4,1:25,BOS,Derrick White,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,99,104,0.04,0.082,1:27
+4,40.7,MIA,Max Strus,Personal Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,101,107,0.135,0.061,43.9
+4,10.9,BOS,Jayson Tatum,Personal Take Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,103,107,0.011,0.042,12.1
+4,8.3,BOS,Marcus Smart,Loose Ball Foul,Foul,Courtney Kirkland,Zach Zarba,Eric Lewis,BOS,103,109,0.001,0.003,8.3

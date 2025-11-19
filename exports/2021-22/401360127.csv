@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:30,SAC,Alex Len,Offensive Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,3,0,0.604,0.577,11:46
+1,11:02,SAC,Terence Davis,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,3,0,0.639,0.605,11:12
+1,10:15,SAC,De'Aaron Fox,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,7,0,0.73,0.697,10:23
+1,9:29,SAC,Alex Len,Personal Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,11,3,0.72,0.72,9:40
+1,8:43,MEM,Desmond Bane,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,11,5,0.616,0.652,8:47
+1,7:05,MEM,Steven Adams,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,15,11,0.566,0.604,7:13
+1,6:20,MEM,Steven Adams,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,17,14,0.579,0.605,6:20
+1,5:23,MEM,Ziaire Williams,Personal Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,22,14,0.669,0.704,5:32
+1,4:38,MEM,Steven Adams,Offensive Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,24,16,0.706,0.729,4:46
+1,4:07,MEM,Kyle Anderson,Loose Ball Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,26,16,0.718,0.753,4:07
+1,3:17,MEM,Brandon Clarke,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,29,17,0.765,0.797,3:32
+1,1:19,MEM,De'Anthony Melton,Loose Ball Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,36,24,0.803,0.803,1:19
+2,10:39,SAC,Alex Len,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,40,28,0.823,0.812,10:39
+2,9:57,MEM,Dillon Brooks,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,42,30,0.78,0.81,10:14
+2,9:18,SAC,Damian Jones,Personal Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,44,35,0.772,0.77,9:36
+2,7:47,SAC,Davion Mitchell,Personal Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,51,38,0.853,0.857,8:04
+2,6:24,SAC,Damian Jones,Personal Take Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,53,40,0.899,0.877,6:28
+2,6:00,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,55,39,0.87,0.892,6:11
+2,4:48,SAC,Damian Jones,Flagrant Foul Type 1,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,59,44,0.93,0.911,4:48
+2,3:45,SAC,Buddy Hield,Personal Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,62,44,0.952,0.938,3:57
+2,2:51,MEM,Brandon Clarke,Loose Ball Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,67,44,0.969,0.971,2:51
+2,41.9,MEM,Dillon Brooks,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,71,49,0.972,0.975,41.9
+3,10:03,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,80,54,0.987,0.991,10:08
+3,8:57,MEM,Desmond Bane,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,84,56,0.993,0.995,9:15
+3,8:38,SAC,Marvin Bagley III,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,84,57,0.997,0.996,8:39
+3,8:38,MEM,MEM,Delay Technical,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,85,57,0.996,0.997,8:38
+3,8:14,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,86,60,0.99,0.993,8:16
+3,8:02,SAC,Davion Mitchell,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,86,61,0.995,0.993,8:12
+3,7:23,MEM,Tyus Jones,Personal Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,90,61,0.996,0.997,7:35
+3,6:26,SAC,Damian Jones,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,95,61,0.999,0.999,6:26
+3,5:37,SAC,Louis King,Personal Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,98,63,0.999,0.999,5:55
+3,4:56,SAC,Davion Mitchell,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,98,63,0.999,0.999,4:57
+3,2:34,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,99,70,0.998,0.999,2:34
+3,2:21,SAC,Buddy Hield,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,99,70,0.999,0.999,2:32
+3,41.2,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,106,70,0.999,0.999,43.0
+3,17.0,MEM,Desmond Bane,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,106,72,0.999,0.999,28.6
+4,11:02,MEM,Desmond Bane,Personal Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,108,74,0.999,0.999,11:16
+4,10:40,SAC,Jahmi'us Ramsey,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,108,76,0.999,0.999,10:53
+4,10:10,MEM,Ziaire Williams,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,109,76,0.999,0.999,10:16
+4,9:38,MEM,Ziaire Williams,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,111,77,0.999,0.999,9:50
+4,8:47,MEM,John Konchar,Personal Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,113,79,0.999,0.999,8:54
+4,5:57,MEM,Santi Aldama,Personal Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,115,85,0.999,0.999,6:04
+4,1:14,MEM,Killian Tillie,Shooting Foul,Foul,Brent Barnaky,Tre Maddox,Lauren Holtkamp,MEM,125,92,0.999,0.999,1:15

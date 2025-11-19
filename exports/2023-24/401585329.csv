@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:52,LAL,Anthony Davis,Loose Ball Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,2,2,0.658,0.657,9:53
+1,7:44,LAL,Rui Hachimura,Personal Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,4,6,0.605,0.605,7:46
+1,5:50,NY,Jalen Brunson,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,10,10,0.584,0.623,5:58
+1,2:37,NY,Donte DiVincenzo,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,17,17,0.572,0.557,2:37
+1,1:13,NY,Precious Achiuwa,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,20,20,0.566,0.61,1:31
+2,9:33,NY,Josh Hart,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,32,31,0.58,0.622,9:45
+2,8:37,LAL,D'Angelo Russell,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,34,36,0.584,0.531,8:37
+2,8:24,NY,Jericho Sims,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,35,38,0.479,0.533,8:24
+2,4:36,LAL,Austin Reaves,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,43,49,0.464,0.416,4:37
+2,3:44,LAL,Taurean Prince,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,45,49,0.525,0.477,3:50
+2,3:43,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,46,49,0.478,0.475,3:43
+2,3:32,NY,Josh Hart,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,46,49,0.425,0.478,3:43
+2,3:24,LAL,Taurean Prince,Personal Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,46,50,0.524,0.476,3:32
+2,46.0,LAL,Anthony Davis,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,55,57,0.583,0.531,55.0
+2,14.2,LAL,Austin Reaves,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,57,59,0.58,0.529,30.0
+3,10:51,LAL,D'Angelo Russell,Personal Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,59,59,0.592,0.596,11:05
+3,10:18,NY,Isaiah Hartenstein,Personal Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,59,59,0.555,0.553,10:34
+3,9:29,LAL,Anthony Davis,Technical Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,62,61,0.652,0.625,9:33
+3,8:04,NY,Donte DiVincenzo,Personal Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,69,64,0.725,0.725,8:18
+3,8:01,NY,Isaiah Hartenstein,Personal Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,69,64,0.726,0.725,8:04
+3,7:49,LAL,Rui Hachimura,Personal Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,69,64,0.755,0.757,7:53
+3,5:20,NY,Donte DiVincenzo,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,76,70,0.711,0.761,5:37
+3,3:35,NY,Donte DiVincenzo,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,76,73,0.594,0.655,3:36
+3,2:40,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,78,75,0.593,0.655,2:40
+3,2:21,LAL,D'Angelo Russell,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,80,76,0.763,0.698,2:21
+3,1:48,LAL,D'Angelo Russell,Personal Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,81,78,0.757,0.699,2:07
+3,50.1,NY,Precious Achiuwa,Personal Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,86,78,0.791,0.841,1:12
+4,8:49,LAL,Taurean Prince,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,89,89,0.653,0.555,8:58
+4,7:06,NY,Isaiah Hartenstein,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,96,96,0.435,0.558,7:06
+4,2:30,LAL,Austin Reaves,Loose Ball Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,96,103,0.075,0.074,2:37
+4,1:14,LAL,LeBron James,Personal Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,96,105,0.043,0.015,1:26
+4,28.0,NY,Josh Hart,Personal Take Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,98,105,0.002,0.015,1:07
+4,25.1,NY,Donte DiVincenzo,Personal Take Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,98,105,0.002,0.005,1:05
+4,16.0,NY,Miles McBride,Personal Take Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,100,107,0.001,0.004,20.0
+4,11.2,LAL,Max Christie,Shooting Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,102,109,0.015,0.001,11.2
+4,10.1,NY,Miles McBride,Personal Take Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,103,109,0.001,0.006,11.2
+4,2.1,NY,Donte DiVincenzo,Personal Take Foul,Foul,James Capers,Scott Wall,J.B. DeRosa,NY,105,111,0.001,0.002,5.0

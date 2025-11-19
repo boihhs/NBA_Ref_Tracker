@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:32,ORL,Cole Anthony,Personal Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,3,8,0.681,0.684,9:43
+1,9:21,NY,RJ Barrett,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,3,8,0.658,0.658,9:25
+1,8:48,NY,Evan Fournier,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,6,11,0.652,0.677,8:48
+1,7:17,NY,Mitchell Robinson,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,12,12,0.753,0.755,7:40
+1,7:02,ORL,Wendell Carter Jr.,Personal Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,12,13,0.751,0.753,7:14
+1,6:54,ORL,Jalen Suggs,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,12,13,0.779,0.751,7:02
+1,6:09,NY,Mitchell Robinson,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,13,15,0.67,0.706,6:11
+1,4:02,ORL,Franz Wagner,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,20,18,0.807,0.776,4:02
+2,11:43,NY,Obi Toppin,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,29,29,0.694,0.735,11:43
+2,8:20,ORL,Cole Anthony,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,37,34,0.801,0.762,8:20
+2,7:08,ORL,Jalen Suggs,Offensive Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,41,34,0.858,0.84,7:18
+2,6:53,ORL,Wendell Carter Jr.,Personal Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,41,34,0.856,0.858,7:08
+2,5:47,ORL,Ignas Brazdeikis,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,43,34,0.878,0.886,5:50
+2,4:12,ORL,Jalen Suggs,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,47,36,0.927,0.91,4:16
+2,3:54,ORL,R.J. Hampton,Personal Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,47,36,0.927,0.91,3:55
+2,1:25,ORL,R.J. Hampton,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,53,46,0.841,0.831,1:25
+2,34.3,ORL,Franz Wagner,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,53,52,0.746,0.703,47.3
+2,4.5,ORL,Franz Wagner,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,55,52,0.796,0.76,23.3
+3,11:50,NY,Mitchell Robinson,Offensive Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,57,52,0.786,0.793,12:00
+3,10:40,NY,Julius Randle,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,59,54,0.74,0.783,10:43
+3,10:27,ORL,Cole Anthony,Personal Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,59,55,0.78,0.781,10:40
+3,9:07,NY,RJ Barrett,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,64,57,0.791,0.828,9:18
+3,8:28,NY,Julius Randle,Loose Ball Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,66,59,0.828,0.827,8:43
+3,5:30,ORL,Wendell Carter Jr.,Personal Take Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,66,67,0.596,0.597,5:30
+3,3:50,ORL,Mo Bamba,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,70,69,0.647,0.668,3:54
+3,3:15,ORL,Mo Bamba,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,72,69,0.763,0.739,3:15
+3,2:37,NY,Julius Randle,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,75,69,0.752,0.802,2:50
+3,32.2,ORL,Moritz Wagner,Loose Ball Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,78,71,0.901,0.836,32.2
+4,11:46,NY,Immanuel Quickley,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,80,76,0.69,0.779,11:46
+4,10:28,NY,Obi Toppin,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,80,79,0.49,0.587,10:33
+4,8:37,ORL,Moritz Wagner,Personal Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,82,86,0.358,0.351,8:49
+4,8:08,NY,Julius Randle,Flagrant Foul Type 1,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,82,86,0.316,0.287,8:09
+4,7:51,ORL,Moritz Wagner,Loose Ball Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,82,87,0.294,0.278,7:51
+4,6:17,NY,RJ Barrett,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,86,89,0.213,0.307,6:27
+4,3:41,ORL,Terrence Ross,Personal Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,92,101,0.053,0.049,3:57
+4,2:58,ORL,Mo Bamba,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,94,101,0.068,0.053,2:58
+4,1:00,NY,Mitchell Robinson,Personal Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,94,101,0.007,0.022,1:05
+4,57.6,ORL,Cole Anthony,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,96,102,0.075,0.04,57.6
+4,45.2,NY,Mitchell Robinson,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,96,102,0.011,0.036,50.4
+4,35.3,NY,RJ Barrett,Personal Take Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,96,104,0.001,0.005,36.2
+4,23.1,NY,Mitchell Robinson,Personal Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,96,106,0.001,0.001,23.1
+4,17.7,ORL,Mo Bamba,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,98,106,0.003,0.001,17.7
+4,15.8,NY,Obi Toppin,Personal Take Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,99,106,0.001,0.003,17.7
+4,12.0,ORL,Cole Anthony,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,101,108,0.015,0.001,12.0
+4,9.1,NY,Evan Fournier,Personal Take Foul,Foul,Bill Kennedy,Tre Maddox,John Butler,NY,102,108,0.001,0.006,12.0

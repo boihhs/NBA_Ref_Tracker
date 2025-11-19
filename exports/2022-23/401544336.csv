@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,PHX,Devin Booker,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,2,0,0.424,0.423,11:19
+1,6:23,PHX,Josh Okogie,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,15,13,0.435,0.435,6:37
+1,5:19,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,15,18,0.331,0.336,5:32
+1,5:12,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,16,18,0.362,0.363,5:19
+1,4:04,PHX,Deandre Ayton,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,21,20,0.417,0.415,4:22
+1,3:35,PHX,Landry Shamet,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,21,20,0.378,0.417,3:41
+1,3:21,PHX,Jock Landale,Loose Ball Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,21,23,0.303,0.364,3:21
+1,41.0,PHX,Landry Shamet,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,27,26,0.383,0.425,59.2
+2,11:14,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,29,33,0.358,0.317,11:17
+2,11:02,DEN,Bruce Brown,Loose Ball Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,31,33,0.371,0.372,11:02
+2,10:24,DEN,Jeff Green,Loose Ball Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,31,35,0.32,0.319,10:24
+2,9:31,DEN,Christian Braun,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,33,37,0.359,0.32,9:37
+2,9:25,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,33,37,0.359,0.359,9:31
+2,8:51,DEN,Jamal Murray,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,35,37,0.418,0.372,9:07
+2,8:41,PHX,Jock Landale,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,37,37,0.403,0.405,8:51
+2,7:25,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,41,39,0.544,0.5,7:29
+2,6:47,PHX,Kevin Durant,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,45,39,0.593,0.593,6:55
+2,5:19,PHX,Devin Booker,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,47,39,0.643,0.662,5:23
+2,3:46,DEN,Nikola Jokic,Offensive Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,54,42,0.81,0.785,3:53
+2,2:50,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,58,46,0.834,0.792,2:50
+2,1:11,PHX,Deandre Ayton,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,66,50,0.86,0.886,1:28
+2,53.1,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,66,52,0.899,0.872,1:03
+3,11:42,PHX,Deandre Ayton,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,67,52,0.848,0.882,12:00
+3,10:40,PHX,Kevin Durant,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,69,56,0.847,0.847,10:45
+3,10:09,PHX,Devin Booker,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,69,59,0.73,0.774,10:11
+3,9:54,DEN,Jamal Murray,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,69,60,0.777,0.776,10:07
+3,9:34,PHX,Cameron Payne,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,69,60,0.701,0.749,9:39
+3,4:04,PHX,Deandre Ayton,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,81,79,0.492,0.527,4:04
+3,3:38,PHX,Devin Booker,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,81,80,0.416,0.482,3:41
+3,2:24,DEN,Christian Braun,Loose Ball Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,85,84,0.535,0.537,2:25
+3,1:15,PHX,Landry Shamet,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,85,86,0.33,0.395,1:16
+3,15.1,DEN,Bruce Brown,Personal Take Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,90,88,0.664,0.592,15.1
+4,9:19,PHX,Kevin Durant,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,99,88,0.9,0.925,9:19
+4,8:49,DEN,Jamal Murray,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,99,90,0.911,0.904,8:55
+4,8:14,PHX,Devin Booker,Loose Ball Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,101,92,0.876,0.912,8:26
+4,8:01,PHX,Cameron Payne,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,101,92,0.874,0.92,9:24
+4,7:38,PHX,Jock Landale,Loose Ball Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,101,92,0.825,0.885,7:38
+4,7:19,DEN,Nikola Jokic,Offensive Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,101,92,0.913,0.825,7:38
+4,7:01,PHX,Cameron Payne,Personal Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,101,92,0.836,0.889,7:04
+4,6:44,DEN,Bruce Brown,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,101,94,0.913,0.858,7:01
+4,3:04,PHX,Jock Landale,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,109,103,0.816,0.899,3:04
+4,2:05,PHX,Kevin Durant,Shooting Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,112,106,0.849,0.924,2:05
+4,16.0,DEN,Christian Braun,Personal Take Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,118,112,0.997,0.985,17.1
+4,13.1,DEN,Christian Braun,Personal Take Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,118,112,0.998,0.997,16.0
+4,6.1,DEN,Michael Porter Jr.,Personal Take Foul,Foul,James Williams,Zach Zarba,Sean Corbin,PHX,119,114,0.997,0.987,8.1

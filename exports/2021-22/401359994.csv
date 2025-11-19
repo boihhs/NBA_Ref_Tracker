@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:12,LAL,DeAndre Jordan,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,0,0,0.316,0.351,11:16
+1,10:33,MIA,Bam Adebayo,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,0,2,0.363,0.328,10:38
+1,10:08,MIA,P.J. Tucker,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,1,2,0.35,0.352,10:16
+1,7:00,LAL,Russell Westbrook,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,3,4,0.319,0.337,7:02
+1,6:39,MIA,Bam Adebayo,Offensive Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,3,6,0.313,0.291,6:43
+1,6:17,LAL,DeAndre Jordan,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,5,6,0.304,0.338,6:30
+1,5:34,MIA,Duncan Robinson,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,10,9,0.403,0.389,5:34
+1,5:09,MIA,Dewayne Dedmon,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,12,11,0.418,0.39,5:09
+1,4:11,LAL,Malik Monk,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,13,15,0.331,0.343,4:11
+1,3:12,LAL,Wayne Ellington,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,17,16,0.356,0.397,3:29
+1,2:58,MIA,Dewayne Dedmon,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,17,18,0.413,0.369,3:12
+2,10:23,MIA,Bam Adebayo,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,31,27,0.533,0.533,10:23
+2,9:26,MIA,Dewayne Dedmon,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,31,30,0.442,0.444,9:40
+2,9:26,MIA,Caleb Martin,Double Technical Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,31,30,0.436,0.442,9:26
+2,9:10,LAL,Dwight Howard,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,33,30,0.49,0.474,9:16
+2,8:55,MIA,Udonis Haslem,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,33,32,0.443,0.444,9:10
+2,8:14,LAL,Dwight Howard,Offensive Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,33,34,0.36,0.387,8:30
+2,7:18,MIA,Caleb Martin,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,35,34,0.496,0.449,7:30
+2,4:21,MIA,Udonis Haslem,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,44,38,0.649,0.625,4:21
+2,3:48,MIA,Kyle Lowry,Offensive Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,44,41,0.528,0.494,3:48
+2,47.2,LAL,Anthony Davis,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,52,53,0.392,0.408,47.2
+3,11:21,LAL,Kent Bazemore,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,58,57,0.449,0.449,11:34
+3,9:08,LAL,Russell Westbrook,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,62,60,0.492,0.493,9:08
+3,7:20,MIA,Kyle Lowry,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,64,64,0.462,0.465,7:20
+3,6:34,LAL,Kent Bazemore,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,64,64,0.366,0.422,6:37
+3,6:00,MIA,Kyle Lowry,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,64,65,0.456,0.427,6:01
+3,4:49,LAL,Russell Westbrook,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,68,67,0.492,0.47,4:49
+3,3:40,LAL,Carmelo Anthony,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,71,71,0.367,0.43,3:48
+3,3:21,LAL,Carmelo Anthony,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,71,73,0.289,0.348,3:26
+4,11:47,LAL,Malik Monk,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,82,86,0.242,0.252,11:47
+4,10:38,MIA,Tyler Herro,Offensive Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,87,86,0.542,0.484,10:51
+4,10:21,LAL,Dwight Howard,Offensive Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,87,86,0.486,0.542,10:38
+4,10:11,LAL,Dwight Howard,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,87,86,0.391,0.486,10:21
+4,9:39,MIA,Gabe Vincent,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,89,88,0.594,0.541,9:39
+4,8:58,LAL,Dwight Howard,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,93,90,0.583,0.601,9:08
+4,8:50,LAL,Dwight Howard,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,93,90,0.498,0.583,8:58
+4,7:56,LAL,Kent Bazemore,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,93,95,0.233,0.308,8:02
+4,7:33,LAL,Malik Monk,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,93,97,0.149,0.209,7:47
+4,5:39,MIA,P.J. Tucker,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,95,102,0.117,0.108,5:39
+4,4:45,LAL,Avery Bradley,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,97,104,0.054,0.071,4:45
+4,3:24,MIA,P.J. Tucker,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,102,108,0.129,0.119,3:39
+4,1:38,MIA,P.J. Tucker,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,107,108,0.434,0.434,1:38
+4,1:23,MIA,Duncan Robinson,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,107,108,0.594,0.434,1:38
+4,1:03,MIA,Bam Adebayo,Offensive Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,108,108,0.538,0.452,1:20
+5,3:41,LAL,Russell Westbrook,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,115,114,0.534,0.534,4:04
+5,3:15,MIA,Kyle Lowry,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,115,114,0.624,0.62,3:25
+5,50.9,LAL,Avery Bradley,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,119,114,0.825,0.906,54.6
+5,23.0,LAL,Anthony Davis,Shooting Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,119,117,0.641,0.784,23.0
+5,18.7,MIA,Bam Adebayo,Personal Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,119,117,0.916,0.789,21.2
+5,6.5,MIA,Duncan Robinson,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,119,117,0.896,0.808,8.1
+5,2.6,LAL,Russell Westbrook,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,J.T. Orr,LAL,120,117,0.968,0.957,2.6

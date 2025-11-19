@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:29,LAC,Paul George,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,0,0,0.441,0.461,11:37
+1,10:38,PHX,Cameron Johnson,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,0,5,0.341,0.343,10:49
+1,6:22,PHX,Mikal Bridges,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,6,14,0.306,0.272,6:28
+1,3:25,PHX,Deandre Ayton,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,12,26,0.177,0.151,3:35
+1,1:33,PHX,Mikal Bridges,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,15,28,0.191,0.166,1:37
+1,5.0,LAC,Robert Covington,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,15,32,0.072,0.087,14.1
+2,10:34,LAC,Terance Mann,Loose Ball Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,18,36,0.073,0.074,10:35
+2,9:38,PHX,Cameron Johnson,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,22,38,0.118,0.095,9:38
+2,9:31,LAC,Nicolas Batum,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,22,38,0.094,0.094,9:36
+2,9:02,PHX,Damion Lee,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,22,40,0.08,0.081,9:19
+2,9:00,LAC,Luke Kennard,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,22,40,0.07,0.08,9:02
+2,6:34,PHX,Cameron Johnson,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,26,43,0.095,0.074,6:34
+2,3:07,LAC,Kawhi Leonard,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,33,48,0.079,0.101,3:07
+2,2:14,PHX,Deandre Ayton,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,33,52,0.067,0.053,2:39
+2,1:09,PHX,Deandre Ayton,Loose Ball Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,37,56,0.064,0.049,1:10
+2,15.2,LAC,John Wall,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,39,59,0.024,0.032,26.8
+2,5.6,PHX,Torrey Craig,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,41,61,0.05,0.036,0.0
+3,11:39,LAC,Kawhi Leonard,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,41,61,0.03,0.029,11:39
+3,11:04,PHX,Cameron Johnson,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,41,61,0.04,0.034,11:04
+3,7:13,PHX,Deandre Ayton,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,55,72,0.063,0.046,7:23
+3,6:36,LAC,Robert Covington,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,57,72,0.04,0.055,6:51
+3,4:58,LAC,Paul George,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,62,76,0.05,0.069,4:58
+3,3:22,LAC,Marcus Morris Sr.,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,67,80,0.045,0.062,3:31
+3,9.4,LAC,Norman Powell,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,72,86,0.033,0.045,29.0
+4,10:42,LAC,Luke Kennard,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,74,88,0.026,0.036,10:47
+4,9:17,PHX,Landry Shamet,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,76,88,0.054,0.051,9:29
+4,9:08,LAC,Luke Kennard,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,76,88,0.038,0.054,9:17
+4,8:12,PHX,Chris Paul,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,76,90,0.026,0.023,8:19
+4,7:56,LAC,Norman Powell,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,76,90,0.015,0.016,8:04
+4,7:43,LAC,Ivica Zubac,Offensive Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,76,90,0.014,0.021,7:47
+4,7:21,PHX,Mikal Bridges,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,76,93,0.007,0.007,7:34
+4,2:42,PHX,Deandre Ayton,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,88,103,0.003,0.001,2:53
+4,1:14,PHX,Chris Paul,Personal Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,93,108,0.001,0.001,1:16
+4,41.8,LAC,Moses Brown,Shooting Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,93,108,0.001,0.001,46.1
+4,25.2,LAC,Terance Mann,Personal Take Foul,Foul,Courtney Kirkland,Justin Van Duyne,Nate Green,LAC,95,110,0.001,0.001,28.7

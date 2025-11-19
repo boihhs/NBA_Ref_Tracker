@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:43,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,2,2,0.894,0.878,9:52
+1,7:42,PHI,Joel Embiid,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,12,2,0.936,0.946,7:53
+1,7:08,ORL,Gary Harris,Loose Ball Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,14,4,0.951,0.951,7:08
+1,7:03,ORL,Gary Harris,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,16,4,0.963,0.955,7:03
+1,1:29,PHI,Matisse Thybulle,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,29,16,0.946,0.955,1:32
+1,1:11,PHI,Andre Drummond,Offensive Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,29,16,0.954,0.96,1:24
+1,56.8,ORL,Franz Wagner,Loose Ball Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,29,16,0.959,0.959,56.8
+1,7.2,PHI,Matisse Thybulle,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,29,18,0.935,0.947,7.2
+2,11:21,ORL,Terrence Ross,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,31,19,0.953,0.954,11:23
+2,5:13,ORL,Wendell Carter Jr.,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,43,32,0.94,0.941,5:25
+2,4:09,PHI,Danny Green,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,48,32,0.966,0.966,4:24
+2,3:03,PHI,Joel Embiid,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,48,37,0.914,0.93,3:07
+2,1.6,PHI,Tobias Harris,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,54,43,0.91,0.928,12.2
+3,10:31,PHI,Tyrese Maxey,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,54,48,0.854,0.855,10:37
+3,10:07,PHI,Tyrese Maxey,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,56,48,0.861,0.888,10:15
+3,9:38,ORL,Mo Bamba,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,56,49,0.909,0.888,9:40
+3,7:19,PHI,Tyrese Maxey,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,59,57,0.74,0.772,7:19
+3,6:03,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,62,64,0.626,0.627,6:03
+3,5:23,ORL,Gary Harris,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,62,66,0.538,0.541,5:34
+3,4:21,PHI,Shake Milton,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,68,68,0.585,0.648,4:28
+3,59.7,ORL,Ignas Brazdeikis,Loose Ball Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,76,76,0.719,0.655,59.7
+3,34.1,ORL,Mo Bamba,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,78,76,0.79,0.736,37.0
+3,25.3,PHI,Shake Milton,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,79,76,0.671,0.733,32.6
+3,4.3,ORL,Mo Bamba,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,81,78,0.797,0.73,4.3
+4,9:07,ORL,Chuma Okeke,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,85,80,0.848,0.843,9:11
+4,9:04,ORL,R.J. Hampton,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,85,80,0.853,0.848,9:07
+4,8:42,PHI,Matisse Thybulle,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,85,80,0.813,0.813,8:51
+4,7:18,PHI,Shake Milton,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,89,82,0.821,0.882,7:29
+4,6:43,ORL,Jalen Suggs,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,89,83,0.896,0.886,6:43
+4,5:51,PHI,Joel Embiid,Loose Ball Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,89,83,0.848,0.86,6:05
+4,3:00,PHI,Seth Curry,Personal Take Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,91,87,0.791,0.792,3:00
+4,1:27,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,93,89,0.836,0.803,1:32
+4,48.1,ORL,Mo Bamba,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,93,93,0.476,0.512,48.1
+4,36.8,ORL,Mo Bamba,Personal Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,95,93,0.781,0.781,36.8
+4,28.3,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,97,93,0.72,0.844,36.8
+4,26.7,ORL,Wendell Carter Jr.,Personal Take Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,97,94,0.941,0.88,26.7
+4,15.2,ORL,Terrence Ross,Personal Take Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,98,94,0.949,0.863,25.1
+4,9.5,ORL,Gary Harris,Personal Take Foul,Foul,Matt Boland,Curtis Blair,Nick Buchert,PHI,99,96,0.974,0.92,10.7

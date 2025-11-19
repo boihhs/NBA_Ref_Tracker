@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:30,IND,Pascal Siakam,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,7,6,0.522,0.476,9:30
+1,8:06,IND,Tyrese Haliburton,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,10,10,0.517,0.477,8:13
+1,7:00,IND,Myles Turner,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,13,12,0.544,0.507,7:12
+1,4:05,LAL,Taurean Prince,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,17,25,0.238,0.277,4:05
+1,3:34,LAL,Rui Hachimura,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,19,25,0.264,0.299,3:54
+1,2:50,LAL,Spencer Dinwiddie,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,23,28,0.286,0.321,2:56
+1,2:32,LAL,Anthony Davis,Offensive Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,23,28,0.322,0.506,7:27
+1,1:49,LAL,Taurean Prince,Personal Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,23,28,0.284,0.321,1:56
+1,1:32,LAL,Anthony Davis,Offensive Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,23,31,0.248,0.275,1:41
+1,31.1,IND,Obi Toppin,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,27,34,0.335,0.295,35.1
+2,10:41,LAL,Spencer Dinwiddie,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,36,38,0.357,0.398,10:50
+2,10:30,IND,Aaron Nesmith,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,36,40,0.414,0.373,10:41
+2,9:09,LAL,Taurean Prince,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,41,45,0.322,0.372,9:09
+2,8:04,IND,Isaiah Jackson,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,43,51,0.301,0.262,8:16
+2,7:29,IND,Andrew Nembhard,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,47,51,0.392,0.341,7:29
+2,5:35,LAL,Anthony Davis,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,54,55,0.383,0.429,5:45
+2,5:28,IND,Andrew Nembhard,Personal Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,54,57,0.446,0.399,5:35
+2,5:19,IND,Aaron Nesmith,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,54,57,0.446,0.446,5:28
+2,5:00,IND,Myles Turner,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,55,60,0.382,0.339,5:08
+2,3:10,IND,Aaron Nesmith,Personal Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,61,62,0.512,0.463,3:12
+2,2:24,IND,Myles Turner,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,65,62,0.623,0.567,2:24
+2,40.1,IND,Isaiah Jackson,Offensive Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,70,66,0.637,0.597,43.1
+3,10:00,IND,Aaron Nesmith,Offensive Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,80,70,0.827,0.798,10:16
+3,9:17,IND,Pascal Siakam,Offensive Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,80,72,0.778,0.748,9:22
+3,8:04,IND,Aaron Nesmith,Personal Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,85,74,0.86,0.861,8:05
+3,7:59,IND,Pascal Siakam,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,85,74,0.89,0.86,8:04
+3,7:59,IND,Pascal Siakam,Technical Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,85,74,0.876,0.89,7:59
+3,7:06,IND,Ben Sheppard,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,89,78,0.895,0.865,7:18
+3,6:57,LAL,Spencer Dinwiddie,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,91,80,0.825,0.867,6:57
+3,6:06,IND,Ben Sheppard,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,93,83,0.883,0.85,6:20
+3,4:13,IND,Ben Sheppard,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,101,87,0.955,0.938,4:15
+3,3:01,IND,Doug McDermott,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,105,90,0.964,0.957,3:01
+3,1:20,IND,Doug McDermott,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,112,95,0.987,0.98,1:21
+4,11:12,LAL,Spencer Dinwiddie,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,118,104,0.944,0.969,11:12
+4,10:45,IND,Isaiah Jackson,Personal Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,118,106,0.951,0.947,10:45
+4,7:07,IND,Doug McDermott,Personal Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,127,118,0.935,0.929,7:18
+4,6:42,LAL,Austin Reaves,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,127,118,0.859,0.913,6:51
+4,2:17,LAL,LeBron James,Shooting Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,136,129,0.855,0.934,2:20
+4,1:17,LAL,Anthony Davis,Personal Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,140,134,0.817,0.923,1:17
+4,43.1,IND,Obi Toppin,Personal Take Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,142,136,0.989,0.962,45.1
+4,42.2,IND,Ben Sheppard,Personal Take Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,142,136,0.989,0.989,43.1
+4,33.1,IND,Andrew Nembhard,Personal Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,144,139,0.982,0.947,37.1
+4,26.1,IND,Andrew Nembhard,Personal Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,146,142,0.968,0.92,28.1
+4,20.0,IND,Doug McDermott,Personal Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,148,145,0.951,0.889,21.1
+4,2.2,IND,Obi Toppin,Personal Take Foul,Foul,Marc Davis,Matt Myers,Gediminas Petraitis,LAL,149,145,0.997,0.987,3.1

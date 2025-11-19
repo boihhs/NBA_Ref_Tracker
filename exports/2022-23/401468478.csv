@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:25,IND,Buddy Hield,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,0,3,0.614,0.58,11:37
+1,10:28,IND,Andrew Nembhard,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,6,5,0.687,0.647,10:28
+1,8:57,SAC,Keegan Murray,Loose Ball Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,7,7,0.62,0.62,8:57
+1,6:20,IND,Jalen Smith,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,14,12,0.718,0.686,6:21
+1,4:41,SAC,Domantas Sabonis,Offensive Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,21,14,0.769,0.789,4:45
+1,3:54,SAC,Domantas Sabonis,Offensive Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,21,16,0.726,0.749,4:01
+1,2:22,IND,Bennedict Mathurin,Personal Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,26,16,0.864,0.843,2:25
+1,1:38,SAC,Malik Monk,Personal Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,29,16,0.849,0.872,1:45
+1,11.4,SAC,KZ Okpala,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,33,16,0.905,0.92,28.6
+2,10:58,SAC,Keegan Murray,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,33,23,0.797,0.828,11:03
+2,10:35,SAC,De'Aaron Fox,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,35,25,0.798,0.828,10:45
+2,9:24,IND,Aaron Nesmith,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,38,29,0.855,0.83,9:26
+2,7:37,SAC,Chimezie Metu,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,42,31,0.82,0.848,7:40
+2,6:14,SAC,Terence Davis,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,45,35,0.802,0.831,6:16
+2,6:14,SAC,Terence Davis,Technical Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,45,35,0.817,0.802,6:14
+2,4:02,IND,Tyrese Haliburton,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,50,40,0.867,0.853,4:04
+2,3:44,IND,Tyrese Haliburton,Technical Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,52,42,0.868,0.854,3:47
+2,1:53,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,57,45,0.847,0.876,1:53
+2,1:19,IND,Andrew Nembhard,Personal Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,59,48,0.901,0.878,1:28
+3,11:11,IND,Buddy Hield,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,62,48,0.942,0.926,11:24
+3,10:07,SAC,Harrison Barnes,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,68,50,0.953,0.967,10:07
+3,9:53,IND,Buddy Hield,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,70,51,0.976,0.967,9:53
+3,7:47,SAC,De'Aaron Fox,Offensive Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,78,55,0.989,0.991,7:55
+3,5:55,IND,Jalen Smith,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,82,61,0.992,0.988,6:13
+3,5:50,SAC,Kevin Huerter,Personal Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,83,61,0.988,0.988,5:55
+3,4:25,IND,Jalen Smith,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,83,68,0.971,0.959,4:39
+3,4:16,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,85,70,0.941,0.96,4:16
+3,3:56,SAC,Malik Monk,Flagrant Foul Type 1,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,87,71,0.963,0.97,3:59
+3,3:22,IND,Bennedict Mathurin,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,87,75,0.949,0.93,3:40
+3,3:09,SAC,Chimezie Metu,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,89,75,0.934,0.944,3:09
+3,1:16,IND,Myles Turner,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,99,79,0.996,0.993,1:25
+3,56.9,IND,Andrew Nembhard,Personal Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,101,82,0.994,0.991,1:09
+3,43.8,SAC,De'Aaron Fox,Personal Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,102,82,0.987,0.992,52.6
+3,33.5,IND,Aaron Nesmith,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,102,83,0.995,0.992,43.8
+4,11:54,SAC,Harrison Barnes,Personal Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,106,83,0.997,0.998,12:00
+4,11:47,SAC,De'Aaron Fox,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,106,83,0.995,0.997,11:54
+4,11:38,IND,Oshae Brissett,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,106,85,0.998,0.996,11:47
+4,10:48,SAC,Terence Davis,Personal Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,112,85,0.999,0.999,10:55
+4,10:36,IND,Aaron Nesmith,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,114,88,0.999,0.999,10:36
+4,7:28,IND,Terry Taylor,Offensive Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,126,94,0.999,0.999,7:32
+4,6:37,SAC,KZ Okpala,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,126,94,0.999,0.999,6:41
+4,4:01,SAC,Richaun Holmes,Shooting Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,129,99,0.999,0.999,4:07
+4,1:24,IND,IND,Excess Timeout Technical,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,136,108,0.999,0.999,1:24
+4,55.5,SAC,Alex Len,Loose Ball Foul,Foul,Sean Wright,Tre Maddox,Suyash Mehta,SAC,137,108,0.999,0.999,56.7

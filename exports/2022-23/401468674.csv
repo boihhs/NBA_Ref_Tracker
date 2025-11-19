@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:55,CHI,Zach LaVine,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,4,2,0.51,0.529,9:55
+1,6:39,CHI,Ayo Dosunmu,Personal Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,14,9,0.61,0.608,6:39
+1,5:20,CHI,Nikola Vucevic,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,16,17,0.432,0.479,5:20
+1,4:21,CHI,Zach LaVine,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,16,19,0.376,0.424,4:21
+1,27.0,MIL,George Hill,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,24,32,0.327,0.289,35.0
+1,1.2,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,26,32,0.375,0.339,5.0
+2,10:17,CHI,Andre Drummond,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,33,32,0.463,0.505,10:22
+2,7:31,MIL,Grayson Allen,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,39,37,0.615,0.569,7:38
+2,6:58,CHI,Javonte Green,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,42,39,0.549,0.602,6:58
+2,6:19,CHI,Javonte Green,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,44,40,0.558,0.602,6:39
+2,5:46,CHI,Patrick Williams,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,46,44,0.519,0.574,5:46
+2,4:18,MIL,Grayson Allen,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,48,47,0.594,0.544,4:28
+2,3:26,CHI,Ayo Dosunmu,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,50,49,0.52,0.512,3:35
+2,15.1,CHI,Nikola Vucevic,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,57,54,0.555,0.618,15.1
+3,11:13,CHI,Zach LaVine,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,57,57,0.45,0.516,11:13
+3,10:51,CHI,Nikola Vucevic,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,57,58,0.388,0.439,10:56
+3,9:34,CHI,Nikola Vucevic,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,57,61,0.286,0.332,9:41
+3,9:20,MIL,Grayson Allen,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,57,63,0.351,0.304,9:34
+3,9:10,CHI,Andre Drummond,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,58,63,0.252,0.3,9:20
+3,8:48,CHI,Ayo Dosunmu,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,58,63,0.274,0.299,8:48
+3,8:39,MIL,Brook Lopez,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,58,64,0.35,0.243,8:48
+3,7:15,MIL,Brook Lopez,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,61,66,0.355,0.292,7:15
+3,6:55,CHI,Patrick Williams,Personal Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,62,66,0.271,0.328,7:15
+3,5:47,CHI,Andre Drummond,Personal Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,64,70,0.202,0.247,5:56
+3,5:47,CHI,DeMar DeRozan,Double Technical Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,64,71,0.224,0.195,5:47
+3,4:38,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,66,73,0.297,0.243,4:42
+3,3:14,MIL,Bobby Portis,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,69,78,0.216,0.171,3:15
+3,2:20,CHI,Javonte Green,Personal Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,73,80,0.147,0.192,2:31
+3,2:08,CHI,Javonte Green,Offensive Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,73,82,0.131,0.163,2:20
+3,1:23,MIL,Joe Ingles,Transition Take Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,75,82,0.22,0.22,1:24
+3,5.1,MIL,Pat Connaughton,Offensive Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,77,82,0.286,0.247,10.1
+4,11:09,CHI,Patrick Williams,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,79,84,0.167,0.231,11:13
+4,9:59,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,79,87,0.159,0.148,10:19
+4,9:44,CHI,Nikola Vucevic,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,79,89,0.054,0.093,9:44
+4,8:36,CHI,Patrick Williams,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,79,90,0.026,0.045,8:40
+4,7:22,MIL,Jevon Carter,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,84,94,0.09,0.047,7:22
+4,2:18,MIL,George Hill,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,93,104,0.017,0.008,2:18
+4,1:33,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,98,106,0.079,0.031,1:39
+4,11.0,CHI,Patrick Williams,Personal Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,104,106,0.062,0.181,13.1
+5,3:27,MIL,Brook Lopez,Loose Ball Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,106,110,0.236,0.236,3:27
+5,1:02,MIL,Brook Lopez,Personal Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,111,110,0.825,0.671,1:02
+5,53.1,MIL,Wesley Matthews,Shooting Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,111,110,0.833,0.541,1:02
+5,13.2,MIL,Wesley Matthews,Personal Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,115,113,0.939,0.836,16.1
+5,3.1,MIL,George Hill,Personal Foul,Foul,Bill Kennedy,Brian Forte,Brett Nansel,CHI,117,113,0.996,0.988,3.1

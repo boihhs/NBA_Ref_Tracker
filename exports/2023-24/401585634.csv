@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:21,CHI,Alex Caruso,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,0,0,0.655,0.655,11:34
+1,9:43,HOU,Fred VanVleet,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,4,4,0.592,0.63,9:52
+1,9:20,HOU,Jabari Smith Jr.,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,4,5,0.605,0.605,9:27
+1,8:56,CHI,Ayo Dosunmu,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,6,8,0.619,0.576,8:56
+1,8:26,HOU,Fred VanVleet,Technical Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,10,10,0.606,0.625,8:30
+1,7:30,HOU,Jabari Smith Jr.,Offensive Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,12,11,0.646,0.67,7:42
+1,6:43,CHI,Alex Caruso,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,15,13,0.723,0.692,6:48
+1,6:04,HOU,Amen Thompson,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,17,15,0.631,0.666,6:13
+1,5:43,CHI,Torrey Craig,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,17,17,0.677,0.641,5:47
+1,4:24,CHI,Nikola Vucevic,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,20,19,0.697,0.664,4:24
+1,44.1,HOU,Aaron Holiday,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,40,24,0.894,0.912,52.1
+2,11:31,CHI,Andre Drummond,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,44,30,0.911,0.891,11:31
+2,11:22,HOU,Jae'Sean Tate,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,45,30,0.903,0.904,11:31
+2,9:37,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,48,30,0.922,0.936,9:45
+2,8:18,HOU,Jeff Green,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,50,31,0.941,0.947,8:20
+2,5:25,HOU,Fred VanVleet,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,56,47,0.801,0.836,5:25
+2,1:47,CHI,Alex Caruso,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,60,55,0.786,0.749,1:51
+2,12.2,HOU,Jeff Green,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,68,59,0.789,0.823,31.0
+3,11:49,CHI,Torrey Craig,Offensive Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,68,61,0.805,0.786,12:00
+3,11:05,HOU,Amen Thompson,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,68,64,0.641,0.688,11:10
+3,8:24,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,76,71,0.672,0.724,8:36
+3,7:30,HOU,Fred VanVleet,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,78,73,0.725,0.724,7:45
+3,6:47,CHI,Torrey Craig,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,80,73,0.832,0.786,6:47
+3,6:02,CHI,DeMar DeRozan,Flagrant Foul Type 2,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,84,75,0.858,0.841,6:09
+3,6:02,HOU,Dillon Brooks,Technical Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,84,75,0.822,0.853,6:02
+3,5:23,CHI,Ayo Dosunmu,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,87,78,0.868,0.867,5:31
+3,5:14,HOU,Amen Thompson,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,87,78,0.805,0.844,5:16
+3,3:05,CHI,Onuralp Bitim,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,92,84,0.889,0.854,3:24
+3,1:28,HOU,Jock Landale,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,99,88,0.875,0.907,1:28
+4,11:50,HOU,Jock Landale,Offensive Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,105,94,0.922,0.926,12:00
+4,9:28,HOU,Aaron Holiday,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,110,101,0.886,0.893,9:38
+4,7:19,HOU,Reggie Bullock Jr.,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,114,103,0.947,0.95,7:29
+4,6:23,CHI,Alex Caruso,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,116,103,0.986,0.984,6:36
+4,5:44,HOU,Jabari Smith Jr.,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,119,103,0.993,0.993,6:13
+4,5:32,CHI,Coby White,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,119,103,0.998,0.996,5:35
+4,4:46,CHI,Nikola Vucevic,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,121,105,0.998,0.997,4:58
+4,4:32,HOU,Jeff Green,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,122,105,0.996,0.998,4:46
+4,2:29,CHI,Alex Caruso,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,122,109,0.999,0.997,2:48
+4,2:01,HOU,Fred VanVleet,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,122,111,0.987,0.991,2:01
+4,1:09,CHI,Coby White,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Brandon Schwab,HOU,124,115,0.996,0.986,1:09

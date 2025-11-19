@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:52,IND,Aaron Nesmith,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,7,9,0.495,0.495,8:52
+1,7:04,POR,Damian Lillard,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,9,15,0.326,0.36,7:06
+1,5:26,POR,Justise Winslow,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,14,17,0.438,0.437,5:26
+1,4:36,POR,Damian Lillard,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,19,17,0.532,0.572,4:45
+1,4:27,IND,Buddy Hield,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,19,19,0.544,0.545,4:36
+1,4:19,IND,James Johnson,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,19,19,0.584,0.544,4:20
+1,4:01,POR,Justise Winslow,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,20,19,0.503,0.543,4:19
+1,3:49,IND,Isaiah Jackson,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,20,19,0.61,0.574,3:53
+1,2:50,IND,James Johnson,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,24,21,0.644,0.599,2:50
+2,10:05,IND,Myles Turner,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,31,29,0.599,0.601,10:13
+2,9:44,POR,Jusuf Nurkic,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,31,31,0.489,0.541,9:44
+2,9:25,POR,Shaedon Sharpe,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,33,32,0.541,0.54,9:30
+2,6:31,POR,Damian Lillard,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,41,35,0.688,0.687,6:40
+2,5:23,POR,Jerami Grant,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,44,37,0.676,0.718,5:45
+2,2:05,POR,Anfernee Simons,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,48,43,0.619,0.665,2:24
+2,1:51,IND,Bennedict Mathurin,Defensive 3-Seconds Technical,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,48,45,0.628,0.64,2:05
+2,1:49,IND,Aaron Nesmith,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,49,45,0.712,0.669,1:51
+3,11:13,IND,Myles Turner,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,54,51,0.64,0.641,11:34
+3,8:44,POR,Jerami Grant,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,69,53,0.935,0.934,8:54
+3,8:05,IND,Myles Turner,Offensive Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,69,55,0.925,0.91,8:11
+3,7:18,POR,Jusuf Nurkic,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,69,57,0.88,0.88,7:21
+3,5:09,IND,Andrew Nembhard,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,77,61,0.967,0.951,5:09
+3,4:40,IND,Isaiah Jackson,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,78,61,0.979,0.971,4:44
+3,3:11,POR,Josh Hart,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,84,63,0.989,0.988,3:24
+3,1:46,POR,Shaedon Sharpe,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,89,67,0.99,0.993,1:46
+4,9:58,POR,Trendon Watford,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,96,82,0.946,0.967,10:00
+4,9:41,IND,Bennedict Mathurin,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,96,83,0.981,0.967,9:58
+4,8:10,POR,Damian Lillard,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,100,87,0.954,0.978,8:10
+4,8:09,POR,Anfernee Simons,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,100,87,0.952,0.966,8:09
+4,7:58,IND,Oshae Brissett,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,100,89,0.957,0.953,8:09
+4,7:51,IND,Bennedict Mathurin,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,100,89,0.96,0.957,7:58
+4,6:19,IND,Buddy Hield,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,103,91,0.987,0.976,6:32
+4,5:51,IND,Andrew Nembhard,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,103,91,0.986,0.982,5:51
+4,4:56,IND,Myles Turner,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,107,94,0.993,0.986,4:56
+4,4:29,IND,Myles Turner,Shooting Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,107,96,0.991,0.982,4:42
+4,3:08,IND,Aaron Nesmith,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,111,96,0.999,0.999,3:08
+4,2:09,IND,Aaron Nesmith,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,114,98,0.999,0.999,2:09
+4,1:38,POR,Greg Brown III,Personal Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,115,100,0.998,0.999,1:49
+4,28.5,IND,Isaiah Jackson,Loose Ball Foul,Foul,Brent Barnaky,Eric Lewis,Ray Acosta,POR,115,100,0.999,0.999,28.5

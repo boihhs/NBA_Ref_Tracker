@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:29,UTAH,John Collins,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,0,0,0.894,0.878,11:31
+1,9:17,BOS,Kristaps Porzingis,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,10,0,0.935,0.945,9:19
+1,6:44,UTAH,Collin Sexton,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,15,8,0.927,0.928,6:59
+1,1:23,UTAH,Ochai Agbaji,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,25,13,0.96,0.952,1:26
+1,1:02,BOS,Payton Pritchard,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,25,13,0.935,0.945,1:12
+1,27.1,UTAH,Ochai Agbaji,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,25,15,0.948,0.939,31.1
+2,10:40,BOS,Payton Pritchard,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,35,15,0.98,0.98,10:45
+2,9:32,UTAH,Kelly Olynyk,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,37,15,0.99,0.988,9:40
+2,9:21,BOS,Jrue Holiday,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,40,15,0.991,0.991,9:32
+2,7:42,UTAH,John Collins,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,45,17,0.997,0.995,7:42
+2,7:12,BOS,Derrick White,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,49,17,0.998,0.998,7:24
+2,6:56,BOS,Jayson Tatum,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,49,17,0.997,0.998,6:58
+2,6:20,UTAH,Kris Dunn,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,49,18,0.998,0.998,6:23
+2,5:01,BOS,Derrick White,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,54,20,0.998,0.998,5:04
+2,2:26,UTAH,Simone Fontecchio,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,61,33,0.998,0.997,2:40
+2,1:58,UTAH,Walker Kessler,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,62,33,0.998,0.998,2:03
+2,35.2,UTAH,Walker Kessler,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,69,35,0.999,0.999,51.1
+3,10:27,UTAH,Kris Dunn,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,74,46,0.998,0.998,10:30
+3,9:39,BOS,Jaylen Brown,Technical Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,77,46,0.998,0.999,9:42
+3,8:14,BOS,Kristaps Porzingis,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,82,52,0.998,0.999,8:14
+3,8:00,UTAH,Kris Dunn,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,82,53,0.999,0.999,8:14
+3,7:31,UTAH,Lauri Markkanen,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,84,55,0.999,0.999,7:39
+3,7:08,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,86,55,0.999,0.999,7:08
+3,6:20,UTAH,John Collins,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,86,57,0.999,0.999,6:34
+3,5:48,UTAH,John Collins,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,88,59,0.999,0.999,6:00
+3,4:01,BOS,Jaylen Brown,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,97,61,0.999,0.999,4:20
+3,3:33,BOS,Jaylen Brown,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,97,62,0.999,0.999,3:46
+3,3:32,UTAH,Kelly Olynyk,Loose Ball Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,97,63,0.999,0.999,3:33
+3,3:05,UTAH,John Collins,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,99,65,0.999,0.999,3:22
+3,2:42,BOS,Oshae Brissett,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,100,65,0.999,0.999,2:50
+3,2:23,UTAH,Kelly Olynyk,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,100,67,0.999,0.999,2:26
+3,1:08,BOS,Oshae Brissett,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,105,70,0.999,0.999,1:18
+3,31.1,BOS,Svi Mykhailiuk,Loose Ball Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,107,73,0.999,0.999,31.1
+4,10:41,BOS,Sam Hauser,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,107,75,0.999,0.999,10:43
+4,9:38,BOS,Luke Kornet,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,109,76,0.999,0.999,9:50
+4,8:05,BOS,Neemias Queta,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,109,80,0.999,0.999,8:05
+4,6:34,BOS,Payton Pritchard,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,112,85,0.999,0.999,6:34
+4,6:20,UTAH,Talen Horton-Tucker,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,112,86,0.999,0.999,6:34
+4,5:53,BOS,Neemias Queta,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,114,88,0.999,0.999,5:53
+4,5:03,BOS,Lamar Stevens,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,117,88,0.999,0.999,5:11
+4,4:42,UTAH,Kris Dunn,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,117,90,0.999,0.999,5:03
+4,3:03,BOS,Oshae Brissett,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,121,90,0.999,0.999,3:15
+4,2:48,UTAH,Ochai Agbaji,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,121,91,0.999,0.999,3:03
+4,2:25,BOS,Svi Mykhailiuk,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,122,93,0.999,0.999,2:25
+4,1:41,UTAH,Omer Yurtseven,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,122,95,0.999,0.999,1:46
+4,27.2,BOS,Dalano Banton,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Brandon Adair,BOS,126,97,0.999,0.999,27.2

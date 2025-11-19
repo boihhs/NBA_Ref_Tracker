@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,TOR,Pascal Siakam,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,0,0,0.449,0.489,12:00
+1,10:24,TOR,Precious Achiuwa,Loose Ball Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,0,4,0.386,0.411,10:24
+1,10:05,BOS,Marcus Smart,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,0,4,0.41,0.41,10:12
+1,4:54,TOR,Isaac Bonga,Loose Ball Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,19,15,0.593,0.621,4:54
+1,3:08,TOR,Isaac Bonga,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,21,19,0.541,0.569,3:08
+1,2:31,TOR,Dalano Banton,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,24,20,0.555,0.596,2:52
+1,8.8,BOS,Romeo Langford,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,26,27,0.528,0.486,28.4
+2,10:45,TOR,Malachi Flynn,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,26,30,0.328,0.366,11:00
+2,9:12,TOR,Malachi Flynn,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,26,33,0.248,0.284,9:20
+2,8:00,TOR,Pascal Siakam,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,30,35,0.333,0.334,8:15
+2,6:49,TOR,Yuta Watanabe,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,32,38,0.267,0.305,6:52
+2,6:34,TOR,Scottie Barnes,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,32,38,0.285,0.267,6:49
+2,6:20,BOS,Marcus Smart,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,32,40,0.279,0.329,6:20
+2,5:26,TOR,Fred VanVleet,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,41,42,0.406,0.392,5:40
+2,4:06,BOS,Al Horford,Loose Ball Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,45,46,0.484,0.484,4:06
+2,3:37,TOR,Svi Mykhailiuk,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,45,46,0.403,0.452,3:41
+2,3:05,TOR,Svi Mykhailiuk,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,45,48,0.337,0.387,3:13
+2,1:13,BOS,Jayson Tatum,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,48,53,0.396,0.349,1:15
+2,1:05,TOR,Yuta Watanabe,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,50,53,0.33,0.377,1:13
+2,36.8,BOS,Al Horford,Offensive Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,50,54,0.383,0.344,43.3
+2,30.7,BOS,Josh Richardson,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,50,54,0.429,0.383,36.8
+2,1.2,BOS,Marcus Smart,Offensive Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,51,54,0.414,0.381,2.9
+3,11:35,BOS,Grant Williams,Offensive Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,53,54,0.479,0.445,11:48
+3,11:24,BOS,BOS,Delay Technical,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,53,54,0.51,0.444,11:24
+3,10:54,BOS,Al Horford,Loose Ball Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,54,56,0.445,0.443,10:54
+3,10:27,TOR,Precious Achiuwa,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,54,56,0.408,0.408,10:38
+3,8:49,TOR,Precious Achiuwa,Offensive Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,57,60,0.367,0.406,9:10
+3,8:41,BOS,Grant Williams,Offensive Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,57,60,0.405,0.367,8:49
+3,8:16,TOR,Fred VanVleet,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,59,60,0.461,0.442,8:31
+3,5:59,TOR,Scottie Barnes,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,68,68,0.478,0.477,6:13
+3,5:57,TOR,Pascal Siakam,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,68,68,0.5,0.478,5:59
+3,5:31,TOR,Pascal Siakam,Loose Ball Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,68,68,0.478,0.478,5:31
+3,4:10,TOR,Fred VanVleet,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,71,70,0.455,0.52,4:14
+3,1:30,BOS,Romeo Langford,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,73,78,0.331,0.299,1:32
+3,6.7,BOS,Josh Richardson,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,74,80,0.311,0.249,15.3
+4,10:43,TOR,Justin Champagnie,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,76,82,0.211,0.192,10:47
+4,10:29,BOS,Josh Richardson,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,76,84,0.165,0.153,10:43
+4,8:22,TOR,Pascal Siakam,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,83,86,0.219,0.304,8:34
+4,6:10,BOS,Marcus Smart,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,85,98,0.022,0.02,6:21
+4,5:57,BOS,Enes Freedom,Personal Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,85,98,0.023,0.022,6:10
+4,4:37,BOS,Marcus Smart,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,87,98,0.057,0.031,4:49
+4,1:35,BOS,Jayson Tatum,Personal Take Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,91,104,0.004,0.001,1:35
+4,26.1,TOR,Scottie Barnes,Shooting Foul,Foul,Scott Foster,Michael Smith,Dannica Mosher,TOR,97,108,0.001,0.001,26.1

@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:19,GS,Draymond Green,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,4,2,0.52,0.519,10:33
+1,9:22,BOS,Jayson Tatum,Personal Take Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,8,4,0.596,0.596,9:22
+1,6:06,GS,Kevon Looney,Offensive Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,14,6,0.676,0.702,6:23
+1,4:54,GS,Kevon Looney,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,17,6,0.751,0.749,5:14
+1,4:48,GS,Kevon Looney,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,17,8,0.668,0.729,4:48
+1,2:55,BOS,Grant Williams,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,20,8,0.827,0.799,2:58
+1,0.2,BOS,Robert Williams III,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,26,16,0.797,0.767,0.5
+1,0.2,BOS,BOS,Technical Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,26,16,0.782,0.797,0.2
+2,11:41,GS,Nemanja Bjelica,Loose Ball Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,27,16,0.768,0.77,11:41
+2,10:18,GS,Draymond Green,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,27,16,0.737,0.773,10:20
+2,9:57,BOS,Robert Williams III,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,30,18,0.832,0.817,9:59
+2,9:11,GS,Jordan Poole,Loose Ball Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,32,20,0.8,0.799,9:11
+2,6:40,GS,Klay Thompson,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,32,26,0.611,0.684,6:43
+2,6:19,BOS,Jaylen Brown,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,32,26,0.685,0.684,6:33
+2,4:49,BOS,Al Horford,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,36,26,0.812,0.77,4:49
+2,3:11,GS,Otto Porter Jr.,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,41,32,0.711,0.752,3:24
+2,2:18,BOS,Marcus Smart,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,43,35,0.794,0.757,2:34
+2,1:56,GS,Gary Payton II,Loose Ball Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,45,35,0.746,0.784,1:56
+2,37.1,GS,Stephen Curry,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,49,38,0.778,0.811,53.5
+3,11:42,GS,Klay Thompson,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,51,39,0.807,0.847,12:00
+3,11:33,GS,Klay Thompson,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,51,41,0.756,0.794,11:35
+3,10:43,BOS,Marcus Smart,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,51,46,0.683,0.684,10:56
+3,10:05,GS,Stephen Curry,Offensive Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,51,49,0.545,0.583,10:15
+3,9:32,GS,Otto Porter Jr.,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,51,49,0.548,0.545,9:38
+3,7:32,BOS,Jaylen Brown,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,53,52,0.55,0.551,7:52
+3,7:15,BOS,Marcus Smart,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,53,52,0.608,0.552,7:18
+3,7:10,GS,Andrew Wiggins,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,55,52,0.53,0.589,7:15
+3,4:37,BOS,Grant Williams,Offensive Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,61,63,0.43,0.389,4:47
+3,3:55,GS,Kevon Looney,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,61,65,0.279,0.347,3:55
+3,1:38,GS,Klay Thompson,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,67,70,0.273,0.336,1:54
+3,1:25,BOS,Jayson Tatum,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,67,71,0.402,0.336,1:38
+3,41.8,GS,Draymond Green,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,72,73,0.385,0.471,41.8
+4,10:24,BOS,Derrick White,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,77,74,0.757,0.679,10:39
+4,10:12,BOS,Grant Williams,Personal Take Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,79,74,0.785,0.775,10:14
+4,9:16,GS,Draymond Green,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,82,74,0.849,0.86,9:30
+4,9:16,BOS,Marcus Smart,Technical Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,82,74,0.906,0.849,9:16
+4,9:15,BOS,Marcus Smart,Offensive Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,83,74,0.913,0.912,9:16
+4,7:44,GS,Draymond Green,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,85,76,0.843,0.898,8:03
+4,6:06,GS,Kevon Looney,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,87,78,0.911,0.92,6:06
+4,5:28,GS,Gary Payton II,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,89,78,0.93,0.96,5:38
+4,5:00,GS,Andrew Wiggins,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,89,79,0.912,0.945,5:08
+4,3:50,BOS,Jayson Tatum,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,91,79,0.991,0.989,3:54
+4,3:01,GS,Draymond Green,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,95,82,0.986,0.993,3:12
+4,1:58,GS,Gary Payton II,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,99,84,0.999,0.999,2:10
+4,1:10,GS,Juan Toscano-Anderson,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,104,88,0.999,0.999,1:19
+4,37.2,GS,Juan Toscano-Anderson,Personal Foul,Foul,Josh Tiven,Marc Davis,Tony Brothers,GS,104,89,0.999,0.999,38.0

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:10,CHI,DeMar DeRozan,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,2,2,0.424,0.464,11:27
+1,5:32,LAC,Reggie Jackson,Defensive 3-Seconds Technical,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,12,17,0.353,0.36,5:48
+1,2:59,LAC,Isaiah Hartenstein,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,14,22,0.319,0.283,3:06
+1,5.9,CHI,Coby White,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,22,29,0.24,0.277,13.1
+2,10:02,LAC,Paul George,Offensive Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,27,32,0.352,0.323,10:20
+2,9:49,LAC,Robert Covington,Loose Ball Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,27,32,0.351,0.352,9:49
+2,8:09,LAC,Isaiah Hartenstein,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,33,36,0.406,0.409,8:09
+2,7:08,CHI,Zach LaVine,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,33,36,0.332,0.377,7:11
+2,3:57,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,35,47,0.117,0.145,4:14
+2,1:46,LAC,Reggie Jackson,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,41,54,0.149,0.134,1:52
+2,1:18,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,43,57,0.142,0.118,1:32
+2,58.1,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,45,57,0.185,0.151,1:01
+3,11:29,CHI,Nikola Vucevic,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,52,59,0.2,0.236,11:48
+3,10:49,LAC,Reggie Jackson,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,52,62,0.204,0.186,10:49
+3,10:37,CHI,Zach LaVine,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,54,62,0.21,0.209,10:49
+3,9:59,LAC,Paul George,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,54,64,0.181,0.183,10:09
+3,6:30,CHI,Patrick Williams,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,63,75,0.087,0.116,6:30
+3,5:26,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,63,79,0.07,0.052,5:34
+3,3:26,CHI,Javonte Green,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,71,82,0.072,0.098,3:37
+3,2:42,LAC,Ivica Zubac,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,73,84,0.15,0.113,2:43
+3,2:00,LAC,Reggie Jackson,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,75,84,0.178,0.158,2:00
+3,53.2,LAC,Terance Mann,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,77,88,0.135,0.102,1:06
+3,46.2,CHI,Javonte Green,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,78,88,0.069,0.097,53.2
+4,10:41,CHI,Coby White,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,87,94,0.145,0.154,10:51
+4,10:31,CHI,DeMar DeRozan,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,87,94,0.14,0.145,10:41
+4,6:57,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,94,99,0.115,0.181,7:03
+4,6:22,LAC,Isaiah Hartenstein,Loose Ball Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,94,101,0.136,0.128,6:22
+4,4:18,LAC,Nicolas Batum,Personal Take Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,98,107,0.054,0.049,4:19
+4,4:12,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,98,107,0.101,0.054,4:18
+4,2:55,LAC,Reggie Jackson,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,102,107,0.229,0.113,2:55
+4,2:42,CHI,Nikola Vucevic,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,103,109,0.058,0.126,2:42
+4,2:41,LAC,Reggie Jackson,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,103,110,0.14,0.079,2:42
+4,1:11,CHI,DeMar DeRozan,Personal Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,109,112,0.098,0.175,1:11
+4,1:05,LAC,Robert Covington,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,109,114,0.226,0.127,1:11
+4,11.8,CHI,DeMar DeRozan,Personal Take Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,113,114,0.125,0.301,16.9
+4,7.2,CHI,Alex Caruso,Personal Take Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,115,116,0.086,0.265,9.3
+4,7.0,LAC,Terance Mann,Away from Play Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,115,118,0.266,0.118,7.2
+4,3.5,LAC,Paul George,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,116,118,0.36,0.111,7.0
+5,3:51,LAC,Marcus Morris Sr.,Offensive Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,118,118,0.536,0.464,3:58
+5,40.6,CHI,Patrick Williams,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,129,125,0.682,0.842,58.0
+5,26.8,LAC,Nicolas Batum,Shooting Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,129,127,0.898,0.76,40.6
+5,16.3,LAC,Nicolas Batum,Personal Take Foul,Foul,James Williams,Dedric Taylor,Gediminas Petraitis,CHI,131,127,0.981,0.946,16.3

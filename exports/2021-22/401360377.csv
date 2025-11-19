@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:15,DEN,Will Barton,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,5,4,0.677,0.68,9:26
+1,8:16,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,7,4,0.662,0.697,8:20
+1,7:57,DEN,Austin Rivers,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,7,4,0.748,0.718,8:14
+1,7:44,DEN,Austin Rivers,Technical Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,8,4,0.727,0.717,7:46
+1,4:30,DEN,Bones Hyland,Personal Take Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,18,12,0.774,0.776,4:32
+1,4:08,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,18,12,0.754,0.754,4:20
+1,3:58,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,18,12,0.722,0.754,4:08
+1,2:46,DAL,Marquese Chriss,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,18,15,0.648,0.685,2:56
+1,1:35,DEN,Vlatko Cancar,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,18,20,0.617,0.577,1:43
+1,1:11,DEN,Nikola Jokic,Technical Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,21,20,0.677,0.661,1:11
+1,52.0,DEN,Davon Reed,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,22,20,0.716,0.682,1:11
+2,10:55,DEN,Rayjon Tucker,Loose Ball Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,29,20,0.831,0.831,10:55
+2,10:29,DAL,Josh Green,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,29,20,0.813,0.814,10:41
+2,9:55,DAL,Luka Doncic,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,31,20,0.822,0.849,10:14
+2,9:32,DAL,Maxi Kleber,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,31,22,0.783,0.813,9:37
+2,7:58,DEN,JaMychal Green,Personal Take Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,34,24,0.851,0.852,8:02
+2,7:53,DAL,Jalen Brunson,Offensive Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,34,24,0.832,0.851,7:58
+2,7:37,DAL,Dorian Finney-Smith,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,34,24,0.832,0.832,7:37
+2,6:56,DAL,Dorian Finney-Smith,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,36,26,0.805,0.833,7:07
+2,6:42,DEN,Facundo Campazzo,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,36,26,0.85,0.853,6:54
+2,5:56,DEN,Davon Reed,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,36,29,0.81,0.796,6:19
+2,4:10,DEN,Davon Reed,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,38,29,0.827,0.837,4:12
+2,3:58,DAL,Luka Doncic,Loose Ball Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,40,29,0.856,0.856,3:58
+2,3:27,DEN,Facundo Campazzo,Offensive Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,40,29,0.875,0.856,3:31
+2,1:44,DEN,Facundo Campazzo,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,42,31,0.879,0.879,1:52
+2,1:30,DAL,Luka Doncic,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,44,31,0.869,0.893,1:44
+3,10:49,DEN,Will Barton,Offensive Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,48,40,0.828,0.804,10:49
+3,9:34,DAL,Dorian Finney-Smith,Offensive Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,50,45,0.724,0.751,9:45
+3,7:12,DEN,Nikola Jokic,Personal Take Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,54,49,0.756,0.756,7:13
+3,6:20,DEN,Aaron Gordon,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,57,49,0.841,0.841,6:25
+3,5:18,DAL,Luka Doncic,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,62,49,0.922,0.922,5:30
+3,2:04,DEN,Vlatko Cancar,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,64,59,0.82,0.772,2:27
+3,1:09,DEN,Bones Hyland,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,66,61,0.757,0.775,1:21
+4,11:46,DAL,Josh Green,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,69,63,0.803,0.785,11:46
+4,10:37,DAL,Marquese Chriss,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,71,65,0.709,0.785,11:00
+4,9:52,DEN,Bones Hyland,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,75,68,0.841,0.823,9:52
+4,8:22,DAL,Maxi Kleber,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,76,70,0.714,0.799,8:28
+4,7:25,DEN,Bones Hyland,Offensive Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,79,72,0.879,0.842,7:25
+4,6:49,DEN,Nikola Jokic,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,79,72,0.929,0.885,7:01
+4,3:55,DEN,Nikola Jokic,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,84,76,0.976,0.947,4:12
+4,3:18,DAL,Dwight Powell,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,86,76,0.959,0.975,3:18
+4,1:36,DAL,Luka Doncic,Personal Take Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,98,82,0.999,0.999,1:39
+4,1:09,DAL,Josh Green,Personal Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,100,83,0.999,0.999,1:20
+4,30.1,DAL,Sterling Brown,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Brent Haskill,DAL,103,87,0.999,0.999,41.9

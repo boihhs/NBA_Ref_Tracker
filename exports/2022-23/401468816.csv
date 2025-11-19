@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:47,MIA,Caleb Martin,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,2,0,0.66,0.625,10:56
+1,10:06,ATL,Trae Young,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,4,2,0.564,0.601,10:07
+1,9:06,MIA,Bam Adebayo,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,6,4,0.659,0.626,9:12
+1,7:25,MIA,Gabe Vincent,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,13,12,0.596,0.597,7:34
+1,7:18,MIA,Caleb Martin,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,13,12,0.634,0.596,7:25
+1,5:01,MIA,Max Strus,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,25,18,0.772,0.741,5:07
+1,4:30,MIA,Victor Oladipo,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,29,20,0.797,0.764,4:30
+1,4:12,ATL,Aaron Holiday,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,29,20,0.729,0.764,4:28
+1,3:05,MIA,Gabe Vincent,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,32,24,0.795,0.765,3:14
+2,11:00,ATL,AJ Griffin,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,40,29,0.78,0.813,11:05
+2,7:17,MIA,Haywood Highsmith,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,54,36,0.937,0.936,7:25
+2,6:39,ATL,De'Andre Hunter,Offensive Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,57,39,0.928,0.938,6:48
+2,5:47,MIA,Caleb Martin,Offensive Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,59,39,0.956,0.948,5:52
+2,3:53,MIA,Orlando Robinson,Loose Ball Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,64,42,0.972,0.972,3:53
+2,2:59,ATL,De'Andre Hunter,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,66,42,0.979,0.978,3:09
+2,2:45,ATL,Clint Capela,Loose Ball Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,66,42,0.979,0.979,2:45
+3,11:23,MIA,Jimmy Butler III,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,72,50,0.981,0.98,11:26
+3,10:21,ATL,Trae Young,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,74,53,0.964,0.973,10:34
+3,8:07,ATL,Onyeka Okongwu,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,80,61,0.967,0.967,8:20
+3,4:52,ATL,John Collins,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,80,70,0.816,0.855,5:02
+3,4:06,MIA,Orlando Robinson,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,80,72,0.834,0.834,4:12
+3,2:31,ATL,De'Andre Hunter,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,87,77,0.852,0.894,2:31
+3,45.1,ATL,Trae Young,Offensive Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,91,80,0.905,0.925,51.0
+3,8.1,MIA,Max Strus,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,91,80,0.95,0.928,20.1
+4,11:45,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,91,80,0.909,0.92,12:00
+4,11:31,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,91,80,0.888,0.909,11:45
+4,10:47,MIA,Bam Adebayo,Loose Ball Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,91,83,0.877,0.872,10:47
+4,10:32,ATL,Onyeka Okongwu,Offensive Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,91,83,0.842,0.877,10:47
+4,10:12,MIA,Max Strus,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,91,83,0.886,0.878,10:18
+4,8:29,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,97,87,0.869,0.919,8:33
+4,8:29,MIA,Bam Adebayo,Technical Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,97,87,0.949,0.869,8:29
+4,6:39,MIA,Victor Oladipo,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,102,94,0.949,0.909,6:57
+4,5:02,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,109,96,0.97,0.985,5:02
+4,4:41,ATL,Trae Young,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,109,96,0.973,0.97,5:02
+4,4:20,ATL,Trae Young,Technical Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,109,99,0.945,0.958,4:20
+4,1:51,MIA,Jimmy Butler III,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,111,106,0.951,0.891,2:18
+4,1:36,MIA,Victor Oladipo,Shooting Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,114,106,0.987,0.965,1:36
+4,1:09,MIA,Caleb Martin,Personal Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,114,108,0.981,0.95,1:22
+4,25.1,MIA,Tyler Herro,Personal Take Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,117,113,0.97,0.912,34.1
+4,23.2,MIA,Caleb Martin,Personal Take Foul,Foul,Tony Brothers,Gediminas Petraitis,Andy Nagy,ATL,119,113,0.995,0.981,25.1

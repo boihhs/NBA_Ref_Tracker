@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:18,UTAH,Bojan Bogdanovic,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,0,0,0.59,0.59,11:19
+1,5:58,UTAH,Hassan Whiteside,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,15,9,0.687,0.723,6:10
+1,5:35,UTAH,Hassan Whiteside,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,15,11,0.639,0.675,5:40
+1,1:46,UTAH,Rudy Gobert,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,22,18,0.634,0.696,1:50
+1,1:06,UTAH,Danuel House Jr.,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,22,18,0.633,0.67,1:08
+1,38.1,MEM,Brandon Clarke,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,22,19,0.707,0.672,41.6
+2,9:58,MEM,John Konchar,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,30,23,0.8,0.769,10:21
+2,9:30,MEM,Kyle Anderson,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,31,25,0.779,0.745,9:47
+2,7:18,MEM,Kyle Anderson,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,33,30,0.667,0.669,7:18
+2,6:01,MEM,John Konchar,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,33,32,0.654,0.61,6:11
+2,5:08,MEM,De'Anthony Melton,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,37,32,0.761,0.725,5:08
+2,4:09,UTAH,Donovan Mitchell,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,40,34,0.723,0.723,4:09
+2,2:40,MEM,Tyus Jones,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,42,40,0.682,0.636,2:52
+2,2:09,MEM,Steven Adams,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,44,40,0.741,0.697,2:09
+2,1:33,UTAH,Mike Conley,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,46,43,0.586,0.634,1:37
+2,7.2,UTAH,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,48,48,0.481,0.534,25.8
+3,10:59,UTAH,Royce O'Neale,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,50,53,0.422,0.421,10:59
+3,10:27,UTAH,Mike Conley,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,50,55,0.349,0.348,10:30
+3,9:08,UTAH,Donovan Mitchell,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,52,60,0.202,0.241,9:12
+3,8:17,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,57,64,0.222,0.269,8:25
+3,7:35,MEM,Ziaire Williams,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,59,68,0.231,0.234,7:38
+3,6:33,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,63,70,0.206,0.255,6:43
+3,5:27,MEM,Brandon Clarke,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,67,72,0.355,0.354,5:27
+3,4:30,UTAH,Donovan Mitchell,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,70,74,0.287,0.348,4:30
+3,4:17,MEM,Brandon Clarke,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,70,76,0.368,0.309,4:30
+3,3:25,UTAH,Danuel House Jr.,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,74,76,0.359,0.425,3:43
+3,1:44,MEM,Kyle Anderson,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,81,78,0.745,0.686,1:48
+3,1:20,MEM,Brandon Clarke,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,81,78,0.747,0.686,1:20
+3,2.6,MEM,De'Anthony Melton,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,82,83,0.573,0.502,11.2
+4,11:17,MEM,Desmond Bane,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,88,83,0.818,0.737,11:17
+4,10:27,UTAH,Rudy Gobert,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,89,83,0.778,0.828,10:27
+4,9:13,MEM,John Konchar,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,91,85,0.888,0.831,9:23
+4,9:01,UTAH,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,93,87,0.754,0.839,9:01
+4,8:45,MEM,Desmond Bane,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,93,88,0.863,0.795,9:01
+4,8:25,MEM,John Konchar,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,95,88,0.918,0.876,8:30
+4,6:52,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,97,88,0.871,0.922,6:57
+4,5:48,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,100,93,0.942,0.908,5:48
+4,5:08,UTAH,Hassan Whiteside,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,100,93,0.816,0.885,5:18
+4,3:47,MEM,Ziaire Williams,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,102,96,0.941,0.898,3:57
+4,3:16,MEM,Steven Adams,Clear Path Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,103,96,0.966,0.939,3:16
+4,2:07,MEM,De'Anthony Melton,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,105,102,0.84,0.796,2:07
+4,1:32,MEM,Desmond Bane,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,105,102,0.894,0.812,1:35
+4,35.7,MEM,Desmond Bane,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,107,105,0.885,0.759,51.3
+4,5.6,MEM,Jaren Jackson Jr.,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,109,108,0.932,0.797,7.1
+5,4:30,UTAH,Danuel House Jr.,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,110,110,0.344,0.466,4:31
+5,4:03,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,113,112,0.612,0.535,4:16
+5,3:27,UTAH,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,113,112,0.405,0.539,3:36
+5,51.3,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,117,113,0.937,0.896,51.3
+5,36.2,MEM,Ziaire Williams,Personal Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,119,113,0.993,0.976,43.9
+5,20.5,MEM,Kyle Anderson,Personal Take Foul,Foul,Ed Malloy,Michael Smith,Scott Twardoski,UTAH,120,115,0.991,0.964,27.5

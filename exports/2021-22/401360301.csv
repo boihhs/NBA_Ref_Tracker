@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:04,ORL,Chuma Okeke,Shooting Foul,Foul,,,,ORL,2,8,0.243,0.276,9:04
+1,7:53,ORL,Chuma Okeke,Personal Foul,Foul,,,,ORL,9,12,0.324,0.322,8:07
+1,6:22,NO,Willy Hernangomez,Personal Foul,Foul,,,,ORL,12,15,0.347,0.347,6:35
+1,5:15,ORL,Aleem Ford,Personal Foul,Foul,,,,ORL,14,15,0.375,0.375,5:28
+1,4:27,ORL,Gary Harris,Personal Foul,Foul,,,,ORL,14,19,0.246,0.279,4:27
+1,3:38,ORL,Franz Wagner,Shooting Foul,Foul,,,,ORL,14,21,0.205,0.234,3:44
+1,2:36,NO,Herbert Jones,Shooting Foul,Foul,,,,ORL,16,25,0.203,0.213,2:58
+1,1:10,ORL,Aleem Ford,Shooting Foul,Foul,,,,ORL,17,28,0.135,0.158,1:26
+2,11:50,NO,Jaxson Hayes,Offensive Foul,Foul,,,,ORL,17,32,0.108,0.107,12:00
+2,10:32,ORL,Cole Anthony,Shooting Foul,Foul,,,,ORL,19,32,0.103,0.122,10:43
+2,9:38,NO,Jaxson Hayes,Shooting Foul,Foul,,,,ORL,19,33,0.144,0.121,9:45
+2,9:07,NO,Jaxson Hayes,Shooting Foul,Foul,,,,ORL,21,36,0.128,0.107,9:28
+2,8:21,NO,Devonte' Graham,Shooting Foul,Foul,,,,ORL,23,36,0.158,0.135,8:24
+2,7:47,ORL,Cole Anthony,Technical Foul,Foul,,,,ORL,26,36,0.165,0.165,7:47
+2,4:42,NO,Herbert Jones,Shooting Foul,Foul,,,,ORL,30,44,0.133,0.111,4:54
+2,4:23,ORL,Admiral Schofield,Shooting Foul,Foul,,,,ORL,31,44,0.088,0.109,4:40
+2,2:42,ORL,Freddie Gillespie,Shooting Foul,Foul,,,,ORL,34,50,0.053,0.065,2:54
+2,1:41,ORL,Gary Harris,Shooting Foul,Foul,,,,ORL,36,51,0.08,0.074,1:53
+2,58.1,ORL,Cole Anthony,Shooting Foul,Foul,,,,ORL,38,53,0.078,0.072,58.1
+3,11:44,ORL,Wendell Carter Jr.,Personal Foul,Foul,,,,ORL,43,55,0.111,0.123,12:00
+3,9:33,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,,,,ORL,45,63,0.034,0.033,9:33
+3,9:03,ORL,Franz Wagner,Offensive Foul,Foul,,,,ORL,45,63,0.032,0.04,9:20
+3,8:44,NO,Herbert Jones,Shooting Foul,Foul,,,,ORL,45,65,0.026,0.026,8:49
+3,8:07,ORL,Chuma Okeke,Shooting Foul,Foul,,,,ORL,49,65,0.034,0.046,8:23
+3,6:53,NO,Willy Hernangomez,Shooting Foul,Foul,,,,ORL,55,70,0.083,0.063,7:05
+3,3:20,NO,Jaxson Hayes,Shooting Foul,Foul,,,,ORL,68,73,0.283,0.283,3:26
+3,2:34,NO,Jaxson Hayes,Shooting Foul,Foul,,,,ORL,70,75,0.339,0.28,2:43
+3,58.9,ORL,Cole Anthony,Personal Foul,Foul,,,,ORL,76,79,0.251,0.312,1:07
+3,58.5,ORL,Tim Frazier,Away from Play Foul,Foul,,,,ORL,76,79,0.251,0.251,58.9
+4,10:57,ORL,Hassani Gravett,Shooting Foul,Foul,,,,ORL,78,85,0.146,0.181,10:57
+4,10:00,ORL,Admiral Schofield,Personal Foul,Foul,,,,ORL,80,86,0.163,0.17,10:15
+4,8:36,ORL,Tim Frazier,Personal Foul,Foul,,,,ORL,82,88,0.142,0.155,8:57
+4,7:00,ORL,Tim Frazier,Offensive Foul,Foul,,,,ORL,84,91,0.1,0.134,7:12
+4,5:00,NO,Jaxson Hayes,Shooting Foul,Foul,,,,ORL,88,93,0.194,0.189,5:11
+4,4:20,ORL,Gary Harris,Personal Foul,Foul,,,,ORL,90,93,0.146,0.231,4:29
+4,25.2,ORL,Franz Wagner,Personal Take Foul,Foul,,,,ORL,99,104,0.051,0.033,25.2
+4,18.6,ORL,Hassani Gravett,Personal Take Foul,Foul,,,,ORL,102,106,0.019,0.06,21.3
+4,9.4,ORL,Wendell Carter Jr.,Personal Take Foul,Foul,,,,ORL,104,108,0.009,0.035,10.7
+4,5.8,NO,Josh Hart,Personal Foul,Foul,,,,ORL,104,110,0.04,0.021,9.4

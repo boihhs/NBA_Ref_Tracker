@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:20,HOU,Dillon Brooks,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,8,6,0.769,0.796,8:39
+1,8:12,POR,Anfernee Simons,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,8,8,0.802,0.777,8:20
+1,4:52,POR,Deandre Ayton,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,19,17,0.823,0.8,5:03
+1,4:47,HOU,Jeff Green,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,20,17,0.784,0.799,4:52
+1,3:22,HOU,Cam Whitmore,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,22,21,0.721,0.753,3:31
+1,3:07,POR,Scoot Henderson,Defensive 3-Seconds Technical,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,22,23,0.726,0.734,3:22
+1,1:07,POR,Toumani Camara,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,29,28,0.793,0.766,1:28
+2,11:27,POR,Toumani Camara,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,31,30,0.787,0.759,11:35
+2,11:19,HOU,Amen Thompson,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,32,30,0.756,0.757,11:27
+2,11:10,HOU,Jock Landale,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,32,30,0.756,0.756,11:19
+2,10:27,HOU,Dillon Brooks,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,35,30,0.784,0.813,10:36
+2,8:21,HOU,Amen Thompson,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,43,32,0.88,0.9,8:39
+2,7:41,HOU,Amen Thompson,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,45,33,0.893,0.911,7:42
+2,7:12,HOU,Jock Landale,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,47,35,0.893,0.911,7:23
+2,6:52,POR,Deandre Ayton,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,47,37,0.916,0.9,7:12
+2,6:02,POR,Jabari Walker,Loose Ball Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,51,39,0.921,0.922,6:02
+2,3:07,POR,Jabari Walker,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,57,49,0.891,0.87,3:23
+2,1:50,POR,Toumani Camara,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,59,53,0.859,0.831,2:02
+3,11:43,HOU,Jeff Green,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,63,57,0.771,0.817,12:00
+3,9:28,POR,Jabari Walker,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,67,66,0.691,0.69,9:37
+3,8:12,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,72,69,0.692,0.717,8:17
+3,6:34,POR,Matisse Thybulle,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,76,77,0.66,0.606,6:55
+3,3:24,HOU,Jalen Green,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,86,87,0.504,0.581,3:24
+3,2:59,HOU,Alperen Sengun,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,89,88,0.554,0.622,3:12
+3,1:45,HOU,Cam Whitmore,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,94,93,0.544,0.614,1:49
+3,41.0,POR,Matisse Thybulle,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,96,95,0.717,0.658,58.0
+4,11:42,POR,Malcolm Brogdon,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,96,98,0.596,0.477,12:00
+4,11:26,HOU,Dillon Brooks,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,98,98,0.539,0.559,11:42
+4,10:56,POR,Matisse Thybulle,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,100,100,0.651,0.545,10:56
+4,5:18,POR,Malcolm Brogdon,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,112,110,0.772,0.643,5:18
+4,4:14,HOU,Alperen Sengun,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,114,110,0.764,0.776,4:25
+4,2.0,POR,Anfernee Simons,Personal Take Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,122,121,0.976,0.941,3.0
+4,1.1,POR,Anfernee Simons,Personal Take Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,122,121,0.982,0.96,2.0
+5,4:09,HOU,Alperen Sengun,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,126,127,0.377,0.388,4:24
+5,1:50,POR,Deandre Ayton,Shooting Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,126,133,0.13,0.063,2:14
+5,1:13,HOU,Alperen Sengun,Personal Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,127,133,0.019,0.049,1:13
+5,6.2,HOU,Fred VanVleet,Personal Take Foul,Foul,Pat Fraher,Michael Smith,Nick Buchert,HOU,131,135,0.006,0.029,7.2

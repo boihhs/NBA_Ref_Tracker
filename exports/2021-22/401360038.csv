@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,DET,Saddiq Bey,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,0,2,0.313,0.346,11:15
+1,9:22,DET,Jerami Grant,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,3,4,0.338,0.369,9:25
+1,8:58,IND,Myles Turner,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,3,6,0.366,0.347,8:58
+1,5:48,IND,Torrey Craig,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,8,8,0.468,0.429,5:50
+1,5:05,IND,Kelan Martin,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,9,11,0.377,0.378,5:25
+1,4:22,DET,Isaiah Stewart,Loose Ball Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,14,11,0.485,0.486,4:22
+1,2:27,IND,Justin Holiday,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,16,11,0.619,0.577,2:28
+1,32.1,IND,T.J. McConnell,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,18,19,0.433,0.411,32.1
+2,10:36,DET,Hamidou Diallo,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,26,21,0.562,0.561,10:46
+2,10:33,DET,Frank Jackson,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,26,21,0.563,0.562,10:36
+2,9:57,IND,Goga Bitadze,Personal Take Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,26,23,0.534,0.535,9:58
+2,9:13,DET,Cory Joseph,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,31,25,0.597,0.597,9:20
+2,9:10,IND,Malcolm Brogdon,Offensive Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,31,25,0.628,0.597,9:13
+2,9:02,IND,Malcolm Brogdon,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,31,25,0.672,0.628,9:10
+2,7:33,IND,Goga Bitadze,Loose Ball Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,34,27,0.664,0.666,7:33
+2,6:33,DET,Cory Joseph,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,36,27,0.697,0.696,6:40
+2,6:21,DET,Isaiah Stewart,Offensive Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,36,29,0.642,0.672,6:33
+2,6:11,DET,Saddiq Bey,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,36,29,0.595,0.642,6:21
+2,5:59,IND,Torrey Craig,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,38,31,0.694,0.644,5:59
+2,3:30,DET,Killian Hayes,Offensive Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,41,41,0.425,0.462,3:40
+2,1:27,IND,T.J. McConnell,Personal Take Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,47,41,0.714,0.666,1:27
+3,11:48,IND,Kelan Martin,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,49,41,0.782,0.722,12:00
+3,11:40,DET,Killian Hayes,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,51,41,0.769,0.767,11:48
+3,11:28,DET,Cade Cunningham,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,51,43,0.711,0.744,11:28
+3,7:28,IND,Caris LeVert,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,57,53,0.689,0.634,7:46
+3,7:03,DET,Killian Hayes,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,59,53,0.676,0.673,7:03
+3,6:21,DET,Killian Hayes,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,59,55,0.544,0.602,6:29
+3,6:11,DET,Isaiah Stewart,Loose Ball Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,59,55,0.544,0.605,6:11
+3,3:10,DET,Isaiah Stewart,Loose Ball Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,63,66,0.264,0.32,3:10
+3,2:57,IND,Kelan Martin,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,63,67,0.383,0.322,3:10
+3,33.4,IND,Myles Turner,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,72,73,0.425,0.45,49.7
+4,10:02,IND,Kelan Martin,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,73,79,0.221,0.211,10:02
+4,9:49,IND,Malcolm Brogdon,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,73,79,0.296,0.221,10:02
+4,9:12,IND,Torrey Craig,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,76,79,0.36,0.305,9:12
+4,8:38,IND,Justin Holiday,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,79,81,0.475,0.364,8:38
+4,8:18,DET,Frank Jackson,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,80,81,0.335,0.428,8:38
+4,6:38,DET,Trey Lyles,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,80,81,0.312,0.418,6:45
+4,2:23,IND,Caris LeVert,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,90,88,0.84,0.417,8:05
+4,1:36,DET,Cade Cunningham,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,92,88,0.826,0.827,1:39
+4,39.4,IND,Justin Holiday,Personal Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,94,88,0.996,0.825,3:28
+4,34.3,DET,Isaiah Stewart,Shooting Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,96,88,0.959,0.996,39.4
+4,24.4,IND,Kelan Martin,Personal Take Foul,Foul,James Capers,Michael Smith,Matt Myers,DET,96,89,0.998,0.99,32.2

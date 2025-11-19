@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:29,SAC,Domantas Sabonis,Offensive Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,6,7,0.64,0.669,8:35
+1,7:35,POR,Malcolm Brogdon,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,10,10,0.704,0.666,7:35
+1,6:57,SAC,Keon Ellis,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,11,10,0.65,0.684,7:03
+1,4:51,SAC,Kevin Huerter,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,17,14,0.689,0.724,5:03
+1,4:19,SAC,Davion Mitchell,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,17,15,0.7,0.7,4:27
+1,3:15,SAC,Davion Mitchell,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,21,20,0.634,0.673,3:23
+1,2:09,POR,Jabari Walker,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,23,24,0.682,0.644,2:12
+1,1:38,POR,Moses Brown,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,25,26,0.681,0.643,1:55
+1,19.0,SAC,Alex Len,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,34,28,0.781,0.777,33.0
+1,11.1,POR,Toumani Camara,Offensive Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,34,29,0.775,0.756,19.0
+2,11:44,POR,Moses Brown,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,34,29,0.771,0.765,12:00
+2,10:11,SAC,Kessler Edwards,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,38,31,0.78,0.795,10:11
+2,9:26,POR,Deandre Ayton,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,43,33,0.876,0.851,9:26
+2,8:39,SAC,Alex Len,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,43,35,0.82,0.814,8:53
+2,8:17,POR,Deandre Ayton,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,43,36,0.841,0.816,8:29
+2,7:22,SAC,Chris Duarte,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,45,36,0.832,0.831,7:40
+2,6:18,POR,Shaedon Sharpe,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,45,43,0.696,0.696,6:27
+2,5:47,POR,Matisse Thybulle,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,48,43,0.802,0.769,5:49
+2,5:24,SAC,Chris Duarte,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,48,43,0.707,0.744,5:34
+2,4:19,SAC,Keegan Murray,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,50,47,0.646,0.69,4:19
+2,4:15,SAC,Domantas Sabonis,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,50,47,0.646,0.646,4:19
+2,2:54,SAC,Harrison Barnes,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,52,52,0.571,0.629,2:54
+2,2:14,POR,Shaedon Sharpe,Away from Play Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,52,55,0.577,0.522,2:17
+2,2:02,POR,Deandre Ayton,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,53,55,0.609,0.526,2:14
+2,1:43,SAC,Kessler Edwards,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,54,57,0.459,0.519,1:43
+2,3.1,SAC,Davion Mitchell,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,56,58,0.461,0.514,8.1
+3,10:02,POR,Shaedon Sharpe,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,59,64,0.423,0.425,10:24
+3,8:53,POR,Skylar Mays,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,63,64,0.622,0.569,9:13
+3,8:37,POR,Jerami Grant,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,65,64,0.638,0.639,8:40
+3,8:07,SAC,Harrison Barnes,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,67,64,0.619,0.637,8:07
+3,6:33,SAC,Domantas Sabonis,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,74,69,0.688,0.739,6:53
+3,5:36,POR,Toumani Camara,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,74,73,0.688,0.634,5:47
+3,5:15,SAC,Keegan Murray,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,74,73,0.529,0.591,5:23
+3,3:20,POR,Jabari Walker,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,74,77,0.486,0.456,3:29
+3,2:05,POR,Jabari Walker,Offensive Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,79,77,0.667,0.626,2:19
+3,1:52,POR,Justin Minaya,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,81,77,0.773,0.708,1:52
+3,1:46,SAC,Kessler Edwards,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,82,77,0.687,0.541,2:59
+3,1:38,POR,Shaedon Sharpe,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,82,77,0.832,0.783,1:39
+3,35.1,POR,Kris Murray,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,84,81,0.77,0.71,36.1
+3,31.0,SAC,Kessler Edwards,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,85,83,0.587,0.669,31.0
+4,10:44,POR,Jabari Walker,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,89,86,0.761,0.666,10:44
+4,9:52,SAC,Alex Len,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,90,88,0.529,0.678,9:58
+4,9:35,POR,Deandre Ayton,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,90,88,0.757,0.673,9:51
+4,7:54,POR,Skylar Mays,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,92,96,0.36,0.341,8:14
+4,6:27,POR,Skylar Mays,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,96,98,0.51,0.447,6:27
+4,6:00,POR,Deandre Ayton,Offensive Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,100,98,0.713,0.65,6:15
+4,5:46,SAC,Domantas Sabonis,Offensive Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,100,98,0.651,0.682,6:00
+4,5:01,SAC,Keegan Murray,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,100,98,0.532,0.653,5:05
+4,4:15,SAC,Kevin Huerter,Offensive Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,102,101,0.578,0.653,4:25
+4,2:29,POR,Skylar Mays,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,102,107,0.284,0.187,2:43
+4,1:47,POR,Shaedon Sharpe,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,104,109,0.267,0.161,1:59
+4,29.1,SAC,Harrison Barnes,Loose Ball Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,109,111,0.107,0.238,29.1
+4,8.1,POR,Shaedon Sharpe,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,109,111,0.464,0.306,13.2
+5,3:12,SAC,Davion Mitchell,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,116,114,0.621,0.623,3:20
+5,42.1,POR,Jerami Grant,Shooting Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,118,118,0.756,0.464,1:09
+5,13.0,POR,Toumani Camara,Personal Foul,Foul,Bill Kennedy,Jacyn Goble,Matt Kallio,SAC,119,118,0.886,0.803,13.0

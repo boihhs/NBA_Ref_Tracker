@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,ATL,Vit Krejci,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,2,0,0.849,0.85,11:18
+1,9:56,LAC,Paul George,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,5,4,0.817,0.815,9:56
+1,9:09,LAC,James Harden,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,5,6,0.78,0.779,9:11
+1,7:04,ATL,Vit Krejci,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,7,11,0.757,0.727,7:11
+1,5:13,LAC,James Harden,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,15,16,0.755,0.776,5:18
+1,4:42,ATL,De'Andre Hunter,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,15,19,0.742,0.711,4:57
+1,3:40,LAC,Terance Mann,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,20,23,0.684,0.723,3:40
+1,40.0,ATL,Jalen Johnson,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,28,29,0.764,0.724,40.0
+2,11:48,ATL,Bruno Fernando,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,29,31,0.719,0.71,12:00
+2,10:30,LAC,Daniel Theis,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,29,34,0.583,0.604,10:43
+2,10:17,ATL,Bruno Fernando,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,29,36,0.573,0.576,10:30
+2,9:53,LAC,Amir Coffey,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,29,38,0.451,0.506,9:53
+2,7:01,ATL,Vit Krejci,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,36,44,0.554,0.507,7:12
+2,2:49,LAC,Ivica Zubac,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,40,59,0.107,0.132,3:13
+3,11:35,ATL,Vit Krejci,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,44,61,0.135,0.137,11:35
+3,8:56,ATL,Jalen Johnson,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,52,66,0.194,0.149,8:56
+3,8:11,LAC,Ivica Zubac,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,53,66,0.129,0.164,8:20
+3,7:45,LAC,Terance Mann,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,53,67,0.136,0.134,7:48
+3,5:03,ATL,Dejounte Murray,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,53,78,0.013,0.008,5:19
+3,4:19,ATL,Jalen Johnson,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,55,81,0.008,0.005,4:28
+3,3:38,ATL,Bruno Fernando,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,56,81,0.009,0.006,3:55
+3,2:52,ATL,Bruno Fernando,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,58,81,0.009,0.006,2:52
+3,1:32,ATL,Trent Forrest,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,58,85,0.002,0.001,1:55
+3,1:05,ATL,De'Andre Hunter,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,60,85,0.004,0.003,1:17
+3,24.0,LAC,P.J. Tucker,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,62,87,0.001,0.002,24.0
+4,11:01,ATL,De'Andre Hunter,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,64,91,0.001,0.001,11:01
+4,9:44,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,67,91,0.001,0.001,9:48
+4,9:02,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,67,91,0.002,0.001,9:04
+4,8:34,ATL,Jalen Johnson,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,69,91,0.002,0.002,8:39
+4,4:25,ATL,Dejounte Murray,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,80,98,0.002,0.001,4:34
+4,4:10,LAC,Amir Coffey,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,82,98,0.001,0.002,4:25
+4,3:16,ATL,De'Andre Hunter,Personal Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,84,100,0.003,0.001,3:21
+4,1:59,LAC,Xavier Moon,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,88,103,0.001,0.001,2:16
+4,1:58,ATL,Dejounte Murray,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,88,105,0.001,0.001,1:59
+4,1:41,LAC,Xavier Moon,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Mitchell Ervin,LAC,89,105,0.001,0.001,1:58

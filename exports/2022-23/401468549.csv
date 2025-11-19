@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:36,POR,Josh Hart,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,7,8,0.577,0.622,7:36
+1,6:40,POR,Jusuf Nurkic,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,10,13,0.521,0.566,6:40
+1,6:29,MIN,Rudy Gobert,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,10,14,0.579,0.54,6:40
+1,5:55,POR,Josh Hart,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,13,14,0.591,0.591,6:04
+1,4:28,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,17,16,0.697,0.663,4:41
+1,3:58,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,19,19,0.672,0.635,4:18
+1,2:25,MIN,Naz Reid,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,23,23,0.67,0.631,2:42
+1,51.1,MIN,Wendell Moore Jr.,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,27,27,0.667,0.627,1:03
+1,16.1,MIN,Wendell Moore Jr.,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,31,27,0.742,0.705,16.1
+1,6.0,POR,Justise Winslow,Personal Take Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,32,27,0.691,0.725,16.1
+2,11:28,POR,Jerami Grant,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,34,27,0.737,0.77,11:43
+2,11:07,POR,Jerami Grant,Loose Ball Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,34,29,0.725,0.724,11:07
+2,8:28,POR,Justise Winslow,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,44,40,0.659,0.697,8:38
+2,7:32,MIN,Rudy Gobert,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,47,44,0.735,0.697,7:35
+2,5:06,MIN,Anthony Edwards,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,54,52,0.707,0.666,5:09
+2,4:59,POR,Justise Winslow,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,55,54,0.582,0.636,4:59
+2,4:03,MIN,Jaden McDaniels,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,57,57,0.605,0.604,4:12
+2,2:38,MIN,Anthony Edwards,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,60,59,0.678,0.632,2:45
+2,1:50,MIN,Rudy Gobert,Loose Ball Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,62,59,0.734,0.693,1:50
+2,1:35,POR,Anfernee Simons,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,63,61,0.602,0.659,1:35
+2,55.1,POR,Anfernee Simons,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,63,64,0.502,0.563,55.1
+2,20.0,MIN,Austin Rivers,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,63,66,0.542,0.484,32.0
+3,10:45,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,68,68,0.553,0.55,10:45
+3,8:49,MIN,D'Angelo Russell,Offensive Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,70,71,0.545,0.508,8:56
+3,8:20,POR,Josh Hart,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,70,71,0.508,0.506,8:28
+3,7:40,POR,Anfernee Simons,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,72,76,0.359,0.423,7:40
+3,5:16,POR,Jusuf Nurkic,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,76,83,0.205,0.255,5:22
+3,4:48,POR,Justise Winslow,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,76,84,0.172,0.218,5:01
+3,3:58,POR,Justise Winslow,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,80,88,0.183,0.241,3:58
+3,3:16,MIN,Anthony Edwards,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,82,89,0.302,0.235,3:16
+3,2:02,MIN,Kyle Anderson,Loose Ball Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,86,91,0.343,0.34,2:02
+3,1:33,MIN,Jaylen Nowell,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,86,91,0.403,0.338,1:35
+3,1:25,POR,Damian Lillard,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,88,91,0.31,0.378,1:33
+3,1:13,MIN,Kyle Anderson,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,88,92,0.447,0.378,1:25
+3,55.1,MIN,Austin Rivers,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,90,92,0.539,0.469,1:03
+4,10:31,POR,Jerami Grant,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,98,94,0.695,0.705,10:31
+4,10:09,POR,Trendon Watford,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,98,94,0.689,0.695,10:31
+4,8:33,POR,Drew Eubanks,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,103,96,0.789,0.87,8:33
+4,6:41,POR,Drew Eubanks,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,107,101,0.728,0.809,6:52
+4,6:27,POR,Jusuf Nurkic,Offensive Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,107,103,0.705,0.753,6:41
+4,4:22,POR,Josh Hart,Shooting Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,115,110,0.694,0.782,4:42
+4,42.1,MIN,Rudy Gobert,Offensive Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,122,116,0.966,0.933,46.1
+4,12.0,POR,Josh Hart,Personal Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,122,116,0.921,0.973,16.0
+4,10.1,MIN,D'Angelo Russell,Personal Take Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,122,118,0.989,0.95,12.0
+4,8.1,MIN,Kyle Anderson,Personal Take Foul,Foul,Pat Fraher,Matt Myers,Ashley Moyer-Gleich,POR,122,118,0.991,0.989,10.1

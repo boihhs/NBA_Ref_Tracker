@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:16,DAL,Luka Doncic,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,2,0,0.727,0.728,11:22
+1,10:42,BOS,Jrue Holiday,Loose Ball Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,2,0,0.706,0.706,10:42
+1,7:12,BOS,Jaylen Brown,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,9,2,0.796,0.796,7:26
+1,7:02,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,9,4,0.744,0.778,7:02
+1,6:49,DAL,Kyrie Irving,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,9,5,0.773,0.759,7:02
+1,3:07,DAL,Josh Green,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,16,15,0.718,0.686,3:23
+1,2:33,DAL,Dereck Lively II,Offensive Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,17,15,0.705,0.682,2:38
+2,10:00,DAL,P.J. Washington,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,34,22,0.887,0.891,10:10
+2,9:23,DAL,P.J. Washington,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,34,22,0.887,0.889,9:28
+2,8:27,DAL,Kyrie Irving,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,36,24,0.906,0.888,8:46
+2,8:03,BOS,Kristaps Porzingis,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,41,27,0.903,0.901,8:10
+2,7:23,BOS,Jaylen Brown,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,43,30,0.868,0.89,7:32
+2,7:08,DAL,Maxi Kleber,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,45,31,0.924,0.904,7:08
+2,6:56,BOS,Jayson Tatum,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,46,31,0.897,0.915,7:08
+2,41.1,DAL,Luka Doncic,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,60,44,0.959,0.947,1:03
+2,4.0,BOS,Jayson Tatum,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,64,46,0.951,0.963,4.0
+3,10:31,DAL,Daniel Gafford,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,69,48,0.982,0.982,10:47
+3,10:03,BOS,Jrue Holiday,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,72,48,0.989,0.989,10:22
+3,9:37,BOS,Jaylen Brown,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,75,50,0.992,0.992,9:46
+3,9:32,BOS,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,75,50,0.988,0.992,9:37
+3,9:19,DAL,Dereck Lively II,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,75,52,0.993,0.99,9:32
+3,6:31,DAL,Luka Doncic,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,78,56,0.99,0.991,6:38
+3,6:28,DAL,Dereck Lively II,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,78,56,0.993,0.99,6:31
+3,5:09,BOS,Kristaps Porzingis,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,80,61,0.975,0.984,5:09
+3,4:41,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,80,62,0.983,0.974,4:50
+3,3:03,BOS,Al Horford,Loose Ball Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,82,64,0.969,0.979,3:03
+4,11:12,DAL,Dereck Lively II,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,86,67,0.995,0.994,11:19
+4,10:39,DAL,P.J. Washington,Personal Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,86,67,0.995,0.995,10:49
+4,9:58,BOS,Jaylen Brown,Offensive Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,86,67,0.994,0.996,10:10
+4,7:52,DAL,Dereck Lively II,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,93,72,0.999,0.999,7:52
+4,6:31,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,96,75,0.999,0.999,6:33
+4,4:20,DAL,Maxi Kleber,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,102,78,0.999,0.999,4:21
+4,3:40,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,104,80,0.999,0.999,4:02
+4,2:02,BOS,Al Horford,Shooting Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,106,85,0.999,0.999,2:18
+4,38.2,BOS,Sam Hauser,Personal Take Foul,Foul,Bill Kennedy,Zach Zarba,John Goble,BOS,106,88,0.999,0.999,46.0

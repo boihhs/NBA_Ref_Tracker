@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:46,WSH,Jordan Poole,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,4,2,0.965,0.966,10:51
+1,9:51,BOS,Jaylen Brown,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,8,6,0.957,0.963,9:51
+1,9:32,WSH,Kyle Kuzma,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,8,7,0.964,0.96,9:51
+1,9:22,BOS,Kristaps Porzingis,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,10,7,0.962,0.963,9:32
+1,4:55,WSH,Bilal Coulibaly,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,18,20,0.926,0.928,5:10
+1,4:27,WSH,Eugene Omoruyi,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,20,20,0.947,0.938,4:28
+1,2:23,WSH,Corey Kispert,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,23,27,0.909,0.896,2:41
+1,1:29,BOS,Al Horford,Loose Ball Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,25,31,0.824,0.849,1:29
+2,10:58,WSH,Jordan Poole,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,31,35,0.869,0.869,11:04
+2,9:43,WSH,Delon Wright,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,35,35,0.914,0.896,9:43
+2,9:32,BOS,Sam Hauser,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,36,35,0.89,0.907,9:43
+2,9:24,WSH,Kyle Kuzma,Defensive 3-Seconds Technical,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,36,37,0.892,0.896,9:32
+2,9:10,BOS,Luke Kornet,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,37,37,0.875,0.893,9:15
+2,8:27,WSH,Landry Shamet,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,39,39,0.915,0.901,8:37
+2,5:02,WSH,Deni Avdija,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,50,53,0.855,0.834,5:19
+2,4:48,WSH,Bilal Coulibaly,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,52,53,0.883,0.862,4:54
+2,3:53,BOS,Kristaps Porzingis,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,56,53,0.877,0.897,4:03
+2,1:43,BOS,Derrick White,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,62,57,0.892,0.91,1:51
+2,1:07,WSH,Kyle Kuzma,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,62,62,0.873,0.852,1:27
+3,11:31,BOS,Jayson Tatum,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,64,71,0.555,0.605,11:33
+3,9:37,BOS,Derrick White,Transition Take Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,68,74,0.605,0.606,9:38
+3,8:27,WSH,Bilal Coulibaly,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,72,74,0.754,0.755,8:30
+3,8:00,WSH,Deni Avdija,Loose Ball Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,72,74,0.748,0.748,8:00
+3,7:32,BOS,Jaylen Brown,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,74,74,0.77,0.771,7:45
+3,6:53,WSH,Kyle Kuzma,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,74,76,0.731,0.735,7:04
+3,6:50,BOS,Kristaps Porzingis,Offensive Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,74,76,0.698,0.731,6:53
+3,5:55,WSH,Bilal Coulibaly,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,76,76,0.819,0.782,6:05
+3,5:04,WSH,Kyle Kuzma,Loose Ball Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,79,78,0.836,0.799,5:04
+3,3:27,WSH,Eugene Omoruyi,Offensive Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,84,83,0.784,0.753,3:36
+3,3:11,WSH,Deni Avdija,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,84,83,0.823,0.784,3:27
+3,1:06,WSH,Jordan Poole,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,93,85,0.948,0.929,1:19
+4,11:13,BOS,Luke Kornet,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,102,89,0.966,0.98,11:13
+4,10:44,WSH,Jordan Poole,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,104,90,0.989,0.98,10:44
+4,10:02,BOS,Jrue Holiday,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,105,94,0.945,0.969,10:02
+4,6:31,BOS,Derrick White,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,114,103,0.943,0.969,6:34
+4,4:18,BOS,Jaylen Brown,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,120,108,0.971,0.984,4:43
+4,4:02,WSH,Jordan Poole,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,120,110,0.99,0.978,4:18
+4,3:36,WSH,Kyle Kuzma,Personal Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,122,110,0.997,0.993,3:47
+4,3:24,WSH,Deni Avdija,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,124,110,0.998,0.996,3:24
+4,51.1,BOS,Jrue Holiday,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,129,124,0.846,0.939,51.1
+4,19.1,WSH,Deni Avdija,Personal Take Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,131,127,0.977,0.927,25.1
+4,8.1,WSH,Tyus Jones,Personal Take Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,132,127,0.997,0.981,12.1
+4,7.2,BOS,Derrick White,Personal Take Foul,Foul,Mark Lindsay,CJ Washington,Andy Nagy,BOS,133,127,0.945,0.987,8.1

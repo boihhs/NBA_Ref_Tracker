@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,0,0,0.663,0.699,11:31
+1,8:19,DAL,Luka Doncic,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,10,2,0.81,0.835,8:35
+1,6:44,LAL,Austin Reaves,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,15,8,0.854,0.833,6:55
+1,6:32,DAL,Dwight Powell,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,17,8,0.824,0.847,6:44
+1,5:30,LAL,Russell Westbrook,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,23,12,0.886,0.886,5:30
+1,4:54,LAL,Wenyen Gabriel,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,23,14,0.879,0.86,5:04
+1,4:38,LAL,Austin Reaves,Offensive Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,25,14,0.886,0.873,4:54
+1,1:51,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,32,22,0.833,0.858,1:57
+2,9:28,DAL,Maxi Kleber,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,50,27,0.976,0.975,9:31
+2,9:06,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,50,29,0.977,0.971,9:14
+2,8:47,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,52,31,0.977,0.972,8:58
+2,6:58,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,60,33,0.993,0.994,6:58
+2,6:35,DAL,Maxi Kleber,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,63,33,0.992,0.994,6:43
+2,6:22,DAL,Jalen Brunson,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,63,35,0.988,0.991,6:24
+2,5:39,LAL,Wenyen Gabriel,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,63,37,0.992,0.989,5:49
+2,4:29,LAL,Russell Westbrook,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,65,42,0.987,0.982,4:43
+2,3:52,LAL,Trevor Ariza,Personal Take Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,67,44,0.988,0.983,3:53
+2,3:13,LAL,Avery Bradley,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,69,44,0.992,0.989,3:26
+2,3:00,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,71,44,0.988,0.991,3:13
+2,2:41,LAL,Avery Bradley,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,71,46,0.992,0.99,3:00
+2,45.1,DAL,Dwight Powell,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,79,52,0.99,0.994,46.4
+3,10:09,DAL,Dwight Powell,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,89,58,0.997,0.998,10:21
+3,4:10,LAL,Kent Bazemore,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,105,74,0.999,0.999,4:10
+3,4:02,LAL,Kent Bazemore,Offensive Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,105,74,0.999,0.999,4:08
+3,1:36,LAL,Stanley Johnson,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,108,82,0.999,0.999,1:56
+3,1:04,LAL,Carmelo Anthony,Offensive Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,111,82,0.999,0.999,1:21
+3,53.6,LAL,Austin Reaves,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,113,82,0.999,0.999,53.6
+4,11:07,LAL,Russell Westbrook,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,113,86,0.999,0.999,11:24
+4,10:23,LAL,Carmelo Anthony,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,113,89,0.999,0.999,10:47
+4,8:24,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,119,93,0.999,0.999,8:24
+4,4:15,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,122,102,0.999,0.999,4:15
+4,4:03,LAL,Avery Bradley,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,122,103,0.999,0.999,4:15
+4,3:34,DAL,Josh Green,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,125,103,0.999,0.999,3:50
+4,3:26,LAL,Kent Bazemore,Personal Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,125,105,0.999,0.999,3:34
+4,2:08,DAL,Davis Bertans,Personal Take Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,127,105,0.999,0.999,2:14
+4,1:33,LAL,Kent Bazemore,Shooting Foul,Foul,Dedric Taylor,Marc Davis,Natalie Sago,DAL,127,105,0.999,0.999,1:33

@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:12,ORL,Franz Wagner,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,2,5,0.476,0.515,10:33
+1,8:23,ORL,Markelle Fultz,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,6,11,0.419,0.456,8:24
+1,7:45,WSH,Bradley Beal,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,8,13,0.52,0.481,7:47
+1,5:38,WSH,Kristaps Porzingis,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,14,17,0.527,0.501,5:52
+1,2:51,ORL,Wendell Carter Jr.,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,16,21,0.436,0.432,3:02
+1,1:40,WSH,Bradley Beal,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,20,25,0.5,0.459,1:59
+2,10:30,ORL,Caleb Houstan,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,31,27,0.654,0.703,10:30
+2,8:44,WSH,Jordan Goodwin,Loose Ball Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,34,35,0.559,0.56,8:44
+2,6:37,ORL,Cole Anthony,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,37,44,0.292,0.334,6:47
+2,5:55,WSH,Kristaps Porzingis,Offensive Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,42,47,0.424,0.393,6:04
+2,5:14,WSH,Jordan Goodwin,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,42,49,0.406,0.361,5:29
+2,4:53,WSH,Bradley Beal,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,46,49,0.507,0.453,4:53
+2,4:15,ORL,Cole Anthony,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,47,51,0.37,0.415,4:19
+2,2:50,ORL,Markelle Fultz,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,52,52,0.494,0.542,2:56
+2,1:06,ORL,Paolo Banchero,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,57,54,0.591,0.641,1:22
+3,9:39,WSH,Daniel Gafford,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,62,61,0.603,0.604,9:44
+3,9:33,WSH,Corey Kispert,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,62,61,0.602,0.603,9:39
+3,8:23,WSH,Bradley Beal,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,66,65,0.656,0.601,8:33
+3,7:56,ORL,Paolo Banchero,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,68,65,0.582,0.636,8:02
+3,6:15,WSH,Bradley Beal,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,74,71,0.727,0.676,6:15
+3,5:42,WSH,Deni Avdija,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,74,71,0.729,0.677,5:43
+3,5:32,ORL,Franz Wagner,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,76,71,0.711,0.711,5:42
+3,5:13,WSH,Daniel Gafford,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,76,73,0.73,0.677,5:22
+3,3:30,WSH,Corey Kispert,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,81,75,0.832,0.788,3:47
+3,3:21,ORL,Kevon Harris,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,83,75,0.77,0.818,3:30
+3,2:43,ORL,Kevon Harris,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,83,79,0.652,0.723,2:43
+3,2:41,ORL,Cole Anthony,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,83,79,0.652,0.683,2:41
+3,2:20,ORL,Wendell Carter Jr.,Offensive Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,83,81,0.599,0.644,2:26
+4,11:36,WSH,Daniel Gafford,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,87,91,0.444,0.355,11:48
+4,10:19,ORL,Moritz Wagner,Loose Ball Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,91,91,0.484,0.502,10:19
+4,9:45,WSH,Daniel Gafford,Offensive Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,93,91,0.657,0.599,9:54
+4,8:27,ORL,Caleb Houstan,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,97,91,0.788,0.798,8:41
+4,8:22,ORL,Caleb Houstan,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,97,93,0.643,0.753,8:22
+4,5:07,ORL,Franz Wagner,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,105,99,0.744,0.831,5:19
+4,4:26,ORL,Markelle Fultz,Personal Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,105,101,0.625,0.722,4:39
+4,4:12,WSH,Corey Kispert,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,105,102,0.821,0.73,4:23
+4,4:00,ORL,Wendell Carter Jr.,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,107,102,0.7,0.791,4:12
+4,3:04,WSH,Kristaps Porzingis,Offensive Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,110,103,0.936,0.897,3:21
+4,2:55,WSH,Bradley Beal,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,110,103,0.97,0.936,3:04
+4,1:28,WSH,Jordan Goodwin,Shooting Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,116,107,0.996,0.988,1:36
+4,34.0,WSH,Delon Wright,Personal Take Foul,Foul,John Goble,Dedric Taylor,John Butler,ORL,120,110,0.999,0.998,46.0

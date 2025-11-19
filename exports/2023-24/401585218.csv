@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:29,IND,Myles Turner,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,4,6,0.251,0.222,9:50
+1,4:53,IND,Pascal Siakam,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,17,22,0.213,0.188,4:58
+1,4:30,POR,Scoot Henderson,Loose Ball Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,19,22,0.205,0.204,4:30
+1,3:47,IND,Jalen Smith,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,21,25,0.207,0.207,3:58
+1,3:43,IND,Obi Toppin,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,23,25,0.261,0.226,3:43
+1,1:35,IND,T.J. McConnell,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,28,27,0.363,0.324,1:41
+1,4.0,POR,Kris Murray,Offensive Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,34,30,0.388,0.415,14.1
+1,2.0,POR,Jabari Walker,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,34,30,0.347,0.388,4.0
+1,2.0,POR,Toumani Camara,Away from Play Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,34,30,0.347,0.347,2.0
+2,9:28,POR,Scoot Henderson,Flagrant Foul Type 1,Foul,Scott Foster,Aaron Smith,Nate Green,POR,40,33,0.507,0.494,9:51
+2,9:06,POR,Jabari Walker,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,40,36,0.387,0.441,9:06
+2,7:58,IND,Aaron Nesmith,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,42,40,0.433,0.386,8:01
+2,7:04,POR,Malcolm Brogdon,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,44,40,0.424,0.423,7:11
+2,1:00,IND,Ben Sheppard,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,60,52,0.699,0.648,1:06
+2,21.1,POR,Jerami Grant,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,64,52,0.703,0.75,29.1
+3,10:06,IND,Aaron Nesmith,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,66,60,0.666,0.614,10:14
+3,8:41,IND,Myles Turner,Offensive Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,71,65,0.628,0.587,8:42
+3,7:57,IND,Pascal Siakam,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,71,68,0.516,0.516,8:10
+3,7:35,POR,Jerami Grant,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,71,70,0.374,0.44,7:35
+3,6:17,IND,Buddy Hield,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,75,73,0.492,0.493,6:17
+3,5:35,POR,Deandre Ayton,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,75,73,0.395,0.456,5:38
+3,3:34,POR,Duop Reath,Loose Ball Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,81,75,0.648,0.646,3:34
+3,2:52,POR,Duop Reath,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,81,75,0.59,0.654,3:03
+3,2:45,IND,Pascal Siakam,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,81,76,0.723,0.661,2:45
+3,2:27,POR,Toumani Camara,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,81,78,0.492,0.574,2:27
+3,1:31,IND,Tyrese Haliburton,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,83,78,0.741,0.674,1:43
+3,30.0,IND,Obi Toppin,Loose Ball Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,84,81,0.668,0.595,32.0
+4,11:42,IND,Buddy Hield,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,88,81,0.8,0.761,12:00
+4,10:27,IND,Buddy Hield,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,93,84,0.919,0.878,10:32
+4,9:49,POR,Duop Reath,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,95,86,0.794,0.86,9:51
+4,9:22,POR,Malcolm Brogdon,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,95,90,0.64,0.745,9:22
+4,9:10,IND,Jalen Smith,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,95,91,0.781,0.691,9:22
+4,8:37,IND,Pascal Siakam,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,97,91,0.863,0.8,8:50
+4,8:08,IND,Aaron Nesmith,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,99,91,0.923,0.886,8:12
+4,7:24,IND,Aaron Nesmith,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,101,91,0.964,0.939,7:39
+4,6:44,POR,Duop Reath,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,104,91,0.968,0.972,6:52
+4,5:10,POR,Malcolm Brogdon,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,104,96,0.837,0.925,5:31
+4,4:47,POR,Matisse Thybulle,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,104,97,0.797,0.868,4:49
+4,3:11,POR,Jabari Walker,Shooting Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,108,101,0.835,0.897,3:26
+4,2:40,POR,Matisse Thybulle,Loose Ball Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,110,103,0.851,0.915,2:40
+4,2:35,IND,Aaron Nesmith,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,110,103,0.971,0.946,2:36
+4,1:50,IND,Myles Turner,Loose Ball Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,114,105,0.994,0.987,1:50
+4,1:22,POR,Matisse Thybulle,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,116,108,0.928,0.968,1:22
+4,10.1,IND,Buddy Hield,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,116,113,0.971,0.902,16.1
+4,4.1,IND,Aaron Nesmith,Personal Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,117,113,0.995,0.982,4.1
+4,4.1,POR,Jabari Walker,Double Technical Foul,Foul,Scott Foster,Aaron Smith,Nate Green,POR,117,113,0.968,0.995,4.1

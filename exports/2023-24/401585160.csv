@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:25,PHI,De'Anthony Melton,Personal Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,3,3,0.599,0.6,10:30
+1,8:13,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,6,7,0.59,0.593,8:13
+1,7:28,SAC,Domantas Sabonis,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,8,7,0.657,0.615,7:28
+1,7:04,PHI,Paul Reed,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,9,7,0.621,0.638,7:04
+1,6:15,SAC,Chris Duarte,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,11,8,0.702,0.663,6:15
+1,5:36,SAC,De'Aaron Fox,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,12,8,0.74,0.708,5:52
+1,5:08,SAC,Keegan Murray,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,14,10,0.739,0.707,5:25
+1,4:45,SAC,Colby Jones,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,16,12,0.739,0.707,4:57
+1,2:38,SAC,Colby Jones,Loose Ball Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,18,16,0.693,0.656,2:55
+1,1:23,SAC,Juan Toscano-Anderson,Personal Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,23,19,0.739,0.705,1:31
+1,1:10,PHI,Danuel House Jr.,Personal Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,25,19,0.692,0.728,1:23
+1,1.0,PHI,Patrick Beverley,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,29,19,0.783,0.811,20.1
+2,8:28,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,40,26,0.898,0.899,8:28
+2,59.0,PHI,Nicolas Batum,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,60,41,0.944,0.957,1:08
+3,10:23,PHI,Nicolas Batum,Personal Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,65,50,0.926,0.925,10:33
+3,9:15,PHI,Paul Reed,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,71,52,0.962,0.973,9:15
+3,8:12,PHI,De'Anthony Melton,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,74,54,0.971,0.981,8:12
+3,8:04,SAC,Keegan Murray,Personal Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,74,55,0.976,0.976,8:12
+3,7:01,PHI,De'Anthony Melton,Personal Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,79,58,0.975,0.982,7:14
+3,5:15,PHI,Tyrese Maxey,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,81,62,0.973,0.982,5:15
+3,4:26,PHI,Paul Reed,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,81,63,0.963,0.973,4:39
+3,3:59,SAC,Trey Lyles,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,81,65,0.978,0.968,4:11
+3,3:47,PHI,Paul Reed,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,83,65,0.971,0.975,3:59
+3,2:06,SAC,De'Aaron Fox,Personal Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,85,69,0.976,0.974,2:21
+3,1:59,SAC,Alex Len,Loose Ball Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,85,69,0.983,0.975,1:59
+3,34.1,PHI,Danuel House Jr.,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,85,71,0.935,0.955,47.1
+4,11:13,PHI,Danuel House Jr.,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,89,73,0.965,0.979,11:22
+4,10:23,PHI,Patrick Beverley,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,92,74,0.982,0.99,10:27
+4,10:06,SAC,Keon Ellis,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,92,75,0.993,0.989,10:23
+4,8:37,SAC,Malik Monk,Personal Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,96,75,0.999,0.998,8:51
+4,7:40,PHI,Tyrese Maxey,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,98,77,0.997,0.998,7:54
+4,7:24,PHI,Mo Bamba,Offensive Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,98,78,0.998,0.998,7:24
+4,5:50,PHI,Tyrese Maxey,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,103,78,0.999,0.999,6:01
+4,5:46,SAC,Harrison Barnes,Personal Take Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,103,81,0.999,0.999,5:50
+4,4:44,SAC,Kessler Edwards,Personal Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,103,83,0.999,0.999,5:00
+4,1:44,SAC,Colby Jones,Shooting Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,103,87,0.999,0.999,1:53
+4,44.0,PHI,Jaden Springer,Personal Foul,Foul,Scott Wall,Mitchell Ervin,Tyler Ford,PHI,110,89,0.999,0.999,53.0

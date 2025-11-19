@@ -1,0 +1,60 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:17,DAL,Frank Ntilikina,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,3,7,0.477,0.44,9:27
+1,8:01,POR,Tony Snell,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,8,12,0.411,0.437,8:01
+1,7:05,POR,Norman Powell,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,8,13,0.383,0.382,7:12
+1,6:58,POR,Larry Nance Jr.,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,8,13,0.345,0.383,7:05
+1,6:22,POR,Tony Snell,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,8,16,0.289,0.332,6:22
+1,6:12,DAL,Dwight Powell,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,8,17,0.326,0.306,6:22
+1,4:53,DAL,Dwight Powell,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,13,19,0.399,0.379,4:58
+1,4:09,POR,Anfernee Simons,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,17,21,0.384,0.431,4:09
+1,3:59,POR,Greg Brown III,Offensive Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,17,22,0.378,0.405,4:09
+1,3:50,DAL,Moses Brown,Offensive Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,17,22,0.405,0.378,3:59
+1,3:36,DAL,Moses Brown,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,17,22,0.443,0.405,3:50
+1,2:10,DAL,Josh Green,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,22,27,0.387,0.374,2:10
+1,1:56,POR,Greg Brown III,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,23,27,0.379,0.398,1:56
+1,1:12,POR,Damian Lillard,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,23,30,0.277,0.313,1:12
+2,10:24,DAL,Boban Marjanovic,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,33,36,0.469,0.416,10:24
+2,9:31,POR,CJ Elleby,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,34,39,0.358,0.358,9:46
+2,9:20,POR,Anfernee Simons,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,34,39,0.317,0.358,9:31
+2,8:02,POR,Norman Powell,Loose Ball Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,41,41,0.506,0.504,8:02
+2,6:35,DAL,Frank Ntilikina,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,41,50,0.307,0.27,6:54
+2,3:13,DAL,Josh Green,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,44,62,0.076,0.077,3:23
+2,2:58,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,46,62,0.114,0.087,2:58
+2,2:24,POR,Larry Nance Jr.,Loose Ball Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,47,62,0.079,0.099,2:24
+2,2:00,DAL,Frank Ntilikina,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,47,62,0.127,0.114,2:00
+2,1:03,DAL,Dwight Powell,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,49,67,0.088,0.07,1:17
+2,33.7,DAL,Dorian Finney-Smith,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,51,70,0.073,0.055,40.7
+3,11:12,DAL,Frank Ntilikina,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,53,74,0.033,0.034,11:24
+3,9:17,POR,Tony Snell,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,57,78,0.018,0.027,9:17
+3,8:24,POR,Nassir Little,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,60,80,0.018,0.024,8:28
+3,8:11,DAL,Dwight Powell,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,60,82,0.019,0.019,8:24
+3,7:56,POR,Norman Powell,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,60,82,0.01,0.015,8:02
+3,7:31,POR,Nassir Little,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,60,83,0.011,0.011,7:37
+3,7:11,DAL,Moses Brown,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,62,85,0.012,0.011,7:11
+3,5:12,DAL,Brandon Knight,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,68,94,0.006,0.004,5:20
+3,4:14,DAL,Theo Pinson,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,71,96,0.007,0.004,4:19
+3,3:47,DAL,Theo Pinson,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,73,96,0.011,0.007,3:54
+3,3:18,DAL,Marquese Chriss,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,74,96,0.014,0.009,3:23
+3,2:35,POR,CJ Elleby,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,76,98,0.003,0.005,2:35
+3,2:21,DAL,Josh Green,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,76,100,0.006,0.004,2:35
+3,2:10,POR,Anfernee Simons,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,78,100,0.003,0.005,2:21
+3,1:31,POR,Greg Brown III,Offensive Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,80,104,0.002,0.002,1:40
+4,11:48,POR,CJ Elleby,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,84,106,0.001,0.002,12:00
+4,10:20,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,89,112,0.001,0.001,10:20
+4,9:59,DAL,Kristaps Porzingis,Loose Ball Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,89,112,0.001,0.001,9:59
+4,9:49,DAL,Kristaps Porzingis,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,89,112,0.003,0.001,9:59
+4,9:49,DAL,Kristaps Porzingis,Technical Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,89,112,0.002,0.003,9:49
+4,9:37,POR,CJ Elleby,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,92,112,0.003,0.003,9:49
+4,9:33,POR,Anfernee Simons,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,92,112,0.002,0.003,9:37
+4,9:23,POR,Nassir Little,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,92,114,0.001,0.001,9:23
+4,9:10,POR,CJ Elleby,Loose Ball Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,92,115,0.001,0.001,9:10
+4,6:46,POR,Nassir Little,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,94,122,0.001,0.001,6:58
+4,6:29,DAL,Dwight Powell,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,94,123,0.001,0.001,6:44
+4,5:52,POR,Cam McGriff,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,96,125,0.001,0.001,5:57
+4,5:41,DAL,Josh Green,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,96,125,0.001,0.001,5:49
+4,3:42,DAL,Charlie Brown Jr.,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,105,125,0.001,0.001,3:49
+4,3:26,POR,Jarron Cumberland,Personal Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,107,125,0.001,0.001,3:42
+4,2:50,DAL,George King,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,107,130,0.001,0.001,3:01
+4,2:19,DAL,Marquese Chriss,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,109,130,0.001,0.001,2:32
+4,1:45,POR,Jarron Cumberland,Loose Ball Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,110,130,0.001,0.001,1:45
+4,1:03,DAL,George King,Shooting Foul,Foul,Che Flores,Scott Twardoski,Ray Acosta,POR,112,132,0.001,0.001,1:03

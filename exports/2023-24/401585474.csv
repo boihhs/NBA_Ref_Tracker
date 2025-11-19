@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:28,CLE,Donovan Mitchell,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,0,3,0.249,0.222,11:44
+1,6:39,CHI,Andre Drummond,Offensive Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,9,16,0.154,0.168,6:45
+1,6:10,CHI,Terry Taylor,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,9,16,0.154,0.154,6:16
+1,5:38,CLE,Dean Wade,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,9,19,0.137,0.127,5:39
+1,2:35,CHI,DeMar DeRozan,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,16,25,0.119,0.145,2:35
+1,29.1,CLE,Caris LeVert,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,21,32,0.14,0.117,37.2
+2,11:01,CLE,Evan Mobley,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,25,35,0.144,0.131,11:01
+2,10:33,CLE,Isaac Okoro,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,26,35,0.16,0.148,10:35
+2,8:47,CLE,Evan Mobley,Defensive 3-Seconds Technical,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,31,35,0.241,0.246,8:56
+2,1:57,CHI,Andre Drummond,Defensive 3-Seconds Technical,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,48,45,0.459,0.447,2:08
+2,1:22,CHI,Nikola Vucevic,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,48,49,0.303,0.323,1:22
+2,1:08,CLE,Max Strus,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,48,51,0.341,0.295,1:08
+2,59.0,CLE,Darius Garland,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,48,51,0.341,0.341,1:08
+3,11:51,CLE,Donovan Mitchell,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,52,53,0.411,0.344,12:00
+3,8:50,CHI,Coby White,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,58,63,0.178,0.215,8:52
+3,8:17,CLE,Max Strus,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,58,63,0.292,0.244,8:26
+3,8:04,CHI,Nikola Vucevic,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,60,63,0.276,0.273,8:17
+3,4:24,CLE,Max Strus,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,71,68,0.595,0.52,4:24
+3,3:58,CHI,Nikola Vucevic,Offensive Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,72,70,0.481,0.523,4:03
+3,3:19,CHI,Julian Phillips,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,72,70,0.487,0.486,3:21
+3,2:59,CHI,Onuralp Bitim,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,72,70,0.422,0.487,3:19
+3,2:01,CHI,DeMar DeRozan,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,74,74,0.339,0.405,2:06
+3,1:17,CLE,Darius Garland,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,74,78,0.342,0.28,1:31
+3,11.1,CHI,DeMar DeRozan,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,76,80,0.185,0.236,32.0
+3,3.1,CLE,Jarrett Allen,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,76,81,0.301,0.24,8.1
+4,11:08,CHI,Andre Drummond,Offensive Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,78,83,0.193,0.236,11:21
+4,3:26,CHI,Nikola Vucevic,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,98,99,0.302,0.445,3:26
+4,3:14,CLE,Jarrett Allen,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,98,100,0.488,0.361,3:26
+4,2:49,CLE,Darius Garland,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,100,100,0.539,0.527,2:56
+4,38.1,CLE,Caris LeVert,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,102,103,0.545,0.494,38.1
+5,3:16,CHI,Nikola Vucevic,Loose Ball Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,106,106,0.454,0.46,3:16
+5,44.0,CHI,Nikola Vucevic,Loose Ball Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,110,112,0.101,0.198,44.0
+5,13.1,CHI,Coby White,Personal Take Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,112,114,0.059,0.169,21.1
+5,12.1,CLE,Jarrett Allen,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,112,115,0.383,0.148,12.2
+6,2:57,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,120,115,0.885,0.885,2:57
+6,2:20,CLE,Caris LeVert,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,120,115,0.905,0.901,2:23
+6,1:46,CLE,Donovan Mitchell,Personal Take Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,122,115,0.987,0.968,1:50
+6,1:20,CHI,DeMar DeRozan,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,122,115,0.891,0.959,1:26
+6,1:17,CLE,Darius Garland,Loose Ball Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,122,115,0.989,0.974,1:17
+6,45.2,CLE,Max Strus,Shooting Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,123,118,0.975,0.926,1:05
+6,34.1,CLE,Donovan Mitchell,Personal Take Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,125,121,0.961,0.903,41.0
+6,17.0,CLE,Evan Mobley,Personal Take Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,127,121,0.997,0.986,19.0
+6,16.0,CHI,Andre Drummond,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,129,121,0.98,0.994,17.0
+6,16.0,CLE,Caris LeVert,Away from Play Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,129,123,0.997,0.99,16.0
+6,15.2,CLE,Max Strus,Personal Foul,Foul,Matt Boland,Tyler Ford,Ashley Moyer-Gleich,CHI,130,123,0.998,0.988,16.0

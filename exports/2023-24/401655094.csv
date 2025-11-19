@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:21,LAC,Ivica Zubac,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,2,2,0.503,0.544,10:33
+1,9:26,LAC,Ivica Zubac,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,4,4,0.502,0.542,9:46
+1,8:34,DAL,P.J. Washington,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,4,5,0.577,0.54,8:37
+1,8:25,LAC,Paul George,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,5,5,0.54,0.539,8:34
+1,7:50,DAL,P.J. Washington,Loose Ball Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,5,5,0.564,0.565,7:50
+1,5:28,DAL,Dereck Lively II,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,8,9,0.575,0.536,5:30
+1,4:52,LAC,Mason Plumlee,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,10,11,0.467,0.505,4:55
+1,4:07,DAL,Maxi Kleber,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,10,15,0.445,0.426,4:07
+1,2:49,DAL,Josh Green,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,11,18,0.408,0.367,2:50
+1,2:18,DAL,Josh Green,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,13,18,0.46,0.421,2:32
+1,22.1,DAL,Dante Exum,Offensive Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,19,23,0.439,0.414,32.2
+2,10:38,LAC,Norman Powell,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,21,25,0.365,0.405,10:46
+2,9:53,DAL,Luka Doncic,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,23,25,0.494,0.493,9:54
+2,7:16,LAC,James Harden,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,28,31,0.382,0.429,7:41
+2,6:52,LAC,Paul George,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,28,32,0.351,0.396,6:56
+2,5:07,DAL,Dante Exum,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,34,37,0.438,0.423,5:07
+2,3:02,DAL,Kyrie Irving,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,37,41,0.415,0.416,3:05
+2,1:51,LAC,Paul George,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,39,41,0.394,0.445,1:56
+3,9:40,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,45,50,0.385,0.357,9:40
+3,7:58,DAL,Luka Doncic,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,48,53,0.35,0.35,8:11
+3,6:56,LAC,Terance Mann,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,48,55,0.24,0.241,7:09
+3,6:24,DAL,Daniel Gafford,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,51,55,0.379,0.38,6:25
+3,5:42,DAL,Daniel Gafford,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,53,55,0.521,0.459,5:45
+3,4:29,DAL,Maxi Kleber,Loose Ball Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,57,61,0.434,0.329,4:29
+3,3:06,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,60,61,0.563,0.496,3:11
+3,2:06,LAC,Amir Coffey,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,62,61,0.539,0.539,2:17
+3,1:55,LAC,Paul George,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,62,61,0.468,0.539,2:06
+3,9.0,DAL,Josh Green,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,62,63,0.562,0.491,27.1
+3,0.1,DAL,Luka Doncic,Technical Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,65,65,0.575,0.538,0.1
+4,11:15,LAC,Norman Powell,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,68,65,0.546,0.634,11:19
+4,10:56,DAL,Dereck Lively II,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,68,67,0.597,0.584,11:15
+4,10:17,DAL,Josh Green,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,71,67,0.753,0.74,10:19
+4,8:34,LAC,Russell Westbrook,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,73,69,0.692,0.708,8:34
+4,8:17,LAC,James Harden,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,73,69,0.6,0.692,8:34
+4,7:24,DAL,Luka Doncic,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,73,73,0.555,0.532,7:43
+4,6:08,DAL,Kyrie Irving,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,73,79,0.271,0.186,6:14
+4,3:58,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,76,84,0.138,0.084,4:03
+4,1:15,LAC,Russell Westbrook,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,84,90,0.02,0.054,1:21
+4,34.1,LAC,Paul George,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,86,90,0.038,0.1,44.1
+4,27.1,DAL,Derrick Jones Jr.,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,86,92,0.116,0.051,34.1
+4,21.2,LAC,Kawhi Leonard,Personal Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,88,92,0.025,0.077,27.1
+4,12.0,LAC,James Harden,Personal Take Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,90,93,0.031,0.107,20.1
+4,7.0,LAC,James Harden,Personal Take Foul,Foul,Brian Forte,Marc Davis,J.T. Orr,LAC,90,94,0.007,0.036,9.1

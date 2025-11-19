@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:42,GS,Draymond Green,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,0,4,0.498,0.495,10:42
+1,10:29,NO,Trey Murphy III,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,0,4,0.522,0.524,10:36
+1,10:10,GS,Kevon Looney,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,2,4,0.51,0.546,10:20
+1,9:28,NO,CJ McCollum,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,2,9,0.44,0.443,9:42
+1,8:59,GS,Draymond Green,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,4,9,0.467,0.463,9:05
+1,6:04,NO,Willy Hernangomez,Offensive Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,8,17,0.374,0.348,6:12
+1,3:59,GS,JaMychal Green,Loose Ball Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,10,20,0.274,0.307,3:59
+1,3:44,GS,Jonathan Kuminga,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,10,20,0.273,0.274,3:59
+1,2:07,NO,Kira Lewis Jr.,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,12,28,0.187,0.187,2:18
+1,1:07,GS,Jonathan Kuminga,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,16,30,0.171,0.203,1:13
+1,46.1,NO,Brandon Ingram,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,16,32,0.21,0.178,47.2
+1,45.0,NO,Kira Lewis Jr.,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,16,32,0.21,0.21,46.1
+2,10:58,NO,Dyson Daniels,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,24,35,0.282,0.28,11:02
+2,10:40,GS,Draymond Green,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,24,35,0.219,0.255,10:51
+2,8:40,NO,Dyson Daniels,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,29,37,0.396,0.353,8:59
+2,6:07,NO,Brandon Ingram,Loose Ball Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,35,42,0.366,0.366,6:07
+2,4:36,GS,Kevon Looney,Offensive Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,39,46,0.328,0.359,4:51
+2,3:42,GS,Donte DiVincenzo,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,41,46,0.386,0.387,4:01
+2,3:32,NO,Herbert Jones,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,41,46,0.466,0.416,3:35
+2,2:46,NO,Herbert Jones,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,44,46,0.563,0.512,2:51
+2,2:39,GS,Jordan Poole,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,46,46,0.545,0.547,2:46
+2,1:30,GS,Donte DiVincenzo,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,50,49,0.526,0.576,1:37
+2,35.0,NO,CJ McCollum,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,52,55,0.526,0.468,45.0
+3,11:29,NO,CJ McCollum,Offensive Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,54,57,0.466,0.431,11:40
+3,10:55,NO,Willy Hernangomez,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,56,59,0.518,0.464,11:02
+3,10:39,GS,Jordan Poole,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,58,59,0.499,0.501,10:55
+3,10:01,GS,Donte DiVincenzo,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,58,62,0.335,0.388,10:18
+3,6:03,NO,Jaxson Hayes,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,66,66,0.623,0.565,6:19
+3,5:49,GS,Donte DiVincenzo,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,67,66,0.501,0.563,6:03
+3,4:23,NO,Trey Murphy III,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,71,68,0.681,0.683,4:31
+3,3:03,NO,Brandon Ingram,Offensive Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,74,70,0.723,0.683,3:08
+3,2:22,NO,Brandon Ingram,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,76,70,0.841,0.797,2:26
+3,1:21,GS,Draymond Green,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,80,75,0.697,0.767,1:21
+3,54.0,GS,Ty Jerome,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,80,76,0.623,0.69,56.1
+3,26.1,GS,Anthony Lamb,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,82,77,0.667,0.725,37.1
+4,10:56,GS,Ty Jerome,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,84,80,0.61,0.695,11:21
+4,8:14,NO,Herbert Jones,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,86,84,0.745,0.657,8:21
+4,6:15,NO,CJ McCollum,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,89,89,0.58,0.558,6:26
+4,5:39,GS,Kevon Looney,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,89,89,0.375,0.496,5:58
+4,3:27,GS,Draymond Green,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,95,93,0.485,0.631,3:50
+4,2:58,GS,Jonathan Kuminga,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,98,94,0.648,0.773,3:06
+4,1:10,NO,Brandon Ingram,Shooting Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,102,96,0.981,0.947,1:17
+4,1:01,GS,Draymond Green,Personal Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,104,96,0.939,0.973,1:10
+4,29.1,NO,Brandon Ingram,Personal Take Foul,Foul,Sean Wright,Michael Smith,Matt Myers,GS,104,97,0.997,0.99,33.1

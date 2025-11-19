@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,4,0,0.633,0.603,11:20
+1,8:06,MEM,Desmond Bane,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,8,2,0.714,0.684,8:11
+1,6:13,MEM,Desmond Bane,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,17,2,0.87,0.843,6:13
+1,6:01,LAL,Anthony Davis,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,18,2,0.837,0.857,6:13
+1,5:07,LAL,LeBron James,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,22,7,0.848,0.846,5:19
+1,4:58,MEM,Santi Aldama,Offensive Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,22,7,0.863,0.848,5:07
+1,4:16,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,24,7,0.91,0.891,4:19
+1,59.1,LAL,Rui Hachimura,Loose Ball Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,35,9,0.959,0.968,59.1
+2,10:54,LAL,Austin Reaves,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,38,9,0.983,0.982,11:04
+2,7:46,MEM,Desmond Bane,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,42,15,0.984,0.984,7:55
+2,7:26,LAL,Troy Brown Jr.,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,44,15,0.987,0.987,7:35
+2,6:54,MEM,John Konchar,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,46,17,0.991,0.987,6:54
+2,4:34,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,46,24,0.955,0.968,4:34
+2,4:23,MEM,Dillon Brooks,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,46,24,0.967,0.969,4:32
+2,3:24,LAL,Malik Beasley,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,50,24,0.977,0.984,3:29
+2,2:32,MEM,Ja Morant,Loose Ball Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,50,24,0.99,0.987,2:32
+2,1:56,MEM,Santi Aldama,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,52,27,0.989,0.985,2:07
+2,1:14,LAL,Anthony Davis,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,53,30,0.966,0.973,1:14
+2,4.1,LAL,LeBron James,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,53,35,0.922,0.941,14.1
+3,11:43,MEM,Dillon Brooks,Flagrant Foul Type 2,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,53,37,0.928,0.932,11:46
+3,10:54,MEM,Xavier Tillman,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,54,40,0.928,0.909,11:16
+3,10:45,LAL,Jarred Vanderbilt,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,56,40,0.923,0.923,10:54
+3,10:01,LAL,Austin Reaves,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,58,42,0.926,0.927,10:03
+3,9:35,MEM,David Roddy,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,58,42,0.94,0.94,9:46
+3,8:29,LAL,Anthony Davis,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,63,42,0.966,0.975,8:46
+3,8:07,LAL,LeBron James,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,63,44,0.951,0.964,8:09
+3,7:49,LAL,Jarred Vanderbilt,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,63,46,0.929,0.948,7:49
+3,6:49,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,69,48,0.971,0.98,6:57
+3,5:29,MEM,Santi Aldama,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,69,56,0.941,0.921,5:33
+3,5:18,LAL,Dennis Schroder,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,71,56,0.914,0.934,5:29
+3,5:04,MEM,Luke Kennard,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,71,57,0.955,0.938,5:07
+3,4:13,MEM,Ja Morant,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,75,59,0.974,0.964,4:13
+3,3:44,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,77,59,0.982,0.978,3:47
+3,1:23,MEM,John Konchar,Personal Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,82,63,0.993,0.989,1:24
+3,1:23,LAL,Rui Hachimura,Technical Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,82,63,0.982,0.993,1:23
+4,9:53,MEM,Xavier Tillman,Loose Ball Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,90,70,0.997,0.997,9:53
+4,9:42,MEM,Xavier Tillman,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,90,70,0.998,0.997,9:53
+4,6:44,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,96,82,0.977,0.99,6:44
+4,3:19,LAL,D'Angelo Russell,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,106,92,0.994,0.998,3:19
+4,1:39,MEM,Luke Kennard,Shooting Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,106,96,0.998,0.985,2:11
+4,55.1,MEM,Desmond Bane,Technical Foul,Foul,Ed Malloy,Brian Forte,Marc Davis,LAL,110,99,0.999,0.999,55.1

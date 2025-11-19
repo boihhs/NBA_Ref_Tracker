@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:39,PHI,P.J. Tucker,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,0,3,0.464,0.428,10:45
+1,10:14,PHI,Tobias Harris,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,3,6,0.445,0.401,10:14
+1,9:53,TOR,Fred VanVleet,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,4,8,0.357,0.402,9:53
+1,4:45,TOR,Fred VanVleet,Personal Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,14,20,0.322,0.321,4:45
+1,2:26,PHI,James Harden,Personal Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,18,20,0.448,0.451,2:28
+1,2:01,PHI,Danuel House Jr.,Offensive Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,20,20,0.505,0.478,2:14
+1,6.1,PHI,Tyrese Maxey,Personal Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,23,26,0.464,0.421,13.7
+2,10:22,PHI,Montrezl Harrell,Defensive 3-Seconds Technical,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,26,36,0.229,0.233,10:39
+2,6:37,PHI,P.J. Tucker,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,34,43,0.286,0.245,6:49
+2,5:52,TOR,OG Anunoby,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,36,47,0.161,0.196,5:52
+2,5:35,PHI,James Harden,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,36,48,0.207,0.176,5:52
+2,3:27,PHI,Tobias Harris,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,38,55,0.103,0.083,3:40
+2,2:25,PHI,P.J. Tucker,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,42,60,0.085,0.068,2:35
+2,2:07,TOR,Malachi Flynn,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,44,62,0.049,0.065,2:07
+2,1:50,PHI,Tyrese Maxey,Loose Ball Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,44,63,0.071,0.055,1:50
+2,19.5,TOR,Scottie Barnes,Personal Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,48,65,0.047,0.06,29.3
+3,11:41,TOR,Pascal Siakam,Personal Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,48,65,0.056,0.066,12:00
+3,11:32,TOR,Pascal Siakam,Personal Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,48,65,0.056,0.056,11:41
+3,7:39,PHI,P.J. Tucker,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,53,65,0.161,0.127,7:52
+3,7:22,TOR,OG Anunoby,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,54,67,0.079,0.106,7:22
+3,5:36,PHI,Georges Niang,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,56,70,0.105,0.079,5:46
+3,4:32,PHI,Georges Niang,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,60,70,0.173,0.128,4:32
+3,4:31,PHI,Georges Niang,Loose Ball Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,60,70,0.193,0.152,4:31
+3,3:04,PHI,De'Anthony Melton,Personal Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,64,73,0.213,0.17,3:18
+3,1:54,TOR,Fred VanVleet,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,67,73,0.172,0.22,1:57
+4,10:59,PHI,Georges Niang,Loose Ball Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,70,83,0.054,0.051,10:59
+4,9:55,TOR,Chris Boucher,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,72,87,0.013,0.024,9:55
+4,9:09,TOR,Christian Koloko,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,74,88,0.011,0.021,9:21
+4,8:34,TOR,Chris Boucher,Personal Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,74,89,0.01,0.012,8:48
+4,8:13,PHI,Montrezl Harrell,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,76,89,0.043,0.021,8:13
+4,5:58,PHI,Tyrese Maxey,Personal Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,81,91,0.061,0.054,6:00
+4,4:20,TOR,Pascal Siakam,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,81,99,0.001,0.001,4:22
+4,2:03,PHI,Shake Milton,Personal Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,87,106,0.001,0.001,2:07
+4,56.9,PHI,Jaden Springer,Shooting Foul,Foul,Eric Lewis,Marat Kogut,Pat O'Connell,TOR,87,110,0.001,0.001,1:07

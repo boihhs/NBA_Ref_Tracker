@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:51,CHI,Nikola Vucevic,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,4,6,0.702,0.671,9:00
+1,7:18,CHI,Ayo Dosunmu,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,13,10,0.768,0.77,7:28
+1,6:43,CHI,Zach LaVine,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,16,10,0.843,0.822,6:49
+1,5:34,MIA,Duncan Robinson,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,20,10,0.841,0.863,5:36
+1,3:35,MIA,P.J. Tucker,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,24,11,0.899,0.899,3:35
+1,3:22,CHI,Tristan Thompson,Loose Ball Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,24,11,0.924,0.91,3:22
+1,3:06,MIA,Max Strus,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,24,11,0.899,0.898,3:06
+1,2:58,CHI,Derrick Jones Jr.,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,24,11,0.924,0.91,3:06
+1,2:30,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,25,13,0.915,0.898,2:41
+1,1:53,MIA,Dewayne Dedmon,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,26,13,0.88,0.898,2:02
+1,1:18,CHI,DeMar DeRozan,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,28,17,0.904,0.888,1:28
+2,10:59,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,30,21,0.87,0.86,10:59
+2,8:59,MIA,Gabe Vincent,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,39,23,0.933,0.933,9:18
+2,8:49,MIA,Bam Adebayo,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,39,23,0.918,0.933,8:59
+2,6:23,MIA,Max Strus,Offensive Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,47,30,0.944,0.952,6:34
+2,3:45,MIA,Gabe Vincent,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,49,38,0.865,0.893,3:45
+2,3:33,MIA,Bam Adebayo,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,49,39,0.834,0.861,3:34
+2,3:22,CHI,Zach LaVine,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,49,40,0.86,0.861,3:31
+2,3:01,MIA,Tyler Herro,Personal Take Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,49,40,0.813,0.844,3:01
+2,2:20,CHI,Zach LaVine,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,49,42,0.852,0.826,2:42
+3,9:57,CHI,Ayo Dosunmu,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,57,48,0.868,0.869,10:01
+3,9:40,CHI,DeMar DeRozan,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,59,48,0.912,0.886,9:40
+3,7:34,CHI,Ayo Dosunmu,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,67,51,0.968,0.955,7:34
+3,6:14,CHI,Javonte Green,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,69,53,0.976,0.966,6:26
+3,4:54,MIA,Jimmy Butler III,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,75,55,0.985,0.985,5:08
+3,4:51,MIA,Bam Adebayo,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,75,55,0.978,0.985,4:54
+3,4:29,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,75,57,0.988,0.981,4:51
+3,2:44,CHI,Nikola Vucevic,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,82,61,0.996,0.993,3:05
+3,2:29,MIA,Bam Adebayo,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,83,61,0.991,0.994,2:41
+3,31.6,MIA,Caleb Martin,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,89,67,0.994,0.996,36.1
+3,4.5,CHI,Coby White,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,89,67,0.998,0.997,20.2
+4,10:23,CHI,Tristan Thompson,Double Technical Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,96,75,0.997,0.998,10:26
+4,9:07,CHI,Tristan Thompson,Offensive Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,99,78,0.998,0.997,9:28
+4,8:29,CHI,Javonte Green,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,101,80,0.999,0.998,8:29
+4,8:15,CHI,Tristan Thompson,Loose Ball Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,102,80,0.999,0.999,8:15
+4,7:59,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,102,80,0.999,0.999,7:59
+4,7:30,MIA,Caleb Martin,Offensive Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,102,82,0.998,0.999,7:40
+4,4:48,MIA,Gabe Vincent,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,107,84,0.999,0.999,4:51
+4,3:18,CHI,Tony Bradley,Offensive Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,109,89,0.999,0.999,3:23
+4,57.0,CHI,Ayo Dosunmu,Personal Take Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,111,97,0.999,0.999,1:02
+4,47.4,MIA,Omer Yurtseven,Offensive Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,111,97,0.999,0.999,57.0
+4,29.9,CHI,Malcolm Hill,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Lauren Holtkamp,MIA,111,99,0.999,0.999,34.7

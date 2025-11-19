@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:19,ATL,Clint Capela,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,0,6,0.177,0.153,10:38
+1,9:42,OKC,Isaiah Roby,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,2,11,0.1,0.118,9:42
+1,5:19,ATL,Trae Young,Personal Take Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,14,27,0.082,0.082,5:20
+1,4:49,OKC,Lindy Waters III,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,17,27,0.087,0.101,4:58
+1,4:27,OKC,Lindy Waters III,Personal Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,17,29,0.084,0.083,4:27
+1,3:47,OKC,Olivier Sarr,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,21,29,0.109,0.128,3:53
+1,3:13,OKC,Olivier Sarr,Defensive 3-Seconds Technical,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,21,30,0.119,0.116,3:28
+1,1:15,OKC,Vit Krejci,Personal Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,23,35,0.071,0.085,1:19
+1,1:05,ATL,Kevin Knox II,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,23,37,0.09,0.074,1:15
+2,10:38,ATL,Onyeka Okongwu,Personal Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,30,42,0.094,0.094,10:44
+2,10:27,OKC,Aleksej Pokusevski,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,30,42,0.07,0.083,10:30
+2,9:55,OKC,Olivier Sarr,Loose Ball Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,30,47,0.044,0.043,9:55
+2,7:08,OKC,Olivier Sarr,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,33,61,0.004,0.006,7:17
+2,5:05,ATL,Kevin Knox II,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,38,66,0.009,0.006,5:16
+2,3:46,OKC,Theo Maledon,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,40,69,0.002,0.003,3:51
+2,2:34,OKC,Vit Krejci,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,42,73,0.001,0.002,2:38
+2,2:09,OKC,Vit Krejci,Personal Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,45,75,0.001,0.002,2:22
+2,1:26,ATL,Timothe Luwawu-Cabarrot,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,50,77,0.007,0.004,1:26
+3,10:50,OKC,Vit Krejci,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,58,89,0.001,0.001,10:50
+3,10:18,ATL,Clint Capela,Loose Ball Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,61,90,0.002,0.002,10:18
+3,8:18,ATL,Timothe Luwawu-Cabarrot,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,66,95,0.002,0.001,8:18
+3,5:52,ATL,Clint Capela,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,71,102,0.001,0.001,5:52
+3,5:06,ATL,Clint Capela,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,73,105,0.001,0.001,5:06
+3,3:16,OKC,Olivier Sarr,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,79,107,0.001,0.001,3:28
+3,2:37,ATL,Kevin Knox II,Loose Ball Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,79,108,0.001,0.001,2:39
+3,2:10,ATL,Delon Wright,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,81,110,0.001,0.001,2:21
+3,8.7,OKC,Lindy Waters III,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,88,114,0.001,0.001,8.7
+3,4.0,ATL,Trae Young,Personal Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,88,115,0.001,0.001,8.7
+4,9:39,ATL,Delon Wright,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,95,123,0.001,0.001,9:59
+4,7:49,OKC,Olivier Sarr,Offensive Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,101,125,0.001,0.001,8:01
+4,7:35,ATL,Kevin Knox II,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,101,125,0.001,0.001,7:37
+4,6:50,ATL,De'Andre Hunter,Clear Path Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,105,125,0.001,0.001,6:52
+4,5:02,ATL,Delon Wright,Personal Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,106,127,0.001,0.001,5:15
+4,4:19,ATL,Kevin Huerter,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,108,130,0.001,0.001,4:32
+4,3:07,ATL,Timothe Luwawu-Cabarrot,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,112,130,0.001,0.001,3:19
+4,2:01,OKC,Olivier Sarr,Loose Ball Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,116,130,0.001,0.001,2:01
+4,1:53,OKC,Aaron Wiggins,Shooting Foul,Foul,Ben Taylor,Matt Myers,Gediminas Petraitis,OKC,116,130,0.001,0.001,2:01

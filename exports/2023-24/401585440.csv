@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:07,DEN,Aaron Gordon,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,3,3,0.405,0.366,10:11
+1,9:12,POR,Jerami Grant,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,8,3,0.473,0.469,9:26
+1,5:48,DEN,Michael Porter Jr.,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,10,16,0.244,0.244,6:05
+1,2:07,DEN,Peyton Watson,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,18,21,0.334,0.292,2:07
+2,11:03,POR,Matisse Thybulle,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,20,27,0.178,0.206,11:08
+2,10:42,DEN,Justin Holiday,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,20,28,0.207,0.207,11:00
+2,9:27,DEN,Zeke Nnaji,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,24,30,0.268,0.227,9:27
+2,8:30,DEN,Reggie Jackson,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,27,30,0.367,0.328,8:33
+2,5:38,DEN,Nikola Jokic,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,33,44,0.159,0.128,5:38
+2,5:21,DEN,Nikola Jokic,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,34,44,0.193,0.164,5:25
+2,4:16,POR,Deandre Ayton,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,38,46,0.181,0.179,4:30
+2,1:43,DEN,Michael Porter Jr.,Loose Ball Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,43,57,0.114,0.093,1:43
+2,51.0,POR,Deandre Ayton,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,44,59,0.05,0.064,51.0
+2,10.1,POR,Jerami Grant,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,46,61,0.049,0.064,32.0
+3,10:53,POR,Kris Murray,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,50,65,0.046,0.059,11:20
+3,10:11,POR,Kris Murray,Loose Ball Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,52,66,0.069,0.068,10:11
+3,9:04,POR,Anfernee Simons,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,52,68,0.034,0.045,9:08
+3,8:03,POR,Kris Murray,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,55,71,0.031,0.043,8:17
+3,5:10,POR,Anfernee Simons,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,65,78,0.046,0.064,5:13
+3,4:40,DEN,Collin Gillespie,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,65,78,0.076,0.075,4:44
+3,3:37,POR,Deandre Ayton,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,68,81,0.04,0.057,3:53
+3,3:25,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,68,84,0.051,0.037,3:37
+3,3:10,POR,Duop Reath,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,70,86,0.022,0.036,3:10
+3,11.1,DEN,Christian Braun,Personal Take Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,74,95,0.008,0.005,26.0
+4,11:51,DEN,Michael Porter Jr.,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,77,95,0.02,0.011,12:00
+4,7:19,DEN,Peyton Watson,Flagrant Foul Type 1,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,88,107,0.002,0.001,7:19
+4,7:03,POR,Anfernee Simons,Loose Ball Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,89,107,0.002,0.002,7:03
+4,5:52,POR,Anfernee Simons,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,91,109,0.001,0.001,5:55
+4,5:41,DEN,Nikola Jokic,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,91,110,0.001,0.001,5:52
+4,5:16,POR,Kris Murray,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,93,112,0.001,0.001,5:16
+4,4:36,POR,Dalano Banton,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,95,112,0.001,0.001,5:01
+4,4:31,DEN,Nikola Jokic,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,97,115,0.001,0.001,4:31
+4,1:53,POR,Ashton Hagans,Personal Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,104,124,0.001,0.001,2:07
+4,2.0,DEN,Jalen Pickett,Shooting Foul,Foul,Zach Zarba,Marat Kogut,Gediminas Petraitis,POR,112,127,0.001,0.001,2.0

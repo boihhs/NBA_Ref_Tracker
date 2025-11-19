@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:26,DEN,Aaron Gordon,Offensive Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,4,5,0.531,0.562,9:34
+1,8:19,DEN,Aaron Gordon,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,6,7,0.494,0.533,8:35
+1,7:22,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,8,11,0.544,0.505,7:42
+1,7:06,DEN,Justin Holiday,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,9,11,0.465,0.503,7:20
+1,5:17,MIN,Rudy Gobert,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,16,15,0.643,0.606,5:22
+1,4:06,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,21,18,0.63,0.631,4:20
+1,3:54,DEN,Justin Holiday,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,21,18,0.592,0.63,4:06
+1,2:14,MIN,Naz Reid,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,23,21,0.647,0.605,2:14
+1,2.1,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,28,26,0.666,0.631,10.1
+2,11:49,DEN,Christian Braun,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,28,28,0.523,0.573,11:49
+2,11:06,DEN,DEN,Technical Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,28,30,0.46,0.512,11:08
+2,10:56,MIN,Naz Reid,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,28,31,0.527,0.452,11:06
+2,5:14,MIN,Karl-Anthony Towns,Personal Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,37,37,0.564,0.566,5:27
+2,4:36,MIN,Jaden McDaniels,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,39,37,0.646,0.594,4:36
+2,7.1,DEN,Christian Braun,Personal Take Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,50,44,0.672,0.719,21.1
+3,11:19,DEN,Nikola Jokic,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,50,46,0.608,0.656,11:22
+3,6:43,MIN,Anthony Edwards,Personal Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,64,59,0.735,0.735,7:03
+3,5:37,DEN,Michael Porter Jr.,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,68,61,0.721,0.771,5:53
+3,5:13,MIN,Jaden McDaniels,Offensive Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,70,63,0.805,0.772,5:26
+3,4:58,MIN,Jaden McDaniels,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,70,63,0.845,0.805,5:13
+3,4:51,DEN,Jamal Murray,Personal Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,72,63,0.833,0.832,4:58
+3,4:27,MIN,Naz Reid,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,72,63,0.891,0.859,4:40
+3,4:08,MIN,Rudy Gobert,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,74,63,0.927,0.903,4:13
+3,3:27,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,76,67,0.821,0.867,3:27
+3,2:21,MIN,Kyle Anderson,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,80,70,0.909,0.874,2:21
+3,1:36,MIN,Rudy Gobert,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,81,72,0.91,0.878,2:00
+3,34.1,MIN,Rudy Gobert,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,85,72,0.963,0.941,34.1
+4,10:13,DEN,Justin Holiday,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,90,76,0.946,0.966,10:24
+4,9:22,MIN,Anthony Edwards,Personal Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,90,80,0.937,0.931,9:30
+4,8:23,DEN,Michael Porter Jr.,Personal Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,93,80,0.963,0.967,8:28
+4,8:15,DEN,Nikola Jokic,Personal Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,93,80,0.961,0.963,8:23
+4,7:01,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,98,80,0.991,0.99,7:12
+4,4:56,DEN,Michael Porter Jr.,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,101,89,0.967,0.975,4:56
+4,4:45,MIN,Karl-Anthony Towns,Personal Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,101,90,0.979,0.976,4:56
+4,1:56,DEN,Jamal Murray,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,John Goble,DEN,110,94,0.999,0.999,2:08

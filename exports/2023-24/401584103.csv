@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:57,LAL,Cam Reddish,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,2,5,0.505,0.458,9:57
+1,9:23,PHX,Grayson Allen,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,3,7,0.395,0.433,9:32
+1,6:30,LAL,Cam Reddish,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,16,15,0.604,0.559,6:30
+1,4:22,PHX,Kevin Durant,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,22,17,0.624,0.662,4:25
+1,4:09,LAL,Taurean Prince,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,22,18,0.697,0.664,4:22
+1,50.0,LAL,Taurean Prince,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,30,22,0.793,0.76,57.0
+1,39.0,PHX,Drew Eubanks,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,31,22,0.723,0.762,48.1
+1,39.0,PHX,Drew Eubanks,Technical Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,31,22,0.74,0.723,39.0
+1,22.0,LAL,Rui Hachimura,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,33,25,0.778,0.735,22.0
+2,9:32,PHX,Drew Eubanks,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,39,30,0.765,0.767,9:41
+2,8:51,PHX,Bradley Beal,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,42,32,0.773,0.813,8:51
+2,8:11,LAL,Cam Reddish,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,42,32,0.841,0.815,8:22
+2,7:55,PHX,Yuta Watanabe,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,43,34,0.753,0.792,7:55
+2,7:04,PHX,Yuta Watanabe,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,48,36,0.822,0.854,7:04
+2,6:44,PHX,Yuta Watanabe,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,48,37,0.8,0.818,6:47
+2,6:13,PHX,Yuta Watanabe,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,50,40,0.78,0.819,6:13
+2,5:01,LAL,LeBron James,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,52,44,0.81,0.78,5:14
+2,2:48,LAL,D'Angelo Russell,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,57,48,0.822,0.805,2:48
+2,2:38,PHX,Jusuf Nurkic,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,58,48,0.772,0.806,2:48
+2,2:22,LAL,Anthony Davis,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,58,50,0.819,0.785,2:38
+2,33.1,LAL,D'Angelo Russell,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,59,52,0.801,0.766,49.0
+2,16.2,PHX,Grayson Allen,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,61,54,0.715,0.767,16.2
+3,10:05,PHX,Grayson Allen,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,63,57,0.667,0.716,10:09
+3,7:57,PHX,Bradley Beal,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,70,61,0.788,0.836,7:57
+3,6:55,LAL,Anthony Davis,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,72,65,0.828,0.789,7:00
+3,6:19,PHX,Bradley Beal,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,73,68,0.638,0.693,6:20
+3,5:50,PHX,Jusuf Nurkic,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,76,70,0.678,0.73,6:01
+3,4:43,LAL,Taurean Prince,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,79,70,0.887,0.854,4:50
+3,4:34,PHX,Jusuf Nurkic,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,80,72,0.779,0.829,4:34
+3,3:39,LAL,Austin Reaves,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,82,75,0.828,0.777,3:39
+3,3:30,PHX,Grayson Allen,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,83,75,0.759,0.808,3:39
+3,1:29,LAL,D'Angelo Russell,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,91,81,0.913,0.877,1:29
+3,1:21,PHX,Kevin Durant,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,92,81,0.864,0.897,1:29
+3,1:00,PHX,Yuta Watanabe,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,92,83,0.807,0.852,1:04
+3,36.1,LAL,D'Angelo Russell,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,92,85,0.851,0.829,36.1
+3,28.1,PHX,Kevin Durant,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,94,85,0.811,0.856,36.1
+4,5:32,LAL,Rui Hachimura,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,103,107,0.328,0.216,5:32
+4,4:29,LAL,Rui Hachimura,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,106,109,0.391,0.26,4:29
+4,4:15,PHX,Bradley Beal,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,107,109,0.224,0.33,4:29
+4,3:58,PHX,Kevin Durant,Shooting Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,107,110,0.161,0.254,4:01
+4,58.2,LAL,Taurean Prince,Personal Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,113,118,0.255,0.118,1:10
+4,4.1,PHX,Grayson Allen,Personal Take Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,116,120,0.004,0.021,5.1
+4,1.2,PHX,Grayson Allen,Personal Take Foul,Foul,Eric Dalen,Jacyn Goble,Kevin Scott,PHX,116,120,0.002,0.112,15.1

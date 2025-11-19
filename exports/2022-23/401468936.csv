@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:31,CHA,Terry Rozier,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,4,4,0.72,0.685,10:31
+1,7:36,CHI,DeMar DeRozan,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,9,9,0.635,0.673,7:52
+1,5:26,CHA,Mason Plumlee,Loose Ball Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,19,18,0.709,0.708,5:26
+1,4:30,CHA,Jalen McDaniels,Personal Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,22,20,0.728,0.729,4:33
+1,3:14,CHI,Andre Drummond,Offensive Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,24,20,0.746,0.767,3:15
+1,2:47,CHA,JT Thor,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,24,20,0.794,0.766,2:52
+1,2:12,CHA,Mark Williams,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,27,20,0.835,0.823,2:12
+1,1:43,CHI,Andre Drummond,Loose Ball Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,29,23,0.753,0.784,1:43
+1,1:43,CHI,Andre Drummond,Technical Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,29,23,0.767,0.753,1:43
+1,1:05,CHA,Jalen McDaniels,Loose Ball Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,29,23,0.83,0.802,1:05
+2,10:21,CHI,Ayo Dosunmu,Personal Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,35,31,0.736,0.737,10:39
+2,9:48,CHI,DeMar DeRozan,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,37,31,0.745,0.803,1:53
+2,7:30,CHA,Mark Williams,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,39,38,0.715,0.679,7:45
+2,1:55,CHA,LaMelo Ball,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,50,45,0.789,0.772,2:14
+2,1:28,CHA,Mason Plumlee,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,52,45,0.847,0.818,1:34
+3,9:45,CHI,Zach LaVine,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,63,49,0.906,0.925,9:58
+3,8:35,CHI,Ayo Dosunmu,Personal Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,63,56,0.798,0.799,8:39
+3,8:18,CHA,Gordon Hayward,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,63,56,0.857,0.825,8:23
+3,7:34,CHI,Zach LaVine,Personal Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,68,56,0.905,0.905,7:44
+3,7:17,CHA,P.J. Washington,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,68,58,0.913,0.89,7:25
+3,6:59,CHI,Patrick Williams,Personal Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,69,58,0.861,0.89,6:59
+3,5:09,CHI,Nikola Vucevic,Loose Ball Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,72,62,0.844,0.879,5:09
+3,3:28,CHA,JT Thor,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,76,64,0.944,0.936,3:30
+3,2:42,CHA,Mark Williams,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,80,66,0.966,0.951,2:42
+4,10:53,CHI,Coby White,Personal Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,88,74,0.966,0.967,11:09
+4,10:30,CHA,Mark Williams,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,88,76,0.974,0.958,10:39
+4,10:19,CHI,Coby White,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,90,76,0.949,0.97,10:30
+4,7:45,CHI,DeMar DeRozan,Loose Ball Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,92,80,0.957,0.962,7:46
+4,7:34,CHI,Zach LaVine,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,92,82,0.907,0.947,7:34
+4,7:27,CHI,Patrick Williams,Offensive Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,92,83,0.902,0.925,7:34
+4,4:33,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,99,91,0.886,0.937,4:33
+4,2:26,CHI,Ayo Dosunmu,Loose Ball Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,105,96,0.933,0.967,2:26
+4,1:21,CHA,LaMelo Ball,Technical Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,107,98,0.994,0.992,1:22
+4,1:21,CHA,Mason Plumlee,Shooting Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,107,98,0.995,0.994,1:21
+4,1:21,CHA,LaMelo Ball,Technical Foul,Foul,James Capers,J.T. Orr,Tre Maddox,CHI,109,98,0.998,0.998,1:21

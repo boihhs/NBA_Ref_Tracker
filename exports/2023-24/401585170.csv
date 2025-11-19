@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:01,BOS,Jayson Tatum,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,2,2,0.863,0.882,11:11
+1,9:36,BOS,Derrick White,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,6,6,0.865,0.884,9:36
+1,9:18,HOU,Alperen Sengun,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,6,7,0.888,0.874,9:36
+1,7:33,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,10,14,0.832,0.806,7:33
+1,6:12,HOU,Dillon Brooks,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,14,18,0.835,0.812,6:17
+1,3:49,HOU,Jae'Sean Tate,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,23,20,0.907,0.893,3:56
+1,2:50,HOU,Fred VanVleet,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,25,23,0.894,0.877,2:56
+1,1:31,HOU,Cam Whitmore,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,28,29,0.852,0.829,1:38
+2,11:32,HOU,Reggie Bullock Jr.,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,35,34,0.848,0.85,11:41
+2,11:04,BOS,Luke Kornet,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,35,34,0.804,0.831,11:14
+2,9:40,BOS,Luke Kornet,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,38,36,0.812,0.839,9:45
+2,6:47,HOU,Alperen Sengun,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,49,44,0.884,0.885,6:54
+2,6:40,HOU,Jeff Green,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,51,44,0.915,0.896,6:40
+2,5:45,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,51,48,0.806,0.833,5:48
+2,5:19,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,54,50,0.822,0.85,5:29
+2,4:59,HOU,Fred VanVleet,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,54,50,0.885,0.864,5:03
+2,2:40,HOU,Dillon Brooks,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,62,54,0.927,0.91,2:49
+2,2:40,HOU,Dillon Brooks,Technical Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,62,54,0.919,0.919,2:40
+2,2:29,BOS,Jrue Holiday,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,64,54,0.905,0.922,2:40
+3,10:14,HOU,Alperen Sengun,Loose Ball Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,76,58,0.983,0.979,10:28
+3,9:11,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,76,63,0.967,0.957,9:20
+3,8:54,HOU,Dillon Brooks,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,79,63,0.979,0.97,8:54
+3,8:39,HOU,Fred VanVleet,Technical Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,79,63,0.979,0.975,8:39
+3,7:30,HOU,Dillon Brooks,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,82,65,0.986,0.981,7:43
+3,6:07,BOS,Kristaps Porzingis,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,90,70,0.986,0.991,6:07
+3,5:43,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,90,73,0.974,0.983,5:43
+3,4:56,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,92,74,0.983,0.983,4:56
+3,4:52,BOS,Jayson Tatum,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,92,74,0.977,0.983,4:56
+3,4:13,HOU,Cam Whitmore,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,92,78,0.978,0.97,4:25
+3,2:49,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,102,80,0.993,0.995,3:00
+3,49.0,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,109,84,0.998,0.999,52.0
+4,11:36,BOS,Jrue Holiday,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,112,88,0.998,0.999,11:36
+4,10:17,BOS,Jayson Tatum,Technical Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,117,90,0.999,0.999,10:21
+4,10:17,BOS,Jayson Tatum,Technical Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,117,90,0.999,0.999,10:17
+4,8:29,BOS,Luke Kornet,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,126,93,0.999,0.999,8:41
+4,6:39,BOS,Luke Kornet,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,131,97,0.999,0.999,6:45
+4,5:30,BOS,Svi Mykhailiuk,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,134,99,0.999,0.999,5:45
+4,5:13,HOU,Nate Williams,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,134,99,0.999,0.999,5:13
+4,4:41,BOS,Oshae Brissett,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,134,101,0.999,0.999,4:41
+4,4:11,BOS,Luke Kornet,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,134,104,0.999,0.999,4:11
+4,2:01,HOU,Boban Marjanovic,Shooting Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,139,108,0.999,0.999,2:14
+4,1:12,BOS,Payton Pritchard,Personal Foul,Foul,Ed Malloy,CJ Washington,Matt Kallio,BOS,141,110,0.999,0.999,1:15

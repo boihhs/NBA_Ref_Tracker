@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,NY,Julius Randle,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,3,3,0.393,0.393,11:22
+1,9:25,NY,Jalen Brunson,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,5,9,0.301,0.3,9:29
+1,8:14,LAC,Terance Mann,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,7,14,0.29,0.258,8:34
+1,7:01,LAC,Paul George,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,11,18,0.29,0.259,7:21
+1,4:11,LAC,Marcus Morris Sr.,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,18,23,0.303,0.301,4:35
+1,37.1,NY,Immanuel Quickley,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,25,35,0.151,0.174,50.1
+2,11:13,NY,Miles McBride,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,31,36,0.279,0.278,11:19
+2,10:34,NY,Obi Toppin,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,34,36,0.358,0.357,10:52
+2,9:53,NY,Immanuel Quickley,Loose Ball Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,34,38,0.306,0.304,9:53
+2,7:44,NY,Isaiah Hartenstein,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,39,45,0.238,0.28,7:44
+2,5:11,LAC,Norman Powell,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,41,52,0.194,0.162,5:15
+2,4:08,NY,Jericho Sims,Offensive Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,45,55,0.161,0.18,4:23
+2,3:23,LAC,Ivica Zubac,Offensive Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,47,55,0.226,0.202,3:26
+2,2:14,LAC,Norman Powell,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,50,55,0.349,0.304,2:17
+2,2:06,NY,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,51,55,0.26,0.303,2:14
+2,1:34,NY,RJ Barrett,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,53,59,0.226,0.274,1:34
+2,33.0,LAC,Kawhi Leonard,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,55,63,0.237,0.195,33.0
+3,11:29,NY,Julius Randle,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,58,65,0.195,0.239,11:29
+3,10:34,NY,RJ Barrett,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,60,66,0.243,0.238,10:52
+3,10:26,NY,Quentin Grimes,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,60,66,0.244,0.243,10:34
+3,8:00,LAC,Terance Mann,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,65,74,0.179,0.181,8:06
+3,6:35,NY,Jericho Sims,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,71,78,0.179,0.227,6:35
+3,5:12,LAC,Terance Mann,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,73,81,0.239,0.193,5:28
+3,5:03,NY,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,74,81,0.151,0.192,5:12
+3,4:09,NY,Jericho Sims,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,74,83,0.103,0.135,4:16
+3,2:51,NY,RJ Barrett,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,76,85,0.095,0.126,2:56
+3,2:40,LAC,Nicolas Batum,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,76,87,0.139,0.105,2:51
+4,8:18,LAC,Terance Mann,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,92,100,0.189,0.126,8:24
+4,8:07,NY,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,94,100,0.106,0.164,8:18
+4,6:14,LAC,Paul George,Loose Ball Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,97,106,0.083,0.077,6:22
+4,5:18,LAC,Terance Mann,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,97,108,0.065,0.033,5:23
+4,4:48,LAC,Kawhi Leonard,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,98,108,0.082,0.047,4:59
+4,4:21,LAC,Paul George,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,98,108,0.076,0.046,4:30
+4,3:59,LAC,Norman Powell,Technical Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,99,108,0.076,0.038,3:59
+4,3:12,NY,Julius Randle,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,102,110,0.031,0.069,3:12
+4,2:11,LAC,Norman Powell,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,105,112,0.137,0.081,2:25
+5,4:05,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,115,115,0.455,0.465,4:05
+5,3:34,NY,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,115,117,0.198,0.303,3:35
+5,3:13,LAC,Nicolas Batum,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,115,119,0.341,0.236,3:34
+5,2:57,NY,RJ Barrett,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,117,119,0.266,0.295,3:13
+5,2:46,NY,RJ Barrett,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,117,119,0.169,0.266,2:57
+5,2:26,NY,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,117,120,0.11,0.189,2:30
+5,2:03,NY,Julius Randle,Loose Ball Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,117,122,0.041,0.078,2:03
+5,56.1,NY,Julius Randle,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,119,125,0.011,0.031,57.1
+5,50.1,LAC,Nicolas Batum,Shooting Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,119,127,0.052,0.017,56.1
+5,37.0,NY,Isaiah Hartenstein,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,121,127,0.008,0.035,50.1
+5,31.1,NY,Jalen Brunson,Personal Take Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,123,129,0.007,0.024,33.1
+5,21.1,LAC,Kawhi Leonard,Offensive Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,125,130,0.072,0.034,21.1
+5,8.1,NY,Jalen Brunson,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,125,130,0.002,0.016,11.0
+5,0.1,NY,Isaiah Hartenstein,Personal Foul,Foul,Tre Maddox,Ben Taylor,Matt Myers,NY,128,132,0.001,0.007,1.2

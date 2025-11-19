@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:55,MIL,Jevon Carter,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,0,0,0.661,0.624,11:01
+1,10:45,MEM,Dillon Brooks,Personal Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,1,0,0.628,0.625,10:55
+1,9:22,MIL,Khris Middleton,Flagrant Foul Type 1,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,3,0,0.686,0.693,9:23
+1,9:11,MIL,Brook Lopez,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,5,0,0.763,0.736,9:22
+1,8:55,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,6,0,0.703,0.733,9:11
+1,8:02,MEM,Steven Adams,Loose Ball Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,9,4,0.714,0.713,8:02
+1,7:24,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,9,4,0.696,0.713,7:24
+1,3:19,MEM,Santi Aldama,Personal Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,23,12,0.802,0.829,3:32
+1,2:43,MIL,Brook Lopez,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,25,13,0.871,0.847,2:43
+1,39.1,MIL,Bobby Portis,Offensive Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,33,18,0.905,0.891,50.0
+2,10:43,MEM,Brandon Clarke,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,38,21,0.902,0.919,10:56
+2,9:35,MIL,Khris Middleton,Personal Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,40,22,0.94,0.939,9:35
+2,7:38,MEM,Brandon Clarke,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,48,25,0.961,0.97,7:45
+2,6:59,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,50,25,0.979,0.979,6:59
+2,4:14,MEM,Ja Morant,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,56,30,0.981,0.986,4:17
+2,3:17,MEM,Santi Aldama,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,59,34,0.978,0.984,3:20
+2,2:23,MIL,Bobby Portis,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,61,35,0.993,0.99,2:43
+3,11:44,MEM,Steven Adams,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,70,41,0.994,0.995,12:00
+3,10:41,MIL,Khris Middleton,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,77,45,0.998,0.998,10:41
+3,10:30,MEM,Dillon Brooks,Personal Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,78,45,0.998,0.998,10:41
+3,9:31,MIL,Khris Middleton,Personal Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,80,48,0.998,0.999,9:46
+3,8:44,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,85,52,0.998,0.999,8:44
+3,7:45,MIL,Khris Middleton,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,89,56,0.999,0.999,7:51
+3,7:28,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,90,56,0.999,0.999,7:34
+3,5:42,MIL,Bobby Portis,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,96,63,0.999,0.999,5:42
+3,5:23,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,99,66,0.999,0.999,5:23
+3,2:06,MIL,Bobby Portis,Flagrant Foul Type 1,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,110,69,0.999,0.999,2:06
+3,2:06,MIL,Bobby Portis,Technical Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,110,69,0.999,0.999,2:06
+4,11:17,MIL,George Hill,Personal Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,119,71,0.999,0.999,11:30
+4,10:14,MIL,MarJon Beauchamp,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,121,75,0.999,0.999,10:24
+4,8:58,MEM,Xavier Tillman,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,124,80,0.999,0.999,9:03
+4,8:48,MIL,AJ Green,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,124,82,0.999,0.999,8:58
+4,7:41,MEM,Jake LaRavia,Personal Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,128,82,0.999,0.999,7:56
+4,6:49,MEM,David Roddy,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,130,86,0.999,0.999,6:49
+4,5:31,MEM,Jake LaRavia,Shooting Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,132,87,0.999,0.999,5:42
+4,5:06,MEM,Kennedy Chandler,Personal Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,135,89,0.999,0.999,5:16
+4,41.1,MEM,Kennedy Chandler,Personal Foul,Foul,David Guthrie,Gediminas Petraitis,Matt Kallio,MEM,142,100,0.999,0.999,54.1

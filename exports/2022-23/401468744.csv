@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,MIA,Max Strus,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,3,0,0.692,0.66,11:17
+1,8:42,PHX,Chris Paul,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,7,6,0.565,0.611,8:42
+1,7:07,PHX,Deandre Ayton,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,15,10,0.645,0.68,7:25
+2,11:49,PHX,Damion Lee,Personal Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,23,30,0.343,0.357,0.0
+2,10:19,MIA,Bam Adebayo,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,25,33,0.378,0.336,10:33
+2,9:50,MIA,Bam Adebayo,Defensive 3-Seconds Technical,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,27,36,0.298,0.306,10:00
+2,9:04,PHX,Damion Lee,Personal Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,30,36,0.36,0.358,9:14
+2,8:57,PHX,Ish Wainright,Defensive 3-Seconds Technical,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,30,36,0.366,0.36,9:04
+2,7:12,PHX,Chris Paul,Clear Path Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,34,39,0.379,0.378,7:12
+2,5:40,MIA,Kyle Lowry,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,34,42,0.359,0.315,5:43
+2,4:58,PHX,Torrey Craig,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,36,42,0.297,0.343,5:16
+2,2:17,MIA,Jimmy Butler III,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,42,44,0.544,0.491,2:27
+2,1:07,PHX,Deandre Ayton,Defensive 3-Seconds Technical,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,44,46,0.461,0.457,1:19
+2,57.2,PHX,Torrey Craig,Personal Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,44,47,0.367,0.419,1:07
+3,11:12,PHX,Landry Shamet,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,46,56,0.175,0.221,11:12
+3,9:53,PHX,Mikal Bridges,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,48,57,0.173,0.209,10:00
+3,9:09,PHX,Damion Lee,Personal Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,50,61,0.156,0.157,9:23
+3,7:20,PHX,Damion Lee,Personal Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,52,63,0.112,0.143,7:23
+3,6:21,PHX,Torrey Craig,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,54,65,0.119,0.135,6:21
+3,5:01,MIA,Dewayne Dedmon,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,56,68,0.142,0.103,5:01
+3,4:50,PHX,Deandre Ayton,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,57,68,0.093,0.123,5:01
+3,4:28,MIA,Dewayne Dedmon,Offensive Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,59,70,0.143,0.12,4:35
+3,2:58,MIA,Victor Oladipo,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,63,70,0.28,0.249,2:58
+3,2:01,MIA,Victor Oladipo,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,65,74,0.224,0.175,2:11
+3,1:04,MIA,Max Strus,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,70,74,0.426,0.357,1:07
+3,39.2,MIA,Gabe Vincent,Personal Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,72,74,0.519,0.447,42.0
+3,30.1,PHX,Jock Landale,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,73,74,0.375,0.443,39.2
+4,9:14,PHX,Ish Wainright,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,75,82,0.1,0.149,9:17
+4,8:46,PHX,Ish Wainright,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,75,83,0.07,0.11,8:49
+4,8:00,PHX,Torrey Craig,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,75,85,0.033,0.057,8:01
+4,5:54,PHX,Damion Lee,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,82,92,0.027,0.05,5:54
+4,3:34,MIA,Kyle Lowry,Personal Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,85,96,0.016,0.016,3:40
+4,2:51,MIA,Kyle Lowry,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,87,98,0.025,0.011,3:05
+4,2:39,PHX,Torrey Craig,Personal Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,89,98,0.007,0.017,2:51
+4,1:58,MIA,Victor Oladipo,Shooting Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,91,99,0.059,0.031,1:58
+4,1:34,MIA,Kyle Lowry,Personal Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,92,102,0.027,0.011,1:36
+4,18.0,PHX,Damion Lee,Personal Foul,Foul,Pat Fraher,Brett Nansel,Mitchell Ervin,PHX,96,102,0.003,0.017,24.1

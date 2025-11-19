@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:42,UTAH,Mike Conley,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,2,0,0.658,0.658,10:50
+1,9:52,UTAH,Bojan Bogdanovic,Defensive 3-Seconds Technical,Foul,James Capers,Michael Smith,Aaron Smith,DAL,4,3,0.627,0.636,10:07
+1,9:34,DAL,Dorian Finney-Smith,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,5,5,0.566,0.607,9:34
+1,9:11,UTAH,Bojan Bogdanovic,Offensive Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,8,6,0.657,0.633,9:21
+1,8:21,UTAH,Donovan Mitchell,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,10,9,0.63,0.631,8:42
+1,8:02,DAL,Dwight Powell,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,10,9,0.607,0.606,8:10
+1,8:02,UTAH,Rudy Gobert,Technical Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,10,9,0.649,0.607,8:02
+1,6:17,DAL,Luka Doncic,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,19,13,0.706,0.743,6:17
+1,4:21,UTAH,Hassan Whiteside,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,23,18,0.737,0.7,4:21
+1,3:58,UTAH,Jordan Clarkson,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,24,18,0.775,0.743,4:00
+1,1:52,DAL,Davis Bertans,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,30,22,0.731,0.763,1:52
+1,1:43,DAL,Luka Doncic,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,30,22,0.731,0.762,1:52
+1,52.7,DAL,Maxi Kleber,Offensive Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,30,24,0.72,0.743,58.8
+2,5:19,UTAH,Donovan Mitchell,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,48,34,0.903,0.903,5:23
+2,2:36,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,53,43,0.824,0.823,2:36
+2,1:52,UTAH,Royce O'Neale,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,53,46,0.814,0.781,2:07
+2,1:03,UTAH,Rudy Gobert,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,56,49,0.816,0.781,1:24
+3,12:00,DAL,Luka Doncic,Technical Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,60,49,0.834,0.86,12:00
+3,10:27,DAL,Reggie Bullock Jr.,Offensive Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,63,50,0.897,0.908,10:37
+3,9:36,DAL,Spencer Dinwiddie,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,63,52,0.845,0.881,9:36
+3,7:13,DAL,Spencer Dinwiddie,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,63,55,0.799,0.8,7:14
+3,4:03,UTAH,Royce O'Neale,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,72,57,0.959,0.96,4:04
+3,2:29,UTAH,Hassan Whiteside,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,75,59,0.973,0.972,2:37
+3,2:17,UTAH,Rudy Gobert,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,77,59,0.987,0.979,2:17
+3,1:51,DAL,Dwight Powell,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,78,59,0.978,0.985,1:53
+3,42.3,DAL,Dwight Powell,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,83,65,0.981,0.989,42.3
+4,11:05,DAL,Dwight Powell,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,85,70,0.963,0.973,11:05
+4,9:46,UTAH,Rudy Gobert,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,89,75,0.987,0.976,10:11
+4,9:16,DAL,Josh Green,Offensive Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,91,77,0.973,0.979,9:28
+4,8:25,DAL,Maxi Kleber,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,91,77,0.957,0.975,8:44
+4,8:00,DAL,Reggie Bullock Jr.,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,91,79,0.952,0.957,8:05
+4,6:24,UTAH,Donovan Mitchell,Loose Ball Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,96,83,0.985,0.984,6:24
+4,5:23,DAL,Dwight Powell,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,99,83,0.989,0.994,5:31
+4,5:01,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,99,85,0.979,0.989,5:06
+4,3:23,UTAH,Royce O'Neale,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,101,92,0.98,0.969,3:23
+4,2:21,UTAH,Jordan Clarkson,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,103,95,0.986,0.967,2:29
+4,1:58,DAL,Luka Doncic,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,103,95,0.918,0.957,2:05
+4,1:31,DAL,Dorian Finney-Smith,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,103,96,0.888,0.945,1:33
+4,1:08,UTAH,Jordan Clarkson,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,103,97,0.982,0.948,1:29
+4,51.0,UTAH,Rudy Gobert,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,106,97,0.998,0.996,51.0
+4,38.1,UTAH,Donovan Mitchell,Personal Take Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,108,100,0.998,0.993,44.0
+4,31.0,DAL,Spencer Dinwiddie,Shooting Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,109,100,0.98,0.993,38.1
+4,28.9,UTAH,Jordan Clarkson,Personal Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,109,103,0.993,0.977,31.0
+4,21.5,UTAH,Rudy Gobert,Loose Ball Foul,Foul,James Capers,Michael Smith,Aaron Smith,DAL,111,103,0.998,0.997,21.5

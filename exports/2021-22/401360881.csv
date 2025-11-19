@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:57,POR,CJ Elleby,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,0,0,0.731,0.699,11:10
+1,10:33,IND,Justin Anderson,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,2,0,0.721,0.721,10:41
+1,10:27,IND,Buddy Hield,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,2,0,0.706,0.721,10:33
+1,8:25,IND,Oshae Brissett,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,7,4,0.734,0.736,8:38
+1,6:29,POR,Brandon Williams,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,14,4,0.885,0.867,6:33
+1,6:04,IND,Buddy Hield,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,16,4,0.86,0.879,6:05
+1,5:19,POR,Trendon Watford,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,19,7,0.906,0.892,5:28
+1,4:42,POR,Greg Brown III,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,21,9,0.906,0.891,4:56
+1,4:34,POR,Ben McLemore,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,21,9,0.906,0.889,4:34
+1,2:33,IND,Lance Stephenson,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,26,17,0.82,0.852,2:33
+2,10:57,IND,Jalen Smith,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,40,25,0.908,0.918,11:12
+2,10:23,IND,Duane Washington Jr.,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,40,27,0.892,0.893,10:33
+2,6:35,POR,Josh Hart,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,53,33,0.971,0.962,6:35
+2,4:40,IND,Goga Bitadze,Clear Path Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,54,35,0.959,0.958,4:41
+2,3:33,IND,Oshae Brissett,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,54,38,0.919,0.935,3:42
+2,2:39,POR,Trendon Watford,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,56,40,0.947,0.947,2:43
+2,2:09,POR,Kris Dunn,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,61,40,0.98,0.973,2:09
+2,1:51,POR,Brandon Williams,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,64,40,0.99,0.985,1:51
+3,8:29,IND,Tyrese Haliburton,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,78,59,0.973,0.973,8:38
+3,8:16,IND,Buddy Hield,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,78,59,0.964,0.973,8:29
+3,5:10,POR,Kris Dunn,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,86,64,0.993,0.993,5:19
+3,4:46,IND,Justin Anderson,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,88,64,0.995,0.995,4:56
+3,4:41,IND,Tyrese Haliburton,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,88,66,0.989,0.993,4:41
+3,4:41,POR,Kris Dunn,Technical Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,88,66,0.994,0.989,4:41
+3,3:13,POR,Trendon Watford,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,89,71,0.989,0.984,3:28
+3,1:29,IND,Duane Washington Jr.,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,92,78,0.948,0.966,1:29
+3,52.0,IND,Duane Washington Jr.,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,94,78,0.964,0.975,1:14
+3,3.0,POR,Josh Hart,Personal Take Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,94,82,0.967,0.953,8.0
+4,11:43,POR,Greg Brown III,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,94,82,0.958,0.944,12:00
+4,10:55,POR,Greg Brown III,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,96,84,0.969,0.96,10:55
+4,10:14,IND,Terry Taylor,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,100,84,0.983,0.984,10:30
+4,9:34,POR,Drew Eubanks,Offensive Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,102,86,0.99,0.986,9:44
+4,8:40,POR,Drew Eubanks,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,105,86,0.998,0.997,8:53
+4,7:56,IND,Lance Stephenson,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,108,89,0.994,0.997,8:04
+4,7:38,POR,Brandon Williams,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,108,89,0.999,0.998,7:55
+4,3:25,POR,Greg Brown III,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,118,91,0.999,0.999,3:32
+4,2:20,POR,Keljin Blevins,Shooting Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,124,93,0.999,0.999,2:20
+4,1:41,IND,Lance Stephenson,Personal Foul,Foul,Kevin Cutler,Kane Fitzgerald,Brandon Schwab,IND,124,96,0.999,0.999,1:45

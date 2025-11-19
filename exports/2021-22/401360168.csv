@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:29,MIL,Sandro Mamukelashvili,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,0,0,0.585,0.586,11:39
+1,11:04,MIA,P.J. Tucker,Loose Ball Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,0,0,0.607,0.606,11:04
+1,9:36,MIA,Tyler Herro,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,4,0,0.686,0.674,9:36
+1,7:07,MIL,Pat Connaughton,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,10,6,0.674,0.673,7:16
+1,6:53,MIL,Khris Middleton,Personal Take Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,10,6,0.674,0.673,6:53
+1,3:50,MIA,P.J. Tucker,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,19,14,0.751,0.72,4:06
+1,1:52,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,28,18,0.771,0.802,2:02
+1,1:07,MIL,DeMarcus Cousins,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,30,20,0.772,0.802,1:12
+1,47.6,MIA,Gabe Vincent,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,30,21,0.804,0.804,47.6
+1,28.3,MIL,Khris Middleton,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,32,21,0.831,0.822,28.3
+1,16.2,MIA,Omer Yurtseven,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,32,23,0.832,0.806,28.3
+2,10:51,MIA,Omer Yurtseven,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,36,29,0.781,0.766,10:51
+2,10:43,MIA,Kyle Lowry,Offensive Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,38,29,0.806,0.788,10:51
+2,9:18,MIL,Javonte Smart,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,41,29,0.818,0.845,9:32
+2,5:30,MIL,Pat Connaughton,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,54,40,0.862,0.887,5:33
+2,5:18,MIA,Caleb Martin,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,54,41,0.898,0.889,5:18
+2,5:17,MIA,P.J. Tucker,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,55,41,0.9,0.901,5:17
+2,5:10,MIA,Caleb Martin,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,55,41,0.919,0.9,5:17
+2,4:40,MIA,Omer Yurtseven,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,57,41,0.926,0.926,4:40
+2,3:42,MIL,DeMarcus Cousins,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,58,41,0.935,0.93,3:42
+2,3:21,MIL,DeMarcus Cousins,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,58,43,0.883,0.905,3:33
+2,2:56,MIA,Duncan Robinson,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,58,45,0.915,0.894,2:56
+2,2:35,MIL,DeMarcus Cousins,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,60,45,0.886,0.908,2:56
+2,1:47,MIL,Wesley Matthews,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,64,48,0.904,0.923,1:57
+3,10:59,MIL,Bobby Portis,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,69,56,0.879,0.906,10:59
+3,6:19,MIA,Tyler Herro,Flagrant Foul Type 1,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,84,62,0.991,0.987,6:19
+3,4:18,MIA,Dewayne Dedmon,Offensive Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,91,67,0.996,0.994,4:27
+3,3:45,MIA,Dewayne Dedmon,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,91,67,0.996,0.996,3:46
+3,3:08,MIL,Rodney Hood,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,95,67,0.998,0.999,3:27
+3,2:32,MIA,Max Strus,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,97,71,0.999,0.998,2:44
+3,2:21,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,99,71,0.999,0.999,2:32
+3,1:51,MIL,Rodney Hood,Shooting Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,99,71,0.998,0.999,1:52
+3,45.8,MIL,Javonte Smart,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,105,75,0.999,0.999,55.5
+3,23.0,MIA,Gabe Vincent,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,105,76,0.999,0.999,39.4
+4,5:43,MIL,Jrue Holiday,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,114,88,0.999,0.999,5:45
+4,4:34,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,114,91,0.999,0.999,4:34
+4,2:35,MIL,Rodney Hood,Personal Foul,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,117,93,0.999,0.999,2:40
+4,2:07,MIL,MIL,Delay Technical,Foul,Derek Richardson,Tre Maddox,Kevin Scott,MIL,120,93,0.999,0.999,2:07

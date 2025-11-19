@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:02,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,7,8,0.545,0.58,8:22
+1,5:58,NY,Evan Fournier,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,12,18,0.489,0.439,5:58
+1,4:58,NY,Julius Randle,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,15,20,0.532,0.494,5:05
+1,4:04,NY,Alec Burks,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,20,22,0.61,0.571,4:14
+2,10:43,BKN,Bruce Brown,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,37,28,0.805,0.805,10:46
+2,9:09,NY,RJ Barrett,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,39,36,0.727,0.689,9:27
+2,8:57,NY,Obi Toppin,Offensive Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,41,36,0.74,0.715,9:09
+2,8:48,NY,Obi Toppin,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,41,36,0.773,0.74,8:57
+2,6:29,BKN,Jevon Carter,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,45,41,0.699,0.685,6:29
+2,5:32,BKN,DeAndre' Bembry,Loose Ball Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,47,45,0.63,0.628,5:32
+2,3:27,BKN,Kevin Durant,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,49,51,0.493,0.527,3:27
+2,3:07,NY,Julius Randle,Offensive Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,49,52,0.495,0.462,3:11
+2,2:54,NY,Mitchell Robinson,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,49,52,0.488,0.495,3:07
+2,2:31,NY,Mitchell Robinson,Loose Ball Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,51,52,0.559,0.559,2:31
+2,2:19,NY,Alec Burks,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,51,52,0.606,0.559,2:31
+2,42.9,BKN,Kevin Durant,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,55,58,0.418,0.477,42.9
+2,32.5,NY,Mitchell Robinson,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,55,59,0.498,0.451,42.9
+3,7:51,NY,Derrick Rose,Loose Ball Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,74,63,0.893,0.893,7:51
+3,6:01,NY,Derrick Rose,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,78,66,0.917,0.916,6:20
+3,3:17,BKN,Cam Thomas,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,84,70,0.922,0.942,3:32
+3,3:04,BKN,Kevin Durant,Offensive Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,84,72,0.917,0.93,3:17
+3,2:15,BKN,Paul Millsap,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,86,74,0.921,0.92,2:29
+3,1:56,NY,Evan Fournier,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,86,76,0.93,0.904,2:07
+3,1:18,NY,Julius Randle,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,86,79,0.877,0.835,1:32
+3,35.9,BKN,Paul Millsap,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,88,82,0.712,0.772,45.2
+4,11:32,NY,Evan Fournier,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,88,84,0.722,0.746,11:38
+4,11:04,NY,Obi Toppin,Loose Ball Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,88,84,0.766,0.753,11:04
+4,10:25,BKN,James Johnson,Offensive Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,88,87,0.568,0.621,10:40
+4,8:06,BKN,Paul Millsap,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,93,92,0.462,0.565,8:32
+4,7:27,NY,Immanuel Quickley,Personal Take Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,95,94,0.721,0.62,7:28
+4,5:45,NY,Derrick Rose,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,97,98,0.498,0.499,5:49
+4,4:09,BKN,James Harden,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,101,100,0.562,0.577,4:25
+4,1:36,NY,Julius Randle,Technical Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,107,105,0.824,0.689,1:36
+4,27.5,NY,Julius Randle,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,108,107,0.8,0.551,33.3
+4,19.3,BKN,DeAndre' Bembry,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,110,107,0.608,0.805,27.5
+4,2.2,NY,Mitchell Robinson,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Scott Foster,BKN,110,110,0.927,0.547,17.0

@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:59,GS,Stephen Curry,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,5,0,0.628,0.625,11:07
+1,10:31,LAL,Austin Reaves,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,5,2,0.602,0.604,10:46
+1,5:40,GS,Jordan Poole,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,17,13,0.607,0.606,5:49
+1,3:54,LAL,Anthony Davis,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,21,17,0.634,0.635,3:59
+1,3:53,LAL,Troy Brown Jr.,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,21,17,0.633,0.634,3:54
+1,3:08,GS,Klay Thompson,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,21,17,0.567,0.608,3:17
+1,2:16,GS,Draymond Green,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,23,21,0.513,0.555,2:22
+1,2:04,LAL,Dennis Schroder,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,23,23,0.57,0.527,2:16
+2,10:25,GS,Andrew Wiggins,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,33,33,0.452,0.496,10:29
+2,10:17,GS,Stephen Curry,Offensive Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,33,34,0.466,0.496,10:25
+2,10:06,GS,Draymond Green,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,33,34,0.468,0.466,10:17
+2,9:30,LAL,Jarred Vanderbilt,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,35,36,0.495,0.496,9:35
+2,7:50,GS,Draymond Green,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,38,38,0.474,0.494,7:50
+2,7:23,GS,JaMychal Green,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,41,40,0.481,0.526,7:38
+2,4:07,GS,Kevon Looney,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,50,50,0.47,0.526,4:07
+2,2:44,GS,Gary Payton II,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,56,53,0.543,0.592,2:51
+2,1:57,GS,Jordan Poole,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,56,55,0.476,0.526,2:01
+2,1:40,GS,Kevon Looney,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,56,57,0.407,0.46,1:40
+2,38.0,LAL,D'Angelo Russell,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,61,63,0.484,0.424,38.0
+2,11.0,LAL,Dennis Schroder,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,62,63,0.542,0.493,30.1
+3,10:17,GS,Kevon Looney,Loose Ball Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,68,67,0.526,0.527,10:17
+3,9:42,LAL,Austin Reaves,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,68,69,0.545,0.487,9:55
+3,9:30,GS,Stephen Curry,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,69,69,0.488,0.487,9:40
+3,8:26,GS,Klay Thompson,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,71,73,0.384,0.45,8:26
+3,7:50,LAL,Jarred Vanderbilt,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,73,75,0.448,0.449,7:55
+3,4:56,LAL,Jarred Vanderbilt,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,76,86,0.159,0.16,4:56
+3,2:29,GS,Jordan Poole,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,83,89,0.182,0.231,2:42
+3,1:24,GS,Draymond Green,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,86,93,0.143,0.19,1:41
+3,1:24,GS,Draymond Green,Technical Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,86,93,0.164,0.143,1:24
+4,10:21,GS,Andrew Wiggins,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,92,98,0.132,0.191,10:24
+4,8:01,LAL,Jarred Vanderbilt,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,95,105,0.082,0.076,8:03
+4,6:39,GS,Jordan Poole,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,98,108,0.041,0.045,6:46
+4,5:44,LAL,Anthony Davis,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,100,112,0.037,0.017,5:44
+4,3:15,GS,Klay Thompson,Personal Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,106,112,0.075,0.092,3:32
+4,1:05,GS,Jordan Poole,Shooting Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,112,114,0.163,0.209,1:05
+4,2.1,GS,Donte DiVincenzo,Personal Take Foul,Foul,Ed Malloy,Marc Davis,Nick Buchert,GS,112,115,0.005,0.032,4.1

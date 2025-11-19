@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:29,LAL,Anthony Davis,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,4,5,0.228,0.251,10:34
+1,8:45,GS,Draymond Green,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,11,7,0.417,0.371,8:45
+1,8:02,GS,Jonathan Kuminga,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,14,7,0.479,0.48,8:12
+1,7:58,GS,Kevon Looney,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,14,7,0.521,0.479,8:02
+1,7:39,GS,Jonathan Kuminga,Loose Ball Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,15,7,0.551,0.509,7:39
+1,6:56,GS,Kevon Looney,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,17,9,0.557,0.544,6:56
+1,6:43,LAL,Austin Reaves,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,20,9,0.531,0.57,6:56
+1,6:15,LAL,Malik Beasley,Loose Ball Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,23,10,0.633,0.631,6:15
+1,3:43,GS,Anthony Lamb,Loose Ball Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,30,12,0.834,0.804,3:43
+1,3:05,GS,JaMychal Green,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,32,15,0.819,0.783,3:22
+1,1:20,LAL,Mo Bamba,Loose Ball Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,33,18,0.728,0.729,1:20
+2,11:28,LAL,Wenyen Gabriel,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,33,20,0.674,0.72,11:28
+2,11:05,LAL,Dennis Schroder,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,33,20,0.695,0.696,11:09
+2,10:41,GS,Draymond Green,Offensive Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,33,23,0.646,0.614,10:45
+2,9:05,LAL,Jarred Vanderbilt,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,37,29,0.569,0.562,9:14
+2,8:39,LAL,Lonnie Walker IV,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,39,29,0.587,0.631,8:46
+2,4:59,GS,Donte DiVincenzo,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,41,40,0.407,0.407,5:02
+2,3:31,GS,Kevon Looney,Loose Ball Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,47,40,0.617,0.617,3:31
+2,2:00,GS,Stephen Curry,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,47,45,0.51,0.456,2:12
+2,1:41,GS,Klay Thompson,Loose Ball Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,48,45,0.547,0.496,1:41
+2,1:14,LAL,Troy Brown Jr.,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,51,47,0.472,0.533,1:14
+3,3:14,GS,Kevon Looney,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,69,67,0.604,0.535,3:34
+4,9:55,GS,Stephen Curry,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,84,77,0.833,0.822,10:07
+4,9:34,LAL,Austin Reaves,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,84,77,0.71,0.791,9:44
+4,8:05,LAL,Wenyen Gabriel,Offensive Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,87,83,0.662,0.715,8:16
+4,7:22,LAL,Troy Brown Jr.,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,89,88,0.428,0.558,7:22
+4,4:58,GS,Donte DiVincenzo,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,93,91,0.666,0.651,4:58
+4,4:25,GS,Draymond Green,Loose Ball Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,96,91,0.854,0.84,4:25
+4,4:05,GS,Draymond Green,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,96,91,0.914,0.852,4:07
+4,3:51,LAL,Anthony Davis,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,98,91,0.819,0.897,4:05
+4,3:22,LAL,Dennis Schroder,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,101,93,0.878,0.932,3:38
+4,1:26,GS,Andre Iguodala,Shooting Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,103,101,0.838,0.723,1:45
+4,38.1,GS,Jordan Poole,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,107,101,0.99,0.968,43.1
+4,23.0,LAL,Troy Brown Jr.,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,109,101,0.971,0.99,23.0
+4,17.1,GS,Stephen Curry,Personal Take Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,109,103,0.997,0.983,23.0
+4,12.1,LAL,Dennis Schroder,Personal Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,111,103,0.985,0.993,17.1
+4,11.1,GS,Donte DiVincenzo,Personal Take Foul,Foul,Matt Boland,James Williams,Mitchell Ervin,LAL,111,105,0.998,0.993,12.1

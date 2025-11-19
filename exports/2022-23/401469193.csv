@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,0,0,0.508,0.53,12:00
+1,11:18,LAL,Troy Brown Jr.,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,2,1,0.576,0.552,11:29
+1,7:29,LAL,Troy Brown Jr.,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,16,9,0.752,0.719,7:37
+1,6:13,HOU,Alperen Sengun,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,19,11,0.721,0.72,6:13
+1,5:38,HOU,Kevin Porter Jr.,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,19,11,0.721,0.745,5:48
+1,3:05,HOU,Kevin Porter Jr.,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,25,13,0.81,0.807,3:20
+1,1:37,LAL,Austin Reaves,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,27,15,0.855,0.831,1:54
+1,1:23,HOU,Jalen Green,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,29,15,0.821,0.849,1:37
+2,11:28,HOU,Josh Christopher,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,33,19,0.828,0.855,11:42
+2,9:28,HOU,Jae'Sean Tate,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,38,22,0.868,0.891,9:34
+2,9:07,HOU,Usman Garuba,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,38,25,0.83,0.861,9:07
+2,8:39,HOU,Josh Christopher,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,40,26,0.835,0.862,8:55
+2,6:22,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,46,32,0.855,0.886,6:22
+2,4:42,LAL,Malik Beasley,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,48,36,0.882,0.858,5:04
+2,4:26,LAL,Wenyen Gabriel,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,51,36,0.916,0.893,4:26
+2,4:17,HOU,Jae'Sean Tate,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,52,36,0.883,0.906,4:26
+2,4:01,LAL,Wenyen Gabriel,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,52,38,0.894,0.892,4:17
+2,3:46,HOU,Jalen Green,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,54,38,0.885,0.907,3:55
+2,3:18,HOU,Jae'Sean Tate,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,56,40,0.887,0.909,3:25
+2,2:04,LAL,D'Angelo Russell,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,60,42,0.958,0.946,2:07
+2,1:02,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,60,42,0.923,0.939,1:08
+2,1:02,HOU,Jabari Smith Jr.,Technical Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,60,42,0.932,0.947,1:02
+3,11:44,LAL,Troy Brown Jr.,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,62,48,0.91,0.898,12:00
+3,11:08,HOU,KJ Martin,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,64,51,0.882,0.895,11:18
+3,9:17,HOU,Alperen Sengun,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,66,58,0.773,0.8,9:36
+3,7:50,HOU,KJ Martin,Technical Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,72,60,0.861,0.878,7:51
+3,7:19,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,74,63,0.86,0.859,7:19
+4,11:49,HOU,Tari Eason,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,83,74,0.807,0.875,0.0
+4,11:22,HOU,Tari Eason,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,85,76,0.805,0.862,11:33
+4,10:45,HOU,Jae'Sean Tate,Technical Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,87,81,0.728,0.802,10:45
+4,10:29,HOU,Jae'Sean Tate,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,87,82,0.719,0.717,10:45
+4,10:22,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,87,82,0.63,0.719,10:29
+4,10:17,LAL,Dennis Schroder,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,87,83,0.729,0.716,10:22
+4,7:32,HOU,Jae'Sean Tate,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,98,87,0.903,0.941,7:38
+4,7:09,HOU,Jabari Smith Jr.,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,98,89,0.897,0.92,7:21
+4,6:50,LAL,Jarred Vanderbilt,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,98,89,0.931,0.925,6:52
+4,6:22,LAL,Wenyen Gabriel,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,101,89,0.986,0.973,6:30
+4,6:08,LAL,Wenyen Gabriel,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,102,89,0.991,0.985,6:08
+4,4:58,LAL,D'Angelo Russell,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,102,92,0.982,0.968,5:06
+4,4:24,HOU,KJ Martin,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,104,94,0.929,0.959,4:31
+4,3:24,LAL,Wenyen Gabriel,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,104,96,0.977,0.952,3:44
+4,2:42,HOU,Alperen Sengun,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,107,96,0.971,0.986,2:44
+4,1:47,HOU,KJ Martin,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,107,98,0.95,0.976,1:53
+4,1:08,HOU,Kevin Porter Jr.,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,109,99,0.979,0.992,1:13
+4,56.2,LAL,Jarred Vanderbilt,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,109,101,0.996,0.987,1:08
+4,29.1,LAL,Jarred Vanderbilt,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,112,103,0.999,0.998,33.1
+4,7.2,LAL,Jarred Vanderbilt,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,113,106,0.999,0.994,21.1
+4,0.1,HOU,Kevin Porter Jr.,Flagrant Foul Type 1,Foul,Pat Fraher,Dedric Taylor,Jason Goldenberg,HOU,114,109,0.998,0.995,1.0

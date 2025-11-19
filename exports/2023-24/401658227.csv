@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:25,CLE,Isaac Okoro,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,3,2,0.239,0.266,10:32
+1,9:15,CLE,Darius Garland,Personal Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,8,5,0.315,0.314,9:25
+1,6:15,CLE,Evan Mobley,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,10,14,0.167,0.19,6:16
+1,5:37,BOS,Derrick White,Personal Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,10,18,0.146,0.145,5:38
+1,4:19,CLE,Darius Garland,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,15,21,0.151,0.162,4:35
+1,4:19,CLE,Max Strus,Technical Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,15,21,0.151,0.151,4:19
+1,2:00,BOS,Luke Kornet,Offensive Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,24,31,0.166,0.149,2:01
+1,6.1,BOS,Payton Pritchard,Personal Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,28,37,0.162,0.137,15.1
+2,8:44,BOS,Jaylen Brown,Away from Play Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,37,48,0.112,0.112,8:45
+2,6:23,BOS,Jaylen Brown,Offensive Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,46,51,0.221,0.198,6:29
+2,2:04,CLE,Isaac Okoro,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,53,55,0.241,0.282,2:10
+2,52.2,BOS,Jayson Tatum,Technical Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,56,59,0.308,0.287,53.1
+2,2.1,BOS,Derrick White,Personal Take Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,57,62,0.276,0.234,4.2
+3,10:55,CLE,Caris LeVert,Personal Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,59,62,0.262,0.261,10:58
+3,9:58,BOS,Jaylen Brown,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,63,64,0.386,0.325,9:58
+3,8:42,CLE,Darius Garland,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,65,64,0.374,0.402,8:42
+3,7:33,CLE,Max Strus,Personal Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,65,66,0.337,0.335,7:42
+3,6:59,CLE,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,65,70,0.191,0.24,6:59
+3,6:24,CLE,Darius Garland,Personal Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,68,71,0.226,0.271,6:31
+3,5:48,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,68,75,0.183,0.182,5:55
+3,5:32,BOS,Luke Kornet,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,68,75,0.227,0.183,5:48
+3,3:44,BOS,Jayson Tatum,Personal Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,71,78,0.227,0.181,3:58
+3,3:39,BOS,Luke Kornet,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,73,78,0.267,0.207,3:39
+3,39.1,CLE,Caris LeVert,Personal Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,78,83,0.153,0.2,42.1
+4,9:44,CLE,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,83,92,0.048,0.077,10:08
+4,5:00,CLE,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,91,98,0.055,0.079,5:16
+4,2:10,CLE,Max Strus,Loose Ball Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,95,102,0.031,0.034,2:10
+4,1:24,CLE,Max Strus,Loose Ball Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,97,102,0.029,0.061,1:24
+4,31.1,BOS,Jayson Tatum,Shooting Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,99,105,0.08,0.019,31.1
+4,23.0,CLE,Isaac Okoro,Personal Take Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,100,105,0.011,0.047,31.1
+4,13.2,CLE,Sam Merrill,Personal Take Foul,Foul,Courtney Kirkland,Kevin Cutler,Marc Davis,CLE,100,107,0.001,0.002,13.2

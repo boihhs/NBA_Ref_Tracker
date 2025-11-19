@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,MIA,Dewayne Dedmon,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,0,0,0.267,0.266,12:00
+1,11:26,ORL,Gary Harris,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,2,0,0.292,0.29,11:41
+1,10:41,ORL,Gary Harris,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,2,0,0.265,0.294,10:57
+1,8:55,ORL,Wendell Carter Jr.,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,7,3,0.362,0.349,9:00
+1,7:58,MIA,Duncan Robinson,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,7,6,0.309,0.308,8:15
+1,2:00,ORL,BJ Johnson,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,18,21,0.198,0.226,2:01
+1,1:02,ORL,BJ Johnson,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,20,23,0.214,0.229,1:04
+2,11:18,ORL,Hassani Gravett,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,24,34,0.116,0.116,11:26
+2,9:32,MIA,Gabe Vincent,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,30,38,0.161,0.16,9:51
+2,9:03,MIA,Marcus Garrett,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,30,40,0.13,0.129,9:09
+2,8:04,ORL,Hassani Gravett,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,33,42,0.109,0.129,8:08
+2,3:33,ORL,Chuma Okeke,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,48,56,0.148,0.146,3:47
+2,3:14,MIA,Dewayne Dedmon,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,48,58,0.121,0.129,3:20
+2,3:06,ORL,Gary Harris,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,49,58,0.107,0.13,3:14
+2,1:36,MIA,Duncan Robinson,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,51,63,0.121,0.099,1:54
+2,1:32,MIA,Kyle Lowry,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,51,63,0.121,0.121,1:36
+2,33.7,MIA,Gabe Vincent,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,55,66,0.137,0.114,51.6
+3,11:49,ORL,Robin Lopez,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,57,66,0.104,0.139,12:00
+3,9:18,MIA,Gabe Vincent,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,63,75,0.102,0.077,9:18
+3,8:27,MIA,Duncan Robinson,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,64,78,0.063,0.063,8:27
+3,7:35,MIA,Dewayne Dedmon,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,66,81,0.051,0.05,7:36
+3,5:59,ORL,Robin Lopez,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,70,81,0.082,0.098,6:08
+3,2:30,ORL,Hassani Gravett,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,74,88,0.035,0.035,2:36
+3,1:19,ORL,BJ Johnson,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,80,90,0.057,0.079,1:19
+4,11:13,MIA,Marcus Garrett,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,83,93,0.092,0.085,11:18
+4,10:40,ORL,BJ Johnson,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,85,96,0.105,0.066,10:40
+4,8:56,ORL,Admiral Schofield,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,87,102,0.006,0.012,9:20
+4,8:40,MIA,Omer Yurtseven,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,87,103,0.008,0.01,8:40
+4,6:39,MIA,Max Strus,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,90,104,0.014,0.014,6:41
+4,5:29,MIA,Omer Yurtseven,Defensive 3-Seconds Technical,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,94,107,0.014,0.017,5:42
+4,3:50,ORL,Robin Lopez,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,98,107,0.013,0.032,4:01
+4,1:03,ORL,Hassani Gravett,Personal Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,103,115,0.001,0.001,1:06
+4,43.9,ORL,Robin Lopez,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Tyler Ricks,ORL,103,115,0.001,0.001,1:03

@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:34,MIA,P.J. Tucker,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,0,0,0.667,0.686,10:34
+1,10:11,ATL,Kevin Huerter,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,0,1,0.713,0.683,10:16
+1,8:52,ATL,Kevin Huerter,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,3,3,0.73,0.7,8:56
+1,8:31,MIA,Max Strus,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,5,3,0.704,0.72,8:52
+1,7:50,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,5,5,0.695,0.695,7:52
+1,7:35,MIA,Kyle Lowry,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,7,5,0.684,0.716,7:44
+1,6:33,ATL,Trae Young,Personal Take Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,9,7,0.764,0.733,6:33
+1,6:33,ATL,Trae Young,Double Technical Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,9,7,0.728,0.732,6:33
+1,5:00,MIA,Max Strus,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,16,7,0.814,0.84,5:10
+1,4:48,MIA,Bam Adebayo,Loose Ball Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,16,7,0.813,0.839,4:48
+1,1:20,MIA,Dewayne Dedmon,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,21,11,0.827,0.856,1:22
+1,55.8,MIA,Duncan Robinson,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,23,13,0.827,0.852,1:06
+1,37.6,MIA,Tyler Herro,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,23,17,0.765,0.801,37.6
+2,11:19,MIA,Gabe Vincent,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,26,17,0.835,0.837,11:35
+2,11:14,MIA,Duncan Robinson,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,26,17,0.836,0.835,11:19
+2,10:45,ATL,Danilo Gallinari,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,28,20,0.849,0.818,10:45
+2,9:14,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,32,22,0.879,0.853,9:14
+2,5:27,ATL,Onyeka Okongwu,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,41,28,0.928,0.913,5:36
+2,4:57,ATL,Onyeka Okongwu,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,43,28,0.94,0.935,4:57
+2,4:36,MIA,P.J. Tucker,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,45,28,0.929,0.943,4:57
+2,2:22,MIA,Jimmy Butler III,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,53,34,0.951,0.962,2:32
+2,41.8,MIA,Jimmy Butler III,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,59,38,0.968,0.976,53.2
+3,11:10,MIA,Bam Adebayo,Offensive Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,59,40,0.968,0.974,11:14
+3,10:02,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,62,43,0.976,0.976,10:02
+3,7:21,ATL,Danilo Gallinari,Personal Take Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,70,46,0.994,0.994,7:22
+3,6:27,ATL,Onyeka Okongwu,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,72,46,0.997,0.996,6:27
+3,3:56,ATL,De'Andre Hunter,Personal Take Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,75,51,0.998,0.996,3:57
+3,2:34,MIA,Dewayne Dedmon,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,79,53,0.998,0.997,2:47
+3,2:34,ATL,Timothe Luwawu-Cabarrot,Offensive Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,79,53,0.998,0.998,2:34
+3,59.9,MIA,Tyler Herro,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,81,58,0.996,0.997,59.9
+3,25.1,ATL,De'Andre Hunter,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,85,58,0.999,0.998,59.9
+3,8.2,MIA,Dewayne Dedmon,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,85,58,0.999,0.999,25.1
+4,10:15,MIA,Gabe Vincent,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,89,68,0.996,0.996,10:22
+4,8:54,ATL,Timothe Luwawu-Cabarrot,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,95,68,0.999,0.999,8:54
+4,8:31,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,96,68,0.999,0.999,8:37
+4,8:04,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,96,68,0.999,0.999,8:05
+4,7:52,MIA,Gabe Vincent,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,97,68,0.999,0.999,8:04
+4,7:31,MIA,Gabe Vincent,Personal Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,99,70,0.999,0.999,7:37
+4,3:18,MIA,Max Strus,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,110,78,0.999,0.999,3:30
+4,3:10,ATL,Timothe Luwawu-Cabarrot,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,110,80,0.999,0.999,3:18
+4,1:28,MIA,Omer Yurtseven,Shooting Foul,Foul,Josh Tiven,Eric Dalen,Jacyn Goble,MIA,113,88,0.999,0.999,1:28

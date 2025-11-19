@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:48,UTAH,Hassan Whiteside,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,5,8,0.505,0.487,9:48
+1,8:42,UTAH,Royce O'Neale,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,6,11,0.431,0.433,8:44
+1,8:05,UTAH,Donovan Mitchell,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,10,14,0.457,0.431,8:05
+1,7:31,UTAH,Hassan Whiteside,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,11,16,0.468,0.429,7:37
+1,5:32,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,17,20,0.518,0.478,5:33
+1,4:49,IND,Myles Turner,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,19,20,0.501,0.503,5:03
+1,2:22,IND,Lance Stephenson,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,24,23,0.555,0.555,2:30
+1,2:03,UTAH,Danuel House Jr.,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,24,23,0.623,0.585,2:10
+2,11:35,IND,Chris Duarte,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,35,27,0.738,0.738,11:43
+2,11:14,IND,Oshae Brissett,Personal Take Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,35,27,0.738,0.738,11:14
+2,11:04,IND,Jeremy Lamb,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,35,27,0.704,0.738,11:14
+2,9:19,UTAH,Rudy Gay,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,37,29,0.767,0.767,9:32
+2,9:09,IND,Jeremy Lamb,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,37,29,0.706,0.744,9:13
+2,5:01,UTAH,Donovan Mitchell,Personal Take Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,53,39,0.893,0.892,5:19
+2,4:12,UTAH,Jordan Clarkson,Offensive Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,55,39,0.923,0.908,4:33
+2,3:17,IND,Duane Washington Jr.,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,55,42,0.837,0.866,3:20
+2,2:30,IND,Domantas Sabonis,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,55,44,0.796,0.829,2:34
+2,57.9,IND,Chris Duarte,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,59,48,0.801,0.832,1:16
+3,11:22,IND,Keifer Sykes,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,64,52,0.863,0.863,11:41
+3,10:55,UTAH,Hassan Whiteside,Offensive Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,64,55,0.823,0.799,11:01
+3,9:55,IND,Keifer Sykes,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,67,55,0.837,0.869,10:17
+3,9:10,UTAH,Donovan Mitchell,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,69,57,0.915,0.891,9:18
+3,7:14,IND,Oshae Brissett,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,70,63,0.758,0.757,7:16
+3,6:13,IND,Myles Turner,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,72,69,0.56,0.618,6:21
+3,5:29,UTAH,Hassan Whiteside,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,74,71,0.715,0.661,5:48
+3,4:25,UTAH,Jordan Clarkson,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,77,75,0.681,0.625,4:38
+3,2:52,IND,Chris Duarte,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,83,80,0.56,0.625,3:05
+3,2:14,IND,Jeremy Lamb,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,85,82,0.561,0.626,2:29
+3,2:07,UTAH,Danuel House Jr.,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,85,84,0.651,0.586,2:14
+4,11:46,IND,Oshae Brissett,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,90,86,0.668,0.701,12:00
+4,11:15,UTAH,Royce O'Neale,Personal Take Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,90,86,0.739,0.727,11:16
+4,11:08,UTAH,Danuel House Jr.,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,90,86,0.746,0.739,11:15
+4,11:01,UTAH,Royce O'Neale,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,92,86,0.817,0.776,11:01
+4,9:37,IND,Duane Washington Jr.,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,95,91,0.615,0.706,9:58
+4,9:03,UTAH,Rudy Gay,Personal Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,95,93,0.74,0.656,9:12
+4,8:27,UTAH,Rudy Gay,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,95,93,0.744,0.668,8:36
+4,7:37,IND,Myles Turner,Offensive Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,99,95,0.725,0.774,7:49
+4,4:24,IND,Domantas Sabonis,Offensive Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,111,101,0.966,0.977,4:34
+4,3:51,UTAH,Mike Conley,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,111,104,0.966,0.933,4:12
+4,2:04,UTAH,Donovan Mitchell,Loose Ball Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,115,107,0.991,0.98,2:04
+4,1:41,IND,Keifer Sykes,Offensive Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,117,109,0.973,0.981,1:56
+4,1:33,IND,Justin Holiday,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,117,111,0.928,0.959,1:33
+4,53.5,UTAH,Hassan Whiteside,Shooting Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,119,113,0.986,0.954,1:11
+4,37.0,UTAH,Royce O'Neale,Personal Take Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,120,113,0.996,0.986,43.6
+4,33.0,UTAH,Bojan Bogdanovic,Personal Take Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,122,113,0.999,0.998,33.0
+4,29.1,UTAH,Donovan Mitchell,Personal Take Foul,Foul,Marat Kogut,Jason Goldenberg,Tyler Ford,IND,123,113,0.999,0.999,31.8

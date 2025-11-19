@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:17,LAL,Rui Hachimura,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,0,4,0.278,0.318,11:17
+1,11:07,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,0,5,0.294,0.297,11:17
+1,10:23,LAL,Austin Reaves,Technical Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,2,8,0.238,0.254,10:24
+1,7:13,LAL,D'Angelo Russell,Offensive Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,6,16,0.179,0.196,7:23
+1,4:17,LAL,D'Angelo Russell,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,11,20,0.168,0.194,4:30
+1,1:02,OKC,Gordon Hayward,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,22,22,0.476,0.433,1:08
+1,2.1,OKC,Bismack Biyombo,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,23,25,0.4,0.382,2.1
+1,0.1,LAL,Rui Hachimura,Personal Take Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,25,25,0.365,0.409,2.1
+2,9:24,LAL,Taurean Prince,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,31,27,0.532,0.532,9:43
+2,6:13,OKC,Cason Wallace,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,37,30,0.67,0.668,6:32
+2,6:04,LAL,Anthony Davis,Offensive Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,37,30,0.638,0.67,6:13
+2,5:36,OKC,Jalen Williams,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,37,30,0.715,0.672,5:47
+2,3:43,OKC,Luguentz Dort,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,38,36,0.521,0.522,3:52
+2,3:06,OKC,Josh Giddey,Loose Ball Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,38,36,0.572,0.525,3:06
+2,2:03,LAL,Rui Hachimura,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,44,36,0.643,0.688,2:17
+2,13.0,OKC,Luguentz Dort,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,51,43,0.757,0.702,13.0
+3,11:43,OKC,Jalen Williams,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,52,43,0.765,0.748,12:00
+3,10:57,OKC,Josh Giddey,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,55,45,0.834,0.798,11:11
+3,9:29,LAL,LeBron James,Offensive Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,59,51,0.723,0.753,9:47
+3,9:28,LAL,Taurean Prince,Technical Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,59,51,0.699,0.723,9:29
+3,8:29,OKC,Jalen Williams,Technical Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,59,57,0.579,0.55,8:29
+3,7:00,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,65,60,0.671,0.673,7:03
+3,6:36,LAL,Austin Reaves,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,67,60,0.655,0.712,6:46
+3,6:15,LAL,D'Angelo Russell,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,67,62,0.58,0.639,6:17
+3,5:28,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,72,64,0.81,0.756,5:28
+3,5:01,OKC,Gordon Hayward,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,73,64,0.859,0.82,5:13
+3,4:26,OKC,Luguentz Dort,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,75,64,0.906,0.876,4:31
+3,2:20,OKC,Bismack Biyombo,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,81,66,0.97,0.955,2:45
+3,1:42,OKC,Bismack Biyombo,Loose Ball Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,83,68,0.973,0.961,1:42
+3,1:32,LAL,Cam Reddish,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,85,68,0.956,0.969,1:42
+3,1:10,OKC,Bismack Biyombo,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,85,70,0.976,0.961,1:24
+4,11:35,LAL,Taurean Prince,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,89,72,0.966,0.98,11:41
+4,11:05,LAL,Taurean Prince,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,92,76,0.964,0.98,11:05
+4,8:01,OKC,Aaron Wiggins,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,103,83,0.999,0.998,8:12
+4,4:20,OKC,Kenrich Williams,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,112,91,0.999,0.999,4:30
+4,2:10,OKC,Olivier Sarr,Personal Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,116,98,0.999,0.999,2:25
+4,33.1,LAL,Maxwell Lewis,Shooting Foul,Foul,James Capers,J.T. Orr,Jenna Schroeder,LAL,116,103,0.999,0.999,42.1

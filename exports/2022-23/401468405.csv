@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:29,CHI,Patrick Williams,Offensive Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,0,0,0.256,0.27,11:41
+1,7:36,CHI,Zach LaVine,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,11,5,0.372,0.41,7:51
+1,4:20,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,17,13,0.342,0.379,4:28
+1,2:48,BOS,Sam Hauser,Personal Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,19,14,0.448,0.446,2:48
+1,2:38,BOS,Derrick White,Personal Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,19,14,0.447,0.448,2:48
+1,1:55,BOS,Luke Kornet,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,21,17,0.465,0.423,2:09
+1,1:41,BOS,Sam Hauser,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,22,17,0.498,0.451,1:44
+1,1:35,BOS,Luke Kornet,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,23,17,0.507,0.481,1:35
+1,18.1,CHI,Zach LaVine,Loose Ball Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,28,20,0.477,0.488,47.6
+1,4.4,CHI,Javonte Green,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,28,20,0.479,0.477,18.1
+2,10:07,CHI,Alex Caruso,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,31,28,0.35,0.389,10:14
+2,8:30,BOS,Derrick White,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,39,29,0.692,0.652,8:33
+2,7:24,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,46,33,0.697,0.749,7:24
+2,6:03,BOS,Marcus Smart,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,46,38,0.659,0.61,6:14
+2,5:43,BOS,Marcus Smart,Transition Take Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,48,38,0.678,0.678,5:43
+2,2:35,BOS,Grant Williams,Offensive Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,55,45,0.709,0.676,2:51
+2,39.9,CHI,DeMar DeRozan,Personal Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,61,50,0.681,0.727,42.2
+3,9:16,CHI,DeMar DeRozan,Personal Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,69,53,0.891,0.892,9:19
+3,9:06,BOS,Marcus Smart,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,69,53,0.932,0.91,9:09
+3,6:58,CHI,Zach LaVine,Personal Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,76,59,0.927,0.927,7:09
+3,6:32,BOS,Jaylen Brown,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,78,59,0.969,0.954,6:32
+3,5:01,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,80,65,0.898,0.912,5:07
+3,2:46,BOS,Malcolm Brogdon,Loose Ball Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,90,71,0.98,0.98,2:46
+3,2:32,BOS,Grant Williams,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,90,71,0.987,0.98,2:46
+3,1:52,BOS,Derrick White,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,91,73,0.986,0.977,2:08
+3,1:44,CHI,Andre Drummond,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,93,73,0.975,0.983,1:52
+4,10:58,BOS,Sam Hauser,Personal Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,95,84,0.924,0.92,10:58
+4,10:37,CHI,Alex Caruso,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,95,86,0.808,0.879,10:37
+4,10:01,CHI,Zach LaVine,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,97,89,0.773,0.855,10:01
+4,9:16,BOS,Jayson Tatum,Personal Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,99,89,0.919,0.913,9:22
+4,8:28,BOS,Sam Hauser,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,102,89,0.983,0.969,8:34
+4,8:19,CHI,Ayo Dosunmu,Personal Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,104,89,0.977,0.979,8:28
+4,5:47,CHI,DeMar DeRozan,Personal Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,107,96,0.921,0.952,6:04
+4,5:10,BOS,Al Horford,Offensive Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,109,96,0.987,0.979,5:19
+4,5:04,CHI,Ayo Dosunmu,Offensive Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,109,96,0.981,0.987,5:10
+4,2:50,CHI,Alex Caruso,Shooting Foul,Foul,James Capers,Mitchell Ervin,Evan Scott,CHI,116,104,0.985,0.995,2:50

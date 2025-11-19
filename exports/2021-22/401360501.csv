@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,DAL,Luka Doncic,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,0,0,0.516,0.506,11:41
+1,10:11,DAL,Dorian Finney-Smith,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,0,5,0.377,0.376,10:14
+1,9:06,PHX,Devin Booker,Defensive 3-Seconds Technical,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,2,5,0.445,0.449,9:15
+1,8:55,PHX,JaVale McGee,Offensive Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,3,5,0.477,0.451,8:55
+1,7:29,DAL,Kristaps Porzingis,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,5,7,0.41,0.45,7:48
+1,6:14,PHX,Jae Crowder,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,13,11,0.583,0.583,6:20
+1,5:25,PHX,Devin Booker,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,13,13,0.567,0.527,5:40
+1,4:11,DAL,Jalen Brunson,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,17,17,0.479,0.526,4:11
+1,3:21,DAL,Dwight Powell,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,17,18,0.431,0.471,3:28
+1,1:13,PHX,Cameron Johnson,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,21,20,0.595,0.556,1:17
+2,11:44,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,26,22,0.569,0.624,12:00
+2,8:58,PHX,Landry Shamet,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,26,28,0.464,0.464,9:02
+2,8:40,DAL,Kristaps Porzingis,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,28,28,0.45,0.494,8:56
+2,6:31,PHX,Chris Paul,Loose Ball Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,36,32,0.649,0.649,6:37
+2,6:06,DAL,Frank Ntilikina,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,38,32,0.677,0.676,6:21
+2,5:11,PHX,Jae Crowder,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,38,32,0.747,0.707,5:25
+2,5:02,PHX,JaVale McGee,Offensive Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,40,32,0.762,0.735,5:11
+2,4:50,PHX,Chris Paul,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,40,32,0.797,0.762,5:02
+2,3:42,DAL,Jalen Brunson,Offensive Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,42,36,0.681,0.71,3:57
+2,1:43,PHX,Devin Booker,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,45,42,0.674,0.625,1:46
+2,1:43,PHX,Devin Booker,Technical Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,45,42,0.65,0.674,1:43
+3,11:23,PHX,JaVale McGee,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,53,45,0.82,0.783,11:43
+3,10:46,DAL,Kristaps Porzingis,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,57,45,0.858,0.857,10:57
+3,9:41,DAL,Dorian Finney-Smith,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,59,50,0.791,0.791,9:43
+3,7:15,PHX,Mikal Bridges,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,65,57,0.824,0.776,7:15
+3,7:01,DAL,Maxi Kleber,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,66,57,0.763,0.804,7:15
+3,6:03,DAL,Jalen Brunson,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,68,61,0.769,0.751,6:18
+3,4:26,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,68,69,0.379,0.441,4:32
+3,3:41,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,71,70,0.46,0.526,3:50
+3,3:26,PHX,Landry Shamet,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,71,72,0.483,0.484,3:41
+3,3:15,PHX,Landry Shamet,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,71,72,0.55,0.483,3:26
+3,3:09,PHX,Cameron Johnson,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,71,72,0.55,0.55,3:15
+3,3:08,PHX,Bismack Biyombo,Loose Ball Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,71,72,0.55,0.483,3:08
+3,59.3,PHX,Cameron Payne,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,79,74,0.78,0.702,59.3
+4,9:12,DAL,Josh Green,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,86,79,0.784,0.86,9:12
+4,9:12,PHX,Cameron Payne,Technical Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,86,79,0.879,0.784,9:12
+4,7:25,DAL,Kristaps Porzingis,Loose Ball Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,92,87,0.74,0.754,7:25
+4,5:10,DAL,Maxi Kleber,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,95,92,0.539,0.667,5:11
+4,3:38,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,97,98,0.353,0.449,3:38
+4,3:18,PHX,Jae Crowder,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,97,99,0.358,0.357,3:38
+4,3:10,PHX,Bismack Biyombo,Shooting Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,99,99,0.586,0.426,3:10
+4,2:25,DAL,Tim Hardaway Jr.,Loose Ball Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,99,101,0.158,0.254,2:25
+4,1:31,PHX,Chris Paul,Personal Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,99,104,0.234,0.117,1:49
+4,1:05,PHX,Bismack Biyombo,Offensive Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,99,104,0.125,0.076,1:15
+4,48.3,DAL,Dorian Finney-Smith,Offensive Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,99,104,0.212,0.125,1:05
+4,9.4,DAL,Kristaps Porzingis,Personal Take Foul,Foul,Ed Malloy,Marc Davis,Justin Van Duyne,DAL,101,107,0.001,0.012,19.0

@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:13,GS,Jonathan Kuminga,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,3,2,0.847,0.83,10:16
+1,9:07,MIA,Jimmy Butler III,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,5,4,0.794,0.806,9:07
+1,6:34,GS,Moses Moody,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,13,8,0.886,0.869,6:36
+1,5:26,GS,Jordan Poole,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,18,10,0.9,0.9,5:38
+1,2:26,GS,Nemanja Bjelica,Loose Ball Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,23,19,0.864,0.843,2:26
+1,1:43,MIA,Victor Oladipo,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,23,21,0.76,0.79,1:44
+1,29.4,MIA,Caleb Martin,Loose Ball Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,23,21,0.753,0.785,29.4
+2,11:38,GS,Gary Payton II,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,23,23,0.758,0.759,11:40
+2,11:13,MIA,Bam Adebayo,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,23,23,0.699,0.734,11:22
+2,10:40,GS,Nemanja Bjelica,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,25,27,0.706,0.707,10:44
+2,10:13,MIA,Caleb Martin,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,25,29,0.604,0.652,10:13
+2,8:37,GS,Andrew Wiggins,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,30,30,0.741,0.743,8:40
+2,8:32,GS,Nemanja Bjelica,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,30,30,0.774,0.741,8:37
+2,8:10,MIA,Caleb Martin,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,31,30,0.739,0.741,8:23
+2,8:02,MIA,Kyle Lowry,Loose Ball Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,31,30,0.701,0.739,8:02
+2,6:03,MIA,Dewayne Dedmon,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,31,34,0.568,0.645,6:05
+2,4:28,GS,Jonathan Kuminga,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,35,38,0.677,0.631,4:31
+2,3:48,MIA,Dewayne Dedmon,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,36,38,0.577,0.626,3:57
+2,1:51,MIA,Duncan Robinson,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,44,43,0.657,0.644,2:01
+2,1:01,GS,Kevon Looney,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,44,48,0.618,0.575,1:18
+2,31.0,MIA,Kyle Lowry,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,46,48,0.543,0.602,34.5
+3,11:28,GS,Jonathan Kuminga,Loose Ball Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,50,52,0.623,0.62,11:28
+3,8:59,MIA,Kyle Lowry,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,50,60,0.263,0.262,9:01
+3,7:30,GS,Jonathan Kuminga,Loose Ball Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,50,69,0.06,0.059,7:30
+3,7:15,GS,Gary Payton II,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,50,69,0.057,0.06,7:30
+3,4:14,GS,Gary Payton II,Personal Take Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,64,75,0.244,0.193,4:16
+3,3:26,GS,Damion Lee,Offensive Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,66,75,0.249,0.219,3:47
+3,3:14,GS,Nemanja Bjelica,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,68,75,0.358,0.283,3:14
+3,2:17,GS,Jordan Poole,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,71,79,0.333,0.271,2:25
+3,1:56,MIA,Kyle Lowry,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,72,79,0.206,0.267,2:14
+4,11:27,GS,Jordan Poole,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,82,81,0.671,0.656,11:30
+4,10:25,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,84,85,0.491,0.504,10:25
+4,8:59,GS,Damion Lee,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,87,91,0.476,0.375,9:17
+4,8:35,MIA,Jimmy Butler III,Loose Ball Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,88,91,0.354,0.37,8:35
+4,6:52,GS,Jonathan Kuminga,Loose Ball Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,88,91,0.416,0.394,6:52
+4,6:24,MIA,Victor Oladipo,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,88,91,0.228,0.335,6:37
+4,5:35,GS,Jonathan Kuminga,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,90,96,0.247,0.148,5:35
+4,4:33,GS,Damion Lee,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,93,102,0.121,0.075,4:44
+4,3:45,MIA,Kyle Lowry,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,97,105,0.029,0.065,4:06
+4,2:49,GS,Gary Payton II,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,97,107,0.05,0.024,2:49
+4,1:59,MIA,Jimmy Butler III,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,100,109,0.009,0.026,1:59
+4,1:14,MIA,Jimmy Butler III,Shooting Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,100,113,0.001,0.001,1:29
+4,14.8,GS,Kevon Looney,Personal Foul,Foul,David Guthrie,CJ Washington,Mitchell Ervin,MIA,103,118,0.001,0.001,14.8

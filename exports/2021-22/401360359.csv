@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:12,DET,Hamidou Diallo,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,3,4,0.189,0.209,10:24
+1,8:31,DET,Luka Garza,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,5,8,0.175,0.185,8:43
+1,7:48,DET,Derrick Walton Jr.,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,5,10,0.165,0.157,8:06
+1,2:42,DET,Jaysean Paige,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,16,20,0.162,0.187,2:43
+1,38.5,DET,Jaysean Paige,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,18,27,0.098,0.113,43.9
+1,29.6,SA,Jock Landale,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,18,29,0.123,0.104,38.5
+2,11:45,DET,Hamidou Diallo,Technical Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,20,29,0.108,0.117,11:45
+2,11:12,SA,Jakob Poeltl,Loose Ball Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,20,29,0.132,0.13,11:13
+2,10:21,DET,Micah Potter,Loose Ball Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,23,29,0.17,0.161,10:21
+2,9:42,DET,Justin Robinson,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,23,31,0.132,0.132,9:47
+2,7:42,DET,Cassius Stanley,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,25,39,0.052,0.064,7:53
+2,7:31,SA,Joshua Primo,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,27,42,0.071,0.055,7:31
+2,6:17,DET,Saddiq Bey,Loose Ball Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,30,46,0.038,0.047,6:17
+2,5:54,SA,Keldon Johnson,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,32,46,0.08,0.063,5:54
+2,4:18,SA,Joshua Primo,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,35,46,0.107,0.107,4:19
+2,3:52,SA,Devin Vassell,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,39,49,0.133,0.107,3:52
+2,55.6,SA,Devin Vassell,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,47,54,0.195,0.176,1:08
+2,31.7,SA,Keldon Johnson,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,51,56,0.211,0.198,31.7
+3,11:17,DET,Cassius Stanley,Offensive Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,52,61,0.118,0.134,11:35
+3,10:10,DET,Cassius Stanley,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,54,61,0.127,0.153,10:18
+3,7:19,SA,Keldon Johnson,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,63,67,0.286,0.261,7:19
+3,5:57,SA,Bryn Forbes,Personal Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,65,71,0.203,0.203,6:15
+3,5:51,SA,Drew Eubanks,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,65,71,0.247,0.203,5:57
+3,5:29,SA,Drew Eubanks,Flagrant Foul Type 1,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,67,71,0.317,0.263,5:35
+3,5:17,SA,Drew Eubanks,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,68,71,0.326,0.263,5:29
+3,4:41,SA,Derrick White,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,72,71,0.492,0.415,4:41
+3,4:11,SA,Derrick White,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,73,73,0.454,0.422,4:11
+3,3:50,DET,Justin Robinson,Personal Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,75,73,0.465,0.464,4:11
+3,1:57,SA,Jakob Poeltl,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,82,77,0.731,0.662,2:13
+4,11:50,SA,Derrick White,Offensive Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,85,81,0.656,0.641,12:00
+4,11:05,SA,Jakob Poeltl,Offensive Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,85,81,0.667,0.609,11:05
+4,10:45,SA,Tre Jones,Personal Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,85,81,0.683,0.671,10:45
+4,10:36,DET,Micah Potter,Offensive Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,85,81,0.622,0.683,10:45
+4,8:28,SA,Jakob Poeltl,Offensive Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,91,86,0.757,0.699,8:48
+4,6:50,SA,Tre Jones,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,95,88,0.92,0.866,7:09
+4,6:38,DET,Luka Garza,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,95,88,0.76,0.837,6:50
+4,6:18,DET,Cassius Stanley,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,95,92,0.631,0.697,6:18
+4,5:33,DET,Saddiq Bey,Offensive Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,97,93,0.7,0.759,5:41
+4,4:46,SA,Jock Landale,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,97,95,0.617,0.655,4:50
+4,4:24,SA,Derrick White,Personal Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,99,95,0.872,0.788,4:37
+4,2:24,SA,Jakob Poeltl,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,99,98,0.642,0.638,2:36
+4,1:14,SA,Derrick White,Personal Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,101,101,0.72,0.57,1:32
+4,43.5,DET,Hamidou Diallo,Personal Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,105,104,0.528,0.526,44.2
+4,24.9,DET,Luka Garza,Loose Ball Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,105,104,0.378,0.538,24.9
+4,21.7,DET,Saddiq Bey,Personal Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,105,104,0.375,0.537,21.7
+4,3.2,DET,Saddiq Bey,Offensive Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,105,105,0.483,0.543,20.8
+5,1:26,DET,Luka Garza,Offensive Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,111,110,0.519,0.644,1:45
+5,24.9,SA,Devin Vassell,Shooting Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,113,115,0.282,0.282,28.0
+5,11.4,DET,Justin Robinson,Personal Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,114,115,0.124,0.312,11.6
+5,10.4,DET,Justin Robinson,Personal Foul,Foul,Kevin Cutler,Natalie Sago,Sha'Rae Mitchell,DET,114,115,0.121,0.124,11.4

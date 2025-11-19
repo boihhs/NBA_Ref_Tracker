@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:24,PHI,Danny Green,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,2,0,0.76,0.787,10:28
+1,10:09,PHI,Tobias Harris,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,2,0,0.785,0.786,10:11
+1,9:14,PHI,Tyrese Maxey,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,4,0,0.802,0.814,9:14
+1,8:19,DET,Isaiah Stewart,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,6,3,0.812,0.814,8:35
+1,8:15,DET,Josh Jackson,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,6,3,0.835,0.812,8:19
+1,4:46,PHI,Joel Embiid,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,16,7,0.855,0.875,4:52
+1,3:03,DET,Kelly Olynyk,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,18,13,0.853,0.831,3:08
+1,0.2,PHI,Andre Drummond,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,21,20,0.684,0.722,17.3
+2,11:49,DET,Kelly Olynyk,Offensive Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,21,22,0.697,0.683,12:00
+2,9:54,PHI,Matisse Thybulle,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,28,27,0.722,0.736,9:54
+2,9:28,PHI,Shake Milton,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,28,28,0.644,0.683,9:42
+2,9:22,DET,Hamidou Diallo,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,28,29,0.681,0.684,9:28
+2,5:25,DET,Isaiah Stewart,Loose Ball Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,32,35,0.601,0.603,5:25
+2,4:41,DET,Isaiah Stewart,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,32,35,0.594,0.597,4:43
+2,4:19,DET,Jerami Grant,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,32,35,0.614,0.594,4:24
+2,3:35,PHI,Joel Embiid,Technical Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,36,35,0.655,0.677,3:36
+2,2:41,DET,Luka Garza,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,39,39,0.716,0.675,2:47
+2,2:19,DET,Luka Garza,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,41,41,0.714,0.674,2:31
+2,1:48,DET,Josh Jackson,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,43,43,0.712,0.67,1:56
+3,11:47,PHI,Danny Green,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,52,46,0.798,0.809,12:00
+3,9:15,DET,Josh Jackson,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,57,51,0.821,0.823,9:15
+3,9:15,DET,Josh Jackson,Technical Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,57,51,0.839,0.821,9:15
+3,6:20,PHI,Seth Curry,Personal Take Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,66,55,0.905,0.905,6:20
+3,2:04,PHI,Tobias Harris,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,76,62,0.941,0.957,2:24
+3,1:07,DET,Cory Joseph,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,76,64,0.966,0.951,1:16
+3,27.3,PHI,Furkan Korkmaz,Personal Take Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,76,64,0.916,0.94,27.7
+3,9.6,PHI,Matisse Thybulle,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,76,66,0.919,0.929,9.6
+3,2.8,DET,Cory Joseph,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,78,67,0.953,0.93,2.8
+4,10:54,PHI,Furkan Korkmaz,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,85,67,0.984,0.99,11:15
+4,10:41,PHI,Shake Milton,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,85,68,0.983,0.987,10:43
+4,10:23,DET,Trey Lyles,Loose Ball Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,85,70,0.984,0.983,10:23
+4,10:18,PHI,Andre Drummond,Loose Ball Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,85,70,0.978,0.978,10:18
+4,10:10,PHI,Andre Drummond,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,85,70,0.977,0.978,10:18
+4,8:48,DET,Hamidou Diallo,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,90,75,0.992,0.986,8:59
+4,8:34,PHI,Georges Niang,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,92,75,0.985,0.991,8:48
+4,7:54,PHI,Georges Niang,Loose Ball Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,95,76,0.996,0.998,7:54
+4,7:07,PHI,Andre Drummond,Offensive Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,98,78,0.998,0.999,7:16
+4,6:08,PHI,Andre Drummond,Offensive Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,100,81,0.998,0.998,6:24
+4,3:39,DET,Kelly Olynyk,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,100,91,0.985,0.965,3:57
+4,3:15,DET,Killian Hayes,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,101,94,0.968,0.935,3:26
+4,3:00,PHI,Tyrese Maxey,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,101,94,0.892,0.919,3:00
+4,2:51,DET,Frank Jackson,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,101,94,0.972,0.947,2:58
+4,1:46,DET,Kelly Olynyk,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,103,97,0.972,0.938,2:00
+4,1:31,PHI,Joel Embiid,Shooting Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,105,97,0.929,0.964,1:46
+4,1:18,DET,Jerami Grant,Personal Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,105,99,0.979,0.948,1:31
+4,35.8,DET,Kelly Olynyk,Offensive Foul,Foul,Tom Washington,Andy Nagy,J.B. DeRosa,PHI,107,102,0.949,0.899,40.6

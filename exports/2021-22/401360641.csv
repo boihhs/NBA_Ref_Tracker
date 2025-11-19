@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:03,LAL,Malik Monk,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,6,4,0.493,0.492,10:11
+1,9:29,LAL,LeBron James,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,6,6,0.404,0.443,9:30
+1,7:37,LAL,Trevor Ariza,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,12,12,0.445,0.444,7:46
+1,6:55,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,12,17,0.38,0.342,7:03
+1,6:22,LAL,Anthony Davis,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,13,20,0.241,0.272,6:24
+1,4:06,MIL,Jrue Holiday,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,17,26,0.266,0.226,4:06
+1,3:23,LAL,Stanley Johnson,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,18,28,0.178,0.205,3:37
+1,3:13,MIL,Pat Connaughton,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,18,28,0.226,0.225,3:21
+1,1:45,LAL,Talen Horton-Tucker,Personal Take Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,18,31,0.126,0.149,1:46
+2,9:42,LAL,Stanley Johnson,Flagrant Foul Type 1,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,28,47,0.065,0.074,9:42
+2,7:58,MIL,Bobby Portis,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,33,54,0.05,0.05,8:10
+2,7:55,LAL,Avery Bradley,Offensive Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,33,54,0.042,0.05,7:58
+2,6:24,MIL,Pat Connaughton,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,37,59,0.039,0.04,6:35
+2,6:17,MIL,Wesley Matthews,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,37,59,0.051,0.039,6:24
+2,4:26,LAL,Trevor Ariza,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,45,64,0.038,0.049,4:42
+2,2:14,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,49,70,0.048,0.038,2:38
+2,1:33,LAL,Malik Monk,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,51,72,0.022,0.029,1:41
+2,1:29,LAL,Anthony Davis,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,51,72,0.022,0.022,1:33
+2,1:11,MIL,Khris Middleton,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,51,74,0.031,0.025,1:29
+2,38.3,LAL,LeBron James,Technical Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,54,76,0.02,0.023,38.3
+2,25.4,LAL,Trevor Ariza,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,54,77,0.014,0.018,25.4
+3,11:37,MIL,Khris Middleton,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,56,78,0.028,0.023,11:37
+3,10:58,LAL,Russell Westbrook,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,59,78,0.035,0.035,11:07
+3,10:13,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,61,83,0.025,0.017,10:13
+3,10:13,MIL,Giannis Antetokounmpo,Technical Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,61,83,0.025,0.025,10:13
+3,9:47,MIL,Grayson Allen,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,61,86,0.014,0.01,9:58
+3,9:33,MIL,Khris Middleton,Personal Take Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,62,86,0.017,0.013,9:35
+3,8:18,MIL,Bobby Portis,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,62,91,0.004,0.002,8:24
+3,5:26,MIL,Khris Middleton,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,74,99,0.006,0.003,5:26
+3,4:48,MIL,Bobby Portis,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,74,99,0.005,0.004,4:48
+3,2:34,LAL,Stanley Johnson,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,79,103,0.002,0.002,2:38
+3,1:20,MIL,Jrue Holiday,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,79,105,0.002,0.001,1:36
+3,54.7,LAL,Stanley Johnson,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,83,105,0.001,0.003,1:09
+3,49.5,LAL,LeBron James,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,83,105,0.001,0.001,54.7
+4,11:08,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,88,113,0.001,0.001,11:18
+4,10:34,MIL,Wesley Matthews,Loose Ball Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,90,113,0.002,0.002,10:40
+4,8:33,MIL,Wesley Matthews,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,96,115,0.006,0.003,8:33
+4,8:16,LAL,Talen Horton-Tucker,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,96,115,0.001,0.002,8:16
+4,8:09,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,96,116,0.005,0.002,8:13
+4,5:33,LAL,Stanley Johnson,Loose Ball Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,106,118,0.019,0.02,5:33
+4,4:32,MIL,Bobby Portis,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,108,121,0.026,0.014,4:40
+4,3:19,MIL,Khris Middleton,Personal Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,109,125,0.002,0.001,3:34
+4,2:23,MIL,Jrue Holiday,Shooting Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,113,127,0.002,0.001,2:23
+4,27.3,LAL,LeBron James,Personal Take Foul,Foul,Josh Tiven,Scott Twardoski,Gediminas Petraitis,LAL,116,131,0.001,0.001,30.0

@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:59,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,2,10,0.397,0.439,9:59
+1,8:50,GS,Klay Thompson,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,5,11,0.426,0.464,9:06
+1,8:11,GS,Klay Thompson,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,7,11,0.474,0.516,8:33
+1,7:37,ORL,Anthony Black,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,9,15,0.486,0.486,7:45
+1,7:11,ORL,Goga Bitadze,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,11,15,0.576,0.537,7:13
+1,4:52,ORL,Jalen Suggs,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,16,15,0.692,0.659,5:03
+1,3:43,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,20,20,0.666,0.629,4:04
+1,3:24,ORL,Franz Wagner,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,21,20,0.689,0.656,3:30
+1,2:55,ORL,Paolo Banchero,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,25,22,0.718,0.678,2:55
+1,2:26,GS,Andrew Wiggins,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,25,22,0.639,0.677,2:28
+1,1:12,GS,Kevon Looney,Loose Ball Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,27,24,0.636,0.675,1:16
+1,34.0,GS,Kevon Looney,Loose Ball Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,27,26,0.576,0.622,34.0
+2,10:36,ORL,Cole Anthony,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,32,30,0.709,0.672,10:42
+2,8:39,GS,Brandin Podziemski,Defensive 3-Seconds Technical,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,34,32,0.647,0.641,8:49
+2,7:35,GS,Klay Thompson,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,37,37,0.556,0.666,8:03
+2,5:00,GS,Stephen Curry,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,41,40,0.602,0.633,5:24
+2,1:35,GS,Stephen Curry,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,47,47,0.509,0.557,1:38
+2,1:25,ORL,Paolo Banchero,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,47,49,0.577,0.524,1:35
+2,3.1,ORL,Jalen Suggs,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,54,52,0.699,0.62,3.1
+3,9:58,GS,Jonathan Kuminga,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,57,57,0.491,0.544,10:11
+3,9:42,ORL,Anthony Black,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,57,58,0.601,0.545,9:58
+3,9:23,ORL,Caleb Houstan,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,60,58,0.677,0.617,9:23
+3,9:03,GS,Jonathan Kuminga,Flagrant Foul Type 1,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,61,58,0.662,0.651,9:23
+3,6:40,GS,Chris Paul,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,69,68,0.574,0.575,6:44
+3,6:24,GS,Kevon Looney,Loose Ball Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,69,68,0.514,0.574,6:24
+3,6:13,GS,Kevon Looney,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,69,68,0.513,0.514,6:24
+3,6:00,ORL,Paolo Banchero,Loose Ball Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,69,69,0.574,0.575,6:13
+3,5:55,ORL,Goga Bitadze,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,69,69,0.633,0.574,6:00
+4,10:52,ORL,Cole Anthony,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,87,86,0.623,0.607,11:01
+4,9:36,ORL,Gary Harris,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,91,89,0.753,0.668,9:47
+4,7:46,ORL,Moritz Wagner,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,95,93,0.771,0.679,7:55
+4,7:13,GS,Klay Thompson,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,97,93,0.649,0.737,7:23
+4,6:21,GS,Stephen Curry,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,97,95,0.613,0.631,6:22
+4,5:16,GS,Brandin Podziemski,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,99,95,0.73,0.747,5:39
+4,4:05,ORL,Goga Bitadze,Shooting Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,104,97,0.949,0.928,4:05
+4,3:19,GS,Stephen Curry,Offensive Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,106,99,0.918,0.939,3:42
+4,1:05,ORL,Cole Anthony,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,112,103,0.998,0.995,1:11
+4,46.1,ORL,Cole Anthony,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,114,105,0.998,0.997,53.0
+4,30.1,ORL,Franz Wagner,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,116,108,0.998,0.996,33.1
+4,19.1,ORL,Paolo Banchero,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,117,110,0.998,0.995,22.0
+4,17.1,GS,Brandin Podziemski,Personal Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,118,110,0.979,0.993,19.1
+4,7.0,ORL,Franz Wagner,Personal Take Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,118,113,0.997,0.982,12.0
+4,4.1,ORL,Moritz Wagner,Personal Take Foul,Foul,Curtis Blair,Leon Wood,Tre Maddox,GS,120,115,0.998,0.991,5.1

@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,SAC,Kessler Edwards,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,0,0,0.275,0.307,12:00
+1,7:51,BOS,Derrick White,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,16,12,0.482,0.441,7:57
+1,7:11,SAC,Kessler Edwards,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,19,14,0.407,0.444,7:25
+1,4:00,SAC,Terence Davis,Personal Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,24,17,0.519,0.515,4:18
+1,2:55,SAC,Keegan Murray,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,24,21,0.375,0.415,3:01
+1,2:38,BOS,Robert Williams III,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,24,22,0.457,0.417,2:51
+2,10:18,BOS,Al Horford,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,35,30,0.571,0.528,10:22
+2,8:25,BOS,Marcus Smart,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,37,37,0.431,0.387,8:30
+2,6:32,SAC,Domantas Sabonis,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,42,42,0.344,0.363,6:32
+2,4:36,BOS,Robert Williams III,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,46,44,0.513,0.467,4:39
+2,51.0,SAC,Domantas Sabonis,Offensive Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,54,54,0.383,0.417,1:12
+2,15.1,SAC,Keegan Murray,Offensive Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,54,57,0.289,0.322,29.1
+2,3.1,SAC,De'Aaron Fox,Personal Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,54,57,0.248,0.289,15.1
+2,1.0,SAC,Kessler Edwards,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,54,59,0.213,0.263,1.0
+3,10:32,BOS,Marcus Smart,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,61,65,0.317,0.262,10:32
+3,9:58,SAC,De'Aaron Fox,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,61,67,0.189,0.234,9:58
+3,9:41,BOS,Jaylen Brown,Personal Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,61,68,0.208,0.208,9:58
+3,7:00,SAC,Keegan Murray,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,71,83,0.069,0.094,7:00
+3,3:21,SAC,Davion Mitchell,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,81,89,0.107,0.141,3:44
+3,2:21,BOS,Robert Williams III,Technical Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,81,93,0.087,0.074,2:21
+3,1:32,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,81,95,0.023,0.035,1:39
+3,23.1,BOS,Derrick White,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,83,100,0.027,0.017,29.1
+4,10:52,BOS,Robert Williams III,Personal Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,85,102,0.014,0.013,10:58
+4,10:29,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,85,102,0.005,0.009,10:35
+4,9:44,SAC,Keegan Murray,Personal Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,88,105,0.006,0.007,9:55
+4,9:40,BOS,Robert Williams III,Offensive Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,88,105,0.01,0.006,9:44
+4,9:30,BOS,Jaylen Brown,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,88,105,0.018,0.01,9:40
+4,8:25,BOS,Marcus Smart,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,93,107,0.04,0.021,8:28
+4,7:34,BOS,Robert Williams III,Personal Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,95,109,0.035,0.02,7:46
+4,7:25,BOS,Malcolm Brogdon,Loose Ball Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,95,109,0.034,0.02,7:25
+4,5:04,SAC,Keegan Murray,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,97,116,0.001,0.001,5:06
+4,3:49,SAC,Keon Ellis,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,97,120,0.001,0.001,3:49
+4,1:35,SAC,Keon Ellis,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,102,126,0.001,0.001,1:50
+4,24.0,BOS,Mike Muscala,Shooting Foul,Foul,Marc Davis,Brett Nansel,J.B. DeRosa,SAC,108,132,0.001,0.001,24.0

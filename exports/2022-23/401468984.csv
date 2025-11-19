@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:15,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,8,21,0.569,0.546,7:15
+1,5:42,LAC,Paul George,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,13,24,0.512,0.558,5:57
+1,4:08,LAC,Paul George,Offensive Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,18,31,0.475,0.507,4:19
+1,3:37,DAL,Jaden Hardy,Personal Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,18,33,0.434,0.441,3:53
+1,2:14,LAC,Norman Powell,Offensive Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,21,36,0.386,0.419,2:30
+1,55.1,DAL,JaVale McGee,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,21,40,0.321,0.28,1:07
+1,40.2,LAC,Norman Powell,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,23,40,0.258,0.302,55.1
+1,31.0,LAC,Reggie Jackson,Offensive Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,23,41,0.265,0.308,40.2
+2,10:48,DAL,Theo Pinson,Personal Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,25,43,0.276,0.278,10:51
+2,10:21,DAL,Theo Pinson,Offensive Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,25,43,0.27,0.244,10:31
+2,10:06,DAL,Jaden Hardy,Loose Ball Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,25,43,0.265,0.266,10:06
+2,9:37,LAC,Luke Kennard,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,27,45,0.21,0.258,9:37
+2,8:48,DAL,Josh Green,Personal Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,30,46,0.303,0.306,8:52
+2,8:01,LAC,Robert Covington,Personal Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,33,46,0.359,0.358,8:10
+2,8:00,LAC,Robert Covington,Personal Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,33,46,0.361,0.359,8:01
+2,7:01,LAC,Reggie Jackson,Personal Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,35,48,0.295,0.344,7:04
+2,6:17,LAC,Robert Covington,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,37,51,0.256,0.304,6:36
+2,5:02,DAL,Kyrie Irving,Personal Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,39,55,0.298,0.252,5:02
+2,2:53,DAL,Dwight Powell,Offensive Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,44,58,0.28,0.251,3:16
+2,13.1,DAL,Dwight Powell,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,51,60,0.437,0.373,13.1
+2,0.1,LAC,Kawhi Leonard,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,52,60,0.355,0.414,13.1
+3,11:17,DAL,Kyrie Irving,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,52,62,0.415,0.368,11:37
+3,7:41,DAL,Josh Green,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,60,69,0.399,0.343,7:56
+3,7:34,LAC,Paul George,Personal Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,62,69,0.376,0.376,7:41
+3,6:26,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,64,69,0.544,0.482,6:28
+3,42.1,DAL,Theo Pinson,Personal Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,78,81,0.565,0.496,1:00
+4,10:27,DAL,Kyrie Irving,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,78,85,0.343,0.26,10:42
+4,9:31,DAL,Christian Wood,Offensive Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,82,88,0.29,0.248,9:45
+4,8:37,LAC,Nicolas Batum,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,82,88,0.154,0.228,8:42
+4,8:06,LAC,Norman Powell,Personal Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,84,90,0.198,0.218,8:24
+4,7:10,LAC,Nicolas Batum,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,84,90,0.117,0.188,7:21
+4,6:26,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,84,94,0.12,0.074,6:41
+4,4:37,DAL,Christian Wood,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,89,98,0.125,0.071,4:56
+4,1:39,LAC,Terance Mann,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,95,102,0.012,0.031,1:50
+4,1:35,DAL,Josh Green,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,95,104,0.048,0.017,1:39
+4,47.0,DAL,Josh Green,Shooting Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,99,106,0.09,0.039,52.1
+4,16.1,LAC,Terance Mann,Personal Take Foul,Foul,John Goble,Andy Nagy,Justin Van Duyne,LAC,104,109,0.007,0.038,23.2

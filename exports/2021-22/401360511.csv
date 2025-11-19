@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:06,MEM,John Konchar,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,9,10,0.742,0.745,9:23
+1,8:33,DEN,Aaron Gordon,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,11,10,0.769,0.759,8:39
+1,7:53,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,13,13,0.784,0.758,8:01
+1,7:20,DEN,Monte Morris,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,15,15,0.744,0.734,7:20
+1,5:57,DEN,Jeff Green,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,17,19,0.647,0.684,6:09
+1,3:18,MEM,Jarrett Culver,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,23,28,0.616,0.616,3:25
+1,3:04,DEN,Bryn Forbes,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,23,28,0.543,0.586,3:09
+1,2:36,DEN,Facundo Campazzo,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,25,28,0.597,0.639,2:46
+1,1:49,MEM,Jarrett Culver,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,25,31,0.618,0.592,3:35
+2,11:17,MEM,Xavier Tillman,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,31,37,0.598,0.556,11:19
+2,10:42,MEM,Xavier Tillman,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,35,37,0.65,0.636,10:42
+2,10:22,DEN,Facundo Campazzo,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,36,37,0.621,0.66,10:42
+2,9:59,DEN,Zeke Nnaji,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,36,39,0.56,0.604,10:03
+2,9:48,MEM,Xavier Tillman,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,36,41,0.616,0.574,9:59
+2,8:58,MEM,Brandon Clarke,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,37,43,0.581,0.539,9:11
+2,8:24,MEM,Brandon Clarke,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,39,45,0.577,0.534,8:37
+2,7:57,DEN,DEN,Technical Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,40,47,0.435,0.494,7:57
+2,7:34,DEN,Nikola Jokic,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,40,47,0.411,0.456,7:34
+2,6:40,DEN,Nikola Jokic,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,42,53,0.337,0.353,6:40
+2,6:30,MEM,Brandon Clarke,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,42,54,0.369,0.322,6:40
+2,4:20,MEM,Steven Adams,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,49,61,0.345,0.297,4:32
+2,3:52,MEM,Ziaire Williams,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,52,63,0.323,0.289,3:52
+2,2:44,DEN,Jeff Green,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,53,63,0.262,0.312,2:54
+2,2:44,DEN,Jeff Green,Technical Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,53,63,0.284,0.262,2:44
+2,2:34,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,53,65,0.325,0.276,2:44
+2,2:28,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,55,65,0.338,0.308,2:34
+3,10:07,MEM,Steven Adams,Loose Ball Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,69,72,0.544,0.543,10:08
+3,7:22,DEN,Aaron Gordon,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,80,76,0.687,0.738,7:33
+3,7:18,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,80,76,0.767,0.768,7:18
+3,7:03,MEM,Brandon Clarke,Loose Ball Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,80,76,0.752,0.767,7:03
+3,5:44,DEN,Bryn Forbes,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,84,80,0.75,0.766,5:44
+3,4:41,DEN,Bryn Forbes,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,88,83,0.764,0.764,4:52
+3,4:30,MEM,Ja Morant,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,88,85,0.78,0.733,4:41
+3,4:30,MEM,Ja Morant,Technical Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,88,85,0.756,0.78,4:30
+3,2:33,DEN,Zeke Nnaji,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,91,91,0.496,0.567,2:34
+3,33.4,MEM,Jarrett Culver,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,91,97,0.318,0.318,33.4
+3,11.8,DEN,Zeke Nnaji,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,92,97,0.241,0.312,33.4
+4,11:50,MEM,Jarrett Culver,Offensive Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,92,98,0.299,0.283,12:00
+4,11:16,DEN,Zeke Nnaji,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,92,98,0.245,0.245,11:16
+4,9:43,MEM,Ziaire Williams,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,92,104,0.108,0.069,9:46
+4,9:02,MEM,Ziaire Williams,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,94,106,0.122,0.064,9:08
+4,8:31,DEN,Nikola Jokic,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,94,108,0.021,0.022,8:31
+4,7:18,MEM,Jarrett Culver,Offensive Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,96,108,0.019,0.034,7:34
+4,6:49,DEN,Will Barton,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,98,108,0.031,0.058,7:07
+4,4:59,DEN,Will Barton,Shooting Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,101,110,0.025,0.05,5:13
+4,4:28,DEN,Jeff Green,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,101,110,0.02,0.041,4:43
+4,4:10,DEN,Jeff Green,Personal Take Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,101,110,0.034,0.034,4:10
+4,2:08,DEN,Jeff Green,Personal Take Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,105,114,0.011,0.011,2:08
+4,37.2,DEN,Monte Morris,Personal Take Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,111,118,0.015,0.008,37.2
+4,27.2,DEN,Jeff Green,Personal Take Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,113,119,0.004,0.017,28.7
+4,15.7,DEN,Bryn Forbes,Personal Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,116,120,0.015,0.066,25.6
+4,13.4,MEM,Ziaire Williams,Personal Take Foul,Foul,Pat Fraher,Scott Wall,Karl Lane,DEN,116,122,0.08,0.027,15.7

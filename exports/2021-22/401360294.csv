@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:28,ORL,Robin Lopez,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,10,7,0.826,0.804,9:39
+1,7:49,ATL,Cam Reddish,Clear Path Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,11,12,0.7,0.698,7:50
+1,5:26,ORL,Gary Harris,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,11,19,0.573,0.535,5:43
+1,5:07,ORL,Robin Lopez,Offensive Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,12,19,0.558,0.528,5:24
+1,4:36,ATL,Onyeka Okongwu,Offensive Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,14,19,0.578,0.607,4:40
+1,4:23,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,14,19,0.535,0.578,4:36
+1,4:14,ORL,Admiral Schofield,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,14,21,0.55,0.552,4:23
+1,3:41,ORL,Tim Frazier,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,14,21,0.586,0.547,3:47
+1,2:00,ORL,Freddie Gillespie,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,14,21,0.574,0.534,2:12
+1,1:13,ORL,Aleem Ford,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,15,21,0.595,0.554,1:16
+1,39.8,ORL,Freddie Gillespie,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,15,21,0.591,0.551,56.1
+1,32.8,ATL,Jalen Johnson,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,17,21,0.536,0.578,39.8
+2,10:56,ATL,Onyeka Okongwu,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,20,24,0.521,0.564,11:03
+2,6:57,ORL,Robin Lopez,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,27,34,0.496,0.437,6:57
+2,1:28,ATL,John Collins,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,37,42,0.401,0.452,1:32
+2,1:28,ATL,John Collins,Technical Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,37,42,0.427,0.401,1:28
+2,1:05,ATL,Cam Reddish,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,37,45,0.297,0.35,1:12
+3,11:20,ORL,Chuma Okeke,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,37,49,0.229,0.231,11:37
+3,9:49,ATL,Gorgui Dieng,Personal Take Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,39,54,0.117,0.113,9:49
+3,8:42,ORL,Hassani Gravett,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,39,56,0.115,0.088,8:54
+3,6:11,ORL,Chuma Okeke,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,43,63,0.035,0.036,6:28
+3,4:13,ORL,Freddie Gillespie,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,47,63,0.09,0.066,4:13
+3,3:59,ORL,Franz Wagner,Loose Ball Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,47,63,0.088,0.063,3:59
+3,3:23,ORL,Tim Frazier,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,49,63,0.123,0.092,3:36
+3,2:59,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,54,63,0.187,0.187,2:59
+3,1:18,ATL,John Collins,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,59,65,0.216,0.275,1:29
+3,5.3,ORL,Franz Wagner,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,59,70,0.165,0.126,24.6
+4,10:54,ATL,Cam Reddish,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,61,72,0.061,0.102,10:54
+4,10:44,ORL,Aleem Ford,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,61,72,0.105,0.098,10:51
+4,6:42,ORL,Admiral Schofield,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,72,86,0.028,0.019,6:42
+4,6:29,ATL,Cam Reddish,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,74,88,0.008,0.018,6:29
+4,5:46,ATL,John Collins,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,77,89,0.02,0.008,5:26
+4,5:23,ORL,Admiral Schofield,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,77,92,0.008,0.02,5:46
+4,4:40,ORL,Admiral Schofield,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,77,94,0.005,0.002,4:49
+4,3:49,ATL,Onyeka Okongwu,Personal Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,81,94,0.002,0.006,4:09
+4,3:09,ORL,Robin Lopez,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,84,94,0.055,0.028,3:12
+4,2:52,ATL,Lance Stephenson,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,86,94,0.019,0.043,3:09
+4,2:41,ORL,Robin Lopez,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,86,96,0.047,0.024,2:52
+4,30.4,ORL,Admiral Schofield,Shooting Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,90,99,0.019,0.008,44.4
+4,28.8,ATL,Cam Reddish,Personal Take Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,91,99,0.001,0.003,30.4
+4,24.3,ATL,Delon Wright,Personal Take Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,93,100,0.001,0.006,25.5
+4,9.3,ATL,Delon Wright,Personal Take Foul,Foul,Jacyn Goble,David Guthrie,Gediminas Petraitis,ATL,95,102,0.001,0.001,9.4

@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,0,0,0.652,0.616,12:00
+1,6:57,SAC,Marvin Bagley III,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,18,14,0.692,0.703,6:57
+1,4:54,DAL,Moses Brown,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,26,20,0.737,0.725,4:54
+1,3:38,SAC,Damian Jones,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,30,22,0.735,0.767,3:53
+1,2:07,SAC,Chimezie Metu,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,32,25,0.713,0.746,2:26
+1,35.3,SAC,Richaun Holmes,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,39,29,0.777,0.809,51.1
+1,8.4,SAC,Chimezie Metu,Personal Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,39,30,0.756,0.788,15.1
+2,11:34,DAL,Theo Pinson,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,39,34,0.758,0.727,11:43
+2,11:19,SAC,Tyrese Haliburton,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,40,36,0.654,0.701,11:19
+2,7:20,SAC,Damian Jones,Offensive Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,49,46,0.642,0.672,7:25
+2,7:02,SAC,De'Aaron Fox,Personal Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,49,46,0.643,0.642,7:20
+2,5:28,SAC,Damian Jones,Personal Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,51,49,0.615,0.613,5:44
+2,5:23,SAC,Marvin Bagley III,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,51,49,0.566,0.615,5:28
+2,3:20,SAC,Davion Mitchell,Personal Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,53,54,0.463,0.515,3:34
+2,3:07,DAL,Marquese Chriss,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,53,56,0.529,0.482,3:15
+2,2:04,DAL,Marquese Chriss,Offensive Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,56,58,0.507,0.476,2:22
+2,1:16,DAL,Kristaps Porzingis,Personal Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,56,58,0.558,0.504,1:25
+3,10:57,DAL,Dorian Finney-Smith,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,58,62,0.479,0.387,10:57
+3,8:23,DAL,Dwight Powell,Offensive Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,67,69,0.488,0.448,8:25
+3,8:05,SAC,Marvin Bagley III,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,67,69,0.39,0.447,8:12
+3,6:01,DAL,Dwight Powell,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,67,79,0.173,0.137,6:17
+3,3:56,SAC,Damian Jones,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,69,87,0.017,0.025,4:14
+3,3:08,DAL,Josh Green,Personal Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,69,91,0.009,0.009,3:22
+3,2:02,DAL,Josh Green,Offensive Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,69,91,0.007,0.005,2:15
+4,10:48,SAC,SAC,Delay Technical,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,78,96,0.01,0.008,10:53
+4,9:00,SAC,Damian Jones,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,80,101,0.001,0.002,9:00
+4,11:24,DAL,Dwight Powell,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,80,94,0.045,0.003,8:28
+4,7:18,SAC,De'Aaron Fox,Personal Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,85,104,0.001,0.001,7:18
+4,7:05,DAL,Kristaps Porzingis,Offensive Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,85,104,0.002,0.001,7:18
+4,6:33,SAC,Richaun Holmes,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,85,104,0.001,0.001,6:47
+4,49.9,DAL,George King,Shooting Foul,Foul,David Guthrie,Nick Buchert,Brent Haskill,SAC,93,112,0.001,0.001,49.9

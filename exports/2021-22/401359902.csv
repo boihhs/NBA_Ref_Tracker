@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:24,BOS,Grant Williams,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,2,2,0.587,0.567,10:24
+1,7:40,BOS,Jayson Tatum,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,9,8,0.646,0.613,7:53
+1,6:55,BOS,Dennis Schroder,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,11,10,0.609,0.611,6:56
+1,4:54,BOS,Josh Richardson,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,16,12,0.698,0.658,4:54
+1,4:06,WSH,Deni Avdija,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,20,15,0.68,0.682,4:14
+1,3:57,BOS,Jabari Parker,Loose Ball Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,20,14,0.74,0.704,3:57
+1,1:32,BOS,Payton Pritchard,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,22,18,0.718,0.683,1:38
+2,11:19,BOS,Enes Freedom,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,27,20,0.787,0.756,11:25
+2,10:46,WSH,Corey Kispert,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,29,22,0.714,0.756,10:46
+2,8:10,BOS,Josh Richardson,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,31,27,0.683,0.684,8:15
+2,7:45,WSH,Aaron Holiday,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,33,27,0.709,0.709,8:00
+2,7:28,BOS,Romeo Langford,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,33,27,0.735,0.735,7:31
+2,7:03,BOS,Jaylen Brown,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,34,29,0.748,0.71,7:14
+2,7:03,BOS,Romeo Langford,Away from Play Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,34,29,0.748,0.748,7:03
+2,6:39,WSH,Montrezl Harrell,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,35,31,0.655,0.683,6:39
+2,5:29,WSH,Bradley Beal,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,40,34,0.669,0.71,5:39
+2,4:56,WSH,Raul Neto,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,40,34,0.71,0.71,4:56
+2,2:41,BOS,Al Horford,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,42,37,0.736,0.716,2:41
+2,1:11,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,46,41,0.642,0.688,1:15
+2,30.9,WSH,Montrezl Harrell,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,50,43,0.703,0.748,35.1
+3,9:01,BOS,Dennis Schroder,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,58,53,0.728,0.727,9:06
+3,8:38,WSH,Kyle Kuzma,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,58,53,0.672,0.696,8:42
+3,8:27,BOS,Al Horford,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,58,55,0.712,0.664,8:38
+3,8:05,BOS,Jaylen Brown,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,60,57,0.664,0.664,8:05
+3,7:48,BOS,Jayson Tatum,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,61,57,0.745,0.698,7:48
+3,6:44,WSH,Montrezl Harrell,Loose Ball Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,61,59,0.589,0.589,6:44
+3,6:10,BOS,Al Horford,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,61,61,0.61,0.551,6:29
+3,4:38,WSH,Montrezl Harrell,Loose Ball Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,67,63,0.687,0.669,4:38
+3,3:25,WSH,Raul Neto,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,67,65,0.525,0.59,3:30
+3,2:26,BOS,Dennis Schroder,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,69,69,0.582,0.545,2:35
+4,11:49,WSH,Davis Bertans,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,76,73,0.551,0.664,12:00
+4,11:30,BOS,Jabari Parker,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,76,75,0.675,0.589,11:49
+4,11:00,WSH,Spencer Dinwiddie,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,78,75,0.55,0.642,11:04
+4,10:48,BOS,Payton Pritchard,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,78,77,0.602,0.588,11:00
+4,9:58,BOS,Grant Williams,Personal Take Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,80,77,0.715,0.699,9:58
+4,9:17,BOS,Grant Williams,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,82,79,0.711,0.658,9:17
+4,8:48,WSH,Kyle Kuzma,Offensive Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,83,82,0.561,0.619,9:05
+4,8:42,BOS,Jayson Tatum,Offensive Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,83,82,0.621,0.561,8:48
+4,8:23,BOS,Grant Williams,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,83,82,0.7,0.621,8:42
+4,6:45,WSH,Montrezl Harrell,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,90,87,0.686,0.743,6:45
+4,5:45,WSH,Deni Avdija,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,90,87,0.575,0.683,5:55
+4,5:13,WSH,Kyle Kuzma,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,90,88,0.505,0.612,5:21
+4,4:01,BOS,Al Horford,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,95,90,0.886,0.807,4:01
+4,2:54,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,96,94,0.5,0.625,2:55
+4,2:19,BOS,Jaylen Brown,Loose Ball Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,99,96,0.875,0.718,2:19
+4,3.8,BOS,Josh Richardson,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,102,103,0.71,0.431,9.4
+5,2:24,BOS,Jayson Tatum,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,103,109,0.177,0.106,2:35
+5,1:04,BOS,Jayson Tatum,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,105,109,0.26,0.157,1:04
+6,3:11,BOS,Josh Richardson,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,111,111,0.546,0.538,3:26
+6,2:41,WSH,Montrezl Harrell,Shooting Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,111,111,0.326,0.459,2:55
+6,2:20,BOS,Dennis Schroder,Personal Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,111,112,0.467,0.459,2:39
+6,2:08,WSH,Davis Bertans,Loose Ball Foul,Foul,Zach Zarba,J.B. DeRosa,John Conley,WSH,111,112,0.356,0.361,2:08

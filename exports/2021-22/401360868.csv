@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:54,HOU,Garrison Mathews,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,4,4,0.504,0.504,10:01
+1,9:09,IND,Goga Bitadze,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,4,6,0.475,0.476,9:12
+1,7:50,IND,Buddy Hield,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,9,10,0.499,0.501,7:50
+1,6:39,IND,Tyrese Haliburton,Personal Take Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,14,10,0.63,0.631,6:41
+1,4:59,IND,Oshae Brissett,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,14,14,0.566,0.526,5:26
+1,2:27,HOU,KJ Martin,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,21,21,0.455,0.497,2:28
+1,2:11,IND,Lance Stephenson,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,21,22,0.541,0.497,2:26
+1,1:52,IND,Terry Taylor,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,23,24,0.541,0.497,2:02
+1,32.9,IND,Terry Taylor,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,27,28,0.542,0.496,44.8
+2,10:31,IND,Lance Stephenson,Offensive Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,32,32,0.526,0.496,10:37
+2,9:06,IND,Goga Bitadze,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,34,37,0.48,0.438,9:22
+2,7:50,IND,Duane Washington Jr.,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,35,37,0.51,0.463,7:55
+2,7:07,IND,Goga Bitadze,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,37,40,0.452,0.434,7:07
+2,6:45,IND,Jalen Smith,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,39,42,0.476,0.432,6:53
+2,6:05,HOU,Jae'Sean Tate,Loose Ball Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,42,42,0.492,0.495,6:05
+2,6:01,HOU,Josh Christopher,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,42,42,0.492,0.492,6:05
+2,5:57,HOU,Jalen Green,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,42,45,0.375,0.43,5:57
+2,3:23,HOU,Christian Wood,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,46,50,0.317,0.361,3:37
+2,1:21,IND,Jalen Smith,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,51,59,0.311,0.263,1:33
+2,46.9,IND,Oshae Brissett,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,52,59,0.34,0.293,1:08
+3,10:15,IND,Tyrese Haliburton,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,63,61,0.624,0.564,10:15
+3,7:59,IND,Malcolm Brogdon,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,74,68,0.739,0.742,8:09
+3,7:46,HOU,Jae'Sean Tate,Personal Take Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,74,68,0.708,0.707,7:47
+3,6:19,IND,Goga Bitadze,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,79,74,0.715,0.716,6:32
+3,5:53,HOU,Christian Wood,Offensive Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,79,76,0.606,0.645,6:02
+3,5:35,IND,Malcolm Brogdon,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,79,76,0.702,0.647,5:36
+3,4:58,HOU,Jae'Sean Tate,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,81,78,0.546,0.608,5:03
+3,4:47,IND,Tyrese Haliburton,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,81,80,0.63,0.568,4:58
+3,3:03,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,87,82,0.664,0.734,3:03
+3,2:15,IND,Duane Washington Jr.,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,89,83,0.825,0.778,2:25
+3,45.2,IND,Terry Taylor,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,91,83,0.891,0.851,57.9
+4,10:48,IND,Lance Stephenson,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,95,87,0.88,0.873,10:57
+4,10:14,IND,Buddy Hield,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,95,87,0.888,0.882,10:14
+4,8:38,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,99,92,0.795,0.872,8:38
+4,6:22,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,101,95,0.736,0.817,6:43
+4,4:36,HOU,Dennis Schroder,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,106,103,0.657,0.68,4:42
+4,4:31,HOU,Christian Wood,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,106,103,0.548,0.657,4:36
+4,4:05,IND,Buddy Hield,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,106,105,0.718,0.591,4:19
+4,4:05,IND,Buddy Hield,Double Technical Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,106,105,0.579,0.718,4:05
+4,2:54,HOU,Jalen Green,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,111,107,0.643,0.752,3:00
+4,1:06,HOU,Jae'Sean Tate,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,115,115,0.339,0.506,1:06
+4,19.2,HOU,Josh Christopher,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,115,117,0.111,0.27,19.2
+4,17.9,IND,Goga Bitadze,Loose Ball Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,115,117,0.5,0.27,19.2
+4,6.0,HOU,Kevin Porter Jr.,Personal Take Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,115,117,0.035,0.095,6.0
+4,1.5,HOU,Josh Christopher,Personal Take Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,HOU,118,119,0.018,0.054,1.9

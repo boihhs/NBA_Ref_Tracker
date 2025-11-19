@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:08,GS,Moses Moody,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,2,2,0.553,0.512,11:21
+1,9:33,GS,Andrew Wiggins,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,8,7,0.54,0.543,9:36
+1,9:22,GS,Moses Moody,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,8,7,0.538,0.54,9:33
+1,8:00,DEN,Nikola Jokic,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,8,12,0.348,0.386,8:10
+1,7:42,GS,Jordan Poole,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,8,14,0.397,0.361,8:00
+1,5:27,DEN,Austin Rivers,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,14,19,0.319,0.354,5:39
+1,4:28,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,17,21,0.428,0.406,4:28
+1,3:19,GS,Andrew Wiggins,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,19,24,0.419,0.378,3:19
+2,11:15,DEN,Bryn Forbes,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,29,30,0.459,0.455,11:20
+2,11:11,DEN,DeMarcus Cousins,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,29,30,0.46,0.459,11:15
+2,11:02,DEN,DeMarcus Cousins,Offensive Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,29,30,0.459,0.487,11:04
+2,11:02,DEN,DeMarcus Cousins,Technical Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,29,30,0.436,0.459,11:02
+2,9:29,GS,Klay Thompson,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,32,35,0.472,0.427,9:43
+2,9:14,DEN,JaMychal Green,Technical Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,33,35,0.405,0.427,9:29
+2,7:46,DEN,Bones Hyland,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,39,35,0.608,0.607,8:03
+2,7:22,GS,Nemanja Bjelica,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,39,35,0.68,0.64,7:26
+2,6:02,GS,Jordan Poole,Personal Take Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,47,35,0.84,0.841,6:02
+2,5:47,GS,Moses Moody,Loose Ball Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,47,35,0.868,0.841,5:47
+2,5:33,DEN,Bones Hyland,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,47,37,0.759,0.8,5:33
+2,4:55,GS,Damion Lee,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,47,38,0.814,0.779,5:02
+2,4:18,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,48,40,0.793,0.755,4:35
+2,3:59,DEN,Aaron Gordon,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,50,42,0.711,0.756,3:59
+2,1:06,GS,Jordan Poole,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,54,51,0.67,0.624,1:09
+3,11:28,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,60,51,0.838,0.805,11:44
+3,10:35,DEN,Jeff Green,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,63,51,0.855,0.853,11:01
+3,10:16,GS,Andrew Wiggins,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,63,53,0.833,0.834,10:25
+3,9:32,DEN,Nikola Jokic,Loose Ball Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,66,56,0.814,0.813,9:32
+3,9:12,GS,Stephen Curry,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,66,56,0.838,0.84,9:21
+3,8:11,GS,Moses Moody,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,69,58,0.895,0.866,8:13
+3,7:34,DEN,Nikola Jokic,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,72,60,0.853,0.889,7:34
+3,6:45,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,72,61,0.904,0.875,6:53
+3,6:31,DEN,Nikola Jokic,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,74,63,0.837,0.877,6:31
+3,6:10,DEN,Austin Rivers,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,74,64,0.793,0.834,6:12
+3,5:12,GS,Nemanja Bjelica,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,76,67,0.859,0.812,5:12
+3,2:39,DEN,Davon Reed,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,80,74,0.672,0.731,2:45
+3,2:19,DEN,DeMarcus Cousins,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,80,76,0.59,0.655,2:25
+3,2:00,GS,Jonathan Kuminga,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,80,78,0.68,0.615,2:19
+3,0.4,GS,Jonathan Kuminga,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,83,88,0.356,0.29,7.8
+4,10:32,GS,Nemanja Bjelica,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,86,90,0.413,0.324,10:41
+4,8:59,DEN,Austin Rivers,Personal Take Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,87,93,0.17,0.181,8:59
+4,7:54,DEN,Aaron Gordon,Loose Ball Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,90,96,0.153,0.166,7:54
+4,7:34,GS,Jordan Poole,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,90,98,0.134,0.124,7:39
+4,4:53,GS,Jordan Poole,Personal Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,98,98,0.564,0.538,5:03
+4,3:10,GS,Andrew Wiggins,Shooting Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,100,100,0.687,0.55,3:21
+4,27.3,DEN,Bryn Forbes,Personal Take Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,102,110,0.001,0.003,29.2
+4,25.2,DEN,Bryn Forbes,Personal Take Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,102,110,0.001,0.001,27.3
+4,10.2,DEN,Bones Hyland,Personal Take Foul,Foul,James Capers,Karl Lane,Scott Twardoski,DEN,102,111,0.001,0.001,11.9

@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:56,ORL,Mo Bamba,Shooting Foul,Foul,,,,PHI,2,2,0.712,0.676,9:56
+1,9:23,PHI,Charlie Brown Jr.,Shooting Foul,Foul,,,,PHI,3,2,0.661,0.693,9:26
+1,7:46,ORL,Franz Wagner,Personal Foul,Foul,,,,PHI,7,7,0.688,0.69,7:57
+1,5:34,ORL,Franz Wagner,Shooting Foul,Foul,,,,PHI,13,12,0.703,0.68,5:34
+1,4:48,ORL,Robin Lopez,Shooting Foul,Foul,,,,PHI,14,12,0.755,0.724,5:05
+1,3:22,PHI,Joel Embiid,Personal Foul,Foul,,,,PHI,18,12,0.781,0.782,3:23
+1,1:11,PHI,Furkan Korkmaz,Clear Path Foul,Foul,,,,PHI,22,20,0.653,0.691,1:11
+2,11:21,PHI,Andre Drummond,Shooting Foul,Foul,,,,PHI,27,21,0.744,0.777,11:30
+2,10:59,PHI,Isaiah Joe,Shooting Foul,Foul,,,,PHI,29,23,0.787,0.777,11:08
+2,6:05,PHI,Joel Embiid,Shooting Foul,Foul,,,,PHI,38,37,0.596,0.64,6:09
+2,5:55,ORL,Mo Bamba,Shooting Foul,Foul,,,,PHI,38,38,0.682,0.64,6:05
+2,3:56,PHI,Joel Embiid,Offensive Foul,Foul,,,,PHI,44,46,0.534,0.57,4:09
+2,1:57,PHI,Tobias Harris,Shooting Foul,Foul,,,,PHI,47,51,0.403,0.457,2:08
+3,10:07,ORL,Cole Anthony,Personal Foul,Foul,,,,PHI,51,57,0.39,0.389,10:13
+3,8:25,ORL,Cole Anthony,Personal Foul,Foul,,,,PHI,59,63,0.448,0.451,8:35
+3,7:15,ORL,Jalen Suggs,Shooting Foul,Foul,,,,PHI,66,65,0.636,0.599,7:15
+3,6:09,ORL,Mo Bamba,Shooting Foul,Foul,,,,PHI,73,70,0.688,0.669,6:09
+3,4:14,ORL,Chuma Okeke,Shooting Foul,Foul,,,,PHI,78,73,0.818,0.774,4:34
+3,3:47,ORL,Robin Lopez,Shooting Foul,Foul,,,,PHI,80,75,0.819,0.776,3:58
+3,3:21,ORL,Cole Anthony,Shooting Foul,Foul,,,,PHI,82,75,0.874,0.835,3:29
+3,2:03,ORL,Robin Lopez,Shooting Foul,Foul,,,,PHI,85,78,0.881,0.842,2:04
+3,7.2,PHI,Isaiah Joe,Personal Take Foul,Foul,,,,PHI,92,80,0.911,0.936,25.0
+4,11:00,PHI,Georges Niang,Personal Foul,Foul,,,,PHI,96,82,0.965,0.966,11:12
+4,9:46,ORL,Franz Wagner,Shooting Foul,Foul,,,,PHI,102,84,0.993,0.992,9:46
+4,9:20,ORL,Mo Bamba,Shooting Foul,Foul,,,,PHI,103,86,0.996,0.992,9:34
+4,8:36,ORL,Robin Lopez,Technical Foul,Foul,,,,PHI,106,86,0.998,0.997,8:36
+4,7:40,ORL,Franz Wagner,Shooting Foul,Foul,,,,PHI,109,86,0.999,0.999,7:40
+4,7:08,ORL,Mo Bamba,Shooting Foul,Foul,,,,PHI,110,86,0.999,0.999,7:23
+4,6:26,ORL,Mo Bamba,Shooting Foul,Foul,,,,PHI,112,86,0.999,0.999,6:42
+4,6:25,PHI,Georges Niang,Personal Take Foul,Foul,,,,PHI,113,86,0.999,0.999,6:25
+4,5:04,PHI,Andre Drummond,Personal Foul,Foul,,,,PHI,113,88,0.999,0.999,5:11
+4,3:46,PHI,Andre Drummond,Personal Foul,Foul,,,,PHI,115,93,0.999,0.999,4:04
+4,3:40,PHI,Charles Bassey,Personal Foul,Foul,,,,PHI,115,93,0.999,0.999,3:46
+4,3:29,ORL,Admiral Schofield,Shooting Foul,Foul,,,,PHI,115,95,0.999,0.999,3:40
+4,1:01,PHI,Charles Bassey,Shooting Foul,Foul,,,,PHI,123,105,0.999,0.999,1:16

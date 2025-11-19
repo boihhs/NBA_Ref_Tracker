@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:29,HOU,Jae'Sean Tate,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,2,2,0.679,0.661,11:29
+1,11:05,HOU,Kevin Porter Jr.,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,2,2,0.711,0.679,11:10
+1,10:45,HOU,Alperen Sengun,Offensive Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,4,2,0.721,0.699,10:45
+1,10:31,LAL,Kent Bazemore,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,4,2,0.7,0.699,10:31
+1,8:40,LAL,Anthony Davis,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,10,10,0.631,0.672,8:40
+1,8:04,LAL,LeBron James,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,14,12,0.693,0.715,8:04
+1,5:38,LAL,Anthony Davis,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,21,20,0.663,0.663,5:38
+1,4:34,HOU,Alperen Sengun,Defensive 3-Seconds Technical,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,25,24,0.678,0.686,4:47
+1,3:55,LAL,Kent Bazemore,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,28,27,0.619,0.658,3:58
+1,3:50,LAL,Kent Bazemore,Technical Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,28,27,0.639,0.684,3:50
+1,3:31,LAL,Malik Monk,Defensive 3-Seconds Technical,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,30,27,0.71,0.704,3:40
+1,2:19,LAL,Austin Reaves,Offensive Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,32,32,0.627,0.653,2:32
+1,2:10,LAL,DeAndre Jordan,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,32,32,0.585,0.627,2:19
+2,11:53,LAL,DeAndre Jordan,Offensive Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,32,35,0.529,0.548,12:00
+2,10:36,LAL,LAL,Technical Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,37,39,0.568,0.553,10:36
+2,7:43,LAL,Austin Reaves,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,45,47,0.54,0.541,7:50
+2,6:06,LAL,Carmelo Anthony,Technical Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,49,52,0.475,0.534,6:06
+2,5:50,HOU,Jae'Sean Tate,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,49,53,0.547,0.468,6:06
+2,5:24,HOU,Alperen Sengun,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,51,53,0.608,0.562,5:40
+2,4:43,LAL,Kent Bazemore,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,53,55,0.524,0.527,4:54
+2,4:34,HOU,Alperen Sengun,Offensive Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,53,55,0.557,0.524,4:43
+2,1:40,HOU,Christian Wood,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,57,65,0.39,0.342,1:59
+3,9:09,HOU,Christian Wood,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,68,79,0.251,0.208,9:12
+3,8:38,LAL,Kent Bazemore,Loose Ball Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,69,79,0.2,0.2,8:38
+3,8:28,LAL,LeBron James,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,69,79,0.201,0.201,8:38
+3,7:22,LAL,Austin Reaves,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,71,79,0.251,0.251,7:32
+3,6:47,HOU,Alperen Sengun,Loose Ball Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,71,81,0.214,0.214,6:47
+3,5:28,HOU,Jalen Green,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,75,81,0.338,0.341,5:28
+3,4:47,HOU,D.J. Augustin,Loose Ball Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,77,81,0.415,0.415,4:47
+3,4:04,LAL,Carmelo Anthony,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,79,81,0.388,0.451,4:13
+3,1:43,LAL,Russell Westbrook,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,83,85,0.364,0.434,1:54
+3,1.3,HOU,David Nwaba,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,85,89,0.447,0.373,4.5
+4,11:37,HOU,Jae'Sean Tate,Personal Take Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,87,89,0.486,0.464,11:39
+4,9:39,HOU,Jae'Sean Tate,Shooting Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,92,97,0.366,0.309,9:39
+4,5:47,LAL,Carmelo Anthony,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,108,102,0.843,0.848,5:53
+4,3:55,HOU,KJ Martin,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,112,104,0.979,0.958,3:55
+4,2:31,HOU,Kevin Porter Jr.,Personal Take Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,114,106,0.976,0.976,2:31
+4,45.9,HOU,Christian Wood,Loose Ball Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,116,111,0.981,0.953,45.9
+4,6.6,HOU,Jalen Green,Personal Take Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,118,117,0.929,0.854,8.2
+4,5.5,LAL,Kent Bazemore,Personal Foul,Foul,James Williams,J.B. DeRosa,Jonathan Sterling,LAL,119,117,0.596,0.814,6.6

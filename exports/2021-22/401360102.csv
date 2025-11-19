@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:34,PHI,Tyrese Maxey,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,0,2,0.721,0.69,11:47
+1,10:47,PHI,Andre Drummond,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,0,2,0.717,0.686,10:54
+1,9:12,PHI,Georges Niang,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,4,4,0.751,0.721,9:18
+1,9:00,GS,Jordan Poole,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,6,4,0.71,0.741,9:12
+1,7:35,GS,Draymond Green,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,9,9,0.66,0.671,7:35
+1,7:23,PHI,Seth Curry,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,9,12,0.681,0.693,7:35
+1,5:10,GS,Jordan Poole,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,11,17,0.529,0.528,5:18
+1,3:39,GS,Draymond Green,Loose Ball Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,13,19,0.474,0.519,3:58
+1,40.8,PHI,Georges Niang,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,18,32,0.336,0.295,54.6
+2,10:39,PHI,Furkan Korkmaz,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,25,34,0.465,0.418,10:48
+2,10:17,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,26,34,0.37,0.417,10:37
+2,9:32,GS,Stephen Curry,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,26,38,0.272,0.32,9:32
+2,8:34,PHI,Andre Drummond,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,29,42,0.325,0.284,8:38
+2,7:29,PHI,Andre Drummond,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,30,46,0.232,0.198,7:45
+2,6:43,GS,Kevon Looney,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,32,48,0.152,0.188,6:43
+2,3:10,GS,Draymond Green,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,39,55,0.111,0.137,3:31
+2,3:02,PHI,Seth Curry,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,39,57,0.146,0.119,3:10
+2,2:12,PHI,Tyrese Maxey,Offensive Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,43,57,0.195,0.169,2:19
+2,2:05,PHI,Seth Curry,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,43,57,0.234,0.195,2:12
+2,32.4,GS,Otto Porter Jr.,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,46,59,0.144,0.178,38.6
+3,10:20,PHI,Matisse Thybulle,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,58,63,0.443,0.443,10:24
+3,8:23,GS,Kevon Looney,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,66,63,0.687,0.689,8:23
+3,8:18,GS,Kevon Looney,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,66,65,0.59,0.654,8:18
+3,7:57,PHI,Danny Green,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,66,66,0.67,0.62,8:18
+3,6:36,GS,Jordan Poole,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,71,71,0.572,0.572,6:45
+3,5:55,GS,Damion Lee,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,71,73,0.426,0.489,6:11
+3,5:23,PHI,Georges Niang,Flagrant Foul Type 1,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,73,75,0.556,0.483,5:23
+3,5:23,GS,Jordan Poole,Technical Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,73,75,0.451,0.556,5:23
+3,4:45,PHI,Georges Niang,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,76,76,0.663,0.604,4:46
+3,4:08,GS,Juan Toscano-Anderson,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,76,76,0.492,0.56,4:15
+3,2:02,GS,Damion Lee,Offensive Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,78,77,0.591,0.639,2:20
+4,10:23,PHI,Matisse Thybulle,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,88,88,0.551,0.577,10:41
+4,9:32,PHI,Andre Drummond,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,90,88,0.734,0.633,9:32
+4,7:33,GS,Gary Payton II,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,96,88,0.887,0.894,7:49
+4,6:50,GS,Gary Payton II,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,96,88,0.891,0.899,6:57
+4,6:20,PHI,Furkan Korkmaz,Loose Ball Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,96,91,0.852,0.837,6:20
+4,5:34,PHI,Georges Niang,Offensive Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,98,91,0.917,0.885,5:47
+4,4:33,PHI,Georges Niang,Offensive Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,100,91,0.965,0.948,4:39
+4,4:20,PHI,Furkan Korkmaz,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,102,91,0.991,0.978,4:20
+4,4:05,GS,Juan Toscano-Anderson,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,103,91,0.985,0.986,4:20
+4,3:54,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,103,91,0.973,0.985,4:05
+4,3:44,PHI,Seth Curry,Shooting Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,105,93,0.995,0.987,3:44
+4,2:48,GS,Jordan Poole,Personal Foul,Foul,Kane Fitzgerald,Ben Taylor,Brandon Adair,GS,106,93,0.989,0.995,2:53

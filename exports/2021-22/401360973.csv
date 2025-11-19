@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:29,SAC,Damian Jones,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,2,2,0.529,0.487,11:29
+1,10:46,SAC,Damian Jones,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,3,7,0.447,0.411,10:52
+1,10:46,SAC,SAC,Technical Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,3,7,0.429,0.447,10:46
+1,10:32,HOU,Jalen Green,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,6,7,0.46,0.46,10:46
+1,9:50,HOU,Garrison Mathews,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,6,7,0.46,0.46,10:01
+1,9:46,HOU,Jalen Green,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,6,7,0.423,0.46,9:50
+1,5:38,SAC,Chimezie Metu,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,24,12,0.798,0.8,5:42
+1,5:06,SAC,Justin Holiday,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,24,12,0.827,0.801,5:13
+1,4:22,SAC,Donte DiVincenzo,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,27,14,0.847,0.821,4:25
+1,2:29,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,36,19,0.851,0.874,2:41
+1,12.7,SAC,Chimezie Metu,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,41,26,0.879,0.852,12.7
+2,10:46,SAC,Alex Len,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,43,26,0.92,0.904,10:56
+2,10:32,HOU,Daishen Nix,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,43,26,0.866,0.888,10:46
+2,8:10,SAC,Josh Jackson,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,43,34,0.799,0.766,8:14
+2,7:57,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,45,34,0.753,0.789,8:10
+2,7:03,HOU,Daishen Nix,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,47,35,0.781,0.814,7:04
+2,6:19,HOU,Jae'Sean Tate,Defensive 3-Seconds Technical,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,47,37,0.779,0.771,6:31
+2,6:08,HOU,Usman Garuba,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,47,40,0.674,0.724,6:08
+2,5:31,HOU,Usman Garuba,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,47,41,0.624,0.668,5:40
+2,3:16,HOU,Jae'Sean Tate,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,52,49,0.558,0.617,3:16
+2,1:03,HOU,Jae'Sean Tate,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,62,53,0.728,0.77,1:14
+3,10:54,HOU,Garrison Mathews,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,65,57,0.706,0.75,11:16
+3,10:33,HOU,Garrison Mathews,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,67,59,0.707,0.753,10:44
+3,5:24,HOU,Jae'Sean Tate,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,82,73,0.813,0.811,5:40
+3,4:26,HOU,Jalen Green,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,85,75,0.803,0.845,4:35
+3,3:58,SAC,Donte DiVincenzo,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,85,75,0.874,0.874,3:58
+3,3:49,HOU,Bruno Fernando,Offensive Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,85,75,0.852,0.874,3:58
+3,3:07,HOU,Kevin Porter Jr.,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,87,75,0.868,0.899,3:27
+3,3:07,HOU,HOU,Technical Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,87,75,0.886,0.868,3:07
+3,2:26,SAC,Josh Jackson,Loose Ball Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,87,80,0.807,0.806,2:26
+3,1:07,HOU,Josh Christopher,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,87,82,0.637,0.7,1:17
+4,11:23,SAC,Chimezie Metu,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,91,88,0.752,0.676,11:44
+4,9:20,SAC,Donte DiVincenzo,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,96,94,0.733,0.642,9:34
+4,8:13,HOU,Bruno Fernando,Offensive Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,100,96,0.704,0.755,8:28
+4,7:21,SAC,Damian Jones,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,102,98,0.813,0.711,7:21
+4,7:08,HOU,Kevin Porter Jr.,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,102,98,0.715,0.718,7:21
+4,4:55,SAC,Chimezie Metu,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,102,103,0.603,0.479,4:56
+4,3:31,HOU,Garrison Mathews,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,104,108,0.194,0.207,3:38
+4,1:33,SAC,Damian Jones,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,106,115,0.05,0.02,1:37
+4,1:28,HOU,Kevin Porter Jr.,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,108,115,0.013,0.032,1:33
+4,1:13,SAC,Davion Mitchell,Offensive Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,108,115,0.047,0.013,1:28
+4,1:01,HOU,Jae'Sean Tate,Personal Take Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,108,115,0.007,0.021,1:02
+4,57.9,SAC,Harrison Barnes,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,108,117,0.032,0.012,1:01
+4,55.6,HOU,Josh Christopher,Personal Take Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,110,117,0.006,0.019,57.9
+4,48.9,SAC,Harrison Barnes,Shooting Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,110,118,0.051,0.022,54.9
+4,46.4,HOU,Garrison Mathews,Personal Foul,Foul,Marat Kogut,Michael Smith,Tyler Ford,HOU,111,118,0.005,0.016,48.9

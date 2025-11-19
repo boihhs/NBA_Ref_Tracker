@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:21,MIL,Khris Middleton,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,0,0,0.814,0.827,11:29
+1,8:31,POR,Anfernee Simons,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,6,7,0.81,0.812,8:37
+1,6:52,MIL,Serge Ibaka,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,12,11,0.819,0.818,6:57
+1,4:47,MIL,Jordan Nwora,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,18,18,0.762,0.79,4:51
+1,4:13,MIL,Lindell Wigginton,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,18,19,0.737,0.77,4:31
+1,2:35,POR,Ben McLemore,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,23,25,0.772,0.736,2:35
+1,2:11,POR,Ben McLemore,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,23,25,0.754,0.754,2:14
+1,2.3,POR,Josh Hart,Personal Take Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,30,31,0.791,0.761,5.8
+2,9:56,POR,Trendon Watford,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,36,33,0.852,0.828,10:03
+2,8:02,MIL,Bobby Portis,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,43,39,0.79,0.819,8:15
+2,6:13,POR,CJ Elleby,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,45,46,0.722,0.724,6:18
+2,5:30,MIL,Wesley Matthews,Loose Ball Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,45,48,0.636,0.633,5:30
+2,4:12,MIL,Jrue Holiday,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,48,53,0.556,0.56,4:25
+2,3:37,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,48,56,0.48,0.482,3:37
+2,3:34,POR,Justise Winslow,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,48,56,0.533,0.481,3:37
+2,1:42,POR,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,48,65,0.207,0.171,1:50
+3,8:51,MIL,Bobby Portis,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,61,74,0.18,0.181,8:53
+3,5:22,POR,CJ Elleby,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,68,85,0.1,0.072,5:30
+3,3:25,MIL,Jrue Holiday,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,72,88,0.038,0.055,3:27
+3,2:16,POR,Ben McLemore,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,75,90,0.103,0.075,2:23
+3,1:35,MIL,Greg Monroe,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,76,90,0.046,0.066,1:37
+3,1:05,POR,Greg Brown III,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,76,92,0.071,0.052,1:20
+4,11:12,POR,Trendon Watford,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,80,94,0.092,0.058,11:19
+4,10:38,MIL,Serge Ibaka,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,83,94,0.057,0.09,10:50
+4,10:16,MIL,Serge Ibaka,Loose Ball Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,83,96,0.045,0.048,10:16
+4,9:43,POR,Josh Hart,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,83,98,0.054,0.031,9:50
+4,9:23,POR,Elijah Hughes,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,85,98,0.092,0.056,9:25
+4,6:57,MIL,Grayson Allen,Loose Ball Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,94,102,0.104,0.116,6:58
+4,6:12,POR,Anfernee Simons,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,96,107,0.091,0.054,6:21
+4,6:08,POR,CJ Elleby,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,96,107,0.09,0.091,6:12
+4,5:26,MIL,Bobby Portis,Flagrant Foul Type 1,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,98,107,0.067,0.065,5:33
+4,5:07,MIL,Khris Middleton,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,98,108,0.022,0.038,5:09
+4,4:57,POR,Justise Winslow,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,98,110,0.046,0.027,5:07
+4,4:02,MIL,Serge Ibaka,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,100,112,0.007,0.01,4:02
+4,32.5,POR,Trendon Watford,Personal Foul,Foul,Zach Zarba,Eric Dalen,Suyash Mehta,MIL,105,122,0.001,0.001,34.8

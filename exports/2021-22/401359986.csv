@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:33,DET,Saddiq Bey,Loose Ball Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,0,3,0.5,0.5,10:33
+1,8:55,DET,Cade Cunningham,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,2,8,0.418,0.416,9:02
+1,8:24,DET,Cade Cunningham,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,2,11,0.377,0.391,8:48
+1,6:55,HOU,Daniel Theis,Offensive Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,7,11,0.439,0.465,6:57
+1,6:09,DET,Isaiah Stewart,Loose Ball Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,10,13,0.462,0.462,6:09
+1,5:11,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,12,13,0.581,0.541,5:25
+1,4:50,HOU,Eric Gordon,Loose Ball Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,12,13,0.527,0.513,4:50
+1,4:18,DET,Josh Jackson,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,12,13,0.581,0.539,4:33
+1,3:20,HOU,Danuel House Jr.,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,16,13,0.62,0.645,3:25
+2,11:11,DET,Frank Jackson,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,21,26,0.46,0.417,11:23
+2,10:22,DET,Kelly Olynyk,Loose Ball Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,23,26,0.458,0.474,10:22
+2,8:49,DET,Kelly Olynyk,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,29,30,0.55,0.497,8:49
+2,8:35,HOU,Jae'Sean Tate,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,29,30,0.5,0.496,8:49
+2,8:29,HOU,Josh Christopher,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,29,30,0.499,0.5,8:35
+2,7:36,DET,Isaiah Stewart,Flagrant Foul Type 1,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,32,33,0.518,0.497,7:36
+2,4:44,DET,Killian Hayes,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,42,37,0.745,0.705,4:57
+2,1:17,HOU,Daniel Theis,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,49,44,0.635,0.68,1:32
+2,58.3,DET,Kelly Olynyk,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,49,44,0.756,0.713,1:03
+2,49.9,HOU,Daniel Theis,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,50,44,0.664,0.71,58.3
+3,10:26,DET,Killian Hayes,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,54,51,0.654,0.655,10:41
+3,10:20,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,54,51,0.703,0.654,10:26
+3,10:07,HOU,Daniel Theis,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,55,51,0.601,0.654,10:20
+3,9:09,HOU,Jae'Sean Tate,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,59,56,0.593,0.657,9:09
+3,8:03,DET,Kelly Olynyk,Offensive Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,62,59,0.658,0.619,8:23
+3,7:38,DET,Killian Hayes,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,62,59,0.659,0.659,7:44
+3,7:24,HOU,Jae'Sean Tate,Loose Ball Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,64,59,0.693,0.693,7:24
+3,4:51,DET,Trey Lyles,Loose Ball Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,69,68,0.646,0.543,4:51
+3,4:15,DET,Jerami Grant,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,69,70,0.479,0.502,4:20
+3,3:56,HOU,Christian Wood,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,71,72,0.455,0.501,3:56
+3,3:43,HOU,Jalen Green,Technical Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,71,73,0.38,0.5,3:43
+3,2:13,HOU,David Nwaba,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,75,78,0.297,0.362,2:28
+3,1:54,DET,Cory Joseph,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,75,80,0.383,0.324,2:13
+4,10:51,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,79,87,0.235,0.169,11:07
+4,10:51,DET,Isaiah Stewart,Technical Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,79,87,0.2,0.235,10:51
+4,10:40,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,82,89,0.136,0.206,10:40
+4,10:25,DET,Cory Joseph,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,82,89,0.279,0.201,10:40
+4,9:22,HOU,David Nwaba,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,84,92,0.142,0.124,9:27
+4,8:00,HOU,Christian Wood,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,86,96,0.035,0.061,8:10
+4,5:07,DET,Cade Cunningham,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,93,100,0.203,0.121,5:14
+4,3:53,HOU,Eric Gordon,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,96,103,0.038,0.073,3:55
+4,3:05,DET,Kelly Olynyk,Offensive Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,98,103,0.161,0.113,3:06
+4,2:50,DET,Kelly Olynyk,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,98,103,0.267,0.154,2:52
+4,2:42,HOU,Jalen Green,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,100,103,0.139,0.228,2:50
+4,2:05,DET,Jerami Grant,Shooting Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,103,106,0.244,0.284,2:15
+4,1:25,HOU,Kevin Porter Jr.,Personal Foul,Foul,Dedric Taylor,Rodney Mott,Gediminas Petraitis,HOU,104,108,0.066,0.129,1:25

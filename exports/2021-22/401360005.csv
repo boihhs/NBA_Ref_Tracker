@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:46,SA,Derrick White,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,0,0,0.448,0.488,12:00
+1,10:02,DAL,Luka Doncic,Personal Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,3,6,0.433,0.433,10:17
+1,7:32,SA,Drew Eubanks,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,11,8,0.525,0.564,7:36
+1,6:26,SA,Doug McDermott,Personal Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,16,11,0.618,0.617,6:42
+1,5:07,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,16,16,0.511,0.512,5:17
+1,2:23,SA,Devin Vassell,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,18,24,0.283,0.322,2:29
+1,1:26,DAL,Frank Ntilikina,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,18,28,0.285,0.248,1:36
+2,9:41,SA,Derrick White,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,29,38,0.236,0.258,9:41
+2,9:26,DAL,Sterling Brown,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,29,39,0.272,0.236,9:41
+2,8:59,SA,Thaddeus Young,Personal Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,31,39,0.258,0.258,9:12
+2,8:13,DAL,Jalen Brunson,Personal Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,34,41,0.309,0.309,8:13
+2,7:56,SA,Thaddeus Young,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,34,41,0.244,0.278,8:00
+2,6:57,DAL,Dwight Powell,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,36,41,0.406,0.361,7:01
+2,5:56,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,41,46,0.381,0.33,5:56
+2,5:17,DAL,Dwight Powell,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,41,48,0.343,0.299,5:32
+2,4:47,DAL,Reggie Bullock Jr.,Loose Ball Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,43,50,0.342,0.297,4:47
+2,2:59,SA,Drew Eubanks,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,49,54,0.277,0.321,3:18
+2,1:39,DAL,Kristaps Porzingis,Loose Ball Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,49,60,0.218,0.184,1:39
+2,1:21,SA,Dejounte Murray,Loose Ball Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,50,60,0.147,0.18,1:21
+3,9:38,SA,Derrick White,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,62,72,0.13,0.16,9:41
+3,7:47,SA,Thaddeus Young,Offensive Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,62,78,0.052,0.065,7:59
+3,7:30,DAL,Kristaps Porzingis,Offensive Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,62,78,0.062,0.052,7:47
+3,5:59,DAL,Dwight Powell,Loose Ball Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,64,81,0.044,0.043,5:59
+3,3:00,DAL,Jalen Brunson,Personal Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,68,91,0.005,0.006,3:07
+3,2:49,DAL,Willie Cauley-Stein,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,70,91,0.008,0.007,2:49
+3,1:10,SA,Drew Eubanks,Personal Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,75,99,0.001,0.001,1:10
+4,9:59,SA,Drew Eubanks,Loose Ball Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,81,104,0.001,0.001,9:59
+4,9:35,SA,Drew Eubanks,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,81,104,0.001,0.001,9:36
+4,9:23,DAL,Frank Ntilikina,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,81,105,0.001,0.001,9:27
+4,7:13,SA,Devin Vassell,Personal Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,87,109,0.001,0.001,7:16
+4,5:31,DAL,Luka Doncic,Personal Take Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,89,114,0.001,0.001,5:31
+4,4:18,DAL,Frank Ntilikina,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,95,117,0.001,0.001,4:20
+4,3:52,SA,Drew Eubanks,Personal Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,99,117,0.001,0.001,4:05
+4,2:56,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,101,117,0.002,0.001,3:01
+4,2:37,SA,Tre Jones,Personal Foul,Foul,Rodney Mott,J.B. DeRosa,Evan Scott,SA,102,117,0.001,0.001,2:56

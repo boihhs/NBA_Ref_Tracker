@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:36,BOS,Derrick White,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,7,2,0.741,0.774,8:36
+1,8:00,MIL,Brook Lopez,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,7,3,0.784,0.755,8:03
+1,1:22,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,27,15,0.847,0.869,1:25
+1,9.6,BOS,Jayson Tatum,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,30,19,0.831,0.855,18.2
+2,10:33,BOS,Derrick White,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,37,21,0.922,0.922,10:46
+2,8:44,MIL,Jevon Carter,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,37,25,0.887,0.888,8:50
+2,6:35,BOS,Grant Williams,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,42,25,0.921,0.936,6:58
+2,6:23,MIL,Brook Lopez,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,42,27,0.941,0.926,6:35
+2,6:01,BOS,Robert Williams III,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,44,27,0.93,0.936,6:23
+2,4:56,MIL,Grayson Allen,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,44,29,0.929,0.929,5:11
+2,4:38,MIL,Jrue Holiday,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,47,29,0.965,0.955,4:40
+2,3:36,BOS,Derrick White,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,51,31,0.953,0.963,3:48
+2,2:29,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,57,37,0.961,0.97,2:29
+3,11:50,MIL,Brook Lopez,Offensive Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,65,40,0.992,0.989,12:00
+3,11:45,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,65,40,0.992,0.992,11:50
+3,10:54,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,65,40,0.986,0.991,10:59
+3,10:25,BOS,Robert Williams III,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,65,43,0.979,0.986,10:25
+3,9:31,MIL,Bobby Portis,Flagrant Foul Type 1,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,70,46,0.991,0.992,9:35
+3,7:35,BOS,Derrick White,Personal Take Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,72,48,0.992,0.992,7:37
+3,7:18,MIL,Jrue Holiday,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,72,50,0.989,0.99,7:24
+3,5:57,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,72,52,0.986,0.981,6:08
+3,5:23,BOS,Grant Williams,Loose Ball Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,72,52,0.976,0.983,5:23
+3,3:00,BOS,Robert Williams III,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,77,60,0.969,0.98,3:00
+3,2:42,MIL,Jevon Carter,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,79,60,0.99,0.985,2:42
+4,11:12,MIL,Brook Lopez,Loose Ball Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,83,68,0.982,0.981,11:12
+4,10:08,BOS,Jayson Tatum,Offensive Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,88,70,0.991,0.994,10:14
+4,9:38,BOS,Jayson Tatum,Technical Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,88,70,0.99,0.995,9:39
+4,9:17,BOS,Al Horford,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,88,70,0.992,0.993,9:26
+4,9:07,BOS,Robert Williams III,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,88,70,0.99,0.993,9:07
+4,8:48,MIL,Jevon Carter,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,88,71,0.994,0.993,9:07
+4,8:46,MIL,Brook Lopez,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,88,71,0.994,0.994,8:48
+4,8:25,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,88,71,0.997,0.995,8:25
+4,8:09,BOS,Robert Williams III,Offensive Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,88,71,0.993,0.992,8:25
+4,6:59,MIL,Pat Connaughton,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,91,75,0.997,0.994,7:16
+4,6:07,BOS,Derrick White,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,92,77,0.982,0.991,6:13
+4,5:40,BOS,Payton Pritchard,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,94,78,0.989,0.994,5:49
+4,4:30,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,94,80,0.985,0.991,4:40
+4,3:52,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,97,82,0.993,0.996,4:05
+4,2:51,MIL,Wesley Matthews,Personal Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,99,86,0.998,0.997,3:13
+4,49.5,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,107,86,0.999,0.999,54.1
+4,39.6,BOS,Luke Kornet,Shooting Foul,Foul,Courtney Kirkland,David Guthrie,Tyler Ford,BOS,109,86,0.999,0.999,49.5

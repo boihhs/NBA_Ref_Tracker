@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:32,BOS,Grant Williams,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,5,0,0.683,0.694,10:49
+1,9:51,NY,Julius Randle,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,8,0,0.736,0.738,10:08
+1,9:45,NY,Mitchell Robinson,Defensive 3-Seconds Technical,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,8,0,0.744,0.736,9:51
+1,8:07,NY,Kemba Walker,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,11,10,0.574,0.599,8:07
+1,5:45,BOS,Romeo Langford,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,18,22,0.505,0.465,5:52
+1,3:33,BOS,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,20,24,0.5,0.459,3:40
+1,3:10,BOS,Romeo Langford,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,21,24,0.526,0.485,3:15
+1,2:17,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,25,29,0.439,0.425,2:17
+1,43.8,NY,Alec Burks,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,29,33,0.434,0.448,43.8
+1,4.2,NY,Obi Toppin,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,29,33,0.378,0.422,23.7
+2,10:30,NY,Alec Burks,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,29,37,0.265,0.302,10:43
+2,10:20,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,29,38,0.343,0.301,10:30
+2,8:44,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,34,45,0.282,0.243,8:53
+2,7:06,NY,Mitchell Robinson,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,38,48,0.201,0.234,7:13
+2,5:52,BOS,Payton Pritchard,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,38,50,0.242,0.207,6:00
+2,2:37,BOS,Marcus Smart,Offensive Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,50,50,0.554,0.518,2:57
+2,1:17,BOS,Jayson Tatum,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,52,52,0.554,0.554,1:36
+2,1:07,NY,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,52,54,0.42,0.482,1:07
+2,48.8,BOS,Dennis Schroder,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,52,55,0.443,0.443,54.0
+2,3.9,NY,Kemba Walker,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,54,57,0.431,0.41,22.0
+3,10:50,NY,Evan Fournier,Personal Take Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,56,60,0.37,0.368,10:54
+3,10:21,BOS,Marcus Smart,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,56,60,0.459,0.405,10:32
+3,6:37,NY,Kemba Walker,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,63,69,0.227,0.273,6:39
+3,5:39,NY,Julius Randle,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,67,71,0.314,0.341,5:42
+3,4:50,BOS,Marcus Smart,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,67,74,0.29,0.264,5:09
+3,3:19,BOS,Dennis Schroder,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,73,76,0.411,0.368,3:19
+3,1:17,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,79,80,0.566,0.496,1:40
+3,23.2,NY,RJ Barrett,Loose Ball Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,84,80,0.612,0.681,23.2
+3,6.8,BOS,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,84,80,0.784,0.727,11.2
+3,6.1,NY,Evan Fournier,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,86,80,0.703,0.766,6.8
+4,11:34,NY,RJ Barrett,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,88,82,0.761,0.77,11:48
+4,10:23,BOS,Dennis Schroder,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,92,84,0.918,0.879,10:30
+4,5:55,BOS,Grant Williams,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,105,95,0.966,0.962,6:00
+4,4:03,NY,Julius Randle,Offensive Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,109,98,0.98,0.986,4:13
+4,3:55,NY,Evan Fournier,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,109,98,0.977,0.98,4:03
+4,1:41,BOS,Grant Williams,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,109,104,0.927,0.92,1:41
+4,19.9,NY,Evan Fournier,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,112,108,0.736,0.888,19.9
+4,11.5,NY,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,112,108,0.76,0.736,19.9
+4,4.8,BOS,Grant Williams,Personal Take Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,114,113,0.942,0.825,6.1
+5,3:53,NY,Kemba Walker,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,122,121,0.415,0.534,4:01
+6,3:22,NY,Mitchell Robinson,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,130,131,0.379,0.383,3:45
+6,1:52,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,130,131,0.621,0.464,2:02
+6,1:46,BOS,Robert Williams III,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,132,131,0.611,0.555,1:46
+6,1:05,NY,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Scott Foster,Lauren Holtkamp,NY,133,133,0.55,0.592,1:05

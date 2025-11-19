@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,LAL,Kent Bazemore,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,2,2,0.666,0.627,10:37
+1,9:57,LAL,Kent Bazemore,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,3,2,0.672,0.693,9:57
+1,8:25,MIN,Patrick Beverley,Personal Take Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,8,4,0.712,0.711,8:26
+1,7:54,MIN,Karl-Anthony Towns,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,10,4,0.722,0.751,8:05
+1,6:48,MIN,Jarred Vanderbilt,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,14,5,0.78,0.807,7:04
+1,6:23,MIN,Karl-Anthony Towns,Offensive Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,14,8,0.75,0.77,6:45
+1,6:01,LAL,LeBron James,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,14,8,0.76,0.77,6:01
+1,4:44,LAL,Anthony Davis,Personal Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,16,8,0.832,0.807,4:44
+1,2:33,MIN,Josh Okogie,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,19,10,0.756,0.786,2:39
+1,1:33,MIN,Josh Okogie,Personal Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,19,11,0.756,0.785,1:47
+1,57.3,LAL,Russell Westbrook,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,19,12,0.818,0.79,1:02
+2,11:28,MIN,Jaden McDaniels,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,23,16,0.733,0.767,11:36
+2,10:39,MIN,Jaden McDaniels,Personal Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,25,17,0.789,0.787,10:45
+2,10:32,MIN,Jaden McDaniels,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,25,17,0.756,0.789,10:39
+2,9:59,LAL,LeBron James,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,27,19,0.809,0.809,9:59
+2,9:51,LAL,Russell Westbrook,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,27,19,0.809,0.809,9:51
+2,6:09,LAL,Russell Westbrook,Personal Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,34,29,0.743,0.744,6:19
+2,5:08,MIN,Patrick Beverley,Personal Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,37,29,0.755,0.791,5:28
+2,4:15,LAL,DeAndre Jordan,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,37,32,0.781,0.744,4:41
+2,3:40,LAL,Carmelo Anthony,Offensive Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,38,32,0.767,0.741,3:44
+2,3:36,LAL,Kent Bazemore,Personal Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,38,32,0.767,0.767,3:40
+2,3:21,MIN,Jarred Vanderbilt,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,39,32,0.769,0.769,3:34
+2,3:16,LAL,Rajon Rondo,Personal Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,39,34,0.782,0.744,3:21
+2,2:42,MIN,Patrick Beverley,Technical Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,42,36,0.722,0.742,2:43
+2,2:03,MIN,D'Angelo Russell,Offensive Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,42,39,0.661,0.691,2:15
+2,1:25,MIN,D'Angelo Russell,Personal Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,44,39,0.673,0.716,1:40
+2,59.3,MIN,Malik Beasley,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,47,41,0.699,0.742,1:05
+3,10:46,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,56,47,0.827,0.827,10:46
+3,9:04,MIN,Patrick Beverley,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,61,50,0.84,0.871,9:06
+3,8:45,LAL,Anthony Davis,Personal Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,61,51,0.873,0.873,9:02
+3,8:03,LAL,LeBron James,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,61,55,0.78,0.782,8:03
+3,7:30,MIN,Jarred Vanderbilt,Offensive Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,61,58,0.65,0.688,7:40
+3,6:41,LAL,LeBron James,Offensive Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,63,58,0.754,0.721,6:59
+3,5:05,LAL,LAL,Technical Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,71,58,0.93,0.922,5:05
+3,2:23,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,76,63,0.936,0.935,2:23
+3,1:02,MIN,Jaden McDaniels,Personal Take Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,81,63,0.977,0.983,1:09
+3,25.3,LAL,Isaiah Thomas,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,83,65,0.994,0.99,25.3
+3,25.3,LAL,Carmelo Anthony,Technical Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,83,65,0.992,0.994,25.3
+4,11:46,MIN,Jaylen Nowell,Personal Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,85,65,0.993,0.994,12:00
+4,11:25,LAL,LeBron James,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,85,68,0.993,0.988,11:39
+4,11:17,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,86,68,0.984,0.988,11:25
+4,10:48,LAL,Carmelo Anthony,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,86,70,0.991,0.985,10:59
+4,10:36,MIN,Jaden McDaniels,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,88,70,0.982,0.989,10:48
+4,7:51,MIN,Jaden McDaniels,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,98,78,0.997,0.998,7:51
+4,3:45,LAL,Kent Bazemore,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,105,82,0.999,0.999,4:06
+4,3:37,LAL,Wayne Ellington,Offensive Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,107,82,0.999,0.999,3:45
+4,3:07,LAL,Jay Huff,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,107,82,0.999,0.999,3:11
+4,2:10,MIN,Nathan Knight,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,108,87,0.999,0.999,2:13
+4,1:37,LAL,Kent Bazemore,Shooting Foul,Foul,John Goble,Dedric Taylor,Jonathan Sterling,MIN,110,89,0.999,0.999,1:40

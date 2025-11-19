@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:37,HOU,Fred VanVleet,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,9,10,0.523,0.557,8:53
+1,7:32,HOU,Dillon Brooks,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,13,12,0.611,0.61,7:44
+1,2:33,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,28,19,0.756,0.789,2:43
+1,2:18,ORL,Cole Anthony,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,28,21,0.769,0.769,2:33
+1,7.1,ORL,Cole Anthony,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,35,23,0.883,0.862,26.1
+2,10:27,HOU,Amen Thompson,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,36,30,0.725,0.724,10:28
+2,10:23,HOU,Cam Whitmore,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,36,30,0.687,0.788,3:41
+2,8:42,ORL,Jonathan Isaac,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,40,36,0.719,0.702,8:42
+2,7:48,HOU,Dillon Brooks,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,46,36,0.815,0.815,7:58
+2,4:35,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,51,41,0.868,0.842,4:39
+2,2:21,ORL,Gary Harris,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,56,43,0.918,0.898,2:24
+2,2:09,HOU,Fred VanVleet,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,59,43,0.905,0.924,2:21
+3,9:39,ORL,Markelle Fultz,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,71,55,0.962,0.949,9:48
+3,9:01,ORL,Gary Harris,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,73,55,0.975,0.968,9:17
+3,8:51,HOU,Amen Thompson,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,74,55,0.967,0.967,9:01
+3,8:41,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,74,55,0.956,0.967,8:51
+3,7:27,HOU,Dillon Brooks,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,79,60,0.971,0.97,7:39
+3,7:15,HOU,Fred VanVleet,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,79,60,0.961,0.971,7:27
+3,8:23,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,74,57,0.961,0.965,7:15
+3,5:31,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,86,68,0.959,0.97,5:44
+3,4:43,ORL,Jalen Suggs,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,86,70,0.966,0.964,4:56
+3,4:20,HOU,Dillon Brooks,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,88,72,0.95,0.966,4:20
+3,3:35,HOU,Jalen Green,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,90,77,0.914,0.939,3:35
+3,2:00,ORL,Joe Ingles,Double Technical Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,92,78,0.956,0.948,2:09
+3,1:46,HOU,Cam Whitmore,Loose Ball Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,92,78,0.928,0.95,1:46
+3,1:46,HOU,Cam Whitmore,Technical Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,92,78,0.94,0.928,1:46
+3,1:19,HOU,Jock Landale,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,95,80,0.945,0.961,1:32
+3,3.1,ORL,Moritz Wagner,Personal Take Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,97,82,0.985,0.976,6.1
+4,10:16,HOU,Jock Landale,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,97,84,0.932,0.955,10:26
+4,9:34,HOU,Dillon Brooks,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,97,88,0.877,0.885,9:44
+4,7:50,ORL,Markelle Fultz,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,100,93,0.899,0.871,8:05
+4,3:12,ORL,Paolo Banchero,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,113,101,0.996,0.99,3:12
+4,2:05,HOU,Fred VanVleet,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,114,103,0.985,0.992,2:05
+4,1:47,ORL,Jalen Suggs,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,114,104,0.997,0.99,2:05
+4,1:44,ORL,Jalen Suggs,Personal Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,114,104,0.998,0.997,1:47
+4,1:37,ORL,Markelle Fultz,Offensive Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,116,104,0.999,0.997,1:44
+4,51.0,HOU,Dillon Brooks,Personal Take Foul,Foul,Brian Forte,Marat Kogut,Brett Nansel,HOU,118,104,0.999,0.999,1:01

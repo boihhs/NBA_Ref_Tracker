@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:16,NY,Quentin Grimes,Personal Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,2,7,0.355,0.357,10:28
+1,9:53,MIA,Kevin Love,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,2,7,0.316,0.333,9:53
+1,9:14,NY,RJ Barrett,Personal Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,4,10,0.332,0.332,9:21
+1,8:47,NY,Jalen Brunson,Personal Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,7,12,0.353,0.354,8:48
+1,3:36,MIA,Gabe Vincent,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,23,24,0.411,0.458,3:36
+1,3:12,NY,Julius Randle,Offensive Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,23,25,0.431,0.404,3:20
+1,2:56,MIA,Gabe Vincent,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,23,25,0.365,0.404,2:59
+1,1:21,NY,Immanuel Quickley,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,25,29,0.417,0.374,1:24
+2,11:30,MIA,Kyle Lowry,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,31,32,0.388,0.429,11:35
+2,10:54,NY,Immanuel Quickley,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,31,34,0.446,0.402,11:02
+2,9:54,NY,Isaiah Hartenstein,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,36,37,0.504,0.461,10:01
+2,9:00,MIA,Caleb Martin,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,40,40,0.417,0.46,9:18
+2,7:20,NY,Isaiah Hartenstein,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,45,44,0.568,0.522,7:37
+2,6:28,MIA,Bam Adebayo,Personal Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,47,44,0.557,0.554,6:36
+2,3:45,NY,Mitchell Robinson,Loose Ball Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,51,49,0.61,0.564,3:45
+2,3:00,NY,Mitchell Robinson,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,53,51,0.613,0.563,3:12
+2,25.1,MIA,Caleb Martin,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,62,60,0.507,0.566,25.1
+3,11:20,MIA,Kevin Love,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,66,61,0.59,0.644,11:34
+3,9:27,NY,Mitchell Robinson,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,70,69,0.597,0.539,9:38
+3,9:16,MIA,Gabe Vincent,Personal Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,71,69,0.541,0.54,9:25
+3,8:56,MIA,Bam Adebayo,Offensive Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,71,69,0.541,0.581,9:03
+3,5:28,MIA,Bam Adebayo,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,82,75,0.689,0.74,5:49
+3,4:35,MIA,Kevin Love,Personal Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,82,77,0.614,0.674,4:35
+3,4:00,NY,Quentin Grimes,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,84,77,0.809,0.753,4:00
+3,3:19,NY,Julius Randle,Technical Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,87,77,0.892,0.875,3:19
+3,2:16,NY,Isaiah Hartenstein,Offensive Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,88,80,0.832,0.8,2:30
+3,1:51,MIA,Max Strus,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,88,80,0.751,0.806,1:52
+3,49.2,MIA,Max Strus,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,90,84,0.706,0.78,49.2
+4,8:51,NY,Mitchell Robinson,Personal Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,97,98,0.479,0.469,9:03
+4,8:38,NY,Mitchell Robinson,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,97,98,0.532,0.479,8:51
+4,7:25,NY,Isaiah Hartenstein,Offensive Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,98,100,0.418,0.359,7:42
+4,6:32,NY,Isaiah Hartenstein,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,101,100,0.671,0.605,6:39
+4,4:05,NY,Julius Randle,Personal Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,111,102,0.983,0.965,4:24
+4,3:47,MIA,Max Strus,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,114,102,0.976,0.988,3:54
+4,3:41,MIA,Tyler Herro,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,114,104,0.945,0.973,3:43
+4,3:23,NY,Jalen Brunson,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,114,106,0.981,0.961,3:41
+4,1:26,NY,Julius Randle,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,123,113,0.998,0.996,1:41
+4,1:20,MIA,Jimmy Butler III,Shooting Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,123,113,0.976,0.993,1:22
+4,34.1,NY,RJ Barrett,Personal Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,123,118,0.981,0.943,42.0
+4,22.1,MIA,Caleb Martin,Personal Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,125,118,0.943,0.973,34.1
+4,19.1,NY,RJ Barrett,Personal Take Foul,Foul,Brian Forte,Kevin Scott,Ray Acosta,MIA,125,118,0.998,0.995,20.0

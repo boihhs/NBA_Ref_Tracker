@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,OKC,Josh Giddey,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,4,0,0.154,0.13,11:04
+1,10:42,OKC,Josh Giddey,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,5,0,0.18,0.16,10:45
+1,10:33,TOR,Bruce Brown,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,7,2,0.138,0.161,10:33
+1,8:32,OKC,Chet Holmgren,Loose Ball Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,9,5,0.161,0.161,8:32
+1,6:11,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,19,9,0.316,0.274,6:11
+1,4:41,OKC,Isaiah Joe,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,25,14,0.385,0.343,4:45
+1,3:49,OKC,Isaiah Joe,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,25,16,0.343,0.301,4:03
+1,3:29,TOR,Jahmi'us Ramsey,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,26,16,0.271,0.306,3:46
+1,2:43,TOR,Jordan Nwora,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,28,21,0.216,0.245,2:58
+1,1:26,TOR,Jahmi'us Ramsey,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,31,26,0.192,0.216,1:34
+2,6:44,TOR,Kelly Olynyk,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,39,47,0.072,0.071,6:56
+2,5:08,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,41,51,0.066,0.066,5:20
+2,4:58,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,43,51,0.094,0.075,4:58
+2,1:09,OKC,Gordon Hayward,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,53,61,0.116,0.094,1:14
+2,35.2,OKC,Gordon Hayward,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,55,61,0.151,0.124,46.1
+3,7:46,TOR,Ochai Agbaji,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,64,78,0.031,0.032,7:46
+3,7:20,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,64,81,0.02,0.02,7:35
+3,7:09,OKC,Luguentz Dort,Loose Ball Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,64,81,0.02,0.02,7:09
+3,6:19,OKC,Jalen Williams,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,64,81,0.019,0.019,6:31
+3,3:14,TOR,Ochai Agbaji,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,72,84,0.04,0.04,3:18
+3,54.0,TOR,Jahmi'us Ramsey,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,74,89,0.01,0.016,1:02
+3,30.0,OKC,Isaiah Joe,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,76,89,0.052,0.035,33.1
+3,20.0,OKC,Lindy Waters III,Loose Ball Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,76,89,0.051,0.034,20.0
+4,11:48,OKC,Josh Giddey,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,78,89,0.057,0.049,12:00
+4,10:59,TOR,Jordan Nwora,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,81,91,0.033,0.053,11:20
+4,9:03,TOR,Jahmi'us Ramsey,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,88,94,0.114,0.123,9:15
+4,8:25,TOR,Jordan Nwora,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,90,96,0.075,0.117,8:38
+4,7:04,TOR,Javon Freeman-Liberty,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,93,101,0.037,0.061,7:05
+4,6:41,TOR,Kelly Olynyk,Offensive Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,93,101,0.055,0.077,6:51
+4,6:00,TOR,Gradey Dick,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,93,103,0.02,0.038,6:00
+4,5:53,TOR,Bruce Brown,Offensive Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,93,104,0.018,0.026,6:00
+4,5:42,TOR,Ochai Agbaji,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,93,104,0.009,0.018,5:53
+4,5:24,OKC,Luguentz Dort,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,93,106,0.022,0.011,5:25
+4,4:41,OKC,Gordon Hayward,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,95,112,0.001,0.001,4:53
+4,4:02,OKC,Luguentz Dort,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,97,114,0.002,0.001,4:12
+4,3:33,TOR,Kelly Olynyk,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,97,114,0.001,0.001,3:39
+4,1:50,OKC,Gordon Hayward,Personal Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,99,120,0.001,0.001,1:57
+4,1:36,TOR,Mouhamadou Gueye,Shooting Foul,Foul,James Capers,Tyler Ford,Evan Scott,TOR,101,120,0.001,0.001,1:50

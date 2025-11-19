@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:56,CHA,LaMelo Ball,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,0,2,0.608,0.609,11:09
+1,10:29,CLE,Isaac Okoro,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,2,4,0.618,0.606,10:29
+1,10:10,CLE,Cedi Osman,Personal Take Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,3,4,0.65,0.652,10:12
+1,9:01,CHA,Mason Plumlee,Loose Ball Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,3,4,0.625,0.648,9:14
+1,8:51,CHA,Mason Plumlee,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,3,4,0.624,0.625,9:01
+1,8:12,CLE,Brandon Goodwin,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,5,7,0.656,0.622,8:22
+1,4:24,CHA,Miles Bridges,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,18,12,0.753,0.768,4:24
+1,4:05,CHA,LaMelo Ball,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,18,16,0.662,0.703,4:05
+1,1:40,CLE,Lamar Stevens,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,27,20,0.819,0.785,1:40
+1,28.9,CHA,Miles Bridges,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,28,20,0.773,0.801,36.6
+2,11:11,CLE,Kevin Love,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,31,25,0.813,0.784,11:13
+2,10:50,CLE,Lamar Stevens,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,33,25,0.847,0.824,10:54
+2,10:35,CLE,Lamar Stevens,Offensive Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,34,25,0.839,0.823,10:50
+2,9:30,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,37,27,0.839,0.84,9:33
+2,8:38,CHA,Gordon Hayward,Offensive Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,37,27,0.841,0.858,8:43
+2,7:43,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,37,30,0.782,0.781,7:51
+2,7:01,CHA,Gordon Hayward,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,37,30,0.764,0.782,7:16
+2,5:32,CLE,Evan Mobley,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,37,34,0.706,0.708,5:42
+2,4:18,CHA,Gordon Hayward,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,40,36,0.664,0.706,4:24
+2,9.2,CLE,Isaac Okoro,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,46,52,0.449,0.398,26.9
+3,11:51,CHA,Terry Rozier,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,46,52,0.359,0.377,12:00
+3,7:58,CLE,Cedi Osman,Loose Ball Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,50,62,0.166,0.166,7:58
+3,7:21,CHA,Mason Plumlee,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,54,62,0.265,0.25,7:31
+3,6:39,CHA,Mason Plumlee,Loose Ball Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,56,64,0.243,0.241,6:39
+3,4:29,CHA,LaMelo Ball,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,58,70,0.084,0.111,4:29
+3,3:39,CHA,Miles Bridges,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,58,70,0.077,0.108,3:57
+3,2:41,CLE,Dean Wade,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,60,71,0.14,0.141,2:42
+3,2:05,CLE,Kevin Love,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,62,71,0.192,0.193,2:10
+3,51.3,CLE,Kevin Love,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,64,73,0.202,0.144,51.3
+4,11:25,CHA,LaMelo Ball,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,65,76,0.051,0.08,11:37
+4,8:55,CLE,Rajon Rondo,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,70,84,0.032,0.029,8:57
+4,7:55,CHA,Mason Plumlee,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,72,84,0.031,0.036,8:11
+4,4:44,CLE,Ed Davis,Technical Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,83,90,0.101,0.084,4:44
+4,4:18,CLE,Jarrett Allen,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,84,90,0.247,0.153,4:22
+4,3:59,CLE,Isaac Okoro,Personal Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,86,92,0.255,0.152,4:04
+4,2:38,CLE,Brandon Goodwin,Offensive Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,90,95,0.164,0.119,2:49
+4,2:01,CHA,Mason Plumlee,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,92,97,0.092,0.141,2:01
+4,1.2,CHA,Terry Rozier,Shooting Foul,Foul,Matt Boland,Brian Forte,Marat Kogut,CHA,101,100,0.96,1.0,2.1

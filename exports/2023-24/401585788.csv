@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:01,TOR,Ochai Agbaji,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,0,3,0.852,0.842,10:01
+1,9:17,TOR,Immanuel Quickley,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,5,6,0.863,0.864,9:20
+1,4:20,BKN,Dennis Schroder,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,15,17,0.791,0.822,4:20
+1,31.0,BKN,Trendon Watford,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,25,26,0.766,0.796,34.0
+1,0.1,TOR,Mouhamadou Gueye,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,27,27,0.851,0.826,4.0
+2,10:52,BKN,Cameron Johnson,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,29,27,0.812,0.84,11:17
+2,10:09,TOR,Jalen McDaniels,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,29,32,0.757,0.758,10:18
+2,8:56,TOR,Mouhamadou Gueye,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,33,34,0.803,0.768,8:56
+2,7:49,TOR,Garrett Temple,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,34,37,0.769,0.737,7:53
+2,7:21,TOR,Gradey Dick,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,34,37,0.765,0.732,7:24
+2,5:03,TOR,Jordan Nwora,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,40,41,0.792,0.76,5:07
+2,4:17,BKN,Dennis Schroder,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,42,45,0.65,0.701,4:17
+2,3:36,TOR,Malik Williams,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,42,46,0.708,0.669,3:51
+2,2:10,BKN,Cameron Johnson,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,48,46,0.748,0.788,2:24
+2,1:13,TOR,Gradey Dick,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,52,51,0.795,0.753,1:13
+2,1.1,BKN,Nic Claxton,Loose Ball Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,53,54,0.643,0.689,1.1
+3,6:54,TOR,Malik Williams,Offensive Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,64,68,0.559,0.52,7:10
+3,6:41,TOR,Malik Williams,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,64,68,0.614,0.559,6:54
+3,4:25,BKN,Cam Thomas,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,67,70,0.519,0.521,4:33
+3,4:04,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,67,73,0.379,0.428,4:12
+3,3:45,BKN,Dennis Schroder,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,67,75,0.26,0.331,3:45
+3,2:51,BKN,Dennis Schroder,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,70,76,0.357,0.359,2:59
+3,2:42,BKN,Cam Thomas,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,70,76,0.29,0.357,2:51
+3,1:17,TOR,Jalen McDaniels,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,72,78,0.451,0.377,1:19
+3,16.1,TOR,Mouhamadou Gueye,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,76,78,0.591,0.503,16.1
+3,2.1,BKN,Cameron Johnson,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,77,78,0.475,0.554,16.1
+4,11:33,TOR,Jalen McDaniels,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,77,80,0.511,0.499,11:37
+4,10:15,BKN,Jalen Wilson,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,81,83,0.379,0.478,10:17
+4,9:43,BKN,Cam Thomas,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,81,85,0.361,0.418,10:15
+4,8:36,TOR,Mouhamadou Gueye,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,83,88,0.428,0.345,9:50
+4,6:46,BKN,Jalen Wilson,Loose Ball Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,86,88,0.387,0.407,6:47
+4,6:17,TOR,Ochai Agbaji,Defensive 3-Seconds Technical,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,86,88,0.438,0.46,6:26
+4,3:49,BKN,Cameron Johnson,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,95,96,0.339,0.493,3:49
+4,3:32,TOR,Gradey Dick,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,95,97,0.419,0.4,3:49
+4,2:35,TOR,Immanuel Quickley,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,95,97,0.53,0.383,2:52
+4,1:49,TOR,Malik Williams,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,99,97,0.797,0.647,1:49
+4,35.1,TOR,Immanuel Quickley,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,101,100,0.757,0.548,35.1
+4,13.0,TOR,Immanuel Quickley,Personal Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,102,100,0.932,0.832,13.0
+4,4.1,TOR,Immanuel Quickley,Personal Take Foul,Foul,Eric Dalen,Karl Lane,Brandon Schwab,BKN,104,102,0.974,0.866,5.2

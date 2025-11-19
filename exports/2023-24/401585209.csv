@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:13,UTAH,John Collins,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,2,4,0.409,0.451,10:13
+1,9:51,UTAH,Kris Dunn,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,4,7,0.384,0.425,9:51
+1,9:18,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,7,10,0.464,0.425,9:24
+1,7:20,UTAH,Kris Dunn,Personal Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,9,17,0.28,0.279,7:20
+1,6:06,UTAH,Kris Dunn,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,13,21,0.244,0.278,6:18
+1,3:57,UTAH,Ochai Agbaji,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,15,32,0.091,0.111,4:02
+1,2:25,OKC,Lindy Waters III,Personal Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,20,37,0.12,0.121,2:43
+1,33.1,OKC,Isaiah Joe,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,26,39,0.195,0.161,33.1
+2,11:47,UTAH,Kelly Olynyk,Personal Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,27,39,0.177,0.171,11:53
+2,11:38,OKC,Vasilije Micic,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,29,39,0.256,0.217,11:38
+2,10:51,UTAH,Jordan Clarkson,Loose Ball Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,32,42,0.214,0.213,10:51
+2,10:31,OKC,Chet Holmgren,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,32,44,0.225,0.194,10:45
+2,10:29,UTAH,Kelly Olynyk,Loose Ball Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,33,44,0.193,0.19,10:29
+2,9:49,OKC,Chet Holmgren,Loose Ball Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,35,46,0.21,0.211,9:49
+2,6:59,OKC,Aaron Wiggins,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,41,54,0.19,0.162,7:12
+2,4:59,OKC,Cason Wallace,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,48,60,0.188,0.153,4:59
+2,4:50,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,48,60,0.171,0.153,4:59
+2,3:44,OKC,Josh Giddey,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,51,62,0.224,0.189,3:52
+2,3:15,OKC,OKC,Technical Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,56,62,0.341,0.289,3:15
+2,2:55,OKC,Josh Giddey,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,57,62,0.395,0.347,3:00
+2,2:49,UTAH,Collin Sexton,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,59,62,0.331,0.375,2:55
+2,1:54,UTAH,Collin Sexton,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,61,66,0.269,0.313,1:58
+2,50.1,OKC,Cason Wallace,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,64,71,0.328,0.281,56.0
+2,8.2,OKC,Jalen Williams,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,66,73,0.325,0.279,29.1
+3,11:39,UTAH,John Collins,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,67,76,0.16,0.192,11:41
+3,11:00,UTAH,Kris Dunn,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,70,78,0.18,0.216,11:21
+3,8:07,UTAH,John Collins,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,78,83,0.272,0.329,8:07
+3,7:32,OKC,Jalen Williams,Personal Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,78,84,0.293,0.295,7:36
+3,6:48,OKC,Josh Giddey,Personal Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,78,86,0.222,0.222,6:48
+3,6:12,UTAH,Collin Sexton,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,81,86,0.234,0.286,6:28
+3,5:58,OKC,Jaylin Williams,Loose Ball Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,81,88,0.25,0.25,5:58
+3,4:51,OKC,Jaylin Williams,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,87,91,0.413,0.354,4:54
+3,2:00,UTAH,Walker Kessler,Offensive Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,91,94,0.339,0.384,2:06
+3,1:15,UTAH,Simone Fontecchio,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,93,94,0.357,0.423,1:17
+3,52.1,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,93,96,0.45,0.381,1:15
+4,11:29,UTAH,Kelly Olynyk,Transition Take Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,95,98,0.319,0.32,11:32
+4,10:12,UTAH,John Collins,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,99,105,0.128,0.186,10:16
+4,10:00,OKC,Jalen Williams,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,101,107,0.265,0.179,10:00
+4,9:15,UTAH,John Collins,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,102,109,0.094,0.14,9:16
+4,8:04,OKC,Aaron Wiggins,Personal Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,104,115,0.062,0.058,8:16
+4,7:22,OKC,Kenrich Williams,Offensive Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,104,115,0.053,0.039,7:31
+4,6:50,OKC,Cason Wallace,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,106,115,0.146,0.088,6:52
+4,5:11,OKC,Kenrich Williams,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,111,118,0.205,0.13,5:14
+4,4:44,OKC,Jalen Williams,Personal Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,113,121,0.153,0.1,5:00
+4,3:39,OKC,Aaron Wiggins,Personal Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,114,124,0.066,0.035,3:39
+4,2:14,OKC,Chet Holmgren,Personal Take Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,120,126,0.199,0.12,2:23
+4,1:59,UTAH,Collin Sexton,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,121,126,0.051,0.111,2:14
+4,1:52,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,121,128,0.119,0.064,1:59
+4,1:47,OKC,Jalen Williams,Personal Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,122,128,0.171,0.095,1:48
+4,1.1,UTAH,Simone Fontecchio,Personal Foul,Foul,James Williams,Michael Smith,Jonathan Sterling,UTAH,129,133,0.001,0.007,2.0

@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:02,GS,Klay Thompson,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,2,2,0.647,0.61,11:18
+1,10:01,DAL,Dwight Powell,Loose Ball Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,7,2,0.703,0.701,10:01
+1,8:26,GS,Andrew Wiggins,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,10,7,0.712,0.68,8:42
+1,7:26,GS,Kevon Looney,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,16,9,0.777,0.743,7:26
+1,7:17,DAL,Dorian Finney-Smith,Personal Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,17,9,0.763,0.763,7:26
+1,6:38,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,19,11,0.733,0.763,6:46
+1,4:02,DAL,Davis Bertans,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,22,15,0.71,0.743,4:07
+1,3:41,GS,Jordan Poole,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,22,16,0.775,0.744,3:50
+1,3:34,DAL,Sterling Brown,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,24,16,0.731,0.762,3:41
+1,3:20,GS,Nemanja Bjelica,Personal Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,24,18,0.776,0.743,3:34
+1,2:44,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,28,18,0.773,0.804,3:01
+1,2.3,GS,Otto Porter Jr.,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,38,27,0.855,0.825,2.3
+2,11:26,DAL,Jalen Brunson,Loose Ball Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,41,27,0.877,0.877,11:26
+2,11:07,DAL,Jalen Brunson,Personal Take Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,41,30,0.828,0.828,11:08
+2,7:29,GS,Stephen Curry,Personal Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,54,38,0.922,0.922,7:37
+2,6:58,GS,Jonathan Kuminga,Personal Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,54,40,0.898,0.885,7:06
+2,5:46,GS,Jonathan Kuminga,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,56,42,0.911,0.886,5:46
+2,5:37,DAL,Dwight Powell,Personal Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,56,42,0.887,0.887,5:43
+2,5:09,GS,Andrew Wiggins,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,56,44,0.896,0.872,5:31
+2,4:32,GS,Gary Payton II,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,59,46,0.901,0.874,4:32
+2,4:11,DAL,Dwight Powell,Loose Ball Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,60,46,0.867,0.891,4:11
+2,3:04,GS,Kevon Looney,Defensive 3-Seconds Technical,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,60,48,0.874,0.878,3:23
+2,2:44,DAL,Davis Bertans,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,62,48,0.871,0.894,2:54
+2,1:34,GS,Kevon Looney,Offensive Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,62,52,0.848,0.827,1:35
+3,7:59,DAL,Dwight Powell,Personal Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,75,66,0.822,0.824,8:06
+3,6:46,DAL,Davis Bertans,Personal Take Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,77,68,0.828,0.829,6:47
+3,5:49,GS,Kevon Looney,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,80,72,0.868,0.858,5:49
+3,3:50,DAL,Jalen Brunson,Personal Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,90,78,0.908,0.908,3:55
+3,3:13,GS,Andrew Wiggins,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,90,80,0.92,0.894,3:15
+3,3:03,DAL,Luka Doncic,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,92,82,0.854,0.895,3:03
+3,39.1,DAL,Spencer Dinwiddie,Personal Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,99,90,0.82,0.864,39.7
+4,11:15,GS,Otto Porter Jr.,Personal Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,99,91,0.885,0.879,11:15
+3,7.3,GS,Klay Thompson,Personal Take Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,99,91,0.904,0.558,6:26
+4,3:34,GS,Stephen Curry,Shooting Foul,Foul,Eric Dalen,Tony Brothers,Mousa Dagher,DAL,114,108,0.939,0.873,3:34

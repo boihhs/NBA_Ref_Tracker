@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:09,DET,Cade Cunningham,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,6,13,0.233,0.266,8:09
+1,7:15,ATL,Clint Capela,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,10,16,0.305,0.266,7:15
+1,4:55,ATL,Clint Capela,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,16,23,0.267,0.267,5:06
+1,4:24,ATL,Dejounte Murray,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,16,26,0.235,0.205,4:36
+1,3:36,DET,Alec Burks,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,19,29,0.184,0.183,3:45
+1,3:06,DET,James Wiseman,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,19,29,0.16,0.183,3:15
+1,48.0,DET,Kevin Knox II,Offensive Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,27,34,0.242,0.265,56.1
+1,16.1,ATL,Onyeka Okongwu,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,29,36,0.282,0.241,16.1
+2,11:02,ATL,Onyeka Okongwu,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,31,41,0.214,0.196,11:02
+2,8:39,DET,Killian Hayes,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,38,43,0.248,0.286,8:57
+2,6:56,ATL,De'Andre Hunter,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,42,49,0.258,0.259,6:59
+2,6:50,ATL,Jalen Johnson,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,42,49,0.298,0.258,6:56
+2,6:29,ATL,Onyeka Okongwu,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,44,49,0.354,0.311,6:32
+2,5:46,DET,Ausar Thompson,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,45,49,0.27,0.309,5:56
+2,4:59,ATL,De'Andre Hunter,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,50,52,0.422,0.367,4:59
+2,3:46,DET,Jaden Ivey,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,53,52,0.465,0.464,3:57
+2,2:49,ATL,Clint Capela,Offensive Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,55,54,0.5,0.466,3:01
+2,2:21,ATL,Jalen Johnson,Loose Ball Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,57,54,0.62,0.569,2:22
+2,1:28,ATL,De'Andre Hunter,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,57,59,0.454,0.402,1:41
+3,7:36,DET,Cade Cunningham,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,75,70,0.64,0.64,7:44
+3,7:17,DET,Marvin Bagley III,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,75,70,0.583,0.642,7:18
+3,4:55,DET,Kevin Knox II,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,79,79,0.385,0.446,5:01
+3,4:01,DET,James Wiseman,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,81,84,0.296,0.324,4:01
+3,4:01,DET,Cade Cunningham,Technical Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,81,84,0.296,0.296,4:01
+3,1:50,ATL,AJ Griffin,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,85,93,0.226,0.175,2:03
+3,45.1,DET,Alec Burks,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,89,95,0.152,0.196,50.0
+3,37.0,ATL,AJ Griffin,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,89,97,0.22,0.166,45.1
+4,11:41,DET,Ausar Thompson,Loose Ball Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,91,97,0.177,0.212,12:00
+4,9:25,ATL,Onyeka Okongwu,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,94,101,0.238,0.166,9:27
+4,9:01,DET,Isaiah Stewart,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,96,101,0.14,0.207,9:09
+4,8:05,DET,Cade Cunningham,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,98,105,0.076,0.122,8:23
+4,5:59,ATL,Onyeka Okongwu,Shooting Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,106,111,0.299,0.205,6:10
+4,5:46,ATL,Clint Capela,Loose Ball Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,108,111,0.338,0.314,5:46
+4,5:12,DET,Killian Hayes,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,110,111,0.275,0.385,5:31
+4,4:11,ATL,Clint Capela,Offensive Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,110,114,0.238,0.182,4:21
+4,3:07,DET,Ausar Thompson,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,113,114,0.243,0.354,3:22
+4,2:19,DET,Marvin Bagley III,Offensive Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,115,116,0.339,0.437,2:29
+4,30.1,DET,Alec Burks,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,117,120,0.057,0.118,33.2
+4,28.1,ATL,Dejounte Murray,Personal Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,117,122,0.186,0.081,30.1
+4,6.1,DET,Kevin Knox II,Personal Take Foul,Foul,Karl Lane,Nick Buchert,Robert Hussey,DET,120,124,0.006,0.032,8.1

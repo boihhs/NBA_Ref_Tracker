@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:55,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,6,2,0.555,0.592,8:55
+1,8:11,DAL,Spencer Dinwiddie,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,8,6,0.543,0.543,8:16
+1,7:15,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,11,6,0.583,0.62,7:28
+1,5:33,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,14,8,0.61,0.648,5:40
+1,4:41,MIA,Orlando Robinson,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,17,11,0.676,0.677,4:55
+1,3:55,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,20,13,0.639,0.675,4:14
+1,3:43,MIA,Kyle Lowry,Defensive 3-Seconds Technical,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,20,15,0.646,0.653,3:55
+1,3:00,MIA,Gabe Vincent,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,22,15,0.703,0.702,3:07
+1,2:12,MIA,Caleb Martin,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,22,17,0.693,0.656,2:32
+2,11:35,MIA,Victor Oladipo,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,31,19,0.848,0.826,11:48
+2,10:07,MIA,Gabe Vincent,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,36,21,0.899,0.878,10:11
+2,9:23,DAL,Davis Bertans,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,38,23,0.864,0.864,9:28
+2,9:18,DAL,Josh Green,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,38,23,0.837,0.864,9:23
+2,8:05,MIA,Max Strus,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,43,30,0.875,0.852,8:18
+2,4:12,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,53,39,0.838,0.864,4:39
+2,3:39,DAL,Dorian Finney-Smith,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,56,41,0.859,0.885,3:53
+2,3:01,MIA,Bam Adebayo,Loose Ball Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,56,43,0.896,0.871,3:01
+2,2:03,DAL,Josh Green,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,58,45,0.843,0.856,2:03
+2,1:51,MIA,Jimmy Butler III,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,58,47,0.869,0.84,2:03
+2,1:12,MIA,Kyle Lowry,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,58,49,0.832,0.795,1:13
+3,9:14,DAL,Dwight Powell,Offensive Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,65,56,0.793,0.817,9:30
+3,8:38,MIA,Tyler Herro,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,65,56,0.821,0.822,8:38
+3,8:38,MIA,Tyler Herro,Technical Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,65,56,0.839,0.821,8:38
+3,8:28,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,66,56,0.779,0.82,8:31
+3,8:00,MIA,Tyler Herro,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,66,57,0.857,0.795,8:13
+3,6:52,MIA,Tyler Herro,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,74,57,0.966,0.951,6:52
+3,5:29,MIA,Victor Oladipo,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,75,61,0.952,0.933,5:43
+3,4:39,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,78,61,0.944,0.96,4:42
+3,4:02,MIA,Jimmy Butler III,Loose Ball Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,78,61,0.98,0.971,4:02
+3,3:57,DAL,Dorian Finney-Smith,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,80,61,0.977,0.977,4:02
+3,2:58,MIA,Victor Oladipo,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,82,61,0.993,0.988,2:58
+3,2:23,DAL,Dorian Finney-Smith,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,83,61,0.988,0.992,2:23
+3,1:49,MIA,Jimmy Butler III,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,83,61,0.997,0.995,2:06
+3,1:38,DAL,Dwight Powell,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,85,61,0.994,0.997,1:49
+4,11:05,MIA,Gabe Vincent,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,94,69,0.999,0.999,11:26
+4,9:38,MIA,Bam Adebayo,Offensive Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,97,71,0.999,0.999,9:54
+4,7:34,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,99,76,0.999,0.999,7:34
+4,7:04,DAL,Spencer Dinwiddie,Loose Ball Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,99,77,0.999,0.999,7:04
+4,6:46,MIA,Max Strus,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,99,79,0.999,0.999,6:55
+4,4:23,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,108,79,0.999,0.999,4:32
+4,2:20,DAL,Davis Bertans,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,110,84,0.999,0.999,2:27
+4,1:52,DAL,A.J. Lawson,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,112,84,0.999,0.999,2:07
+4,1:47,MIA,Caleb Martin,Personal Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,112,86,0.999,0.999,1:52
+4,59.1,MIA,Orlando Robinson,Offensive Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,115,88,0.999,0.999,1:05
+4,41.0,DAL,Jaden Hardy,Offensive Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,115,88,0.999,0.999,59.1
+4,29.1,MIA,Haywood Highsmith,Shooting Foul,Foul,Josh Tiven,Sean Corbin,Ray Acosta,DAL,115,88,0.999,0.999,30.1

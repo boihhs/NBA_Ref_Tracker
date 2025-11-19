@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:08,MIA,Bam Adebayo,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,4,5,0.381,0.378,10:08
+1,9:01,CLE,Caris LeVert,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,6,5,0.498,0.459,9:02
+1,8:00,CLE,Donovan Mitchell,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,10,7,0.512,0.514,8:04
+1,5:31,MIA,Tyler Herro,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,14,15,0.35,0.388,5:48
+1,3:52,CLE,Lamar Stevens,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,19,19,0.484,0.441,3:56
+1,3:17,CLE,Isaac Okoro,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,21,22,0.458,0.418,3:17
+1,2:56,CLE,Evan Mobley,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,21,22,0.459,0.416,2:58
+1,2:22,MIA,Gabe Vincent,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,25,22,0.503,0.501,2:29
+1,6.0,MIA,Max Strus,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,27,24,0.465,0.508,23.2
+2,8:31,CLE,Evan Mobley,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,37,33,0.624,0.582,8:35
+2,7:38,CLE,Ricky Rubio,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,38,36,0.522,0.521,7:50
+2,5:47,MIA,Cody Zeller,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,40,41,0.4,0.431,5:57
+2,4:46,CLE,Jarrett Allen,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,40,44,0.342,0.341,4:48
+2,4:33,CLE,Donovan Mitchell,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,40,44,0.384,0.342,4:46
+2,4:04,CLE,Jarrett Allen,Defensive 3-Seconds Technical,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,42,47,0.302,0.313,4:16
+2,3:55,CLE,Cedi Osman,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,42,47,0.356,0.313,4:04
+2,3:41,MIA,Cody Zeller,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,44,47,0.295,0.336,3:55
+2,3:20,CLE,Evan Mobley,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,44,49,0.333,0.311,3:20
+2,1:37,MIA,Gabe Vincent,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,48,51,0.293,0.336,1:40
+2,35.0,MIA,Victor Oladipo,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,50,55,0.235,0.278,45.1
+3,9:06,MIA,Bam Adebayo,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,60,61,0.353,0.407,9:23
+3,8:17,CLE,Evan Mobley,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,60,65,0.3,0.301,8:29
+3,4:37,MIA,Cody Zeller,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,67,77,0.103,0.139,4:37
+3,4:15,CLE,Ricky Rubio,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,67,81,0.063,0.064,4:18
+3,2:27,CLE,Ricky Rubio,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,73,84,0.104,0.104,2:38
+3,1:23,MIA,Max Strus,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,77,87,0.069,0.095,1:27
+4,10:38,MIA,Caleb Martin,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,85,89,0.188,0.258,10:56
+4,10:12,MIA,Max Strus,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,85,90,0.147,0.21,10:17
+4,8:27,CLE,Donovan Mitchell,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,93,91,0.708,0.615,8:30
+4,6:56,MIA,Max Strus,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,97,94,0.613,0.635,6:56
+4,3:53,MIA,Bam Adebayo,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,105,98,0.807,0.887,3:53
+4,3:24,CLE,Lamar Stevens,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,105,101,0.875,0.785,3:44
+4,1:11,MIA,Bam Adebayo,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,113,108,0.854,0.906,1:22
+4,45.2,MIA,Jimmy Butler III,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,113,110,0.719,0.809,1:04
+4,26.1,CLE,Donovan Mitchell,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,113,112,0.835,0.629,38.1
+4,10.1,MIA,Bam Adebayo,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,115,112,0.618,0.806,18.0
+4,8.2,CLE,Lamar Stevens,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,115,114,0.892,0.713,10.1
+4,5.1,MIA,Jimmy Butler III,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,117,114,0.786,0.853,8.2
+4,4.0,CLE,Isaac Okoro,Personal Foul,Foul,Marat Kogut,Josh Tiven,Karl Lane,MIA,117,115,0.974,0.933,4.0

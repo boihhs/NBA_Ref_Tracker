@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,0,0,0.687,0.722,12:00
+1,11:05,ATL,Dejounte Murray,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,0,3,0.673,0.673,11:09
+1,9:51,ATL,De'Andre Hunter,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,2,7,0.618,0.621,9:54
+1,8:46,ATL,De'Andre Hunter,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,6,9,0.661,0.661,8:56
+1,7:53,MIN,Anthony Edwards,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,11,11,0.702,0.702,7:59
+1,7:40,MIN,Jaden McDaniels,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,11,13,0.638,0.679,7:40
+1,5:33,ATL,Mouhamed Gueye,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,14,18,0.657,0.62,5:48
+1,4:41,ATL,Mouhamed Gueye,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,16,18,0.698,0.665,4:56
+1,3:19,ATL,Bruno Fernando,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,19,20,0.717,0.682,3:38
+1,2:16,ATL,Garrison Mathews,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,21,22,0.713,0.677,2:31
+1,59.0,MIN,Anthony Edwards,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,25,24,0.655,0.694,1:05
+1,1.0,MIN,Anthony Edwards,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,25,27,0.572,0.612,21.0
+2,10:04,ATL,Trae Young,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,25,29,0.571,0.57,10:07
+2,9:51,ATL,Mouhamed Gueye,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,25,29,0.57,0.571,10:04
+2,9:44,ATL,Dejounte Murray,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,25,29,0.61,0.57,9:51
+2,9:04,ATL,Bruno Fernando,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,28,29,0.689,0.65,9:04
+2,8:54,MIN,Mike Conley,Loose Ball Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,28,29,0.621,0.689,9:04
+2,8:37,MIN,Kyle Anderson,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,28,29,0.574,0.621,8:54
+2,7:51,ATL,Bruno Fernando,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,30,30,0.711,0.673,7:59
+2,5:24,MIN,Mike Conley,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,42,32,0.839,0.865,5:35
+2,4:36,ATL,De'Andre Hunter,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,42,37,0.819,0.788,4:54
+2,4:29,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,44,37,0.774,0.809,4:36
+2,2:52,ATL,Dejounte Murray,Offensive Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,49,40,0.866,0.849,3:09
+2,1:58,MIN,Anthony Edwards,Transition Take Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,51,40,0.882,0.882,2:00
+2,52.1,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,53,42,0.882,0.9,57.1
+2,0.1,MIN,Rudy Gobert,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,56,46,0.838,0.868,7.1
+3,8:41,ATL,De'Andre Hunter,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,66,55,0.918,0.89,8:41
+3,8:16,ATL,Clint Capela,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,67,57,0.903,0.893,8:17
+3,7:02,ATL,Garrison Mathews,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,72,59,0.953,0.938,7:23
+3,6:16,MIN,Jaden McDaniels,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,76,59,0.955,0.968,6:17
+3,5:54,MIN,Naz Reid,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,76,61,0.952,0.952,5:58
+3,5:04,ATL,Clint Capela,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,76,63,0.959,0.945,5:05
+3,3:19,MIN,Kyle Anderson,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,76,65,0.907,0.908,3:20
+3,2:11,MIN,Mike Conley,Loose Ball Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,76,70,0.735,0.788,2:11
+3,57.1,MIN,Naz Reid,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,80,76,0.656,0.719,1:11
+3,31.0,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,80,77,0.61,0.677,38.1
+3,1.0,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,80,79,0.514,0.585,1.0
+4,9:33,ATL,Bruno Fernando,Offensive Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,84,85,0.525,0.469,9:44
+4,7:47,MIN,Rudy Gobert,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,88,87,0.511,0.626,7:47
+4,3:41,ATL,Garrison Mathews,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,96,98,0.524,0.401,3:46
+4,3:15,ATL,Bruno Fernando,Shooting Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,98,100,0.529,0.398,3:30
+4,21.0,ATL,Kobe Bufkin,Personal Take Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,105,104,0.868,0.74,21.1
+4,18.1,ATL,Kobe Bufkin,Personal Take Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,105,104,0.873,0.868,19.1
+4,11.2,ATL,Mouhamed Gueye,Personal Take Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,107,104,0.973,0.925,12.1
+4,3.0,ATL,Vit Krejci,Personal Take Foul,Foul,Jason Goldenberg,Scott Foster,Aaron Smith,MIN,109,106,0.992,0.97,4.1

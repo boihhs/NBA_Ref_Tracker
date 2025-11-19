@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:01,MIN,D'Angelo Russell,Personal Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,4,0,0.733,0.732,11:25
+1,9:11,IND,Andrew Nembhard,Personal Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,6,3,0.729,0.731,9:16
+1,8:43,IND,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,6,3,0.758,0.729,8:53
+1,7:42,MIN,D'Angelo Russell,Personal Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,10,3,0.785,0.785,7:50
+1,6:31,MIN,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,12,5,0.77,0.804,6:31
+1,4:32,MIN,Naz Reid,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,19,8,0.826,0.851,4:35
+1,3:35,IND,Isaiah Jackson,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,21,8,0.908,0.891,3:48
+1,3:24,MIN,Naz Reid,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,22,8,0.872,0.891,3:35
+1,2:52,IND,Kendall Brown,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,24,13,0.874,0.85,2:52
+1,2:52,IND,T.J. McConnell,Technical Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,24,13,0.874,0.874,2:52
+1,2:42,MIN,Naz Reid,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,26,13,0.857,0.878,2:52
+1,1:36,MIN,Austin Rivers,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,31,15,0.898,0.914,1:51
+1,21.5,MIN,Austin Rivers,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,35,16,0.93,0.943,26.3
+2,11:26,IND,Kendall Brown,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,37,19,0.95,0.935,11:26
+2,11:08,IND,Andrew Nembhard,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,38,19,0.96,0.952,11:10
+2,11:08,IND,Kendall Brown,Flagrant Foul Type 1,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,40,19,0.961,0.958,11:08
+2,10:26,MIN,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,41,19,0.955,0.964,10:29
+2,9:47,IND,Andrew Nembhard,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,43,22,0.969,0.959,9:47
+2,9:28,MIN,Austin Rivers,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,44,22,0.956,0.964,9:47
+2,8:46,MIN,Jordan McLaughlin,Personal Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,44,24,0.953,0.954,8:47
+2,8:44,MIN,Jaden McDaniels,Personal Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,44,24,0.942,0.953,8:46
+2,7:46,IND,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,47,27,0.97,0.962,7:49
+2,6:45,IND,Tyrese Haliburton,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,49,33,0.946,0.933,7:04
+2,6:18,MIN,Anthony Edwards,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,51,35,0.906,0.924,6:20
+2,4:24,MIN,Luka Garza,Loose Ball Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,53,42,0.831,0.859,4:24
+2,4:00,MIN,Jaden McDaniels,Personal Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,53,44,0.789,0.822,4:12
+2,3:45,IND,Myles Turner,Loose Ball Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,53,46,0.831,0.803,3:45
+2,51.2,MIN,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,61,57,0.652,0.694,59.9
+2,35.8,MIN,Rudy Gobert,Technical Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,63,58,0.701,0.725,35.8
+3,11:19,MIN,Kyle Anderson,Offensive Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,63,63,0.56,0.601,11:33
+3,9:55,MIN,D'Angelo Russell,Loose Ball Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,65,65,0.558,0.554,9:55
+3,7:59,MIN,Anthony Edwards,Personal Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,70,75,0.358,0.358,8:10
+3,4:54,MIN,Anthony Edwards,Personal Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,76,80,0.369,0.368,4:58
+3,4:22,IND,Isaiah Jackson,Personal Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,76,82,0.327,0.329,4:26
+3,3:07,IND,Isaiah Jackson,Defensive 3-Seconds Technical,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,80,85,0.342,0.358,3:24
+3,1:18,IND,Isaiah Jackson,Defensive 3-Seconds Technical,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,85,90,0.322,0.339,1:30
+4,8:30,IND,Myles Turner,Loose Ball Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,96,94,0.681,0.669,8:30
+4,7:30,IND,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,98,94,0.849,0.777,7:36
+4,5:34,MIN,D'Angelo Russell,Offensive Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,105,99,0.847,0.882,5:50
+4,1:44,IND,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,111,109,0.863,0.74,2:01
+4,32.8,IND,Buddy Hield,Shooting Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,115,115,0.773,0.579,50.5
+4,9.0,IND,Aaron Nesmith,Personal Take Foul,Foul,Ed Malloy,Ben Taylor,Brandon Adair,MIN,117,115,0.953,0.859,9.0

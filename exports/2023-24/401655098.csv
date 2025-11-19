@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,DAL,Kyrie Irving,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,2,0,0.735,0.764,11:40
+1,8:45,LAC,Ivica Zubac,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,8,5,0.814,0.779,10:57
+1,8:12,DAL,Daniel Gafford,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,10,5,0.806,0.805,8:17
+1,7:50,DAL,Daniel Gafford,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,10,5,0.778,0.805,7:53
+1,7:02,LAC,P.J. Tucker,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,13,8,0.841,0.82,7:21
+1,4:45,DAL,Luka Doncic,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,20,10,0.852,0.873,4:58
+1,4:14,LAC,Paul George,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,20,12,0.858,0.859,4:16
+1,4:08,LAC,James Harden,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,20,12,0.878,0.858,4:14
+1,2:59,DAL,Luka Doncic,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,20,18,0.697,0.731,3:04
+1,2:02,DAL,Dereck Lively II,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,25,22,0.716,0.75,2:16
+1,1:48,LAC,Russell Westbrook,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,25,24,0.758,0.731,2:02
+1,1:30,DAL,Josh Green,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,27,24,0.714,0.749,1:48
+1,1:09,LAC,Paul George,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,27,26,0.755,0.728,1:11
+1,43.1,LAC,Mason Plumlee,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,31,26,0.818,0.785,43.1
+2,11:15,LAC,Amir Coffey,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,34,26,0.875,0.855,11:21
+2,11:02,DAL,Dante Exum,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,35,26,0.854,0.855,11:15
+2,10:29,LAC,Norman Powell,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,35,26,0.888,0.869,10:45
+2,9:23,LAC,Norman Powell,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,40,28,0.921,0.906,9:28
+2,6:24,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,44,32,0.874,0.895,6:43
+2,3:45,LAC,Terance Mann,Loose Ball Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,46,40,0.84,0.81,3:45
+2,3:33,LAC,Terance Mann,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,46,40,0.84,0.84,3:45
+2,3:20,DAL,Derrick Jones Jr.,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,48,40,0.832,0.831,3:33
+2,3:15,DAL,P.J. Washington,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,48,40,0.799,0.832,3:20
+3,11:16,LAC,P.J. Tucker,Offensive Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,54,52,0.703,0.674,11:33
+3,8:37,LAC,Ivica Zubac,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,62,54,0.871,0.835,8:37
+3,8:27,DAL,Kyrie Irving,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,63,54,0.856,0.856,8:37
+3,4:25,LAC,Norman Powell,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,74,63,0.941,0.921,4:30
+3,4:15,DAL,Dereck Lively II,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,74,63,0.877,0.906,4:23
+3,3:22,DAL,Dereck Lively II,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,74,66,0.827,0.869,3:22
+3,2:31,LAC,Paul George,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,77,69,0.904,0.872,2:43
+3,1:56,DAL,Josh Green,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,80,69,0.886,0.915,2:05
+3,1:22,LAC,Terance Mann,Loose Ball Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,80,70,0.942,0.919,1:22
+3,37.1,DAL,P.J. Washington,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,85,70,0.956,0.969,49.0
+4,11:32,DAL,Daniel Gafford,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,90,72,0.982,0.989,11:50
+4,8:50,LAC,Norman Powell,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,96,78,0.996,0.995,9:03
+4,8:22,DAL,Derrick Jones Jr.,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,98,78,0.997,0.997,8:32
+4,7:25,LAC,P.J. Tucker,Offensive Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,100,78,0.999,0.999,7:36
+4,6:53,DAL,Luka Doncic,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,100,78,0.998,0.999,6:54
+4,5:38,LAC,P.J. Tucker,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,105,82,0.999,0.999,5:38
+4,5:23,DAL,Dereck Lively II,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,106,82,0.999,0.999,5:38
+4,3:56,LAC,P.J. Tucker,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,106,89,0.999,0.999,4:22
+4,3:11,DAL,Luka Doncic,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,108,94,0.994,0.998,3:11
+4,2:58,LAC,Ivica Zubac,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,108,95,0.998,0.997,3:11
+4,2:57,LAC,Ivica Zubac,Personal Take Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,108,95,0.998,0.998,2:58
+4,2:20,LAC,Terance Mann,Personal Take Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,110,95,0.999,0.999,2:37
+4,2:11,DAL,Luka Doncic,Shooting Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,111,95,0.998,0.999,2:20
+4,1:57,LAC,Terance Mann,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,111,97,0.999,0.999,2:02
+4,1:44,LAC,Ivica Zubac,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,112,100,0.999,0.998,1:48
+4,1:09,DAL,Josh Green,Personal Foul,Foul,Sean Wright,John Goble,J.T. Orr,DAL,114,100,0.999,0.999,1:14

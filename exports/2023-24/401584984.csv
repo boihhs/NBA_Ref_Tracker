@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:45,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,4,0,0.857,0.839,10:46
+1,9:35,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,5,2,0.779,0.805,9:44
+1,8:38,DAL,Grant Williams,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,7,5,0.8,0.801,8:40
+1,7:36,DAL,Dante Exum,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,9,7,0.82,0.798,7:48
+1,2:11,DAL,Tim Hardaway Jr.,Offensive Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,22,17,0.831,0.813,2:15
+1,1:41,DEN,Zeke Nnaji,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,22,17,0.784,0.812,1:54
+1,1:01,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,24,17,0.831,0.843,1:02
+2,9:53,DAL,Seth Curry,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,30,29,0.738,0.741,10:09
+2,8:45,DAL,Seth Curry,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,34,29,0.843,0.818,8:47
+2,8:08,DAL,Dante Exum,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,38,31,0.849,0.851,8:12
+2,8:05,DAL,Grant Williams,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,38,31,0.873,0.849,8:08
+2,3:24,DAL,Jaden Hardy,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,54,46,0.886,0.862,3:47
+2,1:10,DAL,Luka Doncic,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,63,56,0.87,0.844,1:17
+3,10:38,DEN,Jamal Murray,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,72,61,0.898,0.896,10:48
+3,10:19,DAL,Dwight Powell,Loose Ball Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,72,63,0.882,0.883,10:19
+3,7:37,DAL,Dante Exum,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,77,66,0.916,0.917,7:41
+3,7:27,DEN,Michael Porter Jr.,Offensive Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,77,66,0.903,0.916,7:37
+3,7:13,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,77,66,0.877,0.903,7:27
+3,5:34,DAL,Markieff Morris,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,82,72,0.928,0.907,5:53
+3,4:40,DEN,Nikola Jokic,Personal Take Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,86,74,0.925,0.925,4:44
+3,4:22,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,88,74,0.965,0.95,4:22
+3,2:33,DEN,Reggie Jackson,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,91,74,0.968,0.977,2:47
+3,1:13,DEN,Reggie Jackson,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,96,77,0.983,0.989,1:25
+3,55.1,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,96,79,0.973,0.982,58.1
+4,11:50,DAL,Olivier-Maxence Prosper,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,98,80,0.993,0.99,12:00
+4,11:23,DEN,Peyton Watson,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,100,80,0.991,0.995,11:44
+4,10:36,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,103,80,0.999,0.999,10:49
+4,10:13,DAL,A.J. Lawson,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,103,82,0.998,0.998,10:19
+4,9:36,DAL,A.J. Lawson,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,107,84,0.999,0.999,9:36
+4,8:54,DEN,Christian Braun,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,111,84,0.999,0.999,9:07
+4,8:26,DEN,Zeke Nnaji,Offensive Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,111,86,0.999,0.999,8:39
+4,7:46,DAL,Greg Brown III,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,111,87,0.999,0.999,8:06
+4,7:38,DEN,Julian Strawther,Personal Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,113,89,0.999,0.999,7:46
+4,6:36,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,115,91,0.999,0.999,6:46
+4,5:55,DEN,Zeke Nnaji,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,120,91,0.999,0.999,6:11
+4,4:35,DEN,Zeke Nnaji,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,126,92,0.999,0.999,4:42
+4,2:43,DEN,Justin Holiday,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,128,96,0.999,0.999,2:43
+4,1:49,DEN,Collin Gillespie,Shooting Foul,Foul,James Williams,Nick Buchert,Sha'Rae Mitchell,DEN,130,96,0.999,0.999,2:16

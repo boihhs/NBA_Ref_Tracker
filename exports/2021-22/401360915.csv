@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,IND,Goga Bitadze,Loose Ball Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,2,0,0.852,0.852,10:52
+1,8:15,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,17,2,0.952,0.952,8:23
+1,7:49,IND,Oshae Brissett,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,17,4,0.946,0.946,8:10
+1,6:51,IND,Terry Taylor,Loose Ball Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,20,6,0.951,0.951,6:51
+1,6:36,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,23,8,0.947,0.956,6:36
+1,1:01,MEM,John Konchar,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,42,21,0.971,0.977,1:11
+2,11:27,IND,Lance Stephenson,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,44,25,0.979,0.974,11:47
+2,11:22,MEM,Kyle Anderson,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,45,25,0.974,0.974,11:27
+2,11:04,IND,Tyrese Haliburton,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,45,25,0.982,0.977,11:13
+2,10:27,IND,Duane Washington Jr.,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,47,27,0.977,0.977,10:43
+2,9:53,MEM,Santi Aldama,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,49,27,0.981,0.98,9:56
+2,7:15,MEM,Xavier Tillman,Offensive Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,58,35,0.984,0.987,7:24
+2,6:34,MEM,Ziaire Williams,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,60,35,0.986,0.989,6:54
+2,5:12,MEM,Ziaire Williams,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,60,36,0.984,0.988,5:14
+2,4:40,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,60,36,0.984,0.988,4:40
+2,4:15,IND,Duane Washington Jr.,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,60,40,0.984,0.98,4:22
+2,2:14,MEM,De'Anthony Melton,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,66,44,0.98,0.984,2:14
+2,1:37,MEM,Steven Adams,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,69,48,0.979,0.985,1:37
+3,11:47,IND,Goga Bitadze,Offensive Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,74,48,0.996,0.994,12:00
+3,11:12,IND,Goga Bitadze,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,74,48,0.997,0.996,11:17
+3,10:37,IND,Justin Anderson,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,78,48,0.998,0.998,10:37
+3,9:01,MEM,Tyus Jones,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,84,50,0.999,0.999,9:08
+3,7:49,IND,Oshae Brissett,Personal Take Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,88,53,0.999,0.999,7:51
+3,5:45,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,95,61,0.999,0.999,5:45
+3,5:32,IND,Oshae Brissett,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,95,62,0.999,0.999,5:45
+3,5:30,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,95,62,0.999,0.999,5:32
+3,4:20,IND,Keifer Sykes,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,98,64,0.999,0.999,4:25
+3,3:58,MEM,Steven Adams,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,100,64,0.999,0.999,4:20
+3,2:38,MEM,Steven Adams,Personal Take Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,102,69,0.999,0.999,2:38
+3,1:44,MEM,Desmond Bane,Loose Ball Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,105,69,0.999,0.999,1:44
+3,51.3,MEM,Kyle Anderson,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,105,70,0.999,0.999,51.3
+4,11:29,IND,Lance Stephenson,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,107,74,0.999,0.999,11:34
+4,11:01,MEM,De'Anthony Melton,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,109,74,0.999,0.999,11:01
+4,8:24,IND,Goga Bitadze,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,111,83,0.999,0.999,8:41
+4,7:35,MEM,Kyle Anderson,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,115,86,0.999,0.999,7:45
+4,6:58,IND,Keifer Sykes,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,115,87,0.999,0.999,7:01
+4,5:37,IND,Duane Washington Jr.,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,119,92,0.999,0.999,5:51
+4,5:10,IND,Keifer Sykes,Loose Ball Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,120,92,0.999,0.999,5:10
+4,3:18,MEM,Ziaire Williams,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,125,96,0.999,0.999,3:18
+4,3:04,IND,Lance Stephenson,Personal Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,125,97,0.999,0.999,3:18
+4,1:58,MEM,Ziaire Williams,Shooting Foul,Foul,Jason Goldenberg,Leon Wood,Ben Taylor,MEM,129,99,0.999,0.999,1:58

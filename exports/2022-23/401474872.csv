@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:12,HOU,KJ Martin,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,2,0,0.501,0.539,10:17
+1,9:09,TOR,Christian Koloko,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,4,3,0.576,0.539,9:12
+1,8:51,HOU,Jalen Green,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,5,4,0.475,0.539,9:09
+1,8:04,TOR,Christian Koloko,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,8,7,0.577,0.538,8:09
+1,7:47,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,9,7,0.501,0.539,8:04
+1,7:18,TOR,OG Anunoby,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,12,9,0.628,0.591,7:21
+1,6:51,HOU,Jalen Green,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,13,9,0.551,0.591,6:58
+1,6:25,HOU,Garrison Mathews,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,15,9,0.605,0.643,6:37
+1,6:15,HOU,Jalen Green,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,15,9,0.606,0.643,6:25
+1,4:35,HOU,Tari Eason,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,18,13,0.58,0.62,4:48
+1,4:22,TOR,Precious Achiuwa,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,18,15,0.632,0.594,4:35
+1,3:29,TOR,Chris Boucher,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,18,19,0.529,0.484,3:38
+1,2:55,TOR,Pascal Siakam,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,20,21,0.529,0.484,3:12
+1,1:49,TOR,Dalano Banton,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,22,23,0.53,0.484,1:57
+2,10:22,TOR,OG Anunoby,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,30,35,0.412,0.37,10:41
+2,10:09,HOU,Garrison Mathews,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,31,35,0.327,0.366,10:22
+2,8:39,HOU,Derrick Favors,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,38,36,0.5,0.546,8:48
+2,8:25,HOU,KJ Martin,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,38,40,0.404,0.454,8:25
+2,6:12,HOU,Josh Christopher,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,42,42,0.437,0.483,6:17
+2,5:05,HOU,KJ Martin,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,46,45,0.469,0.517,5:13
+2,3:26,TOR,Christian Koloko,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,50,49,0.601,0.55,3:40
+2,2:40,HOU,Tari Eason,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,55,49,0.655,0.678,2:40
+2,1:48,TOR,Pascal Siakam,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,55,54,0.603,0.552,2:05
+2,1:10,HOU,Tari Eason,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,59,54,0.603,0.649,1:34
+2,1:01,TOR,Juancho Hernangomez,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,59,54,0.73,0.684,1:10
+2,10.8,TOR,Juancho Hernangomez,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,63,56,0.787,0.748,32.6
+3,8:29,TOR,Gary Trent Jr.,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,72,58,0.919,0.917,8:33
+3,7:48,HOU,Jae'Sean Tate,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,72,58,0.88,0.906,7:55
+3,7:09,HOU,Bruno Fernando,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,74,61,0.879,0.912,7:09
+3,7:00,TOR,Khem Birch,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,74,62,0.894,0.894,7:09
+3,6:13,TOR,Khem Birch,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,74,62,0.898,0.898,6:25
+3,5:43,HOU,Bruno Fernando,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,77,62,0.91,0.932,5:58
+3,2:33,TOR,Precious Achiuwa,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,83,74,0.879,0.834,2:33
+3,1:30,HOU,KJ Martin,Loose Ball Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,87,76,0.855,0.893,1:30
+3,1:22,HOU,Usman Garuba,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,87,76,0.856,0.855,1:30
+3,40.2,TOR,Scottie Barnes,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,87,79,0.89,0.848,54.3
+4,9:12,TOR,Josh Jackson,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,94,84,0.958,0.931,9:21
+4,8:34,TOR,Josh Jackson,Loose Ball Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,96,86,0.943,0.939,8:34
+4,8:02,TOR,Gabe Brown,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,98,86,0.984,0.971,8:04
+4,7:07,TOR,Precious Achiuwa,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,100,88,0.987,0.977,7:12
+4,6:47,HOU,TyTy Washington Jr.,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,100,88,0.947,0.97,6:50
+4,5:18,TOR,Josh Jackson,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,102,92,0.983,0.971,5:22
+4,4:20,HOU,TyTy Washington Jr.,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,107,92,0.994,0.997,4:20
+4,2:12,HOU,Daishen Nix,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,109,97,0.986,0.995,2:17
+4,1:12,TOR,Ron Harper Jr.,Loose Ball Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,112,97,0.999,0.999,1:14
+4,26.1,TOR,D.J. Wilson,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Brandon Schwab,HOU,115,97,0.999,0.999,37.9

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:59,DEN,Reggie Jackson,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,0,5,0.283,0.285,9:59
+1,4:58,CHI,Ayo Dosunmu,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,15,14,0.412,0.409,5:09
+1,4:18,CHI,Jevon Carter,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,15,17,0.301,0.335,4:21
+1,3:15,CHI,Ayo Dosunmu,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,17,20,0.314,0.313,3:22
+1,2:45,CHI,Jevon Carter,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,17,22,0.251,0.266,2:48
+1,1:54,DEN,Julian Strawther,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,20,24,0.352,0.314,1:54
+1,56.1,DEN,DeAndre Jordan,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,20,27,0.281,0.246,59.2
+2,11:40,CHI,DeMar DeRozan,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,25,32,0.224,0.223,11:45
+2,11:29,CHI,Torrey Craig,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,25,32,0.208,0.223,11:29
+2,10:51,DEN,Justin Holiday,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,28,33,0.292,0.292,10:58
+2,9:57,DEN,DeAndre Jordan,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,30,36,0.305,0.269,10:07
+2,9:03,DEN,Peyton Watson,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,34,38,0.359,0.319,9:09
+2,8:17,CHI,Julian Phillips,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,36,38,0.307,0.346,8:39
+2,6:42,CHI,Dalen Terry,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,38,40,0.308,0.347,6:57
+2,6:32,DEN,Aaron Gordon,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,38,42,0.364,0.322,6:32
+2,5:53,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,38,44,0.309,0.27,6:04
+2,3:54,CHI,Nikola Vucevic,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,44,46,0.327,0.35,3:54
+2,2:28,CHI,Torrey Craig,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,44,49,0.226,0.265,2:47
+2,1:36,DEN,Nikola Jokic,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,46,54,0.231,0.192,1:36
+2,1:08,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,47,54,0.28,0.237,1:10
+2,1:08,DEN,Nikola Jokic,Technical Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,47,54,0.26,0.28,1:08
+2,54.1,CHI,Torrey Craig,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,50,54,0.251,0.291,54.1
+3,10:43,CHI,Patrick Williams,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,54,57,0.332,0.322,10:56
+3,10:01,CHI,Ayo Dosunmu,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,54,61,0.167,0.2,10:10
+3,9:13,DEN,Reggie Jackson,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,57,65,0.244,0.202,9:20
+3,6:13,CHI,DeMar DeRozan,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,64,75,0.077,0.102,6:30
+3,4:56,CHI,Coby White,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,66,80,0.045,0.052,4:56
+3,3:55,CHI,DeMar DeRozan,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,71,83,0.064,0.09,3:55
+3,1:30,CHI,Torrey Craig,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,78,83,0.181,0.233,1:47
+3,12.0,CHI,DeMar DeRozan,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,78,90,0.036,0.053,12.0
+4,11:32,DEN,Reggie Jackson,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,80,94,0.04,0.038,11:41
+4,9:32,DEN,DeAndre Jordan,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,85,96,0.089,0.049,9:32
+4,9:21,CHI,Ayo Dosunmu,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,86,96,0.063,0.069,9:32
+4,8:15,DEN,Justin Holiday,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,88,98,0.128,0.079,8:24
+4,8:07,CHI,Andre Drummond,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,89,98,0.074,0.08,8:12
+4,6:55,DEN,DeAndre Jordan,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,89,100,0.082,0.051,7:12
+4,4:43,CHI,Coby White,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,92,102,0.027,0.03,4:43
+4,3:39,DEN,Michael Porter Jr.,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,95,106,0.041,0.023,3:51
+4,2:36,CHI,DeMar DeRozan,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,96,109,0.001,0.002,2:44
+4,2:10,DEN,DeAndre Jordan,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,96,110,0.002,0.001,2:10
+4,1:16,DEN,Justin Holiday,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,100,112,0.003,0.001,1:16
+4,39.0,CHI,Patrick Williams,Personal Foul,Foul,Mark Lindsay,Michael Smith,Mousa Dagher,CHI,104,112,0.001,0.006,40.2

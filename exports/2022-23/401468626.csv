@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:17,NY,Immanuel Quickley,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,4,2,0.59,0.627,10:31
+1,8:53,TOR,Juancho Hernangomez,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,9,6,0.705,0.672,9:11
+1,6:54,TOR,Pascal Siakam,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,10,10,0.633,0.596,6:55
+1,3:16,NY,RJ Barrett,Offensive Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,22,24,0.506,0.535,3:30
+1,2:14,TOR,Scottie Barnes,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,22,26,0.475,0.476,2:23
+1,31.0,TOR,Chris Boucher,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,24,26,0.57,0.527,39.1
+2,11:33,TOR,Thaddeus Young,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,27,30,0.496,0.498,11:50
+2,9:32,NY,Jericho Sims,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,32,34,0.468,0.519,9:32
+2,8:57,NY,RJ Barrett,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,32,34,0.444,0.488,9:01
+2,6:30,TOR,Thaddeus Young,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,35,43,0.325,0.327,6:38
+2,6:21,TOR,Juancho Hernangomez,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,37,43,0.409,0.325,6:30
+2,5:46,TOR,Fred VanVleet,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,38,45,0.399,0.353,6:02
+2,2:38,TOR,Pascal Siakam,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,44,56,0.236,0.197,2:47
+2,37.0,TOR,OG Anunoby,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,49,61,0.224,0.184,47.0
+3,10:33,NY,Julius Randle,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,58,65,0.278,0.274,10:42
+3,7:34,TOR,Fred VanVleet,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,68,70,0.539,0.48,7:39
+3,6:44,NY,Mitchell Robinson,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,72,72,0.486,0.557,6:44
+3,6:17,NY,Mitchell Robinson,Loose Ball Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,72,73,0.474,0.474,6:17
+3,4:18,NY,Immanuel Quickley,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,77,75,0.53,0.594,4:20
+3,2:56,TOR,Fred VanVleet,Loose Ball Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,77,75,0.639,0.639,2:56
+3,2:35,NY,Julius Randle,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,77,75,0.528,0.597,2:53
+3,2:11,NY,Jalen Brunson,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,77,77,0.435,0.505,2:18
+3,42.1,TOR,Thaddeus Young,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,79,82,0.477,0.405,58.1
+3,34.0,NY,Jericho Sims,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,80,84,0.278,0.357,34.0
+3,4.1,NY,Jericho Sims,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,80,85,0.204,0.268,23.0
+4,8:09,TOR,Chris Boucher,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,87,96,0.142,0.083,8:09
+4,7:16,NY,Julius Randle,Loose Ball Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,87,96,0.07,0.074,7:16
+4,6:53,TOR,OG Anunoby,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,87,96,0.101,0.094,6:58
+4,6:23,NY,RJ Barrett,Personal Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,89,96,0.108,0.117,6:36
+4,5:20,NY,Julius Randle,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,93,96,0.177,0.277,5:39
+4,2:01,NY,Jalen Brunson,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,102,101,0.383,0.537,2:07
+4,1:27,TOR,OG Anunoby,Loose Ball Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,102,106,0.323,0.169,1:27
+4,35.2,NY,Jalen Brunson,Personal Take Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,102,106,0.039,0.099,43.0
+4,25.0,NY,Julius Randle,Personal Take Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,104,108,0.029,0.081,29.1
+4,15.2,NY,Isaiah Hartenstein,Shooting Foul,Foul,Brent Barnaky,Josh Tiven,Evan Scott,NY,106,112,0.004,0.025,15.2

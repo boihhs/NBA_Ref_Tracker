@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:27,CHI,Nikola Vucevic,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,6,8,0.372,0.415,8:27
+1,7:26,CHI,DeMar DeRozan,Personal Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,9,10,0.415,0.413,7:31
+1,7:26,CHI,DeMar DeRozan,Technical Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,9,10,0.397,0.415,7:26
+1,3:58,CHI,Coby White,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,11,22,0.161,0.185,4:00
+1,3:34,CHI,Ayo Dosunmu,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,13,25,0.156,0.187,3:34
+1,3:02,MEM,John Konchar,Personal Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,15,26,0.204,0.203,3:02
+1,2:00,MEM,Kyle Anderson,Loose Ball Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,17,26,0.279,0.24,2:00
+1,1:06,MEM,Brandon Clarke,Loose Ball Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,19,26,0.327,0.288,1:06
+1,16.3,MEM,Desmond Bane,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,20,31,0.23,0.2,31.0
+2,10:49,CHI,DeMar DeRozan,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,22,35,0.118,0.14,10:56
+2,10:10,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,25,37,0.204,0.175,10:17
+2,9:27,MEM,Brandon Clarke,Offensive Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,27,39,0.172,0.153,9:36
+2,8:25,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,32,41,0.231,0.21,8:38
+2,7:43,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,34,41,0.32,0.28,7:53
+2,3:32,CHI,Ayo Dosunmu,Personal Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,37,49,0.135,0.136,3:38
+2,2:57,MEM,De'Anthony Melton,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,39,51,0.167,0.133,2:57
+2,2:11,MEM,Desmond Bane,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,42,54,0.182,0.15,2:25
+3,10:59,CHI,Nikola Vucevic,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,52,59,0.19,0.226,11:16
+3,10:33,CHI,Zach LaVine,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,52,60,0.167,0.2,10:40
+3,8:15,MEM,Desmond Bane,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,60,69,0.235,0.193,8:16
+3,6:21,CHI,Nikola Vucevic,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,64,74,0.104,0.133,6:35
+3,4:34,CHI,Javonte Green,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,68,80,0.063,0.085,4:42
+3,3:08,MEM,Kyle Anderson,Personal Take Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,70,87,0.031,0.03,3:08
+3,3:03,MEM,Brandon Clarke,Personal Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,70,87,0.031,0.031,3:08
+3,2:42,CHI,Ayo Dosunmu,Personal Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,72,87,0.025,0.038,2:56
+3,2:35,MEM,Kyle Anderson,Personal Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,72,89,0.042,0.029,2:42
+3,2:10,MEM,Brandon Clarke,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,72,89,0.04,0.028,2:15
+3,1:42,MEM,Ja Morant,Personal Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,73,89,0.048,0.033,1:48
+3,0.5,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,77,93,0.039,0.025,0.5
+4,11:17,MEM,Tyus Jones,Personal Take Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,79,95,0.023,0.021,11:26
+4,10:42,MEM,Desmond Bane,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,79,95,0.028,0.02,10:42
+4,9:54,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,80,97,0.024,0.014,9:56
+4,9:54,MEM,Jaren Jackson Jr.,Technical Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,80,97,0.018,0.024,9:54
+4,8:01,CHI,Tristan Thompson,Personal Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,89,101,0.033,0.036,8:17
+4,5:39,MEM,Desmond Bane,Personal Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,95,101,0.267,0.178,5:40
+4,5:09,CHI,Derrick Jones Jr.,Personal Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,97,101,0.218,0.235,5:26
+4,4:38,MEM,Ja Morant,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,97,101,0.376,0.279,4:46
+4,2:41,CHI,Zach LaVine,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,102,105,0.136,0.249,3:05
+4,1:51,CHI,Zach LaVine,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,105,106,0.233,0.376,1:56
+4,1:10,MEM,Kyle Anderson,Loose Ball Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,107,111,0.317,0.189,1:10
+4,25.5,MEM,Desmond Bane,Shooting Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,108,111,0.396,0.222,28.5
+4,14.9,CHI,Coby White,Personal Take Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,110,111,0.134,0.355,1:56
+4,5.3,CHI,Zach LaVine,Personal Take Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,110,113,0.014,0.182,14.9
+4,5.3,CHI,DeMar DeRozan,Technical Foul,Foul,Matt Boland,David Guthrie,Tre Maddox,CHI,110,113,0.025,0.014,5.3

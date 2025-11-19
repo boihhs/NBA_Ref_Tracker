@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:27,DET,Jalen Duren,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,0,2,0.237,0.268,11:27
+1,8:14,DET,Jaden Ivey,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,10,10,0.269,0.302,8:17
+1,5:48,DET,Jalen Duren,Loose Ball Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,17,14,0.383,0.383,5:48
+1,5:16,CLE,Isaac Okoro,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,17,16,0.399,0.359,5:28
+1,1:52,CLE,Craig Porter Jr.,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,26,20,0.562,0.514,2:04
+1,1:18,CLE,Isaac Okoro,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,28,22,0.566,0.517,1:32
+1,20.2,DET,Marvin Bagley III,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,30,24,0.454,0.494,31.1
+2,11:41,DET,Ausar Thompson,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,30,25,0.429,0.483,12:00
+2,10:56,CLE,Georges Niang,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,30,26,0.477,0.479,10:59
+2,10:31,DET,Ausar Thompson,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,32,26,0.509,0.509,10:32
+2,6:58,DET,Ausar Thompson,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,34,37,0.273,0.271,7:02
+2,5:33,CLE,Evan Mobley,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,36,37,0.38,0.355,5:33
+2,4:49,DET,Jaden Ivey,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,38,39,0.29,0.33,4:58
+2,2:32,CLE,Jarrett Allen,Offensive Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,40,47,0.204,0.182,2:53
+2,1:07,DET,Jalen Duren,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,46,52,0.171,0.204,1:19
+3,11:14,CLE,Max Strus,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,50,54,0.283,0.286,11:18
+3,10:35,CLE,Max Strus,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,53,54,0.382,0.381,10:44
+3,10:20,DET,Jaden Ivey,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,53,54,0.348,0.35,10:20
+3,10:09,CLE,Max Strus,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,53,54,0.437,0.384,10:12
+3,7:58,DET,Cade Cunningham,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,60,56,0.544,0.545,8:01
+3,7:27,DET,Cade Cunningham,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,60,58,0.413,0.471,7:33
+3,6:27,CLE,Donovan Mitchell,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,64,60,0.659,0.598,6:33
+3,5:07,CLE,Isaac Okoro,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,70,64,0.721,0.651,5:07
+3,4:08,CLE,Sam Merrill,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,72,65,0.792,0.739,4:19
+3,4:01,DET,Marcus Sasser,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,73,65,0.681,0.743,4:04
+3,3:56,DET,Ausar Thompson,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,73,67,0.63,0.707,3:56
+3,2:56,DET,Cade Cunningham,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,75,69,0.64,0.673,2:56
+3,1:13,DET,Ausar Thompson,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,77,76,0.393,0.463,1:18
+3,2.0,DET,Bojan Bogdanovic,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,82,85,0.254,0.331,2.0
+4,9:34,CLE,Darius Garland,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,82,92,0.085,0.079,9:47
+4,8:51,CLE,Max Strus,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,84,92,0.187,0.126,8:55
+4,6:48,CLE,Donovan Mitchell,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,88,96,0.175,0.109,6:54
+4,6:01,CLE,Evan Mobley,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,91,96,0.315,0.22,6:05
+4,2:13,CLE,Evan Mobley,Shooting Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,97,104,0.136,0.082,2:33
+4,1:54,CLE,Jarrett Allen,Offensive Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,97,104,0.066,0.045,2:10
+4,23.1,DET,Killian Hayes,Personal Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,99,109,0.001,0.001,34.1
+4,21.1,DET,Killian Hayes,Personal Take Foul,Foul,Brian Forte,Tom Washington,Suyash Mehta,DET,99,109,0.001,0.001,23.1

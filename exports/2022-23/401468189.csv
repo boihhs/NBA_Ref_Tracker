@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:09,MEM,Santi Aldama,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,2,0,0.761,0.744,11:15
+1,10:27,MEM,Desmond Bane,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,2,2,0.749,0.72,10:44
+1,8:49,MEM,Santi Aldama,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,9,4,0.819,0.79,8:49
+1,8:03,DAL,JaVale McGee,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,9,4,0.76,0.789,8:07
+1,6:10,MEM,Ja Morant,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,15,6,0.882,0.864,6:28
+1,4:51,MEM,John Konchar,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,20,6,0.932,0.919,4:53
+1,2:47,MEM,Ja Morant,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,31,11,0.966,0.956,2:47
+1,2:34,MEM,David Roddy,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,32,11,0.973,0.967,2:38
+1,1:10,DAL,Dorian Finney-Smith,Transition Take Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,36,11,0.979,0.979,1:10
+2,10:55,MEM,Brandon Clarke,Loose Ball Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,42,17,0.984,0.984,10:55
+2,10:40,MEM,Desmond Bane,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,42,17,0.984,0.984,10:55
+2,10:37,DAL,Spencer Dinwiddie,Offensive Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,42,17,0.982,0.984,10:40
+2,10:26,DAL,Josh Green,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,42,17,0.976,0.982,10:37
+2,8:00,MEM,Santi Aldama,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,47,25,0.982,0.976,8:11
+2,7:09,DAL,Josh Green,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,49,28,0.968,0.968,7:17
+2,6:40,DAL,JaVale McGee,Offensive Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,49,28,0.969,0.974,6:41
+2,6:31,DAL,Dorian Finney-Smith,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,49,28,0.969,0.969,6:40
+2,5:24,MEM,Brandon Clarke,Offensive Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,49,30,0.966,0.959,5:33
+2,4:50,DAL,Luka Doncic,Loose Ball Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,51,30,0.963,0.971,4:50
+2,4:35,DAL,JaVale McGee,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,51,30,0.963,0.963,4:50
+2,3:21,MEM,John Konchar,Offensive Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,57,32,0.99,0.987,3:33
+2,2:56,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,57,32,0.983,0.988,2:59
+2,36.1,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,62,34,0.992,0.994,37.4
+3,11:10,DAL,Luka Doncic,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,66,36,0.996,0.997,11:22
+3,7:20,MEM,Steven Adams,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,73,50,0.995,0.993,7:34
+3,6:09,MEM,Santi Aldama,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,78,53,0.997,0.996,6:09
+3,6:09,MEM,Jake LaRavia,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,81,53,0.998,0.998,6:09
+3,5:56,DAL,Christian Wood,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,81,53,0.997,0.998,6:06
+3,5:31,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,81,55,0.997,0.997,5:34
+3,3:34,DAL,Christian Wood,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,90,60,0.999,0.999,3:44
+3,3:23,DAL,Maxi Kleber,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,90,60,0.999,0.999,3:34
+3,2:24,MEM,Jake LaRavia,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,90,65,0.998,0.998,2:31
+3,1:16,MEM,Ja Morant,Loose Ball Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,92,67,0.999,0.998,1:16
+3,45.8,DAL,Josh Green,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,96,67,0.999,0.999,1:02
+4,11:38,MEM,Jake LaRavia,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,99,73,0.999,0.999,11:50
+4,10:47,MEM,David Roddy,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,101,73,0.999,0.999,10:47
+4,10:22,MEM,Jake LaRavia,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,102,75,0.999,0.999,10:35
+4,10:08,MEM,David Roddy,Loose Ball Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,102,75,0.999,0.999,10:08
+4,9:16,MEM,Jake LaRavia,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,105,77,0.999,0.999,9:33
+4,8:54,MEM,Santi Aldama,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,107,77,0.999,0.999,9:01
+4,8:35,DAL,Christian Wood,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,109,77,0.999,0.999,8:54
+4,8:28,MEM,David Roddy,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,109,79,0.999,0.999,8:35
+4,8:01,MEM,Kenneth Lofton Jr.,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,111,79,0.999,0.999,8:11
+4,7:06,MEM,Kenneth Lofton Jr.,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,112,81,0.999,0.999,7:24
+4,7:00,DAL,Spencer Dinwiddie,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,114,81,0.999,0.999,7:06
+4,6:16,MEM,Kenneth Lofton Jr.,Loose Ball Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,117,81,0.999,0.999,6:39
+4,6:07,DAL,Dwight Powell,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,119,83,0.999,0.999,6:07
+4,5:27,MEM,Vince Williams Jr.,Loose Ball Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,122,83,0.999,0.999,5:27
+4,5:20,DAL,Josh Green,Personal Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,123,83,0.999,0.999,5:27
+4,5:20,DAL,Josh Green,Away from Play Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,123,83,0.999,0.999,5:20
+4,4:25,MEM,Vince Williams Jr.,Shooting Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,123,87,0.999,0.999,4:39
+4,4:11,DAL,Dwight Powell,Offensive Foul,Foul,Jason Goldenberg,Rodney Mott,Michael Smith,DAL,126,87,0.999,0.999,4:17

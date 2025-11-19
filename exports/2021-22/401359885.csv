@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:23,OKC,Derrick Favors,Personal Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,0,2,0.394,0.394,10:24
+1,8:08,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,3,12,0.235,0.235,8:09
+1,6:48,LAL,Malik Monk,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,10,17,0.332,0.297,6:50
+1,5:39,LAL,Russell Westbrook,Personal Take Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,13,21,0.274,0.275,5:39
+1,4:07,LAL,Kent Bazemore,Personal Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,13,26,0.171,0.171,4:16
+1,2:38,LAL,Kent Bazemore,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,13,30,0.129,0.108,2:53
+1,1:38,LAL,Carmelo Anthony,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,15,35,0.088,0.074,1:52
+1,1:25,LAL,Dwight Howard,Loose Ball Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,16,35,0.081,0.081,1:25
+1,49.5,OKC,Tre Mann,Personal Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,16,37,0.043,0.053,55.1
+1,27.3,LAL,Rajon Rondo,Personal Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,16,39,0.054,0.047,40.6
+2,10:25,LAL,Dwight Howard,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,21,45,0.045,0.035,10:26
+2,10:00,OKC,Kenrich Williams,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,22,45,0.027,0.034,10:04
+2,4:43,LAL,Anthony Davis,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,38,62,0.033,0.025,4:52
+2,4:26,LAL,Dwight Howard,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,40,65,0.027,0.02,4:34
+2,3:28,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,44,69,0.015,0.018,3:28
+2,1:57,OKC,Isaiah Roby,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,49,70,0.023,0.03,2:14
+3,10:55,LAL,DeAndre Jordan,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,59,74,0.11,0.085,11:02
+3,10:51,OKC,Darius Bazley,Personal Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,61,74,0.1,0.101,10:55
+3,9:35,LAL,DeAndre Jordan,Offensive Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,65,78,0.112,0.094,9:38
+3,9:14,OKC,Derrick Favors,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,68,80,0.109,0.127,9:14
+3,8:57,LAL,Kent Bazemore,Personal Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,68,81,0.108,0.11,9:14
+3,8:52,LAL,Kent Bazemore,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,68,81,0.107,0.108,8:57
+3,6:57,OKC,Derrick Favors,Personal Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,74,84,0.148,0.136,6:57
+3,6:03,LAL,Russell Westbrook,Personal Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,74,87,0.123,0.094,6:11
+3,3:15,OKC,Ty Jerome,Loose Ball Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,83,91,0.176,0.162,3:18
+3,3:07,LAL,Carmelo Anthony,Offensive Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,83,91,0.189,0.125,3:15
+3,1:24,OKC,Luguentz Dort,Loose Ball Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,88,93,0.192,0.246,1:24
+3,35.3,LAL,Russell Westbrook,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,91,95,0.393,0.326,54.3
+3,35.3,LAL,Russell Westbrook,Technical Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,91,95,0.359,0.393,35.3
+4,11:04,LAL,Avery Bradley,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,99,97,0.593,0.569,11:04
+4,10:48,LAL,Dwight Howard,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,100,97,0.756,0.677,10:54
+4,8:21,LAL,Dwight Howard,Away from Play Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,108,100,0.904,0.898,8:21
+4,7:58,OKC,Isaiah Roby,Loose Ball Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,108,100,0.867,0.876,8:00
+4,6:55,OKC,Josh Giddey,Personal Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,108,100,0.878,0.885,7:06
+4,5:17,OKC,Isaiah Roby,Personal Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,110,102,0.897,0.906,5:29
+4,3:46,OKC,Luguentz Dort,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,112,104,0.866,0.926,3:52
+4,1:38,OKC,Josh Giddey,Shooting Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,116,110,0.819,0.898,1:43
+4,5.3,LAL,Malik Monk,Personal Take Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,118,115,0.985,0.953,5.3
+4,4.7,LAL,Russell Westbrook,Personal Take Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,118,115,0.987,0.958,5.3
+4,1.5,LAL,Russell Westbrook,Technical Foul,Foul,Scott Foster,Lauren Holtkamp,Gediminas Petraitis,OKC,122,115,0.999,0.999,1.5

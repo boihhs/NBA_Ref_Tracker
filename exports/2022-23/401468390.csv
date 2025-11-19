@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:06,TOR,Juancho Hernangomez,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,11,10,0.72,0.692,7:24
+1,6:18,TOR,OG Anunoby,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,13,10,0.76,0.73,6:20
+1,6:18,TOR,Fred VanVleet,Technical Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,13,10,0.745,0.76,6:18
+1,4:44,ATL,John Collins,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,18,13,0.715,0.749,5:06
+1,2:10,TOR,Christian Koloko,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,23,20,0.754,0.722,2:15
+1,50.6,ATL,Clint Capela,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,27,25,0.652,0.695,50.6
+1,15.0,TOR,Scottie Barnes,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,29,28,0.704,0.67,20.6
+2,10:29,TOR,Christian Koloko,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,31,37,0.507,0.463,10:40
+2,10:11,ATL,Jalen Johnson,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,33,37,0.445,0.489,10:29
+2,9:40,ATL,Onyeka Okongwu,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,33,41,0.344,0.397,9:40
+2,6:53,TOR,OG Anunoby,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,37,44,0.456,0.41,7:05
+2,3:02,ATL,Trae Young,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,51,55,0.422,0.482,3:02
+2,2:47,TOR,OG Anunoby,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,51,55,0.48,0.48,2:48
+2,2:36,ATL,John Collins,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,51,55,0.394,0.444,2:36
+2,5.6,ATL,Trae Young,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,55,59,0.43,0.468,28.3
+2,5.2,ATL,ATL,Technical Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,55,59,0.399,0.43,5.6
+3,9:58,TOR,Thaddeus Young,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,61,64,0.487,0.487,10:13
+3,9:39,ATL,John Collins,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,63,64,0.523,0.525,9:51
+3,7:04,TOR,Thaddeus Young,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,70,71,0.607,0.551,7:21
+3,5:29,ATL,De'Andre Hunter,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,71,73,0.46,0.459,5:46
+3,4:22,TOR,Malachi Flynn,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,73,75,0.493,0.496,4:30
+3,4:21,TOR,Malachi Flynn,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,73,75,0.56,0.493,4:22
+3,3:44,TOR,Fred VanVleet,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,74,77,0.513,0.451,3:58
+3,3:26,ATL,Clint Capela,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,76,77,0.488,0.487,3:27
+3,2:16,ATL,AJ Griffin,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,78,82,0.282,0.348,2:31
+3,1:24,TOR,Malachi Flynn,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,80,82,0.548,0.478,1:27
+3,1.1,ATL,Clint Capela,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,82,87,0.217,0.283,1.1
+4,8:32,ATL,John Collins,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,90,95,0.161,0.231,8:39
+4,7:59,TOR,Scottie Barnes,Technical Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,90,97,0.212,0.178,7:59
+4,7:13,TOR,Fred VanVleet,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,91,99,0.139,0.131,7:25
+4,6:41,ATL,John Collins,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,93,101,0.069,0.124,6:41
+4,5:35,TOR,Christian Koloko,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,95,104,0.129,0.075,5:39
+4,5:12,TOR,Malachi Flynn,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,97,104,0.147,0.133,5:17
+4,5:01,TOR,Fred VanVleet,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,97,104,0.216,0.135,5:01
+4,4:40,ATL,John Collins,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,97,104,0.055,0.101,4:45
+4,2:36,ATL,Trae Young,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,101,108,0.038,0.088,2:36
+4,2:14,TOR,Malachi Flynn,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,104,109,0.154,0.109,2:29
+4,1:27,TOR,Christian Koloko,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,107,109,0.506,0.373,1:27
+4,59.6,TOR,Malachi Flynn,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,109,109,0.704,0.545,1:01
+4,50.6,ATL,De'Andre Hunter,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,111,109,0.503,0.637,59.6
+5,4:23,TOR,Scottie Barnes,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,111,111,0.534,0.466,4:40
+5,2:13,TOR,Christian Koloko,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,115,115,0.684,0.544,2:31
+5,41.2,TOR,Thaddeus Young,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,118,117,0.846,0.673,58.6
+5,12.7,ATL,AJ Griffin,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,120,117,0.729,0.815,29.3
+5,11.6,TOR,OG Anunoby,Personal Take Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,120,118,0.936,0.832,12.7
+5,8.1,TOR,Scottie Barnes,Personal Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,122,120,0.951,0.86,8.8
+5,3.8,ATL,Clint Capela,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Lauren Holtkamp,ATL,122,120,0.633,0.76,7.8

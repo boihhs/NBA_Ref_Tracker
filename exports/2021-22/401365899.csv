@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:17,POR,Robert Covington,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,4,2,0.501,0.539,10:21
+1,8:38,POR,Robert Covington,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,6,12,0.302,0.334,8:41
+1,6:12,POR,Damian Lillard,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,8,16,0.25,0.284,6:13
+1,3:20,GS,Andre Iguodala,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,14,21,0.364,0.325,3:29
+1,4.7,GS,Jordan Poole,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,22,23,0.53,0.486,19.0
+2,9:30,GS,Otto Porter Jr.,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,33,34,0.508,0.452,9:30
+2,8:10,POR,Cody Zeller,Offensive Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,34,34,0.482,0.516,8:16
+2,6:44,POR,Anfernee Simons,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,37,39,0.399,0.451,6:44
+2,5:42,GS,Juan Toscano-Anderson,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,37,43,0.315,0.33,5:42
+2,5:02,GS,Draymond Green,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,40,43,0.466,0.42,5:02
+2,4:33,GS,Juan Toscano-Anderson,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,41,43,0.499,0.449,4:41
+2,3:38,GS,Draymond Green,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,47,46,0.531,0.515,3:38
+2,41.3,POR,Jusuf Nurkic,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,60,57,0.533,0.583,47.0
+3,6:04,GS,Kevon Looney,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,71,76,0.378,0.321,6:18
+3,5:55,POR,Nassir Little,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,73,76,0.302,0.357,6:04
+3,3:57,POR,Cody Zeller,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,75,86,0.077,0.104,3:59
+3,1:32,GS,Mychal Mulder,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,80,95,0.061,0.043,1:37
+3,1:14,GS,Andre Iguodala,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,82,95,0.059,0.052,1:14
+4,11:01,POR,CJ Elleby,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,87,103,0.016,0.016,11:01
+4,9:27,GS,Moses Moody,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,87,106,0.01,0.005,9:48
+4,8:31,POR,Marquese Chriss,Offensive Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,88,108,0.001,0.003,8:52
+4,8:11,POR,CJ Elleby,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,88,108,0.001,0.001,8:16
+4,7:15,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,88,108,0.003,0.001,7:18
+4,7:14,GS,Jonathan Kuminga,Loose Ball Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,89,108,0.003,0.002,7:14
+4,7:09,GS,Langston Galloway,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,91,108,0.006,0.004,7:09
+4,6:55,POR,Keljin Blevins,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,92,108,0.005,0.006,7:09
+4,6:07,POR,Dennis Smith Jr.,Loose Ball Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,94,108,0.005,0.01,6:07
+4,5:06,GS,Jonathan Kuminga,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,96,111,0.005,0.008,5:28
+4,4:05,POR,Dennis Smith Jr.,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,101,111,0.022,0.022,4:05
+4,4:01,POR,Dennis Smith Jr.,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,101,112,0.01,0.014,4:01
+4,3:46,GS,Langston Galloway,Loose Ball Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,101,114,0.018,0.008,3:46
+4,2:20,POR,Greg Brown III,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,102,117,0.001,0.001,2:27
+4,2:19,GS,Chris Chiozza,Personal Take Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,102,119,0.001,0.001,2:20
+4,1:52,GS,Jonathan Kuminga,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Robert Hussey,POR,104,121,0.001,0.001,2:03

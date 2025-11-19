@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:00,PHX,Devin Booker,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,2,2,0.552,0.552,10:02
+1,9:12,PHX,Deandre Ayton,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,2,4,0.459,0.498,9:22
+1,9:04,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,2,5,0.535,0.496,9:12
+1,5:19,DAL,Luka Doncic,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,11,12,0.543,0.544,5:19
+1,4:50,PHX,Deandre Ayton,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,13,12,0.529,0.568,5:09
+1,4:50,PHX,PHX,Technical Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,13,12,0.55,0.529,4:50
+1,4:14,PHX,Jock Landale,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,13,13,0.5,0.543,4:30
+1,3:39,PHX,Torrey Craig,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,15,16,0.472,0.513,3:52
+1,2:02,DAL,Christian Wood,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,19,25,0.42,0.371,2:02
+2,11:31,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,24,32,0.335,0.335,11:40
+2,10:57,PHX,Cameron Johnson,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,24,32,0.266,0.304,11:00
+2,10:17,DAL,Josh Green,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,24,34,0.276,0.276,10:34
+2,9:59,PHX,Josh Okogie,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,24,34,0.249,0.248,10:06
+2,9:08,PHX,Jock Landale,Loose Ball Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,26,37,0.223,0.22,9:08
+2,8:58,PHX,Deandre Ayton,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,26,37,0.22,0.246,9:01
+2,6:36,PHX,Chris Paul,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,28,47,0.057,0.072,6:37
+2,5:59,DAL,Josh Green,Loose Ball Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,31,48,0.111,0.109,5:59
+2,5:17,PHX,Bismack Biyombo,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,31,50,0.06,0.068,5:17
+2,4:34,PHX,Mikal Bridges,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,31,50,0.05,0.066,4:50
+2,3:32,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,33,52,0.082,0.061,3:32
+2,3:17,PHX,Jock Landale,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,34,52,0.056,0.074,3:32
+2,3:03,DAL,Dorian Finney-Smith,Defensive 3-Seconds Technical,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,34,54,0.057,0.06,3:17
+2,2:32,DAL,Spencer Dinwiddie,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,38,54,0.135,0.109,2:40
+2,2:00,PHX,Jock Landale,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,39,56,0.077,0.091,2:10
+2,1:05,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,39,59,0.068,0.051,1:18
+2,47.7,PHX,Bismack Biyombo,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,41,59,0.047,0.064,1:05
+3,11:36,DAL,Spencer Dinwiddie,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,45,62,0.078,0.08,11:41
+3,10:22,PHX,Chris Paul,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,45,65,0.033,0.032,10:34
+3,9:31,DAL,Luka Doncic,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,45,67,0.024,0.023,9:34
+3,9:26,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,45,67,0.023,0.024,9:31
+3,7:37,DAL,JaVale McGee,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,52,67,0.109,0.086,7:59
+3,7:07,DAL,Dorian Finney-Smith,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,54,70,0.089,0.067,7:16
+3,6:18,DAL,Maxi Kleber,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,61,70,0.232,0.18,6:18
+3,6:07,PHX,Mikal Bridges,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,62,70,0.207,0.208,6:18
+3,5:58,PHX,Mikal Bridges,Loose Ball Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,62,70,0.207,0.206,5:58
+3,5:32,PHX,Chris Paul,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,64,70,0.218,0.267,5:39
+3,5:04,PHX,Cameron Johnson,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,64,72,0.158,0.201,5:13
+3,4:53,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,66,74,0.255,0.198,4:53
+3,3:35,PHX,Devin Booker,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,68,77,0.156,0.19,3:43
+3,3:01,PHX,Cameron Payne,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,70,77,0.165,0.213,3:15
+3,3:00,DAL,Maxi Kleber,Loose Ball Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,70,77,0.309,0.249,3:00
+3,2:22,DAL,Dorian Finney-Smith,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,72,77,0.385,0.327,2:40
+4,11:45,PHX,Mikal Bridges,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,76,81,0.25,0.299,11:45
+4,11:35,PHX,Deandre Ayton,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,76,81,0.182,0.25,11:45
+4,9:35,DAL,Dorian Finney-Smith,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,78,88,0.101,0.093,9:38
+4,6:41,DAL,Christian Wood,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,83,95,0.063,0.036,6:54
+4,5:06,DAL,Luka Doncic,Offensive Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,92,97,0.217,0.172,5:20
+4,4:32,PHX,Damion Lee,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,94,99,0.118,0.207,4:32
+4,4:05,PHX,Devin Booker,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,96,100,0.112,0.199,4:23
+4,3:31,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,99,100,0.484,0.459,3:31
+4,2:19,PHX,Cameron Payne,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,101,100,0.387,0.54,2:25
+4,1:38,DAL,Luka Doncic,Technical Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,104,100,0.896,0.526,1:38
+4,1:21,PHX,Cameron Payne,Personal Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,105,100,0.756,0.908,1:38
+4,32.8,PHX,Damion Lee,Shooting Foul,Foul,Derek Richardson,Eric Lewis,Gediminas Petraitis,PHX,105,104,0.457,0.636,32.8

@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,BOS,Jayson Tatum,Personal Take Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,0,0,0.383,0.383,11:46
+1,11:37,BOS,Marcus Smart,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,0,0,0.383,0.383,11:45
+1,10:58,ATL,De'Andre Hunter,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,0,2,0.302,0.339,10:58
+1,8:45,ATL,Trae Young,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,6,6,0.369,0.368,8:45
+1,7:28,BOS,Marcus Smart,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,8,10,0.347,0.347,7:43
+1,7:01,ATL,Kevin Huerter,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,11,10,0.361,0.397,7:18
+1,6:25,BOS,Dennis Schroder,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,11,11,0.438,0.399,6:32
+1,5:37,ATL,Clint Capela,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,13,11,0.39,0.427,5:47
+1,4:49,ATL,Trae Young,Technical Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,13,13,0.358,0.403,4:49
+1,4:06,BOS,Dennis Schroder,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,15,16,0.421,0.378,4:18
+1,2:35,BOS,Josh Richardson,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,22,18,0.563,0.521,2:35
+2,11:24,ATL,Bogdan Bogdanovic,Loose Ball Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,32,20,0.749,0.734,11:24
+2,11:18,ATL,Delon Wright,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,32,20,0.694,0.749,11:24
+2,10:37,BOS,Aaron Nesmith,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,34,23,0.738,0.738,10:51
+2,10:12,ATL,Danilo Gallinari,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,34,23,0.673,0.714,10:16
+2,10:01,BOS,Aaron Nesmith,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,34,25,0.688,0.688,10:12
+2,8:36,ATL,Onyeka Okongwu,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,41,29,0.732,0.774,8:36
+2,7:59,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,41,30,0.686,0.73,8:00
+2,5:45,ATL,Kevin Huerter,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,47,34,0.756,0.793,5:53
+2,4:13,BOS,Grant Williams,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,49,41,0.717,0.699,4:26
+2,4:03,ATL,Trae Young,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,50,41,0.652,0.697,4:11
+2,2:20,BOS,Jaylen Brown,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,52,47,0.664,0.614,2:36
+2,1:07,BOS,Grant Williams,Personal Take Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,60,47,0.877,0.849,1:07
+3,10:08,ATL,Kevin Huerter,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,64,50,0.869,0.867,10:12
+3,9:14,BOS,Marcus Smart,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,66,50,0.944,0.926,9:18
+3,8:26,BOS,Jaylen Brown,Offensive Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,68,53,0.917,0.901,8:32
+3,7:44,ATL,Clint Capela,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,68,57,0.819,0.845,7:44
+3,7:15,ATL,Clint Capela,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,68,60,0.733,0.765,7:15
+3,6:44,ATL,Kevin Huerter,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,70,61,0.721,0.769,6:54
+3,6:35,BOS,Jaylen Brown,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,70,63,0.741,0.74,6:44
+3,4:51,BOS,Jayson Tatum,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,74,66,0.787,0.786,5:05
+3,4:28,BOS,Jayson Tatum,Offensive Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,74,66,0.791,0.759,4:39
+3,3:45,BOS,Josh Richardson,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,74,68,0.782,0.727,4:05
+3,2:45,BOS,Josh Richardson,Technical Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,76,71,0.733,0.654,2:45
+3,2:38,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,77,71,0.636,0.743,2:45
+3,2:33,ATL,Onyeka Okongwu,Offensive Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,77,73,0.617,0.661,2:38
+4,11:33,BOS,Grant Williams,Loose Ball Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,80,77,0.661,0.649,11:33
+4,11:18,BOS,Romeo Langford,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,82,77,0.746,0.698,11:18
+4,11:08,ATL,Onyeka Okongwu,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,83,77,0.67,0.75,11:18
+4,10:35,ATL,Lou Williams,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,83,79,0.645,0.659,10:43
+4,10:18,BOS,Dennis Schroder,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,83,82,0.573,0.549,10:30
+4,9:20,BOS,Jaylen Brown,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,85,84,0.66,0.563,9:42
+4,8:20,BOS,Grant Williams,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,85,84,0.669,0.585,8:34
+4,3:58,BOS,Marcus Smart,Offensive Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,99,86,0.995,0.991,4:03
+4,3:24,ATL,Trae Young,Personal Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,102,86,0.998,0.999,3:39
+4,2:56,BOS,Romeo Langford,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,102,86,0.999,0.999,3:11
+4,2:35,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Josh Tiven,Tom Washington,Scott Wall,ATL,103,86,0.999,0.999,2:54

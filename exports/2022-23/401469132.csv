@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:42,POR,Drew Eubanks,Loose Ball Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,2,10,0.185,0.183,7:42
+1,7:12,DET,Alec Burks,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,5,10,0.219,0.22,7:22
+1,7:05,DET,Marvin Bagley III,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,5,10,0.194,0.219,7:12
+1,5:17,DET,James Wiseman,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,9,15,0.204,0.204,5:20
+1,5:03,POR,Shaedon Sharpe,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,9,15,0.254,0.224,5:06
+1,1:02,POR,Jerami Grant,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,16,28,0.149,0.127,1:15
+1,46.1,DET,R.J. Hampton,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,16,28,0.096,0.112,49.1
+1,24.1,DET,Cory Joseph,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,16,30,0.073,0.089,27.1
+2,9:29,DET,Marvin Bagley III,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,22,33,0.114,0.123,9:29
+2,9:14,POR,Nassir Little,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,22,34,0.123,0.124,9:25
+2,8:54,POR,Trendon Watford,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,22,34,0.147,0.123,8:58
+2,8:36,DET,James Wiseman,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,22,34,0.091,0.109,8:52
+2,7:43,POR,Drew Eubanks,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,24,38,0.115,0.095,7:52
+2,6:33,DET,Jared Rhoden,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,28,42,0.082,0.082,6:37
+2,6:20,POR,Matisse Thybulle,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,28,42,0.114,0.094,6:22
+2,5:40,DET,Alec Burks,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,33,44,0.099,0.119,5:53
+2,5:38,DET,James Wiseman,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,33,44,0.109,0.119,5:38
+2,5:20,DET,Jaden Ivey,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,33,46,0.074,0.092,5:22
+2,43.1,POR,Matisse Thybulle,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,49,57,0.227,0.187,56.0
+3,8:46,POR,Jerami Grant,Technical Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,58,69,0.133,0.12,8:46
+3,8:07,DET,James Wiseman,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,60,71,0.088,0.118,8:07
+3,7:39,POR,Jerami Grant,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,60,72,0.11,0.096,7:39
+3,5:08,DET,Jaden Ivey,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,64,77,0.044,0.06,5:31
+3,4:27,POR,Matisse Thybulle,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,64,81,0.029,0.03,4:45
+3,4:27,DET,Jaden Ivey,Offensive Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,64,81,0.022,0.029,4:27
+3,3:55,POR,Trendon Watford,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,64,83,0.017,0.018,4:14
+3,2:14,DET,Hamidou Diallo,Offensive Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,67,86,0.01,0.013,2:25
+4,11:57,POR,Cam Reddish,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,74,89,0.03,0.027,11:57
+4,8:19,DET,James Wiseman,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,83,94,0.024,0.042,8:41
+4,7:29,POR,Matisse Thybulle,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,83,98,0.024,0.012,7:42
+4,6:33,DET,Hamidou Diallo,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,84,101,0.002,0.003,6:44
+4,5:29,DET,James Wiseman,Offensive Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,86,101,0.004,0.007,5:35
+4,3:25,DET,Marvin Bagley III,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,90,104,0.001,0.003,3:42
+4,3:15,POR,Trendon Watford,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,90,105,0.003,0.001,3:22
+4,2:20,POR,Jerami Grant,Offensive Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,94,105,0.008,0.005,2:35
+4,1:39,POR,Jerami Grant,Shooting Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,98,105,0.088,0.022,1:39
+4,1:04,POR,Cam Reddish,Personal Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,99,108,0.038,0.017,1:19
+4,22.1,DET,Jaden Ivey,Personal Take Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,101,108,0.001,0.006,22.1
+4,20.1,DET,R.J. Hampton,Personal Take Foul,Foul,John Goble,Marat Kogut,Brandon Adair,DET,101,108,0.001,0.001,22.1

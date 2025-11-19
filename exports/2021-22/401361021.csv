@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:41,GS,Jordan Poole,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,0,0,0.776,0.79,11:43
+1,10:34,GS,Kevon Looney,Personal Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,2,4,0.747,0.747,10:40
+1,9:55,LAL,Stanley Johnson,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,2,9,0.69,0.658,10:10
+1,9:47,GS,Klay Thompson,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,4,9,0.644,0.678,9:55
+1,9:16,LAL,Talen Horton-Tucker,Personal Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,6,11,0.696,0.697,9:16
+1,8:39,GS,Andrew Wiggins,Personal Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,9,11,0.704,0.736,8:47
+1,7:45,GS,Draymond Green,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,12,13,0.72,0.752,7:52
+1,6:22,GS,Jordan Poole,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,15,22,0.58,0.626,6:22
+1,6:10,LAL,Talen Horton-Tucker,Personal Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,15,23,0.601,0.601,6:22
+1,5:44,GS,Andrew Wiggins,Flagrant Foul Type 1,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,18,23,0.653,0.673,5:47
+1,5:07,GS,Andre Iguodala,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,18,26,0.539,0.591,5:07
+2,10:09,LAL,Wenyen Gabriel,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,32,34,0.708,0.662,10:09
+2,7:31,GS,Jonathan Kuminga,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,42,36,0.801,0.83,7:45
+2,6:55,LAL,Kent Bazemore,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,44,42,0.799,0.769,7:07
+2,4:31,GS,Draymond Green,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,50,47,0.721,0.758,4:49
+2,4:06,GS,Draymond Green,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,50,49,0.663,0.706,4:08
+2,1:47,LAL,Dwight Howard,Hanging Technical Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,57,58,0.652,0.661,1:47
+2,1:33,GS,Klay Thompson,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,58,58,0.614,0.659,1:36
+3,10:00,GS,Jordan Poole,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,65,69,0.432,0.488,10:03
+3,9:03,GS,Draymond Green,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,69,72,0.489,0.517,9:03
+3,7:00,GS,Andrew Wiggins,Personal Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,75,77,0.535,0.539,7:17
+3,5:56,GS,Gary Payton II,Offensive Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,78,79,0.567,0.608,5:59
+3,5:29,LAL,D.J. Augustin,Personal Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,78,81,0.521,0.524,5:35
+3,2:42,GS,Jordan Poole,Loose Ball Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,83,81,0.602,0.666,2:42
+3,2:42,GS,Jordan Poole,Technical Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,83,81,0.635,0.602,2:42
+3,2:02,LAL,Wenyen Gabriel,Offensive Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,85,81,0.779,0.743,2:16
+4,10:34,LAL,Kent Bazemore,Personal Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,96,86,0.943,0.939,10:49
+4,10:04,GS,Nemanja Bjelica,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,96,86,0.886,0.928,10:06
+4,9:32,LAL,Wenyen Gabriel,Offensive Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,96,87,0.928,0.906,9:40
+4,8:30,GS,Otto Porter Jr.,Offensive Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,99,90,0.912,0.933,8:45
+4,7:19,GS,Gary Payton II,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,101,92,0.873,0.92,7:26
+4,3:50,GS,Draymond Green,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,113,99,0.988,0.996,3:52
+4,2:27,LAL,Malik Monk,Personal Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,115,103,0.997,0.995,2:52
+4,2:07,LAL,Stanley Johnson,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,117,103,0.999,0.999,2:10
+4,2:06,GS,Juan Toscano-Anderson,Personal Take Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,119,103,0.998,0.999,2:07
+4,1:52,LAL,D.J. Augustin,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,119,106,0.999,0.999,1:58
+4,1:12,GS,Jonathan Kuminga,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,124,106,0.999,0.999,1:23
+4,1:12,GS,Juan Toscano-Anderson,Loose Ball Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,124,106,0.999,0.999,1:12
+4,44.6,GS,Damion Lee,Shooting Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,126,110,0.999,0.999,44.6
+4,18.6,GS,Jonathan Kuminga,Personal Foul,Foul,Kane Fitzgerald,Michael Smith,Brandon Adair,GS,128,111,0.999,0.999,20.4

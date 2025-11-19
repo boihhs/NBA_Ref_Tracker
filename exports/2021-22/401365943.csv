@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,DEN,Michael Porter Jr.,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,0,2,0.498,0.46,11:12
+1,10:20,OKC,Derrick Favors,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,3,4,0.463,0.486,10:38
+1,9:44,OKC,Luguentz Dort,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,3,7,0.368,0.411,9:44
+1,9:24,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,3,8,0.363,0.36,9:28
+1,7:10,DEN,Nikola Jokic,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,10,16,0.358,0.359,7:17
+1,5:34,DEN,Will Barton,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,15,19,0.392,0.406,5:35
+1,5:27,OKC,Josh Giddey,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,16,19,0.407,0.406,5:34
+1,3:22,OKC,Isaiah Roby,Loose Ball Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,21,20,0.512,0.512,3:22
+1,2:53,DEN,Jeff Green,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,21,20,0.581,0.471,3:22
+1,2:30,DEN,Bones Hyland,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,23,20,0.635,0.593,2:37
+1,2:22,DEN,Jeff Green,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,24,20,0.623,0.597,2:30
+1,2:00,OKC,Theo Maledon,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,26,20,0.61,0.649,2:10
+1,1:27,OKC,Isaiah Roby,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,26,21,0.584,0.649,1:33
+1,1:20,DEN,Bones Hyland,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,26,23,0.637,0.594,1:27
+1,1:09,DEN,Michael Porter Jr.,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,27,23,0.664,0.599,1:20
+2,10:17,OKC,Tre Mann,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,34,26,0.71,0.71,10:28
+2,10:13,DEN,Jeff Green,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,34,26,0.737,0.71,10:17
+2,8:21,OKC,Derrick Favors,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,36,26,0.768,0.791,8:24
+2,6:57,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,39,28,0.778,0.817,6:57
+2,4:41,DEN,Michael Porter Jr.,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,41,36,0.715,0.672,4:51
+2,1:59,DEN,Nikola Jokic,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,48,44,0.696,0.649,2:16
+3,10:24,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,58,51,0.678,0.726,10:42
+3,10:04,OKC,Josh Giddey,Loose Ball Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,58,53,0.664,0.664,10:04
+3,8:58,DEN,Michael Porter Jr.,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,63,55,0.83,0.791,9:02
+3,8:02,DEN,Nikola Jokic,Loose Ball Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,67,57,0.848,0.848,8:02
+3,6:09,OKC,Luguentz Dort,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,72,57,0.931,0.931,6:21
+3,5:52,OKC,Luguentz Dort,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,72,59,0.902,0.919,5:52
+3,5:40,DEN,Bones Hyland,Loose Ball Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,72,59,0.918,0.918,5:47
+3,4:59,DEN,Jeff Green,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,74,59,0.949,0.935,5:15
+3,4:52,DEN,Jeff Green,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,74,59,0.963,0.949,4:59
+3,4:23,DEN,Facundo Campazzo,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,75,59,0.962,0.962,4:23
+3,2:55,DEN,Facundo Campazzo,Personal Take Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,77,61,0.978,0.968,2:57
+3,1:49,DEN,Bones Hyland,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,82,66,0.981,0.972,2:06
+3,1:37,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,82,66,0.949,0.964,1:45
+3,1:13,OKC,Jeremiah Robinson-Earl,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,82,67,0.939,0.957,1:17
+3,52.9,OKC,Theo Maledon,Defensive 3-Seconds Technical,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,84,69,0.963,0.959,1:00
+3,39.3,OKC,Theo Maledon,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,84,70,0.926,0.949,52.9
+4,9:49,OKC,Josh Giddey,Personal Take Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,86,79,0.805,0.815,9:49
+4,7:47,DEN,Nikola Jokic,Loose Ball Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,93,85,0.904,0.9,7:47
+4,7:37,OKC,Aleksej Pokusevski,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,93,87,0.797,0.838,7:37
+4,5:49,OKC,Aleksej Pokusevski,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,97,92,0.799,0.823,5:49
+4,3:31,OKC,Josh Giddey,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Phenizee Ransom,OKC,101,90,0.981,0.981,3:32

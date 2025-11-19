@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:41,MIA,Orlando Robinson,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,0,0,0.506,0.517,11:41
+1,11:25,CLE,Donovan Mitchell,Defensive 3-Seconds Technical,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,0,3,0.487,0.545,11:41
+1,9:38,MIA,Caleb Martin,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,4,5,0.479,0.513,9:42
+1,8:52,CLE,Darius Garland,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,4,6,0.514,0.515,8:52
+1,7:11,MIA,Orlando Robinson,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,6,8,0.486,0.485,7:25
+1,6:59,CLE,Darius Garland,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,6,8,0.512,0.512,6:59
+1,6:39,CLE,Darius Garland,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,6,8,0.511,0.511,6:43
+1,6:35,CLE,Sam Merrill,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,6,8,0.549,0.511,6:39
+1,5:39,CLE,Sam Merrill,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,8,12,0.496,0.454,5:46
+1,3:43,CLE,Damian Jones,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,14,12,0.632,0.612,3:43
+2,11:40,CLE,Darius Garland,Loose Ball Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,25,17,0.765,0.766,11:40
+2,11:11,CLE,Isaac Okoro,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,27,19,0.78,0.743,11:11
+2,10:58,MIA,Josh Richardson,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,28,19,0.764,0.765,11:11
+2,8:41,MIA,Duncan Robinson,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,39,23,0.896,0.895,8:57
+2,8:33,MIA,Caleb Martin,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,39,23,0.875,0.896,8:41
+2,4:15,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,42,40,0.559,0.614,4:15
+2,2:21,MIA,Kevin Love,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,47,44,0.565,0.614,2:21
+2,56.0,MIA,Caleb Martin,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,50,51,0.427,0.479,1:08
+3,10:49,MIA,Duncan Robinson,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,52,59,0.223,0.262,10:50
+3,10:40,MIA,Duncan Robinson,Offensive Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,52,61,0.208,0.238,10:49
+3,9:37,CLE,Dean Wade,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,52,66,0.112,0.113,9:42
+3,9:24,CLE,Max Strus,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,52,66,0.14,0.112,9:37
+3,7:38,CLE,Max Strus,Loose Ball Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,55,69,0.098,0.099,7:38
+3,5:50,CLE,Max Strus,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,59,74,0.095,0.104,5:50
+3,5:32,MIA,Orlando Robinson,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,63,74,0.124,0.071,5:50
+3,5:27,MIA,Josh Richardson,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,63,74,0.124,0.124,5:32
+3,4:37,CLE,Georges Niang,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,63,74,0.18,0.141,4:37
+3,3:49,MIA,Kevin Love,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,64,77,0.054,0.076,3:57
+3,2:52,MIA,Josh Richardson,Flopping Technical,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,66,79,0.068,0.071,3:12
+4,9:20,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,80,93,0.028,0.032,9:38
+4,8:56,CLE,Jarrett Allen,Loose Ball Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,80,95,0.022,0.019,8:56
+4,8:56,MIA,Josh Richardson,Double Technical Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,80,95,0.015,0.022,8:56
+4,8:23,CLE,Jarrett Allen,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,83,98,0.026,0.018,8:31
+4,7:16,MIA,Caleb Martin,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,85,98,0.011,0.02,7:21
+4,5:34,MIA,Kevin Love,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,88,98,0.019,0.037,5:45
+4,5:23,MIA,Jimmy Butler III,Shooting Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,88,102,0.004,0.01,5:23
+4,3:49,MIA,Caleb Martin,Loose Ball Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,93,103,0.008,0.016,3:49
+4,41.0,MIA,Jaime Jaquez Jr.,Personal Take Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,97,108,0.001,0.001,43.0
+4,32.1,MIA,Kyle Lowry,Personal Take Foul,Foul,Tom Washington,Karl Lane,Matt Myers,MIA,99,110,0.001,0.001,35.1

@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:32,DET,Troy Brown Jr.,Defensive 3-Seconds Technical,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,0,2,0.782,0.789,10:41
+1,9:39,DET,James Wiseman,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,3,5,0.808,0.784,9:46
+1,6:14,DET,Jared Rhoden,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,8,18,0.572,0.576,6:17
+1,5:15,DET,James Wiseman,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,10,21,0.554,0.504,5:15
+1,4:04,BKN,Trendon Watford,Offensive Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,14,23,0.548,0.578,4:15
+1,3:42,DET,Jared Rhoden,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,14,26,0.53,0.489,3:53
+1,1:35,BKN,Trendon Watford,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,18,32,0.323,0.369,1:38
+1,1:29,DET,Jaylen Nowell,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,18,33,0.415,0.37,1:35
+2,11:12,DET,Malachi Flynn,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,23,38,0.383,0.331,11:19
+2,6:06,BKN,Dorian Finney-Smith,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,31,46,0.239,0.243,6:17
+2,5:07,DET,Chimezie Metu,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,34,46,0.35,0.352,5:12
+2,4:49,BKN,Dennis Schroder,Personal Take Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,34,46,0.314,0.314,4:52
+2,1:51,BKN,Mikal Bridges,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,42,51,0.32,0.376,2:15
+2,1:32,DET,James Wiseman,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,42,53,0.385,0.339,1:44
+3,11:19,DET,James Wiseman,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,46,57,0.302,0.307,11:25
+3,9:29,BKN,Nic Claxton,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,50,62,0.169,0.212,9:32
+3,8:59,BKN,Mikal Bridges,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,50,63,0.176,0.176,9:08
+3,7:20,DET,Chimezie Metu,Loose Ball Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,54,71,0.09,0.089,7:20
+3,7:08,DET,Troy Brown Jr.,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,54,71,0.117,0.088,7:10
+3,6:50,DET,Troy Brown Jr.,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,55,71,0.135,0.105,6:57
+3,4:49,DET,Jared Rhoden,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,66,75,0.304,0.238,4:49
+3,4:25,DET,Jared Rhoden,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,67,75,0.369,0.307,4:25
+3,3:52,DET,Malachi Flynn,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,68,78,0.28,0.228,4:11
+3,1:53,BKN,Trendon Watford,Loose Ball Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,69,80,0.095,0.129,1:53
+3,1:15,DET,Taj Gibson,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,69,83,0.113,0.079,1:15
+4,9:36,DET,Malachi Flynn,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,79,91,0.078,0.073,9:42
+4,8:38,DET,Malachi Flynn,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,82,96,0.062,0.036,8:56
+4,8:16,BKN,Dorian Finney-Smith,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,84,96,0.042,0.049,8:38
+4,5:20,DET,Buddy Boeheim,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,93,101,0.191,0.115,5:29
+4,4:51,DET,Jared Rhoden,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,94,103,0.135,0.082,5:07
+4,3:52,DET,James Wiseman,Offensive Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,99,103,0.299,0.235,3:52
+4,3:20,BKN,Jalen Wilson,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,101,103,0.343,0.362,3:38
+4,2:13,DET,Jaden Ivey,Shooting Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,104,103,0.796,0.673,2:26
+4,25.0,DET,Marcus Sasser,Personal Foul,Foul,Tony Brothers,Michael Smith,Nick Buchert,BKN,111,103,0.998,0.996,31.1

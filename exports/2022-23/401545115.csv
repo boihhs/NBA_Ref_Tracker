@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:08,PHI,James Harden,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,0,3,0.562,0.562,11:19
+1,9:07,PHI,P.J. Tucker,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,6,5,0.652,0.655,9:16
+1,8:24,BOS,Jaylen Brown,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,8,7,0.608,0.652,8:24
+1,6:52,BOS,Jayson Tatum,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,10,13,0.479,0.519,6:59
+1,2:30,PHI,Joel Embiid,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,19,24,0.517,0.474,2:36
+1,4.1,PHI,Tobias Harris,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,26,33,0.447,0.406,8.1
+2,10:14,PHI,Paul Reed,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,26,40,0.245,0.258,10:29
+2,9:23,PHI,Georges Niang,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,27,42,0.218,0.183,9:28
+2,8:45,PHI,James Harden,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,28,42,0.237,0.201,9:02
+2,7:09,PHI,Tobias Harris,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,33,42,0.363,0.32,7:13
+2,6:50,PHI,P.J. Tucker,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,34,42,0.393,0.345,6:52
+2,6:50,PHI,PHI,Technical Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,34,42,0.293,0.393,6:50
+2,5:32,BOS,Grant Williams,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,39,44,0.353,0.403,5:48
+2,4:59,BOS,Grant Williams,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,39,46,0.291,0.335,5:17
+2,4:28,BOS,Jaylen Brown,Offensive Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,39,48,0.275,0.302,4:33
+2,2:25,BOS,Al Horford,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,41,51,0.193,0.234,2:40
+2,1:55,BOS,Al Horford,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,41,53,0.145,0.179,2:05
+2,1:28,BOS,Derrick White,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,44,55,0.163,0.2,1:46
+2,1:11,PHI,De'Anthony Melton,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,44,56,0.238,0.198,1:28
+2,44.0,PHI,Tobias Harris,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,46,58,0.235,0.194,51.0
+2,26.1,PHI,Tyrese Maxey,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,47,58,0.26,0.221,28.1
+3,10:23,BOS,Marcus Smart,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,51,60,0.189,0.23,10:44
+3,9:20,PHI,Joel Embiid,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,51,65,0.156,0.123,9:21
+3,8:14,PHI,Tobias Harris,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,55,69,0.114,0.115,8:15
+3,8:05,PHI,P.J. Tucker,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,55,69,0.112,0.114,8:14
+3,6:33,BOS,Jayson Tatum,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,57,69,0.093,0.123,6:51
+3,5:24,BOS,Robert Williams III,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,59,71,0.085,0.114,5:44
+3,2:44,BOS,Jaylen Brown,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,64,80,0.024,0.038,3:04
+3,1:41,PHI,Tyrese Maxey,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,66,84,0.036,0.024,1:50
+3,1:35,PHI,De'Anthony Melton,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,68,84,0.047,0.028,1:35
+4,11:42,PHI,De'Anthony Melton,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,72,88,0.029,0.025,12:00
+4,11:34,PHI,Danuel House Jr.,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,72,88,0.047,0.029,11:42
+4,9:44,PHI,Danuel House Jr.,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,80,92,0.088,0.05,9:44
+4,9:16,PHI,Tobias Harris,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,81,95,0.061,0.037,9:24
+4,7:06,PHI,Danuel House Jr.,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,83,102,0.006,0.003,7:06
+4,6:06,PHI,P.J. Tucker,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,88,104,0.016,0.008,6:06
+4,5:23,BOS,Jaylen Brown,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,89,104,0.003,0.007,5:35
+4,4:59,BOS,Robert Williams III,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,89,105,0.002,0.003,4:59
+4,4:11,PHI,Joel Embiid,Shooting Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,91,110,0.001,0.001,4:29
+4,1:27,BOS,Luke Kornet,Personal Foul,Foul,Josh Tiven,Marc Davis,Tyler Ford,BOS,101,113,0.001,0.001,1:28

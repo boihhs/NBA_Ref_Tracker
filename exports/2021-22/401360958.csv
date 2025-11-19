@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:33,MIA,Bam Adebayo,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,3,8,0.662,0.628,9:48
+1,8:25,MIA,Max Strus,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,5,10,0.617,0.619,8:27
+1,4:03,BOS,Derrick White,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,17,19,0.623,0.668,4:03
+1,3:55,MIA,Kyle Lowry,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,17,20,0.64,0.64,4:03
+1,2:36,BOS,Marcus Smart,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,22,22,0.646,0.684,2:46
+1,1:25,BOS,Derrick White,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,22,22,0.639,0.68,1:38
+1,1:20,MIA,Dewayne Dedmon,Offensive Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,22,22,0.702,0.639,1:25
+1,35.9,MIA,Duncan Robinson,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,26,22,0.799,0.769,35.9
+1,6.2,MIA,Gabe Vincent,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,29,22,0.851,0.822,6.2
+2,11:52,MIA,Duncan Robinson,Offensive Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,29,25,0.787,0.774,12:00
+2,11:39,MIA,Dewayne Dedmon,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,29,25,0.812,0.787,11:52
+2,11:04,MIA,Dewayne Dedmon,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,30,25,0.803,0.804,11:14
+2,9:18,MIA,Gabe Vincent,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,30,27,0.756,0.758,9:35
+2,6:58,MIA,Tyler Herro,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,37,34,0.766,0.725,6:58
+2,5:09,BOS,Grant Williams,Offensive Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,43,39,0.746,0.769,5:20
+2,4:27,MIA,Tyler Herro,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,43,42,0.731,0.689,4:45
+2,1:19,MIA,Bam Adebayo,Loose Ball Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,51,47,0.799,0.763,1:19
+2,1:07,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,52,47,0.722,0.761,1:19
+2,35.0,BOS,Jayson Tatum,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,52,49,0.659,0.711,52.7
+2,35.0,BOS,Jayson Tatum,Technical Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,52,50,0.651,0.651,35.0
+2,7.8,BOS,Al Horford,Loose Ball Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,52,52,0.559,0.61,7.8
+3,7:30,BOS,Jaylen Brown,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,58,69,0.183,0.182,7:33
+3,6:43,MIA,Bam Adebayo,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,61,69,0.359,0.302,6:45
+3,6:26,BOS,Derrick White,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,63,69,0.336,0.336,6:43
+3,5:34,MIA,P.J. Tucker,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,68,69,0.603,0.531,5:34
+3,5:34,MIA,Max Strus,Technical Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,68,69,0.604,0.603,5:34
+3,5:00,BOS,Marcus Smart,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,70,69,0.61,0.61,5:04
+3,4:40,MIA,Kyle Lowry,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,70,69,0.704,0.651,4:51
+3,4:20,MIA,Kyle Lowry,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,73,69,0.779,0.721,4:20
+3,2:58,BOS,Marcus Smart,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,74,74,0.488,0.558,3:03
+3,2:34,MIA,Dewayne Dedmon,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,74,76,0.577,0.512,2:52
+3,53.0,BOS,Jayson Tatum,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,79,78,0.519,0.592,1:04
+4,11:19,MIA,Jimmy Butler III,Personal Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,83,79,0.778,0.769,11:26
+4,10:58,BOS,Grant Williams,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,83,79,0.682,0.728,11:08
+4,9:49,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,83,83,0.424,0.524,10:01
+4,9:15,MIA,Dewayne Dedmon,Offensive Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,83,83,0.571,0.509,9:23
+4,7:43,MIA,Dewayne Dedmon,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,89,85,0.819,0.728,7:43
+4,7:00,MIA,Kyle Lowry,Loose Ball Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,90,88,0.706,0.627,7:08
+4,5:10,MIA,Jimmy Butler III,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,92,93,0.624,0.506,5:32
+4,4:58,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,93,93,0.382,0.516,5:10
+4,3:34,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,96,97,0.289,0.699,7:00
+4,3:22,BOS,Marcus Smart,Offensive Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,96,98,0.319,0.402,3:34
+4,27.1,BOS,Marcus Smart,Personal Take Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,98,102,0.031,0.156,33.6
+4,10.8,BOS,Derrick White,Personal Take Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,98,103,0.003,0.031,19.5
+4,10.8,BOS,Marcus Smart,Technical Foul,Foul,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,BOS,98,104,0.002,0.016,10.8

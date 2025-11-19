@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:20,DET,Cade Cunningham,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,0,0,0.896,0.896,11:29
+1,11:00,DET,Cade Cunningham,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,3,0,0.931,0.92,11:05
+1,10:07,BOS,Derrick White,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,4,0,0.918,0.918,10:15
+1,7:33,DET,Saddiq Bey,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,9,9,0.895,0.881,7:45
+1,5:34,BOS,Grant Williams,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,17,17,0.837,0.859,5:45
+1,5:17,DET,Jerami Grant,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,17,19,0.862,0.903,8:13
+1,2:38,DET,Hamidou Diallo,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,21,21,0.875,0.856,2:54
+1,2:19,BOS,Payton Pritchard,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,22,21,0.854,0.854,2:38
+2,9:11,DET,Killian Hayes,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,31,31,0.848,0.825,9:22
+2,8:44,DET,Killian Hayes,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,33,33,0.845,0.822,8:52
+2,7:39,BOS,Grant Williams,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,37,35,0.818,0.848,7:39
+2,5:44,DET,Killian Hayes,Loose Ball Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,39,37,0.838,0.821,5:54
+2,4:38,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,43,39,0.822,0.85,4:49
+2,2:49,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,45,45,0.755,0.754,2:52
+2,2:01,BOS,Grant Williams,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,47,45,0.761,0.798,2:18
+2,1:45,DET,Isaiah Stewart,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,47,46,0.827,0.797,2:01
+2,42.9,BOS,Aaron Nesmith,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,52,46,0.838,0.866,51.0
+3,10:14,DET,Cory Joseph,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,54,53,0.789,0.745,10:14
+3,8:22,DET,Jerami Grant,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,61,58,0.827,0.785,8:22
+3,5:52,BOS,Derrick White,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,67,69,0.594,0.596,6:05
+3,3:57,DET,Isaiah Stewart,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,72,74,0.609,0.616,4:14
+3,3:09,DET,Cade Cunningham,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,76,74,0.802,0.755,3:17
+3,2:24,BOS,Aaron Nesmith,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,77,76,0.675,0.676,2:35
+3,1:07,BOS,Daniel Theis,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,79,78,0.632,0.664,1:07
+3,45.9,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,81,80,0.591,0.661,54.8
+4,7:43,BOS,Al Horford,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,94,92,0.655,0.67,7:43
+4,7:12,BOS,Grant Williams,Personal Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,96,92,0.754,0.766,7:25
+4,5:13,DET,Isaiah Stewart,Personal Take Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,102,96,0.9,0.897,5:14
+4,5:00,DET,Cory Joseph,Shooting Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,102,96,0.941,0.9,5:13
+4,6.9,DET,Cade Cunningham,Personal Take Foul,Foul,John Goble,Tom Washington,Evan Scott,BOS,111,112,0.715,0.219,6.9

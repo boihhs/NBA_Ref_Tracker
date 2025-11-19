@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,CHI,Ayo Dosunmu,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,0,0,0.68,0.715,12:00
+1,11:05,POR,Kris Murray,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,0,2,0.687,0.688,11:13
+1,10:22,POR,Kris Murray,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,2,2,0.726,0.728,10:33
+1,8:39,POR,Deandre Ayton,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,7,6,0.768,0.74,8:47
+1,8:35,CHI,Alex Caruso,Personal Take Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,8,6,0.74,0.739,8:37
+1,8:16,POR,Toumani Camara,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,8,8,0.748,0.719,8:21
+1,8:10,POR,Toumani Camara,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,8,8,0.747,0.748,8:16
+1,2:53,POR,Deandre Ayton,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,22,23,0.69,0.646,2:53
+1,2:24,CHI,Andre Drummond,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,23,23,0.631,0.671,2:33
+1,37.1,POR,Jabari Walker,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,25,27,0.675,0.634,39.1
+2,10:23,POR,Duop Reath,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,34,27,0.83,0.832,10:31
+2,10:06,POR,Duop Reath,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,34,27,0.829,0.831,10:10
+2,9:48,CHI,Alex Caruso,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,34,27,0.781,0.811,9:52
+2,8:19,CHI,Dalen Terry,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,39,29,0.861,0.862,8:27
+2,8:05,CHI,Dalen Terry,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,39,31,0.815,0.846,8:05
+2,6:31,POR,Toumani Camara,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,39,34,0.786,0.787,6:38
+2,5:49,CHI,Nikola Vucevic,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,39,36,0.674,0.713,6:03
+2,3:57,POR,Jabari Walker,Loose Ball Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,43,38,0.816,0.784,3:57
+2,1:28,CHI,Dalen Terry,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,52,47,0.734,0.782,1:28
+2,59.1,CHI,Ayo Dosunmu,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,52,47,0.715,0.755,1:08
+3,10:58,POR,Scoot Henderson,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,57,51,0.839,0.808,11:14
+3,9:35,CHI,Torrey Craig,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,62,53,0.85,0.851,9:41
+3,9:10,CHI,Torrey Craig,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,62,55,0.806,0.806,9:16
+3,5:57,POR,Anfernee Simons,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,74,62,0.938,0.915,5:57
+3,4:37,CHI,Nikola Vucevic,Offensive Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,77,64,0.933,0.946,4:50
+3,4:00,CHI,Onuralp Bitim,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,77,64,0.913,0.935,4:02
+3,3:04,CHI,Jevon Carter,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,82,66,0.956,0.968,3:15
+3,1:19,CHI,Onuralp Bitim,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,82,70,0.921,0.934,1:19
+3,1:02,POR,Deandre Ayton,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,82,71,0.954,0.934,1:19
+3,34.2,POR,Kris Murray,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,84,73,0.956,0.937,36.0
+4,11:47,CHI,Dalen Terry,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,89,75,0.944,0.967,12:00
+4,10:22,CHI,Alex Caruso,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,92,82,0.868,0.914,10:25
+4,10:14,POR,Scoot Henderson,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,92,83,0.918,0.912,10:22
+4,9:17,POR,Duop Reath,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,94,85,0.939,0.921,9:17
+4,7:29,CHI,Nikola Vucevic,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,100,91,0.906,0.912,7:44
+4,6:35,POR,Dalano Banton,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,100,96,0.8,0.782,6:46
+4,6:12,POR,Scoot Henderson,Offensive Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,100,96,0.795,0.741,6:27
+4,5:15,CHI,Alex Caruso,Personal Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,100,98,0.507,0.628,5:15
+4,3:00,POR,Jabari Walker,Loose Ball Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,102,103,0.599,0.456,3:00
+4,2:35,CHI,Andre Drummond,Loose Ball Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,102,103,0.263,0.38,2:35
+4,2:28,POR,Dalano Banton,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,104,105,0.536,0.378,2:28
+4,49.0,POR,Anfernee Simons,Shooting Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,105,105,0.714,0.546,51.0
+4,7.1,CHI,Alex Caruso,Personal Take Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,108,105,0.718,0.847,9.1
+4,6.1,POR,Dalano Banton,Personal Take Foul,Foul,Scott Wall,Sean Corbin,Karl Lane,CHI,108,107,0.92,0.789,7.1

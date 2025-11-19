@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,SAC,Keegan Murray,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,2,0,0.73,0.731,11:34
+1,10:35,SAC,Harrison Barnes,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,5,4,0.692,0.726,10:35
+1,9:29,SAC,Keegan Murray,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,7,6,0.67,0.703,9:38
+1,6:56,SAC,Kessler Edwards,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,14,12,0.682,0.715,7:16
+1,4:21,SAC,Kessler Edwards,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,20,18,0.672,0.707,4:31
+1,2:48,SAC,Chimezie Metu,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,22,24,0.558,0.602,3:03
+1,58.1,PHX,Devin Booker,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,24,28,0.604,0.56,1:03
+2,10:41,SAC,De'Aaron Fox,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,26,34,0.398,0.397,10:45
+2,9:37,PHX,Landry Shamet,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,29,36,0.498,0.454,9:46
+2,8:36,PHX,Jock Landale,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,31,40,0.428,0.383,8:50
+2,2:20,PHX,Terrence Ross,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,47,59,0.238,0.241,2:26
+2,1:20,SAC,Keegan Murray,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,51,64,0.16,0.201,1:20
+2,1:09,PHX,Jock Landale,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,51,65,0.214,0.178,1:20
+3,10:34,SAC,Kevin Huerter,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,61,70,0.261,0.262,10:55
+3,10:07,SAC,Domantas Sabonis,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,61,70,0.214,0.254,10:08
+3,10:00,PHX,Josh Okogie,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,61,72,0.272,0.226,10:07
+3,8:35,PHX,Devin Booker,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,65,74,0.273,0.276,8:38
+3,8:35,PHX,Devin Booker,Technical Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,65,74,0.3,0.273,8:35
+3,8:20,SAC,De'Aaron Fox,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,68,74,0.34,0.341,8:28
+3,8:08,SAC,De'Aaron Fox,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,68,74,0.287,0.34,8:20
+3,8:08,PHX,Torrey Craig,Loose Ball Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,68,74,0.378,0.379,8:08
+3,7:41,PHX,Chris Paul,Transition Take Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,70,74,0.453,0.453,7:43
+3,7:41,PHX,Chris Paul,Technical Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,70,74,0.48,0.453,7:41
+3,7:16,SAC,Kevin Huerter,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,72,74,0.429,0.49,7:41
+3,7:04,PHX,Torrey Craig,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,72,76,0.505,0.449,7:16
+3,6:43,PHX,Devin Booker,Offensive Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,74,76,0.522,0.484,7:04
+3,5:49,SAC,Davion Mitchell,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,79,76,0.616,0.674,6:01
+3,3:36,SAC,Domantas Sabonis,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,91,81,0.866,0.903,3:36
+3,3:10,PHX,T.J. Warren,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,91,82,0.913,0.888,3:10
+3,2:47,PHX,Bismack Biyombo,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,92,85,0.878,0.841,2:56
+3,29.1,PHX,Cameron Payne,Offensive Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,101,93,0.878,0.851,36.1
+4,10:49,SAC,Davion Mitchell,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,103,95,0.832,0.892,10:49
+4,10:26,SAC,Malik Monk,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,103,95,0.802,0.862,10:28
+4,10:26,SAC,Davion Mitchell,Loose Ball Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,103,96,0.813,0.827,10:26
+4,9:32,PHX,Josh Okogie,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,105,98,0.905,0.86,9:38
+4,9:01,PHX,Terrence Ross,Transition Take Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,109,100,0.918,0.918,9:02
+4,8:43,PHX,T.J. Warren,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,110,100,0.962,0.917,9:01
+4,8:25,SAC,Chimezie Metu,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,112,100,0.928,0.954,8:43
+4,7:46,SAC,Keegan Murray,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,114,104,0.907,0.944,7:46
+4,6:47,PHX,Jock Landale,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,117,107,0.972,0.949,7:11
+4,6:33,SAC,Domantas Sabonis,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,119,109,0.946,0.956,6:33
+4,4:26,PHX,Terrence Ross,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,121,115,0.934,0.883,4:44
+4,1:56,SAC,Domantas Sabonis,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,127,122,0.816,0.912,1:56
+4,1:40,PHX,T.J. Warren,Personal Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,127,123,0.93,0.862,1:56
+4,1:12,PHX,Devin Booker,Loose Ball Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,127,123,0.939,0.878,1:12
+4,59.0,SAC,Kessler Edwards,Shooting Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,129,123,0.846,0.92,1:12
+4,7.1,PHX,T.J. Warren,Personal Take Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,131,127,0.992,0.961,24.1
+4,4.1,PHX,T.J. Warren,Personal Take Foul,Foul,Ed Malloy,Sean Corbin,Andy Nagy,SAC,133,127,0.998,0.997,6.1

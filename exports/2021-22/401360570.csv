@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:05,ATL,John Collins,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,2,0,0.709,0.74,11:17
+1,9:31,ATL,De'Andre Hunter,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,4,7,0.624,0.623,9:45
+1,7:49,LAL,Russell Westbrook,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,8,15,0.522,0.535,8:00
+1,7:45,LAL,Malik Monk,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,10,15,0.586,0.559,7:45
+1,6:41,LAL,Avery Bradley,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,15,19,0.605,0.606,6:47
+1,5:20,LAL,Stanley Johnson,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,17,22,0.591,0.57,5:20
+1,4:29,LAL,Anthony Davis,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,18,24,0.579,0.54,4:43
+1,3:32,ATL,De'Andre Hunter,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,23,24,0.638,0.639,3:41
+1,2:20,LAL,Austin Reaves,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,25,27,0.672,0.634,2:25
+1,36.7,ATL,Danilo Gallinari,Personal Take Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,31,31,0.61,0.653,37.3
+2,11:19,LAL,Austin Reaves,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,36,33,0.746,0.748,11:27
+2,9:26,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,43,39,0.722,0.74,9:26
+2,9:14,LAL,Carmelo Anthony,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,43,39,0.763,0.764,9:24
+2,8:15,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,45,41,0.738,0.738,8:34
+2,7:50,LAL,Dwight Howard,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,45,43,0.747,0.713,8:01
+2,7:08,ATL,Delon Wright,Personal Take Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,47,46,0.657,0.657,7:09
+2,6:48,LAL,Kent Bazemore,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,47,46,0.722,0.683,6:53
+2,5:17,ATL,John Collins,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,51,48,0.662,0.705,5:39
+2,3:35,LAL,Avery Bradley,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,53,54,0.658,0.613,3:45
+2,3:08,ATL,Clint Capela,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,56,54,0.623,0.701,3:17
+2,2:48,ATL,John Collins,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,56,58,0.514,0.576,2:48
+2,2:48,ATL,Trae Young,Technical Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,56,58,0.514,0.514,2:48
+2,2:42,LAL,Avery Bradley,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,56,59,0.592,0.539,2:46
+2,1:40,ATL,Kevin Huerter,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,60,63,0.446,0.497,1:41
+3,9:30,LAL,Malik Monk,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,68,77,0.339,0.284,9:34
+3,9:06,LAL,Avery Bradley,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,71,79,0.345,0.283,9:06
+3,8:02,LAL,Anthony Davis,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,73,79,0.436,0.382,8:13
+3,7:11,LAL,Anthony Davis,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,74,79,0.438,0.409,7:11
+3,7:01,ATL,Kevin Huerter,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,75,79,0.408,0.41,7:11
+3,5:49,ATL,Trae Young,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,81,79,0.64,0.641,6:06
+3,4:07,ATL,Kevin Huerter,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,87,85,0.574,0.637,4:27
+3,3:55,LAL,Stanley Johnson,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,87,87,0.656,0.595,4:07
+3,3:49,ATL,De'Andre Hunter,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,88,87,0.529,0.594,3:53
+3,3:32,ATL,Trae Young,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,88,92,0.343,0.42,3:32
+3,2:19,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,90,95,0.256,0.318,2:19
+3,2:17,LAL,Carmelo Anthony,Double Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,90,95,0.431,0.355,2:17
+3,1:11,ATL,Lou Williams,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,90,97,0.171,0.227,1:31
+3,4.5,LAL,Carmelo Anthony,Technical Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,90,101,0.113,0.113,4.6
+4,9:30,LAL,Malik Monk,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,95,104,0.202,0.137,9:33
+4,8:51,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,100,104,0.216,0.299,9:11
+4,8:23,ATL,Onyeka Okongwu,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,102,105,0.247,0.34,8:38
+4,3:58,LAL,Avery Bradley,Personal Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,116,113,0.776,0.761,4:11
+4,2:52,LAL,Stanley Johnson,Defensive 3-Seconds Technical,Foul,Tony Brothers,Karl Lane,John Butler,ATL,118,116,0.699,0.716,3:02
+4,1:33,LAL,Malik Monk,Shooting Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,121,121,0.726,0.55,1:52
+4,25.2,LAL,Avery Bradley,Personal Take Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,125,121,0.975,0.922,35.9
+4,17.1,LAL,Austin Reaves,Personal Take Foul,Foul,Tony Brothers,Karl Lane,John Butler,ATL,127,121,0.997,0.989,17.1

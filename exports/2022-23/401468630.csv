@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,SAC,De'Aaron Fox,Personal Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,3,5,0.683,0.684,10:23
+1,9:56,LAL,Thomas Bryant,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,3,7,0.691,0.66,10:02
+1,9:09,SAC,Kevin Huerter,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,7,7,0.688,0.72,9:16
+1,7:26,LAL,Dennis Schroder,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,10,11,0.728,0.713,7:32
+1,5:32,LAL,Troy Brown Jr.,Personal Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,12,13,0.702,0.705,5:39
+1,4:15,LAL,Max Christie,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,15,16,0.73,0.698,4:20
+1,3:49,LAL,Wenyen Gabriel,Personal Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,17,18,0.729,0.695,4:01
+1,3:39,SAC,Keegan Murray,Personal Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,19,18,0.718,0.717,3:49
+1,2:11,LAL,Troy Brown Jr.,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,21,22,0.704,0.66,2:11
+1,1:30,LAL,Wenyen Gabriel,Offensive Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,23,22,0.733,0.708,1:42
+1,1:14,SAC,Neemias Queta,Personal Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,23,22,0.667,0.706,1:14
+1,53.0,LAL,Wenyen Gabriel,Offensive Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,25,22,0.768,0.751,57.1
+1,20.0,SAC,Terence Davis,Personal Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,25,22,0.715,0.75,28.1
+1,5.0,SAC,Malik Monk,Offensive Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,25,24,0.702,0.729,20.0
+1,2.1,SAC,Davion Mitchell,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,25,24,0.664,0.702,5.0
+2,9:11,SAC,Terence Davis,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,34,32,0.695,0.739,9:11
+2,8:01,SAC,Neemias Queta,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,38,36,0.67,0.711,8:14
+2,7:32,SAC,Davion Mitchell,Personal Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,41,38,0.734,0.732,7:45
+2,5:39,LAL,Dennis Schroder,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,48,44,0.791,0.75,5:39
+2,5:27,SAC,Domantas Sabonis,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,48,44,0.714,0.751,5:37
+2,5:02,LAL,Dennis Schroder,Personal Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,48,45,0.751,0.752,5:02
+2,4:47,LAL,Patrick Beverley,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,48,45,0.784,0.751,5:02
+2,2:43,LAL,Thomas Bryant,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,54,50,0.802,0.769,2:50
+2,2:11,LAL,Lonnie Walker IV,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,56,50,0.843,0.812,2:19
+2,33.1,LAL,Max Christie,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,64,56,0.88,0.851,38.1
+3,11:28,SAC,Domantas Sabonis,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,68,60,0.818,0.855,11:28
+3,10:33,SAC,Keegan Murray,Personal Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,73,64,0.856,0.856,10:45
+3,7:53,LAL,Patrick Beverley,Offensive Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,77,67,0.897,0.879,7:56
+3,6:54,LAL,Dennis Schroder,Personal Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,79,71,0.86,0.861,7:02
+3,5:51,LAL,Thomas Bryant,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,84,74,0.913,0.884,5:51
+3,5:15,SAC,De'Aaron Fox,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,86,77,0.83,0.844,5:15
+3,2:07,LAL,Lonnie Walker IV,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,100,81,0.994,0.99,2:19
+3,48.1,SAC,Terence Davis,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,104,83,0.992,0.995,50.1
+3,9.1,SAC,De'Aaron Fox,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,106,84,0.995,0.996,9.1
+4,11:48,SAC,Neemias Queta,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,106,86,0.989,0.994,12:00
+4,10:07,LAL,Wenyen Gabriel,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,110,91,0.998,0.995,10:18
+4,9:52,SAC,Malik Monk,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,110,93,0.985,0.992,9:52
+4,8:29,SAC,De'Aaron Fox,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,112,96,0.983,0.989,8:29
+4,7:38,LAL,Wenyen Gabriel,Flagrant Foul Type 1,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,115,100,0.99,0.991,7:38
+4,7:38,LAL,LAL,Technical Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,115,100,0.993,0.99,7:38
+4,4:44,LAL,Thomas Bryant,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,123,106,0.999,0.998,4:58
+4,4:08,SAC,Domantas Sabonis,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,124,106,0.998,0.999,4:15
+4,3:09,SAC,Kevin Huerter,Clear Path Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,126,110,0.997,0.999,3:09
+4,3:09,SAC,De'Aaron Fox,Technical Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,126,110,0.998,0.997,3:09
+4,3:09,SAC,De'Aaron Fox,Technical Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,126,110,0.998,0.998,3:09
+4,1:03,SAC,Terence Davis,Shooting Foul,Foul,James Williams,Nick Buchert,Justin Van Duyne,SAC,134,112,0.999,0.999,1:11

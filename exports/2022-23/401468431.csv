@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:19,BKN,Kevin Durant,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,6,8,0.443,0.406,9:23
+1,7:39,BKN,Nic Claxton,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,10,12,0.445,0.407,7:55
+1,7:23,BKN,Ben Simmons,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,12,12,0.498,0.458,7:27
+1,7:11,IND,Buddy Hield,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,14,12,0.485,0.484,7:23
+1,6:41,IND,Jalen Smith,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,14,14,0.396,0.433,6:47
+1,4:14,BKN,Markieff Morris,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,18,22,0.397,0.357,4:16
+1,3:35,BKN,Markieff Morris,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,21,25,0.397,0.357,3:39
+1,1:21,BKN,Kyrie Irving,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,22,29,0.319,0.283,1:29
+2,11:12,BKN,Patty Mills,Offensive Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,25,35,0.21,0.192,11:16
+2,8:40,IND,Oshae Brissett,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,31,42,0.154,0.185,8:40
+2,6:38,IND,Buddy Hield,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,38,47,0.202,0.203,6:55
+2,6:21,BKN,Seth Curry,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,38,47,0.225,0.223,6:30
+2,4:47,BKN,Kyrie Irving,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,47,52,0.325,0.325,4:57
+2,2:07,IND,Jalen Smith,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,53,57,0.322,0.321,2:15
+2,35.0,BKN,Royce O'Neale,Offensive Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,57,65,0.233,0.208,46.7
+3,8:36,BKN,Kyrie Irving,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,68,72,0.343,0.347,8:53
+3,7:24,BKN,Nic Claxton,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,72,77,0.361,0.306,7:39
+3,7:02,BKN,Ben Simmons,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,74,79,0.304,0.305,7:11
+3,5:54,BKN,Ben Simmons,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,76,79,0.438,0.377,6:00
+3,4:46,BKN,Nic Claxton,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,77,81,0.395,0.333,4:56
+3,3:52,BKN,Kevin Durant,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,79,83,0.394,0.33,3:52
+3,3:39,IND,Jalen Smith,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,81,85,0.264,0.329,3:39
+3,3:18,IND,James Johnson,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,81,86,0.254,0.254,3:28
+3,1:31,IND,Isaiah Jackson,Offensive Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,84,92,0.146,0.176,1:43
+3,1:31,IND,IND,Technical Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,84,92,0.127,0.146,1:31
+3,38.2,BKN,Joe Harris,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,84,94,0.155,0.117,51.8
+3,6.8,BKN,Seth Curry,Offensive Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,88,94,0.236,0.197,11.1
+3,4.3,BKN,Nic Claxton,Double Technical Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,88,94,0.226,0.25,2:42
+4,11:35,BKN,Joe Harris,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,90,94,0.366,0.267,11:35
+4,10:46,BKN,Joe Harris,Personal Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,91,94,0.383,0.368,10:52
+4,10:24,IND,James Johnson,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,93,94,0.331,0.419,10:39
+4,9:37,BKN,Ben Simmons,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,96,96,0.626,0.528,9:39
+4,7:41,BKN,Kyrie Irving,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,103,98,0.841,0.757,7:41
+4,5:48,BKN,Ben Simmons,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,108,103,0.895,0.839,6:05
+4,5:34,IND,Buddy Hield,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,110,106,0.639,0.803,5:34
+4,4:38,BKN,Nic Claxton,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,115,107,0.959,0.923,4:38
+4,4:31,BKN,Kevin Durant,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,115,107,0.97,0.949,4:34
+4,4:17,BKN,Kevin Durant,Technical Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,117,109,0.963,0.952,4:20
+4,3:38,BKN,Nic Claxton,Flagrant Foul Type 1,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,118,111,0.933,0.912,3:38
+4,3:15,BKN,Kevin Durant,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,120,111,0.989,0.974,3:38
+4,2:33,IND,Buddy Hield,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,124,113,0.981,0.995,2:33
+4,58.7,BKN,Ben Simmons,Shooting Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,126,116,0.999,0.997,1:17
+4,44.9,IND,Bennedict Mathurin,Technical Foul,Foul,Josh Tiven,J.T. Orr,J.B. DeRosa,IND,128,116,0.998,0.999,44.9

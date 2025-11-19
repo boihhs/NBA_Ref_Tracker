@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:45,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,0,4,0.61,0.655,8:45
+1,8:15,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,2,5,0.614,0.65,8:16
+1,8:02,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,2,6,0.684,0.65,8:15
+1,7:50,DAL,Josh Green,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,4,6,0.672,0.672,8:02
+1,7:32,HOU,Jalen Green,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,4,8,0.646,0.648,7:43
+1,4:57,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,12,17,0.535,0.578,5:10
+1,3:52,HOU,Daishen Nix,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,15,20,0.598,0.6,4:00
+1,3:37,HOU,Tari Eason,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,15,20,0.634,0.598,3:42
+1,3:26,DAL,Christian Wood,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,17,22,0.546,0.595,3:26
+1,2:44,DAL,Christian Wood,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,20,23,0.576,0.619,2:49
+1,2:17,HOU,Tari Eason,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,20,25,0.626,0.588,2:25
+1,1:10,HOU,KJ Martin,Flagrant Foul Type 1,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,27,29,0.648,0.658,1:10
+2,11:16,DAL,Frank Ntilikina,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,31,33,0.621,0.62,11:27
+2,9:54,DAL,Davis Bertans,Loose Ball Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,36,35,0.695,0.692,9:54
+2,9:45,DAL,Davis Bertans,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,36,35,0.655,0.695,9:54
+2,8:32,DAL,Davis Bertans,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,38,38,0.619,0.661,8:36
+2,2:27,HOU,Kevin Porter Jr.,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,51,47,0.77,0.771,2:50
+2,20.3,HOU,Jalen Green,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,51,54,0.6,0.551,32.5
+3,11:17,DAL,Dwight Powell,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,53,57,0.467,0.465,11:26
+3,9:31,DAL,Dwight Powell,Loose Ball Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,55,59,0.45,0.449,9:31
+3,6:38,HOU,Alperen Sengun,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,57,64,0.403,0.343,6:50
+3,6:16,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,61,64,0.53,0.457,6:16
+3,3:28,DAL,Christian Wood,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,66,68,0.409,0.477,3:42
+3,3:28,HOU,Usman Garuba,Loose Ball Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,66,70,0.431,0.433,3:28
+3,1:48,HOU,Usman Garuba,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,71,73,0.542,0.461,1:48
+3,26.1,HOU,Usman Garuba,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,72,76,0.471,0.399,29.9
+4,11:47,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,74,78,0.291,0.392,11:47
+4,11:11,DAL,Christian Wood,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,76,79,0.287,0.375,11:32
+4,11:02,HOU,Daishen Nix,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,76,81,0.331,0.32,11:11
+4,7:31,DAL,Josh Green,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,83,83,0.434,0.498,7:31
+4,7:02,DAL,Josh Green,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,83,85,0.267,0.364,7:07
+4,5:59,HOU,Alperen Sengun,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,83,90,0.215,0.136,6:01
+4,5:16,HOU,Kevin Porter Jr.,Loose Ball Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,85,90,0.235,0.216,5:16
+4,4:57,DAL,Facundo Campazzo,Personal Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,85,90,0.107,0.167,5:02
+4,4:34,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,85,91,0.209,0.161,4:34
+4,3:38,DAL,Dwight Powell,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,87,91,0.127,0.205,3:53
+4,3:13,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Zach Zarba,Karl Lane,Dannica Mosher,DAL,89,93,0.304,0.186,3:13

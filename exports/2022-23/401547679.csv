@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:55,DEN,Aaron Gordon,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,14,7,0.694,0.728,8:13
+1,7:47,LAL,Dennis Schroder,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,14,9,0.705,0.704,7:55
+1,6:07,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,22,9,0.841,0.841,6:16
+1,4:56,LAL,Austin Reaves,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,24,14,0.834,0.79,5:04
+1,3:29,LAL,Rui Hachimura,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,28,14,0.893,0.875,3:32
+1,2:22,DEN,Jamal Murray,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,34,19,0.876,0.876,2:23
+1,24.1,LAL,Austin Reaves,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,34,23,0.857,0.834,34.2
+2,11:05,LAL,Dennis Schroder,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,37,27,0.816,0.816,11:05
+2,11:04,LAL,Jarred Vanderbilt,Away from Play Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,37,27,0.816,0.816,11:05
+2,9:00,LAL,Lonnie Walker IV,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,44,32,0.855,0.838,9:02
+2,7:46,DEN,Michael Porter Jr.,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,44,32,0.813,0.84,7:50
+2,7:02,DEN,Jeff Green,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,46,36,0.771,0.805,7:05
+2,4:24,LAL,D'Angelo Russell,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,51,41,0.86,0.85,4:24
+2,3:56,DEN,Nikola Jokic,Loose Ball Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,54,41,0.869,0.869,3:56
+2,2:12,LAL,Rui Hachimura,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,59,47,0.9,0.876,2:30
+2,1:31,DEN,Nikola Jokic,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,64,47,0.915,0.932,1:47
+2,47.0,LAL,Rui Hachimura,Loose Ball Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,66,51,0.941,0.924,50.1
+3,7:17,LAL,Anthony Davis,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,86,68,0.971,0.972,7:25
+3,6:59,DEN,Jamal Murray,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,86,68,0.964,0.965,7:08
+3,3:38,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,99,79,0.978,0.985,3:56
+3,1:39,DEN,Christian Braun,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,101,85,0.962,0.975,1:39
+3,36.1,DEN,Bruce Brown,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,103,88,0.949,0.964,42.0
+3,6.1,DEN,Jamal Murray,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,103,90,0.919,0.945,10.0
+4,11:39,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,106,92,0.982,0.97,11:42
+4,11:18,DEN,Jamal Murray,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,106,94,0.92,0.953,11:18
+4,9:33,LAL,Jarred Vanderbilt,Offensive Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,111,100,0.949,0.93,9:54
+4,9:14,LAL,Austin Reaves,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,111,100,0.954,0.949,9:33
+4,8:15,DEN,Bruce Brown,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,114,102,0.927,0.956,8:25
+4,8:07,LAL,Rui Hachimura,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,114,104,0.948,0.943,8:15
+4,7:02,DEN,Nikola Jokic,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,118,104,0.98,0.982,7:14
+4,5:58,LAL,Anthony Davis,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,121,110,0.984,0.971,6:09
+4,5:48,LAL,Dennis Schroder,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,121,110,0.985,0.984,5:58
+4,5:11,LAL,LeBron James,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,123,112,0.988,0.979,5:11
+4,4:53,DEN,Jamal Murray,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,124,112,0.962,0.979,5:08
+4,4:39,DEN,Nikola Jokic,Loose Ball Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,124,113,0.948,0.97,4:39
+4,4:12,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,124,115,0.907,0.944,4:17
+4,3:53,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,124,117,0.867,0.923,4:12
+4,3:00,LAL,Austin Reaves,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,124,121,0.855,0.773,3:00
+4,1:12,DEN,Michael Porter Jr.,Personal Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,129,124,0.772,0.873,1:12
+4,26.1,LAL,Anthony Davis,Shooting Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,129,126,0.941,0.854,42.0
+4,10.2,LAL,Austin Reaves,Personal Take Foul,Foul,Pat Fraher,Zach Zarba,Eric Lewis,DEN,131,126,0.996,0.971,18.0

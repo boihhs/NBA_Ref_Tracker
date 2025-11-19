@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:20,IND,Caris LeVert,Loose Ball Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,3,4,0.439,0.435,10:20
+1,10:07,IND,Myles Turner,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,3,4,0.404,0.439,10:20
+1,9:31,CHI,Javonte Green,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,8,7,0.536,0.491,9:31
+1,8:19,CHI,Nikola Vucevic,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,10,9,0.555,0.517,8:19
+1,5:54,CHI,Coby White,Offensive Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,15,16,0.467,0.439,5:58
+1,4:28,IND,Myles Turner,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,15,16,0.4,0.439,4:36
+1,2:37,IND,Torrey Craig,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,17,18,0.399,0.438,2:51
+1,2:19,IND,Oshae Brissett,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,17,20,0.346,0.386,2:23
+1,47.2,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,21,23,0.425,0.412,47.2
+1,28.6,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,21,23,0.481,0.438,33.6
+2,10:07,IND,Domantas Sabonis,Offensive Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,27,33,0.299,0.327,10:23
+2,9:44,CHI,Tyler Cook,Personal Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,27,33,0.325,0.326,9:49
+2,9:08,IND,Torrey Craig,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,29,33,0.33,0.349,9:24
+2,7:50,CHI,Troy Brown Jr.,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,35,35,0.521,0.467,7:50
+2,4:04,IND,Keifer Sykes,Personal Take Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,40,42,0.404,0.405,4:10
+2,3:36,CHI,Zach LaVine,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,40,42,0.46,0.437,3:45
+2,3:04,IND,Torrey Craig,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,41,42,0.389,0.436,3:11
+2,2:31,CHI,Nikola Vucevic,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,41,44,0.452,0.404,2:42
+2,1:28,CHI,DeMar DeRozan,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,45,49,0.353,0.403,1:28
+2,56.9,CHI,Javonte Green,Personal Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,48,52,0.418,0.37,1:13
+3,10:25,IND,Myles Turner,Personal Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,52,54,0.398,0.397,10:25
+3,9:49,IND,Myles Turner,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,52,57,0.25,0.294,9:54
+3,9:22,IND,Domantas Sabonis,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,52,59,0.213,0.232,9:22
+3,7:11,IND,Justin Holiday,Personal Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,60,66,0.208,0.255,7:26
+3,6:43,CHI,Coby White,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,60,69,0.235,0.193,6:46
+3,6:06,IND,Goga Bitadze,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,64,71,0.194,0.246,6:06
+3,5:17,IND,Justin Holiday,Personal Take Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,67,72,0.226,0.276,5:19
+3,3:22,CHI,DeMar DeRozan,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,72,76,0.344,0.344,3:22
+3,3:04,CHI,DeMar DeRozan,Technical Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,74,76,0.46,0.383,3:04
+3,3:01,IND,Caris LeVert,Personal Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,74,76,0.32,0.383,3:04
+3,2:23,IND,Caris LeVert,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,74,79,0.204,0.259,2:27
+3,34.7,CHI,Tyler Cook,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,78,82,0.399,0.332,46.9
+4,10:50,CHI,Tyler Cook,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,79,84,0.357,0.275,10:59
+4,10:17,IND,Justin Holiday,Loose Ball Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,80,84,0.258,0.328,19.5
+4,9:32,IND,Myles Turner,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,82,86,0.186,0.261,9:50
+4,7:06,IND,Domantas Sabonis,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,90,92,0.236,0.334,7:17
+4,6:22,CHI,Javonte Green,Personal Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,90,94,0.281,0.269,6:36
+4,4:59,IND,Oshae Brissett,Personal Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,97,94,0.542,0.661,5:14
+4,4:02,IND,Torrey Craig,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,99,94,0.69,0.782,4:17
+4,3:11,CHI,Zach LaVine,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,99,96,0.848,0.744,3:12
+4,2:17,CHI,Coby White,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,103,98,0.942,0.889,2:18
+4,56.5,CHI,DeMar DeRozan,Shooting Foul,Foul,Brent Barnaky,Andy Nagy,Natalie Sago,IND,104,103,0.793,0.656,56.8

@@ -1,0 +1,63 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:00,UTAH,Jarred Vanderbilt,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,4,4,0.641,0.678,10:12
+1,8:58,UTAH,Kelly Olynyk,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,6,5,0.661,0.695,9:09
+1,7:53,IND,Myles Turner,Offensive Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,11,7,0.772,0.754,8:06
+1,5:00,IND,Isaiah Jackson,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,21,11,0.868,0.867,5:00
+1,4:56,IND,T.J. McConnell,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,21,11,0.867,0.868,5:00
+1,4:13,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,23,11,0.858,0.877,4:20
+1,3:11,IND,Isaiah Jackson,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,26,15,0.878,0.88,3:17
+1,1:48,IND,Aaron Nesmith,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,29,19,0.885,0.867,1:52
+1,1:19,UTAH,Walker Kessler,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,32,19,0.871,0.891,1:37
+1,27.6,UTAH,Walker Kessler,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,35,23,0.857,0.878,36.8
+2,11:33,IND,Myles Turner,Offensive Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,35,24,0.879,0.867,11:41
+2,11:32,UTAH,Collin Sexton,Loose Ball Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,35,24,0.866,0.867,11:32
+2,10:30,IND,Andrew Nembhard,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,37,26,0.9,0.881,10:39
+2,8:49,IND,T.J. McConnell,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,41,32,0.851,0.851,9:02
+2,8:08,UTAH,Simone Fontecchio,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,43,32,0.841,0.867,8:13
+2,7:27,IND,Tyrese Haliburton,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,45,37,0.846,0.815,7:27
+2,7:11,UTAH,Kelly Olynyk,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,46,39,0.777,0.815,7:11
+2,6:17,IND,Jalen Smith,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,49,41,0.859,0.834,6:26
+2,6:13,IND,Jalen Smith,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,49,41,0.859,0.859,6:17
+2,5:52,IND,Aaron Nesmith,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,51,44,0.842,0.814,6:01
+2,5:37,UTAH,Jordan Clarkson,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,53,44,0.803,0.833,5:52
+2,4:58,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,53,49,0.701,0.747,4:58
+2,4:45,IND,Aaron Nesmith,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,53,50,0.758,0.722,4:58
+2,4:28,UTAH,Kelly Olynyk,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,54,50,0.7,0.718,4:32
+2,1:03,IND,Bennedict Mathurin,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,67,54,0.935,0.918,1:08
+2,12.3,IND,Buddy Hield,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,71,56,0.955,0.941,34.0
+2,4.4,UTAH,Jordan Clarkson,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,73,58,0.922,0.942,4.4
+2,3.4,IND,T.J. McConnell,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,73,59,0.946,0.931,4.4
+3,10:24,IND,Buddy Hield,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,77,59,0.977,0.971,10:26
+3,9:35,UTAH,Jordan Clarkson,Technical Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,79,61,0.959,0.965,9:39
+3,9:30,UTAH,Collin Sexton,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,79,62,0.957,0.957,9:35
+3,9:00,IND,Jalen Smith,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,79,62,0.965,0.965,9:11
+3,8:55,UTAH,Jarred Vanderbilt,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,79,62,0.958,0.958,8:55
+3,7:19,UTAH,Kelly Olynyk,Offensive Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,81,65,0.954,0.962,7:27
+3,5:48,UTAH,Jordan Clarkson,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,83,71,0.911,0.893,6:09
+3,5:09,UTAH,Lauri Markkanen,Offensive Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,83,71,0.914,0.928,5:16
+3,4:42,IND,Myles Turner,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,83,71,0.947,0.929,4:57
+3,4:22,IND,Bennedict Mathurin,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,86,71,0.969,0.954,4:22
+3,3:52,IND,Aaron Nesmith,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,86,74,0.95,0.932,4:07
+3,3:39,IND,Andrew Nembhard,Transition Take Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,88,74,0.957,0.956,3:42
+3,3:36,IND,Andrew Nembhard,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,89,74,0.976,0.957,3:39
+3,3:28,UTAH,Talen Horton-Tucker,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,91,74,0.961,0.972,3:36
+3,3:06,UTAH,Malik Beasley,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,93,74,0.976,0.984,3:12
+3,2:35,IND,Bennedict Mathurin,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,93,76,0.987,0.981,2:43
+3,29.2,UTAH,Walker Kessler,Loose Ball Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,101,79,0.994,0.996,29.2
+4,10:22,IND,Bennedict Mathurin,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,105,85,0.997,0.996,10:45
+4,9:56,UTAH,Walker Kessler,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,108,85,0.997,0.998,10:14
+4,7:18,UTAH,Simone Fontecchio,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,114,91,0.999,0.999,7:23
+4,6:25,IND,Andrew Nembhard,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,116,96,0.999,0.999,6:40
+4,5:52,IND,Andrew Nembhard,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,116,96,0.999,0.999,6:02
+4,5:31,UTAH,Kelly Olynyk,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,116,98,0.995,0.998,5:34
+4,5:00,UTAH,Kelly Olynyk,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,118,101,0.994,0.997,5:00
+4,4:43,IND,Oshae Brissett,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,118,103,0.998,0.996,4:52
+4,4:34,IND,Aaron Nesmith,Loose Ball Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,118,103,0.998,0.997,4:34
+4,4:11,IND,Aaron Nesmith,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,122,103,0.999,0.999,4:11
+4,4:04,UTAH,Collin Sexton,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,123,103,0.999,0.999,4:11
+4,3:47,UTAH,Simone Fontecchio,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,123,105,0.998,0.999,3:51
+4,3:41,IND,Kendall Brown,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,123,107,0.999,0.999,3:47
+4,3:29,IND,Isaiah Jackson,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,125,107,0.999,0.999,3:29
+4,2:44,UTAH,Ochai Agbaji,Shooting Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,127,111,0.999,0.999,2:44
+4,2:31,IND,Oshae Brissett,Personal Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,127,112,0.999,0.999,2:44
+4,2:28,IND,Isaiah Jackson,Offensive Foul,Foul,Michael Smith,Kevin Scott,Jonathan Sterling,UTAH,129,112,0.999,0.999,2:31

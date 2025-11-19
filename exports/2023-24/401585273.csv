@@ -1,0 +1,54 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,HOU,Jalen Green,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,2,0,0.717,0.686,11:21
+1,11:00,BKN,Nic Claxton,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,4,0,0.708,0.707,11:11
+1,10:17,HOU,Jalen Green,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,6,2,0.726,0.728,10:31
+1,10:09,HOU,Cam Whitmore,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,8,2,0.778,0.746,10:09
+1,7:42,HOU,Dillon Brooks,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,15,10,0.773,0.744,7:50
+1,7:05,BKN,Nic Claxton,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,17,10,0.748,0.763,7:05
+1,5:52,BKN,Mikal Bridges,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,21,12,0.801,0.802,6:01
+1,8.1,BKN,Lonnie Walker IV,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,35,14,0.941,0.954,12.1
+2,11:06,HOU,Jock Landale,Loose Ball Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,35,15,0.954,0.955,11:09
+2,10:46,BKN,Dennis Smith Jr.,Offensive Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,35,15,0.948,0.955,10:48
+2,10:12,HOU,Aaron Holiday,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,35,17,0.942,0.941,10:33
+2,10:06,HOU,Jock Landale,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,35,17,0.951,0.942,10:12
+2,9:45,BKN,Cam Thomas,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,37,17,0.949,0.949,9:45
+2,8:05,BKN,Royce O'Neale,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,41,17,0.967,0.974,8:18
+2,7:12,BKN,Dorian Finney-Smith,Defensive 3-Seconds Technical,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,47,19,0.989,0.988,7:26
+2,4:19,HOU,Fred VanVleet,Loose Ball Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,52,31,0.977,0.971,4:19
+2,4:06,HOU,Fred VanVleet,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,52,31,0.978,0.977,4:19
+2,3:20,BKN,Dorian Finney-Smith,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,55,31,0.981,0.981,3:20
+2,2:40,HOU,Dillon Brooks,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,55,31,0.989,0.985,2:40
+2,2:26,BKN,Spencer Dinwiddie,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,57,31,0.984,0.988,2:40
+2,2:22,BKN,Cam Thomas,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,57,31,0.984,0.984,2:26
+2,1:54,HOU,Alperen Sengun,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,60,33,0.993,0.992,1:56
+3,11:18,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,60,42,0.941,0.955,11:19
+3,10:38,HOU,Aaron Holiday,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,60,44,0.96,0.938,10:47
+3,8:30,BKN,Dorian Finney-Smith,Defensive 3-Seconds Technical,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,70,48,0.985,0.984,8:46
+3,6:13,BKN,Nic Claxton,Offensive Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,74,57,0.963,0.969,6:16
+3,5:50,HOU,Fred VanVleet,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,74,57,0.979,0.97,5:58
+3,5:30,HOU,Amen Thompson,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,77,57,0.988,0.982,5:30
+3,4:22,HOU,Alperen Sengun,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,80,61,0.989,0.984,4:38
+3,3:02,HOU,Dillon Brooks,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,82,63,0.989,0.983,3:02
+3,3:02,HOU,Dillon Brooks,Technical Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,82,63,0.989,0.989,3:02
+3,2:43,BKN,Royce O'Neale,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,83,63,0.981,0.987,3:00
+3,2:18,BKN,Nic Claxton,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,86,67,0.981,0.989,2:18
+3,1:55,BKN,Spencer Dinwiddie,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,86,68,0.972,0.981,2:04
+3,34.2,HOU,Jae'Sean Tate,Loose Ball Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,86,68,0.993,0.989,34.2
+4,10:30,HOU,Fred VanVleet,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,90,77,0.97,0.967,10:33
+4,10:11,HOU,Fred VanVleet,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,90,77,0.982,0.97,10:30
+4,10:04,BKN,Dennis Smith Jr.,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,93,77,0.983,0.984,10:11
+4,9:58,HOU,Jae'Sean Tate,Offensive Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,93,77,0.989,0.983,10:04
+4,8:25,BKN,Cam Thomas,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,95,79,0.979,0.988,8:41
+4,8:14,HOU,Jae'Sean Tate,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,95,82,0.98,0.977,8:25
+4,7:12,HOU,Amen Thompson,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,95,84,0.98,0.965,7:26
+4,6:08,HOU,Jae'Sean Tate,Personal Take Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,97,86,0.985,0.974,6:16
+4,5:31,HOU,Dillon Brooks,Personal Take Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,97,88,0.974,0.956,5:36
+4,4:59,HOU,Jae'Sean Tate,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,97,91,0.936,0.895,5:14
+4,3:55,BKN,Spencer Dinwiddie,Offensive Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,98,93,0.83,0.874,4:11
+4,2:38,HOU,Dillon Brooks,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,101,95,0.967,0.895,5:14
+4,19.1,HOU,Dillon Brooks,Personal Take Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,102,97,0.991,0.969,23.1
+4,10.1,BKN,Mikal Bridges,Shooting Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,103,97,0.964,0.977,10.1
+4,5.0,HOU,Jalen Green,Personal Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,103,102,0.938,0.797,7.0
+4,3.2,BKN,Mikal Bridges,Personal Take Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,105,102,0.851,0.916,5.0
+4,2.1,BKN,Nic Claxton,Loose Ball Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,105,103,0.663,0.929,2.1
+4,0.1,HOU,Amen Thompson,Personal Take Foul,Foul,Marat Kogut,Scott Wall,Ben Taylor,BKN,105,104,0.991,0.931,2.1

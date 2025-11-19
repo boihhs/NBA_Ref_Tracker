@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:19,DET,Isaiah Livers,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,0,2,0.92,0.91,11:37
+1,10:06,DET,Jaden Ivey,Personal Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,2,2,0.919,0.92,10:09
+1,8:06,DET,Cade Cunningham,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,7,7,0.923,0.912,8:17
+1,6:55,DET,Bojan Bogdanovic,Personal Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,13,11,0.934,0.924,7:13
+1,5:05,DEN,Michael Porter Jr.,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,17,13,0.918,0.926,5:28
+1,2:41,DET,Alec Burks,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,21,20,0.912,0.899,2:55
+1,1:47,DET,Ausar Thompson,Personal Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,23,20,0.926,0.914,1:54
+2,11:51,DET,Cade Cunningham,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,31,29,0.911,0.889,12:00
+2,10:37,DEN,Reggie Jackson,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,35,31,0.884,0.901,10:45
+2,5:38,DEN,Nikola Jokic,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,45,45,0.799,0.833,5:38
+2,3:11,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,53,50,0.824,0.853,3:29
+2,1:57,DET,Bojan Bogdanovic,Clear Path Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,57,54,0.862,0.862,1:57
+3,11:52,DET,Bojan Bogdanovic,Defensive 3-Seconds Technical,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,65,57,0.921,0.916,12:00
+3,11:46,DET,Killian Hayes,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,66,57,0.946,0.934,11:52
+3,11:28,DEN,Jamal Murray,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,67,57,0.915,0.932,11:31
+3,11:10,DET,Killian Hayes,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,67,58,0.945,0.933,11:28
+3,10:15,DEN,Nikola Jokic,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,71,60,0.933,0.949,10:15
+3,10:05,DEN,Nikola Jokic,Offensive Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,71,61,0.93,0.941,10:15
+3,9:40,DET,Isaiah Livers,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,73,61,0.962,0.95,9:40
+3,9:32,DET,Jalen Duren,Offensive Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,74,61,0.964,0.956,9:40
+3,8:58,DET,Isaiah Livers,Personal Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,74,63,0.96,0.949,9:08
+3,6:34,DET,Killian Hayes,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,81,69,0.963,0.949,6:34
+3,6:27,DEN,Reggie Jackson,Personal Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,82,69,0.958,0.957,6:34
+3,6:08,DET,Isaiah Livers,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,82,69,0.974,0.965,6:09
+3,3:53,DEN,Reggie Jackson,Personal Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,90,73,0.976,0.983,4:03
+3,3:51,DEN,Reggie Jackson,Personal Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,90,73,0.976,0.976,3:53
+3,3:07,DEN,Nikola Jokic,Technical Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,92,75,0.981,0.984,3:07
+3,3:03,DEN,Nikola Jokic,Personal Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,92,76,0.971,0.98,3:07
+3,2:22,DET,Ausar Thompson,Flagrant Foul Type 1,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,94,77,0.988,0.985,2:22
+3,2:21,DEN,DeAndre Jordan,Offensive Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,95,77,0.988,0.991,2:22
+3,1:36,DEN,Jamal Murray,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,98,79,0.988,0.992,1:53
+3,45.2,DEN,Jamal Murray,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,102,83,0.991,0.995,45.2
+3,43.1,DEN,DeAndre Jordan,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,102,83,0.989,0.993,44.1
+3,35.0,DET,James Wiseman,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,104,85,0.996,0.993,35.0
+4,11:07,DEN,Jamal Murray,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,108,87,0.995,0.997,11:13
+4,10:33,DET,Jaden Ivey,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,110,88,0.999,0.998,10:35
+4,8:57,DEN,DeAndre Jordan,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,114,92,0.998,0.999,9:09
+4,7:55,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,117,94,0.999,0.999,7:57
+4,6:40,DEN,Reggie Jackson,Loose Ball Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,117,100,0.991,0.995,6:40
+4,6:27,DET,Bojan Bogdanovic,Technical Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,117,100,0.998,0.997,6:27
+4,6:12,DEN,DeAndre Jordan,Offensive Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,118,100,0.997,0.998,6:27
+4,4:42,DEN,DeAndre Jordan,Personal Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,123,105,0.997,0.998,4:57
+4,4:03,DET,Isaiah Livers,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,126,106,0.999,0.999,4:14
+4,1:28,DET,Killian Hayes,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,129,111,0.999,0.999,1:39
+4,45.1,DEN,Jay Huff,Shooting Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,131,113,0.999,0.999,50.0
+4,30.1,DEN,Collin Gillespie,Offensive Foul,Foul,Ben Taylor,Brett Nansel,Matt Kallio,DEN,131,114,0.999,0.999,44.1

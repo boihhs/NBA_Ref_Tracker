@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:47,BKN,Royce O'Neale,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,0,0,0.246,0.277,12:00
+1,7:33,BKN,Day'Ron Sharpe,Personal Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,10,9,0.314,0.313,7:38
+1,7:00,BKN,Day'Ron Sharpe,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,10,14,0.202,0.232,7:00
+1,6:43,MIL,Brook Lopez,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,10,14,0.263,0.232,6:57
+1,3:21,MIL,Andre Jackson Jr.,Personal Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,20,22,0.284,0.262,3:26
+1,2:47,MIL,Andre Jackson Jr.,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,20,22,0.321,0.286,2:55
+1,2:30,BKN,Jalen Wilson,Personal Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,22,22,0.276,0.311,2:47
+1,2:04,BKN,Harry Giles III,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,24,22,0.326,0.364,2:15
+1,1:25,MIL,AJ Green,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,26,27,0.333,0.288,1:25
+1,52.1,BKN,Cam Thomas,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,27,27,0.279,0.318,55.1
+1,5.0,MIL,AJ Green,Personal Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,29,32,0.308,0.271,10.0
+2,11:31,BKN,Day'Ron Sharpe,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,31,34,0.234,0.275,11:31
+2,10:49,MIL,Cameron Payne,Personal Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,33,35,0.3,0.299,10:52
+2,8:23,BKN,Dennis Smith Jr.,Technical Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,35,38,0.241,0.285,8:23
+2,7:41,MIL,Brook Lopez,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,35,39,0.298,0.261,7:44
+2,1:38,MIL,Brook Lopez,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,51,58,0.216,0.175,1:38
+2,53.1,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,54,63,0.149,0.154,1:05
+2,13.1,MIL,Khris Middleton,Loose Ball Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,57,63,0.264,0.223,13.1
+3,12:00,MIL,Brook Lopez,Technical Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,59,66,0.215,0.187,0.0
+3,10:10,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,62,71,0.146,0.15,10:21
+3,9:54,BKN,Trendon Watford,Personal Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,65,71,0.198,0.193,10:03
+3,9:50,BKN,Jalen Wilson,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,65,71,0.163,0.198,9:54
+3,6:54,BKN,Jalen Wilson,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,74,76,0.292,0.355,6:54
+3,4:08,MIL,Giannis Antetokounmpo,Defensive 3-Seconds Technical,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,81,85,0.275,0.358,5:24
+3,3:45,BKN,Keon Johnson,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,82,85,0.233,0.284,3:47
+3,2:38,BKN,Trendon Watford,Defensive 3-Seconds Technical,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,86,88,0.335,0.323,2:49
+4,11:36,MIL,Khris Middleton,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,92,102,0.136,0.09,11:46
+4,10:52,MIL,Bobby Portis,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,93,102,0.142,0.112,10:52
+4,9:50,MIL,MarJon Beauchamp,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,94,107,0.064,0.039,9:54
+4,8:25,BKN,Harry Giles III,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,100,109,0.048,0.079,8:40
+4,7:23,MIL,Cameron Payne,Personal Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,103,116,0.047,0.028,7:31
+4,7:20,MIL,MarJon Beauchamp,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,103,116,0.046,0.053,7:20
+4,6:55,BKN,Armoni Brooks,Loose Ball Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,106,118,0.024,0.026,6:57
+4,6:05,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,106,120,0.025,0.014,6:05
+4,5:33,BKN,Noah Clowney,Offensive Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,108,123,0.005,0.008,5:53
+4,5:25,BKN,Noah Clowney,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,108,123,0.002,0.005,5:33
+4,1:51,BKN,Noah Clowney,Shooting Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,118,132,0.001,0.001,1:51
+4,1:25,BKN,Jalen Wilson,Personal Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,118,134,0.001,0.001,1:34
+4,1:23,MIL,Cameron Payne,Personal Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,118,136,0.001,0.001,1:25
+4,43.1,MIL,Cameron Payne,Personal Foul,Foul,David Guthrie,J.T. Orr,Tre Maddox,BKN,120,142,0.001,0.001,50.0

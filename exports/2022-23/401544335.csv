@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:08,PHX,Kevin Durant,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,0,2,0.637,0.638,11:19
+1,9:59,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,5,4,0.681,0.68,10:13
+1,2:33,PHX,Bismack Biyombo,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,16,16,0.655,0.657,2:51
+1,2:29,PHX,Cameron Payne,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,16,16,0.655,0.643,2:33
+1,2:21,DEN,Christian Braun,Loose Ball Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,16,16,0.63,0.629,2:21
+1,58.1,DEN,Kentavious Caldwell-Pope,Offensive Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,16,21,0.481,0.512,1:08
+1,5.0,DEN,Christian Braun,Personal Take Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,18,21,0.493,0.538,21.1
+2,10:54,PHX,Cameron Payne,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,20,21,0.615,0.619,11:13
+2,10:47,PHX,Ish Wainright,Shooting Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,20,21,0.655,0.615,10:54
+2,10:38,DEN,Bruce Brown,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,22,21,0.643,0.643,10:47
+2,10:32,PHX,Deandre Ayton,Offensive Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,22,21,0.668,0.643,10:38
+2,9:24,PHX,Cameron Payne,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,24,21,0.715,0.717,9:29
+2,9:10,DEN,Bruce Brown,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,26,21,0.741,0.741,9:17
+2,8:28,DEN,Aaron Gordon,Offensive Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,26,21,0.74,0.763,8:38
+2,7:39,DEN,Jeff Green,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,28,24,0.715,0.714,7:48
+2,4:31,DEN,Nikola Jokic,Offensive Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,32,30,0.653,0.683,4:46
+2,4:22,PHX,Deandre Ayton,Offensive Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,32,30,0.682,0.653,4:31
+2,4:12,PHX,Kevin Durant,Shooting Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,32,30,0.722,0.682,4:22
+2,2:13,PHX,Devin Booker,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,35,37,0.599,0.549,2:26
+3,11:05,PHX,Josh Okogie,Loose Ball Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,42,42,0.603,0.607,11:06
+3,8:05,DEN,Nikola Jokic,Shooting Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,48,48,0.498,0.554,8:22
+3,7:49,PHX,Deandre Ayton,Shooting Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,48,50,0.576,0.519,8:05
+3,6:13,PHX,Devin Booker,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,51,57,0.346,0.349,6:24
+3,5:45,PHX,Bismack Biyombo,Offensive Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,51,57,0.342,0.304,5:59
+3,4:32,PHX,Damion Lee,Shooting Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,55,59,0.446,0.37,4:32
+3,3:59,DEN,Bruce Brown,Shooting Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,56,61,0.266,0.324,4:04
+3,3:21,PHX,Bismack Biyombo,Shooting Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,58,64,0.382,0.32,3:33
+3,2:56,PHX,Deandre Ayton,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,59,66,0.336,0.274,3:05
+3,2:50,DEN,Bruce Brown,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,61,66,0.313,0.312,2:56
+3,1:51,PHX,Kevin Durant,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,61,68,0.327,0.264,2:06
+4,11:41,PHX,Devin Booker,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,70,73,0.436,0.423,11:41
+4,10:41,DEN,Jeff Green,Loose Ball Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,70,73,0.348,0.36,10:41
+4,10:35,DEN,Jeff Green,Loose Ball Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,70,73,0.339,0.354,10:35
+4,10:32,DEN,Christian Braun,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,70,73,0.33,0.339,10:35
+4,6:01,PHX,Josh Okogie,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,82,79,0.742,0.729,6:02
+4,5:11,PHX,Josh Okogie,Shooting Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,82,79,0.834,0.742,5:20
+4,2:53,PHX,Deandre Ayton,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,86,81,0.942,0.887,3:01
+4,1:10,PHX,Devin Booker,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,93,83,0.998,0.997,1:24
+4,44.0,PHX,Cameron Payne,Personal Foul,Foul,Eric Lewis,Sean Wright,John Goble,DEN,95,85,0.999,0.998,1:01

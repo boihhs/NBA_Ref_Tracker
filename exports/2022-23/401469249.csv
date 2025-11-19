@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:57,CLE,Darius Garland,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,0,0,0.417,0.378,12:00
+1,11:16,CLE,Isaac Okoro,Loose Ball Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,2,2,0.38,0.381,11:16
+1,9:43,BKN,Nic Claxton,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,6,9,0.263,0.293,9:58
+1,9:05,CLE,Jarrett Allen,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,6,11,0.306,0.274,9:06
+1,8:25,BKN,Mikal Bridges,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,10,11,0.342,0.341,8:35
+1,7:48,BKN,Mikal Bridges,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,12,14,0.287,0.32,8:00
+1,3:41,CLE,Donovan Mitchell,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,16,24,0.248,0.218,3:44
+1,1:52,BKN,Joe Harris,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,24,27,0.272,0.307,2:01
+1,1:16,BKN,Yuta Watanabe,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,26,27,0.32,0.352,1:31
+1,1.1,CLE,Caris LeVert,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,33,31,0.49,0.442,1.1
+2,11:23,BKN,Royce O'Neale,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,33,33,0.389,0.388,11:31
+2,11:17,BKN,Seth Curry,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,33,33,0.349,0.389,11:23
+2,9:10,CLE,Cedi Osman,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,40,41,0.393,0.394,9:12
+2,8:33,CLE,Caris LeVert,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,40,41,0.395,0.394,8:44
+2,8:28,CLE,Cedi Osman,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,40,41,0.395,0.395,8:33
+2,7:28,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,40,45,0.244,0.286,7:28
+2,7:08,BKN,Seth Curry,Offensive Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,40,46,0.238,0.263,7:28
+2,6:07,CLE,Ricky Rubio,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,40,49,0.225,0.193,6:12
+2,4:06,CLE,Jarrett Allen,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,47,52,0.33,0.287,4:09
+2,2:35,CLE,Isaac Okoro,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,51,57,0.302,0.261,2:43
+2,2:20,CLE,Jarrett Allen,Offensive Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,52,57,0.287,0.259,2:35
+2,46.0,BKN,Nic Claxton,Technical Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,59,59,0.388,0.448,46.0
+2,12.1,BKN,Mikal Bridges,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,61,60,0.399,0.446,32.0
+3,11:45,BKN,Cameron Johnson,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,61,60,0.399,0.468,12:00
+3,10:44,CLE,Isaac Okoro,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,63,63,0.51,0.458,10:55
+3,9:32,BKN,Cameron Johnson,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,70,66,0.541,0.571,9:32
+3,8:04,CLE,Darius Garland,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,70,70,0.464,0.464,8:19
+3,6:25,CLE,Donovan Mitchell,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,75,74,0.539,0.511,6:25
+3,4:44,CLE,Donovan Mitchell,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,77,76,0.58,0.517,4:49
+3,4:27,BKN,Nic Claxton,Loose Ball Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,79,76,0.56,0.562,4:27
+3,4:09,BKN,Royce O'Neale,Loose Ball Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,79,76,0.497,0.564,4:09
+3,3:52,CLE,Caris LeVert,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,79,76,0.669,0.608,3:52
+3,3:05,CLE,Caris LeVert,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,80,78,0.635,0.57,3:07
+3,2:24,BKN,Royce O'Neale,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,85,80,0.594,0.655,2:33
+3,2:03,CLE,Cedi Osman,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,85,82,0.687,0.619,2:24
+3,1:01,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,87,84,0.51,0.58,1:13
+3,26.1,CLE,Ricky Rubio,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,91,85,0.794,0.682,32.1
+4,8:29,CLE,Evan Mobley,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,96,92,0.771,0.725,8:38
+4,4:11,BKN,Royce O'Neale,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,107,98,0.901,0.945,4:13
+4,3:59,BKN,Nic Claxton,Offensive Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,107,100,0.893,0.923,4:11
+4,1:52,BKN,Nic Claxton,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,112,104,0.909,0.958,2:13
+4,11.1,BKN,Spencer Dinwiddie,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Scott Wall,BKN,114,112,0.485,0.682,13.1

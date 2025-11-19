@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:50,MIA,Haywood Highsmith,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,0,4,0.615,0.619,11:07
+1,9:42,UTAH,Mike Conley,Flagrant Foul Type 1,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,7,4,0.749,0.745,9:58
+1,9:07,UTAH,Kelly Olynyk,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,7,6,0.667,0.7,9:12
+1,8:45,UTAH,Mike Conley,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,7,8,0.656,0.655,8:48
+1,8:34,MIA,Max Strus,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,7,11,0.604,0.606,8:41
+1,5:56,MIA,Tyler Herro,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,12,17,0.563,0.565,6:19
+1,5:15,MIA,Haywood Highsmith,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,14,19,0.6,0.561,5:34
+1,4:42,MIA,Kyle Lowry,Loose Ball Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,14,19,0.597,0.556,4:42
+1,4:20,UTAH,Rudy Gay,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,15,21,0.475,0.527,4:20
+1,2:53,MIA,Orlando Robinson,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,20,21,0.67,0.652,2:58
+1,53.1,UTAH,Collin Sexton,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,27,26,0.628,0.671,58.1
+2,10:53,MIA,Bam Adebayo,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,36,33,0.737,0.739,11:05
+2,10:39,MIA,Victor Oladipo,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,36,33,0.77,0.737,10:53
+2,9:39,UTAH,Jarred Vanderbilt,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,38,35,0.69,0.709,9:39
+2,8:30,UTAH,Jordan Clarkson,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,40,42,0.546,0.595,8:30
+2,7:58,MIA,Gabe Vincent,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,43,43,0.651,0.652,8:02
+2,7:52,UTAH,Kelly Olynyk,Offensive Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,43,43,0.621,0.651,7:57
+2,7:33,MIA,Duncan Robinson,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,43,45,0.635,0.591,7:43
+2,7:27,UTAH,Jarred Vanderbilt,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,45,45,0.574,0.619,7:33
+2,7:05,MIA,Kyle Lowry,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,45,47,0.634,0.59,7:27
+2,3:06,MIA,Orlando Robinson,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,54,62,0.418,0.366,3:06
+2,3:01,UTAH,Collin Sexton,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,56,62,0.351,0.401,3:06
+2,1:45,UTAH,Collin Sexton,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,59,64,0.371,0.425,2:00
+2,1:24,MIA,Bam Adebayo,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,59,64,0.508,0.46,1:43
+2,49.1,MIA,Gabe Vincent,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,60,66,0.473,0.422,1:08
+2,15.0,MIA,Max Strus,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,62,66,0.537,0.488,27.1
+3,10:44,UTAH,Jarred Vanderbilt,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,65,71,0.364,0.357,10:44
+3,10:23,MIA,Kyle Lowry,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,65,71,0.423,0.396,10:23
+3,9:40,MIA,Tyler Herro,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,67,73,0.39,0.391,9:50
+3,9:01,MIA,Tyler Herro,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,69,75,0.383,0.386,9:11
+3,8:57,MIA,Haywood Highsmith,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,69,75,0.439,0.383,9:01
+3,8:43,UTAH,Kelly Olynyk,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,71,75,0.362,0.418,8:57
+3,7:11,MIA,Bam Adebayo,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,76,79,0.514,0.444,7:11
+3,6:02,MIA,Victor Oladipo,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,80,79,0.692,0.637,6:07
+3,2:18,MIA,Victor Oladipo,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,92,88,0.774,0.709,2:18
+3,1:56,MIA,Gabe Vincent,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,93,88,0.831,0.782,2:07
+4,11:49,UTAH,Malik Beasley,Away from Play Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,98,96,0.606,0.627,11:49
+4,8:45,UTAH,Rudy Gay,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,103,102,0.543,0.56,9:05
+4,8:38,UTAH,Walker Kessler,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,103,102,0.443,0.543,8:45
+4,6:44,MIA,Duncan Robinson,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,106,104,0.675,0.662,7:03
+4,6:30,MIA,Victor Oladipo,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,106,104,0.765,0.675,6:44
+4,6:15,UTAH,Walker Kessler,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,107,106,0.483,0.616,6:15
+4,4:56,UTAH,Collin Sexton,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,109,109,0.353,0.458,5:03
+4,4:29,UTAH,Kelly Olynyk,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,109,113,0.156,0.254,4:29
+4,4:16,MIA,Bam Adebayo,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,109,114,0.307,0.197,4:29
+4,4:07,MIA,Tyler Herro,Offensive Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,111,114,0.321,0.254,4:16
+4,3:30,UTAH,Jordan Clarkson,Loose Ball Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,111,114,0.153,0.235,3:30
+4,2:12,MIA,Max Strus,Personal Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,113,118,0.254,0.137,2:17
+4,1:41,MIA,Bam Adebayo,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,113,118,0.242,0.143,1:48
+4,27.1,MIA,Max Strus,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,117,121,0.282,0.149,29.1
+4,19.1,UTAH,Lauri Markkanen,Personal Take Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,117,121,0.023,0.065,21.0
+4,14.0,MIA,Gabe Vincent,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,117,122,0.145,0.058,16.0
+4,13.0,UTAH,Mike Conley,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,120,122,0.068,0.172,14.0
+4,6.1,MIA,Haywood Highsmith,Shooting Foul,Foul,David Guthrie,Tyler Ford,John Conley,UTAH,120,123,0.24,0.172,12.0

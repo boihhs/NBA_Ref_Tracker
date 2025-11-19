@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:38,MIL,Khris Middleton,Personal Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,10,11,0.51,0.511,8:44
+1,7:55,MIL,Giannis Antetokounmpo,Defensive 3-Seconds Technical,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,13,14,0.503,0.51,8:11
+1,4:32,UTAH,Royce O'Neale,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,22,20,0.521,0.561,4:38
+1,3:06,UTAH,Jordan Clarkson,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,28,26,0.541,0.589,3:06
+1,2:52,MIL,Serge Ibaka,Personal Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,28,27,0.563,0.561,3:06
+2,11:24,UTAH,Jordan Clarkson,Personal Take Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,39,40,0.476,0.472,11:24
+2,11:12,UTAH,Rudy Gobert,Personal Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,39,40,0.477,0.578,12:00
+2,10:16,MIL,Jrue Holiday,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,39,42,0.488,0.444,10:33
+2,9:32,UTAH,Mike Conley,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,41,47,0.308,0.356,9:32
+2,8:49,MIL,Brook Lopez,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,41,48,0.369,0.327,8:57
+2,8:17,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,43,51,0.297,0.298,8:32
+2,5:00,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,50,59,0.298,0.26,5:25
+2,3:59,MIL,Khris Middleton,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,51,59,0.301,0.279,3:59
+2,1:52,MIL,Brook Lopez,Personal Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,53,65,0.206,0.169,1:54
+2,56.3,UTAH,Mike Conley,Personal Take Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,57,65,0.2,0.238,58.8
+2,34.1,UTAH,Mike Conley,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,57,65,0.198,0.24,36.3
+3,9:55,UTAH,Royce O'Neale,Personal Take Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,66,68,0.419,0.418,9:55
+3,9:24,MIL,Giannis Antetokounmpo,Defensive 3-Seconds Technical,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,66,68,0.445,0.456,9:36
+3,7:27,UTAH,Rudy Gay,Loose Ball Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,75,73,0.568,0.568,7:27
+3,6:41,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,75,73,0.609,0.61,6:41
+3,6:31,MIL,Wesley Matthews,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,75,73,0.665,0.609,6:41
+3,5:48,UTAH,Donovan Mitchell,Personal Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,77,76,0.529,0.529,5:54
+3,5:41,UTAH,Hassan Whiteside,Defensive 3-Seconds Technical,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,77,76,0.541,0.529,5:48
+3,5:36,UTAH,Hassan Whiteside,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,77,77,0.426,0.488,5:41
+3,4:47,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,82,79,0.653,0.655,4:47
+3,4:15,MIL,Wesley Matthews,Personal Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,84,79,0.782,0.731,4:19
+3,3:40,MIL,Brook Lopez,Loose Ball Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,87,79,0.868,0.829,3:40
+3,3:14,MIL,Brook Lopez,Offensive Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,89,79,0.882,0.859,3:18
+3,2:52,UTAH,Hassan Whiteside,Loose Ball Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,89,79,0.821,0.863,2:52
+3,2:26,UTAH,Rudy Gay,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,91,80,0.851,0.885,2:37
+3,1:43,UTAH,Rudy Gay,Offensive Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,91,85,0.743,0.784,1:52
+3,1:35,UTAH,Rudy Gay,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,91,85,0.683,0.743,1:43
+4,11:22,MIL,Jrue Holiday,Personal Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,95,91,0.738,0.726,11:35
+4,11:04,UTAH,Rudy Gobert,Defensive 3-Seconds Technical,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,95,91,0.701,0.682,11:15
+4,10:19,UTAH,Jordan Clarkson,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,95,92,0.547,0.639,10:26
+4,8:50,UTAH,Royce O'Neale,Personal Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,97,98,0.403,0.418,8:50
+4,7:30,UTAH,Mike Conley,Personal Take Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,98,98,0.361,0.459,7:31
+4,6:36,UTAH,Rudy Gay,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,100,100,0.352,0.445,6:54
+4,6:36,UTAH,Rudy Gay,Technical Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,100,100,0.397,0.513,6:36
+4,8:28,MIL,Jrue Holiday,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,98,98,0.564,0.382,6:36
+4,5:48,UTAH,Rudy Gobert,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,100,106,0.103,0.168,5:48
+4,5:11,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,102,107,0.304,0.208,5:21
+4,4:02,MIL,Grayson Allen,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,103,109,0.186,0.155,4:21
+4,1:26,MIL,Jevon Carter,Shooting Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,107,111,0.321,0.201,1:45
+4,59.1,UTAH,Donovan Mitchell,Personal Take Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,109,111,0.144,0.252,1:00
+4,12.9,UTAH,Donovan Mitchell,Personal Take Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,111,113,0.067,0.195,22.0
+4,8.5,UTAH,Royce O'Neale,Personal Take Foul,Foul,Scott Wall,Tony Brothers,Michael Smith,UTAH,111,115,0.008,0.031,8.5

@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:13,CHI,Zach LaVine,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,2,2,0.763,0.748,10:29
+1,9:49,CHI,Patrick Williams,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,4,2,0.795,0.765,9:49
+1,7:57,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,10,6,0.834,0.811,8:04
+1,5:59,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,18,8,0.859,0.879,6:21
+1,1:37,MEM,John Konchar,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,24,11,0.902,0.91,1:37
+1,24.2,MEM,John Konchar,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,26,13,0.892,0.909,30.1
+2,10:05,MEM,Tyus Jones,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,28,16,0.88,0.899,10:07
+2,9:35,CHI,Andre Drummond,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,28,18,0.904,0.887,9:49
+2,8:59,MEM,Santi Aldama,Loose Ball Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,32,18,0.921,0.921,8:59
+2,7:49,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,35,20,0.916,0.922,7:49
+2,6:21,MEM,Danny Green,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,37,26,0.863,0.887,6:40
+2,6:05,CHI,Zach LaVine,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,37,27,0.905,0.886,6:19
+2,4:11,MEM,Dillon Brooks,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,41,30,0.863,0.886,4:17
+2,3:10,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,41,34,0.782,0.816,3:12
+2,2:52,MEM,Desmond Bane,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,41,35,0.758,0.793,2:55
+2,1:49,CHI,Alex Caruso,Loose Ball Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,43,39,0.803,0.769,1:49
+2,1:01,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,45,39,0.844,0.813,1:21
+3,7:46,MEM,Xavier Tillman,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,59,53,0.746,0.79,7:58
+3,7:08,CHI,Ayo Dosunmu,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,59,56,0.774,0.731,7:23
+3,6:52,MEM,Xavier Tillman,Loose Ball Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,61,56,0.76,0.76,6:52
+3,5:12,MEM,Dillon Brooks,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,61,62,0.501,0.576,5:12
+3,5:01,CHI,Ayo Dosunmu,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,61,63,0.532,0.534,5:12
+3,4:26,CHI,Ayo Dosunmu,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,61,65,0.442,0.445,4:35
+3,2:21,MEM,Ja Morant,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,64,70,0.23,0.288,2:27
+3,43.2,MEM,Desmond Bane,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,70,74,0.32,0.403,43.2
+3,43.0,MEM,Santi Aldama,Loose Ball Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,70,74,0.285,0.351,43.0
+3,29.1,CHI,Andre Drummond,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,70,75,0.39,0.36,43.0
+3,0.1,CHI,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,71,75,0.468,0.395,7.1
+4,9:14,CHI,Andre Drummond,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,76,77,0.538,0.528,9:22
+4,9:07,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,76,77,0.471,0.538,9:14
+4,8:24,MEM,Danny Green,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,79,77,0.62,0.636,8:43
+4,7:17,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,82,82,0.677,0.574,7:31
+4,3:45,MEM,Ja Morant,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,92,82,0.942,0.971,4:00
+4,2:27,CHI,Coby White,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,98,85,0.999,0.997,2:27
+4,2:15,CHI,Patrick Williams,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,99,85,0.999,0.999,2:15
+4,1:16,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Robert Hussey,MEM,102,87,0.999,0.999,1:24

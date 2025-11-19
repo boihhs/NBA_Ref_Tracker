@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:01,WSH,Kyle Kuzma,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,2,3,0.763,0.736,11:19
+1,9:38,CHI,DeMar DeRozan,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,5,3,0.738,0.767,9:41
+1,8:46,WSH,Richaun Holmes,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,7,6,0.777,0.744,8:46
+1,7:23,CHI,Ayo Dosunmu,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,10,6,0.768,0.795,7:31
+1,7:12,WSH,Bilal Coulibaly,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,10,8,0.802,0.777,7:23
+1,5:26,CHI,Onuralp Bitim,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,15,10,0.779,0.807,5:33
+1,5:07,WSH,Richaun Holmes,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,15,11,0.83,0.807,5:24
+1,1:32,CHI,Alex Caruso,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,28,18,0.853,0.876,1:53
+1,1:00,CHI,Andre Drummond,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,30,18,0.89,0.899,1:00
+2,10:13,WSH,Patrick Baldwin Jr.,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,38,24,0.942,0.93,10:26
+2,7:18,WSH,Corey Kispert,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,50,29,0.981,0.976,7:29
+2,7:01,CHI,Torrey Craig,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,51,31,0.963,0.972,7:01
+2,5:32,CHI,Dalen Terry,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,55,32,0.981,0.981,5:47
+2,4:36,WSH,Richaun Holmes,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,55,36,0.969,0.97,4:48
+2,2:31,CHI,DeMar DeRozan,Flagrant Foul Type 1,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,61,38,0.984,0.984,2:35
+2,2:27,CHI,Onuralp Bitim,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,61,38,0.978,0.984,2:31
+2,8.2,CHI,DeMar DeRozan,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,65,43,0.977,0.982,30.1
+2,4.0,WSH,Jared Butler,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,65,45,0.984,0.979,8.2
+3,11:00,CHI,Nikola Vucevic,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,69,45,0.986,0.99,11:08
+3,8:11,WSH,Jordan Poole,Technical Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,76,54,0.992,0.99,8:14
+3,7:24,WSH,Richaun Holmes,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,80,56,0.995,0.995,7:38
+3,5:33,WSH,Jared Butler,Personal Take Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,84,63,0.991,0.991,5:39
+3,3:55,WSH,Eugene Omoruyi,Loose Ball Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,87,65,0.995,0.995,3:55
+3,3:16,WSH,Bilal Coulibaly,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,87,65,0.997,0.995,3:25
+3,2:44,CHI,Nikola Vucevic,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,91,65,0.997,0.998,3:02
+3,1:06,WSH,Eugene Omoruyi,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,93,69,0.999,0.998,1:30
+3,48.0,CHI,Andre Drummond,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,94,69,0.997,0.998,48.1
+3,32.1,WSH,Bilal Coulibaly,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,94,69,0.999,0.999,35.1
+4,11:28,WSH,Justin Champagnie,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,95,69,0.999,0.999,11:37
+4,10:03,WSH,Johnny Davis,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,96,75,0.999,0.998,10:15
+4,9:08,WSH,Justin Champagnie,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,99,77,0.999,0.999,9:20
+4,8:43,WSH,Richaun Holmes,Personal Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,101,79,0.999,0.999,8:43
+4,5:02,CHI,Nikola Vucevic,Technical Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,105,89,0.995,0.998,5:10
+4,4:54,WSH,Eugene Omoruyi,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,107,90,0.999,0.998,4:54
+4,4:43,CHI,Onuralp Bitim,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,108,90,0.998,0.999,4:54
+4,4:24,WSH,Eugene Omoruyi,Shooting Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,108,91,0.999,0.998,4:27
+4,2:23,CHI,Alex Caruso,Personal Take Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,116,95,0.999,0.999,2:30
+4,1:08,CHI,Ayo Dosunmu,Personal Take Foul,Foul,Derrick Collins,James Williams,Jacyn Goble,CHI,123,98,0.999,0.999,1:13

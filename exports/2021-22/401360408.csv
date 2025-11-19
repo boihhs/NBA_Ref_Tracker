@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:59,LAL,Stanley Johnson,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,5,2,0.617,0.679,10:13
+1,8:38,ATL,Clint Capela,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,10,6,0.737,0.698,8:38
+1,5:56,LAL,LeBron James,Offensive Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,18,10,0.779,0.799,6:08
+1,5:32,ATL,Trae Young,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,20,12,0.811,0.779,5:32
+1,4:40,LAL,Avery Bradley,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,23,14,0.798,0.797,4:46
+1,2:17,ATL,Kevin Huerter,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,28,23,0.736,0.74,2:29
+1,2:17,ATL,Kevin Huerter,Away from Play Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,28,23,0.77,0.736,2:17
+2,11:03,ATL,Onyeka Okongwu,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,36,31,0.737,0.738,11:07
+2,9:37,LAL,Talen Horton-Tucker,Loose Ball Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,40,34,0.735,0.735,9:37
+2,8:58,ATL,Onyeka Okongwu,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,42,34,0.818,0.803,8:58
+2,7:05,ATL,John Collins,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,52,34,0.951,0.937,7:05
+2,6:56,LAL,Russell Westbrook,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,53,36,0.927,0.937,6:56
+2,6:29,LAL,Austin Reaves,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,53,36,0.928,0.928,6:39
+2,5:51,LAL,Avery Bradley,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,56,39,0.913,0.929,6:01
+2,5:46,LAL,Avery Bradley,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,56,39,0.913,0.913,5:51
+2,5:35,ATL,John Collins,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,56,40,0.943,0.93,5:43
+2,5:16,LAL,Dwight Howard,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,56,40,0.9,0.919,5:20
+2,4:18,LAL,Stanley Johnson,Defensive 3-Seconds Technical,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,56,44,0.87,0.866,4:31
+2,3:35,ATL,Bogdan Bogdanovic,Personal Take Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,56,48,0.839,0.807,3:35
+2,1:18,LAL,Malik Monk,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,64,57,0.765,0.793,1:18
+3,11:43,LAL,Malik Monk,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,64,61,0.598,0.661,12:00
+3,10:36,ATL,Clint Capela,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,69,62,0.815,0.771,10:36
+3,10:00,LAL,Stanley Johnson,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,73,61,0.855,0.781,8:58
+3,8:26,LAL,Malik Monk,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,73,67,0.746,0.745,8:38
+3,8:14,ATL,Clint Capela,Loose Ball Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,73,67,0.776,0.777,8:14
+3,6:45,LAL,LeBron James,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,79,69,0.858,0.858,6:45
+3,5:56,ATL,Onyeka Okongwu,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,79,71,0.871,0.837,6:03
+3,5:27,LAL,Avery Bradley,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,81,73,0.814,0.839,5:27
+3,4:12,ATL,Onyeka Okongwu,Flagrant Foul Type 1,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,83,76,0.858,0.82,4:26
+3,2:56,ATL,John Collins,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,88,78,0.911,0.877,2:56
+3,2:11,ATL,Cam Reddish,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,89,78,0.92,0.918,2:22
+3,1:05,LAL,Austin Reaves,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,93,82,0.875,0.907,1:09
+3,2.0,LAL,Russell Westbrook,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,101,86,0.973,0.977,2.0
+4,10:08,LAL,Russell Westbrook,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,107,90,0.978,0.987,10:20
+4,9:26,LAL,Russell Westbrook,Offensive Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,110,94,0.985,0.988,9:39
+4,9:17,LAL,Russell Westbrook,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,110,94,0.973,0.985,9:26
+4,8:18,LAL,Malik Monk,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,114,100,0.966,0.983,8:18
+4,7:29,ATL,John Collins,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,116,103,0.979,0.978,7:45
+4,6:11,ATL,Danilo Gallinari,Personal Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,118,106,0.979,0.976,6:29
+4,5:58,ATL,Timothe Luwawu-Cabarrot,Loose Ball Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,118,106,0.982,0.98,5:58
+4,5:52,LAL,Stanley Johnson,Loose Ball Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,118,106,0.973,0.973,5:52
+4,5:20,LAL,LeBron James,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,118,106,0.966,0.975,5:20
+4,4:39,LAL,Russell Westbrook,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,120,108,0.962,0.957,4:51
+4,1:47,LAL,Avery Bradley,Shooting Foul,Foul,Courtney Kirkland,Bennie Adams,Ray Acosta,LAL,132,112,0.999,0.999,1:56

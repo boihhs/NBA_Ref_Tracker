@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:37,PHI,Matisse Thybulle,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,0,0,0.704,0.67,11:43
+1,10:44,PHI,Georges Niang,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,4,2,0.712,0.712,10:51
+1,9:42,MIL,Khris Middleton,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,4,4,0.606,0.642,9:43
+1,9:02,PHI,Joel Embiid,Loose Ball Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,6,6,0.663,0.664,9:02
+1,5:27,MIL,Serge Ibaka,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,13,16,0.55,0.55,5:41
+1,2:13,MIL,Jrue Holiday,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,19,22,0.536,0.536,2:20
+1,27.1,PHI,Furkan Korkmaz,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,23,24,0.653,0.613,42.9
+1,4.0,PHI,Danny Green,Loose Ball Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,25,24,0.7,0.663,4.0
+2,11:27,PHI,Paul Millsap,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,27,26,0.7,0.664,11:34
+2,10:02,PHI,Shake Milton,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,31,29,0.721,0.685,10:04
+2,9:34,PHI,Furkan Korkmaz,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,32,31,0.695,0.657,9:39
+2,8:44,PHI,Danny Green,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,36,35,0.674,0.626,8:44
+2,7:56,MIL,Bobby Portis,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,39,35,0.684,0.705,7:56
+2,7:15,PHI,Tyrese Maxey,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,42,39,0.742,0.702,7:25
+2,6:52,PHI,Tobias Harris,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,46,39,0.813,0.777,6:52
+2,5:50,MIL,Jordan Nwora,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,49,41,0.799,0.798,5:58
+2,3:49,MIL,Jrue Holiday,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,53,45,0.764,0.8,3:50
+2,3:02,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,55,50,0.686,0.726,3:03
+2,2:54,MIL,Wesley Matthews,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,55,52,0.648,0.702,2:54
+2,1:47,MIL,Jordan Nwora,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,57,57,0.522,0.571,1:47
+2,47.3,MIL,Bobby Portis,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,59,62,0.41,0.461,53.5
+3,11:41,PHI,Georges Niang,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,61,69,0.343,0.318,11:41
+3,10:05,MIL,MIL,Technical Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,64,77,0.123,0.159,10:05
+3,9:09,MIL,Jordan Nwora,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,66,80,0.098,0.131,9:09
+3,8:18,PHI,Georges Niang,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,68,81,0.182,0.146,8:25
+3,6:20,PHI,Joel Embiid,Offensive Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,79,85,0.343,0.305,6:36
+3,4:03,PHI,Danny Green,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,82,90,0.246,0.247,4:11
+3,2:54,MIL,Wesley Matthews,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,84,93,0.128,0.171,3:13
+3,2:23,PHI,Joel Embiid,Loose Ball Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,87,95,0.283,0.226,2:23
+3,50.5,PHI,Paul Millsap,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,91,99,0.267,0.209,1:00
+3,15.6,PHI,Paul Millsap,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,92,101,0.221,0.171,32.2
+4,11:46,PHI,Georges Niang,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,93,100,0.311,0.232,11:49
+4,11:22,PHI,Paul Millsap,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,95,100,0.412,0.323,11:28
+4,10:17,PHI,Shake Milton,Offensive Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,97,103,0.265,0.224,10:26
+4,8:59,PHI,Joel Embiid,Offensive Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,101,103,0.464,0.405,9:11
+4,8:03,MIL,Wesley Matthews,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,103,105,0.339,0.457,8:03
+4,7:02,MIL,Bobby Portis,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,106,108,0.313,0.44,7:02
+4,6:26,MIL,Serge Ibaka,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,108,109,0.399,0.427,6:46
+4,4:31,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,113,111,0.487,0.614,4:38
+4,2:06,MIL,Bobby Portis,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,116,117,0.216,0.346,2:06
+4,41.6,MIL,Jrue Holiday,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,116,118,0.106,0.204,56.0
+4,13.4,MIL,Khris Middleton,Personal Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,118,120,0.061,0.176,26.9
+4,8.4,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,118,121,0.018,0.058,8.4
+4,1.1,PHI,Joel Embiid,Personal Take Foul,Foul,Scott Wall,Tony Brothers,Ben Taylor,MIL,120,123,0.041,0.032,2.3

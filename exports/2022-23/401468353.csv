@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:34,BKN,Royce O'Neale,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,0,0,0.553,0.513,11:37
+1,10:02,LAL,Anthony Davis,Defensive 3-Seconds Technical,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,4,2,0.549,0.541,10:16
+1,8:54,BKN,Kevin Durant,Defensive 3-Seconds Technical,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,4,3,0.534,0.544,9:14
+1,6:36,BKN,Nic Claxton,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,13,8,0.681,0.619,6:45
+1,6:00,LAL,Lonnie Walker IV,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,15,8,0.635,0.671,6:16
+1,5:16,BKN,Nic Claxton,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,19,12,0.714,0.672,5:16
+1,2:36,LAL,Lonnie Walker IV,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,25,20,0.585,0.624,2:57
+1,1:50,LAL,Kendrick Nunn,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,25,21,0.559,0.601,1:54
+1,1:08,BKN,Cam Thomas,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,25,22,0.64,0.598,1:15
+2,11:42,LAL,Matt Ryan,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,26,22,0.56,0.615,12:00
+2,7:38,LAL,Russell Westbrook,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,38,29,0.747,0.746,7:51
+2,6:53,LAL,Anthony Davis,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,38,29,0.711,0.749,6:56
+2,5:29,BKN,Joe Harris,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,38,31,0.728,0.727,5:39
+2,4:09,LAL,Patrick Beverley,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,44,31,0.818,0.847,4:18
+2,1:49,BKN,Joe Harris,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,53,39,0.905,0.875,1:49
+2,1:44,LAL,Anthony Davis,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,53,39,0.849,0.876,1:47
+2,1:19,BKN,Markieff Morris,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,53,43,0.853,0.819,1:29
+2,29.5,LAL,Anthony Davis,Offensive Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,55,46,0.775,0.797,33.9
+3,11:21,BKN,Kevin Durant,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,55,46,0.804,0.805,11:39
+3,10:57,BKN,Royce O'Neale,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,55,46,0.84,0.807,11:04
+3,10:33,BKN,Edmond Sumner,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,56,46,0.829,0.832,10:43
+3,9:49,LAL,Patrick Beverley,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,60,48,0.858,0.857,9:55
+3,8:32,LAL,Patrick Beverley,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,62,50,0.866,0.865,8:41
+3,4:59,LAL,Russell Westbrook,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,72,59,0.876,0.905,5:14
+3,3:04,BKN,Yuta Watanabe,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,77,63,0.963,0.946,3:19
+3,2:45,LAL,Austin Reaves,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,77,63,0.911,0.935,2:52
+3,2:15,LAL,Kendrick Nunn,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,77,68,0.815,0.866,2:15
+3,9.8,BKN,BKN,Delay Technical,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,79,74,0.742,0.709,11.6
+4,11:23,BKN,Markieff Morris,Offensive Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,82,77,0.765,0.714,11:43
+4,10:04,BKN,Kevin Durant,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,84,80,0.744,0.732,10:16
+4,9:34,LAL,Russell Westbrook,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,87,80,0.748,0.784,9:34
+4,9:13,BKN,Royce O'Neale,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,87,83,0.784,0.818,9:34
+4,9:02,LAL,Patrick Beverley,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,89,83,0.773,0.784,9:13
+4,9:00,LAL,Patrick Beverley,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,89,83,0.694,0.773,9:02
+4,8:53,BKN,Royce O'Neale,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,89,85,0.812,0.732,9:00
+4,8:28,LAL,Austin Reaves,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,91,85,0.706,0.785,8:30
+4,5:13,LAL,Anthony Davis,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,104,87,0.993,0.996,5:18
+4,4:59,BKN,Joe Harris,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,104,89,0.997,0.995,4:59
+4,4:54,LAL,Anthony Davis,Personal Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,106,89,0.994,0.997,4:59
+4,3:39,LAL,LAL,Delay Technical,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,111,93,0.999,0.999,3:39
+4,38.3,LAL,Juan Toscano-Anderson,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,116,101,0.999,0.999,38.3
+4,20.5,LAL,Wenyen Gabriel,Shooting Foul,Foul,David Guthrie,Jenna Schroeder,J.B. DeRosa,LAL,116,101,0.999,0.999,25.7

@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:21,SAC,Domantas Sabonis,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,9,5,0.675,0.632,9:21
+1,8:04,SAC,Kevin Huerter,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,12,7,0.699,0.657,8:04
+1,6:46,SAC,Harrison Barnes,Offensive Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,20,9,0.808,0.786,6:55
+1,6:04,SAC,Keegan Murray,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,20,9,0.834,0.809,6:19
+1,5:30,LAL,Anthony Davis,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,22,11,0.76,0.789,5:34
+1,2:53,SAC,Davion Mitchell,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,30,18,0.856,0.833,2:55
+1,2:41,SAC,De'Aaron Fox,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,30,18,0.857,0.856,2:53
+1,2:18,SAC,Alex Len,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,32,18,0.886,0.865,2:24
+1,1:32,LAL,D'Angelo Russell,Defensive 3-Seconds Technical,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,37,18,0.922,0.917,1:40
+1,1:27,LAL,Anthony Davis,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,37,19,0.887,0.907,1:32
+1,1:18,LAL,Jaxson Hayes,Offensive Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,37,21,0.881,0.896,1:27
+1,34.1,LAL,Jaxson Hayes,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,37,25,0.803,0.835,34.1
+2,11:43,SAC,De'Aaron Fox,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,37,28,0.809,0.769,12:00
+2,11:12,SAC,Alex Len,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,38,28,0.829,0.802,11:25
+2,9:15,SAC,Trey Lyles,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,43,36,0.738,0.74,9:23
+2,8:20,SAC,Alex Len,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,45,38,0.758,0.717,8:20
+2,3:34,SAC,Malik Monk,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,50,58,0.334,0.289,3:48
+2,2:33,SAC,Domantas Sabonis,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,50,61,0.241,0.203,2:55
+2,2:14,LAL,Austin Reaves,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,51,61,0.202,0.205,2:33
+2,2:11,LAL,Spencer Dinwiddie,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,51,61,0.201,0.202,2:14
+2,1:52,SAC,Keegan Murray,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,51,64,0.19,0.155,2:04
+2,1:03,SAC,Davion Mitchell,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,53,66,0.186,0.151,1:12
+3,11:37,LAL,Anthony Davis,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,57,74,0.054,0.077,11:37
+3,10:01,SAC,Kevin Huerter,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,60,79,0.062,0.048,10:18
+3,8:28,SAC,Harrison Barnes,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,66,79,0.122,0.123,8:34
+3,8:07,LAL,Anthony Davis,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,66,81,0.062,0.084,8:07
+3,7:40,LAL,Austin Reaves,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,66,84,0.032,0.046,7:40
+3,7:31,SAC,Kevin Huerter,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,66,85,0.037,0.038,7:40
+3,6:56,LAL,LAL,Technical Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,68,89,0.014,0.022,6:56
+3,5:32,SAC,De'Aaron Fox,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,72,93,0.026,0.018,5:45
+3,5:16,LAL,Jaxson Hayes,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,75,93,0.02,0.028,5:25
+3,4:14,LAL,Spencer Dinwiddie,Offensive Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,77,99,0.008,0.011,4:25
+3,3:27,SAC,Malik Monk,Offensive Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,80,99,0.022,0.017,3:39
+3,2:55,SAC,Keegan Murray,Shooting Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,82,99,0.049,0.035,3:02
+3,1:56,LAL,Jaxson Hayes,Offensive Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,87,102,0.038,0.049,2:07
+3,1:13,SAC,Alex Len,Offensive Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,87,102,0.044,0.035,1:15
+4,10:48,SAC,Keon Ellis,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,95,108,0.056,0.055,11:10
+4,8:50,LAL,D'Angelo Russell,Offensive Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,97,116,0.003,0.005,8:58
+4,50.0,LAL,Spencer Dinwiddie,Personal Foul,Foul,Derrick Collins,Kevin Cutler,Scott Twardoski,LAL,120,130,0.001,0.002,1:01

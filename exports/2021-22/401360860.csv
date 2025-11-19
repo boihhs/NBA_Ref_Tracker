@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:00,UTAH,Mike Conley,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,0,0,0.767,0.768,11:06
+1,9:14,CHI,Ayo Dosunmu,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,2,2,0.775,0.776,9:25
+1,8:11,CHI,Nikola Vucevic,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,7,2,0.869,0.851,8:21
+1,7:42,UTAH,Donovan Mitchell,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,7,2,0.812,0.835,7:45
+1,7:05,CHI,Nikola Vucevic,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,10,6,0.854,0.834,7:17
+1,5:14,CHI,Alex Caruso,Personal Take Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,16,14,0.819,0.794,5:14
+1,5:04,UTAH,Hassan Whiteside,Offensive Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,16,14,0.775,0.819,5:14
+1,3:27,UTAH,Donovan Mitchell,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,18,18,0.728,0.727,3:37
+1,1:34,CHI,Coby White,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,20,26,0.628,0.591,1:55
+1,24.2,UTAH,Rudy Gobert,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,25,26,0.665,0.684,24.2
+1,1.9,CHI,Ayo Dosunmu,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,25,27,0.72,0.685,23.2
+2,10:44,UTAH,Rudy Gobert,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,29,29,0.662,0.701,10:50
+2,8:53,CHI,Tristan Thompson,Loose Ball Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,32,32,0.716,0.717,8:53
+2,8:49,CHI,Coby White,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,34,32,0.777,0.74,8:49
+2,8:37,UTAH,Nickeil Alexander-Walker,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,35,32,0.726,0.761,8:49
+2,7:58,CHI,Javonte Green,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,39,34,0.833,0.801,7:58
+2,5:20,CHI,Alex Caruso,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,42,39,0.804,0.771,5:34
+2,4:58,UTAH,Donovan Mitchell,Loose Ball Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,44,39,0.792,0.792,4:58
+2,4:41,CHI,Alex Caruso,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,44,39,0.841,0.813,4:46
+2,1:54,UTAH,Royce O'Neale,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,51,43,0.817,0.849,2:12
+2,28.5,UTAH,Juancho Hernangomez,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,51,48,0.684,0.733,33.6
+3,10:26,CHI,Ayo Dosunmu,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,56,53,0.771,0.752,10:26
+3,8:36,UTAH,Rudy Gobert,Offensive Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,58,58,0.61,0.652,8:52
+3,5:56,UTAH,Donovan Mitchell,Technical Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,66,66,0.565,0.636,5:58
+3,5:42,CHI,Ayo Dosunmu,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,66,66,0.634,0.636,5:56
+3,5:20,UTAH,Jordan Clarkson,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,68,68,0.56,0.633,5:20
+3,4:03,UTAH,Jordan Clarkson,Offensive Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,74,71,0.7,0.738,4:11
+3,3:53,UTAH,Rudy Gay,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,74,71,0.643,0.7,4:03
+3,1:57,CHI,Coby White,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,82,77,0.847,0.804,2:09
+4,11:24,UTAH,Nickeil Alexander-Walker,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,92,81,0.898,0.933,11:45
+4,10:05,CHI,Coby White,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,94,84,0.943,0.938,10:15
+4,9:48,UTAH,Rudy Gay,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,94,84,0.918,0.925,9:48
+4,9:34,CHI,DeMar DeRozan,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,96,84,0.974,0.954,9:34
+4,7:27,CHI,DeMar DeRozan,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,102,94,0.952,0.89,7:42
+4,7:13,UTAH,Nickeil Alexander-Walker,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,103,96,0.831,0.902,7:13
+4,6:23,CHI,Alex Caruso,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,105,99,0.922,0.877,6:26
+4,5:35,CHI,Zach LaVine,Personal Take Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,111,99,0.991,0.985,5:35
+4,5:20,CHI,Zach LaVine,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,113,99,0.996,0.994,5:22
+4,4:57,UTAH,Donovan Mitchell,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,115,99,0.992,0.996,4:57
+4,4:38,CHI,Zach LaVine,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,115,99,0.998,0.997,4:51
+4,3:59,CHI,DeMar DeRozan,Personal Foul,Foul,Derrick Collins,Ed Malloy,Marat Kogut,UTAH,117,102,0.999,0.997,4:20

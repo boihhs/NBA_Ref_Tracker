@@ -1,0 +1,59 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:41,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,2,0,0.713,0.679,11:41
+1,9:50,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,5,4,0.704,0.676,10:09
+1,8:52,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,10,4,0.776,0.775,8:52
+1,7:31,HOU,Dillon Brooks,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,16,8,0.833,0.809,7:38
+1,6:41,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,18,11,0.773,0.773,6:41
+1,6:04,CLE,Max Strus,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,18,13,0.73,0.731,6:06
+1,4:19,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,20,21,0.647,0.609,4:29
+1,3:33,CLE,Jarrett Allen,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,24,23,0.592,0.633,3:50
+1,2:34,HOU,Jae'Sean Tate,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,27,27,0.669,0.63,2:37
+1,2:04,CLE,Sam Merrill,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,28,27,0.586,0.628,2:08
+1,1:11,CLE,Georges Niang,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,28,32,0.445,0.487,1:16
+2,11:35,HOU,Jock Landale,Loose Ball Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,33,34,0.593,0.596,11:35
+2,11:11,CLE,Georges Niang,Loose Ball Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,36,34,0.649,0.649,11:11
+2,9:24,HOU,Tari Eason,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,41,36,0.747,0.748,9:24
+2,8:36,HOU,Jeff Green,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,41,36,0.779,0.747,8:48
+2,8:01,HOU,Dillon Brooks,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,44,39,0.779,0.746,8:23
+2,7:47,CLE,Donovan Mitchell,Defensive 3-Seconds Technical,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,46,39,0.774,0.768,8:01
+2,4:48,CLE,Jarrett Allen,Offensive Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,48,46,0.633,0.664,4:51
+2,4:36,CLE,Jarrett Allen,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,48,48,0.546,0.603,4:36
+2,4:16,HOU,Jeff Green,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,50,49,0.655,0.601,4:16
+2,3:48,HOU,Jeff Green,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,50,52,0.585,0.534,3:48
+2,3:33,CLE,Donovan Mitchell,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,50,52,0.501,0.501,3:33
+3,11:05,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,62,61,0.649,0.591,11:05
+3,10:56,CLE,Jarrett Allen,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,63,61,0.622,0.622,11:05
+3,9:21,CLE,Isaac Okoro,Loose Ball Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,71,67,0.689,0.689,9:21
+3,9:10,HOU,Alperen Sengun,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,71,67,0.72,0.721,9:10
+3,8:04,HOU,Jalen Green,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,76,69,0.825,0.808,8:04
+3,7:35,HOU,Jalen Green,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,76,71,0.796,0.751,7:43
+3,7:24,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,79,71,0.852,0.809,7:24
+3,7:10,CLE,Dean Wade,Loose Ball Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,80,71,0.834,0.835,7:10
+3,7:04,CLE,Tristan Thompson,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,80,71,0.797,0.834,7:10
+3,7:04,HOU,Aaron Holiday,Personal Take Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,80,72,0.869,0.836,7:04
+3,6:42,HOU,Aaron Holiday,Personal Take Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,81,75,0.825,0.786,6:46
+3,6:22,HOU,Aaron Holiday,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,82,75,0.851,0.814,6:28
+3,5:56,CLE,Dean Wade,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,84,75,0.801,0.839,5:57
+3,5:39,HOU,Alperen Sengun,Offensive Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,87,77,0.885,0.864,5:46
+3,4:16,CLE,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,89,79,0.835,0.871,4:19
+3,3:47,CLE,Dean Wade,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,89,83,0.734,0.797,3:47
+3,3:26,HOU,Fred VanVleet,Loose Ball Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,89,83,0.84,0.799,3:26
+3,2:46,CLE,Georges Niang,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,91,85,0.71,0.765,2:51
+3,1:05,CLE,Georges Niang,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,96,91,0.674,0.73,1:18
+3,53.2,HOU,Fred VanVleet,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,96,93,0.758,0.697,1:05
+3,33.2,CLE,Jarrett Allen,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,96,95,0.528,0.614,33.2
+3,28.0,HOU,Tari Eason,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,98,96,0.688,0.61,28.0
+4,11:26,CLE,Tristan Thompson,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,99,100,0.405,0.514,11:26
+4,9:46,HOU,Aaron Holiday,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,106,101,0.83,0.749,9:46
+4,9:43,CLE,Tristan Thompson,Double Technical Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,107,101,0.806,0.795,9:46
+4,8:56,CLE,Max Strus,Loose Ball Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,109,103,0.789,0.8,8:56
+4,8:39,HOU,Jae'Sean Tate,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,109,103,0.848,0.789,8:56
+4,8:04,CLE,Max Strus,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,109,103,0.721,0.803,8:20
+4,7:41,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,111,105,0.879,0.803,7:41
+4,7:01,CLE,Georges Niang,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,112,107,0.686,0.776,7:01
+4,3:58,CLE,Donovan Mitchell,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,117,111,0.772,0.848,4:03
+4,1:15,HOU,Dillon Brooks,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,122,121,0.784,0.635,1:24
+4,36.1,CLE,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,122,121,0.39,0.545,53.0
+5,9.1,HOU,Tari Eason,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,133,127,0.998,0.992,9.1
+5,7.1,HOU,Fred VanVleet,Personal Take Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,133,127,0.998,0.998,9.1
+5,3.1,HOU,Tari Eason,Away from Play Foul,Foul,Pat Fraher,Justin Van Duyne,Danielle Scott,CLE,135,130,0.998,0.996,4.0

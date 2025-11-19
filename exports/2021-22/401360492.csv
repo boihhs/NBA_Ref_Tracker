@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:20,CLE,Isaac Okoro,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,11,12,0.353,0.317,7:40
+1,6:49,CHI,Nikola Vucevic,Offensive Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,14,15,0.295,0.318,7:02
+1,24.1,CHI,Matt Thomas,Personal Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,24,29,0.194,0.223,27.5
+2,11:00,CHI,Tony Bradley,Personal Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,26,31,0.226,0.224,11:16
+2,10:52,CHI,Tony Bradley,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,26,31,0.197,0.226,11:00
+2,10:38,CLE,Evan Mobley,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,26,32,0.26,0.227,10:52
+2,9:49,CLE,Dylan Windler,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,29,32,0.299,0.274,9:49
+2,9:30,CLE,Cedi Osman,Personal Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,30,32,0.323,0.324,9:36
+2,7:50,CLE,Evan Mobley,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,34,39,0.29,0.252,8:05
+2,7:39,CHI,Ayo Dosunmu,Personal Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,35,39,0.253,0.251,7:50
+2,5:09,CLE,Jarrett Allen,Offensive Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,42,43,0.366,0.336,5:18
+2,2:09,CLE,Darius Garland,Personal Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,50,49,0.493,0.441,2:22
+2,55.6,CHI,Nikola Vucevic,Loose Ball Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,56,49,0.569,0.624,55.6
+3,11:45,CHI,Ayo Dosunmu,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,58,49,0.72,0.706,11:45
+3,11:17,CHI,DeMar DeRozan,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,61,50,0.721,0.764,11:27
+3,11:09,CLE,Isaac Okoro,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,63,52,0.815,0.768,11:09
+3,9:56,CHI,DeMar DeRozan,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,65,56,0.667,0.715,10:14
+3,7:16,CHI,Ayo Dosunmu,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,67,63,0.5,0.56,7:17
+3,6:55,CHI,Troy Brown Jr.,Personal Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,67,64,0.462,0.519,7:02
+3,4:13,CLE,Isaac Okoro,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,76,72,0.658,0.584,4:29
+3,3:46,CLE,Lauri Markkanen,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,78,74,0.693,0.63,3:56
+3,2:50,CLE,Jarrett Allen,Offensive Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,83,74,0.828,0.792,3:01
+3,4.9,CLE,Cedi Osman,Personal Take Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,85,78,0.845,0.794,18.8
+4,11:30,CHI,Tony Bradley,Defensive 3-Seconds Technical,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,89,78,0.902,0.893,11:49
+4,11:20,CHI,Malcolm Hill,Personal Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,89,79,0.862,0.871,11:30
+4,10:39,CHI,Tony Bradley,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,89,82,0.794,0.771,10:49
+4,7:40,CHI,Ayo Dosunmu,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,97,89,0.849,0.846,7:48
+4,5:05,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,103,97,0.814,0.86,5:05
+4,4:18,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,103,101,0.449,0.565,4:19
+4,3:00,CLE,Isaac Okoro,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,108,102,0.877,0.854,3:00
+4,2:06,CHI,DeMar DeRozan,Offensive Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,111,102,0.969,0.982,2:14
+4,1:34,CLE,Lauri Markkanen,Clear Path Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,113,102,0.998,0.997,1:36
+4,1:08,CHI,DeMar DeRozan,Shooting Foul,Foul,Zach Zarba,Jacyn Goble,CJ Washington,CHI,114,102,0.994,0.998,1:17

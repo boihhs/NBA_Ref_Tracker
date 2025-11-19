@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:36,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,0,5,0.448,0.423,10:49
+1,10:05,MIL,Grayson Allen,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,4,5,0.565,0.518,10:05
+1,1:12,ATL,Justin Holiday,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,22,30,0.273,0.313,1:25
+2,11:26,MIL,Serge Ibaka,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,27,36,0.326,0.279,11:26
+2,10:44,ATL,Jalen Johnson,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,31,38,0.307,0.356,10:44
+2,9:04,ATL,De'Andre Hunter,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,35,39,0.365,0.407,9:16
+2,8:37,ATL,Jalen Johnson,Defensive 3-Seconds Technical,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,37,40,0.445,0.438,8:54
+2,8:31,ATL,Onyeka Okongwu,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,37,41,0.408,0.406,8:37
+2,7:45,MIL,MarJon Beauchamp,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,37,41,0.434,0.436,7:53
+2,3:49,ATL,De'Andre Hunter,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,45,52,0.256,0.298,4:07
+2,3:10,MIL,Wesley Matthews,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,45,52,0.324,0.325,3:15
+2,2:22,MIL,Wesley Matthews,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,45,54,0.305,0.262,2:33
+2,17.9,ATL,Clint Capela,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,52,56,0.324,0.374,34.6
+3,10:36,ATL,John Collins,Offensive Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,57,60,0.401,0.438,10:43
+3,10:25,MIL,Jevon Carter,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,57,60,0.493,0.437,10:26
+3,10:07,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,59,60,0.51,0.509,10:07
+3,9:53,MIL,Jrue Holiday,Away from Play Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,59,60,0.509,0.51,9:53
+3,9:47,ATL,De'Andre Hunter,Offensive Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,60,60,0.505,0.505,9:53
+3,9:00,MIL,Brook Lopez,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,62,60,0.671,0.619,9:03
+3,8:56,ATL,Clint Capela,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,64,60,0.653,0.653,9:00
+3,8:26,ATL,Dejounte Murray,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,64,62,0.582,0.582,8:26
+3,8:15,ATL,Aaron Holiday,Loose Ball Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,64,64,0.506,0.546,8:15
+3,8:12,MIL,Grayson Allen,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,64,65,0.565,0.509,8:15
+3,7:42,MIL,Grayson Allen,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,68,65,0.706,0.621,7:42
+3,5:57,MIL,Brook Lopez,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,73,67,0.788,0.731,5:57
+3,5:02,MIL,Jordan Nwora,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,74,67,0.821,0.8,5:02
+3,2:24,ATL,Clint Capela,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,79,73,0.689,0.747,2:33
+3,37.1,ATL,Jalen Johnson,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,84,77,0.735,0.794,41.0
+4,10:34,MIL,Jrue Holiday,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,91,80,0.944,0.942,10:34
+4,7:15,MIL,Jevon Carter,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,102,85,0.998,0.996,7:35
+4,7:15,ATL,Jalen Johnson,Technical Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,102,85,0.992,0.998,7:15
+4,6:53,ATL,AJ Griffin,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,103,86,0.994,0.995,6:54
+4,5:31,ATL,AJ Griffin,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,108,86,0.999,0.999,5:41
+4,3:34,ATL,Frank Kaminsky,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,111,88,0.999,0.999,3:40
+4,2:32,ATL,Trent Forrest,Personal Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,113,92,0.999,0.999,2:36
+4,1:31,MIL,Jordan Nwora,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,116,94,0.999,0.999,1:41
+4,1:15,ATL,Frank Kaminsky,Shooting Foul,Foul,Sean Wright,Curtis Blair,Scott Wall,ATL,117,94,0.999,0.999,1:25

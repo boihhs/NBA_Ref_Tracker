@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,PHI,P.J. Tucker,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,4,2,0.612,0.572,10:49
+1,9:36,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,5,4,0.606,0.573,9:52
+1,8:31,ATL,John Collins,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,8,4,0.583,0.62,8:45
+1,8:14,PHI,Tyrese Maxey,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,8,6,0.632,0.596,8:14
+1,7:02,ATL,John Collins,Offensive Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,14,9,0.646,0.669,7:12
+1,6:51,ATL,De'Andre Hunter,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,14,9,0.647,0.646,7:02
+1,6:45,ATL,Aaron Holiday,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,14,9,0.608,0.647,6:51
+1,4:21,ATL,Onyeka Okongwu,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,16,16,0.475,0.516,4:34
+1,2:47,PHI,Paul Reed,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,18,20,0.527,0.486,3:07
+1,2:19,PHI,Paul Reed,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,20,20,0.584,0.54,2:22
+1,1:49,PHI,Tyrese Maxey,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,22,20,0.635,0.596,1:57
+1,1:09,PHI,Shake Milton,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,25,20,0.715,0.674,1:14
+2,10:53,PHI,Danuel House Jr.,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,31,20,0.814,0.816,11:02
+2,9:08,ATL,Justin Holiday,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,33,26,0.688,0.735,9:08
+2,5:21,ATL,Clint Capela,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,36,33,0.553,0.598,5:35
+2,3:02,PHI,Danuel House Jr.,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,40,38,0.648,0.601,3:25
+2,1:24,PHI,Danuel House Jr.,Loose Ball Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,46,40,0.767,0.728,1:25
+3,10:07,PHI,Joel Embiid,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,49,46,0.692,0.642,10:18
+3,7:07,PHI,Joel Embiid,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,53,50,0.676,0.65,7:07
+3,6:12,ATL,John Collins,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,55,52,0.553,0.652,6:16
+3,5:36,PHI,Georges Niang,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,57,55,0.644,0.574,5:36
+3,4:23,ATL,Onyeka Okongwu,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,63,58,0.636,0.693,4:36
+3,3:53,ATL,Aaron Holiday,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,65,60,0.696,0.695,4:07
+3,3:43,PHI,Georges Niang,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,65,60,0.787,0.736,3:46
+3,3:40,ATL,De'Andre Hunter,Flagrant Foul Type 1,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,65,60,0.707,0.787,3:43
+3,3:06,ATL,Aaron Holiday,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,67,62,0.639,0.696,3:20
+3,2:54,PHI,Georges Niang,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,67,64,0.722,0.662,3:06
+3,46.7,PHI,Paul Reed,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,77,66,0.936,0.901,46.7
+4,9:34,ATL,Onyeka Okongwu,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,84,74,0.903,0.909,9:45
+4,6:01,ATL,Aaron Holiday,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,96,76,0.997,0.999,6:14
+4,4:31,ATL,AJ Griffin,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,98,81,0.998,0.998,4:34
+4,4:27,ATL,AJ Griffin,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,98,81,0.995,0.998,4:31
+4,4:04,ATL,Dejounte Murray,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,98,85,0.983,0.993,4:04
+4,3:33,ATL,John Collins,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,98,87,0.956,0.977,3:36
+4,3:11,PHI,Matisse Thybulle,Loose Ball Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,98,89,0.971,0.97,3:11
+4,3:02,PHI,Furkan Korkmaz,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,98,89,0.973,0.97,3:11
+4,2:44,ATL,Onyeka Okongwu,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,100,89,0.968,0.984,2:57
+4,2:35,PHI,Montrezl Harrell,Personal Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,100,91,0.98,0.976,2:44
+4,2:02,ATL,Onyeka Okongwu,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,100,93,0.866,0.926,2:05
+4,1:11,ATL,Clint Capela,Shooting Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,102,94,0.93,0.964,1:28
+4,23.3,PHI,Joel Embiid,Personal Take Foul,Foul,Matt Boland,Courtney Kirkland,Jason Goldenberg,ATL,102,95,0.994,0.992,25.6

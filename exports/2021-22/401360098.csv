@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:58,MIN,Karl-Anthony Towns,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,5,5,0.501,0.501,10:04
+1,9:53,MIN,Patrick Beverley,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,5,5,0.461,0.501,9:58
+1,8:49,MIA,P.J. Tucker,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,7,7,0.524,0.524,8:49
+1,7:37,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,11,9,0.533,0.578,7:37
+1,7:28,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,11,10,0.526,0.551,7:37
+1,6:33,MIN,MIN,Technical Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,11,12,0.451,0.498,6:33
+1,4:59,MIA,Duncan Robinson,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,14,18,0.416,0.417,5:16
+1,4:33,MIN,Naz Reid,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,16,20,0.388,0.416,4:33
+1,2:30,MIN,Jaden McDaniels,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,26,20,0.64,0.66,2:30
+1,49.2,MIN,Naz Reid,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,26,25,0.479,0.525,56.9
+1,37.4,MIA,Dewayne Dedmon,Defensive 3-Seconds Technical,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,26,27,0.487,0.496,49.2
+2,11:41,MIN,Malik Beasley,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,30,27,0.538,0.596,12:00
+2,10:59,MIA,Dewayne Dedmon,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,30,28,0.582,0.553,11:13
+2,9:31,MIA,Bam Adebayo,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,30,34,0.448,0.405,9:44
+2,7:38,MIN,Taurean Prince,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,35,40,0.3,0.341,7:41
+2,6:57,MIA,Gabe Vincent,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,35,43,0.326,0.343,7:38
+2,6:37,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,37,43,0.272,0.313,6:57
+2,6:36,MIA,Gabe Vincent,Loose Ball Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,37,44,0.31,0.312,6:36
+2,5:07,MIA,Tyler Herro,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,39,46,0.328,0.277,5:07
+2,3:43,MIN,Jaden McDaniels,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,42,52,0.164,0.197,3:48
+2,2:57,MIA,Kyle Lowry,Personal Take Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,47,54,0.298,0.298,2:57
+2,2:03,MIN,Malik Beasley,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,48,58,0.201,0.212,2:03
+2,1:54,MIA,Kyle Lowry,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,48,58,0.25,0.212,2:01
+2,1:47,MIN,Jaden McDaniels,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,49,58,0.175,0.213,1:54
+2,57.8,MIA,Bam Adebayo,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,49,59,0.207,0.183,1:03
+2,36.0,MIA,Kyle Lowry,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,51,59,0.246,0.235,36.0
+2,29.5,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,52,61,0.186,0.23,29.5
+3,10:28,MIA,Kyle Lowry,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,54,65,0.207,0.173,10:39
+3,10:15,MIN,Anthony Edwards,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,56,65,0.192,0.193,10:28
+3,10:13,MIA,Kyle Lowry,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,56,65,0.22,0.192,10:15
+3,10:13,MIA,Kyle Lowry,Technical Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,56,65,0.241,0.22,10:13
+3,9:30,MIA,Bam Adebayo,Loose Ball Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,59,65,0.307,0.307,9:30
+3,7:46,MIA,Gabe Vincent,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,64,68,0.369,0.371,8:05
+3,7:46,MIA,Udonis Haslem,Technical Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,64,68,0.4,0.369,7:46
+3,7:05,MIA,Duncan Robinson,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,68,68,0.583,0.525,7:18
+3,6:38,MIA,P.J. Tucker,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,68,71,0.464,0.407,6:47
+3,5:27,MIN,Anthony Edwards,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,70,75,0.285,0.285,5:34
+3,5:22,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,70,75,0.234,0.285,5:27
+3,5:11,MIA,Gabe Vincent,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,70,77,0.249,0.249,5:22
+3,3:17,MIN,Jarred Vanderbilt,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,77,77,0.414,0.481,3:25
+3,3:05,MIA,Jimmy Butler III,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,77,77,0.525,0.414,3:17
+3,2:36,MIN,Jaden McDaniels,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,77,77,0.411,0.482,2:38
+3,2:06,MIA,Dewayne Dedmon,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,77,79,0.435,0.389,2:15
+3,1:45,MIN,Malik Beasley,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,80,79,0.455,0.526,1:57
+3,29.9,MIN,Anthony Edwards,Double Technical Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,83,81,0.59,0.575,29.9
+3,10.5,MIN,Taurean Prince,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,83,81,0.503,0.59,29.9
+4,11:50,MIA,Caleb Martin,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,86,82,0.732,0.693,12:00
+4,11:31,MIN,Jaden McDaniels,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,88,82,0.754,0.765,11:44
+4,10:54,MIN,Anthony Edwards,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,88,82,0.766,0.806,11:01
+4,10:13,MIA,Gabe Vincent,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,88,84,0.733,0.683,10:16
+4,9:19,MIN,Jarred Vanderbilt,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,88,89,0.417,0.476,9:33
+4,6:31,MIN,Anthony Edwards,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,99,96,0.659,0.717,6:45
+4,5:29,MIA,Kyle Lowry,Shooting Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,102,99,0.822,0.73,5:49
+4,4:22,MIA,Bam Adebayo,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,109,99,0.977,0.962,4:32
+4,3:47,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,109,99,0.97,0.981,3:47
+4,20.0,MIA,Duncan Robinson,Personal Foul,Foul,Curtis Blair,Michael Smith,Andy Nagy,MIN,113,101,0.999,0.999,24.9

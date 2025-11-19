@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:10,DEN,Aaron Gordon,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,4,7,0.536,0.581,10:10
+1,9:57,GS,Kevon Looney,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,4,7,0.578,0.579,10:08
+1,6:58,GS,Kevon Looney,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,8,15,0.461,0.462,7:16
+1,5:48,GS,Jordan Poole,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,13,19,0.481,0.482,6:02
+1,5:43,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,15,19,0.556,0.507,5:43
+1,2:46,DEN,JaMychal Green,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,22,29,0.389,0.439,2:46
+1,1:12,GS,Gary Payton II,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,26,32,0.5,0.457,1:13
+1,45.6,GS,Gary Payton II,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,28,32,0.556,0.512,51.5
+1,1.6,DEN,Bones Hyland,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,32,34,0.499,0.537,14.0
+2,11:28,GS,Nemanja Bjelica,Loose Ball Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,35,37,0.566,0.536,11:28
+2,10:06,DEN,Bones Hyland,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,38,40,0.532,0.532,10:09
+2,8:16,DEN,JaMychal Green,Offensive Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,42,45,0.493,0.526,8:34
+2,4:01,DEN,Nikola Jokic,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,49,60,0.191,0.227,4:14
+2,3:44,GS,Otto Porter Jr.,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,49,61,0.267,0.228,3:59
+2,2:51,DEN,Aaron Gordon,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,52,61,0.274,0.277,3:08
+2,2:39,GS,Stephen Curry,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,52,61,0.348,0.301,2:39
+2,1:43,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,56,63,0.409,0.36,1:56
+2,1:32,DEN,Will Barton,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,57,63,0.31,0.358,1:41
+2,3.5,DEN,Austin Rivers,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,59,68,0.228,0.28,3.5
+3,11:46,GS,Draymond Green,Offensive Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,59,69,0.252,0.239,12:00
+3,10:44,GS,Kevon Looney,Personal Take Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,63,69,0.371,0.369,10:44
+3,10:30,GS,Kevon Looney,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,63,69,0.37,0.369,10:36
+3,8:22,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,69,71,0.563,0.507,8:25
+3,7:54,GS,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,70,74,0.484,0.424,8:02
+3,7:06,DEN,Jeff Green,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,74,74,0.477,0.456,7:19
+3,4:29,DEN,Nikola Jokic,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,80,78,0.55,0.613,4:32
+3,4:29,DEN,Aaron Gordon,Technical Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,80,78,0.581,0.55,4:29
+3,2:46,DEN,Austin Rivers,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,82,84,0.366,0.434,3:08
+3,1:16,GS,Nemanja Bjelica,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,87,85,0.719,0.654,1:25
+3,34.9,DEN,Austin Rivers,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,89,85,0.632,0.698,40.1
+3,25.7,GS,Otto Porter Jr.,Offensive Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,89,85,0.743,0.632,34.9
+3,8.3,DEN,DeMarcus Cousins,Offensive Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,89,85,0.7,0.743,25.7
+3,2.8,DEN,Bryn Forbes,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,89,85,0.632,0.7,8.3
+4,11:35,DEN,Austin Rivers,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,89,89,0.457,0.56,11:35
+4,11:20,GS,Andre Iguodala,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,89,90,0.595,0.507,11:35
+4,10:43,GS,Jordan Poole,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,91,93,0.473,0.459,11:01
+4,10:21,DEN,Austin Rivers,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,91,93,0.388,0.408,10:37
+4,10:04,GS,Otto Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,91,93,0.554,0.453,10:12
+4,9:54,DEN,Will Barton,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,93,93,0.409,0.512,10:04
+4,8:57,DEN,JaMychal Green,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,93,97,0.206,0.283,9:04
+4,6:59,DEN,Will Barton,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,99,102,0.256,0.356,6:59
+4,6:51,GS,Stephen Curry,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,99,103,0.397,0.299,6:59
+4,6:30,DEN,Will Barton,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,99,103,0.177,0.249,6:40
+4,5:38,DEN,Nikola Jokic,Loose Ball Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,101,103,0.258,0.346,5:38
+4,5:26,GS,Stephen Curry,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,101,104,0.449,0.352,5:38
+4,4:55,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,103,107,0.376,0.283,5:15
+4,4:27,GS,Jordan Poole,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,105,107,0.517,0.405,4:36
+4,4:14,DEN,Aaron Gordon,Personal Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,107,107,0.364,0.473,4:27
+4,3:58,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,107,109,0.516,0.402,4:14
+4,31.8,DEN,Monte Morris,Personal Take Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,111,116,0.017,0.05,34.7
+4,21.7,DEN,Aaron Gordon,Personal Take Foul,Foul,Courtney Kirkland,Mark Lindsay,David Guthrie,DEN,113,117,0.025,0.069,23.1

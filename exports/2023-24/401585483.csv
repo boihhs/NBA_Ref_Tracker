@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:00,MIA,Duncan Robinson,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,2,0,0.72,0.69,11:13
+1,9:17,DEN,Jamal Murray,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,9,3,0.719,0.75,9:25
+1,5:32,MIA,Duncan Robinson,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,19,9,0.839,0.839,5:37
+1,4:42,DEN,Nikola Jokic,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,21,9,0.83,0.851,4:55
+1,3:21,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,28,15,0.859,0.882,3:21
+1,1:25,DEN,Nikola Jokic,Loose Ball Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,31,18,0.848,0.871,1:25
+2,11:50,DEN,Peyton Watson,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,36,20,0.893,0.915,12:00
+2,11:20,DEN,Christian Braun,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,38,22,0.913,0.912,11:38
+2,11:09,DEN,Christian Braun,Loose Ball Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,38,22,0.914,0.913,11:09
+2,9:39,MIA,Caleb Martin,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,38,29,0.853,0.829,9:40
+2,8:24,DEN,Michael Porter Jr.,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,41,29,0.836,0.862,8:26
+2,7:35,DEN,Christian Braun,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,43,30,0.855,0.848,7:50
+2,5:20,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,43,34,0.859,0.83,5:33
+2,4:10,MIA,Duncan Robinson,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,45,39,0.764,0.766,4:26
+2,4:03,MIA,Bam Adebayo,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,45,39,0.801,0.764,4:10
+2,3:32,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,49,41,0.752,0.791,3:35
+2,2:19,DEN,Reggie Jackson,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,52,42,0.805,0.835,2:39
+2,1:02,MIA,Caleb Martin,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,52,46,0.805,0.768,1:07
+2,4.0,MIA,Bam Adebayo,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,54,49,0.766,0.747,4.0
+2,3.1,DEN,Reggie Jackson,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,56,49,0.729,0.774,4.0
+3,9:19,DEN,Aaron Gordon,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,63,54,0.789,0.829,9:28
+3,8:36,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,63,56,0.777,0.778,8:44
+3,8:30,DEN,Reggie Jackson,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,63,56,0.734,0.777,8:36
+3,5:46,MIA,Jimmy Butler III,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,67,63,0.772,0.723,5:49
+3,3:25,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,76,65,0.863,0.895,3:46
+3,2:01,MIA,Bam Adebayo,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,78,65,0.958,0.939,2:01
+4,11:58,MIA,Caleb Martin,Loose Ball Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,83,70,0.963,0.95,12:00
+4,10:58,DEN,Justin Holiday,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,86,72,0.945,0.966,11:05
+4,9:44,DEN,Michael Porter Jr.,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,86,75,0.912,0.95,9:44
+4,6:18,DEN,Nikola Jokic,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,92,81,0.953,0.956,6:32
+4,5:19,MIA,Bam Adebayo,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,92,81,0.981,0.973,5:19
+4,4:06,MIA,Bam Adebayo,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,94,85,0.965,0.958,4:25
+4,3:24,DEN,Reggie Jackson,Offensive Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,94,87,0.901,0.927,3:44
+4,2:41,DEN,Reggie Jackson,Personal Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,97,87,0.952,0.975,2:53
+4,39.2,DEN,Nikola Jokic,Offensive Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,99,95,0.822,0.88,52.1
+4,8.0,MIA,Terry Rozier,Personal Take Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,99,97,0.951,0.831,10.1
+4,6.1,MIA,Duncan Robinson,Personal Take Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,99,97,0.959,0.869,8.0
+4,3.1,MIA,Caleb Martin,Personal Take Foul,Foul,Kevin Cutler,David Guthrie,Sha'Rae Mitchell,DEN,101,97,0.996,0.982,4.1

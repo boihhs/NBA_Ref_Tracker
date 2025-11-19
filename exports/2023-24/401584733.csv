@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:00,TOR,Dennis Schroder,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,4,0,0.831,0.83,11:04
+1,5:28,POR,Scoot Henderson,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,14,10,0.829,0.829,5:30
+1,3:20,TOR,Gary Trent Jr.,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,17,16,0.749,0.748,3:26
+1,2:47,POR,Jabari Walker,Offensive Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,17,16,0.766,0.746,2:54
+1,2:08,POR,Malcolm Brogdon,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,21,16,0.847,0.819,2:08
+2,10:57,TOR,Jalen McDaniels,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,25,25,0.684,0.727,10:57
+2,9:34,POR,Toumani Camara,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,25,30,0.628,0.587,9:58
+2,8:01,POR,Shaedon Sharpe,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,30,33,0.631,0.634,8:15
+2,7:46,POR,Jabari Walker,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,32,33,0.703,0.658,7:46
+2,7:36,TOR,Gary Trent Jr.,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,33,33,0.682,0.682,7:46
+2,6:27,TOR,Jakob Poeltl,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,35,35,0.633,0.705,6:38
+2,4:31,POR,Shaedon Sharpe,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,37,41,0.619,0.574,4:42
+2,3:02,TOR,Pascal Siakam,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,43,45,0.541,0.593,3:15
+2,1:41,POR,Shaedon Sharpe,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,45,47,0.664,0.617,1:57
+2,1:00,POR,Scoot Henderson,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,46,47,0.689,0.646,1:14
+3,11:20,TOR,Jakob Poeltl,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,50,47,0.681,0.727,11:25
+3,10:07,POR,Matisse Thybulle,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,50,49,0.691,0.69,10:10
+3,8:35,TOR,Scottie Barnes,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,56,54,0.683,0.684,8:50
+3,8:03,POR,Deandre Ayton,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,58,57,0.705,0.646,8:03
+3,7:32,POR,Scoot Henderson,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,59,59,0.695,0.646,7:48
+3,5:33,POR,Jerami Grant,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,66,63,0.762,0.706,5:33
+3,4:45,POR,Jerami Grant,Offensive Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,68,65,0.738,0.705,4:56
+3,4:26,TOR,Jakob Poeltl,Offensive Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,68,65,0.703,0.738,4:45
+3,2:43,TOR,Chris Boucher,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,68,72,0.324,0.391,2:47
+3,1:13,TOR,Malachi Flynn,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,72,76,0.302,0.373,1:28
+3,10.0,TOR,Gradey Dick,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,74,80,0.234,0.311,10.0
+4,10:05,POR,Toumani Camara,Offensive Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,76,80,0.379,0.325,10:20
+4,8:38,TOR,Chris Boucher,Loose Ball Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,80,82,0.398,0.411,8:38
+4,8:30,TOR,Gradey Dick,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,80,82,0.305,0.398,8:38
+4,8:30,TOR,Scottie Barnes,Loose Ball Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,80,84,0.269,0.346,8:30
+4,8:08,POR,Malcolm Brogdon,Loose Ball Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,80,85,0.29,0.277,8:08
+4,7:38,TOR,Gradey Dick,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,80,85,0.152,0.223,7:39
+4,5:42,POR,Scoot Henderson,Shooting Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,84,86,0.474,0.336,5:42
+4,3:14,POR,Scoot Henderson,Offensive Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,87,88,0.458,0.376,3:25
+4,1:44,POR,Scoot Henderson,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,87,93,0.177,0.084,1:56
+4,20.0,TOR,Scottie Barnes,Personal Foul,Foul,Brian Forte,Dedric Taylor,Mousa Dagher,TOR,91,97,0.003,0.014,20.0

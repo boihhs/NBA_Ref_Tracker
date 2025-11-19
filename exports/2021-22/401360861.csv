@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,GS,Stephen Curry,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,3,2,0.506,0.505,10:41
+1,5:40,GS,Draymond Green,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,10,14,0.336,0.375,5:46
+1,1:18,GS,Moses Moody,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,17,23,0.277,0.314,1:20
+2,11:45,BOS,Daniel Theis,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,17,23,0.38,0.328,12:00
+2,11:11,BOS,Payton Pritchard,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,18,23,0.365,0.366,11:23
+2,9:36,BOS,Daniel Theis,Loose Ball Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,18,23,0.361,0.363,9:36
+2,9:04,GS,Jordan Poole,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,20,25,0.313,0.361,9:04
+2,6:41,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,20,28,0.211,0.247,6:47
+2,6:29,BOS,Grant Williams,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,20,30,0.259,0.224,6:41
+2,5:27,GS,Otto Porter Jr.,Personal Take Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,23,30,0.268,0.296,5:31
+2,5:17,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,23,32,0.203,0.243,5:17
+2,5:05,BOS,Jayson Tatum,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,23,33,0.256,0.22,5:17
+2,4:09,BOS,Marcus Smart,Flagrant Foul Type 1,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,25,33,0.258,0.265,4:13
+2,4:01,GS,Draymond Green,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,26,33,0.227,0.263,4:01
+2,3:29,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,28,34,0.25,0.294,3:48
+2,1:48,GS,Klay Thompson,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,30,41,0.129,0.159,2:04
+2,1:48,GS,Draymond Green,Technical Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,30,41,0.143,0.129,1:48
+2,51.8,GS,Jordan Poole,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,30,46,0.065,0.087,51.8
+2,37.3,GS,Jordan Poole,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,30,46,0.058,0.071,38.6
+3,7:02,GS,Jordan Poole,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,43,61,0.031,0.03,7:15
+3,6:57,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,43,63,0.016,0.024,6:57
+3,4:59,BOS,Jayson Tatum,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,46,67,0.014,0.015,5:05
+3,4:51,BOS,Derrick White,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,48,67,0.029,0.018,4:51
+3,1:56,GS,Juan Toscano-Anderson,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,59,77,0.012,0.021,1:56
+3,1:44,BOS,Grant Williams,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,61,77,0.042,0.026,1:44
+3,58.9,BOS,Jayson Tatum,Personal Take Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,64,77,0.093,0.053,1:20
+4,11:46,GS,Jonathan Kuminga,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,69,79,0.084,0.104,12:00
+4,10:41,BOS,Derrick White,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,69,83,0.059,0.036,11:00
+4,9:07,BOS,Derrick White,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,71,83,0.056,0.052,9:12
+4,8:35,GS,Kevon Looney,Loose Ball Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,73,83,0.06,0.064,8:35
+4,8:31,GS,Quinndary Weatherspoon,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,73,83,0.057,0.084,8:35
+4,8:22,BOS,Payton Pritchard,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,73,83,0.129,0.08,8:23
+4,6:23,GS,Quinndary Weatherspoon,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,76,89,0.008,0.016,6:35
+4,4:40,BOS,Jayson Tatum,Loose Ball Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,76,95,0.001,0.001,4:40
+4,4:02,BOS,Jaylen Brown,Personal Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,79,98,0.001,0.001,4:15
+4,2:36,GS,Juan Toscano-Anderson,Shooting Foul,Foul,James Capers,Karl Lane,Lauren Holtkamp,GS,84,100,0.001,0.001,2:55

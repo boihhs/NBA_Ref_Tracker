@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:26,PHI,Joel Embiid,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,0,0,0.394,0.356,11:39
+1,7:20,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,5,9,0.228,0.259,7:22
+1,6:24,LAC,Reggie Jackson,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,7,11,0.23,0.259,6:42
+1,6:07,LAC,Nicolas Batum,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,7,15,0.172,0.203,6:07
+1,5:13,LAC,Ivica Zubac,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,7,18,0.119,0.138,5:19
+1,2:39,LAC,Robert Covington,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,11,25,0.082,0.098,2:51
+1,1:30,LAC,Amir Coffey,Personal Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,11,30,0.042,0.051,1:35
+1,1:14,PHI,DeAndre Jordan,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,13,32,0.066,0.051,1:14
+1,59.4,LAC,Luke Kennard,Clear Path Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,14,32,0.047,0.057,59.9
+1,5.1,PHI,Georges Niang,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,16,32,0.102,0.084,9.2
+2,10:44,LAC,Terance Mann,Personal Take Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,23,36,0.105,0.106,10:44
+2,8:46,PHI,James Harden,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,26,38,0.157,0.133,8:51
+2,6:06,PHI,Matisse Thybulle,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,28,46,0.07,0.056,6:15
+2,5:53,LAC,Ivica Zubac,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,30,46,0.052,0.065,6:06
+2,3:45,LAC,Terance Mann,Personal Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,35,50,0.057,0.071,3:56
+2,3:18,LAC,Marcus Morris Sr.,Defensive 3-Seconds Technical,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,37,50,0.098,0.094,3:34
+2,1:31,LAC,Ivica Zubac,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,39,59,0.024,0.032,1:31
+2,3.1,LAC,Robert Covington,Personal Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,41,62,0.015,0.02,3.6
+2,1.0,PHI,Tyrese Maxey,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,41,64,0.023,0.017,3.1
+2,12:00,LAC,Robert Covington,Technical Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,19,36,0.06,0.024,0.0
+3,11:48,PHI,Matisse Thybulle,Personal Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,43,64,0.024,0.024,12:00
+3,10:06,PHI,Joel Embiid,Offensive Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,47,66,0.032,0.026,10:14
+3,9:43,PHI,Matisse Thybulle,Loose Ball Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,47,66,0.031,0.031,9:43
+3,7:50,LAC,Terance Mann,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,51,71,0.012,0.017,8:05
+3,7:37,LAC,Terance Mann,Offensive Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,51,73,0.01,0.013,7:50
+3,6:51,PHI,Joel Embiid,Technical Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,54,73,0.029,0.024,6:51
+3,6:51,LAC,Reggie Jackson,Offensive Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,55,73,0.024,0.031,6:51
+3,3:27,LAC,Ivica Zubac,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,65,83,0.011,0.016,3:34
+3,8.7,PHI,Georges Niang,Personal Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,71,93,0.005,0.003,19.0
+4,11:25,PHI,DeAndre Jordan,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,71,93,0.005,0.003,11:36
+4,9:10,PHI,DeAndre Jordan,Personal Take Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,72,98,0.001,0.001,9:10
+4,7:59,PHI,Danny Green,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,74,98,0.001,0.001,7:59
+4,7:19,LAC,Robert Covington,Personal Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,75,100,0.001,0.001,7:19
+4,6:03,PHI,Georges Niang,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,80,105,0.001,0.001,6:03
+4,4:38,PHI,Paul Reed,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,84,110,0.001,0.001,4:52
+4,4:05,PHI,Shake Milton,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,86,112,0.001,0.001,4:06
+4,2:06,PHI,Paul Reed,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,88,116,0.001,0.001,2:16
+4,1:04,PHI,Paul Reed,Shooting Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,93,120,0.001,0.001,1:15
+4,1:21,LAC,Semi Ojeleye,Personal Foul,Foul,Josh Tiven,Eric Dalen,J.B. DeRosa,LAC,93,118,0.001,0.001,40.5

@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:22,CHI,DeMar DeRozan,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,6,4,0.424,0.443,9:32
+1,8:49,CHI,Lonzo Ball,Loose Ball Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,6,6,0.396,0.395,8:49
+1,8:21,MIA,Duncan Robinson,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,6,6,0.42,0.42,8:28
+1,7:27,MIA,P.J. Tucker,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,6,6,0.421,0.422,7:33
+1,6:07,MIA,P.J. Tucker,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,8,10,0.361,0.348,6:07
+1,4:58,MIA,Bam Adebayo,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,11,15,0.362,0.324,5:14
+1,1:16,MIA,Gabe Vincent,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,16,25,0.246,0.215,1:23
+1,3.2,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,20,25,0.244,0.278,24.3
+2,9:10,MIA,Gabe Vincent,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,27,33,0.278,0.279,9:19
+2,7:51,MIA,Duncan Robinson,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,30,35,0.304,0.305,8:12
+2,7:11,CHI,Javonte Green,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,30,35,0.277,0.278,7:21
+2,5:54,MIA,Max Strus,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,32,37,0.346,0.303,5:57
+2,1:29,MIA,Jimmy Butler III,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,42,48,0.317,0.273,1:43
+2,1:17,CHI,Zach LaVine,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,44,48,0.259,0.3,1:29
+3,11:38,MIA,Jimmy Butler III,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,46,49,0.389,0.351,12:00
+3,10:14,CHI,Javonte Green,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,50,52,0.364,0.363,10:22
+3,8:37,CHI,Zach LaVine,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,53,54,0.401,0.4,8:48
+3,6:46,MIA,Duncan Robinson,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,55,62,0.275,0.227,6:59
+3,5:50,CHI,Zach LaVine,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,60,62,0.308,0.362,6:01
+3,5:37,MIA,Duncan Robinson,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,62,64,0.401,0.363,5:37
+3,4:29,CHI,Lonzo Ball,Offensive Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,63,66,0.322,0.361,4:29
+3,4:05,CHI,Nikola Vucevic,Technical Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,63,66,0.293,0.321,4:05
+3,3:11,MIA,Dewayne Dedmon,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,66,67,0.513,0.446,3:18
+3,3:08,MIA,Max Strus,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,66,67,0.513,0.513,3:11
+3,1:07,CHI,Derrick Jones Jr.,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,70,69,0.496,0.495,1:22
+3,41.7,CHI,DeMar DeRozan,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,70,71,0.333,0.398,53.0
+4,11:07,MIA,Gabe Vincent,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,76,72,0.747,0.652,11:07
+4,11:07,MIA,Dewayne Dedmon,Technical Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,76,72,0.742,0.747,11:07
+4,10:16,CHI,Coby White,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,80,75,0.626,0.713,10:24
+4,9:56,MIA,Kyle Lowry,Offensive Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,80,77,0.667,0.61,9:57
+4,8:55,CHI,DeMar DeRozan,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,80,80,0.431,0.45,8:55
+4,6:24,MIA,Bam Adebayo,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,82,89,0.205,0.134,6:38
+4,5:52,MIA,Gabe Vincent,Loose Ball Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,84,89,0.23,0.211,5:52
+4,3:26,CHI,Nikola Vucevic,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,91,95,0.099,0.186,3:43
+4,2:39,CHI,Zach LaVine,Offensive Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,91,98,0.046,0.074,2:41
+4,1:49,CHI,Lonzo Ball,Personal Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,94,100,0.023,0.059,2:04
+4,55.7,MIA,P.J. Tucker,Shooting Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,96,102,0.106,0.031,55.7
+4,13.5,CHI,Derrick Jones Jr.,Personal Take Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,99,104,0.005,0.02,13.8
+4,6.7,CHI,Lonzo Ball,Personal Take Foul,Foul,James Williams,Dedric Taylor,Danielle Scott,CHI,101,105,0.006,0.032,8.8

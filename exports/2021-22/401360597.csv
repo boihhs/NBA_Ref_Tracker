@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:29,DAL,Dwight Powell,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,0,0,0.668,0.703,11:37
+1,9:41,OKC,Tre Mann,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,5,9,0.659,0.627,10:03
+1,8:17,DAL,Dwight Powell,Offensive Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,11,9,0.73,0.751,8:21
+1,1:18,OKC,Luguentz Dort,Personal Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,28,28,0.718,0.683,1:25
+1,31.8,DAL,Josh Green,Loose Ball Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,28,28,0.611,0.652,31.8
+2,10:35,OKC,Darius Bazley,Offensive Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,35,30,0.789,0.767,10:44
+2,9:19,OKC,Ty Jerome,Defensive 3-Seconds Technical,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,35,32,0.729,0.743,9:28
+2,8:19,OKC,Mike Muscala,Personal Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,39,32,0.824,0.826,8:31
+2,7:59,DAL,Dwight Powell,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,39,32,0.804,0.804,8:07
+2,7:21,DAL,Jalen Brunson,Offensive Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,39,34,0.761,0.783,7:23
+2,6:40,OKC,Ty Jerome,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,39,36,0.771,0.736,6:46
+2,5:30,DAL,Frank Ntilikina,Personal Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,42,36,0.78,0.802,5:49
+2,5:19,DAL,Luka Doncic,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,42,36,0.745,0.78,5:30
+2,3:44,DAL,Frank Ntilikina,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,44,39,0.715,0.755,3:53
+2,3:05,OKC,Tre Mann,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,44,41,0.766,0.731,3:11
+2,2:24,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,47,43,0.684,0.726,2:39
+2,1:06,DAL,Maxi Kleber,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,51,47,0.722,0.722,1:06
+2,10.0,OKC,Luguentz Dort,Personal Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,51,51,0.676,0.63,27.6
+3,11:30,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,53,51,0.661,0.661,11:31
+3,7:37,OKC,Mamadi Diakite,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,61,64,0.554,0.496,7:50
+3,6:49,OKC,Mamadi Diakite,Loose Ball Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,63,64,0.569,0.57,6:59
+3,4:31,DAL,Dorian Finney-Smith,Defensive 3-Seconds Technical,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,68,67,0.609,0.598,4:44
+3,2:20,OKC,Kenrich Williams,Personal Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,70,76,0.318,0.321,2:28
+3,1:18,DAL,Marquese Chriss,Offensive Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,72,79,0.224,0.268,1:33
+4,9:50,DAL,Dwight Powell,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,83,88,0.183,0.257,10:04
+4,6:42,OKC,Ty Jerome,Personal Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,87,91,0.328,0.312,6:46
+4,5:59,DAL,Luka Doncic,Personal Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,87,91,0.233,0.25,6:13
+4,4:25,DAL,Luka Doncic,Personal Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,87,93,0.117,0.117,4:25
+4,4:02,OKC,Aaron Wiggins,Personal Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,87,93,0.168,0.151,4:09
+4,3:00,DAL,Maxi Kleber,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,90,95,0.065,0.13,3:14
+4,1:31,OKC,Josh Giddey,Away from Play Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,94,99,0.239,0.115,1:31
+5,3:17,DAL,Jalen Brunson,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,105,108,0.145,0.241,3:37
+5,1:16,DAL,Jalen Brunson,Shooting Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,107,112,0.043,0.072,1:31
+5,1:04,OKC,Tre Mann,Personal Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,107,114,0.102,0.037,1:16
+5,21.1,DAL,Jalen Brunson,Personal Take Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,112,117,0.033,0.035,22.2
+5,12.1,DAL,Dorian Finney-Smith,Personal Take Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,114,119,0.004,0.021,14.0
+5,1:16,DAL,Luka Doncic,Technical Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,107,114,0.016,0.002,6.6
+5,1:16,OKC,Darius Bazley,Technical Foul,Foul,Ben Taylor,Nick Buchert,Jonathan Sterling,DAL,107,114,0.074,0.016,1:16

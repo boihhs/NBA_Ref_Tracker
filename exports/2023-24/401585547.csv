@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,DET,Jalen Duren,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,0,4,0.186,0.217,11:11
+1,9:34,DAL,Daniel Gafford,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,2,7,0.229,0.204,9:35
+1,9:16,DAL,Luka Doncic,Personal Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,4,7,0.239,0.239,9:18
+1,8:10,DET,Jalen Duren,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,6,9,0.211,0.242,8:10
+1,7:04,DAL,Daniel Gafford,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,8,13,0.237,0.207,7:10
+1,5:36,DAL,Dwight Powell,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,15,17,0.304,0.272,5:38
+1,5:35,DET,Ausar Thompson,Loose Ball Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,16,17,0.27,0.269,5:35
+1,5:08,DET,Cade Cunningham,Personal Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,18,17,0.283,0.317,5:20
+1,4:16,DET,Cade Cunningham,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,18,19,0.261,0.298,4:16
+1,3:36,DAL,Maxi Kleber,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,18,22,0.269,0.236,3:55
+1,2:18,DAL,Dwight Powell,Personal Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,23,25,0.318,0.283,2:26
+1,1:36,DET,Marcus Sasser,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,25,29,0.208,0.241,1:36
+1,31.1,DET,Jaden Ivey,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,30,35,0.191,0.225,31.1
+2,12:00,DAL,Dwight Powell,Technical Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,33,35,0.311,0.281,12:00
+2,11:25,DET,James Wiseman,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,36,35,0.326,0.342,11:33
+2,10:34,DET,James Wiseman,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,36,37,0.261,0.321,10:47
+2,8:19,DAL,Dante Exum,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,41,42,0.372,0.331,8:28
+2,6:09,DET,Stanley Umude,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,45,49,0.219,0.261,6:09
+2,4:06,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,52,58,0.253,0.272,10:34
+2,2:03,DET,Jalen Duren,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,58,62,0.207,0.243,2:10
+2,11.1,DAL,Josh Green,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,62,69,0.234,0.196,34.0
+3,11:26,DET,Simone Fontecchio,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,65,69,0.208,0.244,11:44
+3,11:10,DAL,Derrick Jones Jr.,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,65,71,0.261,0.221,11:26
+3,8:09,DET,Jaden Ivey,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,71,81,0.086,0.108,8:18
+3,6:22,DAL,Kyrie Irving,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,76,89,0.095,0.073,6:35
+3,5:33,DET,James Wiseman,Loose Ball Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,80,91,0.084,0.083,5:33
+3,5:28,DET,Simone Fontecchio,Personal Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,80,91,0.064,0.084,5:33
+3,1:39,DET,Marcus Sasser,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,86,101,0.021,0.033,1:39
+3,1:32,DET,Marcus Sasser,Offensive Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,86,101,0.025,0.033,1:35
+3,1:04,DAL,Maxi Kleber,Loose Ball Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,86,101,0.046,0.031,1:04
+4,11:41,DET,Stanley Umude,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,88,106,0.005,0.01,11:41
+4,11:36,DAL,Dante Exum,Personal Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,88,107,0.008,0.007,11:41
+4,10:20,DAL,Daniel Gafford,Offensive Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,91,111,0.004,0.003,10:39
+4,9:36,DET,Simone Fontecchio,Personal Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,91,111,0.002,0.002,9:36
+4,9:20,DAL,Josh Green,Personal Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,91,111,0.003,0.003,9:21
+4,9:07,DET,Stanley Umude,Flagrant Foul Type 1,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,91,111,0.002,0.002,9:09
+4,7:03,DET,Jaden Ivey,Personal Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,93,116,0.001,0.001,7:06
+4,7:03,DET,Jalen Duren,Technical Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,93,116,0.001,0.001,7:03
+4,7:03,DAL,P.J. Washington,Technical Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,93,116,0.001,0.001,7:03
+4,7:03,DET,Jalen Duren,Technical Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,93,116,0.001,0.001,7:03
+4,6:00,DET,James Wiseman,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,97,120,0.001,0.001,6:14
+4,4:57,DET,Simone Fontecchio,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,101,122,0.001,0.001,5:12
+4,4:10,DAL,Dwight Powell,Offensive Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,104,126,0.001,0.001,4:29
+4,3:33,DET,James Wiseman,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,108,126,0.001,0.001,3:43
+4,2:49,DAL,Dwight Powell,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,110,128,0.001,0.001,2:52
+4,2:18,DAL,Josh Green,Shooting Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,114,131,0.001,0.001,2:18
+4,1:50,DET,Malachi Flynn,Personal Foul,Foul,Jacyn Goble,Mitchell Ervin,Brandon Schwab,DET,118,133,0.001,0.001,1:55

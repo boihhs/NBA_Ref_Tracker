@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:20,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,5,8,0.548,0.548,8:20
+1,7:43,SAC,Keegan Murray,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,5,8,0.583,0.547,8:00
+1,7:18,SAC,Kevin Huerter,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,6,11,0.489,0.491,7:28
+1,6:26,GS,Klay Thompson,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,8,11,0.514,0.512,6:30
+1,5:39,GS,Andrew Wiggins,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,10,11,0.563,0.564,5:47
+1,5:29,GS,Donte DiVincenzo,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,10,11,0.525,0.563,5:39
+1,5:03,GS,Draymond Green,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,10,12,0.496,0.539,5:18
+1,4:58,GS,Jordan Poole,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,10,14,0.462,0.51,4:58
+1,3:19,SAC,Terence Davis,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,15,17,0.597,0.558,3:23
+1,2:29,SAC,Terence Davis,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,17,17,0.65,0.609,2:29
+1,1:46,SAC,De'Aaron Fox,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,20,21,0.624,0.58,1:53
+2,10:30,SAC,Keegan Murray,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,25,28,0.513,0.516,10:47
+2,10:21,SAC,Terence Davis,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,25,28,0.555,0.513,10:30
+2,9:03,GS,Jordan Poole,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,31,32,0.541,0.536,9:08
+2,9:03,SAC,De'Aaron Fox,Technical Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,31,32,0.59,0.541,9:03
+2,7:56,SAC,Malik Monk,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,32,36,0.517,0.475,8:11
+2,7:09,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,35,39,0.415,0.437,7:25
+2,4:56,SAC,Kevin Huerter,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,38,46,0.38,0.332,5:01
+2,3:00,GS,Andrew Wiggins,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,43,51,0.249,0.287,3:02
+2,1:59,SAC,Malik Monk,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,45,55,0.298,0.257,2:11
+2,1:14,SAC,Domantas Sabonis,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,49,57,0.359,0.309,1:32
+2,36.1,SAC,Kevin Huerter,Loose Ball Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,50,57,0.388,0.338,37.1
+2,25.1,GS,Stephen Curry,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,51,57,0.289,0.337,36.1
+3,10:37,GS,Andrew Wiggins,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,53,61,0.258,0.29,10:37
+3,10:29,GS,Klay Thompson,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,53,61,0.258,0.258,10:37
+3,9:24,SAC,Domantas Sabonis,Offensive Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,57,65,0.282,0.249,9:32
+3,9:09,SAC,Domantas Sabonis,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,57,65,0.332,0.282,9:24
+3,7:12,GS,Kevon Looney,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,63,70,0.217,0.264,7:21
+3,6:23,SAC,Domantas Sabonis,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,66,74,0.256,0.257,6:24
+3,5:46,GS,Donte DiVincenzo,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,66,74,0.175,0.219,5:51
+3,4:42,SAC,Trey Lyles,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,68,75,0.337,0.281,5:04
+3,1:58,GS,Klay Thompson,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,75,87,0.058,0.081,2:00
+3,50.1,SAC,Terence Davis,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,78,88,0.185,0.139,53.2
+3,17.1,SAC,De'Aaron Fox,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,78,88,0.179,0.134,29.1
+3,3.0,GS,Draymond Green,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,80,88,0.116,0.162,17.1
+4,11:23,SAC,Terence Davis,Loose Ball Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,80,90,0.129,0.119,11:23
+4,10:03,GS,Andrew Wiggins,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,85,95,0.054,0.085,10:06
+4,9:54,SAC,Trey Lyles,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,85,97,0.102,0.065,10:03
+4,9:45,GS,Stephen Curry,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,86,97,0.04,0.064,9:54
+4,8:15,SAC,Terence Davis,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,93,102,0.18,0.116,8:18
+4,7:28,SAC,Malik Monk,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,94,104,0.131,0.083,7:31
+4,7:15,GS,Moses Moody,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,94,104,0.036,0.063,7:24
+4,5:17,SAC,Domantas Sabonis,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,96,109,0.033,0.02,5:31
+4,5:15,GS,Draymond Green,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,96,109,0.006,0.011,5:15
+4,4:16,SAC,Kevin Huerter,Loose Ball Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,96,112,0.005,0.002,4:16
+4,4:04,GS,Jordan Poole,Personal Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,97,112,0.001,0.002,4:16
+4,3:25,SAC,Kevin Huerter,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Ben Taylor,GS,97,116,0.001,0.001,3:28

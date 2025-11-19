@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,MIA,Bam Adebayo,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,0,0,0.254,0.285,12:00
+1,8:49,MIA,Tyler Herro,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,8,9,0.245,0.27,9:04
+1,7:54,BOS,Jayson Tatum,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,10,13,0.255,0.255,7:59
+1,7:26,MIA,Nikola Jovic,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,12,13,0.248,0.278,7:41
+1,7:16,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,12,15,0.258,0.259,7:16
+1,4:29,MIA,Haywood Highsmith,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,14,23,0.122,0.142,4:46
+1,1:58,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,18,29,0.098,0.115,2:20
+1,19.1,BOS,Jrue Holiday,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,22,34,0.137,0.116,37.0
+2,9:44,BOS,Payton Pritchard,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,24,39,0.079,0.077,9:58
+2,9:17,MIA,Bam Adebayo,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,24,39,0.069,0.069,9:17
+2,8:34,BOS,Jayson Tatum,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,26,39,0.111,0.088,8:34
+2,7:26,MIA,Haywood Highsmith,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,29,39,0.127,0.126,7:41
+2,5:40,MIA,Caleb Martin,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,31,41,0.127,0.126,5:47
+2,2:57,MIA,Caleb Martin,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,31,47,0.041,0.052,3:04
+2,2:57,BOS,Al Horford,Offensive Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,31,47,0.061,0.041,2:57
+2,2:27,BOS,Derrick White,Personal Take Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,31,47,0.06,0.06,2:29
+2,1:51,MIA,Haywood Highsmith,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,31,47,0.039,0.05,1:51
+3,10:36,BOS,Jayson Tatum,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,36,58,0.016,0.015,10:36
+3,8:50,MIA,Bam Adebayo,Offensive Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,38,58,0.016,0.021,9:04
+3,7:38,BOS,Derrick White,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,41,58,0.037,0.036,7:49
+3,6:31,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,41,62,0.013,0.013,6:39
+3,6:17,BOS,Al Horford,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,41,62,0.019,0.013,6:17
+3,4:53,MIA,Haywood Highsmith,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,45,66,0.008,0.008,4:53
+3,3:16,MIA,Haywood Highsmith,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,47,71,0.001,0.002,3:39
+3,2:44,BOS,Sam Hauser,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,49,75,0.002,0.001,2:44
+3,2:34,MIA,Bam Adebayo,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,50,75,0.001,0.001,2:44
+3,1:19,BOS,Luke Kornet,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,55,79,0.002,0.001,1:19
+4,11:50,BOS,Jaylen Brown,Offensive Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,59,81,0.003,0.002,12:00
+4,11:40,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,59,81,0.005,0.003,11:50
+4,10:23,MIA,Caleb Martin,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,64,83,0.004,0.005,10:39
+4,8:20,BOS,Al Horford,Loose Ball Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,68,86,0.005,0.004,8:20
+4,8:07,BOS,Derrick White,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,68,86,0.005,0.005,8:20
+4,8:02,BOS,Jrue Holiday,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,70,86,0.014,0.007,8:02
+4,5:04,MIA,Patty Mills,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,78,91,0.009,0.011,5:21
+4,5:04,MIA,Bam Adebayo,Flagrant Foul Type 1,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,78,91,0.011,0.009,5:04
+4,5:04,BOS,Al Horford,Technical Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,78,91,0.02,0.011,5:04
+4,2:46,BOS,Jrue Holiday,Shooting Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,78,97,0.001,0.001,2:46
+4,2:16,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,79,97,0.001,0.001,2:23
+4,1:36,MIA,Delon Wright,Personal Foul,Foul,Courtney Kirkland,John Goble,Mitchell Ervin,MIA,83,99,0.001,0.001,1:45

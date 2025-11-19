@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:24,MIN,Jaden McDaniels,Double Technical Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,7,3,0.605,0.615,10:24
+1,10:08,MIN,Kyle Anderson,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,7,3,0.613,0.605,10:24
+1,8:09,MIN,Anthony Edwards,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,11,13,0.479,0.433,8:09
+1,7:26,MIN,Naz Reid,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,12,13,0.524,0.486,7:28
+1,6:32,LAL,LeBron James,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,15,15,0.446,0.486,6:37
+1,4:46,LAL,Dennis Schroder,Loose Ball Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,19,17,0.54,0.539,4:46
+1,4:25,LAL,Patrick Beverley,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,19,17,0.521,0.54,4:25
+1,4:14,MIN,Nathan Knight,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,19,18,0.58,0.542,4:23
+1,3:54,MIN,Jaden McDaniels,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,21,20,0.581,0.542,4:04
+1,3:26,LAL,Thomas Bryant,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,21,20,0.47,0.513,3:34
+1,2:50,LAL,Anthony Davis,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,23,21,0.521,0.541,3:02
+1,1:23,LAL,Anthony Davis,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,25,25,0.441,0.486,1:30
+1,1:00,MIN,Nathan Knight,Loose Ball Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,25,27,0.499,0.456,1:00
+1,34.2,MIN,Kyle Anderson,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,27,30,0.47,0.427,44.9
+2,11:52,MIN,Nathan Knight,Offensive Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,30,30,0.514,0.5,12:00
+2,11:07,MIN,Nathan Knight,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,32,32,0.535,0.484,11:07
+2,10:00,MIN,Naz Reid,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,35,34,0.588,0.545,10:12
+2,8:11,MIN,Bryn Forbes,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,39,36,0.604,0.605,8:15
+2,6:34,MIN,Bryn Forbes,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,39,42,0.466,0.422,6:53
+2,6:30,MIN,Bryn Forbes,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,39,42,0.466,0.466,6:34
+2,3:50,MIN,Anthony Edwards,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,43,53,0.253,0.216,4:02
+2,2:40,MIN,Jaylen Nowell,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,46,56,0.249,0.21,2:45
+2,1:39,MIN,Anthony Edwards,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,48,60,0.194,0.161,1:53
+2,19.4,LAL,Thomas Bryant,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,52,62,0.159,0.201,19.4
+3,11:39,MIN,Jaden McDaniels,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,54,62,0.296,0.25,11:39
+3,10:40,MIN,Jaden McDaniels,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,59,65,0.33,0.272,10:40
+3,10:05,LAL,Russell Westbrook,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,62,67,0.28,0.336,10:05
+3,9:11,MIN,Naz Reid,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,65,68,0.408,0.408,9:24
+3,8:59,LAL,Patrick Beverley,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,65,68,0.37,0.367,8:59
+3,8:03,LAL,Patrick Beverley,Offensive Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,67,70,0.365,0.406,8:14
+3,7:42,MIN,Jaden McDaniels,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,67,72,0.386,0.33,7:52
+3,7:32,LAL,Lonnie Walker IV,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,67,72,0.245,0.293,7:34
+3,6:51,LAL,Anthony Davis,Offensive Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,69,73,0.326,0.364,6:52
+3,5:18,MIN,Jaylen Nowell,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,71,78,0.301,0.248,5:31
+3,5:12,LAL,Matt Ryan,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,72,78,0.2,0.246,5:18
+3,4:47,LAL,Matt Ryan,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,72,78,0.197,0.243,4:49
+3,3:44,LAL,Matt Ryan,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,75,82,0.182,0.239,3:44
+3,3:17,MIN,Austin Rivers,Transition Take Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,75,83,0.199,0.199,3:18
+3,2:00,MIN,Austin Rivers,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,78,85,0.286,0.226,2:01
+4,10:52,LAL,Cole Swider,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,82,89,0.128,0.194,10:52
+4,10:07,MIN,Luka Garza,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,82,91,0.177,0.12,10:09
+4,9:55,LAL,Cole Swider,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,84,91,0.1,0.149,10:07
+4,9:13,LAL,Wenyen Gabriel,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,84,95,0.03,0.05,9:16
+4,7:10,LAL,Wenyen Gabriel,Offensive Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,92,104,0.024,0.036,7:27
+4,6:44,MIN,Josh Minott,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,92,107,0.021,0.011,6:57
+4,5:09,MIN,Josh Minott,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,101,107,0.252,0.159,5:14
+4,4:25,LAL,Wenyen Gabriel,Shooting Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,103,107,0.122,0.201,4:34
+4,35.7,LAL,Scotty Pippen Jr.,Personal Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,110,114,0.032,0.082,39.0
+4,28.9,LAL,Scotty Pippen Jr.,Personal Take Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,113,116,0.055,0.116,31.5
+4,5.0,LAL,Wenyen Gabriel,Personal Take Foul,Foul,Brent Barnaky,Curtis Blair,Che Flores,LAL,113,117,0.005,0.019,5.1

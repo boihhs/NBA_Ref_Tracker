@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,NO,Brandon Ingram,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,7,0,0.778,0.746,10:51
+1,9:11,NO,Jonas Valanciunas,Offensive Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,12,2,0.818,0.765,9:24
+1,9:00,NO,CJ McCollum,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,12,2,0.818,0.818,9:11
+1,7:25,LAL,D'Angelo Russell,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,17,4,0.851,0.85,7:28
+1,4:50,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,24,10,0.845,0.868,5:10
+1,4:20,LAL,Anthony Davis,Defensive 3-Seconds Technical,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,24,12,0.842,0.836,4:30
+1,4:09,NO,Naji Marshall,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,24,13,0.85,0.839,4:09
+1,3:34,LAL,Dennis Schroder,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,28,15,0.855,0.855,3:43
+1,3:17,NO,Jose Alvarado,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,28,15,0.889,0.87,3:26
+1,1:40,LAL,Mo Bamba,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,32,21,0.81,0.842,1:40
+1,1:17,LAL,Mo Bamba,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,32,21,0.796,0.824,1:21
+1,1:01,NO,Josh Richardson,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,32,23,0.835,0.808,1:17
+2,11:01,NO,Naji Marshall,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,38,30,0.818,0.791,11:11
+2,10:52,LAL,Mo Bamba,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,41,30,0.829,0.829,11:01
+2,7:57,LAL,Rui Hachimura,Offensive Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,47,36,0.834,0.851,8:12
+2,7:20,LAL,Malik Beasley,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,47,36,0.804,0.835,7:23
+2,7:09,NO,Jose Alvarado,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,47,37,0.861,0.836,7:17
+2,6:06,LAL,Troy Brown Jr.,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,49,37,0.855,0.854,6:16
+2,5:21,NO,Josh Richardson,Loose Ball Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,49,40,0.818,0.819,5:21
+2,4:47,NO,Willy Hernangomez,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,51,42,0.848,0.82,4:59
+2,4:30,LAL,D'Angelo Russell,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,51,42,0.763,0.798,4:43
+2,3:17,LAL,Anthony Davis,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,53,44,0.765,0.802,3:27
+2,1:07,LAL,LeBron James,Offensive Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,55,49,0.726,0.755,1:12
+3,11:18,NO,Herbert Jones,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,55,51,0.745,0.703,11:26
+3,9:34,LAL,Malik Beasley,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,61,55,0.688,0.734,9:47
+3,9:22,NO,Trey Murphy III,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,61,56,0.778,0.736,9:34
+3,8:33,LAL,D'Angelo Russell,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,65,56,0.821,0.818,8:52
+3,7:48,NO,Josh Richardson,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,65,61,0.703,0.706,7:59
+3,6:58,NO,Brandon Ingram,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,65,63,0.689,0.637,7:17
+3,6:19,NO,Brandon Ingram,Offensive Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,69,65,0.708,0.673,6:27
+3,5:12,LAL,Troy Brown Jr.,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,71,65,0.719,0.745,5:13
+3,4:39,NO,Willy Hernangomez,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,73,65,0.857,0.812,4:39
+3,4:20,LAL,Anthony Davis,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,73,65,0.765,0.812,4:37
+3,4:11,NO,Naji Marshall,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,73,67,0.827,0.784,4:20
+3,2:37,LAL,Troy Brown Jr.,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,79,67,0.885,0.913,2:39
+3,1:00,NO,CJ McCollum,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,81,71,0.934,0.908,1:02
+3,31.1,LAL,Austin Reaves,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,84,71,0.917,0.942,37.1
+3,9.2,NO,Jose Alvarado,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,87,73,0.974,0.956,9.2
+3,0.0,NO,Josh Richardson,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,87,75,0.962,0.948,2.0
+4,11:30,NO,CJ McCollum,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,89,75,0.973,0.971,11:31
+4,10:52,NO,Josh Richardson,Technical Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,91,75,0.989,0.986,10:52
+4,10:52,NO,Josh Richardson,Technical Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,92,75,0.992,0.99,10:52
+4,9:58,LAL,Austin Reaves,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,95,77,0.99,0.991,10:09
+4,9:42,NO,Jonas Valanciunas,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,95,79,0.993,0.988,9:47
+4,8:59,NO,Brandon Ingram,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,97,82,0.991,0.982,8:59
+4,8:17,NO,CJ McCollum,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,98,84,0.992,0.984,8:43
+4,8:08,NO,Jonas Valanciunas,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,100,84,0.995,0.991,8:08
+4,7:53,NO,Brandon Ingram,Offensive Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,101,84,0.996,0.993,8:08
+4,5:44,NO,Jose Alvarado,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,104,87,0.998,0.998,5:52
+4,2:01,LAL,Mo Bamba,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,117,97,0.999,0.999,2:04
+4,46.1,LAL,Mo Bamba,Shooting Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,117,99,0.999,0.999,51.1
+4,28.0,LAL,Wenyen Gabriel,Personal Foul,Foul,Leon Wood,David Guthrie,J.B. DeRosa,LAL,120,101,0.999,0.999,28.0

@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:06,BKN,James Harden,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,2,6,0.699,0.729,10:08
+1,7:10,BKN,DeAndre' Bembry,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,8,13,0.651,0.687,7:21
+1,6:59,BKN,Blake Griffin,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,8,13,0.649,0.651,7:10
+1,6:22,ORL,Terrence Ross,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,8,15,0.656,0.656,6:27
+1,6:09,BKN,DeAndre' Bembry,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,8,15,0.588,0.628,6:11
+1,5:47,ORL,Gary Harris,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,11,17,0.676,0.65,5:47
+1,4:30,ORL,Gary Harris,Loose Ball Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,12,19,0.641,0.638,4:30
+1,3:46,ORL,Gary Harris,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,12,21,0.621,0.578,3:59
+1,1.1,BKN,James Johnson,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,25,39,0.307,0.349,5.9
+2,10:53,BKN,James Johnson,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,27,43,0.275,0.279,10:58
+2,9:25,BKN,James Johnson,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,29,43,0.27,0.318,9:45
+2,7:16,BKN,Bruce Brown,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,37,49,0.366,0.382,7:16
+2,6:19,ORL,Cole Anthony,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,39,52,0.336,0.34,6:34
+2,5:13,ORL,Franz Wagner,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,39,58,0.155,0.158,5:21
+2,4:57,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,39,58,0.188,0.153,5:00
+2,4:34,BKN,Bruce Brown,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,41,58,0.139,0.173,4:57
+2,4:16,ORL,Mo Bamba,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,41,58,0.233,0.192,4:22
+2,4:06,BKN,Jevon Carter,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,43,58,0.177,0.218,4:16
+2,34.3,ORL,Terrence Ross,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,48,62,0.272,0.227,38.1
+2,29.4,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,50,62,0.284,0.251,34.3
+2,8.0,ORL,Jalen Suggs,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,50,62,0.334,0.284,29.4
+3,8:58,ORL,Cole Anthony,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,60,66,0.431,0.453,9:01
+3,8:46,BKN,Blake Griffin,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,62,66,0.432,0.493,8:58
+3,8:11,ORL,Franz Wagner,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,64,70,0.445,0.447,8:22
+3,7:53,ORL,Cole Anthony,Technical Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,66,70,0.551,0.52,7:53
+3,4:31,BKN,James Johnson,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,77,75,0.627,0.687,4:47
+3,3:00,ORL,Wendell Carter Jr.,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,83,79,0.768,0.785,3:00
+3,2:45,ORL,Mo Bamba,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,83,79,0.829,0.784,3:00
+3,1:35,ORL,Jalen Suggs,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,86,79,0.902,0.87,1:38
+3,6.7,BKN,Blake Griffin,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,90,81,0.86,0.895,22.2
+4,10:58,BKN,Jevon Carter,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,90,87,0.618,0.701,11:06
+4,9:38,BKN,James Johnson,Loose Ball Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,95,92,0.68,0.694,9:38
+4,7:09,ORL,Gary Harris,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,99,99,0.591,0.578,7:22
+4,6:25,ORL,Moritz Wagner,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,101,101,0.64,0.507,6:25
+4,4:56,ORL,Franz Wagner,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,104,104,0.602,0.578,5:11
+4,4:21,ORL,Franz Wagner,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,104,104,0.701,0.583,4:23
+4,3:34,ORL,Mo Bamba,Offensive Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,106,104,0.74,0.665,3:44
+4,2:10,BKN,James Harden,Shooting Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,108,104,0.829,0.826,2:15
+4,14.3,BKN,James Harden,Personal Take Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,112,109,0.615,0.836,17.0
+4,11.0,BKN,James Harden,Personal Take Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,112,109,0.832,0.615,14.3
+4,9.2,ORL,Franz Wagner,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,112,110,0.945,0.838,11.0
+4,3:00,ORL,Cole Anthony,Personal Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,106,104,0.814,0.945,9.2
+4,4.8,ORL,Franz Wagner,Personal Take Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,114,112,0.971,0.889,7.0
+4,3.2,BKN,Jevon Carter,Personal Take Foul,Foul,Curtis Blair,Leon Wood,Jonathan Sterling,BKN,115,112,0.878,0.921,4.8

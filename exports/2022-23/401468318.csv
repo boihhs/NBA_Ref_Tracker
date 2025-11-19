@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:21,BOS,Marcus Smart,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,0,0,0.895,0.911,11:41
+1,10:43,DET,Saddiq Bey,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,4,2,0.933,0.922,10:43
+1,10:30,BOS,Grant Williams,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,4,2,0.921,0.922,10:41
+1,9:21,BOS,Al Horford,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,10,2,0.946,0.954,9:33
+1,9:09,DET,Isaiah Stewart,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,10,4,0.955,0.949,9:21
+1,6:44,BOS,Grant Williams,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,15,8,0.939,0.949,6:44
+1,6:06,DET,Isaiah Stewart,Offensive Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,17,9,0.953,0.948,6:14
+1,5:18,DET,Hamidou Diallo,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,17,9,0.951,0.952,5:23
+1,3:18,DET,Cade Cunningham,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,21,14,0.951,0.943,3:32
+1,2:58,BOS,Sam Hauser,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,23,14,0.937,0.948,3:18
+1,2:10,DET,Hamidou Diallo,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,25,17,0.954,0.946,2:15
+1,1:39,BOS,Luke Kornet,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,27,17,0.941,0.951,1:44
+1,39.2,DET,Hamidou Diallo,Offensive Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,27,19,0.943,0.935,43.2
+1,34.2,DET,Killian Hayes,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,27,19,0.952,0.943,39.2
+2,11:36,DET,Saddiq Bey,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,29,23,0.926,0.927,11:49
+2,11:20,BOS,Derrick White,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,32,23,0.94,0.941,11:30
+2,6:58,DET,Jalen Duren,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,40,35,0.918,0.903,7:09
+2,4:21,DET,Isaiah Stewart,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,44,39,0.911,0.894,4:30
+2,4:15,DET,Isaiah Stewart,Technical Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,46,39,0.924,0.905,4:21
+2,3:25,BOS,Marcus Smart,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,48,39,0.909,0.924,3:35
+2,1:16,BOS,Jayson Tatum,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,59,45,0.952,0.962,1:31
+2,1:07,BOS,Jayson Tatum,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,59,45,0.952,0.952,1:16
+2,14.1,BOS,Al Horford,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,61,47,0.951,0.961,17.4
+3,10:38,BOS,Al Horford,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,68,53,0.958,0.968,11:00
+3,9:44,BOS,Grant Williams,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,71,57,0.951,0.961,9:58
+3,8:31,DET,Cade Cunningham,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,74,61,0.963,0.963,8:33
+3,5:40,BOS,Grant Williams,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,83,68,0.961,0.971,5:50
+3,4:08,BOS,Jayson Tatum,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,86,73,0.944,0.959,4:21
+3,3:55,DET,Killian Hayes,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,86,74,0.959,0.958,4:08
+3,3:29,BOS,Sam Hauser,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,86,74,0.933,0.95,3:41
+3,3:19,BOS,Luke Kornet,Offensive Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,86,76,0.927,0.939,3:29
+3,3:03,DET,Hamidou Diallo,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,86,76,0.939,0.94,3:03
+3,2:14,DET,Isaiah Stewart,Loose Ball Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,86,76,0.957,0.941,2:14
+3,4.8,BOS,Derrick White,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,92,78,0.968,0.98,4.8
+4,10:21,BOS,Luke Kornet,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,100,81,0.993,0.995,10:21
+4,9:17,BOS,Sam Hauser,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,102,86,0.981,0.989,9:28
+4,8:45,DET,Isaiah Livers,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,104,88,0.996,0.993,8:48
+4,8:09,DET,Killian Hayes,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,106,89,0.998,0.995,8:29
+4,7:37,DET,Isaiah Livers,Flagrant Foul Type 1,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,107,91,0.995,0.995,8:00
+4,6:52,BOS,Jayson Tatum,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,112,93,0.997,0.999,6:52
+4,6:07,BOS,Grant Williams,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,116,94,0.999,0.999,6:20
+4,3:24,BOS,Justin Jackson,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,123,101,0.999,0.999,3:34
+4,2:55,BOS,Payton Pritchard,Personal Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,125,103,0.999,0.999,3:11
+4,1:07,BOS,Noah Vonleh,Shooting Foul,Foul,Jason Goldenberg,Tony Brothers,Aaron Smith,BOS,128,107,0.999,0.999,1:09

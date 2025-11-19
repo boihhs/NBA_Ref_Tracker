@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:43,UTAH,Mike Conley,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,2,4,0.692,0.66,11:00
+1,7:06,DAL,Luka Doncic,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,13,11,0.697,0.713,7:12
+1,6:56,UTAH,Jordan Clarkson,Personal Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,13,14,0.666,0.668,7:06
+1,5:25,DAL,Luka Doncic,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,15,16,0.599,0.638,5:36
+2,11:07,UTAH,Rudy Gay,Personal Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,23,37,0.258,0.261,11:30
+2,10:58,UTAH,Walker Kessler,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,23,37,0.298,0.258,11:07
+2,7:58,UTAH,Jordan Clarkson,Offensive Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,27,37,0.344,0.312,8:06
+2,7:19,UTAH,Kelly Olynyk,Personal Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,29,37,0.399,0.344,7:58
+2,5:27,DAL,Luka Doncic,Loose Ball Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,31,41,0.293,0.291,5:27
+2,4:56,UTAH,Lauri Markkanen,Personal Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,31,43,0.304,0.263,5:13
+2,4:08,UTAH,Kelly Olynyk,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,37,43,0.467,0.409,4:08
+2,3:36,UTAH,Kelly Olynyk,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,37,45,0.421,0.371,3:49
+2,2:50,DAL,Reggie Bullock Jr.,Loose Ball Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,38,45,0.361,0.361,2:52
+2,2:20,UTAH,Lauri Markkanen,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,40,45,0.487,0.425,2:20
+2,4.3,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,47,49,0.492,0.554,4.3
+3,11:24,DAL,JaVale McGee,Defensive 3-Seconds Technical,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,49,50,0.554,0.548,11:36
+3,8:45,DAL,JaVale McGee,Loose Ball Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,49,61,0.158,0.158,8:45
+3,8:10,UTAH,Kelly Olynyk,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,49,64,0.141,0.11,8:23
+3,8:00,DAL,Spencer Dinwiddie,Loose Ball Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,51,64,0.128,0.126,8:00
+3,5:52,DAL,Dwight Powell,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,57,64,0.226,0.278,6:07
+3,4:35,UTAH,Collin Sexton,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,61,66,0.445,0.383,4:41
+3,2:33,UTAH,Lauri Markkanen,Offensive Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,65,71,0.319,0.276,2:40
+3,2:01,DAL,Josh Green,Personal Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,67,71,0.289,0.355,2:16
+3,1:36,DAL,Maxi Kleber,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,69,73,0.316,0.397,1:36
+3,1:11,DAL,Maxi Kleber,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,69,74,0.238,0.303,1:18
+3,53.4,UTAH,Collin Sexton,Shooting Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,69,75,0.369,0.303,1:08
+3,28.7,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,72,75,0.313,0.386,36.4
+4,11:33,UTAH,Rudy Gay,Personal Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,74,78,0.387,0.377,11:41
+4,10:46,DAL,Reggie Bullock Jr.,Personal Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,78,78,0.508,0.527,10:57
+4,8:28,DAL,Josh Green,Loose Ball Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,83,84,0.433,0.448,8:28
+4,8:07,UTAH,Jarred Vanderbilt,Defensive 3-Seconds Technical,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,83,84,0.479,0.501,8:16
+4,4:28,UTAH,Kelly Olynyk,Personal Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,94,90,0.82,0.808,4:42
+4,4:19,UTAH,Jordan Clarkson,Personal Foul,Foul,Kevin Scott,Scott Twardoski,Mousa Dagher,DAL,94,90,0.832,0.82,4:28

@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:43,CHI,Alex Caruso,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,2,8,0.541,0.577,9:45
+1,7:26,ATL,Clint Capela,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,5,15,0.523,0.484,7:41
+1,5:43,CHI,Alex Caruso,Personal Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,11,19,0.496,0.494,5:52
+1,4:30,CHI,Patrick Williams,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,13,23,0.406,0.455,4:30
+1,3:26,CHI,Coby White,Personal Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,19,26,0.46,0.505,3:38
+1,1:47,ATL,Trent Forrest,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,21,31,0.455,0.431,1:47
+1,1:06,CHI,Ayo Dosunmu,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,22,31,0.379,0.424,1:10
+1,54.1,ATL,Onyeka Okongwu,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,22,33,0.44,0.398,1:06
+2,11:11,CHI,Coby White,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,28,36,0.394,0.438,11:27
+2,10:10,ATL,AJ Griffin,Personal Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,28,40,0.337,0.341,10:23
+2,5:57,CHI,Patrick Williams,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,37,51,0.195,0.239,5:57
+2,5:12,ATL,Jalen Johnson,Personal Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,39,54,0.206,0.208,5:23
+2,4:05,CHI,Alex Caruso,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,43,58,0.157,0.195,4:05
+2,29.1,ATL,Dejounte Murray,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,48,65,0.149,0.121,36.1
+3,9:57,ATL,John Collins,Personal Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,55,67,0.21,0.208,10:01
+3,9:23,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,57,69,0.249,0.204,9:31
+3,8:28,CHI,DeMar DeRozan,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,59,72,0.126,0.141,8:31
+3,7:11,ATL,Clint Capela,Offensive Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,62,78,0.09,0.074,7:16
+3,5:45,CHI,Zach LaVine,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,66,80,0.082,0.093,5:45
+3,5:36,ATL,John Collins,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,68,81,0.153,0.11,5:36
+3,2:07,CHI,Ayo Dosunmu,Loose Ball Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,77,86,0.173,0.173,2:07
+3,1:49,ATL,AJ Griffin,Personal Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,77,86,0.259,0.204,1:55
+3,1:36,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,77,86,0.256,0.201,1:38
+3,28.1,CHI,DeMar DeRozan,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,78,86,0.136,0.187,42.1
+3,14.2,ATL,AJ Griffin,Personal Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,78,88,0.201,0.151,28.1
+4,10:00,ATL,Onyeka Okongwu,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,87,97,0.15,0.09,10:00
+4,8:10,CHI,Zach LaVine,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,90,101,0.039,0.072,8:10
+4,7:40,ATL,AJ Griffin,Loose Ball Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,92,101,0.125,0.115,7:40
+4,6:48,ATL,AJ Griffin,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,92,104,0.076,0.044,7:07
+4,5:11,ATL,Saddiq Bey,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,95,106,0.074,0.04,5:13
+4,4:56,CHI,Patrick Beverley,Personal Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,97,106,0.053,0.061,5:11
+4,2:57,CHI,Patrick Williams,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,101,114,0.001,0.005,2:57
+4,2:37,CHI,Patrick Beverley,Personal Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,101,115,0.001,0.001,2:41
+4,2:27,CHI,Patrick Beverley,Shooting Foul,Foul,Matt Boland,Rodney Mott,Sean Corbin,CHI,101,115,0.001,0.001,2:37

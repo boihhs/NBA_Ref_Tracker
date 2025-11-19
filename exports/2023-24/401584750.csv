@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:07,CHA,LaMelo Ball,Loose Ball Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,4,9,0.445,0.447,9:07
+1,7:07,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,14,16,0.474,0.52,7:07
+1,3:31,CHA,Brandon Miller,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,27,20,0.744,0.719,3:50
+1,1:39,CHA,JT Thor,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,30,25,0.734,0.701,1:43
+1,7.1,CHA,Brandon Miller,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,36,25,0.842,0.828,26.1
+2,11:51,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,39,27,0.801,0.836,12:00
+2,10:59,CHA,Brandon Miller,Personal Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,41,31,0.811,0.813,11:03
+2,10:21,CHA,LaMelo Ball,Personal Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,41,31,0.813,0.813,10:27
+2,9:57,HOU,Amen Thompson,Personal Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,43,31,0.833,0.831,10:06
+2,8:45,CHA,Nick Richards,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,43,33,0.843,0.817,8:49
+2,8:10,CHA,JT Thor,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,45,35,0.845,0.818,8:28
+2,7:29,CHA,Theo Maledon,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,49,35,0.907,0.886,7:37
+2,6:55,HOU,Jeff Green,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,50,35,0.889,0.903,7:02
+2,6:39,HOU,Amen Thompson,Personal Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,50,35,0.889,0.889,6:55
+2,6:35,CHA,Nick Richards,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,50,35,0.904,0.889,6:39
+2,6:06,HOU,Amen Thompson,Personal Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,53,35,0.911,0.927,6:24
+2,4:47,HOU,Dillon Brooks,Loose Ball Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,53,41,0.816,0.847,4:47
+2,2:41,HOU,Dillon Brooks,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,58,48,0.777,0.812,2:48
+2,2:15,HOU,Jock Landale,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,58,52,0.708,0.737,2:22
+3,11:16,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,61,58,0.568,0.62,11:24
+3,10:22,HOU,Jalen Green,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,66,62,0.602,0.655,10:38
+3,10:09,HOU,Jabari Smith Jr.,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,66,63,0.62,0.657,10:22
+3,7:51,CHA,LaMelo Ball,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,77,65,0.9,0.881,7:54
+3,7:05,CHA,Gordon Hayward,Personal Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,77,67,0.866,0.865,7:21
+3,6:12,HOU,Dillon Brooks,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,80,69,0.836,0.871,6:16
+3,6:12,CHA,LaMelo Ball,Double Technical Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,80,70,0.866,0.83,6:12
+3,4:48,CHA,Brandon Miller,Defensive 3-Seconds Technical,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,83,71,0.912,0.916,4:56
+3,4:11,HOU,Jae'Sean Tate,Loose Ball Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,84,71,0.892,0.92,4:11
+3,1:27,HOU,Jae'Sean Tate,Loose Ball Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,84,73,0.866,0.902,1:27
+3,32.0,CHA,Theo Maledon,Personal Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,86,78,0.898,0.861,34.2
+4,11:42,CHA,P.J. Washington,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,86,78,0.911,0.849,12:00
+4,11:27,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,87,78,0.818,0.872,11:42
+4,10:49,CHA,Nick Richards,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,90,79,0.961,0.939,10:55
+4,10:37,HOU,Aaron Holiday,Personal Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,92,79,0.951,0.953,10:49
+4,5:51,HOU,Dillon Brooks,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,106,94,0.972,0.979,6:14
+4,5:41,HOU,Jalen Green,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,106,94,0.949,0.972,5:51
+4,4:52,HOU,Alperen Sengun,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,108,96,0.957,0.978,4:55
+4,4:00,CHA,Brandon Miller,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,110,102,0.972,0.938,4:15
+4,2:04,HOU,Jalen Green,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,117,110,0.866,0.921,2:20
+4,1:35,HOU,Fred VanVleet,Loose Ball Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,120,112,0.92,0.962,1:35
+4,39.1,CHA,P.J. Washington,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,124,115,0.998,0.992,39.1
+4,31.1,CHA,Brandon Miller,Personal Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,124,115,0.999,0.998,36.1
+4,15.1,CHA,LaMelo Ball,Personal Foul,Foul,Ed Malloy,Marat Kogut,Jason Goldenberg,HOU,126,117,0.999,0.999,21.1

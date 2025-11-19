@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:29,DET,Cade Cunningham,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,2,0,0.099,0.113,10:31
+1,9:57,BOS,Payton Pritchard,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,2,4,0.1,0.086,10:16
+1,8:48,DET,Jaden Ivey,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,8,6,0.106,0.119,9:09
+1,7:54,BOS,Kristaps Porzingis,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,10,10,0.132,0.114,8:10
+1,5:49,DET,Cade Cunningham,Personal Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,17,14,0.151,0.15,6:03
+1,5:28,BOS,Xavier Tillman,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,17,16,0.149,0.14,5:37
+1,3:54,DET,Jared Rhoden,Personal Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,23,21,0.13,0.147,4:13
+1,2:42,DET,Chimezie Metu,Loose Ball Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,25,25,0.112,0.13,2:43
+1,1:07,BOS,Luke Kornet,Personal Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,28,28,0.178,0.152,1:12
+1,29.0,DET,Chimezie Metu,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,34,28,0.218,0.247,33.2
+2,8:14,DET,Marcus Sasser,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,43,43,0.155,0.166,8:31
+2,8:03,BOS,Derrick White,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,45,45,0.201,0.169,8:03
+2,7:26,DET,Troy Brown Jr.,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,46,47,0.144,0.174,7:26
+2,6:38,DET,Jaden Ivey,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,46,50,0.106,0.13,6:38
+2,4:55,DET,Jaden Ivey,Offensive Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,46,53,0.085,0.097,5:05
+2,3:43,DET,Evan Fournier,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,46,55,0.056,0.068,3:50
+2,3:34,BOS,Kristaps Porzingis,Personal Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,46,55,0.078,0.078,3:36
+2,1:42,DET,Chimezie Metu,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,51,60,0.057,0.07,2:02
+2,56.1,DET,Tosan Evbuomwan,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,51,64,0.031,0.039,1:01
+2,29.1,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,51,69,0.026,0.02,29.1
+3,9:47,BOS,Oshae Brissett,Personal Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,55,76,0.01,0.01,9:48
+3,9:20,DET,Cade Cunningham,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,57,76,0.01,0.012,9:35
+3,7:16,BOS,Kristaps Porzingis,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,64,85,0.012,0.008,7:31
+3,4:57,DET,James Wiseman,Loose Ball Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,69,92,0.003,0.003,4:57
+3,4:31,DET,Evan Fournier,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,71,92,0.003,0.004,4:35
+3,2:54,DET,Evan Fournier,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,75,95,0.003,0.007,2:54
+3,2:03,BOS,Luke Kornet,Loose Ball Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,78,99,0.004,0.004,2:03
+3,56.1,BOS,Jaylen Brown,Personal Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,80,102,0.004,0.002,1:06
+3,30.1,DET,Evan Fournier,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,83,102,0.002,0.004,47.2
+4,9:54,DET,Marcus Sasser,Personal Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,89,108,0.002,0.003,10:05
+4,8:26,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,91,108,0.006,0.005,8:27
+4,6:31,DET,Chimezie Metu,Offensive Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,93,111,0.001,0.002,6:37
+4,4:30,DET,James Wiseman,Offensive Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,97,115,0.001,0.001,4:30
+4,4:04,BOS,Payton Pritchard,Personal Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,97,117,0.001,0.001,4:11
+4,2:48,BOS,Sam Hauser,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,97,119,0.001,0.001,2:49
+4,2:00,DET,Jared Rhoden,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,98,121,0.001,0.001,2:15
+4,1:16,BOS,Jordan Walsh,Shooting Foul,Foul,Dedric Taylor,David Guthrie,Mousa Dagher,DET,98,124,0.001,0.001,1:24

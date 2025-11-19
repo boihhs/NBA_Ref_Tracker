@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:56,CHI,Patrick Beverley,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,2,2,0.719,0.736,10:09
+1,6:23,WSH,Daniel Gafford,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,10,9,0.758,0.747,6:24
+1,5:12,WSH,Deni Avdija,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,12,12,0.749,0.717,5:18
+1,4:43,WSH,Taj Gibson,Transition Take Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,14,15,0.693,0.694,4:52
+1,4:33,CHI,Zach LaVine,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,15,15,0.692,0.692,4:43
+1,3:41,WSH,Taj Gibson,Loose Ball Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,15,17,0.664,0.665,3:41
+2,11:36,WSH,Anthony Gill,Loose Ball Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,25,27,0.642,0.641,11:36
+2,10:42,CHI,Ayo Dosunmu,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,27,27,0.664,0.664,10:55
+2,8:56,CHI,DeMar DeRozan,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,32,27,0.743,0.778,9:13
+2,7:21,WSH,Jordan Goodwin,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,34,30,0.804,0.775,7:24
+2,4:37,WSH,Corey Kispert,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,36,35,0.689,0.691,4:39
+2,3:41,CHI,Zach LaVine,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,40,37,0.674,0.714,3:50
+2,2:06,CHI,Patrick Beverley,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,42,41,0.604,0.652,2:13
+2,37.1,CHI,Alex Caruso,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,44,45,0.555,0.614,37.1
+2,15.1,WSH,Kyle Kuzma,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,44,45,0.658,0.614,34.1
+3,10:43,CHI,Nikola Vucevic,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,49,47,0.619,0.671,10:49
+3,9:30,CHI,Nikola Vucevic,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,49,51,0.464,0.521,9:37
+3,7:12,CHI,Alex Caruso,Loose Ball Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,57,52,0.757,0.757,7:12
+3,7:05,WSH,Daniel Gafford,Offensive Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,57,52,0.787,0.757,7:12
+3,6:53,WSH,Kyle Kuzma,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,57,52,0.825,0.787,7:05
+3,5:29,CHI,Patrick Beverley,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,61,54,0.771,0.815,5:31
+3,5:18,WSH,Bradley Beal,Technical Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,61,56,0.81,0.788,5:22
+3,3:25,CHI,Ayo Dosunmu,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,64,60,0.664,0.723,3:27
+3,1:41,WSH,Jordan Goodwin,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,68,65,0.777,0.724,1:59
+4,11:38,CHI,Patrick Williams,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,74,67,0.77,0.845,12:00
+4,10:52,CHI,Ayo Dosunmu,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,76,69,0.797,0.867,10:52
+4,9:02,WSH,Kyle Kuzma,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,78,72,0.893,0.839,9:20
+4,7:48,CHI,Andre Drummond,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,84,72,0.958,0.962,7:54
+4,5:26,CHI,Alex Caruso,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,86,76,0.914,0.948,5:42
+4,4:14,CHI,Patrick Beverley,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,88,77,0.95,0.97,4:36
+4,4:13,WSH,Daniel Gafford,Loose Ball Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,88,78,0.976,0.974,4:13
+4,4:13,WSH,Daniel Gafford,Technical Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,88,78,0.981,0.976,4:13
+4,4:06,WSH,Daniel Gafford,Personal Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,89,78,0.986,0.983,4:13
+4,2:44,WSH,Anthony Gill,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,96,78,0.999,0.999,2:44
+4,1:10,CHI,Dalen Terry,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,99,80,0.999,0.999,1:31
+4,24.0,CHI,Coby White,Shooting Foul,Foul,Bill Kennedy,Eric Dalen,Simone Jelks,CHI,102,82,0.999,0.999,24.1

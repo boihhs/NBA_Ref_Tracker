@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:58,WSH,Raul Neto,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,6,3,0.595,0.63,10:12
+1,7:50,DET,Cade Cunningham,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,9,9,0.617,0.579,8:09
+1,2:53,DET,Jerami Grant,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,23,19,0.713,0.677,3:08
+1,1:40,WSH,Ish Smith,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,25,21,0.612,0.651,1:49
+1,59.3,WSH,Rui Hachimura,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,27,23,0.612,0.654,1:11
+2,11:04,DET,Killian Hayes,Defensive 3-Seconds Technical,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,29,26,0.646,0.622,11:04
+2,10:18,WSH,Ish Smith,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,32,28,0.63,0.68,10:18
+2,9:31,DET,Killian Hayes,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,35,31,0.717,0.681,9:45
+2,7:51,DET,Frank Jackson,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,40,35,0.706,0.706,8:03
+2,7:20,WSH,Deni Avdija,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,42,35,0.733,0.731,7:35
+2,7:13,WSH,Kyle Kuzma,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,42,35,0.693,0.733,7:20
+2,5:31,DET,Kelly Olynyk,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,46,43,0.654,0.652,5:48
+2,5:25,DET,Isaiah Stewart,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,48,43,0.727,0.681,5:25
+2,5:01,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,49,45,0.722,0.681,5:14
+2,4:48,WSH,Daniel Gafford,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,50,45,0.637,0.679,4:57
+2,2:56,DET,Isaiah Stewart,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,54,52,0.67,0.623,3:10
+2,2:00,WSH,Kentavious Caldwell-Pope,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,57,55,0.537,0.589,2:03
+2,1:08,DET,Isaiah Stewart,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,61,59,0.648,0.588,1:08
+2,25.3,WSH,Corey Kispert,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,63,63,0.494,0.555,25.3
+3,8:51,DET,Isaiah Stewart,Loose Ball Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,74,69,0.726,0.725,8:52
+3,7:49,DET,Cory Joseph,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,74,69,0.728,0.729,7:56
+3,7:30,WSH,Corey Kispert,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,74,71,0.596,0.662,7:30
+3,6:45,DET,Jerami Grant,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,74,72,0.68,0.627,7:01
+3,5:02,DET,Cory Joseph,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,78,76,0.685,0.628,5:16
+3,4:45,WSH,Raul Neto,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,79,78,0.514,0.588,4:45
+3,4:45,WSH,Raul Neto,Technical Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,79,78,0.513,0.514,4:45
+3,47.6,WSH,Ish Smith,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,85,85,0.421,0.495,1:00
+4,11:37,DET,Frank Jackson,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,87,85,0.655,0.64,11:41
+4,10:24,DET,Isaiah Livers,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,91,85,0.858,0.785,10:24
+4,10:10,WSH,Rui Hachimura,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,92,85,0.82,0.829,10:24
+4,10:06,DET,Isaiah Livers,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,92,85,0.868,0.861,10:08
+4,10:05,DET,Kelly Olynyk,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,92,85,0.906,0.868,10:06
+4,7:46,WSH,Ish Smith,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,99,89,0.892,0.931,8:02
+4,6:59,WSH,Kyle Kuzma,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,101,93,0.86,0.922,6:59
+4,6:28,WSH,Kentavious Caldwell-Pope,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,104,94,0.903,0.939,6:47
+4,6:18,WSH,Kyle Kuzma,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,104,96,0.87,0.92,6:18
+4,5:07,WSH,Rui Hachimura,Personal Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,104,99,0.705,0.791,5:11
+4,3:37,WSH,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,104,102,0.501,0.62,3:40
+4,3:18,DET,Cade Cunningham,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,104,104,0.607,0.549,3:18
+4,2:16,WSH,Thomas Bryant,Offensive Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,110,104,0.894,0.927,2:28
+4,1:50,DET,Killian Hayes,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,110,106,0.925,0.855,2:05
+4,1:12,WSH,Corey Kispert,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,112,108,0.682,0.809,1:16
+4,35.6,DET,Cade Cunningham,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,112,111,0.82,0.664,48.2
+4,15.6,DET,Killian Hayes,Personal Take Foul,Foul,Pat Fraher,Ray Acosta,Jonathan Sterling,WSH,114,113,0.863,0.697,17.7

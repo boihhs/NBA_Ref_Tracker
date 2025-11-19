@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:00,LAC,Luke Kennard,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,2,2,0.612,0.573,10:08
+1,3:47,LAC,Paul George,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,17,17,0.567,0.567,3:54
+1,3:21,ATL,Trae Young,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,19,17,0.594,0.593,3:40
+1,1:59,ATL,Aaron Holiday,Transition Take Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,24,19,0.672,0.672,2:01
+1,37.1,LAC,Norman Powell,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,24,22,0.66,0.62,43.1
+2,6:32,ATL,AJ Griffin,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,44,38,0.704,0.702,6:38
+2,6:00,ATL,John Collins,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,44,41,0.573,0.616,6:06
+2,5:30,ATL,De'Andre Hunter,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,44,43,0.556,0.556,5:34
+2,5:23,ATL,Clint Capela,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,44,43,0.51,0.556,5:30
+2,4:15,LAC,Kawhi Leonard,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,44,45,0.523,0.523,4:29
+2,3:21,LAC,Terance Mann,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,46,50,0.472,0.422,3:28
+2,2:50,ATL,Trae Young,Offensive Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,47,52,0.354,0.389,3:05
+2,2:47,ATL,Clint Capela,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,47,52,0.308,0.354,2:50
+3,12:00,ATL,Dejounte Murray,Technical Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,53,58,0.313,0.363,0.0
+3,11:17,LAC,Terance Mann,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,53,59,0.388,0.336,11:18
+3,9:11,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,60,63,0.424,0.435,9:27
+3,6:39,LAC,Luke Kennard,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,66,71,0.346,0.347,6:54
+3,6:32,LAC,Ivica Zubac,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,66,71,0.404,0.346,6:39
+3,4:12,ATL,Onyeka Okongwu,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,70,76,0.256,0.255,4:19
+3,3:22,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,73,79,0.249,0.251,3:30
+3,3:16,ATL,Onyeka Okongwu,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,73,79,0.199,0.249,3:22
+3,2:58,LAC,Nicolas Batum,Offensive Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,75,81,0.285,0.247,3:11
+3,2:53,LAC,Ivica Zubac,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,75,81,0.346,0.285,2:58
+3,1:48,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,79,84,0.303,0.32,2:01
+3,32.2,LAC,Reggie Jackson,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,80,84,0.42,0.351,35.1
+4,11:49,ATL,AJ Griffin,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,81,84,0.327,0.378,12:00
+4,11:20,LAC,Paul George,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,81,87,0.325,0.247,11:41
+4,10:38,ATL,John Collins,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,82,89,0.112,0.164,10:44
+4,9:05,LAC,Paul George,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,84,96,0.087,0.054,9:13
+4,8:46,ATL,Onyeka Okongwu,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,86,96,0.041,0.069,9:05
+4,7:20,LAC,Ivica Zubac,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,90,99,0.155,0.096,7:26
+4,6:03,ATL,Onyeka Okongwu,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,92,104,0.011,0.022,6:14
+4,4:06,ATL,Dejounte Murray,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,98,110,0.005,0.014,4:06
+4,1:57,ATL,De'Andre Hunter,Shooting Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,107,111,0.065,0.127,2:09
+4,1:50,LAC,Ivica Zubac,Personal Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,107,113,0.174,0.086,1:57
+4,17.1,ATL,John Collins,Personal Take Foul,Foul,Curtis Blair,Nick Buchert,Matt Myers,ATL,113,118,0.008,0.048,32.1

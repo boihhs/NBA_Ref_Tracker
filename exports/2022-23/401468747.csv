@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:21,UTAH,Jordan Clarkson,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,4,0,0.566,0.568,9:32
+1,4:57,CHI,Patrick Williams,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,16,14,0.476,0.522,4:57
+1,4:36,UTAH,Lauri Markkanen,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,16,15,0.538,0.495,4:57
+1,4:18,CHI,Zach LaVine,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,18,15,0.525,0.525,4:36
+1,3:37,UTAH,Walker Kessler,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,18,18,0.512,0.468,3:58
+1,3:17,CHI,Coby White,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,20,18,0.499,0.498,3:17
+1,3:13,UTAH,Walker Kessler,Offensive Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,20,18,0.525,0.499,3:17
+1,2:25,UTAH,Rudy Gay,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,20,20,0.515,0.471,2:38
+1,2:02,UTAH,Rudy Gay,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,23,20,0.578,0.53,2:02
+1,1:37,CHI,Andre Drummond,Loose Ball Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,23,20,0.488,0.531,1:37
+1,18.1,CHI,Andre Drummond,Offensive Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,28,24,0.564,0.589,23.0
+2,10:54,UTAH,Rudy Gay,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,30,24,0.691,0.651,10:56
+2,8:41,CHI,Goran Dragic,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,36,30,0.585,0.628,8:43
+2,7:55,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,38,34,0.646,0.603,8:10
+2,7:47,CHI,Ayo Dosunmu,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,39,34,0.557,0.604,7:55
+2,3:51,UTAH,Lauri Markkanen,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,39,43,0.404,0.359,3:54
+2,3:37,CHI,Nikola Vucevic,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,40,45,0.278,0.327,3:37
+2,3:00,CHI,Ayo Dosunmu,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,42,46,0.283,0.326,3:07
+2,1:20,UTAH,Kelly Olynyk,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,45,46,0.507,0.457,1:26
+2,0.0,UTAH,Kelly Olynyk,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,50,49,0.577,0.524,4.1
+3,10:28,UTAH,Mike Conley,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,56,55,0.53,0.531,10:40
+3,9:14,UTAH,Kelly Olynyk,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,60,60,0.522,0.454,9:14
+3,8:46,UTAH,Kelly Olynyk,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,61,60,0.532,0.533,8:57
+3,8:23,CHI,Derrick Jones Jr.,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,63,60,0.572,0.57,8:37
+3,8:16,CHI,Nikola Vucevic,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,63,62,0.467,0.534,8:16
+3,7:52,CHI,Nikola Vucevic,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,65,63,0.477,0.536,7:59
+3,7:02,UTAH,Jordan Clarkson,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,65,65,0.558,0.499,7:08
+3,6:06,CHI,Ayo Dosunmu,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,69,65,0.56,0.618,6:18
+3,4:44,CHI,DeMar DeRozan,Transition Take Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,69,69,0.46,0.46,4:46
+3,4:12,CHI,Zach LaVine,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,69,73,0.244,0.301,4:14
+3,3:52,UTAH,Walker Kessler,Loose Ball Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,69,74,0.357,0.301,3:52
+3,2:28,UTAH,Walker Kessler,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,73,78,0.353,0.295,2:33
+3,1:30,CHI,Ayo Dosunmu,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,79,83,0.226,0.283,1:33
+3,30.1,UTAH,Walker Kessler,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,81,89,0.226,0.171,39.0
+4,11:25,UTAH,Lauri Markkanen,Offensive Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,86,89,0.367,0.312,11:44
+4,11:12,UTAH,Ochai Agbaji,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,86,89,0.454,0.367,11:25
+4,10:35,CHI,DeMar DeRozan,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,90,93,0.267,0.368,10:35
+4,6:57,UTAH,Ochai Agbaji,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,103,103,0.544,0.525,7:20
+4,5:44,CHI,Coby White,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,111,103,0.892,0.899,5:51
+4,4:56,CHI,Zach LaVine,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,114,106,0.898,0.907,5:08
+4,2:56,CHI,Nikola Vucevic,Offensive Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,116,110,0.879,0.906,3:17
+4,2:31,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,118,112,0.952,0.891,2:31
+4,2:14,CHI,Coby White,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,119,112,0.869,0.932,2:31
+4,1:53,CHI,Patrick Williams,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,121,115,0.868,0.938,1:53
+4,1:19,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,123,118,0.962,0.918,1:30
+4,22.1,UTAH,Kelly Olynyk,Personal Foul,Foul,Eric Lewis,Michael Smith,Nate Green,CHI,125,118,0.998,0.994,23.0

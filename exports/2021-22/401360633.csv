@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:21,UTAH,Donovan Mitchell,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,0,2,0.553,0.589,11:24
+1,11:02,NY,Evan Fournier,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,0,3,0.587,0.588,11:19
+1,8:33,NY,Julius Randle,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,9,9,0.651,0.652,8:33
+1,7:10,UTAH,Mike Conley,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,9,13,0.52,0.52,7:14
+1,6:42,UTAH,Royce O'Neale,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,9,17,0.39,0.438,6:42
+1,4:35,NY,Mitchell Robinson,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,13,23,0.391,0.369,4:35
+1,2:36,NY,Nerlens Noel,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,18,25,0.485,0.443,2:50
+1,1:01,NY,Immanuel Quickley,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,24,25,0.623,0.573,1:01
+1,49.0,UTAH,Hassan Whiteside,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,25,25,0.558,0.603,1:01
+2,10:32,UTAH,Udoka Azubuike,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,28,30,0.492,0.536,10:40
+2,9:45,NY,Nerlens Noel,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,30,34,0.549,0.506,9:55
+2,8:47,UTAH,Jordan Clarkson,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,33,37,0.423,0.468,8:50
+2,8:35,NY,Alec Burks,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,33,39,0.483,0.439,8:47
+2,7:23,NY,Cam Reddish,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,37,39,0.599,0.554,7:26
+2,5:06,NY,Alec Burks,Offensive Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,44,41,0.694,0.666,5:11
+2,4:23,UTAH,Jordan Clarkson,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,46,41,0.681,0.723,4:26
+2,3:21,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,46,47,0.514,0.57,3:21
+2,3:12,NY,Alec Burks,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,48,48,0.626,0.569,3:12
+2,2:43,NY,Evan Fournier,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,49,50,0.618,0.571,2:46
+2,2:04,NY,Immanuel Quickley,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,53,52,0.655,0.598,2:04
+2,35.6,NY,Evan Fournier,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,56,54,0.709,0.659,50.4
+2,35.6,NY,Evan Fournier,Technical Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,58,54,0.743,0.688,35.6
+3,10:55,UTAH,Udoka Azubuike,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,64,57,0.737,0.78,11:11
+3,9:34,UTAH,Royce O'Neale,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,68,58,0.818,0.851,9:53
+3,5:56,UTAH,Hassan Whiteside,Personal Take Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,68,70,0.454,0.455,5:58
+3,5:30,NY,Evan Fournier,Loose Ball Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,68,72,0.413,0.41,5:30
+3,5:06,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,68,74,0.263,0.33,5:06
+3,4:49,UTAH,Bojan Bogdanovic,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,70,75,0.269,0.327,4:55
+3,4:48,UTAH,Hassan Whiteside,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,70,75,0.296,0.326,4:48
+3,4:31,UTAH,Hassan Whiteside,Loose Ball Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,70,77,0.198,0.249,4:31
+3,2:51,UTAH,Jordan Clarkson,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,73,82,0.126,0.166,3:00
+3,1:42,UTAH,Jordan Clarkson,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,78,84,0.198,0.256,1:58
+3,1:31,NY,RJ Barrett,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,78,86,0.276,0.217,1:42
+3,4.9,NY,Nerlens Noel,Offensive Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,82,86,0.367,0.319,10.0
+4,11:48,UTAH,Udoka Azubuike,Loose Ball Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,82,86,0.3,0.312,11:48
+4,10:40,UTAH,Mike Conley,Personal Take Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,82,86,0.281,0.295,10:41
+4,10:32,NY,Immanuel Quickley,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,82,86,0.35,0.341,10:32
+4,8:45,UTAH,Mike Conley,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,88,89,0.413,0.435,8:58
+4,7:37,UTAH,Hassan Whiteside,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,92,89,0.552,0.639,7:53
+4,5:39,UTAH,Bojan Bogdanovic,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,98,92,0.742,0.815,5:52
+4,4:59,UTAH,Hassan Whiteside,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,98,96,0.538,0.661,4:59
+4,4:46,NY,Julius Randle,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,98,97,0.61,0.596,4:59
+4,3:28,UTAH,Udoka Azubuike,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,100,97,0.623,0.678,3:28
+4,2:44,NY,RJ Barrett,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,100,97,0.865,0.764,2:46
+4,1:08,NY,RJ Barrett,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,104,97,0.985,0.95,1:08
+4,1:03,UTAH,Donovan Mitchell,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,105,97,0.939,0.973,1:08
+4,48.5,NY,Alec Burks,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,105,98,0.994,0.978,1:03
+4,26.7,NY,RJ Barrett,Personal Take Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,109,101,0.998,0.995,34.6
+4,12.7,NY,Evan Fournier,Personal Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,111,103,0.999,0.998,17.8
+4,6.2,UTAH,Mike Conley,Shooting Foul,Foul,Josh Tiven,Lauren Holtkamp,Aaron Smith,UTAH,113,103,0.998,0.999,12.7

@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:33,DET,Killian Hayes,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,4,0,0.882,0.884,10:33
+1,10:01,DET,Killian Hayes,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,6,2,0.881,0.882,10:17
+1,9:35,MEM,Dillon Brooks,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,8,2,0.89,0.891,9:53
+1,9:33,DET,Jaden Ivey,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,8,2,0.9,0.89,9:35
+1,8:29,DET,Rodney McGruder,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,10,4,0.911,0.898,8:45
+1,5:44,MEM,John Konchar,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,20,9,0.915,0.928,5:56
+1,4:02,MEM,David Roddy,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,23,15,0.88,0.898,4:15
+1,3:21,DET,Bojan Bogdanovic,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,23,19,0.879,0.861,3:22
+1,1:35,DET,Marvin Bagley III,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,30,21,0.927,0.914,1:56
+1,50.2,MEM,Santi Aldama,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,32,25,0.869,0.892,50.2
+1,13.1,MEM,David Roddy,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,34,25,0.883,0.901,28.1
+2,10:38,MEM,Dillon Brooks,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,36,32,0.801,0.83,10:51
+2,9:32,MEM,Brandon Clarke,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,38,35,0.806,0.805,9:32
+2,9:06,DET,Saddiq Bey,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,38,35,0.821,0.822,9:06
+2,8:07,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,40,40,0.734,0.76,8:20
+2,7:00,DET,Alec Burks,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,42,42,0.766,0.726,7:00
+2,6:13,DET,Alec Burks,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,43,42,0.799,0.768,6:16
+2,4:25,DET,Jalen Duren,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,49,44,0.867,0.842,4:33
+2,3:28,DET,Jalen Duren,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,52,48,0.848,0.82,3:42
+2,1:36,DET,Isaiah Stewart,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,60,50,0.914,0.901,1:56
+2,1:13,MEM,John Konchar,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,60,50,0.89,0.901,1:13
+2,1:03,MEM,Ja Morant,Technical Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,60,52,0.857,0.884,1:03
+2,51.1,DET,Jaden Ivey,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,60,53,0.892,0.852,1:03
+3,11:24,DET,Jaden Ivey,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,63,53,0.913,0.913,11:32
+3,10:24,MEM,Dillon Brooks,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,67,55,0.906,0.914,10:24
+3,9:51,DET,Killian Hayes,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,69,58,0.942,0.926,9:58
+3,8:30,DET,Isaiah Stewart,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,73,60,0.948,0.949,8:47
+3,8:28,DET,Killian Hayes,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,76,60,0.978,0.964,8:28
+3,6:57,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,78,63,0.959,0.959,6:57
+3,6:16,DET,Kevin Knox II,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,80,66,0.971,0.96,6:17
+3,6:09,MEM,Ja Morant,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,82,66,0.967,0.966,6:16
+3,5:32,MEM,Steven Adams,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,82,66,0.957,0.968,5:40
+3,5:16,DET,Kevin Knox II,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,82,68,0.968,0.963,5:16
+3,5:07,MEM,Ja Morant,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,83,68,0.949,0.962,5:14
+3,3:50,DET,Saddiq Bey,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,86,71,0.972,0.964,4:12
+3,2:52,DET,Marvin Bagley III,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,91,74,0.984,0.979,3:01
+3,2:47,DET,Kevin Knox II,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,91,74,0.989,0.984,2:52
+3,1:38,DET,Marvin Bagley III,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,94,74,0.995,0.994,1:38
+3,1:37,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,95,74,0.991,0.994,1:37
+3,10.0,MEM,Brandon Clarke,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,98,77,0.993,0.996,12.2
+4,11:34,MEM,Ziaire Williams,Defensive 3-Seconds Technical,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,100,78,0.998,0.997,11:49
+4,10:51,DET,Kevin Knox II,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,100,79,0.998,0.998,10:51
+4,10:45,MEM,Brandon Clarke,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,100,79,0.996,0.997,10:45
+4,10:16,DET,Killian Hayes,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,100,82,0.997,0.994,10:32
+4,9:37,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,101,84,0.996,0.993,9:45
+4,6:20,DET,Isaiah Stewart,Loose Ball Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,107,91,0.998,0.996,6:20
+4,3:46,MEM,Brandon Clarke,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,111,94,0.998,0.999,3:52
+4,3:30,MEM,Ja Morant,Shooting Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,111,97,0.994,0.997,3:30
+4,2:55,DET,Jalen Duren,Offensive Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,111,99,0.996,0.993,3:00
+4,2:20,DET,Saddiq Bey,Personal Foul,Foul,Dedric Taylor,Tony Brothers,John Butler,MEM,111,99,0.998,0.997,2:20

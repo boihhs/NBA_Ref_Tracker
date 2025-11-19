@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:59,LAL,Austin Reaves,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,6,0,0.714,0.715,10:00
+1,9:53,LAL,D'Angelo Russell,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,6,2,0.649,0.691,9:53
+1,8:00,GS,JaMychal Green,Loose Ball Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,11,4,0.755,0.754,8:01
+1,7:31,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,11,6,0.727,0.712,7:47
+1,5:38,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,17,12,0.744,0.713,5:46
+1,4:05,GS,Kevon Looney,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,19,17,0.675,0.638,4:17
+1,3:23,LAL,Dennis Schroder,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,21,17,0.624,0.662,3:31
+1,38.1,LAL,Rui Hachimura,Offensive Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,23,29,0.381,0.687,3:43
+1,27.1,LAL,Rui Hachimura,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,23,29,0.337,0.381,38.1
+2,9:25,LAL,Austin Reaves,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,26,32,0.368,0.367,9:28
+2,6:59,GS,Moses Moody,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,31,40,0.296,0.296,7:05
+2,6:32,GS,Stephen Curry,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,33,40,0.399,0.353,6:34
+2,5:12,GS,Moses Moody,Flagrant Foul Type 1,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,37,40,0.461,0.474,5:13
+2,3:42,GS,Jordan Poole,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,42,42,0.614,0.568,3:45
+2,3:32,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,42,42,0.613,0.614,3:42
+2,3:32,GS,Draymond Green,Technical Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,42,42,0.589,0.566,3:32
+2,3:21,LAL,D'Angelo Russell,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,42,42,0.532,0.566,3:32
+2,3:09,GS,Andrew Wiggins,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,42,42,0.613,0.566,3:12
+2,1:42,LAL,D'Angelo Russell,Transition Take Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,51,45,0.72,0.72,1:43
+2,1:24,GS,Klay Thompson,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,51,48,0.708,0.66,1:32
+2,42.1,GS,Andrew Wiggins,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,55,48,0.812,0.777,43.1
+2,23.0,GS,Klay Thompson,Offensive Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,56,48,0.801,0.776,41.0
+2,16.0,GS,JaMychal Green,Technical Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,56,48,0.821,0.801,23.0
+2,2.1,GS,Donte DiVincenzo,Defensive 3-Seconds Technical,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,57,48,0.82,0.828,16.0
+3,11:51,LAL,Jarred Vanderbilt,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,59,48,0.849,0.867,12:00
+3,10:23,GS,Stephen Curry,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,61,50,0.874,0.875,10:33
+3,9:27,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,64,50,0.942,0.925,9:37
+3,9:26,LAL,Austin Reaves,Loose Ball Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,65,50,0.926,0.926,9:26
+3,8:18,GS,JaMychal Green,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,65,50,0.955,0.941,8:22
+3,7:37,LAL,Anthony Davis,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,67,50,0.937,0.953,7:43
+3,7:22,GS,Klay Thompson,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,67,52,0.958,0.944,7:37
+3,6:54,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,69,55,0.951,0.934,7:04
+3,5:27,LAL,Anthony Davis,Offensive Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,71,59,0.896,0.912,5:45
+3,2:07,GS,Donte DiVincenzo,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,80,66,0.97,0.958,2:09
+3,1:59,LAL,Lonnie Walker IV,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,82,66,0.952,0.966,2:07
+3,23.0,GS,Donte DiVincenzo,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,86,68,0.993,0.989,35.0
+4,11:49,GS,Moses Moody,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,86,68,0.994,0.988,12:00
+4,11:23,GS,Gary Payton II,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,88,68,0.997,0.995,11:34
+4,10:17,LAL,Dennis Schroder,Technical Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,92,68,0.998,0.999,10:17
+4,10:01,LAL,Dennis Schroder,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,92,68,0.998,0.999,10:17
+4,8:58,LAL,Lonnie Walker IV,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,98,72,0.999,0.999,9:11
+4,8:50,LAL,Wenyen Gabriel,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,98,72,0.999,0.999,8:58
+4,8:43,LAL,Wenyen Gabriel,Personal Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,98,72,0.999,0.999,8:50
+4,8:31,LAL,Shaquille Harrison,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,98,72,0.999,0.999,8:33
+4,8:01,LAL,Shaquille Harrison,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,100,73,0.999,0.999,8:15
+4,2:34,LAL,Troy Brown Jr.,Shooting Foul,Foul,Bill Kennedy,David Guthrie,Mitchell Ervin,LAL,121,87,0.999,0.999,2:43

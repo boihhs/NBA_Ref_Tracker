@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:27,SAC,Chimezie Metu,Loose Ball Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,6,4,0.577,0.577,9:27
+1,9:14,MIN,Karl-Anthony Towns,Offensive Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,6,4,0.552,0.577,9:27
+1,8:46,MIN,Anthony Edwards,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,8,4,0.604,0.602,8:57
+1,8:38,MIN,Karl-Anthony Towns,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,8,4,0.565,0.604,8:46
+1,8:00,SAC,Tyrese Haliburton,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,8,5,0.641,0.605,8:12
+1,7:30,MIN,Jarred Vanderbilt,Loose Ball Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,10,7,0.579,0.579,7:30
+1,6:12,SAC,Harrison Barnes,Loose Ball Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,10,7,0.605,0.605,6:12
+1,4:36,SAC,Davion Mitchell,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,10,12,0.511,0.472,5:04
+1,4:27,MIN,Malik Beasley,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,12,12,0.458,0.498,4:36
+1,4:06,SAC,Tristan Thompson,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,14,14,0.548,0.499,4:06
+1,4:01,SAC,De'Aaron Fox,Loose Ball Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,15,14,0.592,0.556,4:01
+1,1:39,MIN,Naz Reid,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,20,16,0.61,0.61,1:39
+2,10:31,SAC,Marvin Bagley III,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,22,20,0.627,0.585,10:41
+2,9:45,MIN,Naz Reid,Loose Ball Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,23,20,0.584,0.584,9:45
+2,6:52,SAC,Davion Mitchell,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,28,29,0.493,0.494,7:07
+2,6:17,MIN,Taurean Prince,Personal Take Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,28,29,0.463,0.462,6:17
+2,5:19,SAC,Richaun Holmes,Offensive Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,32,32,0.527,0.491,5:30
+2,4:54,MIN,Jarred Vanderbilt,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,32,32,0.444,0.49,4:56
+2,2:29,SAC,Buddy Hield,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,36,40,0.375,0.392,2:29
+2,2:15,MIN,Karl-Anthony Towns,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,38,40,0.374,0.424,2:29
+2,1:40,MIN,Jarred Vanderbilt,Loose Ball Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,40,41,0.407,0.457,1:40
+2,2.5,MIN,D'Angelo Russell,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,44,47,0.334,0.385,13.3
+3,7:39,MIN,Patrick Beverley,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,58,56,0.563,0.565,7:50
+3,7:18,SAC,Tyrese Haliburton,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,58,56,0.66,0.605,7:27
+3,7:08,MIN,Anthony Edwards,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,60,56,0.642,0.641,7:18
+3,6:33,MIN,D'Angelo Russell,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,60,56,0.645,0.644,6:33
+3,5:06,MIN,Patrick Beverley,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,66,58,0.741,0.788,5:20
+3,5:02,MIN,Anthony Edwards,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,66,58,0.741,0.741,5:06
+3,4:40,MIN,Malik Beasley,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,66,62,0.671,0.691,4:40
+3,3:52,SAC,Richaun Holmes,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,66,62,0.692,0.694,3:57
+3,3:10,SAC,Tristan Thompson,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,68,64,0.695,0.696,3:24
+3,1:44,SAC,Davion Mitchell,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,73,70,0.725,0.663,1:57
+3,38.1,SAC,Chimezie Metu,Loose Ball Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,76,70,0.77,0.792,38.1
+4,9:53,MIN,Patrick Beverley,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,79,78,0.554,0.526,9:56
+4,9:27,SAC,Tristan Thompson,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,79,79,0.543,0.525,9:41
+4,6:44,SAC,Richaun Holmes,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,87,85,0.677,0.659,7:01
+4,6:39,SAC,De'Aaron Fox,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,87,85,0.687,0.677,6:44
+4,6:15,MIN,Anthony Edwards,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,89,85,0.629,0.732,6:25
+4,4:27,MIN,Patrick Beverley,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,94,91,0.665,0.689,4:37
+4,4:13,SAC,Tyrese Haliburton,Personal Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,94,91,0.838,0.75,4:13
+4,2:13,MIN,Patrick Beverley,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,99,91,0.911,0.956,2:35
+4,1:56,MIN,Karl-Anthony Towns,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,101,93,0.917,0.958,2:01
+4,1:23,SAC,Richaun Holmes,Loose Ball Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,101,95,0.95,0.95,1:23
+4,14.9,SAC,De'Aaron Fox,Shooting Foul,Foul,James Williams,Mark Lindsay,John Butler,MIN,107,97,0.999,0.999,14.9

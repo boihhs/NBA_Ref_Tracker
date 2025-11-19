@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,TOR,Chris Boucher,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,0,0,0.51,0.509,12:00
+1,10:02,TOR,Chris Boucher,Loose Ball Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,2,2,0.509,0.511,10:02
+1,6:38,CHI,DeMar DeRozan,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,11,5,0.605,0.642,6:49
+1,3:31,CHI,Andre Drummond,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,17,13,0.596,0.594,3:33
+1,2:52,CHI,Torrey Craig,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,19,15,0.598,0.596,3:03
+2,9:40,CHI,Andre Drummond,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,30,31,0.41,0.453,9:50
+2,9:27,TOR,Scottie Barnes,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,30,33,0.447,0.425,9:27
+2,7:07,CHI,Patrick Williams,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,36,38,0.378,0.423,7:20
+2,5:39,CHI,Coby White,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,39,42,0.344,0.39,5:42
+2,3:54,CHI,DeMar DeRozan,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,44,45,0.427,0.451,4:07
+2,2:54,CHI,Zach LaVine,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,47,47,0.434,0.484,3:12
+2,2:33,CHI,Torrey Craig,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,49,48,0.468,0.517,2:41
+2,1:38,CHI,Coby White,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,49,50,0.399,0.451,1:40
+2,51.1,TOR,OG Anunoby,Loose Ball Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,49,52,0.467,0.416,51.1
+2,46.1,TOR,OG Anunoby,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,49,52,0.467,0.467,51.1
+3,10:28,CHI,Zach LaVine,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,53,57,0.291,0.338,10:37
+3,9:15,CHI,Nikola Vucevic,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,55,60,0.256,0.301,9:19
+3,8:51,CHI,Coby White,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,55,61,0.225,0.268,8:59
+3,8:42,TOR,Dennis Schroder,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,55,62,0.268,0.266,8:48
+3,8:42,TOR,Dennis Schroder,Double Technical Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,55,62,0.26,0.268,8:42
+3,8:36,CHI,Nikola Vucevic,Offensive Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,55,62,0.236,0.26,8:42
+3,8:24,CHI,Patrick Williams,Loose Ball Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,55,62,0.194,0.235,8:24
+3,8:06,TOR,Chris Boucher,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,55,62,0.266,0.265,8:06
+3,6:46,CHI,Zach LaVine,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,62,64,0.345,0.401,6:49
+3,6:01,CHI,Zach LaVine,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,62,68,0.228,0.288,6:01
+3,5:39,CHI,Torrey Craig,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,62,68,0.203,0.248,5:39
+3,5:27,TOR,Jalen McDaniels,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,62,70,0.241,0.217,5:27
+3,4:53,TOR,Dennis Schroder,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,64,72,0.264,0.213,5:06
+3,4:03,TOR,Malachi Flynn,Offensive Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,66,74,0.205,0.179,4:08
+3,3:18,TOR,Jalen McDaniels,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,68,74,0.331,0.274,3:30
+3,2:04,CHI,Jevon Carter,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,72,74,0.32,0.385,2:13
+3,37.0,TOR,Thaddeus Young,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,74,76,0.499,0.427,37.0
+4,9:48,CHI,Andre Drummond,Loose Ball Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,81,83,0.351,0.364,9:48
+4,9:01,TOR,Pascal Siakam,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,83,85,0.427,0.411,9:13
+4,7:50,CHI,Coby White,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,85,88,0.282,0.301,8:03
+4,6:47,TOR,OG Anunoby,Loose Ball Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,85,93,0.121,0.114,6:59
+4,6:23,TOR,Chris Boucher,Offensive Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,87,93,0.183,0.143,6:33
+4,6:11,TOR,Chris Boucher,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,89,93,0.345,0.223,6:11
+4,5:43,CHI,Dalen Terry,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,90,93,0.26,0.279,5:46
+4,4:01,CHI,Patrick Williams,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,96,95,0.461,0.536,4:01
+4,1:49,CHI,Patrick Williams,Shooting Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,102,102,0.354,0.424,1:49
+4,8.0,CHI,Ayo Dosunmu,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,102,103,0.085,0.177,9.1
+4,2.0,CHI,Dalen Terry,Personal Foul,Foul,David Guthrie,Scott Twardoski,Intae Hwang,CHI,102,105,0.004,0.013,2.0

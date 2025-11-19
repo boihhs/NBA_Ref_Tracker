@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:41,HOU,Jae'Sean Tate,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,8,6,0.362,0.397,8:50
+1,8:31,CHI,Lonzo Ball,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,8,8,0.411,0.373,8:41
+1,1:39,CHI,Coby White,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,24,25,0.409,0.369,1:45
+1,1:26,HOU,Alperen Sengun,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,26,27,0.355,0.368,1:26
+2,9:39,HOU,Garrison Mathews,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,32,44,0.109,0.134,9:39
+2,9:26,CHI,DeMar DeRozan,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,34,45,0.163,0.136,9:26
+2,8:17,CHI,Nikola Vucevic,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,40,45,0.263,0.251,8:17
+2,8:05,HOU,Alperen Sengun,Personal Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,41,45,0.276,0.274,8:17
+2,7:57,CHI,Nikola Vucevic,Personal Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,41,45,0.302,0.302,7:57
+2,7:39,CHI,Alex Caruso,Personal Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,41,45,0.342,0.302,7:57
+2,6:44,HOU,Garrison Mathews,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,43,47,0.289,0.303,6:44
+3,10:33,CHI,Nikola Vucevic,Offensive Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,59,64,0.276,0.25,10:40
+3,8:46,HOU,Garrison Mathews,Personal Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,59,66,0.192,0.189,8:57
+3,8:30,HOU,Jae'Sean Tate,Offensive Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,59,66,0.19,0.217,8:37
+3,8:06,CHI,Nikola Vucevic,Personal Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,59,66,0.216,0.216,8:12
+3,7:37,CHI,Zach LaVine,Personal Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,59,68,0.163,0.164,7:55
+3,6:57,HOU,Christian Wood,Loose Ball Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,62,68,0.213,0.212,7:23
+3,6:23,CHI,Javonte Green,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,62,71,0.197,0.16,6:32
+3,6:12,HOU,Danuel House Jr.,Personal Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,63,71,0.159,0.159,6:23
+3,5:38,CHI,Derrick Jones Jr.,Personal Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,63,73,0.169,0.113,5:44
+3,3:09,HOU,Armoni Brooks,Personal Take Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,76,75,0.407,0.473,3:13
+3,3:04,HOU,Christian Wood,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,76,77,0.407,0.43,3:04
+3,2:36,HOU,Christian Wood,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,79,78,0.408,0.474,2:48
+3,1:31,CHI,Lonzo Ball,Personal Take Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,82,82,0.553,0.478,1:32
+4,10:12,CHI,Coby White,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,90,86,0.782,0.705,10:18
+4,9:04,CHI,Nikola Vucevic,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,91,86,0.839,0.766,9:16
+4,8:19,CHI,Alex Caruso,Personal Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,93,88,0.796,0.779,8:30
+4,8:08,CHI,Tony Bradley,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,93,88,0.829,0.796,8:19
+4,6:53,HOU,Garrison Mathews,Personal Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,99,88,0.951,0.953,7:04
+4,6:45,HOU,Alperen Sengun,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,99,88,0.919,0.951,6:53
+4,5:13,CHI,Lonzo Ball,Offensive Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,99,94,0.844,0.792,5:17
+4,3:32,HOU,Garrison Mathews,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,102,100,0.484,0.628,3:41
+4,2:46,CHI,Nikola Vucevic,Shooting Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,104,101,0.871,0.781,2:59
+4,16.3,CHI,Zach LaVine,Personal Take Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,114,108,0.997,0.987,19.2
+4,0.9,CHI,Lonzo Ball,Personal Take Foul,Foul,Brent Barnaky,Phenizee Ransom,Tre Maddox,HOU,116,113,0.998,0.986,2.1

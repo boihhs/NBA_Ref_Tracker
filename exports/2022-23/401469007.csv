@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:00,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,20,22,0.667,0.71,5:00
+1,1:32,CHI,Alex Caruso,Loose Ball Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,24,25,0.745,0.712,1:32
+1,1:22,CHI,Andre Drummond,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,24,25,0.745,0.745,1:32
+1,28.1,CLE,Jarrett Allen,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,26,27,0.645,0.683,41.1
+2,11:30,CHI,Goran Dragic,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,26,31,0.594,0.597,11:47
+2,9:41,CHI,Andre Drummond,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,32,33,0.708,0.662,9:41
+2,9:16,CHI,Goran Dragic,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,33,33,0.747,0.714,9:28
+2,8:29,CLE,Jarrett Allen,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,33,37,0.545,0.6,8:29
+2,3:04,CLE,Jarrett Allen,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,37,47,0.317,0.318,3:04
+2,1:58,CHI,DeMar DeRozan,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,40,47,0.495,0.444,2:17
+2,1:10,CLE,Dean Wade,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,40,47,0.348,0.396,1:21
+3,11:51,CLE,Darius Garland,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,40,49,0.314,0.335,12:00
+3,11:48,CHI,DeMar DeRozan,Offensive Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,40,49,0.347,0.314,11:51
+3,10:29,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,42,53,0.212,0.23,10:29
+3,8:51,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,44,56,0.186,0.183,8:51
+3,8:27,CHI,Patrick Williams,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,44,56,0.207,0.209,8:35
+3,8:06,CHI,Zach LaVine,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,46,56,0.268,0.269,8:10
+3,5:53,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,53,63,0.162,0.205,6:01
+3,4:40,CHI,DeMar DeRozan,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,58,67,0.257,0.258,4:51
+3,4:18,CLE,Darius Garland,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,58,67,0.169,0.215,4:23
+3,3:57,CHI,Coby White,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,60,69,0.271,0.209,3:57
+3,3:09,CHI,Coby White,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,61,71,0.251,0.199,3:14
+3,1:32,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,65,71,0.225,0.284,1:42
+3,0.1,CHI,Alex Caruso,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,67,74,0.333,0.261,5.0
+4,11:19,CLE,Darius Garland,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,71,74,0.375,0.392,11:43
+4,9:31,CHI,Ayo Dosunmu,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,76,74,0.7,0.686,9:31
+4,7:08,CHI,Nikola Vucevic,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,80,76,0.861,0.793,7:14
+4,7:08,CHI,CHI,Technical Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,80,76,0.828,0.861,7:08
+4,6:24,CHI,Zach LaVine,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,83,78,0.904,0.839,6:58
+4,6:14,CHI,Ayo Dosunmu,Offensive Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,84,78,0.888,0.849,6:22
+4,5:34,CHI,Patrick Williams,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,86,78,0.967,0.941,5:45
+4,2:56,CLE,Caris LeVert,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,91,80,0.975,0.99,2:58
+4,2:31,CLE,Caris LeVert,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,91,82,0.939,0.976,2:35
+4,1:26,CLE,Darius Garland,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,93,87,0.839,0.924,1:39
+4,31.1,CHI,Alex Caruso,Shooting Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,93,89,0.964,0.895,50.0
+4,16.2,CHI,Nikola Vucevic,Personal Foul,Foul,Curtis Blair,CJ Washington,Ray Acosta,CLE,95,89,0.997,0.987,19.0

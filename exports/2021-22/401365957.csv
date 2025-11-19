@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,POR,Dennis Smith Jr.,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,0,0,0.55,0.509,12:00
+1,10:50,GS,Draymond Green,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,4,2,0.538,0.538,11:04
+1,7:03,GS,Kevon Looney,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,6,11,0.339,0.383,7:03
+1,5:01,GS,Andrew Wiggins,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,8,12,0.362,0.379,5:01
+1,1:43,POR,CJ Elleby,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,17,25,0.335,0.298,1:47
+2,9:38,POR,Dennis Smith Jr.,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,23,34,0.214,0.213,9:41
+2,9:22,GS,Nemanja Bjelica,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,25,36,0.178,0.213,9:22
+2,8:48,POR,Jusuf Nurkic,Personal Take Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,25,37,0.19,0.191,8:48
+2,8:27,GS,Andre Iguodala,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,28,37,0.233,0.233,8:42
+2,5:09,GS,Kevon Looney,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,36,43,0.273,0.271,5:22
+2,4:17,POR,Dennis Smith Jr.,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,38,45,0.342,0.298,4:30
+2,1:09,POR,CJ McCollum,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,46,48,0.5,0.447,1:10
+2,45.6,POR,Jusuf Nurkic,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,49,51,0.473,0.415,45.6
+2,39.5,POR,Norman Powell,Offensive Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,50,51,0.481,0.447,45.6
+3,11:04,POR,Dennis Smith Jr.,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,57,53,0.706,0.659,11:16
+3,10:08,POR,Robert Covington,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,59,57,0.591,0.592,10:11
+3,9:10,POR,Robert Covington,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,63,57,0.75,0.695,9:10
+3,8:33,POR,CJ McCollum,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,64,57,0.804,0.819,8:33
+3,8:23,GS,Jordan Poole,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,68,57,0.842,0.763,8:33
+3,8:11,POR,Robert Covington,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,68,57,0.894,0.866,8:15
+3,7:55,GS,Stephen Curry,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,70,57,0.856,0.885,8:11
+3,6:28,GS,Draymond Green,Personal Take Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,75,62,0.897,0.896,6:31
+3,6:17,POR,Jusuf Nurkic,Loose Ball Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,75,62,0.936,0.915,6:17
+3,5:20,GS,Stephen Curry,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,77,65,0.85,0.884,5:23
+3,4:13,GS,Nemanja Bjelica,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,81,65,0.933,0.951,4:18
+3,2:45,POR,Marquese Chriss,Technical Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,88,70,0.984,0.975,2:47
+3,2:37,GS,Nemanja Bjelica,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,89,72,0.962,0.976,2:37
+3,1:05,POR,Dennis Smith Jr.,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,95,75,0.988,0.99,1:05
+4,10:50,POR,Ben McLemore,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,100,77,0.999,0.997,10:50
+4,10:44,GS,Jordan Poole,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,101,77,0.998,0.998,10:50
+4,6:28,GS,Jordan Poole,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,110,82,0.999,0.999,6:40
+4,5:38,GS,Moses Moody,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,110,84,0.999,0.999,5:45
+4,4:11,POR,Trendon Watford,Personal Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,112,87,0.999,0.999,4:22
+4,4:11,GS,Juan Toscano-Anderson,Double Technical Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,112,87,0.999,0.999,4:11
+4,3:05,GS,Damion Lee,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,116,87,0.999,0.999,3:26
+4,2:36,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Derek Richardson,Derrick Collins,Brandon Schwab,GS,116,88,0.999,0.999,2:42

@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,BKN,James Harden,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,2,2,0.594,0.594,10:54
+1,9:06,BKN,Patty Mills,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,6,11,0.472,0.486,9:06
+1,8:31,BKN,Patty Mills,Offensive Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,6,14,0.379,0.405,8:41
+1,7:45,PHX,Jae Crowder,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,6,14,0.403,0.402,8:00
+1,4:27,PHX,Devin Booker,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,12,21,0.4,0.362,4:39
+1,3:41,BKN,Bruce Brown,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,13,23,0.298,0.299,3:44
+1,2:30,PHX,Cameron Johnson,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,15,27,0.271,0.276,2:44
+1,1:50,BKN,Paul Millsap,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,17,27,0.258,0.292,2:00
+2,11:17,BKN,Paul Millsap,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,20,34,0.188,0.187,11:17
+2,9:42,BKN,James Harden,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,22,40,0.106,0.107,9:51
+2,6:51,PHX,Mikal Bridges,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,29,48,0.095,0.096,7:03
+2,3:31,PHX,Devin Booker,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,37,51,0.196,0.164,3:40
+2,1:25,PHX,Jae Crowder,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,44,51,0.335,0.328,1:39
+3,6:37,PHX,Devin Booker,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,61,74,0.117,0.118,6:44
+3,5:17,PHX,Deandre Ayton,Loose Ball Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,61,77,0.053,0.059,5:17
+3,4:15,PHX,Deandre Ayton,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,61,79,0.048,0.035,4:30
+3,3:48,PHX,Devin Booker,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,63,81,0.045,0.032,4:01
+3,2:17,PHX,Chris Paul,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,65,81,0.06,0.042,2:26
+3,9.6,PHX,Cameron Johnson,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,72,90,0.02,0.011,9.6
+4,11:48,BKN,James Johnson,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,72,90,0.006,0.016,12:00
+4,11:12,PHX,Cameron Payne,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,72,92,0.012,0.006,11:16
+4,10:56,BKN,James Johnson,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,73,92,0.003,0.006,11:12
+4,10:15,BKN,Cam Thomas,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,77,97,0.001,0.003,10:21
+4,10:02,BKN,James Harden,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,77,98,0.001,0.002,10:02
+4,9:25,PHX,Cameron Johnson,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,77,98,0.003,0.002,9:27
+4,8:51,BKN,James Johnson,Loose Ball Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,79,98,0.001,0.003,8:51
+4,7:37,PHX,Devin Booker,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,84,102,0.009,0.004,7:45
+4,7:24,BKN,DeAndre' Bembry,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,86,102,0.003,0.007,7:37
+4,6:55,PHX,JaVale McGee,Shooting Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,88,104,0.012,0.005,6:55
+4,6:34,PHX,Mikal Bridges,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,89,104,0.023,0.012,6:38
+4,6:04,PHX,Deandre Ayton,Defensive 3-Seconds Technical,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,91,106,0.009,0.011,6:18
+4,38.4,BKN,DeAndre' Bembry,Personal Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,103,110,0.004,0.014,45.1
+4,19.2,BKN,James Johnson,Personal Take Foul,Foul,Pat Fraher,Aaron Smith,J.B. DeRosa,BKN,105,111,0.003,0.023,32.0

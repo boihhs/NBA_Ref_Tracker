@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:03,SAC,De'Aaron Fox,Offensive Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,5,0,0.565,0.591,10:04
+1,8:26,MIA,Bam Adebayo,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,7,6,0.493,0.497,8:38
+1,8:20,SAC,Domantas Sabonis,Offensive Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,7,6,0.465,0.493,8:26
+1,7:44,MIA,Kyle Lowry,Offensive Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,7,6,0.496,0.465,7:46
+1,6:11,MIA,Caleb Martin,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,14,8,0.646,0.602,6:11
+1,6:10,SAC,Harrison Barnes,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,14,8,0.602,0.601,6:10
+1,5:55,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,14,8,0.564,0.602,6:10
+1,5:18,SAC,Kevin Huerter,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,17,9,0.617,0.654,5:38
+1,4:54,SAC,Keegan Murray,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,19,10,0.644,0.682,5:01
+1,4:41,MIA,Gabe Vincent,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,21,11,0.746,0.708,4:41
+1,2:57,SAC,Malik Monk,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,23,16,0.597,0.636,3:04
+1,2:12,MIA,Duncan Robinson,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,23,18,0.655,0.614,2:15
+1,50.7,SAC,De'Aaron Fox,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,27,21,0.575,0.615,1:01
+1,2.5,MIA,Duncan Robinson,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,31,23,0.721,0.675,2.5
+2,11:02,MIA,Gabe Vincent,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,34,23,0.792,0.756,11:02
+2,7:59,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,40,31,0.676,0.718,8:02
+2,2:55,MIA,Kyle Lowry,Offensive Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,56,45,0.818,0.793,3:05
+2,27.9,SAC,Harrison Barnes,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,69,47,0.956,0.967,32.2
+2,16.7,SAC,Trey Lyles,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,69,47,0.956,0.956,27.9
+2,1.2,MIA,Caleb Martin,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,69,48,0.976,0.967,16.7
+2,8:34,SAC,Keegan Murray,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,40,28,0.752,0.97,0.0
+3,11:27,SAC,Keegan Murray,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,71,49,0.971,0.971,11:43
+3,10:18,SAC,Domantas Sabonis,Offensive Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,71,52,0.952,0.96,10:34
+3,9:59,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,71,54,0.921,0.943,9:59
+3,9:26,SAC,Richaun Holmes,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,71,55,0.898,0.92,9:38
+3,8:09,SAC,Harrison Barnes,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,76,59,0.921,0.939,8:23
+3,7:59,SAC,Richaun Holmes,Offensive Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,76,60,0.93,0.942,8:09
+3,4:48,SAC,Davion Mitchell,Offensive Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,78,68,0.835,0.857,5:09
+3,4:07,SAC,Alex Len,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,78,68,0.795,0.84,4:10
+3,3:48,MIA,Udonis Haslem,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,80,70,0.886,0.843,3:48
+3,3:45,SAC,Keegan Murray,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,81,70,0.829,0.868,3:48
+3,3:27,MIA,Kyle Lowry,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,81,72,0.882,0.844,3:45
+3,1:58,MIA,Max Strus,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,85,76,0.894,0.857,2:22
+3,1:06,MIA,Gabe Vincent,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,85,79,0.824,0.776,1:06
+4,10:37,MIA,Gabe Vincent,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,92,86,0.861,0.798,10:53
+4,10:00,MIA,Max Strus,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,94,86,0.885,0.878,10:04
+4,9:39,SAC,Harrison Barnes,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,94,86,0.842,0.854,9:48
+4,9:24,MIA,Caleb Martin,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,94,86,0.892,0.884,9:24
+4,9:10,MIA,Max Strus,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,94,86,0.927,0.89,9:10
+4,9:04,MIA,Max Strus,Flagrant Foul Type 1,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,94,86,0.887,0.896,9:04
+4,7:59,SAC,Davion Mitchell,Offensive Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,101,91,0.926,0.946,8:07
+4,7:49,SAC,Kevin Huerter,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,101,91,0.883,0.926,7:59
+4,6:15,SAC,Harrison Barnes,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,101,97,0.666,0.787,6:15
+4,5:52,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,104,100,0.67,0.725,6:06
+4,5:38,MIA,Bam Adebayo,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,104,102,0.75,0.661,5:52
+4,5:20,MIA,Tyler Herro,Offensive Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,106,102,0.781,0.724,5:20
+4,2:28,MIA,Bam Adebayo,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,114,106,0.985,0.968,2:29
+4,1:48,SAC,De'Aaron Fox,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,116,108,0.92,0.96,1:53
+4,1:26,MIA,Kyle Lowry,Shooting Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,116,110,0.976,0.94,1:48
+4,57.9,SAC,De'Aaron Fox,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,117,110,0.9,0.947,1:26
+4,14.2,MIA,Bam Adebayo,Personal Take Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,117,113,0.984,0.934,21.3
+4,4.7,MIA,Bam Adebayo,Personal Foul,Foul,Sean Wright,Nick Buchert,Tyler Mirkovich,SAC,119,113,0.998,0.998,4.7

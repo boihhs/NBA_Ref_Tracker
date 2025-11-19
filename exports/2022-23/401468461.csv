@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:06,CHI,Patrick Williams,Personal Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,12,10,0.631,0.631,7:16
+1,4:00,CHI,DeMar DeRozan,Personal Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,21,17,0.68,0.679,4:22
+1,2:08,CHI,Goran Dragic,Personal Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,24,19,0.702,0.707,2:16
+1,1:26,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,24,21,0.609,0.627,1:26
+2,11:14,UTAH,Udoka Azubuike,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,30,27,0.585,0.625,11:34
+2,7:34,UTAH,Nickeil Alexander-Walker,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,42,36,0.667,0.708,7:43
+2,5:16,CHI,Patrick Williams,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,48,38,0.858,0.831,5:24
+2,3:30,UTAH,Jarred Vanderbilt,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,51,42,0.754,0.791,3:45
+2,1:50,CHI,DeMar DeRozan,Personal Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,54,48,0.782,0.744,2:10
+3,10:59,UTAH,Jordan Clarkson,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,63,53,0.791,0.826,11:10
+3,9:59,UTAH,Kelly Olynyk,Offensive Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,65,59,0.725,0.756,10:10
+3,9:37,CHI,Ayo Dosunmu,Personal Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,65,59,0.755,0.758,9:45
+3,8:32,CHI,Zach LaVine,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,68,61,0.826,0.788,8:38
+3,8:16,UTAH,Jarred Vanderbilt,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,68,63,0.67,0.728,8:16
+3,7:03,UTAH,Collin Sexton,Personal Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,70,66,0.664,0.662,7:18
+3,6:14,UTAH,Kelly Olynyk,Flagrant Foul Type 1,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,73,68,0.711,0.701,6:33
+3,4:56,UTAH,Jordan Clarkson,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,73,72,0.484,0.547,5:04
+3,4:20,UTAH,Jordan Clarkson,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,73,74,0.398,0.462,4:29
+3,2:43,CHI,DeMar DeRozan,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,76,80,0.434,0.37,2:58
+3,2:05,CHI,Andre Drummond,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,77,83,0.315,0.283,2:13
+3,36.1,CHI,Andre Drummond,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,80,85,0.378,0.318,47.7
+3,27.4,UTAH,Nickeil Alexander-Walker,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,80,85,0.205,0.265,33.1
+4,11:28,CHI,Andre Drummond,Offensive Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,82,86,0.345,0.294,11:40
+4,9:31,CHI,Goran Dragic,Personal Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,84,94,0.104,0.096,9:33
+4,9:29,CHI,Coby White,Personal Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,84,94,0.109,0.104,9:31
+4,8:22,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,88,96,0.194,0.116,8:22
+4,8:09,UTAH,Malik Beasley,Personal Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,89,96,0.144,0.154,8:22
+4,6:59,UTAH,Lauri Markkanen,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,94,98,0.21,0.263,7:15
+4,6:08,CHI,Ayo Dosunmu,Personal Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,94,102,0.181,0.12,6:26
+4,4:23,CHI,Nikola Vucevic,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,99,104,0.317,0.226,4:37
+4,3:43,UTAH,Collin Sexton,Clear Path Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,100,104,0.191,0.21,3:44
+4,1:27,CHI,DeMar DeRozan,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,102,110,0.077,0.035,1:28
+4,32.0,UTAH,Malik Beasley,Shooting Foul,Foul,James Capers,Tre Maddox,Natalie Sago,UTAH,104,113,0.001,0.001,33.2

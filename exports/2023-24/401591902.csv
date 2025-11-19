@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:02,GS,Kevon Looney,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,6,13,0.336,0.335,9:02
+1,7:16,GS,Chris Paul,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,13,15,0.46,0.46,7:17
+1,5:47,LAL,D'Angelo Russell,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,19,15,0.593,0.592,5:59
+1,4:28,GS,Dario Saric,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,22,18,0.658,0.621,4:43
+1,2:59,GS,Gary Payton II,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,29,20,0.779,0.746,3:04
+1,25.0,LAL,Austin Reaves,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,37,29,0.666,0.704,30.0
+2,11:27,LAL,Jaxson Hayes,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,37,32,0.587,0.628,11:32
+2,9:58,GS,Brandin Podziemski,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,42,36,0.726,0.688,10:02
+2,9:00,GS,Chris Paul,Offensive Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,44,38,0.69,0.661,9:04
+2,8:31,LAL,Jaxson Hayes,Offensive Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,46,38,0.716,0.742,8:39
+2,8:15,GS,Kevon Looney,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,46,38,0.778,0.743,8:19
+2,6:53,GS,Chris Paul,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,47,43,0.68,0.637,7:03
+2,6:40,LAL,Max Christie,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,49,43,0.623,0.665,6:53
+2,5:19,GS,Kevon Looney,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,53,48,0.712,0.669,5:23
+2,5:09,LAL,Anthony Davis,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,54,50,0.588,0.64,5:09
+2,4:57,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,54,50,0.685,0.641,5:05
+2,4:46,GS,Stephen Curry,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,55,50,0.714,0.671,4:46
+2,4:17,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,58,50,0.775,0.729,4:17
+2,3:49,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,59,52,0.77,0.73,4:07
+2,3:30,LAL,Anthony Davis,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,60,52,0.688,0.731,3:49
+2,3:16,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,60,53,0.772,0.735,3:30
+2,7.1,GS,Jonathan Kuminga,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,68,63,0.733,0.689,12.1
+3,11:49,LAL,Austin Reaves,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,70,63,0.672,0.721,12:00
+3,10:24,LAL,Anthony Davis,Technical Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,73,72,0.49,0.553,10:24
+3,10:14,GS,Andrew Wiggins,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,73,73,0.518,0.481,10:24
+3,8:55,GS,Klay Thompson,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,81,75,0.776,0.734,8:57
+3,8:48,LAL,Rui Hachimura,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,83,75,0.761,0.761,8:55
+3,8:03,LAL,Rui Hachimura,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,85,78,0.686,0.735,8:08
+3,7:55,GS,Andrew Wiggins,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,85,80,0.7,0.702,8:03
+3,7:50,GS,Stephen Curry,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,87,80,0.788,0.736,7:50
+3,7:35,LAL,Austin Reaves,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,88,80,0.72,0.767,7:50
+3,7:35,LAL,Austin Reaves,Technical Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,88,80,0.745,0.72,7:35
+3,6:00,GS,Chris Paul,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,90,83,0.822,0.78,6:01
+3,4:51,GS,Gary Payton II,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,94,85,0.877,0.843,5:00
+3,4:38,GS,Rudy Gay,Offensive Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,95,85,0.867,0.843,4:49
+3,4:24,GS,Gary Payton II,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,95,85,0.902,0.867,4:38
+3,4:04,LAL,Jaxson Hayes,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,95,87,0.767,0.821,4:04
+3,3:19,GS,Jonathan Kuminga,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,97,88,0.873,0.825,3:19
+3,1:16,LAL,Christian Wood,Offensive Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,98,96,0.57,0.617,1:24
+3,47.0,GS,Jerome Robinson,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,98,99,0.549,0.476,1:05
+3,32.1,LAL,Jalen Hood-Schifino,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,100,99,0.45,0.523,36.1
+4,9:22,GS,Rudy Gay,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,105,107,0.516,0.415,9:24
+4,4:49,GS,Moses Moody,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,115,116,0.592,0.466,4:51
+4,3:29,LAL,Colin Castleton,Shooting Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,119,118,0.418,0.541,3:39
+4,2:02,LAL,Maxwell Lewis,Personal Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,121,121,0.449,0.451,2:05
+4,11.1,LAL,Jalen Hood-Schifino,Personal Take Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,125,126,0.125,0.33,14.2
+4,10.1,LAL,D'Moi Hodge,Personal Take Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,125,126,0.122,0.125,11.1
+4,4.1,LAL,Alex Fudge,Personal Take Foul,Foul,Brian Forte,John Butler,J.D. Ralls,LAL,125,128,0.011,0.042,5.1

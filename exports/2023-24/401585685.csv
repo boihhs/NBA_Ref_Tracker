@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:42,HOU,Jabari Smith Jr.,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,0,0,0.608,0.609,12:00
+1,11:37,OKC,Cason Wallace,Offensive Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,0,0,0.587,0.608,11:42
+1,10:17,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,0,7,0.467,0.43,10:32
+1,8:17,OKC,Jalen Williams,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,2,11,0.345,0.344,8:30
+1,7:54,OKC,Chet Holmgren,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,2,13,0.295,0.294,7:55
+1,7:12,HOU,Amen Thompson,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,2,15,0.302,0.27,7:34
+1,5:37,HOU,Jae'Sean Tate,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,6,15,0.398,0.359,5:41
+1,3:28,HOU,Amen Thompson,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,11,19,0.416,0.375,3:33
+1,16.0,HOU,Jock Landale,Offensive Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,17,28,0.282,0.255,24.0
+2,11:01,OKC,Kenrich Williams,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,20,31,0.253,0.251,11:18
+2,11:01,HOU,Jae'Sean Tate,Offensive Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,20,31,0.272,0.253,11:01
+2,10:23,HOU,Reggie Bullock Jr.,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,22,31,0.323,0.321,10:24
+2,8:44,HOU,Jeff Green,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,26,33,0.394,0.34,8:44
+2,6:07,HOU,Fred VanVleet,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,32,38,0.389,0.391,6:18
+2,5:55,HOU,Fred VanVleet,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,32,38,0.435,0.389,6:07
+2,5:13,HOU,Jalen Green,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,36,38,0.535,0.509,5:13
+2,4:23,OKC,Chet Holmgren,Offensive Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,38,40,0.474,0.507,4:31
+2,2:51,HOU,Jalen Green,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,43,43,0.619,0.572,2:57
+2,2:34,OKC,Chet Holmgren,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,45,43,0.553,0.604,2:51
+2,1:15,OKC,Jalen Williams,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,47,47,0.485,0.536,1:22
+2,36.1,HOU,Jabari Smith Jr.,Offensive Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,47,49,0.499,0.467,40.1
+3,11:48,HOU,Dillon Brooks,Offensive Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,50,49,0.603,0.584,12:00
+3,11:17,OKC,Chet Holmgren,Flagrant Foul Type 1,Foul,Sean Wright,Brian Forte,John Conley,OKC,52,51,0.578,0.602,11:17
+3,9:32,OKC,Josh Giddey,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,57,57,0.527,0.526,9:38
+3,9:22,HOU,Amen Thompson,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,59,57,0.662,0.599,9:22
+3,7:55,HOU,Fred VanVleet,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,66,59,0.815,0.768,7:55
+3,7:03,HOU,Fred VanVleet,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,67,62,0.737,0.739,7:08
+3,6:39,OKC,Josh Giddey,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,69,62,0.724,0.771,6:49
+3,6:39,HOU,Dillon Brooks,Technical Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,69,62,0.821,0.724,6:39
+3,6:19,OKC,Cason Wallace,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,70,66,0.644,0.708,6:19
+3,4:31,OKC,Chet Holmgren,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,74,69,0.656,0.713,4:34
+3,1:44,OKC,Jaylin Williams,Offensive Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,81,77,0.684,0.725,2:01
+4,9:53,HOU,Dillon Brooks,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,90,85,0.853,0.791,10:06
+4,9:15,OKC,Kenrich Williams,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,92,85,0.765,0.844,9:20
+4,8:48,OKC,Chet Holmgren,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,92,88,0.651,0.756,8:48
+4,8:31,OKC,Jaylin Williams,Offensive Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,92,88,0.702,0.75,8:47
+4,8:11,OKC,Kenrich Williams,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,92,88,0.642,0.704,8:11
+4,7:31,OKC,Kenrich Williams,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,95,90,0.66,0.748,7:44
+4,6:34,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,97,94,0.789,0.701,6:46
+4,6:19,OKC,Jalen Williams,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,98,96,0.536,0.652,6:19
+4,6:08,HOU,Amen Thompson,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,98,97,0.611,0.59,6:19
+4,4:47,OKC,Luguentz Dort,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,101,101,0.351,0.455,4:50
+4,8.2,OKC,Jalen Williams,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,109,111,0.046,0.133,8.2
+4,7.1,HOU,Amen Thompson,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,109,112,0.297,0.122,8.2
+5,4:01,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,112,118,0.147,0.14,4:01
+5,38.1,HOU,Jalen Green,Shooting Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,123,128,0.212,0.09,44.1
+5,27.0,OKC,Isaiah Joe,Personal Take Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,124,128,0.031,0.1,36.1
+5,13.1,OKC,Luguentz Dort,Personal Foul,Foul,Sean Wright,Brian Forte,John Conley,OKC,126,130,0.014,0.065,21.0

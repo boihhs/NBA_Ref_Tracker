@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:15,ATL,Clint Capela,Personal Take Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,4,5,0.566,0.567,10:15
+1,10:06,ATL,Kevin Huerter,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,4,5,0.565,0.566,10:15
+1,9:44,MIL,Bobby Portis,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,4,5,0.541,0.541,9:52
+1,9:21,ATL,Clint Capela,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,4,7,0.55,0.514,9:33
+1,7:45,ATL,Onyeka Okongwu,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,14,10,0.7,0.661,7:45
+1,5:53,ATL,John Collins,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,20,12,0.8,0.771,5:57
+1,5:27,ATL,Danilo Gallinari,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,21,12,0.805,0.791,5:27
+1,4:16,MIL,Grayson Allen,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,25,15,0.761,0.793,4:32
+1,2:53,ATL,Trae Young,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,30,17,0.883,0.862,2:53
+1,2:11,MIL,Jrue Holiday,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,32,17,0.877,0.878,2:13
+1,33.3,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,32,21,0.786,0.815,46.6
+2,11:27,ATL,Lou Williams,Personal Take Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,40,26,0.882,0.883,11:27
+2,6:54,MIL,Khris Middleton,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,49,37,0.833,0.863,6:54
+2,4:05,ATL,Bogdan Bogdanovic,Personal Take Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,56,45,0.853,0.855,4:07
+2,3:02,MIL,Jevon Carter,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,62,45,0.929,0.928,3:19
+2,1:21,MIL,Jevon Carter,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,64,47,0.917,0.934,1:25
+2,30.3,MIL,Jrue Holiday,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,66,52,0.874,0.897,33.4
+3,11:20,ATL,Clint Capela,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,72,54,0.964,0.95,11:20
+3,10:16,MIL,Jrue Holiday,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,73,60,0.879,0.907,10:16
+3,10:03,ATL,Kevin Huerter,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,73,61,0.891,0.892,10:16
+3,9:35,ATL,Clint Capela,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,75,61,0.932,0.911,9:35
+3,9:17,ATL,Clint Capela,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,75,63,0.917,0.894,9:23
+3,8:58,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,77,63,0.886,0.91,9:08
+3,7:59,ATL,Danilo Gallinari,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,79,68,0.908,0.882,7:59
+3,4:50,ATL,John Collins,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,83,73,0.908,0.878,4:59
+3,4:50,ATL,Trae Young,Technical Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,83,73,0.895,0.908,4:50
+3,3:58,MIL,Serge Ibaka,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,85,75,0.842,0.884,3:58
+3,28.8,MIL,Wesley Matthews,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,91,84,0.74,0.798,33.4
+4,11:33,ATL,Lou Williams,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,93,86,0.892,0.845,11:40
+4,10:30,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,97,88,0.915,0.906,10:48
+4,7:26,ATL,De'Andre Hunter,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,108,96,0.983,0.964,7:26
+4,7:13,MIL,Jordan Nwora,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,109,96,0.958,0.976,7:26
+4,6:02,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,111,102,0.924,0.93,6:07
+4,5:16,ATL,De'Andre Hunter,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,111,105,0.931,0.883,5:30
+4,3:10,MIL,Jrue Holiday,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,118,109,0.924,0.963,3:30
+4,2:40,MIL,Wesley Matthews,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,118,110,0.902,0.955,2:43
+4,1:22,ATL,De'Andre Hunter,Offensive Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,120,112,0.984,0.966,1:33
+4,1:22,ATL,ATL,Technical Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,120,112,0.99,0.984,1:22
+4,1:22,ATL,ATL,Technical Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,121,112,0.995,0.992,1:22
+4,1:01,MIL,Bobby Portis,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,122,112,0.981,0.993,1:09
+4,28.8,MIL,Jrue Holiday,Shooting Foul,Foul,Brian Forte,David Guthrie,Brett Nansel,MIL,124,114,0.995,0.999,28.8

@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:54,LAC,Ivica Zubac,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,0,3,0.724,0.754,10:58
+1,8:51,SA,Keldon Johnson,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,4,3,0.839,0.812,8:51
+1,4:09,SA,Keldon Johnson,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,20,9,0.929,0.929,4:17
+1,4:07,SA,Tre Jones,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,20,9,0.928,0.929,4:09
+1,4:04,LAC,Bones Hyland,Offensive Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,20,9,0.92,0.928,4:07
+1,41.0,SA,Cedi Osman,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,23,15,0.912,0.896,44.2
+1,33.0,SA,Charles Bassey,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,23,15,0.905,0.912,41.0
+2,11:37,SA,Doug McDermott,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,23,17,0.868,0.861,12:00
+2,10:37,LAC,Nicolas Batum,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,27,17,0.903,0.904,10:47
+2,10:20,SA,Doug McDermott,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,27,17,0.927,0.914,10:23
+2,8:40,LAC,Norman Powell,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,31,17,0.939,0.94,8:43
+2,8:19,LAC,Robert Covington,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,31,17,0.939,0.94,8:23
+2,7:28,LAC,Ivica Zubac,Offensive Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,33,19,0.939,0.947,7:37
+2,6:45,SA,Jeremy Sochan,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,35,21,0.952,0.939,6:45
+2,5:19,LAC,Kawhi Leonard,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,41,23,0.958,0.966,5:22
+2,4:16,LAC,Ivica Zubac,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,46,28,0.963,0.972,4:16
+2,3:03,LAC,Paul George,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,49,31,0.959,0.968,3:21
+2,1:33,SA,Tre Jones,Offensive Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,51,37,0.949,0.941,1:37
+2,48.0,SA,Charles Bassey,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,53,37,0.971,0.965,1:01
+3,11:20,SA,Keldon Johnson,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,60,37,0.993,0.989,11:20
+3,9:33,SA,Victor Wembanyama,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,65,37,0.998,0.998,9:38
+3,8:21,LAC,Russell Westbrook,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,67,39,0.996,0.998,8:32
+3,8:09,SA,Devin Vassell,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,67,41,0.998,0.997,8:21
+3,7:44,SA,Jeremy Sochan,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,69,41,0.998,0.998,7:49
+3,7:15,SA,Keldon Johnson,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,71,41,0.999,0.999,7:28
+3,6:58,LAC,Kawhi Leonard,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,72,41,0.999,0.999,6:58
+3,6:29,LAC,Ivica Zubac,Loose Ball Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,72,43,0.998,0.998,6:29
+3,4:59,LAC,Russell Westbrook,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,77,47,0.998,0.999,5:01
+3,4:44,SA,Devin Vassell,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,77,48,0.999,0.999,4:57
+3,4:09,SA,Tre Jones,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,78,48,0.999,0.999,4:23
+3,3:13,SA,Zach Collins,Loose Ball Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,80,51,0.999,0.999,3:13
+3,1:25,LAC,Russell Westbrook,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,88,56,0.999,0.999,1:43
+3,39.1,LAC,KJ Martin,Offensive Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,90,58,0.999,0.999,50.1
+3,1.1,SA,Malaki Branham,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,92,60,0.999,0.999,8.1
+4,8:16,SA,Doug McDermott,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,97,72,0.999,0.999,8:26
+4,8:12,SA,Jeremy Sochan,Personal Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,97,72,0.999,0.999,8:16
+4,3:08,LAC,KJ Martin,Hanging Technical Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,115,81,0.999,0.999,3:09
+4,19.1,LAC,Kobe Brown,Shooting Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,123,82,0.999,0.999,27.1
+4,17.1,SA,Sandro Mamukelashvili,Loose Ball Foul,Foul,Zach Zarba,Justin Van Duyne,Che Flores,LAC,123,83,0.999,0.999,17.1

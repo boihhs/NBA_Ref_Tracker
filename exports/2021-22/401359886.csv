@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:18,PHX,Mikal Bridges,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,3,2,0.633,0.668,10:29
+1,9:01,SAC,De'Aaron Fox,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,7,5,0.739,0.71,9:14
+1,7:54,PHX,Jae Crowder,Personal Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,14,9,0.758,0.748,8:13
+1,7:46,PHX,Devin Booker,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,14,11,0.707,0.728,7:46
+1,4:57,SAC,Alex Len,Offensive Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,20,16,0.744,0.722,5:00
+1,4:13,SAC,Davion Mitchell,Personal Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,20,16,0.743,0.743,4:28
+1,2:33,SAC,Alex Len,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,24,18,0.81,0.781,2:46
+2,9:19,PHX,Landry Shamet,Personal Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,36,25,0.854,0.855,9:26
+2,8:26,PHX,Cameron Johnson,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,36,25,0.828,0.855,8:31
+2,7:37,PHX,Chris Paul,Personal Take Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,36,29,0.779,0.779,7:39
+2,4:10,SAC,De'Aaron Fox,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,48,40,0.838,0.8,4:10
+2,3:08,SAC,Davion Mitchell,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,51,42,0.87,0.843,3:24
+2,2:05,PHX,Devin Booker,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,54,48,0.767,0.78,2:05
+2,1:53,SAC,Buddy Hield,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,56,49,0.792,0.78,1:53
+3,10:51,PHX,Mikal Bridges,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,61,55,0.757,0.786,10:51
+3,9:23,SAC,Maurice Harkless,Personal Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,61,59,0.663,0.664,9:32
+3,9:16,PHX,Chris Paul,Personal Take Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,61,59,0.627,0.627,9:16
+3,9:06,SAC,De'Aaron Fox,Loose Ball Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,61,59,0.663,0.627,9:16
+3,7:53,PHX,Mikal Bridges,Personal Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,63,61,0.627,0.626,8:10
+3,4:13,PHX,Jae Crowder,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,71,71,0.47,0.535,4:16
+3,1:54,SAC,Alex Len,Offensive Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,73,75,0.478,0.433,1:57
+3,1:39,PHX,Devin Booker,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,73,75,0.36,0.432,1:41
+3,25.4,SAC,Alex Len,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,75,82,0.311,0.246,36.5
+4,11:41,SAC,Maurice Harkless,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,76,82,0.357,0.258,12:00
+4,10:37,SAC,Richaun Holmes,Personal Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,79,84,0.328,0.313,10:39
+4,10:34,SAC,Buddy Hield,Personal Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,79,84,0.336,0.328,10:37
+4,10:23,PHX,Jae Crowder,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,79,84,0.272,0.273,10:24
+4,10:10,SAC,Richaun Holmes,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,79,86,0.304,0.227,10:23
+4,9:39,SAC,Terence Davis,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,80,86,0.347,0.274,9:44
+4,7:49,SAC,Maurice Harkless,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,82,92,0.098,0.098,7:49
+4,6:55,SAC,Tyrese Haliburton,Personal Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,83,95,0.074,0.046,7:00
+4,6:14,SAC,Harrison Barnes,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,85,98,0.047,0.03,6:27
+4,3:51,PHX,Devin Booker,Loose Ball Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,92,101,0.04,0.059,3:51
+4,3:10,PHX,Deandre Ayton,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,94,101,0.035,0.078,3:33
+4,1:58,SAC,Tyrese Haliburton,Shooting Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,98,105,0.101,0.077,2:08
+4,1.4,PHX,Mikal Bridges,Personal Foul,Foul,Eric Lewis,Suyash Mehta,Natalie Sago,PHX,107,107,0.057,0.481,3.7

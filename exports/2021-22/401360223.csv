@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:54,DET,Hamidou Diallo,Shooting Foul,Foul,,,,DET,2,6,0.245,0.274,10:05
+1,8:59,BKN,LaMarcus Aldridge,Offensive Foul,Foul,,,,DET,2,8,0.256,0.235,9:04
+1,8:21,DET,Hamidou Diallo,Personal Take Foul,Foul,,,,DET,4,11,0.227,0.219,8:22
+1,6:14,DET,Isaiah Stewart,Offensive Foul,Foul,,,,DET,10,17,0.219,0.237,6:29
+1,5:03,DET,Frank Jackson,Shooting Foul,Foul,,,,DET,13,19,0.248,0.236,5:18
+1,2:32,BKN,Nic Claxton,Personal Foul,Foul,,,,DET,16,26,0.181,0.181,2:44
+1,2:04,BKN,Kevin Durant,Personal Take Foul,Foul,,,,DET,16,26,0.181,0.181,2:05
+2,10:01,DET,Trey Lyles,Shooting Foul,Foul,,,,DET,29,37,0.182,0.206,10:01
+2,9:46,BKN,Bruce Brown,Shooting Foul,Foul,,,,DET,29,38,0.228,0.195,9:58
+2,8:48,BKN,LaMarcus Aldridge,Offensive Foul,Foul,,,,DET,34,38,0.314,0.286,8:58
+2,6:51,DET,Rodney McGruder,Personal Foul,Foul,,,,DET,42,38,0.525,0.524,6:51
+2,6:51,DET,Josh Jackson,Personal Foul,Foul,,,,DET,42,38,0.525,0.525,6:51
+2,6:33,DET,Isaiah Stewart,Shooting Foul,Foul,,,,DET,42,38,0.503,0.527,6:33
+2,6:13,DET,Frank Jackson,Personal Foul,Foul,,,,DET,44,40,0.482,0.527,6:21
+2,5:16,BKN,David Duke Jr.,Shooting Foul,Foul,,,,DET,46,42,0.59,0.532,5:16
+2,2:55,DET,Saddiq Bey,Personal Foul,Foul,,,,DET,48,49,0.334,0.38,3:03
+2,2:43,BKN,Cam Thomas,Shooting Foul,Foul,,,,DET,48,50,0.429,0.378,2:52
+2,2:32,DET,Hamidou Diallo,Personal Foul,Foul,,,,DET,50,50,0.364,0.41,2:43
+2,1:45,BKN,Cam Thomas,Shooting Foul,Foul,,,,DET,52,54,0.432,0.38,1:57
+2,3.5,BKN,Kevin Durant,Personal Foul,Foul,,,,DET,56,60,0.369,0.32,7.4
+3,11:49,BKN,Patty Mills,Offensive Foul,Foul,,,,DET,57,60,0.349,0.338,12:00
+3,11:08,DET,Saddiq Bey,Offensive Foul,Foul,,,,DET,59,62,0.317,0.35,11:15
+3,9:38,DET,Killian Hayes,Personal Foul,Foul,,,,DET,61,66,0.255,0.256,9:42
+3,7:47,BKN,LaMarcus Aldridge,Shooting Foul,Foul,,,,DET,72,66,0.719,0.659,7:47
+3,5:28,BKN,Kevin Durant,Shooting Foul,Foul,,,,DET,77,73,0.666,0.597,5:28
+3,5:10,DET,Isaiah Stewart,Shooting Foul,Foul,,,,DET,77,73,0.536,0.597,5:26
+3,4:39,BKN,LaMarcus Aldridge,Shooting Foul,Foul,,,,DET,79,75,0.623,0.601,4:39
+3,3:29,BKN,Bruce Brown,Shooting Foul,Foul,,,,DET,83,80,0.673,0.608,3:33
+4,11:23,DET,Frank Jackson,Shooting Foul,Foul,,,,DET,91,86,0.691,0.688,11:35
+4,10:25,BKN,Patty Mills,Personal Foul,Foul,,,,DET,91,93,0.403,0.387,10:38
+4,10:14,BKN,Kevin Durant,Personal Foul,Foul,,,,DET,91,93,0.411,0.403,10:25
+4,10:01,DET,Josh Jackson,Loose Ball Foul,Foul,,,,DET,91,93,0.34,0.348,10:01
+4,9:48,DET,Josh Jackson,Shooting Foul,Foul,,,,DET,91,93,0.253,0.34,10:01
+4,9:02,DET,Rodney McGruder,Personal Foul,Foul,,,,DET,91,97,0.107,0.158,9:12
+4,8:46,BKN,Kevin Durant,Shooting Foul,Foul,,,,DET,91,97,0.267,0.188,8:52
+4,7:14,DET,Cade Cunningham,Offensive Foul,Foul,,,,DET,92,101,0.062,0.086,7:24
+4,7:02,DET,Rodney McGruder,Personal Foul,Foul,,,,DET,92,101,0.038,0.062,7:14
+4,3:17,DET,Isaiah Stewart,Loose Ball Foul,Foul,,,,DET,98,108,0.006,0.013,3:17
+4,1:05,BKN,Bruce Brown,Loose Ball Foul,Foul,,,,DET,100,116,0.001,0.001,1:05
+4,52.5,BKN,Jevon Carter,Loose Ball Foul,Foul,,,,DET,100,116,0.001,0.001,52.5
+4,38.5,BKN,Nic Claxton,Offensive Foul,Foul,,,,DET,102,116,0.001,0.001,52.5

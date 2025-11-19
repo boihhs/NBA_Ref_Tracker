@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:15,SA,Jakob Poeltl,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,4,0,0.836,0.816,10:28
+1,10:03,SA,Keldon Johnson,Offensive Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,4,0,0.814,0.797,10:12
+1,7:49,SA,Tre Jones,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,8,6,0.772,0.772,7:57
+1,6:31,MIN,Malik Beasley,Personal Take Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,14,10,0.787,0.787,6:33
+1,5:21,MIN,Karl-Anthony Towns,Flagrant Foul Type 1,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,16,14,0.75,0.766,5:36
+1,4:58,MIN,Karl-Anthony Towns,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,19,15,0.783,0.783,5:07
+1,4:17,SA,Romeo Langford,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,21,17,0.811,0.781,4:17
+1,4:08,MIN,Jordan McLaughlin,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,22,17,0.77,0.799,4:17
+1,3:58,MIN,Taurean Prince,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,22,17,0.769,0.77,4:08
+1,3:20,SA,Jakob Poeltl,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,25,21,0.821,0.798,3:28
+1,1:05,MIN,Jordan McLaughlin,Personal Take Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,28,28,0.64,0.682,1:07
+1,40.3,MIN,Naz Reid,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,28,30,0.587,0.626,46.4
+1,29.7,SA,Zach Collins,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,28,32,0.638,0.598,40.3
+1,5.9,MIN,Taurean Prince,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,30,34,0.547,0.591,5.9
+2,11:49,SA,Tre Jones,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,30,35,0.607,0.566,11:51
+2,9:26,MIN,Jaylen Nowell,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,36,37,0.636,0.664,9:31
+2,7:39,MIN,Jarred Vanderbilt,Loose Ball Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,42,41,0.681,0.68,7:39
+2,7:19,SA,Joe Wieskamp,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,42,43,0.651,0.652,7:29
+2,5:45,SA,Joe Wieskamp,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,47,48,0.685,0.644,5:58
+2,4:08,SA,Joshua Primo,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,53,48,0.824,0.792,4:10
+2,2:20,SA,Devin Vassell,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,59,54,0.823,0.792,2:28
+2,2:05,SA,Josh Richardson,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,61,54,0.861,0.834,2:08
+2,1:44,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,63,54,0.823,0.853,2:05
+2,1:31,SA,Josh Richardson,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,63,55,0.878,0.851,1:44
+2,49.1,MIN,Jarred Vanderbilt,Loose Ball Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,64,55,0.823,0.854,49.1
+3,11:15,SA,Jakob Poeltl,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,64,57,0.864,0.838,11:21
+3,10:04,MIN,Patrick Beverley,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,72,57,0.943,0.872,11:15
+3,7:58,MIN,Patrick Beverley,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,78,60,0.96,0.971,8:07
+3,7:09,MIN,Patrick Beverley,Offensive Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,80,65,0.95,0.958,7:25
+3,5:21,MIN,Anthony Edwards,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,85,69,0.964,0.963,5:33
+3,4:47,MIN,Taurean Prince,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,85,73,0.909,0.935,4:47
+3,4:25,SA,Jakob Poeltl,Loose Ball Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,85,75,0.906,0.907,4:25
+3,3:40,MIN,Taurean Prince,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,85,77,0.827,0.869,3:40
+3,3:40,MIN,Karl-Anthony Towns,Technical Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,85,77,0.827,0.827,3:40
+3,2:02,MIN,Taurean Prince,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,90,78,0.907,0.931,2:19
+4,10:32,SA,Josh Richardson,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,100,85,0.99,0.984,10:46
+4,8:47,MIN,Anthony Edwards,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,107,90,0.991,0.991,9:00
+4,8:13,MIN,Naz Reid,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,109,93,0.98,0.99,8:19
+4,7:37,MIN,Naz Reid,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,109,97,0.948,0.974,7:37
+4,5:59,SA,Joshua Primo,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,115,102,0.993,0.986,6:15
+4,5:44,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,117,102,0.983,0.991,5:59
+4,5:29,SA,Keldon Johnson,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,117,103,0.993,0.991,5:44
+4,5:12,MIN,Jarred Vanderbilt,Personal Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,117,103,0.98,0.989,5:19
+4,4:25,SA,Tre Jones,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,117,106,0.991,0.981,4:42
+4,3:16,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,122,108,0.992,0.996,3:29
+4,1:36,SA,Keldon Johnson,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,122,111,0.998,0.997,1:52
+4,1:21,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,123,113,0.985,0.996,1:21
+4,11.3,MIN,Patrick Beverley,Shooting Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,123,118,0.865,0.946,14.5
+4,9.1,SA,Keita Bates-Diop,Personal Take Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,123,119,0.991,0.959,11.3
+4,8.4,MIN,Patrick Beverley,Personal Take Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,125,119,0.941,0.986,9.1
+4,3.5,SA,Devontae Cacok,Personal Take Foul,Foul,Jacyn Goble,Marc Davis,Phenizee Ransom,MIN,125,121,0.996,0.987,3.5

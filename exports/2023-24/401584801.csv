@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:12,ORL,Paolo Banchero,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,0,3,0.276,0.306,11:13
+1,10:05,MIL,Brook Lopez,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,0,3,0.366,0.331,10:09
+1,9:12,MIL,Malik Beasley,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,3,5,0.392,0.356,9:18
+1,8:44,MIL,Khris Middleton,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,5,7,0.356,0.356,8:58
+1,6:12,MIL,Cameron Payne,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,11,11,0.451,0.411,6:17
+1,4:10,MIL,Malik Beasley,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,15,18,0.377,0.339,4:13
+1,2:17,ORL,Joe Ingles,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,21,18,0.478,0.475,2:28
+1,1:39,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,21,20,0.494,0.452,2:02
+1,1:27,ORL,Cole Anthony,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,23,20,0.439,0.48,1:39
+1,1:04,ORL,Jonathan Isaac,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,25,22,0.44,0.482,1:13
+2,10:56,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,32,29,0.564,0.52,11:11
+2,10:11,ORL,Moritz Wagner,Defensive 3-Seconds Technical,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,34,29,0.56,0.552,10:19
+2,10:10,ORL,Jonathan Isaac,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,34,30,0.522,0.521,10:11
+2,9:11,MIL,Bobby Portis,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,36,30,0.617,0.585,9:17
+2,8:56,MIL,MarJon Beauchamp,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,36,30,0.661,0.617,9:11
+2,8:29,MIL,Bobby Portis,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,38,32,0.661,0.617,8:43
+2,7:52,MIL,MarJon Beauchamp,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,40,32,0.721,0.679,8:09
+2,5:56,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,47,38,0.713,0.719,6:10
+2,5:30,ORL,Anthony Black,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,51,38,0.798,0.797,5:48
+2,5:15,ORL,Moritz Wagner,Loose Ball Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,51,38,0.8,0.8,5:15
+2,3:12,MIL,Malik Beasley,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,55,42,0.867,0.837,3:17
+2,3:05,ORL,Goga Bitadze,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,57,44,0.799,0.839,3:05
+2,3:02,ORL,Paolo Banchero,Technical Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,57,44,0.799,0.839,3:02
+2,3:02,ORL,Anthony Black,Technical Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,57,44,0.799,0.799,3:02
+2,2:58,MIL,Pat Connaughton,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,57,45,0.85,0.817,2:58
+2,1:31,MIL,Cameron Payne,Technical Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,61,47,0.882,0.87,1:32
+2,1:05,ORL,Franz Wagner,Loose Ball Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,62,47,0.839,0.872,1:05
+2,47.1,ORL,Anthony Black,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,62,48,0.82,0.853,50.1
+2,6.2,ORL,Paolo Banchero,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,65,48,0.885,0.909,21.1
+3,11:08,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,67,49,0.956,0.945,11:18
+3,6:27,ORL,Goga Bitadze,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,77,62,0.905,0.931,6:27
+3,5:46,MIL,Bobby Portis,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,77,63,0.932,0.923,5:46
+3,5:46,ORL,Jalen Suggs,Double Technical Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,77,63,0.91,0.932,5:46
+3,5:21,MIL,Bobby Portis,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,79,63,0.964,0.95,5:27
+3,3:54,MIL,Pat Connaughton,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,83,63,0.99,0.984,4:08
+3,2:45,MIL,Cameron Payne,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,84,67,0.981,0.971,2:53
+3,2:07,ORL,Moritz Wagner,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,86,67,0.97,0.98,2:14
+3,1:56,MIL,Cameron Payne,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,86,68,0.988,0.981,2:04
+3,1:46,ORL,Jonathan Isaac,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,88,68,0.979,0.986,1:46
+3,1:39,ORL,Cole Anthony,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,88,69,0.982,0.986,1:46
+3,1:31,ORL,Jonathan Isaac,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,88,69,0.973,0.982,1:39
+4,8:41,ORL,Franz Wagner,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,99,84,0.963,0.979,8:44
+4,9:01,MIL,MIL,Delay Technical,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,99,84,0.982,0.951,8:17
+4,6:12,MIL,Thanasis Antetokounmpo,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,104,91,0.985,0.983,6:26
+4,5:35,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,104,91,0.993,0.987,5:43
+4,5:00,MIL,Andre Jackson Jr.,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,106,93,0.991,0.989,5:19
+4,3:56,MIL,Andre Jackson Jr.,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Suyash Mehta,ORL,106,93,0.998,0.995,4:05

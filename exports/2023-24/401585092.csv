@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:59,SAC,Domantas Sabonis,Defensive 3-Seconds Technical,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,2,0,0.897,0.895,11:17
+1,10:02,CHA,Nick Richards,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,4,6,0.865,0.843,10:02
+1,8:57,SAC,Chris Duarte,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,7,6,0.875,0.875,9:08
+1,8:54,CHA,Nick Richards,Offensive Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,7,6,0.885,0.875,8:57
+1,8:23,SAC,De'Aaron Fox,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,10,6,0.903,0.903,8:33
+1,6:58,CHA,Nate Mensah,Offensive Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,15,8,0.932,0.924,7:04
+1,4:21,SAC,Malik Monk,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,18,10,0.92,0.934,4:21
+1,12.1,SAC,Kevin Huerter,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,21,22,0.764,0.835,1:07
+2,10:27,SAC,Davion Mitchell,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,26,25,0.819,0.819,10:43
+2,10:09,CHA,Nick Smith Jr.,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,26,28,0.808,0.779,10:20
+2,9:24,SAC,Kevin Huerter,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,30,31,0.774,0.774,9:37
+2,8:52,CHA,Cody Martin,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,30,31,0.817,0.79,8:57
+2,7:49,CHA,Nate Mensah,Loose Ball Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,31,33,0.758,0.761,8:01
+2,6:47,SAC,Keegan Murray,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,33,33,0.774,0.777,7:17
+2,5:49,CHA,Ish Smith,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,35,36,0.799,0.774,6:58
+2,4:32,SAC,Keegan Murray,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,36,38,0.661,0.705,4:42
+2,3:08,SAC,Domantas Sabonis,Offensive Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,40,40,0.744,0.773,3:17
+3,10:39,CHA,Terry Rozier,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,52,50,0.823,0.79,10:47
+3,9:36,SAC,Keegan Murray,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,54,52,0.712,0.728,9:36
+3,8:49,SAC,Harrison Barnes,Offensive Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,56,57,0.656,0.691,8:58
+3,6:08,CHA,Terry Rozier,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,63,61,0.805,0.792,6:08
+3,4:37,SAC,Domantas Sabonis,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,69,64,0.769,0.813,4:44
+3,4:01,SAC,Domantas Sabonis,Offensive Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,69,66,0.751,0.784,4:12
+3,3:29,CHA,Nate Mensah,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,69,68,0.765,0.746,8:00
+3,1:52,CHA,P.J. Washington,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,76,70,0.895,0.863,1:56
+3,1:29,SAC,Alex Len,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,78,72,0.809,0.863,1:29
+4,11:03,SAC,Alex Len,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,80,75,0.735,0.803,11:17
+4,10:44,CHA,Nate Mensah,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,80,76,0.857,0.803,10:59
+4,8:18,CHA,Cody Martin,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,86,85,0.756,0.67,8:25
+4,7:25,SAC,Kevin Huerter,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,91,87,0.679,0.769,7:49
+4,7:08,SAC,Domantas Sabonis,Offensive Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,91,88,0.716,0.767,7:25
+4,6:08,SAC,Keegan Murray,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,94,90,0.71,0.818,6:08
+4,4:54,CHA,Bryce McGowens,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,96,93,0.823,0.719,4:54
+4,4:12,SAC,Malik Monk,Shooting Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,98,93,0.743,0.835,4:25
+4,3:25,CHA,Terry Rozier,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,100,96,0.9,0.835,3:42
+4,1:19,SAC,De'Aaron Fox,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,104,101,0.601,0.742,1:34
+4,32.2,SAC,Harrison Barnes,Personal Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,104,107,0.069,0.135,32.2
+4,21.1,SAC,Keegan Murray,Personal Take Foul,Foul,Tyler Ford,Nate Green,Ashley Moyer-Gleich,SAC,104,109,0.01,0.036,22.1

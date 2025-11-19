@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,PHI,De'Anthony Melton,Offensive Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,2,3,0.668,0.642,11:10
+1,6:58,PHI,Tobias Harris,Personal Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,10,10,0.676,0.676,7:13
+1,6:00,DEN,Nikola Jokic,Personal Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,14,10,0.74,0.74,6:19
+1,5:47,DEN,Bruce Brown,Personal Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,14,10,0.74,0.739,5:49
+1,2:27,PHI,Georges Niang,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,22,13,0.869,0.847,2:45
+1,2:13,PHI,Shake Milton,Offensive Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,24,13,0.875,0.861,2:27
+1,1:49,DEN,Zeke Nnaji,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,24,13,0.836,0.861,1:55
+1,34.1,PHI,Georges Niang,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,24,16,0.854,0.828,44.0
+2,11:22,PHI,Jalen McDaniels,Personal Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,25,20,0.771,0.773,11:27
+2,10:37,DEN,Zeke Nnaji,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,25,24,0.628,0.676,10:37
+2,6:39,DEN,Christian Braun,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,41,34,0.771,0.811,6:39
+2,6:23,DEN,Bruce Brown,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,41,37,0.698,0.743,6:23
+2,5:08,PHI,Tyrese Maxey,Personal Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,43,42,0.659,0.66,5:21
+2,4:29,PHI,Tobias Harris,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,43,42,0.699,0.658,4:34
+2,3:58,PHI,P.J. Tucker,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,45,42,0.751,0.712,4:08
+2,3:33,PHI,De'Anthony Melton,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,49,45,0.758,0.711,3:33
+2,2:35,DEN,Aaron Gordon,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,53,45,0.774,0.81,2:56
+2,2:20,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,53,46,0.749,0.788,2:23
+3,10:42,DEN,Jamal Murray,Personal Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,63,59,0.707,0.704,10:44
+3,9:38,PHI,De'Anthony Melton,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,65,59,0.828,0.794,9:45
+3,8:31,PHI,Dewayne Dedmon,Personal Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,67,61,0.792,0.794,8:51
+3,5:37,PHI,De'Anthony Melton,Personal Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,79,61,0.978,0.979,5:46
+3,5:31,PHI,Paul Reed,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,79,61,0.985,0.978,5:37
+3,5:03,PHI,Paul Reed,Loose Ball Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,81,61,0.991,0.988,5:03
+3,3:02,DEN,Nikola Jokic,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,86,67,0.976,0.984,3:10
+3,2:46,DEN,Bruce Brown,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,86,71,0.951,0.968,2:46
+4,11:18,DEN,Christian Braun,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,93,77,0.967,0.98,11:36
+4,10:29,PHI,Shake Milton,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,93,78,0.989,0.982,10:33
+4,5:47,PHI,Tobias Harris,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,106,91,0.997,0.994,5:58
+4,3:40,DEN,Michael Porter Jr.,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,110,96,0.99,0.996,3:45
+4,3:14,DEN,Jamal Murray,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,112,98,0.991,0.996,3:25
+4,2:22,DEN,Jamal Murray,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,112,102,0.957,0.983,2:25
+4,2:01,PHI,Montrezl Harrell,Personal Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,112,104,0.976,0.995,6:26
+4,1:23,DEN,Nikola Jokic,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,112,106,0.829,0.906,1:32
+4,51.2,PHI,Furkan Korkmaz,Personal Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,114,109,0.973,0.924,59.0
+4,13.1,PHI,Jalen McDaniels,Shooting Foul,Foul,Pat Fraher,Michael Smith,John Conley,DEN,114,111,0.966,0.874,28.2

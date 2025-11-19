@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:21,CHI,Coby White,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,4,5,0.726,0.728,9:21
+1,8:19,CHI,Nikola Vucevic,Loose Ball Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,7,8,0.721,0.722,8:19
+1,6:21,LAC,Paul George,Offensive Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,10,13,0.642,0.668,6:34
+1,4:34,LAC,Ivica Zubac,Offensive Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,12,18,0.549,0.58,4:49
+1,2:29,CHI,Torrey Craig,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,14,23,0.5,0.445,2:29
+1,1:03,CHI,DeMar DeRozan,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,20,25,0.623,0.582,1:05
+1,40.2,CHI,Coby White,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,21,27,0.593,0.548,48.1
+2,10:27,CHI,Andre Drummond,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,27,33,0.554,0.501,10:27
+2,6:42,CHI,Julian Phillips,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,32,42,0.37,0.451,6:46
+2,6:28,CHI,Julian Phillips,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,32,42,0.415,0.439,7:05
+2,4:30,LAC,Terance Mann,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,36,45,0.348,0.346,4:34
+2,3:49,LAC,Ivica Zubac,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,39,47,0.349,0.407,3:49
+2,2:32,LAC,Terance Mann,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,41,50,0.28,0.328,2:34
+2,1:56,CHI,Alex Caruso,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,41,52,0.338,0.293,2:06
+2,1:53,LAC,Daniel Theis,Offensive Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,41,52,0.256,0.338,1:56
+2,49.1,LAC,Daniel Theis,Offensive Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,43,54,0.245,0.284,1:04
+3,9:52,CHI,Ayo Dosunmu,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,51,62,0.292,0.247,10:03
+3,7:43,CHI,DeMar DeRozan,Loose Ball Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,57,67,0.248,0.249,7:43
+3,5:09,LAC,Ivica Zubac,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,69,69,0.511,0.574,5:19
+3,3:54,LAC,Paul George,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,76,71,0.759,0.758,4:01
+3,3:39,LAC,James Harden,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,76,71,0.759,0.757,3:44
+3,3:33,LAC,Norman Powell,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,76,71,0.706,0.759,3:39
+3,3:05,CHI,Torrey Craig,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,76,74,0.689,0.69,3:25
+3,2:48,LAC,Daniel Theis,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,78,74,0.667,0.725,2:59
+3,45.1,LAC,Bones Hyland,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,83,80,0.618,0.683,1:02
+3,3.1,CHI,Coby White,Personal Take Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,83,85,0.567,0.494,7.1
+4,10:45,LAC,Daniel Theis,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,88,85,0.669,0.68,11:06
+4,10:03,LAC,Paul George,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,91,85,0.795,0.806,10:20
+4,9:41,CHI,Ayo Dosunmu,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,91,85,0.848,0.839,9:44
+4,9:16,LAC,Paul George,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,94,85,0.846,0.898,9:29
+4,8:52,LAC,Norman Powell,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,94,87,0.774,0.839,9:00
+4,7:18,CHI,Ayo Dosunmu,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,96,91,0.818,0.806,7:31
+4,6:10,LAC,James Harden,Personal Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,98,93,0.699,0.779,6:19
+4,5:26,CHI,Coby White,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,100,95,0.899,0.832,5:28
+4,2:59,LAC,Paul George,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,107,97,0.964,0.975,2:59
+4,2:42,CHI,Alex Caruso,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,107,98,0.99,0.975,2:59
+4,1:10,CHI,Ayo Dosunmu,Shooting Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,109,100,0.998,0.993,1:17
+4,36.1,CHI,Alex Caruso,Personal Take Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,110,102,0.998,0.994,39.0
+4,29.1,LAC,Kawhi Leonard,Personal Take Foul,Foul,CJ Washington,Karl Lane,Tyler Ford,LAC,112,102,0.991,0.997,36.1

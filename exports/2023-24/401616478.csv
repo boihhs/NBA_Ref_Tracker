@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:16,DEN,Jamal Murray,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,0,2,0.703,0.736,11:16
+1,10:56,HOU,Alperen Sengun,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,0,3,0.744,0.716,11:16
+1,10:15,HOU,Dillon Brooks,Loose Ball Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,1,3,0.731,0.731,10:15
+1,8:51,DEN,Aaron Gordon,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,3,3,0.714,0.746,9:14
+1,8:11,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,6,5,0.804,0.779,8:20
+1,4:00,DEN,Nikola Jokic,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,14,19,0.577,0.621,4:00
+1,3:21,DEN,Christian Braun,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,16,20,0.6,0.617,3:21
+1,2:53,DEN,Julian Strawther,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,16,22,0.515,0.561,2:56
+1,1:59,DEN,DeAndre Jordan,Defensive 3-Seconds Technical,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,18,24,0.56,0.556,2:19
+1,1:35,HOU,Jeff Green,Loose Ball Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,18,27,0.537,0.488,1:35
+1,50.1,HOU,Jae'Sean Tate,Personal Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,20,27,0.587,0.545,1:04
+2,10:54,DEN,DeAndre Jordan,Loose Ball Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,25,27,0.64,0.639,10:54
+2,9:35,HOU,Jae'Sean Tate,Personal Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,25,27,0.658,0.659,9:42
+2,9:07,HOU,Fred VanVleet,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,27,27,0.725,0.681,9:07
+2,8:32,HOU,Tari Eason,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,28,30,0.691,0.653,8:36
+2,5:29,DEN,Nikola Jokic,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,36,41,0.482,0.539,5:29
+3,9:25,HOU,Alperen Sengun,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,54,61,0.416,0.345,9:25
+3,8:47,HOU,Fred VanVleet,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,54,63,0.362,0.305,8:50
+3,8:31,DEN,Michael Porter Jr.,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,55,63,0.251,0.305,8:44
+3,8:27,HOU,Dillon Brooks,Personal Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,55,64,0.301,0.303,8:31
+3,8:26,HOU,Dillon Brooks,Technical Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,55,64,0.33,0.301,8:27
+3,8:20,HOU,Dillon Brooks,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,56,64,0.394,0.339,8:26
+3,7:32,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,61,64,0.424,0.485,7:46
+3,7:03,DEN,Jamal Murray,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,61,66,0.339,0.399,7:12
+3,4:32,HOU,Aaron Holiday,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,65,75,0.242,0.215,4:32
+3,4:12,HOU,Dillon Brooks,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,67,75,0.311,0.246,4:12
+3,2:41,DEN,Christian Braun,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,69,79,0.118,0.158,2:43
+3,1:06,DEN,Peyton Watson,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,74,85,0.079,0.114,1:18
+4,11:48,DEN,Peyton Watson,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,74,92,0.007,0.017,12:00
+4,9:21,DEN,DeAndre Jordan,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,78,99,0.001,0.002,9:40
+4,8:26,DEN,Reggie Jackson,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,78,103,0.001,0.001,8:26
+4,4:57,DEN,Nikola Jokic,Loose Ball Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,89,103,0.002,0.005,4:57
+4,3:59,HOU,Dillon Brooks,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,91,103,0.019,0.006,3:59
+4,3:43,DEN,Michael Porter Jr.,Loose Ball Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,92,103,0.005,0.011,3:43
+4,3:43,DEN,Michael Porter Jr.,Technical Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,92,103,0.007,0.005,3:43
+4,3:38,HOU,Fred VanVleet,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,92,103,0.038,0.017,3:41
+4,2:23,DEN,Michael Porter Jr.,Personal Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,96,103,0.019,0.041,2:32
+4,2:08,HOU,Jeff Green,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,96,105,0.059,0.021,2:09
+4,1:12,DEN,Reggie Jackson,Personal Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,97,105,0.003,0.012,1:19
+4,1:01,DEN,Nikola Jokic,Personal Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,97,107,0.001,0.001,1:03
+4,48.1,HOU,Jeff Green,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,97,108,0.007,0.001,1:01
+4,43.2,HOU,Jeff Green,Shooting Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,99,108,0.026,0.009,48.1
+4,41.1,DEN,Justin Holiday,Personal Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,101,108,0.004,0.014,43.2
+4,41.1,DEN,Jamal Murray,Technical Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,101,108,0.008,0.004,41.1
+4,38.0,DEN,Jamal Murray,Technical Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,104,110,0.015,0.028,39.1
+4,34.2,DEN,Peyton Watson,Personal Take Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,104,111,0.003,0.012,38.0
+4,26.1,DEN,Nikola Jokic,Personal Take Foul,Foul,Rodney Mott,J.T. Orr,Aaron Smith,DEN,106,113,0.002,0.029,38.0

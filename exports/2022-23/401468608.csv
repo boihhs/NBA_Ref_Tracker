@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:16,TOR,Scottie Barnes,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,2,2,0.809,0.781,10:16
+1,9:28,TOR,Scottie Barnes,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,5,4,0.809,0.811,9:40
+1,7:04,TOR,Juancho Hernangomez,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,8,8,0.807,0.782,7:26
+1,6:10,PHI,Tobias Harris,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,12,8,0.803,0.829,6:30
+1,5:40,TOR,OG Anunoby,Loose Ball Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,15,8,0.897,0.881,5:40
+1,5:00,TOR,Fred VanVleet,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,15,8,0.896,0.88,5:08
+1,4:24,TOR,Fred VanVleet,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,17,8,0.915,0.901,4:25
+1,4:11,PHI,Tobias Harris,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,19,8,0.895,0.91,4:24
+1,3:01,PHI,P.J. Tucker,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,19,12,0.84,0.863,3:03
+1,26.1,PHI,Danuel House Jr.,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,22,21,0.712,0.749,39.1
+2,9:45,TOR,Malachi Flynn,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,32,27,0.847,0.837,10:05
+2,9:25,TOR,Malachi Flynn,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,36,27,0.901,0.881,9:25
+2,8:46,PHI,Georges Niang,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,39,27,0.906,0.914,8:47
+2,8:01,PHI,Shake Milton,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,41,29,0.914,0.914,8:04
+2,6:40,PHI,Danuel House Jr.,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,44,31,0.909,0.924,6:44
+2,6:24,TOR,Thaddeus Young,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,44,32,0.938,0.925,6:40
+2,4:22,PHI,Joel Embiid,Loose Ball Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,46,37,0.849,0.874,4:22
+2,2:06,TOR,Khem Birch,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,52,41,0.931,0.915,2:23
+2,2:06,TOR,Pascal Siakam,Double Technical Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,52,41,0.912,0.931,2:06
+3,5:32,TOR,Scottie Barnes,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,69,59,0.932,0.913,5:38
+3,5:32,TOR,Scottie Barnes,Technical Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,69,59,0.923,0.932,5:32
+3,5:15,PHI,P.J. Tucker,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,72,61,0.901,0.927,5:15
+3,4:06,PHI,P.J. Tucker,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,72,65,0.79,0.833,4:15
+3,1:32,PHI,Joel Embiid,Offensive Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,78,72,0.808,0.839,1:46
+3,7.1,PHI,Georges Niang,Technical Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,78,74,0.707,0.739,9.1
+4,11:42,PHI,Montrezl Harrell,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,78,78,0.539,0.575,12:00
+4,11:38,PHI,Montrezl Harrell,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,78,78,0.455,0.539,11:42
+4,11:27,TOR,Malachi Flynn,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,78,80,0.506,0.491,11:38
+4,9:47,PHI,Danuel House Jr.,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,78,80,0.403,0.423,9:55
+4,9:34,TOR,Thaddeus Young,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,78,80,0.57,0.469,9:37
+4,8:27,TOR,Chris Boucher,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,79,86,0.292,0.206,8:38
+4,7:29,TOR,Pascal Siakam,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,84,88,0.446,0.347,7:39
+4,6:57,PHI,James Harden,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,84,88,0.202,0.291,7:09
+4,6:36,TOR,OG Anunoby,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,84,90,0.299,0.221,6:46
+4,5:29,TOR,Pascal Siakam,Offensive Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,88,92,0.305,0.252,5:52
+4,4:37,TOR,Thaddeus Young,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,88,94,0.259,0.181,4:52
+4,2:02,TOR,Thaddeus Young,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,95,96,0.608,0.472,2:12
+4,38.0,PHI,P.J. Tucker,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,99,96,0.6,0.76,44.0
+5,4:44,TOR,Chris Boucher,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,99,99,0.663,0.5,5:00
+5,2:42,PHI,Joel Embiid,Personal Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,101,101,0.454,0.458,3:03
+5,1:31,PHI,P.J. Tucker,Offensive Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,104,101,0.767,0.767,1:31
+5,59.0,PHI,De'Anthony Melton,Offensive Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,104,101,0.784,0.859,1:07
+5,10.0,PHI,Joel Embiid,Personal Take Foul,Foul,Pat Fraher,J.T. Orr,Ashley Moyer-Gleich,PHI,104,101,0.619,0.926,12.0

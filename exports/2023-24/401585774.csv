@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:01,IND,Pascal Siakam,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,13,4,0.329,0.329,8:01
+1,7:40,TOR,Kelly Olynyk,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,15,4,0.322,0.353,7:46
+1,5:56,TOR,Gary Trent Jr.,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,17,7,0.316,0.352,6:03
+1,4:58,IND,Doug McDermott,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,19,12,0.351,0.314,5:11
+1,1:37,IND,Pascal Siakam,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,30,23,0.374,0.353,1:38
+2,11:14,IND,Obi Toppin,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,35,27,0.454,0.408,11:26
+2,9:23,TOR,Kelly Olynyk,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,41,34,0.373,0.372,9:23
+2,6:04,TOR,Malik Williams,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,49,43,0.361,0.415,6:04
+2,5:33,TOR,Malik Williams,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,51,44,0.374,0.419,5:50
+2,4:16,TOR,Gary Trent Jr.,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,53,46,0.389,0.439,4:19
+2,3:56,TOR,RJ Barrett,Technical Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,53,48,0.354,0.411,3:56
+2,3:40,IND,Myles Turner,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,53,49,0.43,0.346,3:56
+2,2:48,TOR,Ochai Agbaji,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,57,51,0.375,0.419,3:10
+2,2:39,TOR,RJ Barrett,Offensive Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,57,53,0.361,0.392,2:48
+2,1:27,TOR,Gary Trent Jr.,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,60,58,0.27,0.312,1:27
+2,1:14,IND,Aaron Nesmith,Offensive Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,60,60,0.284,0.258,1:14
+3,11:44,TOR,Ochai Agbaji,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,64,65,0.24,0.254,12:00
+3,11:11,IND,Aaron Nesmith,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,64,67,0.259,0.217,11:31
+3,10:51,IND,Myles Turner,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,65,67,0.247,0.247,10:56
+3,10:46,IND,Andrew Nembhard,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,65,67,0.246,0.247,10:51
+3,10:43,TOR,Javon Freeman-Liberty,Offensive Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,65,67,0.219,0.246,10:46
+3,9:46,TOR,Gary Trent Jr.,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,65,71,0.124,0.157,9:46
+3,9:24,IND,Aaron Nesmith,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,65,71,0.191,0.158,9:24
+3,8:07,TOR,RJ Barrett,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,71,76,0.162,0.16,8:07
+3,7:02,IND,Myles Turner,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,71,83,0.083,0.063,7:08
+3,6:08,IND,Tyrese Haliburton,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,73,86,0.069,0.051,6:18
+3,5:59,TOR,Ochai Agbaji,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,75,86,0.047,0.062,6:08
+3,5:56,TOR,Javon Freeman-Liberty,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,75,86,0.047,0.047,5:59
+3,4:53,IND,Pascal Siakam,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,77,92,0.046,0.034,5:01
+3,3:18,IND,Obi Toppin,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,82,96,0.052,0.038,3:29
+3,2:18,IND,Ben Sheppard,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,84,99,0.04,0.028,2:18
+3,1:56,IND,Ben Sheppard,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,87,99,0.064,0.041,1:56
+3,58.1,IND,T.J. McConnell,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,89,104,0.029,0.024,58.1
+4,11:05,IND,T.J. McConnell,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,93,109,0.024,0.014,11:22
+4,10:50,TOR,Jordan Nwora,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,95,111,0.007,0.014,10:50
+4,10:42,TOR,Gary Trent Jr.,Offensive Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,95,112,0.007,0.01,10:50
+4,8:10,TOR,Jalen McDaniels,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,102,118,0.005,0.005,8:22
+4,7:48,IND,Aaron Nesmith,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,102,118,0.014,0.007,7:55
+4,5:23,IND,Andrew Nembhard,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,111,127,0.006,0.002,5:23
+4,4:55,TOR,Javon Freeman-Liberty,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,112,127,0.001,0.003,4:58
+4,4:05,IND,Pascal Siakam,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,114,128,0.011,0.004,4:05
+4,3:21,IND,Obi Toppin,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,116,130,0.005,0.001,3:21
+4,2:21,IND,Andrew Nembhard,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,117,134,0.001,0.001,2:33
+4,1:25,TOR,Malik Williams,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Dannica Mosher,TOR,121,136,0.001,0.001,1:39

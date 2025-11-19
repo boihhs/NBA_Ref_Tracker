@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:48,PHI,Tobias Harris,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,3,2,0.187,0.167,10:52
+1,9:50,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,7,7,0.143,0.143,9:55
+1,7:52,PHI,Tobias Harris,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,12,9,0.243,0.215,8:03
+1,6:47,CHA,P.J. Washington,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,14,11,0.18,0.205,6:56
+1,6:34,PHI,Georges Niang,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,14,13,0.189,0.188,6:47
+1,6:10,CHA,Nick Richards,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,14,15,0.138,0.161,6:10
+1,5:40,CHA,Nick Richards,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,14,18,0.105,0.124,5:40
+1,3:13,CHA,Dennis Smith Jr.,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,21,21,0.153,0.177,3:19
+1,2:56,PHI,Tyrese Maxey,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,21,23,0.186,0.161,3:13
+2,10:52,CHA,Dennis Smith Jr.,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,31,33,0.154,0.182,10:52
+2,10:31,PHI,Paul Reed,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,31,34,0.194,0.166,10:52
+2,10:10,PHI,James Harden,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,35,34,0.263,0.225,10:10
+2,8:04,PHI,Shake Milton,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,39,39,0.255,0.217,8:04
+2,6:46,PHI,De'Anthony Melton,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,40,42,0.22,0.204,6:46
+2,3:58,CHA,Bryce McGowens,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,45,51,0.105,0.128,3:59
+2,3:02,PHI,Tyrese Maxey,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,45,55,0.107,0.089,3:05
+3,11:44,CHA,Nick Richards,Offensive Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,54,66,0.058,0.073,0.0
+3,10:22,CHA,Terry Rozier,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,54,70,0.021,0.028,10:35
+3,10:02,CHA,Nick Richards,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,54,72,0.014,0.018,10:09
+3,8:37,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,54,75,0.009,0.009,8:40
+3,8:19,PHI,P.J. Tucker,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,54,77,0.006,0.006,8:31
+3,7:09,CHA,Terry Rozier,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,58,79,0.005,0.008,7:12
+3,6:14,CHA,CHA,Technical Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,58,82,0.002,0.004,6:15
+3,6:05,PHI,P.J. Tucker,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,58,82,0.004,0.004,6:14
+3,5:18,PHI,Joel Embiid,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,58,82,0.003,0.003,5:18
+3,2:44,CHA,Kai Jones,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,64,87,0.002,0.003,2:44
+3,2:29,PHI,Tyrese Maxey,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,64,88,0.003,0.002,2:44
+4,9:30,PHI,Paul Reed,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,67,98,0.001,0.001,9:30
+4,8:46,CHA,Bryce McGowens,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,67,98,0.001,0.001,8:57
+4,7:03,PHI,De'Anthony Melton,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,67,105,0.001,0.001,7:07
+4,4:29,PHI,Jaden Springer,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,72,107,0.001,0.001,4:36
+4,3:44,PHI,Jaden Springer,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,73,112,0.001,0.001,3:59
+4,3:16,CHA,JT Thor,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,75,112,0.001,0.001,3:20
+4,3:16,CHA,Dennis Smith Jr.,Technical Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,75,112,0.001,0.001,3:16
+4,2:50,CHA,JT Thor,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,75,115,0.001,0.001,3:02
+4,54.0,PHI,Dewayne Dedmon,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,79,119,0.001,0.001,1:03
+4,29.1,PHI,Dewayne Dedmon,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Nate Green,CHA,80,121,0.001,0.001,39.1

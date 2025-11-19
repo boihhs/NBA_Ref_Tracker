@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:53,DAL,Dorian Finney-Smith,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,4,4,0.653,0.653,10:05
+1,9:51,MIA,P.J. Tucker,Offensive Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,4,4,0.632,0.653,9:53
+1,7:44,DAL,Jalen Brunson,Loose Ball Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,8,9,0.624,0.625,7:44
+1,6:48,DAL,Luka Doncic,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,8,12,0.543,0.544,6:48
+1,6:38,DAL,Spencer Dinwiddie,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,8,12,0.583,0.544,6:48
+1,6:32,MIA,P.J. Tucker,Offensive Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,8,12,0.514,0.583,6:38
+1,4:26,MIA,Bam Adebayo,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,15,15,0.573,0.614,4:42
+1,2:06,DAL,Spencer Dinwiddie,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,20,19,0.695,0.659,2:13
+1,1:53,MIA,Omer Yurtseven,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,22,19,0.646,0.682,2:06
+2,10:05,MIA,Haywood Highsmith,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,31,31,0.572,0.622,10:05
+2,9:25,MIA,Kyle Lowry,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,33,32,0.599,0.619,9:25
+2,9:13,DAL,Davis Bertans,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,36,33,0.72,0.674,9:13
+2,6:59,DAL,Josh Green,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,40,37,0.735,0.698,7:24
+2,6:45,MIA,Haywood Highsmith,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,42,37,0.684,0.724,6:59
+2,5:40,MIA,Bam Adebayo,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,44,37,0.735,0.773,5:44
+2,4:30,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,48,42,0.806,0.773,4:36
+2,3:05,MIA,Max Strus,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,51,44,0.734,0.773,3:16
+2,1:59,DAL,Dorian Finney-Smith,Loose Ball Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,56,46,0.886,0.861,1:59
+2,1:50,DAL,Dwight Powell,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,56,46,0.887,0.86,1:59
+2,56.0,MIA,Max Strus,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,59,46,0.87,0.894,1:17
+3,10:53,DAL,Dwight Powell,Offensive Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,61,51,0.869,0.847,11:00
+3,9:59,DAL,Dwight Powell,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,61,54,0.824,0.809,9:59
+3,7:11,DAL,Jalen Brunson,Offensive Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,70,62,0.838,0.813,7:17
+3,6:46,MIA,Kyle Lowry,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,70,62,0.771,0.814,6:51
+3,5:09,DAL,Maxi Kleber,Personal Take Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,70,64,0.792,0.794,5:09
+3,4:47,MIA,Duncan Robinson,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,70,64,0.709,0.76,4:57
+3,4:15,MIA,Bam Adebayo,Loose Ball Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,70,64,0.764,0.762,4:15
+3,3:57,MIA,Gabe Vincent,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,70,66,0.663,0.731,3:57
+3,3:33,DAL,Dwight Powell,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,70,69,0.675,0.617,3:45
+3,3:04,DAL,Josh Green,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,72,69,0.75,0.696,3:07
+3,2:55,MIA,Gabe Vincent,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,74,69,0.673,0.728,3:04
+3,31.1,MIA,Max Strus,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,78,80,0.382,0.467,31.1
+4,11:48,DAL,Dwight Powell,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,78,81,0.506,0.389,12:00
+4,10:39,DAL,Jalen Brunson,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,79,86,0.233,0.223,10:55
+4,10:13,DAL,Maxi Kleber,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,79,86,0.271,0.221,10:18
+4,9:54,MIA,Bam Adebayo,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,81,86,0.192,0.268,10:13
+4,9:20,MIA,Max Strus,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,81,87,0.145,0.213,9:33
+4,7:22,DAL,Davis Bertans,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,85,93,0.21,0.143,7:27
+4,7:14,MIA,Jimmy Butler III,Offensive Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,85,93,0.114,0.21,7:22
+4,6:11,DAL,Jalen Brunson,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,87,96,0.146,0.097,6:21
+4,5:57,DAL,Luka Doncic,Offensive Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,88,96,0.123,0.097,6:11
+4,5:48,DAL,Josh Green,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,88,96,0.181,0.123,5:57
+4,5:31,DAL,Luka Doncic,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,90,96,0.279,0.197,5:31
+4,5:25,MIA,Gabe Vincent,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,91,96,0.179,0.197,5:31
+4,5:15,MIA,P.J. Tucker,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,91,96,0.116,0.179,5:25
+4,5:02,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,91,96,0.266,0.222,5:02
+4,4:57,MIA,Gabe Vincent,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,93,96,0.195,0.276,5:02
+4,3:26,MIA,Jimmy Butler III,Personal Foul,Foul,Josh Tiven,Nick Buchert,Matt Myers,MIA,95,99,0.118,0.198,3:50

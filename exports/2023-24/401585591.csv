@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:57,ORL,Paolo Banchero,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,3,10,0.193,0.176,10:10
+1,9:47,TOR,Gary Trent Jr.,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,5,10,0.186,0.186,9:57
+1,9:42,TOR,Kelly Olynyk,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,5,10,0.187,0.186,9:47
+1,9:20,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,5,12,0.195,0.172,9:34
+1,6:38,ORL,Franz Wagner,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,10,17,0.176,0.177,6:38
+1,5:14,ORL,Jalen Suggs,Loose Ball Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,15,17,0.306,0.273,5:14
+1,4:39,TOR,Jahmi'us Ramsey,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,15,19,0.202,0.233,4:39
+1,4:21,ORL,Markelle Fultz,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,15,19,0.266,0.233,4:37
+1,3:09,ORL,Gary Harris,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,17,22,0.249,0.218,3:19
+1,9.1,ORL,Jonathan Isaac,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,26,24,0.414,0.368,9.1
+1,3.1,TOR,Ochai Agbaji,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,27,24,0.355,0.395,9.1
+2,10:04,ORL,Cole Anthony,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,32,26,0.574,0.527,10:08
+2,9:04,TOR,Bruce Brown,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,37,28,0.598,0.598,9:13
+2,9:01,TOR,Gradey Dick,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,37,28,0.551,0.598,9:04
+2,6:47,TOR,Gradey Dick,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,39,35,0.413,0.457,6:52
+2,4:40,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,41,42,0.346,0.318,4:51
+2,4:19,ORL,Jalen Suggs,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,43,42,0.435,0.379,4:19
+2,4:01,TOR,Kelly Olynyk,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,44,42,0.365,0.411,4:19
+2,3:55,TOR,Gradey Dick,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,44,44,0.329,0.382,3:55
+2,2:40,ORL,Paolo Banchero,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,44,46,0.373,0.324,2:53
+2,1:58,TOR,Gary Trent Jr.,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,45,46,0.285,0.328,2:01
+2,25.1,TOR,Jontay Porter,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,48,48,0.32,0.364,34.1
+3,11:48,ORL,Gary Harris,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,48,50,0.383,0.319,12:00
+3,11:12,TOR,Gary Trent Jr.,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,48,50,0.306,0.305,11:15
+3,10:05,TOR,Immanuel Quickley,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,51,57,0.178,0.221,10:05
+3,9:38,TOR,Kelly Olynyk,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,53,58,0.224,0.221,9:49
+3,9:32,TOR,Kelly Olynyk,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,53,58,0.185,0.224,9:38
+3,8:20,TOR,Ochai Agbaji,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,55,63,0.119,0.149,8:39
+3,5:24,ORL,Gary Harris,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,61,67,0.22,0.221,5:40
+3,3:00,TOR,Ochai Agbaji,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,69,73,0.197,0.248,3:14
+3,1:19,TOR,Immanuel Quickley,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,69,79,0.059,0.083,1:36
+4,11:51,TOR,Jahmi'us Ramsey,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,73,84,0.053,0.062,12:00
+4,11:32,TOR,Bruce Brown,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,73,87,0.024,0.032,11:44
+4,7:39,ORL,Joe Ingles,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,80,96,0.016,0.008,7:54
+4,5:39,TOR,Kelly Olynyk,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,91,100,0.032,0.064,5:39
+4,2:59,TOR,Immanuel Quickley,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,96,109,0.001,0.002,2:59
+4,1:47,ORL,Franz Wagner,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,100,113,0.005,0.001,1:50
+4,55.1,TOR,Kelly Olynyk,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Sha'Rae Mitchell,TOR,103,113,0.001,0.003,1:12

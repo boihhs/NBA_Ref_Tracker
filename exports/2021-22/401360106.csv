@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:57,PHX,Deandre Ayton,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,5,8,0.407,0.393,9:57
+1,8:34,PHX,Jae Crowder,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,11,11,0.535,0.495,8:39
+1,7:14,NY,Kemba Walker,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,16,13,0.551,0.551,7:20
+1,6:40,NY,Evan Fournier,Personal Take Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,19,15,0.578,0.603,6:49
+1,5:33,NY,RJ Barrett,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,19,19,0.473,0.473,5:33
+1,3:11,PHX,Cameron Payne,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,21,24,0.418,0.418,3:14
+1,1:54,NY,Evan Fournier,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,23,27,0.324,0.361,2:05
+1,54.3,PHX,Landry Shamet,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,23,31,0.323,0.287,1:05
+2,10:35,PHX,Mikal Bridges,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,27,38,0.199,0.208,10:38
+2,10:07,PHX,Cameron Payne,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,29,38,0.254,0.254,10:16
+2,9:46,NY,Obi Toppin,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,29,38,0.196,0.227,9:53
+2,8:26,PHX,Cameron Johnson,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,31,40,0.236,0.224,8:26
+2,7:47,NY,Immanuel Quickley,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,32,40,0.247,0.246,7:51
+2,7:33,NY,Alec Burks,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,32,40,0.248,0.247,7:47
+2,1:57,PHX,Deandre Ayton,Loose Ball Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,36,53,0.096,0.077,1:57
+2,1:11,PHX,Cameron Payne,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,38,55,0.093,0.075,1:23
+2,9.1,PHX,Jae Crowder,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,42,57,0.105,0.083,29.2
+3,11:02,PHX,Mikal Bridges,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,44,61,0.084,0.066,11:13
+3,10:50,PHX,Jae Crowder,Clear Path Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,46,61,0.089,0.075,11:02
+3,8:05,PHX,Jae Crowder,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,54,67,0.106,0.11,8:17
+3,7:53,PHX,Cameron Johnson,Loose Ball Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,54,67,0.106,0.106,7:54
+3,4:47,NY,Nerlens Noel,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,61,74,0.073,0.086,4:47
+3,3:22,NY,Nerlens Noel,Offensive Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,61,79,0.019,0.026,3:34
+3,2:40,NY,RJ Barrett,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,61,81,0.006,0.01,2:45
+3,1:52,PHX,Landry Shamet,Offensive Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,67,83,0.033,0.028,2:04
+3,14.6,NY,Alec Burks,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,71,86,0.016,0.027,29.2
+3,2.0,NY,Nerlens Noel,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,71,86,0.016,0.016,14.6
+4,11:31,PHX,Cameron Payne,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,71,91,0.007,0.006,11:47
+4,10:05,NY,Quentin Grimes,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,76,93,0.005,0.009,10:12
+4,9:15,NY,Alec Burks,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,79,98,0.003,0.003,9:27
+4,8:35,NY,Quentin Grimes,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,79,98,0.002,0.002,8:39
+4,8:31,NY,Quentin Grimes,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,79,100,0.001,0.001,8:31
+4,7:39,PHX,Jae Crowder,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,79,100,0.001,0.001,7:40
+4,7:26,NY,Immanuel Quickley,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,80,100,0.001,0.001,7:39
+4,3:36,NY,Immanuel Quickley,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,92,108,0.001,0.001,3:46
+4,2:00,NY,Miles McBride,Personal Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,96,112,0.001,0.001,2:19
+4,1:58,PHX,Chris Paul,Personal Take Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,96,114,0.001,0.001,2:00
+4,1:36,PHX,Cameron Johnson,Loose Ball Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,96,114,0.001,0.001,1:36
+4,21.2,NY,Jericho Sims,Shooting Foul,Foul,Matt Boland,Rodney Mott,J.T. Orr,NY,97,116,0.001,0.001,32.7

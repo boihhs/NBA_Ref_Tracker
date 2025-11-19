@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:57,BKN,Bruce Brown,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,2,0,0.756,0.756,11:11
+1,9:51,BKN,Seth Curry,Loose Ball Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,6,2,0.788,0.786,9:51
+1,9:40,BKN,Andre Drummond,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,6,4,0.737,0.771,9:40
+1,8:05,BKN,Andre Drummond,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,11,8,0.749,0.783,8:05
+1,7:51,CLE,Darius Garland,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,11,9,0.763,0.766,8:05
+1,6:52,CLE,Isaac Okoro,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,17,9,0.868,0.845,6:52
+1,6:15,CLE,Lauri Markkanen,Loose Ball Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,17,9,0.856,0.858,6:15
+1,6:07,CLE,Lauri Markkanen,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,17,9,0.876,0.856,6:15
+1,4:26,BKN,Kyrie Irving,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,19,13,0.78,0.808,4:26
+1,3:39,BKN,Bruce Brown,Loose Ball Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,23,14,0.83,0.854,3:39
+1,3:16,BKN,Patty Mills,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,25,16,0.829,0.854,3:24
+1,3:03,CLE,Lamar Stevens,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,25,17,0.875,0.854,3:14
+2,10:15,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,40,24,0.948,0.942,10:15
+2,9:12,BKN,Patty Mills,Loose Ball Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,40,26,0.916,0.916,9:12
+2,9:07,BKN,Kyrie Irving,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,40,26,0.916,0.916,9:12
+2,9:04,CLE,Rajon Rondo,Offensive Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,40,26,0.926,0.916,9:07
+2,6:43,CLE,Caris LeVert,Loose Ball Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,42,29,0.918,0.919,6:43
+2,4:17,BKN,Seth Curry,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,47,31,0.941,0.94,4:35
+2,3:46,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,47,33,0.944,0.931,4:06
+2,2:39,CLE,Isaac Okoro,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,48,35,0.938,0.922,2:53
+2,1:12,CLE,Caris LeVert,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,48,37,0.919,0.899,1:12
+2,37.0,BKN,Kevin Durant,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,53,39,0.915,0.936,37.0
+3,10:06,CLE,Darius Garland,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,63,45,0.976,0.974,10:06
+3,9:32,CLE,Evan Mobley,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,64,45,0.978,0.978,9:32
+3,9:13,BKN,Bruce Brown,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,64,45,0.964,0.973,9:23
+3,6:51,BKN,Andre Drummond,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,72,54,0.968,0.978,6:51
+3,4:03,BKN,Bruce Brown,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,76,60,0.96,0.966,4:03
+3,3:18,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,76,64,0.955,0.938,3:32
+3,3:06,BKN,Kyrie Irving,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,79,64,0.945,0.961,3:18
+3,2:26,CLE,Rajon Rondo,Offensive Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,81,64,0.983,0.976,2:49
+3,1.4,BKN,Goran Dragic,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,85,71,0.946,0.963,17.3
+4,11:27,BKN,Kyrie Irving,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,87,73,0.964,0.965,11:42
+4,10:02,BKN,Goran Dragic,Flagrant Foul Type 1,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,87,75,0.949,0.95,10:05
+4,9:19,BKN,Seth Curry,Personal Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,87,80,0.825,0.837,9:24
+4,8:55,CLE,Cedi Osman,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,87,80,0.912,0.868,9:01
+4,5:59,BKN,Kyrie Irving,Shooting Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,97,87,0.907,0.942,6:14
+4,1:17,CLE,Caris LeVert,Personal Take Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,105,97,0.994,0.983,1:21
+4,1:14,CLE,Evan Mobley,Personal Take Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,105,97,0.995,0.994,1:17
+4,15.2,CLE,Rajon Rondo,Personal Take Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,109,104,0.993,0.971,18.1
+4,9.3,CLE,Darius Garland,Personal Take Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,111,106,0.997,0.985,10.0
+4,4.8,CLE,Rajon Rondo,Personal Take Foul,Foul,Curtis Blair,Kane Fitzgerald,Tyler Ford,BKN,113,108,0.998,0.991,6.3

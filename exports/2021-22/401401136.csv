@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:43,BKN,Bruce Brown,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,10,13,0.52,0.519,6:59
+1,6:24,WSH,Daniel Gafford,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,10,13,0.584,0.546,6:37
+1,6:07,BKN,Cam Thomas,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,10,13,0.477,0.517,6:21
+1,5:40,BKN,Andre Drummond,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,12,15,0.517,0.517,5:54
+1,5:24,WSH,Daniel Gafford,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,12,15,0.582,0.543,5:27
+1,4:58,WSH,Daniel Gafford,Defensive 3-Seconds Technical,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,14,15,0.588,0.596,5:10
+1,3:26,WSH,Ish Smith,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,17,15,0.684,0.666,3:26
+1,2:37,BKN,David Duke Jr.,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,20,19,0.595,0.642,2:37
+1,2:01,BKN,LaMarcus Aldridge,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,20,22,0.51,0.557,2:01
+1,1:44,WSH,Corey Kispert,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,20,23,0.57,0.529,2:01
+2,11:43,WSH,Corey Kispert,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,28,26,0.661,0.663,11:43
+2,11:09,WSH,Anthony Gill,Loose Ball Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,31,26,0.736,0.736,11:09
+2,9:48,WSH,Ish Smith,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,31,30,0.65,0.631,9:48
+2,8:26,BKN,Patty Mills,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,32,34,0.508,0.509,8:36
+2,6:35,WSH,Deni Avdija,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,40,39,0.646,0.596,6:35
+2,5:21,WSH,Kyle Kuzma,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,42,41,0.665,0.621,5:43
+2,3:06,BKN,Bruce Brown,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,51,46,0.708,0.707,3:08
+2,2:17,BKN,Andre Drummond,Offensive Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,51,48,0.648,0.678,2:31
+2,1:27,BKN,LaMarcus Aldridge,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,51,50,0.532,0.582,1:34
+2,59.0,BKN,Bruce Brown,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,51,51,0.498,0.548,1:09
+3,11:45,BKN,Kessler Edwards,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,51,55,0.351,0.427,12:00
+3,11:31,BKN,Andre Drummond,Loose Ball Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,51,57,0.337,0.33,11:31
+3,6:54,BKN,Bruce Brown,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,55,66,0.116,0.148,6:54
+3,5:43,WSH,Raul Neto,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,58,67,0.22,0.221,5:45
+3,4:31,BKN,Jevon Carter,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,63,69,0.224,0.278,4:50
+3,3:30,WSH,Daniel Gafford,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,65,71,0.339,0.266,3:30
+3,2:44,BKN,LaMarcus Aldridge,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,68,71,0.318,0.383,2:57
+3,56.9,WSH,Anthony Gill,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,76,75,0.672,0.608,1:11
+4,11:03,BKN,Cam Thomas,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,80,80,0.485,0.505,11:24
+4,8:12,WSH,Deni Avdija,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,83,93,0.09,0.086,8:29
+4,7:44,BKN,David Duke Jr.,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,83,93,0.054,0.061,7:59
+4,7:10,WSH,Anthony Gill,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,83,95,0.043,0.039,7:11
+4,5:20,BKN,LaMarcus Aldridge,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,88,97,0.027,0.054,5:39
+4,4:41,WSH,Anthony Gill,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,91,101,0.048,0.044,4:54
+4,4:35,WSH,Kyle Kuzma,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,91,101,0.081,0.048,4:41
+4,4:22,WSH,Kyle Kuzma,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,93,101,0.116,0.064,4:22
+4,3:48,BKN,Patty Mills,Personal Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,94,104,0.011,0.022,3:48
+4,3:21,WSH,Anthony Gill,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,94,106,0.024,0.012,3:36
+4,2:38,WSH,Rui Hachimura,Offensive Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,98,106,0.054,0.039,2:58
+4,1:42,WSH,Deni Avdija,Shooting Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,100,110,0.029,0.014,1:55
+4,1:16,WSH,Ish Smith,Loose Ball Foul,Foul,James Capers,Marat Kogut,Scott Twardoski,BKN,101,113,0.006,0.001,1:16

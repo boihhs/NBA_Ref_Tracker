@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,MIL,Brook Lopez,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,4,2,0.8,0.772,11:04
+1,8:44,PHI,P.J. Tucker,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,8,12,0.613,0.657,8:44
+1,8:26,MIL,Giannis Antetokounmpo,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,8,13,0.629,0.633,8:44
+1,8:08,PHI,Tyrese Maxey,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,11,13,0.677,0.675,8:18
+1,6:28,MIL,Jevon Carter,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,11,18,0.565,0.568,6:42
+1,2:10,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,19,25,0.6,0.561,2:22
+1,1:45,MIL,Jordan Nwora,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,21,25,0.651,0.611,1:51
+2,10:31,MIL,Serge Ibaka,Offensive Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,29,32,0.62,0.589,10:39
+2,8:42,PHI,P.J. Tucker,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,31,35,0.547,0.547,9:02
+2,7:59,PHI,Paul Reed,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,33,35,0.558,0.604,8:17
+2,6:19,MIL,Jrue Holiday,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,33,38,0.528,0.528,6:22
+2,6:12,PHI,Tyrese Maxey,Offensive Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,33,38,0.494,0.527,6:19
+3,11:02,PHI,Tyrese Maxey,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,45,50,0.428,0.431,11:07
+3,10:44,MIL,Grayson Allen,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,45,50,0.52,0.465,10:55
+3,8:22,PHI,James Harden,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,51,54,0.481,0.478,8:24
+3,6:43,PHI,P.J. Tucker,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,53,54,0.485,0.546,6:46
+3,5:18,MIL,Bobby Portis,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,55,58,0.493,0.495,5:30
+3,9.0,MIL,George Hill,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,59,71,0.136,0.1,29.9
+4,10:35,PHI,PHI,Technical Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,65,75,0.081,0.102,10:54
+4,10:35,PHI,James Harden,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,65,76,0.058,0.076,10:35
+4,9:49,MIL,Wesley Matthews,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,67,80,0.084,0.054,10:05
+4,6:30,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,80,80,0.588,0.503,6:41
+4,6:19,PHI,P.J. Tucker,Offensive Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,80,80,0.507,0.588,6:30
+4,5:38,MIL,Jevon Carter,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,80,82,0.458,0.435,5:38
+4,4:01,PHI,Joel Embiid,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,82,82,0.368,0.5,4:11
+4,3:15,MIL,Brook Lopez,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,82,84,0.548,0.405,3:23
+4,2:07,PHI,Tobias Harris,Shooting Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,84,84,0.329,0.494,2:25
+4,32.9,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,86,86,0.764,0.561,33.0
+4,2.5,PHI,Joel Embiid,Personal Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,88,89,0.03,0.078,2.5
+4,1.9,PHI,Tobias Harris,Personal Take Foul,Foul,James Williams,Jacyn Goble,Jonathan Sterling,PHI,88,89,0.022,0.071,2.5

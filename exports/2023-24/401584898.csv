@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:32,UTAH,John Collins,Offensive Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,2,0,0.86,0.848,10:39
+1,8:12,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,8,7,0.822,0.841,8:24
+1,7:00,UTAH,Omer Yurtseven,Offensive Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,10,9,0.835,0.817,7:08
+1,6:34,MIN,Rudy Gobert,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,10,11,0.767,0.799,6:34
+1,5:01,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,12,14,0.752,0.773,5:10
+1,2:36,UTAH,Simone Fontecchio,Offensive Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,14,19,0.688,0.661,2:46
+1,1:34,MIN,Mike Conley,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,16,19,0.666,0.704,1:45
+1,47.1,MIN,Rudy Gobert,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,20,21,0.709,0.746,55.0
+1,29.1,MIN,Mike Conley,Offensive Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,20,23,0.695,0.659,2:14
+2,10:00,UTAH,Walker Kessler,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,23,29,0.617,0.619,10:00
+2,9:36,MIN,Mike Conley,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,23,31,0.498,0.556,9:36
+2,8:38,UTAH,Talen Horton-Tucker,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,23,35,0.411,0.416,8:49
+2,7:07,UTAH,Kelly Olynyk,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,26,35,0.49,0.494,7:10
+2,6:34,MIN,Nickeil Alexander-Walker,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,29,35,0.551,0.55,6:34
+2,5:34,UTAH,John Collins,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,35,35,0.759,0.715,5:34
+2,3:01,UTAH,Simone Fontecchio,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,41,40,0.786,0.752,3:14
+2,2:02,UTAH,Kelly Olynyk,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,42,43,0.732,0.692,2:14
+2,28.1,MIN,Naz Reid,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,46,45,0.664,0.707,31.1
+3,11:01,UTAH,John Collins,Offensive Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,51,47,0.808,0.782,11:23
+3,9:25,UTAH,Keyonte George,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,51,54,0.585,0.585,9:34
+3,9:20,UTAH,Keyonte George,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,51,54,0.584,0.585,9:25
+3,7:43,UTAH,Ochai Agbaji,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,60,54,0.843,0.821,7:46
+3,6:36,MIN,Rudy Gobert,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,65,54,0.905,0.917,6:36
+3,5:31,UTAH,John Collins,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,67,56,0.948,0.932,5:38
+3,3:28,MIN,Rudy Gobert,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,74,58,0.962,0.972,3:46
+3,3:05,UTAH,Kelly Olynyk,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,74,59,0.982,0.974,3:05
+3,2:21,UTAH,Collin Sexton,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,76,59,0.99,0.985,2:27
+4,8:27,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,93,75,0.995,0.99,8:36
+4,7:01,MIN,Naz Reid,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,97,78,0.997,0.998,7:16
+4,6:59,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,97,78,0.997,0.997,7:01
+4,5:42,UTAH,Omer Yurtseven,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,97,78,0.999,0.998,5:54
+4,4:57,UTAH,Omer Yurtseven,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,97,81,0.998,0.997,5:15
+4,4:42,MIN,Karl-Anthony Towns,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,98,81,0.995,0.998,4:57
+4,3:28,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,98,83,0.994,0.997,3:40
+4,3:16,UTAH,Simone Fontecchio,Personal Foul,Foul,Eric Dalen,Tyler Ford,J.D. Ralls,MIN,98,85,0.997,0.996,3:28

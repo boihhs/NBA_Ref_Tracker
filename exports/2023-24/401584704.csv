@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:37,PHX,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,2,0,0.756,0.725,11:37
+1,8:26,LAL,Austin Reaves,Personal Take Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,11,7,0.755,0.754,8:29
+1,8:23,LAL,Taurean Prince,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,11,7,0.756,0.755,8:26
+1,6:31,LAL,Anthony Davis,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,13,12,0.669,0.686,6:31
+1,2:37,LAL,Jaxson Hayes,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,16,26,0.366,0.395,2:46
+2,10:49,PHX,Drew Eubanks,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,20,30,0.412,0.363,10:52
+2,10:35,LAL,Jaxson Hayes,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,21,30,0.321,0.363,10:47
+2,9:37,LAL,Jaxson Hayes,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,24,32,0.363,0.416,9:37
+2,9:27,PHX,Yuta Watanabe,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,24,33,0.385,0.386,9:27
+2,8:49,PHX,Yuta Watanabe,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,24,33,0.425,0.381,8:51
+2,8:07,PHX,Eric Gordon,Technical Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,28,35,0.46,0.435,8:08
+2,5:16,PHX,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,38,35,0.758,0.719,5:24
+2,4:47,LAL,D'Angelo Russell,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,39,37,0.664,0.693,4:50
+2,4:40,LAL,Taurean Prince,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,39,37,0.664,0.664,4:47
+2,4:07,LAL,Taurean Prince,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,39,39,0.552,0.6,4:08
+2,4:01,PHX,Kevin Durant,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,39,41,0.619,0.571,4:07
+2,3:42,LAL,Anthony Davis,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,40,41,0.516,0.57,3:59
+2,2:36,LAL,Christian Wood,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,42,47,0.403,0.462,2:36
+2,42.0,PHX,Drew Eubanks,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,47,50,0.571,0.514,49.1
+2,34.1,LAL,Cam Reddish,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,48,50,0.461,0.521,42.0
+3,11:41,LAL,D'Angelo Russell,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,48,52,0.387,0.437,11:44
+3,9:32,LAL,Austin Reaves,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,52,57,0.386,0.385,9:38
+3,6:18,LAL,Austin Reaves,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,61,65,0.338,0.396,6:34
+3,5:46,PHX,Grayson Allen,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,61,67,0.412,0.353,5:49
+3,4:43,PHX,Josh Okogie,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,65,69,0.423,0.423,4:43
+3,4:10,LAL,Gabe Vincent,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,65,69,0.313,0.377,4:19
+3,3:27,PHX,Jusuf Nurkic,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,65,71,0.393,0.33,3:35
+3,3:27,LAL,Rui Hachimura,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,66,71,0.266,0.327,3:27
+3,2:48,LAL,Cam Reddish,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,68,73,0.257,0.323,3:10
+4,11:15,PHX,Drew Eubanks,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,72,84,0.123,0.081,11:20
+4,10:35,PHX,Jordan Goodwin,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,76,84,0.188,0.151,10:44
+4,7:57,PHX,Grayson Allen,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,82,87,0.382,0.286,8:06
+4,7:09,PHX,Jusuf Nurkic,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,84,87,0.412,0.389,7:13
+4,4:55,PHX,Josh Okogie,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,84,87,0.482,0.36,4:55
+4,4:16,PHX,Eric Gordon,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,86,87,0.569,0.434,4:16
+4,3:23,LAL,Christian Wood,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,89,87,0.655,0.658,3:23
+4,3:07,PHX,Kevin Durant,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,89,87,0.829,0.739,3:10
+4,2:09,LAL,LeBron James,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,91,87,0.818,0.82,2:19
+4,2:02,LAL,Austin Reaves,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,91,87,0.799,0.818,2:09
+4,1:30,LAL,Austin Reaves,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,91,91,0.383,0.581,1:30
+4,16.0,PHX,Grayson Allen,Personal Take Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,95,91,0.982,0.931,22.2
+4,7.0,PHX,Jordan Goodwin,Personal Take Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,96,93,0.981,0.932,8.1
+4,1.2,PHX,Eric Gordon,Personal Take Foul,Foul,Zach Zarba,Jason Goldenberg,Justin Van Duyne,LAL,98,95,0.995,0.98,2.1

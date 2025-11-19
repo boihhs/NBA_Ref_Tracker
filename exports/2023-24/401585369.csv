@@ -1,0 +1,54 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:19,DET,Ausar Thompson,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,0,0,0.57,0.549,10:19
+1,9:58,POR,Matisse Thybulle,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,2,0,0.539,0.576,10:06
+1,7:46,DET,Jaden Ivey,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,6,7,0.522,0.524,8:02
+1,7:41,DET,Ausar Thompson,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,6,7,0.52,0.522,7:46
+1,5:08,POR,Matisse Thybulle,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,15,13,0.574,0.573,5:09
+1,4:37,POR,Jabari Walker,Defensive 3-Seconds Technical,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,17,16,0.553,0.546,4:49
+1,4:20,POR,Toumani Camara,Offensive Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,17,16,0.545,0.575,4:25
+1,3:28,DET,Marcus Sasser,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,20,18,0.64,0.6,3:28
+1,2:14,DET,Ausar Thompson,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,23,20,0.666,0.627,2:24
+1,51.1,DET,Stanley Umude,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,27,22,0.719,0.64,3:28
+1,14.1,POR,Justin Minaya,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,30,22,0.693,0.729,24.1
+2,11:20,DET,Stanley Umude,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,30,25,0.719,0.685,11:24
+2,10:28,DET,Cade Cunningham,Technical Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,34,29,0.703,0.685,10:28
+2,9:06,POR,Ibou Badji,Offensive Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,37,33,0.629,0.659,9:17
+2,7:02,POR,Jerami Grant,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,43,37,0.688,0.687,7:18
+2,6:59,DET,Jalen Duren,Clear Path Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,43,37,0.714,0.717,6:59
+2,4:53,POR,Anfernee Simons,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,53,40,0.827,0.855,5:10
+2,3:03,POR,Jabari Walker,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,62,44,0.917,0.934,3:14
+2,2:46,POR,Anfernee Simons,Offensive Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,62,46,0.912,0.924,3:03
+2,2:37,DET,Jalen Duren,Loose Ball Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,62,46,0.924,0.926,2:37
+2,1:13,DET,Stanley Umude,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,67,49,0.961,0.949,1:18
+2,1:05,POR,Jabari Walker,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,69,49,0.944,0.959,1:13
+3,10:04,DET,Jaden Ivey,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,73,62,0.893,0.866,10:15
+3,8:03,DET,Jalen Duren,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,79,64,0.954,0.938,8:14
+3,6:23,DET,Jaden Ivey,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,87,69,0.979,0.971,6:37
+3,4:59,DET,Jaden Ivey,Technical Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,91,69,0.993,0.991,4:59
+3,4:24,POR,Toumani Camara,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,92,69,0.992,0.992,4:43
+3,4:15,POR,Kris Murray,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,92,71,0.983,0.99,4:15
+3,3:41,POR,Ashton Hagans,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,92,72,0.976,0.984,3:49
+3,2:37,POR,Jerami Grant,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,92,77,0.933,0.962,2:43
+3,2:24,POR,Ibou Badji,Offensive Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,92,77,0.953,0.962,2:34
+3,34.0,DET,James Wiseman,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,95,81,0.976,0.963,46.0
+4,11:50,POR,Matisse Thybulle,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,97,84,0.94,0.948,0.0
+4,11:14,POR,Matisse Thybulle,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,97,87,0.839,0.839,11:14
+4,10:23,DET,James Wiseman,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,100,90,0.947,0.918,10:29
+4,10:11,POR,Jerami Grant,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,102,90,0.902,0.937,10:23
+4,9:58,DET,James Wiseman,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,102,92,0.939,0.921,9:59
+4,9:37,POR,Ashton Hagans,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,104,92,0.926,0.942,9:37
+4,9:02,POR,Ashton Hagans,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,106,93,0.935,0.955,9:16
+4,8:17,DET,James Wiseman,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,108,96,0.978,0.96,8:35
+4,7:57,POR,Matisse Thybulle,Loose Ball Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,110,96,0.959,0.975,7:57
+4,7:44,DET,Stanley Umude,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,110,97,0.986,0.977,7:54
+4,7:31,DET,Jalen Duren,Offensive Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,111,97,0.985,0.977,7:44
+4,6:59,POR,Toumani Camara,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,111,97,0.967,0.979,7:10
+4,6:32,POR,Jabari Walker,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,111,99,0.944,0.965,6:43
+4,2:27,POR,Toumani Camara,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,115,111,0.668,0.771,2:51
+4,2:16,DET,Jaden Ivey,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,117,113,0.888,0.788,2:16
+4,1:11,DET,Ausar Thompson,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,118,116,0.849,0.737,1:29
+5,4:08,DET,Jalen Duren,Loose Ball Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,122,120,0.693,0.685,4:08
+5,3:56,POR,Jerami Grant,Offensive Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,122,120,0.615,0.693,4:08
+5,3:40,POR,Jerami Grant,Shooting Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,122,120,0.494,0.615,3:56
+5,1:37,DET,Marcus Sasser,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,122,126,0.343,0.184,1:47
+5,57.1,POR,Toumani Camara,Personal Foul,Foul,Gediminas Petraitis,Ray Acosta,Matt Kallio,POR,122,128,0.015,0.049,1:12

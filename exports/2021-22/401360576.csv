@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:27,UTAH,Joe Ingles,Personal Take Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,0,4,0.598,0.6,9:29
+1,7:01,UTAH,Royce O'Neale,Personal Take Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,5,9,0.585,0.586,7:02
+1,6:43,MIN,Jordan McLaughlin,Personal Take Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,5,9,0.558,0.558,6:43
+1,6:11,UTAH,Royce O'Neale,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,7,11,0.581,0.554,6:11
+1,4:52,UTAH,Jared Butler,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,11,11,0.71,0.675,4:56
+1,4:46,UTAH,Jared Butler,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,11,11,0.71,0.71,4:52
+1,4:33,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,13,11,0.662,0.699,4:46
+1,3:05,UTAH,Rudy Gay,Offensive Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,17,13,0.76,0.739,3:18
+1,2:30,UTAH,Rudy Gay,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,17,13,0.788,0.759,2:34
+2,11:21,UTAH,Hassan Whiteside,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,26,20,0.794,0.795,11:31
+2,11:16,UTAH,Elijah Hughes,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,26,20,0.795,0.794,11:21
+2,10:10,MIN,Jaden McDaniels,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,30,23,0.762,0.793,10:26
+2,9:18,MIN,Jaden McDaniels,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,30,24,0.771,0.772,9:31
+2,6:35,MIN,Jordan McLaughlin,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,37,29,0.814,0.813,6:42
+2,5:52,MIN,Jordan McLaughlin,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,37,32,0.707,0.746,6:01
+2,4:19,UTAH,Rudy Gay,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,39,38,0.705,0.663,4:26
+2,3:14,UTAH,Royce O'Neale,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,41,42,0.643,0.598,3:23
+2,2:58,MIN,Malik Beasley,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,41,42,0.509,0.563,3:01
+2,23.7,UTAH,Mike Conley,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,51,48,0.754,0.714,31.8
+3,10:12,UTAH,Mike Conley,Personal Take Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,52,51,0.644,0.644,10:13
+3,8:56,UTAH,Bojan Bogdanovic,Personal Take Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,56,53,0.708,0.708,8:57
+3,7:53,UTAH,Hassan Whiteside,Loose Ball Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,58,55,0.706,0.706,7:53
+3,7:09,UTAH,Jared Butler,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,63,55,0.863,0.848,7:09
+3,6:54,UTAH,Hassan Whiteside,Offensive Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,64,55,0.869,0.845,7:07
+3,5:46,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,68,57,0.861,0.891,5:56
+3,5:19,MIN,Jaden McDaniels,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,68,57,0.863,0.893,5:30
+3,4:57,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,70,58,0.912,0.911,5:08
+3,4:17,UTAH,Rudy Gay,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,75,60,0.969,0.954,4:17
+3,2:42,UTAH,Jordan Clarkson,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,81,64,0.987,0.98,2:53
+3,54.2,MIN,Jordan McLaughlin,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,89,71,0.977,0.985,1:09
+3,30.0,UTAH,Hassan Whiteside,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,91,73,0.99,0.987,30.0
+3,10.1,MIN,Jaylen Nowell,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,92,73,0.985,0.99,30.0
+4,9:50,UTAH,Mike Conley,Personal Take Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,99,80,0.996,0.996,9:50
+4,9:30,MIN,Jaden McDaniels,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,99,80,0.99,0.995,9:38
+4,5:39,UTAH,Rudy Gay,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,106,90,0.998,0.996,5:51
+4,4:47,UTAH,Bojan Bogdanovic,Personal Take Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,108,92,0.998,0.998,4:48
+4,1:40,MIN,Nathan Knight,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,117,102,0.999,0.999,1:40
+4,1:00,UTAH,Udoka Azubuike,Shooting Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,121,103,0.999,0.999,1:00
+4,28.0,MIN,Naz Reid,Personal Foul,Foul,Jason Goldenberg,Phenizee Ransom,Tyler Ford,MIN,124,105,0.999,0.999,37.2

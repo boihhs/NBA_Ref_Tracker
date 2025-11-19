@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:21,CLE,Isaac Okoro,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,3,4,0.486,0.487,9:34
+1,8:20,ATL,De'Andre Hunter,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,5,4,0.514,0.511,8:30
+1,8:12,ATL,De'Andre Hunter,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,5,4,0.474,0.514,8:20
+1,5:31,CLE,Ricky Rubio,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,11,11,0.553,0.513,5:42
+1,2:14,CLE,Ricky Rubio,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,17,17,0.513,0.512,2:25
+1,1:56,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,17,17,0.442,0.486,2:00
+1,1:04,ATL,Skylar Mays,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,19,17,0.5,0.544,1:29
+1,26.2,ATL,Cam Reddish,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,19,19,0.441,0.485,26.3
+1,9.1,CLE,Isaac Okoro,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,19,21,0.5,0.455,24.5
+2,11:40,CLE,Isaac Okoro,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,19,21,0.499,0.455,11:41
+2,10:12,CLE,Jarrett Allen,Loose Ball Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,23,23,0.515,0.515,10:12
+2,10:09,CLE,Isaac Okoro,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,23,23,0.512,0.513,10:12
+2,9:44,CLE,Evan Mobley,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,23,25,0.498,0.453,9:53
+2,9:29,ATL,Delon Wright,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,24,25,0.408,0.45,9:42
+2,8:07,ATL,Delon Wright,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,26,27,0.406,0.452,8:28
+2,7:55,CLE,Cedi Osman,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,26,29,0.468,0.423,8:07
+2,7:26,ATL,Gorgui Dieng,Offensive Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,28,29,0.452,0.483,7:38
+2,6:18,ATL,Kevin Huerter,Loose Ball Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,31,32,0.452,0.451,6:18
+2,5:31,CLE,Evan Mobley,Offensive Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,35,32,0.608,0.578,5:38
+2,4:13,ATL,Skylar Mays,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,35,36,0.4,0.45,4:16
+2,2:40,CLE,Kevin Love,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,35,42,0.291,0.291,2:41
+2,1:43,CLE,Kevin Love,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,37,44,0.313,0.289,2:04
+2,33.2,ATL,Cam Reddish,Double Technical Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,39,44,0.325,0.313,33.2
+3,10:34,ATL,John Collins,Personal Take Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,46,49,0.373,0.373,10:34
+3,8:38,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,46,51,0.299,0.299,8:56
+3,8:16,ATL,Timothe Luwawu-Cabarrot,Personal Take Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,46,51,0.299,0.297,8:16
+3,8:08,ATL,Gorgui Dieng,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,46,51,0.252,0.299,8:16
+3,7:29,CLE,Darius Garland,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,46,54,0.231,0.231,7:38
+3,7:12,ATL,Gorgui Dieng,Loose Ball Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,46,54,0.161,0.2,7:12
+3,6:17,CLE,Ricky Rubio,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,48,56,0.222,0.224,6:30
+3,3:51,CLE,Ricky Rubio,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,58,61,0.393,0.392,4:02
+3,3:49,ATL,John Collins,Offensive Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,58,61,0.351,0.393,3:51
+3,2:26,ATL,Jalen Johnson,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,61,63,0.388,0.388,2:27
+4,11:29,ATL,Gorgui Dieng,Offensive Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,68,68,0.475,0.524,11:35
+4,9:08,ATL,Cam Reddish,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,73,73,0.456,0.474,9:16
+4,7:58,CLE,Evan Mobley,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,76,75,0.681,0.582,8:08
+4,7:38,ATL,Cam Reddish,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,80,77,0.549,0.644,7:43
+4,7:26,CLE,Evan Mobley,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,80,79,0.687,0.582,7:38
+4,6:52,CLE,Ricky Rubio,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,82,81,0.618,0.592,7:11
+4,6:45,CLE,Jarrett Allen,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,84,81,0.772,0.665,6:45
+4,6:23,ATL,Cam Reddish,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,84,81,0.563,0.677,6:42
+4,4:21,ATL,Timothe Luwawu-Cabarrot,Shooting Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,84,88,0.164,0.211,4:21
+4,2:30,ATL,De'Andre Hunter,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,89,93,0.091,0.167,2:53
+4,1:13,ATL,Gorgui Dieng,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,92,93,0.217,0.351,1:27
+4,10.0,ATL,Jalen Johnson,Personal Take Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,94,95,0.12,0.292,13.2
+4,4.6,ATL,Sharife Cooper,Personal Foul,Foul,Sean Wright,Brian Forte,Tyler Ricks,ATL,94,97,0.012,0.035,4.6

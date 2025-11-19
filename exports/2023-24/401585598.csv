@@ -1,0 +1,29 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:50,POR,Anfernee Simons,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,8,7,0.829,0.861,9:07
+1,8:41,POR,Toumani Camara,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,8,7,0.857,0.829,8:50
+1,8:39,NO,CJ McCollum,Offensive Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,8,7,0.843,0.847,9:41
+1,7:40,NO,Zion Williamson,Shooting Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,10,11,0.796,0.823,7:40
+1,5:56,POR,Kris Murray,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,17,15,0.857,0.859,6:13
+1,3:47,POR,Kris Murray,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,22,24,0.81,0.785,4:00
+1,3:42,NO,Jonas Valanciunas,Offensive Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,22,24,0.762,0.81,3:47
+1,3:31,NO,Jonas Valanciunas,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,22,24,0.763,0.762,3:42
+1,2:51,POR,Duop Reath,Shooting Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,22,24,0.804,0.778,3:01
+1,2:24,NO,Jose Alvarado,Away from Play Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,26,26,0.793,0.793,2:25
+1,2:03,POR,Jabari Walker,Shooting Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,28,28,0.822,0.791,2:03
+1,1:53,NO,Jeremiah Robinson-Earl,Shooting Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,28,29,0.755,0.793,2:24
+1,1:09,POR,Rayan Rupert,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,30,31,0.815,0.786,1:14
+2,10:21,NO,Jeremiah Robinson-Earl,Shooting Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,40,35,0.846,0.857,10:21
+2,9:19,POR,Scoot Henderson,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,42,41,0.801,0.803,9:19
+2,9:14,POR,Scoot Henderson,Shooting Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,42,41,0.828,0.801,9:19
+2,4:47,POR,Kris Murray,Loose Ball Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,57,55,0.798,0.799,4:47
+2,2.2,POR,Toumani Camara,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,71,68,0.831,0.776,28.2
+3,7:29,NO,Brandon Ingram,Shooting Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,84,79,0.766,0.808,7:32
+3,5:45,POR,Deandre Ayton,Offensive Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,87,83,0.802,0.775,6:02
+3,3:56,POR,Toumani Camara,Shooting Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,89,86,0.812,0.769,4:02
+3,2:28,POR,Deandre Ayton,Away from Play Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,95,88,0.877,0.852,2:28
+3,3.1,POR,Jabari Walker,Personal Take Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,102,92,0.955,0.937,6.1
+4,10:43,NO,Brandon Ingram,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,107,95,0.952,0.955,11:02
+4,10:02,NO,Jose Alvarado,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,107,97,0.921,0.928,10:08
+4,5:46,NO,Jeremiah Robinson-Earl,Shooting Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,116,99,0.996,0.996,6:00
+4,3:21,NO,Zion Williamson,Personal Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,119,103,0.998,0.999,3:27
+4,1:00,NO,Jose Alvarado,Shooting Foul,Foul,Marc Davis,Michael Smith,Dannica Mosher,NO,124,105,0.999,0.999,1:11

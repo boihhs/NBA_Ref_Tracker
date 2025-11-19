@@ -1,0 +1,56 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:34,DET,Isaiah Stewart,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,0,2,0.722,0.691,10:44
+1,10:07,DET,Jerami Grant,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,1,4,0.668,0.669,10:18
+1,8:54,DET,Isaiah Stewart,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,5,8,0.693,0.663,9:09
+1,7:19,TOR,Pascal Siakam,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,11,11,0.698,0.698,7:21
+1,6:19,DET,Saddiq Bey,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,13,13,0.747,0.716,6:28
+1,4:30,TOR,Scottie Barnes,Loose Ball Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,16,18,0.638,0.634,4:30
+1,1:58,DET,Killian Hayes,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,18,28,0.468,0.424,2:04
+2,11:26,DET,Rodney McGruder,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,24,34,0.424,0.372,11:26
+2,11:04,TOR,Precious Achiuwa,Flagrant Foul Type 1,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,25,34,0.405,0.398,11:26
+2,8:43,DET,Kelly Olynyk,Personal Take Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,31,39,0.437,0.438,8:44
+2,6:58,DET,Killian Hayes,Personal Take Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,33,41,0.419,0.422,6:58
+2,6:27,TOR,Malachi Flynn,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,35,41,0.451,0.452,6:43
+2,6:15,TOR,Khem Birch,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,35,41,0.401,0.449,6:17
+2,6:09,DET,Cade Cunningham,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,35,43,0.464,0.416,6:15
+2,5:16,TOR,Svi Mykhailiuk,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,38,43,0.423,0.473,5:25
+2,4:36,DET,Cory Joseph,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,40,43,0.614,0.565,4:49
+2,4:14,DET,Cory Joseph,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,44,45,0.651,0.596,4:14
+2,3:17,TOR,Gary Trent Jr.,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,45,47,0.505,0.556,3:27
+2,2:30,DET,Jerami Grant,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,48,51,0.576,0.549,2:30
+2,36.2,TOR,Pascal Siakam,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,52,57,0.407,0.469,36.2
+2,29.6,DET,Isaiah Stewart,Double Technical Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,54,58,0.491,0.465,29.6
+2,6.3,TOR,Khem Birch,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,54,58,0.434,0.466,6.3
+3,8:15,TOR,Malachi Flynn,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,61,71,0.175,0.216,8:22
+3,7:25,TOR,Khem Birch,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,61,73,0.119,0.155,7:40
+3,5:00,DET,Cory Joseph,Personal Take Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,66,82,0.07,0.069,5:00
+3,4:51,TOR,Pascal Siakam,Technical Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,68,82,0.073,0.084,4:51
+3,4:23,TOR,Gary Trent Jr.,Offensive Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,68,83,0.065,0.081,4:31
+3,3:48,TOR,Precious Achiuwa,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,70,86,0.034,0.048,3:52
+3,2:50,DET,Killian Hayes,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,70,87,0.06,0.042,2:52
+3,2:27,TOR,Dalano Banton,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,72,87,0.035,0.053,2:50
+3,2:27,TOR,TOR,Technical Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,72,87,0.042,0.035,2:27
+3,2:27,TOR,TOR,Technical Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,72,88,0.032,0.039,2:27
+3,2:02,DET,Cade Cunningham,Offensive Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,74,90,0.049,0.037,2:14
+3,1:48,DET,Jerami Grant,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,74,90,0.067,0.047,1:52
+3,43.2,DET,Hamidou Diallo,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,74,90,0.057,0.039,48.5
+3,18.9,DET,Rodney McGruder,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,76,90,0.088,0.045,24.3
+3,0.9,TOR,Precious Achiuwa,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,77,90,0.04,0.06,17.4
+4,11:26,TOR,Dalano Banton,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,79,91,0.06,0.068,11:35
+4,9:59,TOR,Pascal Siakam,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,81,91,0.055,0.088,10:04
+4,9:29,DET,Kelly Olynyk,Personal Take Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,83,92,0.141,0.131,9:30
+4,9:11,DET,Kelly Olynyk,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,83,92,0.198,0.141,9:29
+4,8:30,DET,Hamidou Diallo,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,87,94,0.252,0.157,8:30
+4,7:10,TOR,Scottie Barnes,Personal Take Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,88,96,0.099,0.111,7:12
+4,6:25,TOR,Precious Achiuwa,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,90,96,0.102,0.161,6:35
+4,6:21,DET,Isaiah Stewart,Offensive Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,90,96,0.195,0.102,6:25
+4,6:14,DET,Cory Joseph,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,90,96,0.282,0.195,6:21
+4,5:32,DET,Cory Joseph,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,90,98,0.167,0.111,5:34
+4,4:39,TOR,Chris Boucher,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,94,98,0.148,0.225,4:55
+4,4:25,DET,Isaiah Stewart,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,94,100,0.248,0.171,4:39
+4,3:37,DET,Cade Cunningham,Loose Ball Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,96,100,0.367,0.261,3:37
+4,3:02,TOR,Gary Trent Jr.,Personal Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,96,102,0.051,0.09,3:02
+4,2:48,DET,Cade Cunningham,Shooting Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,96,104,0.107,0.063,3:02
+4,2:48,DET,Cade Cunningham,Technical Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,96,104,0.079,0.107,2:48
+4,37.7,DET,Isaiah Stewart,Loose Ball Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,104,106,0.503,0.35,37.7
+4,0.7,DET,Cory Joseph,Loose Ball Foul,Foul,Jacyn Goble,Marc Davis,John Conley,TOR,105,108,0.026,0.011,0.7

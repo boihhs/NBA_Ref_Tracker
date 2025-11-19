@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:52,MEM,Ja Morant,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,0,2,0.677,0.677,11:03
+1,9:50,MIN,Anthony Edwards,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,2,7,0.623,0.628,10:07
+1,8:33,MEM,Dillon Brooks,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,4,9,0.591,0.591,8:46
+1,7:48,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,6,11,0.647,0.611,7:50
+1,7:31,MIN,D'Angelo Russell,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,8,14,0.62,0.585,7:39
+1,6:46,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,13,16,0.593,0.631,6:59
+1,5:52,MIN,D'Angelo Russell,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,13,23,0.505,0.461,5:58
+1,5:05,MEM,Steven Adams,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,15,27,0.353,0.396,5:05
+1,4:33,MIN,Patrick Beverley,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,17,30,0.409,0.366,4:38
+1,4:11,MIN,Patrick Beverley,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,19,30,0.463,0.421,4:21
+1,3:19,MIN,Jordan McLaughlin,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,23,32,0.515,0.471,3:28
+1,2:08,MIN,Jaden McDaniels,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,30,37,0.562,0.52,2:17
+1,1:32,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,31,37,0.466,0.513,1:32
+2,11:34,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,33,44,0.422,0.375,11:49
+2,10:26,MIN,Naz Reid,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,39,44,0.569,0.516,10:26
+2,10:12,MEM,Ziaire Williams,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,39,46,0.43,0.485,10:12
+2,9:58,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,39,47,0.421,0.455,10:12
+2,8:28,MIN,Naz Reid,Offensive Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,43,47,0.565,0.533,8:40
+2,7:56,MIN,Naz Reid,Offensive Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,45,47,0.619,0.593,8:10
+2,7:13,MEM,Brandon Clarke,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,47,47,0.644,0.644,7:22
+2,6:37,MEM,Dillon Brooks,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,49,47,0.656,0.698,6:37
+2,5:11,MEM,Steven Adams,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,51,54,0.518,0.575,5:11
+2,4:44,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,51,54,0.618,0.573,4:47
+2,3:48,MEM,De'Anthony Melton,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,51,56,0.44,0.499,3:48
+2,2:27,MEM,Brandon Clarke,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,55,61,0.392,0.454,2:27
+2,1:01,MIN,Malik Beasley,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,57,65,0.424,0.37,1:09
+2,0.8,MIN,Malik Beasley,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,61,65,0.556,0.504,1.9
+3,9:31,MEM,Steven Adams,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,69,71,0.519,0.52,9:44
+3,8:12,MEM,Steven Adams,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,69,75,0.358,0.354,8:22
+3,7:38,MEM,Dillon Brooks,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,72,75,0.408,0.468,7:51
+3,7:26,MIN,Jarred Vanderbilt,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,74,77,0.534,0.464,7:26
+3,6:42,MIN,Patrick Beverley,Personal Take Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,77,79,0.538,0.539,6:42
+3,6:27,MIN,Patrick Beverley,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,77,79,0.535,0.538,6:42
+3,5:31,MIN,Anthony Edwards,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,79,82,0.519,0.489,5:34
+3,5:14,MEM,Jaren Jackson Jr.,Technical Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,81,84,0.412,0.487,5:15
+3,5:01,MIN,Malik Beasley,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,81,85,0.505,0.402,5:14
+3,3:59,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,83,85,0.411,0.475,4:09
+3,3:38,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,83,87,0.496,0.43,3:38
+3,3:14,MIN,Anthony Edwards,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,84,89,0.448,0.387,3:23
+3,33.1,MEM,De'Anthony Melton,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,92,95,0.324,0.399,52.8
+4,11:49,MIN,Jaden McDaniels,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,92,97,0.355,0.318,12:00
+4,11:44,MEM,Kyle Anderson,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,92,97,0.249,0.294,11:46
+4,11:07,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,94,98,0.435,0.325,11:07
+4,10:58,MEM,Ziaire Williams,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,95,100,0.238,0.336,10:58
+4,8:45,MIN,Malik Beasley,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,98,106,0.245,0.172,9:05
+4,8:35,MEM,Tyus Jones,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,100,106,0.193,0.209,8:45
+4,6:19,MIN,Patrick Beverley,Offensive Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,102,109,0.16,0.122,6:23
+4,5:23,MIN,Malik Beasley,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,102,111,0.132,0.082,5:40
+4,3:16,MIN,D'Angelo Russell,Clear Path Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,108,114,0.235,0.112,3:34
+4,2:25,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,109,117,0.106,0.062,2:42
+4,1:32,MIN,Anthony Edwards,Shooting Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,111,120,0.05,0.022,1:34
+4,1:10,MIN,Anthony Edwards,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,112,122,0.023,0.009,1:20
+4,1:04,MEM,Ja Morant,Clear Path Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,113,122,0.001,0.007,1:10
+4,54.0,MEM,Dillon Brooks,Personal Take Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,113,124,0.001,0.001,56.3
+4,46.9,MEM,Dillon Brooks,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,115,126,0.001,0.001,51.2
+4,38.6,MIN,Karl-Anthony Towns,Personal Foul,Foul,Sean Wright,Tom Washington,David Guthrie,MEM,115,128,0.001,0.001,46.9

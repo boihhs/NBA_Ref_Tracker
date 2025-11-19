@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:20,DEN,Nikola Jokic,Personal Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,15,11,0.943,0.944,5:28
+1,5:06,DEN,Michael Porter Jr.,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,15,11,0.933,0.943,5:20
+1,3:18,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,18,11,0.946,0.955,3:35
+1,3:18,DEN,Kentavious Caldwell-Pope,Technical Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,18,11,0.951,0.946,3:18
+1,1:10,CHA,Nick Smith Jr.,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,22,18,0.942,0.93,1:10
+2,9:30,CHA,P.J. Washington,Personal Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,26,26,0.885,0.885,9:34
+2,7:38,CHA,Ish Smith,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,31,33,0.866,0.844,7:50
+2,7:06,CHA,Brandon Miller,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,32,33,0.875,0.856,7:15
+2,6:21,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,33,33,0.853,0.85,6:34
+2,4:13,CHA,Nick Smith Jr.,Personal Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,38,40,0.841,0.815,4:37
+2,2:25,DEN,Nikola Jokic,Technical Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,45,42,0.856,0.852,2:25
+3,10:49,CHA,Bryce McGowens,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,52,51,0.856,0.828,10:52
+3,9:54,CHA,Nick Richards,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,58,51,0.927,0.907,9:54
+3,8:12,CHA,Bryce McGowens,Personal Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,64,51,0.968,0.969,8:15
+3,7:09,CHA,Ish Smith,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,69,53,0.987,0.983,7:22
+3,5:07,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,79,55,0.997,0.995,5:18
+3,4:59,DEN,Jamal Murray,Personal Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,79,55,0.997,0.997,5:07
+3,2:59,CHA,Nick Richards,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,82,61,0.997,0.996,3:15
+3,1:44,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,84,63,0.993,0.996,1:53
+3,1:35,DEN,Nikola Jokic,Offensive Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,84,63,0.996,0.997,1:36
+3,1:35,CHA,P.J. Washington,Flopping Technical,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,84,63,0.997,0.997,1:35
+3,1:07,CHA,Miles Bridges,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,85,63,0.998,0.998,1:07
+4,11:49,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,89,66,0.997,0.998,12:00
+4,11:29,CHA,Bryce McGowens,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,92,67,0.999,0.999,11:29
+4,11:08,DEN,Reggie Jackson,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,92,67,0.999,0.999,11:08
+4,10:51,CHA,P.J. Washington,Loose Ball Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,92,69,0.999,0.999,10:51
+4,10:17,DEN,Zeke Nnaji,Personal Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,94,69,0.999,0.999,10:26
+4,8:53,CHA,Nate Mensah,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,99,74,0.999,0.999,8:53
+4,7:59,DEN,Peyton Watson,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,100,76,0.999,0.999,8:17
+4,7:28,DEN,Reggie Jackson,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,102,77,0.999,0.999,7:49
+4,7:03,DEN,Peyton Watson,Shooting Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,105,79,0.999,0.999,7:12
+4,3:10,CHA,Bryce McGowens,Personal Foul,Foul,Marat Kogut,David Guthrie,Tyler Mirkovich,DEN,111,85,0.999,0.999,3:16

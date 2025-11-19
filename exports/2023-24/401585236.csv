@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:25,SA,Julian Champagnie,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,0,3,0.864,0.848,11:37
+1,8:48,PHI,Joel Embiid,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,10,14,0.772,0.8,8:55
+1,8:02,SA,Victor Wembanyama,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,12,16,0.833,0.811,8:07
+1,6:27,SA,Victor Wembanyama,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,18,21,0.827,0.815,6:29
+1,5:55,SA,Zach Collins,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,20,21,0.852,0.827,5:55
+1,3:35,PHI,Nicolas Batum,Personal Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,25,28,0.777,0.777,3:39
+1,2:53,SA,Devin Vassell,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,27,28,0.848,0.825,2:57
+1,2:12,SA,Keldon Johnson,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,28,28,0.848,0.836,2:13
+2,10:44,PHI,Paul Reed,Personal Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,38,37,0.817,0.816,10:53
+2,9:36,PHI,Tobias Harris,Personal Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,41,39,0.829,0.828,9:42
+2,8:54,PHI,Furkan Korkmaz,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,43,41,0.796,0.825,9:06
+2,5:23,SA,Doug McDermott,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,51,45,0.906,0.884,5:39
+2,4:22,SA,Victor Wembanyama,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,53,47,0.903,0.885,4:43
+2,4:08,PHI,Paul Reed,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,55,47,0.876,0.868,4:08
+2,2:56,PHI,Paul Reed,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,57,53,0.799,0.83,2:59
+2,2:13,SA,Tre Jones,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,57,54,0.854,0.829,2:16
+3,10:58,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,66,58,0.861,0.887,11:06
+3,9:39,PHI,Nicolas Batum,Personal Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,70,64,0.849,0.885,9:52
+3,9:33,PHI,Tobias Harris,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,70,64,0.834,0.848,9:33
+3,8:58,SA,Devin Vassell,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,72,66,0.891,0.868,9:05
+3,8:44,PHI,Nicolas Batum,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,73,66,0.836,0.866,8:58
+3,8:12,SA,Julian Champagnie,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,75,68,0.906,0.884,8:23
+3,7:32,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,77,68,0.873,0.899,7:45
+3,7:09,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,79,70,0.873,0.899,7:22
+3,6:38,SA,Victor Wembanyama,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,84,72,0.955,0.939,6:38
+3,5:39,PHI,Joel Embiid,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,87,74,0.933,0.95,6:01
+3,5:15,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,89,77,0.921,0.94,5:24
+3,4:58,SA,Zach Collins,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,91,78,0.966,0.952,4:58
+3,1:31,SA,Cedi Osman,Loose Ball Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,99,85,0.983,0.975,1:31
+3,1:10,SA,Cedi Osman,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,101,85,0.99,0.986,1:13
+4,11:47,PHI,KJ Martin,Personal Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,104,89,0.977,0.98,12:00
+4,11:18,SA,Victor Wembanyama,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,104,89,0.991,0.985,11:31
+4,9:56,PHI,Tobias Harris,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,110,95,0.977,0.988,9:56
+4,9:40,SA,Keldon Johnson,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,110,96,0.99,0.983,9:56
+4,9:23,PHI,Paul Reed,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,112,98,0.97,0.984,9:23
+4,8:37,SA,Keldon Johnson,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,114,101,0.988,0.98,8:38
+4,8:29,PHI,Tyrese Maxey,Personal Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,116,101,0.976,0.986,8:37
+4,6:38,PHI,KJ Martin,Personal Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,118,104,0.975,0.985,6:40
+4,6:27,SA,Jeremy Sochan,Personal Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,118,106,0.989,0.979,6:38
+4,6:25,SA,Jeremy Sochan,Shooting Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,118,106,0.989,0.989,6:27
+4,3:24,SA,Blake Wesley,Flagrant Foul Type 1,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,126,113,0.995,0.996,3:37
+4,1:57,SA,Devin Vassell,Personal Foul,Foul,Sean Wright,Aaron Smith,Che Flores,PHI,129,118,0.998,0.996,2:00

@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:21,CLE,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,0,3,0.52,0.557,10:23
+1,7:40,OKC,Chet Holmgren,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,3,7,0.586,0.549,7:41
+1,4:41,OKC,Luguentz Dort,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,13,17,0.575,0.537,4:53
+1,3:58,OKC,Luguentz Dort,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,17,17,0.675,0.638,4:06
+1,2:51,CLE,Dean Wade,Personal Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,19,21,0.556,0.553,2:54
+1,2:24,CLE,Ty Jerome,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,19,23,0.454,0.494,2:26
+1,14.2,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,25,29,0.558,0.513,29.1
+1,5.0,CLE,Caris LeVert,Personal Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,26,29,0.472,0.518,12.1
+2,9:22,OKC,Jalen Williams,Personal Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,26,36,0.321,0.32,9:25
+2,8:54,CLE,Evan Mobley,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,26,36,0.252,0.29,9:07
+2,6:57,OKC,Ousmane Dieng,Loose Ball Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,28,41,0.226,0.227,6:57
+2,5:45,OKC,Ousmane Dieng,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,32,41,0.371,0.325,5:48
+2,5:09,CLE,Max Strus,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,33,41,0.299,0.32,5:09
+2,4:41,CLE,Dean Wade,Personal Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,33,42,0.289,0.289,4:49
+2,53.1,OKC,Chet Holmgren,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,41,52,0.275,0.234,55.0
+2,0.1,CLE,Evan Mobley,Loose Ball Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,42,52,0.189,0.222,0.1
+3,11:12,CLE,Isaac Okoro,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,42,52,0.179,0.216,11:14
+3,8:23,OKC,Josh Giddey,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,50,58,0.338,0.285,8:30
+3,5:31,CLE,Evan Mobley,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,64,64,0.504,0.578,5:31
+3,4:36,OKC,Ousmane Dieng,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,64,67,0.479,0.447,4:36
+3,29.0,CLE,Isaac Okoro,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,75,77,0.345,0.42,48.1
+3,14.1,OKC,Jalen Williams,Personal Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,75,79,0.442,0.372,29.0
+4,11:22,CLE,Georges Niang,Loose Ball Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,78,79,0.445,0.464,11:40
+4,10:10,OKC,Chet Holmgren,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,83,84,0.595,0.502,10:25
+4,9:18,OKC,Luguentz Dort,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,84,84,0.655,0.56,9:20
+4,9:05,CLE,Georges Niang,Personal Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,86,84,0.6,0.617,9:18
+4,8:18,CLE,CLE,Technical Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,88,86,0.566,0.667,8:19
+4,7:58,OKC,Luguentz Dort,Personal Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,88,86,0.686,0.667,8:02
+4,7:16,CLE,Max Strus,Technical Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,88,86,0.575,0.682,7:16
+4,6:58,OKC,Isaiah Joe,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,88,87,0.722,0.625,7:00
+4,6:37,OKC,Luguentz Dort,Shooting Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,90,87,0.788,0.696,6:37
+4,3:50,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,96,90,0.916,0.876,3:51
+4,18.0,CLE,Evan Mobley,Personal Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,102,104,0.081,0.203,18.1
+4,11.2,CLE,Isaac Okoro,Personal Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,102,104,0.065,0.081,18.0
+4,4.1,CLE,Dean Wade,Personal Foul,Foul,Pat Fraher,Natalie Sago,Intae Hwang,CLE,105,106,0.055,0.183,6.1

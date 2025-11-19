@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:23,BOS,Jaylen Brown,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,0,0,0.509,0.468,11:38
+1,8:55,PHI,Tobias Harris,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,13,6,0.59,0.628,9:02
+1,6:40,BOS,Jaylen Brown,Personal Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,15,13,0.529,0.53,6:41
+1,46.1,BOS,Malcolm Brogdon,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,30,23,0.718,0.679,50.2
+2,10:18,PHI,Georges Niang,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,30,33,0.327,0.367,10:22
+2,9:33,BOS,Grant Williams,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,30,36,0.355,0.315,9:53
+2,9:00,BOS,Robert Williams III,Loose Ball Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,32,36,0.368,0.369,9:00
+2,7:06,BOS,Sam Hauser,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,36,41,0.381,0.337,7:14
+2,6:13,BOS,Jayson Tatum,Away from Play Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,38,43,0.38,0.336,6:13
+2,4:57,PHI,Tyrese Maxey,Personal Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,44,43,0.49,0.49,5:14
+2,4:35,BOS,Al Horford,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,44,43,0.57,0.521,4:42
+2,4:17,BOS,Marcus Smart,Personal Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,45,43,0.603,0.556,4:19
+2,3:43,BOS,Grant Williams,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,46,43,0.638,0.586,3:54
+2,3:25,PHI,James Harden,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,48,45,0.534,0.588,3:25
+2,3:13,BOS,Marcus Smart,Personal Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,48,46,0.608,0.558,3:25
+2,2:22,PHI,De'Anthony Melton,Personal Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,52,49,0.509,0.561,2:34
+2,1:02,PHI,P.J. Tucker,Personal Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,56,49,0.646,0.693,1:29
+3,10:15,PHI,De'Anthony Melton,Personal Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,61,52,0.771,0.773,10:19
+3,8:42,BOS,Marcus Smart,Offensive Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,64,52,0.877,0.856,8:53
+3,6:51,BOS,Marcus Smart,Personal Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,67,56,0.868,0.867,7:10
+3,6:23,PHI,De'Anthony Melton,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,67,56,0.81,0.848,6:35
+3,6:05,BOS,Derrick White,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,69,59,0.868,0.827,6:05
+3,5:53,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,70,61,0.777,0.828,5:53
+3,2:39,BOS,Al Horford,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,75,71,0.744,0.683,3:00
+3,1:48,PHI,De'Anthony Melton,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,76,73,0.534,0.602,2:02
+3,54.1,BOS,Al Horford,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,78,77,0.631,0.562,1:19
+4,9:59,BOS,Malcolm Brogdon,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,80,85,0.348,0.264,10:06
+4,5:20,BOS,Robert Williams III,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,89,97,0.155,0.092,5:24
+4,4:29,PHI,Tyrese Maxey,Personal Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,93,97,0.195,0.206,4:54
+4,4:25,PHI,Tobias Harris,Personal Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,93,97,0.188,0.195,4:29
+4,3:28,BOS,Grant Williams,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,95,99,0.366,0.177,3:35
+4,2:54,BOS,Al Horford,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,97,102,0.285,0.178,3:16
+4,46.0,BOS,Grant Williams,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,103,107,0.342,0.21,1:00
+4,10.1,BOS,Jaylen Brown,Shooting Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,105,107,0.513,0.286,22.0
+4,5.2,PHI,Tobias Harris,Personal Take Foul,Foul,Marat Kogut,Marc Davis,Karl Lane,PHI,107,107,0.144,0.444,10.1

@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:41,LAL,Taurean Prince,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,7,6,0.614,0.583,9:55
+1,7:46,SAC,Keegan Murray,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,15,8,0.665,0.7,7:48
+1,7:24,LAL,Austin Reaves,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,17,9,0.758,0.72,7:24
+1,6:37,SAC,Domantas Sabonis,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,18,11,0.665,0.7,6:52
+1,5:49,SAC,Keegan Murray,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,21,15,0.642,0.677,6:02
+1,4:50,SAC,Davion Mitchell,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,23,16,0.666,0.701,5:11
+1,3:11,SAC,Davion Mitchell,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,29,20,0.715,0.748,3:16
+1,1:10,SAC,Chris Duarte,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,35,26,0.717,0.751,1:28
+1,5.1,LAL,D'Angelo Russell,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,39,28,0.845,0.818,14.1
+2,11:46,LAL,D'Angelo Russell,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,41,28,0.855,0.844,12:00
+2,9:40,SAC,De'Aaron Fox,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,45,33,0.824,0.823,9:50
+2,10:35,LAL,LeBron James,Offensive Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,43,30,0.858,0.824,9:40
+2,8:30,SAC,JaVale McGee,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,49,38,0.774,0.807,8:46
+2,7:52,SAC,Davion Mitchell,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,49,39,0.754,0.787,8:03
+2,7:22,SAC,Chris Duarte,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,49,42,0.696,0.743,7:22
+2,5:58,LAL,Christian Wood,Defensive 3-Seconds Technical,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,49,43,0.713,0.718,6:08
+2,4:28,SAC,De'Aaron Fox,Loose Ball Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,52,43,0.737,0.775,4:28
+2,4:23,LAL,Taurean Prince,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,52,45,0.751,0.751,4:28
+2,3:32,SAC,Harrison Barnes,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,54,47,0.682,0.725,3:42
+2,3:20,LAL,Rui Hachimura,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,56,49,0.77,0.726,3:20
+2,1:36,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,59,53,0.654,0.7,1:36
+3,11:49,SAC,Domantas Sabonis,Offensive Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,66,55,0.835,0.845,0.0
+3,11:15,SAC,De'Aaron Fox,Loose Ball Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,66,57,0.793,0.796,11:15
+3,11:11,SAC,Keegan Murray,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,66,57,0.793,0.793,11:15
+3,10:37,SAC,Keegan Murray,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,68,57,0.843,0.842,10:52
+3,9:22,LAL,Austin Reaves,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,68,61,0.773,0.775,9:28
+3,9:17,LAL,Anthony Davis,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,70,61,0.844,0.801,9:17
+3,6:44,SAC,Kevin Huerter,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,76,66,0.8,0.839,6:56
+3,5:16,LAL,Anthony Davis,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,76,75,0.638,0.579,5:33
+3,2:44,SAC,Domantas Sabonis,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,82,77,0.675,0.703,2:44
+3,2:08,LAL,Anthony Davis,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,82,79,0.729,0.669,2:08
+3,1:56,LAL,Gabe Vincent,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,82,79,0.73,0.729,2:08
+3,1:37,SAC,Davion Mitchell,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,85,79,0.687,0.746,1:45
+3,52.1,SAC,Chris Duarte,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,85,81,0.605,0.673,52.2
+4,11:01,LAL,Jaxson Hayes,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,89,86,0.733,0.632,11:01
+4,8:26,LAL,D'Angelo Russell,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,94,97,0.433,0.314,8:26
+4,8:17,SAC,De'Aaron Fox,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,95,97,0.363,0.377,8:26
+4,7:27,LAL,Gabe Vincent,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,99,99,0.612,0.48,7:27
+4,7:05,SAC,Domantas Sabonis,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,100,99,0.441,0.552,7:08
+4,4:32,LAL,Taurean Prince,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,106,104,0.794,0.693,4:47
+4,3:54,LAL,Anthony Davis,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,107,104,0.853,0.775,4:00
+4,3:41,SAC,Kevin Huerter,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,108,104,0.754,0.772,3:54
+4,2:59,SAC,Domantas Sabonis,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,108,104,0.66,0.785,2:59
+4,1:00,SAC,Kevin Huerter,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,113,109,0.683,0.812,1:06
+4,25.1,LAL,Gabe Vincent,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,113,113,0.739,0.544,28.0
+5,3:31,SAC,Malik Monk,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,120,119,0.474,0.619,3:31
+5,3:21,LAL,Anthony Davis,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,122,120,0.753,0.622,3:21
+5,2:58,LAL,D'Angelo Russell,Shooting Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,123,120,0.828,0.774,3:05
+5,16.1,LAL,LeBron James,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,130,127,0.964,0.897,23.1
+5,15.0,LAL,Gabe Vincent,Personal Foul,Foul,Derek Richardson,Sean Corbin,David Guthrie,SAC,130,127,0.967,0.964,16.1

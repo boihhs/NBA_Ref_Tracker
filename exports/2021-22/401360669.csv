@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:34,DEN,Will Barton,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,0,2,0.623,0.624,11:44
+1,9:57,TOR,OG Anunoby,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,3,4,0.621,0.62,10:17
+1,6:45,TOR,OG Anunoby,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,11,16,0.481,0.529,6:45
+1,4:38,TOR,Precious Achiuwa,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,16,21,0.471,0.518,4:38
+1,3:20,TOR,Chris Boucher,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,20,22,0.526,0.568,3:39
+1,2:46,TOR,Scottie Barnes,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,20,24,0.467,0.509,2:59
+1,1:44,DEN,JaMychal Green,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,22,28,0.498,0.447,1:44
+1,1:08,DEN,DeMarcus Cousins,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,23,28,0.543,0.503,1:13
+2,10:08,DEN,Austin Rivers,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,30,33,0.545,0.547,10:21
+2,9:58,DEN,JaMychal Green,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,30,33,0.542,0.545,10:08
+2,9:34,TOR,Khem Birch,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,30,33,0.513,0.513,9:46
+2,8:58,TOR,Chris Boucher,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,32,35,0.463,0.51,9:18
+2,8:22,DEN,Austin Rivers,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,32,37,0.498,0.475,8:22
+2,7:20,DEN,DeMarcus Cousins,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,35,37,0.607,0.561,7:24
+2,3:52,TOR,Pascal Siakam,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,47,42,0.706,0.754,3:52
+2,2:18,TOR,Pascal Siakam,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,49,45,0.654,0.698,2:22
+2,1:43,TOR,Khem Birch,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,49,49,0.547,0.606,1:43
+2,1:08,TOR,Fred VanVleet,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,51,52,0.511,0.572,1:08
+3,10:47,TOR,Scottie Barnes,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,59,56,0.664,0.665,10:53
+3,9:53,DEN,Bones Hyland,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,62,59,0.742,0.697,9:57
+3,9:20,DEN,Jeff Green,Loose Ball Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,64,59,0.755,0.758,9:20
+3,8:34,DEN,Bones Hyland,Personal Take Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,64,62,0.661,0.662,8:34
+3,8:04,TOR,Scottie Barnes,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,66,62,0.642,0.694,8:21
+3,7:57,DEN,Bones Hyland,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,66,64,0.709,0.66,8:04
+3,6:17,DEN,Aaron Gordon,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,72,67,0.805,0.759,6:20
+3,3:55,TOR,OG Anunoby,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,77,75,0.586,0.658,3:55
+3,2:10,DEN,Nikola Jokic,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,79,81,0.549,0.48,2:31
+4,10:27,TOR,Dalano Banton,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,91,85,0.785,0.794,10:35
+4,9:49,TOR,Pascal Siakam,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,91,85,0.715,0.795,9:52
+4,8:25,DEN,DeMarcus Cousins,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,94,91,0.786,0.708,8:39
+4,4:48,TOR,Pascal Siakam,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,99,100,0.325,0.474,4:48
+4,4:20,TOR,Gary Trent Jr.,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,99,101,0.21,0.313,4:26
+4,2:43,DEN,Aaron Gordon,Personal Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,101,103,0.361,0.356,2:56
+4,52.5,DEN,Bones Hyland,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,105,108,0.411,0.23,55.6
+4,12.8,TOR,Pascal Siakam,Personal Take Foul,Foul,Zach Zarba,Eric Dalen,Brett Nansel,TOR,109,110,0.129,0.305,18.4

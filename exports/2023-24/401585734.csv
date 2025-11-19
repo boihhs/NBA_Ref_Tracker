@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:37,BKN,Nic Claxton,Offensive Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,11,6,0.512,0.538,7:42
+1,6:24,IND,Jalen Smith,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,11,10,0.438,0.441,6:32
+1,5:12,BKN,Noah Clowney,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,11,14,0.278,0.313,5:14
+1,4:14,IND,Isaiah Jackson,Offensive Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,13,17,0.316,0.291,4:19
+1,4:04,BKN,Noah Clowney,Loose Ball Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,13,17,0.292,0.291,4:04
+1,3:29,IND,T.J. McConnell,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,13,20,0.248,0.248,3:48
+1,2:13,IND,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,13,23,0.218,0.187,2:15
+1,2:03,BKN,Jalen Wilson,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,15,25,0.157,0.187,2:03
+1,1:25,IND,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,15,29,0.145,0.152,1:53
+1,23.1,IND,T.J. McConnell,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,18,31,0.161,0.136,29.0
+1,6.1,BKN,Mikal Bridges,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,19,31,0.114,0.135,23.1
+2,11:09,BKN,Nic Claxton,Offensive Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,21,33,0.13,0.148,11:25
+2,5:59,IND,Isaiah Jackson,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,39,44,0.339,0.297,6:04
+2,5:48,BKN,Dorian Finney-Smith,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,41,44,0.324,0.324,5:59
+2,5:42,BKN,Dennis Schroder,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,41,44,0.325,0.324,5:48
+2,3:55,BKN,Dennis Schroder,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,46,51,0.231,0.268,4:14
+2,2:46,IND,IND,Delay Technical,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,52,55,0.347,0.357,2:47
+2,1:53,IND,Andrew Nembhard,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,55,57,0.411,0.387,1:53
+2,6.0,BKN,Cameron Johnson,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,61,60,0.408,0.458,13.1
+3,11:23,BKN,Dorian Finney-Smith,Offensive Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,61,62,0.39,0.423,11:34
+3,11:23,BKN,BKN,Delay Technical,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,61,62,0.397,0.39,11:23
+3,10:25,IND,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,61,63,0.445,0.39,10:30
+3,9:37,IND,Aaron Nesmith,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,65,63,0.596,0.541,9:44
+3,5:52,BKN,Dennis Schroder,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,78,70,0.723,0.783,5:52
+3,5:32,IND,Pascal Siakam,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,80,70,0.859,0.814,5:32
+3,3:39,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,83,72,0.838,0.859,3:39
+3,3:22,IND,Isaiah Jackson,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,83,74,0.873,0.832,3:39
+4,11:16,IND,T.J. McConnell,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,88,87,0.564,0.546,11:23
+4,8:52,IND,Obi Toppin,Loose Ball Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,91,91,0.531,0.512,8:52
+4,8:52,BKN,Dennis Schroder,Technical Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,91,91,0.419,0.531,8:52
+4,8:43,IND,T.J. McConnell,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,91,92,0.485,0.406,8:52
+4,8:13,IND,T.J. McConnell,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,95,92,0.747,0.642,8:13
+4,5:13,BKN,Noah Clowney,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,100,95,0.795,0.801,5:24
+4,4:50,BKN,Noah Clowney,Shooting Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,100,97,0.625,0.758,4:50
+4,4:38,IND,Pascal Siakam,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,100,98,0.782,0.689,4:50
+4,4:17,BKN,Dennis Schroder,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,101,98,0.666,0.69,4:36
+4,40.1,IND,Obi Toppin,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,110,108,0.893,0.802,40.1
+4,24.2,IND,Aaron Nesmith,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,112,108,0.975,0.929,26.1
+4,7.0,IND,Andrew Nembhard,Personal Foul,Foul,Curtis Blair,Ashley Moyer-Gleich,Robert Hussey,BKN,113,111,0.963,0.86,9.1

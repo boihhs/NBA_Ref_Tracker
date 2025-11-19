@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:46,LAL,Patrick Beverley,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,4,4,0.789,0.79,10:00
+1,9:36,LAL,Anthony Davis,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,4,4,0.802,0.789,9:37
+1,8:23,LAL,Anthony Davis,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,6,6,0.782,0.784,8:30
+1,6:38,PHI,Tobias Harris,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,8,9,0.736,0.737,6:48
+1,4:51,LAL,Anthony Davis,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,11,12,0.776,0.747,4:55
+1,3:08,PHI,Shake Milton,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,17,12,0.83,0.83,3:16
+1,2:54,LAL,Thomas Bryant,Loose Ball Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,17,12,0.867,0.845,2:54
+1,2:23,PHI,Shake Milton,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,21,12,0.884,0.886,2:26
+2,10:50,PHI,Paul Reed,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,33,20,0.909,0.925,10:54
+2,9:54,PHI,Paul Reed,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,33,23,0.871,0.892,10:01
+2,8:23,PHI,Paul Reed,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,33,33,0.682,0.726,8:23
+2,6:07,PHI,Shake Milton,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,38,40,0.583,0.627,6:09
+2,5:03,LAL,Austin Reaves,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,40,46,0.526,0.526,5:09
+2,2:03,LAL,LeBron James,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,52,56,0.563,0.565,2:26
+2,55.0,LAL,Dennis Schroder,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,59,58,0.753,0.684,55.0
+2,6.1,PHI,De'Anthony Melton,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,61,58,0.692,0.741,28.0
+3,11:06,PHI,P.J. Tucker,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,61,59,0.703,0.706,11:17
+3,9:23,PHI,P.J. Tucker,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,69,67,0.671,0.727,9:23
+3,9:13,LAL,Anthony Davis,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,69,67,0.769,0.728,9:21
+3,7:24,LAL,Patrick Beverley,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,76,70,0.83,0.832,7:30
+3,5:25,LAL,Russell Westbrook,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,79,77,0.711,0.713,5:42
+3,4:46,PHI,James Harden,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,82,77,0.725,0.775,5:13
+3,4:17,LAL,LeBron James,Loose Ball Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,82,79,0.789,0.743,4:17
+3,3:45,LAL,Patrick Beverley,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,84,79,0.846,0.805,3:49
+3,3:15,LAL,Russell Westbrook,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,86,79,0.891,0.859,3:23
+3,9.0,PHI,Matisse Thybulle,Loose Ball Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,93,83,0.879,0.913,9.0
+4,11:27,PHI,Montrezl Harrell,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,95,83,0.92,0.948,11:42
+4,10:57,PHI,Matisse Thybulle,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,97,84,0.956,0.959,11:10
+4,10:28,PHI,Montrezl Harrell,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,99,84,0.975,0.977,10:38
+4,9:58,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,102,84,0.985,0.991,10:08
+4,9:04,PHI,Tobias Harris,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,102,86,0.976,0.986,9:16
+4,8:40,PHI,Shake Milton,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,102,88,0.959,0.974,8:41
+4,7:59,LAL,Austin Reaves,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,102,91,0.961,0.958,8:07
+4,7:10,PHI,Tobias Harris,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,104,91,0.957,0.972,7:10
+4,3:50,PHI,P.J. Tucker,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,113,97,0.996,0.997,4:05
+4,2:04,PHI,Shake Milton,Offensive Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,115,105,0.984,0.99,2:13
+4,1:07,PHI,Joel Embiid,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,115,109,0.882,0.954,1:07
+4,59.2,LAL,Patrick Beverley,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,115,110,0.969,0.921,1:07
+4,34.1,LAL,Russell Westbrook,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,118,110,0.998,0.995,34.1
+4,27.0,PHI,Shake Milton,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,119,112,0.935,0.978,27.0
+4,10.1,LAL,Russell Westbrook,Personal Take Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,119,117,0.939,0.834,12.0
+4,9.0,PHI,Matisse Thybulle,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,120,117,0.65,0.834,10.1
+4,3.1,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,120,119,0.288,0.748,5.1
+5,3:55,LAL,Anthony Davis,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,122,120,0.695,0.685,4:09
+5,3:46,LAL,LeBron James,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,122,120,0.706,0.695,3:55
+5,3:30,LAL,Austin Reaves,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,124,120,0.875,0.765,3:30
+5,2:32,LAL,Austin Reaves,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,125,120,0.948,0.899,2:32
+5,44.2,LAL,Austin Reaves,Shooting Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,129,120,0.998,0.996,1:01
+5,40.0,PHI,P.J. Tucker,Personal Foul,Foul,Matt Boland,James Williams,Sean Corbin,PHI,132,120,0.997,0.999,44.2
+5,35.0,LAL,LAL,Delay Technical,Foul,Matt Boland,James Williams,Sean Corbin,PHI,133,122,0.999,1.0,0.0

@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:35,HOU,Jabari Smith Jr.,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,4,2,0.321,0.321,9:38
+1,9:01,LAC,James Harden,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,4,5,0.312,0.279,9:27
+1,7:26,HOU,Jalen Green,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,8,7,0.309,0.307,7:30
+1,5:05,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,15,13,0.326,0.368,5:05
+1,2:16,LAC,Daniel Theis,Offensive Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,22,14,0.553,0.52,2:32
+1,1:28,LAC,Daniel Theis,Loose Ball Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,24,14,0.659,0.621,1:28
+1,34.0,HOU,Jock Landale,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,27,17,0.548,0.595,38.0
+2,10:08,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,29,23,0.45,0.494,10:10
+2,8:11,HOU,Fred VanVleet,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,38,25,0.681,0.718,8:29
+2,5:44,LAC,Ivica Zubac,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,46,30,0.873,0.843,5:54
+2,4:46,LAC,Terance Mann,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,50,33,0.871,0.869,4:58
+2,2:27,HOU,Jalen Green,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,52,35,0.84,0.868,2:39
+2,1:19,HOU,Jalen Green,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,55,42,0.744,0.787,1:34
+3,11:35,LAC,Mason Plumlee,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,57,44,0.83,0.828,11:40
+3,8:25,LAC,Terance Mann,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,65,56,0.796,0.717,8:37
+3,7:11,LAC,Mason Plumlee,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,70,58,0.883,0.848,7:25
+3,4:37,LAC,Daniel Theis,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,76,66,0.845,0.798,4:37
+3,3:09,LAC,Daniel Theis,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,79,70,0.857,0.814,3:18
+3,2:56,HOU,Fred VanVleet,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,81,70,0.8,0.843,3:09
+3,2:22,LAC,Bones Hyland,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,81,74,0.811,0.755,2:31
+3,2:02,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,82,74,0.699,0.757,2:22
+3,1:05,HOU,Alperen Sengun,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,84,78,0.621,0.689,1:14
+4,11:51,LAC,James Harden,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,86,80,0.769,0.728,12:00
+4,10:53,LAC,Bones Hyland,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,90,82,0.857,0.847,11:04
+4,10:47,LAC,Mason Plumlee,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,90,82,0.862,0.857,10:53
+4,10:22,HOU,Dillon Brooks,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,92,82,0.835,0.887,10:35
+4,7:10,HOU,Amen Thompson,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,99,94,0.731,0.745,7:11
+4,5:13,HOU,Cam Whitmore,Loose Ball Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,106,101,0.758,0.778,5:13
+4,4:07,LAC,Mason Plumlee,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,108,106,0.775,0.667,4:13
+4,3:22,LAC,Mason Plumlee,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,108,108,0.662,0.541,3:44
+4,3:21,HOU,Amen Thompson,Personal Take Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,109,108,0.401,0.539,3:22
+4,3:20,HOU,Amen Thompson,Personal Take Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,109,108,0.401,0.401,3:21
+4,2:06,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,109,113,0.103,0.201,2:06
+4,1:41,HOU,Jalen Green,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,112,114,0.16,0.266,1:54
+4,1:17,LAC,Kawhi Leonard,Loose Ball Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,112,115,0.406,0.261,1:17
+4,48.0,HOU,Alperen Sengun,Shooting Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,112,115,0.081,0.161,55.1
+4,48.0,HOU,Fred VanVleet,Technical Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,112,115,0.115,0.081,48.0
+4,36.1,HOU,Alperen Sengun,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,112,118,0.008,0.03,43.0
+4,23.2,HOU,Alperen Sengun,Personal Foul,Foul,Tom Washington,Sean Corbin,Nick Buchert,HOU,114,120,0.004,0.021,28.2

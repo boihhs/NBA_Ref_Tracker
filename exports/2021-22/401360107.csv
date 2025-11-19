@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:28,CHI,Lonzo Ball,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,7,5,0.367,0.332,9:35
+1,8:29,CHI,DeMar DeRozan,Personal Take Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,7,5,0.337,0.337,8:30
+1,4:06,ORL,Franz Wagner,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,18,16,0.301,0.335,4:08
+1,2:53,CHI,Javonte Green,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,20,21,0.331,0.294,3:06
+2,11:43,ORL,Chuma Okeke,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,27,27,0.273,0.318,12:00
+2,10:40,ORL,Chuma Okeke,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,27,31,0.231,0.242,10:40
+2,9:46,ORL,Jalen Suggs,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,27,33,0.193,0.184,9:50
+2,9:30,ORL,R.J. Hampton,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,27,35,0.158,0.149,9:33
+2,6:55,CHI,Lonzo Ball,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,31,45,0.1,0.083,7:08
+2,5:27,ORL,Mo Bamba,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,36,47,0.095,0.118,5:27
+2,5:19,CHI,Javonte Green,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,36,47,0.119,0.118,5:25
+2,3:05,CHI,Derrick Jones Jr.,Loose Ball Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,38,52,0.077,0.067,3:17
+2,2:02,CHI,Nikola Vucevic,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,40,52,0.124,0.102,2:12
+2,1:14,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,42,54,0.077,0.085,1:14
+2,47.1,ORL,Moritz Wagner,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,44,54,0.091,0.114,1:06
+3,10:25,ORL,Jalen Suggs,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,50,62,0.072,0.094,10:25
+3,8:58,CHI,Nikola Vucevic,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,52,65,0.1,0.077,9:09
+3,6:14,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,59,73,0.077,0.059,6:30
+3,4:29,CHI,Derrick Jones Jr.,Loose Ball Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,63,76,0.058,0.065,4:29
+3,4:02,CHI,Derrick Jones Jr.,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,63,78,0.056,0.041,4:10
+3,3:52,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,63,78,0.056,0.056,4:02
+3,3:27,CHI,Derrick Jones Jr.,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,63,81,0.016,0.019,3:37
+3,2:25,ORL,Gary Harris,Loose Ball Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,65,83,0.012,0.012,2:25
+3,1:08,CHI,Nikola Vucevic,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,65,87,0.006,0.004,1:12
+3,57.4,ORL,Moritz Wagner,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,66,87,0.002,0.004,1:08
+3,42.9,CHI,Coby White,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,66,90,0.003,0.001,49.7
+4,11:28,ORL,ORL,Technical Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,69,90,0.001,0.004,11:28
+4,10:29,ORL,R.J. Hampton,Personal Take Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,71,93,0.001,0.001,10:31
+4,9:15,CHI,Alex Caruso,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,71,96,0.001,0.001,9:26
+4,9:15,CHI,Alex Caruso,Technical Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,71,96,0.001,0.001,9:15
+4,7:00,CHI,DeMar DeRozan,Personal Take Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,72,102,0.001,0.001,7:00
+4,6:30,ORL,Chuma Okeke,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,72,102,0.001,0.001,6:42
+4,5:43,ORL,Moritz Wagner,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,72,104,0.001,0.001,5:54
+4,5:17,CHI,Ayo Dosunmu,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,72,106,0.001,0.001,5:30
+4,4:35,CHI,Alize Johnson,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,72,109,0.001,0.001,4:51
+4,4:34,CHI,Troy Brown Jr.,Loose Ball Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,73,109,0.001,0.001,4:34
+4,3:56,CHI,Devon Dotson,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,75,112,0.001,0.001,4:19
+4,3:33,CHI,Alize Johnson,Shooting Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,79,114,0.001,0.001,3:33
+4,3:26,ORL,Moritz Wagner,Personal Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,80,114,0.001,0.001,3:33
+4,2:41,CHI,Troy Brown Jr.,Offensive Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,82,116,0.001,0.001,2:51
+4,1:51,CHI,Devon Dotson,Offensive Foul,Foul,Eric Lewis,Kevin Cutler,Jenna Reneau,ORL,82,118,0.001,0.001,1:55

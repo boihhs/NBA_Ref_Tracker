@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:56,PHX,Devin Booker,Loose Ball Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,0,2,0.474,0.474,10:56
+1,9:48,PHX,Mikal Bridges,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,0,7,0.337,0.349,9:58
+1,8:02,PHX,JaVale McGee,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,7,12,0.434,0.396,8:15
+1,5:05,SAC,Davion Mitchell,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,13,20,0.279,0.313,5:09
+1,4:43,PHX,Frank Kaminsky,Offensive Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,13,22,0.289,0.266,4:47
+1,36.9,PHX,Frank Kaminsky,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,28,32,0.452,0.411,54.3
+2,10:09,PHX,JaVale McGee,Defensive 3-Seconds Technical,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,34,39,0.368,0.379,10:24
+2,8:45,SAC,Davion Mitchell,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,40,41,0.462,0.462,8:56
+2,7:50,SAC,Richaun Holmes,Offensive Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,42,41,0.523,0.556,7:51
+2,7:41,SAC,Davion Mitchell,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,42,41,0.526,0.523,7:50
+2,6:52,PHX,Cameron Johnson,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,44,44,0.571,0.527,6:56
+2,4:08,PHX,Frank Kaminsky,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,55,52,0.605,0.588,4:08
+2,1:16,PHX,Jae Crowder,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,61,62,0.54,0.49,1:38
+2,33.6,SAC,Terence Davis,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,63,65,0.367,0.421,41.0
+2,28.2,PHX,Jae Crowder,Flagrant Foul Type 1,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,63,67,0.436,0.39,33.6
+3,10:51,SAC,Buddy Hield,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,64,67,0.329,0.38,10:54
+3,9:49,SAC,Harrison Barnes,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,64,73,0.189,0.218,9:49
+3,8:36,PHX,Chris Paul,Technical Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,64,76,0.153,0.136,8:37
+3,8:30,PHX,Mikal Bridges,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,64,76,0.135,0.136,8:36
+3,7:57,SAC,Davion Mitchell,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,64,78,0.081,0.08,8:04
+3,7:31,PHX,Chris Paul,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,64,81,0.053,0.054,7:48
+3,6:21,PHX,Jae Crowder,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,68,83,0.083,0.058,6:21
+3,5:42,SAC,De'Aaron Fox,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,72,85,0.062,0.082,5:51
+3,3:57,SAC,Richaun Holmes,Offensive Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,72,89,0.029,0.038,4:11
+4,10:58,PHX,Frank Kaminsky,Loose Ball Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,76,98,0.003,0.003,10:58
+4,9:34,SAC,Terence Davis,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,78,98,0.002,0.003,9:43
+4,9:10,PHX,Cameron Payne,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,78,98,0.007,0.003,9:23
+4,8:43,SAC,Damian Jones,Offensive Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,80,98,0.004,0.007,8:47
+4,6:41,SAC,De'Aaron Fox,Personal Take Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,84,103,0.001,0.001,6:41
+4,6:13,PHX,Cameron Johnson,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,84,103,0.004,0.001,6:22
+4,4:51,PHX,Frank Kaminsky,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,90,105,0.004,0.006,5:00
+4,4:46,PHX,Devin Booker,Offensive Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,92,105,0.015,0.009,4:51
+4,4:35,PHX,Devin Booker,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,92,105,0.027,0.015,4:46
+4,3:57,SAC,Harrison Barnes,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,96,105,0.034,0.039,4:00
+4,3:11,PHX,JaVale McGee,Offensive Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,96,105,0.044,0.03,3:23
+4,2:36,PHX,JaVale McGee,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,98,105,0.15,0.086,2:38
+4,35.3,PHX,Devin Booker,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,102,107,0.221,0.12,45.7
+4,24.2,SAC,Damian Jones,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,102,107,0.012,0.056,30.6
+4,8.1,SAC,Chimezie Metu,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,104,107,0.021,0.075,9.7
+4,1:12,SAC,Harrison Barnes,Offensive Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,102,107,0.075,0.121,8.1
+4,4.6,SAC,De'Aaron Fox,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Evan Scott,SAC,104,107,0.035,0.045,5.8

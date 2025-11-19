@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:55,UTAH,Kris Dunn,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,0,0,0.91,0.896,12:00
+1,11:34,OKC,Josh Giddey,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,2,0,0.891,0.906,11:55
+1,8:16,UTAH,Taylor Hendricks,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,11,6,0.936,0.927,8:26
+1,8:04,OKC,Luguentz Dort,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,13,6,0.932,0.933,8:16
+1,6:46,UTAH,John Collins,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,15,8,0.945,0.937,6:53
+1,3:53,OKC,Isaiah Joe,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,22,13,0.932,0.944,3:53
+1,48.2,UTAH,Micah Potter,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,27,23,0.91,0.896,59.1
+1,14.0,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,31,25,0.888,0.904,31.1
+2,11:49,UTAH,Micah Potter,Offensive Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,31,25,0.912,0.907,12:00
+2,11:22,OKC,Cason Wallace,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,31,27,0.868,0.891,11:22
+2,5:11,UTAH,Kris Dunn,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,43,41,0.859,0.834,5:24
+2,4:58,OKC,Josh Giddey,Defensive 3-Seconds Technical,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,44,41,0.837,0.832,5:08
+2,4:03,OKC,Luguentz Dort,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,48,44,0.845,0.845,4:09
+2,1:52,OKC,Luguentz Dort,Loose Ball Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,48,49,0.676,0.717,1:52
+3,11:06,UTAH,John Collins,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,55,56,0.719,0.719,11:12
+3,9:58,OKC,Chet Holmgren,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,57,59,0.591,0.644,9:59
+3,9:31,UTAH,Brice Sensabaugh,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,57,61,0.658,0.607,9:45
+3,8:37,UTAH,Taylor Hendricks,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,62,61,0.777,0.728,8:37
+3,8:02,UTAH,John Collins,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,65,61,0.86,0.829,8:02
+3,7:30,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,68,61,0.837,0.87,7:46
+3,6:30,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,70,63,0.852,0.867,6:30
+3,6:00,UTAH,Keyonte George,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,70,67,0.833,0.798,6:12
+3,3:09,UTAH,Kris Dunn,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,76,71,0.86,0.812,3:09
+3,2:18,UTAH,Johnny Juzang,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,77,76,0.765,0.716,2:34
+3,2:03,UTAH,Walker Kessler,Offensive Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,79,76,0.781,0.749,2:18
+3,58.1,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,79,76,0.825,0.778,1:07
+3,32.2,OKC,Luguentz Dort,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,82,78,0.718,0.775,36.1
+3,19.1,OKC,Jalen Williams,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,82,80,0.665,0.74,19.1
+4,11:17,UTAH,Johnny Juzang,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,84,80,0.863,0.811,11:22
+4,9:10,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,93,86,0.924,0.877,9:10
+4,8:16,UTAH,Walker Kessler,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,99,86,0.989,0.979,8:16
+4,7:37,OKC,Aaron Wiggins,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,100,88,0.953,0.973,7:42
+4,6:58,UTAH,Taylor Hendricks,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,100,90,0.98,0.966,7:04
+4,6:49,UTAH,John Collins,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,100,90,0.981,0.98,6:58
+4,5:26,UTAH,Walker Kessler,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,106,90,0.998,0.997,5:36
+4,3:01,UTAH,Luka Samanic,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,114,97,0.999,0.999,3:01
+4,1:56,OKC,Cason Wallace,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,117,101,0.999,0.999,2:01
+4,1:15,OKC,Ousmane Dieng,Personal Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,117,101,0.999,0.999,1:23
+4,34.0,OKC,Lindy Waters III,Shooting Foul,Foul,CJ Washington,Karl Lane,Natalie Sago,OKC,119,105,0.999,0.999,39.1

@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:26,PHI,Tobias Harris,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,6,6,0.563,0.604,9:42
+1,8:06,MIA,Bam Adebayo,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,8,9,0.634,0.599,8:14
+1,4:48,PHI,Danny Green,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,17,15,0.641,0.641,4:55
+1,4:38,PHI,Tobias Harris,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,17,15,0.602,0.641,4:48
+1,4:09,PHI,James Harden,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,17,17,0.547,0.614,4:11
+1,2:53,PHI,Georges Niang,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,20,20,0.543,0.585,3:05
+1,2:07,PHI,Joel Embiid,Loose Ball Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,23,22,0.568,0.611,2:07
+1,1:17,MIA,Gabe Vincent,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,26,26,0.649,0.609,1:33
+1,43.8,MIA,Gabe Vincent,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,28,26,0.695,0.66,49.6
+1,8.4,MIA,Gabe Vincent,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,28,28,0.647,0.605,29.1
+2,11:47,PHI,Shake Milton,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,30,28,0.631,0.643,12:00
+2,10:31,PHI,Paul Reed,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,34,32,0.588,0.63,10:41
+2,10:06,MIA,Max Strus,Loose Ball Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,34,33,0.626,0.631,10:06
+2,9:43,PHI,Danny Green,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,36,33,0.615,0.655,9:51
+2,6:46,PHI,Matisse Thybulle,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,41,44,0.421,0.471,6:49
+2,5:56,MIA,P.J. Tucker,Offensive Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,44,44,0.592,0.504,6:46
+2,5:22,MIA,Max Strus,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,47,44,0.701,0.651,5:22
+2,4:59,MIA,P.J. Tucker,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,47,46,0.666,0.621,5:08
+2,2:41,MIA,Bam Adebayo,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,56,49,0.818,0.787,2:51
+2,2:15,PHI,Danny Green,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,57,53,0.656,0.708,2:15
+2,59.6,MIA,Jimmy Butler III,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,57,54,0.723,0.68,1:07
+3,11:35,MIA,Max Strus,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,64,56,0.848,0.816,11:42
+3,10:38,PHI,Danny Green,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,69,58,0.862,0.86,10:51
+3,9:58,PHI,Tyrese Maxey,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,69,58,0.832,0.864,10:04
+3,9:38,MIA,Bam Adebayo,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,69,60,0.844,0.844,9:58
+3,8:55,PHI,Tobias Harris,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,71,60,0.835,0.867,9:06
+3,8:24,MIA,Bam Adebayo,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,71,64,0.836,0.825,8:24
+3,7:53,PHI,Joel Embiid,Flagrant Foul Type 1,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,74,66,0.808,0.826,7:53
+3,7:09,PHI,Tobias Harris,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,77,70,0.729,0.776,7:19
+3,6:49,MIA,P.J. Tucker,Loose Ball Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,77,72,0.792,0.748,6:49
+3,6:05,MIA,Victor Oladipo,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,77,74,0.731,0.68,6:29
+3,5:27,MIA,Max Strus,Loose Ball Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,78,74,0.767,0.714,5:27
+3,4:05,MIA,Kyle Lowry,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,81,76,0.804,0.756,4:07
+3,3:28,MIA,P.J. Tucker,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,83,78,0.807,0.758,3:44
+3,2:35,MIA,Markieff Morris,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,84,80,0.781,0.725,2:54
+3,1:37,PHI,Joel Embiid,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,87,82,0.698,0.768,1:37
+3,1:16,PHI,Tyrese Maxey,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,87,83,0.624,0.69,1:19
+3,41.2,MIA,Markieff Morris,Offensive Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,87,85,0.65,0.603,43.9
+4,11:31,PHI,Georges Niang,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,89,85,0.685,0.695,11:36
+4,11:18,PHI,Paul Reed,Loose Ball Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,89,85,0.678,0.692,11:18
+4,10:32,MIA,Kyle Lowry,Personal Take Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,92,85,0.858,0.849,10:35
+4,9:42,MIA,Tyler Herro,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,92,85,0.888,0.859,9:58
+4,8:34,MIA,Max Strus,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,97,87,0.946,0.939,8:58
+4,8:22,MIA,P.J. Tucker,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,97,87,0.966,0.946,8:34
+4,7:45,MIA,Victor Oladipo,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,99,87,0.984,0.973,8:02
+4,6:17,PHI,Tobias Harris,Offensive Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,101,92,0.93,0.948,6:19
+4,4:42,PHI,Joel Embiid,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,104,98,0.812,0.902,4:42
+4,2:50,PHI,Tyrese Maxey,Shooting Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,109,101,0.899,0.95,3:00
+4,42.8,MIA,Max Strus,Personal Foul,Foul,Eric Lewis,Brian Forte,Scott Foster,PHI,114,106,0.998,0.989,1:03

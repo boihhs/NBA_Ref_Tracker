@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:27,ATL,John Collins,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,0,0,0.645,0.682,11:41
+1,9:42,HOU,Eric Gordon,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,5,3,0.765,0.738,9:50
+1,7:44,ATL,John Collins,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,13,13,0.664,0.688,7:44
+1,7:37,HOU,Christian Wood,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,13,14,0.663,0.665,7:44
+1,6:14,HOU,Jae'Sean Tate,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,16,19,0.645,0.609,6:25
+1,5:50,ATL,Clint Capela,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,18,19,0.631,0.632,6:01
+1,4:07,HOU,Eric Gordon,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,23,21,0.719,0.72,4:07
+1,3:58,HOU,Josh Christopher,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,26,21,0.796,0.761,3:58
+1,2:33,HOU,Eric Gordon,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,32,23,0.871,0.85,2:47
+1,2:33,HOU,HOU,Technical Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,32,23,0.862,0.85,2:33
+1,2:17,ATL,Gorgui Dieng,Loose Ball Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,35,23,0.856,0.877,2:17
+1,2:12,ATL,Danilo Gallinari,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,35,23,0.856,0.856,2:17
+1,10.7,ATL,Gorgui Dieng,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,38,26,0.856,0.877,31.1
+2,10:26,HOU,KJ Martin,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,44,33,0.877,0.879,10:38
+2,10:15,HOU,KJ Martin,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,44,33,0.877,0.877,10:26
+2,9:55,ATL,Danilo Gallinari,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,44,33,0.852,0.865,9:55
+2,7:07,HOU,Alperen Sengun,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,52,39,0.906,0.909,7:18
+2,6:48,ATL,Cam Reddish,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,52,39,0.895,0.895,6:55
+2,6:31,HOU,Alperen Sengun,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,52,39,0.925,0.909,6:34
+2,6:08,ATL,Kevin Huerter,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,54,39,0.92,0.92,6:08
+2,5:35,ATL,Kevin Huerter,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,56,39,0.926,0.941,5:43
+2,5:05,HOU,Christian Wood,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,56,41,0.946,0.932,5:20
+2,4:22,HOU,Garrison Mathews,Personal Take Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,58,41,0.96,0.951,4:22
+2,3:40,ATL,John Collins,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,62,44,0.939,0.951,3:51
+2,3:22,ATL,Trae Young,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,62,48,0.913,0.926,3:22
+2,3:11,HOU,Christian Wood,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,62,49,0.931,0.913,3:22
+2,2:44,ATL,Clint Capela,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,65,49,0.92,0.936,2:52
+2,3.8,HOU,Garrison Mathews,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,67,58,0.884,0.858,9.4
+3,11:27,HOU,Jae'Sean Tate,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,69,60,0.858,0.86,11:38
+3,10:59,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,71,60,0.878,0.877,11:08
+3,10:05,ATL,Clint Capela,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,74,60,0.904,0.924,10:14
+3,9:51,ATL,John Collins,Flagrant Foul Type 1,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,74,61,0.912,0.926,10:03
+3,8:58,HOU,Jae'Sean Tate,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,74,66,0.842,0.842,9:10
+3,8:06,ATL,Trae Young,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,79,66,0.893,0.917,8:09
+3,6:07,ATL,Danilo Gallinari,Personal Take Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,81,71,0.873,0.873,6:08
+3,3:21,HOU,Armoni Brooks,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,90,78,0.953,0.934,3:40
+3,2:37,HOU,Armoni Brooks,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,92,78,0.972,0.961,2:38
+3,1:44,ATL,Danilo Gallinari,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,97,82,0.967,0.971,1:44
+3,1:44,ATL,Danilo Gallinari,Loose Ball Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,97,82,0.948,0.964,1:44
+3,32.3,HOU,Alperen Sengun,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,99,85,0.979,0.969,43.6
+3,3.2,ATL,Gorgui Dieng,Offensive Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,101,88,0.952,0.96,21.9
+4,11:43,ATL,Gorgui Dieng,Personal Take Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,101,88,0.952,0.952,11:43
+4,10:42,HOU,D.J. Augustin,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,101,93,0.925,0.888,10:51
+4,8:31,HOU,David Nwaba,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,107,101,0.9,0.845,8:47
+4,6:18,ATL,Kevin Huerter,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,114,106,0.896,0.903,6:25
+4,2:58,HOU,David Nwaba,Personal Take Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,119,121,0.412,0.389,2:59
+4,2:44,HOU,Alperen Sengun,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,119,121,0.542,0.303,2:46
+4,1:15,ATL,Kevin Huerter,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,121,126,0.037,0.094,1:21
+4,48.9,HOU,Alperen Sengun,Shooting Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,121,126,0.063,0.117,52.8
+4,21.8,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,124,126,0.091,0.201,23.9
+4,12.5,ATL,Danilo Gallinari,Personal Take Foul,Foul,Derrick Collins,Rodney Mott,Evan Scott,ATL,126,128,0.066,0.186,18.3

@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:47,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,22,14,0.784,0.75,5:47
+1,3:55,DEN,Bruce Brown,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,25,16,0.805,0.769,3:55
+1,3:42,NY,Julius Randle,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,26,16,0.759,0.791,3:55
+1,3:05,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,26,20,0.762,0.729,3:21
+1,2:17,DEN,Jeff Green,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,30,23,0.784,0.753,2:26
+1,1:31,NY,Josh Hart,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,32,23,0.739,0.776,1:46
+1,1:13,DEN,Christian Braun,Personal Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,32,24,0.805,0.774,1:31
+2,8:13,NY,Isaiah Hartenstein,Loose Ball Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,45,32,0.857,0.858,8:13
+2,8:03,NY,Obi Toppin,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,45,32,0.833,0.857,8:13
+2,7:51,NY,Obi Toppin,Offensive Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,45,34,0.824,0.843,8:03
+2,6:23,NY,Mitchell Robinson,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,47,39,0.744,0.76,6:24
+2,6:10,DEN,Nikola Jokic,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,47,41,0.775,0.738,6:23
+2,5:19,NY,Mitchell Robinson,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,51,45,0.691,0.738,5:19
+2,3:42,DEN,Aaron Gordon,Personal Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,53,52,0.595,0.595,4:01
+2,2:24,NY,Josh Hart,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,57,56,0.535,0.594,2:24
+2,1:26,NY,Julius Randle,Personal Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,57,59,0.405,0.459,1:29
+2,56.2,DEN,Nikola Jokic,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,57,61,0.471,0.421,1:04
+2,2.1,DEN,Aaron Gordon,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,61,67,0.373,0.313,2.1
+3,11:24,DEN,Michael Porter Jr.,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,62,67,0.431,0.377,11:43
+3,9:46,NY,RJ Barrett,Loose Ball Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,67,71,0.37,0.369,9:46
+3,8:54,DEN,Jamal Murray,Personal Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,67,77,0.203,0.205,9:05
+3,8:37,NY,Jalen Brunson,Personal Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,67,77,0.176,0.174,8:45
+3,6:49,NY,NY,Technical Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,71,81,0.143,0.161,6:57
+3,6:16,DEN,Jamal Murray,Loose Ball Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,73,84,0.157,0.156,6:16
+3,5:41,DEN,Aaron Gordon,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,73,84,0.192,0.153,5:48
+3,4:04,DEN,Bruce Brown,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,80,86,0.356,0.296,4:05
+3,2:19,DEN,Christian Braun,Offensive Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,88,88,0.546,0.5,2:20
+3,1:50,NY,Josh Hart,Personal Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,90,88,0.523,0.592,1:51
+3,1:19,DEN,Jeff Green,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,90,91,0.57,0.499,1:40
+4,11:53,DEN,Thomas Bryant,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,91,91,0.632,0.519,12:00
+4,9:09,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,98,94,0.797,0.755,9:14
+4,8:12,NY,Josh Hart,Personal Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,102,97,0.754,0.763,8:28
+4,7:23,NY,Isaiah Hartenstein,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,104,99,0.678,0.767,7:40
+4,6:31,NY,Jalen Brunson,Personal Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,104,100,0.703,0.724,6:33
+4,5:25,DEN,Bruce Brown,Personal Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,104,102,0.691,0.668,5:47
+4,4:17,DEN,Jamal Murray,Loose Ball Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,106,105,0.733,0.62,4:17
+4,43.1,DEN,Jamal Murray,Shooting Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,112,110,0.892,0.782,1:03
+4,23.1,NY,RJ Barrett,Personal Foul,Foul,Marat Kogut,Michael Smith,David Guthrie,NY,116,110,0.893,0.963,24.2

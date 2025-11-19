@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:37,MIA,Tyler Herro,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,3,3,0.74,0.724,10:41
+1,10:30,PHI,Tobias Harris,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,4,3,0.726,0.724,10:32
+1,9:58,PHI,P.J. Tucker,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,6,3,0.762,0.763,10:10
+1,6:48,MIA,Bam Adebayo,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,11,13,0.699,0.666,6:54
+1,4:50,MIA,Jimmy Butler III,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,15,17,0.69,0.657,5:00
+1,4:40,PHI,Georges Niang,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,17,17,0.68,0.68,4:50
+1,4:36,PHI,Tyrese Maxey,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,17,17,0.642,0.68,4:40
+1,2:14,MIA,Kevin Love,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,17,24,0.549,0.507,2:33
+1,1:11,PHI,Shake Milton,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,20,24,0.513,0.556,1:19
+1,44.0,PHI,Georges Niang,Loose Ball Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,20,26,0.447,0.495,44.0
+2,11:20,MIA,Max Strus,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,22,31,0.468,0.424,11:40
+2,10:37,MIA,Max Strus,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,24,31,0.522,0.479,10:51
+2,10:24,PHI,Jalen McDaniels,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,26,31,0.505,0.506,10:37
+2,10:19,PHI,Jalen McDaniels,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,26,31,0.506,0.505,10:24
+2,9:15,PHI,Tyrese Maxey,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,29,34,0.499,0.497,9:20
+2,7:49,MIA,Bam Adebayo,Offensive Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,31,37,0.489,0.46,8:09
+2,7:01,PHI,Joel Embiid,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,33,37,0.465,0.514,7:16
+2,3:57,MIA,Kevin Love,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,38,43,0.539,0.494,4:16
+2,3:31,PHI,P.J. Tucker,Offensive Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,40,46,0.42,0.456,3:42
+2,3:24,PHI,Joel Embiid,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,40,46,0.369,0.42,3:31
+2,2:58,MIA,Gabe Vincent,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,40,50,0.363,0.317,3:10
+2,2:16,MIA,Bam Adebayo,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,43,50,0.461,0.408,2:19
+2,49.1,MIA,Cody Zeller,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,48,54,0.486,0.434,59.2
+3,10:26,PHI,Joel Embiid,Offensive Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,52,60,0.299,0.337,10:37
+3,9:24,MIA,Gabe Vincent,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,52,60,0.325,0.327,9:39
+3,6:49,PHI,Joel Embiid,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,61,66,0.314,0.374,7:12
+3,6:35,MIA,Kevin Love,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,63,68,0.439,0.368,6:35
+3,49.0,PHI,Tyrese Maxey,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,77,82,0.239,0.302,59.1
+4,11:42,PHI,Jalen McDaniels,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,80,84,0.316,0.328,11:42
+4,11:26,MIA,Victor Oladipo,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,80,84,0.465,0.375,11:29
+4,11:14,PHI,Shake Milton,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,81,84,0.358,0.374,11:24
+4,10:49,MIA,Victor Oladipo,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,81,87,0.356,0.275,11:09
+4,10:27,MIA,Cody Zeller,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,83,87,0.386,0.366,10:27
+4,8:55,PHI,Jalen McDaniels,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,83,90,0.133,0.17,9:02
+4,8:33,MIA,Cody Zeller,Loose Ball Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,83,92,0.181,0.123,8:33
+4,7:10,PHI,Tyrese Maxey,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,83,92,0.052,0.114,7:32
+4,6:12,MIA,Max Strus,Personal Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,85,94,0.139,0.092,6:12
+4,5:59,PHI,Tobias Harris,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,87,94,0.075,0.12,6:12
+4,5:22,MIA,Victor Oladipo,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,92,95,0.406,0.289,5:22
+4,3:21,PHI,Tyrese Maxey,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,95,97,0.219,0.321,3:32
+4,1:41,MIA,Gabe Vincent,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,97,98,0.604,0.464,1:52
+4,8.1,PHI,James Harden,Shooting Foul,Foul,Sean Wright,Leon Wood,Scott Twardoski,PHI,99,100,0.106,0.319,26.1

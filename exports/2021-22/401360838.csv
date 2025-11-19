@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:30,PHX,Devin Booker,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,16,10,0.815,0.844,6:30
+1,6:11,LAL,Stanley Johnson,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,19,11,0.878,0.856,6:11
+1,4:59,PHX,Jae Crowder,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,27,11,0.938,0.937,5:06
+1,4:30,PHX,Cameron Payne,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,27,11,0.937,0.937,4:30
+1,2:58,PHX,JaVale McGee,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,35,14,0.963,0.967,3:10
+1,1:06,PHX,Aaron Holiday,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,41,20,0.964,0.973,1:06
+1,41.0,PHX,JaVale McGee,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,43,21,0.965,0.972,48.3
+2,11:32,LAL,Carmelo Anthony,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,48,22,0.99,0.987,11:44
+2,11:17,PHX,Torrey Craig,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,50,22,0.987,0.99,11:32
+2,10:30,PHX,JaVale McGee,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,52,27,0.979,0.984,10:40
+2,9:58,PHX,Bismack Biyombo,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,52,30,0.971,0.978,9:58
+2,9:47,PHX,Torrey Craig,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,52,31,0.962,0.97,9:52
+2,9:40,LAL,Talen Horton-Tucker,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,52,33,0.965,0.965,9:47
+2,9:22,PHX,Bismack Biyombo,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,52,33,0.951,0.96,9:25
+2,8:00,PHX,Devin Booker,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,56,37,0.951,0.961,8:10
+2,3:28,PHX,Aaron Holiday,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,71,43,0.992,0.994,3:35
+2,2:15,PHX,Deandre Ayton,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,73,47,0.988,0.991,2:33
+2,28.5,PHX,Devin Booker,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,77,54,0.981,0.985,33.5
+3,11:04,PHX,Jae Crowder,Loose Ball Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,81,58,0.987,0.988,11:04
+3,10:45,LAL,Dwight Howard,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,83,61,0.989,0.985,10:45
+3,5:11,LAL,Malik Monk,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,100,75,0.997,0.996,5:11
+3,4:42,LAL,Dwight Howard,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,103,75,0.999,0.998,4:42
+3,40.8,LAL,Avery Bradley,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,116,88,0.999,0.999,40.8
+3,21.2,LAL,Carmelo Anthony,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,117,90,0.999,0.999,33.2
+3,6.1,PHX,Torrey Craig,Personal Take Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,119,90,0.999,0.999,21.2
+4,9:51,PHX,Ish Wainright,Loose Ball Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,125,93,0.999,0.999,9:51
+4,9:28,LAL,Avery Bradley,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,125,93,0.999,0.999,9:36
+4,8:58,LAL,Russell Westbrook,Personal Take Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,127,93,0.999,0.999,9:01
+4,8:44,PHX,JaVale McGee,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,127,93,0.999,0.999,8:49
+4,8:44,LAL,Stanley Johnson,Technical Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,127,93,0.999,0.999,8:44
+4,8:09,LAL,Stanley Johnson,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,128,95,0.999,0.999,8:09
+4,7:32,PHX,Bismack Biyombo,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,130,97,0.999,0.999,7:32
+4,5:59,PHX,Bismack Biyombo,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,132,98,0.999,0.999,6:12
+4,5:41,PHX,Ish Wainright,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,132,98,0.999,0.999,5:41
+4,3:41,PHX,Torrey Craig,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,132,105,0.999,0.999,3:57
+4,3:30,LAL,Kent Bazemore,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,132,106,0.999,0.999,3:41
+4,3:25,LAL,Wenyen Gabriel,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,132,106,0.999,0.999,3:30
+4,2:06,LAL,Wayne Ellington,Personal Foul,Foul,Derek Richardson,Eric Dalen,Tony Brothers,PHX,133,108,0.999,0.999,2:23

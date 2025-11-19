@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:00,NO,Herbert Jones,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,4,0,0.681,0.679,11:05
+1,10:52,NO,Devonte' Graham,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,4,0,0.663,0.679,10:52
+1,10:31,IND,Torrey Craig,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,4,3,0.634,0.634,10:41
+1,10:22,IND,Goga Bitadze,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,6,3,0.669,0.658,10:22
+1,9:11,NO,Josh Hart,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,13,5,0.734,0.761,9:28
+1,8:26,IND,Goga Bitadze,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,13,10,0.71,0.679,8:38
+1,6:17,IND,Isaiah Jackson,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,19,17,0.687,0.651,6:33
+1,5:57,IND,Chris Duarte,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,19,17,0.687,0.65,5:58
+1,5:13,NO,Jaxson Hayes,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,23,19,0.657,0.674,5:13
+1,3:50,NO,Jaxson Hayes,Offensive Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,23,25,0.518,0.546,4:08
+1,3:33,NO,Jose Alvarado,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,23,25,0.475,0.518,3:50
+1,40.3,IND,Lance Stephenson,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,29,32,0.549,0.506,51.6
+2,11:12,IND,Isaiah Jackson,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,31,35,0.471,0.471,11:37
+2,8:06,NO,Jonas Valanciunas,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,41,38,0.598,0.64,8:13
+2,6:21,IND,Lance Stephenson,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,41,46,0.422,0.423,6:31
+2,4:46,IND,Jeremy Lamb,Personal Take Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,45,51,0.385,0.385,4:47
+2,3:52,NO,Jonas Valanciunas,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,47,51,0.364,0.41,3:58
+2,3:42,IND,Goga Bitadze,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,49,53,0.468,0.409,3:42
+2,2:49,NO,Jonas Valanciunas,Offensive Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,50,55,0.373,0.407,3:03
+2,1:53,NO,Herbert Jones,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,53,55,0.416,0.47,1:59
+2,1:40,IND,Isaiah Jackson,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,53,57,0.485,0.439,1:53
+2,1:06,NO,Herbert Jones,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,57,57,0.486,0.535,1:12
+2,59.7,IND,Torrey Craig,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,57,58,0.587,0.539,1:06
+2,44.1,IND,Oshae Brissett,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,59,60,0.586,0.538,51.7
+3,7:38,IND,Chris Duarte,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,66,72,0.33,0.329,7:47
+3,7:34,IND,Oshae Brissett,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,66,72,0.33,0.33,7:38
+3,6:54,NO,Josh Hart,Personal Take Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,66,72,0.288,0.285,6:54
+3,6:22,NO,Herbert Jones,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,68,72,0.302,0.358,6:29
+3,4:59,IND,Goga Bitadze,Offensive Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,72,72,0.557,0.515,5:17
+3,4:42,IND,Torrey Craig,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,72,72,0.557,0.558,4:59
+3,4:09,NO,Jose Alvarado,Loose Ball Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,74,72,0.618,0.598,4:09
+3,3:39,NO,Jaxson Hayes,Offensive Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,74,75,0.466,0.512,3:48
+3,3:09,IND,Isaiah Jackson,Offensive Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,76,77,0.511,0.463,3:17
+3,2:31,IND,Isaiah Jackson,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,76,79,0.486,0.418,2:44
+3,1:45,IND,Duane Washington Jr.,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,82,79,0.716,0.643,1:45
+3,36.8,NO,Nickeil Alexander-Walker,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,83,79,0.62,0.687,38.3
+4,10:21,NO,Jaxson Hayes,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,86,82,0.687,0.696,10:38
+4,8:45,NO,Garrett Temple,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,90,87,0.55,0.648,8:57
+4,6:44,IND,Lance Stephenson,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,92,95,0.35,0.352,7:05
+4,4:33,IND,Torrey Craig,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,99,95,0.878,0.8,4:49
+4,3:56,NO,Jonas Valanciunas,Offensive Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,101,98,0.695,0.757,4:17
+4,3:48,NO,Josh Hart,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,101,98,0.558,0.695,3:56
+4,2:53,IND,Caris LeVert,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,104,102,0.779,0.708,2:53
+4,2:17,IND,Goga Bitadze,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,106,102,0.927,0.854,2:30
+4,27.8,IND,Caris LeVert,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,109,105,0.972,0.927,27.8
+4,18.3,IND,Oshae Brissett,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,111,108,0.961,0.907,19.2
+4,14.2,NO,Josh Hart,Shooting Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,113,108,0.854,0.946,18.3
+4,10.3,IND,Oshae Brissett,Personal Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,113,110,0.972,0.917,11.6
+4,1.4,IND,Justin Holiday,Personal Take Foul,Foul,John Goble,Lauren Holtkamp,Tyler Ford,NO,115,113,0.991,0.968,2.0

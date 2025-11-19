@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:17,IND,Isaiah Jackson,Offensive Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,8,5,0.905,0.895,9:35
+1,9:00,CLE,Donovan Mitchell,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,8,5,0.886,0.893,9:00
+1,6:54,IND,Aaron Nesmith,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,12,14,0.845,0.821,6:54
+1,5:11,CLE,Caris LeVert,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,15,17,0.809,0.808,5:13
+1,3:09,CLE,Evan Mobley,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,21,19,0.836,0.858,3:22
+1,2:56,IND,Buddy Hield,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,21,19,0.878,0.871,3:05
+1,4.2,IND,T.J. McConnell,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,26,28,0.818,0.792,19.2
+2,11:18,IND,Oshae Brissett,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,31,30,0.86,0.84,11:23
+2,10:48,CLE,Ricky Rubio,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,32,33,0.749,0.779,10:51
+2,10:14,CLE,Ricky Rubio,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,34,37,0.715,0.756,10:14
+2,9:53,CLE,Jarrett Allen,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,34,38,0.665,0.704,9:54
+2,9:39,IND,Oshae Brissett,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,34,41,0.649,0.653,9:53
+2,9:16,IND,Buddy Hield,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,34,41,0.643,0.645,9:16
+2,9:03,CLE,Donovan Mitchell,Loose Ball Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,34,41,0.565,0.643,9:16
+2,7:51,IND,Jalen Smith,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,36,46,0.611,0.538,8:05
+2,6:24,CLE,Darius Garland,Loose Ball Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,41,48,0.525,0.574,6:24
+2,6:01,CLE,Caris LeVert,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,41,49,0.487,0.538,6:01
+2,5:36,CLE,Dean Wade,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,43,53,0.434,0.498,5:36
+2,3:38,IND,Bennedict Mathurin,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,47,56,0.552,0.5,3:44
+2,3:14,IND,Aaron Nesmith,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,49,56,0.615,0.565,3:21
+2,1:43,CLE,Donovan Mitchell,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,52,58,0.488,0.545,1:51
+3,11:42,CLE,Evan Mobley,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,59,61,0.601,0.652,11:45
+3,10:10,CLE,Dean Wade,Loose Ball Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,61,63,0.635,0.634,10:10
+3,7:26,IND,Isaiah Jackson,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,66,74,0.401,0.405,7:43
+3,6:57,IND,Aaron Nesmith,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,68,74,0.536,0.478,7:02
+3,6:15,IND,Jalen Smith,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,72,76,0.606,0.548,6:19
+3,3:26,CLE,Caris LeVert,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,80,82,0.482,0.551,3:34
+3,3:04,IND,Jalen Smith,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,80,83,0.61,0.549,3:26
+3,1:37,IND,Bennedict Mathurin,Flagrant Foul Type 1,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,80,83,0.51,0.527,1:48
+3,22.1,CLE,Evan Mobley,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,85,85,0.528,0.604,25.1
+3,16.1,IND,T.J. McConnell,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,85,87,0.624,0.554,22.1
+4,11:16,IND,Oshae Brissett,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,86,87,0.676,0.598,11:36
+4,10:39,IND,Jalen Smith,Loose Ball Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,89,89,0.657,0.641,10:39
+4,9:54,CLE,Lamar Stevens,Offensive Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,92,89,0.732,0.778,10:07
+4,9:16,IND,Isaiah Jackson,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,92,89,0.789,0.777,9:33
+4,8:39,IND,T.J. McConnell,Loose Ball Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,94,91,0.843,0.781,8:39
+4,7:52,IND,Isaiah Jackson,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,94,93,0.766,0.7,8:10
+4,7:45,CLE,Darius Garland,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,95,93,0.682,0.695,7:52
+4,7:40,IND,T.J. McConnell,Offensive Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,95,93,0.74,0.682,7:45
+4,5:12,IND,Bennedict Mathurin,Offensive Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,99,95,0.843,0.793,5:20
+4,5:03,CLE,Donovan Mitchell,Offensive Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,99,95,0.794,0.843,5:12
+4,4:54,IND,Andrew Nembhard,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,99,95,0.899,0.845,4:55
+4,4:40,IND,Bennedict Mathurin,Offensive Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,100,95,0.886,0.843,4:51
+4,3:54,CLE,Caris LeVert,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,102,95,0.86,0.922,3:59
+4,2:08,CLE,Caris LeVert,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,110,99,0.98,0.992,2:19
+4,1:03,CLE,Dean Wade,Personal Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,115,101,0.999,0.999,1:03
+4,53.2,CLE,Caris LeVert,Shooting Foul,Foul,J.T. Orr,Kevin Scott,Ben Taylor,CLE,115,101,0.999,0.999,1:03

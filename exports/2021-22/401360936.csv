@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:17,GS,Jonathan Kuminga,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,3,3,0.385,0.384,10:25
+1,6:55,GS,Andrew Wiggins,Offensive Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,11,5,0.557,0.526,7:09
+1,6:18,WSH,Tomas Satoransky,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,14,5,0.57,0.609,6:42
+1,4:51,WSH,Corey Kispert,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,20,11,0.577,0.617,4:58
+1,4:34,GS,Gary Payton II,Loose Ball Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,20,13,0.596,0.597,4:34
+1,4:03,WSH,Rui Hachimura,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,20,13,0.568,0.566,4:23
+1,2:14,WSH,Ish Smith,Loose Ball Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,22,16,0.508,0.55,2:14
+1,1:38,WSH,Daniel Gafford,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,25,16,0.594,0.634,1:49
+1,27.6,GS,Kevon Looney,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,27,22,0.578,0.53,27.6
+1,9.0,WSH,Deni Avdija,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,28,22,0.519,0.557,27.6
+2,11:47,WSH,Ish Smith,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,28,24,0.459,0.515,12:00
+2,9:08,WSH,Deni Avdija,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,35,30,0.522,0.576,9:08
+2,8:41,WSH,Daniel Gafford,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,35,31,0.473,0.516,8:45
+2,6:54,GS,Jordan Poole,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,41,33,0.7,0.679,6:54
+2,5:31,GS,Andrew Wiggins,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,48,37,0.769,0.77,5:39
+2,5:25,GS,Damion Lee,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,48,37,0.768,0.769,5:31
+2,3:33,WSH,Kristaps Porzingis,Defensive 3-Seconds Technical,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,57,39,0.907,0.902,3:39
+2,3:06,WSH,Kristaps Porzingis,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,57,40,0.863,0.889,3:15
+2,1:55,GS,Kevon Looney,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,59,43,0.917,0.899,2:04
+2,1:18,WSH,Kristaps Porzingis,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,59,43,0.855,0.883,1:24
+2,1:18,WSH,Kristaps Porzingis,Technical Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,59,43,0.87,0.855,1:18
+3,10:44,GS,Draymond Green,Flagrant Foul Type 1,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,62,51,0.811,0.818,10:59
+3,10:34,GS,Draymond Green,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,65,51,0.896,0.866,10:34
+3,8:04,GS,Otto Porter Jr.,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,72,61,0.856,0.813,8:04
+3,7:16,WSH,Kristaps Porzingis,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,76,63,0.832,0.867,7:21
+3,4:34,GS,Jordan Poole,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,80,71,0.859,0.818,4:48
+3,4:30,WSH,Kentavious Caldwell-Pope,Personal Take Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,82,71,0.847,0.845,4:34
+3,4:19,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,82,71,0.805,0.847,4:30
+3,3:44,WSH,Daniel Gafford,Defensive 3-Seconds Technical,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,82,72,0.835,0.825,3:56
+3,3:35,WSH,Ish Smith,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,82,73,0.748,0.797,3:44
+3,2:21,GS,Damion Lee,Offensive Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,84,77,0.781,0.74,2:27
+3,28.5,WSH,Deni Avdija,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,89,79,0.816,0.862,41.6
+4,11:30,GS,Gary Payton II,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,92,81,0.927,0.923,11:30
+4,11:14,WSH,Deni Avdija,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,92,83,0.817,0.884,11:14
+4,10:59,WSH,Anthony Gill,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,92,84,0.806,0.819,10:59
+3,10:44,GS,Draymond Green,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,63,51,0.873,0.885,10:21
+4,9:23,GS,Gary Payton II,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,96,84,0.956,0.952,9:34
+4,9:20,WSH,Daniel Gafford,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,96,86,0.868,0.924,9:20
+4,8:03,GS,Draymond Green,Personal Take Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,98,89,0.917,0.91,8:03
+4,8:03,GS,Draymond Green,Technical Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,98,89,0.929,0.917,8:03
+4,2:41,WSH,Kristaps Porzingis,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,113,101,0.987,0.996,2:41
+4,2:41,WSH,Rui Hachimura,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,113,101,0.98,0.992,2:41
+4,2:14,WSH,Kentavious Caldwell-Pope,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,113,103,0.957,0.981,2:15
+4,1:48,WSH,Corey Kispert,Personal Take Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,113,104,0.943,0.974,1:48
+4,1:46,GS,Jordan Poole,Personal Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,113,105,0.99,0.977,1:46
+4,1:25,GS,Andrew Wiggins,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,113,105,0.993,0.99,1:46
+4,1:08,GS,Otto Porter Jr.,Shooting Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,115,108,0.99,0.974,1:15
+4,58.4,GS,Andrew Wiggins,Personal Take Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,117,110,0.992,0.978,1:03
+4,45.2,GS,Damion Lee,Personal Take Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,118,112,0.988,0.964,50.0
+4,32.5,WSH,Tomas Satoransky,Loose Ball Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,120,114,0.874,0.971,39.2
+4,28.3,GS,Klay Thompson,Personal Take Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,120,115,0.985,0.906,32.5
+4,18.3,GS,Damion Lee,Personal Take Foul,Foul,Rodney Mott,Nick Buchert,Ashley Moyer-Gleich,WSH,121,115,0.996,0.987,18.3

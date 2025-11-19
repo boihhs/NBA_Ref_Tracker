@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:29,TOR,Fred VanVleet,Clear Path Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,0,3,0.416,0.412,10:30
+1,5:25,TOR,Chris Boucher,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,16,14,0.503,0.542,5:32
+1,3:40,PHX,JaVale McGee,Offensive Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,23,16,0.701,0.673,3:49
+1,20.6,PHX,Jalen Smith,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,31,23,0.768,0.731,28.7
+2,11:39,TOR,OG Anunoby,Loose Ball Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,31,23,0.708,0.708,11:39
+2,9:59,TOR,Precious Achiuwa,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,36,25,0.786,0.785,10:16
+2,8:58,PHX,Cameron Payne,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,36,27,0.784,0.768,8:59
+2,4:51,PHX,Jalen Smith,Offensive Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,38,37,0.55,0.518,4:54
+2,4:18,TOR,Pascal Siakam,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,40,37,0.582,0.581,4:34
+2,3:08,PHX,Devin Booker,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,40,42,0.502,0.451,3:14
+2,2:20,PHX,Deandre Ayton,Loose Ball Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,43,42,0.553,0.553,2:20
+2,1:16,TOR,Pascal Siakam,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,45,42,0.536,0.586,1:29
+2,1:14,TOR,OG Anunoby,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,45,42,0.536,0.536,1:16
+2,52.2,PHX,Deandre Ayton,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,47,43,0.655,0.619,52.2
+3,11:16,TOR,Fred VanVleet,Personal Take Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,48,46,0.574,0.557,11:16
+3,10:36,TOR,Pascal Siakam,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,48,48,0.484,0.482,10:36
+3,10:25,PHX,Deandre Ayton,Offensive Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,48,48,0.524,0.484,10:36
+3,8:13,PHX,Devin Booker,Offensive Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,53,53,0.424,0.481,8:23
+3,6:57,PHX,Mikal Bridges,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,55,56,0.462,0.442,6:57
+3,6:39,TOR,Chris Boucher,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,56,56,0.501,0.479,6:39
+3,6:28,PHX,Chris Paul,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,56,58,0.502,0.441,6:39
+3,5:15,PHX,Devin Booker,Loose Ball Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,60,60,0.521,0.523,5:29
+3,3:47,PHX,Deandre Ayton,Defensive 3-Seconds Technical,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,60,62,0.424,0.436,3:57
+3,2:59,TOR,Precious Achiuwa,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,63,62,0.546,0.522,2:59
+3,2:18,PHX,Cameron Payne,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,65,62,0.718,0.657,2:28
+3,2:08,TOR,Chris Boucher,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,65,62,0.58,0.613,2:11
+3,1:17,PHX,Devin Booker,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,65,67,0.5,0.43,1:32
+3,1:17,PHX,Jalen Smith,Loose Ball Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,65,67,0.43,0.43,1:17
+4,11:26,TOR,Pascal Siakam,Offensive Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,71,69,0.579,0.624,11:42
+4,10:41,PHX,Jalen Smith,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,71,71,0.619,0.525,11:06
+4,8:45,TOR,Pascal Siakam,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,79,73,0.709,0.807,9:01
+4,7:46,TOR,Precious Achiuwa,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,79,78,0.464,0.591,7:46
+4,6:36,PHX,Deandre Ayton,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,81,81,0.492,0.528,6:36
+4,6:19,PHX,Chris Paul,Shooting Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,82,81,0.565,0.598,6:22
+4,3:37,TOR,Fred VanVleet,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,83,89,0.1,0.103,3:45
+4,2:09,PHX,Mikal Bridges,Personal Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,88,89,0.617,0.463,2:19
+4,1:41,PHX,Devin Booker,Loose Ball Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,88,89,0.624,0.476,1:41
+4,7.3,TOR,OG Anunoby,Personal Take Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,92,93,0.087,0.327,14.1
+4,6.5,TOR,Fred VanVleet,Personal Take Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,92,93,0.078,0.087,7.3
+4,5.8,PHX,Devin Booker,Personal Take Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,92,95,0.22,0.107,6.5
+4,5.3,TOR,Fred VanVleet,Personal Take Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,94,95,0.063,0.165,5.8
+4,4.0,PHX,Chris Paul,Personal Take Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,94,97,0.152,0.087,5.3
+4,2.8,TOR,Pascal Siakam,Personal Take Foul,Foul,Rodney Mott,Aaron Smith,John Conley,TOR,95,97,0.063,0.044,2.8

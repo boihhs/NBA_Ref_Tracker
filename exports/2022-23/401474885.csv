@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:39,MIA,Victor Oladipo,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,3,3,0.489,0.489,10:41
+1,9:26,HOU,Jae'Sean Tate,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,6,10,0.41,0.411,9:33
+1,8:37,MIA,Dewayne Dedmon,Offensive Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,9,12,0.41,0.434,8:41
+1,8:09,HOU,Jae'Sean Tate,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,9,12,0.434,0.434,8:11
+1,8:01,HOU,Jalen Green,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,9,12,0.453,0.434,8:09
+1,7:10,HOU,Jae'Sean Tate,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,11,18,0.369,0.333,7:27
+1,7:10,HOU,HOU,Delay Technical,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,11,18,0.326,0.369,7:10
+1,6:21,MIA,Victor Oladipo,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,14,21,0.273,0.306,6:23
+1,3:24,HOU,Garrison Mathews,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,17,30,0.222,0.192,3:24
+1,2:10,HOU,Garrison Mathews,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,21,30,0.311,0.276,2:17
+1,1:39,HOU,Tari Eason,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,23,32,0.31,0.274,1:44
+1,34.5,MIA,Jamal Cain,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,24,34,0.194,0.224,41.5
+2,12:00,MIA,MIA,Delay Technical,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,26,37,0.204,0.213,12:00
+2,10:03,HOU,Boban Marjanovic,Offensive Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,35,39,0.395,0.365,9:47
+2,7:28,MIA,Nikola Jovic,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,40,41,0.452,0.452,7:29
+2,6:59,HOU,KJ Martin,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,40,43,0.468,0.424,7:14
+2,6:32,HOU,Alperen Sengun,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,42,43,0.531,0.453,6:38
+2,6:13,HOU,Garrison Mathews,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,44,43,0.544,0.546,6:19
+2,6:07,MIA,Dewayne Dedmon,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,44,43,0.516,0.516,6:07
+2,5:37,HOU,KJ Martin,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,44,46,0.499,0.451,5:37
+2,4:39,MIA,Dewayne Dedmon,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,46,46,0.433,0.482,4:57
+2,4:07,MIA,Gabe Vincent,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,49,50,0.424,0.482,4:07
+2,4:00,HOU,Alperen Sengun,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,51,51,0.541,0.48,4:00
+2,1:55,MIA,Dewayne Dedmon,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,59,59,0.432,0.481,2:10
+2,1:25,HOU,Alperen Sengun,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,62,61,0.603,0.55,1:29
+3,11:28,HOU,Tari Eason,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,64,66,0.446,0.444,11:40
+3,10:54,HOU,Alperen Sengun,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,67,66,0.606,0.555,11:00
+3,9:58,HOU,KJ Martin,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,71,69,0.617,0.553,9:58
+3,8:50,MIA,Max Strus,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,75,74,0.489,0.554,8:50
+3,8:04,HOU,Usman Garuba,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,75,74,0.586,0.556,8:04
+3,7:25,MIA,Gabe Vincent,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,80,74,0.704,0.702,7:25
+3,4:36,MIA,Dru Smith,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,85,82,0.606,0.606,4:36
+3,3:30,MIA,Jamal Cain,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,89,82,0.705,0.76,3:41
+3,3:07,MIA,Max Strus,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,89,83,0.669,0.728,3:11
+3,28.9,HOU,Garrison Mathews,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,95,90,0.807,0.749,37.0
+4,12:00,MIA,MIA,Delay Technical,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,97,90,0.804,0.809,12:00
+4,11:16,HOU,TyTy Washington Jr.,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,99,91,0.909,0.867,11:24
+4,5:35,MIA,Dru Smith,Shooting Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,111,95,0.989,0.995,5:38
+4,5:18,HOU,Garrison Mathews,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,111,96,0.995,0.995,5:35
+4,4:41,HOU,Trevor Hudgins,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,111,96,0.997,0.996,4:49
+4,2:33,HOU,Josh Christopher,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,111,103,0.988,0.969,2:53
+4,1:22,MIA,Mychal Mulder,Personal Foul,Foul,John Goble,Dedric Taylor,Pat O'Connell,MIA,113,105,0.93,0.975,1:30

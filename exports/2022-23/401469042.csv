@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:51,BOS,Marcus Smart,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,8,7,0.324,0.294,9:05
+1,8:45,BOS,Jaylen Brown,Offensive Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,10,7,0.337,0.314,8:51
+1,6:08,IND,Buddy Hield,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,13,16,0.179,0.204,6:11
+1,4:43,IND,Bennedict Mathurin,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,17,21,0.167,0.191,5:00
+1,2:41,BOS,Grant Williams,Personal Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,21,29,0.148,0.148,2:48
+1,1:51,BOS,Malcolm Brogdon,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,25,32,0.177,0.148,1:51
+2,9:18,BOS,Malcolm Brogdon,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,36,39,0.29,0.256,9:19
+2,8:29,IND,Jordan Nwora,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,37,43,0.16,0.193,8:29
+2,5:18,IND,Tyrese Haliburton,Personal Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,42,53,0.098,0.111,5:33
+2,4:57,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,42,53,0.134,0.111,5:10
+2,4:31,IND,Aaron Nesmith,Offensive Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,44,55,0.097,0.111,4:47
+2,2:03,BOS,Derrick White,Loose Ball Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,52,62,0.126,0.125,2:03
+2,1:30,IND,Buddy Hield,Personal Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,54,62,0.117,0.142,1:52
+2,7.1,IND,Bennedict Mathurin,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,56,67,0.075,0.094,27.1
+2,6.1,BOS,Jaylen Brown,Loose Ball Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,56,68,0.118,0.094,6.1
+3,11:37,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,60,68,0.178,0.141,11:37
+3,10:17,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,66,70,0.284,0.233,10:17
+3,9:06,IND,Myles Turner,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,71,72,0.303,0.362,9:06
+3,8:39,IND,Myles Turner,Personal Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,74,73,0.4,0.399,8:50
+3,6:34,BOS,Robert Williams III,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,83,83,0.473,0.413,6:42
+3,4:54,IND,Tyrese Haliburton,Personal Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,90,86,0.549,0.546,5:09
+3,4:29,IND,Bennedict Mathurin,Offensive Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,90,86,0.553,0.597,4:29
+3,4:16,BOS,Marcus Smart,Technical Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,90,88,0.546,0.097,5:27
+3,2:08,IND,Bennedict Mathurin,Personal Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,94,93,0.373,0.439,2:25
+3,1.0,IND,Daniel Theis,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,97,98,0.293,0.36,12.1
+4,10:17,BOS,Robert Williams III,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,100,106,0.229,0.188,10:17
+4,10:01,BOS,BOS,Delay Technical,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,101,108,0.149,0.157,10:01
+4,6:21,BOS,Sam Hauser,Personal Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,111,114,0.325,0.312,6:34
+4,4:48,IND,Aaron Nesmith,Personal Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,118,117,0.508,0.513,5:09
+4,4:38,IND,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,118,117,0.388,0.508,4:48
+4,4:06,IND,Bennedict Mathurin,Personal Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,120,119,0.487,0.511,4:24
+4,3:55,IND,Myles Turner,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,120,119,0.429,0.505,3:55
+4,2:51,IND,Myles Turner,Offensive Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,120,124,0.135,0.199,3:11
+4,2:02,IND,Buddy Hield,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,123,124,0.257,0.331,2:26
+4,1:41,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,123,125,0.491,0.327,2:01
+5,4:45,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,125,125,0.653,0.5,5:00
+5,3:52,IND,Bennedict Mathurin,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,130,127,0.572,0.683,4:19
+5,3:52,IND,Bennedict Mathurin,Technical Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,130,127,0.633,0.572,3:52
+5,2:38,IND,Myles Turner,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,133,133,0.317,0.457,2:59
+5,2:19,IND,Aaron Nesmith,Loose Ball Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,133,134,0.342,0.363,2:19
+5,1:40,BOS,Marcus Smart,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,135,136,0.551,0.338,1:40
+5,1:16,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,136,138,0.527,0.388,1:27
+5,56.0,IND,Tyrese Haliburton,Shooting Foul,Foul,Ed Malloy,Scott Twardoski,John Butler,IND,138,138,0.295,0.49,1:16

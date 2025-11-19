@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:58,LAC,Paul George,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,0,2,0.595,0.576,9:59
+1,8:52,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,4,4,0.561,0.599,8:56
+1,7:56,LAC,Ivica Zubac,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,6,9,0.583,0.545,8:05
+1,4:04,LAC,Norman Powell,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,17,21,0.546,0.506,4:18
+1,4.1,DEN,Christian Braun,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,28,25,0.617,0.657,17.1
+1,1.0,DEN,Peyton Watson,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,28,25,0.617,0.617,4.1
+2,10:24,DEN,Christian Braun,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,32,30,0.586,0.63,10:38
+2,10:03,LAC,Norman Powell,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,32,31,0.626,0.631,10:24
+2,8:40,DEN,Reggie Jackson,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,36,34,0.582,0.626,8:42
+2,8:23,LAC,Norman Powell,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,36,36,0.638,0.598,8:40
+2,7:33,LAC,Terance Mann,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,41,36,0.731,0.732,7:40
+2,5:51,LAC,James Harden,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,44,39,0.768,0.731,5:53
+2,5:24,DEN,Jalen Pickett,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,44,39,0.704,0.704,5:29
+2,5:14,DEN,Nikola Jokic,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,44,39,0.664,0.704,5:24
+2,2:24,LAC,Paul George,Technical Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,53,41,0.897,0.869,2:24
+2,2:14,DEN,Reggie Jackson,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,54,41,0.859,0.901,2:24
+2,2:07,LAC,James Harden,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,54,44,0.879,0.85,2:14
+3,11:22,DEN,Michael Porter Jr.,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,60,52,0.751,0.792,11:28
+3,11:15,LAC,Ivica Zubac,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,60,53,0.828,0.795,11:22
+3,10:58,LAC,James Harden,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,62,53,0.869,0.841,11:00
+3,10:12,LAC,Russell Westbrook,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,62,55,0.793,0.795,10:27
+3,8:35,DEN,Aaron Gordon,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,65,57,0.756,0.797,8:45
+3,6:55,LAC,Paul George,Loose Ball Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,68,64,0.761,0.679,6:55
+3,6:48,LAC,Ivica Zubac,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,67,64,0.728,0.761,6:55
+3,5:14,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,70,64,0.75,0.748,5:35
+3,4:48,LAC,Ivica Zubac,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,70,67,0.735,0.682,5:07
+3,2:03,LAC,Terance Mann,Loose Ball Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,78,75,0.747,0.689,2:03
+3,31.1,DEN,Jalen Pickett,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,79,79,0.432,0.509,43.1
+4,10:13,DEN,Zeke Nnaji,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,88,89,0.439,0.449,10:36
+4,10:06,DEN,Reggie Jackson,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,88,89,0.429,0.447,10:13
+4,9:59,DEN,Michael Porter Jr.,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,88,89,0.418,0.429,10:06
+4,9:27,LAC,Russell Westbrook,Loose Ball Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,88,89,0.489,0.474,9:27
+4,8:30,LAC,Paul George,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,88,89,0.58,0.478,8:43
+4,7:51,DEN,Christian Braun,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,89,91,0.272,0.363,7:53
+4,6:58,LAC,Paul George,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,91,95,0.395,0.288,7:05
+4,5:20,LAC,P.J. Tucker,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,94,99,0.315,0.216,5:25
+4,3:04,LAC,Kawhi Leonard,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,98,102,0.35,0.249,3:24
+4,1:37,LAC,Norman Powell,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,104,102,0.793,0.635,1:37
+4,1:21,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,105,102,0.591,0.734,1:24
+4,31.2,LAC,Terance Mann,Personal Take Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,109,104,0.983,0.946,38.2
+4,23.1,DEN,Michael Porter Jr.,Shooting Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,109,104,0.826,0.909,30.0
+4,13.0,LAC,Norman Powell,Personal Foul,Foul,Matt Boland,Josh Tiven,Natalie Sago,DEN,109,108,0.871,0.702,15.1

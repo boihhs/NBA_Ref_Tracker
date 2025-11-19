@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:36,CHI,Nikola Vucevic,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,3,6,0.257,0.292,10:36
+1,4:37,CHI,Malcolm Hill,Defensive 3-Seconds Technical,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,17,18,0.336,0.326,4:45
+1,1:13,CHI,Ayo Dosunmu,Personal Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,21,29,0.157,0.184,1:24
+1,38.2,CHI,Alfonzo McKinnie,Personal Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,24,32,0.157,0.183,42.5
+1,2.0,PHI,Charlie Brown Jr.,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,24,34,0.193,0.166,8.8
+2,9:29,PHI,Isaiah Joe,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,28,37,0.214,0.182,9:41
+2,8:57,CHI,DeMar DeRozan,Personal Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,30,39,0.164,0.183,9:13
+2,8:27,PHI,Furkan Korkmaz,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,30,41,0.173,0.146,8:42
+2,7:22,PHI,Andre Drummond,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,33,41,0.217,0.181,7:22
+2,6:31,CHI,Javonte Green,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,36,45,0.171,0.18,6:31
+2,6:00,PHI,Tobias Harris,Offensive Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,36,46,0.162,0.143,6:11
+2,5:42,CHI,Troy Brown Jr.,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,36,48,0.112,0.127,5:42
+2,5:19,CHI,Nikola Vucevic,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,36,49,0.079,0.112,5:25
+2,1:49,PHI,Danny Green,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,45,53,0.216,0.178,1:49
+2,1:37,CHI,Ayo Dosunmu,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,46,55,0.165,0.175,1:37
+2,1:22,PHI,Danny Green,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,46,56,0.185,0.155,1:37
+3,11:29,CHI,Nikola Vucevic,Personal Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,54,61,0.194,0.19,11:44
+3,9:08,PHI,Joel Embiid,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,60,70,0.179,0.145,9:16
+3,8:39,CHI,Malcolm Hill,Personal Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,62,70,0.165,0.165,8:39
+3,8:14,PHI,Danny Green,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,62,70,0.176,0.189,8:19
+3,7:47,CHI,DeMar DeRozan,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,63,72,0.151,0.163,7:47
+3,7:24,CHI,Nikola Vucevic,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,65,75,0.129,0.14,7:24
+3,7:10,PHI,Tobias Harris,Personal Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,65,76,0.12,0.12,7:24
+3,6:37,PHI,Joel Embiid,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,65,76,0.132,0.117,6:37
+3,6:25,CHI,Javonte Green,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,67,78,0.098,0.116,6:25
+3,6:25,CHI,Nikola Vucevic,Technical Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,67,78,0.085,0.098,6:25
+3,5:43,CHI,Javonte Green,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,69,81,0.086,0.095,5:43
+3,4:42,PHI,Joel Embiid,Personal Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,71,81,0.164,0.128,4:50
+3,3:34,CHI,Ayo Dosunmu,Personal Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,75,81,0.158,0.198,3:34
+3,3:10,CHI,Tony Bradley,Personal Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,75,83,0.109,0.144,3:18
+4,10:53,CHI,Tony Bradley,Loose Ball Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,81,94,0.03,0.033,10:53
+4,9:00,PHI,Georges Niang,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,85,98,0.055,0.032,9:03
+4,8:13,PHI,Georges Niang,Flagrant Foul Type 1,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,90,98,0.133,0.095,8:33
+4,7:37,PHI,Georges Niang,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,94,100,0.24,0.19,7:37
+4,6:52,CHI,Nikola Vucevic,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,98,104,0.114,0.187,6:52
+4,6:40,PHI,Tobias Harris,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,98,105,0.213,0.145,6:52
+4,3:24,CHI,DeMar DeRozan,Shooting Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,103,111,0.021,0.047,3:25
+4,1:09,PHI,Joel Embiid,Offensive Foul,Foul,Matt Boland,Marat Kogut,Curtis Blair,CHI,108,116,0.028,0.016,1:22

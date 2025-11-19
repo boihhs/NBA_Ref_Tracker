@@ -1,0 +1,25 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:44,ORL,Moritz Wagner,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,2,2,0.896,0.896,10:44
+1,8:54,CLE,Evan Mobley,Shooting Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,8,8,0.87,0.888,8:54
+1,5:54,ORL,Franz Wagner,Shooting Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,12,13,0.871,0.85,5:54
+1,1:38,CLE,Cedi Osman,Shooting Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,23,17,0.896,0.911,1:41
+1,1:03,CLE,Mamadi Diakite,Shooting Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,25,21,0.879,0.899,1:03
+2,10:42,CLE,Caris LeVert,Shooting Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,30,25,0.872,0.892,10:59
+2,10:29,ORL,Cole Anthony,Shooting Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,30,26,0.906,0.892,10:40
+2,8:57,ORL,Moritz Wagner,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,35,28,0.917,0.918,8:57
+2,8:06,CLE,Dean Wade,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,37,30,0.905,0.916,8:09
+2,7:07,ORL,Caleb Houstan,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,37,34,0.861,0.863,7:18
+2,5:51,ORL,Moritz Wagner,Offensive Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,40,36,0.872,0.858,6:06
+2,5:30,CLE,Donovan Mitchell,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,42,36,0.884,0.885,5:33
+2,2:36,CLE,Donovan Mitchell,Shooting Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,46,41,0.846,0.875,2:36
+2,1:25,CLE,Donovan Mitchell,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,49,44,0.826,0.855,1:25
+3,3:04,CLE,Kevin Love,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,76,62,0.966,0.965,3:21
+4,10:34,CLE,Isaac Okoro,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,82,69,0.966,0.968,10:38
+4,9:38,CLE,Evan Mobley,Shooting Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,84,69,0.972,0.983,9:55
+4,6:42,ORL,Moritz Wagner,Offensive Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,93,80,0.987,0.979,6:59
+4,6:01,ORL,Cole Anthony,Shooting Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,95,80,0.997,0.994,6:06
+4,5:46,CLE,Donovan Mitchell,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,97,80,0.996,0.996,5:46
+4,5:39,CLE,Caris LeVert,Shooting Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,97,82,0.989,0.995,5:39
+4,1:52,ORL,Moritz Wagner,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,103,92,0.998,0.991,2:07
+4,1:19,ORL,Cole Anthony,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,103,94,0.997,0.991,1:27
+4,34.5,ORL,Cole Anthony,Personal Foul,Foul,James Williams,Brandon Adair,Evan Scott,CLE,105,96,0.999,0.998,36.9

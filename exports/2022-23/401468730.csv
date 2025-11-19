@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:32,SAC,De'Aaron Fox,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,7,10,0.446,0.484,7:35
+1,6:28,SAC,Keegan Murray,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,11,14,0.484,0.482,6:36
+1,6:25,ATL,John Collins,Offensive Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,11,14,0.509,0.483,6:28
+1,4:42,ATL,Onyeka Okongwu,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,18,20,0.572,0.538,8:07
+1,4:03,SAC,Domantas Sabonis,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,20,20,0.517,0.558,4:09
+1,2:28,SAC,Terence Davis,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,22,22,0.513,0.556,2:51
+1,51.1,SAC,De'Aaron Fox,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,26,26,0.508,0.551,56.1
+1,4.1,SAC,Terence Davis,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,30,30,0.527,0.576,4.1
+2,10:02,SAC,Trey Lyles,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,32,36,0.426,0.424,10:13
+2,9:36,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,32,36,0.5,0.456,9:41
+2,7:49,SAC,Davion Mitchell,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,38,43,0.344,0.388,8:00
+2,5:41,ATL,AJ Griffin,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,43,47,0.489,0.443,5:51
+2,3:20,SAC,Kevin Huerter,Away from Play Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,50,53,0.436,0.433,3:20
+2,2:54,ATL,Trae Young,Technical Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,50,53,0.49,0.466,2:56
+2,2:54,ATL,ATL,Technical Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,51,53,0.523,0.497,2:54
+2,2:07,ATL,De'Andre Hunter,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,54,56,0.495,0.496,2:29
+2,1:25,ATL,De'Andre Hunter,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,54,59,0.442,0.391,1:47
+2,0.0,SAC,Harrison Barnes,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,58,61,0.372,0.421,0.0
+3,8:58,SAC,Kevin Huerter,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,64,71,0.266,0.262,9:06
+3,8:34,ATL,Onyeka Okongwu,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,64,73,0.28,0.233,8:43
+3,8:17,SAC,Domantas Sabonis,Loose Ball Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,66,73,0.262,0.259,8:17
+3,7:49,ATL,De'Andre Hunter,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,66,73,0.344,0.293,8:06
+3,5:05,SAC,Kevin Huerter,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,72,79,0.189,0.235,5:19
+3,4:23,ATL,Onyeka Okongwu,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,75,81,0.301,0.304,4:28
+3,3:59,SAC,Keegan Murray,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,77,83,0.234,0.299,3:59
+3,3:42,ATL,Bogdan Bogdanovic,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,77,83,0.359,0.3,3:57
+3,3:09,ATL,Trae Young,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,79,85,0.355,0.294,3:15
+3,2:59,SAC,Kevin Huerter,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,81,85,0.268,0.331,3:09
+3,1:45,ATL,Onyeka Okongwu,Offensive Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,83,89,0.282,0.239,2:00
+3,56.0,SAC,Trey Lyles,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,86,89,0.29,0.359,1:08
+3,25.0,ATL,Aaron Holiday,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,86,91,0.379,0.318,29.1
+4,11:09,ATL,Jalen Johnson,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,88,94,0.333,0.251,11:14
+4,10:07,ATL,John Collins,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,92,98,0.331,0.245,10:13
+4,9:56,ATL,Onyeka Okongwu,Offensive Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,94,98,0.344,0.295,10:07
+4,8:58,ATL,Dejounte Murray,Offensive Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,96,100,0.335,0.285,9:09
+4,7:32,ATL,John Collins,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,98,102,0.43,0.32,7:41
+4,6:28,SAC,Domantas Sabonis,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,102,102,0.486,0.498,6:41
+4,1:46,ATL,Trae Young,Personal Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,111,113,0.534,0.362,1:46
+4,1:16,ATL,John Collins,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,116,113,0.89,0.776,1:16
+4,1:04,SAC,Keegan Murray,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,117,115,0.567,0.794,1:04
+4,50.1,ATL,De'Andre Hunter,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,117,116,0.802,0.655,1:04
+4,31.0,SAC,Domantas Sabonis,Shooting Foul,Foul,David Guthrie,CJ Washington,Ashley Moyer-Gleich,SAC,117,116,0.386,0.675,34.0

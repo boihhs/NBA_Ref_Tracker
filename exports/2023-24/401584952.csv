@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:43,SAC,Keegan Murray,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,0,0,0.458,0.459,12:00
+1,11:19,OKC,Josh Giddey,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,0,0,0.482,0.481,11:21
+1,11:12,OKC,Chet Holmgren,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,0,0,0.481,0.482,11:19
+1,10:47,SAC,Keegan Murray,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,2,0,0.47,0.506,10:56
+1,8:05,SAC,Harrison Barnes,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,7,7,0.44,0.484,8:05
+1,7:44,SAC,De'Aaron Fox,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,7,8,0.395,0.433,7:48
+1,6:12,SAC,Domantas Sabonis,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,12,8,0.526,0.567,6:14
+1,5:23,SAC,Keon Ellis,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,14,13,0.447,0.488,5:32
+1,4:59,SAC,Malik Monk,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,14,15,0.394,0.433,5:03
+1,1:13,OKC,Jaylin Williams,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,24,26,0.475,0.432,1:21
+1,7.1,SAC,JaVale McGee,Offensive Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,29,28,0.492,0.524,27.0
+2,10:50,OKC,Cason Wallace,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,31,32,0.461,0.464,10:56
+2,9:18,OKC,Kenrich Williams,Loose Ball Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,34,34,0.492,0.566,6:29
+2,8:48,SAC,Sasha Vezenkov,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,36,34,0.478,0.523,8:58
+2,8:14,OKC,Jalen Williams,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,39,36,0.581,0.584,8:20
+2,6:54,OKC,Jalen Williams,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,43,38,0.69,0.649,6:58
+2,4:03,OKC,Cason Wallace,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,47,43,0.673,0.625,4:12
+2,3:01,SAC,Keegan Murray,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,51,46,0.581,0.628,3:10
+2,2:50,OKC,Luguentz Dort,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,51,48,0.647,0.595,3:01
+2,2:00,SAC,De'Aaron Fox,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,55,48,0.647,0.696,2:04
+2,1:27,OKC,Chet Holmgren,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,55,49,0.741,0.696,1:34
+2,1:06,OKC,Josh Giddey,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,58,49,0.803,0.759,1:06
+2,1:02,SAC,Keon Ellis,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,59,49,0.746,0.785,1:06
+3,10:55,OKC,Chet Holmgren,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,59,57,0.628,0.575,11:03
+3,7:30,OKC,Shai Gilgeous-Alexander,Loose Ball Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,70,69,0.544,0.545,7:30
+3,6:25,SAC,De'Aaron Fox,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,73,73,0.435,0.509,6:25
+3,6:16,OKC,Luguentz Dort,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,73,74,0.529,0.468,6:25
+3,6:04,SAC,Domantas Sabonis,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,74,74,0.467,0.465,6:04
+3,5:18,OKC,Cason Wallace,Loose Ball Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,74,74,0.572,0.51,5:18
+3,5:14,OKC,Isaiah Joe,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,74,74,0.572,0.572,5:18
+3,5:04,SAC,Keon Ellis,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,76,76,0.435,0.51,5:04
+3,3:32,SAC,Trey Lyles,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,80,79,0.479,0.557,3:32
+3,2:44,OKC,Jaylin Williams,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,82,80,0.666,0.602,2:57
+3,2:32,SAC,Trey Lyles,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,83,80,0.535,0.601,2:44
+3,1:06,SAC,Keon Ellis,Shooting Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,91,87,0.585,0.652,1:21
+3,39.0,SAC,Keegan Murray,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,94,89,0.632,0.692,50.0
+4,9:02,OKC,Davis Bertans,Offensive Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,107,96,0.949,0.931,9:11
+4,8:33,SAC,Keon Ellis,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,107,96,0.931,0.935,8:41
+4,6:06,OKC,Shai Gilgeous-Alexander,Loose Ball Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,117,104,0.986,0.986,6:06
+4,5:04,SAC,Malik Monk,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,117,106,0.965,0.966,5:17
+4,5:04,SAC,De'Aaron Fox,Technical Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,117,106,0.956,0.965,5:04
+4,3:38,OKC,Josh Giddey,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,119,113,0.916,0.902,3:43
+4,11.1,OKC,Jalen Williams,Personal Take Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,123,119,0.988,0.951,16.2
+4,5.0,OKC,Luguentz Dort,Personal Take Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,124,121,0.988,0.957,6.0
+4,1.1,OKC,Luguentz Dort,Personal Foul,Foul,Kevin Cutler,Brett Nansel,Tyler Ford,SAC,126,123,0.997,0.975,3.1

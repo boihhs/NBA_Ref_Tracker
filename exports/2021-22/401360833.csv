@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,4:51,BOS,Derrick White,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,17,12,0.746,0.776,4:59
+1,4:35,DAL,Spencer Dinwiddie,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,17,12,0.821,0.795,4:50
+1,4:22,BOS,Robert Williams III,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,18,12,0.765,0.795,4:35
+1,39.1,DAL,Josh Green,Personal Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,20,18,0.757,0.724,48.9
+2,10:47,BOS,Payton Pritchard,Offensive Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,20,18,0.695,0.72,10:54
+2,8:16,DAL,Maxi Kleber,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,20,21,0.672,0.634,8:27
+2,6:39,BOS,Derrick White,Loose Ball Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,24,23,0.652,0.65,6:39
+2,4:22,DAL,Dwight Powell,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,30,27,0.765,0.728,4:32
+2,3:47,DAL,Dorian Finney-Smith,Personal Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,32,29,0.724,0.726,3:47
+2,53.7,BOS,Grant Williams,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,43,34,0.81,0.841,1:10
+2,41.5,DAL,Jalen Brunson,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,43,35,0.87,0.842,53.7
+3,8:44,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,56,43,0.895,0.919,8:57
+3,8:06,BOS,Robert Williams III,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,56,45,0.859,0.887,8:28
+3,7:22,BOS,Robert Williams III,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,56,47,0.814,0.85,7:43
+3,5:28,BOS,Robert Williams III,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,62,55,0.762,0.805,5:53
+3,5:28,BOS,Robert Williams III,Technical Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,62,55,0.785,0.762,5:28
+3,4:34,BOS,BOS,Technical Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,62,63,0.479,0.558,4:34
+3,3:18,DAL,Maxi Kleber,Personal Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,64,67,0.458,0.463,3:18
+3,3:08,DAL,Maxi Kleber,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,64,67,0.526,0.458,3:18
+3,2:18,DAL,Josh Green,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,66,69,0.521,0.45,2:24
+3,1:01,DAL,Josh Green,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,72,73,0.569,0.485,1:01
+3,50.4,DAL,Josh Green,Offensive Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,73,73,0.579,0.538,1:01
+4,10:35,BOS,Derrick White,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,76,76,0.427,0.524,10:40
+4,10:17,DAL,Dwight Powell,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,76,76,0.659,0.569,10:35
+4,8:41,DAL,Josh Green,Personal Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,80,78,0.693,0.678,8:56
+4,8:09,DAL,Dwight Powell,Offensive Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,83,78,0.819,0.777,8:31
+4,5:14,DAL,Jalen Brunson,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,85,83,0.764,0.633,5:14
+4,3:58,BOS,Payton Pritchard,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,88,85,0.66,0.791,3:58
+4,2:38,DAL,Jalen Brunson,Shooting Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,90,89,0.78,0.661,2:53
+4,1:36,BOS,Jaylen Brown,Personal Take Foul,Foul,John Goble,Mark Lindsay,Ray Acosta,BOS,92,89,0.594,0.763,1:38

@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:48,MIL,Jrue Holiday,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,5,9,0.641,0.64,9:57
+1,9:40,MIL,Grayson Allen,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,5,9,0.64,0.641,9:48
+1,7:33,CHA,Mason Plumlee,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,7,14,0.575,0.574,7:39
+1,6:29,CHA,LaMelo Ball,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,9,16,0.567,0.567,6:36
+1,4:25,MIL,Serge Ibaka,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,19,18,0.71,0.747,4:25
+1,3:48,MIL,Bobby Portis,Offensive Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,19,22,0.627,0.653,3:57
+1,3:48,MIL,Bobby Portis,Technical Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,19,22,0.606,0.627,3:48
+1,3:31,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,19,23,0.663,0.626,3:33
+1,2:13,CHA,Cody Martin,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,23,23,0.749,0.716,2:20
+1,40.3,CHA,Cody Martin,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,28,27,0.764,0.736,53.3
+2,11:46,CHA,Miles Bridges,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,32,32,0.704,0.692,12:00
+2,9:20,CHA,LaMelo Ball,Loose Ball Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,41,35,0.824,0.824,9:20
+2,9:06,CHA,Montrezl Harrell,Personal Take Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,41,35,0.824,0.823,9:06
+2,8:52,CHA,JT Thor,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,43,35,0.867,0.84,8:52
+2,7:40,MIL,Jrue Holiday,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,48,37,0.886,0.887,7:51
+2,6:56,MIL,Jordan Nwora,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,48,37,0.863,0.886,7:03
+2,6:35,CHA,Miles Bridges,Loose Ball Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,50,39,0.916,0.899,6:35
+2,5:45,CHA,Miles Bridges,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,55,39,0.96,0.949,5:49
+2,5:26,MIL,DeAndre' Bembry,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,57,39,0.956,0.956,5:45
+2,4:59,CHA,Mason Plumlee,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,57,41,0.96,0.949,5:01
+2,4:47,CHA,Terry Rozier,Offensive Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,59,41,0.963,0.957,4:59
+2,4:23,MIL,Bobby Portis,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,59,41,0.947,0.957,4:39
+2,3:37,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,62,44,0.947,0.958,3:37
+2,2:14,MIL,Jevon Carter,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,67,46,0.973,0.981,2:14
+2,1:33,CHA,Mason Plumlee,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,67,47,0.98,0.977,1:33
+2,38.1,CHA,Kelly Oubre Jr.,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,72,51,0.986,0.982,45.7
+2,30.0,MIL,Serge Ibaka,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,74,51,0.98,0.984,38.1
+3,10:57,CHA,Mason Plumlee,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,79,53,0.996,0.995,10:59
+3,10:37,MIL,Grayson Allen,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,81,53,0.996,0.996,10:57
+3,8:54,MIL,Jrue Holiday,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,87,61,0.995,0.995,9:04
+3,8:40,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,87,61,0.993,0.995,8:54
+3,7:30,CHA,LaMelo Ball,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,95,64,0.999,0.999,7:30
+3,6:14,CHA,Miles Bridges,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,96,66,0.999,0.999,6:30
+3,5:41,MIL,Serge Ibaka,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,98,66,0.999,0.999,5:44
+3,5:09,MIL,Serge Ibaka,Loose Ball Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,98,67,0.999,0.999,5:09
+3,3:01,CHA,Terry Rozier,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,100,72,0.999,0.999,3:04
+3,2:24,MIL,Jrue Holiday,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,102,74,0.998,0.999,2:32
+3,27.9,MIL,Serge Ibaka,Offensive Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,106,76,0.999,0.999,36.8
+3,7.5,CHA,Montrezl Harrell,Personal Take Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,106,76,0.999,0.999,8.0
+3,0.0,MIL,MIL,Technical Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,108,76,0.999,0.999,0.0
+4,10:42,MIL,Serge Ibaka,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,111,79,0.999,0.999,10:53
+4,9:50,CHA,JT Thor,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,113,81,0.999,0.999,9:53
+4,9:29,MIL,Jordan Nwora,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,115,81,0.999,0.999,9:50
+4,9:13,CHA,Terry Rozier,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,115,83,0.999,0.999,9:29
+4,7:19,MIL,Jordan Nwora,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,118,88,0.999,0.999,7:38
+4,7:09,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,118,88,0.999,0.999,7:19
+4,6:18,CHA,Terry Rozier,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,118,89,0.999,0.999,6:30
+4,3:52,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,123,96,0.999,0.999,3:52
+4,3:47,CHA,JT Thor,Loose Ball Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,123,96,0.999,0.999,3:47
+4,3:24,MIL,Lindell Wigginton,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,123,96,0.999,0.999,3:29
+4,3:11,CHA,JT Thor,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,123,96,0.999,0.999,3:21
+4,2:58,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,125,96,0.999,0.999,2:58
+4,2:56,MIL,Jevon Carter,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,125,98,0.999,0.999,2:56
+4,1:59,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,125,100,0.999,0.999,2:06
+4,1:53,CHA,LaMelo Ball,Personal Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,125,102,0.999,0.999,1:59
+4,58.5,CHA,Kai Jones,Loose Ball Foul,Foul,Courtney Kirkland,J.T. Orr,Tre Maddox,MIL,127,104,0.999,0.999,58.5

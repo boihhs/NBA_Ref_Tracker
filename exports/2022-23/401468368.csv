@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:27,OKC,Aleksej Pokusevski,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,5,6,0.72,0.722,9:36
+1,8:22,OKC,Aaron Wiggins,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,10,6,0.809,0.81,8:26
+1,7:17,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,13,8,0.845,0.824,7:34
+1,5:49,WSH,Monte Morris,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,22,12,0.877,0.876,5:57
+1,2:50,WSH,Will Barton,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,33,18,0.921,0.936,2:50
+1,1:02,WSH,Daniel Gafford,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,37,23,0.903,0.919,1:06
+1,5.7,OKC,Kenrich Williams,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,37,29,0.878,0.858,12.4
+2,9:41,WSH,Jordan Goodwin,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,37,34,0.722,0.737,9:41
+2,9:05,WSH,Daniel Gafford,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,37,36,0.648,0.688,9:18
+2,8:52,OKC,Jaylin Williams,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,37,37,0.687,0.689,9:05
+2,5:13,OKC,Aleksej Pokusevski,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,54,42,0.91,0.911,5:22
+2,2:03,WSH,Monte Morris,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,61,49,0.877,0.9,2:10
+2,1:35,WSH,Deni Avdija,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,64,50,0.908,0.925,1:45
+2,1:15,OKC,Mike Muscala,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,66,51,0.953,0.938,1:15
+3,9:32,WSH,Monte Morris,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,72,61,0.893,0.891,9:37
+3,9:21,WSH,Deni Avdija,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,72,61,0.866,0.893,9:32
+3,8:05,OKC,Luguentz Dort,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,72,64,0.857,0.858,8:23
+3,6:21,WSH,Corey Kispert,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,75,69,0.743,0.787,6:32
+3,5:38,WSH,Kyle Kuzma,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,77,71,0.766,0.788,5:44
+3,4:51,WSH,Kristaps Porzingis,Offensive Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,79,74,0.758,0.79,5:04
+3,4:08,WSH,Will Barton,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,79,77,0.586,0.651,4:12
+3,3:45,OKC,Lindy Waters III,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,79,79,0.669,0.61,4:08
+3,3:07,OKC,Kenrich Williams,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,81,82,0.561,0.562,3:18
+3,2:53,OKC,Jalen Williams,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,81,82,0.625,0.561,3:07
+4,11:46,OKC,Mike Muscala,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,87,89,0.508,0.463,12:00
+4,10:57,OKC,Jalen Williams,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,91,89,0.736,0.641,10:57
+4,10:28,WSH,Jordan Goodwin,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,92,89,0.68,0.693,10:29
+4,9:11,OKC,Lindy Waters III,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,94,95,0.553,0.534,9:26
+4,8:27,OKC,Mike Muscala,Offensive Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,96,95,0.646,0.59,8:31
+4,6:58,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,96,98,0.57,0.463,7:01
+4,6:19,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,100,101,0.583,0.463,6:19
+4,6:03,OKC,Josh Giddey,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,101,101,0.69,0.598,6:03
+4,5:36,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,103,103,0.692,0.598,5:52
+4,4:42,WSH,Deni Avdija,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,108,107,0.52,0.663,4:42
+4,4:04,OKC,Aaron Wiggins,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,108,107,0.757,0.583,4:24
+4,3:53,WSH,Deni Avdija,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,109,107,0.517,0.655,4:04
+4,3:28,WSH,Deni Avdija,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,111,108,0.594,0.72,3:37
+4,2:56,WSH,Kyle Kuzma,Personal Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,111,109,0.511,0.634,3:11
+4,1:45,OKC,Luguentz Dort,Shooting Foul,Foul,Bill Kennedy,Brett Nansel,Mousa Dagher,WSH,113,116,0.422,0.283,1:54

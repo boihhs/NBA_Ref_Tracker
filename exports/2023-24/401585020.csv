@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,4:49,HOU,Fred VanVleet,Personal Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,10,15,0.626,0.628,5:12
+1,4:10,NO,Jose Alvarado,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,10,15,0.55,0.592,4:12
+1,3:13,NO,Naji Marshall,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,12,19,0.507,0.558,3:13
+1,1:46,HOU,Tari Eason,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,16,21,0.642,0.604,1:58
+1,1:15,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,19,23,0.646,0.597,1:15
+1,51.1,NO,Jose Alvarado,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,20,23,0.603,0.624,51.1
+1,51.1,NO,Naji Marshall,Technical Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,20,23,0.603,0.603,51.1
+2,11:47,NO,CJ McCollum,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,24,26,0.6,0.659,12:00
+2,11:36,HOU,Jeff Green,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,24,28,0.654,0.616,11:47
+2,10:51,NO,Zion Williamson,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,26,28,0.617,0.637,10:57
+2,10:41,HOU,Tari Eason,Personal Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,26,30,0.606,0.61,10:51
+2,8:45,NO,Trey Murphy III,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,30,32,0.603,0.653,9:16
+2,8:36,HOU,Jae'Sean Tate,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,30,33,0.663,0.624,8:45
+2,5:40,NO,Jonas Valanciunas,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,35,37,0.578,0.63,5:40
+2,1:34,HOU,Dillon Brooks,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,46,47,0.682,0.639,1:46
+2,6.1,HOU,Jalen Green,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,49,47,0.759,0.719,28.1
+3,11:04,HOU,Alperen Sengun,Personal Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,54,50,0.772,0.774,11:05
+3,10:46,NO,Jonas Valanciunas,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,56,50,0.758,0.796,10:58
+3,9:59,HOU,Dillon Brooks,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,56,51,0.83,0.797,10:14
+3,9:20,NO,Herbert Jones,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,60,54,0.754,0.794,9:22
+3,9:11,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,62,56,0.836,0.794,9:11
+3,8:24,NO,Jonas Valanciunas,Loose Ball Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,62,59,0.706,0.706,8:24
+3,7:56,NO,Jonas Valanciunas,Offensive Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,62,59,0.705,0.705,7:59
+3,5:54,NO,Jeremiah Robinson-Earl,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,70,64,0.749,0.794,5:57
+3,5:42,HOU,Dillon Brooks,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,70,65,0.816,0.796,5:42
+3,5:13,HOU,Alperen Sengun,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,71,67,0.809,0.763,5:23
+3,3:53,NO,Jeremiah Robinson-Earl,Personal Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,73,70,0.636,0.695,4:07
+3,3:24,NO,Jose Alvarado,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,75,72,0.704,0.694,3:37
+3,2:55,HOU,Tari Eason,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,75,75,0.675,0.612,3:13
+3,2:33,HOU,Alperen Sengun,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,76,75,0.712,0.655,2:40
+3,1:27,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,80,77,0.785,0.73,1:27
+3,9.0,NO,Jose Alvarado,Personal Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,82,77,0.707,0.762,25.0
+4,11:46,HOU,Jae'Sean Tate,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,84,79,0.862,0.786,12:00
+4,11:29,NO,Trey Murphy III,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,85,79,0.744,0.811,11:42
+4,11:02,NO,CJ McCollum,Personal Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,85,80,0.757,0.771,11:12
+4,9:42,NO,CJ McCollum,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,85,87,0.315,0.411,9:43
+4,9:31,HOU,Tari Eason,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,85,88,0.506,0.406,9:40
+4,9:18,NO,Jonas Valanciunas,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,88,88,0.536,0.517,9:31
+4,7:32,HOU,Tari Eason,Personal Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,91,91,0.591,0.57,7:49
+4,7:26,NO,Jonas Valanciunas,Offensive Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,91,91,0.511,0.591,7:32
+4,6:02,NO,Brandon Ingram,Personal Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,93,93,0.387,0.501,6:11
+4,5:01,HOU,Alperen Sengun,Personal Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,96,93,0.831,0.685,5:12
+4,4:35,NO,Brandon Ingram,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,96,93,0.597,0.696,4:45
+4,4:06,NO,Jonas Valanciunas,Personal Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,98,95,0.596,0.51,7:07
+4,1:05,NO,CJ McCollum,Shooting Foul,Foul,Bill Kennedy,Matt Boland,CJ Washington,NO,100,101,0.217,0.354,1:09

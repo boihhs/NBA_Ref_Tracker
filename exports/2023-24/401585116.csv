@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:47,DEN,Nikola Jokic,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,0,5,0.666,0.7,10:54
+1,9:46,ORL,Anthony Black,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,2,6,0.762,0.735,9:54
+1,8:36,ORL,Moritz Wagner,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,8,10,0.778,0.745,8:36
+1,6:16,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,19,12,0.868,0.889,6:16
+1,5:44,ORL,Jalen Suggs,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,21,13,0.898,0.898,5:44
+1,5:35,ORL,Caleb Houstan,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,23,13,0.923,0.908,5:35
+1,5:17,ORL,Caleb Houstan,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,24,16,0.912,0.897,5:20
+1,4:34,DEN,Kentavious Caldwell-Pope,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,26,16,0.906,0.907,4:41
+1,1:51,DEN,Peyton Watson,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,29,26,0.777,0.806,1:59
+1,1:20,DEN,Peyton Watson,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,31,26,0.812,0.836,1:31
+1,53.0,ORL,Trevelin Queen,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,31,28,0.83,0.815,53.0
+2,11:48,DEN,Zeke Nnaji,Offensive Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,37,28,0.889,0.894,0.0
+2,10:40,DEN,Justin Holiday,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,39,31,0.873,0.873,10:46
+2,10:24,ORL,Cole Anthony,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,39,34,0.844,0.845,10:35
+2,8:39,DEN,Zeke Nnaji,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,43,36,0.83,0.856,8:51
+2,7:10,ORL,Moritz Wagner,Loose Ball Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,48,36,0.927,0.928,7:10
+2,6:56,DEN,Braxton Key,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,48,36,0.901,0.917,7:01
+2,6:40,ORL,Paolo Banchero,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,48,38,0.906,0.908,6:56
+2,1:28,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,63,51,0.898,0.917,1:47
+3,10:02,ORL,Caleb Houstan,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,74,58,0.975,0.966,10:24
+3,9:44,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,76,58,0.968,0.973,9:44
+3,6:14,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,80,71,0.847,0.878,6:17
+3,5:39,ORL,Jalen Suggs,Loose Ball Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,82,73,0.898,0.898,5:39
+3,5:29,ORL,Moritz Wagner,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,84,73,0.937,0.914,5:29
+3,3:44,ORL,Moritz Wagner,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,91,83,0.91,0.882,3:56
+3,3:29,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,91,85,0.784,0.839,3:29
+3,42.1,DEN,Peyton Watson,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,95,90,0.722,0.776,1:04
+4,11:31,ORL,Trevelin Queen,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,98,97,0.67,0.656,11:47
+4,11:23,DEN,Zeke Nnaji,Offensive Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,98,97,0.613,0.67,11:31
+4,9:10,ORL,Chuma Okeke,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,102,103,0.564,0.55,9:21
+4,9:05,ORL,Trevelin Queen,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,102,103,0.574,0.564,9:10
+4,8:03,ORL,Cole Anthony,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,102,103,0.651,0.554,8:05
+4,7:46,DEN,Zeke Nnaji,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,103,103,0.459,0.566,8:03
+4,6:38,DEN,Peyton Watson,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,106,107,0.368,0.481,6:43
+4,6:25,ORL,Trevelin Queen,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,106,108,0.574,0.477,6:38
+4,5:31,DEN,Michael Porter Jr.,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,109,110,0.335,0.463,5:52
+4,5:07,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,109,112,0.212,0.311,5:18
+4,3:45,ORL,Jalen Suggs,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,111,115,0.377,0.271,3:45
+4,2:47,DEN,Michael Porter Jr.,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,112,115,0.15,0.24,2:48
+4,47.1,ORL,Paolo Banchero,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,118,118,0.717,0.548,49.0
+4,34.1,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,120,118,0.504,0.649,47.1
+4,9.1,DEN,Nikola Jokic,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Matt Myers,DEN,120,120,0.218,0.453,13.1

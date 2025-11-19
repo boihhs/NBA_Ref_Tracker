@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:22,GS,Andrew Wiggins,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,4,2,0.401,0.402,10:23
+1,8:13,GS,Kevon Looney,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,11,7,0.462,0.462,8:13
+1,7:09,LAC,Terance Mann,Personal Take Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,14,9,0.47,0.468,7:11
+1,4:02,GS,Kevon Looney,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,25,26,0.368,0.326,4:02
+1,3:32,GS,Gary Payton II,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,26,26,0.417,0.375,3:48
+1,2:01,LAC,Robert Covington,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,34,29,0.491,0.49,2:13
+2,11:54,LAC,Isaiah Hartenstein,Offensive Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,34,37,0.284,0.297,12:00
+2,11:16,GS,Klay Thompson,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,34,39,0.3,0.264,11:28
+2,10:32,GS,Jordan Poole,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,35,39,0.288,0.287,10:36
+2,10:05,GS,Otto Porter Jr.,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,37,39,0.339,0.34,10:07
+2,8:12,LAC,Amir Coffey,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,42,43,0.347,0.343,8:16
+2,7:14,GS,Jonathan Kuminga,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,42,48,0.281,0.244,7:30
+2,7:03,LAC,Robert Covington,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,44,48,0.232,0.266,7:14
+2,4:04,GS,Stephen Curry,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,54,54,0.466,0.418,4:20
+2,3:36,GS,Jonathan Kuminga,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,57,54,0.542,0.483,3:36
+2,1:30,LAC,Reggie Jackson,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,59,54,0.514,0.562,1:47
+2,1:25,LAC,Nicolas Batum,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,59,54,0.515,0.514,1:30
+3,11:17,LAC,Terance Mann,Offensive Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,63,59,0.542,0.582,11:25
+3,10:51,LAC,Reggie Jackson,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,63,59,0.548,0.544,10:53
+3,5:36,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,78,65,0.844,0.877,5:50
+3,5:18,LAC,Ivica Zubac,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,78,66,0.82,0.859,5:21
+3,3:42,GS,Kevon Looney,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,83,71,0.897,0.896,3:52
+3,3:36,GS,Nemanja Bjelica,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,83,71,0.924,0.897,3:42
+3,2:39,LAC,Marcus Morris Sr.,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,84,74,0.811,0.863,2:39
+3,2:01,GS,Jordan Poole,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,87,75,0.915,0.913,2:04
+3,1:51,LAC,Amir Coffey,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,87,75,0.856,0.893,1:51
+3,48.8,GS,Moses Moody,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,89,76,0.958,0.953,48.8
+4,11:07,LAC,Isaiah Hartenstein,Personal Take Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,96,78,0.984,0.986,11:07
+4,9:20,GS,Damion Lee,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,96,78,0.996,0.993,9:23
+4,8:53,LAC,Robert Covington,Offensive Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,97,81,0.984,0.988,9:10
+4,8:05,GS,Otto Porter Jr.,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,100,84,0.992,0.991,8:22
+4,5:18,GS,Jonathan Kuminga,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,109,89,0.999,0.999,5:21
+4,3:33,LAC,Isaiah Hartenstein,Loose Ball Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,114,91,0.999,0.999,3:33
+4,2:08,LAC,Robert Covington,Shooting Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,117,95,0.999,0.999,2:11
+4,1:43,LAC,Robert Covington,Personal Foul,Foul,Matt Boland,Ed Malloy,Mitchell Ervin,LAC,119,97,0.999,0.999,1:53

@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:18,BOS,Jayson Tatum,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,3,2,0.474,0.512,10:21
+1,9:35,BOS,Juancho Hernangomez,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,5,6,0.461,0.459,9:47
+1,9:20,BOS,Jayson Tatum,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,5,6,0.46,0.488,9:27
+1,7:23,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,10,6,0.616,0.591,7:23
+1,3:21,ORL,Terrence Ross,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,21,15,0.673,0.674,3:22
+1,51.3,ORL,Moritz Wagner,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,21,19,0.57,0.57,1:01
+1,43.1,BOS,Dennis Schroder,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,21,19,0.5,0.543,45.3
+2,10:35,ORL,E'Twaun Moore,Flagrant Foul Type 1,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,21,24,0.428,0.428,10:56
+2,6:55,ORL,Terrence Ross,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,29,36,0.29,0.304,7:02
+2,5:26,ORL,Franz Wagner,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,33,38,0.359,0.359,5:28
+2,5:25,ORL,Jalen Suggs,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,33,38,0.36,0.36,5:26
+2,2:36,BOS,Josh Richardson,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,42,41,0.532,0.517,2:36
+2,2:20,ORL,Jalen Suggs,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,42,43,0.532,0.482,2:36
+2,1:40,BOS,Jaylen Brown,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,46,43,0.532,0.581,1:50
+2,1:09,ORL,Terrence Ross,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,46,47,0.534,0.485,1:17
+2,43.2,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,48,50,0.501,0.448,58.6
+3,11:46,BOS,Robert Williams III,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,50,52,0.36,0.428,12:00
+3,10:57,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,50,53,0.41,0.375,11:03
+3,10:50,ORL,Jalen Suggs,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,50,53,0.411,0.41,10:57
+3,10:12,ORL,Franz Wagner,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,50,53,0.435,0.41,10:12
+3,9:00,BOS,Juancho Hernangomez,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,56,55,0.517,0.517,9:15
+3,8:51,ORL,Jalen Suggs,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,56,56,0.575,0.519,9:00
+3,8:12,ORL,Franz Wagner,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,58,58,0.576,0.519,8:26
+3,1:04,ORL,R.J. Hampton,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,67,76,0.152,0.153,1:10
+3,54.4,BOS,Dennis Schroder,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,69,76,0.136,0.18,1:04
+3,42.8,ORL,Mo Bamba,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,69,76,0.216,0.216,42.8
+3,5.0,ORL,Moritz Wagner,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,71,76,0.288,0.248,8.9
+4,10:58,BOS,Grant Williams,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,71,79,0.128,0.16,11:02
+4,9:56,ORL,Cole Anthony,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,71,79,0.149,0.119,10:02
+4,7:46,BOS,Josh Richardson,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,73,82,0.069,0.075,7:49
+4,3:25,BOS,Payton Pritchard,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,87,89,0.301,0.301,3:26
+4,58.4,ORL,Jon Teske,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,92,97,0.253,0.117,1:09
+4,4.0,BOS,Payton Pritchard,Personal Foul,Foul,Marat Kogut,Josh Tiven,Tyler Ricks,BOS,98,97,0.291,0.666,6.6

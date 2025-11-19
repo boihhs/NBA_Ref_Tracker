@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:36,NY,Quentin Grimes,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,7,10,0.48,0.481,8:48
+1,7:59,TOR,Fred VanVleet,Offensive Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,10,13,0.451,0.479,8:07
+1,7:01,NY,Julius Randle,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,12,16,0.49,0.451,7:20
+1,4:46,TOR,OG Anunoby,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,17,19,0.43,0.47,4:58
+1,3:59,NY,Immanuel Quickley,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,17,24,0.402,0.366,4:09
+1,2:21,TOR,Christian Koloko,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,22,28,0.358,0.358,2:27
+2,9:11,TOR,OG Anunoby,Loose Ball Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,28,39,0.216,0.213,9:11
+2,8:44,NY,Evan Fournier,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,28,41,0.191,0.234,8:57
+2,8:02,NY,Evan Fournier,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,28,41,0.188,0.188,8:05
+2,7:26,NY,Jalen Brunson,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,30,41,0.246,0.203,7:26
+2,6:28,TOR,OG Anunoby,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,32,43,0.169,0.199,6:39
+2,4:15,NY,Immanuel Quickley,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,34,49,0.144,0.112,4:15
+2,3:51,NY,Quentin Grimes,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,35,52,0.118,0.097,4:00
+2,3:27,NY,Immanuel Quickley,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,37,52,0.154,0.124,3:33
+2,2:19,TOR,Fred VanVleet,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,41,54,0.137,0.141,2:43
+2,1:39,TOR,Pascal Siakam,Transition Take Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,41,56,0.099,0.099,1:39
+2,1:21,TOR,Thaddeus Young,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,41,56,0.077,0.099,1:39
+2,56.0,NY,Mitchell Robinson,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,41,57,0.108,0.097,56.0
+3,10:31,TOR,Gary Trent Jr.,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,49,59,0.18,0.18,10:41
+3,9:41,NY,Mitchell Robinson,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,51,59,0.281,0.226,9:41
+3,6:10,NY,Mitchell Robinson,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,64,69,0.397,0.34,6:26
+3,5:25,TOR,Pascal Siakam,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,66,71,0.269,0.335,5:25
+3,3:55,NY,Isaiah Hartenstein,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,68,72,0.429,0.368,4:03
+3,3:37,TOR,Christian Koloko,Defensive 3-Seconds Technical,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,70,72,0.417,0.407,3:55
+3,2:42,NY,Julius Randle,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,72,76,0.424,0.36,2:51
+3,2:27,TOR,Gary Trent Jr.,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,72,76,0.315,0.313,2:31
+3,1:31,NY,Quentin Grimes,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,72,79,0.291,0.23,1:37
+3,1:12,TOR,Fred VanVleet,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,74,79,0.207,0.266,1:31
+3,5.1,NY,Miles McBride,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,77,79,0.511,0.438,11.0
+3,0.1,TOR,Jeff Dowtin Jr.,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,78,79,0.361,0.44,1.1
+4,11:55,TOR,Christian Koloko,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,78,81,0.324,0.364,12:00
+4,11:06,TOR,Scottie Barnes,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,78,83,0.17,0.239,11:19
+4,10:37,TOR,Christian Koloko,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,78,85,0.124,0.153,10:37
+4,9:58,NY,Evan Fournier,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,78,89,0.076,0.071,10:05
+4,9:50,NY,Isaiah Hartenstein,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,78,89,0.114,0.076,9:58
+4,8:14,NY,Julius Randle,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,82,95,0.059,0.035,8:29
+4,7:48,NY,Mitchell Robinson,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,84,97,0.055,0.033,7:59
+4,6:30,TOR,Gary Trent Jr.,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,87,99,0.014,0.026,6:33
+4,5:17,TOR,Pascal Siakam,Loose Ball Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,87,100,0.006,0.011,5:17
+4,5:08,TOR,Pascal Siakam,Offensive Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,87,102,0.004,0.007,5:17
+4,4:37,TOR,Scottie Barnes,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,87,102,0.001,0.003,4:42
+4,3:10,NY,Mitchell Robinson,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,89,105,0.002,0.001,3:16
+4,1:55,NY,Jalen Brunson,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,97,107,0.032,0.015,2:03
+4,1:29,NY,Mitchell Robinson,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,98,107,0.043,0.018,1:30
+4,48.0,TOR,OG Anunoby,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,103,107,0.048,0.016,49.0
+4,22.1,TOR,OG Anunoby,Shooting Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,106,110,0.044,0.133,22.1
+4,13.1,TOR,Scottie Barnes,Personal Foul,Foul,Marc Davis,Sean Corbin,Brandon Adair,TOR,108,111,0.033,0.099,17.1

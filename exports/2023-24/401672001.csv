@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:06,IND,Andrew Nembhard,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,2,0,0.334,0.333,11:17
+1,8:08,BOS,Jayson Tatum,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,6,11,0.219,0.22,8:16
+1,5:48,IND,T.J. McConnell,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,15,18,0.245,0.243,5:58
+1,4.2,IND,Isaiah Jackson,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,25,27,0.247,0.28,27.0
+1,2.1,BOS,Al Horford,Personal Take Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,25,29,0.294,0.257,4.2
+2,10:57,BOS,Jaylen Brown,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,29,32,0.321,0.285,11:19
+2,10:31,IND,Doug McDermott,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,30,32,0.25,0.285,10:40
+2,8:42,BOS,Al Horford,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,40,37,0.481,0.428,8:42
+2,7:34,IND,Doug McDermott,Loose Ball Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,42,39,0.435,0.434,7:34
+2,7:25,IND,Ben Sheppard,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,42,41,0.356,0.404,7:25
+2,7:11,BOS,Jayson Tatum,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,42,42,0.423,0.378,7:25
+2,5:17,BOS,Derrick White,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,46,48,0.372,0.326,5:28
+2,4:10,IND,Myles Turner,Loose Ball Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,49,48,0.345,0.39,4:10
+2,3:17,BOS,Jrue Holiday,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,49,50,0.412,0.364,3:31
+2,2:18,IND,Ben Sheppard,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,51,55,0.215,0.251,2:20
+2,27.1,BOS,Jrue Holiday,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,53,56,0.361,0.308,30.0
+3,8:06,BOS,Jrue Holiday,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,68,65,0.604,0.547,8:08
+3,7:42,IND,Myles Turner,Offensive Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,69,67,0.469,0.508,7:59
+3,7:42,IND,Myles Turner,Double Technical Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,69,67,0.479,0.469,7:42
+3,7:30,IND,Ben Sheppard,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,69,67,0.47,0.479,7:42
+3,7:22,IND,Myles Turner,Offensive Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,69,67,0.471,0.513,7:27
+3,6:50,IND,Obi Toppin,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,69,67,0.445,0.475,6:50
+3,5:30,BOS,Derrick White,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,71,71,0.505,0.442,5:44
+3,5:05,BOS,Jayson Tatum,Offensive Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,73,71,0.529,0.486,5:06
+3,4:27,BOS,Sam Hauser,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,73,71,0.533,0.534,4:27
+3,4:07,IND,Isaiah Jackson,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,76,71,0.62,0.617,4:22
+3,3:56,IND,Isaiah Jackson,Loose Ball Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,76,71,0.557,0.622,3:56
+3,3:33,IND,Myles Turner,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,76,71,0.561,0.625,3:36
+3,27.1,BOS,Payton Pritchard,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,82,80,0.64,0.566,34.1
+4,9:37,BOS,Jayson Tatum,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,89,85,0.713,0.698,9:54
+4,9:20,IND,Andrew Nembhard,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,91,85,0.742,0.752,9:28
+4,8:57,BOS,Derrick White,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,93,85,0.9,0.835,8:57
+4,7:23,BOS,Jaylen Brown,Loose Ball Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,94,88,0.843,0.83,7:23
+4,5:36,IND,Myles Turner,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,98,90,0.833,0.895,5:56
+4,4:30,BOS,Jayson Tatum,Offensive Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,98,95,0.74,0.668,4:43
+4,3:54,IND,Obi Toppin,Shooting Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,100,97,0.599,0.751,3:54
+4,29.0,IND,Aaron Nesmith,Personal Foul,Foul,James Capers,Pat Fraher,Zach Zarba,IND,102,105,0.055,0.113,30.1

@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:08,GS,Andrew Wiggins,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,3,0,0.561,0.562,11:21
+1,10:25,DEN,Aaron Gordon,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,3,5,0.461,0.461,10:43
+1,9:19,DEN,Nikola Jokic,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,6,7,0.485,0.487,9:22
+1,8:30,DEN,PJ Dozier,Personal Take Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,8,10,0.46,0.46,8:32
+1,7:12,GS,Kevon Looney,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,10,14,0.394,0.407,7:12
+1,7:02,DEN,Monte Morris,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,10,15,0.421,0.38,7:12
+1,6:45,DEN,PJ Dozier,Loose Ball Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,12,15,0.472,0.434,6:45
+1,5:03,GS,Andrew Wiggins,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,12,23,0.201,0.237,5:03
+1,4:12,GS,Juan Toscano-Anderson,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,12,28,0.117,0.144,4:12
+1,2:49,DEN,Facundo Campazzo,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,18,31,0.222,0.175,2:56
+1,35.2,GS,Avery Bradley,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,26,38,0.172,0.205,35.2
+2,11:32,DEN,Bones Hyland,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,26,41,0.133,0.14,11:43
+2,11:06,GS,Otto Porter Jr.,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,28,41,0.159,0.159,11:06
+2,7:06,GS,Draymond Green,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,38,46,0.217,0.252,7:19
+2,6:26,DEN,Nikola Jokic,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,40,48,0.318,0.277,6:35
+2,5:53,GS,Nemanja Bjelica,Personal Take Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,42,50,0.248,0.248,5:53
+2,2:44,GS,Draymond Green,Flagrant Foul Type 1,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,50,60,0.155,0.187,2:48
+2,2:15,GS,Otto Porter Jr.,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,50,60,0.185,0.185,2:19
+2,2:00,DEN,Aaron Gordon,Loose Ball Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,50,62,0.163,0.164,2:00
+2,1:35,DEN,Austin Rivers,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,53,62,0.219,0.23,1:35
+2,33.1,DEN,PJ Dozier,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,58,62,0.347,0.347,35.4
+3,10:53,GS,Kevon Looney,Offensive Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,63,62,0.52,0.555,11:05
+3,10:32,DEN,JaMychal Green,Offensive Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,63,62,0.555,0.52,10:53
+3,9:29,DEN,JaMychal Green,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,65,65,0.546,0.478,9:29
+3,9:00,GS,Juan Toscano-Anderson,Offensive Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,66,67,0.445,0.48,9:11
+3,8:00,DEN,Austin Rivers,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,68,67,0.555,0.557,8:09
+3,6:10,GS,Kevon Looney,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,72,71,0.457,0.559,6:31
+3,5:29,GS,Mychal Mulder,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,74,76,0.395,0.439,5:29
+3,4:01,DEN,JaMychal Green,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,76,79,0.424,0.394,4:10
+3,3:10,DEN,Markus Howard,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,78,81,0.455,0.391,3:29
+3,3:05,DEN,Facundo Campazzo,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,78,81,0.455,0.455,3:10
+3,6.1,GS,Chris Chiozza,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,84,89,0.246,0.286,1:16
+4,9:44,DEN,Bol Bol,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,89,89,0.623,0.525,9:54
+4,8:48,DEN,Bones Hyland,Personal Take Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,93,91,0.647,0.646,8:50
+4,8:01,DEN,Bones Hyland,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,93,94,0.505,0.484,8:11
+4,7:41,GS,Langston Galloway,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,93,94,0.419,0.432,7:52
+4,6:28,DEN,Vlatko Cancar,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,99,97,0.678,0.678,6:28
+4,5:14,DEN,Zeke Nnaji,Personal Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,101,100,0.731,0.634,5:28
+4,9.6,DEN,Zeke Nnaji,Shooting Foul,Foul,Brent Barnaky,Kevin Cutler,Suyash Mehta,GS,115,114,0.897,0.712,32.5

@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:31,MIL,Khris Middleton,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,2,0,0.723,0.753,11:43
+1,10:05,BKN,Andre Drummond,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,4,4,0.741,0.726,10:05
+1,7:49,BKN,Bruce Brown,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,12,6,0.849,0.828,7:52
+1,7:08,BKN,Andre Drummond,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,15,8,0.851,0.826,7:08
+1,6:59,MIL,Grayson Allen,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,16,8,0.841,0.841,7:08
+1,4:57,MIL,Wesley Matthews,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,16,14,0.712,0.749,4:57
+1,3:28,MIL,Serge Ibaka,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,21,17,0.749,0.785,3:28
+1,1:15,MIL,Jevon Carter,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,25,23,0.679,0.717,1:17
+1,1:05,BKN,LaMarcus Aldridge,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,25,24,0.747,0.717,1:12
+1,54.0,MIL,Grayson Allen,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,27,24,0.702,0.738,1:05
+1,20.4,BKN,Patty Mills,Loose Ball Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,30,25,0.825,0.795,20.4
+2,10:57,MIL,DeAndre' Bembry,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,32,28,0.754,0.755,11:11
+2,10:10,BKN,Kessler Edwards,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,32,33,0.69,0.653,10:18
+2,8:31,MIL,DeAndre' Bembry,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,41,39,0.679,0.723,8:31
+2,5:40,BKN,Kyrie Irving,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,47,43,0.764,0.765,5:48
+2,3:58,BKN,Kessler Edwards,Loose Ball Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,49,45,0.76,0.762,3:58
+2,2:45,BKN,Cam Thomas,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,52,47,0.816,0.782,2:45
+2,2:08,MIL,Bobby Portis,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,54,47,0.805,0.805,2:27
+3,11:11,MIL,Grayson Allen,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,61,59,0.64,0.696,11:11
+3,10:17,BKN,Bruce Brown,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,65,60,0.799,0.781,10:17
+3,9:36,BKN,Seth Curry,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,66,62,0.752,0.753,9:38
+3,9:21,MIL,Bobby Portis,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,68,62,0.736,0.778,9:33
+3,9:06,BKN,Seth Curry,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,68,64,0.792,0.753,9:21
+3,8:44,MIL,Khris Middleton,Offensive Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,70,66,0.719,0.751,8:53
+3,5:50,BKN,Andre Drummond,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,72,81,0.304,0.253,6:04
+3,4:04,MIL,Serge Ibaka,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,76,89,0.097,0.096,4:05
+3,1:17,BKN,Goran Dragic,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,86,91,0.426,0.36,1:26
+3,1:09,MIL,Jevon Carter,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,88,91,0.329,0.399,1:17
+4,11:35,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,95,96,0.389,0.486,11:48
+4,10:17,BKN,Kyrie Irving,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,101,100,0.71,0.625,10:20
+4,9:56,BKN,James Johnson,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,102,100,0.762,0.68,9:58
+4,9:33,MIL,DeAndre' Bembry,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,104,100,0.718,0.732,9:35
+4,9:28,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,104,100,0.632,0.718,9:33
+4,8:30,BKN,Andre Drummond,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,106,102,0.782,0.767,8:36
+4,8:08,MIL,DeAndre' Bembry,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,106,102,0.639,0.728,8:17
+4,7:07,BKN,Bruce Brown,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,109,103,0.905,0.854,7:17
+4,6:16,BKN,James Johnson,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,110,103,0.936,0.902,6:17
+4,4:03,MIL,Khris Middleton,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,112,107,0.726,0.813,4:13
+4,3:47,MIL,Khris Middleton,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,112,110,0.574,0.705,3:47
+4,2:29,BKN,Andre Drummond,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,114,113,0.757,0.644,2:29
+4,2:20,MIL,Wesley Matthews,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,114,113,0.419,0.554,2:25
+4,21.7,MIL,Bobby Portis,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,116,118,0.09,0.196,21.7
+4,14.6,BKN,Kyrie Irving,Shooting Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,116,119,0.387,0.195,18.3
+4,8.9,MIL,Jevon Carter,Personal Take Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,118,119,0.107,0.297,14.6
+4,7.7,BKN,Seth Curry,Personal Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,118,121,0.293,0.146,8.9
+4,7.3,MIL,Jrue Holiday,Personal Take Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,120,121,0.088,0.22,7.7
+4,6.7,BKN,James Johnson,Personal Take Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,120,123,0.255,0.12,7.3
+4,5.6,MIL,Jrue Holiday,Personal Take Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,121,123,0.033,0.106,6.7
+4,3.1,BKN,James Johnson,Personal Take Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,121,124,0.118,0.092,5.6
+4,2.1,MIL,Serge Ibaka,Personal Take Foul,Foul,Marc Davis,Lauren Holtkamp,Tyler Ford,MIL,123,124,0.025,0.088,3.1

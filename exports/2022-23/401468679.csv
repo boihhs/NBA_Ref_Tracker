@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:51,CLE,Jarrett Allen,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,6,5,0.423,0.391,10:00
+1,7:53,IND,Aaron Nesmith,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,13,9,0.426,0.444,7:53
+1,7:19,IND,Aaron Nesmith,Personal Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,15,11,0.448,0.446,7:33
+1,2:16,IND,Bennedict Mathurin,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,23,22,0.349,0.387,2:32
+1,1:39,CLE,Evan Mobley,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,23,26,0.35,0.313,2:04
+1,1:09,CLE,Evan Mobley,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,26,28,0.357,0.312,1:09
+2,11:37,CLE,Kevin Love,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,29,34,0.304,0.268,11:41
+2,10:38,IND,Jalen Smith,Loose Ball Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,34,36,0.319,0.318,10:38
+2,10:10,CLE,Kevin Love,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,36,38,0.366,0.319,10:10
+2,10:00,IND,Jalen Smith,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,37,40,0.277,0.32,10:00
+2,6:28,CLE,Caris LeVert,Personal Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,49,48,0.443,0.443,6:36
+2,6:01,IND,Buddy Hield,Personal Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,51,48,0.479,0.475,6:15
+2,4:07,IND,Buddy Hield,Personal Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,56,54,0.406,0.455,4:07
+3,7:11,IND,Aaron Nesmith,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,76,77,0.324,0.379,7:13
+3,7:09,IND,Andrew Nembhard,Personal Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,76,77,0.38,0.379,7:09
+3,6:09,CLE,Caris LeVert,Personal Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,76,82,0.241,0.241,6:16
+3,3:39,IND,Myles Turner,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,89,86,0.491,0.554,3:57
+3,3:34,CLE,Kevin Love,Personal Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,89,88,0.515,0.516,3:39
+3,1:29,IND,IND,Technical Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,96,93,0.538,0.621,1:29
+3,1:29,IND,IND,Technical Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,96,93,0.538,0.538,1:29
+3,31.1,CLE,Isaac Okoro,Loose Ball Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,96,96,0.556,0.482,31.1
+3,6.0,IND,Buddy Hield,Personal Take Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,99,96,0.507,0.58,21.1
+4,11:09,IND,Oshae Brissett,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,99,100,0.336,0.441,11:09
+4,9:20,CLE,Caris LeVert,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,101,108,0.227,0.158,9:29
+4,9:08,IND,Chris Duarte,Personal Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,103,108,0.186,0.199,9:20
+4,9:06,CLE,Jarrett Allen,Offensive Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,103,108,0.233,0.186,9:08
+4,8:57,CLE,Caris LeVert,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,103,108,0.319,0.233,9:06
+4,8:48,IND,Oshae Brissett,Personal Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,105,108,0.265,0.282,8:57
+4,7:38,CLE,Kevin Love,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,107,111,0.371,0.273,7:54
+4,5:18,IND,Bennedict Mathurin,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,116,117,0.27,0.377,5:38
+4,3:44,CLE,Darius Garland,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,123,119,0.84,0.728,3:44
+4,2:48,IND,Myles Turner,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,125,119,0.839,0.876,2:48
+4,1:56,IND,Buddy Hield,Personal Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,127,120,0.875,0.928,2:14
+4,44.0,CLE,Caris LeVert,Personal Take Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,129,124,0.976,0.94,44.1
+4,36.1,IND,Aaron Nesmith,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,131,124,0.922,0.966,44.0
+4,15.1,CLE,Donovan Mitchell,Shooting Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,131,124,0.998,0.989,35.0
+4,6.2,CLE,Donovan Mitchell,Personal Take Foul,Foul,James Capers,Aaron Smith,Andy Nagy,IND,133,126,0.999,0.999,8.1

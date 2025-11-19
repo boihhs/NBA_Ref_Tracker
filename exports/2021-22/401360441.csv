@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:05,NY,Evan Fournier,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,5,0,0.464,0.502,9:11
+1,6:30,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,10,8,0.501,0.461,6:47
+1,4:28,NY,Alec Burks,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,17,10,0.536,0.576,4:35
+1,3:25,DAL,Jalen Brunson,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,21,14,0.612,0.611,3:41
+1,1:28,NY,Immanuel Quickley,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,26,19,0.549,0.59,1:41
+1,33.2,NY,Quentin Grimes,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,30,19,0.663,0.703,45.6
+2,10:54,NY,RJ Barrett,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,32,23,0.662,0.662,11:01
+2,10:21,NY,Nerlens Noel,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,32,23,0.622,0.662,10:36
+2,9:50,NY,Immanuel Quickley,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,32,25,0.611,0.609,10:01
+2,7:54,DAL,Josh Green,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,35,32,0.575,0.528,8:10
+2,7:40,NY,Immanuel Quickley,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,37,32,0.514,0.56,7:54
+2,7:00,NY,Alec Burks,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,40,34,0.547,0.592,7:16
+2,6:42,DAL,Marquese Chriss,Offensive Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,40,35,0.597,0.565,6:43
+2,5:39,DAL,Sterling Brown,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,43,35,0.694,0.696,5:48
+2,4:39,DAL,Dwight Powell,Offensive Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,47,37,0.755,0.724,4:57
+2,3:16,NY,Julius Randle,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,47,41,0.63,0.647,3:16
+2,2:48,DAL,Maxi Kleber,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,49,42,0.667,0.65,2:48
+2,1:42,DAL,Maxi Kleber,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,49,42,0.731,0.691,1:47
+2,1:07,NY,Nerlens Noel,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,51,42,0.676,0.722,1:21
+2,16.9,DAL,Luka Doncic,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,54,45,0.744,0.754,29.8
+3,11:06,NY,Mitchell Robinson,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,58,48,0.765,0.763,11:18
+3,10:57,NY,Mitchell Robinson,Defensive 3-Seconds Technical,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,58,48,0.776,0.765,11:06
+3,10:46,NY,Mitchell Robinson,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,58,51,0.695,0.712,10:46
+3,9:54,NY,Julius Randle,Offensive Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,60,51,0.747,0.777,9:59
+3,8:03,DAL,Dwight Powell,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,68,51,0.941,0.935,8:03
+3,7:44,NY,Alec Burks,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,69,51,0.929,0.946,8:03
+3,3:23,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,78,64,0.955,0.937,3:45
+3,2:01,NY,Quentin Grimes,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,81,64,0.953,0.967,2:15
+3,3.9,DAL,Dorian Finney-Smith,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,84,66,0.993,0.988,21.2
+4,9:55,NY,Immanuel Quickley,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,90,68,0.997,0.996,10:09
+4,8:35,DAL,Tim Hardaway Jr.,Loose Ball Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,90,71,0.997,0.996,8:35
+4,8:18,NY,Nerlens Noel,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,90,71,0.995,0.996,8:26
+4,6:31,NY,Quentin Grimes,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,90,76,0.979,0.982,6:34
+4,5:33,DAL,Tim Hardaway Jr.,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,90,76,0.991,0.99,5:47
+4,5:25,DAL,Tim Hardaway Jr.,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,92,76,0.997,0.994,5:25
+4,4:40,NY,Mitchell Robinson,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,95,76,0.999,0.999,4:57
+4,4:30,DAL,Maxi Kleber,Personal Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,95,76,0.999,0.999,4:40
+4,3:34,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,98,78,0.999,0.999,3:54
+4,59.2,NY,Jericho Sims,Shooting Foul,Foul,Mark Lindsay,David Guthrie,Scott Twardoski,NY,106,82,0.999,0.999,1:13

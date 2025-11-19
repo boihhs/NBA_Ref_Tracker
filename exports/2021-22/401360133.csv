@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:10,IND,T.J. McConnell,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,0,0,0.585,0.584,11:14
+1,9:23,IND,Caris LeVert,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,5,3,0.667,0.633,9:28
+1,3:24,MIN,Anthony Edwards,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,13,21,0.344,0.33,3:29
+1,2:31,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,16,21,0.405,0.436,2:49
+1,1:42,MIN,D'Angelo Russell,Clear Path Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,16,21,0.402,0.402,1:44
+1,1:21,IND,Chris Duarte,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,16,23,0.419,0.375,1:26
+1,31.0,MIN,Jaylen Nowell,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,18,25,0.303,0.343,47.7
+2,9:45,MIN,Jaylen Nowell,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,26,30,0.418,0.416,9:45
+2,9:39,MIN,D'Angelo Russell,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,26,30,0.419,0.418,9:45
+2,9:08,IND,Isaiah Jackson,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,26,32,0.432,0.389,9:12
+2,7:40,IND,Isaiah Jackson,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,31,32,0.534,0.505,7:43
+2,5:11,MIN,Josh Okogie,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,40,37,0.624,0.624,5:25
+2,4:05,IND,Justin Holiday,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,40,42,0.546,0.496,4:08
+2,2:34,IND,Domantas Sabonis,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,44,47,0.459,0.426,2:46
+2,22.1,MIN,Taurean Prince,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,48,55,0.241,0.284,34.8
+3,11:22,MIN,Josh Okogie,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,48,59,0.153,0.196,11:22
+3,10:21,IND,Domantas Sabonis,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,48,60,0.2,0.162,10:28
+3,9:13,MIN,D'Angelo Russell,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,54,60,0.298,0.296,9:28
+3,7:24,IND,Malcolm Brogdon,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,54,63,0.268,0.223,7:33
+3,7:02,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,55,63,0.218,0.218,7:02
+3,6:22,IND,Domantas Sabonis,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,58,63,0.41,0.352,6:32
+3,6:06,MIN,Karl-Anthony Towns,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,59,63,0.322,0.348,6:06
+3,5:13,MIN,Naz Reid,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,61,65,0.285,0.345,5:13
+3,4:36,MIN,Anthony Edwards,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,63,66,0.32,0.381,4:57
+3,4:00,MIN,Leandro Bolmaro,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,65,68,0.316,0.376,4:08
+3,3:21,IND,Kelan Martin,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,68,69,0.503,0.503,3:21
+3,3:15,IND,Goga Bitadze,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,68,69,0.569,0.503,3:21
+3,2:44,IND,Malcolm Brogdon,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,70,71,0.569,0.502,3:01
+3,2:18,MIN,Anthony Edwards,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,73,71,0.523,0.59,2:29
+3,1:40,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,73,76,0.36,0.407,1:52
+4,10:09,IND,Chris Duarte,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,80,79,0.594,0.594,10:09
+4,10:09,IND,Chris Duarte,Technical Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,80,79,0.641,0.594,10:09
+4,10:09,IND,Chris Duarte,Technical Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,80,79,0.641,0.641,10:09
+4,9:36,MIN,Malik Beasley,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,84,79,0.737,0.746,9:58
+4,9:33,MIN,Taurean Prince,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,84,79,0.73,0.737,9:36
+4,9:17,IND,T.J. McConnell,Technical Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,84,79,0.814,0.784,9:17
+4,9:17,IND,IND,Technical Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,84,79,0.814,0.814,9:17
+4,8:45,MIN,Karl-Anthony Towns,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,85,79,0.788,0.788,8:45
+4,7:46,IND,Domantas Sabonis,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,85,81,0.746,0.693,7:52
+4,7:01,MIN,Naz Reid,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,88,81,0.768,0.839,7:11
+4,1:57,MIN,Josh Okogie,Personal Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,94,89,0.74,0.839,2:10
+4,1:34,MIN,Karl-Anthony Towns,Offensive Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,94,91,0.713,0.786,1:57
+4,1:16,MIN,Naz Reid,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,94,91,0.571,0.719,1:16
+4,1:14,MIN,D'Angelo Russell,Loose Ball Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,94,92,0.468,0.608,1:14
+4,12.6,IND,Caris LeVert,Shooting Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,97,94,0.967,0.86,27.2
+4,4.7,IND,Isaiah Jackson,Personal Take Foul,Foul,Eric Lewis,J.T. Orr,Jonathan Sterling,MIN,98,96,0.972,0.901,6.2

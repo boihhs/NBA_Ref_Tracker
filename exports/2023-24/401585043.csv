@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:18,ORL,Jalen Suggs,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,0,2,0.275,0.306,10:20
+1,9:42,PHI,Tyrese Maxey,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,2,5,0.323,0.285,9:42
+1,7:56,PHI,Tyrese Maxey,Personal Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,9,7,0.431,0.433,7:56
+1,7:06,PHI,Paul Reed,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,12,10,0.474,0.435,7:21
+1,4:27,ORL,Anthony Black,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,16,17,0.305,0.34,4:30
+1,4:22,PHI,Patrick Beverley,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,18,18,0.412,0.367,4:22
+1,1:38,PHI,Marcus Morris Sr.,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,21,20,0.47,0.429,1:40
+2,11:39,PHI,Marcus Morris Sr.,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,25,26,0.42,0.364,12:00
+2,10:11,ORL,Moritz Wagner,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,30,29,0.37,0.41,10:37
+2,9:45,ORL,Chuma Okeke,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,30,33,0.285,0.33,9:45
+2,9:17,ORL,Chuma Okeke,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,32,35,0.286,0.331,9:17
+2,9:06,PHI,Mo Bamba,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,32,35,0.372,0.332,9:15
+2,7:49,PHI,Paul Reed,Loose Ball Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,36,37,0.389,0.388,7:49
+2,7:00,ORL,Moritz Wagner,Offensive Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,36,39,0.307,0.335,7:17
+2,6:17,ORL,Jalen Suggs,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,38,41,0.287,0.336,6:17
+2,4:12,PHI,Paul Reed,Offensive Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,40,42,0.368,0.337,4:17
+2,3:06,PHI,Robert Covington,Offensive Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,44,44,0.436,0.4,3:16
+2,46.0,ORL,Jalen Suggs,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,46,50,0.24,0.281,48.2
+3,11:00,PHI,De'Anthony Melton,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,48,52,0.361,0.314,11:06
+3,10:14,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,50,56,0.251,0.25,10:20
+3,9:06,PHI,De'Anthony Melton,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,50,61,0.159,0.128,9:29
+3,7:04,ORL,Jalen Suggs,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,59,65,0.194,0.245,7:04
+3,6:07,ORL,Franz Wagner,Transition Take Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,62,66,0.274,0.274,6:07
+3,6:03,PHI,Mo Bamba,Offensive Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,62,67,0.275,0.275,6:07
+3,5:33,PHI,Kelly Oubre Jr.,Technical Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,64,67,0.377,0.308,5:43
+3,5:19,PHI,De'Anthony Melton,Personal Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,64,69,0.329,0.274,5:26
+3,4:21,ORL,Anthony Black,Loose Ball Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,64,71,0.176,0.176,4:22
+3,1:53,PHI,Marcus Morris Sr.,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,69,77,0.211,0.163,1:54
+3,11.1,PHI,Patrick Beverley,Flopping Technical,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,73,84,0.084,0.085,23.0
+3,8.1,PHI,Patrick Beverley,Personal Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,74,84,0.141,0.103,11.1
+4,11:36,ORL,Cole Anthony,Transition Take Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,75,84,0.093,0.096,11:36
+4,11:21,PHI,Robert Covington,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,75,84,0.169,0.117,11:22
+4,11:02,ORL,Caleb Houstan,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,77,84,0.098,0.144,11:21
+4,8:51,ORL,Caleb Houstan,Offensive Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,83,89,0.154,0.195,8:57
+4,7:15,PHI,Paul Reed,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,83,94,0.08,0.047,7:33
+4,4:24,ORL,Jalen Suggs,Personal Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,87,96,0.017,0.035,4:34
+4,2:44,ORL,Franz Wagner,Personal Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,89,100,0.002,0.005,2:44
+4,1:15,ORL,Franz Wagner,Shooting Foul,Foul,Brian Forte,Ashley Moyer-Gleich,Sha'Rae Mitchell,ORL,89,111,0.001,0.001,1:15

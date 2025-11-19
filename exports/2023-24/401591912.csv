@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:41,MRC,Bruno Caboclo,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,2,0,0.578,0.539,11:41
+1,9:36,MRC,Jonathan Mor,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,6,2,0.65,0.614,9:46
+1,8:06,MRC,MRC,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,8,7,0.526,0.54,8:21
+1,7:56,MRC,Bruno Caboclo,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,8,7,0.557,0.54,7:56
+1,6:15,CLE,Isaac Okoro,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,15,9,0.642,0.642,6:23
+1,4:43,CLE,Ty Jerome,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,17,9,0.657,0.706,4:55
+1,4:31,CLE,Tristan Thompson,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,17,9,0.694,0.718,4:40
+1,2:55,MRC,Mamadi Diakite,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,23,18,0.688,0.65,3:08
+1,2:07,CLE,Craig Porter Jr.,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,28,18,0.711,0.748,2:28
+1,1:23,MRC,Julien Ducree,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,28,19,0.784,0.751,1:39
+2,11:19,MRC,Julien Ducree,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,31,21,0.792,0.778,11:19
+2,10:49,MRC,Eidan Alber,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,34,23,0.814,0.782,10:49
+2,8:56,CLE,Tristan Thompson,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,40,27,0.813,0.848,8:56
+2,5:34,MRC,Ashton Hagans,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,46,35,0.82,0.821,5:40
+2,5:19,MRC,Ashton Hagans,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,46,35,0.851,0.822,5:19
+2,4:30,CLE,Damian Jones,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,49,35,0.864,0.88,4:32
+2,4:06,MRC,Nathan Missia-Dio,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,49,35,0.904,0.882,4:06
+2,2:26,CLE,Sam Merrill,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,58,38,0.951,0.95,2:41
+2,1:25,MRC,Jonathan Mor,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,58,40,0.951,0.944,1:25
+2,8.1,CLE,Sam Merrill,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,65,40,0.978,0.984,29.1
+3,8:25,MRC,Dakarai Tucker,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,78,44,0.999,0.999,8:25
+3,7:11,MRC,Yonatan Atias,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,81,48,0.999,0.999,7:25
+3,6:47,CLE,Ty Jerome,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,83,48,0.999,0.999,6:51
+3,4:10,CLE,Emoni Bates,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,90,57,0.999,0.999,4:10
+3,3:12,CLE,Georges Niang,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,92,57,0.999,0.999,3:29
+3,1:51,CLE,Emoni Bates,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,94,62,0.999,0.999,1:51
+3,1:38,CLE,Isaiah Mobley,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,94,64,0.999,0.999,1:38
+3,5.0,MRC,Yonatan Atias,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,94,69,0.999,0.999,5.0
+4,11:30,CLE,Sam Merrill,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,96,71,0.998,0.999,11:30
+4,10:59,CLE,Isaiah Mobley,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,98,71,0.999,0.999,10:59
+4,8:43,CLE,Emoni Bates,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,100,73,0.999,0.999,8:43
+4,7:15,MRC,Bruno Caboclo,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,103,74,0.999,0.999,7:27
+4,6:15,CLE,Emoni Bates,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,106,76,0.999,0.999,6:15
+4,4:24,MRC,Julien Ducree,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,108,81,0.999,0.999,4:29
+4,4:01,MRC,Yoav Berman,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,112,81,0.999,0.999,4:01
+4,2:58,CLE,Zhaire Smith,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Tyler Ricks,CLE,115,83,0.999,0.999,2:59

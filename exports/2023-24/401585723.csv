@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:20,WSH,Jordan Poole,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,6,2,0.347,0.32,10:33
+1,9:38,WSH,Jordan Poole,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,9,2,0.388,0.426,9:43
+1,9:27,MIL,Malik Beasley,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,9,4,0.378,0.375,9:36
+1,8:35,MIL,Khris Middleton,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,9,7,0.345,0.313,8:37
+1,8:03,MIL,Patrick Beverley,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,10,9,0.29,0.291,8:11
+1,7:39,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,10,9,0.327,0.293,7:48
+1,7:27,MIL,Khris Middleton,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,10,9,0.328,0.327,7:39
+1,7:13,WSH,Deni Avdija,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,12,9,0.319,0.315,7:27
+1,6:40,WSH,Anthony Gill,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,12,11,0.246,0.277,6:45
+1,6:20,MIL,Pat Connaughton,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,12,13,0.291,0.256,6:29
+1,5:42,WSH,Tristan Vukcevic,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,13,16,0.179,0.204,5:47
+1,4:55,MIL,Pat Connaughton,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,17,19,0.259,0.226,4:55
+1,4:26,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,18,19,0.301,0.265,4:39
+1,1:21,MIL,Danilo Gallinari,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,22,26,0.247,0.216,1:22
+1,38.1,WSH,Eugene Omoruyi,Defensive 3-Seconds Technical,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,25,26,0.266,0.256,54.1
+1,33.0,WSH,Tristan Vukcevic,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,25,26,0.231,0.257,38.1
+2,11:40,MIL,Danilo Gallinari,Loose Ball Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,27,28,0.287,0.29,11:40
+2,10:50,MIL,AJ Green,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,29,28,0.342,0.317,10:58
+2,8:31,WSH,Johnny Davis,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,37,32,0.445,0.446,8:41
+2,7:59,WSH,Johnny Davis,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,37,34,0.388,0.387,7:59
+2,4:26,WSH,Eugene Omoruyi,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,43,38,0.479,0.477,4:41
+2,3:47,WSH,Tristan Vukcevic,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,45,44,0.334,0.388,3:47
+2,3:07,MIL,Brook Lopez,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,47,47,0.383,0.33,3:07
+2,5.0,WSH,Deni Avdija,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,56,54,0.362,0.409,26.1
+3,10:38,WSH,Tristan Vukcevic,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,62,54,0.587,0.642,10:41
+3,7:26,MIL,Khris Middleton,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,74,61,0.88,0.839,7:26
+3,7:01,MIL,Malik Beasley,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,77,64,0.883,0.844,7:01
+3,6:08,MIL,Malik Beasley,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,78,66,0.852,0.854,6:10
+3,2:37,WSH,Anthony Gill,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,84,70,0.915,0.915,2:37
+3,2:26,WSH,Johnny Davis,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,84,70,0.902,0.918,2:26
+3,6.1,WSH,Eugene Omoruyi,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,91,83,0.718,0.777,11.1
+4,10:35,MIL,Bobby Portis,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,99,88,0.94,0.901,10:35
+4,9:29,WSH,Johnny Davis,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,100,90,0.883,0.892,9:29
+4,9:09,WSH,Deni Avdija,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,100,92,0.782,0.864,9:09
+4,6:43,WSH,Jordan Poole,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,102,97,0.619,0.728,6:49
+4,3:55,MIL,Jae Crowder,Shooting Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,108,104,0.867,0.775,4:16
+4,20.2,WSH,Anthony Gill,Personal Foul,Foul,Marc Davis,J.T. Orr,Brandon Schwab,WSH,115,111,0.701,0.877,21.2

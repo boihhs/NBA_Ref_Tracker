@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,0,0,0.472,0.512,12:00
+1,10:36,OKC,Chet Holmgren,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,2,6,0.371,0.407,10:50
+1,8:57,OKC,Chet Holmgren,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,9,10,0.445,0.481,9:14
+1,8:38,CLE,Darius Garland,Offensive Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,11,11,0.534,0.51,8:38
+1,8:01,CLE,Donovan Mitchell,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,13,11,0.624,0.588,8:04
+1,4:01,CLE,Dean Wade,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,22,20,0.584,0.587,4:12
+1,2:06,CLE,Dean Wade,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,28,24,0.659,0.616,2:06
+1,1:51,OKC,Isaiah Joe,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,29,24,0.623,0.64,1:51
+1,22.2,CLE,Dean Wade,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,34,27,0.756,0.718,33.2
+1,16.1,CLE,Caris LeVert,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,34,27,0.756,0.756,22.2
+2,10:38,CLE,Georges Niang,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,38,29,0.8,0.77,10:52
+2,7:57,OKC,Cason Wallace,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,47,35,0.789,0.82,8:02
+2,5:10,CLE,Caris LeVert,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,55,43,0.849,0.849,5:21
+2,5:05,CLE,Georges Niang,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,55,43,0.875,0.849,5:10
+2,4:51,OKC,Jaylin Williams,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,58,43,0.859,0.884,5:05
+2,3:59,OKC,Davis Bertans,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,60,44,0.88,0.903,4:02
+2,2:47,OKC,Jaylin Williams,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,62,49,0.845,0.877,2:47
+2,2:25,OKC,Davis Bertans,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,62,50,0.808,0.842,2:30
+2,46.2,OKC,Luguentz Dort,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,66,53,0.836,0.867,55.2
+2,33.1,CLE,Tristan Thompson,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,66,55,0.879,0.85,46.2
+3,11:05,OKC,Jalen Williams,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,70,60,0.811,0.81,11:08
+3,10:04,CLE,Max Strus,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,70,60,0.871,0.84,10:23
+3,9:37,CLE,Donovan Mitchell,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,71,62,0.819,0.82,9:47
+3,8:47,CLE,Darius Garland,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,71,64,0.809,0.769,9:03
+3,7:37,OKC,Luguentz Dort,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,78,67,0.852,0.852,7:49
+3,6:54,CLE,Darius Garland,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,80,72,0.845,0.806,7:07
+3,6:42,OKC,Ousmane Dieng,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,82,74,0.757,0.808,6:42
+3,6:32,CLE,Evan Mobley,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,82,75,0.823,0.78,6:42
+3,4:31,CLE,Georges Niang,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,90,75,0.966,0.952,4:36
+3,4:01,CLE,Caris LeVert,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,92,77,0.968,0.954,4:12
+3,3:44,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,94,79,0.934,0.956,3:44
+3,2:49,OKC,Jaylin Williams,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,94,82,0.888,0.925,2:49
+3,2:06,OKC,Chet Holmgren,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,96,82,0.918,0.939,2:28
+3,2:02,CLE,Caris LeVert,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,96,84,0.949,0.93,2:06
+3,1:17,CLE,Tristan Thompson,Offensive Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,99,87,0.936,0.913,1:32
+4,10:55,CLE,Darius Garland,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,101,89,0.955,0.95,10:59
+4,9:49,OKC,Cason Wallace,Loose Ball Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,103,91,0.941,0.945,9:49
+4,9:36,OKC,Jalen Williams,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,103,93,0.879,0.93,9:36
+4,8:00,CLE,Max Strus,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,105,100,0.801,0.786,8:15
+4,6:50,OKC,Isaiah Joe,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,108,100,0.872,0.88,7:05
+4,6:09,OKC,Jaylin Williams,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,108,100,0.825,0.887,6:19
+4,5:41,OKC,Isaiah Joe,Personal Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,108,102,0.734,0.811,5:45
+4,5:13,OKC,Isaiah Joe,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,110,104,0.74,0.814,5:30
+4,4:30,OKC,Jalen Williams,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,112,106,0.75,0.827,4:43
+4,4:24,CLE,Caris LeVert,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,112,108,0.867,0.78,4:30
+4,2:00,OKC,Luguentz Dort,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,122,112,0.975,0.991,2:00
+4,1:20,OKC,Cason Wallace,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,124,117,0.918,0.97,1:20
+4,56.0,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,126,118,0.96,0.975,56.0
+4,29.1,CLE,Evan Mobley,Personal Take Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,126,120,0.993,0.973,31.0
+4,23.0,CLE,Dean Wade,Personal Take Foul,Foul,Marc Davis,CJ Washington,Dannica Mosher,OKC,126,120,0.995,0.993,29.1

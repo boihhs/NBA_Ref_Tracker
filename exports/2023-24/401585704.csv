@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,ATL,Vit Krejci,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,0,0,0.507,0.547,12:00
+1,11:25,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,0,2,0.511,0.519,11:39
+1,7:11,MIL,Brook Lopez,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,16,14,0.634,0.59,7:11
+1,4:03,ATL,Bruno Fernando,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,21,25,0.424,0.453,4:15
+1,36.1,ATL,Vit Krejci,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,28,31,0.4,0.443,39.1
+2,11:30,ATL,Bruno Fernando,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,28,33,0.342,0.38,11:34
+2,11:06,MIL,Pat Connaughton,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,28,35,0.396,0.327,11:14
+2,10:49,ATL,Wesley Matthews,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,30,35,0.381,0.38,11:06
+2,6:11,ATL,De'Andre Hunter,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,36,43,0.266,0.303,6:14
+2,5:21,ATL,Clint Capela,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,36,47,0.167,0.2,5:34
+2,4:58,MIL,Patrick Beverley,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,36,49,0.176,0.177,5:09
+2,3:43,ATL,Clint Capela,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,38,51,0.134,0.169,3:43
+2,3:30,ATL,De'Andre Hunter,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,38,52,0.104,0.129,3:30
+2,2:34,MIL,Brook Lopez,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,40,56,0.107,0.093,2:40
+2,2:01,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,40,56,0.07,0.091,2:17
+2,1:44,MIL,Khris Middleton,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,40,58,0.096,0.076,2:01
+2,39.1,MIL,Malik Beasley,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,42,58,0.122,0.098,50.1
+2,33.0,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,43,58,0.075,0.096,37.1
+2,7.1,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,43,59,0.12,0.097,14.1
+3,9:58,ATL,Dejounte Murray,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,48,65,0.048,0.069,9:58
+3,9:49,MIL,Patrick Beverley,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,48,66,0.056,0.056,9:58
+3,9:18,ATL,Dejounte Murray,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,48,66,0.033,0.044,9:25
+3,7:17,MIL,Brook Lopez,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,53,71,0.045,0.036,7:25
+3,5:34,ATL,Dejounte Murray,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,60,76,0.034,0.047,5:42
+3,2:58,ATL,Garrison Mathews,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,65,81,0.028,0.043,2:58
+3,2:45,MIL,Bobby Portis,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,65,82,0.034,0.034,2:58
+3,2:00,MIL,AJ Green,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,67,84,0.044,0.03,2:04
+3,1:29,ATL,Dejounte Murray,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,69,84,0.036,0.048,1:46
+3,15.0,ATL,Bruno Fernando,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,74,86,0.043,0.063,34.0
+4,10:04,MIL,Khris Middleton,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,77,91,0.037,0.037,10:20
+4,9:36,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,79,91,0.027,0.047,9:53
+4,9:19,MIL,Khris Middleton,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,81,92,0.097,0.054,9:19
+4,9:19,ATL,Bruno Fernando,Double Technical Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,81,92,0.062,0.097,9:19
+4,9:06,ATL,De'Andre Hunter,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,82,92,0.045,0.074,9:19
+4,8:50,MIL,Brook Lopez,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,82,94,0.088,0.055,9:06
+4,8:44,ATL,Bruno Fernando,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,83,94,0.049,0.054,8:50
+4,6:21,ATL,Vit Krejci,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,91,100,0.036,0.065,6:37
+4,6:03,MIL,Pat Connaughton,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,91,102,0.072,0.042,6:12
+4,4:40,MIL,Pat Connaughton,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,96,106,0.076,0.047,5:00
+4,4:26,ATL,Wesley Matthews,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,97,108,0.013,0.029,4:26
+4,1:50,MIL,Malik Beasley,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,103,116,0.005,0.001,1:51
+4,36.0,ATL,Wesley Matthews,Personal Take Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,110,118,0.001,0.006,42.1
+4,22.1,ATL,Bogdan Bogdanovic,Personal Take Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,113,120,0.001,0.008,30.1
+4,12.1,ATL,Bogdan Bogdanovic,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Scott Wall,ATL,113,121,0.001,0.001,12.1

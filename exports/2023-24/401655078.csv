@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:42,OKC,Jalen Williams,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,0,0,0.422,0.382,12:00
+1,8:50,NO,Jonas Valanciunas,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,8,8,0.35,0.386,9:01
+1,8:31,NO,CJ McCollum,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,8,12,0.277,0.316,8:31
+1,7:37,NO,Brandon Ingram,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,10,13,0.318,0.316,7:46
+1,5:24,OKC,Jalen Williams,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,12,15,0.381,0.343,5:41
+1,3:59,NO,Larry Nance Jr.,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,17,18,0.333,0.368,4:18
+1,3:47,NO,Naji Marshall,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,17,18,0.333,0.333,3:59
+1,2:48,OKC,Jaylin Williams,Offensive Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,19,21,0.371,0.346,3:03
+1,1:49,OKC,Luguentz Dort,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,19,21,0.413,0.373,1:51
+2,11:44,OKC,Chet Holmgren,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,21,21,0.476,0.418,12:00
+2,7:32,NO,Jonas Valanciunas,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,27,29,0.354,0.355,7:41
+2,6:42,OKC,Chet Holmgren,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,27,32,0.298,0.299,6:46
+2,5:37,OKC,Cason Wallace,Loose Ball Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,29,32,0.355,0.356,5:37
+2,4:47,OKC,Luguentz Dort,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,31,34,0.401,0.357,4:53
+2,4:31,NO,Naji Marshall,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,33,34,0.339,0.385,4:47
+2,4:17,OKC,Aaron Wiggins,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,33,35,0.435,0.385,4:31
+2,3:38,NO,Trey Murphy III,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,35,39,0.277,0.327,3:38
+2,2:38,NO,Brandon Ingram,Loose Ball Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,37,40,0.283,0.324,2:38
+2,1:48,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,40,40,0.508,0.459,1:58
+3,11:49,OKC,Chet Holmgren,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,43,44,0.481,0.411,12:00
+3,10:31,NO,Jonas Valanciunas,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,49,47,0.502,0.502,10:31
+3,9:59,NO,CJ McCollum,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,51,49,0.449,0.503,10:08
+3,9:22,OKC,Luguentz Dort,Loose Ball Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,51,50,0.507,0.508,9:22
+3,9:12,NO,Jonas Valanciunas,Offensive Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,51,50,0.47,0.507,9:22
+3,9:04,NO,Herbert Jones,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,51,50,0.469,0.47,9:12
+3,8:44,OKC,Josh Giddey,Offensive Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,53,50,0.587,0.545,8:52
+3,5:31,NO,Herbert Jones,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,61,59,0.459,0.521,5:47
+3,4:45,NO,Herbert Jones,Offensive Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,63,63,0.44,0.483,4:57
+3,4:36,NO,Herbert Jones,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,63,63,0.378,0.44,4:45
+3,3:52,NO,Naji Marshall,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,66,64,0.463,0.529,4:13
+3,2:12,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,66,70,0.315,0.316,2:27
+3,12.0,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,69,70,0.52,0.447,25.2
+3,3.0,OKC,Aaron Wiggins,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,69,70,0.52,0.52,12.0
+4,11:24,OKC,Josh Giddey,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,71,70,0.641,0.546,11:37
+4,9:43,NO,CJ McCollum,Offensive Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,78,73,0.718,0.763,10:01
+4,5:04,NO,Naji Marshall,Personal Take Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,82,85,0.245,0.256,5:09
+4,3:52,NO,Trey Murphy III,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,82,88,0.052,0.096,3:53
+4,2:16,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,84,93,0.055,0.026,2:26
+4,44.2,NO,Trey Murphy III,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,87,95,0.001,0.007,47.1
+4,41.1,NO,Brandon Ingram,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,87,95,0.001,0.001,44.2
+4,35.1,NO,Herbert Jones,Personal Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,89,96,0.002,0.007,36.1
+4,26.0,NO,Trey Murphy III,Personal Take Foul,Foul,Bill Kennedy,Ed Malloy,Marat Kogut,NO,89,96,0.001,0.005,26.0

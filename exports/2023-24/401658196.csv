@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:33,NY,Josh Hart,Loose Ball Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,2,4,0.479,0.478,10:22
+1,9:05,IND,Aaron Nesmith,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,7,9,0.52,0.476,9:05
+1,7:00,NY,Isaiah Hartenstein,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,9,14,0.355,0.392,7:01
+1,3:09,IND,T.J. McConnell,Offensive Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,24,25,0.523,0.494,3:15
+1,1:57,NY,Miles McBride,Personal Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,31,25,0.643,0.682,2:10
+1,1:36,NY,Precious Achiuwa,Loose Ball Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,31,25,0.644,0.683,1:36
+1,1:12,NY,Donte DiVincenzo,Personal Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,33,27,0.644,0.683,1:24
+1,45.1,IND,Pascal Siakam,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,33,29,0.694,0.656,50.0
+2,11:13,IND,Isaiah Jackson,Offensive Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,42,32,0.799,0.781,11:20
+2,11:13,NY,Isaiah Hartenstein,Double Technical Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,42,32,0.785,0.79,11:13
+2,11:13,NY,Alec Burks,Technical Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,42,32,0.764,0.785,11:13
+2,11:03,NY,Isaiah Hartenstein,Offensive Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,42,33,0.759,0.769,11:13
+2,10:56,NY,Donte DiVincenzo,Personal Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,42,33,0.757,0.759,11:03
+2,9:43,IND,Aaron Nesmith,Personal Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,44,33,0.824,0.825,9:52
+2,9:23,NY,Jalen Brunson,Offensive Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,44,33,0.805,0.825,9:29
+2,7:37,IND,Andrew Nembhard,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,46,38,0.799,0.766,7:58
+2,6:06,NY,Miles McBride,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,54,40,0.843,0.869,6:14
+2,1:08,NY,Miles McBride,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,65,51,0.876,0.903,1:08
+2,31.0,NY,Josh Hart,Loose Ball Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,67,52,0.882,0.907,31.0
+3,11:08,IND,Aaron Nesmith,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,69,54,0.942,0.927,11:16
+3,9:00,NY,Miles McBride,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,72,63,0.76,0.802,9:07
+3,7:21,NY,Donte DiVincenzo,Personal Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,74,64,0.837,0.836,7:25
+3,5:31,IND,Obi Toppin,Loose Ball Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,84,64,0.984,0.984,5:31
+3,4:27,NY,Donte DiVincenzo,Personal Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,86,64,0.989,0.99,4:34
+3,4:27,NY,Donte DiVincenzo,Double Technical Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,86,64,0.99,0.991,4:27
+3,3:46,IND,Ben Sheppard,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,86,64,0.995,0.993,4:05
+3,1:37,IND,Pascal Siakam,Personal Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,91,71,0.994,0.992,1:44
+3,25.1,NY,Precious Achiuwa,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,96,74,0.993,0.995,44.1
+4,11:45,NY,Alec Burks,Personal Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,96,75,0.994,0.995,12:00
+4,11:41,NY,Precious Achiuwa,Personal Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,96,75,0.994,0.994,11:42
+4,11:25,NY,Jalen Brunson,Offensive Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,96,75,0.994,0.996,11:30
+4,11:11,NY,Precious Achiuwa,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,96,77,0.986,0.992,11:11
+4,10:48,NY,Donte DiVincenzo,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,96,80,0.969,0.982,10:48
+4,7:59,IND,Pascal Siakam,Loose Ball Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,103,86,0.994,0.994,7:59
+4,7:57,IND,Ben Sheppard,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,105,86,0.998,0.996,7:57
+4,7:18,IND,Myles Turner,Offensive Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,106,86,0.998,0.998,7:24
+4,4:54,IND,Myles Turner,Loose Ball Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,109,88,0.999,0.999,4:54
+4,3:29,IND,Ben Sheppard,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,112,90,0.999,0.999,3:54
+4,2:54,IND,Jalen Smith,Loose Ball Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,114,90,0.999,0.999,2:54
+4,2:04,IND,Jalen Smith,Personal Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,116,90,0.999,0.999,2:10
+4,1:49,NY,Mamadi Diakite,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,117,90,0.999,0.999,2:04
+4,1:00,IND,Andrew Nembhard,Personal Take Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,119,90,0.999,0.999,1:08
+4,44.1,NY,DaQuan Jeffries,Shooting Foul,Foul,James Williams,Scott Foster,Karl Lane,NY,121,90,0.999,0.999,1:00

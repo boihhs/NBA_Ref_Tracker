@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:12,DAL,Moses Brown,Loose Ball Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,10,8,0.718,0.718,9:12
+1,7:23,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,14,10,0.722,0.753,7:36
+1,3:04,CLE,Lamar Stevens,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,21,21,0.673,0.676,3:25
+1,2:40,DAL,Dwight Powell,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,21,21,0.648,0.648,2:46
+1,2:25,CLE,Lamar Stevens,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,21,22,0.648,0.649,2:40
+1,2:17,CLE,Evan Mobley,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,21,22,0.685,0.648,2:25
+1,52.6,DAL,Jalen Brunson,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,23,26,0.537,0.559,52.6
+1,2.4,CLE,Ricky Rubio,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,23,30,0.508,0.463,6.7
+2,9:46,CLE,Evan Mobley,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,27,30,0.612,0.573,9:58
+2,9:21,CLE,Isaac Okoro,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,28,32,0.538,0.538,9:31
+2,7:50,CLE,Lauri Markkanen,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,28,37,0.371,0.373,7:55
+2,6:47,DAL,Moses Brown,Offensive Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,30,39,0.33,0.364,6:54
+2,5:54,DAL,Jalen Brunson,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,30,41,0.247,0.293,5:54
+2,5:43,CLE,Jarrett Allen,Defensive 3-Seconds Technical,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,30,42,0.257,0.267,5:54
+2,4:29,CLE,Jarrett Allen,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,35,44,0.391,0.344,4:34
+2,3:01,CLE,Darius Garland,Offensive Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,38,44,0.431,0.4,3:14
+2,1:48,CLE,Darius Garland,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,38,47,0.37,0.321,2:01
+2,1:38,DAL,Maxi Kleber,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,39,47,0.273,0.316,1:48
+2,2.8,CLE,Lauri Markkanen,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,41,52,0.289,0.249,10.2
+3,10:32,DAL,Moses Brown,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,45,54,0.271,0.286,10:32
+3,9:36,DAL,Moses Brown,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,47,55,0.235,0.283,9:58
+3,8:14,CLE,Isaac Okoro,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,53,60,0.336,0.336,8:18
+3,7:59,DAL,Maxi Kleber,Defensive 3-Seconds Technical,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,53,60,0.309,0.301,8:11
+3,5:52,CLE,Darius Garland,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,55,68,0.129,0.129,5:52
+3,5:22,DAL,Dorian Finney-Smith,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,55,70,0.069,0.083,5:22
+3,2:33,CLE,Kevin Love,Offensive Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,60,82,0.009,0.007,2:47
+3,2:02,DAL,Maxi Kleber,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,62,82,0.007,0.011,2:11
+3,1:57,CLE,Evan Mobley,Offensive Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,62,82,0.015,0.007,2:02
+3,1:22,DAL,Luka Doncic,Offensive Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,62,84,0.005,0.007,1:33
+4,11:36,CLE,Ricky Rubio,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,65,87,0.004,0.005,11:44
+4,11:27,CLE,Lauri Markkanen,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,65,87,0.006,0.004,11:28
+4,10:24,CLE,Lauri Markkanen,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,68,94,0.001,0.001,10:30
+4,9:39,CLE,Isaac Okoro,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,71,94,0.003,0.002,9:52
+4,9:15,DAL,Luka Doncic,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,71,96,0.001,0.001,9:15
+4,4:51,DAL,Sterling Brown,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,82,108,0.001,0.001,4:51
+4,3:35,CLE,Lamar Stevens,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,86,109,0.001,0.001,3:43
+4,3:15,DAL,Reggie Bullock Jr.,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,87,109,0.001,0.001,3:31
+4,1:10,CLE,Ed Davis,Offensive Foul,Foul,Brent Barnaky,Marat Kogut,Tyler Ford,DAL,93,112,0.001,0.001,1:30

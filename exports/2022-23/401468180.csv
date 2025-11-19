@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:30,UTAH,Jarred Vanderbilt,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,2,0,0.675,0.655,11:45
+1,10:35,UTAH,Jordan Clarkson,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,5,3,0.706,0.674,10:45
+1,9:22,UTAH,Mike Conley,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,12,3,0.823,0.794,9:22
+1,8:50,UTAH,Jarred Vanderbilt,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,13,3,0.839,0.828,8:50
+1,8:15,MIN,Jaden McDaniels,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,15,5,0.797,0.827,8:15
+1,7:40,MIN,Karl-Anthony Towns,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,17,8,0.793,0.811,7:45
+1,6:21,MIN,Jaden McDaniels,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,21,13,0.774,0.774,6:27
+1,3:56,UTAH,Collin Sexton,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,27,17,0.853,0.832,3:58
+1,3:27,MIN,Taurean Prince,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,29,17,0.845,0.845,3:30
+1,3:03,MIN,Karl-Anthony Towns,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,29,19,0.813,0.831,3:22
+1,2:51,MIN,Jaylen Nowell,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,29,19,0.783,0.813,3:03
+1,1:47,MIN,Taurean Prince,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,34,22,0.822,0.847,2:08
+1,55.4,UTAH,Talen Horton-Tucker,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,36,24,0.884,0.863,57.8
+2,8:34,MIN,Rudy Gobert,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,45,35,0.821,0.838,8:55
+2,7:39,UTAH,Jarred Vanderbilt,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,47,35,0.875,0.858,7:45
+2,5:46,UTAH,Walker Kessler,Loose Ball Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,53,41,0.875,0.878,5:46
+2,5:40,UTAH,Lauri Markkanen,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,53,41,0.898,0.876,5:46
+2,3:26,MIN,Karl-Anthony Towns,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,60,50,0.811,0.848,3:26
+2,2:28,MIN,Jaden McDaniels,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,62,51,0.835,0.85,2:28
+2,24.0,MIN,Rudy Gobert,Offensive Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,64,55,0.813,0.835,39.7
+3,9:40,MIN,Rudy Gobert,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,66,64,0.554,0.611,9:42
+3,9:19,MIN,Karl-Anthony Towns,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,66,66,0.479,0.534,9:22
+3,8:59,UTAH,Kelly Olynyk,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,66,66,0.627,0.576,9:15
+3,8:07,UTAH,Kelly Olynyk,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,68,69,0.532,0.532,8:20
+3,4:22,UTAH,Kelly Olynyk,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,75,79,0.424,0.35,4:22
+3,3:03,MIN,Jordan McLaughlin,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,81,81,0.516,0.515,3:15
+3,2:13,MIN,Naz Reid,Loose Ball Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,81,83,0.353,0.422,2:13
+3,2:03,MIN,Naz Reid,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,81,83,0.352,0.353,2:13
+3,1:06,MIN,Taurean Prince,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,83,85,0.343,0.417,1:24
+3,34.5,UTAH,Talen Horton-Tucker,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,85,86,0.542,0.455,34.5
+3,23.3,MIN,Jaylen Nowell,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,85,86,0.385,0.455,23.6
+4,10:55,MIN,Jaylen Nowell,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,92,88,0.688,0.697,11:10
+4,9:27,UTAH,Rudy Gay,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,94,93,0.613,0.601,9:33
+4,8:42,UTAH,Jarred Vanderbilt,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,96,93,0.727,0.712,8:42
+4,8:04,MIN,Bryn Forbes,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,98,96,0.505,0.612,8:11
+4,7:48,UTAH,Mike Conley,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,98,97,0.63,0.606,8:03
+4,6:30,UTAH,Mike Conley,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,103,102,0.68,0.556,6:30
+4,6:07,UTAH,Kelly Olynyk,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,104,102,0.779,0.697,6:14
+4,5:19,MIN,Jaylen Nowell,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,106,104,0.51,0.637,5:28
+4,4:32,UTAH,Jarred Vanderbilt,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,108,108,0.67,0.566,4:51
+4,44.8,UTAH,Kelly Olynyk,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,117,120,0.357,0.164,44.8
+4,22.3,UTAH,Kelly Olynyk,Double Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,118,120,0.522,0.356,22.3
+5,4:00,UTAH,Mike Conley,Personal Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,122,123,0.467,0.465,4:14
+5,34.3,UTAH,Mike Conley,Shooting Foul,Foul,David Guthrie,J.B. DeRosa,Pat O'Connell,MIN,126,128,0.528,0.283,39.6

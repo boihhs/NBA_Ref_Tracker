@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:48,DET,Cade Cunningham,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,4,6,0.693,0.694,10:06
+1,9:44,DET,Isaiah Stewart,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,4,6,0.723,0.693,9:48
+1,6:09,DET,Cade Cunningham,Offensive Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,13,10,0.78,0.763,6:21
+1,5:59,DET,Cory Joseph,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,13,10,0.779,0.78,6:09
+1,5:40,CHA,Montrezl Harrell,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,15,10,0.769,0.798,5:48
+1,4:37,CHA,Terry Rozier,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,18,15,0.756,0.756,4:44
+1,3:52,DET,Jerami Grant,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,18,17,0.763,0.734,3:58
+1,3:07,DET,Hamidou Diallo,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,20,19,0.761,0.732,3:30
+1,2:52,CHA,Kelly Oubre Jr.,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,21,19,0.729,0.73,3:05
+1,0.3,CHA,Cody Martin,Personal Take Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,28,31,0.545,0.585,0.8
+2,10:48,CHA,Montrezl Harrell,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,32,31,0.65,0.688,10:49
+2,10:41,DET,Isaiah Livers,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,32,32,0.688,0.691,10:48
+2,9:41,CHA,P.J. Washington,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,32,36,0.52,0.574,9:41
+2,8:08,CHA,LaMelo Ball,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,35,36,0.625,0.623,8:09
+2,4:47,DET,Kelly Olynyk,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,45,45,0.684,0.632,4:47
+2,4:00,CHA,Terry Rozier,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,47,47,0.607,0.661,4:00
+2,4:00,CHA,Terry Rozier,Technical Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,47,47,0.607,0.607,4:00
+2,3:45,DET,Cade Cunningham,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,47,48,0.673,0.63,4:00
+2,3:24,DET,Isaiah Stewart,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,48,48,0.7,0.658,3:30
+2,1:05,DET,Jerami Grant,Offensive Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,49,55,0.444,0.409,1:20
+3,11:05,CHA,Mason Plumlee,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,54,60,0.358,0.42,11:05
+3,10:51,DET,Cade Cunningham,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,56,61,0.484,0.418,10:51
+3,10:17,DET,Cory Joseph,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,57,63,0.47,0.417,10:34
+3,8:31,CHA,Mason Plumlee,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,64,63,0.569,0.626,8:45
+3,7:26,DET,Isaiah Stewart,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,66,67,0.638,0.584,7:38
+3,6:49,CHA,Mason Plumlee,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,69,70,0.539,0.538,6:57
+3,6:09,DET,Isaiah Stewart,Loose Ball Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,69,72,0.556,0.494,6:09
+3,4:39,DET,Hamidou Diallo,Offensive Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,74,74,0.607,0.567,4:53
+3,4:23,DET,Hamidou Diallo,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,74,74,0.666,0.607,4:39
+3,2:57,CHA,Montrezl Harrell,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,78,76,0.578,0.642,3:05
+3,2:15,DET,Saddiq Bey,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,78,78,0.663,0.596,2:17
+4,11:32,DET,Killian Hayes,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,84,82,0.758,0.68,11:36
+4,11:09,DET,Rodney McGruder,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,86,82,0.78,0.768,11:15
+4,10:45,CHA,LaMelo Ball,Loose Ball Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,86,82,0.718,0.731,10:45
+4,10:22,DET,Kelly Olynyk,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,86,82,0.836,0.77,10:35
+4,6:53,DET,Killian Hayes,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,99,96,0.826,0.748,7:10
+4,5:58,CHA,Mason Plumlee,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,101,96,0.757,0.81,6:05
+4,5:10,DET,Kelly Olynyk,Personal Take Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,103,100,0.838,0.767,5:11
+4,4:41,DET,Isaiah Stewart,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,103,102,0.742,0.647,4:52
+4,4:34,CHA,Cody Martin,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,105,102,0.594,0.709,4:41
+4,2:45,CHA,P.J. Washington,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,109,106,0.594,0.712,2:58
+4,30.7,CHA,P.J. Washington,Offensive Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,112,112,0.458,0.546,41.4
+4,10.8,DET,Saddiq Bey,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,112,115,0.382,0.177,13.5
+4,9.7,CHA,LaMelo Ball,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,114,115,0.117,0.288,10.8
+5,4:31,DET,Killian Hayes,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,116,116,0.544,0.533,4:46
+5,2:50,DET,Killian Hayes,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,122,118,0.88,0.778,2:50
+5,1:48,DET,Jerami Grant,Shooting Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,125,123,0.858,0.733,2:03
+5,2.1,CHA,Cody Martin,Personal Foul,Foul,Eric Lewis,Dedric Taylor,Justin Van Duyne,CHA,126,125,0.269,0.799,6.8

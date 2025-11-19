@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:16,HOU,Christian Wood,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,5,0,0.934,0.922,11:16
+1,9:08,HOU,Jae'Sean Tate,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,7,8,0.884,0.867,9:11
+1,8:47,DEN,DeMarcus Cousins,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,9,8,0.877,0.878,9:08
+1,7:15,HOU,Eric Gordon,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,9,8,0.881,0.881,7:19
+1,7:11,HOU,Christian Wood,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,11,8,0.908,0.891,7:11
+1,6:58,DEN,Jeff Green,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,12,8,0.9,0.901,7:11
+1,4:37,DEN,DeMarcus Cousins,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,18,14,0.875,0.893,5:02
+1,3:37,HOU,Garrison Mathews,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,22,17,0.915,0.898,3:37
+1,3:27,DEN,Bryn Forbes,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,23,17,0.893,0.909,3:37
+1,1:33,DEN,JaMychal Green,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,25,21,0.862,0.882,1:43
+1,33.6,DEN,JaMychal Green,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,25,23,0.827,0.852,44.3
+2,11:19,HOU,Eric Gordon,Clear Path Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,25,26,0.809,0.811,11:19
+2,11:06,DEN,Facundo Campazzo,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,29,26,0.857,0.858,11:07
+2,10:38,HOU,Garrison Mathews,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,29,26,0.868,0.87,10:46
+2,10:09,HOU,Eric Gordon,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,29,28,0.859,0.837,10:19
+2,8:41,HOU,Alperen Sengun,Technical Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,36,30,0.908,0.899,8:41
+2,6:19,DEN,Facundo Campazzo,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,42,32,0.925,0.926,6:22
+2,5:56,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,42,32,0.946,0.935,6:01
+2,4:44,HOU,Jae'Sean Tate,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,42,34,0.928,0.913,5:05
+2,4:21,HOU,Jalen Green,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,44,36,0.928,0.912,4:32
+2,1:48,DEN,Jeff Green,Personal Take Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,51,40,0.914,0.93,1:51
+2,1:05,DEN,DeMarcus Cousins,Loose Ball Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,51,42,0.887,0.908,1:05
+3,10:48,DEN,DeMarcus Cousins,Offensive Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,53,46,0.875,0.893,11:02
+3,9:43,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,56,48,0.922,0.903,9:44
+3,9:38,DEN,Monte Morris,Personal Take Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,57,48,0.903,0.903,9:43
+3,7:52,HOU,Kevin Porter Jr.,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,62,53,0.916,0.916,8:04
+3,7:26,HOU,Kevin Porter Jr.,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,62,53,0.916,0.916,7:26
+3,5:52,DEN,JaMychal Green,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,66,55,0.908,0.93,5:53
+3,4:31,HOU,Christian Wood,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,70,59,0.957,0.943,4:46
+3,3:22,DEN,JaMychal Green,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,77,62,0.97,0.971,3:31
+3,2:09,DEN,Bones Hyland,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,80,67,0.94,0.957,2:15
+3,2:09,DEN,Bones Hyland,Technical Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,80,67,0.949,0.94,2:09
+3,1:47,HOU,Josh Christopher,Loose Ball Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,80,68,0.971,0.96,1:47
+3,42.8,HOU,Alperen Sengun,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,85,70,0.989,0.981,57.4
+4,11:52,HOU,Josh Christopher,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,87,70,0.992,0.989,0.0
+4,10:21,HOU,Alperen Sengun,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,89,76,0.987,0.977,10:33
+4,9:46,DEN,Bones Hyland,Personal Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,93,78,0.983,0.985,9:55
+4,8:24,DEN,Davon Reed,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,96,78,0.992,0.996,8:25
+4,5:07,DEN,JaMychal Green,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,101,86,0.988,0.994,5:09
+4,4:57,DEN,Aaron Gordon,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,101,87,0.983,0.991,5:05
+4,3:37,DEN,Will Barton,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,105,91,0.99,0.995,3:52
+4,2:21,HOU,Jae'Sean Tate,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,108,92,0.999,0.999,2:22
+4,2:08,DEN,DeMarcus Cousins,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,109,94,0.998,0.999,2:08
+4,1:46,HOU,Daishen Nix,Shooting Foul,Foul,Kane Fitzgerald,Aaron Smith,Tyler Ford,DEN,109,95,0.999,0.999,2:08

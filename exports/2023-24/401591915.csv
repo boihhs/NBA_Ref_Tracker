@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:25,HOU,Alperen Sengun,Loose Ball Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,6,3,0.586,0.59,10:25
+1,8:49,SA,Zach Collins,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,9,5,0.552,0.589,8:58
+1,7:55,HOU,Fred VanVleet,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,12,5,0.705,0.689,7:55
+1,3:12,SA,Julian Champagnie,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,29,16,0.778,0.807,3:31
+1,2:14,SA,Blake Wesley,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,29,17,0.758,0.788,2:36
+1,2:04,HOU,Jeff Green,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,29,19,0.8,0.773,2:14
+1,1:52,SA,Sandro Mamukelashvili,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,31,21,0.73,0.773,1:52
+1,44.1,HOU,Amen Thompson,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,31,26,0.693,0.653,1:02
+1,38.1,HOU,Jeff Green,Loose Ball Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,31,26,0.693,0.651,38.1
+2,9:29,HOU,Amen Thompson,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,35,32,0.604,0.604,9:43
+2,9:29,SA,Zach Collins,Double Technical Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,35,32,0.582,0.604,9:29
+2,9:07,SA,Zach Collins,Offensive Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,35,32,0.574,0.605,9:12
+2,8:55,SA,Jeremy Sochan,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,35,32,0.53,0.574,9:07
+2,6:30,HOU,Alperen Sengun,Technical Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,42,35,0.744,0.696,6:30
+2,5:04,SA,Blake Wesley,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,44,35,0.754,0.754,5:19
+2,4:34,SA,Blake Wesley,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,46,35,0.805,0.805,4:39
+2,4:15,HOU,Jeff Green,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,46,35,0.827,0.828,4:20
+2,3:54,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,46,35,0.858,0.829,4:04
+2,3:40,SA,Jeremy Sochan,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,48,35,0.834,0.849,3:40
+2,2:17,SA,Julian Champagnie,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,50,38,0.8,0.835,2:29
+2,12.2,HOU,Jabari Smith Jr.,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,52,43,0.835,0.798,18.0
+3,11:36,HOU,Dillon Brooks,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,52,43,0.802,0.803,11:51
+3,10:21,HOU,Alperen Sengun,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,55,46,0.843,0.809,10:36
+3,10:13,SA,Jeremy Sochan,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,57,46,0.834,0.833,10:21
+3,10:01,HOU,Jabari Smith Jr.,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,57,46,0.856,0.856,10:04
+3,9:14,HOU,Fred VanVleet,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,59,46,0.909,0.88,9:14
+3,9:02,SA,Malaki Branham,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,60,46,0.896,0.897,9:14
+3,8:32,SA,Cedi Osman,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,60,46,0.873,0.899,8:42
+3,7:59,SA,Zach Collins,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,60,46,0.876,0.902,8:02
+3,7:35,SA,Cedi Osman,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,60,46,0.893,0.905,7:35
+3,5:56,HOU,Dillon Brooks,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,62,53,0.87,0.836,6:04
+3,5:03,HOU,Fred VanVleet,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,65,56,0.859,0.843,5:03
+3,4:00,SA,Cedi Osman,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,67,58,0.775,0.817,4:20
+3,3:29,HOU,Aaron Holiday,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,67,61,0.812,0.765,3:36
+3,2:10,HOU,Jae'Sean Tate,Personal Take Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,69,61,0.877,0.837,2:10
+4,11:22,SA,Julian Champagnie,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,76,63,0.916,0.943,11:39
+4,10:25,SA,Blake Wesley,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,79,67,0.916,0.937,10:25
+4,8:42,SA,Malaki Branham,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,81,73,0.81,0.886,8:42
+4,8:29,HOU,Jermaine Samuels Jr.,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,81,74,0.9,0.848,8:42
+4,8:15,SA,Sidy Cissoko,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,81,74,0.742,0.815,8:29
+4,7:36,HOU,Darius Days,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,83,79,0.809,0.724,7:51
+4,5:31,HOU,Aaron Holiday,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,87,84,0.77,0.711,5:31
+4,4:24,SA,Sidy Cissoko,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,87,86,0.408,0.52,4:24
+4,1:53,HOU,Darius Days,Personal Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,87,93,0.173,0.09,2:09
+4,1:50,HOU,Cam Whitmore,Shooting Foul,Foul,Sean Corbin,Kevin Scott,Biniam Maru,SA,89,93,0.256,0.139,1:50

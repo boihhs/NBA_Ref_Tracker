@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:40,MIN,Kyle Anderson,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,2,0,0.88,0.863,11:40
+1,10:45,NY,Quentin Grimes,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,2,2,0.809,0.833,10:55
+1,10:27,NY,Jalen Brunson,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,5,4,0.845,0.845,10:36
+1,9:27,MIN,Taurean Prince,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,8,8,0.859,0.841,9:39
+1,6:14,NY,Mitchell Robinson,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,18,25,0.645,0.688,6:14
+1,4:57,NY,Julius Randle,Offensive Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,21,28,0.648,0.676,5:01
+1,3:57,NY,Isaiah Hartenstein,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,21,32,0.506,0.555,3:57
+1,3:10,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,21,34,0.487,0.488,3:10
+1,2:42,MIN,Jaden McDaniels,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,21,36,0.466,0.421,2:56
+1,1:27,NY,Immanuel Quickley,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,25,38,0.383,0.436,1:33
+1,26.0,MIN,Kyle Anderson,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,31,42,0.536,0.478,26.0
+2,11:28,MIN,Jordan McLaughlin,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,32,44,0.512,0.467,11:44
+2,9:50,MIN,Jaylen Nowell,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,40,50,0.506,0.507,9:56
+2,9:48,MIN,Naz Reid,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,40,50,0.504,0.506,9:50
+2,9:19,NY,RJ Barrett,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,40,50,0.418,0.466,9:30
+2,7:27,MIN,Jaden McDaniels,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,46,59,0.423,0.382,7:43
+2,6:44,MIN,Taurean Prince,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,48,61,0.413,0.365,6:45
+2,5:24,MIN,Jaylen Nowell,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,52,67,0.329,0.281,5:38
+2,4:46,NY,Josh Hart,Transition Take Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,53,67,0.27,0.27,4:46
+2,4:20,MIN,Kyle Anderson,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,55,70,0.291,0.232,4:20
+2,3:14,MIN,Jaylen Nowell,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,58,73,0.298,0.253,3:42
+2,2:33,MIN,Taurean Prince,Offensive Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,62,75,0.301,0.273,2:44
+2,1:15,MIN,Mike Conley,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,64,79,0.268,0.223,1:37
+2,17.1,MIN,Jaylen Nowell,Offensive Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,70,79,0.407,0.379,36.1
+3,10:31,NY,RJ Barrett,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,72,84,0.195,0.241,10:32
+3,10:13,NY,RJ Barrett,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,72,86,0.143,0.176,10:15
+3,9:16,MIN,Taurean Prince,Offensive Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,78,88,0.324,0.292,9:32
+3,8:35,NY,Jalen Brunson,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,80,90,0.255,0.313,8:35
+3,8:06,NY,Julius Randle,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,83,91,0.291,0.347,8:22
+3,7:15,NY,Jalen Brunson,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,85,92,0.311,0.375,7:23
+3,6:58,MIN,Rudy Gobert,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,85,94,0.386,0.333,7:15
+3,6:38,NY,Quentin Grimes,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,87,96,0.256,0.322,6:38
+3,3:45,MIN,Jaden McDaniels,Offensive Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,95,99,0.487,0.442,3:51
+3,3:19,NY,Julius Randle,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,98,99,0.5,0.569,3:32
+3,1:56,MIN,Naz Reid,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,103,103,0.704,0.644,2:00
+3,1:34,NY,Immanuel Quickley,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,105,103,0.617,0.682,1:47
+3,2.0,MIN,Naz Reid,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,107,109,0.604,0.535,21.1
+4,9:01,MIN,Naz Reid,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,117,116,0.709,0.602,9:01
+4,8:31,MIN,Jordan McLaughlin,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,118,118,0.702,0.609,8:45
+4,7:44,NY,Josh Hart,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,123,118,0.798,0.804,8:01
+4,4:52,NY,Isaiah Hartenstein,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,127,124,0.601,0.716,5:14
+4,2:19,NY,Jalen Brunson,Personal Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,131,129,0.625,0.651,2:35
+4,2:17,NY,Immanuel Quickley,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,131,129,0.488,0.625,2:19
+4,1:27,NY,Julius Randle,Loose Ball Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,131,135,0.055,0.111,1:27
+4,42.0,MIN,Taurean Prince,Shooting Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,133,137,0.226,0.099,42.0
+4,10.1,NY,Julius Randle,Technical Foul,Foul,Eric Lewis,Jason Goldenberg,Mitchell Ervin,NY,134,139,0.007,0.042,10.1

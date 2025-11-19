@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:27,CHI,Ayo Dosunmu,Loose Ball Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,0,0,0.637,0.637,11:27
+1,11:17,CHI,Nikola Vucevic,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,0,0,0.672,0.637,11:27
+1,6:30,CHI,Ayo Dosunmu,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,11,8,0.73,0.698,6:40
+1,6:04,CHI,Zach LaVine,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,13,8,0.772,0.741,6:06
+1,2:25,CHI,Troy Brown Jr.,Personal Take Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,20,21,0.63,0.59,2:25
+1,30.7,CHI,Devon Dotson,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,27,24,0.727,0.69,39.1
+2,11:46,CHI,Alize Johnson,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,29,24,0.741,0.724,12:00
+2,10:31,CLE,Kevin Love,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,34,24,0.823,0.781,10:50
+2,8:17,CLE,Ricky Rubio,Personal Take Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,39,30,0.805,0.805,8:17
+2,7:58,CLE,Cedi Osman,Personal Take Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,39,30,0.805,0.805,7:58
+2,7:47,CLE,Jarrett Allen,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,39,30,0.774,0.805,7:58
+2,3:41,CLE,Darius Garland,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,46,36,0.8,0.832,3:47
+2,34.0,CHI,Ayo Dosunmu,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,50,43,0.825,0.795,39.5
+2,16.4,CHI,Zach LaVine,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,52,43,0.839,0.818,25.9
+3,10:48,CLE,Darius Garland,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,54,48,0.722,0.775,10:48
+3,7:58,CLE,Isaac Okoro,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,65,51,0.923,0.921,8:12
+3,7:12,CHI,CHI,Technical Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,65,53,0.924,0.911,7:23
+3,6:16,CLE,Isaac Okoro,Loose Ball Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,66,53,0.918,0.916,6:16
+3,5:41,CLE,Isaac Okoro,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,69,53,0.939,0.954,5:55
+3,5:30,CLE,Jarrett Allen,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,69,53,0.94,0.939,5:41
+3,5:09,CHI,Nikola Vucevic,Away from Play Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,69,54,0.957,0.957,5:09
+3,4:47,CHI,Derrick Jones Jr.,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,72,54,0.979,0.973,4:58
+3,3:49,CLE,Lauri Markkanen,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,78,56,0.987,0.992,3:58
+3,3:36,CHI,Troy Brown Jr.,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,78,58,0.989,0.989,3:49
+3,3:23,CLE,Cedi Osman,Loose Ball Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,78,58,0.98,0.986,3:23
+3,38.1,CLE,Cedi Osman,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,80,64,0.976,0.98,38.1
+3,0.1,CLE,Darius Garland,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,82,64,0.985,0.986,12.9
+4,10:32,CHI,Devon Dotson,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,87,68,0.995,0.995,10:44
+4,10:01,CLE,Ricky Rubio,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,89,68,0.996,0.996,10:19
+4,9:58,CHI,Tony Bradley,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,89,68,0.998,0.996,10:01
+4,9:39,CHI,Derrick Jones Jr.,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,89,68,0.998,0.998,9:58
+4,9:30,CLE,Jarrett Allen,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,89,68,0.997,0.998,9:39
+4,8:34,CLE,Evan Mobley,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,91,70,0.996,0.998,8:45
+4,8:02,CHI,Zach LaVine,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,93,74,0.999,0.998,8:08
+4,7:18,CHI,Nikola Vucevic,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,95,74,0.999,0.999,7:23
+4,7:10,CLE,Isaac Okoro,Personal Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,97,74,0.999,0.999,7:18
+4,3:46,CLE,Lamar Stevens,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,107,82,0.999,0.999,4:11
+4,3:38,CLE,Kevin Pangos,Offensive Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,107,83,0.999,0.999,3:43
+4,2:40,CLE,Lamar Stevens,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,113,89,0.999,0.999,2:40
+4,1:52,CLE,Kevin Pangos,Shooting Foul,Foul,Courtney Kirkland,Nick Buchert,Jonathan Sterling,CLE,113,90,0.999,0.999,1:57

@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:55,CHI,DeMar DeRozan,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,0,2,0.345,0.379,11:05
+1,10:44,DEN,Aaron Gordon,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,0,3,0.415,0.378,10:52
+1,6:47,DEN,Michael Porter Jr.,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,9,13,0.394,0.357,6:55
+1,6:17,CHI,Ayo Dosunmu,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,10,15,0.274,0.307,6:20
+1,5:41,CHI,DeMar DeRozan,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,12,17,0.274,0.306,5:57
+1,1:26,DEN,Jamal Murray,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,19,32,0.172,0.143,1:26
+2,9:37,DEN,Bruce Brown,Offensive Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,26,34,0.253,0.188,9:48
+2,9:07,CHI,Derrick Jones Jr.,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,26,34,0.228,0.227,9:12
+2,7:00,CHI,Alex Caruso,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,30,38,0.208,0.247,7:00
+2,6:18,DEN,Michael Porter Jr.,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,32,41,0.259,0.222,6:29
+2,6:11,CHI,Nikola Vucevic,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,34,41,0.247,0.244,6:18
+2,5:23,DEN,Michael Porter Jr.,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,34,43,0.258,0.223,5:33
+2,5:01,DEN,Jamal Murray,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,38,43,0.347,0.297,5:01
+2,4:47,CHI,Ayo Dosunmu,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,39,43,0.283,0.324,5:01
+2,4:22,CHI,Zach LaVine,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,39,45,0.231,0.269,4:32
+2,3:42,DEN,Bruce Brown,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,39,47,0.282,0.241,3:46
+2,3:28,CHI,DeMar DeRozan,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,39,47,0.182,0.217,3:28
+3,9:17,DEN,Aaron Gordon,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,50,68,0.044,0.044,9:23
+3,8:25,CHI,Ayo Dosunmu,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,52,68,0.05,0.036,9:34
+3,8:10,DEN,Kentavious Caldwell-Pope,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,54,68,0.098,0.071,8:10
+3,6:33,CHI,Zach LaVine,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,57,73,0.031,0.043,6:37
+3,4:39,CHI,Goran Dragic,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,66,77,0.101,0.101,4:52
+3,3:50,CHI,Goran Dragic,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,66,79,0.047,0.063,3:56
+3,3:50,CHI,Goran Dragic,Technical Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,66,79,0.055,0.047,3:50
+3,2:12,CHI,Andre Drummond,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,70,89,0.007,0.012,2:32
+3,36.8,DEN,Christian Braun,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,72,94,0.006,0.004,39.4
+3,30.4,CHI,Derrick Jones Jr.,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,74,96,0.002,0.004,30.4
+3,16.0,DEN,DeAndre Jordan,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,74,97,0.004,0.002,30.4
+4,8:23,CHI,Andre Drummond,Loose Ball Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,82,103,0.001,0.001,8:23
+4,7:24,CHI,Andre Drummond,Transition Take Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,82,107,0.001,0.001,7:26
+4,7:02,CHI,Zach LaVine,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,82,110,0.001,0.001,7:02
+4,4:22,DEN,Jeff Green,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,88,116,0.001,0.001,4:28
+4,3:25,DEN,Jeff Green,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,92,116,0.001,0.001,3:25
+4,2:45,DEN,Zeke Nnaji,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,92,118,0.001,0.001,2:45
+4,2:33,CHI,Dalen Terry,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,92,118,0.001,0.001,2:36
+4,2:21,DEN,Christian Braun,Shooting Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,92,118,0.001,0.001,2:24
+4,20.0,DEN,Vlatko Cancar,Personal Foul,Foul,Matt Boland,Zach Zarba,Mousa Dagher,CHI,101,126,0.001,0.001,31.0

@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,DET,Jerami Grant,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,2,0,0.862,0.843,11:16
+1,8:54,DET,Cade Cunningham,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,12,0,0.946,0.937,8:59
+1,7:37,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,18,2,0.945,0.953,7:50
+1,6:09,DET,Hamidou Diallo,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,18,6,0.944,0.935,6:24
+1,3:45,DET,Hamidou Diallo,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,26,11,0.96,0.953,4:06
+1,2:48,DET,Hamidou Diallo,Loose Ball Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,28,15,0.939,0.939,2:48
+1,2:38,MIL,Pat Connaughton,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,30,15,0.935,0.946,2:48
+1,1:17,MIL,Bobby Portis,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,32,22,0.909,0.914,1:17
+2,10:29,DET,Trey Lyles,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,35,28,0.874,0.876,10:38
+2,9:06,MIL,Bobby Portis,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,40,35,0.834,0.842,9:06
+2,8:31,DET,Josh Jackson,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,42,36,0.855,0.857,8:33
+2,7:36,MIL,Jordan Nwora,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,44,38,0.81,0.838,7:51
+2,6:55,MIL,Jrue Holiday,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,46,40,0.808,0.836,7:03
+2,5:37,DET,Trey Lyles,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,46,43,0.795,0.797,5:51
+2,5:10,DET,Trey Lyles,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,48,43,0.844,0.812,5:10
+2,4:36,MIL,George Hill,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,52,43,0.856,0.88,4:44
+3,11:02,DET,Jerami Grant,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,64,54,0.907,0.908,11:08
+3,10:19,DET,Saddiq Bey,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,66,56,0.926,0.908,10:39
+3,9:03,MIL,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,71,56,0.939,0.953,9:20
+3,6:28,DET,Luka Garza,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,71,65,0.868,0.837,6:42
+3,3:18,DET,Saben Lee,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,83,71,0.961,0.946,3:20
+3,1:14,MIL,Jrue Holiday,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,86,71,0.958,0.971,1:33
+4,10:39,MIL,Rodney Hood,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,90,76,0.972,0.98,10:39
+4,9:04,MIL,Grayson Allen,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,96,79,0.99,0.991,9:16
+4,7:40,DET,Hamidou Diallo,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,101,81,0.999,0.998,7:46
+4,5:05,DET,Saddiq Bey,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,109,86,0.999,0.999,5:05
+4,4:24,MIL,Bobby Portis,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,109,88,0.999,0.999,4:32
+4,4:17,MIL,Bobby Portis,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,109,88,0.999,0.999,4:24
+4,4:08,MIL,Pat Connaughton,Offensive Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,109,90,0.999,0.999,4:17
+4,3:20,DET,Saddiq Bey,Personal Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,109,90,0.999,0.999,3:22
+4,1:56,MIL,Thanasis Antetokounmpo,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,112,90,0.999,0.999,1:59
+4,1:44,DET,Hamidou Diallo,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,112,90,0.999,0.999,1:53
+4,37.9,MIL,Sandro Mamukelashvili,Shooting Foul,Foul,Bill Kennedy,Kevin Cutler,Danielle Scott,MIL,114,92,0.999,0.999,40.1

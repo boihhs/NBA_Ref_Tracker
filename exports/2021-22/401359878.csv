@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,DEN,Nikola Jokic,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,2,2,0.771,0.743,11:27
+1,9:25,UTAH,Royce O'Neale,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,8,7,0.737,0.736,9:36
+1,8:39,UTAH,Rudy Gobert,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,11,11,0.712,0.734,8:39
+1,7:20,DEN,Aaron Gordon,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,15,16,0.706,0.708,7:36
+1,6:36,UTAH,Donovan Mitchell,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,15,16,0.682,0.681,6:42
+1,5:05,UTAH,Hassan Whiteside,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,18,18,0.661,0.698,5:10
+1,3:43,UTAH,Hassan Whiteside,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,24,23,0.677,0.714,3:55
+1,36.1,DEN,PJ Dozier,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,33,31,0.775,0.748,44.1
+2,11:46,DEN,JaMychal Green,Loose Ball Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,35,31,0.776,0.787,11:46
+2,10:32,UTAH,Rudy Gobert,Offensive Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,39,31,0.838,0.855,10:34
+2,10:00,UTAH,Joe Ingles,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,42,31,0.883,0.883,10:08
+2,9:57,UTAH,Jared Butler,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,42,31,0.861,0.883,10:00
+2,8:18,UTAH,Jared Butler,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,44,35,0.827,0.853,8:36
+2,7:32,UTAH,Donovan Mitchell,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,44,36,0.806,0.835,7:44
+2,7:17,DEN,Michael Porter Jr.,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,44,38,0.844,0.816,7:32
+2,6:38,UTAH,Hassan Whiteside,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,49,40,0.825,0.852,6:48
+2,3:13,UTAH,Bojan Bogdanovic,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,60,52,0.8,0.833,3:21
+2,2:08,UTAH,Royce O'Neale,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,62,58,0.697,0.739,2:13
+2,1:54,DEN,Michael Porter Jr.,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,62,60,0.753,0.712,2:08
+2,1:12,DEN,Jeff Green,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,62,60,0.751,0.707,1:22
+2,22.0,DEN,Will Barton,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,64,64,0.689,0.645,28.4
+3,5:55,DEN,JaMychal Green,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,77,79,0.597,0.536,6:11
+3,4:31,DEN,Aaron Gordon,Offensive Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,79,81,0.526,0.532,5:26
+3,3:49,DEN,Aaron Gordon,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,81,83,0.586,0.522,3:57
+3,2:52,DEN,Facundo Campazzo,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,83,85,0.51,0.515,2:56
+3,2:41,DEN,PJ Dozier,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,83,85,0.58,0.51,2:52
+3,1:42,UTAH,Jordan Clarkson,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,85,87,0.385,0.459,2:00
+3,1:21,UTAH,Joe Ingles,Personal Take Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,85,87,0.38,0.451,1:21
+4,10:41,UTAH,Rudy Gobert,Offensive Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,91,93,0.425,0.479,11:05
+4,7:55,DEN,PJ Dozier,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,100,95,0.8,0.823,7:55
+4,7:47,UTAH,Jordan Clarkson,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,102,95,0.852,0.861,7:55
+4,7:22,DEN,Facundo Campazzo,Loose Ball Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,102,95,0.88,0.896,7:22
+4,7:12,UTAH,Donovan Mitchell,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,102,95,0.857,0.868,7:12
+4,6:10,DEN,Aaron Gordon,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,104,97,0.945,0.906,6:21
+4,5:30,UTAH,Hassan Whiteside,Loose Ball Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,106,97,0.948,0.939,5:30
+4,5:08,DEN,Monte Morris,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,106,97,0.949,0.958,5:08
+4,4:57,DEN,Will Barton,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,108,97,0.987,0.973,4:57
+4,4:57,UTAH,Hassan Whiteside,Double Technical Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,108,97,0.976,0.987,4:57
+4,4:08,DEN,Jeff Green,Personal Take Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,109,97,0.996,0.991,4:18
+4,3:24,DEN,Jeff Green,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,110,100,0.993,0.984,3:45
+4,3:09,UTAH,Rudy Gobert,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,111,100,0.968,0.985,3:22
+4,3:04,DEN,Monte Morris,Personal Take Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,111,101,0.993,0.985,3:09
+4,2:54,UTAH,Joe Ingles,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,113,101,0.981,0.991,3:04
+4,2:35,DEN,Michael Porter Jr.,Personal Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,113,102,0.997,0.994,2:35
+4,1:18,UTAH,Donovan Mitchell,Shooting Foul,Foul,Derrick Collins,David Guthrie,Brandon Adair,UTAH,117,106,0.992,0.998,1:18

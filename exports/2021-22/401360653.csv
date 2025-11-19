@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:56,HOU,Kevin Porter Jr.,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,6,2,0.411,0.445,11:03
+1,9:08,TOR,Pascal Siakam,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,11,5,0.573,0.536,9:12
+1,7:44,HOU,Garrison Mathews,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,15,8,0.541,0.54,7:52
+1,7:37,HOU,Kevin Porter Jr.,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,15,8,0.542,0.541,7:44
+1,5:45,HOU,Jalen Green,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,22,12,0.612,0.631,6:01
+1,4:21,TOR,Dalano Banton,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,26,18,0.612,0.613,4:32
+1,2:53,HOU,Christian Wood,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,30,24,0.496,0.538,2:54
+1,2:06,TOR,Scottie Barnes,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,30,32,0.348,0.347,2:12
+1,1:51,TOR,Scottie Barnes,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,32,32,0.425,0.375,1:51
+2,9:49,TOR,Malachi Flynn,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,43,43,0.436,0.384,9:49
+2,9:48,TOR,Precious Achiuwa,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,43,43,0.413,0.415,9:49
+2,9:39,TOR,Precious Achiuwa,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,43,43,0.413,0.413,9:48
+2,8:26,TOR,OG Anunoby,Offensive Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,45,43,0.479,0.445,8:31
+2,7:51,HOU,Josh Christopher,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,47,43,0.511,0.51,7:57
+2,7:25,TOR,Yuta Watanabe,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,47,45,0.527,0.482,7:42
+2,7:02,HOU,David Nwaba,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,47,47,0.369,0.422,7:02
+2,5:58,HOU,David Nwaba,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,49,50,0.32,0.364,6:03
+2,5:50,HOU,Alperen Sengun,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,49,51,0.294,0.334,5:58
+2,5:16,TOR,Gary Trent Jr.,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,49,56,0.271,0.232,5:37
+2,3:52,TOR,Chris Boucher,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,53,61,0.245,0.207,3:52
+2,3:10,TOR,Chris Boucher,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,53,63,0.195,0.164,3:28
+2,2:32,HOU,Jae'Sean Tate,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,57,68,0.113,0.144,2:32
+2,2:32,HOU,Jalen Green,Technical Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,57,68,0.113,0.113,2:32
+2,2:32,TOR,Gary Trent Jr.,Technical Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,57,68,0.158,0.124,2:32
+2,51.8,HOU,Alperen Sengun,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,61,69,0.149,0.183,52.2
+2,3.9,TOR,Chris Boucher,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,63,73,0.189,0.158,10.0
+3,11:51,HOU,Garrison Mathews,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,64,73,0.157,0.17,12:00
+3,11:33,TOR,OG Anunoby,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,64,73,0.178,0.178,11:43
+3,9:28,HOU,Jae'Sean Tate,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,67,76,0.149,0.149,9:37
+3,9:23,HOU,Christian Wood,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,67,76,0.121,0.149,9:28
+3,8:55,TOR,Pascal Siakam,Personal Take Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,67,78,0.128,0.128,8:56
+3,7:25,TOR,Pascal Siakam,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,72,80,0.233,0.191,7:29
+3,6:59,TOR,Pascal Siakam,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,73,82,0.202,0.164,7:05
+3,5:06,TOR,Dalano Banton,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,81,91,0.168,0.133,5:17
+3,4:35,TOR,Pascal Siakam,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,82,91,0.193,0.155,4:42
+3,4:02,TOR,Dalano Banton,Offensive Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,84,93,0.152,0.126,4:03
+3,1:08,HOU,KJ Martin,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,89,99,0.063,0.089,1:20
+4,10:55,TOR,Khem Birch,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,92,106,0.045,0.035,11:19
+4,9:48,HOU,Alperen Sengun,Loose Ball Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,93,109,0.01,0.011,9:49
+4,9:23,HOU,Jae'Sean Tate,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,95,109,0.011,0.02,9:33
+4,8:44,HOU,Kevin Porter Jr.,Offensive Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,95,114,0.002,0.002,8:48
+4,4:36,TOR,Malachi Flynn,Personal Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,109,121,0.018,0.016,4:36
+4,4:29,HOU,Christian Wood,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,109,123,0.002,0.006,4:29
+4,3:46,TOR,Pascal Siakam,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,111,126,0.004,0.001,3:46
+4,3:25,TOR,Khem Birch,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,112,126,0.009,0.003,3:26
+4,2:25,TOR,Gary Trent Jr.,Shooting Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,115,128,0.009,0.003,2:36
+4,1:17,TOR,Malachi Flynn,Personal Take Foul,Foul,Bill Kennedy,Matt Myers,Gediminas Petraitis,HOU,116,136,0.001,0.001,1:24

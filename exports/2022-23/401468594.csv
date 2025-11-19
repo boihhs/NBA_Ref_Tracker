@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:47,MIA,Max Strus,Loose Ball Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,3,2,0.459,0.463,10:47
+1,10:07,SA,Tre Jones,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,3,4,0.35,0.385,10:14
+1,9:25,MIA,Nikola Jovic,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,3,6,0.361,0.361,9:31
+1,7:18,MIA,Tyler Herro,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,7,12,0.314,0.315,7:34
+1,6:00,SA,Keldon Johnson,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,9,15,0.271,0.271,6:08
+1,4:19,SA,Devin Vassell,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,12,20,0.228,0.228,4:36
+1,3:32,MIA,Jimmy Butler III,Loose Ball Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,12,20,0.282,0.249,3:38
+1,3:25,MIA,Victor Oladipo,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,12,20,0.282,0.282,3:32
+1,3:08,MIA,Duncan Robinson,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,14,20,0.328,0.293,3:12
+1,1:25,MIA,Dewayne Dedmon,Transition Take Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,24,20,0.564,0.564,1:25
+1,26.0,MIA,Haywood Highsmith,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,28,23,0.639,0.594,26.0
+1,6.0,SA,Jeremy Sochan,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,28,23,0.527,0.565,24.1
+2,10:52,MIA,Duncan Robinson,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,28,25,0.544,0.545,10:57
+2,10:16,SA,Jeremy Sochan,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,28,27,0.457,0.456,10:19
+2,9:07,MIA,Bam Adebayo,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,28,29,0.472,0.428,9:18
+2,8:52,SA,Jakob Poeltl,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,29,29,0.386,0.427,9:05
+2,8:20,MIA,Victor Oladipo,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,31,32,0.429,0.429,8:25
+2,8:07,MIA,Duncan Robinson,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,31,32,0.452,0.43,8:07
+2,3:11,SA,Jeremy Sochan,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,43,44,0.38,0.435,3:11
+2,1:46,SA,Zach Collins,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,49,46,0.488,0.542,1:51
+2,1:34,MIA,Tyler Herro,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,49,47,0.596,0.54,1:44
+2,52.1,MIA,Max Strus,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,51,49,0.599,0.541,1:09
+2,24.0,SA,Zach Collins,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,55,51,0.556,0.616,24.0
+3,10:39,MIA,Nikola Jovic,Loose Ball Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,57,52,0.659,0.658,10:39
+3,6:46,MIA,Tyler Herro,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,65,61,0.7,0.645,6:59
+3,6:30,SA,Keita Bates-Diop,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,67,61,0.683,0.681,6:46
+3,5:21,MIA,MIA,Technical Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,67,66,0.565,0.533,5:22
+3,4:03,SA,Doug McDermott,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,72,66,0.641,0.699,4:11
+3,3:34,SA,Zach Collins,Offensive Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,74,71,0.582,0.625,3:42
+3,3:24,SA,Doug McDermott,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,74,73,0.462,0.543,3:24
+3,1:23,SA,Jeremy Sochan,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,79,77,0.477,0.549,1:31
+3,1:08,MIA,Bam Adebayo,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,79,78,0.62,0.552,1:23
+3,0.1,MIA,Victor Oladipo,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,82,80,0.675,0.604,13.1
+4,11:23,MIA,Haywood Highsmith,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,84,82,0.622,0.607,11:23
+4,10:31,SA,Keita Bates-Diop,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,86,87,0.356,0.464,10:31
+4,10:19,MIA,Haywood Highsmith,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,86,88,0.422,0.406,10:31
+4,9:41,MIA,Tyler Herro,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,86,88,0.514,0.413,9:58
+4,9:30,SA,Devin Vassell,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,86,88,0.275,0.365,9:36
+4,8:42,MIA,Victor Oladipo,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,86,90,0.354,0.305,8:56
+4,7:27,MIA,Duncan Robinson,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,88,95,0.231,0.171,7:42
+4,7:03,MIA,Bam Adebayo,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,90,97,0.226,0.163,7:10
+4,5:49,MIA,Jimmy Butler III,Personal Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,91,101,0.095,0.06,5:53
+4,5:06,SA,Devin Vassell,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,95,103,0.038,0.075,5:18
+4,4:52,MIA,Duncan Robinson,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,95,105,0.079,0.049,5:06
+4,4:42,SA,Keldon Johnson,Shooting Foul,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,97,105,0.034,0.066,4:52
+4,2:48,SA,SA,Delay Technical,Foul,Jacyn Goble,David Guthrie,CJ Washington,SA,99,110,0.008,0.007,2:48

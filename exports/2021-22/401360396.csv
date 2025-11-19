@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:20,SAC,De'Aaron Fox,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,0,0,0.402,0.441,11:24
+1,10:22,SAC,Damian Jones,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,0,3,0.332,0.366,10:31
+1,9:09,SAC,Damian Jones,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,3,10,0.244,0.277,9:26
+1,8:59,ATL,Timothe Luwawu-Cabarrot,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,3,11,0.31,0.275,9:09
+1,8:00,ATL,Delon Wright,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,7,13,0.354,0.321,8:07
+1,5:35,ATL,Onyeka Okongwu,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,11,15,0.405,0.367,5:46
+1,4:17,SAC,Buddy Hield,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,17,20,0.347,0.392,4:17
+1,56.1,ATL,Kevin Huerter,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,22,30,0.302,0.267,1:11
+2,7:10,ATL,Clint Capela,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,31,33,0.444,0.42,7:10
+2,5:59,SAC,Marvin Bagley III,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,36,33,0.501,0.546,6:02
+2,5:01,SAC,Marvin Bagley III,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,36,37,0.376,0.422,5:17
+2,2:05,SAC,Buddy Hield,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,40,46,0.268,0.297,2:05
+2,58.1,ATL,Delon Wright,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,44,49,0.324,0.293,58.1
+2,41.6,SAC,Marvin Bagley III,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,45,51,0.279,0.295,41.6
+3,6:43,ATL,Delon Wright,Personal Take Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,63,65,0.421,0.457,7:04
+3,6:29,ATL,Onyeka Okongwu,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,63,65,0.482,0.422,6:43
+3,4:32,SAC,Damian Jones,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,66,70,0.299,0.3,4:41
+3,2:54,ATL,Timothe Luwawu-Cabarrot,Personal Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,68,71,0.375,0.375,3:07
+3,1:54,SAC,Tristan Thompson,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,71,71,0.393,0.461,2:14
+3,1:02,SAC,Maurice Harkless,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,73,75,0.302,0.371,1:11
+4,10:25,SAC,Tyrese Haliburton,Personal Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,78,82,0.25,0.261,10:25
+4,9:09,SAC,Alex Len,Offensive Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,78,84,0.167,0.209,9:21
+4,8:23,ATL,Kevin Huerter,Offensive Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,78,86,0.127,0.1,8:40
+4,7:04,SAC,Damian Jones,Personal Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,80,86,0.135,0.146,7:07
+4,5:35,SAC,Tyrese Haliburton,Personal Take Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,82,88,0.109,0.12,5:35
+4,5:12,SAC,Buddy Hield,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,82,88,0.066,0.109,5:35
+4,4:52,ATL,Cam Reddish,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,84,90,0.138,0.099,4:52
+4,4:41,SAC,Harrison Barnes,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,85,90,0.156,0.135,4:52
+4,3:51,ATL,Clint Capela,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,87,92,0.267,0.173,4:14
+4,54.3,ATL,Clint Capela,Shooting Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,100,101,0.52,0.328,54.3
+4,21.6,SAC,De'Aaron Fox,Personal Take Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,101,103,0.194,0.194,21.6
+4,12.6,SAC,Maurice Harkless,Personal Take Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,101,105,0.013,0.047,13.8
+4,9.3,ATL,Timothe Luwawu-Cabarrot,Personal Take Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,101,106,0.121,0.048,12.6
+4,5.1,SAC,Buddy Hield,Personal Take Foul,Foul,Jacyn Goble,Tre Maddox,CJ Washington,SAC,102,106,0.033,0.019,5.1

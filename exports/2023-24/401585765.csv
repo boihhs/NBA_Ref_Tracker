@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:26,TOR,Ochai Agbaji,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,2,0,0.649,0.65,11:42
+1,9:57,WSH,Jordan Poole,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,6,3,0.707,0.667,9:57
+1,6:41,WSH,Johnny Davis,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,20,9,0.842,0.842,6:55
+1,6:10,WSH,Corey Kispert,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,20,9,0.863,0.842,6:15
+1,5:41,WSH,Johnny Davis,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,25,9,0.922,0.908,5:41
+1,5:30,WSH,Patrick Baldwin Jr.,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,27,9,0.933,0.917,5:30
+1,4:16,TOR,Immanuel Quickley,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,34,11,0.957,0.956,4:25
+1,3:57,TOR,Bruce Brown,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,34,11,0.949,0.957,3:59
+1,3:15,TOR,Gradey Dick,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,37,13,0.955,0.964,3:20
+1,1:57,TOR,Gradey Dick,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,42,13,0.98,0.985,2:11
+1,1:42,TOR,Malik Williams,Loose Ball Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,42,14,0.977,0.982,1:42
+2,11:09,TOR,Malik Williams,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,42,19,0.965,0.964,11:09
+2,10:24,WSH,Tristan Vukcevic,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,42,19,0.97,0.97,10:35
+2,10:11,TOR,Bruce Brown,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,42,21,0.948,0.96,10:11
+2,6:41,TOR,Ochai Agbaji,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,44,31,0.874,0.872,6:57
+2,6:08,TOR,Immanuel Quickley,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,44,33,0.811,0.842,6:12
+2,3:39,WSH,Patrick Baldwin Jr.,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,48,40,0.821,0.783,3:39
+2,55.1,TOR,RJ Barrett,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,57,48,0.774,0.811,1:09
+2,53.1,WSH,Eugene Omoruyi,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,57,48,0.863,0.83,53.1
+2,53.1,TOR,Kelly Olynyk,Double Technical Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,57,48,0.813,0.863,53.1
+2,3.0,TOR,RJ Barrett,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,63,48,0.897,0.919,9.0
+3,10:24,WSH,Tristan Vukcevic,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,67,55,0.919,0.896,10:36
+3,9:16,TOR,Kelly Olynyk,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,71,59,0.885,0.884,9:30
+3,8:07,WSH,Deni Avdija,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,75,64,0.9,0.87,8:07
+3,7:43,WSH,Patrick Baldwin Jr.,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,76,64,0.906,0.907,7:45
+3,7:21,TOR,Immanuel Quickley,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,78,66,0.877,0.908,7:21
+3,6:39,WSH,Patrick Baldwin Jr.,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,82,69,0.935,0.911,6:39
+3,6:04,TOR,Immanuel Quickley,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,82,71,0.877,0.878,6:04
+3,5:57,TOR,Ochai Agbaji,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,82,71,0.844,0.877,6:04
+3,4:20,TOR,Kelly Olynyk,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,86,74,0.89,0.924,4:20
+3,4:08,WSH,Corey Kispert,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,86,75,0.931,0.906,4:20
+3,3:37,TOR,Bruce Brown,Loose Ball Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,88,75,0.899,0.926,3:37
+3,2:33,WSH,Jules Bernard,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,90,77,0.961,0.944,2:40
+3,1:43,TOR,Javon Freeman-Liberty,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,94,79,0.952,0.968,1:43
+3,33.1,WSH,Jared Butler,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,98,85,0.964,0.943,33.1
+4,11:08,WSH,Patrick Baldwin Jr.,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,101,87,0.984,0.972,11:19
+4,10:49,TOR,Garrett Temple,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,103,87,0.968,0.981,11:08
+4,9:53,WSH,Jared Butler,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,107,92,0.985,0.983,10:07
+4,9:44,WSH,Jared Butler,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,109,92,0.994,0.989,9:44
+4,9:03,TOR,Garrett Temple,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,112,94,0.987,0.993,9:16
+4,7:44,TOR,Immanuel Quickley,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,117,98,0.994,0.997,7:50
+4,6:23,TOR,Garrett Temple,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,117,101,0.986,0.992,6:33
+4,5:21,WSH,Deni Avdija,Offensive Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,120,106,0.992,0.986,5:42
+4,4:43,TOR,Kelly Olynyk,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,122,106,0.993,0.996,4:46
+4,4:00,WSH,Tristan Vukcevic,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,122,109,0.996,0.994,4:00
+4,2:54,WSH,Tristan Vukcevic,Shooting Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,123,112,0.996,0.99,3:21
+4,2:45,WSH,Corey Kispert,Offensive Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,125,112,0.998,0.995,2:54
+4,2:25,TOR,Kelly Olynyk,Loose Ball Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,125,112,0.991,0.996,2:25
+4,21.2,WSH,Jordan Poole,Personal Take Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,127,122,0.989,0.959,25.2
+4,17.2,WSH,Corey Kispert,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,129,122,0.998,0.996,18.0
+4,10.1,WSH,Deni Avdija,Personal Foul,Foul,James Capers,Brett Nansel,John Conley,TOR,129,122,0.999,0.998,12.1

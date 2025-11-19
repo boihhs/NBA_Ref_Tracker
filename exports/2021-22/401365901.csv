@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:55,DEN,Aaron Gordon,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,2,3,0.526,0.487,11:01
+1,10:16,LAC,Brandon Boston,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,4,3,0.475,0.511,10:24
+1,5:51,LAC,Ivica Zubac,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,20,14,0.606,0.644,6:07
+1,4:30,LAC,Isaiah Hartenstein,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,24,15,0.683,0.719,4:39
+1,3:56,LAC,Justise Winslow,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,24,18,0.648,0.673,3:56
+1,3:45,DEN,JaMychal Green,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,24,19,0.686,0.65,3:56
+1,3:04,LAC,Isaiah Hartenstein,Offensive Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,24,19,0.624,0.651,3:06
+1,1:41,DEN,Austin Rivers,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,26,24,0.61,0.572,1:51
+1,1:27,DEN,Bol Bol,Offensive Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,28,24,0.625,0.598,1:41
+1,24.6,DEN,JaMychal Green,Offensive Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,30,24,0.679,0.652,29.2
+2,10:50,LAC,Jay Scrubb,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,32,26,0.657,0.657,10:59
+2,10:16,LAC,Jay Scrubb,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,32,30,0.524,0.573,10:16
+2,8:24,LAC,Terance Mann,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,34,32,0.501,0.547,8:28
+2,8:10,LAC,Eric Bledsoe,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,34,32,0.501,0.548,8:12
+2,7:27,LAC,Brandon Boston,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,34,34,0.439,0.485,7:37
+2,6:45,DEN,Bones Hyland,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,36,38,0.477,0.422,6:45
+2,6:25,DEN,Bol Bol,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,37,38,0.533,0.484,6:31
+2,5:59,LAC,Brandon Boston,Personal Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,42,38,0.564,0.609,6:11
+2,3:59,DEN,Aaron Gordon,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,44,42,0.63,0.583,4:21
+2,3:10,LAC,Harry Giles III,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,46,42,0.566,0.614,3:13
+2,9.3,DEN,Aaron Gordon,Personal Take Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,54,51,0.672,0.624,25.7
+3,10:20,LAC,Brandon Boston,Personal Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,56,56,0.482,0.478,10:34
+3,10:10,LAC,Moses Wright,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,56,56,0.427,0.482,10:20
+3,6:56,LAC,Luke Kennard,Personal Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,60,68,0.197,0.197,7:10
+3,6:08,DEN,Monte Morris,Personal Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,62,68,0.289,0.29,6:15
+3,5:18,LAC,Amir Coffey,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,66,70,0.318,0.357,5:18
+3,3:41,LAC,Harry Giles III,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,66,74,0.136,0.175,3:46
+3,3:04,DEN,Bol Bol,Offensive Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,66,75,0.171,0.143,3:16
+3,2:48,DEN,Austin Rivers,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,66,75,0.215,0.171,3:04
+3,52.6,DEN,Bones Hyland,Personal Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,72,77,0.361,0.297,56.7
+3,26.7,LAC,Harry Giles III,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,72,79,0.176,0.214,26.7
+4,10:56,DEN,Bol Bol,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,74,80,0.314,0.236,11:13
+4,9:24,DEN,Markus Howard,Personal Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,78,84,0.237,0.225,9:37
+4,7:49,DEN,Zeke Nnaji,Personal Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,80,86,0.231,0.212,7:49
+4,6:06,DEN,Bones Hyland,Personal Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,82,92,0.106,0.067,6:19
+4,5:52,DEN,Markus Howard,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,82,92,0.103,0.106,6:06
+4,5:05,LAC,Terance Mann,Loose Ball Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,88,92,0.229,0.236,5:05
+4,2:49,DEN,Vlatko Cancar,Flagrant Foul Type 1,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,96,98,0.4,0.326,3:04
+4,1:01,DEN,Petr Cornelie,Personal Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,100,100,0.743,0.592,1:05
+4,1:01,DEN,Vlatko Cancar,Technical Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,100,100,0.665,0.743,1:01
+4,51.3,LAC,Moses Wright,Personal Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,103,100,0.591,0.783,1:01
+4,51.3,LAC,Terance Mann,Away from Play Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,103,100,0.591,0.591,51.3
+4,40.1,LAC,Moses Wright,Shooting Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,103,101,0.711,0.65,40.1
+4,13.6,DEN,Bones Hyland,Personal Take Foul,Foul,Justin Van Duyne,Tyler Ford,John Butler,LAC,103,102,0.869,0.704,14.3

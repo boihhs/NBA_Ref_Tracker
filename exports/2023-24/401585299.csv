@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:17,UTAH,John Collins,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,2,5,0.531,0.494,10:34
+1,7:37,UTAH,Collin Sexton,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,6,15,0.329,0.332,7:49
+1,7:19,UTAH,Collin Sexton,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,6,15,0.369,0.329,7:21
+1,6:02,NY,Isaiah Hartenstein,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,13,15,0.485,0.482,6:21
+1,5:36,UTAH,John Collins,Offensive Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,16,18,0.511,0.482,5:46
+1,4:46,UTAH,Kelly Olynyk,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,18,18,0.602,0.563,4:57
+1,2:28,NY,Quentin Grimes,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,24,20,0.602,0.641,2:49
+1,1:40,UTAH,Keyonte George,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,24,21,0.68,0.641,2:28
+1,1:03,NY,Jericho Sims,Defensive 3-Seconds Technical,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,26,21,0.674,0.665,1:11
+2,10:13,NY,Precious Achiuwa,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,32,24,0.708,0.744,10:28
+2,8:53,NY,Josh Hart,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,34,31,0.594,0.643,8:53
+2,5:11,UTAH,Simone Fontecchio,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,43,36,0.792,0.754,5:19
+2,2:51,NY,Jalen Brunson,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,49,44,0.676,0.676,3:02
+2,2:30,NY,Isaiah Hartenstein,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,49,44,0.631,0.677,2:30
+2,1:37,UTAH,Jordan Clarkson,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,53,44,0.829,0.791,1:37
+3,10:41,NY,Josh Hart,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,59,55,0.625,0.686,10:41
+3,8:17,UTAH,Lauri Markkanen,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,63,60,0.706,0.657,8:27
+3,7:30,UTAH,Kris Dunn,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,68,60,0.833,0.787,7:30
+3,7:01,NY,Donte DiVincenzo,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,72,60,0.853,0.885,7:14
+3,5:19,UTAH,Kris Dunn,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,76,66,0.873,0.874,5:21
+3,5:05,UTAH,John Collins,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,78,66,0.924,0.896,5:05
+3,4:48,NY,Donte DiVincenzo,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,79,66,0.914,0.912,5:05
+3,2:48,UTAH,UTAH,Technical Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,82,66,0.975,0.97,2:57
+3,2:25,UTAH,Jordan Clarkson,Offensive Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,86,66,0.991,0.987,2:35
+3,1:38,UTAH,Keyonte George,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,89,66,0.998,0.996,1:44
+3,1:15,NY,Precious Achiuwa,Loose Ball Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,91,66,0.996,0.998,1:15
+3,1:03,NY,Jericho Sims,Defensive 3-Seconds Technical,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,91,66,0.998,0.996,1:15
+4,9:56,NY,Miles McBride,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,99,75,0.999,0.998,10:03
+4,9:52,NY,Donte DiVincenzo,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,99,75,0.999,0.999,9:56
+4,7:24,NY,Isaiah Hartenstein,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,105,82,0.998,0.999,7:41
+4,3:42,NY,Precious Achiuwa,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,112,90,0.999,0.999,3:49
+4,3:21,UTAH,John Collins,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,112,92,0.999,0.999,3:42
+4,1:33,NY,Jalen Brunson,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,114,99,0.999,0.999,1:33
+4,29.1,NY,Isaiah Hartenstein,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Schwab,NY,118,101,0.999,0.999,38.0

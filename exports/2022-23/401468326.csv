@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:19,CLE,Jarrett Allen,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,0,0,0.424,0.385,11:36
+1,10:39,CLE,Donovan Mitchell,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,2,0,0.475,0.438,10:45
+1,9:28,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,8,3,0.496,0.493,9:28
+1,8:46,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,10,3,0.511,0.548,9:05
+1,8:37,CLE,Jarrett Allen,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,10,5,0.563,0.525,8:46
+1,5:17,CLE,Robin Lopez,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,14,12,0.497,0.455,5:34
+1,2:18,SAC,Davion Mitchell,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,29,19,0.662,0.663,2:28
+1,2:08,SAC,Keegan Murray,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,29,19,0.62,0.662,2:18
+2,11:40,CLE,Kevin Love,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,34,29,0.566,0.569,11:40
+2,10:49,SAC,Malik Monk,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,38,29,0.613,0.657,11:05
+2,9:58,SAC,Trey Lyles,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,43,34,0.661,0.661,10:08
+2,7:50,CLE,Caris LeVert,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,49,36,0.834,0.803,8:05
+2,5:26,CLE,Donovan Mitchell,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,50,42,0.687,0.689,5:38
+2,4:41,CLE,Dean Wade,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,53,44,0.762,0.723,4:51
+2,3:26,CLE,Caris LeVert,Technical Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,57,50,0.693,0.672,3:27
+2,2:42,SAC,Kevin Huerter,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,59,50,0.709,0.707,2:42
+2,1:57,SAC,Kevin Huerter,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,59,52,0.598,0.65,1:58
+2,1:51,SAC,Harrison Barnes,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,59,52,0.599,0.598,1:57
+2,1:34,CLE,Darius Garland,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,59,54,0.67,0.619,1:51
+3,10:32,SAC,Kevin Huerter,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,71,58,0.845,0.848,10:45
+3,9:56,SAC,Keegan Murray,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,73,58,0.891,0.89,10:07
+3,9:35,CLE,Evan Mobley,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,73,60,0.901,0.873,9:50
+3,6:38,SAC,Domantas Sabonis,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,80,73,0.678,0.741,6:38
+3,6:27,CLE,Jarrett Allen,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,80,73,0.788,0.741,6:36
+3,5:59,CLE,Dean Wade,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,82,76,0.712,0.71,6:12
+3,5:14,CLE,Evan Mobley,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,84,79,0.735,0.676,5:35
+3,4:13,CLE,Cedi Osman,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,89,84,0.744,0.684,4:33
+4,11:48,SAC,Keegan Murray,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,97,93,0.628,0.639,11:48
+4,10:53,SAC,De'Aaron Fox,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,97,93,0.588,0.644,10:53
+4,9:41,CLE,Darius Garland,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,99,99,0.505,0.43,9:48
+4,8:44,SAC,Malik Monk,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,99,101,0.24,0.328,8:54
+4,8:13,SAC,Keegan Murray,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,99,103,0.158,0.223,8:25
+4,8:02,CLE,Jarrett Allen,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,99,105,0.254,0.179,8:13
+4,7:55,CLE,Kevin Love,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,101,105,0.286,0.268,7:59
+4,6:06,CLE,Caris LeVert,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,105,105,0.617,0.504,6:14
+4,5:49,SAC,Harrison Barnes,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,106,107,0.334,0.452,5:49
+4,5:38,CLE,Dean Wade,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,106,108,0.488,0.384,5:49
+4,2:54,CLE,Darius Garland,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,115,115,0.659,0.537,2:54
+4,2:42,SAC,Harrison Barnes,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,117,115,0.489,0.613,2:54
+4,2:10,CLE,Evan Mobley,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,119,117,0.716,0.618,2:29
+4,1:39,SAC,Malik Monk,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,121,117,0.673,0.794,1:51
+4,45.5,CLE,Donovan Mitchell,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,124,118,0.98,0.967,45.5
+4,13.3,CLE,Caris LeVert,Personal Foul,Foul,Sean Corbin,Ben Taylor,Robert Hussey,SAC,126,120,0.998,0.992,13.8
