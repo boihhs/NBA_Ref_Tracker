@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,CLE,De'Andre Hunter,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,0,0,0.72,0.737,11:40
+1,9:25,MIL,Gary Trent Jr.,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,4,4,0.759,0.73,9:27
+1,8:32,MIL,AJ Green,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,7,6,0.745,0.746,8:45
+1,7:59,MIL,Gary Trent Jr.,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,7,6,0.742,0.744,8:08
+1,6:42,MIL,Taurean Prince,Loose Ball Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,12,10,0.787,0.759,6:42
+1,5:06,CLE,Sam Merrill,Transition Take Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,12,14,0.639,0.639,5:08
+1,5:03,CLE,Sam Merrill,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,12,15,0.574,0.641,5:06
+1,4:54,MIL,AJ Green,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,12,18,0.601,0.562,5:03
+1,1:01,MIL,Ryan Rollins,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,23,26,0.656,0.62,1:08
+1,14.3,CLE,Jaylon Tyson,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,27,29,0.573,0.611,23.9
+1,2.3,MIL,Bobby Portis,Flagrant Foul Type 1,Foul,James Capers,Nate Green,Dannica Mosher,CLE,27,31,0.582,0.568,2.3
+2,11:35,CLE,Craig Porter Jr.,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,30,31,0.664,0.664,11:40
+2,10:35,CLE,Jaylon Tyson,Loose Ball Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,32,36,0.576,0.573,10:35
+2,9:26,CLE,Jaylon Tyson,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,35,36,0.655,0.627,9:41
+2,9:05,MIL,Ryan Rollins,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,35,36,0.679,0.679,9:05
+2,8:19,MIL,Taurean Prince,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,35,36,0.676,0.677,8:20
+2,6:33,MIL,Bobby Portis,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,39,36,0.8,0.746,6:39
+2,5:48,CLE,De'Andre Hunter,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,44,39,0.731,0.768,5:59
+2,5:38,CLE,De'Andre Hunter,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,44,39,0.73,0.731,5:48
+2,4:54,MIL,MIL,Delay Technical,Foul,James Capers,Nate Green,Dannica Mosher,CLE,49,40,0.86,0.865,4:54
+2,4:45,MIL,Ryan Rollins,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,50,40,0.901,0.881,4:54
+2,3:58,CLE,Larry Nance Jr.,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,54,43,0.857,0.881,4:05
+2,3:10,CLE,Evan Mobley,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,56,45,0.857,0.881,3:19
+2,2:02,CLE,Evan Mobley,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,58,49,0.819,0.849,2:24
+2,22.5,MIL,Gary Trent Jr.,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,63,56,0.858,0.831,24.2
+3,9:57,MIL,AJ Green,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,70,56,0.942,0.941,10:01
+3,9:41,CLE,Jarrett Allen,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,70,56,0.912,0.931,9:45
+3,9:40,CLE,Sam Merrill,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,70,57,0.897,0.909,9:41
+3,8:52,CLE,Evan Mobley,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,72,61,0.864,0.891,9:03
+3,7:47,MIL,Gary Trent Jr.,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,75,61,0.96,0.947,7:54
+3,7:37,CLE,Dean Wade,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,77,61,0.942,0.956,7:47
+3,6:54,MIL,Myles Turner,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,77,61,0.974,0.965,6:56
+3,6:24,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,79,63,0.975,0.966,6:32
+3,5:38,CLE,Evan Mobley,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,81,65,0.946,0.961,5:42
+3,3:41,MIL,Taurean Prince,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,81,70,0.943,0.922,3:51
+3,2:48,CLE,Larry Nance Jr.,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,83,75,0.801,0.848,2:52
+3,1:40,CLE,Jarrett Allen,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,83,80,0.679,0.72,1:48
+3,0.0,MIL,Myles Turner,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,85,84,0.703,0.633,10.0
+4,10:24,MIL,Mark Sears,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,90,86,0.78,0.77,10:31
+4,9:23,MIL,Bobby Portis,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,95,88,0.906,0.851,9:23
+4,4:58,MIL,Gary Trent Jr.,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,103,98,0.861,0.815,4:59
+4,4:12,MIL,AJ Green,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,103,98,0.87,0.822,4:20
+4,4:20,CLE,Lonzo Ball,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,103,98,0.822,0.888,3:06
+4,1:58,CLE,Dean Wade,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,110,104,0.86,0.912,1:58
+4,1:01,CLE,Dean Wade,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,112,106,0.825,0.913,1:12
+4,15.7,MIL,Taurean Prince,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,112,109,0.961,0.867,24.4
+4,15.1,MIL,Myles Turner,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,112,109,0.962,0.961,15.7
+4,3.5,MIL,Taurean Prince,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,114,112,0.979,0.933,4.2
+4,1.7,CLE,De'Andre Hunter,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,116,112,0.96,0.967,3.5
+4,1.0,MIL,Myles Turner,Loose Ball Foul,Foul,James Capers,Nate Green,Dannica Mosher,CLE,116,113,0.997,0.992,1.0

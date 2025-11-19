@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:55,ORL,Goga Bitadze,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,15,8,0.889,0.87,7:55
+1,7:42,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,16,8,0.863,0.881,7:55
+1,6:52,OKC,Luguentz Dort,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,20,12,0.879,0.879,7:07
+1,6:26,OKC,Alex Caruso,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,20,12,0.879,0.878,6:26
+1,5:44,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,20,12,0.904,0.89,5:52
+1,4:20,OKC,Jalen Williams,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,27,17,0.88,0.898,4:33
+1,3:21,OKC,Shai Gilgeous-Alexander,Loose Ball Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,29,20,0.866,0.884,3:21
+2,11:07,ORL,Jonathan Isaac,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,41,26,0.957,0.948,11:12
+2,8:08,OKC,Chet Holmgren,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,46,30,0.936,0.948,8:16
+2,7:06,OKC,Cason Wallace,Loose Ball Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,46,34,0.912,0.912,7:06
+2,2:26,ORL,Tristan da Silva,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,51,38,0.948,0.935,2:32
+2,53.1,OKC,Luguentz Dort,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,56,42,0.919,0.935,1:11
+2,5.2,ORL,Tristan da Silva,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,58,43,0.964,0.955,13.0
+3,8:51,OKC,Jalen Williams,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,62,46,0.96,0.96,8:54
+3,8:05,OKC,Luguentz Dort,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,64,46,0.974,0.974,8:05
+3,7:33,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,64,49,0.954,0.954,7:38
+3,6:52,OKC,Cason Wallace,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,64,49,0.941,0.955,7:06
+3,5:25,ORL,Franz Wagner,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,66,55,0.936,0.928,5:25
+3,4:46,OKC,Alex Caruso,Offensive Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,69,55,0.952,0.952,4:53
+3,4:14,ORL,Moritz Wagner,Loose Ball Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,69,55,0.962,0.962,4:14
+3,3:24,OKC,Alex Caruso,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,71,55,0.96,0.972,3:32
+3,2:47,ORL,Jalen Suggs,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,71,57,0.971,0.966,2:47
+3,2:02,OKC,Dillon Jones,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,76,57,0.982,0.988,2:19
+3,35.1,ORL,Moritz Wagner,Offensive Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,84,58,0.999,0.999,51.0
+3,5.0,ORL,Jalen Suggs,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,84,58,0.999,0.999,9.1
+4,11:25,OKC,Ajay Mitchell,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,84,58,0.999,0.999,11:36
+4,11:12,OKC,Aaron Wiggins,Loose Ball Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,84,59,0.999,0.999,11:12
+4,10:49,OKC,Alex Caruso,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,84,59,0.999,0.999,10:55
+4,8:39,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,86,68,0.989,0.994,8:56
+4,7:50,OKC,Jalen Williams,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,88,71,0.987,0.992,7:59
+4,6:19,ORL,Jalen Suggs,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,90,76,0.994,0.988,6:28
+4,4:40,ORL,Goga Bitadze,Loose Ball Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,94,78,0.998,0.998,4:40
+4,4:21,ORL,Jalen Suggs,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,94,78,0.998,0.998,4:40
+4,3:13,OKC,Cason Wallace,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,99,80,0.999,0.988,5:33
+4,3:10,ORL,Cory Joseph,Personal Take Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,99,82,0.999,0.999,3:13
+4,1:33,OKC,Dillon Jones,Shooting Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,99,82,0.999,0.999,1:37
+4,36.1,ORL,Caleb Houstan,Personal Foul,Foul,Bill Kennedy,Andy Nagy,Danielle Scott,OKC,101,86,0.999,0.999,39.2

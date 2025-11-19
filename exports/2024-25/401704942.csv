@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:03,SAC,Keegan Murray,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,0,0,0.683,0.718,11:09
+1,10:31,LAL,LeBron James,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,0,4,0.646,0.648,10:41
+1,8:53,LAL,Max Christie,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,2,9,0.599,0.562,9:02
+1,7:14,SAC,DeMar DeRozan,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,7,15,0.476,0.525,7:14
+1,4:24,SAC,Keon Ellis,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,11,17,0.531,0.531,4:35
+1,5:36,SAC,Malik Monk,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,7,17,0.385,0.531,4:24
+1,4:24,LAL,Austin Reaves,Technical Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,11,17,0.58,0.453,5:35
+1,3:16,SAC,Keon Ellis,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,14,20,0.476,0.573,4:24
+1,1:40,LAL,Gabe Vincent,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,21,25,0.614,0.593,1:40
+1,51.2,LAL,Gabe Vincent,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,22,29,0.548,0.504,54.1
+2,10:17,LAL,Christian Koloko,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,32,36,0.615,0.571,10:18
+2,10:06,SAC,Keegan Murray,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,34,38,0.518,0.57,10:06
+2,9:43,SAC,De'Aaron Fox,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,34,39,0.508,0.507,9:44
+2,6:47,LAL,Rui Hachimura,Loose Ball Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,40,45,0.517,0.516,6:47
+2,6:45,LAL,Cam Reddish,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,40,45,0.516,0.517,6:47
+2,6:18,SAC,Domantas Sabonis,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,40,45,0.433,0.515,6:31
+2,6:06,LAL,Rui Hachimura,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,42,47,0.536,0.48,6:06
+2,2:44,SAC,Keegan Murray,Loose Ball Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,49,49,0.57,0.618,2:44
+2,2:32,SAC,Malik Monk,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,49,49,0.569,0.57,2:44
+2,12.1,SAC,Domantas Sabonis,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,51,55,0.41,0.466,12.1
+3,9:37,SAC,Keegan Murray,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,57,58,0.556,0.557,9:57
+3,8:53,LAL,Anthony Davis,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,57,60,0.57,0.512,8:54
+3,4:32,SAC,Malik Monk,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,68,69,0.521,0.521,4:33
+3,3:08,LAL,D'Angelo Russell,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,72,71,0.671,0.597,3:08
+3,2:08,LAL,Austin Reaves,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,72,74,0.5,0.502,2:09
+3,1:21,LAL,D'Angelo Russell,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,74,76,0.568,0.497,1:34
+3,11.0,SAC,Kevin Huerter,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,77,79,0.364,0.442,31.0
+4,9:28,SAC,De'Aaron Fox,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,82,86,0.282,0.301,9:46
+4,9:05,SAC,Keon Ellis,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,82,88,0.156,0.241,9:05
+4,7:35,SAC,Kevin Huerter,Personal Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,87,89,0.272,0.367,7:38
+4,7:03,SAC,DeMar DeRozan,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,89,91,0.304,0.409,7:03
+4,1:47,LAL,LeBron James,Loose Ball Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,96,101,0.245,0.118,1:47
+4,1:11,LAL,Anthony Davis,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,98,101,0.347,0.179,1:11
+4,12.0,SAC,Malik Monk,Shooting Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,99,101,0.065,0.167,12.1
+4,9.0,SAC,De'Aaron Fox,Personal Take Foul,Foul,Rodney Mott,CJ Washington,Kevin Scott,SAC,99,101,0.055,0.163,11.0

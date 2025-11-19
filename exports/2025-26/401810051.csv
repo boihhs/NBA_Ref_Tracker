@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:10,IND,Jay Huff,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,8,4,0.841,0.82,9:27
+1,7:10,IND,Jay Huff,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,13,6,0.876,0.857,7:27
+1,5:41,GS,Buddy Hield,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,15,6,0.847,0.868,5:57
+1,5:24,IND,Monte Morris,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,15,9,0.84,0.841,5:41
+2,10:29,IND,Cody Martin,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,23,23,0.737,0.702,10:33
+2,9:04,GS,Moses Moody,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,29,23,0.807,0.807,9:13
+2,8:30,GS,Draymond Green,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,29,25,0.764,0.763,8:30
+2,7:40,IND,Jay Huff,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,31,27,0.813,0.786,7:57
+2,7:21,GS,Buddy Hield,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,32,27,0.783,0.783,7:21
+2,5:59,IND,Isaiah Jackson,Flagrant Foul Type 1,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,34,32,0.726,0.734,6:09
+2,5:13,IND,Cody Martin,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,35,34,0.742,0.704,5:22
+2,3:16,IND,Monte Morris,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,39,36,0.785,0.748,3:16
+2,2:37,IND,Ben Sheppard,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,41,36,0.828,0.796,2:49
+2,5.4,GS,Will Richard,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,48,39,0.828,0.857,9.1
+2,1.5,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,48,39,0.828,0.828,5.4
+3,11:34,IND,Andrew Nembhard,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,48,41,0.838,0.841,11:44
+3,11:21,GS,Jimmy Butler III,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,48,41,0.815,0.817,11:28
+3,10:37,IND,Ben Sheppard,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,50,44,0.831,0.791,10:37
+3,9:35,GS,Brandin Podziemski,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,51,47,0.734,0.735,9:40
+3,8:33,IND,Isaiah Jackson,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,51,50,0.717,0.67,8:35
+3,7:14,IND,Jarace Walker,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,57,55,0.744,0.699,7:36
+3,7:10,GS,Brandin Podziemski,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,57,55,0.663,0.662,7:12
+3,5:36,GS,Moses Moody,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,59,58,0.558,0.619,5:40
+3,5:03,IND,Tony Bradley,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,59,60,0.637,0.577,5:03
+3,3:39,IND,Jeremiah Robinson-Earl,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,64,62,0.743,0.691,3:50
+3,3:31,GS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,65,64,0.578,0.652,3:31
+3,2:42,IND,Cody Martin,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,65,65,0.67,0.604,2:44
+3,2:07,IND,Andrew Nembhard,Offensive Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,67,65,0.688,0.646,2:16
+3,1:03,IND,Andrew Nembhard,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,70,65,0.845,0.798,1:12
+3,28.8,GS,Moses Moody,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,71,65,0.767,0.796,28.8
+3,4.7,IND,Monte Morris,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,74,65,0.923,0.887,4.7
+4,10:08,IND,Ben Sheppard,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,84,70,0.988,0.979,10:20
+4,8:30,GS,Moses Moody,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,90,76,0.971,0.986,8:30
+4,8:03,IND,Jarace Walker,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,90,76,0.988,0.986,8:09
+4,7:53,IND,Jarace Walker,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,90,76,0.993,0.988,8:03
+4,5:58,IND,RayJ Dennis,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,96,78,0.999,0.998,6:11
+4,5:31,GS,Brandin Podziemski,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,99,78,0.999,0.999,5:31
+4,5:00,IND,Jay Huff,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,99,78,0.999,0.999,5:07
+4,3:07,GS,Trayce Jackson-Davis,Loose Ball Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,107,78,0.999,0.999,3:24
+4,3:02,GS,Gui Santos,Personal Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,107,78,0.999,0.999,3:07
+4,1:32,IND,Jay Huff,Shooting Foul,Foul,Courtney Kirkland,Dedric Taylor,Matt Kallio,GS,112,81,0.999,0.999,1:32

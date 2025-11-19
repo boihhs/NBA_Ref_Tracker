@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:17,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,3,0,0.473,0.511,10:32
+1,8:46,HOU,Dillon Brooks,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,7,4,0.577,0.539,9:00
+1,8:02,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,9,6,0.476,0.515,8:25
+1,7:10,ORL,Cory Joseph,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,12,8,0.503,0.543,7:23
+1,4:47,ORL,Anthony Black,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,19,12,0.609,0.627,4:47
+1,35.1,ORL,Franz Wagner,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,21,24,0.321,0.361,36.1
+2,10:54,HOU,Fred VanVleet,Personal Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,25,28,0.388,0.389,11:00
+2,9:40,ORL,Goga Bitadze,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,29,28,0.432,0.475,9:59
+2,9:13,HOU,Fred VanVleet,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,29,30,0.49,0.447,9:22
+2,6:32,ORL,Paolo Banchero,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,41,33,0.65,0.692,6:51
+2,1:48,HOU,Alperen Sengun,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,46,49,0.435,0.387,2:00
+2,2:24,HOU,Dillon Brooks,Personal Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,46,47,0.451,0.418,1:48
+3,10:50,HOU,Alperen Sengun,Personal Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,52,56,0.349,0.352,10:50
+3,10:39,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,52,56,0.317,0.316,10:39
+3,10:17,HOU,Jalen Green,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,52,58,0.333,0.285,10:24
+3,4:19,ORL,Paolo Banchero,Away from Play Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,65,73,0.168,0.169,4:19
+3,3:38,HOU,Tari Eason,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,67,80,0.091,0.062,3:38
+3,1:21,ORL,Goga Bitadze,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,70,85,0.02,0.04,1:30
+3,1:11,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,70,86,0.044,0.018,1:21
+3,32.0,ORL,Gary Harris,Personal Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,72,86,0.023,0.035,41.1
+4,9:42,HOU,Jeff Green,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,78,94,0.028,0.016,9:52
+4,9:00,HOU,Alperen Sengun,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,78,94,0.013,0.01,9:05
+4,8:07,HOU,Tari Eason,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,82,96,0.033,0.015,8:07
+4,7:01,ORL,Franz Wagner,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,86,99,0.017,0.018,7:01
+4,6:55,ORL,Goga Bitadze,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,86,101,0.005,0.012,6:55
+4,6:21,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,89,102,0.007,0.016,6:46
+4,5:09,HOU,Steven Adams,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,91,107,0.004,0.002,5:12
+4,5:02,HOU,Steven Adams,Defensive 3-Seconds Technical,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,91,107,0.003,0.004,5:09
+4,4:20,HOU,Alperen Sengun,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,94,107,0.023,0.01,4:30
+4,3:59,ORL,Wendell Carter Jr.,Personal Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,96,107,0.005,0.015,4:20
+4,2:38,HOU,Dillon Brooks,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,98,107,0.047,0.016,2:38
+4,2:25,ORL,Cory Joseph,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,99,107,0.014,0.032,2:38
+4,2:12,HOU,Alperen Sengun,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,101,108,0.095,0.042,2:12
+4,40.0,ORL,Cory Joseph,Personal Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,101,108,0.004,0.015,47.0
+4,35.0,ORL,Cory Joseph,Personal Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,103,110,0.003,0.011,36.0
+4,28.2,HOU,Fred VanVleet,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,105,112,0.04,0.008,28.2
+4,27.1,ORL,Paolo Banchero,Personal Take Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,106,112,0.005,0.021,28.2
+4,13.1,ORL,Goga Bitadze,Personal Foul,Foul,Sean Corbin,Ben Taylor,Mousa Dagher,ORL,108,114,0.001,0.008,14.1

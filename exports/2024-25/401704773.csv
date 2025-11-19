@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:48,GS,Stephen Curry,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,7,7,0.612,0.57,8:48
+1,7:17,GS,Draymond Green,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,15,10,0.728,0.687,7:17
+1,7:05,OKC,Aaron Wiggins,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,16,10,0.71,0.71,7:17
+1,4:29,OKC,Aaron Wiggins,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,23,17,0.694,0.711,4:29
+1,2:39,GS,Gary Payton II,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,25,24,0.649,0.611,2:53
+1,18.0,OKC,Ajay Mitchell,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,30,26,0.641,0.687,18.0
+2,4:42,GS,Stephen Curry,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,45,48,0.472,0.473,4:42
+2,4:12,GS,Draymond Green,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,47,48,0.534,0.536,4:15
+2,3:11,OKC,Alex Caruso,Transition Take Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,47,52,0.367,0.367,3:11
+2,1:42,GS,Andrew Wiggins,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,49,58,0.259,0.269,1:50
+2,1:24,GS,Andrew Wiggins,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,51,58,0.379,0.327,1:26
+2,55.1,GS,Brandin Podziemski,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,55,61,0.386,0.324,55.1
+2,39.1,OKC,Jalen Williams,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,56,61,0.305,0.353,55.1
+2,30.1,GS,Brandin Podziemski,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,56,63,0.373,0.322,39.1
+3,11:44,OKC,Isaiah Joe,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,58,67,0.207,0.25,11:44
+3,11:03,OKC,Luguentz Dort,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,58,70,0.15,0.148,11:08
+3,10:20,GS,Gary Payton II,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,58,73,0.103,0.106,10:31
+3,9:55,GS,De'Anthony Melton,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,60,75,0.101,0.101,9:56
+3,9:25,OKC,Luguentz Dort,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,62,75,0.092,0.116,9:41
+3,7:58,GS,Gary Payton II,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,62,79,0.083,0.064,8:11
+3,6:58,GS,Andrew Wiggins,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,66,83,0.077,0.058,7:08
+3,6:57,GS,Gary Payton II,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,66,83,0.077,0.077,6:58
+3,6:32,OKC,Alex Caruso,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,68,83,0.049,0.067,6:34
+3,4:46,GS,Buddy Hield,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,72,92,0.032,0.022,4:55
+3,23.2,OKC,Dillon Jones,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,77,105,0.001,0.001,25.0
+3,9.1,GS,Brandin Podziemski,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,77,107,0.001,0.001,23.2
+4,11:19,GS,Buddy Hield,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,79,107,0.001,0.001,11:32
+4,9:58,GS,Buddy Hield,Away from Play Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,84,107,0.001,0.001,9:58
+4,9:18,GS,Buddy Hield,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,88,107,0.007,0.006,9:22
+4,8:34,GS,Brandin Podziemski,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,90,107,0.02,0.012,8:44
+4,7:10,OKC,Isaiah Joe,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,95,110,0.006,0.012,7:29
+4,5:34,GS,Gary Payton II,Offensive Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,103,114,0.044,0.032,5:45
+4,5:04,GS,Draymond Green,Offensive Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,105,114,0.077,0.056,5:11
+4,4:52,OKC,Luguentz Dort,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,105,114,0.048,0.052,4:53
+4,4:52,GS,Draymond Green,Technical Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,105,114,0.094,0.051,4:52
+4,3:13,GS,Draymond Green,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,108,119,0.039,0.02,3:23
+4,3:03,OKC,Luguentz Dort,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,109,119,0.014,0.019,3:13
+4,2:17,GS,De'Anthony Melton,Offensive Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,109,119,0.019,0.012,2:28
+4,2:04,GS,Jonathan Kuminga,Shooting Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,111,119,0.068,0.027,2:04
+4,58.1,OKC,Ousmane Dieng,Personal Take Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,114,122,0.003,0.012,1:04
+4,52.1,OKC,Cason Wallace,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,114,122,0.002,0.003,58.1
+4,39.1,OKC,Cason Wallace,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,116,124,0.001,0.007,46.1
+4,33.0,OKC,Ousmane Dieng,Personal Foul,Foul,Pat Fraher,Justin Van Duyne,Intae Hwang,OKC,116,126,0.001,0.001,33.0

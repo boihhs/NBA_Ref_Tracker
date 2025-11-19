@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:43,LAC,James Harden,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,5,5,0.735,0.7,9:43
+1,9:34,DEN,Aaron Gordon,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,6,5,0.72,0.718,9:43
+1,8:15,DEN,Michael Porter Jr.,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,8,7,0.681,0.715,8:28
+1,8:09,LAC,Kris Dunn,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,8,8,0.713,0.714,8:15
+1,7:30,LAC,Norman Powell,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,10,10,0.741,0.712,7:44
+1,6:22,DEN,Christian Braun,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,17,10,0.82,0.821,6:35
+1,5:50,DEN,Nikola Jokic,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,17,10,0.795,0.82,5:55
+1,3:21,LAC,Amir Coffey,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,21,17,0.807,0.782,3:33
+1,2:29,LAC,Jordan Miller,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,22,17,0.824,0.796,2:38
+1,1:06,LAC,Kevin Porter Jr.,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,26,19,0.855,0.832,1:20
+2,11:41,LAC,Mo Bamba,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,29,22,0.853,0.82,12:00
+2,10:12,DEN,DeAndre Jordan,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,34,22,0.868,0.888,10:25
+2,8:39,LAC,Bones Hyland,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,36,25,0.888,0.889,8:56
+2,8:31,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,36,25,0.851,0.875,8:33
+2,7:32,DEN,Julian Strawther,Loose Ball Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,36,26,0.859,0.86,7:32
+2,5:57,DEN,Russell Westbrook,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,38,31,0.772,0.806,5:59
+2,3:18,DEN,Christian Braun,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,38,39,0.535,0.585,3:24
+2,2:17,LAC,Nicolas Batum,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,38,44,0.494,0.444,2:35
+2,46.0,DEN,Michael Porter Jr.,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,43,46,0.47,0.531,46.0
+2,32.0,LAC,Norman Powell,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,43,46,0.585,0.531,42.1
+2,2.1,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,48,46,0.64,0.661,2.1
+3,9:59,LAC,Norman Powell,Loose Ball Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,50,52,0.551,0.549,9:59
+3,8:24,LAC,Nicolas Batum,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,55,58,0.561,0.503,8:33
+3,6:02,LAC,Nicolas Batum,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,62,60,0.733,0.682,6:08
+3,5:22,LAC,Nicolas Batum,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,64,60,0.794,0.751,5:27
+3,3:14,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,73,62,0.944,0.922,3:30
+3,3:00,DEN,Nikola Jokic,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,74,62,0.898,0.923,3:14
+3,54.1,LAC,Mo Bamba,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,79,69,0.942,0.918,1:10
+3,8.1,DEN,Michael Porter Jr.,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,83,69,0.945,0.962,31.0
+4,10:12,LAC,Amir Coffey,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,87,71,0.993,0.988,10:27
+4,9:03,DEN,Russell Westbrook,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,92,74,0.993,0.993,9:17
+4,8:57,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,92,74,0.99,0.994,8:57
+4,7:44,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,96,78,0.998,0.997,7:53
+4,6:56,LAC,Amir Coffey,Personal Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,100,80,0.999,0.999,7:08
+4,5:38,LAC,Kevin Porter Jr.,Loose Ball Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,102,82,0.999,0.999,5:38
+4,4:09,DEN,Hunter Tyson,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,106,82,0.999,0.999,4:09
+4,1:19,LAC,Bones Hyland,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,116,95,0.999,0.999,1:33
+4,56.0,LAC,Kai Jones,Shooting Foul,Foul,Ed Malloy,Eric Dalen,Sha'Rae Mitchell,DEN,118,95,0.999,0.999,1:07

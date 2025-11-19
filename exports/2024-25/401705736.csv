@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,MIN,Julius Randle,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,4,3,0.647,0.618,10:48
+1,6:27,MEM,Zach Edey,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,16,21,0.383,0.424,6:43
+1,5:12,MEM,Vince Williams Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,24,23,0.582,0.581,5:29
+1,4:59,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,24,23,0.561,0.581,4:59
+1,4:03,MEM,Jaren Jackson Jr.,Technical Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,24,25,0.504,0.525,4:03
+1,2:42,MIN,Anthony Edwards,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,27,26,0.606,0.605,2:57
+1,1:52,MIN,Donte DiVincenzo,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,30,29,0.642,0.605,2:09
+1,49.1,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,30,35,0.475,0.432,51.1
+1,14.1,MEM,Scotty Pippen Jr.,Offensive Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,31,35,0.43,0.456,28.1
+2,8:07,MEM,Zach Edey,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,44,46,0.43,0.476,8:17
+2,4:50,MEM,Zach Edey,Offensive Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,53,57,0.401,0.436,4:56
+2,4:24,MIN,Rudy Gobert,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,53,59,0.417,0.37,4:31
+2,2:59,MEM,Ja Morant,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,60,59,0.561,0.561,3:09
+2,2:56,MEM,Vince Williams Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,60,59,0.561,0.561,2:59
+2,2:43,MEM,Desmond Bane,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,60,59,0.536,0.561,2:56
+2,2:02,MIN,Julius Randle,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,63,61,0.674,0.627,2:07
+2,1:13,MIN,Jaden McDaniels,Offensive Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,65,64,0.593,0.56,1:20
+2,40.1,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,67,64,0.575,0.625,42.1
+2,18.1,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,70,65,0.64,0.69,18.1
+3,11:42,MEM,Zach Edey,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,72,67,0.642,0.705,12:00
+3,10:24,MIN,Jaden McDaniels,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,75,74,0.591,0.59,10:43
+3,9:44,MEM,Santi Aldama,Loose Ball Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,75,76,0.481,0.479,9:44
+3,9:31,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,75,78,0.38,0.443,9:31
+3,9:31,MEM,MEM,Delay Technical,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,75,78,0.415,0.38,9:31
+3,9:25,MIN,Jaden McDaniels,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,75,80,0.368,0.369,9:31
+3,8:26,MIN,Mike Conley,Loose Ball Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,75,84,0.23,0.231,8:26
+3,8:22,MIN,Anthony Edwards,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,75,84,0.277,0.23,8:26
+3,7:23,MEM,Desmond Bane,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,77,89,0.093,0.121,7:32
+3,5:40,MIN,Mike Conley,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,81,97,0.072,0.048,5:40
+3,5:24,MEM,Ja Morant,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,81,97,0.034,0.048,5:37
+3,4:11,MEM,Ja Morant,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,85,101,0.029,0.04,4:13
+3,4:06,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,85,103,0.047,0.033,4:11
+3,3:47,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,87,105,0.045,0.032,3:55
+3,3:37,MIN,Naz Reid,Offensive Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,89,105,0.049,0.038,3:47
+3,3:22,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,91,105,0.086,0.058,3:22
+3,19.1,MEM,Desmond Bane,Offensive Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,97,119,0.002,0.004,28.1
+4,11:35,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,99,121,0.001,0.004,11:35
+4,11:22,MIN,Mike Conley,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,99,122,0.002,0.002,11:22
+4,11:18,MIN,Mike Conley,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,99,122,0.002,0.002,11:22
+4,10:16,MIN,Naz Reid,Loose Ball Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,99,122,0.002,0.001,10:16
+4,9:12,MIN,Donte DiVincenzo,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,103,124,0.006,0.003,9:21
+4,8:52,MIN,Rudy Gobert,Offensive Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,104,124,0.004,0.003,9:11
+4,8:22,MEM,Scotty Pippen Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,107,124,0.006,0.007,8:36
+4,7:09,MEM,Scotty Pippen Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,109,126,0.004,0.004,7:11
+4,4:42,MIN,Rudy Gobert,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,116,129,0.02,0.008,4:42
+4,2:29,MIN,Anthony Edwards,Personal Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,119,131,0.017,0.007,2:34
+4,2:29,MEM,Ja Morant,Technical Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,119,131,0.002,0.017,2:29
+4,1:28,MIN,Mike Conley,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,122,137,0.001,0.001,1:38
+4,45.1,MEM,Marvin Bagley III,Shooting Foul,Foul,John Goble,Sean Corbin,Jonathan Sterling,MEM,125,137,0.001,0.001,1:05

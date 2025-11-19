@@ -1,0 +1,29 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:55,MIA,Tyler Herro,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,5,2,0.883,0.868,10:07
+1,5:47,CLE,Darius Garland,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,16,15,0.807,0.806,5:54
+1,5:01,MIA,Kel'el Ware,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,16,18,0.793,0.766,5:05
+1,3:32,CLE,Ty Jerome,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,20,18,0.786,0.812,3:40
+1,2:40,CLE,Sam Merrill,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,24,22,0.809,0.809,2:56
+1,31.1,MIA,Davion Mitchell,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,31,24,0.906,0.888,43.1
+2,10:59,CLE,Donovan Mitchell,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,34,27,0.835,0.873,11:22
+2,9:58,CLE,Isaac Okoro,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,37,29,0.883,0.882,10:02
+2,7:44,MIA,Haywood Highsmith,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,44,36,0.901,0.877,7:44
+2,3:37,CLE,Jarrett Allen,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,58,45,0.933,0.933,3:46
+2,2:56,CLE,Darius Garland,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,60,45,0.937,0.95,3:17
+2,40.1,CLE,Jarrett Allen,Loose Ball Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,62,50,0.904,0.924,40.1
+3,11:44,MIA,Bam Adebayo,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,62,54,0.904,0.884,11:49
+3,10:10,CLE,Evan Mobley,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,67,56,0.902,0.912,10:32
+3,7:47,CLE,Donovan Mitchell,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,72,62,0.873,0.899,7:58
+3,4:47,MIA,Davion Mitchell,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,76,69,0.867,0.866,4:59
+3,2:45,MIA,Davion Mitchell,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,82,69,0.96,0.961,2:47
+3,31.1,MIA,Duncan Robinson,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,85,79,0.886,0.849,49.1
+4,11:02,CLE,Sam Merrill,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,87,79,0.872,0.882,11:11
+4,10:36,MIA,Davion Mitchell,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,87,79,0.91,0.904,10:51
+4,7:46,MIA,Duncan Robinson,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,95,88,0.905,0.899,7:52
+4,7:26,CLE,Sam Merrill,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,98,88,0.905,0.942,7:43
+4,7:04,MIA,Tyler Herro,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,98,90,0.956,0.923,7:26
+4,5:17,MIA,Tyler Herro,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,106,92,0.996,0.991,5:17
+4,5:12,MIA,Tyler Herro,Offensive Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,106,92,0.995,0.992,5:16
+4,2:48,MIA,Andrew Wiggins,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,114,98,0.999,0.999,3:05
+4,1:23,MIA,Haywood Highsmith,Personal Take Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,119,100,0.999,0.999,1:30
+4,1:21,CLE,Jaylon Tyson,Personal Take Foul,Foul,Courtney Kirkland,Eric Dalen,Sean Corbin,CLE,121,100,0.999,0.999,1:23

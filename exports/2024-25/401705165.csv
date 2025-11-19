@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:18,CHA,Mark Williams,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,0,3,0.337,0.371,11:28
+1,9:29,CHA,Mark Williams,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,3,5,0.362,0.398,9:32
+1,8:34,DAL,P.J. Washington,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,5,7,0.461,0.424,8:40
+1,7:33,DAL,P.J. Washington,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,8,10,0.462,0.424,7:45
+2,11:31,CHA,Vasilije Micic,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,24,29,0.298,0.343,11:31
+2,10:23,CHA,Josh Green,Personal Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,27,32,0.314,0.314,10:29
+2,8:49,DAL,P.J. Washington,Offensive Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,29,34,0.339,0.311,8:58
+2,8:06,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,29,34,0.384,0.338,8:09
+2,8:06,CHA,Miles Bridges,Technical Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,30,34,0.317,0.391,8:06
+2,7:52,CHA,Mark Williams,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,31,34,0.326,0.368,8:06
+2,7:35,CHA,Mark Williams,Loose Ball Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,31,36,0.272,0.31,7:35
+2,6:20,DAL,Olivier-Maxence Prosper,Personal Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,33,40,0.282,0.257,6:24
+2,5:37,DAL,Maxi Kleber,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,35,42,0.324,0.282,5:51
+2,5:28,CHA,Nick Smith Jr.,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,37,42,0.267,0.308,5:37
+2,4:28,CHA,LaMelo Ball,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,40,47,0.233,0.251,4:28
+2,1:40,CHA,Cody Martin,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,48,53,0.256,0.299,2:02
+2,1:25,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,48,55,0.316,0.27,1:40
+3,9:35,CHA,Josh Green,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,62,57,0.621,0.68,9:35
+3,3:07,DAL,Naji Marshall,Personal Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,75,76,0.466,0.464,3:22
+3,2:27,DAL,Maxi Kleber,Loose Ball Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,75,78,0.376,0.375,2:27
+3,2:00,CHA,Josh Okogie,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,75,78,0.27,0.33,2:13
+3,1:19,CHA,Seth Curry,Personal Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,77,82,0.193,0.248,1:25
+4,11:16,CHA,Vasilije Micic,Personal Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,84,83,0.498,0.511,11:24
+4,10:32,DAL,Kessler Edwards,Personal Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,84,83,0.577,0.565,10:34
+4,9:27,DAL,Daniel Gafford,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,88,87,0.672,0.575,9:37
+4,7:21,CHA,Josh Green,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,94,93,0.42,0.53,7:29
+4,6:21,CHA,LaMelo Ball,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,94,98,0.143,0.226,6:36
+4,5:47,DAL,Naji Marshall,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,96,100,0.377,0.264,5:53
+4,3:14,CHA,LaMelo Ball,Shooting Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,105,102,0.618,0.695,3:14
+4,15.1,DAL,P.J. Washington,Personal Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,107,105,0.925,0.773,20.0
+4,13.0,DAL,P.J. Washington,Personal Take Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,107,105,0.932,0.773,15.1
+4,1.0,DAL,Maxi Kleber,Personal Foul,Foul,Marc Davis,Brandon Adair,John Butler,CHA,108,105,0.996,0.99,1.0

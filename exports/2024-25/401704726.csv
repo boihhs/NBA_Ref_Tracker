@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,UTAH,Kyle Filipowski,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,0,3,0.544,0.508,11:40
+1,10:50,CHI,Coby White,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,4,5,0.533,0.531,11:01
+1,8:06,UTAH,Walker Kessler,Offensive Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,10,14,0.474,0.448,8:16
+1,6:06,UTAH,Keyonte George,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,12,14,0.561,0.522,6:17
+1,4:44,UTAH,John Collins,Away from Play Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,13,19,0.41,0.409,4:44
+1,4:03,CHI,Jalen Smith,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,14,19,0.367,0.407,4:16
+1,2:08,CHI,Patrick Williams,Loose Ball Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,22,23,0.511,0.512,2:08
+1,1:11,UTAH,Patty Mills,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,26,28,0.532,0.484,1:11
+1,47.0,CHI,Talen Horton-Tucker,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,27,28,0.487,0.508,47.0
+2,9:56,CHI,Jalen Smith,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,29,35,0.359,0.359,10:12
+2,9:34,CHI,Jalen Smith,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,29,37,0.263,0.299,9:36
+2,7:41,CHI,Coby White,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,32,42,0.208,0.242,7:50
+2,6:54,UTAH,Walker Kessler,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,34,47,0.226,0.192,7:04
+2,3:30,CHI,Ayo Dosunmu,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,45,55,0.183,0.22,3:55
+3,9:32,UTAH,Walker Kessler,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,63,69,0.355,0.292,9:32
+3,8:09,CHI,Coby White,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,68,71,0.394,0.394,8:23
+3,7:31,UTAH,Kyle Filipowski,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,68,75,0.336,0.284,7:38
+3,7:07,CHI,Julian Phillips,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,70,75,0.289,0.314,7:07
+3,6:26,CHI,Nikola Vucevic,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,70,75,0.313,0.313,6:39
+3,5:11,UTAH,John Collins,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,72,78,0.361,0.305,5:18
+3,4:53,CHI,Dalen Terry,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,74,78,0.281,0.341,5:11
+3,4:31,UTAH,Johnny Juzang,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,76,80,0.408,0.338,4:31
+3,3:36,CHI,Patrick Williams,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,79,80,0.391,0.455,3:43
+3,3:28,CHI,Patrick Williams,Offensive Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,79,82,0.37,0.414,3:36
+3,2:55,UTAH,Johnny Juzang,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,79,84,0.39,0.331,3:04
+3,2:47,CHI,Dalen Terry,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,81,84,0.303,0.366,2:55
+3,59.0,CHI,Patrick Williams,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,88,91,0.287,0.354,1:02
+4,9:25,UTAH,John Collins,Technical Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,96,104,0.179,0.151,9:25
+4,9:20,UTAH,Cody Williams,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,97,104,0.198,0.188,9:25
+4,9:12,UTAH,Kyle Filipowski,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,97,104,0.27,0.198,9:20
+4,8:31,CHI,Patrick Williams,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,101,106,0.16,0.231,8:43
+4,7:08,UTAH,Walker Kessler,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,105,111,0.301,0.21,7:24
+4,5:38,UTAH,Walker Kessler,Loose Ball Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,108,113,0.338,0.236,5:38
+4,5:04,CHI,Julian Phillips,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,108,113,0.116,0.191,5:21
+4,3:07,CHI,Patrick Williams,Loose Ball Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,111,120,0.026,0.029,3:07
+4,2:47,UTAH,John Collins,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,113,122,0.056,0.024,2:47
+4,2:21,UTAH,Collin Sexton,Shooting Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,116,125,0.048,0.019,2:21
+4,2:05,CHI,Coby White,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,117,125,0.011,0.05,3:33
+4,26.2,CHI,Talen Horton-Tucker,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,124,130,0.005,0.023,30.2
+4,23.1,UTAH,Collin Sexton,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,124,132,0.028,0.011,26.2
+4,23.0,CHI,Talen Horton-Tucker,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,126,132,0.004,0.016,23.1
+4,15.1,CHI,Ayo Dosunmu,Personal Foul,Foul,Pat Fraher,Kevin Scott,John Butler,CHI,126,133,0.001,0.003,15.1

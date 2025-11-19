@@ -1,0 +1,26 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,BOS,Jaylen Brown,Shooting Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,0,0,0.817,0.841,10:16
+1,6:56,BOS,Derrick White,Shooting Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,2,3,0.78,0.805,6:59
+1,2:59,TOR,Chris Boucher,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,16,8,0.917,0.917,3:17
+2,11:37,BOS,Al Horford,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,23,12,0.929,0.933,12:00
+2,8:41,TOR,Jamison Battle,Loose Ball Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,28,12,0.966,0.966,8:41
+2,7:21,TOR,Jakob Poeltl,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,28,18,0.924,0.924,7:26
+2,7:16,TOR,Ochai Agbaji,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,28,18,0.923,0.924,7:21
+2,4:35,TOR,Bruce Brown,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,35,23,0.951,0.939,4:42
+2,3:47,TOR,Jakob Poeltl,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,37,29,0.915,0.897,3:57
+2,2:42,TOR,Davion Mitchell,Shooting Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,40,29,0.944,0.93,2:44
+2,2:21,BOS,Jayson Tatum,Transition Take Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,40,29,0.919,0.919,2:23
+3,9:20,BOS,Jayson Tatum,Offensive Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,54,41,0.943,0.951,9:21
+3,9:02,TOR,Jakob Poeltl,Shooting Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,54,41,0.962,0.951,9:16
+3,8:13,BOS,Derrick White,Shooting Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,59,43,0.956,0.967,8:28
+3,5:17,TOR,Davion Mitchell,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,66,48,0.986,0.985,5:30
+3,4:42,TOR,Bruce Brown,Shooting Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,69,48,0.995,0.994,4:51
+3,3:17,TOR,Kelly Olynyk,Shooting Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,76,51,0.999,0.998,3:31
+3,2:54,TOR,Bruce Brown,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,78,51,0.999,0.999,3:01
+4,10:10,BOS,Payton Pritchard,Shooting Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,97,55,0.999,0.999,10:15
+4,7:04,TOR,Bruno Fernando,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,105,59,0.999,0.999,7:16
+4,6:14,TOR,Ja'Kobe Walter,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,107,59,0.999,0.999,6:17
+4,4:32,BOS,Neemias Queta,Shooting Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,111,62,0.999,0.999,4:46
+4,4:11,TOR,Jamison Battle,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,111,64,0.999,0.999,4:32
+4,3:21,TOR,Ulrich Chomche,Shooting Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,113,67,0.999,0.999,3:42
+4,2:12,BOS,Jordan Walsh,Personal Foul,Foul,Kevin Scott,Evan Scott,John Butler,BOS,118,67,0.999,0.999,2:21

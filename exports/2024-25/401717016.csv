@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:09,ATL,David Roddy,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,4,2,0.6,0.563,10:20
+1,8:31,ATL,Dyson Daniels,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,10,7,0.626,0.59,8:52
+1,7:16,OKC,Cason Wallace,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,16,9,0.665,0.666,7:27
+1,2:04,ATL,Dyson Daniels,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,23,24,0.484,0.485,2:14
+1,1:50,OKC,Alex Caruso,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,23,24,0.416,0.457,1:50
+2,10:45,OKC,Alex Caruso,Loose Ball Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,27,31,0.369,0.367,10:45
+2,10:28,ATL,Kobe Bufkin,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,29,31,0.477,0.425,10:28
+2,10:03,OKC,Chet Holmgren,Offensive Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,30,31,0.455,0.485,10:10
+2,8:30,ATL,Kevon Harris,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,37,31,0.729,0.691,8:34
+2,7:23,ATL,Mouhamed Gueye,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,38,33,0.666,0.666,7:35
+2,6:46,OKC,Dillon Jones,Personal Take Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,40,36,0.608,0.607,6:52
+2,4:47,ATL,Dyson Daniels,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,43,41,0.625,0.581,5:06
+2,4:08,ATL,Onyeka Okongwu,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,43,41,0.626,0.581,4:11
+2,3:30,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,44,43,0.515,0.515,3:41
+2,2:15,ATL,Vit Krejci,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,44,43,0.599,0.549,2:16
+2,1:44,ATL,Onyeka Okongwu,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,46,43,0.666,0.617,1:59
+2,42.1,OKC,Alex Caruso,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,49,46,0.533,0.587,1:04
+3,8:43,ATL,David Roddy,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,65,60,0.724,0.668,8:43
+3,3:14,ATL,Vit Krejci,Offensive Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,72,70,0.611,0.565,3:27
+3,3:02,OKC,Cason Wallace,Offensive Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,72,70,0.566,0.611,3:14
+3,2:43,OKC,Ousmane Dieng,Offensive Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,72,72,0.475,0.524,2:53
+3,55.1,OKC,Ajay Mitchell,Defensive 3-Seconds Technical,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,75,74,0.537,0.525,1:05
+3,4.0,OKC,Ajay Mitchell,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,77,77,0.402,0.474,14.2
+3,1.0,OKC,Alex Ducas,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,77,77,0.402,0.402,4.0
+4,11:12,OKC,Adam Flagler,Defensive 3-Seconds Technical,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,80,79,0.536,0.521,11:27
+4,6:28,ATL,Vit Krejci,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,85,87,0.413,0.403,6:49
+4,5:49,ATL,Keaton Wallace,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,88,87,0.716,0.606,5:52
+4,4:37,OKC,Ajay Mitchell,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,92,89,0.626,0.752,4:37
+4,3:58,ATL,Keaton Wallace,Shooting Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,94,90,0.865,0.754,3:58
+4,40.1,ATL,Keaton Wallace,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,99,94,0.978,0.935,41.1
+4,35.1,ATL,Mouhamed Gueye,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,99,94,0.981,0.943,41.1
+4,30.1,ATL,Mouhamed Gueye,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,100,96,0.964,0.915,31.0
+4,19.1,ATL,Kevon Harris,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,102,99,0.952,0.887,22.1
+4,14.2,ATL,Keaton Wallace,Personal Foul,Foul,Scott Twardoski,Justin Van Duyne,Matt Kallio,OKC,103,99,0.983,0.95,14.2

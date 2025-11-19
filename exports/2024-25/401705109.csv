@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:23,IND,Andrew Nembhard,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,10,3,0.876,0.877,9:37
+1,9:08,CLE,Jarrett Allen,Loose Ball Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,10,3,0.865,0.865,9:08
+1,6:25,CLE,Dean Wade,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,13,5,0.852,0.871,6:34
+1,5:56,CLE,Max Strus,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,13,6,0.858,0.857,5:59
+1,5:17,IND,Andrew Nembhard,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,13,6,0.87,0.871,5:26
+1,5:12,IND,T.J. McConnell,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,13,6,0.87,0.87,5:17
+1,1:53,IND,Ben Sheppard,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,19,17,0.808,0.781,2:04
+2,10:00,CLE,Max Strus,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,24,23,0.702,0.746,10:00
+2,9:00,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,26,25,0.717,0.714,9:01
+2,8:38,IND,Pascal Siakam,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,26,25,0.736,0.717,9:00
+2,8:23,CLE,Donovan Mitchell,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,26,25,0.632,0.633,8:30
+2,5:40,CLE,Isaac Okoro,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,32,32,0.651,0.7,5:40
+2,3:58,CLE,Darius Garland,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,39,32,0.8,0.832,4:07
+2,2:49,CLE,Georges Niang,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,42,36,0.774,0.809,2:53
+3,11:41,CLE,Dean Wade,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,53,42,0.886,0.913,11:41
+3,11:27,IND,Myles Turner,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,53,43,0.898,0.899,11:41
+3,9:40,IND,Bennedict Mathurin,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,59,45,0.954,0.938,9:40
+3,6:19,IND,Ben Sheppard,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,60,58,0.708,0.709,6:28
+3,6:19,CLE,Darius Garland,Offensive Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,60,58,0.672,0.708,6:19
+3,5:51,IND,Myles Turner,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,60,58,0.731,0.706,5:51
+3,4:56,IND,Myles Turner,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,62,60,0.754,0.704,5:01
+3,4:45,IND,Obi Toppin,Offensive Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,64,60,0.769,0.736,4:56
+3,4:31,IND,Ben Sheppard,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,64,60,0.813,0.769,4:45
+3,3:15,CLE,Darius Garland,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,65,65,0.508,0.574,3:16
+3,1:45,IND,Thomas Bryant,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,65,72,0.358,0.291,1:59
+3,1:27,CLE,Georges Niang,Offensive Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,67,74,0.242,0.285,1:31
+3,1:19,CLE,Caris LeVert,Away from Play Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,67,74,0.186,0.242,1:27
+3,13.1,IND,Ben Sheppard,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,69,77,0.291,0.231,31.2
+3,13.1,CLE,CLE,Technical Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,71,77,0.234,0.265,13.1
+4,11:13,IND,Jarace Walker,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,71,77,0.305,0.295,11:21
+4,9:58,IND,T.J. McConnell,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,73,82,0.228,0.16,10:09
+4,9:06,CLE,Sam Merrill,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,78,84,0.156,0.228,9:17
+4,8:43,CLE,Isaac Okoro,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,78,86,0.128,0.137,8:45
+4,8:19,CLE,Evan Mobley,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,78,86,0.08,0.129,8:24
+4,7:56,IND,Bennedict Mathurin,Loose Ball Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,78,87,0.131,0.119,7:56
+4,7:02,IND,Myles Turner,Loose Ball Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,78,90,0.076,0.045,7:06
+4,6:20,IND,Jarace Walker,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,78,90,0.066,0.041,6:27
+4,4:37,CLE,Caris LeVert,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,80,97,0.001,0.002,4:37
+4,3:34,IND,Jarace Walker,Shooting Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,85,98,0.012,0.004,3:34
+4,1:23,IND,Johnny Furphy,Personal Foul,Foul,Derek Richardson,Scott Foster,Mousa Dagher,CLE,90,105,0.001,0.001,1:31

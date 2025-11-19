@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:45,IND,Pascal Siakam,Offensive Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,0,2,0.47,0.446,10:51
+1,10:13,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,2,2,0.458,0.498,10:25
+1,6:15,MEM,Jock Landale,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,10,3,0.675,0.675,6:32
+1,4:55,MEM,John Konchar,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,12,7,0.608,0.654,4:55
+1,2:23,IND,Obi Toppin,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,17,14,0.646,0.605,2:30
+1,16.6,IND,Taelon Peter,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,21,19,0.545,0.521,16.6
+1,1.8,MEM,Ja Morant,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,23,19,0.506,0.551,16.6
+2,11:51,IND,RayJ Dennis,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,23,21,0.579,0.507,12:00
+2,11:11,IND,Obi Toppin,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,25,23,0.622,0.58,11:23
+2,11:03,MEM,Jaylen Wells,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,26,23,0.578,0.58,11:11
+2,9:36,IND,RayJ Dennis,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,30,25,0.685,0.639,9:36
+2,8:12,IND,James Wiseman,Loose Ball Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,36,27,0.802,0.772,8:12
+2,5:34,MEM,Cam Spencer,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,48,29,0.901,0.919,5:42
+2,5:20,MEM,Cedric Coward,Loose Ball Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,48,31,0.908,0.91,5:20
+2,4:21,IND,Pascal Siakam,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,48,36,0.876,0.848,4:33
+2,3:17,IND,Aaron Nesmith,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,50,39,0.863,0.832,3:32
+2,2:50,IND,Aaron Nesmith,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,51,42,0.825,0.79,3:00
+2,2:37,MEM,Jaylen Wells,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,53,42,0.78,0.813,2:50
+2,2:17,IND,Pascal Siakam,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,53,44,0.828,0.792,2:30
+2,1:40,MEM,Ja Morant,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,58,46,0.824,0.862,1:40
+2,50.3,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,58,50,0.701,0.749,57.9
+2,19.6,IND,Obi Toppin,Offensive Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,60,52,0.774,0.772,33.4
+3,11:16,MEM,Jock Landale,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,62,52,0.768,0.803,11:39
+3,10:39,IND,Ben Sheppard,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,65,57,0.823,0.785,10:47
+3,4:35,MEM,John Konchar,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,86,68,0.97,0.969,4:41
+3,3:42,MEM,Santi Aldama,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,89,68,0.981,0.987,3:52
+3,3:30,IND,Tony Bradley,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,89,70,0.989,0.984,3:42
+3,2:57,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,93,75,0.975,0.981,3:04
+3,1:47,IND,RayJ Dennis,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,95,77,0.99,0.984,2:02
+3,1:47,IND,RayJ Dennis,Double Technical Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,95,77,0.983,0.99,1:47
+3,1:41,MEM,Jock Landale,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,97,79,0.974,0.985,1:41
+3,43.3,MEM,Kentavious Caldwell-Pope,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,101,80,0.989,0.993,1:00
+3,5.3,IND,Obi Toppin,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,101,84,0.991,0.98,7.9
+4,11:22,MEM,Ja Morant,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,103,84,0.99,0.991,11:22
+4,7:25,IND,Ben Sheppard,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,108,94,0.992,0.986,7:26
+4,6:18,IND,James Wiseman,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,111,94,0.997,0.997,6:22
+4,4:50,MEM,Javon Small,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,116,94,0.999,0.999,5:00
+4,4:25,IND,Isaiah Jackson,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,116,94,0.999,0.999,4:28
+4,3:20,IND,RayJ Dennis,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,117,96,0.999,0.999,3:36
+4,3:05,IND,RayJ Dennis,Shooting Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,121,96,0.999,0.999,3:05
+4,1:56,MEM,Cam Spencer,Personal Take Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,128,98,0.999,0.999,2:00
+4,1:51,MEM,Javon Small,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,128,98,0.999,0.999,1:56
+4,1:30,MEM,GG Jackson,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,128,100,0.999,0.999,1:34
+4,1:17,MEM,Javon Small,Personal Foul,Foul,Brent Barnaky,Marat Kogut,Pat O'Connell,MEM,128,100,0.999,0.999,1:17

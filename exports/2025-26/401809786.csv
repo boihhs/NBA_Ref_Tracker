@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,MIN,Donte DiVincenzo,Personal Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,2,0,0.836,0.837,11:35
+1,10:42,MIN,Anthony Edwards,Personal Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,2,2,0.804,0.804,10:45
+1,9:57,SAC,Zach LaVine,Personal Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,4,5,0.798,0.799,9:58
+1,9:07,SAC,Domantas Sabonis,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,8,7,0.836,0.811,9:07
+1,8:30,MIN,Mike Conley,Personal Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,12,7,0.866,0.866,8:46
+1,8:16,MIN,Julius Randle,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,12,7,0.844,0.866,8:30
+1,5:35,SAC,Precious Achiuwa,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,20,13,0.907,0.892,5:47
+1,5:19,MIN,Rudy Gobert,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,21,15,0.858,0.88,5:19
+1,1:16,MIN,Mike Conley,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,31,24,0.849,0.87,1:24
+1,43.0,SAC,Nique Clifford,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,31,28,0.847,0.823,54.7
+1,25.7,SAC,Keon Ellis,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,34,28,0.879,0.854,25.7
+1,2.8,MIN,Naz Reid,Loose Ball Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,35,28,0.846,0.867,2.8
+2,11:34,MIN,Rudy Gobert,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,35,30,0.824,0.836,11:37
+2,11:03,SAC,Dennis Schroder,Personal Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,35,33,0.799,0.801,11:16
+2,9:53,SAC,Nique Clifford,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,37,36,0.803,0.775,9:57
+2,8:42,SAC,DeMar DeRozan,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,40,38,0.816,0.79,8:52
+2,8:14,MIN,Rob Dillingham,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,40,38,0.749,0.767,8:42
+2,5:07,SAC,Keon Ellis,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,47,49,0.711,0.672,5:24
+2,4:55,MIN,Jaden McDaniels,Personal Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,48,49,0.67,0.669,5:07
+2,4:48,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,48,49,0.644,0.667,4:49
+2,3:48,SAC,Domantas Sabonis,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,48,53,0.614,0.571,4:04
+2,2:24,MIN,Jaylen Clark,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,53,56,0.533,0.585,2:36
+2,2.4,SAC,Zach LaVine,Loose Ball Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,59,61,0.678,0.597,4.9
+3,11:24,SAC,Domantas Sabonis,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,61,63,0.673,0.626,11:45
+3,10:41,SAC,Precious Achiuwa,Loose Ball Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,63,63,0.684,0.685,10:41
+3,10:07,MIN,Anthony Edwards,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,63,66,0.485,0.54,10:10
+3,9:55,SAC,Precious Achiuwa,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,63,67,0.595,0.542,10:07
+3,9:03,SAC,DeMar DeRozan,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,68,72,0.587,0.533,9:19
+3,8:46,SAC,Zach LaVine,Personal Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,69,74,0.547,0.488,8:53
+3,7:57,MIN,Julius Randle,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,73,78,0.408,0.477,7:57
+3,6:40,MIN,Jaden McDaniels,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,79,84,0.39,0.461,6:40
+3,4:44,SAC,Malik Monk,Personal Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,84,84,0.702,0.647,4:54
+3,4:13,SAC,Domantas Sabonis,Loose Ball Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,85,84,0.735,0.682,4:13
+3,3:27,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,88,84,0.723,0.75,3:42
+3,3:11,SAC,Keon Ellis,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,88,87,0.733,0.68,3:27
+3,2:02,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,90,89,0.56,0.629,2:11
+4,9:01,SAC,DeMar DeRozan,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,99,94,0.882,0.829,9:11
+4,8:39,MIN,Jaden McDaniels,Loose Ball Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,103,94,0.909,0.916,8:39
+4,5:26,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,112,100,0.96,0.977,5:50
+4,4:32,MIN,Rudy Gobert,Loose Ball Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,112,100,0.981,0.984,4:32
+4,3:27,SAC,Dennis Schroder,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,114,100,0.999,0.997,3:37
+4,2:38,SAC,Domantas Sabonis,Loose Ball Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,116,100,0.999,0.999,2:38
+4,2:26,SAC,Zach LaVine,Personal Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,116,100,0.999,0.999,2:38
+4,2:03,SAC,Russell Westbrook,Shooting Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,118,100,0.999,0.999,2:03
+4,35.1,SAC,Russell Westbrook,Personal Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,121,107,0.999,0.999,36.0
+4,21.4,SAC,Russell Westbrook,Personal Take Foul,Foul,John Goble,Eric Dalen,Suyash Mehta,MIN,123,110,0.999,0.999,25.8

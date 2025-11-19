@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:48,BKN,D'Angelo Russell,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,0,0,0.496,0.496,12:00
+1,8:37,MIA,Duncan Robinson,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,5,11,0.365,0.366,8:52
+1,3:27,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,17,18,0.423,0.464,3:34
+1,3:16,MIA,Nikola Jovic,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,19,19,0.54,0.492,3:16
+1,2:15,BKN,Tosan Evbuomwan,Loose Ball Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,23,19,0.604,0.602,2:15
+1,39.0,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,26,24,0.617,0.576,53.1
+2,10:35,BKN,D'Angelo Russell,Technical Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,28,33,0.325,0.344,10:39
+2,10:13,MIA,Terry Rozier,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,28,34,0.387,0.346,10:19
+2,10:13,BKN,Keon Johnson,Technical Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,30,34,0.35,0.37,10:13
+2,10:02,BKN,Tyrese Martin,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,30,34,0.372,0.37,10:13
+2,8:21,MIA,Duncan Robinson,Technical Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,34,37,0.451,0.398,8:21
+2,6:51,BKN,Jalen Wilson,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,37,39,0.425,0.427,7:04
+2,6:25,MIA,Pelle Larsson,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,37,42,0.364,0.364,6:42
+2,6:23,MIA,Pelle Larsson,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,37,42,0.41,0.364,6:25
+2,5:55,BKN,Nic Claxton,Offensive Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,39,42,0.393,0.426,6:13
+2,5:50,BKN,Trendon Watford,Technical Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,39,42,0.369,0.393,5:55
+2,5:29,MIA,Bam Adebayo,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,39,46,0.348,0.393,5:41
+2,3:23,BKN,Keon Johnson,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,43,49,0.256,0.297,3:31
+2,1:32,MIA,Pelle Larsson,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,46,53,0.337,0.291,1:52
+2,7.0,MIA,Tyler Herro,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,52,53,0.537,0.485,18.2
+3,10:11,BKN,BKN,Technical Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,57,56,0.491,0.523,10:11
+3,8:54,MIA,Tyler Herro,Loose Ball Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,57,62,0.335,0.334,8:54
+3,6:21,MIA,Bam Adebayo,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,61,68,0.256,0.256,6:34
+3,6:15,MIA,Haywood Highsmith,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,61,68,0.306,0.256,6:21
+3,6:06,MIA,Bam Adebayo,Loose Ball Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,62,68,0.341,0.288,6:06
+3,5:47,BKN,Tyrese Martin,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,62,68,0.25,0.249,5:55
+3,3:47,BKN,Cameron Johnson,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,67,70,0.351,0.35,3:49
+3,3:17,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,67,70,0.349,0.347,3:17
+3,1:20,MIA,Terry Rozier,Loose Ball Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,67,73,0.321,0.258,1:20
+3,55.0,MIA,Terry Rozier,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,68,75,0.278,0.217,1:00
+3,5.0,BKN,D'Angelo Russell,Personal Take Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,71,77,0.159,0.21,24.0
+4,11:33,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,71,79,0.135,0.168,11:46
+4,9:01,BKN,D'Angelo Russell,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,80,79,0.429,0.525,9:09
+4,8:37,MIA,Nikola Jovic,Offensive Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,83,81,0.638,0.578,8:47
+4,8:07,MIA,Nikola Jovic,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,83,81,0.655,0.64,8:14
+4,4:57,BKN,Nic Claxton,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,91,84,0.871,0.879,5:07
+4,4:43,MIA,Tyler Herro,Personal Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,91,84,0.92,0.914,4:52
+4,2:16,MIA,Bam Adebayo,Loose Ball Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,95,84,0.996,0.995,2:20
+4,1:44,BKN,Nic Claxton,Shooting Foul,Foul,Zach Zarba,Nick Buchert,Evan Scott,BKN,98,84,0.997,0.999,1:54

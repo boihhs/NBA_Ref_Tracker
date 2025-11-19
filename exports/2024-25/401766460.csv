@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,MIA,Kel'el Ware,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,2,4,0.523,0.48,10:49
+1,7:55,MIA,Alec Burks,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,8,17,0.359,0.321,7:59
+1,7:05,CHI,Coby White,Loose Ball Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,10,19,0.296,0.295,7:05
+1,6:48,MIA,Kel'el Ware,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,10,19,0.319,0.318,6:48
+1,2:04,CHI,Patrick Williams,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,18,31,0.163,0.19,2:16
+1,1:01,CHI,Coby White,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,21,36,0.126,0.151,1:17
+1,35.1,CHI,Josh Giddey,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,23,38,0.124,0.149,49.1
+2,9:11,MIA,Tyler Herro,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,30,47,0.118,0.115,9:11
+2,6:06,MIA,Andrew Wiggins,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,33,55,0.048,0.049,6:14
+2,5:36,MIA,Duncan Robinson,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,35,55,0.073,0.056,5:36
+2,2:19,CHI,Patrick Williams,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,39,62,0.021,0.025,2:19
+3,11:46,MIA,Tyler Herro,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,47,71,0.026,0.018,12:00
+3,10:47,MIA,Alec Burks,Loose Ball Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,50,71,0.033,0.033,10:47
+3,9:41,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,53,71,0.033,0.045,9:48
+3,8:12,MIA,Tyler Herro,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,55,76,0.025,0.024,8:16
+3,7:10,CHI,Josh Giddey,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,59,76,0.043,0.028,7:23
+3,6:24,MIA,Kel'el Ware,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,59,78,0.045,0.033,6:27
+3,4:17,MIA,Andrew Wiggins,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,63,82,0.035,0.025,4:27
+3,3:56,CHI,Matas Buzelis,Loose Ball Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,65,82,0.03,0.031,4:17
+3,2:43,MIA,Davion Mitchell,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,65,82,0.047,0.032,2:46
+3,2:29,CHI,Kevin Huerter,Loose Ball Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,67,82,0.027,0.04,2:29
+3,1:48,MIA,Bam Adebayo,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,67,84,0.042,0.03,2:03
+3,1:35,CHI,Nikola Vucevic,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,68,84,0.018,0.027,1:48
+3,1:04,MIA,Duncan Robinson,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,68,88,0.016,0.011,1:21
+4,9:59,CHI,Kevin Huerter,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,80,93,0.032,0.034,9:59
+4,9:44,MIA,Tyler Herro,Offensive Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,80,93,0.042,0.032,9:59
+4,8:54,CHI,Josh Giddey,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,80,93,0.015,0.027,8:59
+4,7:09,CHI,Matas Buzelis,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,82,99,0.001,0.003,7:21
+4,4:51,CHI,Josh Giddey,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,82,102,0.001,0.001,5:01
+4,4:13,CHI,Talen Horton-Tucker,Offensive Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,82,105,0.001,0.001,4:24
+4,2:29,CHI,Coby White,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,86,105,0.001,0.001,2:39
+4,1:23,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,86,109,0.001,0.001,1:42
+4,21.0,MIA,Kyle Anderson,Personal Foul,Foul,Zach Zarba,Curtis Blair,Jacyn Goble,CHI,90,109,0.001,0.001,27.0

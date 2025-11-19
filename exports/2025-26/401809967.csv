@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:27,POR,Deni Avdija,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,9,6,0.773,0.74,9:27
+1,7:53,LAC,Kawhi Leonard,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,12,9,0.737,0.737,7:57
+1,7:47,LAC,Derrick Jones Jr.,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,12,9,0.705,0.737,7:53
+1,6:54,LAC,Ivica Zubac,Offensive Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,14,11,0.735,0.755,6:59
+1,6:06,POR,Yang Hansen,Loose Ball Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,14,14,0.686,0.688,6:06
+1,3:33,LAC,Nicolas Batum,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,23,18,0.767,0.768,3:33
+1,2:45,LAC,Kris Dunn,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,27,18,0.812,0.837,2:54
+1,2:27,LAC,Brook Lopez,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,27,18,0.824,0.836,2:27
+1,1:46,LAC,John Collins,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,27,20,0.774,0.82,2:03
+1,1:04,LAC,Brook Lopez,Defensive 3-Seconds Technical,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,32,22,0.856,0.852,1:22
+1,59.7,POR,Matisse Thybulle,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,32,23,0.875,0.852,59.7
+1,40.1,POR,Matisse Thybulle,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,32,23,0.875,0.875,59.7
+2,11:10,LAC,John Collins,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,36,26,0.853,0.853,11:16
+2,9:44,LAC,Kris Dunn,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,36,29,0.767,0.798,9:47
+2,9:21,POR,Matisse Thybulle,Loose Ball Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,36,31,0.777,0.777,9:21
+2,9:04,LAC,Chris Paul,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,38,31,0.766,0.798,9:09
+2,7:14,LAC,Kris Dunn,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,42,37,0.733,0.775,7:14
+2,7:09,POR,Blake Wesley,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,42,38,0.752,0.754,7:14
+2,7:00,POR,Toumani Camara,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,42,38,0.752,0.752,7:09
+2,6:37,LAC,Chris Paul,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,42,38,0.687,0.727,6:46
+2,6:01,LAC,James Harden,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,42,44,0.528,0.584,6:01
+2,5:36,LAC,James Harden,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,42,44,0.501,0.548,5:38
+2,5:25,LAC,Derrick Jones Jr.,Offensive Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,42,46,0.483,0.518,5:36
+2,5:21,POR,Blake Wesley,Offensive Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,42,46,0.516,0.483,5:25
+2,4:44,POR,Blake Wesley,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,44,46,0.624,0.578,4:55
+2,4:17,LAC,Derrick Jones Jr.,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,44,49,0.392,0.442,4:18
+2,1:48,POR,Matisse Thybulle,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,46,58,0.277,0.233,2:01
+2,42.3,POR,Jerami Grant,Loose Ball Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,50,60,0.327,0.28,42.3
+3,11:52,LAC,James Harden,Offensive Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,55,60,0.408,0.432,12:00
+3,11:22,POR,Deni Avdija,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,55,63,0.332,0.334,11:34
+3,8:54,POR,Donovan Clingan,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,67,68,0.599,0.536,8:54
+3,8:39,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,68,68,0.512,0.566,8:40
+3,6:58,LAC,Kris Dunn,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,73,74,0.463,0.523,7:09
+3,5:55,LAC,Kawhi Leonard,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,76,75,0.536,0.597,6:03
+3,5:02,POR,Toumani Camara,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,76,76,0.653,0.596,5:14
+3,4:01,LAC,Derrick Jones Jr.,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,80,76,0.651,0.708,4:03
+3,1:00,POR,Shaedon Sharpe,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,84,78,0.862,0.82,1:08
+3,23.4,LAC,Brook Lopez,Loose Ball Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,87,80,0.766,0.821,23.4
+4,10:32,POR,Jrue Holiday,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,87,84,0.732,0.722,10:32
+4,9:48,LAC,Chris Paul,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,90,84,0.735,0.807,9:57
+4,9:39,POR,Blake Wesley,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,90,85,0.816,0.804,9:45
+4,8:40,LAC,Bogdan Bogdanovic,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,93,87,0.771,0.852,8:40
+4,8:04,POR,Jrue Holiday,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,96,88,0.944,0.908,8:06
+4,7:58,LAC,Bogdan Bogdanovic,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,98,88,0.925,0.932,8:04
+4,6:57,LAC,Chris Paul,Loose Ball Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,100,93,0.794,0.861,6:57
+4,4:25,POR,Jerami Grant,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,106,98,0.969,0.937,4:46
+4,4:22,POR,Jerami Grant,Shooting Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,108,98,0.982,0.963,4:22
+4,3:10,POR,Toumani Camara,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,109,102,0.968,0.936,3:32
+4,3:01,LAC,Ivica Zubac,Personal Foul,Foul,James Williams,Sean Corbin,Tyler Ricks,LAC,110,102,0.898,0.94,3:10

@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:21,BOS,Jrue Holiday,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,2,2,0.649,0.612,10:34
+1,9:48,BOS,Jaylen Brown,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,4,2,0.659,0.659,9:51
+1,8:16,CLE,Jarrett Allen,Offensive Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,4,4,0.584,0.608,8:21
+1,6:31,CLE,Jarrett Allen,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,6,4,0.631,0.63,6:31
+1,6:15,BOS,Jaylen Brown,Offensive Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,6,4,0.656,0.631,6:31
+1,5:50,CLE,Max Strus,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,6,6,0.559,0.605,5:50
+1,5:08,CLE,Max Strus,Loose Ball Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,6,7,0.551,0.55,5:08
+1,4:36,CLE,Darius Garland,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,6,7,0.509,0.548,4:37
+1,4:09,CLE,Georges Niang,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,6,11,0.418,0.468,4:09
+1,1:57,CLE,Donovan Mitchell,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,13,18,0.385,0.431,2:10
+1,41.1,BOS,Sam Hauser,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,13,25,0.302,0.265,50.1
+2,11:03,CLE,Georges Niang,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,15,33,0.093,0.114,11:05
+2,10:56,BOS,Sam Hauser,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,15,35,0.109,0.1,11:03
+2,9:01,BOS,Al Horford,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,22,40,0.132,0.103,9:01
+2,7:29,BOS,Luke Kornet,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,25,43,0.136,0.111,7:34
+2,6:22,CLE,Ty Jerome,Loose Ball Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,26,45,0.078,0.078,6:22
+2,5:35,CLE,Darius Garland,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,28,45,0.102,0.102,5:45
+2,4:43,BOS,Jrue Holiday,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,30,45,0.164,0.149,4:43
+2,2:31,CLE,Donovan Mitchell,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,38,50,0.144,0.176,2:34
+2,1:42,BOS,Kristaps Porzingis,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,38,52,0.183,0.15,1:42
+3,11:21,CLE,Evan Mobley,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,47,54,0.244,0.285,11:36
+3,9:51,CLE,Darius Garland,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,49,61,0.145,0.144,9:53
+3,7:37,BOS,Kristaps Porzingis,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,53,64,0.217,0.175,7:52
+3,7:00,BOS,Jaylen Brown,Offensive Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,55,66,0.169,0.145,7:07
+3,6:56,BOS,Jaylen Brown,Technical Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,55,66,0.189,0.168,7:00
+3,6:41,CLE,Georges Niang,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,56,66,0.168,0.166,6:49
+3,2:51,CLE,Georges Niang,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,67,76,0.119,0.157,3:01
+3,23.1,CLE,Evan Mobley,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,75,85,0.076,0.108,33.1
+3,11.1,BOS,Payton Pritchard,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,75,87,0.117,0.085,23.1
+4,11:49,BOS,Al Horford,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,75,87,0.085,0.074,12:00
+4,9:19,BOS,Luke Kornet,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,80,95,0.043,0.025,9:32
+4,7:26,CLE,Georges Niang,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,84,97,0.012,0.022,7:35
+4,7:14,BOS,Kristaps Porzingis,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,84,97,0.056,0.03,7:21
+4,6:52,BOS,Kristaps Porzingis,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,87,97,0.1,0.055,6:52
+4,6:20,BOS,Jrue Holiday,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,88,97,0.149,0.102,6:36
+4,5:30,BOS,Jaylen Brown,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,94,99,0.293,0.196,5:30
+4,4:48,CLE,Max Strus,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,95,99,0.224,0.239,4:55
+4,4:37,CLE,Max Strus,Loose Ball Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,95,99,0.21,0.229,4:37
+4,4:23,CLE,Max Strus,Loose Ball Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,95,99,0.137,0.218,4:23
+4,1:28,CLE,Darius Garland,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,100,107,0.013,0.037,1:51
+4,51.0,BOS,Payton Pritchard,Shooting Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,103,109,0.103,0.036,51.0
+4,15.0,CLE,Max Strus,Personal Take Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,104,109,0.006,0.035,22.1
+4,14.0,BOS,Al Horford,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,104,110,0.081,0.024,15.0
+4,12.1,CLE,Sam Merrill,Personal Foul,Foul,Scott Foster,CJ Washington,Gediminas Petraitis,CLE,105,110,0.004,0.018,12.1

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:10,MIL,Bobby Portis,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,0,3,0.646,0.613,10:32
+1,8:21,IND,Tyrese Haliburton,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,0,11,0.364,0.393,8:29
+1,7:49,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,0,13,0.334,0.337,8:09
+1,4:06,MIL,Kevin Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,7,20,0.348,0.309,4:19
+1,2:55,MIL,AJ Green,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,9,24,0.287,0.249,3:10
+1,2:26,MIL,Kevin Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,9,24,0.284,0.244,2:29
+1,1:49,IND,Bennedict Mathurin,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,11,24,0.23,0.266,2:01
+1,1:34,MIL,Kyle Kuzma,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,11,26,0.259,0.243,1:49
+2,10:39,MIL,Kyle Kuzma,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,15,33,0.184,0.157,10:42
+2,9:09,MIL,Jericho Sims,Loose Ball Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,19,33,0.229,0.229,9:09
+2,8:16,IND,Obi Toppin,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,21,35,0.201,0.2,8:19
+2,2:00,IND,Pascal Siakam,Offensive Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,35,45,0.252,0.284,2:17
+2,1:51,IND,Myles Turner,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,35,45,0.209,0.252,2:00
+2,1:35,MIL,Giannis Antetokounmpo,Defensive 3-Seconds Technical,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,35,46,0.24,0.253,1:51
+2,1:06,IND,Tyrese Haliburton,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,39,46,0.29,0.337,1:10
+3,11:17,MIL,Gary Trent Jr.,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,41,49,0.374,0.325,11:41
+3,9:25,IND,Pascal Siakam,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,49,51,0.431,0.487,9:30
+3,8:29,IND,Tyrese Haliburton,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,52,51,0.596,0.596,8:36
+3,8:20,MIL,Gary Trent Jr.,Loose Ball Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,52,51,0.632,0.633,8:20
+3,7:42,MIL,Gary Trent Jr.,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,52,53,0.612,0.556,7:54
+3,7:23,MIL,AJ Green,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,52,53,0.611,0.555,7:27
+3,6:35,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,54,56,0.571,0.51,6:49
+3,5:44,IND,Aaron Nesmith,Loose Ball Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,59,59,0.547,0.546,5:44
+3,5:09,IND,Jarace Walker,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,61,61,0.48,0.544,5:17
+3,4:01,IND,Myles Turner,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,64,67,0.347,0.409,4:03
+3,3:34,IND,Pascal Siakam,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,66,69,0.342,0.407,3:45
+3,3:05,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,66,71,0.425,0.364,3:12
+3,0.1,IND,Bennedict Mathurin,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,75,73,0.546,0.618,9.1
+4,10:48,IND,Pascal Siakam,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,79,75,0.625,0.71,10:53
+4,9:45,MIL,Kevin Porter Jr.,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,81,80,0.625,0.613,9:45
+4,9:14,MIL,AJ Green,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,83,82,0.633,0.618,9:30
+4,9:01,MIL,Kevin Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,83,82,0.719,0.633,9:14
+4,7:57,MIL,Bobby Portis,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,87,84,0.812,0.738,7:58
+4,7:07,IND,Aaron Nesmith,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,87,87,0.413,0.527,7:11
+4,3:13,IND,Pascal Siakam,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,95,94,0.428,0.574,3:14
+4,2:21,MIL,Gary Trent Jr.,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,95,95,0.706,0.58,2:41
+4,53.0,IND,Aaron Nesmith,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,99,103,0.077,0.19,53.0
+4,39.1,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,99,103,0.298,0.179,52.1
+5,5:00,MIL,Bobby Portis,Loose Ball Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,103,103,0.5,0.5,5:00
+5,42.1,IND,Aaron Nesmith,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,111,117,0.007,0.027,43.0
+5,40.0,IND,Aaron Nesmith,Personal Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,111,117,0.007,0.007,42.1
+5,17.0,MIL,AJ Green,Shooting Foul,Foul,Courtney Kirkland,Brian Forte,Kevin Cutler,IND,116,118,0.424,0.164,17.0

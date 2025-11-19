@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:51,MIA,Bam Adebayo,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,2,0,0.574,0.537,9:56
+1,9:12,DET,Jaden Ivey,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,6,0,0.615,0.615,9:23
+1,8:22,MIA,Haywood Highsmith,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,6,0,0.676,0.641,8:35
+1,5:41,MIA,Tyler Herro,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,17,6,0.764,0.765,5:41
+1,5:22,MIA,Nikola Jovic,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,17,6,0.795,0.766,5:23
+1,4:39,MIA,Tyler Herro,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,19,8,0.797,0.767,4:52
+1,4:01,DET,Malik Beasley,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,21,8,0.788,0.789,4:06
+1,3:27,DET,Isaiah Stewart,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,21,13,0.657,0.704,3:27
+1,3:15,MIA,Duncan Robinson,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,21,14,0.716,0.681,3:15
+1,2:45,MIA,Kel'el Ware,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,23,17,0.676,0.654,2:47
+1,48.1,DET,Simone Fontecchio,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,32,21,0.722,0.736,1:12
+2,10:15,MIA,Pelle Larsson,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,37,21,0.894,0.88,10:20
+2,8:01,DET,Ronald Holland II,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,41,28,0.82,0.82,8:02
+2,7:54,DET,Simone Fontecchio,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,41,28,0.82,0.82,8:01
+2,6:46,DET,Tim Hardaway Jr.,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,41,33,0.71,0.707,6:46
+2,3:30,MIA,Pelle Larsson,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,45,44,0.559,0.534,3:31
+2,1:36,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,49,47,0.595,0.536,1:36
+2,51.1,DET,Jaden Ivey,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,53,49,0.555,0.604,1:00
+3,10:54,DET,Cade Cunningham,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,57,54,0.576,0.613,10:59
+3,10:34,MIA,Haywood Highsmith,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,57,54,0.614,0.615,10:38
+3,9:43,MIA,Terry Rozier,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,59,56,0.667,0.617,9:55
+3,9:28,DET,Jalen Duren,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,61,58,0.552,0.618,9:28
+3,8:46,DET,Tim Hardaway Jr.,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,64,59,0.599,0.654,9:06
+3,6:24,DET,Malik Beasley,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,69,66,0.529,0.587,6:41
+3,6:12,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,69,67,0.591,0.592,6:22
+3,4:28,MIA,Tyler Herro,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,76,70,0.776,0.715,4:28
+4,11:38,DET,Isaiah Stewart,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,91,82,0.847,0.856,11:48
+4,10:56,DET,Jaden Ivey,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,94,82,0.924,0.929,11:10
+4,10:48,MIA,Terry Rozier,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,94,82,0.949,0.945,10:48
+4,10:31,MIA,Pelle Larsson,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,94,82,0.952,0.949,10:48
+4,7:46,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,98,88,0.966,0.966,8:08
+4,2:46,MIA,Duncan Robinson,Personal Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,109,101,0.987,0.969,2:48
+4,2:24,DET,Jalen Duren,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,109,101,0.906,0.959,2:33
+4,21.0,DET,Jaden Ivey,Loose Ball Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,111,111,0.252,0.479,21.0
+5,3:07,MIA,Haywood Highsmith,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,113,113,0.605,0.459,3:07
+5,2:56,DET,Jalen Duren,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,114,115,0.311,0.457,2:56
+5,2:41,MIA,Duncan Robinson,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,114,116,0.51,0.375,2:56
+5,1:19,MIA,Haywood Highsmith,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,116,118,0.533,0.331,1:32
+5,56.1,DET,Jaden Ivey,Shooting Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,116,118,0.185,0.267,58.1
+5,1.0,MIA,MIA,Excess Timeout Technical,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,121,121,0.855,0.494,1.0
+5,0.0,MIA,Haywood Highsmith,Personal Take Foul,Foul,Eric Dalen,Tyler Ford,Robert Hussey,DET,122,121,0.998,0.968,1.0

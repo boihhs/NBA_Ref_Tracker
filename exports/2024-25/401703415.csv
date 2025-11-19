@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:23,TOR,Scottie Barnes,Offensive Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,7,11,0.697,0.697,7:24
+1,7:23,TOR,Scottie Barnes,Technical Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,7,11,0.713,0.697,7:23
+1,6:53,MIA,Haywood Highsmith,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,9,11,0.715,0.717,7:05
+1,4:12,TOR,Jakob Poeltl,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,14,16,0.752,0.723,4:28
+1,1:14,MIA,Terry Rozier,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,20,18,0.736,0.768,1:14
+1,45.1,MIA,Terry Rozier,Offensive Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,20,18,0.767,0.789,55.2
+2,11:43,TOR,Chris Boucher,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,22,21,0.776,0.738,11:43
+2,11:22,MIA,Pelle Larsson,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,23,21,0.76,0.762,11:43
+2,8:44,MIA,Bam Adebayo,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,25,29,0.588,0.588,8:52
+2,8:19,TOR,Jamal Shead,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,25,31,0.599,0.555,8:29
+2,8:09,MIA,Pelle Larsson,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,27,31,0.537,0.583,8:19
+2,7:35,TOR,Jakob Poeltl,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,32,33,0.711,0.667,7:35
+2,7:18,MIA,Terry Rozier,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,32,35,0.583,0.636,7:18
+2,6:54,TOR,Jamison Battle,Clear Path Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,34,36,0.702,0.645,6:54
+2,5:33,MIA,Duncan Robinson,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,38,38,0.634,0.68,5:54
+2,4:04,MIA,Pelle Larsson,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,42,46,0.496,0.545,4:11
+3,10:59,MIA,Haywood Highsmith,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,60,63,0.503,0.531,11:05
+3,9:57,TOR,Ochai Agbaji,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,62,65,0.587,0.52,9:57
+3,9:41,TOR,Jakob Poeltl,Loose Ball Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,63,65,0.593,0.593,9:41
+3,9:10,MIA,Haywood Highsmith,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,66,65,0.658,0.66,9:19
+3,8:55,MIA,Haywood Highsmith,Loose Ball Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,66,65,0.657,0.657,8:55
+3,8:47,TOR,RJ Barrett,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,66,65,0.736,0.691,8:50
+3,6:37,MIA,Duncan Robinson,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,77,67,0.862,0.891,6:46
+3,5:54,MIA,Pelle Larsson,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,77,72,0.727,0.775,5:58
+3,3:37,TOR,Jakob Poeltl,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,80,79,0.723,0.669,3:47
+3,43.1,TOR,RJ Barrett,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,96,81,0.983,0.972,43.1
+4,11:43,MIA,Pelle Larsson,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,96,84,0.943,0.95,12:00
+4,11:12,TOR,Davion Mitchell,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,96,86,0.938,0.933,11:27
+4,10:39,MIA,Terry Rozier,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,96,86,0.914,0.921,10:41
+4,9:59,TOR,Ja'Kobe Walter,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,99,88,0.957,0.953,10:11
+4,2:57,MIA,Jimmy Butler III,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,111,102,0.924,0.967,3:04
+4,2:45,TOR,Jakob Poeltl,Loose Ball Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,111,104,0.957,0.953,2:45
+4,1:23,MIA,Bam Adebayo,Shooting Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,114,106,0.927,0.972,1:26
+4,23.1,TOR,Ja'Kobe Walter,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,119,111,0.998,0.997,25.1
+4,21.1,TOR,Jakob Poeltl,Personal Foul,Foul,Marat Kogut,Tre Maddox,Brandon Schwab,MIA,119,111,0.998,0.998,23.1

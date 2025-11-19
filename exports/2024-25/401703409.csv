@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:08,CHA,Vasilije Micic,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,3,2,0.21,0.235,10:25
+1,8:14,CHA,Josh Green,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,7,5,0.266,0.265,8:26
+1,7:35,NY,OG Anunoby,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,7,5,0.325,0.293,7:41
+1,2:26,NY,Jalen Brunson,Loose Ball Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,17,13,0.376,0.376,2:26
+1,2:12,CHA,Moussa Diabate,Offensive Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,17,13,0.35,0.377,2:26
+1,1:16,CHA,Moussa Diabate,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,19,13,0.372,0.409,1:36
+2,9:58,CHA,Taj Gibson,Defensive 3-Seconds Technical,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,27,20,0.479,0.47,10:08
+2,9:49,NY,Karl-Anthony Towns,Offensive Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,27,21,0.473,0.44,9:58
+2,9:33,NY,Cameron Payne,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,27,21,0.522,0.473,9:49
+2,8:59,CHA,Josh Green,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,29,23,0.448,0.448,9:00
+2,7:22,CHA,Nick Smith Jr.,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,32,27,0.434,0.431,7:36
+2,5:54,CHA,Tidjane Salaun,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,35,32,0.341,0.382,5:59
+2,5:16,NY,Josh Hart,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,37,34,0.468,0.42,5:20
+2,4:01,NY,Karl-Anthony Towns,Offensive Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,40,36,0.465,0.427,4:22
+2,6.1,NY,Josh Hart,Loose Ball Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,45,46,0.377,0.328,6.1
+3,10:35,NY,Karl-Anthony Towns,Offensive Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,49,48,0.407,0.373,10:41
+3,8:09,CHA,Brandon Miller,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,53,52,0.387,0.387,8:24
+3,7:17,CHA,Moussa Diabate,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,56,52,0.514,0.511,7:23
+3,7:06,NY,Mikal Bridges,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,56,52,0.554,0.553,7:12
+3,6:54,CHA,Josh Green,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,56,52,0.517,0.515,7:01
+3,6:25,CHA,Josh Green,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,56,54,0.38,0.437,6:33
+3,6:10,CHA,KJ Simpson,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,56,54,0.411,0.443,6:10
+3,5:59,CHA,Brandon Miller,Offensive Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,56,55,0.402,0.444,6:08
+3,4:58,NY,Josh Hart,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,56,55,0.452,0.453,5:07
+3,4:03,NY,Mikal Bridges,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,58,58,0.482,0.415,4:16
+3,3:04,CHA,KJ Simpson,Flagrant Foul Type 1,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,62,60,0.48,0.466,3:23
+3,1:52,CHA,Tidjane Salaun,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,65,63,0.409,0.477,2:11
+3,1:38,NY,Jalen Brunson,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,65,65,0.506,0.431,1:52
+4,9:06,NY,Karl-Anthony Towns,Offensive Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,82,76,0.784,0.737,9:15
+4,8:57,NY,Cameron Payne,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,82,76,0.798,0.784,9:06
+4,7:15,NY,OG Anunoby,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,82,81,0.569,0.548,7:28
+4,2:03,NY,OG Anunoby,Personal Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,88,94,0.106,0.095,2:17
+4,1:05,CHA,Moussa Diabate,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,90,94,0.046,0.17,1:17
+4,48.0,NY,Jalen Brunson,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,92,96,0.225,0.087,48.0
+4,47.0,NY,Jalen Brunson,Loose Ball Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,92,96,0.299,0.168,47.0
+4,14.0,CHA,Tidjane Salaun,Personal Take Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,93,96,0.035,0.108,21.1
+4,11.1,NY,OG Anunoby,Shooting Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,93,97,0.238,0.102,13.0
+4,8.1,CHA,Cody Martin,Personal Take Foul,Foul,Pat Fraher,Andy Nagy,Jenna Schroeder,CHA,95,97,0.051,0.162,11.1

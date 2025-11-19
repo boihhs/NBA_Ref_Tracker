@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:21,DET,Jalen Duren,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,4,2,0.433,0.392,10:21
+1,7:58,DET,Jalen Duren,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,7,8,0.349,0.35,8:06
+1,7:49,DET,Ausar Thompson,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,7,8,0.349,0.349,7:58
+1,7:45,DET,Cade Cunningham,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,7,8,0.386,0.326,7:49
+1,7:04,MIA,Tyler Herro,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,10,8,0.364,0.401,7:16
+1,5:58,DET,Ausar Thompson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,15,13,0.472,0.43,6:14
+1,4:16,DET,Malik Beasley,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,19,15,0.535,0.494,4:17
+1,2:26,MIA,Davion Mitchell,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,27,17,0.644,0.644,2:35
+1,1:25,DET,Simone Fontecchio,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,29,19,0.716,0.679,1:33
+2,10:08,MIA,Davion Mitchell,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,34,22,0.687,0.727,10:21
+2,9:19,MIA,Duncan Robinson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,34,26,0.575,0.616,9:27
+2,9:00,MIA,Bam Adebayo,Offensive Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,34,27,0.592,0.62,9:19
+2,8:44,MIA,Duncan Robinson,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,34,27,0.595,0.594,8:44
+2,8:44,MIA,Duncan Robinson,Double Technical Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,34,27,0.602,0.609,8:44
+2,8:34,MIA,Bam Adebayo,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,34,29,0.509,0.563,8:34
+2,7:59,DET,Ronald Holland II,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,34,30,0.562,0.541,8:00
+2,6:52,MIA,Duncan Robinson,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,41,36,0.518,0.575,6:52
+2,6:25,MIA,Kel'el Ware,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,43,39,0.49,0.548,6:25
+2,3:59,DET,Isaiah Stewart,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,49,50,0.396,0.395,4:20
+2,5.1,DET,Cade Cunningham,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,58,58,0.492,0.441,8.1
+3,10:54,MIA,Kel'el Ware,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,62,58,0.498,0.55,11:10
+3,10:20,DET,Cade Cunningham,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,62,59,0.558,0.558,10:28
+3,7:17,DET,Jalen Duren,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,72,68,0.643,0.577,7:17
+3,4:52,DET,Ausar Thompson,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,75,76,0.426,0.426,5:07
+3,2:18,DET,Simone Fontecchio,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,83,83,0.547,0.476,2:44
+4,11:39,DET,Ronald Holland II,Away from Play Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,93,88,0.742,0.734,11:39
+4,11:07,DET,Malik Beasley,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,96,91,0.754,0.74,11:25
+4,10:02,DET,Simone Fontecchio,Loose Ball Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,98,91,0.848,0.841,10:02
+4,9:46,MIA,Bam Adebayo,Offensive Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,98,91,0.812,0.848,9:46
+4,9:33,MIA,Haywood Highsmith,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,98,91,0.737,0.812,9:46
+4,8:23,MIA,Haywood Highsmith,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,101,95,0.694,0.778,8:31
+4,7:27,MIA,Haywood Highsmith,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,101,97,0.582,0.69,7:31
+4,4:57,DET,Jalen Duren,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,107,104,0.779,0.66,4:57
+4,4:12,MIA,Kel'el Ware,Personal Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,109,106,0.559,0.678,4:27
+4,5.0,DET,Jalen Duren,Shooting Foul,Foul,Mitchell Ervin,J.B. DeRosa,Simone Jelks,MIA,111,113,0.392,0.315,18.0

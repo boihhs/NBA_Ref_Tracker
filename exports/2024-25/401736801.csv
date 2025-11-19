@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:46,NO,Herbert Jones,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,7,9,0.285,0.318,7:48
+1,7:16,NO,Yves Missi,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,7,13,0.22,0.254,7:16
+1,5:30,NO,CJ McCollum,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,11,18,0.187,0.216,5:46
+1,3:54,SAC,Keon Ellis,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,15,20,0.313,0.278,4:02
+1,3:42,NO,Brandon Boston,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,17,20,0.268,0.301,3:54
+1,3:25,SAC,Domantas Sabonis,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,17,22,0.314,0.28,3:42
+1,2:34,NO,Herbert Jones,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,19,22,0.269,0.303,2:34
+1,1:28,SAC,Keegan Murray,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,22,26,0.341,0.303,1:48
+1,50.1,SAC,Keegan Murray,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,22,26,0.342,0.303,1:11
+2,8:32,NO,Yves Missi,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,38,34,0.514,0.514,8:35
+2,7:32,SAC,DeMar DeRozan,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,38,38,0.448,0.428,7:33
+2,7:13,NO,Jamal Cain,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,39,38,0.382,0.425,7:26
+2,7:00,SAC,Keon Ellis,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,39,40,0.442,0.396,7:13
+2,5:43,NO,Daniel Theis,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,44,40,0.527,0.526,5:46
+2,5:17,NO,Daniel Theis,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,44,40,0.482,0.529,5:20
+2,4:03,NO,Daniel Theis,Offensive Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,47,43,0.535,0.568,4:16
+2,3:29,SAC,Keegan Murray,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,47,43,0.572,0.572,3:39
+2,2:41,NO,Yves Missi,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,50,45,0.525,0.574,2:57
+2,2:25,SAC,DeMar DeRozan,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,50,47,0.595,0.545,2:41
+2,1:50,SAC,De'Aaron Fox,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,52,49,0.598,0.549,1:51
+2,1:08,NO,Trey Murphy III,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,53,49,0.498,0.544,1:09
+3,9:28,NO,Dejounte Murray,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,64,61,0.503,0.571,9:28
+3,6:09,SAC,Malik Monk,Offensive Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,71,74,0.35,0.312,6:12
+3,5:25,NO,Yves Missi,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,73,74,0.331,0.389,5:31
+3,4:54,NO,Brandon Boston,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,73,78,0.22,0.277,4:54
+3,4:33,SAC,Domantas Sabonis,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,75,79,0.341,0.274,4:33
+3,4:11,NO,Dejounte Murray,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,76,79,0.284,0.311,4:11
+3,3:36,NO,Trey Murphy III,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,76,81,0.213,0.238,3:36
+3,2:31,SAC,Domantas Sabonis,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,76,85,0.144,0.145,2:40
+3,2:22,SAC,Kevin Huerter,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,78,85,0.227,0.168,2:22
+3,1:42,NO,Daniel Theis,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,79,85,0.151,0.193,1:43
+4,11:08,NO,CJ McCollum,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,83,91,0.11,0.116,11:10
+4,9:27,NO,Herbert Jones,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,86,94,0.065,0.101,9:29
+4,9:21,SAC,Alex Len,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,86,96,0.083,0.077,9:27
+4,7:13,SAC,Keegan Murray,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,88,100,0.037,0.033,7:13
+4,6:30,SAC,Colby Jones,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,88,102,0.017,0.117,10:57
+4,6:22,SAC,Malik Monk,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,90,102,0.055,0.022,6:22
+4,2:53,SAC,DeMar DeRozan,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,99,109,0.051,0.028,3:13
+4,1:24,SAC,De'Aaron Fox,Shooting Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,108,111,0.375,0.196,1:24
+4,1.0,NO,Yves Missi,Personal Foul,Foul,Curtis Blair,Kevin Cutler,Tom Washington,NO,109,111,0.006,0.016,1.0

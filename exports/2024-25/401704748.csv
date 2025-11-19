@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,0,3,0.549,0.544,11:24
+1,10:40,UTAH,Collin Sexton,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,3,6,0.587,0.544,10:40
+1,8:43,UTAH,Collin Sexton,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,6,9,0.599,0.561,8:45
+1,6:34,UTAH,Cody Williams,Personal Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,15,9,0.765,0.766,6:36
+1,4:25,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,21,13,0.768,0.802,4:25
+1,3:59,MIL,Gary Trent Jr.,Personal Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,23,14,0.802,0.802,3:59
+1,2:17,MIL,Bobby Portis,Personal Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,26,20,0.709,0.742,2:18
+1,1:15,UTAH,Johnny Juzang,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,28,23,0.774,0.742,1:17
+1,0.1,MIL,Brook Lopez,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,31,26,0.68,0.719,9.1
+2,9:48,MIL,Bobby Portis,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,35,36,0.528,0.583,9:48
+2,9:31,MIL,Gary Trent Jr.,Offensive Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,35,37,0.519,0.55,9:48
+2,8:51,UTAH,Lauri Markkanen,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,35,37,0.592,0.519,9:31
+2,8:21,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,35,42,0.36,0.454,8:33
+2,5:44,UTAH,Walker Kessler,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,43,45,0.559,0.536,5:44
+2,5:30,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,45,45,0.566,0.565,5:44
+2,4:46,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,47,45,0.581,0.628,5:04
+2,1:53,UTAH,Johnny Juzang,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,52,55,0.539,0.49,2:05
+2,41.0,UTAH,Keyonte George,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,54,58,0.5,0.45,48.2
+2,21.2,UTAH,Johnny Juzang,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,55,58,0.534,0.48,26.0
+2,14.0,MIL,Andre Jackson Jr.,Personal Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,57,58,0.464,0.516,21.2
+3,10:26,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,60,61,0.508,0.544,10:34
+3,9:57,UTAH,Walker Kessler,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,60,63,0.525,0.47,10:14
+3,7:37,UTAH,Walker Kessler,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,67,67,0.63,0.576,7:46
+3,5:37,UTAH,Keyonte George,Offensive Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,72,71,0.609,0.57,5:47
+3,4:40,MIL,Damian Lillard,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,75,71,0.628,0.688,5:01
+3,1:17,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,87,72,0.948,0.963,1:22
+3,43.0,UTAH,Patty Mills,Personal Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,87,74,0.97,0.957,43.1
+3,10.0,UTAH,Patty Mills,Personal Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,87,77,0.94,0.915,27.2
+4,10:03,MIL,Damian Lillard,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,91,79,0.931,0.96,10:03
+4,8:49,MIL,Bobby Portis,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,96,80,0.981,0.986,9:01
+4,8:02,MIL,Brook Lopez,Offensive Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,98,82,0.989,0.991,8:13
+4,6:49,UTAH,John Collins,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,101,84,0.998,0.996,7:10
+4,4:38,UTAH,Collin Sexton,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,110,91,0.999,0.999,4:38
+4,4:13,UTAH,Keyonte George,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,110,91,0.999,0.999,4:16
+4,3:25,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,115,91,0.999,0.999,3:40
+4,3:13,MIL,Liam Robbins,Double Personal Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,115,91,0.999,0.999,3:13
+4,2:32,UTAH,Drew Eubanks,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,115,91,0.999,0.999,2:42
+4,2:19,MIL,Ryan Rollins,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,116,91,0.999,0.999,2:32
+4,25.0,MIL,Liam Robbins,Shooting Foul,Foul,Jacyn Goble,Karl Lane,Jonathan Sterling,MIL,123,98,0.999,0.999,28.1

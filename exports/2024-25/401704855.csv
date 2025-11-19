@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:23,ORL,Franz Wagner,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,10,3,0.787,0.788,9:30
+1,8:13,CHI,Coby White,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,12,7,0.767,0.766,8:19
+1,7:40,CHI,Ayo Dosunmu,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,14,7,0.827,0.803,7:42
+1,6:32,CHI,Matas Buzelis,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,16,11,0.762,0.766,6:49
+1,18.1,CHI,Julian Phillips,Loose Ball Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,38,25,0.911,0.893,18.1
+2,11:22,CHI,Nikola Vucevic,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,38,25,0.911,0.894,11:36
+2,10:14,CHI,Coby White,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,41,28,0.895,0.896,10:33
+2,10:03,ORL,Jalen Suggs,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,43,28,0.908,0.908,10:06
+2,9:25,ORL,Moritz Wagner,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,46,30,0.911,0.919,9:25
+2,8:02,ORL,Anthony Black,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,48,32,0.922,0.921,8:02
+2,7:17,CHI,Talen Horton-Tucker,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,48,35,0.898,0.899,7:34
+2,6:49,CHI,E.J. Liddell,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,50,38,0.896,0.872,6:49
+2,6:49,CHI,Lonzo Ball,Technical Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,50,38,0.896,0.896,6:49
+2,6:03,ORL,Franz Wagner,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,52,40,0.847,0.873,6:04
+2,5:52,CHI,E.J. Liddell,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,52,40,0.908,0.887,6:00
+2,4:58,ORL,Cole Anthony,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,54,40,0.882,0.902,5:04
+2,4:37,CHI,Josh Giddey,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,54,41,0.922,0.904,4:37
+2,4:17,CHI,Matas Buzelis,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,56,41,0.943,0.928,4:19
+2,2:03,ORL,Franz Wagner,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,60,44,0.915,0.932,2:17
+2,1:20,ORL,Jalen Suggs,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,66,48,0.946,0.958,1:20
+2,10.1,CHI,Zach LaVine,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,71,54,0.965,0.954,32.1
+3,11:41,CHI,Zach LaVine,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,75,54,0.983,0.975,11:41
+3,8:31,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,85,60,0.991,0.994,8:31
+3,6:20,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,90,65,0.993,0.996,6:20
+3,5:16,ORL,Anthony Black,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,92,68,0.991,0.994,5:22
+3,5:02,CHI,Matas Buzelis,Loose Ball Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,92,69,0.994,0.994,5:02
+3,1:59,CHI,E.J. Liddell,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,96,79,0.988,0.983,2:06
+3,1:23,CHI,Matas Buzelis,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,96,81,0.981,0.97,1:46
+3,5.1,ORL,Moritz Wagner,Transition Take Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,102,85,0.983,0.983,8.1
+3,0.1,CHI,Josh Giddey,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,102,88,0.981,0.97,4.0
+4,11:31,CHI,E.J. Liddell,Offensive Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,105,88,0.989,0.985,11:35
+4,10:14,CHI,E.J. Liddell,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,108,91,0.992,0.992,10:14
+4,10:03,CHI,Zach LaVine,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,108,91,0.995,0.992,10:14
+4,7:26,CHI,Josh Giddey,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,118,98,0.999,0.999,7:46
+4,7:11,ORL,Goga Bitadze,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,118,98,0.998,0.998,7:14
+4,6:35,CHI,Matas Buzelis,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,118,98,0.999,0.999,6:35
+4,5:06,CHI,Talen Horton-Tucker,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,118,100,0.999,0.999,5:06
+4,5:02,CHI,Nikola Vucevic,Offensive Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,119,100,0.999,0.999,5:06
+4,3:52,CHI,Chris Duarte,Personal Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,122,102,0.999,0.999,4:09
+4,3:44,ORL,Cole Anthony,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,124,102,0.999,0.999,3:52
+4,2:33,CHI,Matas Buzelis,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Matt Myers,ORL,129,106,0.999,0.999,2:44

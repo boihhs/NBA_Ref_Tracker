@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:50,MIL,AJ Green,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,0,0,0.789,0.79,12:00
+1,10:01,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,6,2,0.842,0.841,10:04
+1,9:09,WSH,Khris Middleton,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,9,4,0.866,0.865,9:09
+1,6:44,WSH,Kyshawn George,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,21,10,0.922,0.922,7:01
+1,6:36,WSH,Bub Carrington,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,21,10,0.933,0.922,6:44
+1,6:00,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,25,12,0.917,0.929,6:13
+1,5:38,MIL,Myles Turner,Offensive Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,25,14,0.912,0.921,5:40
+1,4:44,WSH,Khris Middleton,Offensive Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,28,14,0.943,0.937,4:50
+1,4:28,MIL,AJ Green,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,28,14,0.924,0.936,4:31
+1,1:24,MIL,Cole Anthony,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,40,21,0.957,0.965,1:33
+1,1:05,MIL,Cole Anthony,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,40,21,0.957,0.966,1:09
+1,8.8,MIL,Cole Anthony,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,40,22,0.952,0.96,24.9
+2,11:04,WSH,Cam Whitmore,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,45,25,0.977,0.975,11:12
+2,8:11,WSH,Kyshawn George,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,53,39,0.941,0.942,8:25
+2,7:57,MIL,Ryan Rollins,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,53,39,0.934,0.933,7:58
+2,7:37,WSH,Kyshawn George,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,53,39,0.941,0.942,7:46
+2,5:57,MIL,Myles Turner,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,57,41,0.938,0.95,6:04
+2,5:22,WSH,Marvin Bagley III,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,57,42,0.96,0.951,5:57
+2,5:13,MIL,Ryan Rollins,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,58,44,0.926,0.942,5:13
+2,4:00,WSH,Khris Middleton,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,64,47,0.968,0.958,4:00
+2,3:55,WSH,CJ McCollum,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,64,47,0.968,0.965,3:55
+2,38.8,MIL,Gary Trent Jr.,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,72,53,0.964,0.973,43.4
+2,38.8,MIL,Gary Trent Jr.,Double Technical Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,72,53,0.973,0.973,38.8
+3,11:07,MIL,AJ Green,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,72,53,0.975,0.975,11:13
+3,10:17,WSH,Kyshawn George,Loose Ball Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,72,56,0.965,0.965,10:17
+3,5:12,MIL,Ryan Rollins,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,85,75,0.897,0.896,5:24
+3,4:42,MIL,Myles Turner,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,87,77,0.883,0.915,4:42
+3,4:28,MIL,Cole Anthony,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,87,78,0.862,0.879,4:28
+3,4:05,WSH,Marvin Bagley III,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,89,80,0.911,0.88,4:05
+3,3:53,MIL,Kyle Kuzma,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,89,80,0.847,0.88,4:02
+3,3:37,WSH,Tre Johnson,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,89,82,0.891,0.86,3:53
+4,10:31,MIL,Taurean Prince,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,105,93,0.949,0.952,10:45
+4,8:16,MIL,Cole Anthony,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,111,101,0.926,0.932,8:30
+4,7:56,WSH,Justin Champagnie,Loose Ball Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,111,101,0.954,0.949,8:01
+4,7:31,MIL,Taurean Prince,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,111,101,0.93,0.974,7:56
+4,7:15,WSH,Alex Sarr,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,113,101,0.982,0.965,7:15
+4,5:29,WSH,Khris Middleton,Personal Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,118,103,0.995,0.995,5:41
+4,4:24,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,123,105,0.998,0.999,4:24
+4,1:42,WSH,Bub Carrington,Personal Take Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,129,116,0.999,0.999,1:49
+4,44.5,WSH,Anthony Gill,Loose Ball Foul,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,131,118,0.999,0.999,44.5
+4,4:13,WSH,Bub Carrington,Flagrant Foul Type 1,Foul,Brian Forte,Curtis Blair,Brandon Adair,MIL,125,105,0.999,1.0,0.0

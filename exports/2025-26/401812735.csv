@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:50,OKC,Chet Holmgren,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,8,3,0.614,0.612,9:59
+1,8:27,DEN,Cameron Johnson,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,8,10,0.46,0.461,8:41
+1,6:43,DEN,Peyton Watson,Shooting Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,10,10,0.552,0.513,6:51
+1,4:17,OKC,Brooks Barnhizer,Defensive 3-Seconds Technical,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,16,13,0.575,0.594,4:28
+1,36.3,OKC,Cason Wallace,Shooting Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,22,20,0.5,0.541,44.6
+1,34.3,DEN,Spencer Jones,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,22,21,0.583,0.544,36.3
+2,10:51,OKC,Jaylin Williams,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,22,26,0.369,0.367,10:51
+2,8:31,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,25,33,0.223,0.257,8:42
+2,8:00,OKC,Jaylin Williams,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,27,35,0.259,0.256,8:17
+2,2:36,OKC,Chris Youngblood,Shooting Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,42,51,0.177,0.212,2:50
+2,1:55,DEN,Tim Hardaway Jr.,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,44,56,0.197,0.165,2:07
+2,1:24,OKC,Chris Youngblood,Defensive 3-Seconds Technical,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,44,56,0.145,0.139,1:39
+2,1:13,DEN,Cameron Johnson,Offensive Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,44,56,0.157,0.138,1:24
+3,10:35,OKC,Jaylin Williams,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,48,59,0.146,0.145,10:45
+3,9:34,DEN,Bruce Brown,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,51,62,0.161,0.163,9:44
+3,9:28,DEN,Bruce Brown,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,51,62,0.16,0.161,9:34
+3,8:48,DEN,Jonas Valanciunas,Offensive Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,51,62,0.157,0.136,8:57
+3,7:26,DEN,Cameron Johnson,Offensive Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,56,64,0.229,0.201,7:37
+3,7:02,DEN,Jonas Valanciunas,Shooting Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,56,64,0.274,0.226,7:04
+3,4:45,OKC,Cason Wallace,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,60,69,0.155,0.156,5:00
+3,4:17,OKC,Ousmane Dieng,Shooting Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,60,69,0.118,0.152,4:19
+3,3:43,DEN,Bruce Brown,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,62,71,0.22,0.175,3:43
+3,3:15,OKC,Branden Carlson,Shooting Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,62,71,0.11,0.143,3:22
+3,1:39,DEN,Jalen Pickett,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,62,73,0.145,0.109,1:40
+4,8:27,DEN,Zeke Nnaji,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,69,85,0.013,0.012,8:37
+4,7:00,DEN,Curtis Jones,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,74,85,0.054,0.051,7:09
+4,6:46,DEN,Curtis Jones,Loose Ball Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,74,85,0.055,0.049,6:46
+4,6:12,DEN,Hunter Tyson,Flagrant Foul Type 1,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,77,85,0.115,0.116,6:15
+4,5:59,DEN,DaRon Holmes II,Loose Ball Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,79,85,0.277,0.2,5:59
+4,2:35,DEN,Moses Brown,Shooting Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,85,85,0.698,0.574,2:43
+4,2:21,OKC,Chris Youngblood,Shooting Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,86,85,0.5,0.558,2:21
+4,1:57,OKC,Brooks Barnhizer,Personal Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,86,86,0.316,0.481,2:01
+4,1:03,OKC,Malevy Leons,Loose Ball Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,88,86,0.5,0.633,1:03
+4,12.8,OKC,Chris Youngblood,Shooting Foul,Foul,Ray Acosta,Natalie Sago,Jamahl Ralls,OKC,91,91,0.331,0.548,12.8

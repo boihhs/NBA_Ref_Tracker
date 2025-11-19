@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:42,DEN,Nikola Jokic,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,0,0,0.722,0.723,11:42
+1,10:53,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,2,2,0.723,0.719,11:05
+1,9:38,IND,Jarace Walker,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,4,3,0.751,0.753,9:51
+1,6:39,DEN,Christian Braun,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,10,11,0.64,0.676,6:40
+1,6:10,DEN,Cameron Johnson,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,10,12,0.612,0.648,6:12
+1,4:45,IND,Jarace Walker,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,15,14,0.764,0.736,4:57
+1,4:13,IND,Aaron Nesmith,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,18,14,0.804,0.773,4:13
+1,1:58,DEN,Peyton Watson,Loose Ball Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,22,18,0.735,0.768,1:58
+2,9:51,DEN,Julian Strawther,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,35,21,0.922,0.936,10:13
+2,7:12,DEN,Jonas Valanciunas,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,43,25,0.942,0.953,7:26
+2,6:05,DEN,Bruce Brown,Personal Take Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,45,29,0.939,0.939,6:09
+2,5:45,IND,Jeremiah Robinson-Earl,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,45,29,0.948,0.948,6:00
+2,5:40,IND,Jeremiah Robinson-Earl,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,47,29,0.966,0.955,5:40
+2,5:30,DEN,Jonas Valanciunas,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,48,29,0.951,0.961,5:40
+2,5:24,IND,Isaiah Jackson,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,48,30,0.96,0.961,5:30
+2,5:17,IND,Jay Huff,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,48,30,0.969,0.96,5:24
+2,3:53,DEN,Cameron Johnson,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,48,33,0.914,0.931,3:58
+2,3:39,IND,Tony Bradley,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,48,34,0.946,0.932,3:53
+2,1:30,IND,Tony Bradley,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,52,41,0.919,0.9,1:30
+2,1:12,DEN,Nikola Jokic,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,54,43,0.872,0.9,1:12
+2,33.2,IND,Pascal Siakam,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,54,44,0.908,0.886,35.5
+3,11:44,DEN,Peyton Watson,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,56,47,0.819,0.858,12:00
+3,9:43,DEN,Nikola Jokic,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,62,54,0.795,0.832,9:52
+3,9:26,DEN,Jalen Pickett,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,64,55,0.819,0.854,9:35
+3,9:13,DEN,Jalen Pickett,Loose Ball Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,64,57,0.77,0.808,9:13
+3,9:13,DEN,DEN,Technical Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,64,57,0.79,0.77,9:13
+3,7:03,IND,Isaiah Jackson,Loose Ball Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,72,66,0.812,0.814,7:03
+3,6:54,IND,Tony Bradley,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,74,66,0.874,0.835,6:54
+3,6:37,DEN,Tim Hardaway Jr.,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,75,66,0.824,0.858,6:54
+3,6:22,IND,Aaron Nesmith,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,77,69,0.875,0.837,6:22
+3,4:20,IND,Ben Sheppard,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,85,74,0.941,0.92,4:41
+3,3:11,DEN,Bruce Brown,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,87,79,0.801,0.846,3:19
+3,2:40,DEN,Spencer Jones,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,90,81,0.833,0.869,2:54
+3,1:09,IND,Aaron Nesmith,Loose Ball Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,92,82,0.943,0.92,1:09
+4,10:45,DEN,Bruce Brown,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,97,84,0.956,0.958,10:56
+4,9:55,DEN,Tim Hardaway Jr.,Offensive Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,97,84,0.962,0.971,10:14
+4,9:29,IND,Ben Sheppard,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,99,84,0.99,0.981,9:29
+4,7:40,DEN,Julian Strawther,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,102,86,0.99,0.991,7:58
+4,7:19,IND,Pascal Siakam,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,102,86,0.997,0.994,7:26
+4,6:31,IND,Tony Bradley,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,106,88,0.998,0.997,6:53
+4,6:20,IND,Andrew Nembhard,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,106,88,0.999,0.998,6:31
+4,5:48,DEN,Nikola Jokic,Flagrant Foul Type 1,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,109,88,0.999,0.999,5:50
+4,5:31,IND,Jay Huff,Flagrant Foul Type 1,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,109,89,0.999,0.998,5:48
+4,5:08,IND,Cody Martin,Personal Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,110,90,0.999,0.999,5:14
+4,4:17,DEN,Julian Strawther,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,113,92,0.999,0.999,4:25
+4,3:33,IND,Jay Huff,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,113,95,0.999,0.999,3:33
+4,2:22,DEN,Zeke Nnaji,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,115,95,0.999,0.999,2:39
+4,52.3,DEN,Zeke Nnaji,Shooting Foul,Foul,Josh Tiven,John Butler,Biniam Maru,DEN,117,97,0.999,0.999,1:00

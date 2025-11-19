@@ -1,0 +1,54 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,BKN,Noah Clowney,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,3,2,0.389,0.435,11:04
+1,8:51,BKN,Noah Clowney,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,6,9,0.318,0.315,8:56
+1,8:37,DEN,Jamal Murray,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,8,9,0.405,0.361,8:37
+1,7:48,BKN,Jalen Wilson,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,10,9,0.417,0.414,8:01
+1,4:13,BKN,Shake Milton,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,22,15,0.566,0.585,4:13
+1,45.1,DEN,Peyton Watson,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,37,25,0.773,0.737,45.1
+1,39.1,BKN,Jalen Wilson,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,38,25,0.721,0.758,45.1
+2,11:41,DEN,Russell Westbrook,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,40,27,0.789,0.774,12:00
+2,11:25,DEN,Michael Porter Jr.,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,40,27,0.802,0.791,11:25
+2,10:35,BKN,Keon Johnson,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,44,27,0.825,0.852,10:49
+2,10:29,DEN,Jamal Murray,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,44,29,0.835,0.836,10:35
+2,10:00,BKN,Dennis Schroder,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,44,29,0.802,0.818,10:00
+2,8:08,BKN,Cam Thomas,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,49,34,0.797,0.827,8:24
+2,5:32,BKN,Cam Thomas,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,52,43,0.654,0.724,5:43
+2,5:00,BKN,Cameron Johnson,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,55,45,0.687,0.727,5:09
+2,3:54,DEN,Aaron Gordon,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,57,47,0.783,0.736,3:54
+2,2:59,DEN,Aaron Gordon,Loose Ball Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,58,50,0.755,0.711,2:59
+2,1:24,DEN,Michael Porter Jr.,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,65,58,0.767,0.721,1:27
+2,5.0,DEN,Nikola Jokic,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,70,63,0.778,0.729,15.0
+3,10:43,DEN,Nikola Jokic,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,72,68,0.663,0.612,10:57
+3,10:08,BKN,Cam Thomas,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,73,68,0.558,0.614,10:16
+3,9:19,BKN,Dennis Schroder,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,76,74,0.479,0.546,9:19
+3,8:56,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,78,76,0.48,0.549,8:56
+3,7:57,DEN,Christian Braun,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,81,79,0.608,0.552,8:23
+3,6:37,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,83,79,0.566,0.597,6:37
+3,4:43,DEN,Christian Braun,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,88,84,0.708,0.649,5:05
+3,4:17,DEN,Russell Westbrook,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,89,84,0.693,0.694,4:17
+3,3:42,BKN,Dennis Schroder,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,89,84,0.593,0.653,3:44
+3,3:23,BKN,Ziaire Williams,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,89,84,0.595,0.655,3:23
+3,1:36,BKN,Shake Milton,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,95,91,0.561,0.629,1:45
+4,11:07,DEN,Peyton Watson,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,99,101,0.416,0.395,11:14
+4,10:34,BKN,Nic Claxton,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,101,101,0.363,0.455,10:58
+4,10:28,DEN,Peyton Watson,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,101,103,0.416,0.4,10:34
+4,8:46,DEN,Peyton Watson,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,103,106,0.37,0.353,8:59
+4,7:35,DEN,Peyton Watson,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,106,106,0.632,0.532,7:56
+4,5:47,DEN,Aaron Gordon,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,111,108,0.783,0.681,5:47
+4,5:30,BKN,Ziaire Williams,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,112,108,0.634,0.738,5:47
+4,5:20,BKN,Cam Thomas,Offensive Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,112,110,0.614,0.681,5:30
+4,4:59,DEN,Christian Braun,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,112,112,0.655,0.551,5:16
+4,4:20,DEN,Christian Braun,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,115,114,0.729,0.625,4:37
+4,4:06,BKN,Nic Claxton,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,116,114,0.602,0.623,4:20
+4,3:34,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,116,114,0.487,0.624,3:35
+4,3:01,BKN,Nic Claxton,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,118,116,0.488,0.611,3:12
+4,24.0,DEN,Nikola Jokic,Personal Take Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,124,123,0.84,0.683,25.0
+5,4:21,BKN,Nic Claxton,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,127,125,0.492,0.611,4:41
+5,2:58,DEN,Jamal Murray,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,127,131,0.226,0.229,3:09
+5,2:00,BKN,Nic Claxton,Personal Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,129,133,0.063,0.141,2:17
+5,1:52,BKN,Dennis Schroder,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,129,133,0.061,0.063,2:00
+5,48.1,BKN,Cameron Johnson,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,132,138,0.009,0.027,49.2
+5,32.1,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,134,139,0.013,0.042,37.1
+5,22.1,BKN,Nic Claxton,Personal Take Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,137,141,0.022,0.07,26.1
+5,17.1,BKN,Dennis Schroder,Offensive Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,137,142,0.022,0.058,19.2
+5,13.1,BKN,Cam Thomas,Personal Take Foul,Foul,Bill Kennedy,Scott Twardoski,Robert Hussey,BKN,137,142,0.005,0.022,17.1

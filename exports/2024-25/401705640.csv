@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:32,SAC,Zach LaVine,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,3,0,0.606,0.61,10:49
+1,10:03,SAC,Keon Ellis,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,5,0,0.689,0.657,10:06
+1,9:45,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,6,0,0.639,0.656,10:03
+1,8:15,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,10,3,0.647,0.681,8:26
+1,8:00,SAC,Domantas Sabonis,Defensive 3-Seconds Technical,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,10,5,0.652,0.66,8:15
+1,7:45,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,11,5,0.683,0.682,7:45
+1,7:09,SAC,DeMar DeRozan,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,13,5,0.744,0.705,7:09
+1,3:50,SAC,Trey Lyles,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,22,15,0.73,0.688,3:50
+1,2:53,SAC,Malik Monk,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,26,19,0.749,0.716,2:55
+1,2:01,ORL,Anthony Black,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,31,19,0.771,0.8,2:24
+1,32.1,ORL,Goga Bitadze,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,38,21,0.867,0.888,44.2
+2,10:56,ORL,Anthony Black,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,38,23,0.854,0.882,10:56
+2,8:25,ORL,Goga Bitadze,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,45,28,0.902,0.903,8:25
+2,7:13,ORL,Anthony Black,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,48,28,0.924,0.938,7:29
+2,6:08,SAC,Keon Ellis,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,51,33,0.947,0.931,6:30
+2,4:53,SAC,Zach LaVine,Offensive Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,54,35,0.946,0.936,5:03
+2,4:07,ORL,Wendell Carter Jr.,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,54,37,0.896,0.916,4:10
+2,3:59,ORL,Franz Wagner,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,54,37,0.897,0.896,4:07
+2,3:21,SAC,Domantas Sabonis,Offensive Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,58,39,0.95,0.941,3:28
+2,3:07,SAC,DeMar DeRozan,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,58,39,0.962,0.95,3:21
+2,2:53,ORL,Jonathan Isaac,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,59,39,0.937,0.95,3:07
+2,2:21,SAC,Trey Lyles,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,59,43,0.923,0.924,2:30
+2,51.1,ORL,Cory Joseph,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,61,45,0.905,0.93,51.1
+2,9.1,SAC,Malik Monk,Offensive Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,61,46,0.918,0.903,26.1
+3,10:52,SAC,Keegan Murray,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,63,52,0.885,0.858,11:02
+3,9:27,SAC,Keon Ellis,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,65,52,0.922,0.901,9:35
+3,8:44,SAC,Keegan Murray,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,67,52,0.932,0.931,8:58
+3,8:36,SAC,Keon Ellis,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,67,52,0.949,0.932,8:44
+3,7:04,SAC,DeMar DeRozan,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,73,54,0.982,0.973,7:04
+3,5:30,ORL,Franz Wagner,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,80,54,0.993,0.995,5:40
+3,4:29,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,85,55,0.999,0.999,4:29
+3,4:18,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,86,55,0.999,0.999,4:28
+3,8.1,SAC,DeMar DeRozan,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,96,66,0.999,0.999,24.1
+3,6.1,ORL,Caleb Houstan,Personal Take Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,98,66,0.999,0.999,8.1
+4,11:18,SAC,Jonas Valanciunas,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,100,68,0.999,0.999,11:26
+4,10:17,ORL,Caleb Houstan,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,102,68,0.999,0.999,10:18
+4,9:53,ORL,Anthony Black,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,105,70,0.999,0.999,10:03
+4,9:49,ORL,Jonathan Isaac,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,105,70,0.999,0.999,9:53
+4,9:43,ORL,Tristan da Silva,Personal Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,105,70,0.999,0.999,9:49
+4,8:00,SAC,Jonas Valanciunas,Shooting Foul,Foul,Rodney Mott,Tony Brothers,Brandon Adair,ORL,110,77,0.999,0.999,8:00

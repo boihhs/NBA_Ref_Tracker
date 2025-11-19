@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:50,BOS,Jaylen Brown,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,2,0,0.637,0.637,11:01
+1,9:46,NY,Josh Hart,Loose Ball Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,4,0,0.66,0.659,9:46
+1,9:29,NY,Mikal Bridges,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,4,0,0.661,0.66,9:46
+1,8:51,BOS,Jrue Holiday,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,4,3,0.61,0.61,8:54
+1,5:47,BOS,Sam Hauser,Loose Ball Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,11,7,0.681,0.683,5:47
+1,5:17,NY,Karl-Anthony Towns,Offensive Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,11,7,0.656,0.682,5:25
+1,4:49,BOS,Sam Hauser,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,11,7,0.715,0.682,4:50
+1,4:39,NY,Mikal Bridges,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,13,9,0.638,0.681,4:39
+1,4:34,BOS,Kristaps Porzingis,Personal Take Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,13,10,0.692,0.656,4:39
+1,4:20,NY,Mitchell Robinson,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,14,10,0.618,0.656,4:34
+1,9.2,BOS,Kristaps Porzingis,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,24,18,0.765,0.729,32.1
+2,10:37,BOS,Payton Pritchard,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,31,20,0.834,0.836,10:49
+2,6:40,BOS,Luke Kornet,Offensive Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,40,24,0.919,0.907,6:48
+2,6:30,NY,Josh Hart,Offensive Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,40,24,0.908,0.919,6:40
+2,5:55,BOS,Payton Pritchard,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,40,24,0.937,0.92,6:07
+2,5:39,NY,Mitchell Robinson,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,42,26,0.9,0.922,5:39
+2,5:29,BOS,Luke Kornet,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,44,27,0.94,0.922,5:29
+2,5:10,BOS,Jrue Holiday,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,46,27,0.957,0.943,5:10
+2,5:00,BOS,Jaylen Brown,Offensive Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,47,27,0.959,0.959,5:00
+2,4:29,NY,Josh Hart,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,49,27,0.956,0.965,4:48
+2,4:18,NY,OG Anunoby,Offensive Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,49,28,0.96,0.967,4:27
+2,3:36,NY,Mikal Bridges,Offensive Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,51,28,0.973,0.977,3:46
+2,3:29,NY,OG Anunoby,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,51,30,0.956,0.969,3:29
+2,1:46,BOS,Derrick White,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,54,32,0.982,0.976,2:00
+2,1:24,NY,Mitchell Robinson,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,58,32,0.983,0.988,1:31
+2,1:20,NY,Jalen Brunson,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,58,32,0.983,0.983,1:24
+2,1:05,BOS,Derrick White,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,60,34,0.992,0.988,1:05
+3,11:12,BOS,Al Horford,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,68,37,0.998,0.997,11:12
+3,10:02,NY,Mikal Bridges,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,69,40,0.996,0.996,10:17
+3,7:22,BOS,Al Horford,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,79,43,0.999,0.999,7:22
+3,7:05,NY,Josh Hart,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,80,43,0.999,0.999,7:22
+3,5:26,BOS,Jaylen Brown,Loose Ball Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,80,46,0.999,0.999,5:26
+3,5:18,BOS,Jaylen Brown,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,80,46,0.999,0.999,5:26
+3,4:09,NY,Karl-Anthony Towns,Offensive Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,82,49,0.999,0.999,4:18
+3,3:16,NY,Jalen Brunson,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,84,51,0.999,0.999,3:23
+3,2:50,BOS,Jaylen Brown,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,84,51,0.999,0.999,3:01
+4,10:25,BOS,Torrey Craig,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,94,62,0.999,0.999,10:28
+4,6:52,NY,Miles McBride,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,107,73,0.999,0.999,6:52
+4,6:28,NY,Karl-Anthony Towns,Loose Ball Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,107,74,0.999,0.999,6:28
+4,5:37,NY,Karl-Anthony Towns,Offensive Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,110,76,0.999,0.999,5:53
+4,4:22,NY,Mikal Bridges,Personal Take Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,112,78,0.999,0.999,4:22
+4,2:02,NY,P.J. Tucker,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,112,80,0.999,0.999,2:12
+4,1:55,NY,Cameron Payne,Personal Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,112,80,0.999,0.999,2:02
+4,1:17,BOS,Neemias Queta,Shooting Foul,Foul,James Capers,Ed Malloy,Tyler Ford,NY,114,81,0.999,0.999,1:20

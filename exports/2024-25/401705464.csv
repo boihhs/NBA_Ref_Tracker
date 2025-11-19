@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:35,DET,Malik Beasley,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,3,2,0.468,0.472,10:41
+1,9:04,DET,Cade Cunningham,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,5,6,0.457,0.419,9:21
+1,8:08,LAC,Nicolas Batum,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,9,8,0.447,0.445,8:12
+1,7:03,DET,Jalen Duren,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,11,8,0.565,0.527,7:11
+1,5:24,DET,Jalen Duren,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,16,8,0.701,0.663,5:31
+1,4:27,DET,Malik Beasley,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,21,10,0.773,0.74,4:33
+1,3:45,LAC,Jordan Miller,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,23,12,0.683,0.719,3:57
+1,1:26,LAC,Drew Eubanks,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,26,21,0.529,0.568,1:26
+2,9:39,LAC,Drew Eubanks,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,36,32,0.509,0.554,9:57
+2,8:27,LAC,Amir Coffey,Loose Ball Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,40,33,0.648,0.647,8:27
+2,5:23,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,46,43,0.489,0.534,5:28
+2,4:53,LAC,Kris Dunn,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,48,44,0.523,0.568,5:09
+2,4:12,DET,Cade Cunningham,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,50,47,0.575,0.575,4:24
+2,4:07,DET,Ausar Thompson,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,50,47,0.621,0.575,4:12
+2,2:29,LAC,Nicolas Batum,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,54,49,0.561,0.61,2:45
+2,2:14,DET,Dennis Schroder,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,54,50,0.659,0.612,2:26
+2,49.1,DET,Jalen Duren,Loose Ball Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,55,55,0.53,0.479,49.1
+2,1.0,DET,Cade Cunningham,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,55,57,0.463,0.412,24.0
+3,10:37,LAC,James Harden,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,60,61,0.411,0.411,10:47
+3,10:28,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,60,61,0.36,0.411,10:37
+3,9:13,LAC,Ivica Zubac,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,64,65,0.385,0.413,9:13
+3,8:24,LAC,James Harden,Offensive Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,67,69,0.376,0.414,8:40
+3,6:39,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,74,71,0.584,0.57,6:52
+3,3:38,DET,Isaiah Stewart,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,82,78,0.67,0.67,3:44
+3,2:43,LAC,Amir Coffey,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,84,81,0.522,0.589,2:47
+3,1:35,LAC,Drew Eubanks,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,84,85,0.342,0.407,1:50
+3,18.1,DET,Isaiah Stewart,Defensive 3-Seconds Technical,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,88,89,0.444,0.456,34.0
+4,10:39,DET,Cade Cunningham,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,93,91,0.629,0.614,10:40
+4,9:16,DET,Ronald Holland II,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,97,94,0.698,0.681,9:34
+4,6:14,DET,Malik Beasley,Offensive Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,103,99,0.776,0.718,6:23
+4,3:25,DET,Jalen Duren,Loose Ball Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,112,108,0.841,0.824,3:25
+4,2:39,DET,Jalen Duren,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,114,108,0.965,0.928,2:40
+4,2:15,LAC,Ivica Zubac,Loose Ball Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,114,108,0.909,0.909,2:15
+4,1:58,DET,Cade Cunningham,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,114,108,0.975,0.948,2:03
+4,56.0,DET,Tim Hardaway Jr.,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,118,110,0.997,0.992,1:01
+4,46.0,DET,DET,Technical Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,120,113,0.993,0.974,46.0
+4,44.1,DET,Jalen Duren,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,121,113,0.998,0.994,46.0
+4,31.1,LAC,Nicolas Batum,Loose Ball Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,122,113,0.98,0.996,31.1
+4,22.2,DET,Ausar Thompson,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,LAC,122,113,0.999,0.998,27.1

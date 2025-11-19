@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:20,ORL,Franz Wagner,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,6,7,0.592,0.636,9:20
+1,8:41,TOR,Jakob Poeltl,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,6,10,0.595,0.559,8:48
+1,7:04,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,10,10,0.59,0.627,7:11
+1,5:55,TOR,Jonathan Mogbo,Offensive Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,12,13,0.625,0.6,6:01
+1,4:54,TOR,Jamal Shead,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,14,13,0.671,0.67,5:04
+1,3:38,ORL,Tristan da Silva,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,17,15,0.668,0.667,3:52
+1,1:56,TOR,Scottie Barnes,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,20,15,0.787,0.758,2:06
+1,39.1,TOR,Immanuel Quickley,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,20,17,0.743,0.708,58.1
+1,13.0,TOR,Scottie Barnes,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,21,19,0.72,0.684,27.1
+1,7.1,ORL,Anthony Black,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,22,19,0.645,0.684,13.0
+2,11:20,ORL,Anthony Black,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,22,22,0.559,0.601,11:21
+2,11:18,TOR,Jakob Poeltl,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,22,22,0.629,0.631,11:18
+2,9:50,TOR,Jakob Poeltl,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,24,22,0.679,0.679,9:58
+2,8:59,TOR,Jared Rhoden,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,26,24,0.677,0.678,9:04
+2,5:08,ORL,Cory Joseph,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,40,35,0.705,0.751,5:08
+2,5:05,TOR,Jamal Shead,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,40,36,0.762,0.725,5:08
+2,2:26,ORL,Wendell Carter Jr.,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,45,44,0.602,0.602,2:32
+2,1:16,ORL,Franz Wagner,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,48,44,0.649,0.693,1:20
+2,9.0,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,51,47,0.645,0.707,9.0
+3,11:28,ORL,Cory Joseph,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,54,49,0.677,0.726,11:32
+3,10:39,ORL,Wendell Carter Jr.,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,54,51,0.61,0.661,10:43
+3,9:14,TOR,Jakob Poeltl,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,56,56,0.617,0.552,9:14
+3,8:28,ORL,Cory Joseph,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,62,56,0.709,0.755,8:39
+3,7:15,TOR,RJ Barrett,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,62,62,0.584,0.586,7:32
+3,6:34,ORL,Franz Wagner,Flagrant Foul Type 1,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,62,62,0.553,0.562,6:34
+3,5:51,TOR,RJ Barrett,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,62,65,0.457,0.457,5:58
+3,5:27,ORL,Wendell Carter Jr.,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,62,65,0.354,0.414,5:37
+3,5:27,TOR,Jakob Poeltl,Technical Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,62,65,0.486,0.433,5:27
+3,5:03,ORL,Jett Howard,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,63,67,0.34,0.371,5:03
+3,4:52,TOR,Jakob Poeltl,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,63,69,0.391,0.331,5:03
+3,3:43,TOR,Jamal Shead,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,64,71,0.309,0.279,3:43
+3,3:17,TOR,Orlando Robinson,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,65,71,0.378,0.316,3:28
+3,2:12,TOR,Jared Rhoden,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,68,76,0.253,0.19,2:12
+3,1:37,ORL,Goga Bitadze,Offensive Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,69,76,0.215,0.258,1:48
+3,1:10,TOR,A.J. Lawson,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,69,76,0.318,0.252,1:13
+3,48.2,ORL,Anthony Black,Offensive Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,71,78,0.206,0.249,57.1
+3,33.0,ORL,Tristan da Silva,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,71,78,0.153,0.206,48.2
+3,20.1,TOR,A.J. Lawson,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,71,80,0.222,0.172,33.0
+3,3.0,TOR,Immanuel Quickley,Offensive Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,73,80,0.233,0.2,20.1
+4,10:20,ORL,Jonathan Isaac,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,78,82,0.285,0.297,10:24
+4,9:55,TOR,A.J. Lawson,Personal Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,78,85,0.213,0.203,10:06
+4,9:10,ORL,Goga Bitadze,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,78,89,0.043,0.076,9:10
+4,8:38,ORL,Goga Bitadze,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,81,92,0.037,0.068,8:38
+4,8:07,ORL,Wendell Carter Jr.,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,83,92,0.049,0.084,8:26
+4,7:49,TOR,Jamal Shead,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,85,94,0.13,0.074,7:49
+4,5:17,ORL,Paolo Banchero,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,93,98,0.103,0.161,5:32
+4,5:03,TOR,Orlando Robinson,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,93,99,0.174,0.157,5:03
+4,4:57,TOR,Ja'Kobe Walter,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,95,99,0.329,0.207,4:57
+4,4:41,ORL,Jonathan Isaac,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,96,99,0.191,0.275,4:57
+4,2:00,ORL,Jonathan Isaac,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,103,107,0.08,0.154,2:15
+4,4.1,TOR,Jamal Shead,Shooting Foul,Foul,J.T. Orr,Ben Taylor,John Conley,ORL,111,111,0.877,0.547,16.1

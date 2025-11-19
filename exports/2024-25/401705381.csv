@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:08,WSH,Kyshawn George,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,0,5,0.816,0.795,10:24
+1,9:33,WSH,Justin Champagnie,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,2,5,0.841,0.822,9:49
+1,9:14,ORL,Paolo Banchero,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,4,5,0.81,0.834,9:20
+1,7:58,WSH,Jordan Poole,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,6,6,0.853,0.855,8:11
+1,7:39,WSH,Kyshawn George,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,8,8,0.87,0.852,7:43
+1,7:36,ORL,Franz Wagner,Offensive Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,8,8,0.838,0.87,7:39
+1,7:23,ORL,Franz Wagner,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,8,8,0.814,0.838,7:36
+1,5:14,WSH,Justin Champagnie,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,10,12,0.832,0.811,5:36
+1,4:28,WSH,Bilal Coulibaly,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,11,12,0.843,0.821,4:37
+1,3:59,WSH,Richaun Holmes,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,13,12,0.868,0.85,4:16
+1,3:53,ORL,Cole Anthony,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,14,12,0.847,0.848,3:59
+1,3:35,ORL,Goga Bitadze,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,14,12,0.824,0.847,3:53
+1,2:35,WSH,Kyshawn George,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,16,17,0.835,0.811,2:57
+1,1:38,ORL,Tristan da Silva,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,20,20,0.774,0.806,1:51
+1,6.1,ORL,Tristan da Silva,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,27,28,0.757,0.793,6.1
+2,9:27,ORL,Jonathan Isaac,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,32,33,0.755,0.755,9:41
+2,8:31,WSH,Bub Carrington,Offensive Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,34,33,0.811,0.791,8:46
+2,7:18,WSH,Jordan Poole,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,38,33,0.871,0.871,7:19
+2,6:59,ORL,Caleb Houstan,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,40,33,0.862,0.884,7:10
+2,6:38,WSH,Jordan Poole,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,40,35,0.868,0.869,6:38
+2,6:11,ORL,Caleb Houstan,Loose Ball Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,40,35,0.852,0.852,6:11
+2,5:44,ORL,Cole Anthony,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,40,38,0.761,0.795,5:49
+2,4:27,WSH,Richaun Holmes,Loose Ball Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,42,41,0.786,0.787,4:27
+2,4:25,WSH,Justin Champagnie,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,42,41,0.818,0.786,4:27
+2,4:24,WSH,Bub Carrington,Technical Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,42,41,0.803,0.818,4:25
+2,1:25,ORL,Cole Anthony,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,45,46,0.665,0.717,1:25
+3,10:42,WSH,Jordan Poole,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,53,51,0.795,0.752,10:42
+3,10:25,WSH,Kyshawn George,Offensive Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,53,51,0.776,0.75,10:39
+3,9:34,WSH,Bilal Coulibaly,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,56,51,0.869,0.843,9:41
+3,7:57,WSH,Richaun Holmes,Offensive Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,64,51,0.955,0.945,8:03
+3,6:50,ORL,Wendell Carter Jr.,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,71,53,0.98,0.981,7:02
+3,6:27,ORL,Wendell Carter Jr.,Offensive Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,71,53,0.981,0.985,6:28
+3,5:48,ORL,Wendell Carter Jr.,Technical Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,71,55,0.967,0.972,5:49
+3,5:46,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,71,56,0.965,0.965,5:48
+3,5:23,ORL,Wendell Carter Jr.,Offensive Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,71,58,0.949,0.959,5:39
+3,2:31,WSH,Bilal Coulibaly,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,75,60,0.981,0.972,2:31
+3,2:15,WSH,Tristan Vukcevic,Loose Ball Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,76,60,0.988,0.983,2:15
+3,1:28,ORL,Tristan da Silva,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,78,60,0.981,0.988,1:33
+4,10:24,WSH,Corey Kispert,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,85,66,0.998,0.996,10:29
+4,10:16,ORL,Jett Howard,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,87,66,0.997,0.997,10:24
+4,8:58,WSH,Tristan Vukcevic,Loose Ball Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,87,66,0.999,0.999,8:58
+4,8:15,WSH,Jordan Poole,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,89,69,0.999,0.998,8:15
+4,8:05,ORL,Anthony Black,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,90,69,0.999,0.999,8:15
+4,8:02,ORL,Franz Wagner,Personal Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,90,69,0.998,0.999,8:05
+4,7:01,WSH,Richaun Holmes,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,90,69,0.999,0.999,7:10
+4,4:21,ORL,Anthony Black,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,102,79,0.999,0.999,4:21
+4,3:53,ORL,Anthony Black,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,102,80,0.999,0.999,4:02
+4,1:31,ORL,Anthony Black,Shooting Foul,Foul,John Goble,Intae Hwang,John Butler,ORL,110,85,0.999,0.999,1:51

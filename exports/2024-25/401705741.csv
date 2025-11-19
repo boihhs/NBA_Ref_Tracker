@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:55,NY,Mitchell Robinson,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,7,6,0.415,0.452,8:58
+1,8:32,CLE,Dean Wade,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,7,8,0.466,0.429,8:55
+1,7:33,NY,Josh Hart,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,13,8,0.521,0.559,7:42
+1,6:26,CLE,Isaac Okoro,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,16,12,0.603,0.564,6:34
+1,5:57,NY,Josh Hart,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,19,12,0.579,0.616,6:03
+1,5:32,CLE,Jarrett Allen,Loose Ball Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,19,14,0.59,0.595,5:32
+1,4:27,NY,Miles McBride,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,22,16,0.575,0.622,4:27
+1,1:36,NY,Miles McBride,Personal Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,36,22,0.769,0.801,1:46
+2,11:14,NY,Miles McBride,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,39,24,0.802,0.836,11:18
+2,9:41,CLE,Dean Wade,Personal Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,42,25,0.889,0.889,9:51
+2,6:04,CLE,Max Strus,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,51,33,0.934,0.917,6:22
+2,5:00,NY,Mikal Bridges,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,54,33,0.928,0.943,5:08
+2,4:23,NY,Josh Hart,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,54,35,0.916,0.925,4:23
+2,3:28,NY,Josh Hart,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,54,41,0.814,0.852,3:28
+2,2:27,CLE,Jaylon Tyson,Loose Ball Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,56,42,0.877,0.875,2:27
+3,10:58,NY,OG Anunoby,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,62,52,0.744,0.783,11:08
+3,10:31,NY,Jalen Brunson,Technical Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,62,54,0.708,0.759,10:58
+3,10:13,CLE,Darius Garland,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,64,54,0.835,0.79,10:13
+3,10:03,CLE,Darius Garland,Technical Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,65,56,0.813,0.794,10:04
+3,7:59,CLE,Evan Mobley,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,68,58,0.865,0.832,8:06
+3,7:22,NY,Mikal Bridges,Personal Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,72,60,0.861,0.86,7:33
+3,7:05,CLE,Isaac Okoro,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,72,60,0.909,0.884,7:06
+3,5:52,NY,OG Anunoby,Personal Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,74,64,0.823,0.848,5:58
+3,5:41,NY,OG Anunoby,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,74,64,0.78,0.823,5:52
+3,4:06,CLE,Isaac Okoro,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,77,71,0.793,0.742,4:19
+3,3:54,NY,Precious Achiuwa,Personal Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,79,71,0.724,0.78,4:06
+3,2:30,CLE,Craig Porter Jr.,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,79,76,0.7,0.637,2:35
+3,1:25,CLE,Craig Porter Jr.,Offensive Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,83,76,0.804,0.763,1:40
+3,0.0,CLE,Max Strus,Loose Ball Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,85,78,0.863,0.799,0.0
+4,11:01,NY,Precious Achiuwa,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,86,78,0.762,0.83,11:08
+4,8:59,CLE,Jaylon Tyson,Loose Ball Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,89,84,0.78,0.772,8:59
+4,8:42,CLE,Isaac Okoro,Personal Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,89,84,0.79,0.778,8:42
+4,5:26,CLE,Jaylon Tyson,Personal Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,92,94,0.417,0.396,5:33
+4,4:41,CLE,Evan Mobley,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,95,97,0.527,0.402,5:04
+4,3:55,NY,Mitchell Robinson,Shooting Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,96,97,0.288,0.408,4:11
+4,35.1,NY,Mitchell Robinson,Personal Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,102,106,0.039,0.121,46.1
+4,24.0,NY,Jalen Brunson,Personal Take Foul,Foul,James Williams,Marat Kogut,Brett Nansel,NY,102,106,0.028,0.075,26.1

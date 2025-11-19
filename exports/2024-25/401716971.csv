@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:59,OKC,Chet Holmgren,Loose Ball Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,0,0,0.489,0.539,11:27
+1,10:59,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,2,0,0.539,0.539,11:01
+1,10:52,OKC,Alex Caruso,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,2,0,0.539,0.539,10:59
+1,9:54,HOU,Dillon Brooks,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,5,2,0.628,0.59,10:05
+1,8:33,HOU,Amen Thompson,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,9,2,0.721,0.69,8:36
+1,7:50,OKC,Alex Caruso,Offensive Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,12,4,0.688,0.712,7:58
+1,5:06,HOU,Alperen Sengun,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,18,11,0.696,0.696,5:08
+1,5:00,HOU,Cam Whitmore,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,18,11,0.729,0.696,5:06
+1,4:48,OKC,Chet Holmgren,Defensive 3-Seconds Technical,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,20,11,0.724,0.719,5:00
+1,4:34,OKC,Luguentz Dort,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,20,11,0.68,0.719,4:48
+1,4:22,HOU,Tari Eason,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,20,13,0.731,0.698,4:34
+1,4:05,HOU,Jock Landale,Offensive Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,22,13,0.744,0.719,4:22
+1,3:23,OKC,Luguentz Dort,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,24,13,0.732,0.765,3:26
+1,1:41,OKC,Cason Wallace,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,27,18,0.705,0.751,1:41
+1,1:29,OKC,Aaron Wiggins,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,27,18,0.688,0.726,1:32
+1,20.2,HOU,Jock Landale,Offensive Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,29,20,0.756,0.729,29.1
+1,3.0,HOU,Tari Eason,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,29,20,0.785,0.756,20.2
+2,9:16,OKC,Isaiah Hartenstein,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,31,27,0.604,0.605,9:21
+2,8:49,HOU,Dillon Brooks,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,31,27,0.634,0.636,8:55
+2,7:40,OKC,Chet Holmgren,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,31,27,0.562,0.605,7:47
+2,7:01,HOU,Reed Sheppard,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,35,31,0.658,0.607,7:01
+2,6:30,OKC,Luguentz Dort,Loose Ball Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,35,31,0.609,0.608,6:30
+2,4:52,HOU,Dillon Brooks,Offensive Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,40,37,0.615,0.615,4:52
+2,4:43,HOU,Amen Thompson,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,40,37,0.658,0.615,4:52
+2,1:58,HOU,Alperen Sengun,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,51,44,0.777,0.741,2:08
+2,1:24,OKC,Jalen Williams,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,52,44,0.695,0.743,1:26
+2,47.1,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,56,44,0.824,0.844,47.1
+2,45.1,HOU,Tari Eason,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,56,45,0.873,0.844,45.1
+2,29.1,OKC,Jalen Williams,Loose Ball Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,57,45,0.809,0.845,29.1
+3,10:34,OKC,Isaiah Joe,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,62,49,0.874,0.877,10:41
+3,9:28,OKC,Aaron Wiggins,Loose Ball Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,65,51,0.898,0.897,9:28
+3,8:48,OKC,Dillon Jones,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,65,54,0.804,0.841,9:03
+3,8:27,OKC,Dillon Jones,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,65,56,0.748,0.793,8:32
+3,8:18,HOU,Alperen Sengun,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,65,58,0.767,0.768,8:27
+3,7:41,OKC,Dillon Jones,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,67,60,0.688,0.739,7:44
+3,7:30,HOU,Dillon Brooks,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,69,62,0.792,0.74,7:30
+3,7:16,OKC,Dillon Jones,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,69,62,0.69,0.741,7:26
+3,5:01,OKC,Ajay Mitchell,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,74,67,0.701,0.754,5:21
+3,2:15,OKC,Ajay Mitchell,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,78,76,0.499,0.57,2:32
+3,59.0,OKC,Dillon Jones,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,80,77,0.548,0.616,1:05
+4,8:59,OKC,Isaiah Joe,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,86,89,0.259,0.364,8:59
+4,5:59,HOU,Cam Whitmore,Loose Ball Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,93,95,0.406,0.397,5:59
+4,4:34,OKC,Malevy Leons,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,99,95,0.629,0.743,4:40
+4,3:32,HOU,Aaron Holiday,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,102,96,0.771,0.761,3:32
+4,2:40,OKC,Alex Ducas,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,104,99,0.602,0.625,2:50
+4,8.0,OKC,Ousmane Dieng,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,106,103,0.664,0.917,14.0
+4,6.2,OKC,Adam Flagler,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,106,103,0.714,0.664,8.0
+4,1.1,OKC,Dillon Jones,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,106,103,0.925,0.966,1.1
+5,4:12,OKC,Ajay Mitchell,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,108,108,0.342,0.465,4:21
+5,4:06,HOU,Nate Williams,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,108,110,0.39,0.386,4:12
+5,2:49,OKC,Ajay Mitchell,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,108,113,0.059,0.116,3:04
+5,2:00,OKC,Malevy Leons,Offensive Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,108,115,0.033,0.061,2:08
+5,1:52,OKC,Ajay Mitchell,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,108,115,0.013,0.033,2:00
+5,24.1,HOU,Jack McVeigh,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Nate Cearley,OKC,111,119,0.029,0.008,27.2

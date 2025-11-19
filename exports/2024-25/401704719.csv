@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:47,ORL,Wendell Carter Jr.,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,6,11,0.615,0.619,9:09
+1,7:54,DAL,Luka Doncic,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,8,13,0.544,0.586,8:06
+1,5:23,ORL,Jalen Suggs,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,13,15,0.704,0.67,5:33
+1,5:03,DAL,Dereck Lively II,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,14,15,0.631,0.668,5:04
+1,3:10,ORL,Moritz Wagner,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,19,20,0.699,0.658,3:10
+1,1:02,DAL,Quentin Grimes,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,25,22,0.71,0.743,1:10
+1,3.0,ORL,Jonathan Isaac,Personal Take Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,27,22,0.829,0.801,7.1
+1,0.1,ORL,Jonathan Isaac,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,29,22,0.828,0.82,0.1
+2,11:46,ORL,Anthony Black,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,30,22,0.853,0.846,12:00
+2,11:04,DAL,Dereck Lively II,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,36,22,0.899,0.916,11:12
+2,10:09,DAL,Kyrie Irving,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,38,24,0.917,0.916,10:20
+2,7:32,ORL,Franz Wagner,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,42,26,0.951,0.937,7:32
+2,4:34,ORL,Franz Wagner,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,50,28,0.985,0.981,4:47
+2,3:05,ORL,Moritz Wagner,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,55,31,0.991,0.988,3:18
+2,2:41,DAL,Luka Doncic,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,58,31,0.992,0.992,2:55
+2,1:08,DAL,Luka Doncic,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,62,36,0.988,0.991,1:18
+2,49.0,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,62,38,0.993,0.99,1:02
+2,29.1,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,63,38,0.994,0.992,33.1
+3,9:27,DAL,Daniel Gafford,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,71,45,0.992,0.994,9:40
+3,8:45,DAL,Daniel Gafford,Loose Ball Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,73,47,0.994,0.995,8:45
+3,8:34,ORL,Moritz Wagner,Loose Ball Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,73,47,0.996,0.996,8:35
+3,8:10,DAL,Luka Doncic,Technical Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,75,49,0.991,0.995,8:10
+3,7:55,ORL,Moritz Wagner,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,75,50,0.995,0.995,7:55
+3,7:21,ORL,Franz Wagner,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,77,50,0.997,0.997,7:32
+3,7:06,DAL,Kyrie Irving,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,79,50,0.998,0.998,7:15
+3,6:05,ORL,Jalen Suggs,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,81,52,0.999,0.999,6:06
+3,2:22,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,82,58,0.998,0.997,2:35
+3,1:43,DAL,Quentin Grimes,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,83,60,0.994,0.996,1:51
+3,46.1,ORL,Jonathan Isaac,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,85,60,0.999,0.999,55.0
+3,30.1,DAL,Spencer Dinwiddie,Loose Ball Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,88,60,0.999,0.999,31.1
+4,11:26,ORL,Cole Anthony,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,88,61,0.999,0.999,11:34
+4,9:44,DAL,Dereck Lively II,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,95,63,0.999,0.999,9:55
+4,9:34,ORL,Anthony Black,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,95,64,0.999,0.999,9:42
+4,9:10,DAL,P.J. Washington,Offensive Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,97,66,0.999,0.999,9:20
+4,6:59,DAL,Naji Marshall,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,99,73,0.999,0.999,7:05
+4,5:46,ORL,Cole Anthony,Flagrant Foul Type 1,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,101,76,0.999,0.999,5:56
+4,5:14,DAL,Olivier-Maxence Prosper,Loose Ball Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,103,76,0.999,0.999,5:15
+4,4:40,ORL,Caleb Houstan,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,103,76,0.999,0.999,4:50
+4,4:16,DAL,Brandon Williams,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,103,76,0.999,0.999,4:29
+4,3:38,DAL,Dwight Powell,Loose Ball Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,103,78,0.999,0.999,3:38
+4,3:23,ORL,Jett Howard,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,103,79,0.999,0.999,3:38
+4,3:15,DAL,Jaden Hardy,Shooting Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,105,79,0.999,0.999,3:23
+4,2:37,DAL,Dwight Powell,Offensive Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,105,81,0.999,0.999,2:42
+4,1:25,DAL,Dwight Powell,Personal Foul,Foul,Ben Taylor,Aaron Smith,Pat O'Connell,DAL,108,81,0.999,0.999,1:25

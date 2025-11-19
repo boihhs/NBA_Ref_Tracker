@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:23,GS,Brandin Podziemski,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,4,8,0.516,0.518,9:28
+1,7:42,GS,Draymond Green,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,6,16,0.39,0.353,7:54
+1,7:02,HOU,Alperen Sengun,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,8,18,0.305,0.348,7:02
+1,5:55,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,8,18,0.383,0.316,6:04
+1,4:55,HOU,Dillon Brooks,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,11,20,0.34,0.338,5:00
+1,1:21,HOU,Tari Eason,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,15,36,0.07,0.086,1:21
+1,33.0,HOU,Amen Thompson,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,18,36,0.101,0.121,37.1
+2,11:30,HOU,Jock Landale,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,22,38,0.125,0.155,11:47
+2,10:20,HOU,Jalen Green,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,25,40,0.136,0.164,10:33
+2,10:03,GS,Kevon Looney,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,25,42,0.173,0.146,10:20
+2,10:01,GS,Kevon Looney,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,26,42,0.162,0.163,10:03
+2,9:20,HOU,Reed Sheppard,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,26,45,0.076,0.094,9:27
+2,8:23,HOU,Fred VanVleet,Loose Ball Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,28,48,0.062,0.077,8:23
+2,7:41,HOU,Jeff Green,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,28,50,0.042,0.056,7:52
+2,5:37,GS,Draymond Green,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,31,59,0.025,0.019,5:57
+2,5:11,HOU,Amen Thompson,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,35,59,0.024,0.032,5:22
+2,3:12,HOU,Tari Eason,Loose Ball Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,38,64,0.013,0.017,3:12
+2,1:43,HOU,Fred VanVleet,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,38,67,0.005,0.007,1:57
+2,1:34,GS,Brandin Podziemski,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,38,69,0.008,0.006,1:43
+3,11:02,HOU,Alperen Sengun,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,47,71,0.016,0.016,11:16
+3,10:33,GS,Brandin Podziemski,Loose Ball Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,47,73,0.012,0.012,10:33
+3,9:41,HOU,Jalen Green,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,49,75,0.005,0.008,9:50
+3,9:27,GS,Trayce Jackson-Davis,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,49,76,0.008,0.008,9:41
+3,9:10,HOU,Dillon Brooks,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,49,76,0.004,0.005,9:18
+3,7:26,HOU,Alperen Sengun,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,55,79,0.006,0.01,7:49
+3,7:10,GS,Draymond Green,Loose Ball Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,55,81,0.007,0.007,7:10
+3,6:44,HOU,Fred VanVleet,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,55,81,0.003,0.005,7:01
+3,6:29,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,55,82,0.007,0.005,6:44
+3,5:47,HOU,Dillon Brooks,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,59,82,0.006,0.01,5:56
+3,4:25,GS,Brandin Podziemski,Loose Ball Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,65,84,0.041,0.028,4:25
+3,3:41,HOU,Jabari Smith Jr.,Technical Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,67,86,0.016,0.025,3:41
+3,3:41,HOU,HOU,Technical Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,67,87,0.012,0.015,3:41
+3,2:28,HOU,Tari Eason,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,71,87,0.023,0.033,2:38
+3,2:07,HOU,Jalen Green,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,71,89,0.012,0.019,2:07
+3,40.2,HOU,Tari Eason,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,74,93,0.006,0.011,1:05
+3,7.1,HOU,Jalen Green,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,78,94,0.013,0.022,13.2
+4,10:56,GS,Buddy Hield,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,83,96,0.06,0.057,10:56
+4,10:35,GS,Draymond Green,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,88,96,0.217,0.139,10:35
+4,8:36,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,93,96,0.25,0.337,8:53
+4,7:46,HOU,Reed Sheppard,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,96,97,0.332,0.438,8:02
+4,7:07,HOU,Jabari Smith Jr.,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,98,98,0.459,0.482,7:25
+4,4:57,GS,Draymond Green,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,102,104,0.53,0.397,5:05
+4,4:11,GS,Gary Payton II,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,106,106,0.62,0.469,4:11
+4,3:17,HOU,Fred VanVleet,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,106,108,0.258,0.331,3:38
+4,1:47,GS,Buddy Hield,Loose Ball Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,110,114,0.327,0.207,1:58
+4,1:35,HOU,Fred VanVleet,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,110,114,0.07,0.14,1:47
+4,43.0,GS,Gary Payton II,Shooting Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,112,118,0.138,0.177,51.1
+4,33.2,HOU,Dillon Brooks,Personal Take Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,114,118,0.038,0.099,43.0
+4,28.1,HOU,Dillon Brooks,Personal Take Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,114,118,0.033,0.084,30.2
+4,8.1,GS,Draymond Green,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,117,119,0.464,0.308,15.0
+5,3:29,GS,Brandin Podziemski,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,119,121,0.382,0.38,3:42
+5,2:55,GS,Brandin Podziemski,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,119,123,0.23,0.225,3:05
+5,1:06,GS,Kevon Looney,Personal Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,121,127,0.169,0.072,1:18
+5,17.2,HOU,Fred VanVleet,Personal Take Foul,Foul,Curtis Blair,CJ Washington,Intae Hwang,HOU,121,127,0.003,0.014,18.1

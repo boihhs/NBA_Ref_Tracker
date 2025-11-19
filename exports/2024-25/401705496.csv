@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:22,LAL,Alex Len,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,2,5,0.351,0.318,10:29
+1,7:37,BKN,Ziaire Williams,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,7,7,0.334,0.37,7:49
+1,6:49,LAL,Luka Doncic,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,7,12,0.295,0.279,7:14
+1,4:18,BKN,Cameron Johnson,Loose Ball Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,13,21,0.2,0.198,4:18
+1,1:45,LAL,Dalton Knecht,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,13,26,0.155,0.131,2:05
+2,11:40,LAL,Alex Len,Loose Ball Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,16,28,0.143,0.143,11:40
+2,10:50,LAL,Jordan Goodwin,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,16,31,0.121,0.1,10:51
+2,9:26,LAL,Jordan Goodwin,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,22,34,0.166,0.141,9:46
+2,8:55,LAL,Alex Len,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,24,34,0.205,0.175,9:04
+2,8:32,BKN,Noah Clowney,Loose Ball Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,27,34,0.215,0.214,8:32
+2,5:26,LAL,Trey Jemison III,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,37,43,0.282,0.262,5:26
+2,3:35,BKN,Ziaire Williams,Personal Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,40,45,0.261,0.26,3:48
+2,2:28,LAL,Dalton Knecht,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,43,45,0.402,0.377,2:46
+2,1:33,BKN,Cameron Johnson,Personal Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,45,47,0.301,0.348,1:43
+3,9:33,LAL,Austin Reaves,Personal Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,52,50,0.534,0.535,9:40
+3,9:15,BKN,Ziaire Williams,Defensive 3-Seconds Technical,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,54,50,0.583,0.572,9:25
+3,7:54,LAL,Trey Jemison III,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,59,53,0.742,0.693,8:08
+3,6:43,BKN,D'Angelo Russell,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,61,58,0.488,0.547,6:50
+3,5:53,BKN,Nic Claxton,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,64,60,0.532,0.593,6:05
+3,5:33,BKN,Reece Beekman,Personal Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,64,61,0.554,0.554,5:36
+3,3:51,LAL,Jordan Goodwin,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,64,65,0.467,0.435,3:56
+3,3:36,BKN,Jalen Wilson,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,66,65,0.413,0.477,3:51
+3,37.2,BKN,Reece Beekman,Personal Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,77,77,0.37,0.442,1:00
+3,37.2,LAL,Luka Doncic,Technical Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,77,77,0.528,0.37,37.2
+4,10:23,BKN,Jalen Wilson,Personal Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,84,82,0.533,0.552,10:41
+4,10:17,LAL,Austin Reaves,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,84,82,0.691,0.599,10:21
+4,9:37,LAL,Gabe Vincent,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,86,82,0.793,0.714,9:42
+4,8:52,BKN,Nic Claxton,Loose Ball Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,87,85,0.548,0.566,8:52
+4,8:04,BKN,Ziaire Williams,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,87,85,0.452,0.562,8:07
+4,6:44,LAL,Trey Jemison III,Loose Ball Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,92,85,0.883,0.875,6:44
+4,5:14,BKN,Day'Ron Sharpe,Personal Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,95,87,0.836,0.895,5:35
+4,4:10,BKN,BKN,Delay Technical,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,97,91,0.845,0.833,4:10
+4,3:51,BKN,Keon Johnson,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,97,92,0.693,0.784,4:10
+4,2:12,LAL,Gabe Vincent,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,99,95,0.914,0.828,2:30
+4,1:22,BKN,D'Angelo Russell,Personal Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,104,98,0.834,0.91,1:31
+4,9.1,LAL,Gabe Vincent,Shooting Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,110,106,0.981,0.912,9.1
+4,2.1,LAL,Gabe Vincent,Personal Foul,Foul,John Goble,Ray Acosta,Jonathan Sterling,BKN,111,108,0.993,0.975,3.0

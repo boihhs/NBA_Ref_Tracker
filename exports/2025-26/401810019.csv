@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:22,MIA,Andrew Wiggins,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,4,12,0.478,0.432,9:22
+1,7:41,LAC,James Harden,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,13,14,0.569,0.607,7:54
+1,7:10,MIA,Norman Powell,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,18,15,0.738,0.701,7:10
+1,6:42,MIA,Pelle Larsson,Loose Ball Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,18,15,0.72,0.721,6:42
+1,4:58,MIA,Norman Powell,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,20,19,0.706,0.672,5:04
+1,1:33,LAC,John Collins,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,27,26,0.595,0.638,1:47
+1,1:12,LAC,Chris Paul,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,27,28,0.542,0.578,1:23
+2,10:33,MIA,Simone Fontecchio,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,37,36,0.676,0.627,10:33
+2,9:33,LAC,John Collins,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,40,43,0.485,0.541,9:33
+2,9:12,MIA,Nikola Jovic,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,40,44,0.551,0.509,9:33
+2,9:05,LAC,John Collins,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,43,44,0.569,0.567,9:12
+2,5:45,LAC,James Harden,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,50,54,0.458,0.457,5:57
+2,4:29,LAC,Derrick Jones Jr.,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,57,54,0.628,0.67,4:35
+2,4:18,MIA,Nikola Jovic,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,59,54,0.769,0.726,4:18
+2,4:12,LAC,Bradley Beal,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,60,56,0.678,0.727,4:12
+2,4:00,MIA,Davion Mitchell,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,60,56,0.763,0.727,4:04
+2,36.2,LAC,Kris Dunn,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,71,62,0.81,0.845,36.2
+2,7.3,LAC,Kris Dunn,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,71,63,0.766,0.805,27.3
+3,9:25,LAC,Ivica Zubac,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,76,72,0.696,0.692,9:34
+3,9:04,LAC,Bradley Beal,Offensive Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,76,74,0.626,0.662,9:14
+3,8:36,MIA,Bam Adebayo,Loose Ball Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,76,77,0.551,0.55,8:36
+3,7:45,LAC,Bradley Beal,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,79,82,0.402,0.469,7:45
+3,7:26,LAC,James Harden,Transition Take Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,79,82,0.427,0.427,7:26
+3,6:48,LAC,Kawhi Leonard,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,79,83,0.386,0.385,7:01
+3,6:44,LAC,Ivica Zubac,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,79,83,0.327,0.386,6:48
+3,5:29,LAC,Ivica Zubac,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,81,90,0.155,0.196,5:39
+3,4:29,MIA,Andrew Wiggins,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,81,91,0.233,0.188,4:38
+3,4:12,LAC,Kris Dunn,Offensive Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,83,94,0.129,0.156,4:20
+3,3:10,MIA,Andrew Wiggins,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,86,98,0.158,0.122,3:23
+3,2:54,LAC,Chris Paul,Loose Ball Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,88,98,0.105,0.143,3:10
+3,2:36,MIA,Kel'el Ware,Loose Ball Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,88,99,0.181,0.137,2:36
+3,32.0,MIA,Dru Smith,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,94,103,0.226,0.174,39.8
+4,10:23,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,100,105,0.392,0.305,10:33
+4,9:44,LAC,James Harden,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,105,105,0.492,0.512,9:55
+4,8:18,LAC,Brook Lopez,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,105,105,0.477,0.497,8:22
+4,4:52,LAC,Ivica Zubac,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,109,112,0.205,0.266,5:00
+4,4:27,LAC,Derrick Jones Jr.,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,111,113,0.211,0.315,4:38
+4,1:57,MIA,Davion Mitchell,Personal Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,113,116,0.419,0.264,2:23
+4,57.4,LAC,Ivica Zubac,Shooting Foul,Foul,Zach Zarba,Michael Smith,Ray Acosta,LAC,116,118,0.143,0.258,1:09

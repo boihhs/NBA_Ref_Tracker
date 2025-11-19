@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:57,LAC,James Harden,Personal Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,2,0,0.653,0.674,11:07
+1,1:30,CHI,Lonzo Ball,Offensive Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,13,20,0.407,0.379,1:44
+1,1:12,CHI,Lonzo Ball,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,13,20,0.449,0.407,1:30
+2,11:06,CHI,Dalen Terry,Loose Ball Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,20,25,0.456,0.456,11:06
+2,10:18,LAC,Nicolas Batum,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,22,25,0.436,0.482,10:29
+2,7:09,CHI,Jalen Smith,Personal Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,34,29,0.732,0.732,7:16
+2,6:48,LAC,Nicolas Batum,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,34,29,0.686,0.707,6:48
+2,5:43,CHI,Zach LaVine,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,37,33,0.744,0.707,6:09
+2,5:06,LAC,Terance Mann,Personal Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,38,36,0.62,0.619,5:06
+2,2:46,CHI,Josh Giddey,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,40,41,0.599,0.55,2:48
+2,2:11,LAC,Kris Dunn,Personal Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,44,41,0.597,0.647,2:17
+2,26.0,LAC,Derrick Jones Jr.,Personal Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,50,46,0.629,0.673,27.1
+3,10:18,LAC,Mo Bamba,Loose Ball Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,55,50,0.711,0.711,10:18
+3,8:19,LAC,Kris Dunn,Personal Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,57,56,0.569,0.57,8:28
+3,4:10,LAC,Nicolas Batum,Personal Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,62,68,0.273,0.271,4:13
+3,3:42,LAC,Amir Coffey,Personal Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,62,70,0.155,0.197,3:46
+3,3:30,LAC,Terance Mann,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,62,72,0.123,0.166,3:30
+3,2:14,CHI,Dalen Terry,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,62,76,0.095,0.069,2:25
+3,1:25,LAC,James Harden,Flagrant Foul Type 1,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,64,78,0.05,0.048,1:25
+3,12.1,LAC,Nicolas Batum,Loose Ball Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,66,82,0.014,0.022,12.1
+3,5.2,CHI,Jalen Smith,Personal Take Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,66,84,0.025,0.016,12.1
+4,11:43,CHI,Julian Phillips,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,66,84,0.026,0.014,11:46
+4,11:35,LAC,Nicolas Batum,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,68,84,0.012,0.021,11:43
+4,10:18,CHI,Nikola Vucevic,Loose Ball Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,68,86,0.013,0.011,10:18
+4,8:06,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,72,86,0.009,0.019,8:29
+4,7:49,CHI,Nikola Vucevic,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,74,88,0.034,0.015,7:49
+4,7:29,LAC,Amir Coffey,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,75,88,0.012,0.023,7:49
+4,6:33,CHI,Josh Giddey,Loose Ball Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,77,90,0.044,0.024,6:33
+4,6:18,LAC,Kobe Brown,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,77,90,0.009,0.017,6:28
+4,4:44,CHI,Patrick Williams,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,82,95,0.027,0.016,4:57
+4,3:56,LAC,Norman Powell,Personal Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,84,98,0.001,0.003,4:08
+4,3:50,CHI,Lonzo Ball,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,86,99,0.013,0.004,3:50
+4,3:35,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,87,99,0.003,0.008,3:50
+4,3:35,CHI,Josh Giddey,Clear Path Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,87,101,0.01,0.004,3:35
+4,3:24,CHI,Zach LaVine,Shooting Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,91,101,0.042,0.017,3:24
+4,3:17,LAC,Kobe Brown,Personal Foul,Foul,Kevin Scott,Brett Nansel,Mousa Dagher,LAC,92,101,0.013,0.029,3:24

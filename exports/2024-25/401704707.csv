@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,CHA,LaMelo Ball,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,3,2,0.332,0.33,11:05
+1,9:47,CHA,Josh Green,Loose Ball Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,6,4,0.359,0.359,9:47
+1,9:24,CHA,Brandon Miller,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,6,6,0.283,0.315,9:26
+1,9:09,BOS,Al Horford,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,6,8,0.327,0.294,9:24
+1,7:16,CHA,LaMelo Ball,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,7,13,0.175,0.199,7:30
+1,5:14,CHA,Moussa Diabate,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,12,21,0.131,0.152,5:36
+1,4:34,BOS,Neemias Queta,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,12,26,0.12,0.101,4:42
+1,3:01,BOS,Neemias Queta,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,13,28,0.107,0.09,3:16
+1,2:56,CHA,Moussa Diabate,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,14,30,0.064,0.08,2:56
+1,1:29,BOS,Jayson Tatum,Away from Play Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,19,30,0.163,0.139,1:29
+2,11:50,BOS,Luke Kornet,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,24,38,0.097,0.093,12:00
+2,11:29,CHA,Brandon Miller,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,24,40,0.061,0.075,11:29
+2,10:13,CHA,Taj Gibson,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,29,41,0.092,0.109,10:19
+2,9:23,CHA,Nick Smith Jr.,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,29,43,0.07,0.085,9:32
+2,5:08,BOS,Derrick White,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,35,56,0.031,0.031,5:21
+2,4:22,BOS,Al Horford,Offensive Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,38,59,0.03,0.025,4:27
+2,3:43,BOS,Payton Pritchard,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,40,59,0.053,0.041,3:48
+2,3:28,CHA,Tre Mann,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,42,59,0.038,0.048,3:43
+2,3:24,CHA,Brandon Miller,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,42,59,0.038,0.038,3:28
+2,1:04,CHA,Grant Williams,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,47,66,0.023,0.03,1:11
+2,43.1,BOS,Jayson Tatum,Offensive Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,50,68,0.043,0.037,58.1
+2,37.1,CHA,Miles Bridges,Offensive Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,50,68,0.036,0.043,43.1
+3,11:14,CHA,Josh Green,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,53,68,0.058,0.055,11:27
+3,7:49,BOS,Luke Kornet,Offensive Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,67,70,0.329,0.295,8:01
+3,7:42,BOS,Derrick White,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,67,70,0.331,0.329,7:49
+3,5:46,BOS,Payton Pritchard,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,67,75,0.173,0.173,5:51
+3,4:20,CHA,Grant Williams,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,69,75,0.155,0.195,4:29
+3,3:35,CHA,LaMelo Ball,Offensive Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,72,80,0.14,0.165,3:48
+3,3:20,CHA,Tre Mann,Loose Ball Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,72,80,0.139,0.139,3:20
+3,3:16,CHA,LaMelo Ball,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,72,80,0.106,0.139,3:20
+3,3:06,BOS,Neemias Queta,Loose Ball Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,72,80,0.162,0.164,3:06
+3,2:55,BOS,Sam Hauser,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,72,80,0.209,0.162,3:06
+4,9:02,CHA,Moussa Diabate,Offensive Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,79,87,0.096,0.125,9:15
+4,7:20,CHA,Grant Williams,Loose Ball Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,84,91,0.102,0.108,7:20
+4,7:12,CHA,Grant Williams,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,84,91,0.064,0.105,7:20
+4,4:36,BOS,Payton Pritchard,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,91,101,0.037,0.036,4:48
+4,4:26,BOS,Al Horford,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,91,101,0.038,0.037,4:36
+4,3:26,BOS,Jayson Tatum,Loose Ball Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,93,104,0.019,0.015,3:26
+4,2:43,CHA,LaMelo Ball,Shooting Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,93,104,0.003,0.006,2:55
+4,33.1,CHA,Grant Williams,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,99,110,0.001,0.001,47.1
+4,20.2,CHA,LaMelo Ball,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,101,110,0.001,0.001,22.1
+4,17.2,CHA,Brandon Miller,Personal Foul,Foul,Jason Goldenberg,Kevin Scott,John Butler,CHA,103,111,0.001,0.001,19.0

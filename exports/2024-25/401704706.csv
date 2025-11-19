@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:50,OKC,Isaiah Joe,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,0,0,0.299,0.298,12:00
+1,7:57,POR,Toumani Camara,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,10,11,0.243,0.272,8:08
+1,7:36,OKC,Isaiah Joe,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,10,13,0.254,0.253,7:57
+1,7:25,POR,Deni Avdija,Offensive Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,10,13,0.234,0.254,7:36
+1,6:49,POR,Toumani Camara,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,10,16,0.183,0.183,7:01
+1,5:59,OKC,Chet Holmgren,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,10,16,0.228,0.201,6:01
+1,3:18,OKC,Dillon Jones,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,14,26,0.134,0.114,3:41
+1,3:09,OKC,Alex Caruso,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,14,26,0.124,0.113,3:09
+1,2:03,OKC,Dillon Jones,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,15,29,0.108,0.091,2:12
+1,1:31,OKC,Dillon Jones,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,16,32,0.086,0.072,1:42
+1,35.1,OKC,Ajay Mitchell,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,24,35,0.151,0.113,35.1
+2,9:32,OKC,Aaron Wiggins,Defensive 3-Seconds Technical,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,29,44,0.075,0.077,9:36
+2,9:13,POR,Kris Murray,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,32,44,0.083,0.098,9:26
+2,8:53,OKC,Jalen Williams,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,32,46,0.088,0.088,8:53
+2,7:48,OKC,Alex Caruso,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,35,50,0.094,0.077,8:03
+2,3:20,POR,Jerami Grant,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,51,60,0.116,0.139,3:30
+2,3:07,OKC,Chet Holmgren,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,51,61,0.141,0.14,3:17
+2,41.1,OKC,Chet Holmgren,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,64,65,0.394,0.336,41.1
+3,10:30,OKC,Chet Holmgren,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,70,70,0.413,0.414,10:35
+3,9:59,OKC,Alex Caruso,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,70,72,0.345,0.346,10:10
+3,8:43,OKC,Jalen Williams,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,72,77,0.301,0.252,8:53
+3,7:41,POR,Deni Avdija,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,75,79,0.231,0.282,7:41
+3,6:47,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,75,80,0.304,0.253,6:53
+3,6:35,OKC,Alex Caruso,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,75,80,0.304,0.252,6:35
+3,5:52,OKC,Jalen Williams,Technical Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,77,80,0.349,0.284,5:52
+3,4:47,POR,Deandre Ayton,Offensive Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,78,85,0.162,0.19,4:58
+3,3:49,OKC,Luguentz Dort,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,78,89,0.125,0.095,3:56
+3,2:22,POR,Scoot Henderson,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,83,94,0.052,0.072,2:46
+3,48.1,OKC,Aaron Wiggins,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,83,101,0.02,0.014,1:00
+3,32.0,POR,Kris Murray,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,83,101,0.005,0.009,45.1
+4,11:34,POR,Donovan Clingan,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,85,106,0.001,0.002,11:41
+4,11:16,OKC,Isaiah Joe,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,85,108,0.001,0.001,11:16
+4,10:55,OKC,Ajay Mitchell,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,85,108,0.003,0.001,10:59
+4,10:40,POR,Donovan Clingan,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,87,108,0.001,0.002,10:55
+4,8:08,OKC,Ajay Mitchell,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,91,115,0.001,0.001,8:08
+4,7:40,POR,Rayan Rupert,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,94,115,0.001,0.001,7:47
+4,7:36,POR,Kris Murray,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,94,115,0.001,0.001,7:40
+4,6:52,POR,Donovan Clingan,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,94,115,0.001,0.001,7:04
+4,5:35,OKC,Dillon Jones,Personal Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,97,119,0.001,0.001,5:48
+4,5:28,OKC,Isaiah Joe,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,99,119,0.001,0.001,5:28
+4,3:29,OKC,Ousmane Dieng,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,103,126,0.001,0.001,3:40
+4,3:05,POR,Dalano Banton,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,104,128,0.001,0.001,3:05
+4,3:01,OKC,Malevy Leons,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,104,129,0.001,0.001,3:05
+4,2:21,OKC,Ousmane Dieng,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,108,129,0.001,0.001,2:21
+4,1:23,POR,Rayan Rupert,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,108,132,0.001,0.001,1:24
+4,38.0,OKC,Malevy Leons,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,113,135,0.001,0.001,45.1
+4,22.1,POR,Dalano Banton,Offensive Foul,Foul,J.T. Orr,Ben Taylor,Mousa Dagher,POR,114,137,0.001,0.001,22.1

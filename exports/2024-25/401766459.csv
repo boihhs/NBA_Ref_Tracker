@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:07,GS,Jimmy Butler III,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,0,2,0.552,0.552,11:23
+1,9:13,MEM,Zach Edey,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,2,11,0.429,0.39,9:24
+1,5:45,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,11,13,0.494,0.534,5:50
+1,4:56,MEM,Zach Edey,Offensive Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,16,16,0.611,0.586,5:06
+1,3:11,GS,Brandin Podziemski,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,22,16,0.696,0.731,3:22
+1,1:57,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,30,18,0.872,0.846,1:57
+1,1:38,GS,Quinten Post,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,31,18,0.837,0.86,1:57
+2,11:36,MEM,Desmond Bane,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,31,25,0.785,0.752,11:38
+2,10:45,MEM,Desmond Bane,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,35,27,0.795,0.797,10:59
+2,10:36,MEM,Vince Williams Jr.,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,37,27,0.844,0.815,10:36
+2,10:19,MEM,Vince Williams Jr.,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,38,27,0.871,0.848,10:19
+2,9:02,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,43,30,0.843,0.869,9:08
+2,8:16,MEM,Desmond Bane,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,45,33,0.879,0.853,8:16
+2,7:19,GS,Gui Santos,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,51,35,0.912,0.911,7:19
+2,6:53,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,54,35,0.939,0.943,6:53
+2,6:16,GS,Gary Payton II,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,55,37,0.92,0.935,6:21
+2,5:11,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,55,44,0.884,0.86,5:20
+2,3:28,GS,Jimmy Butler III,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,59,50,0.788,0.826,3:28
+2,3:11,MEM,Santi Aldama,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,59,51,0.836,0.803,3:28
+2,2:23,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,62,51,0.892,0.869,2:23
+2,2:00,GS,Quinten Post,Loose Ball Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,64,51,0.858,0.884,2:00
+2,1:17,GS,Draymond Green,Offensive Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,67,53,0.902,0.916,1:28
+3,10:40,MEM,Zach Edey,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,69,57,0.918,0.895,10:52
+3,9:10,MEM,Zach Edey,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,73,62,0.908,0.884,9:28
+3,9:05,GS,Draymond Green,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,74,64,0.827,0.866,9:05
+3,7:47,GS,Kevon Looney,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,76,69,0.75,0.801,7:47
+3,7:11,MEM,Santi Aldama,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,76,72,0.759,0.712,7:25
+3,4:37,GS,Quinten Post,Offensive Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,82,78,0.68,0.717,4:49
+3,4:25,GS,Quinten Post,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,82,80,0.57,0.642,4:25
+3,4:23,MEM,John Konchar,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,82,81,0.663,0.604,4:25
+3,3:21,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,85,83,0.703,0.643,3:31
+3,2:33,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,87,85,0.706,0.644,2:42
+3,2:05,MEM,Luke Kennard,Loose Ball Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,89,85,0.782,0.728,2:05
+3,1:46,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,90,85,0.817,0.724,1:50
+3,5.0,GS,Jimmy Butler III,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,94,91,0.576,0.647,10.1
+4,9:43,MEM,Desmond Bane,Offensive Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,96,96,0.549,0.498,9:47
+4,9:26,MEM,Zach Edey,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,96,96,0.566,0.549,9:43
+4,9:01,GS,Gary Payton II,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,98,96,0.594,0.609,9:17
+4,7:32,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,100,101,0.554,0.489,7:37
+4,6:13,GS,Draymond Green,Loose Ball Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,107,103,0.723,0.738,6:13
+4,5:36,GS,Moses Moody,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,109,105,0.717,0.737,5:45
+4,3:21,GS,Brandin Podziemski,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,111,108,0.56,0.696,3:28
+4,2:29,GS,Jimmy Butler III,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,111,108,0.564,0.687,2:45
+4,1:09,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,114,111,0.902,0.802,1:27
+4,58.1,GS,Draymond Green,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,117,111,0.846,0.925,59.1
+4,37.0,GS,Brandin Podziemski,Shooting Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,117,113,0.784,0.838,40.1
+4,14.1,GS,Kevon Looney,Loose Ball Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,117,114,0.614,0.82,14.1
+4,5.1,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,117,116,0.935,0.713,10.1
+4,3.1,MEM,Santi Aldama,Personal Foul,Foul,Bill Kennedy,Josh Tiven,Nick Buchert,GS,119,116,0.991,0.957,5.1

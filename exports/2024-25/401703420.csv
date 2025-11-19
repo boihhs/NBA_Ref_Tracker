@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:01,WSH,Malcolm Brogdon,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,13,6,0.942,0.938,8:08
+1,7:43,CLE,Isaac Okoro,Offensive Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,16,6,0.949,0.954,7:51
+1,7:11,CLE,Jarrett Allen,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,19,6,0.959,0.962,7:11
+1,6:48,CLE,Darius Garland,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,19,8,0.945,0.953,6:52
+1,5:19,WSH,Bub Carrington,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,19,12,0.942,0.933,5:27
+1,5:15,CLE,Darius Garland,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,21,12,0.939,0.939,5:19
+1,4:56,WSH,Jordan Poole,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,21,14,0.932,0.932,5:03
+1,3:32,WSH,Kyshawn George,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,29,16,0.966,0.959,3:32
+1,2:58,WSH,Jordan Poole,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,29,16,0.969,0.963,3:19
+1,36.0,CLE,Georges Niang,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,33,18,0.962,0.966,36.0
+1,3.1,WSH,Alex Sarr,Offensive Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,33,20,0.961,0.955,13.0
+1,1.1,WSH,Malcolm Brogdon,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,33,20,0.967,0.961,3.1
+2,9:18,WSH,Corey Kispert,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,38,22,0.973,0.972,9:20
+2,7:50,CLE,Georges Niang,Loose Ball Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,38,22,0.968,0.968,7:54
+2,6:42,WSH,Jordan Poole,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,38,26,0.951,0.951,6:54
+2,6:32,CLE,Sam Merrill,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,38,26,0.932,0.944,6:35
+2,6:30,WSH,Bub Carrington,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,38,28,0.936,0.937,6:32
+2,6:06,CLE,Sam Merrill,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,40,28,0.944,0.944,6:15
+2,4:44,CLE,Sam Merrill,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,47,28,0.974,0.98,4:47
+2,4:17,WSH,Marvin Bagley III,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,47,28,0.987,0.983,4:25
+2,3:54,CLE,Georges Niang,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,48,30,0.973,0.979,3:54
+2,2:43,CLE,Darius Garland,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,53,33,0.978,0.983,2:52
+2,1:22,CLE,Georges Niang,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,60,38,0.985,0.989,1:31
+3,10:34,WSH,Jordan Poole,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,67,44,0.995,0.992,10:34
+3,9:31,CLE,Evan Mobley,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,70,44,0.996,0.996,9:31
+3,8:34,WSH,Bilal Coulibaly,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,70,47,0.995,0.995,8:56
+3,8:08,CLE,Evan Mobley,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,70,47,0.991,0.994,8:11
+3,6:02,WSH,Bilal Coulibaly,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,72,50,0.994,0.995,6:02
+3,5:23,CLE,Donovan Mitchell,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,74,52,0.99,0.993,5:35
+3,4:22,CLE,Donovan Mitchell,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,76,53,0.993,0.996,4:36
+3,4:12,CLE,Jarrett Allen,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,76,53,0.994,0.993,4:22
+3,3:11,WSH,Anthony Gill,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,78,56,0.997,0.996,3:20
+3,2:45,WSH,Bilal Coulibaly,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,80,58,0.998,0.996,2:57
+3,1:46,WSH,Bub Carrington,Offensive Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,84,61,0.998,0.997,2:03
+3,1:36,WSH,Bilal Coulibaly,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,84,61,0.998,0.998,1:46
+3,49.1,CLE,Georges Niang,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,86,63,0.996,0.997,58.1
+4,10:08,CLE,Dean Wade,Personal Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,89,70,0.995,0.995,10:22
+4,8:08,WSH,Jared Butler,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,92,72,0.999,0.998,8:15
+4,7:38,WSH,Alex Sarr,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,94,72,0.999,0.999,7:48
+4,6:51,WSH,Alex Sarr,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,97,74,0.999,0.999,6:56
+4,6:39,CLE,Donovan Mitchell,Defensive 3-Seconds Technical,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,99,74,0.999,0.999,6:51
+4,6:05,CLE,Isaac Okoro,Shooting Foul,Foul,Sean Wright,Eric Dalen,J.D. Ralls,CLE,99,77,0.999,0.999,6:05

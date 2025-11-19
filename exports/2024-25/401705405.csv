@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:15,WSH,Kyshawn George,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,0,2,0.329,0.366,11:15
+1,11:11,WSH,Khris Middleton,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,0,2,0.345,0.344,11:12
+1,10:57,POR,Toumani Camara,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,0,2,0.368,0.369,11:00
+1,10:52,POR,Deni Avdija,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,0,2,0.404,0.368,10:57
+1,9:25,WSH,Richaun Holmes,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,6,9,0.308,0.346,9:25
+1,8:32,POR,Toumani Camara,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,6,10,0.36,0.325,8:39
+1,6:55,POR,Scoot Henderson,Personal Take Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,12,12,0.463,0.424,6:58
+1,6:45,POR,Donovan Clingan,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,14,12,0.497,0.45,6:45
+1,6:12,WSH,Richaun Holmes,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,15,12,0.439,0.478,6:15
+1,4:17,WSH,Corey Kispert,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,20,21,0.359,0.375,4:17
+1,4:09,POR,Jabari Walker,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,22,22,0.453,0.405,4:09
+1,3:12,POR,Jabari Walker,Loose Ball Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,23,22,0.5,0.464,3:12
+1,1:39,POR,POR,Technical Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,24,26,0.401,0.381,1:40
+1,9.0,POR,Kris Murray,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,25,31,0.315,0.282,29.0
+1,1.1,WSH,Kyshawn George,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,27,33,0.239,0.281,1.1
+2,10:08,WSH,Marcus Smart,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,33,34,0.344,0.383,10:26
+2,8:19,WSH,Corey Kispert,Loose Ball Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,33,38,0.278,0.279,8:19
+2,6:05,POR,Scoot Henderson,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,37,40,0.363,0.363,6:12
+2,5:55,POR,Toumani Camara,Loose Ball Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,39,40,0.422,0.392,5:55
+2,4:40,WSH,Khris Middleton,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,42,43,0.371,0.393,4:57
+2,4:21,POR,Donovan Clingan,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,42,45,0.41,0.406,7:18
+2,4:09,POR,Jerami Grant,Offensive Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,44,45,0.427,0.395,4:21
+2,3:21,WSH,Richaun Holmes,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,46,45,0.411,0.461,3:32
+2,2:48,POR,Donovan Clingan,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,48,47,0.547,0.495,2:48
+2,1:07,POR,Scoot Henderson,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,48,53,0.348,0.303,1:24
+3,10:55,WSH,Jordan Poole,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,56,59,0.307,0.364,10:55
+3,10:46,POR,Shaedon Sharpe,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,56,59,0.366,0.365,10:53
+3,9:41,POR,Donovan Clingan,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,63,61,0.575,0.51,9:41
+3,8:06,POR,Anfernee Simons,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,67,63,0.682,0.629,8:18
+3,7:44,POR,Donovan Clingan,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,70,65,0.694,0.632,7:44
+3,6:24,POR,Toumani Camara,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,73,69,0.697,0.639,6:29
+3,6:09,POR,Shaedon Sharpe,Loose Ball Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,73,69,0.699,0.601,6:22
+3,5:39,WSH,Tristan Vukcevic,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,75,73,0.493,0.567,5:39
+3,5:19,WSH,Marcus Smart,Offensive Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,75,73,0.525,0.567,5:27
+3,2:29,POR,Scoot Henderson,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,82,83,0.517,0.447,2:43
+3,2:14,WSH,Tristan Vukcevic,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,83,83,0.379,0.446,2:29
+3,1:40,POR,Jabari Walker,Transition Take Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,86,85,0.544,0.544,1:40
+4,11:40,POR,Dalano Banton,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,88,94,0.233,0.218,12:00
+4,9:26,POR,Scoot Henderson,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,92,98,0.293,0.212,9:38
+4,7:43,WSH,Corey Kispert,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,99,102,0.284,0.297,7:55
+4,6:17,WSH,Corey Kispert,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,101,106,0.112,0.178,6:25
+4,5:16,WSH,Corey Kispert,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,105,111,0.068,0.122,5:33
+4,3:30,WSH,Kyshawn George,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,110,116,0.045,0.087,3:39
+4,2:46,WSH,Jordan Poole,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,112,116,0.08,0.144,3:00
+4,2:28,POR,Shaedon Sharpe,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,112,117,0.2,0.133,2:32
+4,2:06,WSH,Bilal Coulibaly,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,114,119,0.06,0.125,2:06
+4,1:53,POR,Toumani Camara,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,114,119,0.237,0.124,2:04
+4,1:27,WSH,Marcus Smart,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,114,119,0.04,0.083,1:39
+4,1:13,WSH,Marcus Smart,Technical Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,117,121,0.086,0.123,1:14
+4,55.1,WSH,Kyshawn George,Shooting Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,117,122,0.029,0.075,1:13
+4,48.0,WSH,Jordan Poole,Personal Take Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,117,124,0.005,0.017,53.1
+4,43.0,POR,Toumani Camara,Personal Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,117,125,0.046,0.019,48.0
+4,38.0,WSH,Marcus Smart,Personal Take Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,119,125,0.009,0.03,43.0
+4,33.1,WSH,Kyshawn George,Personal Take Foul,Foul,Michael Smith,Tre Maddox,Tyler Ford,WSH,119,127,0.001,0.004,34.1

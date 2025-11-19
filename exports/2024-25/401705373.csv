@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:18,BKN,Ziaire Williams,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,2,0,0.789,0.764,11:24
+1,10:14,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,7,2,0.796,0.795,10:28
+1,8:43,PHI,Quentin Grimes,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,10,8,0.705,0.737,9:01
+1,8:31,BKN,Keon Johnson,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,10,10,0.714,0.716,8:43
+1,7:24,PHI,Paul George,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,13,14,0.649,0.688,7:24
+1,5:44,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,15,20,0.512,0.555,6:00
+1,4:36,BKN,Cameron Johnson,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,17,25,0.535,0.493,4:40
+1,1:10,BKN,Reece Beekman,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,24,34,0.452,0.409,1:36
+1,59.2,PHI,Tyrese Maxey,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,26,34,0.387,0.433,1:10
+1,17.0,BKN,Day'Ron Sharpe,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,28,37,0.473,0.43,31.1
+1,15.0,BKN,Trendon Watford,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,28,37,0.451,0.428,15.0
+1,15.0,PHI,Andre Drummond,Technical Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,28,37,0.375,0.451,15.0
+2,11:17,PHI,Andre Drummond,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,30,40,0.361,0.361,11:19
+2,11:05,PHI,Andre Drummond,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,30,40,0.34,0.361,11:17
+2,10:33,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,32,42,0.383,0.357,10:53
+2,9:40,PHI,Andre Drummond,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,34,42,0.409,0.405,9:48
+2,9:13,BKN,Day'Ron Sharpe,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,34,42,0.434,0.436,9:22
+2,8:19,BKN,Keon Johnson,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,34,45,0.381,0.337,8:40
+2,6:55,BKN,Killian Hayes,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,39,50,0.319,0.321,6:57
+2,5:36,PHI,Joel Embiid,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,41,52,0.294,0.308,5:36
+2,4:22,BKN,Ziaire Williams,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,41,55,0.253,0.215,4:31
+2,2:36,BKN,Cameron Johnson,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,45,60,0.211,0.173,2:41
+2,2:29,PHI,Tyrese Maxey,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,47,60,0.159,0.195,2:36
+3,9:59,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,52,65,0.12,0.155,10:18
+3,9:50,BKN,Keon Johnson,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,52,67,0.163,0.129,9:59
+3,8:53,BKN,Ziaire Williams,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,56,71,0.135,0.1,8:53
+3,8:41,PHI,Tyrese Maxey,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,57,71,0.12,0.119,8:53
+3,7:28,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,59,71,0.153,0.152,7:42
+3,4:46,BKN,Keon Johnson,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,65,75,0.229,0.173,4:46
+3,3:17,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,68,77,0.271,0.219,3:18
+3,2:22,BKN,Trendon Watford,Technical Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,70,79,0.231,0.206,2:22
+4,8:47,BKN,Cameron Johnson,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,80,89,0.192,0.131,9:03
+4,7:23,BKN,Nic Claxton,Offensive Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,84,89,0.274,0.228,7:36
+4,6:13,PHI,Guerschon Yabusele,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,86,91,0.159,0.249,6:13
+4,4:24,BKN,Ziaire Williams,Personal Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,92,94,0.423,0.409,4:24
+4,1:08,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Marc Davis,Justin Van Duyne,J.D. Ralls,PHI,100,102,0.128,0.221,1:10

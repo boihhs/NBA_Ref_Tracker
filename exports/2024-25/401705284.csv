@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:38,DET,Jalen Duren,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,0,3,0.412,0.408,10:51
+1,9:10,DET,Cade Cunningham,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,5,8,0.411,0.408,9:11
+1,8:29,DET,Jalen Duren,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,7,11,0.346,0.383,8:38
+1,7:44,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,7,15,0.346,0.309,7:58
+1,41.1,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,24,31,0.358,0.317,55.1
+1,33.1,DET,Marcus Sasser,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,26,33,0.273,0.318,33.1
+2,9:39,DET,Ronald Holland II,Loose Ball Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,30,37,0.285,0.283,9:42
+2,9:36,DET,Paul Reed,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,30,39,0.22,0.258,9:36
+2,8:20,DET,Simone Fontecchio,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,37,45,0.259,0.256,8:30
+2,7:41,DET,Ronald Holland II,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,37,47,0.178,0.208,7:47
+2,7:27,CLE,Sam Merrill,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,37,48,0.207,0.206,7:40
+2,6:33,CLE,Sam Merrill,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,42,48,0.376,0.333,6:36
+2,6:04,DET,Cade Cunningham,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,44,50,0.281,0.332,6:04
+2,5:48,CLE,Craig Porter Jr.,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,44,51,0.346,0.303,6:04
+2,4:46,DET,Cade Cunningham,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,48,54,0.258,0.328,4:46
+2,3:38,CLE,Max Strus,Loose Ball Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,51,60,0.28,0.239,3:38
+2,3:02,CLE,Caris LeVert,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,53,60,0.316,0.261,3:02
+2,2:24,DET,Jalen Duren,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,56,62,0.266,0.322,2:24
+2,1:47,CLE,Darius Garland,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,56,63,0.335,0.287,1:49
+3,10:55,DET,Ausar Thompson,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,58,65,0.205,0.242,11:12
+3,10:41,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,58,66,0.292,0.246,10:52
+3,8:50,DET,Jalen Duren,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,63,70,0.237,0.235,9:00
+3,8:50,CLE,Darius Garland,Offensive Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,63,70,0.267,0.237,8:50
+3,8:44,CLE,Caris LeVert,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,63,70,0.266,0.267,8:50
+3,6:55,CLE,Max Strus,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,69,73,0.419,0.363,7:03
+3,5:01,CLE,Sam Merrill,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,73,77,0.415,0.356,5:17
+3,4:08,DET,Cade Cunningham,Transition Take Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,76,77,0.433,0.478,3:53
+3,3:50,DET,DET,Technical Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,76,78,0.359,0.39,3:50
+3,2:53,CLE,Georges Niang,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,76,79,0.455,0.389,2:57
+3,1:36,DET,Malik Beasley,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,80,81,0.36,0.426,1:39
+4,11:10,DET,Paul Reed,Loose Ball Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,83,86,0.308,0.319,11:10
+4,11:04,DET,Paul Reed,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,83,86,0.301,0.308,11:10
+4,11:01,CLE,Ty Jerome,Offensive Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,83,86,0.359,0.301,11:04
+4,10:02,DET,Paul Reed,Flagrant Foul Type 1,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,83,88,0.213,0.216,10:08
+4,9:28,CLE,Georges Niang,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,83,93,0.089,0.085,9:43
+4,5:41,CLE,Georges Niang,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,92,100,0.099,0.094,5:51
+4,4:13,CLE,Darius Garland,Personal Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,97,103,0.16,0.148,4:35
+4,3:40,CLE,Darius Garland,Technical Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,97,105,0.091,0.068,3:40
+4,3:30,CLE,Sam Merrill,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,98,105,0.171,0.098,3:40
+4,56.0,CLE,Jarrett Allen,Flagrant Foul Type 2,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,102,110,0.018,0.156,2:03
+4,56.0,DET,Ausar Thompson,Technical Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,102,110,0.006,0.024,56.0
+4,56.0,DET,Malik Beasley,Technical Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,102,110,0.006,0.006,56.0
+4,27.1,DET,Ausar Thompson,Personal Take Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,106,112,0.005,0.019,43.0
+4,12.1,DET,Ausar Thompson,Personal Take Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,109,112,0.032,0.096,16.1
+4,7.1,CLE,Georges Niang,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,109,113,0.171,0.102,12.1
+4,6.0,DET,Malik Beasley,Personal Take Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,112,113,0.074,0.208,7.1
+4,5.0,CLE,Evan Mobley,Shooting Foul,Foul,Curtis Blair,Brett Nansel,Nick Buchert,DET,112,115,0.19,0.102,6.0

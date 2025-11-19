@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:13,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,2,0,0.36,0.395,11:38
+1,11:03,MIN,Mike Conley,Personal Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,2,3,0.346,0.348,11:13
+1,10:58,MIN,Julius Randle,Personal Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,2,3,0.346,0.346,11:03
+1,10:50,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,2,3,0.381,0.346,10:58
+1,9:46,MIN,Mike Conley,Loose Ball Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,6,3,0.486,0.447,9:48
+1,8:49,DAL,Kyrie Irving,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,6,3,0.389,0.423,8:51
+1,7:33,DAL,P.J. Washington,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,6,6,0.323,0.355,7:41
+1,6:45,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,8,8,0.421,0.382,7:00
+1,4:02,DAL,Kyrie Irving,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,11,13,0.283,0.318,4:19
+1,39.1,MIN,Rob Dillingham,Personal Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,21,17,0.559,0.516,44.1
+2,11:19,MIN,Naz Reid,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,22,19,0.539,0.496,11:24
+2,8:40,DAL,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,30,24,0.521,0.566,8:44
+2,8:18,MIN,Naz Reid,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,30,26,0.584,0.538,8:40
+2,5:03,DAL,Quentin Grimes,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,38,40,0.295,0.336,5:07
+2,3:31,DAL,Kyrie Irving,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,45,47,0.296,0.337,3:45
+2,2:50,DAL,P.J. Washington,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,47,49,0.319,0.338,3:11
+2,2:18,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,49,51,0.296,0.341,2:32
+3,10:37,DAL,Daniel Gafford,Loose Ball Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,57,58,0.378,0.377,10:37
+3,10:09,DAL,P.J. Washington,Personal Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,57,61,0.281,0.28,10:11
+3,7:57,MIN,Rudy Gobert,Defensive 3-Seconds Technical,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,63,67,0.303,0.311,8:09
+3,6:53,DAL,P.J. Washington,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,70,70,0.365,0.421,6:56
+3,6:19,DAL,Maxi Kleber,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,72,72,0.394,0.423,6:19
+3,4:33,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,74,81,0.159,0.205,4:33
+3,2:58,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,78,82,0.308,0.308,2:58
+3,2:15,MIN,Rudy Gobert,Personal Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,78,84,0.232,0.233,2:30
+3,56.0,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,80,84,0.368,0.303,1:01
+3,43.0,DAL,Daniel Gafford,Loose Ball Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,80,84,0.203,0.258,44.0
+4,9:42,MIN,Jaden McDaniels,Personal Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,87,96,0.115,0.108,9:48
+4,6:00,MIN,Naz Reid,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,95,101,0.213,0.128,6:00
+4,6:00,MIN,Naz Reid,Technical Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,95,101,0.205,0.213,6:00
+4,5:52,MIN,Julius Randle,Offensive Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,97,101,0.265,0.215,6:00
+4,5:19,DAL,Spencer Dinwiddie,Loose Ball Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,100,101,0.379,0.387,5:19
+4,4:29,MIN,Julius Randle,Personal Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,100,106,0.165,0.147,4:31
+4,4:23,MIN,Mike Conley,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,100,106,0.243,0.165,4:29
+4,3:02,DAL,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,102,110,0.02,0.071,3:08
+4,2:28,MIN,Julius Randle,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,102,111,0.068,0.034,2:33
+4,1:53,MIN,Julius Randle,Loose Ball Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,104,111,0.129,0.068,1:53
+4,38.0,DAL,P.J. Washington,Shooting Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,108,111,0.072,0.185,59.1
+4,11.1,DAL,Quentin Grimes,Personal Take Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,111,112,0.125,0.384,21.1
+4,3.0,DAL,Maxi Kleber,Personal Take Foul,Foul,Pat Fraher,Nate Green,Evan Scott,DAL,111,114,0.008,0.023,3.0

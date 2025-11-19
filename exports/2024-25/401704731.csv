@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:52,IND,Bennedict Mathurin,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,0,5,0.657,0.625,11:13
+1,10:24,DAL,P.J. Washington,Offensive Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,2,5,0.641,0.668,10:40
+1,9:06,DAL,Daniel Gafford,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,2,8,0.52,0.558,9:10
+1,7:48,DAL,Luka Doncic,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,5,17,0.367,0.416,7:48
+1,7:00,IND,Tyrese Haliburton,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,7,18,0.476,0.437,7:17
+1,5:04,IND,Bennedict Mathurin,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,13,21,0.545,0.505,5:12
+1,3:52,DAL,Daniel Gafford,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,17,23,0.478,0.551,3:58
+1,3:21,IND,Ben Sheppard,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,19,25,0.568,0.518,3:21
+1,1:33,DAL,Spencer Dinwiddie,Personal Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,27,30,0.55,0.593,1:39
+1,1.1,IND,Pascal Siakam,Personal Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,27,36,0.478,0.436,13.1
+2,6:38,DAL,P.J. Washington,Loose Ball Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,41,45,0.513,0.511,6:38
+2,4:31,IND,Jarace Walker,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,47,49,0.641,0.595,4:39
+2,3:52,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,51,51,0.574,0.621,4:03
+2,3:00,DAL,Kyrie Irving,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,51,52,0.538,0.585,3:02
+2,5.2,DAL,Naji Marshall,Personal Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,59,61,0.514,0.535,7.0
+3,10:37,DAL,Kyrie Irving,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,64,65,0.505,0.56,10:45
+3,10:01,IND,Andrew Nembhard,Personal Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,67,67,0.628,0.632,10:12
+3,8:58,DAL,Kyrie Irving,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,67,73,0.333,0.397,8:58
+3,8:49,IND,Bennedict Mathurin,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,67,74,0.415,0.36,8:58
+3,7:30,IND,Andrew Nembhard,Personal Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,70,79,0.271,0.273,7:31
+3,7:25,IND,Andrew Nembhard,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,70,79,0.324,0.271,7:30
+3,6:53,IND,Obi Toppin,Loose Ball Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,74,79,0.477,0.414,6:54
+3,6:49,DAL,Daniel Gafford,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,75,79,0.355,0.414,6:53
+3,5:25,IND,Myles Turner,Offensive Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,80,85,0.401,0.36,5:32
+3,5:17,IND,Obi Toppin,Personal Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,80,85,0.463,0.401,5:25
+3,3:53,IND,Jarace Walker,Personal Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,84,89,0.451,0.387,4:02
+3,3:44,DAL,Quentin Grimes,Personal Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,86,89,0.362,0.426,3:53
+4,10:34,IND,Ben Sheppard,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,99,100,0.62,0.532,10:46
+4,7:02,DAL,Naji Marshall,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,111,114,0.269,0.385,7:02
+4,6:52,IND,Myles Turner,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,111,114,0.49,0.38,7:00
+4,6:13,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,114,116,0.308,0.439,6:13
+4,4:45,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,116,118,0.227,0.342,4:58
+4,1:54,DAL,Luka Doncic,Personal Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,120,129,0.003,0.01,1:58
+4,1:47,DAL,Luka Doncic,Shooting Foul,Foul,Matt Boland,Scott Foster,Ray Acosta,DAL,120,129,0.003,0.003,1:54

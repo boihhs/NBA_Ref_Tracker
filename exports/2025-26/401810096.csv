@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:38,CLE,Sam Merrill,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,0,0,0.714,0.714,11:42
+1,10:15,MIL,AJ Green,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,2,8,0.589,0.589,10:22
+1,9:20,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,4,11,0.558,0.532,9:36
+1,8:32,CLE,De'Andre Hunter,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,6,13,0.527,0.525,8:35
+1,8:19,MIL,Ryan Rollins,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,6,13,0.551,0.552,8:20
+1,7:36,MIL,Ryan Rollins,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,8,18,0.506,0.465,7:44
+1,6:58,CLE,De'Andre Hunter,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,10,22,0.358,0.403,6:58
+2,11:30,MIL,Gary Harris,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,26,33,0.531,0.487,11:37
+2,8:04,CLE,Thomas Bryant,Technical Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,36,37,0.591,0.612,8:04
+2,7:46,CLE,Evan Mobley,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,36,38,0.535,0.582,7:48
+2,7:35,MIL,Myles Turner,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,36,39,0.624,0.583,7:42
+2,7:29,CLE,Nae'Qwan Tomlin,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,37,39,0.579,0.581,7:35
+2,6:25,MIL,Kyle Kuzma,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,42,42,0.702,0.664,6:33
+2,5:38,CLE,Lonzo Ball,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,44,44,0.629,0.66,5:45
+2,5:01,MIL,AJ Green,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,44,44,0.698,0.658,5:02
+2,4:00,MIL,Kyle Kuzma,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,46,47,0.666,0.62,4:00
+2,3:35,MIL,Ryan Rollins,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,47,47,0.693,0.652,3:39
+2,3:03,MIL,Giannis Antetokounmpo,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,49,49,0.691,0.649,3:13
+2,2:18,CLE,Evan Mobley,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,53,54,0.555,0.612,2:18
+2,1:44,CLE,Donovan Mitchell,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,55,55,0.561,0.609,1:44
+3,11:40,MIL,Kyle Kuzma,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,59,60,0.598,0.597,11:47
+3,7:58,CLE,Donovan Mitchell,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,70,68,0.652,0.652,7:59
+3,7:36,CLE,Evan Mobley,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,70,68,0.596,0.652,7:41
+3,7:03,CLE,De'Andre Hunter,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,72,69,0.684,0.685,7:21
+3,6:41,MIL,Kyle Kuzma,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,72,69,0.765,0.721,6:51
+3,5:55,MIL,Gary Trent Jr.,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,73,72,0.647,0.649,6:04
+3,3:40,CLE,Lonzo Ball,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,77,75,0.577,0.641,3:56
+3,2:04,MIL,Cole Anthony,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,81,82,0.616,0.548,2:11
+3,1:29,CLE,Donovan Mitchell,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,82,82,0.471,0.547,1:47
+4,9:24,MIL,Cole Anthony,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,95,91,0.782,0.773,9:30
+4,9:20,CLE,Donovan Mitchell,Offensive Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,95,91,0.729,0.782,9:24
+4,5:11,CLE,Lonzo Ball,Personal Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,108,99,0.938,0.94,5:20
+4,5:03,CLE,Lonzo Ball,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,108,99,0.895,0.938,5:11
+4,4:28,CLE,Evan Mobley,Offensive Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,108,101,0.894,0.924,4:37
+4,4:01,MIL,AJ Green,Shooting Foul,Foul,John Goble,Dedric Taylor,Suyash Mehta,CLE,108,101,0.963,0.932,4:03

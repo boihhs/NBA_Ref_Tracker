@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:35,SA,Julian Champagnie,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,2,0,0.579,0.539,11:35
+1,7:04,HOU,Dillon Brooks,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,13,13,0.467,0.511,7:04
+1,4:58,HOU,Alperen Sengun,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,17,14,0.568,0.568,4:58
+1,4:13,SA,Sandro Mamukelashvili,Loose Ball Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,17,19,0.459,0.46,4:15
+1,2:23,HOU,Tari Eason,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,25,19,0.651,0.65,2:35
+1,1:38,HOU,Steven Adams,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,27,22,0.584,0.626,1:50
+1,59.0,SA,Sandro Mamukelashvili,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,27,27,0.559,0.46,4:15
+2,11:14,SA,Sidy Cissoko,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,33,34,0.484,0.487,11:26
+2,9:30,HOU,Alperen Sengun,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,37,34,0.574,0.574,9:42
+2,8:07,SA,Blake Wesley,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,39,36,0.603,0.606,8:18
+2,5:23,HOU,Dillon Brooks,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,46,39,0.7,0.698,5:33
+2,4:56,SA,Zach Collins,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,46,39,0.766,0.728,5:07
+2,3:06,HOU,Fred VanVleet,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,58,39,0.939,0.938,3:17
+2,1:46,HOU,Tari Eason,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,63,42,0.947,0.96,1:47
+2,1:08,HOU,Amen Thompson,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,65,42,0.965,0.972,1:22
+2,44.1,HOU,Fred VanVleet,Technical Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,65,44,0.957,0.963,44.1
+2,36.2,HOU,Fred VanVleet,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,65,45,0.942,0.955,44.1
+2,2.1,SA,Blake Wesley,Personal Take Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,68,49,0.968,0.956,11.1
+3,11:14,SA,Malaki Branham,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,68,52,0.948,0.931,11:28
+3,10:31,SA,Harrison Barnes,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,70,56,0.927,0.909,10:39
+3,9:24,HOU,Alperen Sengun,Offensive Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,74,56,0.951,0.959,9:34
+3,7:58,SA,Zach Collins,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,77,62,0.934,0.933,8:07
+3,7:32,HOU,Alperen Sengun,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,77,64,0.876,0.908,7:32
+3,7:22,SA,Zach Collins,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,77,65,0.916,0.89,7:32
+3,7:12,HOU,Steven Adams,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,78,65,0.86,0.89,7:22
+3,5:20,SA,Malaki Branham,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,86,73,0.941,0.919,5:41
+3,3:51,SA,Blake Wesley,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,88,73,0.968,0.954,3:55
+3,3:35,HOU,Amen Thompson,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,90,73,0.957,0.964,3:36
+3,2:25,HOU,Steven Adams,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,94,76,0.971,0.976,2:25
+4,11:33,SA,Charles Bassey,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,105,83,0.998,0.997,11:48
+4,9:04,SA,Charles Bassey,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,108,87,0.999,0.998,9:20
+4,8:48,HOU,Reed Sheppard,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,110,87,0.998,0.999,9:04
+4,8:33,SA,David Duke Jr.,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,110,88,0.999,0.999,8:48
+4,8:09,SA,Brandon Boston,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,112,90,0.999,0.999,8:09
+4,7:36,SA,Sandro Mamukelashvili,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,114,92,0.999,0.999,7:36
+4,7:01,SA,David Duke Jr.,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,116,92,0.999,0.999,7:01
+4,6:59,HOU,Aaron Holiday,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,117,92,0.999,0.999,7:01
+4,6:46,HOU,Cam Whitmore,Loose Ball Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,117,92,0.999,0.999,6:46
+4,6:43,SA,Charles Bassey,Loose Ball Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,117,92,0.999,0.999,6:43
+4,5:11,HOU,Jae'Sean Tate,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,121,96,0.999,0.999,5:29
+4,4:07,HOU,Amen Thompson,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,126,99,0.999,0.999,4:26
+4,2:14,SA,Malachi Flynn,Shooting Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,128,105,0.999,0.999,2:33
+4,1:38,SA,David Duke Jr.,Personal Foul,Foul,Rodney Mott,Mitchell Ervin,J.D. Ralls,HOU,129,105,0.999,0.999,1:51

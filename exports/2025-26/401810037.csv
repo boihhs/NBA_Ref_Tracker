@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:58,PHX,Mark Williams,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,4,2,0.636,0.672,10:24
+1,8:05,PHX,Jalen Green,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,8,9,0.555,0.591,8:21
+1,7:49,LAC,Nicolas Batum,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,8,11,0.565,0.566,8:05
+1,7:06,PHX,Devin Booker,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,11,11,0.578,0.615,7:09
+1,6:52,LAC,Derrick Jones Jr.,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,11,13,0.589,0.591,7:06
+1,4:50,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,18,15,0.722,0.683,4:50
+1,4:01,PHX,Grayson Allen,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,21,17,0.668,0.705,4:13
+1,1:53,PHX,Jordan Goodwin,Loose Ball Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,23,23,0.556,0.6,2:00
+1,1:16,LAC,John Collins,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,26,27,0.64,0.599,1:30
+2,10:35,PHX,Oso Ighodaro,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,33,29,0.697,0.699,10:44
+2,9:59,LAC,Bogdan Bogdanovic,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,33,29,0.756,0.723,10:06
+2,9:46,PHX,Oso Ighodaro,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,33,31,0.622,0.67,9:46
+2,6:31,PHX,Grayson Allen,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,35,37,0.513,0.514,6:43
+2,6:11,LAC,Brook Lopez,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,35,37,0.566,0.544,6:13
+2,4:42,LAC,Bradley Beal,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,37,42,0.44,0.44,4:48
+2,4:28,PHX,Devin Booker,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,37,42,0.359,0.408,4:36
+2,2:25,LAC,Bradley Beal,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,40,47,0.413,0.361,2:31
+2,17.0,PHX,Mark Williams,Loose Ball Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,48,49,0.468,0.523,17.0
+3,10:19,PHX,Royce O'Neale,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,54,53,0.585,0.588,10:44
+3,10:05,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,54,53,0.671,0.619,10:12
+3,9:28,LAC,Bradley Beal,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,59,55,0.718,0.719,9:28
+3,8:52,LAC,Ivica Zubac,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,63,57,0.796,0.748,8:52
+3,7:53,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,67,59,0.864,0.831,8:09
+3,6:42,PHX,Royce O'Neale,Loose Ball Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,74,59,0.94,0.94,6:42
+3,6:02,LAC,Ivica Zubac,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,74,59,0.983,0.946,6:06
+3,4:52,PHX,Ryan Dunn,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,81,61,0.992,0.983,5:02
+3,4:05,PHX,Mark Williams,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,81,64,0.955,0.954,6:06
+3,3:07,LAC,Bogdan Bogdanovic,Loose Ball Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,83,64,0.991,0.987,3:07
+3,2:44,PHX,Jordan Goodwin,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,84,64,0.981,0.987,3:07
+3,1:38,PHX,Oso Ighodaro,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,84,68,0.956,0.969,1:50
+3,1:07,PHX,Oso Ighodaro,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,84,70,0.945,0.954,1:07
+3,34.9,LAC,Kobe Brown,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,84,72,0.963,0.947,38.5
+3,24.9,PHX,Devin Booker,Personal Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,85,72,0.922,0.945,32.7
+4,10:19,LAC,Brook Lopez,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,95,74,0.998,0.996,10:19
+4,6:33,PHX,Mark Williams,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,104,83,0.998,0.999,6:36
+4,6:17,PHX,Grayson Allen,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,104,84,0.997,0.999,6:19
+4,6:00,LAC,Jahmyl Telfort,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,104,86,0.998,0.998,6:00
+4,3:44,PHX,Grayson Allen,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,107,94,0.981,0.993,3:45
+4,3:21,LAC,Jahmyl Telfort,Offensive Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,109,95,0.998,0.996,3:27
+4,2:37,LAC,Bogdan Bogdanovic,Loose Ball Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,109,95,0.999,0.999,2:37
+4,1:09,PHX,Devin Booker,Personal Take Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,115,100,0.999,0.999,1:17
+4,1:01,PHX,Rasheer Fleming,Shooting Foul,Foul,Josh Tiven,Che Flores,Nick Buchert,PHX,115,100,0.999,0.999,1:09

@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,DET,Jalen Duren,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,3,2,0.777,0.802,10:52
+1,10:00,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,3,4,0.736,0.763,10:09
+1,9:39,DET,Daniss Jenkins,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,5,6,0.734,0.762,9:49
+1,9:01,IND,Isaiah Jackson,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,5,8,0.768,0.74,9:03
+1,8:16,DET,Ronald Holland II,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,9,8,0.765,0.792,8:21
+1,7:18,IND,Bennedict Mathurin,Offensive Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,12,12,0.787,0.769,7:25
+1,7:00,DET,Daniss Jenkins,Technical Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,15,12,0.806,0.818,7:00
+1,4:28,IND,Tony Bradley,Loose Ball Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,22,18,0.841,0.841,4:28
+1,3:35,DET,Paul Reed,Offensive Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,22,21,0.769,0.789,3:37
+1,33.1,IND,Tony Bradley,Offensive Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,24,21,0.81,0.793,44.0
+1,21.2,IND,Jay Huff,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,24,21,0.834,0.81,33.1
+2,11:40,IND,T.J. McConnell,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,26,21,0.864,0.844,11:42
+2,10:00,DET,Daniss Jenkins,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,32,24,0.845,0.869,10:04
+2,9:47,IND,Bennedict Mathurin,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,34,25,0.903,0.882,9:47
+2,6:58,DET,Jalen Duren,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,46,27,0.964,0.973,6:58
+2,4:50,IND,Ben Sheppard,Personal Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,46,31,0.951,0.952,4:59
+2,4:34,DET,Isaiah Stewart,Loose Ball Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,46,31,0.944,0.944,4:34
+2,4:02,DET,Isaiah Stewart,Flagrant Foul Type 1,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,46,33,0.928,0.948,4:02
+2,4:02,DET,Duncan Robinson,Away from Play Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,46,35,0.882,0.903,4:02
+2,3:38,IND,Jeremiah Robinson-Earl,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,48,39,0.899,0.875,3:38
+2,2:59,DET,Duncan Robinson,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,52,39,0.909,0.925,3:06
+2,2:51,IND,Bennedict Mathurin,Personal Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,52,40,0.941,0.926,2:59
+2,2:07,IND,Jarace Walker,Loose Ball Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,55,42,0.95,0.937,2:07
+2,57.3,IND,Isaiah Jackson,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,60,44,0.969,0.962,1:11
+2,44.5,DET,Paul Reed,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,61,44,0.951,0.961,57.3
+2,34.6,IND,Andrew Nembhard,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,61,46,0.965,0.955,44.5
+3,11:47,IND,Isaiah Jackson,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,62,46,0.972,0.959,12:00
+3,11:25,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,62,46,0.944,0.956,11:28
+3,10:32,IND,Tony Bradley,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,64,49,0.967,0.957,10:46
+3,10:22,IND,Tony Bradley,Offensive Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,66,49,0.971,0.964,10:32
+3,9:41,DET,Daniss Jenkins,Personal Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,71,49,0.988,0.988,9:54
+3,9:23,IND,Andrew Nembhard,Offensive Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,71,49,0.99,0.988,9:25
+3,9:08,IND,Jarace Walker,Personal Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,71,49,0.99,0.99,9:23
+3,8:54,IND,Bennedict Mathurin,Personal Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,71,49,0.993,0.99,8:57
+3,8:32,DET,Jalen Duren,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,73,49,0.989,0.956,11:03
+3,7:57,DET,Ronald Holland II,Personal Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,73,51,0.984,0.989,8:03
+3,6:28,IND,Pascal Siakam,Personal Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,73,55,0.986,0.981,6:41
+3,5:39,IND,Tony Bradley,Loose Ball Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,75,57,0.987,0.982,5:39
+3,3:08,IND,Bennedict Mathurin,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,84,63,0.995,0.992,3:08
+3,2:21,DET,Paul Reed,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,88,65,0.994,0.996,2:28
+3,1:23,DET,Javonte Green,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,93,69,0.997,0.998,1:32
+3,55.4,DET,Paul Reed,Loose Ball Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,93,71,0.994,0.996,55.4
+3,54.1,DET,Javonte Green,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,93,71,0.995,0.996,54.1
+4,10:42,DET,Javonte Green,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,95,81,0.954,0.971,10:54
+4,10:25,IND,Isaiah Jackson,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,95,85,0.961,0.938,10:38
+4,9:03,DET,Daniss Jenkins,Offensive Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,99,88,0.947,0.96,9:15
+4,9:03,DET,DET,Technical Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,99,88,0.935,0.947,9:03
+4,8:24,IND,T.J. McConnell,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,101,91,0.964,0.952,8:24
+4,7:21,DET,Ronald Holland II,Personal Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,107,91,0.991,0.992,7:26
+4,7:15,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,107,91,0.984,0.991,7:21
+4,7:08,IND,Pascal Siakam,Personal Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,107,93,0.989,0.988,7:15
+4,6:01,DET,Duncan Robinson,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,111,95,0.989,0.994,6:06
+4,5:36,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,113,95,0.995,0.997,5:41
+4,4:58,DET,Javonte Green,Loose Ball Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,113,95,0.996,0.998,4:58
+4,3:45,DET,Javonte Green,Shooting Foul,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,118,101,0.998,0.999,3:52
+4,2:11,IND,IND,Excess Timeout Technical,Foul,Marat Kogut,Leon Wood,Nick Buchert,DET,122,105,0.999,0.999,2:29

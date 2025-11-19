@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:11,SAC,Zach LaVine,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,8,4,0.352,0.315,8:19
+1,7:34,SAC,DeMar DeRozan,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,10,6,0.356,0.317,7:50
+1,6:54,CHA,Jusuf Nurkic,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,12,6,0.314,0.348,6:56
+1,6:20,CHA,DaQuan Jeffries,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,12,8,0.272,0.304,6:26
+1,5:28,CHA,Miles Bridges,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,12,11,0.232,0.267,5:28
+1,3:40,SAC,Domantas Sabonis,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,15,14,0.294,0.279,3:40
+1,2:13,CHA,Josh Okogie,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,18,18,0.213,0.242,2:26
+1,1:45,CHA,Moussa Diabate,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,18,20,0.18,0.206,1:50
+1,1:04,SAC,Devin Carter,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,18,24,0.182,0.157,1:09
+1,46.1,CHA,Jaylen Sims,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,18,24,0.121,0.143,53.2
+2,9:37,SAC,Jonas Valanciunas,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,21,33,0.101,0.084,9:46
+2,9:22,CHA,Jusuf Nurkic,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,23,35,0.068,0.084,9:22
+2,9:08,SAC,Devin Carter,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,25,35,0.117,0.095,9:08
+2,8:30,CHA,Josh Okogie,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,26,35,0.108,0.108,8:42
+2,7:21,CHA,Jusuf Nurkic,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,26,39,0.054,0.065,7:26
+2,6:10,CHA,Taj Gibson,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,30,48,0.028,0.037,6:10
+2,4:58,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,35,52,0.042,0.042,4:58
+2,4:33,CHA,Taj Gibson,Loose Ball Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,35,52,0.028,0.035,4:33
+2,3:55,SAC,Keon Ellis,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,37,56,0.038,0.03,4:06
+2,3:45,SAC,Zach LaVine,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,39,56,0.046,0.035,3:45
+2,2:58,SAC,Malik Monk,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,40,59,0.038,0.029,3:00
+2,2:22,SAC,Devin Carter,Loose Ball Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,42,61,0.037,0.028,2:22
+2,1:29,SAC,Zach LaVine,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,45,63,0.043,0.033,1:35
+2,43.1,SAC,Devin Carter,Offensive Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,47,65,0.033,0.028,52.1
+3,10:52,SAC,Domantas Sabonis,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,49,70,0.016,0.016,11:02
+3,10:42,SAC,Keon Ellis,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,49,70,0.021,0.016,10:52
+3,10:09,SAC,Keon Ellis,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,51,70,0.032,0.023,10:20
+3,5:15,CHA,DaQuan Jeffries,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,61,79,0.011,0.016,5:16
+3,5:00,CHA,Moussa Diabate,Offensive Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,61,81,0.009,0.012,5:15
+3,4:07,CHA,Jaylen Sims,Offensive Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,64,83,0.011,0.014,4:11
+3,2:56,SAC,Devin Carter,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,66,85,0.018,0.012,2:56
+3,2:16,SAC,Jonas Valanciunas,Loose Ball Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,66,85,0.017,0.01,2:16
+3,1:52,SAC,Jonas Valanciunas,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,66,88,0.007,0.004,2:06
+3,1:44,CHA,Moussa Diabate,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,68,88,0.003,0.005,1:52
+3,9.0,CHA,Tidjane Salaun,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,72,97,0.001,0.001,14.0
+4,11:26,SAC,Devin Carter,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,72,98,0.001,0.001,11:41
+4,11:10,CHA,Miles Bridges,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,74,98,0.001,0.001,11:26
+4,10:54,SAC,Jonas Valanciunas,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,74,100,0.001,0.001,10:54
+4,7:01,SAC,Jonas Valanciunas,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,84,110,0.001,0.001,7:14
+4,6:15,SAC,Trey Lyles,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,86,112,0.001,0.001,6:25
+4,4:38,CHA,Jusuf Nurkic,Offensive Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,89,115,0.001,0.001,4:47
+4,2:55,SAC,Isaac Jones,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,91,120,0.001,0.001,2:56
+4,2:09,SAC,Jonas Valanciunas,Offensive Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,94,122,0.001,0.001,2:27
+4,1:58,SAC,Doug McDermott,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,94,122,0.001,0.001,2:09
+4,1:42,SAC,Isaac Jones,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,96,122,0.001,0.001,1:45
+4,30.2,SAC,Trey Lyles,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,Jonathan Sterling,CHA,100,125,0.001,0.001,30.2

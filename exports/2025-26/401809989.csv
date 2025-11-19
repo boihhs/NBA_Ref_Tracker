@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:48,DEN,Aaron Gordon,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,2,0,0.818,0.829,10:48
+1,7:36,NO,Jeremiah Fears,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,9,7,0.851,0.832,7:53
+1,5:46,NO,Herbert Jones,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,12,11,0.819,0.807,5:51
+1,3:25,NO,Jordan Poole,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,22,19,0.829,0.83,3:25
+1,3:22,NO,Jose Alvarado,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,22,19,0.852,0.829,3:25
+1,1:34,DEN,Tim Hardaway Jr.,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,27,19,0.86,0.88,1:37
+1,1:20,NO,Zion Williamson,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,27,19,0.909,0.893,1:24
+1,49.6,NO,Jordan Poole,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,31,22,0.911,0.891,49.6
+2,11:40,NO,Trey Murphy III,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,34,25,0.916,0.902,11:45
+2,10:18,DEN,Bruce Brown,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,36,25,0.894,0.911,10:30
+2,9:00,DEN,Aaron Gordon,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,42,27,0.946,0.945,9:09
+2,6:48,NO,Derik Queen,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,44,27,0.972,0.965,7:03
+2,5:42,DEN,Julian Strawther,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,47,29,0.966,0.965,5:48
+2,3:33,DEN,Jonas Valanciunas,Offensive Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,51,33,0.967,0.972,3:45
+2,3:20,DEN,Bruce Brown,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,51,35,0.949,0.962,3:20
+2,1:46,DEN,Cameron Johnson,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,53,38,0.934,0.948,1:51
+2,1:25,DEN,Nikola Jokic,Loose Ball Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,53,40,0.912,0.93,1:25
+2,3.5,NO,Herbert Jones,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,53,47,0.868,0.84,9.8
+3,9:43,NO,Herbert Jones,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,61,49,0.933,0.933,9:50
+3,9:08,DEN,Nikola Jokic,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,63,49,0.945,0.944,9:20
+3,8:37,NO,Zion Williamson,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,63,49,0.965,0.954,8:59
+3,7:33,DEN,Christian Braun,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,65,49,0.964,0.963,7:41
+3,6:44,DEN,Cameron Johnson,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,67,49,0.968,0.976,7:00
+3,3:58,NO,Yves Missi,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,82,51,0.999,0.999,4:04
+3,3:33,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,85,51,0.999,0.999,3:49
+3,1:04,DEN,Nikola Jokic,Personal Take Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,92,56,0.999,0.999,1:13
+3,2.1,DEN,Nikola Jokic,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,92,58,0.999,0.999,14.6
+4,11:23,DEN,Tim Hardaway Jr.,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,92,58,0.999,0.999,11:39
+4,11:13,DEN,Jalen Pickett,Transition Take Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,92,60,0.999,0.999,11:13
+4,9:38,DEN,Tim Hardaway Jr.,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,96,65,0.999,0.999,9:38
+4,9:05,NO,Jeremiah Fears,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,100,68,0.999,0.999,9:05
+4,6:07,NO,Jeremiah Fears,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,114,75,0.999,0.999,6:21
+4,5:43,DEN,Zeke Nnaji,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,116,75,0.999,0.999,5:45
+4,4:06,DEN,Spencer Jones,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,116,79,0.999,0.999,4:13
+4,3:42,NO,Derik Queen,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,116,79,0.999,0.999,3:42
+4,3:18,DEN,Zeke Nnaji,Shooting Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,116,79,0.999,0.999,3:22
+4,3:03,DEN,Spencer Jones,Offensive Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,116,81,0.999,0.999,3:18
+4,2:19,DEN,Zeke Nnaji,Personal Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,116,82,0.999,0.999,2:27
+4,2:51,DEN,Hunter Tyson,Loose Ball Foul,Foul,Tony Brothers,Scott Twardoski,Gina Catanzariti,DEN,116,82,0.999,1.0,0.0

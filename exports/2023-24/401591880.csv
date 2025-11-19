@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:00,LAL,D'Angelo Russell,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,6,2,0.55,0.586,10:07
+1,9:39,LAL,LeBron James,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,6,3,0.563,0.562,9:46
+1,8:45,BKN,Cam Thomas,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,6,9,0.434,0.434,8:59
+1,8:20,BKN,Nic Claxton,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,9,9,0.551,0.513,8:23
+1,7:40,LAL,Taurean Prince,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,11,11,0.468,0.513,7:40
+1,7:13,LAL,LeBron James,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,14,11,0.527,0.566,7:27
+1,6:53,LAL,Anthony Davis,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,17,15,0.521,0.566,6:53
+1,4:10,BKN,Spencer Dinwiddie,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,29,22,0.699,0.697,4:12
+1,3:09,LAL,Jaxson Hayes,Offensive Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,31,25,0.648,0.674,3:10
+1,2:23,LAL,Rui Hachimura,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,31,27,0.576,0.625,2:23
+1,6.1,LAL,Max Christie,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,34,33,0.469,0.515,8.1
+2,11:35,BKN,Darius Bazley,Offensive Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,36,35,0.546,0.513,11:46
+2,10:00,BKN,Lonnie Walker IV,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,41,35,0.725,0.686,10:12
+2,9:20,BKN,Dennis Smith Jr.,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,42,37,0.662,0.661,9:20
+2,8:41,BKN,Royce O'Neale,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,45,39,0.726,0.687,8:58
+2,8:06,BKN,Royce O'Neale,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,47,39,0.776,0.742,8:17
+2,7:29,LAL,Christian Wood,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,51,39,0.779,0.81,7:43
+2,7:01,BKN,Harry Giles III,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,51,43,0.781,0.744,7:08
+2,6:54,LAL,Taurean Prince,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,53,43,0.77,0.77,7:01
+2,4:47,LAL,Jaxson Hayes,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,60,47,0.843,0.842,5:03
+2,2:54,LAL,Jaxson Hayes,Defensive 3-Seconds Technical,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,66,47,0.941,0.939,3:10
+2,2:03,LAL,Jaxson Hayes,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,66,52,0.86,0.891,2:03
+2,1:49,LAL,Max Christie,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,66,53,0.826,0.856,1:51
+2,1:09,LAL,D'Angelo Russell,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,70,55,0.869,0.895,1:21
+2,52.1,LAL,Max Christie,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,70,57,0.83,0.86,56.1
+3,11:10,LAL,Gabe Vincent,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,75,65,0.786,0.83,11:10
+3,9:30,LAL,Taurean Prince,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,77,68,0.788,0.789,9:31
+3,9:23,LAL,Gabe Vincent,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,77,70,0.706,0.762,9:23
+3,7:51,LAL,Taurean Prince,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,82,73,0.751,0.796,7:56
+3,5:13,BKN,Cam Thomas,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,88,88,0.585,0.524,5:23
+3,4:16,BKN,Noah Clowney,Offensive Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,96,90,0.761,0.724,4:21
+3,4:16,BKN,Cameron Johnson,Technical Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,96,90,0.785,0.761,4:16
+3,3:19,LAL,Taurean Prince,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,99,93,0.672,0.73,3:21
+3,2:49,LAL,Max Christie,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,99,94,0.632,0.693,2:58
+3,2:32,BKN,Noah Clowney,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,99,96,0.717,0.693,2:54
+3,2:04,BKN,Noah Clowney,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,102,96,0.802,0.739,2:04
+3,1:04,BKN,Jalen Wilson,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,105,99,0.81,0.744,1:04
+3,16.1,LAL,Maxwell Lewis,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,107,101,0.717,0.792,16.1
+4,11:47,LAL,Maxwell Lewis,Double Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,110,102,0.818,0.841,12:00
+4,11:36,LAL,Jalen Hood-Schifino,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,110,102,0.759,0.818,11:47
+4,6:42,LAL,Jalen Hood-Schifino,Offensive Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,120,112,0.881,0.91,6:48
+4,5:59,LAL,Alex Fudge,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,120,112,0.82,0.892,6:00
+4,5:47,LAL,Alex Fudge,Personal Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,120,113,0.778,0.854,5:47
+4,4:05,BKN,Noah Clowney,Shooting Foul,Foul,Tony Brothers,CJ Washington,Matt Kallio,LAL,122,118,0.858,0.776,4:20

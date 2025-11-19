@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:46,PHI,Tyrese Maxey,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,0,0,0.369,0.369,12:00
+1,9:51,NY,Jericho Sims,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,2,6,0.319,0.281,9:51
+1,9:08,PHI,Tyrese Maxey,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,3,8,0.262,0.26,9:15
+1,6:57,PHI,Paul George,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,5,13,0.179,0.204,7:01
+1,6:44,NY,Josh Hart,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,5,14,0.233,0.205,6:57
+1,6:20,NY,Jericho Sims,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,6,16,0.274,0.243,6:30
+1,4:31,PHI,Jeff Dowtin Jr.,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,13,20,0.195,0.222,4:40
+1,4:14,NY,Precious Achiuwa,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,13,23,0.215,0.185,4:25
+1,3:26,PHI,Justin Edwards,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,17,23,0.212,0.243,3:43
+2,10:50,NY,Precious Achiuwa,Offensive Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,23,32,0.2,0.181,11:05
+2,9:57,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,23,37,0.093,0.113,9:57
+2,6:19,NY,Cameron Payne,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,34,49,0.095,0.095,6:27
+2,5:51,NY,Cameron Payne,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,34,49,0.115,0.094,5:57
+2,5:46,PHI,Guerschon Yabusele,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,37,49,0.1,0.122,5:51
+2,1:42,NY,Jericho Sims,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,45,56,0.177,0.148,2:00
+2,1:03,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,47,56,0.135,0.168,1:19
+2,52.1,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,47,56,0.134,0.135,1:03
+2,11.0,PHI,Justin Edwards,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,47,58,0.1,0.123,28.1
+3,8:47,PHI,Guerschon Yabusele,Loose Ball Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,57,67,0.131,0.129,8:47
+3,8:09,NY,Jericho Sims,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,57,69,0.139,0.109,8:12
+3,7:47,PHI,Guerschon Yabusele,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,59,69,0.114,0.126,7:47
+3,3:40,PHI,Tyrese Maxey,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,71,80,0.112,0.127,3:40
+4,11:06,PHI,Adem Bona,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,87,87,0.428,0.446,11:22
+4,10:10,PHI,Adem Bona,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,87,89,0.252,0.336,10:13
+4,9:16,PHI,Adem Bona,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,89,89,0.37,0.432,9:24
+4,8:00,NY,Miles McBride,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,89,93,0.278,0.27,8:00
+4,43.1,NY,Josh Hart,Loose Ball Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,102,107,0.225,0.088,43.1
+4,36.0,NY,OG Anunoby,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,104,107,0.35,0.153,36.0
+4,13.1,NY,Jalen Brunson,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,105,109,0.264,0.131,18.0
+4,11.2,PHI,Justin Edwards,Personal Take Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,107,109,0.064,0.181,13.1
+5,3:17,PHI,Paul George,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,109,114,0.071,0.13,3:37
+5,3:06,NY,Josh Hart,Personal Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,109,117,0.057,0.058,3:17
+5,2:14,PHI,Guerschon Yabusele,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Matt Kallio,PHI,111,117,0.03,0.073,2:38

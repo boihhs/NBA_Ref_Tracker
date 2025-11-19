@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:14,OKC,Chet Holmgren,Loose Ball Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,13,9,0.463,0.463,6:14
+1,5:26,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,18,9,0.606,0.605,5:33
+1,4:36,OKC,Alex Caruso,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,21,9,0.692,0.691,4:49
+1,3:30,MIN,Jaden McDaniels,Loose Ball Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,24,9,0.749,0.749,3:30
+1,2:41,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,24,9,0.809,0.778,2:42
+1,1:39,MIN,Donte DiVincenzo,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,27,12,0.723,0.761,1:39
+1,4.0,OKC,Cason Wallace,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,33,14,0.896,0.854,11.1
+2,11:48,OKC,Jaylin Williams,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,36,14,0.924,0.902,11:48
+2,11:06,MIN,Julius Randle,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,39,14,0.926,0.941,11:16
+2,10:46,MIN,Terrence Shannon Jr.,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,39,16,0.902,0.922,10:51
+2,10:36,OKC,Jaylin Williams,Offensive Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,39,18,0.91,0.895,10:41
+2,9:51,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,39,18,0.889,0.9,9:52
+2,9:35,OKC,Alex Caruso,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,39,20,0.888,0.886,9:51
+2,9:11,MIN,Terrence Shannon Jr.,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,42,20,0.896,0.916,9:29
+2,8:28,OKC,Aaron Wiggins,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,44,20,0.96,0.951,8:32
+2,7:03,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,51,25,0.958,0.968,7:03
+2,5:50,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,53,25,0.986,0.981,5:59
+2,5:00,MIN,Naz Reid,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,56,28,0.972,0.979,5:12
+2,3:54,OKC,Ajay Mitchell,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,60,32,0.987,0.982,3:54
+2,3:16,OKC,Luguentz Dort,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,60,32,0.988,0.986,3:16
+2,2:03,MIN,Rudy Gobert,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,66,32,0.994,0.994,2:04
+2,50.0,MIN,Rudy Gobert,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,70,36,0.995,0.995,1:08
+2,43.1,OKC,Jalen Williams,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,70,38,0.996,0.996,50.0
+3,9:56,MIN,Jaden McDaniels,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,74,46,0.992,0.993,10:09
+3,9:44,MIN,Julius Randle,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,74,48,0.985,0.991,9:44
+3,7:12,OKC,Jalen Williams,Offensive Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,81,52,0.997,0.996,7:25
+3,6:41,MIN,Anthony Edwards,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,84,52,0.999,0.998,6:54
+3,6:22,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,84,52,0.999,0.999,6:30
+3,5:29,MIN,Julius Randle,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,89,54,0.999,0.999,5:43
+3,4:48,MIN,Anthony Edwards,Offensive Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,92,56,0.999,0.999,4:53
+3,2:08,MIN,Naz Reid,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,97,59,0.999,0.999,2:12
+4,11:23,OKC,Aaron Wiggins,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,107,70,0.999,0.999,11:39
+4,9:02,MIN,Julius Randle,Personal Take Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,115,75,0.999,0.999,9:06
+4,8:18,MIN,Donte DiVincenzo,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,117,77,0.999,0.999,8:18
+4,7:50,OKC,Jaylin Williams,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,119,78,0.999,0.999,7:50
+4,7:10,OKC,Dillon Jones,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,120,78,0.999,0.999,7:13
+4,4:48,OKC,Kenrich Williams,Personal Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,126,82,0.999,0.999,4:49
+4,4:18,OKC,Ajay Mitchell,Shooting Foul,Foul,John Goble,Josh Tiven,Curtis Blair,MIN,126,84,0.999,0.999,4:24

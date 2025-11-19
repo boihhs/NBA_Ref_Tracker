@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:57,CHA,Cody Martin,Loose Ball Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,0,0,0.333,0.334,10:57
+1,10:48,MIA,Terry Rozier,Offensive Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,0,0,0.354,0.333,10:57
+1,8:09,MIA,Jimmy Butler III,Loose Ball Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,4,5,0.339,0.341,8:09
+1,7:15,CHA,LaMelo Ball,Personal Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,6,5,0.368,0.366,7:23
+1,4:51,CHA,Vasilije Micic,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,14,9,0.441,0.481,4:58
+1,3:56,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,14,14,0.417,0.376,4:17
+1,3:09,CHA,Moussa Diabate,Offensive Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,15,17,0.306,0.33,3:19
+1,2:56,CHA,Moussa Diabate,Defensive 3-Seconds Technical,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,15,17,0.312,0.306,3:09
+1,2:13,MIA,Dru Smith,Personal Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,15,19,0.282,0.283,2:19
+1,2:09,MIA,Thomas Bryant,Personal Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,15,19,0.32,0.282,2:13
+1,1:05,CHA,LaMelo Ball,Personal Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,19,21,0.276,0.309,1:11
+1,39.1,MIA,Dru Smith,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,21,23,0.355,0.31,39.1
+1,18.0,MIA,Dru Smith,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,22,23,0.406,0.362,23.1
+2,10:43,CHA,Cody Martin,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,25,29,0.248,0.288,10:43
+2,8:21,MIA,Thomas Bryant,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,29,35,0.262,0.222,8:21
+2,7:40,CHA,Miles Bridges,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,29,35,0.206,0.222,7:40
+2,5:42,MIA,Nikola Jovic,Personal Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,34,37,0.326,0.326,5:42
+2,4:45,CHA,Nick Richards,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,36,41,0.229,0.271,4:45
+2,3:20,CHA,Seth Curry,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,39,44,0.21,0.247,3:25
+2,1:45,MIA,Tyler Herro,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,41,50,0.208,0.175,1:56
+2,1:09,CHA,Tre Mann,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,45,52,0.181,0.22,1:09
+2,31.1,MIA,Tyler Herro,Away from Play Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,47,56,0.207,0.172,31.1
+3,9:49,CHA,Cody Martin,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,50,58,0.135,0.167,9:53
+3,9:22,CHA,Cody Martin,Personal Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,52,61,0.145,0.143,9:24
+3,9:09,MIA,Terry Rozier,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,52,61,0.203,0.167,9:14
+3,8:26,CHA,Nick Richards,Personal Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,56,61,0.245,0.243,8:45
+3,8:18,MIA,Tyler Herro,Offensive Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,56,61,0.273,0.245,8:26
+3,7:39,MIA,Bam Adebayo,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,56,61,0.298,0.273,7:39
+3,5:14,CHA,Nick Richards,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,62,69,0.141,0.176,5:24
+3,5:03,CHA,Nick Richards,Offensive Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,62,71,0.128,0.153,5:14
+3,3:44,MIA,Nikola Jovic,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,62,73,0.136,0.104,3:57
+3,2:38,CHA,Tidjane Salaun,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,66,73,0.127,0.166,2:53
+3,1:20,CHA,Moussa Diabate,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,66,79,0.031,0.045,1:29
+3,35.0,MIA,Jimmy Butler III,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,68,80,0.095,0.069,51.1
+3,2.1,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,70,83,0.071,0.051,15.0
+4,10:54,CHA,Tre Mann,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,78,83,0.147,0.206,11:12
+4,10:38,CHA,LaMelo Ball,Offensive Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,78,84,0.17,0.203,10:54
+4,8:46,CHA,Seth Curry,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,78,91,0.012,0.022,8:50
+4,7:27,MIA,Nikola Jovic,Offensive Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,83,92,0.081,0.063,7:47
+4,6:05,CHA,Seth Curry,Personal Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,88,94,0.11,0.124,6:22
+4,2:56,MIA,Terry Rozier,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,95,99,0.262,0.21,2:56
+4,1:54,CHA,LaMelo Ball,Shooting Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,99,104,0.053,0.124,1:54
+4,1:06,CHA,Miles Bridges,Personal Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,101,107,0.013,0.033,1:06
+4,16.2,CHA,LaMelo Ball,Loose Ball Foul,Foul,Karl Lane,Ray Acosta,Sha'Rae Mitchell,CHA,106,112,0.002,0.011,16.2

@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:00,MIL,Taurean Prince,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,2,2,0.489,0.489,10:04
+1,8:48,CHI,Julian Phillips,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,6,2,0.652,0.615,8:55
+1,8:06,CHI,Josh Giddey,Loose Ball Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,7,4,0.589,0.591,8:06
+1,7:26,CHI,Onuralp Bitim,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,9,4,0.677,0.642,7:34
+1,7:26,MIL,Giannis Antetokounmpo,Technical Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,9,4,0.596,0.628,7:26
+1,4:28,CHI,Julian Phillips,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,18,17,0.58,0.54,4:42
+1,4:04,MIL,Brook Lopez,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,20,17,0.568,0.565,4:20
+1,2:00,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,22,24,0.411,0.455,2:00
+1,30.1,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,24,29,0.306,0.348,46.1
+1,9.0,CHI,Chris Duarte,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,24,31,0.358,0.32,30.1
+2,10:20,CHI,E.J. Liddell,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,29,36,0.313,0.314,10:24
+2,9:53,CHI,Chris Duarte,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,31,38,0.333,0.285,9:53
+2,9:48,MIL,AJ Johnson,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,32,38,0.313,0.31,9:53
+2,9:35,CHI,Matas Buzelis,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,32,38,0.381,0.34,9:36
+2,8:30,CHI,Onuralp Bitim,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,35,44,0.275,0.257,8:30
+2,7:25,CHI,Onuralp Bitim,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,39,47,0.32,0.277,7:28
+2,6:18,MIL,Gary Trent Jr.,Offensive Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,44,50,0.304,0.332,6:30
+2,4:27,MIL,Brook Lopez,Loose Ball Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,50,55,0.325,0.325,4:27
+2,3:14,CHI,Matas Buzelis,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,50,55,0.401,0.353,3:24
+2,1:18,MIL,Giannis Antetokounmpo,Flagrant Foul Type 1,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,55,60,0.327,0.316,1:33
+2,58.0,CHI,Matas Buzelis,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,55,65,0.241,0.204,1:12
+3,10:17,CHI,Josh Giddey,Technical Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,66,70,0.399,0.375,10:17
+3,10:08,CHI,Matas Buzelis,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,66,70,0.427,0.375,10:17
+3,9:49,CHI,Adama Sanogo,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,68,70,0.499,0.443,9:53
+3,9:30,MIL,Gary Trent Jr.,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,69,70,0.442,0.445,9:49
+3,9:14,CHI,Adama Sanogo,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,71,70,0.583,0.518,9:14
+3,8:15,MIL,Brook Lopez,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,74,72,0.527,0.594,8:15
+3,7:52,MIL,Taurean Prince,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,77,72,0.669,0.668,7:57
+3,7:42,CHI,E.J. Liddell,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,77,72,0.753,0.702,7:50
+3,7:13,CHI,Adama Sanogo,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,77,72,0.756,0.704,7:20
+3,6:54,CHI,Kenneth Lofton Jr.,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,78,72,0.787,0.743,6:56
+3,6:20,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,80,72,0.727,0.777,6:20
+3,5:45,MIL,Gary Trent Jr.,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,80,74,0.656,0.713,5:51
+3,2:36,MIL,Bobby Portis,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,85,76,0.786,0.83,2:46
+3,25.1,CHI,Kenneth Lofton Jr.,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,89,81,0.874,0.853,25.1
+4,11:13,CHI,Matas Buzelis,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,91,83,0.909,0.867,11:20
+4,11:06,MIL,Pat Connaughton,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,92,83,0.812,0.869,11:13
+4,10:35,MIL,Liam Robbins,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,92,84,0.803,0.84,10:35
+4,8:24,CHI,Matas Buzelis,Defensive 3-Seconds Technical,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,96,90,0.812,0.821,8:40
+4,6:41,MIL,Liam Robbins,Offensive Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,100,93,0.848,0.883,6:55
+4,6:32,MIL,Liam Robbins,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,100,95,0.702,0.811,6:32
+4,6:24,CHI,Matas Buzelis,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,100,95,0.817,0.673,9:08
+4,5:34,MIL,Anzejs Pasecniks,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,100,95,0.675,0.773,5:46
+4,1:57,MIL,Anzejs Pasecniks,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,107,102,0.737,0.836,2:12
+4,1:40,CHI,Talen Horton-Tucker,Loose Ball Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,107,104,0.89,0.794,1:40
+4,1:07,MIL,Anzejs Pasecniks,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,109,104,0.826,0.873,1:07
+4,50.1,CHI,Onuralp Bitim,Personal Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,109,105,0.949,0.656,5:16
+4,43.1,MIL,Anzejs Pasecniks,Shooting Foul,Foul,James Capers,Dedric Taylor,Jenna Reneau,MIL,111,105,0.862,0.933,50.1

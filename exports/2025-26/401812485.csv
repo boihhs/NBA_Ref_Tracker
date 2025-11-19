@@ -1,0 +1,56 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:46,ORL,Paolo Banchero,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,5,3,0.6,0.563,9:49
+1,9:32,MIA,Nikola Jovic,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,7,5,0.5,0.563,9:32
+1,7:46,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,7,8,0.422,0.461,8:02
+1,7:32,MIA,Norman Powell,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,7,10,0.372,0.462,8:08
+1,6:47,ORL,Paolo Banchero,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,10,14,0.448,0.409,7:01
+1,6:26,ORL,Desmond Bane,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,11,14,0.473,0.434,6:30
+1,5:21,ORL,Anthony Black,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,15,17,0.499,0.46,5:30
+1,5:05,MIA,Bam Adebayo,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,17,17,0.446,0.486,5:07
+1,5:01,MIA,Ethan Thompson,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,17,17,0.446,0.446,5:05
+1,3:46,MIA,Simone Fontecchio,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,17,18,0.419,0.455,3:52
+1,2:51,ORL,Jett Howard,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,20,19,0.581,0.545,2:59
+1,1:55,ORL,Goga Bitadze,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,24,19,0.669,0.648,1:55
+1,1:44,ORL,Goga Bitadze,Offensive Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,25,19,0.676,0.65,1:53
+2,11:17,ORL,Tristan da Silva,Clear Path Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,29,21,0.734,0.735,11:21
+2,10:36,MIA,Norman Powell,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,30,21,0.735,0.737,10:41
+2,9:57,ORL,Tyus Jones,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,33,23,0.783,0.783,10:08
+2,9:10,ORL,Desmond Bane,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,33,28,0.661,0.661,9:27
+2,7:55,ORL,Tyus Jones,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,39,31,0.778,0.743,8:00
+2,7:05,ORL,Paolo Banchero,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,45,36,0.803,0.769,7:14
+2,5:59,MIA,Andrew Wiggins,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,48,40,0.703,0.748,5:59
+2,5:49,ORL,Anthony Black,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,48,41,0.762,0.724,5:59
+2,3:40,MIA,Keshad Johnson,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,51,43,0.711,0.731,3:40
+2,2:36,MIA,Myron Gardner,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,53,44,0.722,0.764,2:36
+2,1:58,ORL,Jase Richardson,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,55,44,0.867,0.838,2:01
+2,1:55,MIA,Myron Gardner,Loose Ball Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,56,44,0.803,0.838,1:55
+2,31.3,MIA,Myron Gardner,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,61,46,0.871,0.899,34.3
+3,10:43,ORL,Goga Bitadze,Offensive Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,64,53,0.855,0.828,11:00
+3,9:43,ORL,Anthony Black,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,64,56,0.788,0.786,9:54
+3,9:01,MIA,Simone Fontecchio,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,69,61,0.714,0.791,9:01
+3,8:55,ORL,Anthony Black,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,69,62,0.761,0.763,9:01
+3,8:46,ORL,Goga Bitadze,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,69,62,0.803,0.761,8:55
+3,4:07,ORL,Jett Howard,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,78,75,0.705,0.647,4:19
+3,2:52,MIA,Precious Achiuwa,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,81,80,0.522,0.521,3:03
+3,1:43,ORL,Jamal Cain,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,83,82,0.637,0.571,1:56
+3,55.1,ORL,Orlando Robinson,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,85,86,0.549,0.476,1:11
+3,35.9,MIA,Jahmir Young,Offensive Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,87,88,0.423,0.476,47.1
+3,8.8,ORL,Orlando Robinson,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,89,88,0.608,0.523,8.8
+3,3.1,MIA,Myron Gardner,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,90,88,0.5,0.574,7.3
+4,11:17,ORL,Noah Penda,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,93,92,0.59,0.573,11:35
+4,10:34,ORL,Jamal Cain,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,93,94,0.498,0.483,10:51
+4,10:24,ORL,Orlando Robinson,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,93,94,0.59,0.498,10:34
+4,8:54,MIA,Dain Dainja,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,97,96,0.451,0.549,9:17
+4,7:40,MIA,Ethan Thompson,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,101,99,0.495,0.605,7:44
+4,7:21,ORL,Orlando Robinson,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,101,100,0.699,0.601,7:22
+4,6:48,ORL,Orlando Robinson,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,102,102,0.648,0.557,7:13
+4,5:07,MIA,Trevor Keels,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,107,108,0.342,0.491,5:07
+4,5:01,MIA,Dain Dainja,Offensive Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,107,109,0.337,0.409,5:07
+4,4:40,ORL,Reece Beekman,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,107,109,0.518,0.407,4:42
+4,3:36,MIA,Vladislav Goldin,Offensive Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,112,113,0.396,0.479,3:48
+4,3:09,MIA,Jahmir Young,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,112,113,0.266,0.395,3:15
+4,3:05,MIA,Myron Gardner,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,112,113,0.265,0.266,3:09
+4,1:38,ORL,Colin Castleton,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,114,121,0.183,0.056,1:36
+4,1:08,MIA,Ethan Thompson,Shooting Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,115,123,0.007,0.026,1:08
+4,11.0,MIA,Vladislav Goldin,Loose Ball Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,118,123,0.003,0.017,12.0
+4,3.3,MIA,Myron Gardner,Personal Foul,Foul,Kevin Cutler,Michael Smith,John Butler,MIA,118,124,0.001,0.002,5.1

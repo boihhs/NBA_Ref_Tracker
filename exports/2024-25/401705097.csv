@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,BKN,Nic Claxton,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,2,7,0.729,0.733,10:41
+1,10:12,DEN,Christian Braun,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,4,7,0.717,0.747,10:15
+1,8:48,BKN,Ziaire Williams,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,8,13,0.716,0.72,8:59
+1,6:30,BKN,Noah Clowney,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,12,20,0.665,0.632,6:45
+1,6:11,BKN,Jalen Wilson,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,14,20,0.691,0.65,6:11
+1,5:09,DEN,Nikola Jokic,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,17,20,0.711,0.735,5:17
+1,4:37,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,19,22,0.746,0.708,4:37
+1,4:24,DEN,Peyton Watson,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,20,22,0.694,0.729,4:37
+1,4:17,BKN,Tyrese Martin,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,20,24,0.739,0.706,4:24
+1,3:28,BKN,Ben Simmons,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,24,27,0.754,0.725,3:42
+1,26.0,DEN,Christian Braun,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,32,34,0.686,0.698,26.0
+1,7.1,BKN,Ben Simmons,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,32,36,0.711,0.675,26.0
+2,10:51,DEN,Julian Strawther,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,35,36,0.676,0.712,10:52
+2,9:32,BKN,Nic Claxton,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,37,40,0.698,0.651,9:32
+2,8:37,DEN,Julian Strawther,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,38,40,0.671,0.673,8:43
+2,8:34,DEN,Peyton Watson,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,38,40,0.632,0.671,8:37
+2,7:41,DEN,DeAndre Jordan,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,40,42,0.624,0.666,7:56
+2,7:04,DEN,Christian Braun,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,40,42,0.618,0.66,7:06
+2,6:12,BKN,Ziaire Williams,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,42,46,0.668,0.624,6:13
+2,5:37,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,43,46,0.69,0.652,5:50
+2,5:12,BKN,Ben Simmons,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,45,48,0.687,0.646,5:20
+2,3:35,BKN,Jalen Wilson,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,53,48,0.844,0.811,3:35
+2,2:17,DEN,Jalen Pickett,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,56,50,0.795,0.827,2:18
+2,1:20,BKN,Noah Clowney,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,58,55,0.816,0.785,1:31
+3,10:13,BKN,Ziaire Williams,Flopping Technical,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,73,61,0.934,0.924,10:13
+3,5:41,DEN,Russell Westbrook,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,87,68,0.983,0.983,5:58
+3,4:47,BKN,Tosan Evbuomwan,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,89,68,0.994,0.993,4:47
+3,4:00,DEN,Julian Strawther,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,90,71,0.986,0.986,4:04
+3,3:57,BKN,Jalen Wilson,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,90,71,0.989,0.986,4:00
+3,3:18,DEN,Julian Strawther,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,92,73,0.987,0.99,3:28
+3,2:27,DEN,Jalen Pickett,Loose Ball Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,94,73,0.993,0.993,2:27
+3,51.1,DEN,DeAndre Jordan,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,94,78,0.975,0.984,51.1
+3,39.0,BKN,Keon Johnson,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,94,79,0.987,0.979,51.1
+4,11:40,DEN,Peyton Watson,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,94,79,0.977,0.983,11:49
+4,10:26,BKN,Tosan Evbuomwan,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,94,82,0.969,0.964,10:39
+4,9:48,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,94,85,0.956,0.93,10:04
+4,8:01,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,97,92,0.85,0.838,8:01
+4,5:57,BKN,Keon Johnson,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,101,95,0.935,0.891,6:22
+4,5:48,DEN,Russell Westbrook,Personal Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,103,95,0.922,0.923,5:57
+4,5:20,BKN,Jalen Wilson,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,103,97,0.94,0.903,5:35
+4,5:07,BKN,Ben Simmons,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,105,97,0.971,0.952,5:10
+4,4:44,BKN,Jalen Wilson,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,107,97,0.988,0.979,4:49
+4,2:29,DEN,Russell Westbrook,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,John Conley,DEN,117,102,0.998,0.999,2:29

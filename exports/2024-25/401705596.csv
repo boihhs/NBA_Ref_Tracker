@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:21,UTAH,Cody Williams,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,3,6,0.069,0.079,9:28
+1,8:32,UTAH,Kyle Filipowski,Loose Ball Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,5,9,0.075,0.074,8:32
+1,4:23,UTAH,KJ Martin,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,11,19,0.057,0.057,4:25
+1,4:19,UTAH,KJ Martin,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,11,19,0.049,0.057,4:23
+1,2:40,CLE,Donovan Mitchell,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,14,25,0.057,0.048,2:53
+1,2:00,UTAH,Johnny Juzang,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,15,25,0.041,0.048,2:06
+1,1:46,CLE,De'Andre Hunter,Flagrant Foul Type 1,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,15,26,0.048,0.049,1:59
+2,11:34,UTAH,KJ Martin,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,22,30,0.061,0.074,11:34
+2,10:56,CLE,Ty Jerome,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,26,31,0.114,0.094,10:56
+2,9:31,UTAH,Johnny Juzang,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,30,31,0.13,0.15,9:43
+2,7:53,UTAH,Collin Sexton,Loose Ball Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,30,34,0.118,0.117,7:53
+2,6:56,CLE,Isaac Okoro,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,33,34,0.215,0.184,6:57
+2,6:33,UTAH,Collin Sexton,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,36,34,0.198,0.229,6:36
+2,5:45,UTAH,Isaiah Collier,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,36,36,0.165,0.192,5:51
+2,5:12,UTAH,Cody Williams,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,36,38,0.136,0.159,5:12
+2,4:30,CLE,Jarrett Allen,Loose Ball Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,36,38,0.182,0.182,4:30
+2,1:35,UTAH,Kyle Filipowski,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,43,44,0.17,0.2,1:47
+2,41.1,UTAH,Collin Sexton,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,45,47,0.155,0.186,51.2
+2,27.0,UTAH,Keyonte George,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,45,50,0.117,0.147,27.0
+2,3.1,CLE,De'Andre Hunter,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,45,51,0.158,0.131,6.1
+3,11:49,UTAH,Walker Kessler,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,45,51,0.116,0.124,12:00
+3,10:47,CLE,Darius Garland,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,45,51,0.135,0.135,10:51
+3,9:55,CLE,Donovan Mitchell,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,45,53,0.105,0.105,9:55
+3,9:29,UTAH,Collin Sexton,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,45,53,0.072,0.091,9:37
+3,9:07,UTAH,Walker Kessler,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,45,58,0.035,0.048,9:07
+3,6:34,CLE,Evan Mobley,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,45,66,0.008,0.008,6:49
+3,5:58,CLE,Jarrett Allen,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,47,68,0.011,0.008,6:08
+3,5:32,CLE,Darius Garland,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,47,71,0.005,0.003,5:46
+3,5:05,UTAH,Walker Kessler,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,49,73,0.002,0.003,5:05
+3,4:45,CLE,Ty Jerome,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,49,74,0.003,0.002,5:05
+3,2:26,UTAH,KJ Martin,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,59,81,0.001,0.002,2:34
+3,1:22,CLE,Isaac Okoro,Loose Ball Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,59,85,0.001,0.001,1:22
+4,9:40,UTAH,Collin Sexton,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,70,93,0.001,0.001,9:41
+4,8:35,CLE,Craig Porter Jr.,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,73,98,0.001,0.001,8:41
+4,5:59,CLE,Craig Porter Jr.,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,81,104,0.001,0.001,6:10
+4,5:52,CLE,Javonte Green,Personal Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,81,104,0.001,0.001,5:59
+4,5:18,UTAH,Cody Williams,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,84,106,0.001,0.001,5:18
+4,4:04,UTAH,Isaiah Collier,Loose Ball Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,84,109,0.001,0.001,4:18
+4,3:48,UTAH,Cody Williams,Shooting Foul,Foul,Rodney Mott,Andy Nagy,Tyler Ford,UTAH,84,109,0.001,0.001,3:50

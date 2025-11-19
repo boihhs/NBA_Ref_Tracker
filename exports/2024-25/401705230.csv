@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:27,DET,Cade Cunningham,Personal Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,0,0,0.593,0.593,10:36
+1,9:04,IND,Ben Sheppard,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,8,2,0.677,0.711,9:18
+1,8:07,DET,Tobias Harris,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,12,4,0.786,0.751,8:07
+1,6:54,DET,Tobias Harris,Personal Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,18,6,0.842,0.843,7:07
+1,5:04,DET,Cade Cunningham,Personal Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,26,13,0.88,0.86,5:15
+1,4:31,IND,Jarace Walker,Personal Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,28,13,0.875,0.875,4:34
+1,3:50,DET,Simone Fontecchio,Personal Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,31,19,0.869,0.846,3:57
+1,3:32,IND,James Johnson,Double Technical Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,31,22,0.781,0.795,3:32
+1,2:29,IND,Thomas Bryant,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,33,22,0.785,0.814,2:49
+1,2:10,IND,Jarace Walker,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,35,23,0.805,0.832,2:20
+1,13.1,DET,Malik Beasley,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,39,31,0.809,0.779,17.0
+2,10:39,DET,Isaiah Stewart,Loose Ball Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,44,33,0.837,0.839,10:39
+2,8:45,DET,Isaiah Stewart,Flagrant Foul Type 2,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,50,36,0.886,0.891,8:45
+2,8:04,DET,Ausar Thompson,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,50,39,0.867,0.842,8:26
+2,7:06,DET,Cade Cunningham,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,53,39,0.913,0.893,7:11
+2,7:06,DET,Cade Cunningham,Technical Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,53,39,0.902,0.913,7:06
+2,5:09,IND,Aaron Nesmith,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,61,45,0.902,0.925,5:09
+2,3:45,IND,Myles Turner,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,63,51,0.825,0.854,3:47
+2,3:09,IND,Pascal Siakam,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,66,53,0.847,0.873,3:25
+2,2:23,IND,Aaron Nesmith,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,66,58,0.753,0.795,2:23
+2,1:37,IND,Ben Sheppard,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,66,60,0.697,0.747,1:37
+2,1:13,IND,Pascal Siakam,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,68,60,0.733,0.778,1:14
+2,37.2,DET,Marcus Sasser,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,70,62,0.835,0.798,48.1
+3,11:34,IND,Myles Turner,Loose Ball Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,74,64,0.827,0.826,11:34
+3,10:23,DET,Jalen Duren,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,76,68,0.844,0.809,10:41
+3,8:23,DET,Tim Hardaway Jr.,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,83,72,0.908,0.881,8:50
+3,7:43,DET,Ausar Thompson,Personal Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,84,76,0.818,0.818,7:58
+3,7:15,IND,Ben Sheppard,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,84,76,0.749,0.794,7:24
+3,6:47,DET,Ausar Thompson,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,84,78,0.81,0.769,6:48
+3,5:57,IND,Myles Turner,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,86,78,0.754,0.8,6:05
+3,5:22,DET,Malik Beasley,Personal Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,86,82,0.759,0.704,5:40
+3,4:02,IND,Myles Turner,Technical Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,92,87,0.681,0.708,4:02
+3,3:48,DET,Jalen Duren,Offensive Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,92,88,0.711,0.672,4:02
+3,2:12,IND,Thomas Bryant,Loose Ball Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,98,90,0.771,0.823,2:12
+3,1:50,DET,Paul Reed,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,98,92,0.84,0.794,2:08
+4,9:16,IND,Pascal Siakam,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,109,96,0.935,0.961,9:20
+4,7:37,DET,Paul Reed,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,109,101,0.939,0.898,8:00
+4,7:18,IND,T.J. McConnell,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,111,101,0.881,0.929,7:24
+4,5:58,DET,Cade Cunningham,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,111,105,0.913,0.856,6:17
+4,5:58,DET,DET,Technical Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,112,105,0.917,0.917,5:58
+4,3:20,DET,Tim Hardaway Jr.,Technical Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,120,109,0.993,0.988,3:34
+4,2:51,IND,Pascal Siakam,Shooting Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,124,111,0.992,0.998,2:51
+4,1:02,IND,Johnny Furphy,Personal Foul,Foul,Tyler Ford,Evan Scott,Suyash Mehta,IND,133,114,0.999,0.999,1:15

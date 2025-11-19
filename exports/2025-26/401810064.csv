@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,PHI,Kelly Oubre Jr.,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,4,2,0.52,0.52,10:54
+1,9:16,PHI,Trendon Watford,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,7,7,0.431,0.47,9:30
+1,7:12,BOS,Josh Minott,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,12,11,0.521,0.522,7:12
+1,6:34,PHI,VJ Edgecombe,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,14,11,0.549,0.55,6:54
+1,5:54,BOS,Derrick White,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,14,11,0.616,0.577,6:13
+1,5:03,PHI,Tyrese Maxey,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,16,11,0.564,0.606,5:06
+1,33.4,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,23,19,0.544,0.587,44.5
+1,26.2,PHI,Jared McCain,Offensive Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,23,20,0.556,0.583,33.4
+1,7.6,PHI,Justin Edwards,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,23,20,0.513,0.556,26.2
+1,2.4,BOS,Hugo Gonzalez,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,23,22,0.569,0.527,7.6
+2,10:17,BOS,Hugo Gonzalez,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,23,24,0.515,0.473,10:39
+2,8:57,PHI,Justin Edwards,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,29,27,0.533,0.533,9:20
+2,7:04,BOS,Josh Minott,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,34,29,0.675,0.626,7:04
+2,5:18,BOS,Derrick White,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,40,31,0.786,0.742,5:18
+2,4:42,BOS,Josh Minott,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,43,33,0.811,0.772,4:42
+2,4:08,BOS,Jordan Walsh,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,43,33,0.83,0.797,4:09
+2,4:08,PHI,Andre Drummond,Technical Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,43,33,0.754,0.83,4:08
+2,3:52,PHI,Jabari Walker,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,45,34,0.781,0.799,3:52
+2,3:29,PHI,Kelly Oubre Jr.,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,45,35,0.777,0.778,3:32
+2,2:46,PHI,Trendon Watford,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,45,37,0.682,0.726,2:55
+2,1:28,PHI,Trendon Watford,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,47,37,0.748,0.786,1:38
+3,11:16,BOS,Jaylen Brown,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,51,43,0.792,0.773,11:16
+3,10:31,PHI,Tyrese Maxey,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,53,43,0.802,0.801,10:35
+3,7:42,BOS,Jaylen Brown,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,55,54,0.579,0.55,7:44
+3,7:11,BOS,Payton Pritchard,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,57,57,0.571,0.513,7:22
+3,5:47,PHI,Jabari Walker,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,61,59,0.554,0.554,5:47
+3,3:20,PHI,Jabari Walker,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,66,65,0.483,0.561,3:20
+3,1:45,PHI,Quentin Grimes,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,68,71,0.303,0.379,1:45
+3,1:19,BOS,Luka Garza,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,68,71,0.448,0.377,1:23
+3,16.9,PHI,Justin Edwards,Offensive Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,68,74,0.204,0.251,34.3
+4,11:48,BOS,Anfernee Simons,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,71,77,0.317,0.224,12:00
+4,11:14,BOS,Payton Pritchard,Offensive Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,73,77,0.328,0.279,11:24
+4,10:04,PHI,Quentin Grimes,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,75,77,0.28,0.368,10:07
+4,6:15,PHI,Andre Drummond,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,84,90,0.104,0.137,6:15
+4,3:48,BOS,Neemias Queta,Offensive Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,95,94,0.61,0.532,4:01
+4,3:10,BOS,Jordan Walsh,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,95,96,0.59,0.457,3:24
+4,2:06,PHI,Kelly Oubre Jr.,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,100,96,0.772,0.795,2:20
+4,2:01,PHI,Tyrese Maxey,Personal Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,100,96,0.651,0.772,2:06
+4,33.5,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,James Williams,Brian Forte,Jenna Reneau,PHI,100,99,0.359,0.511,45.0

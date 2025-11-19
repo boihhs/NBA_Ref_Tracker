@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:57,SAC,Zach LaVine,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,2,3,0.763,0.736,11:04
+1,9:35,CLE,Jarrett Allen,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,5,5,0.697,0.731,9:57
+1,7:57,CLE,Jarrett Allen,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,12,11,0.727,0.761,7:57
+1,7:27,SAC,Trey Lyles,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,14,12,0.804,0.78,7:30
+1,6:52,SAC,Keon Ellis,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,16,15,0.757,0.758,7:03
+1,3:34,SAC,DeMar DeRozan,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,23,23,0.755,0.722,3:44
+1,3:20,CLE,Evan Mobley,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,23,25,0.633,0.674,3:20
+2,8:22,CLE,Donovan Mitchell,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,33,35,0.561,0.606,8:24
+2,6:32,SAC,Malik Monk,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,38,39,0.653,0.656,6:42
+2,32.1,SAC,Domantas Sabonis,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,56,51,0.826,0.794,50.1
+3,11:33,SAC,DeMar DeRozan,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,57,56,0.725,0.681,11:35
+3,11:13,CLE,Max Strus,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,58,56,0.677,0.679,11:33
+3,10:22,CLE,Donovan Mitchell,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,60,56,0.736,0.737,10:45
+3,6:57,SAC,Domantas Sabonis,Offensive Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,70,64,0.818,0.789,7:15
+3,6:41,SAC,Trey Lyles,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,70,64,0.852,0.818,6:57
+3,6:28,CLE,De'Andre Hunter,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,71,64,0.775,0.817,6:38
+3,6:04,SAC,Domantas Sabonis,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,71,67,0.804,0.761,6:13
+3,5:03,CLE,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,73,69,0.673,0.727,5:25
+3,5:03,CLE,Max Strus,Technical Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,73,69,0.7,0.673,5:03
+3,4:12,CLE,De'Andre Hunter,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,73,74,0.462,0.527,4:13
+3,2:41,CLE,Sam Merrill,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,75,81,0.263,0.339,2:41
+3,37.0,CLE,Sam Merrill,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,77,87,0.091,0.13,52.1
+4,11:20,SAC,Zach LaVine,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,81,91,0.172,0.107,11:20
+4,11:10,SAC,Malik Monk,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,83,91,0.251,0.166,11:10
+4,10:40,SAC,Keon Ellis,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,86,91,0.397,0.288,10:40
+4,8:38,SAC,Zach LaVine,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,93,95,0.542,0.428,8:38
+4,7:47,CLE,Sam Merrill,Shooting Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,96,95,0.505,0.606,8:06
+4,5:28,CLE,Jarrett Allen,Loose Ball Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,104,105,0.438,0.453,5:28
+4,3:45,CLE,Jarrett Allen,Offensive Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,109,110,0.427,0.511,3:52
+4,27.1,CLE,Max Strus,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,113,118,0.014,0.062,34.0
+4,25.2,CLE,Donovan Mitchell,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,113,118,0.013,0.014,27.1
+4,2.0,CLE,Isaac Okoro,Personal Foul,Foul,Courtney Kirkland,Eric Dalen,Brandon Schwab,CLE,113,118,0.001,0.019,6.2

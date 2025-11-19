@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:34,POR,Toumani Camara,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,0,0,0.522,0.522,11:37
+1,10:32,POR,Shaedon Sharpe,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,2,5,0.45,0.449,10:40
+1,8:57,POR,Shaedon Sharpe,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,6,9,0.484,0.448,9:02
+1,8:23,POR,Donovan Clingan,Loose Ball Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,10,9,0.586,0.55,8:23
+1,6:53,DAL,P.J. Washington,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,15,13,0.51,0.55,7:00
+1,6:19,POR,Kris Murray,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,15,17,0.509,0.47,6:28
+1,4:29,DAL,Dereck Lively II,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,19,22,0.374,0.388,5:05
+1,4:24,POR,Sidy Cissoko,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,19,24,0.429,0.361,5:11
+1,3:08,DAL,Moussa Cisse,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,20,26,0.313,0.359,3:08
+1,1:05,POR,Rayan Rupert,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,24,29,0.424,0.383,1:13
+2,11:31,DAL,Caleb Martin,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,29,37,0.239,0.273,11:43
+2,11:23,POR,Shaedon Sharpe,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,29,39,0.287,0.249,11:31
+2,9:40,DAL,Klay Thompson,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,35,44,0.243,0.244,9:56
+2,9:21,POR,Rayan Rupert,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,35,44,0.268,0.268,9:23
+2,7:52,DAL,Dereck Lively II,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,40,44,0.351,0.37,7:52
+2,6:56,DAL,Caleb Martin,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,43,46,0.356,0.402,6:59
+2,6:27,DAL,Dereck Lively II,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,43,47,0.325,0.37,6:35
+2,5:12,POR,Sidy Cissoko,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,45,52,0.306,0.308,5:20
+2,4:32,POR,Robert Williams III,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,47,52,0.388,0.334,4:32
+2,4:01,POR,Donovan Clingan,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,48,54,0.38,0.335,4:15
+2,1:24,POR,Donovan Clingan,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,51,56,0.403,0.357,1:42
+2,34.4,DAL,Cooper Flagg,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,55,59,0.305,0.35,43.8
+2,28.1,POR,Deni Avdija,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,55,61,0.371,0.323,34.4
+3,8:40,DAL,Daniel Gafford,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,67,73,0.225,0.268,8:59
+3,7:56,POR,Toumani Camara,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,69,75,0.326,0.265,7:56
+3,6:08,DAL,Dereck Lively II,Offensive Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,75,77,0.401,0.444,6:19
+3,5:46,POR,Jerami Grant,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,77,77,0.556,0.482,5:46
+3,5:13,DAL,Moussa Cisse,Loose Ball Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,77,77,0.483,0.482,5:13
+3,4:23,POR,Sidy Cissoko,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,79,81,0.438,0.44,4:34
+3,1:08,DAL,Dereck Lively II,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,84,89,0.2,0.257,1:23
+3,37.4,POR,Caleb Love,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,84,91,0.28,0.219,46.0
+4,9:31,POR,Donovan Clingan,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,91,96,0.355,0.271,9:48
+4,9:10,DAL,Naji Marshall,Offensive Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,93,98,0.222,0.271,9:18
+4,8:40,POR,Deni Avdija,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,93,100,0.191,0.18,8:50
+4,7:59,DAL,Daniel Gafford,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,98,100,0.316,0.371,8:17
+4,7:37,DAL,Cooper Flagg,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,98,101,0.289,0.304,7:37
+4,6:07,POR,Deni Avdija,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,104,104,0.61,0.464,6:07
+4,4:45,POR,Jerami Grant,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,105,106,0.601,0.476,4:55
+4,3:40,DAL,Dereck Lively II,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,111,106,0.767,0.825,3:54
+4,3:01,POR,Jerami Grant,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,111,108,0.868,0.784,3:09
+4,2:51,DAL,Daniel Gafford,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,112,108,0.661,0.784,2:58
+4,2:33,POR,Deni Avdija,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,112,110,0.765,0.713,2:33
+4,1:17,DAL,Cooper Flagg,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,115,114,0.401,0.544,1:29
+4,1:02,DAL,Klay Thompson,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,117,117,0.191,0.457,1:11
+4,51.7,POR,Toumani Camara,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,117,118,0.604,0.457,58.9
+5,4:13,POR,Toumani Camara,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,122,120,0.741,0.614,4:13
+5,3:24,POR,Shaedon Sharpe,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,123,123,0.553,0.539,3:44
+5,3:17,POR,Jerami Grant,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,123,123,0.572,0.553,3:24
+5,2:42,DAL,Brandon Williams,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,125,125,0.312,0.552,2:42
+5,2:31,POR,Deni Avdija,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,125,126,0.615,0.42,2:42
+5,1:39,POR,Deni Avdija,Personal Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,128,129,0.626,0.479,1:46
+5,48.9,DAL,Daniel Gafford,Shooting Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,134,131,0.669,0.872,48.9
+5,9.4,POR,Kris Murray,Personal Take Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,136,131,0.997,0.985,10.0
+5,4.3,POR,Shaedon Sharpe,Personal Take Foul,Foul,Michael Smith,David Guthrie,Andy Nagy,DAL,137,133,0.995,0.978,5.7

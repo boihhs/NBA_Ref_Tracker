@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:56,WSH,Kyshawn George,Offensive Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,8,7,0.919,0.91,9:09
+1,8:12,WSH,Justin Champagnie,Personal Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,8,7,0.916,0.917,8:24
+1,5:10,NY,Karl-Anthony Towns,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,15,18,0.833,0.858,5:10
+1,4:19,WSH,Justin Champagnie,Personal Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,17,21,0.838,0.838,4:18
+1,2:43,WSH,Corey Kispert,Offensive Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,17,21,0.826,0.808,2:46
+1,1:08,NY,Guerschon Yabusele,Offensive Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,19,25,0.754,0.777,1:26
+1,25.1,WSH,Corey Kispert,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,21,27,0.797,0.769,36.7
+2,9:50,NY,Miles McBride,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,27,32,0.721,0.738,9:50
+2,7:13,NY,Miles McBride,Flagrant Foul Type 1,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,34,34,0.824,0.818,7:15
+2,4:44,WSH,Marvin Bagley III,Loose Ball Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,40,40,0.82,0.82,4:44
+2,3:46,WSH,Bub Carrington,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,40,40,0.841,0.816,4:02
+2,3:25,WSH,Marvin Bagley III,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,42,40,0.87,0.848,3:28
+2,2:48,NY,Guerschon Yabusele,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,48,40,0.896,0.915,2:57
+2,1:30,NY,Jalen Brunson,Offensive Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,50,45,0.871,0.886,1:39
+2,56.2,NY,Josh Hart,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,50,51,0.778,0.766,56.2
+2,0.4,WSH,Alex Sarr,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,56,54,0.853,0.807,0.4
+3,11:46,WSH,Justin Champagnie,Personal Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,57,54,0.845,0.834,12:00
+3,9:32,WSH,Bilal Coulibaly,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,61,54,0.913,0.889,9:32
+3,8:24,WSH,Bilal Coulibaly,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,65,58,0.92,0.901,8:41
+3,7:19,WSH,Bilal Coulibaly,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,70,60,0.944,0.926,7:19
+3,6:35,NY,Karl-Anthony Towns,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,74,63,0.918,0.937,6:47
+3,5:09,WSH,Bub Carrington,Offensive Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,81,65,0.982,0.976,5:15
+3,2:47,NY,Guerschon Yabusele,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,91,65,0.998,0.998,2:47
+4,10:40,WSH,Marvin Bagley III,Personal Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,98,78,0.997,0.997,10:43
+4,9:58,NY,Karl-Anthony Towns,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,98,78,0.994,0.997,10:12
+4,9:46,WSH,Bub Carrington,Personal Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,98,80,0.996,0.996,9:58
+4,9:35,NY,OG Anunoby,Personal Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,98,80,0.994,0.994,9:37
+4,8:41,WSH,Bub Carrington,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,102,85,0.997,0.995,8:51
+4,4:16,WSH,Bilal Coulibaly,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,111,91,0.999,0.999,4:16
+4,3:40,WSH,Tristan Vukcevic,Personal Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,112,91,0.999,0.999,3:45
+4,3:37,NY,Mikal Bridges,Personal Take Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,114,91,0.999,0.999,3:40
+4,3:37,NY,NY,Delay Technical,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,114,91,0.999,0.999,3:37
+4,2:47,NY,Mohamed Diawara,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,114,96,0.999,0.999,2:48
+4,1:24,WSH,Tristan Vukcevic,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,114,102,0.999,0.999,1:35
+4,1:13,NY,Mohamed Diawara,Shooting Foul,Foul,Marc Davis,Natalie Sago,Agon Abazi,NY,114,102,0.994,0.998,1:21

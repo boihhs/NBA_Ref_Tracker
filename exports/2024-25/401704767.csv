@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:51,DET,Jaden Ivey,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,2,4,0.292,0.292,9:53
+1,4:29,HOU,Jalen Green,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,13,16,0.259,0.26,4:29
+1,2:40,HOU,Fred VanVleet,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,13,16,0.306,0.307,2:40
+1,2:04,HOU,Amen Thompson,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,13,16,0.326,0.308,2:04
+2,10:42,DET,Paul Reed,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,20,26,0.207,0.244,10:42
+2,10:22,HOU,Reed Sheppard,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,20,26,0.279,0.245,10:39
+2,7:35,DET,Isaiah Stewart,Loose Ball Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,31,26,0.532,0.532,7:35
+2,4:16,HOU,Jalen Green,Offensive Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,36,32,0.552,0.515,4:36
+2,2:52,DET,Paul Reed,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,36,32,0.476,0.524,3:06
+2,1:18,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,40,39,0.516,0.465,1:30
+2,1:08,DET,Paul Reed,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,42,39,0.447,0.501,1:18
+2,12.1,DET,Tobias Harris,Loose Ball Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,45,41,0.486,0.538,12.1
+3,11:44,DET,Tobias Harris,Defensive 3-Seconds Technical,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,45,43,0.482,0.49,12:00
+3,10:37,DET,Isaiah Stewart,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,47,45,0.477,0.478,10:47
+3,9:36,DET,Jaden Ivey,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,51,47,0.5,0.557,9:40
+3,8:53,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,51,49,0.524,0.525,8:53
+3,8:23,HOU,Dillon Brooks,Technical Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,51,51,0.479,0.451,8:24
+3,8:17,HOU,Alperen Sengun,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,52,51,0.488,0.488,8:23
+3,7:59,DET,Cade Cunningham,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,52,51,0.45,0.488,8:17
+3,4:52,DET,Cade Cunningham,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,56,53,0.484,0.545,5:10
+3,4:18,DET,Cade Cunningham,Technical Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,56,58,0.313,0.382,4:23
+3,3:44,HOU,Tari Eason,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,58,58,0.502,0.424,3:44
+3,3:30,DET,Malik Beasley,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,58,58,0.362,0.425,3:41
+3,3:13,HOU,Alperen Sengun,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,58,60,0.448,0.383,3:30
+3,2:37,DET,Paul Reed,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,60,64,0.236,0.302,2:37
+3,2:18,DET,Jaden Ivey,Loose Ball Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,60,65,0.177,0.268,2:37
+3,1:18,HOU,Jock Landale,Offensive Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,60,68,0.158,0.132,1:22
+3,6.1,HOU,Amen Thompson,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,62,70,0.199,0.153,22.2
+3,2.0,DET,Malik Beasley,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,64,70,0.137,0.181,6.1
+4,11:47,HOU,Jalen Green,Technical Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,64,74,0.115,0.096,11:47
+4,11:16,HOU,Jock Landale,Loose Ball Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,65,74,0.126,0.117,11:16
+4,11:16,HOU,Jock Landale,Technical Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,65,74,0.142,0.126,11:16
+4,10:39,HOU,Tari Eason,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,65,77,0.09,0.058,10:54
+4,7:06,DET,Isaiah Stewart,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,80,86,0.095,0.151,7:24
+4,6:17,HOU,Jock Landale,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,85,86,0.527,0.323,6:17
+4,5:57,DET,Paul Reed,Loose Ball Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,86,87,0.378,0.395,5:57
+4,5:26,HOU,Jalen Green,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,86,87,0.578,0.458,5:43
+4,5:16,HOU,Dillon Brooks,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,88,87,0.662,0.539,5:16
+4,3:28,HOU,Jalen Green,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,92,92,0.615,0.472,3:28
+4,3:17,DET,Paul Reed,Shooting Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,93,92,0.405,0.551,3:22
+4,15.1,DET,Cade Cunningham,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,98,100,0.074,0.194,17.0
+4,8.0,DET,Isaiah Stewart,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,98,100,0.048,0.158,10.0
+4,6.0,HOU,Fred VanVleet,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,98,101,0.235,0.118,7.0
+4,1.0,HOU,Tari Eason,Personal Foul,Foul,Ed Malloy,Phenizee Ransom,John Conley,DET,99,101,0.306,0.029,1.0

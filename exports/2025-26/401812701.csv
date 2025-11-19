@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:19,IND,Cameron Payne,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,0,0,0.489,0.489,11:19
+1,10:01,IND,Bennedict Mathurin,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,0,4,0.368,0.412,10:01
+1,9:47,OKC,Cason Wallace,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,0,4,0.41,0.411,10:00
+1,9:34,OKC,Ousmane Dieng,Loose Ball Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,0,4,0.409,0.41,9:34
+1,7:54,IND,Cameron Payne,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,4,4,0.449,0.487,7:59
+1,6:32,IND,Quenton Jackson,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,10,8,0.501,0.539,6:38
+1,6:26,IND,Johnny Furphy,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,10,8,0.501,0.501,6:32
+1,3:47,IND,IND,Technical Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,18,16,0.521,0.569,3:47
+1,3:29,OKC,Malevy Leons,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,18,17,0.545,0.514,3:47
+1,3:20,OKC,Chris Youngblood,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,18,17,0.581,0.545,3:29
+1,2:38,IND,Quenton Jackson,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,22,19,0.548,0.593,2:38
+1,1:55,OKC,Malevy Leons,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,24,22,0.61,0.569,2:02
+1,1:20,IND,Jay Huff,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,28,25,0.529,0.571,1:27
+1,1.2,OKC,Isaiah Joe,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,28,29,0.507,0.484,1.2
+2,10:55,IND,Jay Huff,Offensive Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,30,31,0.453,0.487,11:10
+2,10:35,IND,Bennedict Mathurin,Away from Play Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,30,31,0.456,0.453,10:55
+2,9:34,OKC,Zack Austin,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,32,34,0.454,0.454,9:47
+2,9:16,OKC,Brooks Barnhizer,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,32,34,0.453,0.454,9:17
+2,9:10,OKC,Ousmane Dieng,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,32,34,0.498,0.453,9:16
+2,8:22,IND,Obi Toppin,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,34,37,0.351,0.393,8:26
+2,8:07,OKC,Zack Austin,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,36,40,0.415,0.363,8:07
+2,6:44,OKC,Chris Youngblood,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,41,46,0.384,0.33,6:44
+2,5:50,IND,Isaiah Jackson,Loose Ball Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,44,48,0.358,0.357,5:50
+2,5:36,IND,Jay Huff,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,44,48,0.316,0.358,5:50
+2,5:22,OKC,Malevy Leons,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,44,50,0.375,0.332,5:36
+2,5:12,IND,Cameron Payne,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,46,50,0.315,0.357,5:22
+2,4:45,OKC,Ajay Mitchell,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,46,51,0.403,0.359,4:51
+2,1:46,OKC,Aaron Wiggins,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,58,58,0.567,0.518,1:57
+2,1:16,OKC,Jazian Gortman,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,60,58,0.637,0.583,1:21
+2,15.0,OKC,Aaron Wiggins,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,61,58,0.672,0.624,33.9
+3,11:15,OKC,Jazian Gortman,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,62,58,0.705,0.659,11:28
+3,10:42,OKC,Ousmane Dieng,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,65,58,0.774,0.725,10:42
+3,10:11,IND,Johnny Furphy,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,68,60,0.732,0.785,10:11
+3,9:44,IND,Taelon Peter,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,71,61,0.812,0.81,9:56
+3,8:03,OKC,Zack Austin,Flagrant Foul Type 1,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,75,64,0.861,0.867,8:13
+3,6:22,OKC,Malevy Leons,Defensive 3-Seconds Technical,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,79,67,0.893,0.878,6:34
+3,5:41,IND,Gabe McGlothan,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,82,67,0.932,0.934,5:45
+3,4:45,OKC,Ousmane Dieng,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,84,67,0.977,0.968,4:50
+3,4:03,IND,Jay Huff,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,84,69,0.93,0.953,4:03
+3,3:37,IND,Jalen Slawson,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,84,70,0.919,0.93,3:37
+3,2:50,IND,Gabe McGlothan,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,87,70,0.953,0.966,3:06
+3,2:00,IND,Jay Huff,Loose Ball Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,87,71,0.947,0.972,2:08
+3,1:15,OKC,Jazian Gortman,Offensive Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,90,73,0.981,0.972,1:38
+3,7.6,OKC,Jazian Gortman,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,90,73,0.99,0.984,26.3
+3,2.1,IND,Jalen Slawson,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,91,73,0.977,0.985,6.0
+4,11:24,IND,Jalen Slawson,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,91,75,0.975,0.977,11:29
+4,11:21,IND,Jalen Slawson,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,91,75,0.959,0.975,11:24
+4,7:26,OKC,Malevy Leons,Shooting Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,100,81,0.998,0.998,7:26
+4,3:48,IND,Taelon Peter,Loose Ball Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,114,93,0.999,0.999,3:48
+4,3:04,OKC,Brooks Barnhizer,Personal Foul,Foul,Andy Nagy,Tyler Ford,Biniam Maru,IND,116,94,0.999,0.999,3:14

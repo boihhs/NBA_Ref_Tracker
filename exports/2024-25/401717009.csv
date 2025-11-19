@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:21,CLE,Jarrett Allen,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,14,10,0.655,0.616,7:30
+1,7:12,DET,Tim Hardaway Jr.,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,16,10,0.604,0.641,7:21
+1,6:07,DET,Jalen Duren,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,21,11,0.739,0.738,6:14
+1,5:17,DET,Jalen Duren,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,23,14,0.717,0.717,5:35
+1,4:45,DET,Cade Cunningham,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,23,16,0.634,0.67,4:45
+1,2:22,CLE,Ty Jerome,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,23,25,0.457,0.457,2:42
+1,2:12,CLE,Dean Wade,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,23,25,0.457,0.457,2:13
+1,1:03,DET,Simone Fontecchio,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,26,27,0.415,0.453,1:08
+1,19.0,DET,Ronald Holland II,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,28,30,0.387,0.428,21.0
+2,11:26,DET,Isaiah Stewart,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,31,34,0.356,0.396,11:39
+2,11:02,DET,Marcus Sasser,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,34,35,0.458,0.455,11:07
+2,11:02,DET,Marcus Sasser,Away from Play Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,34,35,0.459,0.458,11:02
+2,10:54,DET,Ronald Holland II,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,34,36,0.384,0.459,11:02
+2,10:48,DET,Isaiah Stewart,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,34,36,0.384,0.384,10:54
+2,10:41,CLE,Georges Niang,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,34,37,0.428,0.428,10:45
+2,9:41,DET,Isaiah Stewart,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,38,37,0.472,0.516,9:47
+2,9:20,CLE,Caris LeVert,Flagrant Foul Type 1,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,41,38,0.597,0.576,9:20
+2,8:21,DET,Isaiah Stewart,Offensive Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,45,41,0.605,0.636,8:32
+2,7:07,DET,Malik Beasley,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,47,43,0.563,0.607,7:09
+2,5:51,DET,Simone Fontecchio,Loose Ball Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,50,47,0.533,0.579,5:51
+2,5:39,CLE,Jarrett Allen,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,50,49,0.547,0.549,5:51
+2,5:10,CLE,Donovan Mitchell,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,50,49,0.574,0.549,5:10
+2,4:28,CLE,Georges Niang,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,52,51,0.598,0.548,4:39
+2,3:27,DET,Lamar Stevens,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,57,53,0.566,0.612,3:43
+2,3:17,DET,Marcus Sasser,Loose Ball Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,57,55,0.497,0.583,3:27
+2,2:46,CLE,Donovan Mitchell,Technical Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,57,57,0.541,0.518,2:46
+2,2:29,CLE,Evan Mobley,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,60,57,0.642,0.586,2:29
+2,1:12,DET,Daniss Jenkins,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,60,59,0.465,0.514,1:19
+3,11:27,DET,Paul Reed,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,63,61,0.553,0.555,11:40
+3,9:24,CLE,Donovan Mitchell,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,65,63,0.62,0.556,9:24
+3,8:23,CLE,Donovan Mitchell,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,66,65,0.556,0.556,8:41
+3,8:08,DET,Paul Reed,Loose Ball Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,66,65,0.519,0.518,8:08
+3,7:58,DET,Paul Reed,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,66,65,0.518,0.519,8:08
+3,6:30,DET,Paul Reed,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,72,67,0.618,0.674,6:43
+3,4:55,CLE,Dean Wade,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,75,71,0.68,0.683,5:09
+3,4:28,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,75,71,0.74,0.684,4:28
+3,3:36,DET,Tolu Smith,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,77,71,0.666,0.724,3:46
+3,47.1,CLE,Isaac Okoro,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,80,73,0.864,0.818,1:02
+3,28.0,DET,Ronald Holland II,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,81,73,0.765,0.822,28.0
+4,10:51,DET,Paul Reed,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,81,75,0.686,0.765,11:06
+4,10:25,CLE,Jaylon Tyson,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,81,77,0.736,0.724,10:27
+4,9:11,CLE,JT Thor,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,83,79,0.82,0.745,9:18
+4,8:13,DET,Lamar Stevens,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,86,79,0.797,0.838,8:31
+4,5:53,DET,Javante McCoy,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,94,85,0.872,0.925,6:05
+4,4:59,DET,Aaron Estrada,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,99,86,0.97,0.983,5:19
+4,3:21,CLE,Jules Bernard,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,104,90,0.999,0.997,3:42
+4,3:16,CLE,JT Thor,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,104,90,0.999,0.999,3:21
+4,1:11,DET,Daniss Jenkins,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,108,90,0.999,0.999,1:17
+4,38.1,CLE,Jules Bernard,Offensive Foul,Foul,Josh Tiven,Jason Goldenberg,Chelisa Painter,DET,108,92,0.999,0.999,45.2

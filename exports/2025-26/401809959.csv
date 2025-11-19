@@ -1,0 +1,54 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:44,PHX,Dillon Brooks,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,5,3,0.84,0.827,11:00
+1,9:43,DEN,Christian Braun,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,5,3,0.822,0.822,9:50
+1,9:31,PHX,Grayson Allen,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,5,3,0.836,0.836,9:38
+1,8:36,DEN,Nikola Jokic,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,9,3,0.871,0.872,8:41
+1,8:15,PHX,Oso Ighodaro,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,9,3,0.897,0.882,8:28
+1,7:11,PHX,Dillon Brooks,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,11,6,0.885,0.869,7:32
+1,7:07,DEN,Nikola Jokic,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,13,6,0.879,0.879,7:11
+1,5:46,PHX,Nick Richards,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,13,10,0.856,0.837,5:55
+1,4:55,DEN,Cameron Johnson,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,15,10,0.825,0.847,5:00
+1,4:34,PHX,Nick Richards,Flagrant Foul Type 1,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,15,10,0.857,0.846,4:37
+1,3:03,DEN,Jonas Valanciunas,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,23,15,0.862,0.894,3:06
+1,2:21,PHX,Nick Richards,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,23,17,0.887,0.869,2:36
+1,1:02,DEN,Bruce Brown,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,26,22,0.793,0.82,1:11
+1,50.1,PHX,Khaman Maluach,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,26,24,0.826,0.802,1:02
+1,2.8,DEN,Peyton Watson,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,31,26,0.808,0.834,12.2
+2,11:22,DEN,Peyton Watson,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,34,28,0.847,0.846,11:22
+2,7:33,DEN,Jonas Valanciunas,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,47,36,0.889,0.908,7:43
+2,7:20,PHX,Oso Ighodaro,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,47,38,0.905,0.897,7:20
+2,6:37,PHX,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,50,41,0.904,0.882,6:37
+2,6:19,PHX,Ryan Dunn,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,51,41,0.922,0.907,6:25
+2,5:05,PHX,Ryan Dunn,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,53,43,0.914,0.907,5:05
+2,4:52,DEN,Nikola Jokic,Flagrant Foul Type 1,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,55,43,0.92,0.917,5:05
+2,4:18,PHX,Oso Ighodaro,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,55,45,0.923,0.906,4:28
+2,4:02,DEN,Cameron Johnson,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,57,45,0.899,0.917,4:18
+2,3:15,PHX,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,57,48,0.912,0.892,3:18
+2,1:39,DEN,Tim Hardaway Jr.,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,65,53,0.898,0.919,1:57
+3,10:20,DEN,Cameron Johnson,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,75,57,0.962,0.972,10:29
+3,9:06,PHX,Devin Booker,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,75,61,0.953,0.953,9:06
+3,8:59,PHX,Oso Ighodaro,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,75,61,0.964,0.953,9:06
+3,8:35,PHX,Ryan Dunn,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,77,61,0.976,0.968,8:37
+3,8:27,DEN,Christian Braun,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,79,61,0.974,0.974,8:35
+3,5:05,DEN,Tim Hardaway Jr.,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,83,73,0.884,0.915,5:05
+3,4:22,PHX,Nick Richards,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,85,74,0.948,0.931,4:23
+3,3:14,DEN,Bruce Brown,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,88,74,0.939,0.956,3:14
+3,2:55,PHX,Dillon Brooks,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,90,74,0.983,0.973,2:55
+3,2:24,PHX,Oso Ighodaro,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,91,74,0.99,0.984,2:38
+3,2:07,PHX,Khaman Maluach,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,93,74,0.994,0.991,2:13
+3,1:57,DEN,Tim Hardaway Jr.,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,94,74,0.987,0.991,2:07
+3,3.3,PHX,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,98,83,0.988,0.981,12.7
+4,11:41,PHX,Nigel Hayes-Davis,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,102,83,0.996,0.993,11:41
+4,9:24,PHX,Ryan Dunn,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,108,89,0.997,0.997,9:38
+4,8:15,DEN,Jamal Murray,Personal Take Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,108,93,0.986,0.987,8:17
+4,8:14,DEN,Jamal Murray,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,108,93,0.985,0.986,8:15
+4,6:39,PHX,Grayson Allen,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,110,99,0.985,0.973,6:48
+4,5:39,PHX,Grayson Allen,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,112,99,0.994,0.99,5:52
+4,5:19,PHX,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,114,99,0.997,0.996,5:20
+4,5:12,PHX,PHX,Delay Technical,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,115,99,0.997,0.997,5:12
+4,5:12,PHX,Devin Booker,Technical Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,116,99,0.998,0.998,5:12
+4,2:59,DEN,Christian Braun,Personal Take Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,123,101,0.999,0.999,3:02
+4,2:25,PHX,Khaman Maluach,Personal Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,123,101,0.999,0.999,2:44
+4,1:29,DEN,Zeke Nnaji,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,124,104,0.999,0.999,1:33
+4,48.2,DEN,DaRon Holmes II,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,129,106,0.999,0.999,56.2
+4,27.2,PHX,Khaman Maluach,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,J.T. Orr,DEN,131,108,0.999,0.999,32.4

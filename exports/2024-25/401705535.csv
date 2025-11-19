@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:25,OKC,Cason Wallace,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,6,8,0.322,0.187,6:57
+1,6:41,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,9,18,0.214,0.322,9:25
+1,5:49,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,11,18,0.238,0.204,5:49
+1,2:37,DET,Malik Beasley,Offensive Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,15,23,0.186,0.207,2:40
+1,2:13,DET,Tobias Harris,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,15,23,0.188,0.186,2:20
+1,1:47,DET,Isaiah Stewart,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,18,23,0.215,0.246,1:54
+1,1:32,DET,Simone Fontecchio,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,18,23,0.215,0.215,1:47
+2,11:23,DET,Isaiah Stewart,Offensive Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,26,24,0.431,0.461,11:28
+2,10:54,DET,Ronald Holland II,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,28,24,0.492,0.492,11:06
+2,10:33,OKC,Cason Wallace,Offensive Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,28,24,0.525,0.493,10:37
+2,10:15,OKC,Ousmane Dieng,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,28,24,0.569,0.525,10:33
+2,9:12,DET,Dennis Schroder,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,36,26,0.677,0.678,9:21
+2,8:25,OKC,Cason Wallace,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,36,31,0.563,0.564,8:34
+2,8:04,OKC,Dillon Jones,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,36,31,0.565,0.567,8:05
+2,7:51,OKC,Dillon Jones,Loose Ball Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,36,31,0.612,0.567,7:51
+2,7:04,DET,Ronald Holland II,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,39,33,0.523,0.567,7:22
+2,3:51,DET,Ronald Holland II,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,48,41,0.573,0.623,3:56
+2,1:54,OKC,Kenrich Williams,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,50,50,0.484,0.434,2:14
+2,1:38,DET,Ausar Thompson,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,52,52,0.377,0.436,1:38
+2,25.1,DET,Jalen Duren,Offensive Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,54,55,0.373,0.407,33.1
+3,7:07,DET,Ausar Thompson,Technical Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,61,70,0.122,0.137,7:07
+3,6:17,OKC,Kenrich Williams,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,61,71,0.171,0.134,6:21
+3,4:52,OKC,Luguentz Dort,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,66,75,0.152,0.153,5:01
+3,4:02,DET,Dennis Schroder,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,68,77,0.126,0.126,4:15
+3,3:15,OKC,Cason Wallace,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,70,79,0.144,0.145,3:27
+3,2:52,OKC,Luguentz Dort,Offensive Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,73,79,0.231,0.197,3:05
+3,2:12,DET,Ronald Holland II,Loose Ball Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,73,79,0.193,0.193,2:12
+3,1:41,DET,Ronald Holland II,Offensive Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,73,82,0.111,0.135,1:47
+3,1:41,DET,DET,Technical Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,73,82,0.095,0.111,1:41
+3,1:17,OKC,Jaylin Williams,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,73,83,0.146,0.11,1:22
+3,1:05,DET,Simone Fontecchio,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,73,83,0.062,0.087,1:13
+3,47.1,DET,Isaiah Stewart,Loose Ball Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,73,84,0.048,0.069,47.1
+3,47.1,DET,Cade Cunningham,Technical Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,73,84,0.056,0.079,47.1
+3,47.1,DET,Dennis Schroder,Technical Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,73,85,0.045,0.052,47.1
+3,47.1,DET,Cade Cunningham,Technical Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,73,86,0.034,0.043,47.1
+4,10:04,OKC,Isaiah Joe,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,81,95,0.031,0.03,10:16
+4,8:36,DET,Jalen Duren,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,87,95,0.094,0.1,8:52
+4,8:32,DET,Tim Hardaway Jr.,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,87,95,0.09,0.094,8:36
+4,8:30,OKC,Isaiah Hartenstein,Offensive Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,87,95,0.122,0.09,8:32
+4,8:14,OKC,Kenrich Williams,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,87,95,0.183,0.122,8:30
+4,6:53,DET,Jalen Duren,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,89,97,0.047,0.085,7:14
+4,5:33,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,93,98,0.19,0.19,5:33
+4,5:15,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,93,98,0.288,0.19,5:33
+4,4:33,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,94,98,0.238,0.183,4:43
+4,3:15,DET,Ausar Thompson,Shooting Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,100,101,0.243,0.354,3:40
+4,13.0,DET,Ausar Thompson,Personal Foul,Foul,Brian Forte,Brett Nansel,Natalie Sago,DET,107,111,0.012,0.054,18.1

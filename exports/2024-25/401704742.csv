@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:26,CHI,Coby White,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,0,0,0.805,0.779,11:30
+1,8:28,CHI,Ayo Dosunmu,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,5,9,0.718,0.687,8:38
+1,8:10,DAL,Luka Doncic,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,9,9,0.747,0.748,8:18
+1,4:31,DAL,Daniel Gafford,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,24,13,0.885,0.902,4:35
+1,4:08,DAL,Dwight Powell,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,26,14,0.912,0.91,4:21
+1,3:12,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,26,16,0.87,0.89,3:15
+1,3:03,CHI,Josh Giddey,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,26,18,0.895,0.877,3:12
+1,2.1,CHI,Jalen Smith,Offensive Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,30,24,0.845,0.828,25.0
+1,0.0,CHI,Jalen Smith,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,30,24,0.867,0.845,2.1
+2,8:53,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,39,27,0.89,0.909,9:04
+2,8:12,CHI,Ayo Dosunmu,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,39,28,0.907,0.908,8:19
+2,7:50,CHI,Ayo Dosunmu,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,41,28,0.941,0.929,7:56
+2,7:32,CHI,Julian Phillips,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,43,31,0.918,0.918,7:41
+2,5:46,CHI,Torrey Craig,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,43,37,0.857,0.832,5:55
+2,5:27,DAL,Luka Doncic,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,45,37,0.849,0.849,5:46
+2,1:41,CHI,Dalen Terry,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,51,39,0.937,0.922,1:48
+2,48.1,DAL,Klay Thompson,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,53,41,0.888,0.909,50.0
+3,11:02,CHI,Nikola Vucevic,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,56,45,0.911,0.913,11:15
+3,5:59,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,73,54,0.974,0.981,6:08
+3,5:07,DAL,Dwight Powell,Offensive Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,75,56,0.983,0.986,5:21
+3,4:24,CHI,Nikola Vucevic,Flagrant Foul Type 1,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,75,59,0.973,0.974,4:42
+3,3:54,DAL,Spencer Dinwiddie,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,79,59,0.988,0.988,4:08
+3,2:15,CHI,Jalen Smith,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,81,61,0.995,0.993,2:36
+3,1:53,CHI,Patrick Williams,Offensive Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,82,61,0.995,0.993,2:01
+3,1:13,DAL,Quentin Grimes,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,84,61,0.995,0.997,1:32
+3,35.2,CHI,Patrick Williams,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,86,65,0.998,0.996,39.1
+4,9:52,DAL,Quentin Grimes,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,95,70,0.999,0.999,9:55
+4,9:42,DAL,Luka Doncic,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,95,70,0.998,0.999,9:52
+4,8:27,DAL,Dwight Powell,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,95,70,0.999,0.999,8:35
+4,7:58,CHI,Jalen Smith,Loose Ball Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,95,72,0.999,0.999,7:58
+4,7:36,CHI,Talen Horton-Tucker,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,95,72,0.999,0.999,7:43
+4,7:24,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,97,74,0.999,0.999,7:24
+4,4:52,DAL,Brandon Williams,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,107,78,0.999,0.999,4:58
+4,3:30,DAL,Kessler Edwards,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,109,84,0.999,0.999,3:32
+4,2:03,DAL,Jaden Hardy,Personal Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,111,89,0.999,0.999,2:12
+4,38.1,DAL,Kessler Edwards,Shooting Foul,Foul,Kevin Cutler,Tom Washington,Mitchell Ervin,DAL,116,95,0.999,0.999,45.2

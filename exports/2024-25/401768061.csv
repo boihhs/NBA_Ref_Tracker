@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:59,LAC,Kawhi Leonard,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,3,4,0.618,0.582,10:08
+1,6:06,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,16,14,0.605,0.648,6:06
+1,5:52,LAC,Ben Simmons,Personal Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,16,15,0.623,0.623,6:06
+1,3:01,LAC,Bogdan Bogdanovic,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,24,21,0.671,0.646,3:06
+1,2:39,LAC,Nicolas Batum,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,26,21,0.753,0.721,2:41
+2,11:14,DEN,Jalen Pickett,Loose Ball Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,31,27,0.669,0.67,11:14
+2,7:08,DEN,Christian Braun,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,37,34,0.595,0.636,7:19
+2,6:14,LAC,Kris Dunn,Personal Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,39,36,0.665,0.666,6:34
+2,6:02,LAC,Norman Powell,Personal Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,39,36,0.664,0.665,6:14
+2,4:18,LAC,Kris Dunn,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,44,39,0.741,0.695,4:18
+2,2:36,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,45,46,0.454,0.503,2:51
+3,10:28,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,56,55,0.509,0.567,10:47
+3,9:15,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,58,59,0.581,0.524,9:25
+3,7:18,DEN,Nikola Jokic,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,62,64,0.439,0.481,7:30
+3,6:56,LAC,Ivica Zubac,Personal Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,62,64,0.479,0.48,7:04
+3,5:28,LAC,Kris Dunn,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,65,68,0.494,0.435,5:48
+3,5:18,DEN,Jamal Murray,Personal Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,66,68,0.431,0.43,5:28
+3,5:18,DEN,Christian Braun,Double Technical Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,66,68,0.442,0.431,5:18
+3,5:18,LAC,Norman Powell,Double Technical Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,66,68,0.46,0.442,5:18
+3,5:18,LAC,Kris Dunn,Technical Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,66,68,0.504,0.46,5:18
+3,4:01,DEN,Christian Braun,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,69,70,0.465,0.511,4:05
+3,3:36,LAC,Ben Simmons,Personal Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,69,72,0.488,0.424,3:46
+3,3:11,DEN,Christian Braun,Personal Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,69,72,0.376,0.374,3:15
+3,3:02,DEN,Russell Westbrook,Personal Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,69,72,0.313,0.314,3:11
+3,2:34,LAC,Norman Powell,Personal Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,69,75,0.354,0.294,2:50
+3,2:07,DEN,Christian Braun,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,69,75,0.243,0.289,2:17
+3,1:37,LAC,James Harden,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,69,75,0.347,0.285,1:47
+3,1:28,LAC,Bogdan Bogdanovic,Offensive Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,71,75,0.365,0.32,1:37
+4,11:26,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,79,78,0.456,0.544,11:42
+4,10:20,DEN,Nikola Jokic,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,81,82,0.339,0.436,10:27
+4,7:38,LAC,Ivica Zubac,Loose Ball Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,86,89,0.368,0.358,7:38
+4,6:49,LAC,Bogdan Bogdanovic,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,89,89,0.649,0.541,6:56
+4,4:59,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,92,96,0.393,0.276,5:16
+4,3:31,LAC,Norman Powell,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,96,96,0.632,0.557,3:31
+4,3:08,DEN,Aaron Gordon,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,97,98,0.324,0.494,3:08
+4,1:16,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,Marat Kogut,Marc Davis,DEN,100,103,0.434,0.288,1:30

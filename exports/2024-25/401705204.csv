@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:09,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,0,0,0.522,0.562,11:15
+1,8:55,ORL,Jalen Suggs,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,2,4,0.505,0.505,8:56
+1,8:55,DET,Tobias Harris,Flagrant Foul Type 1,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,2,4,0.524,0.519,8:55
+1,8:40,ORL,Jalen Suggs,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,2,4,0.505,0.503,8:43
+1,8:09,DET,Tobias Harris,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,2,4,0.567,0.53,8:17
+1,7:57,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,3,4,0.49,0.528,8:09
+1,6:14,DET,Ausar Thompson,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,5,10,0.485,0.448,6:32
+1,4:34,ORL,Tristan da Silva,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,11,15,0.4,0.44,4:41
+1,3:57,DET,Cade Cunningham,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,11,17,0.433,0.412,3:57
+1,2:43,DET,Malik Beasley,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,13,19,0.449,0.408,2:53
+1,1:58,ORL,Anthony Black,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,16,22,0.334,0.378,2:13
+1,1:45,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,16,24,0.391,0.353,1:58
+2,12:00,DET,Isaiah Stewart,Technical Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,18,30,0.255,0.241,12:00
+2,11:44,ORL,Jalen Suggs,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,19,30,0.242,0.261,12:00
+2,11:19,DET,Ronald Holland II,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,19,30,0.299,0.259,11:26
+2,11:01,ORL,Tristan da Silva,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,21,30,0.248,0.285,11:19
+2,9:57,ORL,Cole Anthony,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,25,32,0.333,0.33,10:00
+2,9:12,DET,Malik Beasley,Technical Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,28,36,0.352,0.33,9:12
+2,9:07,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,29,36,0.328,0.359,9:12
+2,8:19,ORL,Jalen Suggs,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,29,38,0.235,0.27,8:20
+2,7:41,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,29,41,0.257,0.22,7:47
+2,5:26,ORL,Cole Anthony,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,36,43,0.27,0.312,5:29
+2,5:09,DET,Ronald Holland II,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,36,45,0.324,0.285,5:26
+2,4:39,DET,Ausar Thompson,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,37,45,0.354,0.308,4:46
+2,4:11,DET,Jalen Duren,Loose Ball Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,40,45,0.445,0.399,4:11
+2,3:16,ORL,Cole Anthony,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,44,45,0.44,0.493,3:20
+2,3:16,ORL,Cole Anthony,Technical Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,44,45,0.466,0.44,3:16
+2,26.1,DET,Isaiah Stewart,Loose Ball Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,53,53,0.604,0.555,26.1
+3,9:53,ORL,Franz Wagner,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,56,55,0.552,0.554,9:53
+3,9:41,ORL,Jalen Suggs,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,56,55,0.525,0.552,9:53
+3,9:31,DET,Jalen Duren,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,56,58,0.477,0.48,9:41
+3,9:20,DET,Cade Cunningham,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,56,58,0.534,0.477,9:31
+3,8:43,DET,Cade Cunningham,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,59,60,0.542,0.475,8:43
+3,8:07,DET,Jalen Duren,Offensive Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,62,60,0.625,0.588,8:22
+3,4:16,DET,Jalen Duren,Defensive 3-Seconds Technical,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,70,75,0.326,0.338,4:31
+3,3:38,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,74,75,0.535,0.456,3:38
+3,3:38,ORL,Paolo Banchero,Technical Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,74,75,0.424,0.535,3:38
+3,2:44,DET,Isaiah Stewart,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,75,76,0.568,0.454,3:13
+3,1:03,ORL,Jonathan Isaac,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,79,79,0.422,0.497,1:09
+3,1.1,ORL,Anthony Black,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,79,79,0.418,0.496,7.1
+4,10:46,DET,Marcus Sasser,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,86,81,0.818,0.735,10:46
+4,9:55,DET,Simone Fontecchio,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,88,83,0.8,0.789,10:07
+4,7:55,ORL,Wendell Carter Jr.,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,99,85,0.979,0.979,8:13
+4,7:40,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,99,85,0.978,0.981,7:40
+4,7:12,DET,Ausar Thompson,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,99,87,0.986,0.972,7:33
+4,6:48,ORL,Paolo Banchero,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,101,89,0.953,0.977,6:48
+4,6:01,DET,Ausar Thompson,Offensive Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,103,90,0.986,0.979,6:06
+4,6:01,DET,DET,Technical Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,103,90,0.989,0.986,6:01
+4,6:01,DET,DET,Technical Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,103,90,0.989,0.986,6:01
+4,4:46,DET,Jalen Duren,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,106,95,0.987,0.971,4:46
+4,4:41,ORL,Paolo Banchero,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,107,95,0.964,0.981,4:46
+4,3:52,DET,Jalen Duren,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,107,100,0.958,0.925,4:05
+4,2:37,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,112,105,0.862,0.985,6:01
+4,41.0,ORL,Jonathan Isaac,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Intae Hwang,ORL,121,112,0.985,0.997,41.0

@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,0,0,0.814,0.789,10:23
+1,9:12,MEM,Desmond Bane,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,3,0,0.832,0.834,9:23
+1,7:57,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,11,2,0.916,0.902,7:59
+1,5:41,OKC,Luguentz Dort,Away from Play Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,17,6,0.909,0.909,5:41
+1,5:24,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,17,7,0.882,0.91,5:41
+1,4:30,MEM,Marvin Bagley III,Offensive Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,17,9,0.887,0.874,4:37
+1,3:57,MEM,Marvin Bagley III,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,20,9,0.929,0.917,3:58
+1,3:48,OKC,Cason Wallace,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,22,9,0.925,0.925,3:57
+1,2:40,OKC,Jaylin Williams,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,22,12,0.876,0.896,2:43
+1,47.0,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,28,17,0.927,0.915,1:02
+2,9:59,OKC,Cason Wallace,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,40,23,0.944,0.955,10:11
+2,9:52,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,40,25,0.948,0.948,9:52
+2,9:32,MEM,Desmond Bane,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,42,25,0.964,0.954,9:32
+2,9:00,MEM,Luke Kennard,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,42,25,0.96,0.96,9:12
+2,1:29,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,66,45,0.974,0.98,1:29
+2,1.1,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,69,52,0.975,0.968,6.2
+3,5:19,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,84,72,0.926,0.927,5:25
+3,4:19,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,86,72,0.953,0.951,4:28
+3,2:10,OKC,Alex Caruso,Loose Ball Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,86,74,0.936,0.937,2:10
+3,1:49,OKC,Chet Holmgren,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,86,76,0.89,0.924,1:49
+3,1:06,MEM,John Konchar,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,86,77,0.933,0.908,1:16
+3,35.1,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,88,79,0.935,0.911,51.1
+4,9:38,OKC,Jalen Williams,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,97,79,0.992,0.993,9:42
+4,9:30,OKC,Cason Wallace,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,97,79,0.992,0.992,9:38
+4,8:04,OKC,Alex Caruso,Shooting Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,99,79,0.995,0.998,8:13
+4,7:30,MEM,MEM,Technical Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,101,81,0.999,0.995,7:30
+4,7:23,OKC,Jalen Williams,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,102,81,0.997,0.999,7:30
+4,4:49,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,109,86,0.999,0.999,5:04
+4,4:17,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,109,88,0.999,0.999,4:24
+4,1:37,MEM,Ja Morant,Personal Foul,Foul,John Goble,Brian Forte,Jason Goldenberg,OKC,112,96,0.999,0.999,1:50

@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:25,DET,Jalen Duren,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,3,2,0.636,0.671,10:38
+1,8:18,DET,Ausar Thompson,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,9,12,0.546,0.566,8:32
+1,7:09,DET,Ausar Thompson,Away from Play Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,11,20,0.359,0.426,7:09
+1,5:35,DET,Tobias Harris,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,13,27,0.228,0.264,5:44
+1,4:22,UTAH,Walker Kessler,Loose Ball Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,15,32,0.209,0.21,4:22
+1,4:15,DET,Cade Cunningham,Offensive Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,15,32,0.187,0.209,4:22
+1,2:46,UTAH,Brice Sensabaugh,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,15,39,0.103,0.085,3:03
+1,1:50,DET,Marcus Sasser,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,17,42,0.047,0.059,1:53
+2,11:42,UTAH,Drew Eubanks,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,19,48,0.039,0.032,11:51
+2,11:01,UTAH,Jordan Clarkson,Offensive Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,25,48,0.076,0.066,11:09
+2,10:38,DET,Ausar Thompson,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,27,48,0.088,0.087,10:46
+2,6:47,DET,Ronald Holland II,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,38,54,0.142,0.145,7:08
+2,6:31,UTAH,Walker Kessler,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,38,54,0.194,0.162,6:36
+2,6:19,UTAH,Collin Sexton,Offensive Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,40,54,0.205,0.182,6:31
+2,5:40,UTAH,John Collins,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,43,54,0.275,0.276,5:42
+2,4:50,DET,Marcus Sasser,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,43,54,0.205,0.242,5:00
+2,4:36,UTAH,Collin Sexton,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,43,56,0.254,0.217,4:50
+2,4:33,DET,Ronald Holland II,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,45,56,0.203,0.238,4:36
+2,4:21,DET,Jalen Duren,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,45,56,0.201,0.203,4:33
+2,1:50,UTAH,John Collins,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,52,65,0.233,0.197,2:08
+2,34.1,DET,Cade Cunningham,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,54,65,0.168,0.207,44.1
+3,9:05,DET,Cade Cunningham,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,60,78,0.045,0.049,9:12
+3,7:37,DET,Ausar Thompson,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,62,81,0.037,0.037,8:00
+3,7:33,DET,Cade Cunningham,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,62,81,0.025,0.037,7:37
+3,7:06,UTAH,Keyonte George,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,62,83,0.028,0.028,7:13
+3,7:00,UTAH,Brice Sensabaugh,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,62,83,0.039,0.028,7:06
+3,6:51,UTAH,John Collins,Offensive Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,63,83,0.033,0.026,6:57
+3,6:01,DET,Malik Beasley,Technical Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,67,83,0.05,0.058,6:04
+3,5:22,DET,Tobias Harris,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,67,84,0.03,0.044,5:30
+3,4:55,UTAH,Micah Potter,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,69,86,0.061,0.041,4:55
+3,1:37,UTAH,Jordan Clarkson,Double Technical Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,81,93,0.097,0.093,1:37
+3,1:29,DET,Marcus Sasser,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,81,93,0.057,0.104,1:29
+3,44.2,DET,Marcus Sasser,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,86,96,0.083,0.116,45.0
+4,11:47,DET,Ausar Thompson,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,86,97,0.077,0.081,11:48
+4,11:47,DET,DET,Technical Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,86,97,0.066,0.077,11:47
+4,11:36,DET,Simone Fontecchio,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,86,98,0.055,0.061,11:47
+4,10:33,UTAH,Collin Sexton,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,88,98,0.165,0.109,10:37
+4,8:48,UTAH,Drew Eubanks,Loose Ball Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,94,103,0.13,0.12,8:48
+4,8:09,UTAH,Drew Eubanks,Technical Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,96,103,0.221,0.145,8:09
+4,5:57,UTAH,John Collins,Offensive Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,99,112,0.021,0.021,5:57
+4,5:54,UTAH,Johnny Juzang,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,99,112,0.024,0.021,5:57
+4,3:54,DET,Jalen Duren,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,99,112,0.001,0.006,4:10
+4,2:33,UTAH,John Collins,Loose Ball Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,102,114,0.018,0.003,2:48
+4,1:17,DET,Cade Cunningham,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,109,117,0.005,0.016,1:20
+4,42.0,DET,Cade Cunningham,Personal Take Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,112,120,0.001,0.006,43.1
+4,29.2,DET,Tobias Harris,Shooting Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,115,122,0.002,0.011,37.1
+4,11.1,UTAH,Collin Sexton,Loose Ball Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,117,124,0.033,0.002,15.0
+4,9.1,DET,Ausar Thompson,Personal Foul,Foul,Brent Barnaky,Marc Davis,Simone Jelks,DET,119,124,0.003,0.017,11.1

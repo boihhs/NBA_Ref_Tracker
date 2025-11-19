@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:54,MIN,Rudy Gobert,Loose Ball Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,9,5,0.722,0.723,7:54
+1,6:42,MIN,Mike Conley,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,11,7,0.721,0.722,6:53
+1,5:41,MIN,Jaden McDaniels,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,13,9,0.722,0.72,5:41
+1,5:00,MIN,Julius Randle,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,17,11,0.777,0.741,5:00
+1,5:00,MIN,MIN,Technical Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,17,11,0.777,0.777,5:00
+1,3:30,PHX,Grayson Allen,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,18,11,0.762,0.763,3:33
+1,3:03,PHX,Mason Plumlee,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,18,13,0.716,0.738,3:20
+1,32.0,PHX,Ryan Dunn,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,25,20,0.68,0.713,46.0
+1,12.2,PHX,Bradley Beal,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,27,20,0.727,0.761,18.1
+2,11:48,MIN,Josh Minott,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,31,22,0.833,0.803,11:48
+2,9:56,MIN,Rudy Gobert,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,37,28,0.847,0.822,10:13
+2,9:22,PHX,Devin Booker,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,40,30,0.793,0.822,9:36
+2,9:06,MIN,Julius Randle,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,40,32,0.802,0.805,9:22
+2,9:01,PHX,Devin Booker,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,40,32,0.782,0.802,9:06
+2,7:41,MIN,Rob Dillingham,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,42,32,0.867,0.843,7:46
+2,3:18,PHX,Bradley Beal,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,51,45,0.696,0.738,3:19
+2,2:38,MIN,Anthony Edwards,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,51,50,0.666,0.62,2:50
+2,50.1,PHX,Royce O'Neale,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,57,50,0.724,0.767,1:05
+2,41.1,PHX,Kevin Durant,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,57,52,0.686,0.741,41.1
+2,14.1,PHX,Kevin Durant,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,59,53,0.695,0.738,30.1
+3,11:46,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,59,55,0.755,0.692,12:00
+3,10:13,PHX,Nick Richards,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,64,58,0.743,0.773,10:21
+3,8:20,PHX,Royce O'Neale,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,68,63,0.716,0.715,8:23
+3,7:06,PHX,Tyus Jones,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,70,66,0.685,0.684,7:19
+3,6:20,MIN,Jaden McDaniels,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,72,68,0.721,0.65,5:07
+3,5:07,MIN,MIN,Technical Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,72,70,0.679,0.721,6:20
+3,4:27,PHX,Bradley Beal,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,72,70,0.544,0.607,4:43
+3,2:24,PHX,Bradley Beal,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,74,76,0.39,0.47,2:24
+3,2:20,MIN,Jaylen Clark,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,74,76,0.471,0.469,2:20
+3,1:43,PHX,Bradley Beal,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,74,76,0.351,0.424,2:00
+3,2.1,PHX,Ryan Dunn,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,77,79,0.339,0.41,4.1
+4,10:58,PHX,Mason Plumlee,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,79,83,0.223,0.336,12:00
+4,10:24,PHX,Devin Booker,Loose Ball Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,79,85,0.19,0.202,10:24
+4,9:57,MIN,Mike Conley,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,79,88,0.187,0.126,9:58
+4,8:16,MIN,Julius Randle,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,85,93,0.183,0.109,8:16
+4,6:49,MIN,Julius Randle,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,86,100,0.021,0.018,6:56
+4,5:35,PHX,Nick Richards,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,88,102,0.008,0.009,5:44
+4,4:38,MIN,Rudy Gobert,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,91,104,0.012,0.009,4:58
+4,3:51,PHX,Devin Booker,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,94,106,0.003,0.009,4:06
+4,3:12,PHX,Royce O'Neale,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,94,108,0.001,0.001,3:27
+4,3:08,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,94,110,0.002,0.001,3:12
+4,3:07,MIN,Jaden McDaniels,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,95,110,0.004,0.001,3:07
+4,2:45,PHX,Grayson Allen,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,97,110,0.001,0.002,3:07
+4,2:01,MIN,Anthony Edwards,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,102,114,0.007,0.001,2:01
+4,1:06,PHX,Royce O'Neale,Personal Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,111,117,0.017,0.045,1:10
+4,40.0,PHX,Kevin Durant,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,113,119,0.009,0.035,49.1
+4,20.1,PHX,Kevin Durant,Double Technical Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,113,121,0.004,0.002,20.1
+4,20.1,PHX,Devin Booker,Double Technical Foul,Foul,Pat Fraher,Kevin Cutler,CJ Washington,PHX,113,121,0.004,0.004,20.1

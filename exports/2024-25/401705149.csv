@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:51,DAL,Klay Thompson,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,8,0,0.555,0.595,10:01
+1,7:20,DAL,P.J. Washington,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,10,4,0.511,0.552,7:21
+1,6:35,DAL,Kyrie Irving,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,10,5,0.486,0.525,6:38
+1,6:04,OKC,Luguentz Dort,Flopping Technical,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,10,9,0.448,0.448,6:11
+1,6:00,OKC,Luguentz Dort,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,11,9,0.474,0.478,6:04
+1,4:43,OKC,Aaron Wiggins,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,13,11,0.499,0.451,4:43
+1,4:19,OKC,Luguentz Dort,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,13,14,0.398,0.401,4:29
+1,2:45,OKC,Alex Caruso,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,18,17,0.498,0.458,2:54
+1,2:31,OKC,Kenrich Williams,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,18,17,0.498,0.498,2:45
+1,1:35,DAL,Daniel Gafford,Offensive Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,20,17,0.489,0.514,1:43
+2,10:41,OKC,Isaiah Joe,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,22,29,0.253,0.253,10:53
+2,9:34,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,25,29,0.264,0.299,9:45
+2,8:13,DAL,Dwight Powell,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,31,31,0.415,0.412,8:22
+2,7:33,OKC,Luguentz Dort,Technical Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,33,34,0.44,0.415,7:46
+2,7:30,OKC,Cason Wallace,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,34,34,0.447,0.448,7:33
+2,7:06,DAL,P.J. Washington,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,37,34,0.51,0.507,7:06
+2,7:06,OKC,Aaron Wiggins,Double Technical Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,37,34,0.533,0.51,7:06
+2,6:03,OKC,Aaron Wiggins,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,39,37,0.536,0.482,6:03
+2,3:55,OKC,Cason Wallace,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,44,41,0.578,0.552,4:13
+2,2:13,OKC,Jalen Williams,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,54,41,0.876,0.847,2:20
+2,1:59,DAL,Spencer Dinwiddie,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,55,41,0.815,0.846,2:10
+2,59.0,OKC,Aaron Wiggins,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,57,41,0.926,0.907,1:24
+2,1.1,OKC,Aaron Wiggins,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,61,43,0.952,0.934,10.0
+3,11:36,DAL,Daniel Gafford,Offensive Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,63,46,0.914,0.929,11:52
+3,7:28,OKC,Aaron Wiggins,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,63,55,0.771,0.768,7:39
+3,7:18,OKC,Jaylin Williams,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,63,55,0.815,0.771,7:28
+3,7:11,DAL,Kyrie Irving,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,65,55,0.802,0.801,7:18
+3,4:57,DAL,P.J. Washington,Flagrant Foul Type 1,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,67,60,0.736,0.725,5:08
+3,40.1,DAL,P.J. Washington,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,74,74,0.377,0.446,1:01
+3,23.1,OKC,Kenrich Williams,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,76,76,0.535,0.45,23.1
+4,11:11,OKC,Jaylin Williams,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,79,76,0.736,0.656,11:23
+4,10:43,OKC,Isaiah Joe,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,80,76,0.727,0.712,10:52
+4,6:02,OKC,Aaron Wiggins,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,88,85,0.781,0.658,6:02
+4,4:16,OKC,Isaiah Joe,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,94,91,0.808,0.685,4:16
+4,3:40,OKC,Jalen Williams,Offensive Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,95,91,0.833,0.831,3:45
+4,2:32,DAL,Naji Marshall,Personal Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,95,91,0.804,0.8,2:36
+4,43.1,DAL,Maxi Kleber,Shooting Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,101,93,0.952,0.983,54.0
+4,22.1,OKC,Jalen Williams,Technical Foul,Foul,Derrick Collins,James Williams,Suyash Mehta,DAL,103,95,0.998,0.997,22.1

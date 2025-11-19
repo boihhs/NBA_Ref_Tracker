@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:18,DET,Tim Hardaway Jr.,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,0,2,0.563,0.564,11:41
+1,10:43,BKN,Dorian Finney-Smith,Loose Ball Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,2,2,0.588,0.588,10:43
+1,7:06,DET,Tim Hardaway Jr.,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,12,13,0.578,0.58,7:16
+1,6:49,BKN,Dennis Schroder,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,12,13,0.514,0.578,7:06
+1,6:40,DET,Jalen Duren,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,12,14,0.552,0.553,6:49
+1,4:26,DET,Cade Cunningham,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,14,20,0.478,0.438,4:45
+1,4:01,BKN,Ziaire Williams,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,17,20,0.451,0.491,4:18
+1,3:18,DET,Isaiah Stewart,Loose Ball Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,20,22,0.584,0.543,3:18
+1,1:49,BKN,Nic Claxton,Loose Ball Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,24,25,0.499,0.536,1:49
+1,1:03,DET,Simone Fontecchio,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,24,27,0.551,0.508,1:03
+1,10.1,BKN,Ziaire Williams,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,25,27,0.465,0.506,27.1
+2,10:39,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,27,31,0.516,0.47,10:53
+2,10:19,BKN,Ziaire Williams,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,28,31,0.448,0.471,10:39
+2,10:01,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,28,34,0.454,0.411,10:19
+2,9:41,DET,Cade Cunningham,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,32,34,0.528,0.527,9:44
+2,8:15,BKN,Keon Johnson,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,36,36,0.532,0.584,8:15
+2,7:52,DET,Ronald Holland II,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,36,37,0.597,0.554,8:15
+2,7:43,BKN,Keon Johnson,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,37,37,0.552,0.551,7:52
+2,7:16,DET,Tim Hardaway Jr.,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,39,37,0.662,0.611,7:16
+2,6:34,DET,Ronald Holland II,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,40,37,0.71,0.668,6:34
+2,6:26,BKN,Cameron Johnson,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,42,37,0.655,0.695,6:34
+2,6:13,DET,Tobias Harris,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,42,37,0.761,0.724,6:19
+2,4:49,BKN,Cameron Johnson,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,44,40,0.624,0.668,4:52
+2,3:17,DET,Jalen Duren,Loose Ball Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,50,46,0.739,0.699,3:17
+2,2:22,BKN,Dennis Schroder,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,51,46,0.654,0.697,2:23
+2,1:48,DET,Jalen Duren,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,51,48,0.672,0.641,2:05
+2,1:03,DET,Malik Beasley,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,53,50,0.716,0.672,1:11
+2,27.1,DET,Jaden Ivey,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,57,52,0.73,0.699,35.1
+3,10:05,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,59,54,0.68,0.734,10:05
+3,8:30,DET,Jaden Ivey,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,63,57,0.788,0.738,8:30
+3,8:19,BKN,Ben Simmons,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,64,57,0.722,0.768,8:30
+3,7:15,BKN,Dorian Finney-Smith,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,69,61,0.799,0.799,7:24
+3,5:24,DET,Tim Hardaway Jr.,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,69,68,0.658,0.601,5:48
+3,3:08,BKN,Noah Clowney,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,73,75,0.389,0.465,3:08
+3,1:11,BKN,Nic Claxton,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,77,81,0.316,0.367,1:27
+3,43.1,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,77,83,0.342,0.277,53.1
+4,10:58,BKN,Nic Claxton,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,77,85,0.113,0.139,10:58
+4,10:46,DET,Isaiah Stewart,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,77,86,0.198,0.138,10:55
+4,10:11,DET,Malik Beasley,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,78,86,0.179,0.168,10:16
+4,9:13,DET,Isaiah Stewart,Flagrant Foul Type 1,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,82,89,0.203,0.156,9:14
+4,9:13,BKN,Nic Claxton,Technical Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,82,89,0.139,0.204,9:13
+4,8:43,BKN,Dennis Schroder,Loose Ball Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,83,90,0.148,0.157,8:43
+4,8:39,BKN,Keon Johnson,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,83,90,0.143,0.148,8:43
+4,7:17,DET,Malik Beasley,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,85,94,0.13,0.075,7:17
+4,6:35,BKN,Ben Simmons,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,85,94,0.07,0.1,6:52
+4,4:15,BKN,Nic Claxton,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,87,96,0.039,0.062,4:29
+4,2:04,BKN,Cameron Johnson,Loose Ball Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,90,101,0.001,0.003,2:04
+4,1:36,BKN,Nic Claxton,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,90,103,0.001,0.001,1:39
+4,54.1,DET,Cade Cunningham,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,90,104,0.001,0.001,58.0
+4,41.1,BKN,Noah Clowney,Personal Foul,Foul,Dedric Taylor,Karl Lane,Jenna Schroeder,BKN,92,104,0.001,0.001,54.1

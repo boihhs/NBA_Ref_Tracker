@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:07,CHI,Dalen Terry,Offensive Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,0,0,0.659,0.641,11:17
+1,9:59,CHI,Dalen Terry,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,4,2,0.717,0.681,9:59
+1,7:41,ATL,Trae Young,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,9,7,0.709,0.696,7:41
+1,6:34,ATL,Zaccharie Risacher,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,11,12,0.579,0.624,6:34
+1,2:45,CHI,Talen Horton-Tucker,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,16,26,0.359,0.36,2:48
+1,1:18,ATL,Larry Nance Jr.,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,16,29,0.213,0.247,1:19
+1,35.1,ATL,Trae Young,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,19,31,0.231,0.27,55.0
+1,1.1,CHI,Jalen Smith,Personal Take Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,21,33,0.33,0.29,4.1
+2,9:39,ATL,Zaccharie Risacher,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,29,42,0.22,0.222,9:47
+2,9:06,CHI,Torrey Craig,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,31,42,0.316,0.27,9:06
+2,7:57,CHI,Jalen Smith,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,34,47,0.272,0.237,8:04
+2,4:47,CHI,Dalen Terry,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,41,49,0.399,0.354,5:05
+2,2:55,ATL,Jalen Johnson,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,48,56,0.306,0.307,3:03
+2,2:17,CHI,Zach LaVine,Offensive Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,51,58,0.365,0.334,2:29
+2,2:13,CHI,Jevon Carter,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,51,58,0.416,0.365,2:17
+2,1:22,ATL,Larry Nance Jr.,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,53,60,0.282,0.324,1:30
+3,11:34,CHI,Coby White,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,53,64,0.221,0.224,11:37
+3,9:09,CHI,Dalen Terry,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,63,74,0.244,0.201,9:15
+3,8:08,CHI,Nikola Vucevic,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,68,79,0.235,0.193,8:26
+3,6:21,ATL,Zaccharie Risacher,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,77,87,0.172,0.173,6:28
+3,5:58,CHI,Nikola Vucevic,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,77,89,0.183,0.146,6:13
+3,5:21,ATL,Zaccharie Risacher,Offensive Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,79,89,0.163,0.193,5:35
+3,3:52,CHI,Julian Phillips,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,86,92,0.347,0.275,3:52
+3,3:14,ATL,Garrison Mathews,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,87,95,0.2,0.202,3:22
+3,2:48,ATL,De'Andre Hunter,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,87,98,0.084,0.113,2:54
+3,1:00,CHI,Julian Phillips,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,87,108,0.013,0.008,1:12
+3,17.1,CHI,Zach LaVine,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,89,108,0.021,0.012,17.1
+4,11:17,CHI,Torrey Craig,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,93,108,0.038,0.035,11:19
+4,9:40,ATL,Zaccharie Risacher,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,98,110,0.045,0.05,9:50
+4,9:06,CHI,Coby White,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,98,112,0.056,0.031,9:07
+4,7:55,CHI,Talen Horton-Tucker,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,101,119,0.012,0.006,8:07
+4,6:20,CHI,Torrey Craig,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,107,124,0.011,0.006,6:32
+4,5:58,CHI,Nikola Vucevic,Loose Ball Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,109,124,0.022,0.011,5:58
+4,3:58,CHI,Zach LaVine,Clear Path Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,118,126,0.15,0.089,3:58
+4,2:54,ATL,Jalen Johnson,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,126,126,0.487,0.495,3:03
+4,59.1,CHI,Jevon Carter,Personal Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,134,131,0.922,0.85,1:11
+4,29.1,CHI,Nikola Vucevic,Shooting Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,136,131,0.987,0.952,45.0
+4,29.1,CHI,Nikola Vucevic,Technical Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,136,131,0.977,0.987,29.1
+4,17.1,CHI,Jevon Carter,Personal Take Foul,Foul,Courtney Kirkland,Gediminas Petraitis,Jonathan Sterling,ATL,139,133,0.997,0.987,19.0

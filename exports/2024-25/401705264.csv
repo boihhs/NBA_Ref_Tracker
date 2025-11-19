@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,PHI,Tyrese Maxey,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,0,0,0.155,0.176,11:26
+1,10:10,PHI,Ricky Council IV,Transition Take Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,3,2,0.197,0.196,10:16
+1,7:41,BOS,Jrue Holiday,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,10,7,0.3,0.267,7:43
+1,7:11,BOS,Derrick White,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,14,10,0.308,0.27,7:11
+1,6:18,PHI,Ricky Council IV,Offensive Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,18,10,0.369,0.396,6:25
+1,5:25,BOS,Kristaps Porzingis,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,21,10,0.535,0.492,5:28
+1,4:16,BOS,Jaden Springer,Personal Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,21,18,0.325,0.29,4:20
+1,1:40,PHI,Adem Bona,Offensive Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,26,21,0.333,0.359,1:51
+1,1:07,PHI,Reggie Jackson,Personal Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,28,21,0.352,0.395,1:11
+1,32.1,BOS,Jayson Tatum,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,28,21,0.477,0.352,1:07
+2,11:41,PHI,Adem Bona,Loose Ball Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,32,21,0.532,0.534,11:41
+2,10:39,PHI,Kyle Lowry,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,32,21,0.497,0.544,10:47
+2,10:17,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,34,23,0.552,0.548,10:24
+2,9:30,PHI,Reggie Jackson,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,37,25,0.546,0.59,9:46
+2,8:43,BOS,Luke Kornet,Personal Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,37,26,0.603,0.597,9:02
+2,6:33,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,43,28,0.678,0.725,6:45
+2,5:50,BOS,Jaylen Brown,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,43,33,0.656,0.606,6:02
+2,3:21,BOS,Kristaps Porzingis,Personal Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,49,41,0.569,0.573,3:38
+2,1:21,BOS,Jaylen Brown,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,53,43,0.696,0.633,1:21
+2,1:11,PHI,Guerschon Yabusele,Personal Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,54,43,0.619,0.665,1:21
+2,39.1,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,57,44,0.815,0.775,39.1
+3,11:30,PHI,Guerschon Yabusele,Personal Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,61,44,0.864,0.861,11:39
+3,11:23,PHI,Justin Edwards,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,61,44,0.831,0.886,11:27
+3,11:10,BOS,Jrue Holiday,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,61,45,0.896,0.867,11:21
+3,10:46,PHI,Tyrese Maxey,Loose Ball Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,63,45,0.895,0.892,10:46
+3,8:41,BOS,Kristaps Porzingis,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,68,49,0.957,0.942,8:46
+3,8:29,PHI,Tyrese Maxey,Personal Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,70,49,0.936,0.953,8:41
+3,8:22,BOS,Jaylen Brown,Offensive Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,70,49,0.964,0.936,8:29
+3,8:04,PHI,Guerschon Yabusele,Hanging Technical Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,72,49,0.974,0.974,8:05
+3,6:56,BOS,Jayson Tatum,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,72,54,0.957,0.941,7:09
+3,3:13,BOS,Jayson Tatum,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,87,64,0.993,0.989,3:13
+3,1:46,PHI,Kyle Lowry,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,92,70,0.984,0.989,1:49
+4,11:14,PHI,Kyle Lowry,Personal Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,94,80,0.939,0.943,11:14
+4,10:05,BOS,Sam Hauser,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,98,85,0.964,0.936,10:05
+4,9:05,BOS,Luke Kornet,Personal Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,99,91,0.865,0.852,9:22
+4,7:39,BOS,Luke Kornet,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,99,95,0.801,0.707,7:59
+4,4:46,BOS,Sam Hauser,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,102,105,0.422,0.304,4:56
+4,1:48,BOS,Jaylen Brown,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,109,113,0.332,0.22,2:12
+4,1:12,BOS,Kristaps Porzingis,Shooting Foul,Foul,Mark Lindsay,Tre Maddox,Brandon Schwab,PHI,110,115,0.236,0.136,1:28

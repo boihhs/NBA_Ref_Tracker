@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:26,MIN,Naz Reid,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,9,3,0.899,0.894,9:26
+1,6:47,MIN,Jaylen Clark,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,18,8,0.93,0.916,6:47
+1,4:35,MIN,Terrence Shannon Jr.,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,24,10,0.949,0.95,4:47
+1,2:40,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,27,13,0.957,0.949,2:51
+1,1:54,LAL,Jarred Vanderbilt,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,29,13,0.945,0.954,2:08
+1,1:21,LAL,LeBron James,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,29,13,0.95,0.954,1:29
+2,12:00,LAL,Jarred Vanderbilt,Double Technical Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,33,17,0.956,0.956,12:00
+2,9:06,MIN,Naz Reid,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,42,24,0.97,0.97,9:17
+2,7:28,LAL,Luka Doncic,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,47,28,0.971,0.975,7:28
+2,6:48,MIN,Jaden McDaniels,Defensive 3-Seconds Technical,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,47,29,0.97,0.971,6:58
+2,6:06,MIN,Jaylen Clark,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,48,29,0.981,0.975,6:15
+2,5:01,MIN,Jaylen Clark,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,51,31,0.982,0.976,5:01
+2,3:42,MIN,Jaden McDaniels,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,52,33,0.982,0.977,3:48
+2,3:31,LAL,LeBron James,Defensive 3-Seconds Technical,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,53,33,0.978,0.977,3:42
+2,2:23,LAL,Dorian Finney-Smith,Loose Ball Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,53,37,0.956,0.956,2:23
+2,2:11,LAL,Jarred Vanderbilt,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,53,37,0.945,0.956,2:23
+2,1:58,MIN,Donte DiVincenzo,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,53,38,0.966,0.957,2:11
+2,1:40,LAL,Luka Doncic,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,54,38,0.952,0.957,1:40
+2,1:02,LAL,Austin Reaves,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,54,39,0.936,0.95,1:06
+3,9:49,LAL,Jaxson Hayes,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,64,47,0.958,0.967,10:04
+3,9:08,MIN,Jaylen Clark,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,67,49,0.984,0.98,9:10
+3,7:56,LAL,Austin Reaves,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,68,54,0.94,0.957,7:56
+3,7:27,MIN,Jaden McDaniels,Loose Ball Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,71,55,0.971,0.972,7:27
+3,6:55,MIN,Anthony Edwards,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,71,57,0.958,0.958,6:57
+3,5:32,MIN,Mike Conley,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,71,59,0.956,0.941,5:50
+3,5:21,MIN,Anthony Edwards,Technical Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,74,59,0.973,0.961,5:32
+3,5:12,LAL,Dorian Finney-Smith,Loose Ball Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,74,59,0.961,0.961,5:12
+3,3:56,MIN,Donte DiVincenzo,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,74,63,0.943,0.934,3:56
+3,3:04,LAL,Jordan Goodwin,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,78,66,0.914,0.935,3:25
+3,47.0,MIN,Donte DiVincenzo,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,82,71,0.961,0.943,1:04
+3,37.0,MIN,Rob Dillingham,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,83,71,0.97,0.959,37.0
+3,21.1,LAL,Jaxson Hayes,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,84,71,0.938,0.958,22.0
+4,11:07,MIN,Jaylen Clark,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,86,75,0.97,0.952,11:28
+4,10:37,MIN,Luka Garza,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,89,75,0.982,0.981,10:37
+4,9:16,MIN,Terrence Shannon Jr.,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,91,77,0.991,0.985,9:19
+4,7:53,MIN,Rob Dillingham,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,92,82,0.975,0.959,7:55
+4,7:46,LAL,Dalton Knecht,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,92,82,0.914,0.947,7:51
+4,6:10,MIN,Naz Reid,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,92,88,0.882,0.825,6:32
+4,6:10,MIN,Naz Reid,Technical Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,92,88,0.857,0.882,6:10
+4,4:55,MIN,Jaden McDaniels,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,95,90,0.903,0.836,4:55
+4,4:04,LAL,Gabe Vincent,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,95,90,0.75,0.844,4:07
+4,3:17,MIN,Jaden McDaniels,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,98,93,0.941,0.895,3:29
+4,3:10,LAL,Dorian Finney-Smith,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,100,93,0.918,0.927,3:17
+4,2:38,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,100,96,0.923,0.857,3:03
+4,2:28,MIN,Jaden McDaniels,Loose Ball Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,102,96,0.969,0.941,2:28
+4,2:12,LAL,Jaxson Hayes,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,103,96,0.879,0.94,2:26
+4,2:00,MIN,Terrence Shannon Jr.,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,103,97,0.956,0.936,2:12
+4,1:44,LAL,Dorian Finney-Smith,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,105,97,0.949,0.964,1:44
+4,44.1,LAL,Austin Reaves,Shooting Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,107,98,0.974,0.99,48.1
+4,37.1,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,107,100,0.996,0.986,44.1
+4,28.0,MIN,Mike Conley,Personal Take Foul,Foul,James Williams,Brent Barnaky,Brandon Adair,LAL,109,102,0.997,0.991,30.1

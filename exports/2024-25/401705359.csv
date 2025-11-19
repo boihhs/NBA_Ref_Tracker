@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:05,MIL,Damian Lillard,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,3,6,0.388,0.385,9:14
+1,8:06,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,3,6,0.388,0.386,8:17
+1,7:13,LAC,Ivica Zubac,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,5,9,0.424,0.386,7:16
+1,6:44,LAC,Kawhi Leonard,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,6,11,0.358,0.36,6:56
+1,5:40,MIL,AJ Green,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,8,13,0.367,0.357,5:40
+1,3:00,LAC,Derrick Jones Jr.,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,17,21,0.382,0.384,3:19
+2,11:09,LAC,Kawhi Leonard,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,28,31,0.451,0.41,11:12
+2,10:41,LAC,Derrick Jones Jr.,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,30,33,0.407,0.41,10:52
+2,9:34,MIL,Kevin Porter Jr.,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,32,33,0.439,0.434,9:45
+2,8:49,LAC,Bogdan Bogdanovic,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,34,35,0.466,0.467,8:56
+2,8:46,LAC,Ben Simmons,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,34,35,0.51,0.466,8:49
+2,2:57,LAC,Kris Dunn,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,49,42,0.763,0.723,2:57
+2,1:51,MIL,Brook Lopez,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,54,42,0.794,0.828,1:53
+3,10:22,LAC,Kawhi Leonard,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,57,54,0.615,0.615,10:35
+3,9:56,MIL,Giannis Antetokounmpo,Personal Take Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,59,54,0.652,0.65,10:14
+3,9:05,MIL,Taurean Prince,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,62,58,0.62,0.619,9:16
+3,9:00,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,62,60,0.517,0.584,9:00
+3,8:50,LAC,Amir Coffey,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,64,61,0.646,0.581,8:50
+3,8:36,MIL,Taurean Prince,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,65,61,0.565,0.619,8:50
+3,7:52,LAC,Kris Dunn,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,65,65,0.509,0.51,7:56
+3,6:54,MIL,Damian Lillard,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,67,68,0.373,0.43,7:00
+3,6:11,LAC,James Harden,Loose Ball Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,67,70,0.45,0.389,6:11
+3,5:29,MIL,AJ Green,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,67,72,0.249,0.275,5:29
+3,4:33,MIL,Gary Trent Jr.,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,69,76,0.183,0.238,4:33
+3,3:47,LAC,Kris Dunn,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,69,79,0.185,0.146,4:02
+3,2:36,MIL,Jericho Sims,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,71,79,0.122,0.163,2:52
+3,1:55,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,73,80,0.249,0.184,1:55
+3,45.0,MIL,Kevin Porter Jr.,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,78,86,0.107,0.148,1:00
+3,18.1,MIL,Gary Trent Jr.,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,78,87,0.084,0.116,37.0
+3,1.0,LAC,James Harden,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,78,89,0.127,0.094,18.1
+4,10:42,LAC,Bogdan Bogdanovic,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,80,93,0.052,0.05,10:55
+4,10:39,LAC,Ben Simmons,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,80,93,0.079,0.052,10:42
+4,8:44,LAC,Bogdan Bogdanovic,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,88,98,0.119,0.067,8:44
+4,8:14,LAC,Ben Simmons,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,88,98,0.138,0.09,8:23
+4,6:27,MIL,Kyle Kuzma,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,96,100,0.177,0.261,6:48
+4,6:16,LAC,Amir Coffey,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,96,101,0.291,0.25,6:24
+4,6:00,LAC,James Harden,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,101,101,0.611,0.494,6:00
+4,4:05,MIL,Damian Lillard,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,104,104,0.473,0.491,4:05
+4,3:02,LAC,Amir Coffey,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,106,104,0.775,0.644,3:02
+4,2:26,LAC,Amir Coffey,Shooting Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,107,104,0.889,0.806,2:35
+4,2:14,MIL,AJ Green,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,109,104,0.849,0.867,2:26
+4,2:06,LAC,James Harden,Offensive Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,109,104,0.905,0.87,1:17
+4,20.0,LAC,Kris Dunn,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,112,107,0.99,0.967,20.0
+4,17.1,LAC,Amir Coffey,Personal Foul,Foul,Ed Malloy,Brian Forte,Robert Hussey,MIL,114,107,0.998,0.996,17.1

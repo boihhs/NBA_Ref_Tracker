@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:08,OKC,Cason Wallace,Loose Ball Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,0,0,0.494,0.494,11:08
+1,10:45,LAC,Kris Dunn,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,0,0,0.471,0.472,10:52
+1,6:03,OKC,Cason Wallace,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,10,12,0.485,0.445,6:08
+1,5:51,OKC,Isaiah Hartenstein,Offensive Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,12,12,0.499,0.472,6:03
+1,5:11,OKC,Luguentz Dort,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,14,12,0.552,0.554,5:19
+1,3:10,OKC,Jaylin Williams,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,22,20,0.596,0.554,3:22
+1,2:00,OKC,Aaron Wiggins,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,26,22,0.651,0.612,2:06
+2,9:37,LAC,Ben Simmons,Offensive Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,36,30,0.649,0.677,9:40
+2,8:29,LAC,Derrick Jones Jr.,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,36,33,0.563,0.562,8:33
+2,6:19,OKC,Aaron Wiggins,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,41,39,0.613,0.568,6:22
+2,5:01,LAC,Ivica Zubac,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,44,41,0.523,0.568,5:19
+2,3:53,LAC,Norman Powell,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,48,43,0.588,0.635,4:07
+2,2:42,OKC,Aaron Wiggins,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,48,49,0.524,0.473,3:02
+2,2:16,OKC,Luguentz Dort,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,49,49,0.557,0.509,2:21
+2,1:18,LAC,Norman Powell,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,49,52,0.323,0.369,1:21
+2,1:03,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,49,54,0.388,0.342,1:18
+3,11:23,LAC,James Harden,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,51,59,0.197,0.243,11:23
+3,8:42,OKC,Luguentz Dort,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,57,64,0.31,0.261,9:06
+3,8:19,OKC,Isaiah Hartenstein,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,59,66,0.259,0.26,8:28
+3,7:40,LAC,James Harden,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,61,66,0.241,0.288,7:41
+3,7:05,OKC,Alex Caruso,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,61,67,0.285,0.288,7:15
+3,6:12,LAC,Kris Dunn,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,64,70,0.247,0.248,6:23
+3,4:47,LAC,Bogdan Bogdanovic,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,70,70,0.41,0.391,5:23
+3,3:55,OKC,Kenrich Williams,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,70,73,0.452,0.387,4:15
+3,3:47,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,70,73,0.452,0.452,3:55
+3,2:16,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,75,78,0.307,0.383,2:16
+3,1:47,LAC,Nicolas Batum,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,75,79,0.235,0.294,1:55
+3,35.1,OKC,Aaron Wiggins,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,75,81,0.313,0.252,40.0
+4,7:00,OKC,Isaiah Joe,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,89,90,0.574,0.469,7:03
+4,6:24,LAC,Ben Simmons,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,91,92,0.391,0.403,6:27
+4,5:58,OKC,Luguentz Dort,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,91,92,0.481,0.464,6:05
+4,5:13,LAC,Norman Powell,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,93,92,0.522,0.538,5:27
+4,3:59,LAC,Norman Powell,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,95,92,0.547,0.684,4:10
+4,3:37,OKC,Alex Caruso,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,95,94,0.634,0.604,3:59
+4,3:25,OKC,Luguentz Dort,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,95,94,0.744,0.619,3:37
+4,2:44,LAC,James Harden,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,97,96,0.411,0.557,2:57
+4,2:32,LAC,James Harden,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,97,96,0.409,0.54,2:34
+4,1:33,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,99,100,0.226,0.352,1:36
+4,1:22,OKC,Isaiah Hartenstein,Personal Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,99,101,0.5,0.368,1:33
+4,3.0,LAC,Derrick Jones Jr.,Personal Take Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,100,101,0.037,0.088,3.0
+4,0.1,OKC,Alex Caruso,Personal Take Foul,Foul,Marc Davis,Nick Buchert,Evan Scott,LAC,100,103,0.022,0.051,3.0

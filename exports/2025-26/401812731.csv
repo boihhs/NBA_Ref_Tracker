@@ -1,0 +1,54 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:22,BKN,Nic Claxton,Offensive Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,7,2,0.637,0.613,9:32
+1,8:52,TOR,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,10,2,0.686,0.689,9:02
+1,8:26,BKN,Ben Saraf,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,10,5,0.641,0.639,8:29
+1,7:31,BKN,Ben Saraf,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,14,8,0.683,0.641,7:31
+1,6:11,BKN,Cam Thomas,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,16,12,0.655,0.618,6:13
+1,4:51,BKN,Nolan Traore,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,23,17,0.707,0.671,4:51
+1,4:08,TOR,Gradey Dick,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,23,17,0.645,0.646,4:08
+1,3:51,BKN,Ziaire Williams,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,23,17,0.71,0.671,4:08
+1,3:37,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,25,17,0.722,0.695,3:51
+1,3:04,TOR,RJ Barrett,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,25,19,0.647,0.648,3:08
+1,2:24,BKN,Ziaire Williams,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,27,22,0.689,0.648,2:27
+1,2:13,BKN,Nolan Traore,Offensive Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,29,22,0.703,0.675,2:24
+1,1:22,BKN,Nolan Traore,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,31,24,0.741,0.705,1:23
+1,1:03,BKN,Ziaire Williams,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,32,24,0.765,0.73,1:04
+1,37.4,BKN,Day'Ron Sharpe,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,34,26,0.766,0.731,49.1
+1,3.3,TOR,Jamal Shead,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,37,26,0.741,0.774,25.5
+2,9:06,TOR,Sandro Mamukelashvili,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,44,31,0.814,0.847,9:06
+2,8:35,TOR,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,46,32,0.82,0.849,8:51
+2,7:42,TOR,Ochai Agbaji,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,48,35,0.831,0.83,7:50
+2,6:54,TOR,Brandon Ingram,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,48,37,0.76,0.796,6:58
+2,5:04,BKN,Terance Mann,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,56,41,0.896,0.895,5:21
+2,4:19,TOR,Brandon Ingram,Offensive Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,58,44,0.863,0.882,4:36
+2,4:11,TOR,Scottie Barnes,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,58,44,0.837,0.863,4:19
+2,3:45,TOR,Scottie Barnes,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,60,46,0.839,0.865,3:54
+2,2:14,BKN,Egor Demin,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,62,53,0.826,0.789,2:16
+2,1:40,TOR,Brandon Ingram,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,65,53,0.803,0.837,1:54
+2,19.8,TOR,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,72,54,0.92,0.938,33.9
+3,11:49,BKN,Terance Mann,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,72,56,0.928,0.92,12:00
+3,10:26,BKN,Michael Porter Jr.,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,72,58,0.928,0.909,10:29
+3,9:57,TOR,Scottie Barnes,Offensive Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,73,58,0.911,0.923,10:09
+3,9:47,TOR,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,73,58,0.913,0.911,9:57
+3,9:37,TOR,Jakob Poeltl,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,73,60,0.864,0.898,9:37
+3,9:07,BKN,Nic Claxton,Double Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,75,63,0.88,0.882,9:10
+3,6:23,BKN,Michael Porter Jr.,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,81,66,0.956,0.941,6:26
+3,5:26,TOR,Brandon Ingram,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,83,69,0.918,0.918,5:29
+3,3:53,TOR,Gradey Dick,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,87,72,0.92,0.941,4:12
+3,3:09,BKN,Tyrese Martin,Loose Ball Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,89,74,0.97,0.957,3:09
+3,2:46,TOR,Jonathan Mogbo,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,89,74,0.928,0.948,2:51
+3,2:17,TOR,Sandro Mamukelashvili,Loose Ball Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,91,75,0.945,0.962,2:17
+3,1:30,BKN,Day'Ron Sharpe,Loose Ball Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,91,77,0.97,0.958,1:30
+4,11:46,TOR,Sandro Mamukelashvili,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,97,86,0.903,0.915,12:00
+4,11:01,BKN,Michael Porter Jr.,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,99,89,0.919,0.912,11:15
+4,10:38,TOR,Jamal Shead,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,99,89,0.844,0.896,10:47
+4,10:14,TOR,Jamal Shead,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,99,91,0.826,0.837,10:14
+4,7:58,BKN,Michael Porter Jr.,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,99,98,0.671,0.569,8:13
+4,6:21,TOR,Ja'Kobe Walter,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,103,102,0.408,0.52,6:35
+4,6:00,BKN,Nic Claxton,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,103,104,0.468,0.446,6:15
+4,4:55,BKN,Nic Claxton,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,105,104,0.659,0.519,4:55
+4,4:19,BKN,Ben Saraf,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,108,107,0.576,0.535,4:19
+4,3:58,BKN,Nic Claxton,Offensive Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,109,107,0.685,0.458,4:19
+4,3:27,TOR,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,109,107,0.495,0.614,3:39
+4,1:31,BKN,Ziaire Williams,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,112,113,0.597,0.456,1:34
+4,1:22,TOR,Gradey Dick,Shooting Foul,Foul,Ed Malloy,Jonathan Sterling,John Conley,TOR,114,113,0.401,0.543,1:31

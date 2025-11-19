@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:39,CLE,Evan Mobley,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,17,4,0.922,0.934,7:57
+1,5:09,CLE,Sam Merrill,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,25,10,0.935,0.945,5:21
+1,4:53,CLE,Lonzo Ball,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,28,11,0.948,0.957,5:01
+1,4:04,PHI,Quentin Grimes,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,30,15,0.951,0.951,4:16
+1,3:08,CLE,Larry Nance Jr.,Loose Ball Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,30,15,0.934,0.945,3:08
+1,2:27,CLE,Lonzo Ball,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,32,18,0.926,0.938,2:44
+1,2:19,PHI,Quentin Grimes,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,32,19,0.948,0.938,2:27
+1,1:08,CLE,Sam Merrill,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,36,23,0.915,0.929,1:15
+1,22.9,PHI,Justin Edwards,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,39,25,0.954,0.944,33.9
+1,19.9,PHI,Justin Edwards,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,39,25,0.954,0.954,22.9
+2,11:19,CLE,Larry Nance Jr.,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,44,29,0.932,0.946,11:30
+2,10:38,CLE,Jaylon Tyson,Clear Path Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,44,33,0.909,0.909,10:39
+2,9:50,CLE,Larry Nance Jr.,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,46,36,0.898,0.909,9:50
+2,9:22,PHI,Justin Edwards,Loose Ball Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,48,36,0.927,0.928,9:22
+2,8:37,CLE,Jarrett Allen,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,51,38,0.92,0.927,8:37
+2,7:56,PHI,Trendon Watford,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,51,43,0.883,0.884,8:05
+2,7:52,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,51,43,0.881,0.883,7:56
+2,7:22,PHI,VJ Edgecombe,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,51,45,0.874,0.851,7:26
+2,6:49,CLE,Darius Garland,Loose Ball Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,54,45,0.857,0.893,6:49
+2,4:42,CLE,Darius Garland,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,59,49,0.87,0.892,4:52
+2,2:26,PHI,Quentin Grimes,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,63,58,0.851,0.823,2:41
+2,27.4,PHI,Trendon Watford,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,68,65,0.808,0.774,30.4
+3,10:47,PHI,Tyrese Maxey,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,72,67,0.815,0.815,10:57
+3,9:48,PHI,Adem Bona,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,72,72,0.718,0.674,10:00
+3,9:32,CLE,Darius Garland,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,74,72,0.702,0.702,9:48
+3,9:19,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,76,72,0.804,0.76,9:19
+3,7:54,PHI,Andre Drummond,Offensive Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,81,72,0.893,0.874,7:54
+3,6:51,CLE,Jaylon Tyson,Loose Ball Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,85,72,0.937,0.936,6:51
+3,5:19,CLE,Craig Porter Jr.,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,85,77,0.859,0.858,5:26
+3,4:31,CLE,Sam Merrill,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,87,79,0.822,0.859,4:36
+3,3:03,PHI,Trendon Watford,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,92,80,0.961,0.947,3:09
+3,2:23,PHI,Justin Edwards,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,94,82,0.964,0.95,2:32
+3,1:03,CLE,Lonzo Ball,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,102,84,0.98,0.987,1:17
+4,11:19,PHI,Justin Edwards,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,109,87,0.999,0.998,11:27
+4,9:28,CLE,Larry Nance Jr.,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,116,92,0.999,0.999,9:28
+4,8:46,CLE,Jaylon Tyson,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,118,95,0.998,0.999,8:59
+4,7:37,PHI,Quentin Grimes,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,121,100,0.999,0.999,7:37
+4,7:17,PHI,Tyrese Maxey,Offensive Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,121,100,0.999,0.999,7:19
+4,5:23,PHI,Adem Bona,Offensive Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,123,107,0.997,0.995,5:25
+4,5:10,CLE,Larry Nance Jr.,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,123,107,0.995,0.996,5:10
+4,4:56,CLE,Sam Merrill,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,123,107,0.992,0.995,5:10
+4,4:19,PHI,Kelly Oubre Jr.,Offensive Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,123,107,0.998,0.996,4:29
+4,2:47,CLE,Jarrett Allen,Shooting Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,128,111,0.998,0.999,3:04
+4,1:54,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,128,115,0.999,0.998,2:15
+4,1:06,PHI,Andre Drummond,Personal Foul,Foul,Jacyn Goble,Kevin Scott,Agon Abazi,CLE,130,121,0.998,0.994,1:08

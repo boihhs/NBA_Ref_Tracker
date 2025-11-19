@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:53,UTAH,Kyle Filipowski,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,5,4,0.832,0.813,9:01
+1,7:50,LAL,Anthony Davis,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,10,4,0.854,0.863,8:00
+1,6:13,LAL,LeBron James,Personal Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,16,8,0.883,0.883,6:21
+1,4:58,LAL,Dalton Knecht,Loose Ball Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,21,8,0.93,0.93,4:58
+1,4:15,UTAH,John Collins,Personal Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,23,8,0.95,0.95,4:15
+1,3:04,UTAH,Jordan Clarkson,Personal Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,25,12,0.936,0.937,3:07
+1,1:45,LAL,Max Christie,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,29,14,0.931,0.943,2:03
+1,48.1,LAL,Gabe Vincent,Personal Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,31,18,0.913,0.927,58.1
+2,11:43,LAL,D'Angelo Russell,Personal Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,34,22,0.918,0.922,12:00
+2,10:28,UTAH,Johnny Juzang,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,34,24,0.921,0.907,10:30
+2,9:25,LAL,Austin Reaves,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,37,29,0.844,0.867,9:35
+2,7:17,LAL,Christian Koloko,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,41,33,0.839,0.864,7:31
+2,4:38,UTAH,Johnny Juzang,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,45,35,0.912,0.89,4:38
+2,3:29,UTAH,Kyle Filipowski,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,47,40,0.882,0.859,3:35
+2,2:29,LAL,Gabe Vincent,Personal Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,51,40,0.881,0.902,2:45
+2,3:15,UTAH,John Collins,Offensive Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,49,40,0.889,0.902,2:29
+2,2:04,UTAH,Lauri Markkanen,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,51,40,0.932,0.916,2:14
+2,1:03,LAL,Anthony Davis,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,55,40,0.932,0.947,1:10
+3,11:33,UTAH,John Collins,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,59,44,0.961,0.949,11:33
+3,9:03,UTAH,John Collins,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,63,47,0.975,0.967,9:22
+3,8:46,UTAH,Keyonte George,Personal Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,65,49,0.967,0.967,8:54
+3,8:21,UTAH,Lauri Markkanen,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,67,52,0.966,0.953,8:21
+3,6:15,LAL,Anthony Davis,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,75,58,0.965,0.977,6:15
+3,4:45,UTAH,John Collins,Flagrant Foul Type 1,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,77,63,0.958,0.96,5:00
+3,4:20,LAL,Max Christie,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,78,65,0.932,0.953,4:20
+3,4:03,UTAH,Drew Eubanks,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,78,66,0.958,0.942,4:20
+3,1:15,UTAH,Cody Williams,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,91,75,0.989,0.982,1:28
+4,10:40,LAL,D'Angelo Russell,Offensive Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,100,75,0.999,0.999,10:46
+4,9:51,UTAH,Johnny Juzang,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,100,78,0.999,0.998,9:57
+4,8:40,LAL,Gabe Vincent,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,101,80,0.997,0.998,8:43
+4,7:45,UTAH,Jordan Clarkson,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,103,82,0.999,0.999,7:48
+4,7:33,LAL,Cam Reddish,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,104,84,0.997,0.999,7:33
+4,6:11,UTAH,Johnny Juzang,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,104,90,0.995,0.991,6:23
+4,4:52,LAL,Dalton Knecht,Shooting Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,107,95,0.963,0.981,5:13
+4,2:37,UTAH,Keyonte George,Personal Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,114,105,0.993,0.981,2:52
+4,2:29,UTAH,Keyonte George,Personal Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,114,105,0.993,0.993,2:37
+4,41.0,UTAH,Kyle Filipowski,Personal Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,118,109,0.999,0.998,43.1
+4,27.0,UTAH,Kyle Filipowski,Personal Take Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,118,111,0.998,0.993,30.0
+4,17.1,UTAH,Keyonte George,Personal Take Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,120,113,0.998,0.996,19.1
+4,5.1,UTAH,Collin Sexton,Personal Take Foul,Foul,Pat Fraher,Brent Barnaky,Brett Nansel,LAL,122,115,0.999,0.998,10.0

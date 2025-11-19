@@ -1,0 +1,29 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,GS,Stephen Curry,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,5,4,0.641,0.675,10:20
+1,6:50,IND,Andrew Nembhard,Personal Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,12,17,0.537,0.539,7:00
+1,4:17,IND,T.J. McConnell,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,18,22,0.592,0.553,4:22
+1,2:51,GS,Kevon Looney,Loose Ball Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,23,26,0.545,0.544,2:51
+2,11:16,GS,Draymond Green,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,34,33,0.6,0.639,11:27
+2,11:01,IND,Pascal Siakam,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,36,35,0.685,0.639,11:01
+2,9:51,IND,Andrew Nembhard,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,39,37,0.726,0.69,10:07
+2,7:35,GS,Draymond Green,Loose Ball Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,46,37,0.822,0.822,7:35
+2,7:29,GS,Andrew Wiggins,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,46,37,0.793,0.822,7:35
+2,4:54,IND,Bennedict Mathurin,Personal Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,49,46,0.705,0.707,5:16
+2,3:12,IND,Bennedict Mathurin,Personal Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,51,50,0.689,0.646,3:12
+2,2:32,IND,Obi Toppin,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,51,50,0.688,0.643,2:42
+3,11:48,GS,Dennis Schroder,Personal Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,54,62,0.289,0.311,12:00
+3,9:09,IND,Bennedict Mathurin,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,58,64,0.398,0.332,9:09
+3,8:23,IND,Pascal Siakam,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,59,66,0.383,0.328,8:33
+3,7:48,GS,Dennis Schroder,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,63,66,0.38,0.435,8:00
+3,6:52,IND,Pascal Siakam,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,65,70,0.419,0.351,6:52
+3,1:01,IND,Thomas Bryant,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,78,89,0.163,0.123,1:12
+3,6.0,GS,Brandin Podziemski,Personal Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,85,89,0.26,0.325,14.0
+4,10:39,GS,Andrew Wiggins,Personal Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,89,89,0.495,0.514,10:39
+4,6:29,IND,Bennedict Mathurin,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,95,93,0.732,0.679,6:31
+4,6:16,GS,Dennis Schroder,Personal Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,95,93,0.603,0.618,6:27
+4,4:43,GS,Buddy Hield,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,97,97,0.394,0.549,4:43
+4,3:50,GS,Dennis Schroder,Personal Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,97,98,0.261,0.382,3:53
+4,3:27,IND,Bennedict Mathurin,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,97,100,0.418,0.296,3:45
+4,1:42,IND,Myles Turner,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,101,104,0.418,0.251,1:53
+4,10.1,IND,Pascal Siakam,Shooting Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,104,109,0.133,0.06,16.1
+4,8.0,GS,Dennis Schroder,Personal Take Foul,Foul,CJ Washington,Kevin Scott,Robert Hussey,GS,105,109,0.008,0.039,10.1

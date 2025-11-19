@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:29,GS,Buddy Hield,Offensive Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,12,2,0.793,0.809,9:35
+1,3:41,GS,Pat Spencer,Loose Ball Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,18,12,0.715,0.714,3:41
+1,2:25,GS,Moses Moody,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,24,16,0.725,0.758,2:33
+1,1:54,MEM,Jay Huff,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,24,19,0.749,0.716,2:12
+1,1:43,GS,Pat Spencer,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,26,19,0.701,0.738,1:54
+1,1:07,GS,Moses Moody,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,28,21,0.701,0.737,1:21
+1,53.1,GS,Lindy Waters III,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,28,23,0.653,0.688,56.1
+2,8:36,MEM,Jake LaRavia,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,40,31,0.835,0.807,8:47
+2,8:30,GS,Lindy Waters III,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,41,31,0.808,0.808,8:36
+2,7:10,GS,Trayce Jackson-Davis,Loose Ball Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,43,35,0.767,0.766,7:10
+2,6:30,MEM,Jaylen Wells,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,43,37,0.779,0.743,6:35
+2,4:26,MEM,Jake LaRavia,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,46,42,0.691,0.693,4:40
+2,3:23,MEM,Brandon Clarke,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,46,44,0.676,0.634,3:50
+2,2:27,GS,Dennis Schroder,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,49,47,0.549,0.601,2:40
+2,1:32,MEM,Jay Huff,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,53,51,0.655,0.599,1:32
+2,1:09,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,54,51,0.71,0.664,1:17
+2,1:09,MEM,Desmond Bane,Technical Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,54,51,0.687,0.71,1:09
+2,1:02,GS,Andrew Wiggins,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,55,53,0.571,0.628,1:02
+3,8:44,MEM,Zach Edey,Loose Ball Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,67,64,0.667,0.669,8:44
+3,8:31,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,67,64,0.717,0.667,8:44
+3,8:21,GS,Draymond Green,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,69,66,0.604,0.668,8:21
+3,7:24,GS,Draymond Green,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,71,67,0.668,0.669,7:33
+3,7:01,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,71,67,0.701,0.704,7:11
+3,5:50,MEM,Zach Edey,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,77,69,0.849,0.803,5:50
+3,2:42,GS,Buddy Hield,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,89,79,0.873,0.871,2:53
+3,2:05,GS,Kyle Anderson,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,89,79,0.838,0.876,2:14
+4,11:24,GS,Draymond Green,Flagrant Foul Type 1,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,92,88,0.693,0.69,11:24
+4,10:51,GS,Draymond Green,Technical Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,95,91,0.65,0.688,10:55
+4,10:36,GS,Draymond Green,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,95,92,0.624,0.639,10:39
+4,9:52,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,98,94,0.737,0.687,10:08
+4,8:44,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,100,96,0.755,0.743,8:53
+4,8:24,GS,Kyle Anderson,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,100,96,0.68,0.7,8:38
+4,7:57,MEM,Brandon Clarke,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,102,96,0.867,0.79,7:57
+4,7:57,GS,Dennis Schroder,Technical Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,102,96,0.761,0.867,7:57
+4,5:01,GS,Trayce Jackson-Davis,Offensive Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,110,103,0.876,0.91,5:07
+4,3:27,MEM,Jay Huff,Personal Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,112,105,0.942,0.932,3:40
+4,52.1,MEM,Brandon Clarke,Loose Ball Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,119,111,0.998,0.999,52.1
+4,34.1,MEM,Brandon Clarke,Shooting Foul,Foul,Nick Buchert,Gediminas Petraitis,Sha'Rae Mitchell,GS,121,111,0.999,0.997,34.1

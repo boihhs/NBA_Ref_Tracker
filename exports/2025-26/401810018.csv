@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:11,LAL,Dalton Knecht,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,13,14,0.755,0.726,6:20
+1,5:09,POR,Jrue Holiday,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,17,16,0.741,0.74,5:18
+1,3:00,POR,Robert Williams III,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,24,20,0.791,0.791,3:08
+1,1:53,LAL,Marcus Smart,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,27,22,0.848,0.825,1:55
+1,1:07,LAL,Rui Hachimura,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,29,22,0.876,0.855,1:11
+1,1:01,POR,Toumani Camara,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,31,22,0.844,0.87,1:07
+2,11:04,LAL,Dalton Knecht,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,35,27,0.876,0.85,11:04
+2,10:25,POR,Jerami Grant,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,35,27,0.85,0.85,10:29
+2,10:13,POR,Shaedon Sharpe,Loose Ball Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,35,27,0.85,0.849,10:13
+2,10:06,POR,Jrue Holiday,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,35,27,0.824,0.85,10:13
+2,8:56,LAL,Rui Hachimura,Offensive Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,39,29,0.892,0.878,9:21
+2,6:29,POR,Robert Williams III,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,44,36,0.817,0.846,6:42
+2,4:48,LAL,Jake LaRavia,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,48,41,0.858,0.825,4:48
+2,2:19,LAL,Marcus Smart,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,53,49,0.778,0.778,2:24
+2,2:02,POR,Jerami Grant,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,53,49,0.711,0.751,2:09
+2,1:17,LAL,Deandre Ayton,Loose Ball Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,53,52,0.737,0.694,1:17
+3,10:45,LAL,Dalton Knecht,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,55,52,0.763,0.744,10:54
+3,10:31,LAL,Deandre Ayton,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,56,52,0.806,0.77,10:33
+3,10:25,POR,Donovan Clingan,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,57,52,0.725,0.768,10:31
+3,10:00,LAL,Deandre Ayton,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,57,54,0.74,0.742,10:00
+3,9:04,LAL,Jake LaRavia,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,62,56,0.85,0.818,9:13
+3,8:54,LAL,Marcus Smart,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,63,56,0.871,0.84,9:00
+3,7:46,POR,Donovan Clingan,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,65,60,0.719,0.764,7:54
+3,7:34,LAL,Dalton Knecht,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,65,62,0.777,0.735,7:46
+3,6:29,LAL,Deandre Ayton,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,66,68,0.61,0.551,6:43
+3,4:30,POR,Sidy Cissoko,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,73,75,0.491,0.491,4:40
+3,4:01,LAL,Bronny James,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,73,77,0.51,0.445,4:02
+3,3:11,LAL,Jaxson Hayes,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,76,79,0.513,0.433,3:11
+3,2:18,LAL,Jaxson Hayes,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,77,84,0.36,0.294,2:27
+4,10:38,LAL,Deandre Ayton,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,88,93,0.422,0.335,10:46
+4,10:23,POR,Toumani Camara,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,90,93,0.366,0.38,10:32
+4,9:53,POR,Toumani Camara,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,90,93,0.277,0.369,10:03
+4,9:21,LAL,Marcus Smart,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,92,95,0.428,0.414,9:34
+4,8:58,POR,Shaedon Sharpe,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,94,95,0.447,0.382,10:38
+4,7:30,POR,Jrue Holiday,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,96,99,0.236,0.327,7:38
+4,6:35,LAL,Marcus Smart,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,96,103,0.239,0.156,6:41
+4,5:53,POR,Sidy Cissoko,Personal Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,100,103,0.21,0.295,6:05
+4,1:32,LAL,Jake LaRavia,Shooting Foul,Foul,Josh Tiven,John Butler,Dannica Mosher,POR,107,119,0.004,0.001,1:32

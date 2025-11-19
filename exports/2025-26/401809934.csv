@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:28,ORL,Jalen Suggs,Loose Ball Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,2,3,0.663,0.685,11:28
+1,10:57,ORL,Jalen Suggs,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,2,4,0.603,0.639,11:03
+1,10:50,MIA,Andrew Wiggins,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,2,7,0.589,0.592,10:57
+1,8:28,MIA,Andrew Wiggins,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,12,15,0.661,0.626,8:40
+1,7:47,ORL,Desmond Bane,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,17,15,0.7,0.715,7:47
+1,6:52,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,19,23,0.592,0.594,6:59
+1,6:38,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,19,23,0.525,0.565,6:46
+1,6:11,MIA,Norman Powell,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,19,24,0.583,0.565,6:11
+1,3:09,ORL,Anthony Black,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,23,31,0.388,0.432,3:10
+1,2:33,MIA,Simone Fontecchio,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,23,34,0.414,0.373,2:48
+1,1:49,MIA,Kel'el Ware,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,27,36,0.467,0.423,1:57
+1,28.2,ORL,Anthony Black,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,35,36,0.574,0.609,41.4
+2,11:28,MIA,Pelle Larsson,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,38,41,0.581,0.584,11:45
+2,9:50,MIA,Pelle Larsson,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,44,46,0.599,0.601,9:53
+2,8:10,MIA,Simone Fontecchio,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,48,50,0.635,0.592,8:14
+2,6:48,MIA,Davion Mitchell,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,57,50,0.829,0.795,6:48
+2,5:00,MIA,Bam Adebayo,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,57,54,0.76,0.72,5:05
+2,4:32,ORL,Franz Wagner,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,58,54,0.721,0.722,4:33
+2,3:53,ORL,Franz Wagner,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,58,54,0.679,0.72,4:05
+2,3:15,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,60,58,0.614,0.662,3:15
+2,3:01,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,60,58,0.613,0.614,3:15
+2,1:33,MIA,Davion Mitchell,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,65,65,0.671,0.633,3:01
+3,11:06,MIA,Andrew Wiggins,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,69,67,0.728,0.683,11:10
+3,9:33,MIA,Norman Powell,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,72,67,0.71,0.712,9:43
+3,9:14,ORL,Desmond Bane,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,72,67,0.626,0.74,9:22
+3,7:36,ORL,Franz Wagner,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,72,72,0.536,0.605,7:36
+3,6:44,MIA,Nikola Jovic,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,74,74,0.656,0.602,6:53
+3,3:37,MIA,Jaime Jaquez Jr.,Loose Ball Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,79,83,0.48,0.414,3:37
+3,2:50,MIA,Dru Smith,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,81,85,0.473,0.408,3:02
+3,2:08,ORL,Goga Bitadze,Loose Ball Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,83,85,0.445,0.444,2:08
+4,9:50,ORL,Franz Wagner,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,94,99,0.181,0.252,9:55
+4,8:58,MIA,Kel'el Ware,Offensive Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,97,103,0.24,0.195,9:01
+4,8:49,MIA,Davion Mitchell,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,97,103,0.324,0.24,8:58
+4,7:06,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,101,109,0.093,0.099,7:06
+4,6:35,MIA,Dru Smith,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,103,109,0.249,0.153,6:35
+4,5:39,ORL,Paolo Banchero,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,107,111,0.215,0.236,5:50
+4,4:59,MIA,Andrew Wiggins,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,107,111,0.396,0.275,5:03
+4,4:30,ORL,Franz Wagner,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,110,111,0.34,0.409,4:47
+4,4:14,MIA,Nikola Jovic,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,110,113,0.39,0.322,4:14
+4,3:49,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,114,113,0.685,0.553,3:49
+4,3:25,ORL,Desmond Bane,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,115,113,0.51,0.63,3:28
+4,2:35,ORL,Desmond Bane,Shooting Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,115,115,0.337,0.465,2:40
+4,2:24,MIA,Davion Mitchell,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,115,116,0.601,0.469,2:33
+4,37.3,MIA,Bam Adebayo,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,121,119,0.884,0.774,39.9
+4,6.1,MIA,Bam Adebayo,Personal Foul,Foul,Mark Lindsay,Nick Buchert,John Conley,ORL,123,121,0.963,0.903,6.1

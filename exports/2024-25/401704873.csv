@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:13,BOS,Sam Hauser,Transition Take Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,6,0,0.767,0.767,9:13
+1,8:46,CLE,Isaac Okoro,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,9,0,0.783,0.801,8:56
+1,7:50,BOS,Kristaps Porzingis,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,11,6,0.739,0.701,7:50
+1,7:12,CLE,Donovan Mitchell,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,12,9,0.654,0.655,7:18
+1,1:56,CLE,Caris LeVert,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,26,22,0.657,0.694,2:07
+2,8:39,CLE,Jaylon Tyson,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,35,27,0.782,0.783,8:51
+2,6:32,BOS,Payton Pritchard,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,38,34,0.75,0.715,6:52
+2,6:13,CLE,Jaylon Tyson,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,40,36,0.664,0.713,6:13
+2,6:02,BOS,Al Horford,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,40,37,0.683,0.686,6:13
+2,5:53,BOS,Jayson Tatum,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,40,37,0.725,0.683,6:02
+2,3:16,BOS,Drew Peterson,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,44,45,0.606,0.558,3:28
+2,5.1,CLE,Jarrett Allen,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,51,47,0.657,0.682,5.1
+2,0.1,BOS,Jrue Holiday,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,51,49,0.693,0.65,5.1
+3,10:48,CLE,Donovan Mitchell,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,56,52,0.632,0.68,11:02
+3,10:40,BOS,Sam Hauser,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,56,54,0.649,0.65,10:48
+3,8:47,CLE,Jarrett Allen,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,61,60,0.576,0.577,9:04
+3,8:34,BOS,Sam Hauser,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,61,62,0.538,0.538,8:43
+3,7:53,CLE,Darius Garland,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,61,65,0.385,0.381,7:55
+3,7:49,CLE,Isaac Okoro,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,61,65,0.326,0.385,7:53
+3,3:05,BOS,Drew Peterson,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,70,79,0.41,0.347,3:06
+3,4:52,CLE,Isaac Okoro,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,65,74,0.163,0.344,2:31
+4,11:20,CLE,Evan Mobley,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,72,84,0.053,0.059,11:21
+4,9:18,BOS,Drew Peterson,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,76,86,0.15,0.096,9:24
+4,8:38,CLE,Ty Jerome,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,80,88,0.074,0.119,8:56
+4,8:24,BOS,Kristaps Porzingis,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,80,90,0.14,0.089,8:38
+4,7:16,CLE,Donovan Mitchell,Offensive Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,84,93,0.075,0.104,7:25
+4,5:29,CLE,Isaac Okoro,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,87,93,0.12,0.133,5:29
+4,4:01,BOS,Sam Hauser,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,92,95,0.395,0.246,4:01
+4,2:49,CLE,Darius Garland,Loose Ball Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,95,97,0.181,0.296,2:49
+4,26.0,CLE,Evan Mobley,Shooting Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,105,101,0.689,0.827,34.0
+4,24.0,BOS,Payton Pritchard,Personal Take Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,105,103,0.905,0.775,26.0
+4,21.1,BOS,Sam Hauser,Personal Take Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,105,103,0.909,0.905,24.0
+4,14.2,BOS,Sam Hauser,Personal Take Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,107,106,0.865,0.697,17.2
+4,11.0,CLE,Darius Garland,Personal Take Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,109,106,0.618,0.818,14.2
+4,10.1,BOS,Drew Peterson,Personal Take Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,109,108,0.878,0.712,11.0
+4,7.0,CLE,Darius Garland,Personal Take Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,111,108,0.73,0.833,10.1
+4,5.1,BOS,Jayson Tatum,Personal Take Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,111,110,0.931,0.797,7.0
+4,5.0,CLE,Evan Mobley,Personal Take Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,113,110,0.809,0.906,5.1
+4,4.1,BOS,Jaden Springer,Personal Foul,Foul,Derrick Collins,Ed Malloy,Jacyn Goble,CLE,113,111,0.974,0.92,5.0

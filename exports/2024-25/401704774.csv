@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:46,DAL,Kyrie Irving,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,2,0,0.674,0.638,11:46
+1,11:36,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,3,0,0.625,0.66,11:46
+1,9:39,DAL,Daniel Gafford,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,8,3,0.753,0.724,9:40
+1,6:16,DEN,Jamal Murray,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,19,13,0.689,0.721,6:32
+1,4:15,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,26,19,0.793,0.767,4:31
+1,2:17,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,32,23,0.784,0.785,2:17
+1,41.2,DAL,Jaden Hardy,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,34,27,0.798,0.766,46.0
+2,11:45,DEN,Zeke Nnaji,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,35,29,0.684,0.731,12:00
+2,9:36,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,39,38,0.656,0.617,9:53
+2,9:26,DEN,Julian Strawther,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,39,38,0.542,0.586,9:34
+2,5:42,DAL,Luka Doncic,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,49,48,0.633,0.579,5:42
+2,2:55,DAL,Naji Marshall,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,56,52,0.698,0.699,3:03
+2,42.1,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,58,58,0.485,0.534,54.1
+3,11:34,DAL,Klay Thompson,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,60,65,0.387,0.388,11:45
+3,10:42,DEN,Jamal Murray,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,66,65,0.511,0.568,10:51
+3,9:40,DEN,Jamal Murray,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,70,69,0.509,0.565,9:52
+3,7:54,DAL,Daniel Gafford,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,75,76,0.523,0.524,8:10
+3,6:31,DAL,Klay Thompson,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,77,80,0.468,0.44,6:31
+3,5:53,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,79,82,0.497,0.437,5:58
+3,5:01,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,83,82,0.493,0.556,5:19
+3,4:25,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,83,83,0.619,0.556,4:31
+3,4:25,DAL,Dwight Powell,Technical Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,83,83,0.588,0.619,4:25
+3,3:23,DAL,Spencer Dinwiddie,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,88,83,0.804,0.753,3:26
+3,3:09,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,90,83,0.798,0.785,3:23
+3,1:08,DAL,Daniel Gafford,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,93,91,0.709,0.642,1:28
+3,47.1,DAL,Daniel Gafford,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,95,91,0.787,0.731,50.1
+3,2.1,DEN,Russell Westbrook,Personal Take Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,97,94,0.573,0.644,12.1
+4,11:51,DEN,Julian Strawther,Offensive Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,97,94,0.642,0.669,12:00
+4,9:19,DEN,Michael Porter Jr.,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,100,102,0.367,0.381,9:24
+4,5:21,DEN,Russell Westbrook,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,110,108,0.598,0.614,5:27
+4,5:10,DEN,Peyton Watson,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,110,108,0.585,0.598,5:21
+4,4:36,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,113,108,0.687,0.79,4:44
+4,3:08,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,115,115,0.375,0.52,3:08
+4,2:57,DAL,Daniel Gafford,Personal Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,115,116,0.443,0.442,3:08
+4,2:44,DAL,Luka Doncic,Shooting Foul,Foul,James Williams,Tre Maddox,Brett Nansel,DEN,116,116,0.594,0.998,0.0

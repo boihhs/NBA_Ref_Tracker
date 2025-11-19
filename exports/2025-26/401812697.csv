@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:27,BOS,Josh Minott,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,0,0,0.51,0.51,11:39
+1,10:22,TOR,Collin Murray-Boyles,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,3,2,0.493,0.54,10:22
+1,9:29,BOS,Anfernee Simons,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,3,3,0.53,0.513,9:29
+1,7:18,BOS,Anfernee Simons,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,8,7,0.557,0.512,7:18
+1,6:55,BOS,Anfernee Simons,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,9,9,0.551,0.512,7:01
+1,3:58,TOR,Jamison Battle,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,18,20,0.432,0.429,4:07
+1,3:58,BOS,Ron Harper Jr.,Offensive Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,18,20,0.458,0.432,3:58
+1,3:04,TOR,Jonathan Mogbo,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,18,20,0.391,0.429,3:18
+1,2:43,BOS,Baylor Scheierman,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,18,21,0.471,0.432,3:04
+1,2:05,TOR,Jonathan Mogbo,Offensive Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,19,23,0.374,0.4,2:08
+2,11:35,BOS,Baylor Scheierman,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,19,27,0.33,0.293,11:37
+2,9:04,TOR,Chucky Hepburn,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,23,33,0.212,0.212,9:25
+2,8:37,BOS,Xavier Tillman,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,23,33,0.27,0.234,8:51
+2,8:01,TOR,Ja'Kobe Walter,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,27,33,0.31,0.308,8:13
+2,7:04,TOR,Jamal Shead,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,30,33,0.349,0.394,7:21
+2,6:59,BOS,Hugo Gonzalez,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,30,36,0.335,0.335,7:04
+2,6:28,TOR,Jonathan Mogbo,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,32,36,0.319,0.361,6:46
+2,6:18,BOS,Luka Garza,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,32,38,0.377,0.334,6:28
+2,3:33,TOR,Ochai Agbaji,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,39,45,0.272,0.326,3:33
+2,1:54,TOR,Jamison Battle,Flagrant Foul Type 1,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,42,52,0.191,0.185,2:10
+2,1:31,BOS,Baylor Scheierman,Offensive Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,42,56,0.122,0.104,1:31
+3,10:34,TOR,Sandro Mamukelashvili,Offensive Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,42,67,0.009,0.016,11:23
+3,8:38,BOS,Chris Boucher,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,50,74,0.014,0.009,8:38
+3,8:28,BOS,Neemias Queta,Offensive Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,51,74,0.015,0.011,8:38
+3,7:33,TOR,Jamal Shead,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,53,74,0.016,0.016,7:38
+3,7:01,TOR,Ja'Kobe Walter,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,53,76,0.009,0.009,7:06
+3,6:11,TOR,Sandro Mamukelashvili,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,56,76,0.018,0.018,6:20
+3,5:35,TOR,Gradey Dick,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,58,78,0.014,0.021,5:35
+3,4:15,BOS,Anfernee Simons,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,61,81,0.027,0.018,4:17
+3,2:18,TOR,Chucky Hepburn,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,70,85,0.025,0.038,2:31
+3,1:21,BOS,Neemias Queta,Offensive Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,70,87,0.025,0.019,1:32
+3,1:01,BOS,Baylor Scheierman,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,70,87,0.036,0.025,1:21
+3,11.4,BOS,Ron Harper Jr.,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,72,87,0.053,0.037,28.6
+3,7.7,BOS,Neemias Queta,Offensive Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,74,87,0.058,0.047,11.4
+4,11:20,BOS,Baylor Scheierman,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,77,87,0.116,0.107,11:21
+4,10:19,TOR,Olivier Sarr,Offensive Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,80,87,0.156,0.194,10:23
+4,9:41,TOR,Olivier Sarr,Loose Ball Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,80,89,0.089,0.095,9:41
+4,9:30,TOR,A.J. Lawson,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,80,89,0.085,0.089,9:41
+4,9:25,BOS,Luka Garza,Loose Ball Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,80,89,0.123,0.113,9:25
+4,9:01,TOR,Olivier Sarr,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,80,89,0.067,0.087,9:01
+4,8:50,BOS,Hugo Gonzalez,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,80,91,0.106,0.065,9:01
+4,8:31,BOS,Hugo Gonzalez,Loose Ball Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,82,91,0.165,0.109,8:31
+4,7:56,TOR,David Roddy,Loose Ball Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,84,91,0.091,0.138,7:56
+4,6:32,TOR,Olivier Sarr,Offensive Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,86,96,0.046,0.064,6:32
+4,4:45,BOS,Amari Williams,Offensive Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,89,99,0.043,0.029,4:48
+4,4:12,TOR,Olivier Sarr,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,89,99,0.013,0.023,4:16
+4,3:45,TOR,Jared Rhoden,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,89,101,0.003,0.008,3:51
+4,3:03,BOS,Jalen Bridges,Shooting Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,91,103,0.014,0.004,3:03
+4,1:43,BOS,Baylor Scheierman,Personal Foul,Foul,James Williams,Mitchell Ervin,Klajdi Mulla,TOR,100,103,0.412,0.272,1:43

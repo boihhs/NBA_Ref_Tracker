@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:46,ORL,Paolo Banchero,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,0,0,0.444,0.445,12:00
+1,6:29,ORL,Franz Wagner,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,15,8,0.631,0.631,6:44
+1,5:31,ORL,Paolo Banchero,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,18,11,0.595,0.632,5:45
+1,5:06,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,18,14,0.585,0.582,5:07
+1,6.0,GS,Brandin Podziemski,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,31,23,0.741,0.702,20.1
+2,10:55,ORL,Jett Howard,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,36,25,0.72,0.758,11:03
+2,10:46,GS,Brandin Podziemski,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,36,27,0.734,0.735,10:55
+2,9:06,ORL,Franz Wagner,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,42,31,0.746,0.788,9:06
+2,7:28,GS,Kevin Knox II,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,50,35,0.884,0.855,7:28
+2,6:35,GS,Kevin Knox II,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,50,37,0.868,0.842,6:53
+2,5:17,ORL,Anthony Black,Loose Ball Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,52,40,0.806,0.804,5:17
+2,4:48,GS,Kevon Looney,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,54,42,0.844,0.807,4:48
+2,2:18,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,57,45,0.785,0.82,2:31
+2,1:04,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,61,47,0.839,0.867,1:26
+3,11:10,GS,Jimmy Butler III,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,68,55,0.893,0.865,11:10
+3,10:25,ORL,Cole Anthony,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,71,58,0.865,0.867,10:34
+3,8:59,ORL,Wendell Carter Jr.,Technical Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,71,65,0.656,0.718,8:59
+3,8:40,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,71,66,0.649,0.648,8:59
+3,8:34,ORL,Cole Anthony,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,71,66,0.65,0.649,8:40
+3,7:18,ORL,Wendell Carter Jr.,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,73,69,0.62,0.618,7:27
+3,6:39,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,73,72,0.442,0.501,6:47
+3,6:31,GS,Gary Payton II,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,73,74,0.463,0.465,6:39
+3,4:37,ORL,Paolo Banchero,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,75,82,0.159,0.201,4:46
+3,4:00,GS,Moses Moody,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,77,87,0.143,0.145,4:13
+3,1:36,GS,Moses Moody,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,82,89,0.273,0.215,1:44
+3,1:13,GS,Kevon Looney,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,84,89,0.319,0.245,1:13
+3,41.0,ORL,Goga Bitadze,Offensive Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,85,89,0.279,0.326,50.0
+4,11:36,ORL,Goga Bitadze,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,87,92,0.167,0.257,12:00
+4,11:07,ORL,Franz Wagner,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,87,93,0.173,0.185,11:18
+4,10:55,ORL,Jett Howard,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,87,93,0.124,0.173,11:07
+4,10:32,ORL,Jonathan Isaac,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,87,95,0.075,0.112,10:39
+4,10:11,GS,Gui Santos,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,87,97,0.107,0.084,10:11
+4,8:22,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,89,99,0.115,0.073,8:28
+4,6:31,ORL,Cole Anthony,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,91,103,0.011,0.021,6:44
+4,5:47,GS,Quinten Post,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,91,104,0.034,0.017,5:55
+4,5:37,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,93,104,0.013,0.025,5:47
+4,5:20,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,95,105,0.065,0.031,5:20
+4,4:13,GS,Quinten Post,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,97,105,0.13,0.083,4:32
+4,1:55,GS,Quinten Post,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,107,111,0.323,0.205,2:04
+4,1:19,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,109,114,0.23,0.133,1:31
+4,40.1,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,111,114,0.075,0.154,48.1
+4,20.2,ORL,Paolo Banchero,Personal Take Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,111,116,0.01,0.034,21.1
+4,13.1,ORL,Wendell Carter Jr.,Personal Take Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,113,118,0.005,0.021,14.0
+4,4.0,ORL,Kentavious Caldwell-Pope,Personal Take Foul,Foul,Courtney Kirkland,J.B. DeRosa,Tyler Ricks,ORL,115,120,0.001,0.007,5.1

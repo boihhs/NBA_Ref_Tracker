@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,CLE,De'Andre Hunter,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,0,3,0.333,0.333,10:55
+1,9:45,MIA,Davion Mitchell,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,0,5,0.268,0.269,9:51
+1,7:07,MIA,Andrew Wiggins,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,5,13,0.197,0.23,7:07
+1,6:08,MIA,Pelle Larsson,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,8,15,0.201,0.228,6:30
+1,5:26,MIA,Pelle Larsson,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,12,16,0.261,0.293,5:36
+1,4:45,MIA,Nikola Jovic,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,14,16,0.305,0.341,5:02
+1,4:38,CLE,Lonzo Ball,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,14,18,0.354,0.318,4:45
+2,10:34,CLE,Evan Mobley,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,28,32,0.321,0.32,10:35
+2,9:14,CLE,Dean Wade,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,32,32,0.458,0.405,9:14
+2,9:14,CLE,CLE,Technical Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,32,32,0.459,0.458,9:14
+2,9:09,MIA,Simone Fontecchio,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,33,32,0.437,0.436,9:14
+2,9:02,MIA,Dru Smith,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,33,32,0.437,0.437,9:09
+2,6:35,MIA,Dru Smith,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,38,37,0.398,0.443,6:48
+2,5:21,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,40,43,0.284,0.326,5:21
+2,4:49,CLE,Lonzo Ball,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,40,46,0.313,0.272,5:01
+2,3:15,MIA,Norman Powell,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,49,48,0.402,0.45,3:26
+2,2:21,CLE,Darius Garland,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,51,48,0.607,0.558,2:27
+2,2:08,MIA,Nikola Jovic,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,54,48,0.571,0.62,2:21
+2,2:02,CLE,Jaylon Tyson,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,54,50,0.64,0.592,2:08
+3,11:27,CLE,De'Andre Hunter,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,62,55,0.707,0.711,11:40
+3,10:21,CLE,Donovan Mitchell,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,66,60,0.729,0.681,10:39
+3,9:59,CLE,Darius Garland,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,67,60,0.76,0.716,10:05
+3,9:47,CLE,De'Andre Hunter,Offensive Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,69,60,0.778,0.742,9:59
+3,9:34,MIA,Davion Mitchell,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,69,60,0.75,0.746,9:34
+3,8:50,MIA,Davion Mitchell,Loose Ball Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,71,62,0.756,0.753,8:51
+3,7:22,CLE,Donovan Mitchell,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,74,69,0.719,0.665,7:22
+3,6:52,MIA,Norman Powell,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,76,69,0.649,0.703,7:09
+3,5:57,CLE,Darius Garland,Personal Take Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,78,73,0.732,0.676,5:59
+3,4:20,CLE,De'Andre Hunter,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,87,79,0.839,0.794,4:30
+3,3:59,CLE,Donovan Mitchell,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,89,79,0.873,0.854,4:02
+3,3:49,MIA,Nikola Jovic,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,91,79,0.843,0.878,3:59
+3,3:37,CLE,Sam Merrill,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,91,79,0.929,0.905,3:43
+3,3:18,CLE,Sam Merrill,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,92,81,0.915,0.884,3:24
+3,2:58,CLE,Sam Merrill,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,94,81,0.946,0.925,2:58
+3,1:24,CLE,Donovan Mitchell,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,96,90,0.811,0.761,1:26
+3,44.3,CLE,Dean Wade,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,98,90,0.877,0.833,49.0
+3,32.6,MIA,Simone Fontecchio,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,100,90,0.819,0.864,44.3
+3,32.6,CLE,CLE,Technical Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,100,91,0.886,0.811,32.6
+4,8:46,MIA,Pelle Larsson,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,106,106,0.353,0.453,8:48
+4,8:05,MIA,Norman Powell,Loose Ball Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,108,108,0.428,0.446,8:05
+4,7:02,CLE,Lonzo Ball,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,110,111,0.503,0.376,7:02
+4,6:02,MIA,Nikola Jovic,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,115,111,0.683,0.704,6:09
+4,5:18,MIA,Davion Mitchell,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,115,113,0.454,0.575,5:25
+4,5:12,MIA,Nikola Jovic,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,115,115,0.369,0.491,5:12
+4,4:00,CLE,Jaylon Tyson,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,117,119,0.365,0.351,4:10
+4,3:15,MIA,Kel'el Ware,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,119,119,0.307,0.42,3:21
+4,2:10,CLE,Evan Mobley,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,119,120,0.588,0.435,2:23
+4,1:26,CLE,Evan Mobley,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,123,122,0.713,0.52,1:26
+4,12.8,MIA,Jaime Jaquez Jr.,Personal Take Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,126,127,0.128,0.302,17.7
+5,4:41,CLE,De'Andre Hunter,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,128,128,0.654,0.5,5:00
+5,3:55,MIA,Andrew Wiggins,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,130,128,0.553,0.615,3:57
+5,3:42,MIA,Davion Mitchell,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,130,129,0.526,0.539,3:51
+5,1:50,MIA,Kel'el Ware,Shooting Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,132,131,0.445,0.642,1:50
+5,7.2,MIA,Norman Powell,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,136,133,0.702,0.851,8.0
+5,7.2,CLE,Jaylon Tyson,Away from Play Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,136,135,0.913,0.774,7.2
+5,6.5,CLE,Dean Wade,Personal Foul,Foul,Scott Foster,Sean Corbin,Jenna Schroeder,MIA,136,135,0.921,0.794,7.2

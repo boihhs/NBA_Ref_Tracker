@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:30,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,5,7,0.703,0.704,9:46
+1,8:27,PHI,Tyrese Maxey,Personal Take Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,5,9,0.651,0.653,8:28
+1,5:12,PHI,Adem Bona,Offensive Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,10,22,0.411,0.387,5:24
+1,4:51,PHI,Paul George,Offensive Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,10,22,0.408,0.382,4:54
+1,4:09,DET,Isaiah Stewart,Loose Ball Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,10,24,0.316,0.343,4:09
+1,2:44,DET,Isaiah Stewart,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,12,25,0.289,0.333,3:04
+1,2:41,DET,Jalen Duren,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,12,28,0.234,0.277,2:41
+1,1:37,DET,Jaden Ivey,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,15,33,0.176,0.216,1:37
+1,35.0,PHI,Jared McCain,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,18,35,0.271,0.233,41.0
+1,5.0,DET,Simone Fontecchio,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,20,35,0.215,0.253,9.1
+2,10:28,DET,Simone Fontecchio,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,23,39,0.175,0.214,10:34
+2,9:52,PHI,Guerschon Yabusele,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,25,41,0.229,0.23,10:00
+2,8:17,DET,Paul Reed,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,29,43,0.242,0.242,8:27
+2,6:40,PHI,Paul George,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,36,46,0.393,0.337,6:40
+2,6:26,DET,Tim Hardaway Jr.,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,36,48,0.257,0.306,6:26
+2,5:23,PHI,Adem Bona,Offensive Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,38,49,0.325,0.297,5:40
+2,4:35,PHI,Paul George,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,38,52,0.271,0.234,4:54
+2,5.1,PHI,Ricky Council IV,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,52,57,0.531,0.474,7.0
+3,10:40,DET,Malik Beasley,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,52,62,0.252,0.25,10:44
+3,10:16,PHI,KJ Martin,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,52,62,0.278,0.281,10:24
+3,10:08,PHI,KJ Martin,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,54,62,0.373,0.309,10:08
+3,9:00,PHI,Tyrese Maxey,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,55,69,0.148,0.151,9:11
+3,5:00,DET,Jaden Ivey,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,62,77,0.052,0.074,5:18
+3,1:40,DET,Marcus Sasser,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,64,84,0.007,0.012,2:00
+3,56.1,DET,Simone Fontecchio,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,67,86,0.007,0.013,1:10
+3,38.1,PHI,Adem Bona,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,67,88,0.013,0.009,56.1
+3,29.2,DET,Ausar Thompson,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,69,88,0.006,0.011,38.1
+4,11:13,DET,Ronald Holland II,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,69,89,0.002,0.005,11:18
+4,10:36,DET,Wendell Moore Jr.,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,71,91,0.004,0.004,10:44
+4,8:50,PHI,Jared McCain,Loose Ball Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,73,95,0.001,0.001,8:50
+4,8:41,PHI,Ricky Council IV,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,73,95,0.003,0.001,8:50
+4,8:33,DET,Ronald Holland II,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,76,95,0.003,0.003,8:41
+4,8:08,PHI,Tyrese Maxey,Loose Ball Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,76,95,0.005,0.003,8:08
+4,7:44,PHI,Ricky Council IV,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,76,97,0.003,0.001,7:55
+4,6:15,PHI,KJ Martin,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,80,99,0.004,0.002,6:19
+4,4:43,DET,Ronald Holland II,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,83,102,0.001,0.001,4:56
+4,4:04,DET,Paul Reed,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,83,104,0.001,0.001,4:17
+4,3:43,PHI,Adem Bona,Shooting Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,85,106,0.001,0.001,3:43
+4,3:28,DET,Simone Fontecchio,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,86,106,0.001,0.001,3:43
+4,2:43,PHI,Jared McCain,Personal Foul,Foul,Josh Tiven,Rodney Mott,Nate Green,DET,86,107,0.001,0.001,2:45

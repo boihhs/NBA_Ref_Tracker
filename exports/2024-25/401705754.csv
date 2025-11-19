@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:54,NY,Mikal Bridges,Personal Take Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,0,0,0.266,0.265,12:00
+1,10:11,NY,Landry Shamet,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,2,6,0.2,0.202,10:21
+1,9:31,NY,P.J. Tucker,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,2,8,0.172,0.185,10:06
+1,8:27,NY,P.J. Tucker,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,4,10,0.197,0.173,8:46
+1,7:13,NY,Precious Achiuwa,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,9,13,0.224,0.191,7:13
+1,5:33,BKN,Tyrese Martin,Defensive 3-Seconds Technical,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,15,16,0.259,0.251,5:54
+1,4:29,BKN,Nic Claxton,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,20,20,0.246,0.277,4:43
+1,2:56,NY,Miles McBride,Loose Ball Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,26,24,0.399,0.358,2:56
+1,1:37,BKN,Dariq Whitehead,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,30,30,0.272,0.316,1:37
+1,1:16,BKN,Keon Johnson,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,30,30,0.257,0.294,1:17
+2,11:05,BKN,Tosan Evbuomwan,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,39,41,0.223,0.253,11:17
+2,10:58,NY,P.J. Tucker,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,41,43,0.297,0.255,10:58
+2,9:36,BKN,Tosan Evbuomwan,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,46,43,0.392,0.389,9:46
+2,9:20,BKN,Tosan Evbuomwan,Loose Ball Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,46,43,0.395,0.392,9:20
+2,8:41,BKN,Tosan Evbuomwan,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,48,43,0.413,0.458,8:46
+2,8:26,NY,Pacome Dadiet,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,48,45,0.476,0.43,8:41
+2,6:10,NY,Delon Wright,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,54,45,0.638,0.635,6:24
+2,5:58,NY,Precious Achiuwa,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,54,45,0.687,0.638,6:10
+2,4:31,NY,Cameron Payne,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,55,48,0.638,0.589,4:49
+2,4:17,BKN,Trendon Watford,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,55,48,0.506,0.557,4:30
+2,3:12,NY,Precious Achiuwa,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,55,52,0.519,0.468,3:22
+2,2:56,NY,Kevin McCullar Jr.,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,56,52,0.554,0.504,3:01
+2,1:28,NY,Miles McBride,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,61,55,0.614,0.583,1:30
+2,1:14,BKN,Jalen Wilson,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,62,55,0.533,0.585,1:28
+3,11:27,NY,P.J. Tucker,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,66,64,0.461,0.459,11:44
+3,11:20,NY,P.J. Tucker,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,66,64,0.461,0.461,11:27
+3,11:09,NY,Cameron Payne,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,66,64,0.462,0.461,11:20
+3,9:45,BKN,Trendon Watford,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,71,64,0.622,0.62,10:05
+3,8:22,BKN,Tyrese Martin,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,74,64,0.743,0.739,8:36
+3,5:32,BKN,Nic Claxton,Technical Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,79,70,0.719,0.744,5:32
+3,4:59,BKN,Tyrese Martin,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,79,73,0.574,0.634,5:07
+3,3:45,BKN,Keon Johnson,Offensive Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,79,80,0.35,0.392,4:00
+3,3:36,BKN,Keon Johnson,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,79,80,0.294,0.35,3:45
+3,2:43,NY,Miles McBride,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,79,85,0.261,0.21,2:52
+3,2:28,BKN,Drew Timme,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,79,85,0.137,0.174,2:30
+3,2:22,NY,Cameron Payne,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,79,87,0.194,0.148,2:28
+3,2:07,BKN,Dariq Whitehead,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,81,87,0.135,0.174,2:22
+3,1.1,NY,Kevin McCullar Jr.,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,81,89,0.182,0.14,5.0
+4,11:53,NY,Landry Shamet,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,83,89,0.207,0.184,12:00
+4,11:08,NY,P.J. Tucker,Defensive 3-Seconds Technical,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,85,89,0.265,0.279,11:16
+4,11:05,BKN,Drew Timme,Offensive Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,86,89,0.275,0.326,11:08
+4,7:50,NY,Kevin McCullar Jr.,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,89,98,0.14,0.089,7:58
+4,7:30,NY,Delon Wright,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,91,98,0.22,0.149,7:42
+4,7:22,BKN,Jalen Wilson,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,92,98,0.141,0.149,7:29
+4,6:07,BKN,Trendon Watford,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,94,100,0.099,0.169,6:07
+4,5:26,BKN,Tyson Etienne,Shooting Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,96,101,0.094,0.161,5:50
+4,3:00,BKN,Trendon Watford,Loose Ball Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,103,105,0.173,0.281,3:00
+4,2:56,BKN,Keon Johnson,Personal Foul,Foul,Tre Maddox,CJ Washington,Ben Taylor,BKN,103,105,0.171,0.173,3:00

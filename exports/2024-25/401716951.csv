@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:47,DEN,Vlatko Cancar,Away from Play Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,7,9,0.46,0.461,7:47
+1,7:45,DEN,Nikola Jokic,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,7,9,0.461,0.432,7:47
+1,6:59,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,10,13,0.388,0.434,6:59
+1,6:26,DEN,Vlatko Cancar,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,12,14,0.478,0.432,6:26
+1,5:38,DEN,Jamal Murray,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,13,16,0.472,0.431,5:44
+1,4:54,BOS,Jaylen Brown,Loose Ball Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,17,16,0.515,0.512,4:54
+1,1:20,DEN,Julian Strawther,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,29,25,0.644,0.599,1:20
+1,1:09,BOS,Jrue Holiday,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,30,25,0.585,0.623,1:20
+1,33.0,BOS,Jrue Holiday,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,32,27,0.586,0.624,54.1
+2,11:32,BOS,Payton Pritchard,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,34,29,0.628,0.628,11:39
+2,11:18,BOS,Payton Pritchard,Loose Ball Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,34,29,0.629,0.628,11:18
+2,10:57,BOS,Payton Pritchard,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,34,29,0.589,0.629,11:07
+2,10:34,DEN,Dario Saric,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,34,31,0.645,0.601,10:57
+2,9:19,BOS,Jordan Walsh,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,40,35,0.611,0.661,9:19
+2,8:39,BOS,Jaden Springer,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,43,36,0.648,0.69,8:53
+2,8:14,BOS,Sam Hauser,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,46,37,0.705,0.743,8:28
+2,8:00,DEN,Christian Braun,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,46,38,0.745,0.746,8:14
+2,7:42,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,46,38,0.678,0.719,7:52
+2,7:09,BOS,Luke Kornet,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,46,40,0.622,0.665,7:12
+2,6:39,BOS,Derrick White,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,49,42,0.652,0.696,6:48
+2,6:16,DEN,Vlatko Cancar,Offensive Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,51,43,0.753,0.724,6:24
+2,5:48,DEN,Vlatko Cancar,Loose Ball Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,51,43,0.75,0.755,5:48
+2,5:25,BOS,Luke Kornet,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,51,43,0.684,0.726,5:29
+2,5:17,DEN,Julian Strawther,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,51,45,0.74,0.699,5:25
+2,4:22,BOS,Luke Kornet,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,55,50,0.618,0.673,4:22
+2,4:09,DEN,Nikola Jokic,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,57,51,0.725,0.671,4:09
+2,2:44,BOS,Jrue Holiday,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,62,53,0.722,0.763,2:54
+2,1:19,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,65,57,0.696,0.744,1:23
+2,32.1,DEN,Julian Strawther,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,65,58,0.783,0.747,46.1
+3,11:09,DEN,Hunter Tyson,Loose Ball Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,69,63,0.72,0.726,11:09
+3,10:49,DEN,Dario Saric,Offensive Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,72,63,0.808,0.779,11:07
+3,10:40,DEN,Vlatko Cancar,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,72,63,0.841,0.808,10:49
+3,10:01,BOS,Jayson Tatum,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,75,63,0.858,0.856,10:10
+3,9:57,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,75,63,0.858,0.858,10:01
+3,9:51,BOS,Jaylen Brown,Technical Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,75,63,0.841,0.878,9:52
+3,8:59,BOS,Derrick White,Loose Ball Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,81,64,0.941,0.94,9:16
+3,8:38,DEN,Julian Strawther,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,83,66,0.958,0.943,8:38
+3,8:17,BOS,Jaden Springer,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,84,68,0.921,0.944,8:17
+3,7:47,DEN,Christian Braun,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,86,68,0.973,0.964,7:54
+3,7:41,DEN,Julian Strawther,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,86,68,0.973,0.973,7:47
+3,5:01,DEN,Hunter Tyson,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,95,68,0.998,0.997,5:08
+3,4:32,DEN,Jalen Pickett,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,100,68,0.999,0.999,4:32
+3,2:15,BOS,Xavier Tillman,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,106,71,0.999,0.999,2:33
+3,1:57,DEN,Trey Alexander,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,106,73,0.999,0.999,2:15
+3,54.1,DEN,Zeke Nnaji,Loose Ball Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,107,75,0.999,0.999,54.1
+3,40.0,BOS,Xavier Tillman,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,109,75,0.999,0.999,54.1
+4,6:51,BOS,Drew Peterson,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,119,88,0.999,0.999,6:56
+4,6:09,BOS,Anton Watson,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,119,88,0.999,0.999,6:24
+4,5:08,DEN,PJ Hall,Offensive Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,119,91,0.999,0.999,5:16
+4,5:01,DEN,Jahmir Young,Personal Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,119,91,0.999,0.999,5:08
+4,54.1,BOS,Anton Watson,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,130,100,0.999,0.999,54.1
+4,26.0,BOS,Drew Peterson,Shooting Foul,Foul,John Goble,CJ Washington,Mitchell Ervin,BOS,130,101,0.999,0.999,34.0

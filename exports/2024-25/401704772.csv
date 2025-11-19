@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:13,MIA,Terry Rozier,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,3,2,0.772,0.75,11:29
+1,7:38,MIA,Terry Rozier,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,9,9,0.743,0.711,7:43
+1,4:57,MIN,Donte DiVincenzo,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,15,15,0.68,0.679,5:11
+1,3:44,MIN,Naz Reid,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,15,18,0.554,0.596,3:50
+1,1:39,MIA,Nikola Jovic,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,19,27,0.513,0.471,1:48
+1,1:32,MIA,Nikola Jovic,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,19,27,0.512,0.513,1:39
+2,10:09,MIA,Duncan Robinson,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,23,32,0.411,0.41,10:21
+2,9:03,MIN,Donte DiVincenzo,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,25,35,0.34,0.339,9:13
+2,8:48,MIN,Naz Reid,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,25,35,0.297,0.34,9:03
+2,7:42,MIA,Pelle Larsson,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,25,36,0.328,0.328,7:44
+2,6:58,MIA,Nikola Jovic,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,27,39,0.292,0.293,6:59
+2,3:55,MIA,Josh Richardson,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,39,41,0.633,0.553,3:55
+2,3:16,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,42,43,0.583,0.582,3:23
+2,3:14,MIN,Anthony Edwards,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,42,43,0.531,0.583,3:16
+2,3:03,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,42,43,0.529,0.582,3:03
+2,2:56,MIA,Josh Richardson,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,42,45,0.598,0.546,3:03
+2,1:53,MIN,Julius Randle,Offensive Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,44,47,0.503,0.538,2:03
+3,9:14,MIN,Mike Conley,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,53,57,0.377,0.432,9:18
+3,7:47,MIN,Rudy Gobert,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,56,62,0.318,0.381,7:47
+3,6:37,MIN,Julius Randle,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,56,63,0.297,0.293,6:37
+3,4:52,MIA,Tyler Herro,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,58,63,0.425,0.35,4:52
+3,3:39,MIA,Terry Rozier,Offensive Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,64,63,0.641,0.596,3:50
+3,3:28,MIA,Kel'el Ware,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,64,63,0.627,0.641,3:39
+3,2:25,MIA,Duncan Robinson,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,68,63,0.787,0.788,2:26
+3,2:18,MIA,Duncan Robinson,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,68,63,0.787,0.787,2:25
+3,1:56,MIN,Donte DiVincenzo,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,71,63,0.803,0.848,2:09
+3,44.1,MIA,Bam Adebayo,Loose Ball Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,71,66,0.841,0.793,44.1
+4,10:07,MIN,Julius Randle,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,71,70,0.56,0.572,10:18
+4,9:50,MIA,Josh Richardson,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,71,70,0.635,0.623,9:54
+4,8:55,MIA,Tyler Herro,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,74,72,0.695,0.68,9:10
+4,7:14,MIN,Mike Conley,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,78,76,0.568,0.694,7:14
+4,6:18,MIA,Tyler Herro,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,80,77,0.831,0.746,6:22
+4,3:55,MIN,Anthony Edwards,Clear Path Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,88,83,0.808,0.827,3:56
+4,3:37,MIN,Jaden McDaniels,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,88,84,0.651,0.762,3:55
+4,3:05,MIA,Tyler Herro,Offensive Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,90,87,0.766,0.691,3:16
+4,2:34,MIN,Julius Randle,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,90,87,0.575,0.7,2:41
+4,52.1,MIN,Anthony Edwards,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,92,89,0.57,0.73,52.1
+4,30.0,MIN,Jaden McDaniels,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,92,90,0.477,0.623,33.0
+4,7.1,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,94,94,0.281,0.539,7.1
+4,3.1,MIA,Tyler Herro,Personal Foul,Foul,Mark Lindsay,Kevin Cutler,Mousa Dagher,MIN,94,95,0.711,0.358,7.1

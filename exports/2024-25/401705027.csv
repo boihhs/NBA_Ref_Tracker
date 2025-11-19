@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:09,ATL,Clint Capela,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,7,3,0.78,0.746,10:09
+1,8:58,DEN,Russell Westbrook,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,10,8,0.67,0.703,9:05
+1,7:52,DEN,Russell Westbrook,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,17,10,0.799,0.799,8:07
+1,7:44,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,17,10,0.772,0.799,7:52
+1,5:33,DEN,Julian Strawther,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,24,19,0.727,0.759,5:38
+1,4:46,ATL,Vit Krejci,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,26,21,0.777,0.778,4:58
+1,4:28,DEN,Julian Strawther,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,28,21,0.766,0.794,4:39
+1,1:11,ATL,Onyeka Okongwu,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,34,31,0.76,0.728,1:29
+1,42.1,ATL,Vit Krejci,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,36,31,0.801,0.769,47.1
+2,10:26,ATL,Onyeka Okongwu,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,42,35,0.836,0.81,10:35
+2,7:40,DEN,Peyton Watson,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,53,51,0.703,0.692,7:40
+2,54.1,ATL,Vit Krejci,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,68,70,0.596,0.547,1:07
+2,13.0,ATL,Garrison Mathews,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,72,70,0.721,0.673,28.0
+2,9.1,DEN,Christian Braun,Personal Take Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,74,70,0.658,0.707,13.0
+2,6.1,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,74,70,0.657,0.658,9.1
+3,9:20,DEN,Jamal Murray,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,82,75,0.75,0.793,9:28
+3,8:39,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,84,77,0.771,0.819,8:39
+3,8:28,ATL,Dyson Daniels,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,84,77,0.818,0.819,8:37
+3,7:53,ATL,Garrison Mathews,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,84,79,0.763,0.765,8:03
+3,7:50,ATL,Trae Young,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,86,79,0.835,0.793,7:50
+3,7:50,ATL,Trae Young,Technical Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,86,79,0.836,0.835,7:50
+3,7:16,DEN,Russell Westbrook,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,91,79,0.903,0.902,7:25
+3,5:23,ATL,Onyeka Okongwu,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,96,81,0.97,0.958,5:44
+3,4:36,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,100,81,0.972,0.98,4:46
+3,3:38,DEN,Peyton Watson,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,102,84,0.973,0.983,3:38
+3,3:27,ATL,Vit Krejci,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,104,85,0.989,0.983,3:27
+3,3:16,ATL,De'Andre Hunter,Flopping Technical,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,105,85,0.99,0.987,3:27
+3,2:21,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,108,85,0.993,0.995,2:28
+4,9:40,DEN,DeAndre Jordan,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,119,98,0.995,0.997,9:45
+4,8:25,ATL,David Roddy,Shooting Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,123,102,0.999,0.998,8:49
+4,7:51,DEN,Jalen Pickett,Offensive Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,126,102,0.999,0.999,8:00
+4,7:39,ATL,Zaccharie Risacher,Transition Take Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,126,102,0.999,0.999,7:40
+4,3:22,ATL,Vit Krejci,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,135,110,0.999,0.999,3:23
+4,1:12,ATL,Garrison Mathews,Personal Foul,Foul,James Williams,Brett Nansel,Jenna Schroeder,DEN,137,115,0.999,0.999,1:27

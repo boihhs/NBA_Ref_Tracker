@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:44,LAC,Bradley Beal,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,0,3,0.479,0.517,10:57
+1,10:17,PHX,Dillon Brooks,Offensive Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,0,4,0.517,0.49,10:19
+1,9:31,LAC,Kris Dunn,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,2,6,0.449,0.488,9:34
+1,9:18,PHX,Jalen Green,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,2,8,0.5,0.463,9:31
+1,8:20,LAC,James Harden,Personal Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,5,10,0.461,0.457,8:26
+1,6:05,LAC,Ivica Zubac,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,12,16,0.457,0.476,6:05
+1,4:09,PHX,Mark Williams,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,16,22,0.464,0.413,4:09
+1,2:55,PHX,Oso Ighodaro,Loose Ball Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,21,25,0.491,0.492,2:55
+1,1:15,LAC,Cam Christie,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,27,31,0.436,0.484,1:15
+1,22.3,PHX,Ryan Dunn,Personal Take Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,29,35,0.467,0.426,27.5
+2,11:08,PHX,Collin Gillespie,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,31,35,0.522,0.476,11:15
+2,10:13,PHX,Nick Richards,Loose Ball Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,33,35,0.532,0.533,10:13
+2,8:15,PHX,Nick Richards,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,35,41,0.452,0.407,8:37
+2,6:07,PHX,Devin Booker,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,41,41,0.604,0.552,6:07
+2,4:34,PHX,Mark Williams,Personal Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,44,47,0.531,0.483,4:39
+2,3:37,PHX,Collin Gillespie,Personal Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,45,49,0.495,0.45,3:52
+2,2:25,LAC,Ivica Zubac,Offensive Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,46,54,0.277,0.313,2:43
+3,10:00,LAC,Kris Dunn,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,51,64,0.098,0.126,10:06
+3,9:42,PHX,Mark Williams,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,51,67,0.113,0.09,10:00
+3,8:01,PHX,Royce O'Neale,Offensive Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,57,69,0.152,0.132,8:12
+3,6:57,LAC,James Harden,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,61,69,0.182,0.227,7:10
+3,6:35,LAC,Ivica Zubac,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,61,74,0.088,0.12,6:35
+3,6:07,LAC,Kris Dunn,Personal Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,63,75,0.089,0.117,6:16
+3,4:53,PHX,Royce O'Neale,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,65,77,0.166,0.131,5:13
+3,4:08,PHX,Devin Booker,Offensive Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,70,77,0.27,0.235,4:19
+3,4:41,PHX,Devin Booker,Offensive Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,67,77,0.178,0.233,4:08
+3,3:39,LAC,Brook Lopez,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,70,77,0.181,0.228,3:40
+3,3:26,PHX,Devin Booker,Flopping Technical,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,70,78,0.226,0.193,3:26
+3,3:10,LAC,Cam Christie,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,71,78,0.175,0.263,3:26
+4,10:57,PHX,Ryan Dunn,Personal Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,80,88,0.187,0.176,11:15
+4,7:11,LAC,Kris Dunn,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,87,96,0.055,0.078,7:32
+4,5:35,LAC,Nicolas Batum,Personal Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,93,98,0.164,0.178,5:48
+4,4:38,PHX,Dillon Brooks,Personal Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,96,104,0.091,0.086,4:50
+4,4:08,PHX,PHX,Delay Technical,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,98,106,0.07,0.078,4:10
+4,2:59,LAC,Kris Dunn,Shooting Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,101,108,0.035,0.083,2:59
+4,2:13,PHX,Devin Booker,Personal Foul,Foul,Pat Fraher,J.T. Orr,Andy Nagy,LAC,101,109,0.051,0.042,2:24

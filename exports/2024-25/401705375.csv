@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:36,UTAH,Walker Kessler,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,2,4,0.26,0.29,9:43
+1,6:11,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,11,13,0.338,0.321,6:11
+1,4:56,UTAH,KJ Martin,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,14,15,0.289,0.324,5:00
+1,2:05,HOU,Jalen Green,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,24,24,0.404,0.357,2:05
+1,1:36,UTAH,Johnny Juzang,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,25,24,0.344,0.383,1:39
+2,10:30,HOU,Reed Sheppard,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,31,30,0.469,0.425,10:47
+2,9:16,UTAH,Kyle Filipowski,Loose Ball Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,38,34,0.489,0.488,9:16
+2,5:26,UTAH,Cody Williams,Personal Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,42,45,0.298,0.296,5:45
+2,4:48,HOU,Amen Thompson,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,45,45,0.465,0.418,4:55
+2,3:34,HOU,Jabari Smith Jr.,Personal Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,45,47,0.355,0.358,3:34
+2,3:29,UTAH,Walker Kessler,Offensive Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,45,47,0.327,0.355,3:34
+2,3:29,UTAH,Walker Kessler,Technical Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,45,47,0.305,0.327,3:29
+2,2:54,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,45,49,0.343,0.299,3:12
+2,2:54,HOU,Dillon Brooks,Technical Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,46,49,0.35,0.35,2:54
+2,2:42,UTAH,Walker Kessler,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,47,51,0.251,0.3,2:42
+2,2:26,HOU,Jalen Green,Personal Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,47,53,0.287,0.247,2:40
+2,2:06,HOU,Dillon Brooks,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,48,53,0.315,0.272,2:13
+2,1:20,UTAH,KJ Martin,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,52,56,0.233,0.271,1:22
+2,40.0,UTAH,KJ Martin,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,54,59,0.226,0.274,40.0
+3,10:23,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,60,64,0.353,0.305,10:25
+3,9:57,HOU,Amen Thompson,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,62,64,0.396,0.335,9:57
+3,9:43,UTAH,Lauri Markkanen,Loose Ball Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,62,64,0.336,0.335,9:43
+3,8:23,UTAH,Walker Kessler,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,64,71,0.17,0.213,8:23
+3,3:57,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,77,79,0.445,0.381,4:13
+3,3:25,HOU,Jock Landale,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,79,81,0.447,0.381,3:41
+3,49.1,UTAH,Kyle Filipowski,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,85,85,0.36,0.43,1:08
+3,14.0,HOU,Aaron Holiday,Personal Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,87,90,0.41,0.341,29.1
+4,10:22,HOU,Aaron Holiday,Offensive Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,91,96,0.246,0.203,10:39
+4,9:31,UTAH,Kyle Filipowski,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,95,96,0.295,0.387,9:42
+4,8:35,UTAH,Brice Sensabaugh,Loose Ball Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,100,97,0.588,0.604,8:35
+4,8:29,UTAH,Brice Sensabaugh,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,100,97,0.49,0.588,8:35
+4,4:33,UTAH,Cody Williams,Personal Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,112,104,0.836,0.903,4:47
+4,46.0,HOU,Alperen Sengun,Personal Take Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,122,115,0.994,0.983,46.0
+4,32.0,HOU,Alperen Sengun,Shooting Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,122,115,0.997,0.994,46.0
+4,8.1,HOU,Amen Thompson,Personal Foul,Foul,Pat Fraher,Sean Wright,John Conley,UTAH,123,115,0.999,0.997,23.0

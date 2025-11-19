@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,SAC,Doug McDermott,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,5,0,0.59,0.626,10:54
+1,10:34,UTAH,Collin Sexton,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,5,2,0.64,0.604,10:40
+1,8:27,SAC,Kevin Huerter,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,11,7,0.566,0.604,8:33
+1,6:06,SAC,Doug McDermott,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,21,21,0.482,0.527,6:06
+1,4:57,SAC,Jordan McLaughlin,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,21,21,0.46,0.501,4:59
+1,4:47,SAC,Orlando Robinson,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,21,21,0.48,0.5,4:47
+1,4:22,SAC,Orlando Robinson,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,23,21,0.514,0.555,4:29
+1,41.1,UTAH,Isaiah Collier,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,31,29,0.623,0.587,53.1
+1,30.0,UTAH,Drew Eubanks,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,31,29,0.6,0.584,30.0
+2,11:09,SAC,De'Aaron Fox,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,38,34,0.613,0.614,11:22
+2,10:37,UTAH,Drew Eubanks,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,38,36,0.627,0.584,10:53
+2,9:44,UTAH,Johnny Juzang,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,42,38,0.641,0.643,9:51
+2,9:34,UTAH,Collin Sexton,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,42,38,0.683,0.641,9:44
+2,8:47,SAC,Doug McDermott,Loose Ball Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,47,40,0.698,0.697,8:47
+2,7:30,SAC,Alex Len,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,49,42,0.68,0.7,7:45
+2,6:50,SAC,Alex Len,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,49,45,0.595,0.647,6:50
+2,4:03,SAC,Keegan Murray,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,58,48,0.751,0.788,4:05
+2,3:35,UTAH,John Collins,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,60,50,0.845,0.813,3:42
+2,2:25,SAC,Isaac Jones,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,62,52,0.758,0.794,2:38
+3,11:02,SAC,Kevin Huerter,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,67,66,0.471,0.528,11:12
+3,10:53,UTAH,Keyonte George,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,67,67,0.525,0.529,11:01
+3,10:50,UTAH,Collin Sexton,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,67,67,0.525,0.525,10:53
+3,10:47,SAC,Trey Lyles,Offensive Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,67,67,0.487,0.525,10:50
+3,10:29,SAC,Keegan Murray,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,67,67,0.434,0.487,10:47
+3,8:28,SAC,De'Aaron Fox,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,69,73,0.342,0.339,8:47
+3,7:40,UTAH,John Collins,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,71,75,0.402,0.336,7:40
+3,7:16,SAC,Keon Ellis,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,72,75,0.318,0.371,7:26
+3,7:02,SAC,Trey Lyles,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,72,75,0.317,0.318,7:16
+3,6:23,UTAH,Isaiah Collier,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,72,79,0.314,0.262,6:34
+3,5:44,SAC,Keon Ellis,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,75,79,0.271,0.329,5:44
+3,4:46,SAC,Jordan McLaughlin,Loose Ball Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,75,82,0.171,0.215,4:46
+3,2:26,SAC,Kevin Huerter,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,81,89,0.126,0.167,2:28
+3,1:56,UTAH,Cody Williams,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,81,91,0.178,0.136,2:09
+3,1:29,UTAH,Cody Williams,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,82,91,0.207,0.161,1:38
+3,1:03,UTAH,Collin Sexton,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,84,91,0.284,0.185,1:12
+3,4.0,SAC,Kevin Huerter,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,90,93,0.27,0.337,21.1
+4,11:10,SAC,Keegan Murray,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,92,97,0.228,0.237,11:22
+4,10:12,UTAH,Drew Eubanks,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,92,101,0.131,0.123,10:19
+4,8:01,UTAH,Cody Williams,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,97,103,0.296,0.212,8:12
+4,6:39,UTAH,John Collins,Offensive Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,101,105,0.292,0.239,6:46
+4,5:54,SAC,Isaac Jones,Loose Ball Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,104,105,0.39,0.406,5:54
+4,5:41,SAC,Isaac Jones,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,104,105,0.281,0.39,5:54
+4,3:38,SAC,Isaac Jones,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,109,110,0.252,0.374,3:49
+4,2:31,SAC,Keegan Murray,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,113,112,0.385,0.515,2:46
+4,1:54,SAC,Keegan Murray,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,113,114,0.206,0.34,2:07
+4,38.1,UTAH,Collin Sexton,Shooting Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,118,116,0.838,0.748,38.1
+4,13.0,UTAH,Keyonte George,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,119,116,0.967,0.807,17.2
+4,3.0,SAC,De'Aaron Fox,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,119,116,0.878,0.884,7.0
+4,1.1,UTAH,Collin Sexton,Personal Foul,Foul,Marc Davis,Andy Nagy,Sha'Rae Mitchell,SAC,119,117,0.989,0.905,3.0

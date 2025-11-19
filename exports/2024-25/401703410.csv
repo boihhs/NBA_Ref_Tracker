@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:54,ATL,Zaccharie Risacher,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,2,2,0.327,0.328,10:56
+1,10:05,ATL,Zaccharie Risacher,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,5,4,0.318,0.351,10:09
+1,9:51,CLE,Jarrett Allen,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,5,6,0.364,0.329,10:05
+1,6:33,CLE,Donovan Mitchell,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,10,16,0.231,0.231,6:38
+1,5:48,CLE,Isaac Okoro,Offensive Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,13,16,0.294,0.273,5:51
+1,4:48,CLE,Jarrett Allen,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,15,20,0.286,0.251,4:58
+1,2:32,CLE,Sam Merrill,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,21,23,0.364,0.326,2:33
+2,11:25,CLE,Donovan Mitchell,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,29,27,0.445,0.447,11:29
+2,10:36,CLE,Sam Merrill,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,31,27,0.509,0.51,10:38
+2,9:43,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,31,29,0.424,0.422,9:50
+2,8:00,ATL,Trae Young,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,33,31,0.386,0.43,8:11
+2,7:29,ATL,Clint Capela,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,35,32,0.464,0.462,7:29
+2,7:09,CLE,Jaylon Tyson,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,35,32,0.495,0.496,7:16
+2,6:38,ATL,Trae Young,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,35,32,0.445,0.466,6:38
+2,6:24,CLE,Ty Jerome,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,35,34,0.488,0.438,6:38
+2,6:14,CLE,Ty Jerome,Technical Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,37,34,0.527,0.504,6:14
+2,4:47,ATL,Dyson Daniels,Offensive Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,41,38,0.479,0.51,5:04
+2,2:04,CLE,Caris LeVert,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,48,41,0.705,0.661,2:15
+3,9:59,CLE,Evan Mobley,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,58,53,0.625,0.623,10:05
+3,9:28,ATL,Jalen Johnson,Offensive Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,58,53,0.591,0.628,9:35
+3,8:03,CLE,Darius Garland,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,61,55,0.673,0.676,8:20
+3,5:57,ATL,Trae Young,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,69,57,0.853,0.852,6:06
+3,5:13,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,75,59,0.934,0.933,5:21
+3,4:48,CLE,Isaac Okoro,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,75,61,0.933,0.923,4:48
+3,4:36,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,77,61,0.927,0.936,4:48
+3,2:31,ATL,Dyson Daniels,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,82,69,0.873,0.905,2:41
+3,2:06,ATL,Kobe Bufkin,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,82,69,0.877,0.911,2:09
+3,1:06,CLE,Caris LeVert,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,86,71,0.969,0.951,1:06
+4,11:41,ATL,De'Andre Hunter,Offensive Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,91,73,0.984,0.988,11:44
+4,11:35,CLE,Darius Garland,Offensive Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,91,73,0.989,0.984,11:41
+4,10:41,CLE,Darius Garland,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,91,77,0.97,0.967,10:51
+4,10:12,ATL,Jalen Johnson,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,91,77,0.958,0.961,10:20
+4,9:59,CLE,Sam Merrill,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,91,77,0.983,0.971,10:09
+4,7:39,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,99,84,0.982,0.984,7:41
+4,7:00,ATL,Zaccharie Risacher,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,101,84,0.986,0.993,7:12
+4,6:17,CLE,Donovan Mitchell,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,101,86,0.992,0.992,6:18
+4,5:54,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,104,88,0.99,0.995,5:54
+4,5:23,ATL,Dyson Daniels,Shooting Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,104,89,0.983,0.991,5:30
+4,3:11,CLE,Ty Jerome,Loose Ball Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,107,96,0.995,0.989,3:11
+4,2:14,CLE,Evan Mobley,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,110,98,0.998,0.997,2:15
+4,1:20,CLE,Jaylon Tyson,Personal Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,112,98,0.999,0.999,1:26
+4,51.0,ATL,Trae Young,Personal Take Foul,Foul,Michael Smith,Ben Taylor,Gediminas Petraitis,ATL,117,98,0.999,0.999,57.0

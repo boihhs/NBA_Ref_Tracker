@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:34,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,0,0,0.859,0.878,11:44
+1,10:28,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,4,3,0.866,0.883,10:38
+1,9:19,OKC,Luguentz Dort,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,8,7,0.878,0.879,9:37
+1,8:37,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,8,9,0.88,0.862,8:43
+1,8:28,HOU,Jock Landale,Offensive Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,10,9,0.885,0.874,8:37
+1,5:33,HOU,Jock Landale,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,14,17,0.838,0.817,5:48
+1,5:06,HOU,Aaron Holiday,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,14,19,0.804,0.777,5:16
+1,2:40,HOU,Cam Whitmore,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,19,27,0.723,0.689,2:49
+1,1:07,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,23,29,0.751,0.719,1:15
+1,37.1,OKC,Kenrich Williams,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,27,29,0.748,0.778,44.1
+2,11:16,HOU,Reed Sheppard,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,30,33,0.797,0.771,11:31
+2,7:43,HOU,Nate Williams,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,39,44,0.725,0.688,7:55
+2,6:09,OKC,Aaron Wiggins,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,47,44,0.829,0.831,6:27
+2,5:59,OKC,Jalen Williams,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,47,44,0.801,0.829,6:09
+2,4:41,OKC,Cason Wallace,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,50,49,0.783,0.783,4:54
+2,4:12,HOU,Jalen Green,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,50,49,0.829,0.802,4:29
+3,10:53,HOU,Jabari Smith Jr.,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,65,65,0.738,0.741,11:00
+3,10:04,OKC,Isaiah Hartenstein,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,67,67,0.702,0.7,10:14
+3,10:04,HOU,Jock Landale,Offensive Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,67,67,0.733,0.702,10:04
+3,10:00,HOU,HOU,Technical Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,67,67,0.753,0.733,10:04
+3,8:33,OKC,Isaiah Hartenstein,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,74,67,0.868,0.868,8:42
+3,8:12,HOU,Jalen Green,Technical Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,76,67,0.925,0.9,8:12
+3,7:28,OKC,Chet Holmgren,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,80,67,0.933,0.949,7:45
+3,6:05,HOU,Jalen Green,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,84,69,0.973,0.973,6:13
+3,5:26,HOU,Jalen Green,Loose Ball Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,86,72,0.967,0.968,5:26
+3,2:53,HOU,N'Faly Dante,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,94,83,0.954,0.933,2:53
+3,2:29,OKC,Kenrich Williams,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,95,83,0.926,0.946,2:30
+3,48.1,HOU,Nate Williams,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,97,89,0.932,0.906,52.0
+4,11:34,OKC,Chet Holmgren,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,105,91,0.964,0.98,11:34
+4,10:26,HOU,Nate Williams,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,110,94,0.994,0.986,10:34
+4,10:03,OKC,Jalen Williams,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,112,96,0.986,0.988,10:04
+4,9:43,OKC,Chet Holmgren,Loose Ball Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,112,99,0.965,0.977,9:55
+4,8:43,OKC,Luguentz Dort,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,112,104,0.838,0.889,8:50
+4,6:46,OKC,Isaiah Hartenstein,Personal Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,120,106,0.973,0.983,6:57
+4,6:37,HOU,Cam Whitmore,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,120,108,0.988,0.977,6:46
+4,5:15,HOU,N'Faly Dante,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,122,114,0.966,0.937,5:16
+4,4:23,HOU,N'Faly Dante,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,124,117,0.959,0.925,4:34
+4,4:15,HOU,N'Faly Dante,Offensive Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,126,117,0.968,0.95,4:23
+4,1:03,OKC,Jalen Williams,Shooting Foul,Foul,Ed Malloy,Matt Myers,Justin Van Duyne,OKC,134,125,0.966,0.986,1:08

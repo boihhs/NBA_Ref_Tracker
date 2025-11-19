@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:39,POR,Toumani Camara,Offensive Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,0,0,0.708,0.692,12:00
+1,7:16,IND,Bennedict Mathurin,Loose Ball Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,9,9,0.673,0.673,7:20
+1,6:34,IND,Quenton Jackson,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,9,9,0.67,0.67,6:37
+1,5:20,POR,Toumani Camara,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,12,11,0.742,0.71,5:23
+1,4:53,IND,Quenton Jackson,Transition Take Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,13,11,0.708,0.708,4:53
+1,4:08,POR,Scoot Henderson,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,17,17,0.7,0.659,4:08
+1,2:11,IND,T.J. McConnell,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,19,25,0.439,0.486,2:23
+2,11:36,IND,Jarace Walker,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,26,31,0.496,0.493,11:40
+2,10:50,IND,Johnny Furphy,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,26,36,0.344,0.344,10:57
+2,10:00,POR,Dalano Banton,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,28,36,0.471,0.425,10:03
+2,9:21,IND,Pascal Siakam,Offensive Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,31,38,0.417,0.452,9:27
+2,7:48,POR,Toumani Camara,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,35,42,0.486,0.441,7:54
+2,6:58,IND,Tyrese Haliburton,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,39,44,0.417,0.466,7:14
+2,5:56,POR,Scoot Henderson,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,41,48,0.423,0.427,6:13
+2,5:22,IND,Tyrese Haliburton,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,43,48,0.404,0.456,5:43
+2,5:04,IND,Myles Turner,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,43,48,0.401,0.451,5:05
+2,3:50,POR,Anfernee Simons,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,45,52,0.435,0.408,3:50
+2,2:52,POR,Deni Avdija,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,50,55,0.518,0.469,2:55
+2,2:22,POR,Scoot Henderson,Loose Ball Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,51,55,0.548,0.501,2:22
+3,11:39,IND,Quenton Jackson,Offensive Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,60,60,0.583,0.623,11:40
+3,11:17,IND,Myles Turner,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,60,60,0.53,0.583,11:39
+3,9:55,POR,Deandre Ayton,Away from Play Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,62,65,0.506,0.504,9:55
+3,8:56,POR,Shaedon Sharpe,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,67,70,0.499,0.499,9:01
+3,8:02,IND,Bennedict Mathurin,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,70,70,0.568,0.568,8:22
+3,7:14,POR,Jabari Walker,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,70,72,0.524,0.525,7:15
+3,4:10,POR,Jabari Walker,Offensive Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,81,79,0.672,0.633,4:12
+3,1:08,IND,T.J. McConnell,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,94,82,0.906,0.931,1:26
+3,56.0,POR,Deni Avdija,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,94,83,0.953,0.933,1:07
+4,10:41,IND,Pascal Siakam,Away from Play Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,96,87,0.882,0.891,10:41
+4,9:54,IND,Pascal Siakam,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,96,89,0.824,0.835,10:02
+4,9:51,IND,Johnny Furphy,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,96,89,0.817,0.824,9:54
+4,5:45,POR,Scoot Henderson,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,103,100,0.74,0.733,5:47
+4,3:49,IND,Quenton Jackson,Personal Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,110,103,0.823,0.893,4:01
+4,1:05,IND,Pascal Siakam,Shooting Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,115,109,0.834,0.915,1:08
+4,33.2,IND,Pascal Siakam,Loose Ball Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,117,111,0.856,0.943,33.2
+4,22.0,POR,Anfernee Simons,Personal Take Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,117,112,0.989,0.95,25.0
+4,21.0,POR,Deni Avdija,Personal Take Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,117,112,0.989,0.989,22.0
+4,13.1,POR,Toumani Camara,Personal Take Foul,Foul,Marc Davis,Karl Lane,J.D. Ralls,IND,119,114,0.994,0.978,14.0

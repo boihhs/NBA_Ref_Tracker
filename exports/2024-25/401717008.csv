@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,LAL,Austin Reaves,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,0,0,0.45,0.49,12:00
+1,10:25,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,6,3,0.625,0.589,10:30
+1,8:28,GS,Jonathan Kuminga,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,10,7,0.627,0.591,8:32
+1,7:55,LAL,D'Angelo Russell,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,14,10,0.552,0.59,8:02
+1,6:46,GS,Andrew Wiggins,Offensive Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,16,14,0.566,0.539,6:48
+1,4:20,GS,Gary Payton II,Offensive Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,18,18,0.512,0.512,4:46
+1,2:52,GS,Kyle Anderson,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,22,21,0.582,0.541,3:09
+1,2:15,GS,Moses Moody,Defensive 3-Seconds Technical,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,24,24,0.505,0.512,2:33
+1,2:11,GS,Buddy Hield,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,25,24,0.583,0.543,2:15
+1,32.0,GS,Kyle Anderson,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,27,28,0.53,0.484,50.2
+2,11:35,LAL,Jaxson Hayes,Loose Ball Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,28,31,0.398,0.396,11:35
+2,6:01,GS,Andrew Wiggins,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,40,45,0.383,0.33,6:01
+2,3:15,LAL,Anthony Davis,Offensive Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,41,49,0.237,0.266,3:27
+2,1:58,LAL,Austin Reaves,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,43,51,0.196,0.233,2:08
+2,35.1,GS,Draymond Green,Personal Take Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,47,53,0.366,0.316,39.0
+2,33.1,GS,Stephen Curry,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,47,53,0.366,0.366,35.1
+3,10:36,GS,Trayce Jackson-Davis,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,51,60,0.216,0.215,10:48
+3,7:29,GS,Andrew Wiggins,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,57,67,0.172,0.175,7:45
+3,6:42,LAL,Rui Hachimura,Loose Ball Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,59,67,0.195,0.195,6:42
+3,5:14,LAL,Anthony Davis,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,61,70,0.124,0.159,5:18
+3,4:59,GS,Kevon Looney,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,63,71,0.235,0.184,4:59
+3,3:58,GS,Stephen Curry,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,65,73,0.255,0.205,4:01
+3,1:27,LAL,Jaxson Hayes,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,68,75,0.14,0.184,1:28
+3,1:15,GS,Buddy Hield,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,68,77,0.203,0.157,1:27
+4,11:30,GS,Gary Payton II,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,70,83,0.059,0.055,11:31
+4,10:15,LAL,Rui Hachimura,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,70,86,0.012,0.015,10:19
+4,10:11,LAL,Cam Reddish,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,70,86,0.012,0.012,10:15
+4,9:41,GS,Kyle Anderson,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,70,88,0.009,0.008,9:44
+4,9:07,GS,Gary Payton II,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,72,88,0.028,0.015,9:19
+4,7:52,LAL,Bronny James,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,74,88,0.008,0.017,8:11
+4,3:04,GS,Gui Santos,Personal Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,86,106,0.001,0.001,3:13
+4,2:21,GS,Lindy Waters III,Shooting Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,89,108,0.001,0.001,2:22
+4,9.0,GS,Gui Santos,Loose Ball Foul,Foul,Curtis Blair,Nate Green,Suyash Mehta,LAL,96,111,0.001,0.001,9.0

@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:57,DET,Jalen Duren,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,4,2,0.481,0.457,11:06
+1,9:56,DET,Jalen Duren,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,6,6,0.452,0.43,9:56
+1,8:49,DET,Isaiah Stewart,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,8,6,0.485,0.485,8:55
+1,8:09,DET,Tobias Harris,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,8,8,0.473,0.434,8:18
+1,7:30,CHI,Kevin Huerter,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,10,10,0.411,0.411,7:32
+1,5:49,DET,Cade Cunningham,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,15,12,0.56,0.52,5:56
+1,2:14,CHI,Patrick Williams,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,29,14,0.776,0.808,2:17
+1,2:00,DET,Paul Reed,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,29,16,0.804,0.789,2:00
+1,58.3,DET,Paul Reed,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,33,19,0.814,0.796,1:09
+2,10:26,CHI,Jalen Smith,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,40,21,0.894,0.892,10:41
+2,10:05,DET,Ausar Thompson,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,40,23,0.881,0.882,10:15
+2,9:16,DET,Ronald Holland II,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,40,25,0.852,0.851,9:30
+2,9:09,CHI,Isaac Okoro,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,40,25,0.834,0.833,9:09
+2,8:07,CHI,Isaac Okoro,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,42,25,0.875,0.875,8:07
+2,7:37,CHI,Matas Buzelis,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,44,25,0.885,0.907,7:46
+2,5:07,CHI,Isaac Okoro,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,54,31,0.944,0.958,5:16
+2,3:51,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,56,38,0.921,0.923,3:58
+2,3:41,DET,Ronald Holland II,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,56,38,0.939,0.921,3:51
+2,2:47,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,58,42,0.873,0.903,2:47
+2,2:13,CHI,Josh Giddey,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,60,44,0.876,0.906,2:13
+2,1:49,DET,Duncan Robinson,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,60,45,0.914,0.891,1:50
+2,1:29,CHI,Matas Buzelis,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,62,45,0.884,0.908,1:29
+2,56.7,DET,Ausar Thompson,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,62,47,0.919,0.895,1:11
+3,9:11,CHI,Isaac Okoro,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,72,55,0.911,0.932,9:17
+3,8:55,DET,Duncan Robinson,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,72,55,0.945,0.945,8:55
+3,8:50,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,72,55,0.945,0.945,8:55
+3,8:50,CHI,Josh Giddey,Offensive Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,72,55,0.934,0.945,8:50
+3,7:53,DET,Jalen Duren,Flagrant Foul Type 1,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,74,55,0.964,0.967,7:55
+3,7:12,CHI,Josh Giddey,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,77,57,0.957,0.969,7:14
+3,6:55,CHI,Matas Buzelis,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,77,59,0.954,0.953,6:55
+3,6:05,DET,Ronald Holland II,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,77,61,0.962,0.946,6:21
+3,5:55,DET,Jalen Duren,Loose Ball Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,77,61,0.962,0.949,5:55
+3,5:27,DET,Caris LeVert,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,78,63,0.956,0.938,5:40
+3,4:15,DET,Isaiah Stewart,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,82,65,0.972,0.957,4:15
+3,3:30,DET,Tobias Harris,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,83,70,0.945,0.923,3:42
+3,1:24,CHI,Tre Jones,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,92,72,0.981,0.987,1:40
+3,27.0,CHI,Tre Jones,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,92,76,0.953,0.968,37.1
+3,0.3,CHI,Ayo Dosunmu,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,94,78,0.955,0.971,5.3
+4,10:57,CHI,Josh Giddey,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,94,81,0.914,0.943,11:01
+4,10:21,CHI,Tre Jones,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,94,83,0.865,0.912,10:30
+4,10:21,DET,Isaiah Stewart,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,94,83,0.935,0.931,10:21
+4,10:13,DET,Ausar Thompson,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,94,83,0.957,0.935,10:21
+4,9:01,CHI,Isaac Okoro,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,97,86,0.902,0.927,9:01
+4,7:33,CHI,Nikola Vucevic,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,97,90,0.748,0.823,7:34
+4,7:19,CHI,Kevin Huerter,Shooting Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,97,90,0.752,0.748,7:33
+4,7:09,DET,Duncan Robinson,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,97,91,0.837,0.82,7:19
+4,3:39,DET,Ronald Holland II,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,105,100,0.913,0.844,3:50
+4,34.4,DET,Ronald Holland II,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,111,109,0.886,0.778,34.4
+4,13.8,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,112,111,0.868,0.705,13.8
+4,3.1,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Dedric Taylor,Suyash Mehta,CHI,114,111,0.991,0.975,3.1

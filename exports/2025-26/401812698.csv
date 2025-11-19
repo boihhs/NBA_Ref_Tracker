@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:12,PHI,Adem Bona,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,0,0,0.449,0.489,11:23
+1,10:18,PHI,Adem Bona,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,3,4,0.443,0.488,10:18
+1,9:27,ORL,Paolo Banchero,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,3,5,0.461,0.463,9:40
+1,9:20,PHI,Kelly Oubre Jr.,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,3,5,0.435,0.461,9:27
+1,7:01,PHI,Dominick Barlow,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,13,7,0.605,0.642,7:16
+1,5:26,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,16,13,0.613,0.595,5:26
+1,4:18,PHI,Tyrese Maxey,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,17,15,0.5,0.54,4:21
+1,3:37,ORL,Jase Richardson,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,19,19,0.537,0.487,3:37
+1,3:15,ORL,Jett Howard,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,20,19,0.544,0.514,3:37
+1,55.6,PHI,Justin Edwards,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,30,26,0.557,0.602,59.9
+1,38.2,PHI,Tyrese Maxey,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,32,31,0.493,0.546,38.2
+2,9:57,ORL,Franz Wagner,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,34,41,0.333,0.285,9:57
+2,9:40,ORL,Franz Wagner,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,37,41,0.395,0.365,9:45
+2,9:26,ORL,Jase Richardson,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,37,41,0.438,0.395,9:40
+2,8:18,ORL,Franz Wagner,Flagrant Foul Type 1,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,42,41,0.533,0.529,8:18
+2,7:58,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,44,41,0.573,0.572,8:01
+2,7:39,PHI,Adem Bona,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,44,43,0.49,0.543,7:39
+2,6:44,PHI,Johni Broome,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,44,46,0.375,0.419,6:53
+2,6:38,ORL,Jett Howard,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,44,48,0.437,0.391,6:44
+2,5:46,PHI,Dominick Barlow,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,46,48,0.373,0.418,5:51
+2,4:51,ORL,Desmond Bane,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,46,52,0.374,0.33,4:54
+2,4:05,PHI,Dominick Barlow,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,52,54,0.392,0.451,4:05
+2,3:36,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,54,55,0.533,0.484,3:36
+2,2:33,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,57,59,0.502,0.45,2:52
+2,1:44,PHI,Justin Edwards,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,59,59,0.432,0.481,1:50
+2,1:21,ORL,Franz Wagner,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,59,61,0.501,0.448,1:23
+2,1:08,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,59,61,0.361,0.416,1:19
+2,46.5,PHI,Justin Edwards,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,61,62,0.395,0.449,49.1
+2,13.0,PHI,Jabari Walker,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,64,66,0.388,0.449,13.0
+2,1.6,ORL,Desmond Bane,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,64,66,0.5,0.449,10.4
+3,9:49,PHI,Hunter Sallis,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,68,70,0.354,0.407,9:50
+3,9:27,ORL,Desmond Bane,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,68,72,0.37,0.371,9:27
+3,8:29,PHI,Dominick Barlow,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,72,72,0.452,0.479,8:29
+3,6:06,PHI,Justin Edwards,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,76,79,0.36,0.359,6:16
+3,5:12,PHI,Kennedy Chandler,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,76,81,0.231,0.281,5:12
+3,2:47,ORL,Jett Howard,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,82,89,0.232,0.232,3:04
+3,2:13,ORL,Jett Howard,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,82,89,0.227,0.227,2:13
+3,1:21,ORL,Goga Bitadze,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,84,92,0.241,0.186,1:21
+3,54.6,PHI,Kennedy Chandler,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,86,92,0.165,0.215,1:16
+4,11:47,PHI,Johni Broome,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,90,94,0.21,0.309,12:00
+4,11:35,ORL,Jase Richardson,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,90,96,0.313,0.236,11:47
+4,10:29,PHI,Johni Broome,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,92,99,0.105,0.155,10:40
+4,9:49,PHI,Jabari Walker,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,92,99,0.096,0.144,9:54
+4,8:32,ORL,Noah Penda,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,92,107,0.018,0.016,8:37
+4,8:08,PHI,Justin Edwards,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,94,107,0.016,0.022,8:08
+4,6:09,ORL,Lester Quinones,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,96,113,0.004,0.004,6:24
+4,3:53,PHI,Hunter Sallis,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,98,117,0.001,0.001,3:53
+4,3:14,PHI,Johni Broome,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,98,118,0.001,0.001,3:22
+4,3:05,PHI,Hunter Sallis,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,98,118,0.001,0.001,3:14
+4,16.1,PHI,Emoni Bates,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Gina Catanzariti,PHI,98,126,0.001,0.001,17.1

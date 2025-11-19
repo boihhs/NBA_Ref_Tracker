@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:54,NO,Herbert Jones,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,2,5,0.656,0.622,9:05
+1,6:07,NO,Saddiq Bey,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,11,11,0.714,0.68,6:13
+1,4:17,NO,Micah Peavy,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,19,14,0.797,0.763,4:17
+1,2:41,PHX,Ryan Dunn,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,22,16,0.749,0.78,2:56
+1,2:03,NO,Karlo Matkovic,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,22,18,0.788,0.759,2:16
+1,32.3,NO,Micah Peavy,Loose Ball Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,27,20,0.843,0.818,32.3
+2,11:41,PHX,Royce O'Neale,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,29,22,0.765,0.804,12:00
+2,10:53,PHX,Oso Ighodaro,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,32,23,0.831,0.832,11:14
+2,8:10,PHX,Isaiah Livers,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,43,25,0.933,0.945,8:21
+2,7:28,NO,Jose Alvarado,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,48,30,0.959,0.947,7:28
+2,5:46,PHX,Royce O'Neale,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,54,30,0.975,0.981,6:03
+2,4:59,NO,Jose Alvarado,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,54,34,0.969,0.969,5:20
+2,2:59,NO,Trey Murphy III,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,59,40,0.966,0.966,3:04
+2,49.6,PHX,Mark Williams,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,61,40,0.967,0.974,1:07
+3,10:52,NO,Jeremiah Fears,Loose Ball Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,67,41,0.994,0.995,10:52
+3,10:13,NO,Kevon Looney,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,69,41,0.998,0.996,10:27
+3,9:24,PHX,Mark Williams,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,73,41,0.998,0.998,9:38
+3,8:40,NO,Kevon Looney,Loose Ball Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,73,45,0.997,0.997,8:40
+3,7:23,PHX,Dillon Brooks,Personal Take Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,76,50,0.995,0.995,7:24
+3,6:24,NO,Saddiq Bey,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,79,54,0.997,0.996,6:37
+3,5:33,PHX,Royce O'Neale,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,81,54,0.996,0.997,5:40
+3,3:55,NO,Jeremiah Fears,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,83,58,0.998,0.997,3:59
+3,3:46,PHX,Collin Gillespie,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,85,58,0.997,0.998,3:55
+3,31.8,NO,Micah Peavy,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,93,68,0.999,0.999,47.9
+4,11:50,NO,Karlo Matkovic,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,96,72,0.999,0.998,0.0
+4,11:29,PHX,Isaiah Livers,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,96,72,0.997,0.998,11:50
+4,11:29,NO,Jordan Hawkins,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,96,74,0.998,0.998,11:29
+4,10:36,NO,Derik Queen,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,99,76,0.999,0.999,10:54
+4,9:20,NO,Derik Queen,Offensive Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,103,76,0.999,0.999,9:29
+4,7:23,PHX,Nick Richards,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,105,82,0.999,0.999,7:41
+4,6:53,NO,Jose Alvarado,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,105,82,0.999,0.999,7:08
+4,6:35,PHX,Dillon Brooks,Loose Ball Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,107,82,0.999,0.999,6:35
+4,6:35,PHX,Jordan Goodwin,Away from Play Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,107,82,0.999,0.999,6:35
+4,6:07,NO,Herbert Jones,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,107,85,0.999,0.999,6:24
+4,5:51,PHX,Rasheer Fleming,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,108,85,0.999,0.999,6:07
+4,5:17,NO,Trey Murphy III,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,108,87,0.999,0.999,5:24
+4,4:56,NO,Derik Queen,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,110,89,0.999,0.999,5:05
+4,4:56,NO,Derik Queen,Technical Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,110,89,0.999,0.999,4:56
+4,4:45,PHX,Nigel Hayes-Davis,Flagrant Foul Type 1,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,112,89,0.999,0.999,4:56
+4,2:15,PHX,Jordan Goodwin,Personal Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,121,92,0.999,0.999,2:23
+4,49.4,NO,Bryce McGowens,Offensive Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,121,96,0.999,0.999,58.8
+4,7.2,PHX,Khaman Maluach,Shooting Foul,Foul,Gediminas Petraitis,Tyler Ford,Biniam Maru,PHX,121,96,0.999,0.999,13.1

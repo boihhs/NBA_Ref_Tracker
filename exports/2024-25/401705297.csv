@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:25,GS,Quinten Post,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,2,0,0.762,0.731,11:25
+1,10:07,GS,Quinten Post,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,6,3,0.762,0.765,10:18
+1,9:04,LAL,Rui Hachimura,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,9,6,0.712,0.744,9:14
+1,8:43,GS,Draymond Green,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,9,8,0.719,0.721,9:04
+1,2:57,LAL,Christian Koloko,Loose Ball Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,30,16,0.906,0.906,2:57
+1,2:04,LAL,Jarred Vanderbilt,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,30,16,0.906,0.907,2:11
+2,8:19,LAL,Shake Milton,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,47,23,0.973,0.979,8:26
+2,6:19,LAL,Jaxson Hayes,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,52,28,0.975,0.981,6:30
+2,4:27,GS,Trayce Jackson-Davis,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,57,33,0.989,0.986,4:40
+2,2:55,GS,Stephen Curry,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,59,40,0.975,0.968,3:20
+2,2:45,LAL,LeBron James,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,61,42,0.957,0.968,2:45
+2,2:40,GS,Pat Spencer,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,61,43,0.97,0.962,2:45
+2,23.0,LAL,Gabe Vincent,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,69,49,0.962,0.976,23.0
+2,3.1,GS,Brandin Podziemski,Personal Take Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,69,49,0.982,0.976,23.0
+3,9:54,LAL,Dorian Finney-Smith,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,71,57,0.906,0.925,10:06
+3,7:39,LAL,Gabe Vincent,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,74,63,0.889,0.888,7:54
+3,7:34,LAL,Austin Reaves,Loose Ball Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,74,63,0.889,0.889,7:34
+3,6:47,GS,Draymond Green,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,76,65,0.93,0.909,6:56
+3,6:08,LAL,Gabe Vincent,Offensive Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,78,67,0.894,0.911,6:19
+3,5:43,GS,Draymond Green,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,78,69,0.903,0.876,5:57
+3,5:20,LAL,Austin Reaves,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,79,69,0.844,0.878,5:20
+3,5:04,LAL,Jarred Vanderbilt,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,79,71,0.814,0.857,5:04
+3,4:37,GS,Gary Payton II,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,79,72,0.834,0.836,4:37
+3,4:25,GS,Stephen Curry,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,79,72,0.87,0.836,4:25
+3,4:17,GS,Kevon Looney,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,79,72,0.871,0.87,4:25
+3,3:29,GS,Jackson Rowe,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,81,75,0.85,0.81,3:46
+3,2:49,GS,Jackson Rowe,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,83,77,0.854,0.813,3:11
+3,1:31,LAL,Jarred Vanderbilt,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,86,77,0.831,0.87,1:44
+3,1:03,LAL,Jaxson Hayes,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,86,78,0.8,0.849,1:17
+4,10:44,GS,Draymond Green,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,92,81,0.966,0.946,11:01
+4,9:47,GS,Brandin Podziemski,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,93,87,0.855,0.845,9:47
+4,9:19,LAL,Dorian Finney-Smith,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,95,87,0.871,0.881,9:22
+4,8:18,GS,Buddy Hield,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,95,89,0.906,0.854,8:22
+4,7:50,GS,Buddy Hield,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,97,89,0.948,0.917,7:54
+4,7:05,LAL,Jaxson Hayes,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,101,93,0.874,0.929,7:05
+4,6:53,GS,Kevon Looney,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,101,94,0.937,0.902,7:05
+4,6:22,GS,Kevon Looney,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,103,96,0.942,0.908,6:31
+4,6:19,LAL,Rui Hachimura,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,105,96,0.923,0.932,6:22
+4,5:41,LAL,Jarred Vanderbilt,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,105,98,0.817,0.881,5:59
+4,5:00,GS,Pat Spencer,Personal Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,105,98,0.948,0.913,5:16
+4,2:15,GS,Draymond Green,Shooting Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,109,104,0.945,0.898,2:27
+4,38.1,LAL,Rui Hachimura,Loose Ball Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,117,109,0.957,0.984,38.1
+4,38.1,GS,Draymond Green,Technical Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,117,109,0.996,0.984,38.1
+4,28.1,GS,Stephen Curry,Personal Take Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,118,110,0.998,0.996,29.2
+4,18.2,GS,Buddy Hield,Personal Take Foul,Foul,John Goble,Marat Kogut,Robert Hussey,LAL,118,112,0.996,0.986,20.0

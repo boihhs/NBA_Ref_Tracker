@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:41,CHI,Nikola Vucevic,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,3,0,0.897,0.884,10:55
+1,9:32,CHI,Josh Giddey,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,4,3,0.872,0.857,9:55
+1,7:15,DEN,Jamal Murray,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,11,5,0.874,0.903,7:15
+1,7:04,CHI,Patrick Williams,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,13,6,0.909,0.892,7:04
+1,2:40,CHI,Ayo Dosunmu,Loose Ball Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,24,24,0.831,0.789,2:43
+1,44.3,CHI,Dalen Terry,Personal Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,26,30,0.745,0.711,45.5
+2,10:40,DEN,Jonas Valanciunas,Offensive Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,28,35,0.581,0.616,11:04
+2,7:10,CHI,Jevon Carter,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,34,50,0.302,0.251,7:10
+2,6:48,CHI,Dalen Terry,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,34,50,0.318,0.272,6:52
+2,3:45,CHI,Josh Giddey,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,47,56,0.511,0.46,3:47
+2,3:30,CHI,Matas Buzelis,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,51,56,0.619,0.56,3:30
+2,2:46,DEN,Jamal Murray,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,53,56,0.565,0.614,2:54
+2,12.9,CHI,Matas Buzelis,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,62,63,0.73,0.69,28.7
+3,10:21,CHI,Nikola Vucevic,Personal Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,69,68,0.734,0.736,10:41
+3,10:02,DEN,Aaron Gordon,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,71,68,0.716,0.761,10:14
+3,4:24,DEN,Jamal Murray,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,83,85,0.471,0.537,4:31
+3,3:55,CHI,Jalen Smith,Personal Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,83,87,0.488,0.489,3:57
+3,2:40,DEN,Nikola Jokic,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,85,94,0.189,0.25,2:40
+3,2:40,DEN,DEN,Technical Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,85,94,0.188,0.189,2:40
+3,2:08,DEN,Tim Hardaway Jr.,Flagrant Foul Type 1,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,85,95,0.18,0.171,2:10
+3,1:03,CHI,Jalen Smith,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,87,99,0.171,0.128,1:15
+3,37.2,CHI,Patrick Williams,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,89,101,0.164,0.125,47.4
+3,2.9,DEN,Nikola Jokic,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,93,101,0.152,0.208,15.7
+4,9:14,DEN,Bruce Brown,Personal Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,98,108,0.086,0.093,9:23
+4,7:33,CHI,Jevon Carter,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,103,110,0.241,0.15,7:33
+4,7:10,CHI,Josh Giddey,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,104,110,0.335,0.239,7:12
+4,6:59,DEN,Peyton Watson,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,106,110,0.2,0.294,7:10
+4,4:40,CHI,Nikola Vucevic,Shooting Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,113,116,0.494,0.359,4:48
+4,2:40,DEN,Aaron Gordon,Personal Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,115,116,0.37,0.399,2:40
+4,13.7,DEN,Aaron Gordon,Personal Take Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,124,126,0.062,0.176,18.1
+4,11.0,DEN,Aaron Gordon,Personal Take Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,124,126,0.055,0.062,13.7
+4,1.7,DEN,Aaron Gordon,Personal Take Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,127,128,0.017,0.042,2.3
+4,1.7,CHI,Nikola Vucevic,Personal Foul,Foul,Justin Van Duyne,Jenna Schroeder,Jonathan Sterling,DEN,127,130,0.064,0.731,12:00

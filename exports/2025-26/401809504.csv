@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,TOR,RJ Barrett,Personal Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,0,0,0.616,0.616,11:24
+1,11:03,TOR,Scottie Barnes,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,0,0,0.652,0.616,11:06
+1,6:23,TOR,Collin Murray-Boyles,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,13,14,0.619,0.583,6:42
+1,4:20,CLE,De'Andre Hunter,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,18,22,0.445,0.496,4:20
+1,2:03,TOR,Jamal Shead,Loose Ball Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,18,26,0.417,0.377,2:03
+1,1:39,TOR,Ochai Agbaji,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,21,26,0.5,0.457,1:46
+2,11:44,CLE,Evan Mobley,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,22,30,0.297,0.348,12:00
+2,9:28,CLE,Jaylon Tyson,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,27,37,0.236,0.272,9:47
+2,4:15,CLE,Larry Nance Jr.,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,35,42,0.281,0.324,4:23
+2,3:36,TOR,Collin Murray-Boyles,Personal Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,35,46,0.235,0.235,3:43
+2,2:48,CLE,Larry Nance Jr.,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,38,46,0.242,0.284,2:53
+2,1:32,TOR,Brandon Ingram,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,38,48,0.289,0.247,1:40
+3,11:00,TOR,Collin Murray-Boyles,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,46,48,0.551,0.496,11:13
+3,8:49,CLE,Jaylon Tyson,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,54,50,0.646,0.707,8:49
+3,6:14,TOR,Jamal Shead,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,63,54,0.872,0.857,6:14
+3,4:51,TOR,Ochai Agbaji,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,67,62,0.796,0.75,5:01
+3,4:10,TOR,Jamison Battle,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,67,65,0.699,0.641,4:13
+3,3:53,TOR,Brandon Ingram,Offensive Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,69,65,0.718,0.678,4:10
+3,3:41,CLE,Luke Travers,Offensive Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,69,65,0.679,0.718,3:53
+3,3:33,CLE,Larry Nance Jr.,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,69,65,0.62,0.679,3:41
+3,3:24,TOR,Ochai Agbaji,Personal Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,69,67,0.701,0.641,3:33
+3,1:01,CLE,Dean Wade,Loose Ball Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,77,73,0.621,0.687,1:01
+3,37.8,CLE,Craig Porter Jr.,Personal Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,77,75,0.529,0.6,37.8
+4,9:54,TOR,Scottie Barnes,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,79,81,0.539,0.44,9:58
+4,8:20,TOR,Jamal Shead,Offensive Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,86,83,0.717,0.661,8:28
+4,7:57,CLE,Evan Mobley,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,86,83,0.565,0.662,7:59
+4,7:34,CLE,Jaylon Tyson,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,88,84,0.615,0.715,7:43
+4,7:03,TOR,Brandon Ingram,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,90,86,0.813,0.717,7:03
+4,6:50,CLE,De'Andre Hunter,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,90,86,0.661,0.724,6:50
+4,5:18,CLE,De'Andre Hunter,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,92,95,0.214,0.329,5:18
+4,4:10,TOR,Jamal Shead,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,92,98,0.235,0.142,4:20
+4,2:41,CLE,Jaylon Tyson,Shooting Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,94,98,0.085,0.153,2:53
+4,2:33,TOR,RJ Barrett,Personal Foul,Foul,Brett Nansel,Scott Twardoski,Justin Van Duyne,CLE,94,100,0.195,0.107,2:41

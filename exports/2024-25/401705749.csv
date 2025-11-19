@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:18,GS,Moses Moody,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,4,2,0.257,0.256,9:31
+1,7:11,GS,Draymond Green,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,8,6,0.303,0.269,7:14
+1,7:00,POR,Kris Murray,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,10,6,0.262,0.292,7:11
+1,3:08,POR,Jabari Walker,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,18,13,0.31,0.346,3:12
+1,1:59,GS,Jonathan Kuminga,Personal Take Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,20,18,0.343,0.304,2:08
+1,25.2,POR,Kris Murray,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,20,24,0.148,0.17,32.1
+2,11:49,POR,Dalano Banton,Offensive Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,20,26,0.141,0.149,0.0
+2,11:43,POR,Sidy Cissoko,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,20,26,0.121,0.141,11:49
+2,8:38,POR,Matisse Thybulle,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,23,30,0.112,0.132,8:43
+2,8:02,GS,Moses Moody,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,23,32,0.13,0.119,8:02
+2,4:52,GS,Gary Payton II,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,27,38,0.105,0.096,4:58
+2,4:30,GS,Buddy Hield,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,28,38,0.109,0.108,4:34
+2,2:42,GS,Kevon Looney,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,32,43,0.107,0.083,2:42
+2,56.1,POR,Toumani Camara,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,35,46,0.066,0.082,1:02
+2,37.0,GS,Quinten Post,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,37,48,0.107,0.082,37.0
+3,11:51,GS,Stephen Curry,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,37,50,0.071,0.066,12:00
+3,10:06,POR,Donovan Clingan,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,39,55,0.029,0.04,10:06
+3,8:56,GS,Moses Moody,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,42,61,0.021,0.021,9:02
+3,6:32,GS,Stephen Curry,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,42,67,0.005,0.004,6:42
+3,5:54,POR,Toumani Camara,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,45,67,0.006,0.006,6:02
+3,5:44,GS,Gary Payton II,Offensive Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,45,67,0.007,0.006,5:54
+3,5:12,POR,Rayan Rupert,Loose Ball Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,45,67,0.006,0.005,5:12
+3,4:50,GS,Kevon Looney,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,45,67,0.008,0.007,4:50
+3,3:21,GS,Buddy Hield,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,50,67,0.031,0.021,3:23
+3,3:01,POR,Sidy Cissoko,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,52,67,0.018,0.027,3:21
+3,2:43,POR,Jabari Walker,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,52,68,0.014,0.019,2:45
+3,1:07,POR,Justin Minaya,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,56,72,0.013,0.022,1:07
+3,47.1,GS,Kevon Looney,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,56,73,0.024,0.016,47.1
+4,11:46,POR,Rayan Rupert,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,57,77,0.001,0.004,12:00
+4,10:37,POR,Justin Minaya,Offensive Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,61,79,0.005,0.007,10:39
+4,9:46,POR,Donovan Clingan,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,64,79,0.006,0.012,10:06
+4,8:22,POR,Rayan Rupert,Offensive Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,66,84,0.002,0.004,8:38
+4,8:04,POR,Kris Murray,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,66,84,0.001,0.002,8:22
+4,7:02,GS,Draymond Green,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,66,89,0.001,0.001,7:02
+4,4:52,GS,Gary Payton II,Personal Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,70,92,0.001,0.001,5:04
+4,3:05,GS,Gui Santos,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,72,99,0.001,0.001,3:12
+4,2:00,POR,Kris Murray,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,78,101,0.001,0.001,2:05
+4,1:54,GS,Gui Santos,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,78,102,0.001,0.001,1:56
+4,1:25,POR,Sidy Cissoko,Shooting Foul,Foul,Ed Malloy,Brent Barnaky,Brandon Adair,POR,82,102,0.001,0.001,1:28

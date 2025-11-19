@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:33,LAC,Kris Dunn,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,0,0,0.489,0.448,10:34
+1,10:19,MIN,Donte DiVincenzo,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,1,0,0.415,0.45,10:31
+1,8:45,LAC,Kawhi Leonard,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,3,4,0.426,0.428,9:04
+1,7:06,MIN,Anthony Edwards,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,7,9,0.342,0.377,7:08
+1,1:31,MIN,Anthony Edwards,Technical Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,14,25,0.161,0.174,1:32
+1,34.2,LAC,Amir Coffey,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,14,27,0.183,0.155,40.0
+1,22.1,LAC,Amir Coffey,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,14,27,0.183,0.183,34.2
+2,11:43,LAC,Kevin Porter Jr.,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,16,27,0.19,0.189,11:43
+2,11:09,MIN,Josh Minott,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,16,29,0.126,0.152,11:09
+2,10:15,LAC,Nicolas Batum,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,21,30,0.246,0.207,10:15
+2,7:46,MIN,Julius Randle,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,23,38,0.09,0.113,7:46
+2,5:37,MIN,Rudy Gobert,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,28,44,0.065,0.081,6:04
+2,1:52,MIN,Mike Conley,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,41,51,0.134,0.164,2:11
+2,58.1,LAC,Kris Dunn,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,46,51,0.345,0.286,58.1
+2,38.1,MIN,Naz Reid,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,46,51,0.243,0.287,56.1
+3,11:07,LAC,Kris Dunn,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,46,55,0.24,0.197,11:18
+3,10:45,LAC,Ivica Zubac,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,49,55,0.305,0.249,10:45
+3,7:15,LAC,James Harden,Offensive Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,63,57,0.72,0.683,7:19
+3,6:24,MIN,Julius Randle,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,67,57,0.774,0.817,6:40
+3,4:46,LAC,Amir Coffey,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,70,66,0.663,0.665,4:49
+3,3:00,LAC,Nicolas Batum,Offensive Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,74,68,0.754,0.713,3:09
+3,2:39,LAC,Nicolas Batum,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,74,68,0.807,0.757,2:40
+3,2:32,MIN,Anthony Edwards,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,75,68,0.755,0.757,2:38
+3,52.1,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,77,73,0.612,0.695,52.1
+3,26.1,LAC,James Harden,Offensive Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,77,73,0.699,0.65,31.1
+3,7.1,MIN,Julius Randle,Offensive Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,77,73,0.653,0.699,26.1
+4,11:49,MIN,Donte DiVincenzo,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,77,76,0.491,0.535,12:00
+4,11:10,MIN,Naz Reid,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,77,76,0.446,0.501,11:10
+4,10:39,MIN,Julius Randle,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,79,78,0.478,0.495,10:39
+4,8:22,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,84,78,0.795,0.806,8:32
+4,5:24,MIN,Naz Reid,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,91,90,0.389,0.508,5:35
+4,4:22,MIN,Rudy Gobert,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,91,92,0.252,0.351,4:22
+4,4:07,MIN,Donte DiVincenzo,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,91,94,0.18,0.29,4:22
+4,3:56,LAC,Ivica Zubac,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,93,96,0.341,0.216,3:56
+4,1:35,MIN,Rudy Gobert,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,100,100,0.347,0.503,1:35
+4,24.0,LAC,James Harden,Personal Take Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,106,101,0.987,0.948,25.2
+4,18.1,LAC,Norman Powell,Personal Take Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,106,101,0.991,0.987,24.0
+4,10.1,LAC,Derrick Jones Jr.,Personal Take Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,107,103,0.989,0.958,11.1
+4,10.0,MIN,Naz Reid,Personal Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,108,103,0.868,0.957,10.1
+4,3.0,MIN,Naz Reid,Shooting Foul,Foul,Derek Richardson,John Goble,Sean Corbin,MIN,108,106,0.874,0.952,3.0

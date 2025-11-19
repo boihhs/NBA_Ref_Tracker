@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:56,ATL,Jalen Johnson,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,7,0,0.808,0.809,9:59
+1,7:55,MIL,Taurean Prince,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,7,5,0.655,0.689,8:00
+1,7:09,MIL,Andre Jackson Jr.,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,7,5,0.653,0.688,7:12
+1,5:49,ATL,Zaccharie Risacher,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,11,9,0.739,0.708,5:59
+1,5:29,MIL,Damian Lillard,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,12,9,0.689,0.707,5:29
+1,5:05,MIL,Andre Jackson Jr.,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,12,11,0.621,0.658,5:13
+1,2:30,MIL,Khris Middleton,Loose Ball Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,16,20,0.441,0.489,2:53
+1,51.1,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,26,24,0.632,0.673,1:01
+2,11:25,ATL,Vit Krejci,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,26,28,0.626,0.584,11:31
+2,11:16,MIL,AJ Green,Loose Ball Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,28,28,0.613,0.611,11:16
+2,10:09,ATL,Vit Krejci,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,33,28,0.761,0.762,10:14
+2,8:00,MIL,Brook Lopez,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,38,33,0.697,0.736,8:03
+2,5:18,ATL,Dyson Daniels,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,48,43,0.758,0.757,5:31
+2,3:44,ATL,Clint Capela,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,52,46,0.814,0.78,4:04
+2,3:11,ATL,De'Andre Hunter,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,53,46,0.835,0.804,3:11
+2,3:02,MIL,Khris Middleton,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,54,46,0.805,0.803,3:11
+2,1:27,ATL,Clint Capela,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,54,46,0.858,0.826,1:29
+2,1:11,MIL,Bobby Portis,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,55,46,0.795,0.829,1:13
+2,1:10,MIL,Andre Jackson Jr.,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,55,46,0.795,0.795,1:11
+2,26.1,MIL,Khris Middleton,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,55,48,0.742,0.783,29.0
+3,10:31,ATL,Clint Capela,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,55,51,0.771,0.731,10:39
+3,10:01,ATL,Trae Young,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,56,53,0.744,0.699,10:18
+3,5:21,MIL,Damian Lillard,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,70,64,0.764,0.764,5:34
+3,3:08,ATL,Trae Young,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,75,73,0.661,0.662,3:21
+3,2:58,ATL,De'Andre Hunter,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,75,73,0.72,0.661,3:08
+3,2:12,MIL,AJ Green,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,76,75,0.574,0.574,2:18
+3,1:56,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,76,75,0.682,0.62,2:01
+3,52.2,MIL,AJ Green,Offensive Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,78,78,0.522,0.57,1:12
+3,41.1,MIL,Khris Middleton,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,78,78,0.447,0.522,52.2
+3,32.1,MIL,Bobby Portis,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,78,80,0.388,0.472,32.1
+3,32.1,ATL,Jalen Johnson,Technical Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,78,80,0.51,0.388,32.1
+4,10:49,MIL,AJ Green,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,85,83,0.521,0.618,10:54
+4,10:14,MIL,Gary Trent Jr.,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,85,84,0.539,0.555,10:21
+4,8:17,MIL,Gary Trent Jr.,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,89,86,0.634,0.655,8:26
+4,8:04,MIL,AJ Green,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,89,86,0.55,0.634,8:17
+4,7:08,ATL,Clint Capela,Offensive Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,91,90,0.588,0.522,7:13
+4,6:52,MIL,Taurean Prince,Offensive Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,91,90,0.522,0.588,7:08
+4,6:35,ATL,Jalen Johnson,Loose Ball Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,91,90,0.599,0.59,6:35
+4,5:46,ATL,Jalen Johnson,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,94,92,0.758,0.655,5:48
+4,5:36,MIL,Andre Jackson Jr.,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,96,92,0.63,0.721,5:46
+4,5:18,MIL,Damian Lillard,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,96,94,0.545,0.599,5:22
+4,4:32,MIL,Khris Middleton,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,98,95,0.563,0.526,4:39
+4,3:48,ATL,Trae Young,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,100,96,0.883,0.799,3:50
+4,3:01,MIL,AJ Green,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,103,96,0.843,0.905,3:13
+4,55.1,ATL,Dyson Daniels,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,105,100,0.971,0.923,1:01
+4,19.1,ATL,Trae Young,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,107,102,0.99,0.967,20.1
+4,9.1,ATL,Bogdan Bogdanovic,Personal Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,108,102,0.998,0.994,11.1
+4,5.1,MIL,Brook Lopez,Shooting Foul,Foul,John Goble,Tre Maddox,John Butler,MIL,110,102,0.993,0.997,9.1

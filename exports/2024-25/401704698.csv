@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:53,BOS,Jaylen Brown,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,6,6,0.284,0.284,9:58
+1,9:48,BOS,Jrue Holiday,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,8,6,0.345,0.308,9:48
+1,9:10,CHA,Nick Richards,Defensive 3-Seconds Technical,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,12,8,0.362,0.356,9:21
+1,8:28,CHA,Josh Green,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,12,9,0.338,0.338,8:31
+1,7:06,BOS,Derrick White,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,14,12,0.381,0.345,7:09
+1,6:00,BOS,Luke Kornet,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,16,18,0.291,0.259,6:16
+1,2:33,CHA,Moussa Diabate,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,22,27,0.192,0.191,2:46
+1,2:04,BOS,Neemias Queta,Loose Ball Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,22,27,0.242,0.211,2:04
+1,0.1,CHA,Grant Williams,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,25,37,0.079,0.094,8.1
+2,10:20,CHA,Seth Curry,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,32,40,0.126,0.146,10:37
+2,9:30,CHA,Grant Williams,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,37,44,0.141,0.119,9:45
+2,8:06,CHA,LaMelo Ball,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,40,49,0.135,0.134,8:17
+2,7:41,CHA,Nick Richards,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,40,52,0.078,0.094,7:46
+2,6:05,BOS,Jaylen Brown,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,46,61,0.071,0.07,6:14
+2,4:07,BOS,Jayson Tatum,Loose Ball Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,52,63,0.118,0.118,4:07
+2,3:03,BOS,Jaylen Brown,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,57,65,0.202,0.17,3:10
+3,9:11,CHA,Seth Curry,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,71,75,0.244,0.242,9:12
+3,8:29,CHA,Josh Green,Loose Ball Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,71,75,0.245,0.244,8:30
+3,8:24,CHA,Seth Curry,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,71,75,0.246,0.245,8:29
+3,7:50,BOS,Derrick White,Loose Ball Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,71,75,0.277,0.275,7:50
+3,7:42,CHA,Josh Green,Offensive Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,71,75,0.245,0.277,7:50
+3,6:09,CHA,LaMelo Ball,Loose Ball Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,74,82,0.11,0.139,6:09
+3,32.1,CHA,Moussa Diabate,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,86,90,0.187,0.236,35.2
+4,10:18,CHA,LaMelo Ball,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,94,96,0.306,0.319,10:31
+4,9:35,CHA,Miles Bridges,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,94,96,0.23,0.312,9:53
+4,9:22,BOS,Derrick White,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,94,97,0.4,0.309,9:35
+4,9:05,CHA,LaMelo Ball,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,94,97,0.186,0.262,9:18
+4,7:57,BOS,Neemias Queta,Offensive Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,99,100,0.414,0.355,8:09
+4,7:54,BOS,BOS,Technical Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,99,100,0.457,0.414,7:57
+4,7:35,CHA,Josh Green,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,99,100,0.265,0.355,7:41
+4,7:07,CHA,Grant Williams,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,99,102,0.171,0.236,7:11
+4,6:06,BOS,Derrick White,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,99,106,0.118,0.109,6:08
+4,5:39,CHA,Grant Williams,Offensive Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,101,106,0.139,0.185,5:42
+4,5:25,CHA,LaMelo Ball,Shooting Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,101,106,0.089,0.139,5:39
+4,4:42,CHA,Cody Martin,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,101,108,0.04,0.096,4:46
+4,4:18,CHA,CHA,Technical Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,101,109,0.032,0.064,4:18
+4,4:13,CHA,Cody Martin,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,101,110,0.015,0.029,4:13
+4,4:02,BOS,Jrue Holiday,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,101,111,0.032,0.029,4:13
+4,2:02,CHA,Grant Williams,Flagrant Foul Type 2,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,105,114,0.013,0.01,2:02
+4,1:56,CHA,LaMelo Ball,Flagrant Foul Type 1,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,105,116,0.003,0.004,2:02
+4,1:50,CHA,Seth Curry,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,105,119,0.001,0.001,1:56
+4,33.2,CHA,Seth Curry,Personal Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,107,122,0.001,0.001,45.1
+4,33.2,CHA,Miles Bridges,Technical Foul,Foul,James Williams,John Conley,Ashley Moyer-Gleich,CHA,107,122,0.001,0.001,33.2

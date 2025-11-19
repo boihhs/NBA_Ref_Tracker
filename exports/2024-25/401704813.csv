@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:55,TOR,Gradey Dick,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,11,5,0.491,0.491,9:07
+1,8:02,TOR,Ochai Agbaji,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,13,10,0.378,0.414,8:12
+1,6:01,TOR,RJ Barrett,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,17,11,0.504,0.505,6:14
+1,5:54,TOR,Jamal Shead,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,17,11,0.465,0.504,6:01
+1,5:24,IND,Johnny Furphy,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,17,14,0.497,0.453,5:43
+1,4:04,IND,Obi Toppin,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,21,17,0.53,0.488,4:10
+2,11:04,TOR,Jamison Battle,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,36,29,0.55,0.603,11:04
+2,7:15,IND,Enrique Freeman,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,42,41,0.463,0.408,7:15
+2,6:23,TOR,Jakob Poeltl,Offensive Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,46,41,0.539,0.57,6:33
+2,6:10,TOR,Garrett Temple,Loose Ball Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,46,41,0.54,0.54,6:10
+2,5:49,IND,Enrique Freeman,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,48,41,0.661,0.607,5:49
+2,3:07,IND,Pascal Siakam,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,61,49,0.833,0.797,3:23
+2,2:04,TOR,Davion Mitchell,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,65,49,0.872,0.872,2:06
+2,1:51,TOR,Jakob Poeltl,Loose Ball Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,65,49,0.842,0.874,1:51
+2,1:35,IND,Tyrese Haliburton,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,65,49,0.913,0.895,1:41
+3,9:41,TOR,Davion Mitchell,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,76,59,0.919,0.917,9:57
+3,7:40,IND,Tyrese Haliburton,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,80,61,0.964,0.965,7:44
+3,7:30,TOR,Ochai Agbaji,Offensive Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,80,61,0.956,0.964,7:40
+3,7:17,TOR,RJ Barrett,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,80,61,0.941,0.956,7:30
+3,5:09,TOR,Garrett Temple,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,85,63,0.985,0.973,5:26
+3,4:35,TOR,Davion Mitchell,Offensive Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,85,66,0.969,0.975,4:55
+3,2:49,TOR,Jamal Shead,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,87,71,0.932,0.951,2:52
+3,1:33,IND,Tyrese Haliburton,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,89,75,0.964,0.947,1:54
+3,1:25,TOR,Davion Mitchell,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,91,75,0.941,0.959,1:33
+3,49.1,TOR,Garrett Temple,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,94,77,0.958,0.971,55.1
+4,11:45,TOR,Jakob Poeltl,Offensive Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,96,82,0.949,0.951,12:00
+4,11:21,IND,Quenton Jackson,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,96,82,0.978,0.963,11:26
+4,10:45,IND,Quenton Jackson,Loose Ball Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,97,84,0.961,0.958,10:45
+4,9:52,IND,Quenton Jackson,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,100,86,0.985,0.974,9:58
+4,8:35,TOR,Gradey Dick,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,105,93,0.947,0.95,8:40
+4,8:01,IND,T.J. McConnell,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,105,93,0.981,0.966,8:17
+4,7:19,TOR,Ochai Agbaji,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,106,95,0.928,0.948,7:25
+4,5:56,IND,Bennedict Mathurin,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,108,99,0.967,0.943,6:05
+4,5:20,TOR,Ochai Agbaji,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,111,101,0.929,0.968,5:20
+4,5:09,IND,Tyrese Haliburton,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,111,101,0.981,0.966,5:17
+4,4:34,TOR,Davion Mitchell,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,115,104,0.944,0.971,4:38
+4,4:16,IND,T.J. McConnell,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,115,106,0.978,0.957,4:28
+4,3:55,IND,Pascal Siakam,Loose Ball Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,117,106,0.992,0.985,3:55
+4,2:39,TOR,Gradey Dick,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,120,108,0.988,0.993,2:39
+4,2:16,TOR,Gradey Dick,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,122,110,0.985,0.994,2:21
+4,1:31,IND,Bennedict Mathurin,Shooting Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,124,113,0.998,0.997,1:48
+4,1:25,TOR,Ochai Agbaji,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,125,113,0.992,0.998,1:31
+4,18.1,IND,Enrique Freeman,Personal Foul,Foul,James Capers,Natalie Sago,Robert Hussey,TOR,129,119,0.999,0.999,31.2

@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:42,WSH,Bub Carrington,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,4,0,0.816,0.799,10:42
+1,10:28,WSH,Bilal Coulibaly,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,5,2,0.797,0.8,10:32
+1,10:23,WSH,Alex Sarr,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,5,2,0.822,0.797,10:28
+1,10:22,WSH,Bilal Coulibaly,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,6,2,0.825,0.815,10:22
+1,9:56,WSH,Jordan Poole,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,8,4,0.836,0.815,10:07
+1,9:49,ATL,Dyson Daniels,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,9,4,0.813,0.814,9:54
+1,5:48,ATL,Clint Capela,Defensive 3-Seconds Technical,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,15,22,0.533,0.528,6:04
+1,3:51,ATL,Onyeka Okongwu,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,20,30,0.38,0.427,4:11
+1,3:11,WSH,Kyshawn George,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,20,34,0.374,0.332,3:23
+1,18.1,ATL,Jalen Johnson,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,29,36,0.434,0.485,29.1
+2,8:10,WSH,Bub Carrington,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,39,41,0.65,0.599,8:10
+2,7:35,ATL,Clint Capela,Loose Ball Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,40,41,0.626,0.655,7:35
+2,7:05,WSH,Jonas Valanciunas,Loose Ball Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,40,41,0.651,0.652,7:05
+2,2:30,ATL,De'Andre Hunter,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,51,43,0.835,0.834,2:32
+2,2:16,WSH,Kyle Kuzma,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,53,43,0.897,0.871,2:16
+2,59.1,WSH,Alex Sarr,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,58,45,0.935,0.916,59.1
+3,10:06,WSH,Jordan Poole,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,62,53,0.875,0.876,10:21
+3,9:59,WSH,Bub Carrington,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,64,53,0.916,0.891,9:59
+3,8:16,ATL,Zaccharie Risacher,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,67,57,0.846,0.877,8:29
+3,7:00,ATL,Jalen Johnson,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,72,60,0.889,0.914,7:13
+3,6:45,WSH,Kyle Kuzma,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,72,62,0.898,0.899,7:00
+3,5:17,ATL,Trae Young,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,74,62,0.894,0.918,5:34
+3,4:59,WSH,Jordan Poole,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,74,62,0.95,0.934,5:07
+3,2:18,ATL,De'Andre Hunter,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,85,66,0.984,0.99,2:18
+3,2:03,WSH,Bub Carrington,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,85,67,0.992,0.987,2:03
+3,1:21,WSH,Jordan Poole,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,90,67,0.998,0.997,1:28
+4,10:58,ATL,Clint Capela,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,97,77,0.991,0.995,11:17
+4,10:00,ATL,Garrison Mathews,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,101,79,0.997,0.997,10:20
+4,9:55,ATL,Clint Capela,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,101,79,0.996,0.997,10:00
+4,8:53,WSH,Jordan Poole,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,103,81,0.999,0.999,9:04
+4,5:29,ATL,Trae Young,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,115,90,0.999,0.999,5:39
+4,2:14,ATL,Trae Young,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,120,100,0.999,0.999,2:25
+4,1:46,ATL,Onyeka Okongwu,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,122,101,0.999,0.999,1:59
+4,1:00,WSH,Corey Kispert,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,122,110,0.999,0.999,1:01
+4,53.1,WSH,Bilal Coulibaly,Personal Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,122,110,0.999,0.999,1:00
+4,42.1,WSH,Alex Sarr,Personal Take Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,124,112,0.999,0.999,45.0
+4,42.1,ATL,Jalen Johnson,Away from Play Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,126,112,0.999,0.999,42.1
+4,36.1,WSH,Bub Carrington,Loose Ball Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,126,113,0.999,0.999,36.1
+4,30.1,ATL,De'Andre Hunter,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,127,113,0.999,0.999,36.1
+4,17.1,WSH,Alex Sarr,Shooting Foul,Foul,John Goble,CJ Washington,J.D. Ralls,ATL,127,115,0.999,0.999,30.1

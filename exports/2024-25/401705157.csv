@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:16,HOU,Alperen Sengun,Loose Ball Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,2,4,0.283,0.283,10:16
+1,10:00,POR,Toumani Camara,Loose Ball Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,2,4,0.264,0.263,10:00
+1,8:13,POR,Scoot Henderson,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,4,12,0.152,0.179,8:13
+1,6:45,HOU,Jae'Sean Tate,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,7,15,0.205,0.18,6:52
+1,6:13,POR,Jabari Walker,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,11,15,0.234,0.232,6:21
+1,6:00,HOU,Fred VanVleet,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,11,15,0.287,0.255,6:02
+1,3:27,POR,Scoot Henderson,Offensive Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,16,19,0.26,0.282,3:43
+1,3:17,POR,Jabari Walker,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,16,19,0.23,0.26,3:27
+1,2:25,POR,Jabari Walker,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,19,19,0.296,0.333,2:40
+1,5.1,HOU,Steven Adams,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,21,22,0.381,0.34,26.1
+2,11:07,POR,Jerami Grant,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,23,27,0.246,0.244,11:13
+2,10:04,POR,Shaedon Sharpe,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,23,29,0.207,0.206,10:13
+2,9:00,POR,Anfernee Simons,Loose Ball Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,25,29,0.251,0.25,9:00
+2,8:56,HOU,Jae'Sean Tate,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,25,29,0.274,0.275,8:56
+2,6:59,POR,Robert Williams III,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,31,29,0.374,0.419,7:10
+2,6:49,HOU,Tari Eason,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,33,29,0.538,0.481,6:49
+2,6:07,HOU,Dillon Brooks,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,34,31,0.534,0.488,6:14
+2,4:43,HOU,Cam Whitmore,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,38,35,0.544,0.496,4:56
+2,2:30,POR,Toumani Camara,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,43,42,0.359,0.405,2:34
+2,1.0,HOU,Alperen Sengun,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,48,51,0.368,0.318,16.0
+3,7:27,POR,Anfernee Simons,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,56,65,0.104,0.13,7:30
+3,7:12,HOU,Jalen Green,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,56,67,0.111,0.112,7:27
+3,5:23,POR,Anfernee Simons,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,58,70,0.073,0.073,5:30
+3,5:04,HOU,Dillon Brooks,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,58,70,0.113,0.086,5:15
+3,3:45,HOU,Dillon Brooks,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,67,75,0.184,0.14,3:45
+3,3:44,POR,Kris Murray,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,68,75,0.165,0.163,3:45
+3,2:22,POR,Scoot Henderson,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,68,79,0.063,0.091,2:22
+3,4.1,HOU,Cam Whitmore,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,71,87,0.034,0.022,17.1
+4,11:45,POR,Robert Williams III,Offensive Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,74,87,0.035,0.044,12:00
+4,10:45,HOU,Fred VanVleet,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,76,90,0.033,0.031,10:47
+4,9:45,POR,Dalano Banton,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,79,90,0.037,0.049,10:02
+4,7:51,HOU,Steven Adams,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,79,97,0.004,0.004,8:05
+4,7:43,HOU,Fred VanVleet,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,79,97,0.009,0.004,7:51
+4,6:44,POR,Jerami Grant,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,82,103,0.001,0.001,6:56
+4,6:14,POR,Toumani Camara,Offensive Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,85,104,0.001,0.001,6:17
+4,5:55,POR,Jabari Walker,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,85,104,0.001,0.001,5:56
+4,5:42,POR,Toumani Camara,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,85,105,0.001,0.001,5:53
+4,4:53,POR,Anfernee Simons,Personal Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,87,108,0.001,0.001,5:01
+4,46.0,POR,Duop Reath,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,99,122,0.001,0.001,47.1
+4,37.1,HOU,Cam Whitmore,Shooting Foul,Foul,Eric Dalen,Tre Maddox,Mousa Dagher,POR,101,123,0.001,0.001,37.1

@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:01,NY,Delon Wright,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,0,0,0.845,0.824,11:09
+1,10:19,CLE,Jarrett Allen,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,2,2,0.794,0.82,10:19
+1,9:50,CLE,Darius Garland,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,4,2,0.834,0.835,10:07
+1,9:22,NY,OG Anunoby,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,4,5,0.8,0.802,9:38
+1,57.0,NY,Mikal Bridges,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,23,34,0.534,0.486,1:06
+1,28.0,NY,OG Anunoby,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,26,34,0.614,0.574,35.1
+2,11:50,CLE,Sam Merrill,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,28,34,0.595,0.611,12:00
+2,11:16,CLE,De'Andre Hunter,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,31,37,0.589,0.591,11:32
+2,10:57,NY,Landry Shamet,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,31,39,0.555,0.556,11:05
+2,7:07,NY,Karl-Anthony Towns,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,39,49,0.446,0.444,7:07
+2,5:58,CLE,Darius Garland,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,39,51,0.331,0.332,6:03
+2,5:43,NY,Karl-Anthony Towns,Offensive Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,39,51,0.361,0.331,5:58
+2,4:43,CLE,Javonte Green,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,41,53,0.268,0.315,4:47
+2,3:05,NY,Karl-Anthony Towns,Offensive Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,45,58,0.292,0.264,3:25
+2,2:53,NY,OG Anunoby,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,45,58,0.338,0.292,3:05
+3,11:25,CLE,Evan Mobley,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,53,60,0.357,0.407,11:34
+3,11:18,NY,OG Anunoby,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,53,62,0.431,0.376,11:25
+3,10:35,CLE,Donovan Mitchell,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,58,62,0.514,0.513,10:35
+3,7:10,NY,Mikal Bridges,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,69,68,0.7,0.701,7:10
+3,6:56,CLE,Donovan Mitchell,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,71,68,0.73,0.731,7:06
+3,5:25,NY,Mikal Bridges,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,75,72,0.841,0.789,5:33
+3,3:49,NY,Josh Hart,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,81,74,0.912,0.866,3:49
+3,3:43,CLE,Jarrett Allen,Clear Path Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,81,74,0.84,0.839,3:43
+3,2.1,CLE,Evan Mobley,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,91,83,0.855,0.873,2.1
+4,11:02,CLE,Donovan Mitchell,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,96,85,0.935,0.939,11:14
+4,10:50,NY,Precious Achiuwa,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,96,85,0.955,0.953,10:50
+4,10:15,NY,Karl-Anthony Towns,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,96,85,0.966,0.956,10:21
+4,9:53,CLE,Evan Mobley,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,98,85,0.947,0.967,10:15
+4,9:26,CLE,Evan Mobley,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,98,86,0.954,0.957,9:35
+4,6:52,NY,Tyler Kolek,Personal Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,103,90,0.986,0.985,6:52
+4,6:28,NY,Karl-Anthony Towns,Loose Ball Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,103,90,0.992,0.986,6:28
+4,5:38,CLE,Darius Garland,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,107,90,0.993,0.996,5:46
+4,3:42,NY,Delon Wright,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,111,95,0.999,0.999,3:55
+4,2:11,CLE,Jarrett Allen,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,118,97,0.999,0.999,2:25
+4,1:55,CLE,Nae'Qwan Tomlin,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,118,99,0.999,0.999,1:57
+4,1:54,NY,Anton Watson,Personal Take Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,118,101,0.999,0.999,1:55
+4,3.1,CLE,Luke Travers,Shooting Foul,Foul,John Goble,Phenizee Ransom,Mitchell Ervin,CLE,124,103,0.999,0.999,16.1

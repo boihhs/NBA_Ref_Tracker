@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:44,DET,Isaiah Stewart,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,3,2,0.538,0.542,10:52
+1,7:32,DET,Cade Cunningham,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,15,8,0.723,0.687,7:45
+1,6:10,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,20,8,0.749,0.778,6:12
+1,5:41,DET,Marcus Sasser,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,25,10,0.863,0.836,5:41
+1,4:34,DET,Ronald Holland II,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,26,13,0.847,0.821,4:44
+1,4:07,MEM,Vince Williams Jr.,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,29,13,0.855,0.856,4:21
+1,2:48,DET,Jaden Ivey,Loose Ball Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,35,19,0.896,0.875,2:48
+1,2:08,DET,Cade Cunningham,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,37,21,0.898,0.877,2:11
+1,1:10,MEM,Cedric Coward,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,41,21,0.899,0.916,1:29
+1,34.0,MEM,Ty Jerome,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,41,22,0.897,0.909,34.0
+1,17.2,DET,Cade Cunningham,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,41,22,0.936,0.92,23.9
+2,11:40,MEM,Jock Landale,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,42,26,0.86,0.884,11:40
+2,10:30,MEM,GG Jackson,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,45,31,0.813,0.842,10:46
+2,10:13,DET,Ausar Thompson,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,45,32,0.844,0.842,10:30
+2,9:33,DET,Cade Cunningham,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,47,32,0.889,0.862,9:33
+2,7:19,DET,Caris LeVert,Offensive Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,55,37,0.925,0.913,7:25
+2,7:02,MEM,PJ Hall,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,55,39,0.876,0.902,7:02
+2,5:43,DET,DET,Technical Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,55,47,0.771,0.752,5:48
+2,4:53,MEM,Cedric Coward,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,55,52,0.558,0.612,4:53
+2,4:20,DET,Jaden Ivey,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,55,53,0.607,0.583,4:23
+2,4:00,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,59,53,0.628,0.673,4:06
+2,2:34,DET,Paul Reed,Offensive Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,62,61,0.551,0.518,2:36
+2,26.3,MEM,PJ Hall,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,64,68,0.32,0.345,26.3
+2,4.6,MEM,Scotty Pippen Jr.,Away from Play Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,64,70,0.239,0.278,4.8
+2,1.1,MEM,PJ Hall,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,64,73,0.179,0.225,1.1
+3,11:31,DET,Ronald Holland II,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,66,74,0.272,0.221,11:31
+3,10:21,MEM,Ty Jerome,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,67,74,0.244,0.241,10:27
+3,7:20,DET,Caris LeVert,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,75,80,0.327,0.328,7:31
+3,6:23,DET,Isaiah Stewart,Loose Ball Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,78,80,0.437,0.44,6:23
+3,6:17,DET,Ausar Thompson,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,78,80,0.5,0.437,6:23
+3,6:09,DET,Paul Reed,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,78,80,0.5,0.5,6:17
+3,5:58,MEM,Jaylen Wells,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,80,80,0.478,0.477,6:09
+3,4:31,DET,Paul Reed,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,83,85,0.5,0.434,4:40
+3,3:43,MEM,Cedric Coward,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,84,85,0.37,0.432,3:59
+3,2:40,MEM,Jock Landale,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,84,86,0.324,0.387,2:48
+3,1:44,DET,Javonte Green,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,86,91,0.332,0.258,1:44
+3,1:28,MEM,GG Jackson,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,86,93,0.163,0.222,1:28
+3,1:01,DET,Chaz Lanier,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,86,94,0.239,0.182,1:07
+3,49.9,MEM,Vince Williams Jr.,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,88,96,0.128,0.18,49.9
+4,10:27,MEM,Kentavious Caldwell-Pope,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,90,99,0.093,0.099,10:31
+4,9:57,MEM,PJ Hall,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,90,101,0.034,0.056,10:01
+4,9:54,MEM,Kentavious Caldwell-Pope,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,90,102,0.037,0.039,9:54
+4,8:12,DET,Bobi Klintman,Offensive Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,93,106,0.028,0.02,8:18
+4,7:43,MEM,Kentavious Caldwell-Pope,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,96,106,0.03,0.051,7:55
+4,6:22,DET,Daniss Jenkins,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,96,109,0.026,0.018,6:22
+4,5:36,MEM,PJ Hall,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,97,109,0.008,0.016,5:51
+4,5:08,DET,Tolu Smith,Loose Ball Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,99,113,0.009,0.008,5:08
+4,4:52,DET,Daniss Jenkins,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,99,113,0.018,0.009,5:08
+4,4:21,MEM,Cam Spencer,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,101,115,0.002,0.006,4:21
+4,3:57,DET,Tolu Smith,Personal Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,101,118,0.002,0.001,4:10
+4,3:30,MEM,Olivier-Maxence Prosper,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,101,118,0.001,0.001,3:38
+4,2:27,MEM,John Konchar,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,103,123,0.001,0.001,2:27
+4,1:40,MEM,Cam Spencer,Double Technical Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,106,125,0.001,0.001,1:40
+4,1:01,DET,Daniss Jenkins,Shooting Foul,Foul,Dedric Taylor,Nick Buchert,Klajdi Mulla,MEM,106,125,0.001,0.001,1:05

@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:15,BOS,Neemias Queta,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,5,2,0.663,0.704,9:15
+1,7:57,GS,Moses Moody,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,8,3,0.773,0.743,8:09
+1,6:35,BOS,Jrue Holiday,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,14,3,0.809,0.833,6:52
+1,3:32,BOS,Luke Kornet,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,14,11,0.652,0.695,3:32
+1,2:47,GS,Gary Payton II,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,14,11,0.693,0.694,2:48
+1,1:57,GS,Kevon Looney,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,14,11,0.727,0.692,2:10
+1,47.1,GS,Buddy Hield,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,21,19,0.683,0.641,47.1
+1,17.0,GS,Jonathan Kuminga,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,22,19,0.726,0.689,32.1
+2,9:40,GS,Kyle Anderson,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,26,24,0.661,0.663,9:47
+2,4:13,BOS,Jayson Tatum,Offensive Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,36,37,0.528,0.563,4:23
+2,4:00,BOS,Neemias Queta,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,36,37,0.527,0.528,4:13
+2,3:12,GS,Draymond Green,Defensive 3-Seconds Technical,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,36,40,0.448,0.46,3:28
+2,3:03,GS,Andrew Wiggins,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,36,40,0.457,0.458,3:12
+2,2:07,BOS,Derrick White,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,38,42,0.418,0.418,2:17
+2,1:35,BOS,Jayson Tatum,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,40,44,0.389,0.45,1:35
+2,1:08,BOS,Al Horford,Loose Ball Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,40,44,0.361,0.413,1:15
+3,5:44,BOS,Derrick White,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,58,68,0.144,0.188,5:44
+3,5:24,GS,Stephen Curry,Loose Ball Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,58,68,0.186,0.186,5:24
+3,4:35,BOS,Jayson Tatum,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,64,68,0.296,0.356,4:47
+3,4:35,BOS,Jayson Tatum,Technical Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,64,68,0.324,0.296,4:35
+3,4:22,GS,Jonathan Kuminga,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,64,71,0.275,0.277,4:35
+3,3:35,GS,Gary Payton II,Loose Ball Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,66,74,0.231,0.231,3:35
+3,2:38,GS,Kevon Looney,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,69,74,0.405,0.344,3:04
+3,2:12,GS,Jonathan Kuminga,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,70,77,0.316,0.254,2:25
+4,11:10,GS,Buddy Hield,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,81,82,0.597,0.509,11:16
+4,11:05,GS,Buddy Hield,Loose Ball Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,82,82,0.582,0.51,11:10
+4,10:29,BOS,Payton Pritchard,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,82,82,0.422,0.517,10:49
+4,9:24,BOS,Sam Hauser,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,87,84,0.649,0.664,9:39
+4,8:45,GS,Draymond Green,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,87,86,0.668,0.607,8:46
+4,8:38,BOS,Payton Pritchard,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,88,86,0.595,0.615,8:45
+4,6:37,GS,Kevon Looney,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,95,88,0.934,0.894,6:38
+4,5:28,BOS,Derrick White,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,95,90,0.707,0.799,5:39
+4,2:10,GS,Kevon Looney,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,101,104,0.355,0.212,2:10
+4,35.1,BOS,Derrick White,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,107,111,0.039,0.096,41.0
+4,24.1,BOS,Derrick White,Personal Take Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,109,113,0.028,0.079,27.2
+4,16.0,GS,Stephen Curry,Shooting Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,109,115,0.088,0.027,17.0
+4,11.0,BOS,Payton Pritchard,Personal Take Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,112,115,0.029,0.095,16.0
+4,2.1,BOS,Payton Pritchard,Personal Foul,Foul,Brian Forte,Marc Davis,Matt Kallio,BOS,112,116,0.002,0.012,3.1

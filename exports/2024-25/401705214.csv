@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:10,CHA,Mark Williams,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,0,7,0.159,0.184,10:10
+1,7:14,LAL,Max Christie,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,4,17,0.124,0.106,7:22
+1,6:04,CHA,Josh Green,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,5,21,0.062,0.067,6:04
+1,5:19,LAL,Dalton Knecht,Personal Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,5,24,0.053,0.053,5:30
+1,5:16,LAL,Shake Milton,Personal Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,5,24,0.053,0.053,5:19
+1,4:45,LAL,Shake Milton,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,5,26,0.05,0.041,4:54
+1,1:08,CHA,Mark Williams,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,17,35,0.041,0.05,1:23
+2,11:45,CHA,DaQuan Jeffries,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,19,39,0.029,0.041,12:00
+2,11:02,LAL,Shake Milton,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,21,42,0.04,0.031,11:02
+2,10:12,LAL,Jaxson Hayes,Offensive Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,25,42,0.063,0.055,10:24
+2,10:06,LAL,Dorian Finney-Smith,Personal Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,25,42,0.062,0.063,10:12
+2,9:49,LAL,Dalton Knecht,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,25,42,0.075,0.062,9:50
+2,9:19,CHA,Miles Bridges,Offensive Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,27,44,0.053,0.062,9:27
+2,8:42,CHA,LaMelo Ball,Transition Take Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,30,46,0.06,0.06,8:47
+2,2:33,LAL,Anthony Davis,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,43,54,0.152,0.125,2:44
+2,1:44,CHA,Josh Green,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,45,58,0.072,0.094,1:44
+3,9:33,LAL,Anthony Davis,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,56,65,0.172,0.133,9:33
+3,8:23,CHA,Mark Williams,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,60,68,0.122,0.154,8:31
+3,7:53,CHA,Vasilije Micic,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,60,70,0.089,0.112,7:57
+3,7:01,CHA,Mark Williams,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,65,73,0.134,0.173,7:01
+3,4:28,CHA,Miles Bridges,Technical Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,67,77,0.087,0.12,4:28
+3,6:13,CHA,Taj Gibson,Loose Ball Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,65,75,0.083,0.083,4:28
+3,4:08,LAL,Anthony Davis,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,67,78,0.13,0.083,6:13
+3,3:04,LAL,Dalton Knecht,Personal Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,69,80,0.095,0.095,3:13
+3,2:16,CHA,DaQuan Jeffries,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,69,80,0.061,0.072,2:16
+3,32.0,CHA,DaQuan Jeffries,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,75,85,0.067,0.099,32.0
+3,15.0,LAL,Dalton Knecht,Personal Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,75,86,0.109,0.08,32.0
+4,10:55,LAL,Austin Reaves,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,83,86,0.381,0.278,10:55
+4,10:06,CHA,Nick Smith Jr.,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,86,90,0.201,0.285,10:06
+4,7:26,CHA,Nick Smith Jr.,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,88,93,0.116,0.179,7:30
+4,7:12,CHA,Nick Smith Jr.,Offensive Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,88,94,0.133,0.175,7:24
+4,5:39,CHA,Vasilije Micic,Loose Ball Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,90,98,0.056,0.062,5:40
+4,5:06,LAL,Max Christie,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,90,100,0.072,0.042,5:29
+4,4:46,CHA,Josh Green,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,91,103,0.007,0.017,4:46
+4,3:47,LAL,Jarred Vanderbilt,Personal Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,93,106,0.008,0.007,4:00
+4,2:20,LAL,Dorian Finney-Smith,Personal Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,98,108,0.037,0.014,2:25
+4,13.1,LAL,Anthony Davis,Shooting Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,104,110,0.042,0.02,13.1
+4,8.0,CHA,Moussa Diabate,Personal Foul,Foul,Eric Dalen,Gediminas Petraitis,Tyler Ricks,CHA,107,110,0.021,0.079,10.1

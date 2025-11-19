@@ -1,0 +1,54 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,BKN,Terance Mann,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,0,0,0.93,0.93,12:00
+1,11:05,BKN,Nic Claxton,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,0,0,0.927,0.928,11:17
+1,6:48,BKN,Michael Porter Jr.,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,16,9,0.959,0.951,6:48
+1,4:11,NY,Mikal Bridges,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,23,15,0.951,0.951,4:23
+1,4:03,NY,Karl-Anthony Towns,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,23,15,0.946,0.951,4:03
+1,2:38,NY,Landry Shamet,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,29,21,0.938,0.948,2:59
+1,2:30,BKN,Ziaire Williams,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,29,22,0.956,0.948,2:38
+1,2:26,BKN,Day'Ron Sharpe,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,29,22,0.956,0.956,2:30
+1,1:50,BKN,Drake Powell,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,34,22,0.964,0.966,1:50
+1,59.4,BKN,Drake Powell,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,35,22,0.977,0.972,1:05
+1,25.9,BKN,Tyrese Martin,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,38,22,0.985,0.981,30.0
+1,5.5,NY,Mikal Bridges,Defensive 3-Seconds Technical,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,40,22,0.984,0.983,25.9
+2,11:08,NY,Mikal Bridges,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,42,25,0.98,0.981,11:20
+2,9:45,NY,Karl-Anthony Towns,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,44,30,0.967,0.974,9:45
+2,9:40,BKN,Tyrese Martin,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,44,31,0.975,0.97,9:45
+2,9:11,BKN,Jalen Wilson,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,48,33,0.979,0.973,9:11
+2,7:27,BKN,Drake Powell,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,53,38,0.976,0.976,7:38
+2,6:15,BKN,Ziaire Williams,Defensive 3-Seconds Technical,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,55,41,0.971,0.972,6:33
+2,5:02,NY,Mitchell Robinson,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,58,43,0.971,0.971,5:13
+2,4:59,BKN,Nic Claxton,Offensive Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,58,43,0.975,0.971,5:02
+2,2:33,NY,Jordan Clarkson,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,70,54,0.968,0.975,2:46
+2,1:49,NY,Mitchell Robinson,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,72,54,0.976,0.982,2:08
+2,1:16,NY,Jordan Clarkson,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,75,56,0.98,0.985,1:31
+2,1:10,BKN,Ziaire Williams,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,75,58,0.986,0.982,1:16
+2,0.5,NY,Jordan Clarkson,Loose Ball Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,77,60,0.971,0.978,0.5
+3,10:42,BKN,Nic Claxton,Loose Ball Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,80,62,0.986,0.987,10:42
+3,9:51,NY,Mitchell Robinson,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,83,62,0.991,0.99,10:09
+3,9:45,BKN,Michael Porter Jr.,Transition Take Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,83,62,0.993,0.993,9:45
+3,8:16,NY,Karl-Anthony Towns,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,89,62,0.998,0.998,8:32
+3,8:16,NY,Karl-Anthony Towns,Technical Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,89,62,0.997,0.998,8:16
+3,8:13,BKN,Nic Claxton,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,89,63,0.998,0.998,8:14
+3,6:37,NY,Jalen Brunson,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,93,65,0.998,0.998,6:41
+3,5:33,NY,Karl-Anthony Towns,Offensive Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,96,67,0.999,0.999,5:39
+3,2:20,NY,Josh Hart,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,107,70,0.999,0.999,2:39
+3,1:51,NY,Guerschon Yabusele,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,107,72,0.999,0.999,1:51
+3,1:49,BKN,Jalen Wilson,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,107,73,0.999,0.999,1:51
+4,10:14,BKN,Noah Clowney,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,114,79,0.999,0.999,10:22
+4,9:34,NY,OG Anunoby,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,118,79,0.999,0.999,9:42
+4,9:15,NY,Jordan Clarkson,Offensive Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,118,82,0.999,0.999,9:30
+4,9:07,NY,Karl-Anthony Towns,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,118,82,0.999,0.999,9:15
+4,8:30,BKN,Noah Clowney,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,118,86,0.999,0.999,8:40
+4,8:05,BKN,Noah Clowney,Technical Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,122,86,0.999,0.999,8:08
+4,7:23,NY,Jordan Clarkson,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,123,88,0.999,0.999,7:29
+4,6:37,BKN,E.J. Liddell,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,123,88,0.999,0.999,6:46
+4,6:21,NY,Ariel Hukporti,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,123,88,0.999,0.999,6:34
+4,6:05,NY,Ariel Hukporti,Offensive Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,123,88,0.999,0.999,6:12
+4,5:53,NY,Jordan Clarkson,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,123,88,0.999,0.999,6:05
+4,5:13,BKN,Tyson Etienne,Loose Ball Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,123,90,0.999,0.999,5:13
+4,3:30,NY,Ariel Hukporti,Offensive Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,127,97,0.999,0.999,3:42
+4,2:38,BKN,Jalen Wilson,Shooting Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,127,97,0.999,0.999,2:51
+4,2:23,NY,Tyler Kolek,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,128,97,0.999,0.999,2:36
+4,1:38,BKN,Tyson Etienne,Loose Ball Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,128,98,0.999,0.999,1:38
+4,6.3,BKN,Tyrese Martin,Personal Foul,Foul,Scott Twardoski,Ray Acosta,Jonathan Sterling,NY,132,98,0.999,0.999,8.8

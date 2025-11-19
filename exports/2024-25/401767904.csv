@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:11,OKC,Chet Holmgren,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,0,0,0.334,0.315,11:18
+1,9:46,MEM,Desmond Bane,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,4,2,0.312,0.345,9:57
+1,9:39,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,4,4,0.323,0.324,9:46
+1,8:28,OKC,Isaiah Hartenstein,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,6,4,0.374,0.376,8:28
+1,6:14,MEM,Desmond Bane,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,17,8,0.548,0.546,6:21
+1,5:11,OKC,Luguentz Dort,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,23,15,0.598,0.554,5:18
+1,4:41,OKC,Jalen Williams,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,26,17,0.629,0.585,4:51
+1,2:57,MEM,John Konchar,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,34,23,0.585,0.625,3:13
+1,2:09,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,34,24,0.675,0.636,2:16
+1,56.1,MEM,John Konchar,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,38,26,0.628,0.669,1:06
+1,28.1,MEM,Santi Aldama,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,40,28,0.631,0.672,43.1
+2,11:48,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,40,29,0.609,0.665,12:00
+2,11:28,MEM,John Konchar,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,40,30,0.583,0.629,11:31
+2,10:11,OKC,Alex Caruso,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,44,34,0.667,0.669,10:21
+2,9:42,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,47,34,0.789,0.753,9:53
+2,9:08,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,49,37,0.766,0.728,9:23
+2,5:27,MEM,Zach Edey,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,61,37,0.951,0.951,5:27
+2,3:43,OKC,Chet Holmgren,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,65,40,0.979,0.972,3:48
+2,3:15,OKC,Luguentz Dort,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,67,40,0.986,0.982,3:17
+2,2:51,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,69,40,0.98,0.985,3:07
+2,1:49,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,71,43,0.978,0.984,1:59
+2,1:12,OKC,Cason Wallace,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,71,47,0.981,0.974,1:22
+2,1:03,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,73,47,0.971,0.978,1:12
+2,26.0,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,73,51,0.973,0.961,34.0
+3,11:05,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,77,54,0.982,0.976,11:09
+3,10:39,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,79,54,0.982,0.985,10:55
+3,9:13,OKC,Jalen Williams,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,79,58,0.969,0.968,9:26
+3,8:34,MEM,Scotty Pippen Jr.,Flagrant Foul Type 1,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,82,58,0.983,0.986,8:43
+3,8:26,OKC,Luguentz Dort,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,82,60,0.978,0.978,8:26
+3,6:59,OKC,Chet Holmgren,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,84,62,0.987,0.982,6:59
+3,5:15,MEM,Zach Edey,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,84,68,0.929,0.928,5:15
+3,2:56,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,89,76,0.926,0.898,3:03
+3,2:49,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,91,76,0.909,0.918,2:56
+3,2:38,MEM,Scotty Pippen Jr.,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,91,78,0.866,0.901,2:38
+3,1:41,OKC,Alex Caruso,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,93,81,0.938,0.914,1:46
+3,35.1,MEM,Zach Edey,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,95,83,0.865,0.9,36.1
+4,9:25,OKC,Cason Wallace,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,97,91,0.834,0.794,9:25
+4,8:24,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,99,96,0.685,0.67,8:24
+4,7:58,MEM,John Konchar,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,99,96,0.52,0.619,8:09
+4,7:24,OKC,Cason Wallace,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,99,99,0.62,0.511,7:27
+4,4:07,MEM,Zach Edey,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,108,105,0.695,0.749,4:21
+4,3:18,OKC,Luguentz Dort,Personal Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,108,105,0.86,0.765,3:28
+4,1:20,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,108,108,0.3,0.484,1:40
+4,57.1,MEM,Santi Aldama,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,108,109,0.205,0.34,57.1
+4,39.0,MEM,Zach Edey,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,108,111,0.073,0.14,39.0
+4,9.1,MEM,Jaren Jackson Jr.,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Kevin Cutler,MEM,108,113,0.002,0.02,13.1

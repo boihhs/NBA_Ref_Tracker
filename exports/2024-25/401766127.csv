@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:35,OKC,Isaiah Hartenstein,Away from Play Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,0,2,0.405,0.405,11:42
+1,9:41,OKC,Chet Holmgren,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,1,4,0.42,0.385,9:54
+1,7:31,OKC,Luguentz Dort,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,6,10,0.378,0.337,7:31
+1,5:50,IND,Aaron Nesmith,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,15,12,0.476,0.516,6:17
+1,3:54,OKC,Cason Wallace,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,24,17,0.695,0.657,4:01
+1,3:27,OKC,Aaron Wiggins,Personal Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,24,17,0.697,0.659,3:34
+1,2:51,IND,T.J. McConnell,Loose Ball Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,26,17,0.687,0.688,2:51
+1,1:42,OKC,Cason Wallace,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,26,20,0.679,0.636,1:46
+1,36.2,IND,Pascal Siakam,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,28,22,0.571,0.613,43.1
+2,11:09,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,30,27,0.563,0.53,11:22
+2,8:52,IND,Pascal Siakam,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,34,31,0.492,0.534,9:08
+2,7:40,OKC,Alex Caruso,Offensive Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,39,33,0.662,0.629,7:49
+2,5:48,OKC,Chet Holmgren,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,41,33,0.764,0.725,5:55
+2,5:07,IND,Obi Toppin,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,45,33,0.766,0.8,5:22
+2,3:39,OKC,Jalen Williams,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,50,35,0.9,0.872,3:39
+2,2:10,OKC,Luguentz Dort,Personal Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,56,39,0.924,0.923,2:19
+2,1:46,IND,Aaron Nesmith,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,58,41,0.901,0.925,1:46
+3,9:44,OKC,Luguentz Dort,Personal Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,64,42,0.98,0.979,9:48
+3,8:43,IND,Aaron Nesmith,Loose Ball Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,64,42,0.978,0.982,8:50
+3,8:20,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,64,42,0.983,0.983,8:27
+3,7:33,IND,Andrew Nembhard,Personal Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,68,42,0.993,0.993,7:47
+3,6:26,IND,Tyrese Haliburton,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,70,44,0.991,0.994,6:29
+3,5:55,IND,Myles Turner,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,73,46,0.994,0.996,6:12
+3,5:34,IND,Myles Turner,Personal Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,73,48,0.99,0.993,5:41
+3,5:26,OKC,Isaiah Hartenstein,Personal Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,73,50,0.991,0.991,5:34
+3,5:25,IND,Tony Bradley,Technical Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,73,50,0.986,0.989,5:25
+3,4:54,OKC,Isaiah Joe,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,73,54,0.984,0.977,5:15
+3,4:36,IND,Andrew Nembhard,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,75,56,0.967,0.979,4:36
+3,3:16,OKC,Jalen Williams,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,78,57,0.993,0.99,3:20
+3,1:55,OKC,Aaron Wiggins,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,80,57,0.997,0.996,2:02
+4,11:01,IND,T.J. McConnell,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,92,62,0.999,0.999,11:11
+4,10:46,OKC,Jaylin Williams,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,92,62,0.999,0.999,10:59
+4,9:26,IND,Aaron Nesmith,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,93,65,0.999,0.999,9:35
+4,8:53,IND,Ben Sheppard,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,95,66,0.999,0.999,8:56
+4,7:17,IND,Ben Sheppard,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,99,71,0.999,0.999,7:20
+4,6:50,OKC,Dillon Jones,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,99,73,0.999,0.999,6:51
+4,3:04,OKC,Jaylin Williams,Shooting Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,104,82,0.999,0.999,3:20
+4,57.1,IND,James Johnson,Technical Foul,Foul,Zach Zarba,Tony Brothers,David Guthrie,IND,108,87,0.999,0.999,58.1

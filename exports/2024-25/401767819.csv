@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:29,DEN,Jamal Murray,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,10,8,0.621,0.621,8:44
+1,5:59,LAC,James Harden,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,13,17,0.485,0.54,6:12
+1,4:55,LAC,James Harden,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,15,22,0.44,0.402,5:08
+1,4:14,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,17,26,0.298,0.345,4:14
+1,1:35,LAC,Bogdan Bogdanovic,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,25,29,0.513,0.471,1:42
+1,1:07,LAC,Ben Simmons,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,25,29,0.512,0.467,1:12
+1,4.1,DEN,Christian Braun,Personal Take Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,27,32,0.365,0.409,6.1
+2,11:13,DEN,Jalen Pickett,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,27,37,0.254,0.292,11:13
+2,10:30,LAC,Kawhi Leonard,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,27,38,0.305,0.264,10:33
+2,9:32,LAC,Kawhi Leonard,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,31,43,0.235,0.237,9:43
+2,8:57,LAC,Bogdan Bogdanovic,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,31,45,0.22,0.188,9:11
+2,8:39,DEN,Aaron Gordon,Offensive Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,32,45,0.185,0.209,8:45
+2,7:31,LAC,Ben Simmons,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,34,47,0.235,0.203,7:40
+2,6:27,DEN,Peyton Watson,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,34,47,0.143,0.173,6:32
+2,4:19,DEN,Nikola Jokic,Offensive Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,38,51,0.162,0.183,4:33
+2,4:15,LAC,Ivica Zubac,Offensive Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,38,51,0.181,0.162,4:19
+2,2:51,LAC,James Harden,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,40,51,0.262,0.223,2:57
+2,1:32,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,44,51,0.255,0.296,1:53
+2,43.1,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,47,51,0.4,0.39,1:05
+2,5.1,LAC,Kris Dunn,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,47,53,0.406,0.357,21.0
+3,11:50,LAC,Ivica Zubac,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,49,53,0.474,0.41,12:00
+3,9:10,LAC,James Harden,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,55,61,0.336,0.335,9:20
+3,8:02,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,57,63,0.245,0.293,8:27
+3,5:39,LAC,Kris Dunn,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,63,67,0.42,0.349,5:39
+3,3:22,DEN,Russell Westbrook,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,66,69,0.313,0.374,3:34
+3,1:24,DEN,Christian Braun,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,70,75,0.217,0.277,1:41
+3,1:02,LAC,Nicolas Batum,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,70,75,0.384,0.321,1:08
+4,10:54,LAC,Nicolas Batum,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,72,75,0.486,0.395,10:57
+4,10:36,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,74,75,0.392,0.447,10:54
+4,10:24,LAC,Bogdan Bogdanovic,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,74,77,0.406,0.391,10:36
+4,9:20,DEN,Peyton Watson,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,74,79,0.224,0.238,9:20
+4,8:52,LAC,Bogdan Bogdanovic,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,74,79,0.371,0.277,9:09
+4,8:14,LAC,Ben Simmons,Double Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,76,79,0.482,0.384,8:28
+4,7:12,DEN,Russell Westbrook,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,81,81,0.48,0.505,7:31
+4,6:41,DEN,Nikola Jokic,Technical Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,81,84,0.267,0.372,7:01
+4,6:28,DEN,Russell Westbrook,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,81,85,0.171,0.251,6:31
+4,3:06,DEN,Christian Braun,Personal Take Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,93,92,0.421,0.544,3:10
+4,1:40,LAC,Kris Dunn,Loose Ball Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,95,94,0.772,0.648,1:41
+4,1:27,LAC,Norman Powell,Loose Ball Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,95,94,0.778,0.651,1:27
+5,3:27,LAC,James Harden,Shooting Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,100,100,0.663,0.538,3:28
+5,1:53,LAC,Kawhi Leonard,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,105,102,0.903,0.809,2:08
+5,1:28,DEN,Christian Braun,Personal Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,105,102,0.587,0.767,1:31
+5,10.2,LAC,Norman Powell,Personal Take Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,108,107,0.877,0.71,11.1
+5,6.1,LAC,Kris Dunn,Loose Ball Foul,Foul,James Williams,Marat Kogut,Mark Lindsay,DEN,110,107,0.982,0.925,9.1

@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:49,MIN,Jaden McDaniels,Personal Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,0,0,0.689,0.69,12:00
+1,11:23,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,0,0,0.737,0.707,11:31
+1,10:09,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,3,0,0.775,0.744,10:09
+1,9:32,MIN,Rudy Gobert,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,6,0,0.771,0.796,9:45
+1,7:52,MIN,Anthony Edwards,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,9,8,0.678,0.715,7:52
+1,6:37,ORL,Goga Bitadze,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,9,9,0.721,0.69,6:44
+1,5:38,ORL,Goga Bitadze,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,13,12,0.74,0.71,5:49
+1,5:14,MIN,Jaden McDaniels,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,15,12,0.696,0.729,5:17
+1,4:17,MIN,Naz Reid,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,18,17,0.643,0.684,4:41
+1,2:21,ORL,Franz Wagner,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,25,23,0.736,0.698,2:21
+1,1:32,MIN,Donte DiVincenzo,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,28,26,0.659,0.696,1:36
+2,11:47,MIN,Donte DiVincenzo,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,33,30,0.678,0.713,11:50
+2,9:43,MIN,Julius Randle,Personal Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,38,35,0.709,0.708,9:56
+2,8:26,MIN,Naz Reid,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,43,39,0.713,0.756,8:26
+2,6:17,ORL,Cory Joseph,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,47,42,0.806,0.773,6:20
+2,4:38,ORL,Caleb Houstan,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,52,48,0.783,0.75,4:53
+2,1:38,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,57,55,0.731,0.689,1:51
+3,11:14,ORL,Cory Joseph,Personal Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,64,60,0.742,0.744,11:14
+3,10:45,MIN,Julius Randle,Offensive Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,64,60,0.712,0.743,10:52
+3,10:16,MIN,Julius Randle,Offensive Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,64,62,0.647,0.682,10:33
+3,9:21,MIN,Jaden McDaniels,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,64,62,0.591,0.645,9:29
+3,8:02,MIN,Anthony Edwards,Personal Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,67,66,0.605,0.606,8:24
+3,7:18,MIN,Naz Reid,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,67,68,0.465,0.526,7:24
+3,7:18,MIN,Naz Reid,Technical Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,67,68,0.495,0.465,7:18
+3,7:07,ORL,Cory Joseph,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,67,70,0.544,0.486,7:18
+3,6:30,ORL,Tristan da Silva,Offensive Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,71,70,0.639,0.6,6:37
+3,2:18,MIN,Donte DiVincenzo,Personal Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,75,80,0.252,0.316,2:28
+3,2:05,ORL,Anthony Black,Loose Ball Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,75,80,0.361,0.358,2:05
+3,1:58,ORL,Jonathan Isaac,Personal Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,75,80,0.423,0.361,2:05
+3,1:17,ORL,Gary Harris,Loose Ball Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,75,83,0.285,0.221,1:17
+4,11:16,MIN,Jaden McDaniels,Personal Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,80,89,0.119,0.13,11:33
+4,10:37,MIN,Naz Reid,Transition Take Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,82,89,0.176,0.176,10:37
+4,10:11,ORL,Jonathan Isaac,Offensive Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,84,90,0.255,0.212,10:23
+4,8:12,MIN,Rudy Gobert,Personal Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,91,90,0.541,0.558,8:23
+4,7:21,ORL,Cory Joseph,Personal Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,93,90,0.724,0.713,7:34
+4,5:56,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,95,94,0.718,0.609,6:16
+4,1:10,MIN,Mike Conley,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,107,100,0.884,0.954,1:18
+4,1:04,ORL,Gary Harris,Personal Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,107,101,0.983,0.949,1:10
+4,50.1,ORL,Gary Harris,Personal Take Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,109,101,0.997,0.991,50.1
+4,44.1,MIN,Donte DiVincenzo,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,111,103,0.971,0.993,44.1
+4,30.1,ORL,Paolo Banchero,Personal Take Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,113,106,0.997,0.99,31.1
+4,20.1,ORL,Wendell Carter Jr.,Personal Take Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,115,108,0.998,0.993,25.1
+4,14.2,MIN,Julius Randle,Shooting Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,117,110,0.979,0.997,14.2
+4,12.1,ORL,Paolo Banchero,Personal Take Foul,Foul,Derek Richardson,Ed Malloy,CJ Washington,MIN,117,111,0.998,0.991,14.2

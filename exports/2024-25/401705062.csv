@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:41,ORL,Goga Bitadze,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,0,0,0.75,0.751,12:00
+1,5:29,NY,OG Anunoby,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,15,8,0.824,0.836,5:29
+1,3:13,NY,Jalen Brunson,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,17,14,0.727,0.76,3:25
+1,36.0,ORL,Anthony Black,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,24,22,0.765,0.728,36.0
+1,17.2,NY,Precious Achiuwa,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,25,22,0.732,0.749,17.2
+1,1.0,ORL,Jonathan Isaac,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,27,24,0.783,0.748,1.0
+2,9:56,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,33,33,0.729,0.694,10:13
+2,9:23,ORL,Anthony Black,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,35,35,0.727,0.692,9:38
+2,8:45,ORL,Kentavious Caldwell-Pope,Offensive Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,39,37,0.737,0.712,8:52
+2,8:19,ORL,Jett Howard,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,39,37,0.768,0.736,8:21
+2,6:47,ORL,Jett Howard,Loose Ball Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,41,42,0.689,0.649,6:47
+2,5:28,NY,Precious Achiuwa,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,43,42,0.671,0.672,5:47
+2,5:18,NY,Landry Shamet,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,43,42,0.67,0.671,5:28
+2,3:36,ORL,Caleb Houstan,Offensive Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,43,46,0.569,0.533,3:39
+2,3:25,ORL,Cole Anthony,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,43,46,0.615,0.569,3:36
+2,1:29,NY,Jericho Sims,Offensive Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,49,50,0.587,0.621,1:40
+2,3.1,NY,Mikal Bridges,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,51,50,0.598,0.647,14.1
+3,10:48,ORL,Caleb Houstan,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,51,55,0.497,0.502,10:59
+3,7:26,NY,Jalen Brunson,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,57,64,0.313,0.312,7:31
+3,5:35,NY,Cameron Payne,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,59,64,0.369,0.37,5:54
+3,3:45,ORL,Cole Anthony,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,61,67,0.348,0.35,3:51
+3,1:57,NY,Jalen Brunson,Offensive Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,65,70,0.322,0.374,2:14
+3,1:26,ORL,Jett Howard,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,65,73,0.296,0.238,1:41
+3,58.1,NY,Landry Shamet,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,65,73,0.143,0.193,1:08
+3,0.0,ORL,Trevelin Queen,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,67,75,0.276,0.219,13.1
+4,11:49,ORL,Trevelin Queen,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,68,75,0.333,0.234,12:00
+4,11:29,NY,Precious Achiuwa,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,68,75,0.197,0.211,11:47
+4,10:43,NY,Jalen Brunson,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,70,77,0.181,0.193,10:58
+4,10:37,NY,Josh Hart,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,70,77,0.127,0.181,10:43
+4,8:47,ORL,Trevelin Queen,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,74,81,0.277,0.193,8:51
+4,4:19,ORL,Cole Anthony,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,82,91,0.105,0.056,4:30
+4,4:07,NY,Jalen Brunson,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,84,91,0.044,0.08,4:19
+4,2:09,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,86,98,0.013,0.005,2:27
+4,1:26,NY,Josh Hart,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,87,98,0.001,0.002,1:36
+4,1:06,ORL,Anthony Black,Shooting Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,87,99,0.005,0.001,1:11
+4,1:05,NY,Jalen Brunson,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,89,99,0.001,0.002,1:06
+4,45.1,NY,Mikal Bridges,Personal Foul,Foul,Tre Maddox,CJ Washington,Brandon Adair,NY,91,101,0.001,0.001,56.1

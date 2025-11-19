@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:21,LAL,Marcus Smart,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,0,0,0.54,0.499,11:40
+1,10:30,LAL,Luka Doncic,Loose Ball Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,5,0,0.627,0.628,10:30
+1,5:08,LAL,Rui Hachimura,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,17,16,0.57,0.532,5:16
+1,4:59,MEM,Cedric Coward,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,19,16,0.516,0.557,5:08
+1,4:05,MEM,Vince Williams Jr.,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,19,16,0.517,0.558,4:19
+1,3:03,MEM,Cam Spencer,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,24,21,0.519,0.56,3:11
+1,46.4,MEM,Santi Aldama,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,26,28,0.401,0.448,46.4
+1,25.6,LAL,Dalton Knecht,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,26,29,0.462,0.419,26.2
+1,16.3,MEM,Cedric Coward,Personal Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,27,29,0.381,0.419,25.6
+2,11:44,LAL,Austin Reaves,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,27,31,0.434,0.379,12:00
+2,11:29,MEM,Ja Morant,Personal Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,29,31,0.42,0.419,11:44
+2,9:43,MEM,Cam Spencer,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,34,38,0.34,0.39,9:43
+2,8:48,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,36,39,0.389,0.419,9:06
+2,8:32,MEM,Vince Williams Jr.,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,36,41,0.311,0.358,8:32
+2,6:28,LAL,Luka Doncic,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,41,46,0.377,0.355,6:35
+2,4:28,LAL,Rui Hachimura,Offensive Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,52,50,0.576,0.543,4:48
+2,3:29,MEM,Vince Williams Jr.,Personal Take Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,57,50,0.655,0.701,3:34
+2,1:55,LAL,Luka Doncic,Loose Ball Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,63,50,0.898,0.872,1:55
+3,9:18,MEM,Jock Landale,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,74,61,0.848,0.881,9:32
+3,8:58,MEM,Jock Landale,Personal Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,74,63,0.839,0.838,9:01
+3,8:13,MEM,Santi Aldama,Personal Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,74,66,0.762,0.762,8:24
+3,8:07,MEM,Jock Landale,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,74,66,0.716,0.762,8:13
+3,7:42,MEM,Jock Landale,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,74,68,0.65,0.702,7:51
+3,6:52,LAL,Austin Reaves,Personal Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,74,73,0.557,0.558,7:06
+3,6:10,LAL,Marcus Smart,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,74,73,0.617,0.559,6:15
+3,4:31,MEM,Vince Williams Jr.,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,79,78,0.453,0.517,4:35
+3,4:09,LAL,Jaxson Hayes,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,79,80,0.54,0.476,4:31
+3,2:38,MEM,Vince Williams Jr.,Personal Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,83,82,0.45,0.518,2:54
+3,2:19,LAL,Jarred Vanderbilt,Personal Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,83,84,0.544,0.474,2:38
+3,2:05,MEM,John Konchar,Personal Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,83,84,0.36,0.425,2:05
+4,10:15,LAL,Rui Hachimura,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,91,96,0.356,0.273,10:29
+4,9:08,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,93,98,0.18,0.266,9:08
+4,8:29,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,95,98,0.286,0.302,8:29
+4,5:33,LAL,Dalton Knecht,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,97,108,0.064,0.034,5:39
+4,3:23,LAL,Marcus Smart,Personal Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,101,112,0.02,0.016,3:24
+4,2:44,MEM,Jaylen Wells,Personal Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,101,112,0.006,0.007,2:54
+4,2:34,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,101,112,0.002,0.011,2:40
+4,1:57,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,101,112,0.001,0.002,1:57
+4,1:16,LAL,Rui Hachimura,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,105,113,0.043,0.011,1:16
+4,54.0,MEM,Jaylen Wells,Shooting Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,105,113,0.002,0.013,1:12
+4,7.5,MEM,Jaren Jackson Jr.,Personal Take Foul,Foul,Jacyn Goble,Scott Foster,Biniam Maru,MEM,110,115,0.002,0.021,14.1

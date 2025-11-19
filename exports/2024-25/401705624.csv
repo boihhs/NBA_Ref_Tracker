@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:20,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,2,9,0.275,0.275,10:36
+1,7:52,PHX,Ryan Dunn,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,9,18,0.215,0.215,7:56
+1,7:14,PHX,Collin Gillespie,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,12,21,0.187,0.214,7:27
+1,5:26,PHX,Royce O'Neale,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,20,23,0.31,0.345,5:39
+1,3:38,BOS,Payton Pritchard,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,22,28,0.297,0.297,3:39
+1,2:37,PHX,Kevin Durant,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,26,31,0.261,0.295,2:49
+1,2:25,BOS,Jrue Holiday,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,28,33,0.34,0.297,2:25
+1,2:04,BOS,Payton Pritchard,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,31,35,0.365,0.321,2:04
+1,14.1,BOS,Sam Hauser,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,36,42,0.332,0.297,32.0
+2,10:51,PHX,Devin Booker,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,40,44,0.319,0.317,10:55
+2,9:20,PHX,Grayson Allen,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,40,44,0.32,0.318,9:32
+2,9:20,PHX,Tyus Jones,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,40,44,0.321,0.32,9:20
+2,7:58,BOS,Kristaps Porzingis,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,42,51,0.222,0.221,8:13
+2,7:15,PHX,Devin Booker,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,44,51,0.208,0.241,7:22
+2,7:03,BOS,Al Horford,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,44,53,0.254,0.22,7:15
+2,5:55,BOS,Derrick White,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,46,55,0.215,0.217,5:55
+2,5:16,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,46,58,0.182,0.152,5:28
+2,4:36,PHX,Nick Richards,Offensive Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,48,58,0.171,0.191,4:42
+2,4:23,PHX,Nick Richards,Defensive 3-Seconds Technical,Foul,John Goble,Sean Corbin,Nate Green,PHX,48,58,0.174,0.171,4:36
+2,3:01,PHX,Ryan Dunn,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,48,64,0.063,0.07,3:01
+2,1:05,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,50,73,0.029,0.023,1:05
+2,39.0,BOS,Kristaps Porzingis,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,52,73,0.041,0.031,45.1
+3,10:06,PHX,Collin Gillespie,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,59,75,0.047,0.055,10:06
+3,9:44,PHX,Collin Gillespie,Loose Ball Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,59,77,0.036,0.035,9:44
+3,8:06,BOS,Derrick White,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,61,82,0.029,0.021,8:24
+3,7:52,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,63,82,0.043,0.031,7:55
+3,6:11,BOS,Derrick White,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,67,90,0.012,0.007,6:11
+3,5:53,PHX,Kevin Durant,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,67,90,0.005,0.007,5:59
+3,4:42,BOS,Jaylen Brown,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,67,96,0.002,0.001,4:47
+3,3:53,PHX,Royce O'Neale,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,69,96,0.001,0.001,4:09
+3,3:53,PHX,Kevin Durant,Technical Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,69,97,0.001,0.001,3:53
+3,3:39,PHX,Royce O'Neale,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,72,99,0.001,0.001,3:47
+4,10:45,BOS,Derrick White,Defensive 3-Seconds Technical,Foul,John Goble,Sean Corbin,Nate Green,PHX,81,113,0.001,0.001,11:05
+4,8:59,BOS,Derrick White,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,84,118,0.001,0.001,9:04
+4,7:43,PHX,Mason Plumlee,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,89,118,0.001,0.001,7:56
+4,6:26,BOS,Baylor Scheierman,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,89,122,0.001,0.001,6:26
+4,3:50,PHX,Mason Plumlee,Personal Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,95,122,0.001,0.001,3:50
+4,2:04,PHX,Vasilije Micic,Offensive Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,95,127,0.001,0.001,2:11
+4,35.0,BOS,Torrey Craig,Shooting Foul,Foul,John Goble,Sean Corbin,Nate Green,PHX,100,132,0.001,0.001,44.0

@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:52,OKC,Isaiah Hartenstein,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,2,4,0.205,0.189,10:59
+1,10:20,SAC,DeMar DeRozan,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,4,4,0.226,0.227,10:20
+1,9:51,SAC,Zach LaVine,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,6,6,0.202,0.228,10:01
+1,8:04,SAC,Zach LaVine,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,11,17,0.132,0.154,8:04
+1,5:40,OKC,Chet Holmgren,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,14,22,0.142,0.132,5:42
+1,4:09,SAC,Maxime Raynaud,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,20,22,0.188,0.213,4:20
+1,2:14,SAC,Malik Monk,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,26,24,0.274,0.308,2:25
+1,26.0,SAC,Nique Clifford,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,32,28,0.332,0.371,33.7
+2,11:35,SAC,DeMar DeRozan,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,32,32,0.274,0.299,11:36
+2,9:08,OKC,Ousmane Dieng,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,37,40,0.241,0.241,9:18
+2,7:17,SAC,Drew Eubanks,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,43,44,0.236,0.224,7:37
+2,6:34,SAC,Drew Eubanks,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,45,48,0.212,0.251,6:34
+2,5:27,OKC,Ajay Mitchell,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,47,51,0.249,0.208,5:27
+2,4:12,OKC,Isaiah Joe,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,51,55,0.234,0.234,4:25
+2,4:07,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,51,55,0.272,0.234,4:12
+2,3:58,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,51,55,0.272,0.272,4:07
+2,2:45,SAC,Zach LaVine,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,52,58,0.144,0.171,2:58
+2,2:14,SAC,Drew Eubanks,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,54,63,0.12,0.135,2:26
+2,1:38,OKC,Chet Holmgren,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,54,65,0.127,0.105,1:47
+3,9:57,OKC,Chet Holmgren,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,61,73,0.109,0.132,10:58
+3,9:07,SAC,Russell Westbrook,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,63,75,0.072,0.072,9:12
+3,8:55,OKC,Chet Holmgren,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,63,75,0.107,0.083,8:58
+3,8:50,SAC,Dennis Schroder,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,64,75,0.085,0.084,8:52
+3,6:34,OKC,Isaiah Hartenstein,Loose Ball Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,72,82,0.111,0.111,6:34
+3,5:36,SAC,Russell Westbrook,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,74,84,0.091,0.108,5:38
+3,4:39,SAC,Malik Monk,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,76,84,0.098,0.127,4:44
+3,2:43,OKC,Isaiah Joe,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,80,92,0.091,0.069,3:08
+4,10:29,SAC,Russell Westbrook,Flagrant Foul Type 1,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,83,104,0.002,0.001,10:30
+4,9:42,OKC,Chet Holmgren,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,83,106,0.001,0.001,9:42
+4,8:31,SAC,DeMar DeRozan,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,87,106,0.001,0.001,8:34
+4,8:00,SAC,Keon Ellis,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,90,107,0.003,0.003,8:14
+4,6:41,SAC,Keon Ellis,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,92,112,0.001,0.001,6:46
+4,3:48,OKC,Chris Youngblood,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,95,125,0.001,0.001,3:48
+4,3:41,OKC,Jaylin Williams,Offensive Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,97,125,0.001,0.001,3:48
+4,27.8,OKC,Chris Youngblood,Shooting Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,99,131,0.001,0.001,34.4
+4,6.3,SAC,Keon Ellis,Personal Foul,Foul,Courtney Kirkland,Marat Kogut,Andy Nagy,SAC,101,131,0.001,0.001,8.4

@@ -1,0 +1,54 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:11,DET,Cade Cunningham,Loose Ball Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,2,4,0.417,0.417,10:11
+1,9:20,CHI,Matas Buzelis,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,4,4,0.406,0.444,9:29
+1,8:59,DET,Ausar Thompson,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,4,7,0.393,0.393,9:08
+1,8:50,DET,Cade Cunningham,Defensive 3-Seconds Technical,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,4,7,0.386,0.393,8:59
+1,8:42,DET,Tobias Harris,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,5,7,0.455,0.418,8:50
+1,5:56,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,16,17,0.401,0.419,5:56
+1,5:06,CHI,Kevin Huerter,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,18,19,0.419,0.419,5:22
+1,3:08,CHI,Nikola Vucevic,Technical Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,25,28,0.348,0.395,3:11
+1,1:36,CHI,Kevin Huerter,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,27,28,0.382,0.419,1:45
+1,1:23,DET,Malik Beasley,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,29,30,0.47,0.418,1:23
+2,11:28,CHI,Jalen Smith,Offensive Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,32,32,0.451,0.481,11:31
+2,10:24,CHI,Jalen Smith,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,34,35,0.401,0.42,10:24
+2,9:42,DET,Ronald Holland II,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,39,37,0.564,0.513,9:42
+2,9:15,DET,Simone Fontecchio,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,40,39,0.557,0.513,9:19
+2,8:33,CHI,Ayo Dosunmu,Loose Ball Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,44,39,0.605,0.606,8:33
+2,8:33,DET,Malik Beasley,Double Technical Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,44,39,0.626,0.605,8:33
+2,7:33,DET,Isaiah Stewart,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,44,42,0.567,0.626,8:33
+2,7:07,CHI,Tre Jones,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,45,42,0.501,0.544,7:21
+2,6:59,DET,Ronald Holland II,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,47,44,0.601,0.546,6:59
+2,6:17,CHI,Matas Buzelis,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,48,46,0.493,0.55,6:17
+2,4:24,CHI,Coby White,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,50,54,0.31,0.363,4:24
+2,2:56,CHI,Ayo Dosunmu,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,52,55,0.313,0.358,3:08
+2,2:07,DET,Tim Hardaway Jr.,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,55,57,0.477,0.425,2:11
+2,1:27,CHI,Kevin Huerter,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,57,61,0.303,0.361,1:27
+2,46.1,CHI,Josh Giddey,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,57,64,0.201,0.235,51.0
+3,11:11,CHI,Josh Giddey,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,59,66,0.193,0.227,11:19
+3,10:52,CHI,Ayo Dosunmu,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,59,67,0.17,0.203,10:58
+3,10:06,CHI,Ayo Dosunmu,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,59,69,0.157,0.154,10:06
+3,9:28,CHI,Josh Giddey,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,61,71,0.122,0.152,9:36
+3,8:55,CHI,Matas Buzelis,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,61,75,0.068,0.093,8:55
+3,6:45,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,63,84,0.011,0.019,6:45
+3,4:57,DET,Jalen Duren,Offensive Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,73,86,0.088,0.073,5:09
+3,4:36,CHI,Nikola Vucevic,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,73,86,0.051,0.071,4:45
+3,4:31,DET,Jalen Duren,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,73,88,0.056,0.057,4:36
+3,3:57,DET,Isaiah Stewart,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,73,88,0.075,0.054,4:02
+3,2:14,DET,Dennis Schroder,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,77,92,0.064,0.044,2:17
+3,1:56,DET,Dennis Schroder,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,78,92,0.078,0.055,1:57
+3,45.2,CHI,Julian Phillips,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,80,92,0.041,0.058,50.1
+3,7.0,DET,Ronald Holland II,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,80,96,0.04,0.026,21.0
+3,3.1,DET,Isaiah Stewart,Offensive Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,82,96,0.045,0.033,7.0
+4,11:49,DET,Isaiah Stewart,Offensive Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,82,96,0.041,0.039,12:00
+4,11:02,DET,Ronald Holland II,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,84,99,0.047,0.029,11:18
+4,9:41,CHI,Kevin Huerter,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,88,103,0.015,0.016,9:43
+4,9:36,CHI,Julian Phillips,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,88,103,0.014,0.015,9:41
+4,8:43,DET,Tobias Harris,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,90,103,0.047,0.033,8:43
+4,8:26,CHI,Jalen Smith,Loose Ball Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,92,103,0.04,0.045,8:26
+4,7:51,CHI,Jalen Smith,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,92,105,0.011,0.02,7:56
+4,7:51,CHI,Jalen Smith,Technical Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,92,105,0.015,0.011,7:51
+4,7:44,DET,Isaiah Stewart,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,92,108,0.019,0.009,7:51
+4,3:42,DET,Tobias Harris,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,105,119,0.01,0.004,3:50
+4,3:02,CHI,Matas Buzelis,Shooting Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,109,119,0.006,0.016,3:25
+4,2:55,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,109,120,0.03,0.015,3:02
+4,2:41,CHI,Josh Giddey,Personal Foul,Foul,Pat Fraher,Jason Goldenberg,Brandon Adair,CHI,110,120,0.005,0.013,2:55

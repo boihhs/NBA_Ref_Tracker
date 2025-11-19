@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:53,SAC,Domantas Sabonis,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,2,2,0.296,0.296,10:57
+1,5:08,DEN,Nikola Jokic,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,15,24,0.185,0.16,5:25
+1,2:15,DEN,Bruce Brown,Loose Ball Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,22,28,0.214,0.195,2:27
+1,1:24,SAC,Drew Eubanks,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,27,31,0.207,0.235,1:34
+1,24.2,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,33,31,0.453,0.415,33.6
+2,9:57,SAC,Drew Eubanks,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,36,35,0.369,0.366,10:03
+2,9:16,DEN,Jonas Valanciunas,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,38,37,0.402,0.369,9:29
+2,8:28,DEN,Jonas Valanciunas,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,40,40,0.396,0.376,8:41
+2,8:18,SAC,DeMar DeRozan,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,42,40,0.362,0.405,8:28
+2,7:57,SAC,Nique Clifford,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,42,41,0.378,0.377,8:00
+2,7:21,SAC,Domantas Sabonis,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,42,41,0.339,0.379,7:36
+2,4:07,SAC,Domantas Sabonis,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,49,47,0.379,0.428,4:22
+2,3:38,SAC,Russell Westbrook,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,51,48,0.439,0.46,3:54
+2,2:53,SAC,Keon Ellis,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,51,51,0.324,0.368,2:56
+2,1:16,SAC,Zach LaVine,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,53,55,0.269,0.314,1:19
+2,26.1,SAC,Zach LaVine,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,56,57,0.3,0.427,4:07
+3,11:06,SAC,Precious Achiuwa,Loose Ball Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,58,62,0.257,0.255,11:06
+3,10:00,DEN,Nikola Jokic,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,60,65,0.257,0.228,10:14
+3,9:03,DEN,Cameron Johnson,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,62,67,0.305,0.258,9:15
+3,7:19,SAC,Domantas Sabonis,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,67,69,0.274,0.322,7:23
+3,6:31,DEN,Aaron Gordon,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,67,73,0.274,0.228,6:52
+3,4:50,SAC,Drew Eubanks,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,72,76,0.257,0.255,4:51
+3,4:07,SAC,Nique Clifford,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,72,78,0.152,0.192,4:19
+3,2:06,DEN,Peyton Watson,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,74,82,0.154,0.157,2:14
+3,2:06,SAC,Malik Monk,Technical Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,74,82,0.112,0.154,2:06
+3,28.3,DEN,Tim Hardaway Jr.,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,80,85,0.31,0.252,33.2
+4,11:25,SAC,Russell Westbrook,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,84,85,0.291,0.377,11:47
+4,10:56,SAC,Keon Ellis,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,84,87,0.262,0.274,11:00
+4,10:45,SAC,Keon Ellis,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,84,87,0.197,0.262,10:56
+4,9:10,DEN,Peyton Watson,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,86,94,0.113,0.09,9:27
+4,7:46,SAC,DeMar DeRozan,Loose Ball Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,86,97,0.018,0.032,7:46
+4,6:53,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,86,101,0.017,0.009,7:10
+4,5:39,SAC,Domantas Sabonis,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,89,104,0.002,0.004,5:50
+4,5:24,DEN,Jonas Valanciunas,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,89,106,0.002,0.002,5:24
+4,5:20,DEN,Jamal Murray,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,89,106,0.002,0.002,5:24
+4,5:16,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,89,106,0.005,0.002,5:20
+4,4:50,DEN,Peyton Watson,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,91,106,0.011,0.005,4:59
+4,3:38,SAC,Domantas Sabonis,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,99,110,0.007,0.019,3:38
+4,3:24,DEN,Jamal Murray,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,99,111,0.022,0.01,3:27
+4,3:07,SAC,Drew Eubanks,Shooting Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,101,111,0.006,0.016,3:24
+4,1:48,DEN,Nikola Jokic,Personal Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,103,113,0.029,0.012,1:50
+4,1:02,SAC,Drew Eubanks,Offensive Foul,Foul,Dedric Taylor,Karl Lane,Matt Kallio,SAC,106,116,0.002,0.012,4:50

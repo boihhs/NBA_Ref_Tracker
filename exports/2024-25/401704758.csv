@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:29,HOU,Alperen Sengun,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,7,10,0.567,0.529,8:30
+1,7:17,HOU,Dillon Brooks,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,13,13,0.639,0.601,7:25
+1,6:55,OKC,Jalen Williams,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,15,15,0.557,0.6,6:55
+1,5:14,HOU,Fred VanVleet,Offensive Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,22,20,0.65,0.624,5:16
+1,3:05,OKC,Cason Wallace,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,27,25,0.621,0.62,3:19
+1,2:27,OKC,Dillon Jones,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,27,27,0.567,0.568,2:31
+1,46.0,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,31,30,0.547,0.59,1:08
+2,10:17,HOU,Jalen Green,Technical Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,34,31,0.691,0.64,10:17
+2,9:12,HOU,Alperen Sengun,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,39,33,0.761,0.719,9:12
+2,8:53,OKC,Isaiah Joe,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,40,33,0.745,0.744,9:12
+2,8:47,OKC,Isaiah Joe,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,40,33,0.708,0.745,8:53
+2,7:54,HOU,Alperen Sengun,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,43,35,0.822,0.792,8:01
+2,5:44,OKC,Ajay Mitchell,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,53,38,0.879,0.901,5:46
+2,5:02,OKC,Luguentz Dort,Loose Ball Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,55,38,0.91,0.926,5:02
+2,4:41,HOU,Jalen Green,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,55,38,0.95,0.939,4:51
+2,4:41,HOU,HOU,Technical Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,55,38,0.944,0.95,4:41
+2,4:17,HOU,Dillon Brooks,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,58,38,0.97,0.962,4:24
+2,3:32,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,61,38,0.966,0.973,3:45
+2,2:48,HOU,Dillon Brooks,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,64,43,0.977,0.971,2:56
+3,10:02,HOU,Alperen Sengun,Offensive Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,79,51,0.996,0.995,10:13
+3,9:32,OKC,Cason Wallace,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,79,51,0.993,0.996,9:35
+3,8:39,OKC,Luguentz Dort,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,81,54,0.992,0.995,8:51
+3,6:53,OKC,Jalen Williams,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,87,61,0.992,0.995,6:55
+3,6:18,OKC,Luguentz Dort,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,87,63,0.989,0.992,6:28
+3,3:52,OKC,Alex Caruso,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,93,68,0.994,0.996,3:53
+3,2:20,OKC,Alex Caruso,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,96,73,0.992,0.995,2:41
+3,1:48,HOU,Amen Thompson,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,96,76,0.995,0.992,2:00
+3,48.1,HOU,Alperen Sengun,Loose Ball Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,96,76,0.996,0.994,48.1
+4,11:41,OKC,Isaiah Joe,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,98,78,0.991,0.995,11:41
+4,11:23,HOU,Reed Sheppard,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,98,79,0.996,0.993,11:41
+4,11:09,OKC,Chet Holmgren,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,100,79,0.992,0.995,11:23
+4,8:46,HOU,Steven Adams,Offensive Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,105,85,0.998,0.996,8:55
+4,8:02,OKC,Isaiah Joe,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,110,85,0.999,0.999,8:11
+4,7:39,HOU,Amen Thompson,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,110,87,0.999,0.999,7:55
+4,6:03,OKC,Isaiah Joe,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,116,93,0.999,0.999,6:05
+4,5:36,OKC,Jalen Williams,Personal Take Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,116,93,0.999,0.999,5:36
+4,3:53,OKC,Ajay Mitchell,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,123,97,0.999,0.999,3:53
+4,3:48,HOU,Jae'Sean Tate,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,123,97,0.999,0.999,3:50
+4,3:20,OKC,Malevy Leons,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,125,99,0.999,0.999,3:20
+4,2:26,HOU,Jock Landale,Shooting Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,125,102,0.999,0.999,2:43
+4,1:29,OKC,Aaron Wiggins,Personal Foul,Foul,Kevin Cutler,Kevin Scott,Evan Scott,OKC,126,104,0.999,0.999,1:29

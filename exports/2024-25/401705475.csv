@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:15,PHX,Nick Richards,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,5,4,0.728,0.731,10:29
+1,7:12,DEN,Christian Braun,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,18,13,0.778,0.777,7:13
+1,4:58,PHX,Bradley Beal,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,21,15,0.809,0.81,5:05
+1,3:56,DEN,Nikola Jokic,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,24,15,0.84,0.839,4:03
+1,3:20,DEN,Russell Westbrook,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,29,18,0.847,0.87,3:28
+1,2:43,DEN,Russell Westbrook,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,29,19,0.831,0.855,2:48
+2,11:47,PHX,Royce O'Neale,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,37,28,0.853,0.846,12:00
+2,9:14,DEN,Michael Porter Jr.,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,40,33,0.768,0.799,9:30
+2,7:30,DEN,Peyton Watson,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,48,40,0.804,0.838,7:30
+2,4:32,DEN,Peyton Watson,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,60,43,0.931,0.944,4:58
+2,4:20,PHX,Nick Richards,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,60,45,0.949,0.935,4:32
+3,11:18,PHX,Devin Booker,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,68,58,0.903,0.88,11:37
+3,8:41,PHX,Bradley Beal,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,76,62,0.955,0.942,8:42
+3,7:52,PHX,Bol Bol,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,79,64,0.965,0.952,8:03
+3,6:44,DEN,Nikola Jokic,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,85,66,0.972,0.981,6:44
+3,6:31,DEN,Nikola Jokic,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,85,66,0.977,0.977,6:34
+3,6:22,DEN,Christian Braun,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,85,68,0.959,0.972,6:22
+3,2:30,PHX,Tyus Jones,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,97,81,0.98,0.97,2:30
+3,6.0,DEN,Zeke Nnaji,Personal Take Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,102,91,0.891,0.922,13.2
+4,11:41,DEN,Peyton Watson,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,102,91,0.887,0.93,12:00
+4,11:06,DEN,Michael Porter Jr.,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,104,93,0.887,0.926,11:23
+4,9:17,PHX,Mason Plumlee,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,107,99,0.932,0.893,9:41
+4,9:05,DEN,Michael Porter Jr.,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,108,99,0.888,0.896,9:09
+4,9:01,DEN,Peyton Watson,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,108,99,0.842,0.888,9:05
+4,5:13,DEN,Christian Braun,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,117,111,0.792,0.869,5:13
+4,4:44,DEN,Christian Braun,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,117,112,0.697,0.786,4:47
+4,3:27,DEN,Aaron Gordon,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,120,114,0.774,0.854,3:33
+4,3:14,PHX,Mason Plumlee,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,120,116,0.814,0.807,3:27
+4,3:03,PHX,Mason Plumlee,Loose Ball Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,120,116,0.835,0.818,3:03
+4,2:52,PHX,Bradley Beal,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,120,116,0.903,0.76,3:03
+4,2:34,DEN,Michael Porter Jr.,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,120,116,0.735,0.783,2:39
+5,3:14,DEN,Michael Porter Jr.,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,132,125,0.848,0.907,3:32
+5,2:44,PHX,Kevin Durant,Transition Take Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,134,127,0.952,0.951,2:44
+5,2:28,PHX,Mason Plumlee,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,135,127,0.974,0.95,2:44
+5,2:20,PHX,Grayson Allen,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,135,127,0.975,0.974,2:28
+5,1:52,DEN,Aaron Gordon,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,137,129,0.936,0.982,1:52
+5,43.1,PHX,Bradley Beal,Personal Take Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,143,134,0.998,0.996,46.0
+5,36.1,DEN,Michael Porter Jr.,Shooting Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,145,136,0.987,0.998,36.1
+5,31.0,PHX,Devin Booker,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,145,137,0.998,0.994,36.1
+5,23.0,PHX,Devin Booker,Personal Foul,Foul,Scott Foster,Phenizee Ransom,Tre Maddox,DEN,147,139,0.998,0.996,26.1

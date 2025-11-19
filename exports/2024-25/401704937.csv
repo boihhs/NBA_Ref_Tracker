@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:50,DEN,Jamal Murray,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,3,2,0.391,0.394,9:55
+1,7:39,DEN,Aaron Gordon,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,9,9,0.41,0.371,7:42
+1,7:27,POR,Toumani Camara,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,11,9,0.398,0.396,7:39
+1,4:24,POR,Deni Avdija,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,18,22,0.233,0.263,4:38
+1,2:33,POR,Toumani Camara,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,22,29,0.177,0.203,2:51
+1,2:11,DEN,Aaron Gordon,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,22,29,0.257,0.224,2:13
+2,11:21,POR,Deni Avdija,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,33,35,0.319,0.317,11:30
+2,10:06,DEN,Julian Strawther,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,40,37,0.515,0.461,10:06
+2,6:36,POR,Jerami Grant,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,47,46,0.372,0.415,6:40
+2,6:27,DEN,Peyton Watson,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,47,48,0.432,0.385,6:36
+2,5:03,POR,Scoot Henderson,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,54,48,0.582,0.581,5:13
+2,2:13,DEN,Jamal Murray,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,64,55,0.727,0.728,2:14
+2,1:58,POR,Deandre Ayton,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,64,55,0.653,0.699,2:01
+3,10:55,DEN,Christian Braun,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,69,66,0.552,0.552,11:04
+3,7:57,DEN,Nikola Jokic,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,75,73,0.56,0.492,7:57
+3,7:32,POR,Deandre Ayton,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,75,73,0.435,0.491,7:50
+3,6:12,DEN,Jamal Murray,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,80,74,0.75,0.699,6:19
+3,5:36,POR,Jerami Grant,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,82,74,0.741,0.74,5:41
+3,5:23,DEN,Russell Westbrook,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,82,74,0.82,0.774,5:30
+3,3:11,POR,Deni Avdija,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,88,76,0.842,0.88,3:14
+3,2:53,DEN,Julian Strawther,Loose Ball Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,88,77,0.915,0.885,2:53
+3,2:44,POR,Toumani Camara,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,90,77,0.871,0.904,2:53
+3,1:08,DEN,Peyton Watson,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,97,82,0.975,0.96,1:11
+4,10:07,POR,Anfernee Simons,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,104,94,0.858,0.915,10:07
+4,10:02,DEN,DeAndre Jordan,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,104,95,0.895,0.887,10:07
+4,9:50,DEN,DeAndre Jordan,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,104,95,0.932,0.892,9:57
+4,8:59,POR,Scoot Henderson,Loose Ball Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,106,97,0.868,0.878,8:59
+4,8:20,POR,Anfernee Simons,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,106,99,0.727,0.809,8:32
+4,7:39,POR,Toumani Camara,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,106,101,0.629,0.722,7:44
+4,7:10,DEN,Russell Westbrook,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,106,103,0.765,0.663,7:28
+4,5:27,DEN,Russell Westbrook,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,112,105,0.917,0.891,5:29
+4,5:06,POR,Deandre Ayton,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,113,105,0.846,0.895,5:27
+4,2:52,POR,Deandre Ayton,Shooting Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,120,113,0.848,0.907,3:09
+4,2:11,POR,Shaedon Sharpe,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,120,115,0.747,0.846,2:12
+4,45.0,DEN,Nikola Jokic,Personal Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,120,122,0.497,0.362,59.1
+4,24.1,DEN,Nikola Jokic,Loose Ball Foul,Foul,CJ Washington,Kevin Scott,Sha'Rae Mitchell,POR,122,122,0.739,0.543,24.1

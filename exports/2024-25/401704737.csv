@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:10,ATL,Clint Capela,Offensive Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,12,7,0.594,0.62,7:13
+1,5:54,ATL,Clint Capela,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,14,9,0.557,0.596,6:00
+1,5:36,NY,Mikal Bridges,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,14,11,0.571,0.572,5:54
+2,11:13,NY,Tyler Kolek,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,28,25,0.626,0.584,11:31
+2,6:56,NY,Josh Hart,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,43,42,0.576,0.531,7:14
+2,5:20,ATL,Trae Young,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,44,46,0.382,0.434,5:20
+2,3:43,NY,Miles McBride,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,46,53,0.282,0.281,3:46
+2,2:32,NY,Karl-Anthony Towns,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,52,56,0.418,0.37,2:42
+3,9:25,ATL,Zaccharie Risacher,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,72,66,0.688,0.688,9:42
+3,9:15,ATL,Clint Capela,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,72,66,0.638,0.688,9:25
+3,5:35,ATL,Dyson Daniels,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,83,75,0.775,0.776,5:41
+3,4:39,NY,Mikal Bridges,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,83,80,0.696,0.638,4:40
+3,3:50,ATL,Garrison Mathews,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,85,80,0.619,0.678,4:10
+3,3:27,NY,Jalen Brunson,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,85,83,0.602,0.602,3:44
+3,2:30,ATL,Onyeka Okongwu,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,85,83,0.491,0.562,2:43
+3,29.1,ATL,Keaton Wallace,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,87,87,0.396,0.47,32.2
+3,13.1,NY,Miles McBride,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,87,89,0.492,0.419,29.1
+4,10:33,ATL,Onyeka Okongwu,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,94,91,0.568,0.62,10:33
+4,9:57,NY,Josh Hart,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,96,96,0.534,0.515,10:08
+4,7:56,NY,Josh Hart,Technical Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,100,101,0.512,0.467,7:57
+4,6:48,NY,Jalen Brunson,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,101,101,0.641,0.53,6:50
+4,5:26,ATL,Dyson Daniels,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,103,103,0.449,0.466,5:33
+4,5:10,NY,Josh Hart,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,103,103,0.56,0.535,5:10
+4,4:13,NY,Miles McBride,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,105,103,0.795,0.691,4:29
+4,3:58,ATL,Trae Young,Personal Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,105,103,0.61,0.633,4:01
+4,3:28,ATL,Jalen Johnson,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,105,105,0.34,0.474,3:29
+4,1:20,ATL,Dyson Daniels,Shooting Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,110,110,0.304,0.454,1:31
+4,1:09,NY,Josh Hart,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,110,111,0.599,0.456,1:09
+4,40.1,NY,Josh Hart,Loose Ball Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,114,111,0.924,0.856,40.1
+4,37.1,NY,Jalen Brunson,Personal Take Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,115,111,0.959,0.907,37.2
+4,22.1,NY,Karl-Anthony Towns,Personal Take Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,117,111,0.995,0.984,22.1
+4,13.0,NY,OG Anunoby,Personal Take Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,118,113,0.994,0.976,15.0
+4,4.1,NY,Josh Hart,Personal Take Foul,Foul,J.T. Orr,Ben Taylor,Jenna Reneau,ATL,119,116,0.988,0.954,5.1

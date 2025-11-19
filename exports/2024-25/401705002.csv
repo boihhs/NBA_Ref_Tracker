@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:16,ORL,Jalen Suggs,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,8,9,0.457,0.454,8:33
+1,5:31,BKN,Nic Claxton,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,14,14,0.511,0.511,5:44
+1,4:48,ORL,Jalen Suggs,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,16,14,0.498,0.538,4:52
+1,3:52,ORL,Trevelin Queen,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,19,15,0.593,0.592,4:03
+2,9:59,BKN,Jalen Wilson,Offensive Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,24,34,0.235,0.216,10:12
+2,9:41,BKN,Nic Claxton,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,24,34,0.254,0.234,9:41
+2,9:09,BKN,Keon Johnson,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,27,36,0.277,0.233,9:09
+2,8:27,ORL,Jett Howard,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,30,36,0.268,0.306,8:45
+2,7:21,ORL,Goga Bitadze,Loose Ball Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,30,41,0.184,0.182,7:21
+2,6:26,BKN,Jalen Wilson,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,30,46,0.134,0.11,6:35
+2,5:17,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,33,48,0.147,0.12,5:21
+2,4:53,ORL,Goga Bitadze,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,35,48,0.122,0.136,4:53
+2,4:25,ORL,Jalen Suggs,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,37,50,0.109,0.136,4:35
+2,2:40,ORL,Tristan da Silva,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,37,52,0.075,0.095,2:47
+2,2:27,BKN,Cameron Johnson,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,39,53,0.14,0.107,2:27
+2,1:23,ORL,Cory Joseph,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,43,56,0.096,0.12,1:27
+3,9:44,ORL,Cole Anthony,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,50,67,0.043,0.061,9:44
+3,9:23,ORL,Wendell Carter Jr.,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,50,67,0.048,0.048,9:29
+3,8:44,ORL,Kentavious Caldwell-Pope,Loose Ball Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,50,67,0.046,0.045,8:44
+3,8:35,ORL,Goga Bitadze,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,50,67,0.034,0.046,8:44
+3,8:35,ORL,Kentavious Caldwell-Pope,Technical Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,50,67,0.04,0.034,8:35
+3,7:55,ORL,Cole Anthony,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,50,68,0.026,0.044,8:02
+3,7:14,BKN,Ben Simmons,Flagrant Foul Type 1,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,53,71,0.04,0.042,7:24
+3,6:09,BKN,Noah Clowney,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,56,71,0.093,0.036,8:02
+3,5:47,BKN,Ben Simmons,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,57,71,0.108,0.083,5:49
+3,3:42,BKN,Keon Johnson,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,61,71,0.189,0.15,3:58
+3,3:05,ORL,Jonathan Isaac,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,63,71,0.13,0.172,3:24
+3,4.1,ORL,Gary Harris,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,68,80,0.04,0.058,25.0
+4,12:00,ORL,ORL,Technical Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,68,83,0.02,0.031,0.0
+4,11:44,BKN,Tyrese Martin,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,68,84,0.053,0.018,12:00
+4,10:37,ORL,Caleb Houstan,Loose Ball Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,71,84,0.035,0.037,10:37
+4,9:54,BKN,Tyrese Martin,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,71,86,0.042,0.024,9:59
+4,9:43,BKN,Nic Claxton,Offensive Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,71,86,0.025,0.017,9:49
+4,8:50,ORL,Caleb Houstan,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,74,88,0.018,0.02,8:50
+4,8:11,ORL,Wendell Carter Jr.,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,74,88,0.015,0.017,8:21
+4,6:01,BKN,Jalen Wilson,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,82,97,0.019,0.009,6:09
+4,3:47,BKN,Cam Thomas,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,87,97,0.048,0.019,3:47
+4,2:07,ORL,Goga Bitadze,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,90,97,0.02,0.05,2:25
+4,2:07,BKN,Nic Claxton,Offensive Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,90,97,0.067,0.02,2:07
+4,1:32,ORL,Caleb Houstan,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,93,97,0.068,0.136,1:43
+4,1:18,BKN,Keon Johnson,Shooting Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,95,99,0.248,0.126,1:18
+4,17.1,BKN,Jalen Wilson,Loose Ball Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,99,99,0.756,0.546,17.1
+4,6.0,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Courtney Kirkland,Jenna Schroeder,John Butler,ORL,100,99,0.317,0.715,6.0

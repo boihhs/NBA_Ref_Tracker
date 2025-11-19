@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:32,PHI,Tyrese Maxey,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,5,4,0.673,0.672,10:41
+1,7:08,TOR,Immanuel Quickley,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,17,15,0.708,0.709,7:08
+1,6:48,PHI,VJ Edgecombe,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,17,15,0.684,0.685,6:53
+1,6:09,PHI,Joel Embiid,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,20,15,0.717,0.749,6:22
+1,5:50,PHI,Trendon Watford,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,20,17,0.671,0.706,5:51
+1,5:06,TOR,Sandro Mamukelashvili,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,24,22,0.719,0.68,5:06
+1,2:57,TOR,Collin Murray-Boyles,Offensive Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,28,33,0.517,0.489,3:12
+1,2:41,PHI,Adem Bona,Loose Ball Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,28,33,0.44,0.486,2:41
+1,2:25,TOR,Jamal Shead,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,30,35,0.533,0.484,2:25
+1,1:49,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,31,37,0.405,0.451,1:52
+1,1:40,PHI,Kelly Oubre Jr.,Loose Ball Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,31,38,0.376,0.418,1:40
+1,10.4,PHI,Trendon Watford,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,33,41,0.338,0.382,14.7
+2,10:46,TOR,Collin Murray-Boyles,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,37,46,0.374,0.371,10:46
+2,9:45,PHI,VJ Edgecombe,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,37,46,0.295,0.335,9:48
+2,8:21,PHI,Jabari Walker,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,43,51,0.312,0.355,8:33
+2,8:00,TOR,Scottie Barnes,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,45,52,0.438,0.38,8:00
+2,6:46,TOR,Scottie Barnes,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,48,54,0.484,0.439,6:57
+2,3:48,PHI,Quentin Grimes,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,54,54,0.533,0.58,3:50
+2,3:32,TOR,Brandon Ingram,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,54,56,0.598,0.549,3:48
+2,2:32,PHI,Quentin Grimes,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,58,56,0.616,0.642,2:46
+2,1:01,TOR,Ochai Agbaji,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,63,62,0.686,0.637,1:21
+2,54.5,PHI,Tyrese Maxey,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,64,62,0.586,0.638,1:01
+2,31.6,TOR,Sandro Mamukelashvili,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,64,63,0.685,0.635,32.7
+3,11:48,TOR,Scottie Barnes,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,68,63,0.757,0.738,12:00
+3,11:36,PHI,Joel Embiid,Offensive Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,68,63,0.726,0.726,11:36
+3,10:46,TOR,Ochai Agbaji,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,68,66,0.666,0.666,10:53
+3,8:32,PHI,VJ Edgecombe,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,76,72,0.67,0.728,8:32
+3,8:06,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,78,75,0.636,0.696,8:06
+3,6:49,TOR,Ja'Kobe Walter,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,82,78,0.752,0.695,6:49
+3,6:25,TOR,Brandon Ingram,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,84,80,0.753,0.695,6:25
+3,6:25,TOR,TOR,Delay Technical,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,84,80,0.72,0.753,6:25
+3,6:09,TOR,RJ Barrett,Offensive Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,86,80,0.794,0.76,6:25
+3,5:57,TOR,RJ Barrett,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,88,80,0.863,0.82,5:57
+3,4:09,PHI,Tyrese Maxey,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,94,82,0.912,0.912,4:18
+3,31.6,PHI,Joel Embiid,Loose Ball Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,99,94,0.68,0.739,31.6
+3,24.1,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,99,96,0.626,0.704,24.1
+3,3.3,TOR,Scottie Barnes,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,99,97,0.727,0.663,24.1
+4,11:36,TOR,Collin Murray-Boyles,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,101,99,0.743,0.661,11:52
+4,10:56,TOR,RJ Barrett,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,102,99,0.731,0.718,11:02
+4,10:20,TOR,RJ Barrett,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,102,101,0.718,0.629,10:40
+4,8:58,TOR,Immanuel Quickley,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,109,101,0.941,0.909,9:02
+4,6:37,PHI,Quentin Grimes,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,113,105,0.904,0.908,6:39
+4,6:25,PHI,Andre Drummond,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,113,107,0.803,0.884,6:25
+4,5:46,TOR,Brandon Ingram,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,113,108,0.902,0.852,5:56
+4,5:01,TOR,Scottie Barnes,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,114,111,0.843,0.769,5:15
+4,1:50,PHI,VJ Edgecombe,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,125,116,0.95,0.982,1:55
+4,51.8,TOR,Scottie Barnes,Personal Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,127,120,0.993,0.976,1:10
+4,39.4,TOR,RJ Barrett,Shooting Foul,Foul,Derrick Collins,John Goble,Eric Dalen,PHI,128,120,0.998,0.992,50.0

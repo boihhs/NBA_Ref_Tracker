@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:59,NY,Karl-Anthony Towns,Offensive Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,2,4,0.334,0.356,10:12
+1,8:45,CLE,Evan Mobley,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,2,6,0.348,0.314,9:07
+1,5:47,CLE,Darius Garland,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,8,11,0.339,0.34,5:55
+1,4:35,NY,Jericho Sims,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,10,11,0.367,0.366,4:39
+1,3:42,NY,Jalen Brunson,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,10,12,0.306,0.342,3:43
+2,10:10,CLE,Donovan Mitchell,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,22,26,0.322,0.321,10:19
+2,9:51,NY,Karl-Anthony Towns,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,24,26,0.31,0.35,9:57
+2,7:11,CLE,Jarrett Allen,Offensive Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,34,31,0.536,0.502,7:29
+2,7:02,CLE,Ty Jerome,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,34,31,0.534,0.536,7:11
+2,6:00,NY,Miles McBride,Transition Take Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,36,31,0.572,0.573,6:00
+2,3:06,CLE,Evan Mobley,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,47,38,0.78,0.741,3:15
+2,1:27,NY,Mikal Bridges,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,48,43,0.543,0.595,1:31
+2,23.2,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,50,45,0.685,0.635,23.2
+3,11:26,CLE,Darius Garland,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,52,45,0.707,0.712,11:34
+3,10:12,NY,OG Anunoby,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,55,48,0.63,0.683,10:27
+3,9:17,NY,Karl-Anthony Towns,Offensive Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,57,50,0.689,0.723,9:30
+3,8:58,NY,OG Anunoby,Offensive Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,57,50,0.692,0.726,9:00
+3,8:47,NY,Mikal Bridges,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,57,50,0.693,0.692,8:58
+3,8:26,CLE,Evan Mobley,Defensive 3-Seconds Technical,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,57,52,0.651,0.659,8:40
+3,7:06,CLE,Dean Wade,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,60,54,0.755,0.705,7:27
+3,6:04,CLE,Sam Merrill,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,66,57,0.83,0.78,6:04
+3,4:55,NY,Jalen Brunson,Loose Ball Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,69,57,0.872,0.872,4:55
+3,3:58,NY,Mikal Bridges,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,72,61,0.813,0.854,4:05
+3,3:14,NY,Cameron Payne,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,74,65,0.758,0.806,3:16
+3,2.0,NY,Karl-Anthony Towns,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,78,72,0.665,0.729,15.1
+4,10:14,CLE,Sam Merrill,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,80,81,0.465,0.453,10:31
+4,10:11,CLE,Georges Niang,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,80,81,0.473,0.465,10:14
+4,9:34,CLE,Evan Mobley,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,80,84,0.324,0.307,9:50
+4,9:25,CLE,Georges Niang,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,80,84,0.406,0.324,9:34
+4,6:12,CLE,Sam Merrill,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,87,89,0.519,0.422,6:34
+4,5:35,NY,Josh Hart,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,89,93,0.191,0.287,5:35
+4,4:45,CLE,Caris LeVert,Loose Ball Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,89,93,0.376,0.278,4:45
+4,4:04,NY,Ariel Hukporti,Offensive Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,91,96,0.16,0.216,4:27
+4,2:01,CLE,Evan Mobley,Loose Ball Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,95,101,0.191,0.108,2:01
+4,1:41,CLE,Darius Garland,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,97,101,0.341,0.215,1:43
+4,1:25,NY,Karl-Anthony Towns,Shooting Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,98,101,0.103,0.2,1:37
+4,1:03,CLE,Jarrett Allen,Offensive Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,98,103,0.123,0.075,1:14
+4,34.1,NY,OG Anunoby,Personal Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,98,103,0.018,0.054,40.0
+4,20.1,NY,Mikal Bridges,Personal Take Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,100,105,0.009,0.045,29.0
+4,7.2,NY,Miles McBride,Personal Take Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,102,106,0.007,0.034,9.0
+4,4.1,NY,Karl-Anthony Towns,Personal Take Foul,Foul,Rodney Mott,Sean Corbin,Robert Hussey,NY,104,108,0.004,0.025,6.1

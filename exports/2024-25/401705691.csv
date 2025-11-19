@@ -1,0 +1,30 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:29,GS,Stephen Curry,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,3,2,0.414,0.46,11:29
+1,9:46,DEN,Peyton Watson,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,7,6,0.497,0.459,9:53
+1,9:34,DEN,Nikola Jokic,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,9,6,0.512,0.485,9:46
+1,9:03,GS,Stephen Curry,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,12,6,0.527,0.564,9:16
+1,8:41,GS,Jimmy Butler III,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,12,8,0.475,0.514,8:50
+1,8:30,DEN,Aaron Gordon,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,12,10,0.527,0.49,8:41
+1,5:45,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,19,23,0.377,0.34,6:02
+1,4:20,GS,Draymond Green,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,26,27,0.372,0.418,4:20
+1,2:16,GS,Quinten Post,Personal Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,30,36,0.234,0.269,2:27
+2,11:28,DEN,Zeke Nnaji,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,36,44,0.261,0.22,11:28
+2,5:16,GS,Jonathan Kuminga,Personal Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,48,49,0.402,0.402,5:33
+2,3:34,GS,Buddy Hield,Personal Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,53,51,0.502,0.501,3:44
+2,2:47,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,55,56,0.486,0.436,2:59
+2,3.1,GS,Brandin Podziemski,Personal Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,66,60,0.598,0.65,5.2
+3,10:37,DEN,Aaron Gordon,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,68,63,0.708,0.657,10:45
+3,7:57,DEN,Peyton Watson,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,76,69,0.74,0.743,7:57
+3,5:01,GS,Moses Moody,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,84,77,0.673,0.732,5:11
+3,2:39,DEN,Jalen Pickett,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,89,81,0.861,0.82,2:45
+3,15.1,GS,Brandin Podziemski,Personal Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,96,84,0.883,0.917,18.1
+4,10:53,DEN,Michael Porter Jr.,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,99,84,0.986,0.977,11:07
+4,9:57,GS,Draymond Green,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,101,86,0.956,0.974,10:05
+4,9:19,DEN,Russell Westbrook,Personal Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,101,88,0.97,0.968,9:26
+4,8:58,GS,Jimmy Butler III,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,104,90,0.956,0.978,8:58
+4,8:04,GS,Quinten Post,Personal Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,104,91,0.938,0.963,8:08
+4,6:25,DEN,Michael Porter Jr.,Personal Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,109,94,0.991,0.991,6:29
+4,6:07,GS,Draymond Green,Personal Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,109,94,0.979,0.988,6:13
+4,2:41,DEN,Michael Porter Jr.,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,114,102,0.998,0.995,2:53
+4,2:30,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,116,102,0.999,0.998,2:30
+4,2:12,DEN,Nikola Jokic,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Jason Goldenberg,GS,117,104,0.999,0.998,2:23

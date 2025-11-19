@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:34,PHX,Ryan Dunn,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,6,9,0.671,0.628,9:34
+1,8:39,PHX,Grayson Allen,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,10,11,0.726,0.695,8:41
+1,7:27,LAC,Ivica Zubac,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,14,14,0.689,0.711,7:46
+1,6:20,LAC,Bradley Beal,Loose Ball Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,14,19,0.557,0.559,6:24
+1,5:13,PHX,Ryan Dunn,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,14,23,0.468,0.469,5:22
+1,4:51,LAC,John Collins,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,17,23,0.479,0.63,9:53
+1,4:38,PHX,Dillon Brooks,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,17,24,0.561,0.522,4:48
+1,4:33,PHX,Dillon Brooks,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,17,24,0.56,0.561,4:38
+1,4:22,LAC,Nicolas Batum,Flagrant Foul Type 1,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,19,27,0.47,0.49,4:22
+1,4:12,PHX,Collin Gillespie,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,21,28,0.539,0.488,4:12
+1,2:25,PHX,Royce O'Neale,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,28,28,0.727,0.692,2:44
+1,1:24,PHX,Mark Williams,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,30,30,0.708,0.687,1:24
+1,2.7,LAC,Kris Dunn,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,34,33,0.643,0.683,6.6
+2,5:55,PHX,Ryan Dunn,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,48,41,0.84,0.828,6:05
+2,5:04,PHX,Oso Ighodaro,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,51,44,0.826,0.804,5:09
+2,3:52,LAC,John Collins,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,56,44,0.882,0.893,3:52
+2,3:35,PHX,Mark Williams,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,58,46,0.916,0.892,3:35
+2,3:05,PHX,Mark Williams,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,60,46,0.93,0.93,3:09
+2,2:31,LAC,Ivica Zubac,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,60,49,0.878,0.894,2:45
+2,15.6,LAC,James Harden,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,72,54,0.948,0.961,30.6
+2,3.9,PHX,Royce O'Neale,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,72,56,0.963,0.954,15.6
+3,11:47,PHX,Devin Booker,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,72,56,0.965,0.949,12:00
+3,11:07,PHX,Grayson Allen,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,76,56,0.982,0.975,11:07
+3,10:02,PHX,Dillon Brooks,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,79,56,0.99,0.99,10:20
+3,9:47,PHX,Ryan Dunn,Loose Ball Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,79,56,0.993,0.99,9:47
+3,8:16,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,84,56,0.995,0.997,8:24
+3,7:48,PHX,Dillon Brooks,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,86,58,0.998,0.997,8:03
+3,7:39,LAC,James Harden,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,86,58,0.997,0.998,7:48
+3,7:31,LAC,Derrick Jones Jr.,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,86,58,0.997,0.997,7:39
+3,5:42,PHX,Devin Booker,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,91,65,0.998,0.997,6:06
+3,4:14,PHX,Mark Williams,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,94,68,0.998,0.998,4:29
+3,3:24,PHX,Dillon Brooks,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,96,68,0.999,0.999,3:37
+3,2:45,LAC,Nicolas Batum,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,100,68,0.999,0.999,2:58
+3,1:37,PHX,Oso Ighodaro,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,100,72,0.999,0.999,1:44
+3,1:31,LAC,Brook Lopez,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,101,74,0.999,0.999,1:31
+3,1:07,LAC,Brook Lopez,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,101,74,0.999,0.999,1:23
+4,10:48,LAC,John Collins,Transition Take Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,106,79,0.999,0.999,10:48
+4,10:29,PHX,Royce O'Neale,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,108,80,0.999,0.999,10:29
+4,9:49,LAC,Chris Paul,Loose Ball Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,109,80,0.999,0.999,9:49
+4,8:07,PHX,Rasheer Fleming,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,112,85,0.999,0.999,8:09
+4,4:46,PHX,Rasheer Fleming,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,121,95,0.999,0.999,4:51
+4,3:57,LAC,Chris Paul,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,123,97,0.999,0.999,4:09
+4,3:32,LAC,Chris Paul,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,123,97,0.999,0.999,3:32
+4,1:08,LAC,Yanic Konan Niederhauser,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Sha'Rae Mitchell,LAC,127,99,0.999,0.999,1:23

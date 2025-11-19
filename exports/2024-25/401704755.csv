@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:39,MIL,Taurean Prince,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,6,5,0.723,0.697,10:04
+1,8:45,MIL,Brook Lopez,Offensive Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,10,5,0.772,0.752,9:01
+1,8:22,NY,Josh Hart,Personal Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,10,5,0.753,0.752,8:29
+1,8:19,NY,OG Anunoby,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,10,5,0.721,0.753,8:22
+1,6:52,NY,Mikal Bridges,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,17,6,0.83,0.853,7:07
+1,6:10,NY,Jalen Brunson,Loose Ball Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,19,11,0.777,0.805,6:18
+1,5:26,NY,OG Anunoby,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,21,11,0.812,0.838,5:37
+1,3:22,NY,Jericho Sims,Loose Ball Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,25,14,0.828,0.853,3:22
+1,2:00,MIL,AJ Green,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,27,18,0.861,0.837,2:15
+1,1:24,MIL,Ryan Rollins,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,29,21,0.846,0.821,1:40
+1,58.1,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,30,21,0.862,0.839,1:16
+2,11:19,NY,Karl-Anthony Towns,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,32,25,0.749,0.781,11:25
+2,11:09,MIL,Bobby Portis,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,32,27,0.792,0.762,11:19
+2,6:37,NY,Tyler Kolek,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,46,35,0.831,0.874,6:42
+2,5:39,NY,OG Anunoby,Personal Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,50,37,0.89,0.889,5:53
+2,5:06,NY,Karl-Anthony Towns,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,52,37,0.897,0.841,6:37
+2,4:15,MIL,Andre Jackson Jr.,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,54,38,0.952,0.94,4:16
+2,3:33,NY,Josh Hart,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,55,38,0.926,0.94,3:45
+2,1:13,MIL,AJ Green,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,62,45,0.958,0.945,1:13
+3,11:27,MIL,Taurean Prince,Personal Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,66,50,0.949,0.949,11:41
+3,11:24,MIL,Giannis Antetokounmpo,Personal Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,66,50,0.949,0.949,11:27
+3,9:33,NY,Karl-Anthony Towns,Personal Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,70,53,0.954,0.954,9:48
+3,7:45,MIL,AJ Green,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,75,59,0.969,0.959,7:47
+3,7:27,MIL,AJ Green,Personal Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,76,59,0.976,0.967,7:33
+3,6:28,NY,Josh Hart,Personal Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,79,61,0.969,0.969,6:37
+3,6:09,NY,OG Anunoby,Offensive Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,79,61,0.97,0.976,6:13
+3,4:08,NY,Karl-Anthony Towns,Loose Ball Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,82,65,0.969,0.97,4:08
+3,8.1,NY,Jalen Brunson,Personal Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,91,72,0.985,0.99,25.0
+4,10:41,MIL,Bobby Portis,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,91,72,0.997,0.994,10:55
+4,7:49,NY,Tyler Kolek,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,102,74,0.999,0.999,7:54
+4,7:07,MIL,Ryan Rollins,Personal Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,102,77,0.999,0.999,7:20
+4,6:08,MIL,Tyler Smith,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,104,79,0.999,0.999,6:13
+4,4:52,NY,Jericho Sims,Offensive Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,108,83,0.999,0.999,5:06
+4,2:43,NY,Ariel Hukporti,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,113,87,0.999,0.999,2:47
+4,1:52,NY,Ariel Hukporti,Shooting Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,113,91,0.999,0.999,1:59
+4,1:16,MIL,Liam Robbins,Personal Foul,Foul,John Goble,Tre Maddox,Matt Kallio,NY,113,91,0.999,0.999,1:16

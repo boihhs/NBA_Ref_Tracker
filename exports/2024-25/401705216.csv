@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:40,HOU,Fred VanVleet,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,7,2,0.623,0.621,9:48
+1,8:21,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,11,5,0.625,0.625,8:21
+1,7:42,BOS,Kristaps Porzingis,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,14,5,0.663,0.699,7:52
+1,5:04,HOU,Fred VanVleet,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,21,15,0.677,0.632,5:04
+1,4:52,BOS,Jaylen Brown,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,22,15,0.657,0.656,5:04
+1,4:44,BOS,Jrue Holiday,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,22,15,0.619,0.657,4:52
+1,2:08,HOU,Aaron Holiday,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,22,25,0.415,0.416,2:09
+1,1:15,BOS,Xavier Tillman,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,22,27,0.296,0.336,1:21
+2,10:11,HOU,Aaron Holiday,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,30,35,0.357,0.357,10:15
+2,10:07,HOU,Jae'Sean Tate,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,30,35,0.398,0.357,10:11
+2,9:58,HOU,Aaron Holiday,Offensive Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,32,35,0.414,0.385,10:07
+2,9:35,BOS,Luke Kornet,Offensive Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,32,35,0.384,0.414,9:58
+2,9:15,HOU,Jae'Sean Tate,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,32,35,0.41,0.414,9:23
+2,8:35,BOS,Payton Pritchard,Loose Ball Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,35,35,0.471,0.471,8:35
+2,7:55,BOS,Kristaps Porzingis,Technical Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,37,38,0.418,0.442,7:55
+2,7:51,BOS,Jaylen Brown,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,37,38,0.443,0.442,7:55
+2,7:45,BOS,Kristaps Porzingis,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,37,38,0.397,0.443,7:51
+2,7:35,HOU,Alperen Sengun,Loose Ball Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,37,39,0.488,0.442,7:35
+2,4:59,BOS,Neemias Queta,Offensive Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,39,47,0.236,0.264,5:19
+2,4:01,HOU,Dillon Brooks,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,39,50,0.223,0.188,4:12
+2,2:41,HOU,Amen Thompson,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,45,52,0.328,0.284,2:52
+2,33.1,BOS,Jaylen Brown,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,52,54,0.352,0.406,34.1
+3,9:34,HOU,Jalen Green,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,56,60,0.39,0.327,9:34
+3,7:37,BOS,Jrue Holiday,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,64,66,0.34,0.394,7:43
+3,7:25,HOU,Alperen Sengun,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,64,68,0.357,0.358,7:37
+3,6:30,BOS,Luke Kornet,Offensive Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,64,68,0.317,0.355,6:38
+3,6:02,BOS,Kristaps Porzingis,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,64,70,0.2,0.245,6:08
+3,5:55,HOU,Dillon Brooks,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,64,71,0.244,0.246,6:02
+3,5:35,HOU,Tari Eason,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,66,71,0.342,0.278,5:35
+3,5:09,HOU,Aaron Holiday,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,67,73,0.331,0.276,5:21
+3,4:54,BOS,Kristaps Porzingis,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,69,73,0.257,0.311,5:09
+3,3:28,HOU,Steven Adams,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,74,77,0.451,0.387,3:34
+3,3:17,BOS,Drew Peterson,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,76,79,0.313,0.386,3:17
+3,2:32,BOS,Neemias Queta,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,79,79,0.402,0.473,2:38
+3,2:12,HOU,Amen Thompson,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,79,80,0.542,0.472,2:32
+3,38.1,HOU,Steven Adams,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,84,85,0.505,0.471,46.1
+4,10:00,HOU,Alperen Sengun,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,96,87,0.909,0.901,10:18
+4,9:23,HOU,Dillon Brooks,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,96,89,0.865,0.856,9:41
+4,6:39,BOS,Jaylen Brown,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,101,96,0.683,0.771,6:51
+4,4:14,BOS,Jrue Holiday,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,104,102,0.486,0.614,4:26
+4,3:36,BOS,Luke Kornet,Defensive 3-Seconds Technical,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,104,104,0.48,0.458,3:52
+4,15.1,HOU,Fred VanVleet,Personal Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,108,110,0.516,0.273,24.1
+4,11.1,HOU,Tari Eason,Shooting Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,108,110,0.514,0.516,15.1
+4,4.1,BOS,Luke Kornet,Personal Take Foul,Foul,Derrick Collins,Tyler Ford,Suyash Mehta,BOS,112,112,0.113,0.469,5.1

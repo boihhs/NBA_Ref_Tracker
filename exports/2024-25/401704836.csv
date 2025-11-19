@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:44,LAL,Anthony Davis,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,9,10,0.61,0.643,7:48
+1,6:32,DEN,Christian Braun,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,11,14,0.615,0.617,6:45
+1,1:23,DEN,Trey Alexander,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,23,25,0.657,0.619,1:29
+1,1:16,DEN,Michael Porter Jr.,Offensive Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,25,25,0.67,0.643,1:23
+2,10:01,DEN,Russell Westbrook,Clear Path Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,32,36,0.543,0.542,10:03
+2,6:54,LAL,Gabe Vincent,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,48,41,0.796,0.795,7:07
+2,6:46,LAL,LeBron James,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,48,41,0.796,0.796,6:54
+2,6:44,LAL,Gabe Vincent,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,48,41,0.762,0.796,6:46
+2,2:54,DEN,Julian Strawther,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,56,51,0.806,0.771,3:01
+2,2:14,DEN,Jamal Murray,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,60,53,0.831,0.795,2:14
+2,53.1,LAL,Cam Reddish,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,63,55,0.781,0.817,55.1
+2,7.2,DEN,Christian Braun,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,63,57,0.828,0.794,25.1
+3,11:01,LAL,Anthony Davis,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,63,59,0.714,0.711,11:06
+3,10:38,DEN,Nikola Jokic,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,63,62,0.649,0.648,10:54
+3,10:08,DEN,Michael Porter Jr.,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,63,65,0.541,0.543,10:22
+3,7:19,LAL,Cam Reddish,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,69,74,0.369,0.367,7:28
+3,6:35,LAL,LeBron James,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,69,76,0.26,0.321,6:35
+3,3:56,DEN,Julian Strawther,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,71,84,0.148,0.112,3:58
+3,2:25,DEN,Nikola Jokic,Offensive Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,75,88,0.095,0.075,2:26
+3,1:47,LAL,Dalton Knecht,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,77,88,0.079,0.112,2:06
+3,9.0,DEN,Russell Westbrook,Personal Take Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,77,94,0.038,0.025,17.0
+3,0.1,DEN,Julian Strawther,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,77,94,0.03,0.024,0.1
+4,11:43,LAL,Gabe Vincent,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,78,94,0.012,0.028,12:00
+4,11:08,DEN,Jamal Murray,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,78,97,0.011,0.01,11:15
+4,9:25,DEN,Peyton Watson,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,82,103,0.005,0.002,9:25
+4,9:17,LAL,Rui Hachimura,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,83,103,0.002,0.003,9:25
+4,8:26,DEN,Russell Westbrook,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,85,103,0.008,0.007,8:43
+4,7:49,LAL,Austin Reaves,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,85,103,0.001,0.004,7:57
+4,5:07,LAL,LeBron James,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,90,110,0.001,0.001,5:14
+4,3:53,LAL,Armel Traore,Personal Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,92,116,0.001,0.001,4:10
+4,2:44,LAL,Max Christie,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,94,120,0.001,0.001,3:03
+4,2:42,DEN,Nikola Jokic,Personal Take Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,94,121,0.001,0.001,2:42
+4,2:09,LAL,Christian Koloko,Shooting Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,96,121,0.001,0.001,2:28
+4,1:50,DEN,PJ Hall,Loose Ball Foul,Foul,Phenizee Ransom,Ben Taylor,Mousa Dagher,LAL,96,122,0.001,0.001,1:50

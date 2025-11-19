@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:26,MIN,Julius Randle,Flagrant Foul Type 1,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,6,2,0.517,0.497,10:26
+1,7:38,SAC,Dennis Schroder,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,11,11,0.416,0.454,7:44
+1,6:49,SAC,Precious Achiuwa,Personal Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,14,16,0.355,0.404,7:00
+2,9:43,SAC,Malik Monk,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,29,36,0.204,0.234,9:45
+2,9:04,MIN,Jaylen Clark,Personal Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,31,41,0.193,0.192,9:13
+2,8:12,SAC,Malik Monk,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,33,41,0.181,0.211,8:19
+2,7:54,MIN,Naz Reid,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,33,43,0.207,0.19,7:55
+2,7:54,SAC,Dennis Schroder,Away from Play Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,35,43,0.214,0.211,7:54
+2,6:07,MIN,Naz Reid,Flagrant Foul Type 1,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,37,46,0.202,0.211,6:17
+2,4:07,SAC,Malik Monk,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,45,55,0.148,0.182,4:07
+2,3:32,SAC,DeMar DeRozan,Transition Take Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,45,56,0.142,0.142,3:32
+2,3:02,MIN,Anthony Edwards,Personal Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,45,59,0.131,0.108,3:09
+2,2:39,SAC,Zach LaVine,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,45,59,0.072,0.091,2:51
+2,1:21,MIN,Donte DiVincenzo,Personal Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,48,67,0.059,0.045,1:26
+2,1:08,MIN,Rudy Gobert,Loose Ball Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,50,67,0.081,0.063,1:08
+2,48.4,SAC,Precious Achiuwa,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,52,67,0.064,0.073,48.4
+3,11:47,MIN,Julius Randle,Personal Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,54,71,0.059,0.056,12:00
+3,11:40,MIN,Jaden McDaniels,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,54,71,0.076,0.059,11:47
+3,9:58,MIN,Julius Randle,Loose Ball Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,58,74,0.063,0.063,9:58
+3,8:51,SAC,DeMar DeRozan,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,60,78,0.028,0.04,8:51
+3,8:04,MIN,Anthony Edwards,Personal Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,63,82,0.042,0.031,8:22
+3,6:03,SAC,Russell Westbrook,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,65,89,0.004,0.007,6:03
+3,5:14,SAC,Zach LaVine,Personal Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,69,90,0.011,0.011,5:21
+3,4:08,SAC,Domantas Sabonis,Loose Ball Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,71,95,0.002,0.003,4:08
+3,3:56,SAC,Domantas Sabonis,Personal Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,71,95,0.002,0.002,4:08
+3,2:28,SAC,DeMar DeRozan,Loose Ball Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,76,99,0.002,0.003,2:28
+3,41.2,MIN,Jaden McDaniels,Personal Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,83,108,0.002,0.001,48.8
+4,11:35,MIN,Jaden McDaniels,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,84,111,0.001,0.001,11:40
+4,10:26,MIN,Rob Dillingham,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,88,115,0.001,0.001,10:34
+4,10:10,MIN,Jaden McDaniels,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,91,115,0.001,0.001,10:10
+4,9:07,MIN,Donte DiVincenzo,Loose Ball Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,92,117,0.001,0.001,9:07
+4,8:24,SAC,Domantas Sabonis,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,94,121,0.001,0.001,8:24
+4,8:06,MIN,Naz Reid,Loose Ball Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,94,121,0.001,0.001,8:06
+4,7:31,MIN,Donte DiVincenzo,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,97,121,0.001,0.001,7:31
+4,6:18,SAC,Domantas Sabonis,Loose Ball Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,98,124,0.001,0.001,6:18
+4,5:36,MIN,Bones Hyland,Loose Ball Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,98,124,0.001,0.001,5:36
+4,4:56,MIN,Joan Beringer,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,99,126,0.001,0.001,5:11
+4,4:47,SAC,Devin Carter,Personal Take Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,101,126,0.001,0.001,4:56
+4,3:39,MIN,Joan Beringer,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,101,128,0.001,0.001,3:43
+4,2:50,MIN,Joan Beringer,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,102,133,0.001,0.001,3:04
+4,59.2,SAC,Keon Ellis,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,110,137,0.001,0.001,1:14
+4,43.5,MIN,Johnny Juzang,Shooting Foul,Foul,James Capers,Gediminas Petraitis,Sha'Rae Mitchell,SAC,110,142,0.001,0.001,47.0

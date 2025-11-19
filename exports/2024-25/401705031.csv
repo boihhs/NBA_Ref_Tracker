@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:07,BKN,Keon Johnson,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,4,2,0.829,0.802,9:07
+1,8:07,MIL,Damian Lillard,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,9,4,0.822,0.844,8:22
+1,5:23,BKN,Jalen Wilson,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,15,12,0.843,0.822,5:43
+1,5:06,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,17,12,0.812,0.836,5:23
+1,4:11,MIL,Taurean Prince,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,19,18,0.748,0.781,4:11
+1,3:46,MIL,Ryan Rollins,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,19,19,0.706,0.741,3:51
+1,1:23,MIL,Gary Trent Jr.,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,21,26,0.555,0.601,1:29
+1,56.1,MIL,Ryan Rollins,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,21,28,0.489,0.537,1:13
+1,42.1,BKN,Ziaire Williams,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,21,30,0.552,0.504,56.1
+2,11:33,BKN,Day'Ron Sharpe,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,23,32,0.495,0.494,11:45
+2,10:09,MIL,Bobby Portis,Offensive Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,30,35,0.569,0.6,10:09
+2,9:45,BKN,Keon Johnson,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,30,38,0.505,0.509,9:52
+2,9:03,BKN,Ziaire Williams,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,30,41,0.449,0.405,9:22
+2,7:45,MIL,Damian Lillard,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,33,45,0.302,0.354,7:45
+2,4:05,BKN,Keon Johnson,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,45,57,0.333,0.273,3:34
+2,3:32,MIL,Brook Lopez,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,45,57,0.23,0.333,4:05
+2,2:51,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,47,59,0.22,0.267,3:05
+2,9.2,MIL,Andre Jackson Jr.,Flagrant Foul Type 2,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,54,65,0.27,0.262,17.1
+3,11:41,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,54,66,0.205,0.226,11:41
+3,9:17,MIL,Brook Lopez,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,56,78,0.021,0.029,9:18
+3,9:04,BKN,Nic Claxton,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,58,80,0.043,0.028,9:04
+3,8:16,BKN,Cameron Johnson,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,59,83,0.028,0.02,8:22
+3,7:43,BKN,Nic Claxton,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,59,83,0.021,0.018,7:43
+3,6:47,BKN,D'Angelo Russell,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,63,83,0.05,0.032,6:47
+3,5:14,BKN,Tyrese Martin,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,66,88,0.029,0.021,5:35
+3,3:30,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,73,90,0.041,0.041,3:46
+3,2:53,BKN,Cam Thomas,Loose Ball Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,76,90,0.127,0.092,2:53
+3,1:44,BKN,Nic Claxton,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,78,93,0.09,0.064,1:46
+3,1:00,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,83,93,0.169,0.141,1:11
+3,26.0,MIL,Taurean Prince,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,83,93,0.093,0.134,44.1
+4,11:53,MIL,Gary Trent Jr.,Offensive Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,85,94,0.148,0.173,12:00
+4,10:45,MIL,Ryan Rollins,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,87,99,0.049,0.083,10:45
+4,9:39,MIL,Ryan Rollins,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,87,102,0.011,0.02,9:41
+4,9:05,MIL,Pat Connaughton,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,90,106,0.008,0.017,9:05
+4,8:29,BKN,Day'Ron Sharpe,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,90,107,0.01,0.009,8:35
+4,8:13,MIL,Bobby Portis,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,90,107,0.003,0.005,8:13
+4,6:45,BKN,Day'Ron Sharpe,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,90,111,0.001,0.001,6:55
+4,5:46,BKN,Jalen Wilson,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,93,111,0.005,0.002,5:49
+4,5:44,BKN,Keon Johnson,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,94,111,0.008,0.004,5:44
+4,5:08,BKN,D'Angelo Russell,Shooting Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,94,111,0.006,0.003,5:09
+4,4:28,BKN,Jalen Wilson,Loose Ball Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,97,111,0.017,0.008,4:28
+4,6.0,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Kevin Scott,Che Flores,Mousa Dagher,MIL,110,111,0.073,0.174,6.0

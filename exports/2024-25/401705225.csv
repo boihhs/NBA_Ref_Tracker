@@ -1,0 +1,30 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:49,LAC,Kawhi Leonard,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,13,13,0.517,0.475,8:03
+1,6:28,PHX,Devin Booker,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,15,15,0.413,0.452,6:31
+1,5:55,PHX,Nick Richards,Offensive Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,15,19,0.349,0.375,6:08
+1,4:48,PHX,Nick Richards,Personal Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,15,21,0.3,0.299,4:52
+2,11:04,PHX,Kevin Durant,Personal Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,36,30,0.632,0.63,11:16
+2,4:31,PHX,Devin Booker,Personal Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,49,38,0.792,0.789,4:39
+2,4:26,PHX,Devin Booker,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,49,40,0.719,0.768,4:26
+2,3:39,LAC,Ivica Zubac,Offensive Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,51,41,0.794,0.768,4:01
+3,9:13,PHX,Nick Richards,Defensive 3-Seconds Technical,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,63,53,0.813,0.804,9:21
+3,7:35,LAC,James Harden,Personal Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,66,58,0.789,0.787,7:41
+3,7:08,PHX,Nick Richards,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,66,60,0.668,0.731,7:08
+3,5:52,PHX,Nick Richards,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,66,63,0.525,0.587,5:54
+3,4:23,PHX,Mason Plumlee,Personal Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,69,67,0.552,0.548,4:36
+3,3:56,LAC,Norman Powell,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,69,69,0.574,0.51,4:12
+3,3:46,PHX,Mason Plumlee,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,71,69,0.486,0.552,3:56
+3,1:31,LAC,Nicolas Batum,Personal Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,76,75,0.629,0.563,1:41
+4,10:19,LAC,Amir Coffey,Personal Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,88,80,0.88,0.872,10:29
+4,9:36,PHX,Bradley Beal,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,88,80,0.785,0.852,9:41
+4,7:54,PHX,Mason Plumlee,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,93,86,0.786,0.831,7:54
+4,7:26,LAC,Kawhi Leonard,Loose Ball Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,93,88,0.797,0.791,7:26
+4,7:14,LAC,Terance Mann,Personal Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,93,88,0.817,0.797,7:26
+4,6:30,LAC,Norman Powell,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,97,90,0.917,0.857,6:30
+4,4:20,PHX,Mason Plumlee,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,103,90,0.983,0.99,4:24
+4,1:49,PHX,Devin Booker,Personal Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,107,99,0.92,0.968,1:53
+4,1:39,PHX,Bradley Beal,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,107,99,0.923,0.92,1:49
+4,29.1,LAC,James Harden,Shooting Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,107,106,0.828,0.669,40.1
+4,19.1,PHX,Devin Booker,Personal Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,109,106,0.606,0.774,29.1
+4,10.0,LAC,James Harden,Personal Take Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,109,107,0.94,0.81,19.1
+4,1.1,LAC,Amir Coffey,Personal Take Foul,Foul,J.T. Orr,Karl Lane,Evan Scott,PHX,111,109,0.992,0.969,1.2

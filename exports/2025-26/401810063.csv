@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:14,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,7,9,0.755,0.727,9:20
+1,6:55,NY,Landry Shamet,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,14,13,0.725,0.754,6:56
+1,6:39,MEM,Jock Landale,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,14,15,0.763,0.735,6:55
+1,3:47,NY,Landry Shamet,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,25,24,0.725,0.761,3:47
+1,3:44,NY,Josh Hart,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,25,24,0.725,0.739,3:44
+1,2:59,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,28,26,0.805,0.778,3:05
+1,28.1,MEM,John Konchar,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,39,30,0.894,0.871,28.1
+2,11:15,MEM,Ja Morant,Loose Ball Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,42,30,0.916,0.919,11:15
+2,9:00,MEM,Jock Landale,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,52,37,0.954,0.944,9:11
+2,6:05,NY,Jordan Clarkson,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,56,43,0.908,0.928,6:05
+2,5:08,NY,Jordan Clarkson,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,56,43,0.899,0.917,5:14
+2,3:06,MEM,Jock Landale,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,65,47,0.975,0.968,3:08
+2,2:57,NY,Josh Hart,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,66,47,0.964,0.968,3:04
+2,33.7,NY,Josh Hart,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,75,54,0.973,0.98,38.3
+3,11:48,NY,Jalen Brunson,Offensive Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,77,54,0.987,0.988,12:00
+3,10:54,MEM,Jock Landale,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,79,57,0.988,0.987,11:06
+3,10:40,NY,OG Anunoby,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,81,57,0.987,0.99,10:46
+3,8:40,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,86,64,0.99,0.99,8:58
+3,8:39,MEM,Jaylen Wells,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,86,64,0.99,0.99,8:40
+3,7:44,NY,Landry Shamet,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,86,64,0.984,0.989,7:45
+3,7:30,NY,Landry Shamet,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,86,66,0.975,0.983,7:32
+3,5:50,NY,Jordan Clarkson,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,96,71,0.994,0.996,5:56
+3,5:25,MEM,Santi Aldama,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,98,73,0.997,0.996,5:25
+3,5:17,NY,Josh Hart,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,99,73,0.995,0.997,5:25
+3,1:24,NY,Karl-Anthony Towns,Defensive 3-Seconds Technical,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,111,83,0.999,0.999,1:34
+4,11:33,MEM,Cedric Coward,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,114,93,0.997,0.997,11:43
+4,10:48,NY,OG Anunoby,Loose Ball Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,117,95,0.997,0.997,10:48
+4,10:45,NY,OG Anunoby,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,117,97,0.993,0.997,10:45
+4,10:15,NY,OG Anunoby,Offensive Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,117,98,0.994,0.995,10:19
+4,9:00,MEM,Ja Morant,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,117,103,0.984,0.982,9:11
+4,8:31,MEM,Cam Spencer,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,117,103,0.991,0.985,8:33
+4,8:02,MEM,Cam Spencer,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,119,103,0.997,0.993,8:18
+4,5:26,MEM,Santi Aldama,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,124,114,0.984,0.97,5:45
+4,2:33,NY,Karl-Anthony Towns,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,129,116,0.991,0.997,2:46
+4,1:35,NY,Karl-Anthony Towns,Loose Ball Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,129,117,0.991,0.998,1:35
+4,1:26,NY,Karl-Anthony Towns,Shooting Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,129,117,0.992,0.991,1:35
+4,1:01,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,129,118,0.999,0.999,1:01
+4,37.2,MEM,Ja Morant,Personal Foul,Foul,Eric Dalen,Mitchell Ervin,Danielle Scott,NY,131,120,0.999,0.999,47.5

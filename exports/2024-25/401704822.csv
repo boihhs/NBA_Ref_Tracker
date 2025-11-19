@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:27,OKC,Cason Wallace,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,0,0,0.704,0.737,11:33
+1,10:28,OKC,Cason Wallace,Personal Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,0,5,0.619,0.619,10:40
+1,8:26,POR,Shaedon Sharpe,Personal Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,4,11,0.579,0.579,8:36
+1,6:12,POR,Donovan Clingan,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,11,13,0.72,0.69,6:34
+1,5:10,OKC,Cason Wallace,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,13,19,0.511,0.555,5:16
+2,11:03,POR,Shaedon Sharpe,Offensive Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,23,23,0.7,0.675,11:14
+2,5:07,OKC,Cason Wallace,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,38,36,0.738,0.729,5:47
+2,3:49,OKC,Kenrich Williams,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,40,38,0.734,0.696,3:55
+2,3:30,POR,Donovan Clingan,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,40,39,0.734,0.702,5:22
+2,1:09,OKC,Alex Caruso,Personal Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,45,42,0.669,0.713,1:23
+2,24.1,OKC,Alex Caruso,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,47,42,0.745,0.764,25.1
+2,5.2,POR,Jerami Grant,Personal Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,47,44,0.779,0.742,24.1
+3,10:41,OKC,Luguentz Dort,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,49,47,0.625,0.677,10:55
+3,9:31,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,54,51,0.702,0.703,9:40
+3,8:25,OKC,Aaron Wiggins,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,54,54,0.538,0.594,8:30
+3,6:44,POR,Toumani Camara,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,61,58,0.753,0.694,6:44
+3,5:54,POR,Toumani Camara,Offensive Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,62,58,0.761,0.728,6:01
+3,5:43,POR,Robert Williams III,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,62,58,0.803,0.761,5:54
+3,5:06,OKC,Jalen Williams,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,64,60,0.672,0.726,5:13
+3,2:50,POR,Jerami Grant,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,64,62,0.743,0.689,3:01
+3,2:22,OKC,Ajay Mitchell,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,66,62,0.665,0.724,2:26
+3,1:00,POR,Robert Williams III,Offensive Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,68,66,0.685,0.644,1:12
+4,8:25,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,79,79,0.459,0.521,8:25
+4,7:53,POR,Deni Avdija,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,79,79,0.668,0.569,7:58
+4,7:19,POR,Donovan Clingan,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,81,79,0.743,0.628,7:19
+4,6:52,POR,Robert Williams III,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,84,79,0.876,0.796,6:52
+4,6:47,OKC,Cason Wallace,Personal Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,85,79,0.831,0.841,6:52
+4,6:45,OKC,Jalen Williams,Personal Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,85,79,0.823,0.512,7:53
+4,5:42,POR,Dalano Banton,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,85,84,0.736,0.634,5:56
+4,4:28,OKC,Luguentz Dort,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,91,86,0.726,0.809,4:47
+4,3:17,OKC,Jalen Williams,Offensive Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,97,87,0.974,0.983,3:30
+4,3:09,OKC,Luguentz Dort,Personal Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,97,87,0.951,0.974,3:17
+4,2:19,POR,Shaedon Sharpe,Personal Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,99,91,0.987,0.97,2:29
+4,1:39,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,103,93,0.982,0.994,1:39
+4,1:14,OKC,Luguentz Dort,Loose Ball Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,103,94,0.962,0.984,1:18
+4,51.1,POR,Kris Murray,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,103,95,0.997,0.987,1:13
+4,28.1,POR,Kris Murray,Personal Take Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,105,97,0.998,0.995,34.1
+4,17.0,POR,Deni Avdija,Personal Take Foul,Foul,Derek Richardson,Ben Taylor,Natalie Sago,OKC,107,99,0.999,0.997,22.1

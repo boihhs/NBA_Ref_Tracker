@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:44,SAC,Malik Monk,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,6,4,0.826,0.816,9:46
+1,9:09,GS,Quinten Post,Personal Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,10,4,0.857,0.857,9:23
+1,8:29,SAC,Jonas Valanciunas,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,10,6,0.861,0.842,8:44
+1,2:40,GS,Kevon Looney,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,25,13,0.914,0.913,2:40
+1,2:02,SAC,Malik Monk,Personal Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,25,15,0.904,0.906,2:20
+1,6.0,GS,Moses Moody,Personal Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,30,18,0.896,0.912,15.0
+2,9:51,SAC,Devin Carter,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,39,27,0.935,0.912,10:02
+2,8:40,SAC,Devin Carter,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,44,30,0.95,0.939,8:44
+2,6:43,GS,Quinten Post,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,50,30,0.964,0.971,6:56
+2,6:22,SAC,Jonas Valanciunas,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,50,31,0.977,0.971,6:43
+2,5:59,SAC,Keon Ellis,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,52,34,0.974,0.967,6:11
+2,5:01,GS,Stephen Curry,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,57,34,0.983,0.986,5:09
+2,4:54,GS,Kevon Looney,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,57,36,0.973,0.98,4:54
+2,3:12,GS,Draymond Green,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,59,39,0.974,0.978,3:16
+2,2:40,SAC,DeMar DeRozan,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,59,39,0.984,0.979,2:58
+2,2:09,GS,Draymond Green,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,60,44,0.945,0.958,2:09
+2,1:55,SAC,Trey Lyles,Personal Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,60,45,0.962,0.951,2:09
+2,1:44,GS,Draymond Green,Personal Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,61,45,0.938,0.951,1:53
+3,11:01,SAC,Keegan Murray,Personal Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,61,54,0.85,0.853,11:10
+3,10:09,GS,Moses Moody,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,64,54,0.858,0.885,10:23
+3,9:09,GS,Draymond Green,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,67,61,0.803,0.829,9:21
+3,7:28,GS,Jonathan Kuminga,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,74,66,0.814,0.85,7:38
+3,7:15,SAC,Malik Monk,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,74,67,0.88,0.851,7:28
+3,7:03,GS,Stephen Curry,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,76,69,0.809,0.851,7:03
+3,6:44,GS,Moses Moody,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,79,70,0.84,0.871,6:53
+3,6:15,GS,Kevon Looney,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,79,70,0.84,0.872,6:28
+3,4:46,GS,Stephen Curry,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,85,74,0.899,0.911,5:03
+3,3:53,GS,Jonathan Kuminga,Personal Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,87,75,0.906,0.929,4:03
+3,3:16,SAC,Zach LaVine,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,89,76,0.967,0.955,3:19
+4,12:00,SAC,Trey Lyles,Technical Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,96,83,0.973,0.965,12:00
+4,10:01,GS,Gary Payton II,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,100,89,0.923,0.956,10:01
+4,6:55,SAC,Keon Ellis,Transition Take Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,110,95,0.993,0.989,6:59
+4,4:45,GS,Stephen Curry,Personal Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,117,100,0.998,0.998,4:57
+4,4:29,SAC,Zach LaVine,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,117,100,0.999,0.999,4:32
+4,2:28,SAC,Markelle Fultz,Personal Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,123,100,0.999,0.999,2:36
+4,1:51,GS,Kevon Looney,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,125,100,0.999,0.999,2:08
+4,1:21,GS,Pat Spencer,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Suyash Mehta,GS,128,102,0.999,0.999,1:35

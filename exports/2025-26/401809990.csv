@@ -1,0 +1,57 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:23,UTAH,Kyle Filipowski,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,3,0,0.45,0.486,10:35
+1,9:39,POR,Donovan Clingan,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,3,2,0.502,0.463,10:01
+1,8:19,POR,Toumani Camara,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,10,4,0.597,0.57,8:35
+1,7:40,POR,Shaedon Sharpe,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,13,7,0.599,0.599,8:00
+1,6:02,POR,Yang Hansen,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,17,13,0.569,0.524,6:02
+1,5:37,POR,Deni Avdija,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,17,15,0.539,0.498,5:53
+1,4:42,POR,Blake Wesley,Away from Play Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,23,20,0.568,0.527,4:46
+1,4:22,UTAH,Ace Bailey,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,26,20,0.541,0.583,4:31
+1,3:41,POR,Jerami Grant,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,26,26,0.49,0.447,3:42
+1,3:22,UTAH,Taylor Hendricks,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,27,26,0.407,0.447,3:30
+1,2:25,POR,Yang Hansen,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,32,28,0.604,0.563,2:25
+2,11:24,POR,Shaedon Sharpe,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,43,35,0.723,0.687,11:25
+2,11:01,POR,Jerami Grant,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,47,37,0.753,0.714,11:01
+2,10:44,POR,Jrue Holiday,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,47,40,0.657,0.659,10:54
+2,7:20,POR,Shaedon Sharpe,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,54,51,0.604,0.554,7:38
+2,6:18,POR,Duop Reath,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,58,54,0.639,0.588,6:37
+2,5:47,UTAH,Jusuf Nurkic,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,60,54,0.623,0.654,5:57
+2,5:24,UTAH,Keyonte George,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,60,54,0.578,0.625,5:27
+2,4:02,POR,Rayan Rupert,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,60,64,0.366,0.344,4:02
+2,3:44,POR,Rayan Rupert,Away from Play Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,62,66,0.388,0.344,3:51
+2,3:14,UTAH,Keyonte George,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,63,68,0.283,0.314,3:23
+2,1:59,POR,Blake Wesley,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,67,71,0.39,0.343,2:10
+2,1:27,POR,Jerami Grant,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,69,73,0.391,0.343,1:46
+2,1:18,UTAH,Walker Kessler,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,70,73,0.295,0.339,1:18
+2,58.3,POR,Deni Avdija,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,70,75,0.358,0.313,1:12
+2,37.6,UTAH,Walker Kessler,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,71,77,0.254,0.284,51.4
+3,11:48,UTAH,Lauri Markkanen,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,73,79,0.252,0.266,12:00
+3,10:56,UTAH,Kyle Filipowski,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,73,81,0.194,0.193,10:56
+3,8:25,POR,Toumani Camara,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,79,91,0.117,0.118,8:32
+3,8:05,UTAH,Lauri Markkanen,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,79,91,0.078,0.1,8:13
+3,7:44,UTAH,Ace Bailey,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,81,93,0.076,0.099,7:52
+3,6:29,UTAH,Walker Kessler,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,84,97,0.057,0.077,6:29
+3,5:38,POR,Duop Reath,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,84,101,0.039,0.039,5:38
+3,5:07,POR,Jerami Grant,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,84,101,0.053,0.031,5:21
+3,3:57,UTAH,Brice Sensabaugh,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,86,104,0.013,0.02,4:00
+3,1:53,UTAH,Jusuf Nurkic,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,92,111,0.01,0.015,2:03
+3,1:06,UTAH,Jusuf Nurkic,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,92,111,0.005,0.009,1:25
+3,56.2,POR,Donovan Clingan,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,92,112,0.014,0.009,1:06
+3,0.2,POR,Donovan Clingan,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,96,117,0.008,0.004,0.2
+4,11:51,UTAH,Walker Kessler,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,98,117,0.005,0.006,11:51
+4,9:21,UTAH,Cody Williams,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,100,122,0.001,0.001,9:21
+4,7:47,UTAH,Cody Williams,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,103,122,0.001,0.001,7:49
+4,7:37,POR,Blake Wesley,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,103,124,0.002,0.001,7:47
+4,7:23,POR,Toumani Camara,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,107,124,0.008,0.003,7:23
+4,6:54,POR,Deni Avdija,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,110,124,0.025,0.011,6:54
+4,5:58,POR,Donovan Clingan,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,111,124,0.036,0.02,6:10
+4,5:47,POR,Jerami Grant,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,113,124,0.04,0.029,5:58
+4,4:30,POR,Toumani Camara,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,116,127,0.052,0.029,4:30
+4,4:10,UTAH,Cody Williams,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,117,127,0.012,0.027,4:28
+4,3:20,POR,Shaedon Sharpe,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,119,131,0.022,0.012,3:37
+4,1:55,UTAH,Cody Williams,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,123,131,0.01,0.026,2:13
+4,9.3,POR,Jrue Holiday,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,129,132,0.353,0.174,12.7
+4,8.2,UTAH,Cody Williams,Personal Take Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,131,132,0.098,0.265,9.3
+4,7.7,POR,Jrue Holiday,Personal Take Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,131,134,0.292,0.134,8.2
+4,5.9,UTAH,Elijah Harkless,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,133,134,0.071,0.219,7.7
+4,3.9,POR,Jrue Holiday,Personal Take Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,UTAH,133,136,0.148,0.097,5.9

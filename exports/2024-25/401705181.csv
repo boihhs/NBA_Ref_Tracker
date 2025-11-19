@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:54,CLE,Dean Wade,Loose Ball Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,2,2,0.54,0.54,10:54
+1,8:58,HOU,Jalen Green,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,6,11,0.35,0.388,9:07
+1,7:20,HOU,Fred VanVleet,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,12,17,0.346,0.383,7:21
+1,5:55,CLE,Donovan Mitchell,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,12,21,0.343,0.308,6:16
+1,1:40,CLE,Tristan Thompson,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,27,27,0.56,0.537,1:40
+2,8:50,HOU,Steven Adams,Loose Ball Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,41,40,0.536,0.533,8:50
+2,8:45,HOU,Cam Whitmore,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,41,40,0.491,0.536,8:50
+2,8:23,CLE,Tristan Thompson,Loose Ball Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,41,42,0.505,0.506,8:23
+2,7:41,HOU,Jae'Sean Tate,Offensive Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,41,42,0.475,0.504,7:44
+2,6:33,CLE,Georges Niang,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,47,42,0.704,0.656,6:33
+2,5:30,HOU,Alperen Sengun,Offensive Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,48,42,0.686,0.713,5:36
+2,4:27,HOU,Dillon Brooks,Personal Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,51,42,0.77,0.767,4:33
+2,3:20,CLE,Max Strus,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,53,42,0.855,0.84,3:35
+2,3:17,HOU,Dillon Brooks,Personal Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,53,42,0.785,0.841,3:20
+2,3:09,HOU,Fred VanVleet,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,53,44,0.78,0.82,3:09
+2,2:04,CLE,Dean Wade,Personal Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,55,50,0.764,0.723,2:19
+2,13.0,HOU,Jalen Green,Personal Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,61,52,0.745,0.784,32.1
+3,11:06,CLE,Darius Garland,Defensive 3-Seconds Technical,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,61,55,0.729,0.738,11:13
+3,10:26,CLE,Dean Wade,Personal Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,64,57,0.766,0.769,10:35
+3,9:17,HOU,Amen Thompson,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,67,60,0.692,0.742,9:20
+3,8:24,HOU,Dillon Brooks,Personal Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,69,64,0.68,0.679,8:34
+3,7:58,HOU,Jalen Green,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,69,64,0.625,0.714,8:08
+3,7:26,HOU,Alperen Sengun,Loose Ball Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,72,65,0.7,0.749,7:26
+3,6:12,CLE,Jarrett Allen,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,77,69,0.852,0.814,6:22
+3,4:21,HOU,Tari Eason,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,80,75,0.666,0.733,4:21
+3,3:44,CLE,Max Strus,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,82,75,0.844,0.803,3:47
+3,1:30,CLE,Georges Niang,Loose Ball Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,87,83,0.769,0.712,1:30
+3,1:11,CLE,Sam Merrill,Personal Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,87,83,0.772,0.713,1:18
+4,9:14,HOU,Tari Eason,Technical Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,98,88,0.894,0.933,9:14
+4,8:56,CLE,Sam Merrill,Loose Ball Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,98,89,0.921,0.916,8:56
+4,8:25,CLE,Dean Wade,Personal Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,98,91,0.879,0.872,8:25
+4,8:10,CLE,Jarrett Allen,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,98,91,0.904,0.878,8:10
+4,7:36,HOU,Dillon Brooks,Personal Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,98,93,0.762,0.771,7:44
+4,4:18,CLE,Dean Wade,Loose Ball Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,98,101,0.459,0.332,4:18
+4,4:12,HOU,Alperen Sengun,Offensive Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,98,101,0.277,0.459,4:18
+4,2:26,CLE,Donovan Mitchell,Shooting Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,104,104,0.638,0.577,2:26
+4,4.1,CLE,Jarrett Allen,Loose Ball Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,107,107,0.901,0.516,4.1
+4,4.0,HOU,Fred VanVleet,Personal Take Foul,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,109,107,0.626,0.873,4.1
+4,2.1,HOU,Tari Eason,Flagrant Foul Type 1,Foul,James Williams,Nick Buchert,Brandon Adair,HOU,109,108,0.613,1.0,0.0

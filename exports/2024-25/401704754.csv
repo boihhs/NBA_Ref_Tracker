@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:47,GS,Draymond Green,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,0,0,0.664,0.628,12:00
+1,8:42,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,13,2,0.864,0.843,8:48
+1,6:21,GS,Draymond Green,Personal Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,20,7,0.872,0.872,6:35
+1,4:49,CLE,Jarrett Allen,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,25,9,0.881,0.898,4:56
+1,3:53,GS,Buddy Hield,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,27,12,0.915,0.9,4:13
+1,2:39,GS,De'Anthony Melton,Personal Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,31,14,0.936,0.922,2:44
+1,1:38,CLE,Donovan Mitchell,Personal Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,33,16,0.896,0.913,1:39
+1,1:19,CLE,Georges Niang,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,33,16,0.897,0.896,1:38
+2,10:05,GS,Kevon Looney,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,41,24,0.944,0.932,10:11
+2,9:49,GS,Jonathan Kuminga,Offensive Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,42,24,0.94,0.93,10:05
+2,9:06,GS,Trayce Jackson-Davis,Offensive Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,48,24,0.977,0.972,9:14
+2,8:53,GS,Kyle Anderson,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,48,24,0.982,0.977,9:06
+2,7:11,GS,Moses Moody,Offensive Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,57,30,0.988,0.986,7:19
+2,6:43,CLE,Ty Jerome,Personal Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,57,30,0.986,0.986,6:43
+2,5:40,CLE,Ty Jerome,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,63,33,0.99,0.993,5:44
+2,4:44,GS,Draymond Green,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,68,36,0.996,0.996,4:58
+2,2:20,CLE,Isaac Okoro,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,78,38,0.996,0.997,2:30
+2,1:48,GS,Draymond Green,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,78,40,0.997,0.997,1:52
+3,11:24,GS,Gary Payton II,Personal Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,83,44,0.998,0.998,11:31
+3,11:12,CLE,Donovan Mitchell,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,83,46,0.998,0.998,11:12
+3,10:16,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,88,49,0.998,0.998,10:16
+3,10:07,CLE,Isaac Okoro,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,89,51,0.998,0.998,10:07
+3,8:36,CLE,Donovan Mitchell,Transition Take Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,91,52,0.998,0.998,8:38
+3,5:30,GS,Gary Payton II,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,99,64,0.999,0.999,5:42
+3,3:20,GS,Kevon Looney,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,108,69,0.999,0.999,3:20
+3,2:17,CLE,Georges Niang,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,108,72,0.999,0.999,2:29
+3,2:11,GS,Buddy Hield,Personal Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,108,74,0.999,0.999,2:17
+4,11:51,CLE,Donovan Mitchell,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,112,85,0.999,0.999,11:51
+4,11:10,GS,Jonathan Kuminga,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,114,86,0.999,0.999,11:10
+4,8:58,GS,De'Anthony Melton,Personal Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,117,93,0.999,0.999,9:05
+4,8:03,GS,De'Anthony Melton,Personal Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,117,95,0.999,0.999,8:15
+4,7:26,GS,Brandin Podziemski,Loose Ball Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,117,97,0.999,0.999,7:26
+4,6:14,GS,De'Anthony Melton,Personal Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,119,101,0.999,0.998,6:29
+4,6:02,GS,Kyle Anderson,Loose Ball Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,121,101,0.999,0.999,6:02
+4,3:26,CLE,Dean Wade,Loose Ball Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,131,103,0.999,0.999,3:27
+4,1:59,GS,Lindy Waters III,Shooting Foul,Foul,Rodney Mott,Ben Taylor,John Conley,CLE,135,110,0.999,0.999,1:59

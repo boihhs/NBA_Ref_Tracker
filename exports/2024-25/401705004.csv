@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:07,ATL,Jalen Johnson,Personal Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,0,6,0.451,0.45,10:15
+1,10:05,ATL,Clint Capela,Personal Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,0,6,0.453,0.451,10:07
+1,9:54,TOR,Ochai Agbaji,Personal Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,0,6,0.428,0.426,10:01
+1,5:04,TOR,Jakob Poeltl,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,11,17,0.386,0.407,5:04
+1,3:38,TOR,Jamal Shead,Personal Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,13,19,0.403,0.402,3:46
+1,2:35,ATL,Garrison Mathews,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,15,21,0.466,0.426,2:55
+1,2:05,ATL,Trae Young,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,17,24,0.438,0.396,2:06
+2,10:52,TOR,Bruce Brown,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,29,35,0.338,0.381,11:05
+2,10:04,TOR,Kelly Olynyk,Offensive Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,31,39,0.318,0.348,10:08
+2,9:38,TOR,Kelly Olynyk,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,31,39,0.299,0.316,9:38
+2,9:38,TOR,Kelly Olynyk,Technical Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,31,39,0.298,0.299,9:38
+2,9:28,ATL,Zaccharie Risacher,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,31,42,0.305,0.265,9:38
+2,7:08,TOR,Jakob Poeltl,Offensive Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,37,47,0.25,0.278,7:17
+2,4:21,TOR,Jakob Poeltl,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,44,51,0.276,0.316,4:24
+2,3:59,ATL,Trae Young,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,44,53,0.332,0.292,4:21
+2,3:42,TOR,Jamal Shead,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,45,55,0.212,0.256,3:42
+2,2:58,ATL,De'Andre Hunter,Loose Ball Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,45,57,0.199,0.202,2:58
+2,2:45,TOR,Ochai Agbaji,Personal Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,47,57,0.187,0.224,2:54
+2,2:07,ATL,Clint Capela,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,49,61,0.215,0.197,2:20
+2,1:53,TOR,Gradey Dick,Personal Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,51,61,0.18,0.22,2:07
+2,1:14,TOR,Ochai Agbaji,Loose Ball Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,51,63,0.133,0.163,1:14
+2,58.0,ATL,Jalen Johnson,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,51,64,0.201,0.167,1:12
+3,11:48,ATL,Clint Capela,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,58,64,0.406,0.341,12:00
+3,10:52,TOR,Gradey Dick,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,62,69,0.238,0.28,10:56
+3,9:38,TOR,Scottie Barnes,Personal Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,64,72,0.245,0.244,9:43
+3,9:35,TOR,Ochai Agbaji,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,64,72,0.203,0.245,9:38
+3,7:59,TOR,RJ Barrett,Loose Ball Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,66,79,0.084,0.108,7:59
+3,4:11,ATL,Zaccharie Risacher,Personal Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,73,92,0.027,0.027,4:24
+3,4:05,ATL,De'Andre Hunter,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,73,92,0.032,0.026,4:07
+3,3:50,TOR,Ja'Kobe Walter,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,75,94,0.015,0.025,3:50
+3,3:29,ATL,Onyeka Okongwu,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,77,95,0.037,0.023,3:29
+3,3:13,TOR,Kelly Olynyk,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,78,95,0.02,0.029,3:16
+3,2:40,ATL,Garrison Mathews,Personal Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,78,99,0.018,0.012,2:53
+3,2:12,ATL,Garrison Mathews,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,80,99,0.029,0.019,2:23
+3,1:33,TOR,Chris Boucher,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,82,99,0.014,0.022,1:38
+3,1:00,TOR,Kelly Olynyk,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,82,99,0.012,0.019,1:08
+4,11:12,TOR,RJ Barrett,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,82,106,0.001,0.001,11:12
+4,11:04,TOR,Jakob Poeltl,Offensive Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,82,108,0.001,0.001,11:12
+4,10:45,ATL,Onyeka Okongwu,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,82,108,0.001,0.001,10:49
+4,10:12,TOR,Ochai Agbaji,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,84,108,0.001,0.001,10:27
+4,9:52,TOR,Gradey Dick,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,86,109,0.001,0.001,10:02
+4,9:41,ATL,Jalen Johnson,Personal Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,86,111,0.001,0.001,9:52
+4,8:30,ATL,Clint Capela,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,88,116,0.001,0.001,8:43
+4,7:45,ATL,Zaccharie Risacher,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,92,120,0.001,0.001,7:51
+4,6:21,TOR,Jonathan Mogbo,Shooting Foul,Foul,Karl Lane,Ray Acosta,Mousa Dagher,TOR,93,123,0.001,0.001,6:27

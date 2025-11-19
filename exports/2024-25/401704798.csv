@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:25,DAL,Kyrie Irving,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,6,0,0.832,0.855,9:36
+1,5:05,DAL,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,11,11,0.702,0.737,5:16
+1,3:57,SA,Tre Jones,Personal Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,15,16,0.73,0.731,4:10
+1,1:30,DAL,Naji Marshall,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,19,24,0.542,0.586,1:46
+1,22.1,SA,Charles Bassey,Personal Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,23,26,0.697,0.663,35.2
+1,0.0,DAL,Luka Doncic,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,23,26,0.589,0.638,13.1
+2,9:25,DAL,Jaden Hardy,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,30,33,0.565,0.61,9:31
+2,8:01,SA,Zach Collins,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,32,35,0.671,0.631,8:05
+2,6:31,DAL,Kyrie Irving,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,35,38,0.541,0.589,6:39
+2,6:18,SA,Zach Collins,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,35,40,0.602,0.556,6:31
+2,4:56,SA,Tre Jones,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,41,42,0.687,0.637,4:56
+2,11.1,DAL,Luka Doncic,Personal Take Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,55,51,0.712,0.755,28.1
+3,11:15,SA,Julian Champagnie,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,58,51,0.875,0.851,11:23
+3,10:02,SA,Zach Collins,Personal Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,61,53,0.866,0.867,10:17
+3,8:03,DAL,Dereck Lively II,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,66,58,0.811,0.847,8:17
+3,7:53,SA,Zach Collins,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,68,60,0.881,0.847,7:53
+3,7:32,SA,Stephon Castle,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,71,60,0.927,0.904,7:32
+3,6:40,SA,Chris Paul,Transition Take Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,71,60,0.92,0.92,6:42
+3,6:11,DAL,Dereck Lively II,Defensive 3-Seconds Technical,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,72,60,0.924,0.92,6:27
+3,5:35,SA,Keldon Johnson,Personal Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,72,61,0.941,0.922,5:51
+3,5:00,DAL,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,74,61,0.916,0.937,5:08
+3,2:54,DAL,Naji Marshall,Personal Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,84,65,0.986,0.986,3:03
+3,2:40,SA,Tre Jones,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,84,65,0.993,0.99,2:44
+3,2:01,DAL,Jaden Hardy,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,86,65,0.989,0.993,2:04
+3,24.1,SA,Julian Champagnie,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,91,69,0.998,0.998,30.0
+4,11:39,DAL,Luka Doncic,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,93,69,0.997,0.998,12:00
+4,10:55,SA,Chris Paul,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,95,71,0.999,0.998,10:55
+4,10:37,DAL,Jaden Hardy,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,96,71,0.998,0.999,10:55
+4,8:54,DAL,Luka Doncic,Personal Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,99,75,0.999,0.999,9:01
+4,8:43,DAL,Naji Marshall,Personal Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,99,75,0.998,0.999,8:54
+4,8:04,DAL,Dwight Powell,Personal Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,101,78,0.998,0.999,8:15
+4,7:56,SA,Malaki Branham,Personal Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,101,80,0.999,0.999,8:04
+4,6:54,DAL,Dwight Powell,Loose Ball Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,101,80,0.998,0.999,6:54
+4,5:31,SA,Zach Collins,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,103,84,0.999,0.998,5:31
+4,4:12,DAL,Dwight Powell,Shooting Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,104,86,0.998,0.999,4:16
+4,2:01,SA,Sidy Cissoko,Personal Foul,Foul,Pat Fraher,Sean Corbin,Suyash Mehta,DAL,106,88,0.999,0.999,2:10

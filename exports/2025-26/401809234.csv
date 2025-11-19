@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:53,CLE,Evan Mobley,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,3,2,0.545,0.513,11:00
+1,10:02,NY,Karl-Anthony Towns,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,5,7,0.407,0.432,10:11
+1,8:12,CLE,Jaylon Tyson,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,7,10,0.408,0.409,8:17
+1,7:27,NY,Karl-Anthony Towns,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,12,10,0.512,0.51,7:35
+1,4:33,CLE,Jaylon Tyson,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,17,13,0.635,0.596,4:51
+1,2:37,CLE,Evan Mobley,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,25,16,0.747,0.704,2:37
+1,2:01,CLE,Craig Porter Jr.,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,26,18,0.744,0.707,2:20
+1,22.1,NY,Landry Shamet,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,33,21,0.746,0.779,36.0
+2,10:08,CLE,Tyrese Proctor,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,40,27,0.832,0.831,10:18
+2,9:13,CLE,Larry Nance Jr.,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,40,27,0.86,0.836,9:25
+2,8:58,NY,Tyler Kolek,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,42,27,0.854,0.853,9:13
+2,8:47,NY,Jordan Clarkson,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,42,29,0.801,0.838,8:47
+2,8:12,CLE,Tyrese Proctor,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,42,30,0.818,0.818,8:23
+2,3:36,CLE,Dean Wade,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,47,43,0.675,0.629,3:39
+2,2:38,CLE,Dean Wade,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,53,46,0.763,0.723,2:39
+2,1:51,CLE,Sam Merrill,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,57,46,0.861,0.828,1:59
+2,1:27,NY,Jalen Brunson,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,60,46,0.841,0.87,1:33
+2,59.2,CLE,CLE,Technical Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,62,46,0.929,0.905,59.2
+2,38.4,NY,Mikal Bridges,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,63,46,0.9,0.921,41.5
+3,11:42,NY,Mikal Bridges,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,65,52,0.846,0.879,11:42
+3,11:28,CLE,Jaylon Tyson,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,65,53,0.89,0.86,11:42
+3,11:20,NY,Ariel Hukporti,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,67,53,0.882,0.881,11:28
+3,10:56,CLE,Donovan Mitchell,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,67,55,0.864,0.865,11:15
+3,10:22,CLE,Jaylon Tyson,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,67,58,0.799,0.8,10:33
+3,9:19,CLE,Sam Merrill,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,72,60,0.874,0.852,9:34
+3,7:48,NY,Ariel Hukporti,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,77,65,0.864,0.883,7:53
+3,7:41,NY,Jalen Brunson,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,77,65,0.864,0.864,7:48
+3,7:22,CLE,Sam Merrill,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,77,68,0.854,0.818,7:33
+3,7:16,NY,Guerschon Yabusele,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,79,68,0.803,0.842,7:22
+3,4:30,NY,Miles McBride,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,79,75,0.573,0.633,4:39
+3,3:27,NY,Miles McBride,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,82,78,0.576,0.64,3:27
+3,21.1,NY,Karl-Anthony Towns,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,87,86,0.443,0.515,21.1
+4,10:42,CLE,Larry Nance Jr.,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,91,89,0.675,0.574,10:42
+4,10:01,CLE,Larry Nance Jr.,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,95,89,0.815,0.772,10:12
+4,9:46,CLE,Evan Mobley,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,95,89,0.875,0.815,10:01
+4,7:30,NY,Tyler Kolek,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,103,94,0.9,0.906,7:40
+4,5:52,NY,Ariel Hukporti,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,105,97,0.891,0.9,5:52
+4,5:45,NY,Mikal Bridges,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,105,97,0.886,0.891,5:52
+4,5:13,NY,Jordan Clarkson,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,105,97,0.836,0.901,5:13
+4,4:47,CLE,Donovan Mitchell,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,105,97,0.936,0.926,4:58
+4,4:40,CLE,Dean Wade,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,105,97,0.964,0.936,4:47
+4,4:08,NY,Miles McBride,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,106,97,0.905,0.944,4:08
+4,3:54,CLE,Sam Merrill,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,106,99,0.956,0.921,4:08
+4,3:22,NY,Karl-Anthony Towns,Offensive Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,108,99,0.955,0.969,3:34
+4,1:13,NY,Jalen Brunson,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,113,105,0.934,0.969,1:22
+4,58.8,CLE,Dean Wade,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,113,107,0.984,0.953,1:13
+4,45.6,NY,Miles McBride,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,115,107,0.95,0.976,58.8
+4,39.5,CLE,Sam Merrill,Personal Take Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,115,108,0.995,0.985,45.6
+4,11.5,CLE,Sam Merrill,Personal Take Foul,Foul,Ed Malloy,Jacyn Goble,Matt Kallio,NY,118,111,0.999,0.997,15.4

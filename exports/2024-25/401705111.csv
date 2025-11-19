@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:01,WSH,Jordan Poole,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,0,0,0.104,0.12,11:04
+1,10:49,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,0,2,0.125,0.109,11:01
+1,9:32,OKC,Jalen Williams,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,1,7,0.091,0.078,9:43
+1,7:30,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,10,13,0.12,0.102,7:30
+1,5:59,WSH,Bub Carrington,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,11,15,0.084,0.096,6:07
+1,3:20,OKC,Isaiah Joe,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,18,21,0.149,0.128,3:28
+1,3:04,OKC,Isaiah Joe,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,20,21,0.181,0.157,3:08
+1,2:48,WSH,Jonas Valanciunas,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,22,23,0.134,0.158,2:48
+1,7.1,WSH,Corey Kispert,Personal Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,25,34,0.057,0.067,14.1
+2,10:58,OKC,Cason Wallace,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,27,41,0.051,0.042,11:04
+2,9:13,WSH,Kyshawn George,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,31,43,0.041,0.049,9:17
+2,9:04,WSH,Jonas Valanciunas,Offensive Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,31,45,0.038,0.043,9:13
+2,8:19,WSH,Alex Sarr,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,31,47,0.026,0.029,8:19
+2,7:09,WSH,Jordan Poole,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,33,51,0.017,0.021,7:23
+2,6:42,OKC,Kenrich Williams,Personal Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,36,53,0.029,0.029,6:43
+2,5:35,WSH,Jordan Poole,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,39,53,0.032,0.039,5:48
+2,3:51,OKC,Luguentz Dort,Offensive Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,39,57,0.025,0.021,3:55
+2,2:14,WSH,Bub Carrington,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,41,59,0.015,0.02,2:15
+2,30.0,WSH,Kyle Kuzma,Personal Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,43,65,0.006,0.009,52.1
+3,11:48,WSH,WSH,Technical Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,43,67,0.004,0.005,11:48
+3,10:40,WSH,Bub Carrington,Transition Take Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,43,73,0.001,0.001,10:42
+3,7:29,OKC,Luguentz Dort,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,49,78,0.001,0.001,7:29
+3,6:48,WSH,Bilal Coulibaly,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,53,81,0.001,0.001,6:49
+3,5:46,WSH,Corey Kispert,Personal Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,53,83,0.001,0.001,5:52
+3,5:41,WSH,Bub Carrington,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,53,83,0.001,0.001,5:46
+3,4:16,OKC,Isaiah Joe,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,56,88,0.001,0.001,4:25
+3,3:54,OKC,Jaylin Williams,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,58,90,0.001,0.001,4:06
+3,3:27,WSH,Kyshawn George,Personal Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,60,90,0.001,0.001,3:27
+3,3:02,WSH,Jonas Valanciunas,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,60,91,0.001,0.001,3:12
+3,2:44,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,60,92,0.001,0.001,2:44
+3,1:46,WSH,Kyshawn George,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,62,94,0.001,0.001,1:51
+3,1:29,WSH,Kyshawn George,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,62,96,0.001,0.001,1:32
+3,53.1,OKC,Aaron Wiggins,Personal Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,65,101,0.001,0.001,1:00
+3,13.2,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,69,104,0.001,0.001,14.1
+4,8:46,OKC,Aaron Wiggins,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,71,106,0.001,0.001,8:51
+4,7:55,OKC,Isaiah Joe,Personal Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,71,108,0.001,0.001,8:10
+4,7:28,OKC,Aaron Wiggins,Personal Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,71,110,0.001,0.001,7:37
+4,7:17,OKC,Branden Carlson,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,71,110,0.001,0.001,7:28
+4,6:09,OKC,Kenrich Williams,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,76,115,0.001,0.001,6:10
+4,5:52,WSH,Jared Butler,Personal Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,78,115,0.001,0.001,6:09
+4,5:16,WSH,Jared Butler,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,80,117,0.001,0.001,5:31
+4,3:45,OKC,Branden Carlson,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,82,123,0.001,0.001,3:56
+4,3:34,WSH,Anthony Gill,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,84,123,0.001,0.001,3:45
+4,3:16,OKC,Kenrich Williams,Loose Ball Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,84,125,0.001,0.001,3:16
+4,2:53,OKC,Shai Gilgeous-Alexander,Technical Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,86,128,0.001,0.001,2:55
+4,2:21,OKC,Aaron Wiggins,Shooting Foul,Foul,Courtney Kirkland,Phenizee Ransom,Brandon Schwab,WSH,89,128,0.001,0.001,2:21

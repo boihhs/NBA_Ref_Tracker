@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:54,SAC,DeMar DeRozan,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,4,3,0.823,0.804,10:09
+1,1:29,OKC,Ajay Mitchell,Personal Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,24,22,0.732,0.763,1:32
+1,1:23,OKC,Cason Wallace,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,24,24,0.703,0.744,1:23
+1,1.0,SAC,Keon Ellis,Personal Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,24,29,0.648,0.613,7.2
+2,10:44,SAC,Keon Ellis,Personal Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,26,34,0.511,0.511,10:50
+2,10:41,OKC,Shai Gilgeous-Alexander,Offensive Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,26,34,0.476,0.511,10:44
+2,10:16,SAC,Russell Westbrook,Personal Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,26,34,0.504,0.507,10:19
+2,9:50,OKC,Chris Youngblood,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,28,34,0.483,0.53,10:05
+2,9:26,OKC,Chris Youngblood,Personal Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,30,36,0.529,0.527,9:33
+2,7:44,OKC,Brooks Barnhizer,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,32,40,0.399,0.449,8:06
+2,6:37,SAC,Domantas Sabonis,Offensive Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,35,42,0.5,0.468,6:53
+2,4:45,SAC,Dennis Schroder,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,40,48,0.497,0.449,4:54
+2,4:32,OKC,Luguentz Dort,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,42,48,0.428,0.48,4:45
+2,4:08,OKC,Alex Caruso,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,44,51,0.39,0.442,4:20
+3,10:41,SAC,Dennis Schroder,Personal Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,61,67,0.45,0.448,10:41
+3,10:04,OKC,Cason Wallace,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,63,67,0.423,0.482,10:18
+3,7:25,SAC,Domantas Sabonis,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,69,70,0.663,0.61,7:27
+3,7:14,OKC,Luguentz Dort,Personal Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,71,70,0.644,0.644,7:25
+3,5:51,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,71,75,0.404,0.432,5:51
+3,5:22,OKC,Ajay Mitchell,Personal Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,71,77,0.287,0.344,5:27
+3,3:30,SAC,Malik Monk,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,71,81,0.26,0.21,3:41
+3,52.2,SAC,Malik Monk,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,79,81,0.551,0.464,52.2
+3,22.4,OKC,Branden Carlson,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,80,81,0.434,0.507,26.0
+4,11:09,OKC,Luguentz Dort,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,80,85,0.246,0.345,11:09
+4,7:42,OKC,Ajay Mitchell,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,88,91,0.244,0.338,7:45
+4,6:13,OKC,Ajay Mitchell,Offensive Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,90,97,0.114,0.16,6:37
+4,6:03,SAC,Domantas Sabonis,Offensive Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,90,97,0.149,0.114,6:13
+4,4:10,SAC,Domantas Sabonis,Loose Ball Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,94,97,0.339,0.336,4:10
+4,3:53,OKC,Ajay Mitchell,Personal Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,96,97,0.379,0.405,3:59
+4,3:07,SAC,Dennis Schroder,Personal Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,96,97,0.482,0.469,3:15
+4,1:43,SAC,Zach LaVine,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,101,97,0.92,0.812,1:43
+4,1:18,OKC,Aaron Wiggins,Shooting Foul,Foul,James Capers,Tyler Ricks,John Butler,OKC,101,97,0.687,0.838,1:23

@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:07,LAC,Ivica Zubac,Offensive Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,3,0,0.679,0.654,11:16
+1,10:41,LAC,Kris Dunn,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,3,2,0.632,0.635,10:42
+1,8:08,LAC,Kris Dunn,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,15,4,0.844,0.813,8:08
+1,7:16,LAL,Jaxson Hayes,Offensive Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,15,6,0.78,0.798,7:32
+1,7:05,LAL,Luka Doncic,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,15,6,0.78,0.78,7:16
+1,6:31,LAC,Kris Dunn,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,15,11,0.696,0.696,6:38
+1,5:49,LAC,Kawhi Leonard,Loose Ball Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,15,11,0.729,0.696,5:49
+1,4:57,LAL,Trey Jemison III,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,19,13,0.682,0.718,5:10
+1,2:59,LAL,Shake Milton,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,27,19,0.728,0.76,3:13
+1,1:43,LAC,Ivica Zubac,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,30,27,0.706,0.668,1:56
+1,1:20,LAL,Trey Jemison III,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,31,27,0.631,0.671,1:41
+1,0.1,LAL,Trey Jemison III,Defensive 3-Seconds Technical,Foul,David Guthrie,Intae Hwang,John Butler,LAL,34,28,0.723,0.718,16.0
+2,10:46,LAC,Bogdan Bogdanovic,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,34,30,0.695,0.696,10:50
+2,10:06,LAL,LeBron James,Loose Ball Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,37,30,0.743,0.742,10:06
+2,8:54,LAL,LeBron James,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,39,38,0.626,0.611,8:54
+2,8:42,LAC,Kawhi Leonard,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,39,39,0.625,0.667,8:54
+2,4:37,LAC,James Harden,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,47,43,0.694,0.696,4:55
+2,3:36,LAC,Ivica Zubac,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,50,43,0.809,0.775,3:56
+2,3:16,LAL,Jarred Vanderbilt,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,50,43,0.75,0.75,3:19
+2,5.0,LAC,James Harden,Loose Ball Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,54,43,0.895,0.869,24.0
+3,11:40,LAL,Luka Doncic,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,56,43,0.888,0.894,12:00
+3,10:16,LAC,Ivica Zubac,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,58,47,0.89,0.857,10:16
+3,10:05,LAL,Gabe Vincent,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,58,47,0.825,0.858,10:08
+3,5:30,LAC,Bogdan Bogdanovic,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,72,58,0.942,0.942,5:45
+3,5:09,LAC,James Harden,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,74,60,0.952,0.933,5:09
+3,2:12,LAL,Trey Jemison III,Loose Ball Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,86,66,0.988,0.988,2:12
+3,2:01,LAL,Trey Jemison III,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,86,66,0.983,0.988,2:12
+3,1:28,LAL,Trey Jemison III,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,86,71,0.974,0.969,1:28
+3,1:11,LAC,Nicolas Batum,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,86,72,0.975,0.983,1:28
+4,11:33,LAL,Gabe Vincent,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,89,77,0.901,0.935,11:39
+4,11:09,LAC,Amir Coffey,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,89,79,0.924,0.92,11:09
+4,11:03,LAC,Bogdan Bogdanovic,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,89,79,0.927,0.924,11:09
+4,10:32,LAL,Jaxson Hayes,Defensive 3-Seconds Technical,Foul,David Guthrie,Intae Hwang,John Butler,LAL,89,79,0.914,0.906,10:49
+4,9:26,LAC,Amir Coffey,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,89,81,0.918,0.895,9:26
+4,9:18,LAL,Jaxson Hayes,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,91,83,0.836,0.9,9:18
+4,6:17,LAC,James Harden,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,96,88,0.956,0.923,6:35
+4,4:12,LAC,Ivica Zubac,Shooting Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,102,94,0.975,0.954,4:23
+4,3:45,LAC,Bogdan Bogdanovic,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,104,96,0.979,0.959,3:55
+4,3:40,LAL,Gabe Vincent,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,105,96,0.952,0.959,3:45
+4,8.1,LAC,Ivica Zubac,Personal Foul,Foul,David Guthrie,Intae Hwang,John Butler,LAL,107,102,0.996,0.954,15.1

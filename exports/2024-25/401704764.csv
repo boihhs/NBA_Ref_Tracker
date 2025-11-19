@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:26,ATL,Trae Young,Personal Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,0,0,0.581,0.582,11:42
+1,10:48,CHI,Josh Giddey,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,2,2,0.637,0.602,10:59
+1,6:05,CHI,Nikola Vucevic,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,19,16,0.703,0.669,6:16
+1,5:04,CHI,Matas Buzelis,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,23,18,0.747,0.717,5:22
+1,4:26,CHI,Matas Buzelis,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,25,18,0.788,0.759,4:30
+1,3:10,ATL,Garrison Mathews,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,30,20,0.768,0.799,3:25
+1,2:43,ATL,Onyeka Okongwu,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,30,20,0.767,0.8,2:44
+1,2:06,CHI,Dalen Terry,Personal Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,32,22,0.843,0.82,2:15
+2,11:35,CHI,Ayo Dosunmu,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,37,26,0.864,0.839,11:50
+2,10:52,ATL,Larry Nance Jr.,Loose Ball Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,42,26,0.901,0.901,10:52
+2,8:30,CHI,Jalen Smith,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,44,35,0.836,0.808,8:46
+2,7:54,CHI,Julian Phillips,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,46,37,0.836,0.901,10:52
+2,6:47,CHI,Julian Phillips,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,47,37,0.857,0.831,6:54
+2,5:00,CHI,Nikola Vucevic,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,52,44,0.809,0.791,5:13
+2,4:48,ATL,Dyson Daniels,Personal Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,54,44,0.815,0.815,5:00
+2,4:36,ATL,Zaccharie Risacher,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,54,44,0.799,0.816,4:36
+2,3:17,ATL,Jalen Johnson,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,58,48,0.785,0.819,3:20
+2,33.2,ATL,Clint Capela,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,70,55,0.891,0.914,41.2
+3,5:38,ATL,Jalen Johnson,Loose Ball Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,90,78,0.897,0.898,5:38
+3,5:25,ATL,Zaccharie Risacher,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,90,78,0.869,0.926,9:39
+3,3:31,ATL,Larry Nance Jr.,Personal Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,92,84,0.815,0.815,3:37
+3,2:49,ATL,Larry Nance Jr.,Loose Ball Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,95,86,0.803,0.846,3:04
+3,1:51,CHI,Coby White,Personal Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,95,86,0.91,0.879,2:01
+3,1:23,CHI,Patrick Williams,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,95,86,0.913,0.884,1:28
+3,1:07,ATL,Keaton Wallace,Loose Ball Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,96,86,0.845,0.885,1:07
+4,11:26,CHI,Patrick Williams,Offensive Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,98,90,0.876,0.846,11:36
+4,11:13,CHI,Coby White,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,98,90,0.916,0.876,11:26
+4,9:51,ATL,Larry Nance Jr.,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,101,95,0.715,0.792,9:56
+4,9:01,ATL,Keaton Wallace,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,101,99,0.539,0.657,9:01
+4,7:02,CHI,Jalen Smith,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,103,104,0.587,0.476,7:03
+4,5:39,CHI,Josh Giddey,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,103,106,0.468,0.343,5:48
+4,5:03,ATL,Jalen Johnson,Personal Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,105,108,0.258,0.279,5:10
+4,2:38,ATL,Zaccharie Risacher,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,107,114,0.031,0.076,2:38
+4,1:54,ATL,Trae Young,Personal Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,109,118,0.003,0.01,1:55
+4,1:47,CHI,Coby White,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,111,120,0.034,0.009,1:47
+4,1:22,ATL,Clint Capela,Shooting Foul,Foul,Marc Davis,Andy Nagy,Brandon Schwab,ATL,111,120,0.004,0.011,1:45

@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,2:26,NO,Derik Queen,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,19,23,0.693,0.657,2:36
+1,2:00,NO,Jordan Poole,Loose Ball Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,21,25,0.69,0.653,2:00
+1,9.4,LAC,Kris Dunn,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,26,27,0.654,0.696,34.1
+2,11:00,NO,Jose Alvarado,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,26,28,0.682,0.683,11:06
+2,10:25,NO,Zion Williamson,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,26,31,0.638,0.6,10:42
+2,9:40,NO,Zion Williamson,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,27,31,0.659,0.622,10:01
+2,9:32,LAC,Nicolas Batum,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,29,31,0.646,0.647,9:40
+2,9:29,LAC,Nicolas Batum,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,29,31,0.646,0.646,9:32
+2,8:32,NO,Karlo Matkovic,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,33,31,0.779,0.742,8:32
+2,8:15,NO,Trey Murphy III,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,34,34,0.752,0.717,8:25
+2,5:12,LAC,James Harden,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,41,42,0.645,0.644,5:24
+2,5:03,LAC,Bradley Beal,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,41,42,0.595,0.645,5:12
+2,4:10,NO,Yves Missi,Flagrant Foul Type 1,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,46,46,0.687,0.664,4:10
+2,3:24,NO,Yves Missi,Loose Ball Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,49,49,0.732,0.693,3:24
+2,2:31,NO,Jordan Poole,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,54,51,0.802,0.769,2:46
+2,1:55,LAC,Kawhi Leonard,Loose Ball Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,58,51,0.798,0.832,1:55
+3,7:29,LAC,Bradley Beal,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,74,69,0.731,0.777,7:31
+3,7:06,LAC,Ivica Zubac,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,74,70,0.696,0.746,7:12
+3,4:12,NO,Trey Murphy III,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,85,71,0.961,0.961,4:19
+3,3:44,LAC,Derrick Jones Jr.,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,87,71,0.958,0.97,4:01
+3,3:19,NO,Derik Queen,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,89,73,0.981,0.971,3:19
+3,2:24,LAC,Ivica Zubac,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,90,73,0.976,0.979,2:24
+3,1:33,LAC,Kawhi Leonard,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,92,78,0.944,0.962,1:33
+3,44.9,LAC,Kris Dunn,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,92,82,0.877,0.908,56.9
+4,11:11,LAC,Nicolas Batum,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,96,88,0.843,0.9,11:11
+4,10:42,LAC,Kris Dunn,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,96,89,0.778,0.843,10:49
+4,9:39,NO,Jose Alvarado,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,96,94,0.694,0.681,9:53
+4,9:06,NO,Derik Queen,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,99,94,0.852,0.815,9:16
+4,7:46,LAC,Kris Dunn,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,105,98,0.821,0.894,7:46
+4,7:33,NO,Jeremiah Fears,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,105,99,0.871,0.858,7:46
+4,4:18,NO,Trey Murphy III,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,110,107,0.851,0.769,4:20
+4,3:58,LAC,Ivica Zubac,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,113,107,0.792,0.871,4:11
+4,2:53,NO,Jeremiah Fears,Personal Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,115,111,0.905,0.838,3:04
+4,2:11,NO,Zion Williamson,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,117,113,0.92,0.851,2:29
+4,58.5,LAC,Ivica Zubac,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,124,119,0.834,0.931,58.5
+4,19.9,LAC,James Harden,Loose Ball Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,124,120,0.737,0.875,19.9
+4,9.6,LAC,Ivica Zubac,Shooting Foul,Foul,John Goble,Jason Goldenberg,Jenna Schroeder,LAC,124,122,0.509,0.697,13.5

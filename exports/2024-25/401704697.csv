@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:09,PHX,Devin Booker,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,7,4,0.478,0.481,9:14
+1,7:27,LAC,Derrick Jones Jr.,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,13,6,0.565,0.566,7:34
+1,4:50,LAC,Norman Powell,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,19,11,0.563,0.603,4:59
+1,2:54,PHX,Grayson Allen,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,27,13,0.803,0.789,2:54
+1,2:43,LAC,Kris Dunn,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,29,13,0.808,0.807,2:54
+1,1:23,PHX,Royce O'Neale,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,33,16,0.879,0.853,1:40
+1,35.1,LAC,Amir Coffey,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,37,20,0.824,0.857,35.1
+2,11:48,PHX,Ryan Dunn,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,37,20,0.887,0.847,12:00
+2,11:33,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,39,20,0.854,0.877,11:48
+2,11:07,LAC,Amir Coffey,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,39,23,0.799,0.83,11:10
+2,10:05,PHX,Mason Plumlee,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,42,29,0.792,0.796,10:05
+2,9:41,LAC,Amir Coffey,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,42,29,0.737,0.771,9:49
+2,9:10,LAC,Kevin Porter Jr.,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,42,31,0.686,0.727,9:13
+2,7:50,PHX,Mason Plumlee,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,46,36,0.771,0.735,8:00
+2,6:43,PHX,Tyus Jones,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,50,39,0.802,0.769,6:46
+2,6:22,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,50,39,0.702,0.742,6:33
+2,6:09,PHX,Mason Plumlee,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,50,40,0.738,0.742,6:19
+2,5:07,LAC,Derrick Jones Jr.,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,56,43,0.764,0.799,5:15
+2,4:15,PHX,Ryan Dunn,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,59,44,0.894,0.869,4:15
+2,2:22,LAC,Terance Mann,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,64,46,0.888,0.909,2:36
+2,1:19,LAC,Kris Dunn,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,66,50,0.859,0.885,1:33
+2,14.1,PHX,Oso Ighodaro,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,69,52,0.939,0.922,26.1
+3,11:46,PHX,Kevin Durant,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,72,52,0.963,0.95,11:46
+3,11:39,LAC,Terance Mann,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,73,52,0.957,0.956,11:46
+3,8:32,LAC,James Harden,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,82,67,0.902,0.902,8:38
+3,4:47,PHX,Ryan Dunn,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,84,81,0.606,0.607,5:03
+3,4:25,LAC,Ivica Zubac,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,87,81,0.69,0.686,4:37
+3,4:03,PHX,Tyus Jones,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,87,83,0.712,0.651,4:18
+3,3:27,LAC,Kris Dunn,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,89,86,0.505,0.571,3:34
+3,1:41,PHX,Jusuf Nurkic,Offensive Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,89,89,0.489,0.444,1:54
+4,9:06,PHX,Royce O'Neale,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,97,99,0.451,0.34,9:06
+4,8:38,PHX,Royce O'Neale,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,98,99,0.561,0.457,8:39
+4,7:58,PHX,Mason Plumlee,Offensive Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,99,99,0.524,0.462,8:02
+4,5:30,PHX,Jusuf Nurkic,Loose Ball Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,105,105,0.554,0.531,5:30
+4,3:22,LAC,Terance Mann,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,107,108,0.267,0.387,3:39
+4,1:30,PHX,Tyus Jones,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,109,115,0.177,0.081,1:32
+4,1:25,PHX,Ryan Dunn,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,109,115,0.175,0.177,1:30
+4,1:06,PHX,Ryan Dunn,Shooting Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,111,115,0.337,0.201,1:09
+4,37.2,LAC,Derrick Jones Jr.,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,112,118,0.009,0.032,42.0
+4,35.2,LAC,James Harden,Personal Take Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,112,118,0.008,0.009,37.2
+4,28.0,LAC,Nicolas Batum,Personal Take Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,114,120,0.006,0.021,29.0
+4,19.1,LAC,Derrick Jones Jr.,Personal Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,116,121,0.009,0.035,22.1
+4,10.0,LAC,Nicolas Batum,Personal Take Foul,Foul,Mark Lindsay,Ray Acosta,Matt Kallio,LAC,119,123,0.01,0.042,11.2

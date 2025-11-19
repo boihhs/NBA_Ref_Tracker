@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:18,DEN,Michael Porter Jr.,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,0,2,0.508,0.47,11:43
+1,10:47,DEN,Nikola Jokic,Personal Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,1,4,0.447,0.447,11:05
+1,10:39,DEN,Nikola Jokic,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,3,4,0.512,0.472,10:39
+1,9:48,NY,Mikal Bridges,Personal Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,5,6,0.469,0.47,10:07
+1,7:10,DEN,Michael Porter Jr.,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,17,6,0.797,0.763,7:10
+1,6:22,NY,Josh Hart,Personal Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,20,8,0.784,0.783,6:40
+1,5:59,NY,Karl-Anthony Towns,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,20,8,0.754,0.784,6:03
+1,5:13,DEN,Julian Strawther,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,22,12,0.796,0.767,5:23
+1,4:01,NY,Jalen Brunson,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,22,14,0.683,0.701,4:01
+1,1:34,DEN,Jamal Murray,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,27,20,0.746,0.711,2:01
+1,31.1,NY,Mikal Bridges,Personal Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,29,22,0.645,0.685,41.0
+2,11:43,DEN,DeAndre Jordan,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,31,27,0.675,0.62,12:00
+2,10:50,NY,Karl-Anthony Towns,Personal Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,33,27,0.663,0.662,11:01
+2,8:41,NY,Karl-Anthony Towns,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,35,33,0.507,0.553,8:45
+2,8:13,NY,OG Anunoby,Personal Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,37,35,0.555,0.553,8:28
+2,7:59,NY,Landry Shamet,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,37,35,0.53,0.554,8:00
+2,5:16,NY,Precious Achiuwa,Personal Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,47,41,0.631,0.675,5:26
+2,3:53,NY,Precious Achiuwa,Loose Ball Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,53,46,0.664,0.709,3:53
+2,3:45,DEN,Jamal Murray,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,53,47,0.751,0.708,3:53
+2,3:29,NY,OG Anunoby,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,55,47,0.695,0.739,3:30
+2,2:09,DEN,Russell Westbrook,Loose Ball Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,55,52,0.625,0.625,2:37
+3,11:18,DEN,Russell Westbrook,Personal Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,60,56,0.661,0.663,11:34
+3,9:34,NY,Mikal Bridges,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,63,60,0.54,0.596,9:40
+3,6:58,DEN,Jamal Murray,Personal Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,66,74,0.229,0.23,7:11
+3,6:07,DEN,Jamal Murray,Transition Take Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,68,74,0.289,0.289,6:07
+3,4:54,DEN,Russell Westbrook,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,73,74,0.515,0.438,4:54
+3,2:03,NY,Karl-Anthony Towns,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,84,82,0.502,0.572,2:24
+3,1:55,DEN,Christian Braun,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,84,84,0.595,0.526,2:03
+3,1:22,NY,OG Anunoby,Loose Ball Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,86,84,0.503,0.574,1:22
+4,11:10,DEN,Nikola Jokic,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,93,89,0.796,0.724,11:30
+4,5:22,DEN,Christian Braun,Personal Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,108,104,0.802,0.787,5:38
+4,2:30,DEN,Russell Westbrook,Offensive Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,116,106,0.99,0.951,2:44
+4,1:27,NY,Josh Hart,Technical Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,118,108,0.986,0.99,1:39
+4,1:03,NY,OG Anunoby,Shooting Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,120,109,0.994,0.997,1:03
+4,32.1,DEN,Jamal Murray,Personal Take Foul,Foul,Rodney Mott,Tre Maddox,Nate Green,NY,122,112,0.999,0.999,36.0

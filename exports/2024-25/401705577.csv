@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:26,BKN,Keon Johnson,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,4,7,0.584,0.584,8:28
+1,8:15,BKN,D'Angelo Russell,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,4,7,0.583,0.584,8:26
+1,7:39,IND,Andrew Nembhard,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,4,7,0.555,0.553,7:45
+1,6:50,BKN,D'Angelo Russell,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,8,7,0.692,0.651,6:50
+1,5:57,BKN,Jalen Wilson,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,9,11,0.636,0.6,6:11
+1,5:17,IND,Aaron Nesmith,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,14,11,0.659,0.693,5:31
+1,2:22,BKN,Trendon Watford,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,17,18,0.652,0.613,2:39
+1,2:02,IND,Obi Toppin,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,20,18,0.664,0.665,2:22
+1,33.1,BKN,Noah Clowney,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,22,23,0.649,0.607,50.1
+2,9:48,IND,T.J. McConnell,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,23,33,0.316,0.332,10:30
+2,8:10,BKN,Noah Clowney,Offensive Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,26,34,0.44,0.41,8:29
+2,7:38,BKN,Trendon Watford,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,28,34,0.459,0.405,7:38
+2,6:11,IND,Quenton Jackson,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,31,34,0.493,0.525,6:33
+2,5:25,IND,Pascal Siakam,Offensive Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,31,37,0.391,0.423,5:37
+2,5:12,IND,Thomas Bryant,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,31,37,0.389,0.453,5:25
+2,4:34,IND,Aaron Nesmith,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,31,39,0.279,0.321,4:37
+2,2:30,BKN,Noah Clowney,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,36,44,0.337,0.34,2:36
+2,2:16,IND,Aaron Nesmith,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,36,44,0.259,0.307,2:20
+2,1:57,IND,Andrew Nembhard,Offensive Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,36,46,0.241,0.272,2:16
+2,1:15,IND,Ben Sheppard,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,39,48,0.243,0.295,1:15
+2,41.1,IND,Pascal Siakam,Offensive Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,41,52,0.205,0.235,47.1
+2,16.1,BKN,Keon Johnson,Defensive 3-Seconds Technical,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,41,52,0.221,0.233,29.1
+3,10:26,BKN,Keon Johnson,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,44,55,0.212,0.216,10:37
+3,8:43,BKN,Nic Claxton,Offensive Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,48,57,0.256,0.226,8:56
+3,8:36,BKN,D'Angelo Russell,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,48,57,0.256,0.256,8:43
+3,6:31,BKN,Noah Clowney,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,53,62,0.288,0.237,6:42
+3,6:02,BKN,Tyrese Martin,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,57,62,0.404,0.334,6:02
+3,5:39,IND,Myles Turner,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,58,62,0.313,0.375,6:02
+3,4:07,IND,Obi Toppin,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,63,66,0.371,0.447,4:07
+3,3:03,BKN,Noah Clowney,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,63,71,0.289,0.235,3:21
+3,39.0,IND,Ben Sheppard,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,67,71,0.261,0.326,45.2
+4,9:36,IND,Thomas Bryant,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,71,73,0.34,0.447,9:36
+4,4:48,BKN,Trendon Watford,Double Technical Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,79,84,0.199,0.16,4:48
+4,4:48,BKN,Trendon Watford,Double Technical Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,79,84,0.199,0.199,4:48
+4,1:48,IND,Pascal Siakam,Offensive Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,86,88,0.26,0.363,1:57
+4,1:25,BKN,Ziaire Williams,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,86,91,0.252,0.126,1:42
+4,14.0,BKN,Keon Johnson,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,88,91,0.421,0.237,23.0
+5,4:43,IND,Andrew Nembhard,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,91,91,0.345,0.5,5:00
+5,4:43,IND,Andrew Nembhard,Technical Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,91,91,0.405,0.463,4:43
+5,3:01,BKN,Nic Claxton,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,93,94,0.586,0.459,3:12
+5,2:46,IND,Aaron Nesmith,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,95,94,0.403,0.544,3:01
+5,2:24,IND,Aaron Nesmith,Personal Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,95,96,0.343,0.366,2:32
+5,2:11,BKN,Nic Claxton,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,97,96,0.706,0.532,2:11
+5,1:30,BKN,Tyrese Martin,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,97,96,0.802,0.638,1:48
+5,1:06,BKN,D'Angelo Russell,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,98,99,0.634,0.475,1:15
+5,58.1,BKN,Tyrese Martin,Shooting Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,100,99,0.82,0.691,1:01
+5,18.0,BKN,Keon Johnson,Personal Take Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,101,99,0.926,0.83,19.1
+5,13.1,BKN,Keon Johnson,Personal Take Foul,Foul,Matt Boland,Rodney Mott,Tony Brothers,IND,103,99,0.987,0.95,16.1

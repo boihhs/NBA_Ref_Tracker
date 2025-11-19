@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:08,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,2,5,0.794,0.802,11:08
+1,10:55,MIA,Tyler Herro,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,2,6,0.808,0.786,11:08
+1,9:53,OKC,Isaiah Hartenstein,Offensive Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,4,8,0.758,0.778,10:04
+1,8:27,MIA,Andrew Wiggins,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,6,12,0.741,0.705,8:27
+1,7:56,MIA,Davion Mitchell,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,7,14,0.732,0.703,8:11
+1,7:23,MIA,Andrew Wiggins,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,8,16,0.706,0.674,7:29
+1,5:32,OKC,Alex Caruso,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,12,22,0.528,0.575,5:46
+1,5:22,MIA,Bam Adebayo,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,12,23,0.613,0.572,5:32
+1,5:03,OKC,Jaylin Williams,Defensive 3-Seconds Technical,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,13,23,0.574,0.571,5:22
+1,4:21,OKC,Dillon Jones,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,13,24,0.532,0.528,4:29
+1,3:34,MIA,Alec Burks,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,15,26,0.571,0.517,3:34
+1,3:18,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,15,26,0.496,0.516,3:32
+1,1:47,OKC,Isaiah Joe,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,18,28,0.482,0.528,1:59
+1,1:25,MIA,Haywood Highsmith,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,18,29,0.568,0.528,1:47
+2,11:00,OKC,Jalen Williams,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,23,35,0.378,0.419,11:08
+2,10:04,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,25,38,0.36,0.377,10:04
+2,7:57,MIA,Haywood Highsmith,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,31,43,0.465,0.421,8:15
+2,7:32,OKC,Luguentz Dort,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,32,45,0.324,0.377,7:32
+2,7:22,MIA,Alec Burks,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,34,46,0.431,0.375,7:22
+2,5:30,MIA,Nikola Jovic,Loose Ball Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,35,53,0.196,0.197,5:30
+2,4:02,OKC,Jaylin Williams,Offensive Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,37,56,0.132,0.157,4:15
+2,3:20,OKC,Jaylin Williams,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,40,58,0.116,0.148,3:32
+2,1:34,MIA,Nikola Jovic,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,45,60,0.272,0.226,1:36
+2,1:15,OKC,Luguentz Dort,Offensive Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,47,62,0.192,0.222,1:25
+2,1:05,OKC,Luguentz Dort,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,47,62,0.152,0.192,1:15
+3,11:24,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,52,63,0.238,0.287,11:38
+3,11:01,MIA,Davion Mitchell,Technical Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,52,66,0.236,0.217,11:01
+3,10:22,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,52,66,0.162,0.177,10:22
+3,7:16,MIA,Bam Adebayo,Offensive Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,61,72,0.253,0.227,7:31
+3,3:53,OKC,Isaiah Joe,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,69,77,0.241,0.269,3:54
+3,2:21,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,74,82,0.189,0.246,2:31
+3,35.1,MIA,Kel'el Ware,Offensive Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,81,90,0.211,0.176,48.0
+3,30.2,MIA,Nikola Jovic,Shooting Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,83,90,0.334,0.251,30.2
+4,10:47,MIA,Nikola Jovic,Loose Ball Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,89,93,0.423,0.412,10:47
+4,10:29,MIA,Nikola Jovic,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,89,93,0.438,0.423,10:47
+4,7:52,OKC,Isaiah Joe,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,101,93,0.9,0.905,8:03
+4,3:45,OKC,Aaron Wiggins,Personal Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,111,99,0.989,0.989,3:58
+4,3:08,MIA,Bam Adebayo,Loose Ball Foul,Foul,Scott Foster,Karl Lane,Brett Nansel,OKC,111,101,0.994,0.988,3:08

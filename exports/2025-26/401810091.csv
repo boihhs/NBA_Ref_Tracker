@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:34,HOU,Alperen Sengun,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,6,7,0.641,0.673,8:46
+1,7:10,ORL,Desmond Bane,Personal Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,6,12,0.568,0.571,7:23
+1,3:13,ORL,Wendell Carter Jr.,Personal Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,12,25,0.342,0.342,3:14
+1,1:33,ORL,Franz Wagner,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,18,30,0.377,0.326,1:33
+2,9:12,ORL,Desmond Bane,Personal Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,28,35,0.467,0.469,9:28
+2,9:04,ORL,Jonathan Isaac,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,28,35,0.513,0.467,9:12
+2,7:44,ORL,Jett Howard,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,32,37,0.565,0.522,8:04
+2,6:30,ORL,Anthony Black,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,37,40,0.617,0.573,6:32
+2,4:43,ORL,Wendell Carter Jr.,Personal Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,38,42,0.575,0.532,4:55
+2,2:29,HOU,Josh Okogie,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,42,49,0.327,0.376,2:45
+2,1:40,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,42,50,0.288,0.331,1:40
+2,1:26,HOU,Kevin Durant,Personal Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,42,50,0.286,0.288,1:40
+2,57.9,ORL,Anthony Black,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,42,52,0.344,0.297,1:02
+3,11:40,ORL,Anthony Black,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,48,55,0.412,0.343,11:40
+3,9:57,HOU,Alperen Sengun,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,49,59,0.191,0.233,10:04
+3,9:13,HOU,Amen Thompson,Loose Ball Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,51,61,0.227,0.224,9:13
+3,7:26,ORL,Tristan da Silva,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,56,63,0.4,0.342,7:29
+3,6:01,HOU,Alperen Sengun,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,61,65,0.377,0.447,6:01
+3,5:44,ORL,Goga Bitadze,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,61,66,0.466,0.406,6:01
+3,5:27,HOU,Reed Sheppard,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,63,66,0.381,0.443,5:44
+3,5:08,HOU,Reed Sheppard,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,65,68,0.377,0.44,5:19
+3,5:04,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,65,69,0.334,0.398,5:05
+3,4:34,HOU,Aaron Holiday,Flopping Technical,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,65,70,0.35,0.35,4:35
+3,4:25,HOU,Reed Sheppard,Personal Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,65,70,0.287,0.35,4:34
+3,2:57,HOU,Kevin Durant,Loose Ball Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,70,75,0.268,0.33,2:57
+3,2:05,ORL,Franz Wagner,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,72,78,0.358,0.274,2:05
+3,1:04,HOU,Steven Adams,Offensive Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,73,80,0.224,0.268,1:09
+3,32.2,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,75,80,0.383,0.3,32.2
+3,14.8,ORL,Wendell Carter Jr.,Personal Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,76,80,0.464,0.389,14.8
+4,10:55,HOU,Steven Adams,Personal Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,77,80,0.356,0.367,10:55
+4,9:35,HOU,Reed Sheppard,Flagrant Foul Type 1,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,79,85,0.206,0.255,9:49
+4,7:45,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,81,90,0.074,0.08,7:45
+4,6:21,ORL,Goga Bitadze,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,83,90,0.221,0.147,6:30
+4,5:35,ORL,Goga Bitadze,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,85,90,0.327,0.227,5:49
+4,4:34,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,89,92,0.172,0.267,4:50
+4,3:41,ORL,Anthony Black,Loose Ball Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,92,94,0.403,0.378,3:41
+4,1:56,HOU,Amen Thompson,Personal Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,95,96,0.244,0.371,2:10
+4,1.7,HOU,Alperen Sengun,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,100,102,0.016,0.05,1.7
+5,1:52,ORL,Desmond Bane,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,108,106,0.813,0.646,1:52
+5,1:39,HOU,Alperen Sengun,Shooting Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,109,108,0.476,0.668,1:39
+5,1:05,HOU,Steven Adams,Loose Ball Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,109,109,0.3,0.457,1:05
+5,8.7,HOU,Jabari Smith Jr.,Personal Take Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,113,110,0.668,0.578,9.2
+5,4.1,ORL,Anthony Black,Personal Take Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,113,112,0.95,0.373,4:02
+5,3.4,HOU,Jabari Smith Jr.,Personal Take Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,115,112,0.87,0.932,4.1
+5,1.8,ORL,Wendell Carter Jr.,Personal Take Foul,Foul,Mark Lindsay,Scott Foster,Jonathan Sterling,HOU,115,113,0.989,0.899,3.4

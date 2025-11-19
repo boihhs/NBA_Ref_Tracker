@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:55,NO,CJ McCollum,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,0,0,0.231,0.26,12:00
+1,10:44,DEN,Aaron Gordon,Offensive Foul,Foul,James Williams,Andy Nagy,John Conley,NO,4,2,0.327,0.304,11:00
+1,9:02,DEN,Jamal Murray,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,7,2,0.448,0.407,9:07
+1,4:55,DEN,Aaron Gordon,Personal Foul,Foul,James Williams,Andy Nagy,John Conley,NO,15,12,0.382,0.382,5:16
+1,4:28,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Andy Nagy,John Conley,NO,15,12,0.384,0.386,4:30
+1,2:25,NO,Javonte Green,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,21,16,0.385,0.423,2:42
+1,2:04,NO,Brandon Boston,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,21,16,0.387,0.427,2:10
+1,1:20,DEN,Julian Strawther,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,23,20,0.426,0.377,1:20
+1,24.0,DEN,Peyton Watson,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,28,26,0.425,0.382,30.1
+1,11.1,NO,Dejounte Murray,Personal Foul,Foul,James Williams,Andy Nagy,John Conley,NO,29,26,0.345,0.384,24.0
+2,9:52,DEN,DeAndre Jordan,Flagrant Foul Type 1,Foul,James Williams,Andy Nagy,John Conley,NO,36,34,0.391,0.4,9:54
+2,8:40,NO,Javonte Green,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,38,36,0.356,0.407,8:40
+2,7:53,DEN,Russell Westbrook,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,40,37,0.488,0.441,7:56
+2,7:32,NO,Herbert Jones,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,42,37,0.428,0.473,7:53
+2,3:42,DEN,Russell Westbrook,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,54,45,0.716,0.67,4:00
+2,2:51,NO,Yves Missi,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,59,45,0.754,0.791,3:05
+2,1:17,NO,Trey Murphy III,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,65,51,0.77,0.806,1:31
+2,1.0,NO,Javonte Green,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,67,57,0.659,0.706,6.1
+3,11:06,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,67,62,0.633,0.576,11:19
+3,9:49,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,70,62,0.723,0.665,9:49
+3,8:50,NO,Trey Murphy III,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,71,67,0.466,0.523,9:06
+3,8:25,DEN,Michael Porter Jr.,Offensive Foul,Foul,James Williams,Andy Nagy,John Conley,NO,73,68,0.605,0.565,8:35
+3,5:35,NO,Herbert Jones,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,80,68,0.798,0.84,5:46
+3,2:36,NO,Yves Missi,Loose Ball Foul,Foul,James Williams,Andy Nagy,John Conley,NO,88,72,0.949,0.948,2:36
+3,1:50,NO,Daniel Theis,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,88,74,0.896,0.926,1:54
+4,11:22,NO,Daniel Theis,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,93,85,0.757,0.837,11:22
+4,10:54,NO,Daniel Theis,Personal Foul,Foul,James Williams,Andy Nagy,John Conley,NO,96,86,0.856,0.867,10:58
+4,10:49,NO,Daniel Theis,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,96,86,0.798,0.856,10:54
+4,10:30,DEN,Jamal Murray,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,96,88,0.885,0.83,10:49
+4,9:17,NO,Javonte Green,Flagrant Foul Type 1,Foul,James Williams,Andy Nagy,John Conley,NO,100,93,0.777,0.819,9:18
+4,7:09,NO,Dejounte Murray,Offensive Foul,Foul,James Williams,Andy Nagy,John Conley,NO,107,100,0.803,0.842,7:22
+4,6:18,NO,CJ McCollum,Personal Foul,Foul,James Williams,Andy Nagy,John Conley,NO,107,102,0.631,0.721,6:21
+4,5:39,NO,Yves Missi,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,107,106,0.421,0.546,5:39
+4,3:43,DEN,Russell Westbrook,Loose Ball Foul,Foul,James Williams,Andy Nagy,John Conley,NO,109,113,0.221,0.208,3:43
+4,3:29,DEN,Julian Strawther,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,109,113,0.332,0.221,3:43
+4,2:07,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Andy Nagy,John Conley,NO,114,117,0.403,0.254,2:24
+5,1:47,NO,Dejounte Murray,Loose Ball Foul,Foul,James Williams,Andy Nagy,John Conley,NO,125,127,0.14,0.254,1:47
+5,9.1,NO,Yves Missi,Personal Foul,Foul,James Williams,Andy Nagy,John Conley,NO,127,129,0.051,0.161,14.1
+5,5.2,NO,Herbert Jones,Personal Foul,Foul,James Williams,Andy Nagy,John Conley,NO,129,131,0.03,0.104,6.1
+5,3.0,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Andy Nagy,John Conley,NO,129,132,0.114,0.082,5.2
+5,1.1,DEN,Nikola Jokic,Personal Foul,Foul,James Williams,Andy Nagy,John Conley,NO,129,132,0.06,0.114,3.0

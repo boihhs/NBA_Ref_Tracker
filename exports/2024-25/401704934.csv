@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:38,DAL,Quentin Grimes,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,5,7,0.407,0.444,9:41
+1,9:20,LAC,Kris Dunn,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,5,10,0.392,0.395,9:38
+1,7:16,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,10,12,0.507,0.468,7:25
+1,6:16,LAC,Ivica Zubac,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,12,12,0.559,0.52,6:34
+1,4:57,DAL,Naji Marshall,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,17,16,0.5,0.547,4:57
+1,4:43,LAC,Norman Powell,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,17,17,0.56,0.519,4:57
+1,2:50,LAC,Mo Bamba,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,21,21,0.562,0.52,2:51
+1,2:27,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,22,21,0.569,0.55,2:29
+1,23.1,LAC,James Harden,Offensive Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,30,24,0.685,0.659,25.1
+2,11:33,DAL,Jazian Gortman,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,32,24,0.712,0.711,11:48
+2,10:59,LAC,Norman Powell,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,32,26,0.728,0.691,11:09
+2,10:42,DAL,Dereck Lively II,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,33,26,0.649,0.688,10:59
+2,10:09,LAC,Amir Coffey,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,35,30,0.683,0.637,10:09
+2,8:35,LAC,Kris Dunn,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,38,33,0.666,0.668,8:38
+2,4:08,DAL,Daniel Gafford,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,42,36,0.655,0.676,4:32
+3,10:57,DAL,P.J. Washington,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,52,54,0.387,0.447,10:57
+3,8:28,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,59,61,0.504,0.447,8:42
+3,6:28,LAC,James Harden,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,63,68,0.326,0.327,6:37
+3,5:32,DAL,Jazian Gortman,Technical Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,65,70,0.257,0.285,5:42
+3,5:32,LAC,Kris Dunn,Flagrant Foul Type 2,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,65,70,0.311,0.257,5:32
+3,5:15,DAL,Quentin Grimes,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,66,71,0.232,0.283,5:19
+3,4:23,LAC,Nicolas Batum,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,68,75,0.298,0.243,4:27
+3,2:37,DAL,Daniel Gafford,Loose Ball Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,69,82,0.063,0.062,2:37
+3,1:48,LAC,Nicolas Batum,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,69,85,0.051,0.034,1:55
+3,56.0,LAC,Mo Bamba,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,71,85,0.074,0.05,58.1
+3,33.0,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,75,87,0.095,0.061,33.0
+3,0.1,LAC,Amir Coffey,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,76,89,0.088,0.059,10.1
+4,11:15,DAL,P.J. Washington,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,79,89,0.081,0.086,11:24
+4,10:41,DAL,Dereck Lively II,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,81,91,0.061,0.099,10:41
+4,10:29,LAC,Amir Coffey,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,83,92,0.153,0.094,10:29
+4,9:37,DAL,Dereck Lively II,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,86,96,0.052,0.091,9:37
+4,8:46,DAL,P.J. Washington,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,88,96,0.066,0.103,8:53
+4,7:52,DAL,Dereck Lively II,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,90,98,0.059,0.091,8:04
+4,4:49,LAC,Ivica Zubac,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Scott Twardoski,DAL,95,107,0.019,0.018,5:01

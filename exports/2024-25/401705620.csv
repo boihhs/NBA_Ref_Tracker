@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:29,TOR,Ja'Kobe Walter,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,2,5,0.413,0.377,10:43
+1,9:03,TOR,Jamal Shead,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,6,9,0.378,0.378,9:10
+1,7:57,BKN,Keon Johnson,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,6,11,0.273,0.307,7:58
+1,5:42,BKN,D'Angelo Russell,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,8,17,0.191,0.219,5:43
+1,5:30,TOR,Orlando Robinson,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,8,18,0.235,0.219,5:30
+1,2:29,TOR,Jamison Battle,Loose Ball Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,12,24,0.206,0.177,2:29
+1,1:59,BKN,Jalen Wilson,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,12,24,0.137,0.157,2:03
+1,1:47,TOR,Jonathan Mogbo,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,12,26,0.169,0.143,1:59
+2,10:16,BKN,Trendon Watford,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,26,34,0.213,0.253,10:16
+2,9:48,TOR,Jamison Battle,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,28,34,0.32,0.276,9:48
+2,9:19,BKN,Dariq Whitehead,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,29,36,0.216,0.249,9:23
+2,7:28,TOR,Ochai Agbaji,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,29,43,0.128,0.127,7:28
+2,6:06,TOR,RJ Barrett,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,34,46,0.171,0.14,6:06
+2,5:22,TOR,Orlando Robinson,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,37,49,0.17,0.137,5:22
+2,5:13,BKN,Keon Johnson,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,38,49,0.129,0.154,5:22
+2,1:14,BKN,Ziaire Williams,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,41,61,0.029,0.04,1:14
+2,1:06,TOR,RJ Barrett,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,41,62,0.043,0.033,1:14
+3,11:41,TOR,Ja'Kobe Walter,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,47,62,0.098,0.071,11:41
+3,11:07,TOR,Jamal Shead,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,48,65,0.06,0.061,11:21
+3,7:23,BKN,Nic Claxton,Offensive Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,53,71,0.029,0.038,7:37
+3,7:09,BKN,Keon Johnson,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,53,71,0.029,0.029,7:23
+3,7:09,BKN,D'Angelo Russell,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,53,71,0.029,0.029,7:09
+3,5:42,TOR,Ja'Kobe Walter,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,57,73,0.049,0.049,5:44
+3,2:40,BKN,Dariq Whitehead,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,64,80,0.019,0.029,2:43
+3,2:37,TOR,Cole Swider,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,64,82,0.032,0.022,2:40
+3,1:47,TOR,Jonathan Mogbo,Away from Play Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,67,86,0.022,0.014,1:47
+3,23.0,BKN,Jalen Wilson,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,68,91,0.001,0.001,27.1
+4,10:30,TOR,Jonathan Mogbo,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,70,95,0.001,0.001,10:46
+4,10:03,TOR,A.J. Lawson,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,72,95,0.002,0.001,10:03
+4,9:51,BKN,Nic Claxton,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,72,95,0.001,0.001,9:59
+4,7:58,BKN,Trendon Watford,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,74,100,0.001,0.001,7:58
+4,6:17,TOR,Orlando Robinson,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,74,105,0.001,0.001,6:32
+4,6:14,BKN,Keon Johnson,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,76,105,0.001,0.001,6:15
+4,4:32,TOR,Jamal Shead,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,76,108,0.001,0.001,4:34
+4,3:35,BKN,Noah Clowney,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,76,108,0.001,0.001,3:36
+4,3:04,TOR,Orlando Robinson,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,78,108,0.001,0.001,3:04
+4,2:39,TOR,Cole Swider,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,79,110,0.001,0.001,2:49
+4,2:08,TOR,Jonathan Mogbo,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,80,110,0.001,0.001,2:12
+4,1:56,BKN,Jalen Wilson,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,82,110,0.001,0.001,2:08
+4,1:13,BKN,Noah Clowney,Offensive Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,82,112,0.001,0.001,1:22
+4,1:07,BKN,Noah Clowney,Personal Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,82,112,0.001,0.001,1:13
+4,45.1,BKN,Maxwell Lewis,Shooting Foul,Foul,Mark Lindsay,Phenizee Ransom,Jonathan Sterling,BKN,84,114,0.001,0.001,53.2

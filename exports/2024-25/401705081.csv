@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,LAC,Kris Dunn,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,2,0,0.344,0.309,11:45
+1,10:41,LAC,Derrick Jones Jr.,Personal Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,3,3,0.288,0.288,10:58
+1,9:03,LAC,Kris Dunn,Personal Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,6,3,0.363,0.364,9:18
+1,8:53,LAC,Derrick Jones Jr.,Personal Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,6,3,0.403,0.363,9:03
+1,4:24,LAC,Ivica Zubac,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,19,13,0.497,0.447,4:24
+1,3:34,LAC,Terance Mann,Personal Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,24,13,0.667,0.625,3:39
+1,2:09,DEN,Julian Strawther,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,28,13,0.679,0.719,2:10
+1,1:35,LAC,Nicolas Batum,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,28,13,0.785,0.749,1:41
+1,17.1,DEN,Hunter Tyson,Personal Take Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,33,19,0.665,0.711,27.1
+2,11:06,DEN,Dario Saric,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,35,19,0.736,0.774,11:15
+2,8:54,DEN,Dario Saric,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,44,27,0.799,0.838,8:54
+2,8:18,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,48,28,0.906,0.877,8:18
+2,7:37,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,52,28,0.92,0.936,7:54
+2,6:09,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,55,34,0.896,0.906,6:23
+2,5:12,DEN,Russell Westbrook,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,55,38,0.814,0.845,5:15
+2,3:34,LAC,Kevin Porter Jr.,Double Technical Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,57,42,0.835,0.818,3:38
+2,2:20,DEN,Michael Porter Jr.,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,61,46,0.84,0.853,2:20
+2,1.1,LAC,Nicolas Batum,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,65,50,0.897,0.871,6.0
+3,10:23,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,69,50,0.91,0.932,10:24
+3,9:25,LAC,Kris Dunn,Personal Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,69,53,0.91,0.909,9:35
+3,9:03,DEN,Christian Braun,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,71,53,0.904,0.94,9:09
+3,8:29,LAC,Norman Powell,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,73,57,0.938,0.917,8:38
+3,8:14,DEN,Julian Strawther,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,75,57,0.911,0.931,8:29
+3,7:46,DEN,DeAndre Jordan,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,77,58,0.93,0.946,8:00
+3,7:40,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,77,59,0.961,0.949,7:46
+3,6:35,DEN,Russell Westbrook,Personal Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,83,59,0.98,0.986,6:47
+3,5:48,LAC,Norman Powell,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,87,63,0.992,0.988,5:48
+3,5:40,DEN,DeAndre Jordan,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,88,63,0.986,0.991,5:48
+3,4:14,DEN,Peyton Watson,Offensive Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,94,69,0.994,0.994,4:25
+3,3:24,DEN,Peyton Watson,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,96,69,0.996,0.997,3:34
+3,3:17,LAC,Terance Mann,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,96,72,0.996,0.995,3:24
+4,11:21,DEN,Peyton Watson,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,101,77,0.996,0.997,11:27
+4,10:39,LAC,Jordan Miller,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,103,78,0.999,0.999,10:39
+4,9:20,DEN,Julian Strawther,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,109,80,0.999,0.999,9:24
+4,9:00,DEN,Jamal Murray,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,109,82,0.999,0.999,9:03
+4,4:27,DEN,Russell Westbrook,Personal Take Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,116,88,0.999,0.999,4:40
+4,4:24,DEN,Hunter Tyson,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,116,90,0.999,0.999,4:24
+4,3:48,DEN,Zeke Nnaji,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,116,91,0.999,0.999,3:57
+4,1:59,DEN,Hunter Tyson,Shooting Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,122,96,0.999,0.999,2:20
+4,57.1,DEN,Zeke Nnaji,Personal Foul,Foul,Marat Kogut,Nick Buchert,J.D. Ralls,DEN,124,98,0.999,0.999,1:11

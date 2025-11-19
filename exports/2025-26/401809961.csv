@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:01,DET,Tobias Harris,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,2,2,0.609,0.61,11:09
+1,10:25,BOS,Jaylen Brown,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,2,2,0.63,0.629,10:25
+1,10:21,BOS,Hugo Gonzalez,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,2,2,0.629,0.63,10:25
+1,10:05,DET,Cade Cunningham,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,2,2,0.605,0.604,10:09
+1,8:13,DET,Jalen Duren,Offensive Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,2,12,0.338,0.364,8:13
+1,7:39,BOS,Jaylen Brown,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,2,14,0.31,0.316,7:58
+1,6:33,DET,Cade Cunningham,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,7,18,0.271,0.304,6:36
+1,4:42,DET,Isaiah Stewart,Loose Ball Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,10,22,0.237,0.27,4:42
+1,4:23,BOS,Luka Garza,Loose Ball Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,10,22,0.333,0.295,4:23
+1,2:36,DET,Javonte Green,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,14,31,0.177,0.175,2:36
+1,51.2,BOS,Anfernee Simons,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,22,33,0.34,0.3,54.7
+1,28.9,BOS,Luka Garza,Offensive Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,24,33,0.351,0.32,29.5
+2,8:42,BOS,Chris Boucher,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,30,41,0.314,0.273,8:46
+2,8:02,BOS,Baylor Scheierman,Loose Ball Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,32,43,0.267,0.268,8:02
+2,6:25,DET,Ausar Thompson,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,38,43,0.405,0.407,6:44
+2,5:44,DET,Jalen Duren,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,41,48,0.354,0.368,5:44
+2,4:20,BOS,Neemias Queta,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,43,54,0.287,0.246,4:28
+2,3:43,BOS,Neemias Queta,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,47,54,0.382,0.324,3:43
+2,6:44,BOS,Chris Boucher,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,38,43,0.461,0.387,3:06
+2,2:23,DET,Jalen Duren,Loose Ball Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,48,54,0.352,0.349,2:23
+2,53.4,DET,Isaiah Stewart,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,56,56,0.496,0.547,1:14
+2,11.0,BOS,Derrick White,Loose Ball Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,59,58,0.661,0.611,11.0
+3,11:28,DET,Jalen Duren,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,62,58,0.679,0.676,11:42
+3,10:24,BOS,Hugo Gonzalez,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,62,61,0.663,0.61,10:27
+3,9:48,DET,Cade Cunningham,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,64,64,0.538,0.536,9:53
+3,9:06,DET,Duncan Robinson,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,64,64,0.479,0.535,9:18
+3,8:27,BOS,Derrick White,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,68,68,0.599,0.533,8:27
+3,8:27,BOS,Derrick White,Technical Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,68,68,0.601,0.599,8:27
+3,8:18,DET,Cade Cunningham,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,70,68,0.551,0.609,8:27
+3,7:55,BOS,Jaylen Brown,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,70,68,0.693,0.647,8:03
+3,6:00,BOS,Neemias Queta,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,76,70,0.823,0.781,6:10
+3,5:48,DET,Tobias Harris,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,77,70,0.731,0.78,6:00
+3,5:31,BOS,Luka Garza,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,77,71,0.825,0.783,5:48
+3,4:28,BOS,Luka Garza,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,81,74,0.855,0.817,4:33
+3,3:58,BOS,Anfernee Simons,Loose Ball Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,83,74,0.899,0.871,3:58
+3,3:33,BOS,Anfernee Simons,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,87,74,0.95,0.927,3:33
+3,3:22,DET,Daniss Jenkins,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,88,74,0.919,0.94,3:33
+3,2:59,DET,Ronald Holland II,Loose Ball Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,88,76,0.885,0.913,3:00
+4,11:26,BOS,Neemias Queta,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,94,81,0.977,0.962,11:38
+4,10:46,DET,Ronald Holland II,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,96,83,0.93,0.956,10:48
+4,9:53,BOS,Neemias Queta,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,96,85,0.969,0.931,10:19
+4,8:53,DET,Daniss Jenkins,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,98,90,0.88,0.905,8:53
+4,8:37,BOS,Josh Minott,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,98,91,0.918,0.875,8:53
+4,7:48,DET,Duncan Robinson,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,102,95,0.816,0.888,7:48
+4,7:35,BOS,Payton Pritchard,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,102,96,0.9,0.853,7:48
+4,5:10,DET,Ausar Thompson,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,107,101,0.767,0.849,5:13
+4,4:56,DET,Tobias Harris,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,107,101,0.769,0.842,5:03
+4,3:53,DET,Ausar Thompson,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,109,103,0.782,0.854,4:08
+4,2:36,BOS,Sam Hauser,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,113,106,0.964,0.924,2:36
+4,1:30,BOS,Derrick White,Personal Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,115,111,0.932,0.867,1:39
+4,1:13,DET,Ausar Thompson,Shooting Foul,Foul,Brian Forte,Andy Nagy,Brandon Schwab,DET,117,111,0.84,0.913,1:30

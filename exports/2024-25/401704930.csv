@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:10,BKN,Cameron Johnson,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,3,0,0.556,0.561,11:14
+1,11:10,BKN,Keon Johnson,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,3,0,0.555,0.556,11:10
+1,11:10,TOR,Gradey Dick,Offensive Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,3,0,0.535,0.555,11:10
+1,7:56,BKN,Ben Simmons,Offensive Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,10,9,0.513,0.484,8:08
+1,7:49,BKN,Keon Johnson,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,10,9,0.51,0.513,7:56
+1,5:59,TOR,Jonathan Mogbo,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,14,12,0.473,0.512,6:03
+1,4:40,TOR,Ochai Agbaji,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,14,15,0.432,0.433,4:49
+1,4:06,TOR,Chris Boucher,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,14,15,0.415,0.432,4:06
+1,3:37,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,16,17,0.463,0.432,3:52
+1,3:08,TOR,Jamison Battle,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,16,17,0.414,0.432,3:19
+1,2:03,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,19,18,0.522,0.491,2:07
+1,1:08,TOR,Kelly Olynyk,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,24,18,0.591,0.631,1:28
+2,11:20,TOR,Chris Boucher,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,26,24,0.522,0.522,11:43
+2,8:46,TOR,Kelly Olynyk,Transition Take Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,31,29,0.526,0.526,8:47
+2,8:46,BKN,Nic Claxton,Technical Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,31,29,0.577,0.526,8:46
+2,8:07,TOR,Gradey Dick,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,32,29,0.556,0.554,8:10
+2,6:44,BKN,Keon Johnson,Offensive Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,37,32,0.65,0.62,6:46
+2,5:55,BKN,Day'Ron Sharpe,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,37,35,0.561,0.554,8:46
+2,4:50,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,40,37,0.617,0.562,4:50
+2,4:11,TOR,Jonathan Mogbo,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,40,39,0.5,0.499,4:24
+2,4:06,TOR,Ja'Kobe Walter,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,40,39,0.45,0.5,4:11
+2,3:06,TOR,Kelly Olynyk,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,40,41,0.386,0.435,3:10
+2,2:22,TOR,Ja'Kobe Walter,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,40,44,0.313,0.368,2:22
+2,1:30,BKN,Noah Clowney,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,42,47,0.382,0.336,1:44
+2,1:19,BKN,Noah Clowney,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,42,47,0.382,0.382,1:30
+2,22.2,BKN,Shake Milton,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,44,50,0.351,0.303,22.2
+3,10:58,BKN,Keon Johnson,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,48,54,0.344,0.296,11:17
+3,10:06,TOR,Scottie Barnes,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,52,54,0.342,0.394,10:15
+3,10:00,BKN,Cameron Johnson,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,52,55,0.396,0.396,10:06
+3,8:58,BKN,Cameron Johnson,Loose Ball Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,55,55,0.505,0.506,8:58
+3,8:35,TOR,Ja'Kobe Walter,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,55,55,0.467,0.465,8:40
+3,7:56,TOR,Gradey Dick,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,58,57,0.448,0.506,8:09
+3,5:22,TOR,Ja'Kobe Walter,Loose Ball Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,66,61,0.611,0.67,5:22
+3,4:07,TOR,Jamal Shead,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,69,64,0.616,0.676,4:23
+3,3:38,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,69,66,0.642,0.597,3:51
+3,3:30,TOR,Gradey Dick,Offensive Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,69,66,0.598,0.642,3:38
+3,1:47,BKN,Jalen Wilson,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,74,66,0.877,0.834,2:07
+3,1:18,TOR,Kelly Olynyk,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,76,66,0.825,0.868,1:22
+4,10:32,TOR,Jamal Shead,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,79,72,0.793,0.799,10:59
+4,9:40,BKN,Noah Clowney,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,79,72,0.896,0.847,9:41
+4,7:50,TOR,Chris Boucher,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,83,79,0.636,0.748,7:50
+4,7:37,TOR,Jamal Shead,Offensive Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,83,80,0.633,0.69,7:50
+4,6:33,BKN,Noah Clowney,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,83,82,0.65,0.586,6:33
+4,2:13,BKN,Ben Simmons,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,90,90,0.576,0.544,2:24
+4,1:20,TOR,Jamal Shead,Shooting Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,90,93,0.085,0.175,1:35
+4,1:02,TOR,Scottie Barnes,Offensive Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,90,95,0.058,0.108,1:20
+4,26.1,TOR,Jonathan Mogbo,Personal Take Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,90,95,0.011,0.036,28.1
+4,22.1,TOR,Scottie Barnes,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,90,97,0.001,0.004,22.1
+4,17.0,BKN,Noah Clowney,Personal Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,90,99,0.009,0.002,22.1
+4,14.1,TOR,Jamison Battle,Personal Take Foul,Foul,Derek Richardson,Eric Dalen,Ben Taylor,TOR,92,99,0.001,0.003,15.1

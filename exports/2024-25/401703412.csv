@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:10,ORL,Goga Bitadze,Offensive Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,8,4,0.525,0.496,9:18
+1,8:33,BKN,Tyrese Martin,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,11,7,0.5,0.498,8:40
+1,6:59,BKN,Cameron Johnson,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,17,12,0.512,0.53,6:59
+1,6:47,BKN,Nic Claxton,Loose Ball Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,17,14,0.479,0.479,6:47
+1,4:56,BKN,Jalen Wilson,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,19,21,0.316,0.353,5:12
+1,3:57,BKN,Tyrese Martin,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,21,25,0.27,0.303,4:04
+2,11:41,ORL,Jalen Suggs,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,31,33,0.405,0.356,11:41
+2,11:29,BKN,Trendon Watford,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,32,33,0.387,0.382,11:41
+2,11:16,ORL,Jonathan Isaac,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,32,33,0.455,0.413,11:18
+2,10:05,BKN,Ben Simmons,Loose Ball Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,32,33,0.39,0.415,10:08
+2,9:29,ORL,Anthony Black,Offensive Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,34,35,0.417,0.388,9:36
+2,9:29,ORL,Jalen Suggs,Double Technical Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,34,35,0.409,0.402,9:29
+2,8:54,BKN,Keon Johnson,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,34,35,0.391,0.389,8:59
+2,7:05,BKN,Tyrese Martin,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,39,40,0.393,0.393,7:19
+2,6:54,BKN,Jalen Wilson,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,39,40,0.349,0.393,7:05
+2,5:23,ORL,Wendell Carter Jr.,Offensive Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,39,44,0.307,0.278,5:24
+2,4:46,BKN,Cameron Johnson,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,42,44,0.321,0.363,5:05
+2,4:06,BKN,Shake Milton,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,44,46,0.344,0.364,4:06
+2,44.1,ORL,Goga Bitadze,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,46,61,0.108,0.099,1:07
+3,12:00,BKN,Nic Claxton,Technical Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,49,61,0.101,0.102,12:00
+3,9:49,ORL,Jalen Suggs,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,52,68,0.081,0.062,9:59
+3,8:21,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,54,74,0.024,0.024,8:33
+3,8:21,ORL,Kentavious Caldwell-Pope,Technical Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,54,74,0.029,0.024,8:21
+3,8:04,ORL,Goga Bitadze,Technical Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,55,76,0.022,0.019,8:04
+3,7:55,ORL,Goga Bitadze,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,55,76,0.018,0.019,8:04
+3,7:38,ORL,Wendell Carter Jr.,Offensive Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,55,76,0.018,0.014,7:44
+3,7:25,ORL,Jalen Suggs,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,55,76,0.025,0.018,7:38
+3,6:42,BKN,Ben Simmons,Offensive Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,55,78,0.008,0.01,6:56
+3,5:40,BKN,Trendon Watford,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,57,80,0.004,0.007,5:57
+3,4:24,ORL,Wendell Carter Jr.,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,61,86,0.004,0.002,4:24
+3,3:29,BKN,Trendon Watford,Offensive Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,62,86,0.003,0.004,3:37
+3,1:31,BKN,Nic Claxton,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,67,95,0.001,0.001,1:31
+3,1:20,ORL,Anthony Black,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,67,95,0.001,0.001,1:29
+3,54.2,BKN,Keon Johnson,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,69,95,0.001,0.001,56.1
+4,11:50,BKN,Keon Johnson,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,71,96,0.001,0.001,12:00
+4,10:29,BKN,Keon Johnson,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,74,98,0.001,0.001,10:53
+4,9:58,BKN,Trendon Watford,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,74,99,0.001,0.001,10:11
+4,9:14,ORL,Goga Bitadze,Offensive Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,79,99,0.002,0.002,9:27
+4,9:07,ORL,Wendell Carter Jr.,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,79,99,0.003,0.002,9:14
+4,5:26,BKN,Tyrese Martin,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,84,103,0.001,0.001,5:41
+4,4:10,ORL,Goga Bitadze,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,84,107,0.001,0.001,4:24
+4,3:59,ORL,Jalen Suggs,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,84,107,0.001,0.001,3:59
+4,3:57,ORL,Jalen Suggs,Personal Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,84,107,0.001,0.001,3:59
+4,3:17,ORL,Jalen Suggs,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,86,109,0.001,0.001,3:27
+4,2:40,ORL,Tristan da Silva,Shooting Foul,Foul,James Capers,Sean Wright,Brett Nansel,BKN,88,112,0.001,0.001,2:59

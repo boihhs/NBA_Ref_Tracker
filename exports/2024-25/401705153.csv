@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:25,ATL,Dyson Daniels,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,6,4,0.696,0.662,9:27
+1,7:39,BOS,Luke Kornet,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,14,8,0.712,0.75,7:39
+1,5:29,ATL,De'Andre Hunter,Personal Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,23,15,0.787,0.789,5:36
+1,4:32,BOS,Jaylen Brown,Personal Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,25,15,0.807,0.807,4:33
+1,3:46,BOS,Neemias Queta,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,25,15,0.778,0.808,3:57
+1,2:32,ATL,Trae Young,Personal Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,28,16,0.857,0.86,2:41
+1,2:12,BOS,Neemias Queta,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,28,18,0.793,0.828,2:12
+1,48.1,BOS,Derrick White,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,30,19,0.799,0.827,58.2
+2,10:13,BOS,Jayson Tatum,Technical Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,33,24,0.777,0.794,10:17
+2,9:42,ATL,Garrison Mathews,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,33,27,0.783,0.75,9:58
+2,8:53,BOS,Neemias Queta,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,35,27,0.737,0.773,8:59
+2,8:27,ATL,Dyson Daniels,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,35,28,0.79,0.775,8:27
+2,5:59,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,39,36,0.714,0.672,6:09
+2,3:59,BOS,Derrick White,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,40,40,0.497,0.545,4:03
+3,7:14,ATL,Clint Capela,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,55,64,0.278,0.228,7:23
+3,6:37,ATL,Clint Capela,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,57,64,0.344,0.29,6:50
+3,3:29,ATL,Onyeka Okongwu,Personal Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,67,68,0.516,0.517,3:44
+3,1:25,ATL,Onyeka Okongwu,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,70,68,0.712,0.644,1:33
+3,1:15,BOS,Derrick White,Personal Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,73,68,0.665,0.727,1:25
+3,1:07,BOS,Neemias Queta,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,73,68,0.696,0.722,1:07
+3,29.0,ATL,Bogdan Bogdanovic,Personal Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,76,70,0.853,0.809,30.0
+4,7:01,BOS,Luke Kornet,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,87,84,0.611,0.666,7:01
+4,6:46,BOS,Jayson Tatum,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,87,85,0.493,0.606,6:48
+4,6:24,ATL,De'Andre Hunter,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,89,87,0.719,0.601,6:24
+4,5:30,ATL,Clint Capela,Personal Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,90,89,0.626,0.608,5:52
+4,52.1,ATL,De'Andre Hunter,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,98,100,0.532,0.268,1:08
+4,20.1,ATL,Trae Young,Technical Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,102,100,0.885,0.831,20.1
+4,11.0,BOS,Jrue Holiday,Personal Take Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,103,100,0.618,0.844,13.2
+4,9.1,BOS,Jrue Holiday,Personal Take Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,103,100,0.631,0.618,11.0
+4,7.2,ATL,Vit Krejci,Personal Take Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,103,102,0.905,0.723,9.1
+4,3.1,BOS,Jrue Holiday,Personal Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,104,102,0.639,0.805,6.1
+5,4:19,ATL,De'Andre Hunter,Loose Ball Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,104,106,0.392,0.388,4:40
+5,2:00,BOS,Jaylen Brown,Shooting Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,113,113,0.36,0.549,2:00
+5,12.1,BOS,Payton Pritchard,Personal Take Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,115,116,0.112,0.237,19.0
+5,11.0,BOS,Jayson Tatum,Personal Take Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,115,116,0.109,0.184,11.0
+5,9.1,ATL,Dyson Daniels,Personal Take Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,115,118,0.365,0.144,11.0
+5,4.1,BOS,Payton Pritchard,Personal Take Foul,Foul,Phenizee Ransom,Gediminas Petraitis,Brandon Schwab,BOS,115,118,0.011,0.033,4.1

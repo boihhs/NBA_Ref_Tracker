@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:16,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,7,11,0.219,0.254,9:16
+1,8:43,OKC,Jalen Williams,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,7,14,0.225,0.198,8:55
+1,7:33,OKC,Chet Holmgren,Loose Ball Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,9,16,0.2,0.2,7:34
+1,5:57,OKC,Chet Holmgren,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,13,17,0.259,0.26,6:04
+1,4:46,OKC,Luguentz Dort,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,16,22,0.252,0.221,5:02
+1,3:40,DEN,Peyton Watson,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,21,22,0.308,0.308,3:46
+1,7:23,DEN,DEN,Delay Technical,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,9,17,0.172,0.244,2:53
+1,1:50,DEN,Julian Strawther,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,25,29,0.217,0.245,2:00
+1,1:17,OKC,Alex Caruso,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,25,32,0.239,0.208,1:37
+1,50.2,OKC,Alex Caruso,Loose Ball Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,27,32,0.282,0.25,50.2
+1,19.1,OKC,Ajay Mitchell,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,28,32,0.308,0.27,27.1
+2,11:29,OKC,Ousmane Dieng,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,30,32,0.362,0.321,11:37
+2,10:24,DEN,Hunter Tyson,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,31,35,0.22,0.25,10:35
+2,7:39,OKC,Cason Wallace,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,36,41,0.256,0.256,7:51
+2,6:04,DEN,Julian Strawther,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,39,45,0.195,0.235,6:04
+2,5:17,OKC,Ajay Mitchell,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,39,49,0.152,0.151,5:32
+2,4:50,OKC,Cason Wallace,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,41,49,0.224,0.189,4:53
+2,4:28,OKC,Luguentz Dort,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,43,49,0.273,0.235,4:39
+2,4:14,DEN,Peyton Watson,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,45,51,0.195,0.236,4:14
+2,3:14,DEN,Russell Westbrook,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,47,53,0.18,0.212,3:23
+2,2:52,DEN,Nikola Jokic,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,49,53,0.225,0.261,3:04
+2,1:14,DEN,Christian Braun,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,54,61,0.173,0.212,1:14
+2,35.1,OKC,Jalen Williams,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,54,64,0.175,0.146,40.1
+3,10:40,OKC,Isaiah Joe,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,58,69,0.123,0.125,10:46
+3,9:20,DEN,Michael Porter Jr.,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,62,71,0.138,0.138,9:23
+3,9:14,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,62,71,0.112,0.138,9:20
+3,8:37,DEN,Russell Westbrook,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,62,73,0.08,0.101,8:43
+3,8:22,DEN,DEN,Technical Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,62,76,0.052,0.06,8:22
+3,5:41,OKC,Isaiah Joe,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,75,84,0.149,0.151,5:42
+3,5:03,OKC,Jalen Williams,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,77,87,0.124,0.126,5:15
+3,3:20,OKC,Cason Wallace,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,87,87,0.528,0.46,3:23
+3,2:10,OKC,Alex Caruso,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,89,89,0.536,0.465,2:10
+3,2:04,DEN,Peyton Watson,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,91,89,0.444,0.512,2:10
+3,1:29,DEN,Julian Strawther,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,93,91,0.447,0.516,1:38
+3,36.1,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,93,92,0.596,0.526,41.1
+4,11:37,OKC,Ousmane Dieng,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,97,97,0.532,0.429,11:37
+4,10:22,DEN,Hunter Tyson,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,103,101,0.488,0.599,10:22
+4,9:48,OKC,Jalen Williams,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,103,102,0.559,0.543,9:53
+4,9:19,DEN,Russell Westbrook,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,103,102,0.477,0.496,9:23
+4,8:43,OKC,Luguentz Dort,Loose Ball Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,103,104,0.461,0.439,8:59
+4,8:20,DEN,Hunter Tyson,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,103,104,0.291,0.391,8:28
+4,7:46,DEN,Hunter Tyson,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,103,105,0.24,0.325,7:46
+4,7:11,DEN,Nikola Jokic,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,103,105,0.234,0.31,7:11
+4,6:29,OKC,Luguentz Dort,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,103,106,0.412,0.309,6:36
+4,4:15,DEN,Christian Braun,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,112,108,0.627,0.725,4:29
+4,1:54,OKC,Isaiah Joe,Personal Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,119,115,0.921,0.851,2:01
+4,27.0,OKC,Alex Caruso,Shooting Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,123,120,0.939,0.437,8:43
+4,16.0,OKC,Alex Caruso,Personal Take Foul,Foul,James Capers,J.B. DeRosa,Sha'Rae Mitchell,DEN,124,122,0.923,0.819,16.1

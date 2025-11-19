@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:23,MIA,Pelle Larsson,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,9,10,0.701,0.669,9:26
+1,8:29,DEN,Cameron Johnson,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,12,10,0.676,0.71,8:44
+1,7:55,DEN,Cameron Johnson,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,12,12,0.627,0.662,7:58
+1,7:18,MIA,Bam Adebayo,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,14,18,0.624,0.588,7:38
+1,6:13,DEN,Tim Hardaway Jr.,Personal Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,18,20,0.608,0.607,6:23
+1,6:10,DEN,Christian Braun,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,18,20,0.568,0.608,6:13
+1,5:53,MIA,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,18,22,0.619,0.583,6:10
+1,3:48,DEN,Christian Braun,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,24,27,0.527,0.57,4:02
+1,3:31,DEN,Bruce Brown,Personal Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,26,28,0.553,0.595,3:36
+1,1:42,MIA,Kel'el Ware,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,28,29,0.679,0.64,1:47
+2,11:42,MIA,Simone Fontecchio,Loose Ball Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,36,33,0.731,0.733,11:42
+2,11:20,MIA,Kel'el Ware,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,36,33,0.747,0.732,11:20
+2,8:36,DEN,Tim Hardaway Jr.,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,41,38,0.659,0.699,8:39
+2,8:32,DEN,Jonas Valanciunas,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,41,40,0.604,0.646,8:33
+2,8:16,MIA,Keshad Johnson,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,41,42,0.657,0.617,8:32
+2,7:50,MIA,Nikola Jovic,Personal Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,43,45,0.628,0.584,7:52
+2,7:32,MIA,Nikola Jovic,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,45,45,0.661,0.611,7:32
+2,6:36,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,48,47,0.706,0.665,6:40
+2,5:43,DEN,Bruce Brown,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,51,49,0.642,0.692,5:43
+2,4:46,DEN,Bruce Brown,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,54,50,0.676,0.717,4:53
+2,4:00,MIA,Davion Mitchell,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,56,52,0.761,0.715,4:00
+2,3:03,DEN,Cameron Johnson,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,59,57,0.632,0.687,3:03
+3,11:47,MIA,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,70,60,0.887,0.855,11:47
+3,10:56,MIA,Andrew Wiggins,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,74,64,0.9,0.877,11:04
+3,10:02,DEN,Jamal Murray,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,80,66,0.903,0.924,10:14
+3,6:25,MIA,Davion Mitchell,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,91,77,0.954,0.936,6:25
+3,4:26,MIA,Davion Mitchell,Loose Ball Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,92,82,0.922,0.898,4:26
+3,3:53,MIA,Kel'el Ware,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,92,82,0.924,0.899,3:59
+3,1:31,DEN,Peyton Watson,Loose Ball Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,99,84,0.949,0.965,1:31
+3,11.1,MIA,Keshad Johnson,Personal Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,99,86,0.974,0.96,21.6
+4,4:49,DEN,Nikola Jokic,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,112,99,0.976,0.987,5:08
+4,3:04,DEN,Aaron Gordon,Personal Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,115,106,0.962,0.964,3:12
+4,2:51,MIA,Kel'el Ware,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,115,106,0.991,0.98,2:57
+4,1:03,DEN,Jamal Murray,Shooting Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,118,108,0.979,0.993,1:14
+4,55.9,MIA,Andrew Wiggins,Personal Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,118,110,0.997,0.987,1:03
+4,32.3,MIA,Jaime Jaquez Jr.,Personal Take Foul,Foul,Courtney Kirkland,Andy Nagy,Matt Kallio,DEN,120,112,0.998,0.995,32.3

@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:16,MIN,Rudy Gobert,Offensive Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,5,0,0.748,0.728,10:23
+1,10:01,MIN,Rudy Gobert,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,5,0,0.75,0.748,10:16
+1,8:56,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,7,0,0.783,0.785,8:56
+1,7:00,MIN,Naz Reid,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,14,5,0.844,0.82,7:02
+1,6:48,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,16,7,0.788,0.82,6:48
+1,6:13,MEM,Jaylen Wells,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,16,8,0.755,0.784,6:21
+1,2:49,MEM,Brandon Clarke,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,19,13,0.71,0.743,2:54
+1,2:22,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,21,15,0.709,0.742,2:22
+1,1:44,MEM,Brandon Clarke,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,21,17,0.659,0.698,1:49
+1,1:44,MEM,Ja Morant,Technical Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,21,17,0.677,0.659,1:44
+1,1:09,MIN,Luka Garza,Offensive Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,21,22,0.592,0.56,1:14
+1,1.1,MIN,Luka Garza,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,21,28,0.456,0.413,12.1
+2,10:23,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,23,30,0.333,0.375,10:34
+2,9:35,MIN,Rob Dillingham,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,23,32,0.386,0.34,9:40
+2,8:47,MIN,Rob Dillingham,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,24,32,0.411,0.367,8:48
+2,8:22,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,26,32,0.396,0.393,8:22
+2,7:55,MIN,Mike Conley,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,26,34,0.359,0.362,8:08
+2,7:11,MEM,Jake LaRavia,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,26,36,0.252,0.299,7:11
+2,5:04,MIN,Mike Conley,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,30,39,0.358,0.285,5:21
+2,4:53,MEM,Jaylen Wells,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,32,39,0.297,0.34,5:04
+2,3:03,MEM,Zach Edey,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,36,47,0.179,0.214,3:11
+2,2:36,MEM,Ja Morant,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,36,49,0.133,0.165,2:45
+2,2:31,MIN,Julius Randle,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,36,51,0.177,0.144,2:36
+2,1:42,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,40,53,0.219,0.182,1:42
+2,41.0,MEM,Jake LaRavia,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,40,53,0.121,0.151,54.0
+2,36.1,MIN,Julius Randle,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,42,54,0.219,0.17,36.1
+3,10:46,MIN,Mike Conley,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,45,56,0.251,0.211,10:51
+3,7:31,MIN,Anthony Edwards,Offensive Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,52,61,0.238,0.209,7:42
+3,6:59,MEM,Luke Kennard,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,54,61,0.266,0.266,7:14
+3,6:29,MEM,Santi Aldama,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,54,64,0.135,0.171,6:37
+3,6:04,MIN,Julius Randle,Offensive Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,57,66,0.226,0.195,6:15
+3,5:26,MEM,Luke Kennard,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,60,66,0.236,0.288,5:42
+3,4:08,MIN,Julius Randle,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,60,68,0.296,0.239,4:10
+3,2:27,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,64,71,0.32,0.261,2:42
+3,1:55,MIN,Rob Dillingham,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,65,73,0.242,0.214,1:55
+3,44.0,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,69,75,0.185,0.238,49.2
+3,32.1,MEM,Brandon Clarke,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,69,75,0.183,0.185,44.0
+4,11:47,MIN,Jaden McDaniels,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,71,76,0.329,0.294,12:00
+4,11:28,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,73,76,0.346,0.36,11:37
+4,9:20,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,79,82,0.449,0.333,9:20
+4,6:30,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,88,95,0.112,0.121,6:43
+4,6:07,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,90,95,0.301,0.187,6:07
+4,5:57,MEM,Luke Kennard,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,91,95,0.223,0.244,6:07
+4,4:14,MIN,Naz Reid,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,95,100,0.312,0.209,4:29
+4,3:54,MIN,Rudy Gobert,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,98,100,0.53,0.413,3:54
+4,2:48,MIN,Naz Reid,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,102,100,0.783,0.734,2:48
+4,2:20,MIN,Rudy Gobert,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,104,100,0.927,0.867,2:26
+4,2:14,MEM,Ja Morant,Personal Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,106,100,0.82,0.906,2:20
+4,32.0,MEM,Brandon Clarke,Shooting Foul,Foul,Derrick Collins,Gediminas Petraitis,J.D. Ralls,MEM,108,105,0.6,0.761,41.1

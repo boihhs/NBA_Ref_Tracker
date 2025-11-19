@@ -1,0 +1,50 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:23,NY,Karl-Anthony Towns,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,5,4,0.697,0.67,10:33
+1,9:04,LAL,Luka Doncic,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,9,4,0.729,0.727,9:04
+1,8:32,LAL,Jaxson Hayes,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,9,6,0.667,0.707,8:32
+1,8:22,NY,Karl-Anthony Towns,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,9,7,0.716,0.686,8:32
+1,5:50,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,18,14,0.685,0.726,5:50
+1,3:58,NY,OG Anunoby,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,22,15,0.812,0.786,4:12
+1,1:36,LAL,Gabe Vincent,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,27,21,0.709,0.743,1:44
+1,56.1,NY,Landry Shamet,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,30,23,0.815,0.784,1:05
+1,47.1,NY,Josh Hart,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,30,23,0.815,0.815,56.1
+1,34.2,LAL,Trey Jemison III,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,31,23,0.752,0.782,47.1
+2,11:11,LAL,Trey Jemison III,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,31,27,0.694,0.695,11:11
+2,10:08,NY,Landry Shamet,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,31,30,0.679,0.642,10:23
+2,9:15,LAL,Jarred Vanderbilt,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,32,33,0.552,0.55,9:18
+2,9:08,LAL,Jaxson Hayes,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,32,33,0.507,0.552,9:15
+2,7:55,LAL,LeBron James,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,34,38,0.407,0.455,8:08
+2,6:26,LAL,Luka Doncic,Technical Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,38,42,0.421,0.478,6:26
+2,4:19,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,40,47,0.294,0.34,4:30
+2,1:51,NY,Josh Hart,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,44,57,0.221,0.185,2:09
+2,1:14,NY,Josh Hart,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,46,57,0.27,0.232,1:22
+2,30.0,NY,Mikal Bridges,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,47,57,0.294,0.25,33.0
+2,0.1,NY,OG Anunoby,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,49,60,0.265,0.224,7.1
+3,10:16,LAL,LeBron James,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,56,63,0.294,0.29,10:28
+3,9:48,LAL,Jaxson Hayes,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,56,65,0.189,0.227,9:54
+3,9:10,NY,Jalen Brunson,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,56,66,0.271,0.224,9:11
+3,8:37,NY,OG Anunoby,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,57,68,0.234,0.193,8:56
+3,7:39,LAL,Luka Doncic,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,59,70,0.158,0.157,7:42
+3,7:07,LAL,Austin Reaves,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,59,72,0.096,0.13,7:07
+3,4:53,NY,Jalen Brunson,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,63,74,0.201,0.159,5:01
+3,3:58,NY,Miles McBride,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,65,74,0.257,0.206,3:58
+3,2:45,LAL,Gabe Vincent,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,68,76,0.147,0.193,2:53
+3,1:09,LAL,Trey Jemison III,Loose Ball Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,73,80,0.157,0.206,1:09
+3,1:01,LAL,Gabe Vincent,Offensive Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,73,82,0.139,0.176,1:09
+4,11:02,LAL,Trey Jemison III,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,76,84,0.099,0.145,11:09
+4,9:18,LAL,Dorian Finney-Smith,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,78,88,0.069,0.074,9:24
+4,5:13,LAL,Luka Doncic,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,85,90,0.097,0.164,5:15
+4,3:55,NY,Josh Hart,Loose Ball Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,90,91,0.464,0.457,3:55
+4,3:13,NY,OG Anunoby,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,90,94,0.241,0.231,3:15
+4,1:39,LAL,Luka Doncic,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,96,96,0.285,0.455,1:51
+4,46.1,LAL,Jaxson Hayes,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,99,98,0.452,0.628,46.1
+4,22.0,NY,Karl-Anthony Towns,Loose Ball Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,99,99,0.746,0.52,22.0
+5,3:34,LAL,LeBron James,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,104,99,0.724,0.814,3:47
+5,2:31,LAL,Austin Reaves,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,107,103,0.784,0.787,2:40
+5,2:23,LAL,Jaxson Hayes,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,107,103,0.642,0.784,2:31
+5,1:24,LAL,Austin Reaves,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,107,105,0.465,0.652,1:26
+5,1:20,NY,Mitchell Robinson,Personal Take Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,107,107,0.694,0.501,1:24
+5,59.1,NY,Karl-Anthony Towns,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,107,107,0.701,0.694,1:20
+5,38.1,NY,Karl-Anthony Towns,Loose Ball Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,109,107,0.881,0.774,38.1
+5,10.1,LAL,Jaxson Hayes,Shooting Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,111,109,0.58,0.838,10.1
+5,9.1,NY,Miles McBride,Personal Foul,Foul,Tyler Ford,J.B. DeRosa,Nate Green,LAL,111,109,0.943,0.85,9.1

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:58,ORL,Paolo Banchero,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,3,0,0.384,0.384,11:03
+1,9:41,BOS,Jaylen Brown,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,3,7,0.288,0.257,9:55
+1,8:05,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,7,10,0.232,0.259,8:15
+1,5:33,BOS,Kristaps Porzingis,Offensive Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,14,19,0.245,0.223,5:50
+1,5:16,BOS,Jayson Tatum,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,14,19,0.244,0.245,5:33
+1,4:36,BOS,Sam Hauser,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,14,21,0.236,0.208,4:52
+1,4:24,ORL,Cole Anthony,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,15,21,0.181,0.208,4:36
+1,3:36,ORL,Paolo Banchero,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,17,22,0.199,0.227,3:58
+1,2:27,BOS,Payton Pritchard,Clear Path Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,24,22,0.464,0.423,2:27
+1,2:02,ORL,Anthony Black,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,25,22,0.385,0.425,2:13
+1,1:42,BOS,Payton Pritchard,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,25,22,0.496,0.45,1:59
+1,1:34,ORL,Franz Wagner,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,27,22,0.442,0.481,1:42
+1,6.1,ORL,Anthony Black,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,29,26,0.412,0.457,6.1
+2,10:45,ORL,Cole Anthony,Flagrant Foul Type 1,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,33,27,0.539,0.528,11:05
+2,10:30,BOS,Luke Kornet,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,33,29,0.547,0.504,10:35
+2,10:08,BOS,Kristaps Porzingis,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,35,31,0.503,0.504,10:16
+2,9:50,ORL,Anthony Black,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,35,31,0.476,0.506,9:50
+2,5:38,ORL,Wendell Carter Jr.,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,44,40,0.499,0.495,6:04
+2,5:17,BOS,Sam Hauser,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,44,42,0.469,0.468,5:27
+3,10:55,BOS,Jaylen Brown,Offensive Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,51,62,0.127,0.107,11:00
+3,10:17,ORL,Cory Joseph,Loose Ball Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,54,62,0.162,0.163,10:17
+3,9:42,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,56,62,0.282,0.238,9:49
+3,7:44,BOS,Kristaps Porzingis,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,61,62,0.463,0.405,8:05
+3,7:30,BOS,Jaylen Brown,Offensive Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,63,62,0.484,0.443,7:44
+3,6:15,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,65,62,0.47,0.531,6:18
+3,3:40,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,69,65,0.528,0.589,3:58
+3,1:17,ORL,Jonathan Isaac,Loose Ball Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,73,70,0.497,0.592,1:17
+3,7.0,BOS,Payton Pritchard,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,73,70,0.694,0.625,10.1
+4,10:10,BOS,Jaylen Brown,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,78,70,0.906,0.859,10:18
+4,10:00,ORL,Gary Harris,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,79,70,0.853,0.864,10:00
+4,9:06,ORL,Cole Anthony,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,79,72,0.786,0.8,9:11
+4,9:00,ORL,Cole Anthony,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,79,72,0.779,0.786,9:06
+4,8:14,ORL,Gary Harris,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,81,74,0.718,0.794,8:31
+4,7:21,BOS,Kristaps Porzingis,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,83,74,0.945,0.908,7:23
+4,7:01,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,85,74,0.974,0.954,7:04
+4,6:44,ORL,Franz Wagner,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,86,76,0.903,0.944,6:44
+4,5:52,ORL,Franz Wagner,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,86,82,0.645,0.75,5:52
+4,5:32,BOS,Al Horford,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,86,83,0.754,0.701,5:32
+4,5:10,BOS,Al Horford,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,88,83,0.883,0.822,5:10
+4,4:07,BOS,Jaylen Brown,Personal Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,89,85,0.864,0.79,4:19
+4,3:47,ORL,Paolo Banchero,Shooting Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,91,85,0.767,0.841,4:07
+4,3:12,ORL,Franz Wagner,Away from Play Foul,Foul,Courtney Kirkland,Jason Goldenberg,David Guthrie,ORL,91,88,0.565,0.841,4:07

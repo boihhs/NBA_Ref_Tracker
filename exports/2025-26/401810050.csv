@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:24,PHI,Tyrese Maxey,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,2,0,0.448,0.486,11:32
+1,10:01,DET,Jalen Duren,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,2,6,0.398,0.362,10:01
+1,9:40,DET,Cade Cunningham,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,3,6,0.421,0.385,9:42
+1,8:27,PHI,VJ Edgecombe,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,7,12,0.298,0.336,8:27
+1,7:42,DET,Duncan Robinson,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,9,15,0.349,0.315,7:58
+1,6:51,DET,Cade Cunningham,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,11,18,0.325,0.291,6:54
+1,4:32,DET,Duncan Robinson,Loose Ball Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,17,22,0.375,0.336,4:32
+1,4:06,PHI,Andre Drummond,Loose Ball Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,19,25,0.289,0.287,4:06
+1,1:46,PHI,Jabari Walker,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,23,29,0.25,0.286,1:59
+1,1:28,DET,Paul Reed,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,23,31,0.3,0.266,1:29
+2,10:11,DET,Bobi Klintman,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,36,39,0.431,0.39,10:24
+2,8:46,PHI,Quentin Grimes,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,42,42,0.448,0.445,8:51
+2,4:46,PHI,Tyrese Maxey,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,54,48,0.596,0.642,4:57
+2,3:31,PHI,Jared McCain,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,54,48,0.647,0.647,3:33
+2,2:37,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,54,48,0.603,0.652,2:41
+2,2:28,DET,Jalen Duren,Loose Ball Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,54,48,0.683,0.683,2:28
+2,29.0,DET,Ausar Thompson,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,62,54,0.793,0.755,33.4
+3,9:52,PHI,Trendon Watford,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,68,60,0.69,0.739,9:56
+3,9:33,DET,Cade Cunningham,Loose Ball Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,68,61,0.741,0.744,9:33
+3,9:30,PHI,Trendon Watford,Offensive Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,68,61,0.71,0.741,9:33
+3,8:50,PHI,Trendon Watford,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,68,65,0.542,0.61,8:50
+3,6:32,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,77,66,0.846,0.845,6:44
+3,6:32,PHI,Kelly Oubre Jr.,Technical Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,77,66,0.828,0.846,6:32
+3,5:58,PHI,Andre Drummond,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,79,66,0.862,0.893,6:06
+3,5:07,DET,Duncan Robinson,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,79,69,0.89,0.855,5:27
+3,2:33,DET,Duncan Robinson,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,81,81,0.504,0.506,2:48
+3,2:20,PHI,VJ Edgecombe,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,81,81,0.393,0.504,2:33
+3,1:42,PHI,VJ Edgecombe,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,84,82,0.485,0.556,1:48
+3,1:18,PHI,Jabari Walker,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,84,84,0.391,0.463,1:18
+3,42.8,DET,Cade Cunningham,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,84,86,0.484,0.413,46.3
+3,22.9,PHI,Adem Bona,Double Technical Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,85,86,0.425,0.41,26.1
+4,11:43,DET,Jalen Duren,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,85,88,0.455,0.341,12:00
+4,11:11,DET,Duncan Robinson,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,87,88,0.486,0.471,11:27
+4,9:01,DET,Ronald Holland II,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,89,91,0.443,0.423,9:13
+4,8:32,PHI,Adem Bona,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,92,91,0.441,0.54,8:33
+4,7:32,DET,Javonte Green,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,92,95,0.463,0.363,7:45
+4,6:30,PHI,Andre Drummond,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,94,97,0.249,0.3,6:30
+4,6:10,DET,Javonte Green,Personal Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,94,99,0.325,0.238,6:10
+4,6:10,DET,Javonte Green,Technical Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,94,99,0.281,0.325,6:10
+4,5:53,PHI,Tyrese Maxey,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,96,99,0.195,0.291,6:10
+4,5:40,DET,Duncan Robinson,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,96,100,0.374,0.283,5:51
+4,3:55,DET,Jalen Duren,Offensive Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,101,102,0.474,0.394,3:55
+4,2:27,PHI,VJ Edgecombe,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,101,106,0.08,0.167,2:27
+4,1:51,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,104,108,0.1,0.201,1:51
+4,31.4,DET,Jalen Duren,Shooting Foul,Foul,Marc Davis,J.B. DeRosa,Tyler Ricks,PHI,106,109,0.4,0.233,36.3

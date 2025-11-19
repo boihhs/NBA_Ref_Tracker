@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:13,IND,Tony Bradley,Loose Ball Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,0,2,0.361,0.361,11:13
+1,9:49,IND,Andrew Nembhard,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,2,10,0.249,0.217,9:49
+1,9:34,UTAH,Keyonte George,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,3,10,0.234,0.233,9:49
+1,9:15,UTAH,Jusuf Nurkic,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,5,14,0.169,0.198,9:15
+1,6:45,IND,Jeremiah Robinson-Earl,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,13,20,0.255,0.256,6:52
+1,5:58,IND,Aaron Nesmith,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,17,20,0.383,0.346,5:59
+1,5:30,UTAH,Keyonte George,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,18,22,0.297,0.322,5:42
+1,5:00,IND,Isaiah Jackson,Loose Ball Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,18,24,0.311,0.277,5:00
+1,4:14,UTAH,Jusuf Nurkic,Loose Ball Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,22,26,0.301,0.298,4:14
+1,3:51,UTAH,Isaiah Collier,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,22,26,0.299,0.323,3:56
+1,1:23,IND,Isaiah Jackson,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,31,34,0.391,0.353,1:32
+1,31.2,IND,Andrew Nembhard,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,36,34,0.535,0.492,34.2
+2,9:50,UTAH,Cody Williams,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,43,39,0.532,0.532,9:57
+2,8:20,IND,T.J. McConnell,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,48,41,0.7,0.659,8:22
+2,6:45,IND,Jarace Walker,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,53,41,0.829,0.796,6:50
+2,6:17,IND,Pascal Siakam,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,55,43,0.83,0.797,6:35
+2,3:59,UTAH,Keyonte George,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,61,47,0.834,0.833,4:16
+2,2:53,IND,Andrew Nembhard,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,64,51,0.872,0.843,3:05
+2,2:17,UTAH,Kyle Filipowski,Loose Ball Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,66,51,0.867,0.866,2:17
+2,1:23,UTAH,Ace Bailey,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,68,54,0.819,0.851,1:34
+2,56.0,UTAH,Isaiah Collier,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,68,54,0.822,0.854,1:00
+2,14.4,UTAH,Keyonte George,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,68,56,0.775,0.815,27.8
+3,10:12,UTAH,Lauri Markkanen,Loose Ball Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,77,63,0.873,0.872,10:12
+3,10:00,IND,Jeremiah Robinson-Earl,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,77,63,0.894,0.893,10:07
+3,10:00,IND,Andrew Nembhard,Away from Play Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,77,63,0.893,0.894,10:00
+3,9:13,IND,Pascal Siakam,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,81,66,0.915,0.899,9:23
+3,8:12,UTAH,Keyonte George,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,83,68,0.878,0.906,8:21
+3,8:02,IND,Aaron Nesmith,Personal Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,83,70,0.888,0.891,8:12
+3,7:18,IND,Aaron Nesmith,Technical Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,89,70,0.973,0.96,7:18
+3,5:10,UTAH,Ace Bailey,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,95,76,0.956,0.968,5:18
+3,3:54,UTAH,Lauri Markkanen,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,102,80,0.982,0.988,4:04
+3,3:28,UTAH,Isaiah Collier,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,102,82,0.972,0.981,3:31
+3,2:36,IND,Isaiah Jackson,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,106,84,0.993,0.99,2:46
+3,2:15,UTAH,Lauri Markkanen,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,108,84,0.992,0.995,2:22
+3,1:58,IND,Isaiah Jackson,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,108,86,0.996,0.994,2:15
+3,1:16,UTAH,Cody Williams,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,110,86,0.994,0.997,1:18
+3,1:04,IND,Jay Huff,Flagrant Foul Type 1,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,110,88,0.995,0.995,1:16
+3,1:00,IND,Ben Sheppard,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,111,88,0.998,0.995,1:04
+4,11:25,UTAH,Cody Williams,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,117,91,0.998,0.999,11:36
+4,11:05,IND,Tony Bradley,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,117,93,0.999,0.998,11:25
+4,10:52,IND,Pascal Siakam,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,119,93,0.999,0.999,11:05
+4,10:18,UTAH,Walter Clayton Jr.,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,119,96,0.998,0.998,10:30
+4,10:11,UTAH,Kyle Filipowski,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,119,96,0.996,0.998,10:18
+4,9:55,IND,Andrew Nembhard,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,119,98,0.998,0.997,10:01
+4,9:40,UTAH,Ace Bailey,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,122,100,0.996,0.998,9:40
+4,9:29,IND,Aaron Nesmith,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,122,101,0.998,0.997,9:40
+4,8:40,UTAH,Jusuf Nurkic,Offensive Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,124,104,0.996,0.997,9:02
+4,8:32,UTAH,Walter Clayton Jr.,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,124,104,0.993,0.996,8:40
+4,7:40,IND,Jeremiah Robinson-Earl,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,127,108,0.998,0.997,7:53
+4,5:34,IND,Ben Sheppard,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,136,117,0.999,0.999,5:48
+4,4:33,UTAH,Lauri Markkanen,Loose Ball Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,140,119,0.999,0.999,4:33
+4,4:00,UTAH,Svi Mykhailiuk,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,140,119,0.999,0.999,4:19
+4,1:48,IND,Isaiah Jackson,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,146,123,0.999,0.999,1:48
+4,1:14,UTAH,Isaiah Collier,Shooting Foul,Foul,James Capers,Nate Green,Dannica Mosher,UTAH,147,125,0.999,0.999,1:14

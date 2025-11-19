@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:29,BOS,Chris Boucher,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,5,3,0.539,0.539,10:29
+1,7:51,BOS,Josh Minott,Loose Ball Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,9,3,0.641,0.642,7:51
+1,6:18,CLE,Jaylon Tyson,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,11,3,0.715,0.715,6:37
+1,5:55,BOS,Anfernee Simons,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,13,5,0.675,0.718,5:55
+1,5:16,BOS,Xavier Tillman,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,13,5,0.658,0.694,5:19
+1,5:00,CLE,Craig Porter Jr.,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,13,7,0.707,0.671,5:16
+1,4:42,BOS,Xavier Tillman,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,16,7,0.683,0.717,4:56
+1,1:33,BOS,Anfernee Simons,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,28,12,0.84,0.862,1:52
+1,1:26,CLE,Tyrese Proctor,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,28,13,0.887,0.865,1:33
+1,4.9,BOS,Baylor Scheierman,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,33,17,0.858,0.883,4.9
+2,11:45,BOS,Chris Boucher,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,33,17,0.873,0.873,11:45
+2,11:17,CLE,Luke Travers,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,36,20,0.888,0.874,11:17
+2,11:11,BOS,Anfernee Simons,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,37,20,0.887,0.839,11:17
+2,9:45,BOS,Neemias Queta,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,39,22,0.871,0.891,9:50
+2,9:03,CLE,Thomas Bryant,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,39,25,0.887,0.864,9:09
+2,6:28,CLE,Larry Nance Jr.,Loose Ball Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,48,31,0.916,0.917,6:28
+2,4:45,BOS,Sam Hauser,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,50,31,0.915,0.932,5:00
+2,4:23,CLE,Jaylon Tyson,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,50,31,0.956,0.943,4:40
+2,3:50,CLE,Dean Wade,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,52,33,0.957,0.945,3:53
+2,3:23,BOS,Josh Minott,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,56,33,0.958,0.966,3:29
+2,3:09,CLE,Nae'Qwan Tomlin,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,56,35,0.971,0.963,3:23
+2,56.4,CLE,Craig Porter Jr.,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,67,43,0.988,0.983,58.7
+2,14.0,BOS,Jaylen Brown,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,70,45,0.981,0.987,14.0
+3,11:40,BOS,Payton Pritchard,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,70,48,0.968,0.977,11:40
+3,10:29,BOS,Derrick White,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,73,50,0.973,0.98,10:44
+3,8:48,CLE,Craig Porter Jr.,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,77,53,0.993,0.99,8:58
+3,8:44,BOS,Payton Pritchard,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,79,53,0.992,0.992,8:48
+3,8:13,BOS,Sam Hauser,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,82,53,0.995,0.996,8:24
+3,7:54,CLE,Dean Wade,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,82,55,0.997,0.995,8:13
+3,7:17,CLE,Jaylon Tyson,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,84,55,0.998,0.998,7:27
+3,4:15,CLE,Dean Wade,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,91,59,0.999,0.999,4:15
+3,3:12,BOS,Luka Garza,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,93,61,0.999,0.999,3:12
+3,1:29,BOS,Luka Garza,Offensive Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,96,69,0.998,0.999,1:35
+3,1:20,BOS,Josh Minott,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,96,69,0.998,0.998,1:29
+3,58.4,BOS,Luka Garza,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,96,71,0.997,0.998,1:10
+3,40.1,CLE,Tyrese Proctor,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,96,73,0.998,0.997,58.4
+3,1.4,CLE,Tristan Enaruna,Offensive Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,102,73,0.999,0.999,9.6
+4,11:44,BOS,Luka Garza,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,102,75,0.999,0.999,11:44
+4,10:31,CLE,Nae'Qwan Tomlin,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,109,76,0.999,0.999,10:31
+4,9:48,CLE,Craig Porter Jr.,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,113,79,0.999,0.999,9:52
+4,8:29,CLE,Craig Porter Jr.,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,113,81,0.999,0.999,8:32
+4,8:22,BOS,Baylor Scheierman,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,115,81,0.999,0.999,8:29
+4,8:19,BOS,Wendell Moore Jr.,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,115,81,0.999,0.999,8:22
+4,8:01,CLE,Jaylon Tyson,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,115,81,0.999,0.999,8:01
+4,7:13,CLE,Craig Porter Jr.,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,116,83,0.999,0.999,7:13
+4,5:31,BOS,Josh Minott,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,118,86,0.999,0.999,5:43
+4,4:51,CLE,Chaney Johnson,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,120,90,0.999,0.999,4:51
+4,4:05,BOS,Jalen Bridges,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,124,92,0.999,0.999,4:08
+4,4:00,BOS,Wendell Moore Jr.,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,124,93,0.999,0.999,4:03
+4,3:10,CLE,Miller Kopp,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,124,97,0.999,0.999,3:11
+4,2:31,BOS,RJ Luis Jr.,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,127,97,0.999,0.999,2:37
+4,2:17,CLE,Norchad Omier,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,127,98,0.999,0.999,2:31
+4,1:39,BOS,Max Shulga,Shooting Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,131,101,0.999,0.999,1:48
+4,1:03,BOS,Kendall Brown,Personal Foul,Foul,John Goble,Jenna Schroeder,Gina Catanzariti,BOS,133,105,0.999,0.999,1:03

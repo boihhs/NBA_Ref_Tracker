@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:40,GS,Stephen Curry,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,0,0,0.593,0.594,12:00
+1,8:53,GS,Draymond Green,Flagrant Foul Type 1,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,3,5,0.541,0.56,9:03
+1,5:18,HOU,Alperen Sengun,Offensive Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,14,13,0.628,0.603,5:26
+1,4:27,HOU,Tari Eason,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,14,15,0.613,0.576,4:41
+1,4:13,HOU,Dillon Brooks,Offensive Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,16,15,0.626,0.601,4:27
+1,3:43,GS,Brandin Podziemski,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,16,15,0.559,0.6,3:58
+1,2:07,HOU,Fred VanVleet,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,21,23,0.54,0.543,2:15
+1,57.0,GS,Stephen Curry,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,21,23,0.466,0.51,1:02
+2,11:23,HOU,Aaron Holiday,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,21,25,0.519,0.473,11:28
+2,10:02,GS,Moses Moody,Loose Ball Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,25,30,0.409,0.408,10:02
+2,9:51,GS,Moses Moody,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,25,30,0.366,0.409,10:02
+2,7:11,GS,Gary Payton II,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,30,36,0.325,0.399,7:34
+2,6:54,HOU,Steven Adams,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,30,37,0.412,0.368,7:11
+2,5:37,GS,Kevon Looney,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,35,39,0.397,0.423,5:58
+2,4:30,HOU,Amen Thompson,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,35,45,0.265,0.265,4:39
+2,3:49,GS,Stephen Curry,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,35,45,0.197,0.235,3:58
+2,2:44,HOU,Dillon Brooks,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,40,46,0.401,0.343,2:44
+2,2:22,HOU,Fred VanVleet,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,41,46,0.455,0.408,2:30
+2,0.1,HOU,Dillon Brooks,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,48,53,0.426,0.365,0.1
+3,10:22,GS,Buddy Hield,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,53,58,0.299,0.35,10:31
+3,9:18,HOU,Dillon Brooks,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,56,62,0.343,0.344,9:29
+3,7:51,HOU,Alperen Sengun,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,61,65,0.437,0.369,7:51
+3,7:40,GS,Quinten Post,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,62,67,0.305,0.368,7:40
+3,7:05,GS,Gary Payton II,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,62,67,0.33,0.366,7:08
+3,6:56,GS,Quinten Post,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,62,67,0.273,0.33,7:05
+3,3:43,GS,Kevon Looney,Personal Take Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,72,77,0.244,0.302,3:46
+3,3:10,GS,Quinten Post,Personal Take Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,74,79,0.239,0.298,3:19
+3,2:21,GS,Quinten Post,Personal Take Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,77,82,0.23,0.29,2:29
+3,1:01,GS,Quinten Post,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,80,84,0.254,0.319,1:27
+3,1.1,HOU,Tari Eason,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,82,86,0.429,0.354,9.1
+4,11:54,GS,Gary Payton II,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,84,89,0.219,0.309,11:54
+4,11:19,GS,Draymond Green,Loose Ball Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,84,90,0.196,0.208,11:19
+4,10:46,HOU,Jabari Smith Jr.,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,84,92,0.233,0.199,11:04
+4,9:23,GS,Stephen Curry,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,88,92,0.256,0.272,9:31
+4,8:33,HOU,Jalen Green,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,88,94,0.299,0.216,8:36
+4,7:53,GS,Brandin Podziemski,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,89,96,0.087,0.133,7:57
+4,5:31,GS,Jimmy Butler III,Personal Take Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,89,101,0.009,0.016,5:36
+4,5:30,GS,Buddy Hield,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,89,101,0.009,0.015,5:30
+4,5:18,GS,Buddy Hield,Loose Ball Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,89,103,0.003,0.006,5:21
+4,4:14,HOU,Fred VanVleet,Offensive Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,89,106,0.001,0.001,4:21
+4,3:53,HOU,Alperen Sengun,Flagrant Foul Type 1,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,89,106,0.001,0.001,3:57
+4,3:39,GS,Buddy Hield,Personal Take Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,91,106,0.001,0.001,3:45
+4,3:24,GS,Jimmy Butler III,Personal Take Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,94,107,0.001,0.003,3:35
+4,3:07,HOU,Amen Thompson,Shooting Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,94,108,0.007,0.002,3:08
+4,3:05,GS,Brandin Podziemski,Personal Take Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,95,108,0.001,0.002,3:07
+4,2:24,GS,Draymond Green,Personal Take Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,97,110,0.001,0.001,2:32
+4,1:51,GS,Braxton Key,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,99,112,0.001,0.001,2:14
+4,1:32,GS,Pat Spencer,Personal Foul,Foul,James Capers,Mitchell Ervin,J.B. DeRosa,GS,99,114,0.001,0.001,1:40

@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:45,NY,Karl-Anthony Towns,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,6,4,0.457,0.412,7:45
+1,7:30,NY,Mikal Bridges,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,8,4,0.51,0.464,7:30
+1,5:11,NY,Jalen Brunson,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,13,6,0.583,0.582,5:21
+1,4:06,DAL,Dereck Lively II,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,18,6,0.658,0.693,4:13
+1,4:05,DAL,Dereck Lively II,Loose Ball Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,18,7,0.671,0.671,4:05
+1,2:25,DAL,Maxi Kleber,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,23,7,0.767,0.799,2:29
+1,2:03,DAL,Jazian Gortman,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,23,9,0.722,0.759,2:12
+1,1:56,DAL,Jazian Gortman,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,23,9,0.722,0.722,2:03
+1,59.0,DAL,Maxi Kleber,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,23,13,0.619,0.661,1:07
+1,49.1,NY,Karl-Anthony Towns,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,23,15,0.679,0.635,59.0
+2,10:38,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,30,18,0.692,0.732,10:50
+2,9:57,NY,Josh Hart,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,33,20,0.785,0.784,10:04
+2,9:13,DAL,Spencer Dinwiddie,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,38,20,0.87,0.869,9:21
+2,6:16,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,46,22,0.943,0.955,6:25
+2,6:00,DAL,Kyrie Irving,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,46,24,0.921,0.939,6:03
+2,5:48,DAL,Quentin Grimes,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,46,26,0.907,0.929,5:48
+2,5:38,NY,Josh Hart,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,46,27,0.917,0.918,5:48
+2,4:11,NY,Jericho Sims,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,49,29,0.95,0.936,4:19
+2,3:25,DAL,Naji Marshall,Loose Ball Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,51,32,0.893,0.916,3:25
+2,2:34,NY,Jericho Sims,Loose Ball Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,53,34,0.948,0.933,2:34
+3,11:25,NY,OG Anunoby,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,60,38,0.979,0.97,11:39
+3,10:06,DAL,Dereck Lively II,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,63,40,0.966,0.975,10:24
+3,7:46,DAL,P.J. Washington,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,69,52,0.923,0.946,7:46
+3,6:48,DAL,Kyrie Irving,Loose Ball Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,73,53,0.968,0.969,6:48
+3,6:30,NY,Jalen Brunson,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,73,55,0.962,0.961,6:39
+3,5:51,DAL,Naji Marshall,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,73,57,0.922,0.945,5:51
+3,4:20,DAL,Spencer Dinwiddie,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,77,60,0.936,0.963,4:30
+3,3:29,DAL,Maxi Kleber,Loose Ball Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,81,62,0.964,0.975,3:29
+3,2:45,NY,Jericho Sims,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,81,65,0.974,0.961,3:00
+3,49.1,NY,Miles McBride,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,88,71,0.987,0.98,1:03
+3,0.1,NY,Jalen Brunson,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,90,71,0.992,0.991,4.1
+4,10:27,NY,Cameron Payne,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,96,74,0.999,0.996,10:27
+4,9:11,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,99,76,0.997,0.998,9:18
+4,8:18,DAL,Kyrie Irving,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,101,81,0.996,0.997,8:24
+4,6:59,NY,Josh Hart,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,103,87,0.996,0.993,7:09
+4,5:53,NY,OG Anunoby,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,105,91,0.995,0.988,6:24
+4,5:02,DAL,Spencer Dinwiddie,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,110,93,0.997,0.997,5:13
+4,4:12,DAL,Dereck Lively II,Shooting Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,113,95,0.997,0.998,4:29
+4,1:24,DAL,Kyrie Irving,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,121,105,0.999,0.999,1:32
+4,1:14,NY,Jalen Brunson,Personal Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,121,107,0.999,0.999,1:16
+4,1:08,NY,Karl-Anthony Towns,Personal Take Foul,Foul,Derrick Collins,Zach Zarba,Mitchell Ervin,DAL,121,107,0.999,0.999,1:14

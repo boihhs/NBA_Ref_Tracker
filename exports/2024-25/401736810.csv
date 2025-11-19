@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:00,NO,Yves Missi,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,2,8,0.619,0.58,9:03
+1,7:59,NO,Dejounte Murray,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,6,8,0.706,0.674,8:09
+1,7:04,NO,Yves Missi,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,7,8,0.724,0.693,7:13
+1,6:47,NO,CJ McCollum,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,9,8,0.763,0.735,6:50
+1,6:36,NO,Daniel Theis,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,9,8,0.762,0.763,6:47
+1,5:30,NO,Javonte Green,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,14,10,0.815,0.791,5:45
+1,5:14,IND,Myles Turner,Loose Ball Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,16,10,0.805,0.806,5:14
+1,4:47,IND,Tyrese Haliburton,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,16,13,0.715,0.746,4:51
+1,3:33,IND,T.J. McConnell,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,23,20,0.745,0.744,3:39
+1,3:12,IND,Thomas Bryant,Defensive 3-Seconds Technical,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,23,20,0.747,0.745,3:33
+1,52.1,NO,Javonte Green,Offensive Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,29,26,0.756,0.737,1:02
+2,11:21,IND,Johnny Furphy,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,34,28,0.765,0.796,11:41
+2,11:02,NO,CJ McCollum,Offensive Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,34,29,0.796,0.796,11:07
+2,8:11,IND,Jarace Walker,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,39,32,0.811,0.81,8:12
+2,7:12,NO,Brandon Boston,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,41,34,0.829,0.828,7:14
+2,6:35,NO,Brandon Boston,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,41,34,0.855,0.829,6:36
+2,5:32,IND,Andrew Nembhard,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,48,34,0.917,0.916,5:39
+2,5:01,IND,Bennedict Mathurin,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,48,34,0.9,0.917,5:05
+2,2:12,NO,CJ McCollum,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,51,40,0.916,0.897,2:24
+2,2:12,NO,Daniel Theis,Technical Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,52,40,0.918,0.918,2:12
+2,1:44,NO,Herbert Jones,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,56,40,0.957,0.943,1:44
+2,1:21,IND,Bennedict Mathurin,Offensive Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,57,40,0.952,0.959,1:27
+3,8:51,IND,Bennedict Mathurin,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,67,49,0.963,0.968,8:51
+3,7:50,IND,Myles Turner,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,74,51,0.988,0.99,7:50
+3,6:57,NO,Herbert Jones,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,77,54,0.993,0.993,7:13
+3,6:03,IND,Pascal Siakam,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,77,57,0.977,0.983,6:11
+3,5:40,NO,CJ McCollum,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,79,61,0.983,0.975,5:40
+3,5:35,IND,Bennedict Mathurin,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,80,61,0.972,0.98,5:40
+3,5:08,IND,Johnny Furphy,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,82,63,0.973,0.98,5:22
+3,5:08,NO,NO,Technical Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,82,63,0.987,0.973,5:08
+3,2:36,IND,T.J. McConnell,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,93,76,0.973,0.983,2:36
+3,1:41,IND,Obi Toppin,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,96,78,0.981,0.989,1:41
+3,1:08,IND,Pascal Siakam,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,96,80,0.97,0.981,1:08
+3,58.1,IND,Johnny Furphy,Offensive Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,96,80,0.977,0.981,1:06
+4,11:04,IND,Obi Toppin,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,102,80,0.997,0.996,11:20
+4,9:49,IND,T.J. McConnell,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,102,80,0.997,0.997,9:59
+4,9:24,IND,Johnny Furphy,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,102,80,0.996,0.998,9:30
+4,9:11,NO,CJ McCollum,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,102,82,0.997,0.997,9:24
+4,6:07,NO,Herbert Jones,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,106,91,0.996,0.993,6:11
+4,5:40,NO,CJ McCollum,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,107,91,0.998,0.996,5:53
+4,3:31,IND,Myles Turner,Shooting Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,113,96,0.998,0.999,3:32
+4,3:17,NO,Yves Missi,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,113,98,0.999,0.998,3:31
+4,1:45,NO,Brandon Boston,Personal Foul,Foul,Matt Boland,Marat Kogut,Tony Brothers,IND,115,102,0.999,0.999,1:51

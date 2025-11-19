@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:10,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,0,7,0.437,0.4,10:29
+1,8:03,ORL,Goga Bitadze,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,9,11,0.524,0.524,8:13
+1,6:55,PHX,Mason Plumlee,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,12,11,0.535,0.573,7:04
+1,4:01,PHX,Royce O'Neale,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,15,16,0.475,0.517,4:10
+1,3:49,ORL,Moritz Wagner,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,15,18,0.529,0.487,4:01
+1,5.0,ORL,Gary Harris,Personal Take Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,22,26,0.495,0.45,10.1
+2,11:46,ORL,Gary Harris,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,22,26,0.493,0.435,12:00
+2,11:30,PHX,Josh Okogie,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,23,26,0.405,0.448,11:45
+2,11:19,ORL,Moritz Wagner,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,23,28,0.418,0.419,11:30
+2,11:16,PHX,Grayson Allen,Offensive Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,23,28,0.389,0.418,11:19
+2,10:16,ORL,Jonathan Isaac,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,23,30,0.401,0.359,10:27
+2,9:37,PHX,Grayson Allen,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,25,30,0.341,0.383,9:43
+2,9:27,ORL,Jonathan Isaac,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,27,32,0.435,0.382,9:27
+2,6:49,PHX,Ryan Dunn,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,33,39,0.345,0.344,7:05
+2,6:21,ORL,Goga Bitadze,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,33,42,0.327,0.286,6:41
+2,4:26,PHX,Josh Okogie,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,39,45,0.289,0.335,4:49
+2,6:10,PHX,Oso Ighodaro,Loose Ball Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,34,42,0.245,0.289,4:26
+2,3:03,ORL,Anthony Black,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,41,52,0.253,0.217,3:17
+2,2:35,PHX,Devin Booker,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,43,52,0.199,0.238,2:37
+2,21.1,PHX,Royce O'Neale,Flagrant Foul Type 1,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,48,59,0.18,0.173,26.1
+3,11:07,ORL,Goga Bitadze,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,48,67,0.052,0.054,11:25
+3,9:30,ORL,Franz Wagner,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,52,67,0.109,0.079,9:30
+3,9:25,PHX,Mason Plumlee,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,52,67,0.081,0.079,9:29
+3,7:45,ORL,Jalen Suggs,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,57,71,0.101,0.102,7:55
+3,6:42,ORL,Tristan da Silva,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,59,73,0.123,0.094,6:47
+3,3:07,ORL,Franz Wagner,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,63,78,0.077,0.058,3:26
+3,2:23,PHX,Grayson Allen,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,66,80,0.051,0.051,2:36
+3,1:43,PHX,Devin Booker,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,66,80,0.032,0.047,1:58
+3,1:30,PHX,Devin Booker,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,66,80,0.039,0.045,1:30
+3,47.1,ORL,Cole Anthony,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,66,81,0.061,0.042,52.0
+4,12:00,PHX,Devin Booker,Technical Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,68,84,0.015,0.024,0.0
+4,11:42,PHX,Mason Plumlee,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,68,86,0.007,0.014,11:42
+4,8:29,ORL,Jonathan Isaac,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,74,92,0.011,0.006,8:46
+4,7:29,ORL,Goga Bitadze,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,78,94,0.02,0.009,7:36
+4,6:26,PHX,Devin Booker,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,83,96,0.015,0.018,6:48
+4,5:11,ORL,Goga Bitadze,Offensive Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,85,98,0.015,0.011,5:30
+4,4:08,PHX,Grayson Allen,Offensive Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,88,98,0.022,0.038,4:23
+4,3:14,PHX,Devin Booker,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,91,98,0.027,0.064,3:36
+4,2:44,PHX,Tyus Jones,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,91,100,0.007,0.019,2:58
+4,1:32,PHX,Josh Okogie,Shooting Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,93,104,0.001,0.002,1:54
+4,1.1,PHX,Ryan Dunn,Personal Foul,Foul,Sean Corbin,Tyler Ford,John Butler,PHX,99,107,0.001,0.001,16.0

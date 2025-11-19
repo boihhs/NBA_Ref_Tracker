@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:24,OKC,Jalen Williams,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,8,3,0.733,0.763,9:34
+1,8:39,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,8,4,0.743,0.742,8:48
+1,8:08,OKC,Luguentz Dort,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,10,4,0.78,0.781,8:18
+1,6:14,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,16,8,0.786,0.813,6:40
+1,4:33,OKC,Aaron Wiggins,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,18,15,0.677,0.713,4:43
+1,34.0,OKC,Dillon Jones,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,25,22,0.665,0.703,50.0
+2,11:28,LAC,Ivica Zubac,Offensive Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,25,24,0.676,0.647,11:35
+2,6:51,LAC,Kris Dunn,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,35,34,0.702,0.662,6:54
+2,6:37,OKC,Ousmane Dieng,Defensive 3-Seconds Technical,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,37,34,0.695,0.687,6:51
+2,4:24,LAC,Norman Powell,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,47,42,0.78,0.736,4:24
+2,3:58,OKC,Kenrich Williams,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,48,42,0.761,0.761,4:03
+2,3:56,LAC,Amir Coffey,Offensive Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,48,42,0.784,0.761,3:58
+2,3:46,LAC,James Harden,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,48,42,0.785,0.784,3:56
+2,1:33,LAC,James Harden,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,56,48,0.86,0.829,1:46
+2,1:20,OKC,Luguentz Dort,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,58,50,0.792,0.829,1:20
+2,1:02,LAC,Norman Powell,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,60,50,0.884,0.852,1:02
+2,4.1,LAC,Amir Coffey,Loose Ball Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,64,53,0.91,0.889,4.1
+3,10:12,LAC,James Harden,Offensive Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,70,59,0.895,0.875,10:22
+3,9:35,OKC,Jalen Williams,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,73,59,0.903,0.923,9:39
+3,9:23,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,73,61,0.931,0.911,9:35
+3,8:36,LAC,Derrick Jones Jr.,Technical Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,78,63,0.956,0.949,8:36
+3,6:27,LAC,Derrick Jones Jr.,Offensive Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,85,67,0.977,0.97,6:42
+3,4:13,OKC,Cason Wallace,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,91,75,0.949,0.962,4:27
+3,3:29,OKC,Alex Caruso,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,91,79,0.919,0.919,3:32
+3,3:19,LAC,James Harden,Transition Take Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,91,79,0.935,0.935,3:21
+3,2:35,LAC,James Harden,Loose Ball Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,92,81,0.923,0.923,2:51
+3,2:13,OKC,Ajay Mitchell,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,95,83,0.912,0.94,2:13
+3,2:02,LAC,Kris Dunn,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,95,83,0.958,0.94,2:11
+3,1:51,OKC,Alex Caruso,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,97,83,0.934,0.953,2:02
+3,9.1,LAC,Norman Powell,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,97,91,0.864,0.82,25.1
+3,3:10,OKC,Luguentz Dort,Offensive Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,92,79,0.934,0.768,0.0
+4,11:33,LAC,Kris Dunn,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,99,96,0.725,0.715,11:47
+4,11:02,LAC,Kris Dunn,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,99,96,0.791,0.721,11:08
+4,10:09,LAC,Norman Powell,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,103,99,0.785,0.771,10:22
+4,9:32,OKC,Isaiah Joe,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,107,99,0.872,0.881,9:39
+4,8:04,OKC,Alex Caruso,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,110,101,0.885,0.913,8:05
+4,7:50,OKC,Jalen Williams,Loose Ball Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,110,103,0.842,0.855,7:50
+4,7:20,LAC,Kris Dunn,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,110,103,0.928,0.886,7:33
+4,7:10,OKC,Alex Caruso,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,111,103,0.838,0.892,7:19
+4,5:46,OKC,Alex Caruso,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,113,105,0.855,0.904,5:48
+4,4:40,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,117,110,0.827,0.887,4:54
+4,3:32,OKC,Luguentz Dort,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,121,113,0.887,0.93,3:47
+4,2:14,OKC,Luguentz Dort,Personal Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,124,120,0.677,0.79,2:21
+4,1:32,LAC,Norman Powell,Away from Play Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,127,123,0.932,0.865,1:46
+4,42.1,OKC,Jalen Williams,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,130,127,0.678,0.855,42.1
+4,22.1,LAC,Amir Coffey,Shooting Foul,Foul,Curtis Blair,Jason Goldenberg,Aaron Smith,OKC,130,128,0.908,0.771,42.1

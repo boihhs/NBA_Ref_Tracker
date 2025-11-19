@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:21,GS,Trayce Jackson-Davis,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,5,2,0.839,0.839,9:21
+1,7:54,WSH,Bub Carrington,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,8,5,0.848,0.85,8:02
+1,6:47,WSH,Kyle Kuzma,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,10,7,0.864,0.846,6:59
+1,6:39,GS,Gui Santos,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,11,7,0.822,0.844,6:42
+1,5:28,GS,Gui Santos,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,13,13,0.759,0.791,5:28
+1,2:52,GS,Buddy Hield,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,18,20,0.68,0.716,2:56
+1,6.2,WSH,Bub Carrington,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,25,29,0.707,0.669,15.0
+2,11:20,GS,Moses Moody,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,25,32,0.551,0.55,11:24
+2,11:16,GS,Kevon Looney,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,25,32,0.504,0.551,11:20
+2,11:05,WSH,Kyshawn George,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,25,34,0.519,0.518,11:16
+2,9:39,WSH,Kyle Kuzma,Offensive Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,30,34,0.651,0.621,9:39
+2,7:33,WSH,Jonas Valanciunas,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,35,36,0.713,0.713,7:35
+2,5:15,WSH,Kyshawn George,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,40,41,0.736,0.699,5:28
+2,4:19,GS,Andrew Wiggins,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,43,47,0.546,0.602,4:19
+2,3:01,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,45,54,0.333,0.386,3:11
+2,2:34,GS,Kevon Looney,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,48,55,0.396,0.45,2:46
+3,11:33,GS,Trayce Jackson-Davis,Offensive Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,53,62,0.333,0.37,11:46
+3,10:08,WSH,Jordan Poole,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,58,65,0.427,0.425,10:13
+3,8:28,GS,Stephen Curry,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,62,65,0.464,0.524,8:46
+3,8:13,WSH,Kyle Kuzma,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,62,65,0.616,0.562,8:26
+3,7:56,WSH,Jordan Poole,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,63,65,0.593,0.595,7:58
+3,4:02,WSH,Bilal Coulibaly,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,74,79,0.493,0.432,4:25
+3,3:53,GS,Buddy Hield,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,76,79,0.468,0.468,4:02
+3,2:53,WSH,Jonas Valanciunas,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,78,81,0.569,0.505,3:05
+3,1:56,GS,Kevon Looney,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,82,85,0.373,0.441,1:58
+3,1:36,GS,Dennis Schroder,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,82,86,0.321,0.393,1:47
+3,57.0,WSH,Kyle Kuzma,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,84,87,0.552,0.481,1:00
+3,37.0,WSH,Kyshawn George,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,88,87,0.697,0.618,37.0
+4,8:55,WSH,Bub Carrington,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,94,96,0.583,0.482,8:59
+4,8:15,WSH,Jonas Valanciunas,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,96,96,0.694,0.598,8:30
+4,6:13,WSH,Bilal Coulibaly,Loose Ball Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,102,100,0.732,0.715,6:13
+4,4:13,GS,Gary Payton II,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,106,103,0.719,0.72,4:24
+4,3:50,WSH,Jordan Poole,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,108,103,0.915,0.839,3:50
+4,3:32,WSH,Bub Carrington,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,109,103,0.958,0.926,3:36
+4,3:20,GS,Gary Payton II,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,110,103,0.867,0.926,3:28
+4,1:39,GS,Kevon Looney,Shooting Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,115,108,0.889,0.955,1:45
+4,19.1,WSH,Bilal Coulibaly,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,120,113,0.998,0.994,21.1
+4,16.0,GS,Dennis Schroder,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,121,113,0.981,0.993,18.1
+4,13.1,WSH,Jordan Poole,Personal Foul,Foul,Josh Tiven,Jacyn Goble,Nate Green,GS,121,114,0.998,0.996,16.0

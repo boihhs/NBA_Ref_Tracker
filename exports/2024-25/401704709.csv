@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,SAC,Keegan Murray,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,0,0,0.253,0.222,12:00
+1,11:12,TOR,Davion Mitchell,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,2,0,0.233,0.246,11:19
+1,8:20,SAC,Doug McDermott,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,7,9,0.206,0.205,8:27
+1,6:58,SAC,De'Aaron Fox,Transition Take Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,10,11,0.229,0.229,6:59
+1,3:19,TOR,Chris Boucher,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,22,21,0.237,0.266,3:32
+1,2:39,TOR,Ja'Kobe Walter,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,24,23,0.24,0.269,2:58
+1,2:05,TOR,Jamal Shead,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,27,24,0.288,0.321,2:23
+1,1:36,TOR,Jonathan Mogbo,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,30,24,0.366,0.405,1:46
+1,1:02,TOR,Jonathan Mogbo,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,32,26,0.371,0.409,1:20
+1,53.0,SAC,Keegan Murray,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,32,27,0.456,0.379,1:36
+1,30.0,SAC,De'Aaron Fox,Offensive Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,36,29,0.476,0.441,40.1
+1,8.0,SAC,Malik Monk,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,36,29,0.5,0.479,8.0
+2,10:29,SAC,Trey Lyles,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,42,32,0.607,0.585,10:35
+2,9:42,TOR,RJ Barrett,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,45,34,0.548,0.594,9:57
+2,9:30,TOR,Jonathan Mogbo,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,45,36,0.535,0.535,9:32
+2,9:24,TOR,Jonathan Mogbo,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,45,36,0.537,0.535,9:30
+2,6:56,SAC,Malik Monk,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,53,44,0.644,0.595,7:01
+2,5:18,TOR,Ja'Kobe Walter,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,57,48,0.558,0.615,5:18
+2,4:30,TOR,Ochai Agbaji,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,59,49,0.599,0.622,4:30
+2,1:33,SAC,Malik Monk,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,65,57,0.675,0.627,1:44
+2,26.1,SAC,Domantas Sabonis,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,65,61,0.549,0.496,32.1
+2,1.1,TOR,Jamal Shead,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,66,61,0.443,0.499,1.1
+3,10:55,TOR,Jakob Poeltl,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,66,63,0.385,0.436,11:09
+3,8:35,SAC,Keegan Murray,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,72,66,0.67,0.49,7:39
+3,8:17,TOR,Jakob Poeltl,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,74,66,0.596,0.65,8:35
+3,8:05,SAC,Doug McDermott,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,74,68,0.675,0.619,8:17
+3,8:03,TOR,Davion Mitchell,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,76,68,0.656,0.655,8:05
+3,5:32,TOR,Jakob Poeltl,Loose Ball Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,83,73,0.711,0.766,5:32
+3,4:20,SAC,Domantas Sabonis,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,83,77,0.727,0.667,4:34
+3,3:35,SAC,Domantas Sabonis,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,85,79,0.739,0.678,3:45
+3,1:44,SAC,Domantas Sabonis,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,90,86,0.654,0.571,1:44
+4,8:56,TOR,Ochai Agbaji,Loose Ball Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,101,92,0.852,0.862,8:56
+4,8:54,TOR,Ochai Agbaji,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,101,92,0.846,0.852,8:56
+4,8:00,SAC,Keegan Murray,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,101,94,0.89,0.832,8:14
+4,7:26,TOR,Jakob Poeltl,Offensive Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,103,94,0.879,0.906,7:41
+4,3:38,TOR,Jakob Poeltl,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,111,104,0.802,0.89,3:45
+4,3:26,TOR,Davion Mitchell,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,111,105,0.747,0.846,3:35
+4,2:58,TOR,Jakob Poeltl,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,111,109,0.515,0.657,2:58
+4,2:08,SAC,Domantas Sabonis,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,111,110,0.732,0.598,2:12
+4,2:02,TOR,Davion Mitchell,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,113,110,0.549,0.684,2:08
+4,1:40,TOR,Jonathan Mogbo,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,116,112,0.638,0.77,1:47
+4,16.0,SAC,Keegan Murray,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,119,118,0.86,0.654,19.0
+4,10.2,SAC,Keegan Murray,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,119,118,0.876,0.86,16.0
+5,2:56,TOR,Jonathan Mogbo,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,124,122,0.559,0.705,2:56
+5,2:40,SAC,Keon Ellis,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,124,123,0.751,0.626,2:56
+5,54.1,SAC,DeMar DeRozan,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,128,125,0.899,0.779,54.1
+5,9.1,SAC,Keon Ellis,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Che Flores,TOR,131,128,0.979,0.936,9.1

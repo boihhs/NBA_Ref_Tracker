@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:55,DAL,Anthony Davis,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,5,0,0.574,0.611,11:08
+1,10:33,CHA,Brandon Miller,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,5,2,0.606,0.589,10:33
+1,7:36,CHA,Collin Sexton,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,10,17,0.322,0.309,7:36
+1,7:19,DAL,Klay Thompson,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,11,19,0.253,0.311,7:19
+1,5:19,CHA,Brandon Miller,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,13,30,0.139,0.132,5:36
+1,5:11,DAL,P.J. Washington,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,14,30,0.111,0.129,5:16
+1,4:21,CHA,Tre Mann,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,14,30,0.168,0.144,4:22
+1,2:10,DAL,P.J. Washington,Personal Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,25,30,0.309,0.348,2:28
+1,1:59,DAL,Naji Marshall,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,25,30,0.309,0.309,2:10
+1,1:53,CHA,Spencer Dinwiddie,Personal Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,25,30,0.415,0.377,1:57
+1,1:22,DAL,Cooper Flagg,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,29,30,0.417,0.452,1:31
+1,1:11,DAL,Naji Marshall,Flagrant Foul Type 1,Foul,Derrick Collins,Scott Foster,John Butler,DAL,29,32,0.407,0.405,1:11
+2,11:47,DAL,Cooper Flagg,Personal Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,31,34,0.398,0.411,12:00
+2,9:49,CHA,LaMelo Ball,Personal Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,40,38,0.574,0.574,9:55
+2,8:35,CHA,Miles Bridges,Personal Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,44,40,0.633,0.634,8:48
+2,7:28,DAL,Dwight Powell,Offensive Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,44,43,0.515,0.545,7:32
+2,6:59,CHA,Brandon Miller,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,44,45,0.529,0.484,7:18
+2,5:27,DAL,Jaden Hardy,Clear Path Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,50,47,0.578,0.576,5:33
+2,4:00,CHA,Collin Sexton,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,52,55,0.465,0.419,4:13
+2,1:43,DAL,Anthony Davis,Personal Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,56,59,0.332,0.378,1:48
+3,11:53,DAL,D'Angelo Russell,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,59,61,0.361,0.335,9:38
+3,8:06,DAL,Anthony Davis,Flagrant Foul Type 1,Foul,Derrick Collins,Scott Foster,John Butler,DAL,63,74,0.137,0.153,8:06
+3,7:47,CHA,LaMelo Ball,Personal Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,63,78,0.076,0.078,8:01
+3,7:18,CHA,Ryan Kalkbrenner,Offensive Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,66,78,0.125,0.108,7:29
+3,4:34,CHA,LaMelo Ball,Offensive Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,74,83,0.182,0.154,4:46
+3,4:14,DAL,Dwight Powell,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,76,83,0.165,0.208,4:25
+3,2:22,CHA,Tidjane Salaun,Offensive Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,82,90,0.193,0.163,2:30
+4,11:48,CHA,Tidjane Salaun,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,88,95,0.277,0.178,12:00
+4,11:37,DAL,Jaden Hardy,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,90,98,0.178,0.173,11:37
+4,10:31,CHA,Tidjane Salaun,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,92,103,0.124,0.081,10:46
+4,10:14,DAL,Jaden Hardy,Personal Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,93,103,0.075,0.081,10:31
+4,9:28,CHA,Tidjane Salaun,Personal Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,93,107,0.034,0.031,9:41
+4,8:35,CHA,Spencer Dinwiddie,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,93,109,0.025,0.014,8:44
+4,8:28,CHA,Ryan Kalkbrenner,Loose Ball Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,94,109,0.034,0.02,8:28
+4,5:58,DAL,Moussa Cisse,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,99,114,0.003,0.007,6:05
+4,2:54,DAL,Moussa Cisse,Shooting Foul,Foul,Derrick Collins,Scott Foster,John Butler,DAL,110,117,0.03,0.065,3:12

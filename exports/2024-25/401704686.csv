@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:25,PHI,Kyle Lowry,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,0,0,0.425,0.465,11:44
+1,10:17,DET,Cade Cunningham,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,0,4,0.387,0.389,10:28
+1,10:03,DET,Jalen Duren,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,0,4,0.386,0.387,10:17
+1,8:33,PHI,Andre Drummond,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,8,4,0.528,0.567,8:46
+1,8:06,PHI,Caleb Martin,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,8,4,0.569,0.569,8:10
+1,6:15,DET,Jalen Duren,Offensive Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,13,6,0.675,0.648,6:19
+1,5:54,PHI,KJ Martin,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,13,6,0.612,0.648,5:58
+1,5:42,DET,Tim Hardaway Jr.,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,15,8,0.692,0.649,5:42
+1,5:01,DET,Malik Beasley,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,16,10,0.688,0.651,5:14
+1,4:55,PHI,Tyrese Maxey,Offensive Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,16,10,0.625,0.688,5:01
+1,4:05,DET,Tobias Harris,Offensive Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,18,12,0.653,0.626,4:14
+1,3:12,PHI,Tyrese Maxey,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,20,15,0.562,0.601,3:16
+1,2:05,PHI,Kyle Lowry,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,23,19,0.558,0.605,2:05
+1,1:07,PHI,KJ Martin,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,25,20,0.566,0.605,1:17
+1,29.1,DET,Ronald Holland II,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,25,22,0.621,0.575,45.1
+2,8:25,PHI,Eric Gordon,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,28,32,0.349,0.347,8:31
+2,7:01,PHI,Andre Drummond,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,30,37,0.229,0.264,7:02
+2,6:51,DET,Cade Cunningham,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,30,39,0.278,0.24,7:01
+2,6:49,DET,Jalen Duren,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,31,39,0.305,0.265,6:50
+2,4:53,DET,Tobias Harris,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,36,39,0.451,0.406,5:00
+2,4:30,DET,Jaden Ivey,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,38,39,0.517,0.468,4:35
+2,2:52,DET,Isaiah Stewart,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,38,45,0.325,0.28,3:00
+2,27.1,PHI,Andre Drummond,Offensive Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,45,52,0.242,0.274,33.2
+2,1.1,PHI,Caleb Martin,Offensive Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,45,54,0.192,0.217,1.1
+3,11:24,DET,Jalen Duren,Loose Ball Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,45,54,0.212,0.209,11:24
+3,11:00,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,45,54,0.152,0.185,11:06
+3,9:48,DET,Isaiah Stewart,Defensive 3-Seconds Technical,Foul,James Williams,Justin Van Duyne,John Conley,PHI,50,56,0.285,0.296,10:08
+3,9:16,DET,Tobias Harris,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,51,56,0.379,0.325,9:21
+3,8:28,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,52,59,0.186,0.226,8:30
+3,7:12,DET,Tim Hardaway Jr.,Loose Ball Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,54,66,0.121,0.12,7:12
+3,6:59,PHI,Tyrese Maxey,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,54,66,0.102,0.101,7:00
+3,4:17,PHI,Caleb Martin,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,58,73,0.038,0.056,4:17
+3,1:37,PHI,Guerschon Yabusele,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,64,81,0.015,0.026,1:37
+3,1:20,DET,Isaiah Stewart,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,66,83,0.03,0.018,1:20
+3,10.0,PHI,Guerschon Yabusele,Loose Ball Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,67,83,0.012,0.019,10.0
+4,11:08,DET,Jalen Duren,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,67,85,0.013,0.011,11:18
+4,11:03,DET,Simone Fontecchio,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,67,85,0.021,0.013,11:08
+4,10:18,PHI,Guerschon Yabusele,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,71,87,0.013,0.016,10:34
+4,10:15,DET,Jalen Duren,Offensive Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,71,87,0.019,0.013,10:18
+4,9:42,DET,Isaiah Stewart,Loose Ball Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,73,87,0.036,0.032,9:42
+4,4:03,PHI,Andre Drummond,Defensive 3-Seconds Technical,Foul,James Williams,Justin Van Duyne,John Conley,PHI,82,99,0.001,0.001,4:20
+4,3:30,DET,Isaiah Stewart,Technical Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,82,102,0.001,0.001,3:30
+4,3:30,DET,Isaiah Stewart,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,83,102,0.001,0.001,3:30
+4,1:53,DET,Tobias Harris,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,87,105,0.001,0.001,1:58
+4,1:51,PHI,Guerschon Yabusele,Personal Take Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,89,105,0.001,0.001,1:53
+4,1:26,DET,Tobias Harris,Shooting Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,89,105,0.001,0.001,1:33
+4,55.2,DET,Jaden Ivey,Personal Foul,Foul,James Williams,Justin Van Duyne,John Conley,PHI,91,105,0.001,0.001,1:00

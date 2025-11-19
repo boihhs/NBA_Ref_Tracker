@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:15,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,2,4,0.459,0.422,10:17
+1,9:55,BKN,Dennis Schroder,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,4,4,0.448,0.449,10:02
+1,8:41,MIL,Gary Trent Jr.,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,4,8,0.372,0.374,8:55
+1,8:31,MIL,Damian Lillard,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,4,8,0.411,0.372,8:41
+1,8:13,BKN,Ben Simmons,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,6,8,0.361,0.396,8:31
+1,7:21,BKN,Dorian Finney-Smith,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,6,8,0.401,0.398,7:21
+1,7:11,BKN,Ben Simmons,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,6,8,0.362,0.401,7:21
+1,5:40,MIL,Taurean Prince,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,11,12,0.493,0.452,5:41
+1,4:48,BKN,Jalen Wilson,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,14,12,0.466,0.504,4:53
+1,3:57,BKN,Noah Clowney,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,16,15,0.437,0.481,4:08
+1,3:38,MIL,Damian Lillard,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,16,17,0.496,0.451,3:43
+1,3:15,BKN,Nic Claxton,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,18,17,0.482,0.512,3:26
+1,2:00,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,23,17,0.647,0.619,2:15
+1,32.0,BKN,Nic Claxton,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,27,23,0.527,0.57,38.0
+2,8:38,BKN,Ziaire Williams,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,35,29,0.637,0.635,8:55
+2,7:14,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,35,31,0.558,0.615,7:14
+2,4:12,BKN,Keon Johnson,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,37,36,0.445,0.492,4:19
+2,3:16,BKN,Cameron Johnson,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,43,39,0.545,0.592,3:16
+2,2:56,MIL,Gary Trent Jr.,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,43,39,0.674,0.628,3:08
+3,11:36,BKN,Dennis Schroder,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,48,45,0.516,0.569,11:39
+3,9:20,MIL,Brook Lopez,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,57,54,0.639,0.576,9:20
+3,8:15,BKN,Ben Simmons,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,61,54,0.722,0.721,8:24
+3,7:08,MIL,Gary Trent Jr.,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,63,59,0.711,0.656,7:37
+3,6:52,BKN,Cameron Johnson,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,65,59,0.641,0.692,7:08
+3,6:11,BKN,Dorian Finney-Smith,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,65,61,0.566,0.624,6:21
+3,5:33,BKN,Noah Clowney,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,65,64,0.443,0.505,5:42
+3,4:42,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,68,68,0.571,0.508,4:54
+3,3:17,BKN,Jalen Wilson,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,74,71,0.53,0.595,3:23
+3,28.1,BKN,Ziaire Williams,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,80,77,0.538,0.608,32.1
+4,11:18,BKN,Nic Claxton,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,83,78,0.696,0.709,11:20
+4,10:55,MIL,Delon Wright,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,83,81,0.702,0.611,11:12
+4,9:09,MIL,Pat Connaughton,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,89,85,0.809,0.732,9:19
+4,7:54,MIL,Pat Connaughton,Flagrant Foul Type 1,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,94,85,0.922,0.924,7:54
+4,7:04,MIL,Gary Trent Jr.,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,98,85,0.987,0.975,7:04
+4,6:50,BKN,Nic Claxton,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,99,85,0.969,0.983,7:04
+4,5:49,BKN,Ziaire Williams,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,101,86,0.99,0.991,6:01
+4,5:46,BKN,Dennis Schroder,Personal Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,101,86,0.982,0.99,5:49
+4,5:06,BKN,Ben Simmons,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,104,88,0.993,0.997,5:06
+4,3:15,MIL,MarJon Beauchamp,Offensive Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,106,89,0.999,0.999,3:22
+4,3:02,MIL,MarJon Beauchamp,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,108,89,0.999,0.999,3:02
+4,1:58,BKN,Cameron Johnson,Loose Ball Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,111,92,0.999,0.999,1:58
+4,1:24,BKN,Jaylen Martin,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,111,96,0.999,0.999,1:35
+4,56.1,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Zach Zarba,Jason Goldenberg,Mousa Dagher,BKN,111,100,0.999,0.999,59.0

@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:02,ATL,De'Andre Hunter,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,2,0,0.539,0.539,11:10
+1,10:41,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,2,0,0.563,0.564,10:43
+1,10:02,PHI,Andre Drummond,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,2,0,0.563,0.564,10:02
+1,8:32,ATL,Dyson Daniels,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,7,3,0.591,0.59,8:35
+1,7:21,PHI,Paul George,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,11,3,0.711,0.713,7:21
+2,11:11,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,23,28,0.323,0.371,11:11
+2,11:05,ATL,Larry Nance Jr.,Offensive Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,23,29,0.316,0.344,11:11
+2,9:30,ATL,Jalen Johnson,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,29,34,0.3,0.338,9:43
+2,9:30,ATL,Trae Young,Technical Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,29,34,0.319,0.3,9:30
+2,9:22,ATL,Trae Young,Offensive Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,29,35,0.313,0.34,9:28
+2,8:26,PHI,Paul George,Offensive Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,32,35,0.425,0.395,8:40
+2,6:19,ATL,Zaccharie Risacher,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,35,40,0.329,0.33,6:33
+2,6:12,ATL,Clint Capela,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,35,40,0.29,0.329,6:19
+2,4:54,PHI,Andre Drummond,Defensive 3-Seconds Technical,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,37,46,0.241,0.245,5:08
+2,4:46,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,38,46,0.272,0.274,4:49
+2,3:37,PHI,KJ Martin,Offensive Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,40,48,0.269,0.243,3:52
+2,2:33,ATL,De'Andre Hunter,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,45,50,0.277,0.32,2:44
+2,1:38,ATL,Trae Young,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,45,52,0.22,0.259,1:38
+2,1:27,PHI,Tyrese Maxey,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,45,54,0.272,0.231,1:38
+2,52.1,PHI,Andre Drummond,Offensive Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,45,54,0.227,0.205,1:03
+3,11:39,ATL,Clint Capela,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,48,54,0.235,0.298,12:00
+3,10:55,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,50,56,0.358,0.31,11:05
+3,10:24,ATL,Clint Capela,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,51,56,0.261,0.305,10:33
+3,8:11,PHI,Caleb Martin,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,55,63,0.235,0.234,8:11
+3,7:52,ATL,Jalen Johnson,Loose Ball Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,55,63,0.204,0.203,7:52
+3,7:39,PHI,Caleb Martin,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,55,63,0.278,0.232,7:42
+3,4:18,PHI,Tyrese Maxey,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,64,71,0.296,0.242,4:25
+3,2:38,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,64,71,0.286,0.229,2:49
+4,10:26,PHI,Jared McCain,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,67,77,0.107,0.099,10:29
+4,10:18,PHI,Jared McCain,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,67,77,0.111,0.107,10:26
+4,10:14,PHI,Jared McCain,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,67,77,0.116,0.111,10:18
+4,9:10,ATL,Garrison Mathews,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,69,77,0.12,0.127,9:31
+4,8:52,ATL,Larry Nance Jr.,Offensive Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,69,80,0.053,0.073,9:04
+4,8:44,PHI,Reggie Jackson,Offensive Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,69,80,0.07,0.053,8:52
+4,7:39,ATL,Kobe Bufkin,Personal Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,72,80,0.099,0.111,8:01
+4,7:18,PHI,KJ Martin,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,72,82,0.121,0.078,7:31
+4,2:47,ATL,Mouhamed Gueye,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,80,94,0.001,0.001,3:05
+4,2:13,PHI,Adem Bona,Shooting Foul,Foul,Brian Forte,Matt Kallio,Mousa Dagher,ATL,80,96,0.001,0.001,2:22

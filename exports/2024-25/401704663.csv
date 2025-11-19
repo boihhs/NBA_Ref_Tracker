@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,2,0,0.774,0.774,11:18
+1,9:43,IND,Tyrese Haliburton,Technical Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,6,2,0.774,0.804,9:43
+1,9:01,IND,Tyrese Haliburton,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,6,3,0.768,0.786,9:16
+1,5:59,IND,Myles Turner,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,11,8,0.758,0.778,6:17
+1,5:41,IND,Bennedict Mathurin,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,11,8,0.757,0.758,5:59
+1,5:19,PHI,Andre Drummond,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,13,10,0.802,0.756,5:19
+1,4:41,IND,Obi Toppin,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,14,15,0.646,0.689,4:41
+1,3:28,IND,Isaiah Jackson,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,16,18,0.593,0.634,3:40
+1,2:06,PHI,KJ Martin,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,16,23,0.536,0.512,2:06
+1,7.0,IND,Aaron Nesmith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,21,27,0.451,0.498,12.0
+2,11:38,PHI,Kyle Lowry,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,23,28,0.553,0.554,11:42
+2,10:18,PHI,KJ Martin,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,28,32,0.573,0.574,10:37
+2,9:44,PHI,Kyle Lowry,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,30,34,0.589,0.536,9:44
+2,9:18,IND,Pascal Siakam,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,31,34,0.566,0.567,9:25
+2,9:09,IND,Jarace Walker,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,31,34,0.566,0.566,9:18
+2,8:49,PHI,Guerschon Yabusele,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,31,34,0.635,0.595,8:55
+2,8:38,IND,T.J. McConnell,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,32,34,0.545,0.591,8:49
+2,7:47,PHI,KJ Martin,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,34,36,0.659,0.616,7:55
+2,7:14,IND,Aaron Nesmith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,35,36,0.565,0.613,7:21
+2,4:23,PHI,Eric Gordon,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,42,44,0.645,0.599,4:33
+2,3:52,IND,Andrew Nembhard,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,43,44,0.543,0.595,3:56
+2,3:18,PHI,Andre Drummond,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,46,45,0.682,0.653,3:28
+2,2:33,PHI,Caleb Martin,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,49,45,0.796,0.763,2:44
+3,11:03,IND,Andrew Nembhard,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,61,54,0.789,0.834,11:03
+3,10:34,IND,Myles Turner,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,61,55,0.764,0.783,10:34
+3,7:11,IND,Andrew Nembhard,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,68,61,0.769,0.809,7:19
+3,6:18,IND,Aaron Nesmith,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,68,62,0.739,0.784,6:23
+3,4:46,PHI,Andre Drummond,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,68,70,0.587,0.523,4:53
+3,2:32,PHI,Tyrese Maxey,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,73,77,0.418,0.372,2:48
+3,53.1,PHI,Caleb Martin,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,77,77,0.659,0.593,1:06
+4,11:13,PHI,KJ Martin,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,78,81,0.524,0.436,11:28
+4,9:28,IND,Bennedict Mathurin,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,85,84,0.482,0.581,9:47
+4,7:19,PHI,Guerschon Yabusele,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,92,91,0.63,0.568,7:31
+4,7:10,IND,Myles Turner,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,92,91,0.567,0.63,7:19
+4,5:49,PHI,Tyrese Maxey,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,92,93,0.615,0.497,5:58
+4,4:57,PHI,Andre Drummond,Loose Ball Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,94,95,0.521,0.495,4:57
+4,4:45,PHI,Andre Drummond,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,94,95,0.628,0.521,4:57
+4,3:37,IND,Myles Turner,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,95,97,0.353,0.431,3:50
+4,3:02,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,97,97,0.647,0.501,3:02
+4,2:26,PHI,Caleb Martin,Loose Ball Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,98,97,0.786,0.574,2:26
+4,1:42,PHI,PHI,Technical Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,100,97,0.879,0.801,1:43
+4,47.1,IND,Andrew Nembhard,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,102,99,0.596,0.851,1:13
+4,11.1,IND,Aaron Nesmith,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,102,103,0.125,0.295,13.1
+5,2:03,IND,Myles Turner,Offensive Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,110,110,0.452,0.546,2:11
+5,1:36,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,110,112,0.533,0.354,1:53
+5,16.1,PHI,Tyrese Maxey,Shooting Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,111,114,0.296,0.205,16.1
+5,15.1,IND,Andrew Nembhard,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,112,114,0.074,0.187,16.1
+5,14.1,IND,Pascal Siakam,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,112,114,0.072,0.074,15.1
+5,13.2,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,112,115,0.385,0.181,14.1
+5,9.1,IND,Andrew Nembhard,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,114,115,0.113,0.294,13.2
+5,5.0,PHI,Caleb Martin,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,114,116,0.392,0.277,9.1
+5,2.1,IND,Tyrese Haliburton,Personal Take Foul,Foul,Tre Maddox,Mitchell Ervin,Jonathan Sterling,IND,114,116,0.014,0.047,3.0

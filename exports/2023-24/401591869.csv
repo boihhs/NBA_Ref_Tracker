@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:28,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,3,0,0.526,0.562,10:46
+1,9:29,DAL,Olivier-Maxence Prosper,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,5,1,0.614,0.614,9:41
+1,9:22,DAL,Dereck Lively II,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,7,1,0.679,0.639,9:22
+1,8:20,DAL,Dereck Lively II,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,10,1,0.764,0.733,8:31
+1,8:13,DAL,Grant Williams,Loose Ball Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,11,1,0.783,0.755,8:13
+1,7:49,MIN,Rudy Gobert,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,11,1,0.699,0.733,8:05
+1,7:43,DAL,Grant Williams,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,11,3,0.744,0.71,7:49
+1,5:09,DAL,Luka Doncic,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,21,5,0.889,0.868,5:12
+1,4:19,DAL,Seth Curry,Loose Ball Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,25,9,0.891,0.87,4:19
+1,3:42,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,29,11,0.874,0.9,3:42
+1,3:19,MIN,Kyle Anderson,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,32,12,0.893,0.911,3:31
+1,34.2,MIN,Kyle Anderson,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,34,17,0.859,0.881,42.0
+2,9:29,MIN,Troy Brown Jr.,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,46,23,0.956,0.954,9:48
+2,8:01,DAL,Seth Curry,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,48,23,0.975,0.975,8:07
+2,7:53,DAL,Dereck Lively II,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,48,23,0.981,0.975,8:01
+2,7:47,MIN,Naz Reid,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,50,23,0.973,0.98,7:53
+2,6:25,DAL,Dwight Powell,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,53,30,0.967,0.967,6:39
+2,6:20,DAL,Jaden Hardy,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,53,30,0.975,0.967,6:25
+2,3:49,DAL,Dwight Powell,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,59,38,0.97,0.961,4:00
+2,2:47,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,64,41,0.96,0.97,2:48
+2,2:09,DAL,Dereck Lively II,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,64,42,0.978,0.97,2:23
+2,1:51,DAL,Jaden Hardy,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,66,44,0.979,0.971,1:58
+2,2.1,MIN,Rudy Gobert,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,66,49,0.906,0.927,15.1
+3,9:25,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,71,53,0.933,0.95,9:35
+3,9:14,DAL,Dante Exum,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,71,53,0.959,0.96,9:23
+3,7:24,DAL,Jaden Hardy,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,73,57,0.948,0.948,7:34
+3,5:11,DAL,Richaun Holmes,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,75,63,0.904,0.906,5:13
+3,4:52,MIN,Shake Milton,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,75,65,0.822,0.867,4:52
+3,3:40,MIN,Kyle Anderson,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,75,68,0.707,0.761,3:46
+3,3:36,MIN,Shake Milton,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,75,68,0.707,0.707,3:40
+3,3:00,MIN,Troy Brown Jr.,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,77,68,0.785,0.769,3:00
+3,2:06,MIN,Shake Milton,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,81,72,0.792,0.835,2:24
+3,1:23,DAL,Greg Brown III,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,81,73,0.884,0.844,1:27
+3,53.0,MIN,Shake Milton,Loose Ball Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,83,73,0.833,0.876,53.0
+3,40.0,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,85,74,0.934,0.898,40.0
+3,6.0,DAL,Richaun Holmes,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,85,74,0.947,0.921,22.0
+4,10:25,DAL,Greg Brown III,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,92,77,0.982,0.98,10:33
+4,10:23,MIN,Troy Brown Jr.,Clear Path Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,92,77,0.971,0.974,10:24
+4,9:56,DAL,Greg Brown III,Offensive Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,92,77,0.982,0.973,10:23
+4,9:24,DAL,Jordan Walker,Personal Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,92,80,0.962,0.959,9:33
+4,8:57,DAL,Greg Brown III,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,96,80,0.993,0.986,8:57
+4,8:15,MIN,Luka Garza,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,96,80,0.978,0.988,8:25
+4,6:45,MIN,Matt Ryan,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,102,84,0.994,0.996,6:45
+4,5:39,DAL,Richaun Holmes,Defensive 3-Seconds Technical,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,104,88,0.996,0.996,5:53
+4,2:03,DAL,Greg Brown III,Loose Ball Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,109,96,0.999,0.999,2:03
+4,1:24,MIN,Luka Garza,Shooting Foul,Foul,Sean Wright,Kevin Cutler,Ashley Moyer-Gleich,MIN,109,96,0.996,0.999,1:29

@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:12,MIN,Jaden McDaniels,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,9,5,0.673,0.637,8:28
+1,6:34,PHX,Mason Plumlee,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,15,5,0.72,0.752,6:49
+1,1:09,MIN,Julius Randle,Offensive Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,29,24,0.672,0.642,1:15
+2,9:55,MIN,Mike Conley,Personal Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,39,31,0.751,0.752,10:00
+2,9:29,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,39,31,0.784,0.753,9:41
+2,8:30,MIN,Jaylen Clark,Personal Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,41,34,0.726,0.728,8:48
+2,6:51,PHX,Nick Richards,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,41,34,0.665,0.707,6:59
+2,4:57,PHX,Devin Booker,Personal Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,43,37,0.683,0.683,5:01
+2,4:21,PHX,Devin Booker,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,43,37,0.641,0.684,4:33
+2,4:11,MIN,Donte DiVincenzo,Personal Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,43,39,0.699,0.657,4:21
+2,4:05,MIN,Naz Reid,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,43,39,0.7,0.699,4:11
+2,3:21,MIN,Naz Reid,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,45,42,0.673,0.626,3:22
+2,54.0,PHX,Kevin Durant,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,49,44,0.615,0.662,1:00
+2,39.2,PHX,Kevin Durant,Offensive Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,49,46,0.602,0.635,54.0
+2,35.0,MIN,Julius Randle,Offensive Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,49,46,0.635,0.602,39.2
+2,23.1,MIN,Donte DiVincenzo,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,49,46,0.682,0.635,35.0
+3,10:59,PHX,Nick Richards,Personal Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,57,52,0.671,0.67,11:12
+3,9:31,MIN,Mike Conley,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,60,58,0.656,0.604,9:39
+3,8:43,MIN,Mike Conley,Personal Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,62,61,0.566,0.567,8:57
+3,6:33,PHX,Nick Richards,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,64,66,0.351,0.407,6:41
+3,5:44,PHX,Bradley Beal,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,67,68,0.386,0.445,5:59
+3,5:04,PHX,Devin Booker,Transition Take Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,67,71,0.325,0.325,5:06
+3,2:04,MIN,Julius Randle,Loose Ball Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,67,80,0.075,0.075,2:04
+3,1:01,MIN,Julius Randle,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,69,80,0.142,0.159,4:30
+4,11:01,MIN,Mike Conley,Personal Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,72,86,0.042,0.042,11:25
+4,9:55,PHX,Ryan Dunn,Loose Ball Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,76,86,0.072,0.077,9:55
+4,9:38,MIN,Mike Conley,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,76,88,0.092,0.058,9:45
+4,9:26,PHX,Ryan Dunn,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,78,90,0.032,0.057,9:26
+4,4:32,MIN,Naz Reid,Shooting Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,91,104,0.026,0.011,4:40
+4,3:17,PHX,Nick Richards,Offensive Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,93,104,0.009,0.02,3:40
+4,2:00,PHX,Bradley Beal,Clear Path Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,93,107,0.001,0.001,2:02
+4,1:35,PHX,Bradley Beal,Flagrant Foul Type 1,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,93,112,0.001,0.001,1:35
+4,1:27,PHX,Collin Gillespie,Personal Foul,Foul,Zach Zarba,Brett Nansel,Scott Twardoski,PHX,93,114,0.001,0.001,1:35

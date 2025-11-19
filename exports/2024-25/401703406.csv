@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:33,HOU,Dillon Brooks,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,5,9,0.415,0.417,9:37
+1,8:58,HOU,Jalen Green,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,5,11,0.401,0.362,9:11
+1,8:46,MIN,Donte DiVincenzo,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,7,11,0.388,0.389,8:58
+1,8:32,MIN,Jaden McDaniels,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,7,11,0.389,0.388,8:32
+1,7:23,MIN,Donte DiVincenzo,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,9,16,0.28,0.312,7:32
+1,4:47,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,11,22,0.239,0.239,4:47
+1,22.1,HOU,Reed Sheppard,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,24,32,0.336,0.297,26.0
+2,11:31,HOU,Reed Sheppard,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,26,32,0.388,0.347,11:39
+2,10:59,HOU,Jock Landale,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,30,32,0.458,0.43,11:06
+2,10:44,HOU,Amen Thompson,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,30,32,0.457,0.458,10:59
+2,9:39,HOU,Tari Eason,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,33,32,0.544,0.548,9:39
+2,8:45,MIN,Rudy Gobert,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,35,32,0.533,0.576,9:00
+2,5:09,HOU,Tari Eason,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,39,43,0.391,0.359,5:31
+2,4:33,MIN,Rudy Gobert,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,39,45,0.301,0.3,4:33
+2,1:53,HOU,Amen Thompson,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,46,53,0.337,0.29,1:53
+2,7.1,HOU,Fred VanVleet,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,46,57,0.215,0.181,26.0
+3,10:44,HOU,Dillon Brooks,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,49,59,0.213,0.168,10:44
+3,8:37,MIN,Julius Randle,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,56,63,0.237,0.234,8:37
+3,7:48,MIN,Donte DiVincenzo,Away from Play Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,58,65,0.233,0.231,7:48
+3,6:49,MIN,Rudy Gobert,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,60,70,0.148,0.147,7:00
+3,5:55,MIN,Julius Randle,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,62,73,0.091,0.12,6:09
+3,3:21,HOU,Fred VanVleet,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,64,82,0.027,0.027,3:32
+3,2:58,MIN,Rob Dillingham,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,67,82,0.028,0.042,3:13
+3,1:55,HOU,Tari Eason,Technical Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,69,84,0.054,0.035,1:55
+3,1:50,HOU,Dillon Brooks,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,70,84,0.082,0.057,1:55
+3,49.1,HOU,Tari Eason,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,77,84,0.248,0.18,49.1
+4,9:06,HOU,Alperen Sengun,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,87,88,0.53,0.418,9:06
+4,7:18,HOU,Fred VanVleet,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,90,93,0.462,0.356,7:22
+4,7:04,MIN,Julius Randle,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,92,93,0.316,0.419,7:18
+4,5:37,MIN,Julius Randle,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,94,95,0.29,0.403,5:41
+4,4:46,HOU,Amen Thompson,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,96,97,0.547,0.464,4:46
+4,3:38,MIN,Anthony Edwards,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,100,97,0.673,0.7,3:41
+4,2:36,MIN,Rudy Gobert,Personal Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,102,97,0.726,0.845,2:36
+4,28.1,MIN,Rudy Gobert,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,102,102,0.445,0.503,38.0
+5,4:18,HOU,Alperen Sengun,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,102,102,0.657,0.534,4:19
+5,33.1,HOU,Alperen Sengun,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,107,113,0.133,0.049,38.0
+5,30.1,MIN,Nickeil Alexander-Walker,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,109,113,0.035,0.096,33.1
+5,25.2,MIN,Nickeil Alexander-Walker,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Robert Hussey,MIN,109,113,0.03,0.035,30.1

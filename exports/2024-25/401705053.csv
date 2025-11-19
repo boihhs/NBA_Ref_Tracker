@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:26,OKC,Jalen Williams,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,2,2,0.504,0.545,10:32
+1,10:03,BOS,Kristaps Porzingis,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,4,6,0.554,0.517,10:11
+1,8:39,BOS,Jayson Tatum,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,13,12,0.609,0.566,8:39
+1,8:24,OKC,Luguentz Dort,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,14,12,0.591,0.59,8:24
+1,7:34,OKC,Jalen Williams,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,17,12,0.628,0.666,7:39
+1,6:10,OKC,Cason Wallace,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,21,15,0.653,0.688,6:32
+1,4:08,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,23,24,0.487,0.535,4:08
+1,3:47,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,23,25,0.438,0.48,3:55
+1,2:56,BOS,Payton Pritchard,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,25,27,0.545,0.504,3:06
+1,3.0,OKC,Jaylin Williams,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,32,33,0.457,0.497,18.2
+2,10:15,BOS,Sam Hauser,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,38,39,0.525,0.528,10:18
+2,9:54,OKC,Aaron Wiggins,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,38,39,0.451,0.493,10:04
+2,9:18,BOS,Jaylen Brown,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,38,43,0.403,0.404,9:27
+2,8:55,OKC,Kenrich Williams,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,41,43,0.419,0.464,9:12
+2,7:34,BOS,Luke Kornet,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,43,50,0.384,0.341,7:45
+2,6:43,OKC,Jalen Williams,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,44,52,0.282,0.279,6:47
+2,3:45,OKC,Aaron Wiggins,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,49,59,0.179,0.213,3:50
+2,3:26,BOS,Jaylen Brown,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,51,61,0.257,0.212,3:26
+3,10:24,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,59,65,0.249,0.291,10:25
+3,8:23,BOS,Jrue Holiday,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,64,70,0.319,0.319,8:27
+3,8:16,BOS,Kristaps Porzingis,Loose Ball Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,64,70,0.318,0.318,8:16
+3,4:36,OKC,Luguentz Dort,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,66,74,0.152,0.195,4:51
+3,3:49,OKC,Jalen Williams,Loose Ball Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,69,75,0.25,0.292,3:58
+3,1:28,BOS,Luke Kornet,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,72,77,0.378,0.312,1:28
+3,5.1,OKC,Luguentz Dort,Flopping Technical,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,76,77,0.441,0.441,5.1
+4,9:41,BOS,Jrue Holiday,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,79,80,0.581,0.488,9:50
+4,7:58,OKC,Luguentz Dort,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,85,83,0.585,0.6,8:09
+4,7:54,BOS,Kristaps Porzingis,Offensive Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,85,83,0.656,0.585,7:58
+4,7:24,OKC,Aaron Wiggins,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,85,83,0.58,0.595,7:33
+4,6:59,BOS,Jrue Holiday,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,85,85,0.642,0.534,7:14
+4,5:33,BOS,Jrue Holiday,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,92,85,0.914,0.904,5:47
+4,5:03,BOS,Derrick White,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,94,85,0.97,0.939,5:03
+4,2:57,BOS,Al Horford,Offensive Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,94,88,0.931,0.888,3:10
+4,1:43,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,100,88,0.99,0.997,1:59
+4,59.1,OKC,Jalen Williams,Personal Foul,Foul,Tom Washington,Scott Foster,Mousa Dagher,OKC,102,90,0.995,0.999,1:02

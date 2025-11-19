@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:22,IND,Andrew Nembhard,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,8,3,0.623,0.585,9:30
+1,8:32,IND,Aaron Nesmith,Personal Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,10,5,0.587,0.589,8:41
+1,7:39,NY,Karl-Anthony Towns,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,10,8,0.447,0.485,7:47
+1,6:20,IND,Myles Turner,Loose Ball Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,12,9,0.54,0.542,6:20
+1,6:05,NY,OG Anunoby,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,12,9,0.475,0.515,6:11
+1,4:02,NY,Miles McBride,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,23,13,0.666,0.704,4:23
+2,10:05,IND,Pascal Siakam,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,31,25,0.669,0.62,10:05
+2,7:54,IND,Bennedict Mathurin,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,39,32,0.706,0.657,7:54
+2,7:37,NY,OG Anunoby,Personal Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,40,32,0.688,0.686,7:54
+2,5:42,IND,Myles Turner,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,45,34,0.814,0.775,5:42
+2,4:50,NY,Landry Shamet,Offensive Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,48,34,0.845,0.864,4:53
+2,3:47,IND,Myles Turner,Offensive Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,50,36,0.869,0.849,4:00
+2,3:10,IND,Obi Toppin,Personal Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,50,36,0.897,0.872,3:18
+2,2:56,NY,Jalen Brunson,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,50,36,0.823,0.897,3:10
+2,2:28,NY,Josh Hart,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,50,38,0.779,0.814,2:35
+3,10:25,IND,Aaron Nesmith,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,60,48,0.877,0.843,10:25
+3,8:08,NY,Karl-Anthony Towns,Loose Ball Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,66,50,0.927,0.927,8:09
+3,7:27,NY,Mitchell Robinson,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,66,50,0.909,0.931,7:29
+3,7:09,IND,Andrew Nembhard,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,66,52,0.938,0.918,7:27
+3,6:32,IND,Andrew Nembhard,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,70,52,0.975,0.966,6:35
+3,6:24,NY,Karl-Anthony Towns,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,72,52,0.962,0.973,6:32
+3,6:04,NY,Mitchell Robinson,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,72,53,0.955,0.967,6:08
+3,5:22,NY,Josh Hart,Loose Ball Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,72,55,0.935,0.954,5:22
+3,5:14,IND,Bennedict Mathurin,Personal Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,72,57,0.958,0.942,5:22
+3,4:50,NY,Jalen Brunson,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,72,59,0.884,0.917,4:50
+3,4:17,IND,Tyrese Haliburton,Personal Take Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,74,62,0.929,0.905,4:26
+3,4:09,NY,Mitchell Robinson,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,74,62,0.849,0.884,4:14
+3,3:40,IND,Ben Sheppard,Offensive Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,76,64,0.911,0.886,3:55
+3,2:56,IND,Obi Toppin,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,81,64,0.961,0.964,2:56
+3,2:38,IND,T.J. McConnell,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,84,64,0.99,0.985,2:38
+3,1:52,NY,Miles McBride,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,86,64,0.988,0.992,1:57
+3,1:43,NY,Josh Hart,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,86,67,0.979,0.987,1:43
+3,35.1,IND,Jarace Walker,Personal Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,86,71,0.98,0.967,39.0
+4,11:31,NY,Landry Shamet,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,92,73,0.981,0.989,11:42
+4,9:52,IND,Jarace Walker,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,95,79,0.992,0.984,10:14
+4,7:06,IND,Andrew Nembhard,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,98,84,0.991,0.981,7:06
+4,5:29,NY,Mikal Bridges,Personal Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,102,84,0.997,0.997,5:41
+4,3:26,NY,Karl-Anthony Towns,Personal Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,104,88,0.998,0.999,3:32
+4,3:07,IND,Pascal Siakam,Personal Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,104,90,0.999,0.998,3:18
+4,2:44,IND,Bennedict Mathurin,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,106,90,0.999,0.999,2:44
+4,48.1,NY,Precious Achiuwa,Personal Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,108,90,0.999,0.999,52.0
+4,42.2,IND,Ben Sheppard,Shooting Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,108,90,0.999,0.999,46.1
+4,40.0,NY,Miles McBride,Personal Take Foul,Foul,James Williams,Pat Fraher,Zach Zarba,NY,109,90,0.999,0.999,41.1

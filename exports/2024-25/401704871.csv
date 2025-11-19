@@ -1,0 +1,61 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,BKN,Cameron Johnson,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,3,4,0.384,0.38,10:19
+1,10:03,BKN,Dennis Schroder,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,3,4,0.351,0.384,10:14
+1,9:10,BKN,Jalen Wilson,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,5,5,0.414,0.412,9:20
+1,8:43,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,5,7,0.425,0.388,9:07
+1,8:28,BKN,Jalen Wilson,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,6,7,0.37,0.388,8:28
+1,6:51,ORL,Franz Wagner,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,11,13,0.39,0.389,6:51
+1,5:50,ORL,Jalen Suggs,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,13,13,0.441,0.443,5:55
+1,5:18,BKN,Shake Milton,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,13,15,0.347,0.391,5:18
+1,5:01,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,15,16,0.436,0.39,5:01
+1,4:21,ORL,Jonathan Isaac,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,16,18,0.43,0.393,4:39
+1,3:16,BKN,Trendon Watford,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,19,18,0.404,0.448,3:21
+1,2:55,BKN,Ben Simmons,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,21,22,0.373,0.419,2:55
+1,1:17,ORL,Jonathan Isaac,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,27,24,0.531,0.507,1:33
+2,11:27,ORL,Jett Howard,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,29,28,0.482,0.485,11:38
+2,10:33,ORL,Moritz Wagner,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,29,28,0.529,0.485,10:46
+2,10:26,BKN,Ben Simmons,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,30,30,0.407,0.455,10:26
+2,6:11,BKN,Ben Simmons,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,37,36,0.464,0.495,6:20
+2,5:54,BKN,Nic Claxton,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,37,36,0.418,0.464,6:11
+2,5:21,BKN,Jalen Wilson,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,37,37,0.388,0.432,5:26
+2,4:49,BKN,Trendon Watford,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,37,40,0.3,0.344,4:56
+2,4:46,BKN,Trendon Watford,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,37,40,0.3,0.3,4:49
+2,4:27,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,37,42,0.357,0.315,4:46
+2,4:04,ORL,Jonathan Isaac,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,39,42,0.421,0.373,4:08
+2,2:04,BKN,Keon Johnson,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,45,42,0.515,0.544,2:04
+2,1:42,ORL,Franz Wagner,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,45,43,0.595,0.54,2:02
+2,1:42,ORL,Franz Wagner,Technical Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,45,43,0.569,0.595,1:42
+2,1:42,ORL,Jalen Suggs,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,48,43,0.643,0.608,1:42
+2,1:30,BKN,Cameron Johnson,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,48,43,0.56,0.609,1:32
+2,31.1,ORL,Jalen Suggs,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,48,50,0.46,0.407,42.0
+3,11:46,BKN,Ziaire Williams,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,50,50,0.443,0.459,12:00
+3,11:35,BKN,Jalen Wilson,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,50,50,0.442,0.481,11:40
+3,10:52,ORL,Jalen Suggs,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,50,52,0.409,0.372,10:55
+3,10:41,ORL,Jalen Suggs,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,52,52,0.507,0.442,10:41
+3,10:35,BKN,Dennis Schroder,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,53,52,0.479,0.48,10:41
+3,9:42,BKN,Jalen Wilson,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,53,52,0.427,0.481,9:44
+3,9:02,ORL,Anthony Black,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,53,54,0.446,0.409,9:07
+3,8:48,BKN,Nic Claxton,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,53,54,0.409,0.446,9:02
+3,7:03,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,55,62,0.234,0.235,7:18
+3,7:03,BKN,Nic Claxton,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,55,62,0.204,0.234,7:03
+3,6:44,BKN,Keon Johnson,Loose Ball Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,55,62,0.164,0.202,6:44
+3,6:32,BKN,Keon Johnson,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,55,62,0.163,0.164,6:44
+3,3:24,ORL,Goga Bitadze,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,59,69,0.132,0.135,3:34
+3,1:54,BKN,Shake Milton,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,65,71,0.161,0.206,2:08
+3,1:29,ORL,Moritz Wagner,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,65,72,0.207,0.172,1:38
+3,1:05,BKN,Keon Johnson,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,67,72,0.184,0.237,1:09
+4,11:39,ORL,Moritz Wagner,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,69,75,0.303,0.213,12:00
+4,11:23,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,71,75,0.316,0.269,11:39
+4,10:45,ORL,Jett Howard,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,75,75,0.573,0.461,10:45
+4,10:26,BKN,Nic Claxton,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,76,77,0.364,0.471,10:26
+4,9:04,BKN,Keon Johnson,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,79,78,0.499,0.518,9:11
+4,7:01,ORL,Franz Wagner,Transition Take Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,81,83,0.397,0.397,7:01
+4,7:01,ORL,Cole Anthony,Technical Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,82,83,0.507,0.394,7:01
+4,5:58,BKN,Cameron Johnson,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,83,86,0.246,0.265,6:00
+4,4:55,BKN,Dennis Schroder,Offensive Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,85,88,0.244,0.31,5:13
+4,4:33,BKN,Trendon Watford,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,85,88,0.155,0.239,4:35
+4,3:59,ORL,Goga Bitadze,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,85,92,0.169,0.093,4:09
+4,3:00,ORL,Goga Bitadze,Shooting Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,86,94,0.104,0.053,3:12
+4,1:22,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,86,96,0.024,0.011,1:38
+4,52.1,ORL,Jalen Suggs,Personal Foul,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,90,98,0.054,0.024,1:01
+4,18.0,BKN,Nic Claxton,Flagrant Foul Type 2,Foul,Pat Fraher,Tre Maddox,John Conley,BKN,92,98,0.017,0.014,21.0

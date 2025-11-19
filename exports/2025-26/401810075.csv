@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:10,GS,Stephen Curry,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,0,0,0.676,0.64,11:17
+1,9:55,GS,Will Richard,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,6,6,0.636,0.638,10:07
+1,6:49,GS,Al Horford,Offensive Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,14,11,0.701,0.69,6:57
+1,5:52,SA,Luke Kornet,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,17,11,0.744,0.744,6:07
+1,1:15,GS,Al Horford,Loose Ball Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,25,14,0.876,0.856,1:15
+2,11:47,SA,Jeremy Sochan,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,28,14,0.864,0.888,12:00
+2,11:16,SA,Jeremy Sochan,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,30,16,0.875,0.887,11:16
+2,10:35,GS,Moses Moody,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,30,17,0.887,0.887,10:39
+2,8:11,GS,Draymond Green,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,35,25,0.857,0.845,8:11
+2,7:21,SA,Stephon Castle,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,40,28,0.862,0.861,7:24
+2,6:58,GS,Stephen Curry,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,42,31,0.874,0.846,6:58
+2,6:28,SA,Stephon Castle,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,42,33,0.775,0.806,6:32
+2,5:31,SA,Luke Kornet,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,46,37,0.793,0.829,5:31
+2,4:42,SA,Devin Vassell,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,50,38,0.839,0.867,4:42
+2,3:15,SA,Stephon Castle,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,56,40,0.907,0.925,3:29
+2,1:54,SA,De'Aaron Fox,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,56,45,0.825,0.854,1:55
+3,11:22,GS,Moses Moody,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,56,49,0.831,0.801,11:24
+3,11:10,SA,Harrison Barnes,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,58,49,0.783,0.82,11:22
+3,9:37,GS,Will Richard,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,61,54,0.836,0.802,9:49
+3,8:15,GS,Will Richard,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,63,60,0.729,0.684,8:18
+3,8:05,GS,Draymond Green,Offensive Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,65,60,0.746,0.715,8:15
+3,7:36,SA,Stephon Castle,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,67,60,0.732,0.778,7:48
+3,7:06,GS,Draymond Green,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,70,62,0.851,0.807,7:06
+3,6:46,SA,Victor Wembanyama,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,71,62,0.794,0.833,6:51
+3,6:20,SA,Devin Vassell,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,71,64,0.733,0.781,6:25
+3,5:34,SA,Victor Wembanyama,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,73,70,0.628,0.683,5:40
+3,2:16,SA,Luke Kornet,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,80,83,0.357,0.425,2:24
+3,1:53,SA,De'Aaron Fox,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,80,85,0.231,0.292,2:04
+4,11:03,GS,Draymond Green,Offensive Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,89,92,0.406,0.348,11:13
+4,9:40,GS,Draymond Green,Offensive Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,91,95,0.34,0.285,9:43
+4,8:17,SA,Stephon Castle,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,93,98,0.154,0.224,8:25
+4,7:05,SA,De'Aaron Fox,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,99,102,0.285,0.302,7:09
+4,6:43,GS,Brandin Podziemski,Offensive Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,99,104,0.238,0.19,6:45
+4,4:02,SA,Luke Kornet,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,104,110,0.054,0.108,4:15
+4,33.4,GS,Draymond Green,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,110,119,0.023,0.004,33.4
+4,19.5,SA,Victor Wembanyama,Personal Take Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,113,119,0.003,0.018,21.7
+4,18.4,SA,Victor Wembanyama,Personal Take Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,113,119,0.003,0.003,19.5
+4,13.1,GS,Brandin Podziemski,Loose Ball Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,113,121,0.015,0.003,13.1
+4,11.9,SA,Julian Champagnie,Personal Take Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,115,121,0.001,0.007,13.1
+4,5.4,GS,Brandin Podziemski,Shooting Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,115,121,0.018,0.008,5.4
+4,2.1,SA,Julian Champagnie,Personal Foul,Foul,Scott Foster,Simone Jelks,Mousa Dagher,SA,118,121,0.005,0.021,2.7

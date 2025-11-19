@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:34,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,3,6,0.394,0.437,10:34
+1,9:14,PHI,Tyrese Maxey,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,3,7,0.409,0.411,9:27
+1,9:12,PHI,Paul Reed,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,5,7,0.46,0.434,9:12
+1,8:10,PHI,Patrick Beverley,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,5,13,0.346,0.313,8:26
+1,5:09,BOS,Al Horford,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,11,13,0.413,0.459,5:30
+1,3:29,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,13,19,0.288,0.326,3:33
+1,31.0,BOS,Jayson Tatum,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,16,26,0.193,0.222,41.0
+1,24.0,PHI,Patrick Beverley,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,16,27,0.259,0.225,31.0
+1,1.0,PHI,P.J. Tucker,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,19,29,0.263,0.225,1.0
+2,11:39,PHI,Danuel House Jr.,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,20,29,0.305,0.266,11:43
+2,11:26,BOS,Payton Pritchard,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,22,29,0.29,0.291,11:39
+2,10:56,PHI,Danuel House Jr.,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,24,31,0.336,0.288,10:56
+2,10:07,BOS,Sam Hauser,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,27,33,0.294,0.341,10:07
+2,8:21,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,37,37,0.536,0.484,8:21
+2,8:06,BOS,Jayson Tatum,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,37,37,0.484,0.483,8:07
+2,6:50,PHI,Tobias Harris,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,37,41,0.437,0.392,7:10
+2,4:33,BOS,Kristaps Porzingis,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,48,46,0.497,0.547,4:35
+2,4:06,PHI,Tyrese Maxey,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,48,49,0.533,0.518,5:01
+2,3:01,PHI,Tyrese Maxey,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,52,51,0.601,0.549,3:06
+2,1:56,BOS,Jrue Holiday,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,54,51,0.532,0.588,2:00
+2,1:43,PHI,Paul Reed,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,54,53,0.603,0.549,1:56
+2,1:22,PHI,Paul Reed,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,56,55,0.603,0.55,1:27
+2,1:08,BOS,Kristaps Porzingis,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,57,55,0.498,0.551,1:22
+2,11.1,PHI,Jaden Springer,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,57,57,0.568,0.518,27.0
+3,9:44,BOS,Derrick White,Offensive Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,62,65,0.371,0.406,9:44
+3,8:30,PHI,Patrick Beverley,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,62,68,0.349,0.296,8:30
+3,8:00,PHI,Tobias Harris,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,63,70,0.313,0.263,8:11
+3,6:22,PHI,Paul Reed,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,66,70,0.419,0.359,6:35
+3,5:54,BOS,Jaylen Brown,Loose Ball Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,68,72,0.32,0.32,5:54
+3,5:17,PHI,Jaden Springer,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,68,72,0.417,0.356,5:21
+3,4:59,BOS,Jaylen Brown,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,70,74,0.288,0.353,4:59
+3,4:42,PHI,Tyrese Maxey,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,70,74,0.415,0.353,4:46
+3,2:50,BOS,Derrick White,Loose Ball Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,74,76,0.387,0.387,2:50
+3,1:44,PHI,Mo Bamba,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,79,76,0.721,0.659,1:46
+3,1:09,BOS,Luke Kornet,Offensive Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,81,78,0.618,0.661,1:25
+4,10:40,BOS,Dalano Banton,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,84,83,0.509,0.522,10:47
+4,9:39,BOS,Sam Hauser,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,87,88,0.393,0.412,9:43
+4,8:36,PHI,Mo Bamba,Loose Ball Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,89,91,0.417,0.402,8:36
+4,7:56,BOS,Payton Pritchard,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,89,91,0.328,0.344,7:59
+4,5:35,PHI,Ricky Council IV,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,97,99,0.399,0.383,5:54
+4,5:14,BOS,Dalano Banton,Personal Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,97,101,0.128,0.202,5:14
+4,4:28,PHI,Terquavion Smith,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,101,101,0.593,0.434,4:28
+4,2:52,PHI,Filip Petrusev,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,106,103,0.818,0.684,2:52
+4,1:36,BOS,Oshae Brissett,Loose Ball Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,109,103,0.831,0.909,1:36
+4,1:12,BOS,Lamar Stevens,Shooting Foul,Foul,Ed Malloy,Natalie Sago,Biniam Maru,BOS,109,105,0.681,0.808,1:14

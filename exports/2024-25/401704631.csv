@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:59,ORL,Jalen Suggs,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,0,0,0.661,0.642,10:59
+1,9:42,ORL,Franz Wagner,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,3,4,0.652,0.617,9:47
+1,8:53,MIA,Nikola Jovic,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,6,6,0.577,0.615,9:08
+1,8:23,ORL,Jalen Suggs,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,6,9,0.563,0.563,8:43
+1,7:43,ORL,Franz Wagner,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,6,9,0.597,0.56,7:48
+1,6:45,ORL,Jalen Suggs,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,9,11,0.62,0.583,6:57
+1,4:13,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,21,19,0.652,0.653,4:15
+1,3:07,ORL,Gary Harris,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,24,24,0.662,0.624,3:22
+1,2:28,ORL,Moritz Wagner,Loose Ball Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,26,26,0.661,0.622,2:28
+1,1:31,MIA,Jaime Jaquez Jr.,Loose Ball Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,30,29,0.577,0.619,1:31
+1,40.1,MIA,Haywood Highsmith,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,32,32,0.546,0.591,40.1
+2,10:03,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,34,35,0.554,0.551,10:06
+2,10:00,MIA,Duncan Robinson,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,34,35,0.555,0.554,10:03
+2,9:12,ORL,Jonathan Isaac,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,37,35,0.665,0.665,9:17
+2,8:26,MIA,Tyler Herro,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,42,38,0.69,0.69,8:36
+2,8:08,ORL,Moritz Wagner,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,42,38,0.716,0.718,8:12
+2,7:20,MIA,Duncan Robinson,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,42,38,0.649,0.69,7:26
+2,5:49,MIA,Haywood Highsmith,Defensive 3-Seconds Technical,Foul,Curtis Blair,CJ Washington,John Butler,MIA,47,43,0.697,0.689,6:08
+2,4:48,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,47,44,0.728,0.69,4:56
+2,3:36,ORL,Franz Wagner,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,49,49,0.643,0.597,3:48
+2,3:04,MIA,Nikola Jovic,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,51,49,0.575,0.625,3:11
+2,2:57,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,51,51,0.641,0.596,3:04
+2,2:41,MIA,Bam Adebayo,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,53,51,0.574,0.625,2:57
+2,2:25,ORL,Paolo Banchero,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,53,52,0.672,0.624,2:41
+3,10:59,ORL,Wendell Carter Jr.,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,54,60,0.267,0.265,11:03
+3,10:39,MIA,Nikola Jovic,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,54,60,0.195,0.235,10:45
+3,9:07,MIA,Jimmy Butler III,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,54,68,0.082,0.104,9:08
+3,8:16,ORL,Paolo Banchero,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,57,70,0.175,0.14,8:25
+3,7:38,MIA,Nikola Jovic,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,59,72,0.087,0.111,7:44
+3,5:47,MIA,Haywood Highsmith,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,62,78,0.039,0.054,5:50
+3,21.2,ORL,Anthony Black,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,70,97,0.001,0.001,40.1
+4,11:48,ORL,Cole Anthony,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,72,97,0.002,0.001,0.0
+4,11:28,MIA,Duncan Robinson,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,74,97,0.001,0.001,11:34
+4,11:19,MIA,Haywood Highsmith,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,74,99,0.001,0.001,11:19
+4,10:14,ORL,Anthony Black,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,79,99,0.008,0.003,10:14
+4,8:45,MIA,Duncan Robinson,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,80,103,0.001,0.001,8:45
+4,5:21,ORL,Cole Anthony,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,84,116,0.001,0.001,5:33
+4,3:04,ORL,Goga Bitadze,Personal Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,86,116,0.001,0.001,3:11
+4,3:01,MIA,Kel'el Ware,Offensive Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,86,116,0.001,0.001,3:04
+4,2:22,ORL,Caleb Houstan,Shooting Foul,Foul,Curtis Blair,CJ Washington,John Butler,MIA,88,116,0.001,0.001,2:22

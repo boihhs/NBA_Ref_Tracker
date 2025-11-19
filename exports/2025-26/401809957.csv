@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:10,CHA,Ryan Kalkbrenner,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,6,6,0.737,0.705,10:14
+1,8:24,CHA,Ryan Kalkbrenner,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,14,9,0.821,0.798,8:27
+1,5:06,PHI,Dominick Barlow,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,28,19,0.817,0.841,5:11
+1,4:42,PHI,Tyrese Maxey,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,28,21,0.808,0.809,4:47
+1,2:28,PHI,Adem Bona,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,31,24,0.806,0.806,2:28
+1,2:17,PHI,Quentin Grimes,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,31,24,0.778,0.806,2:28
+1,56.7,CHA,Brandon Miller,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,33,26,0.821,0.804,1:10
+1,5.6,CHA,Kon Knueppel,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,36,29,0.847,0.82,25.7
+2,10:12,PHI,Tyrese Maxey,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,41,31,0.855,0.855,10:16
+2,10:00,PHI,VJ Edgecombe,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,41,31,0.855,0.855,10:12
+2,9:52,PHI,VJ Edgecombe,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,41,33,0.807,0.838,9:52
+2,8:21,CHA,Tre Mann,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,49,39,0.882,0.855,8:21
+2,4:31,CHA,Kon Knueppel,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,54,49,0.773,0.774,4:41
+2,3:26,PHI,VJ Edgecombe,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,54,49,0.709,0.749,3:30
+2,3:22,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,54,49,0.709,0.709,3:26
+2,2:03,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,56,53,0.647,0.692,2:14
+2,1:45,CHA,Moussa Diabate,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,56,53,0.761,0.692,2:03
+3,10:22,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,63,65,0.481,0.543,10:22
+3,9:44,CHA,Collin Sexton,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,65,66,0.578,0.578,9:53
+3,9:34,CHA,LaMelo Ball,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,65,66,0.578,0.578,9:44
+3,9:17,PHI,Jabari Walker,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,65,68,0.437,0.503,9:17
+3,8:10,PHI,Jabari Walker,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,67,68,0.475,0.532,8:10
+3,7:40,CHA,LaMelo Ball,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,67,70,0.549,0.493,7:59
+3,7:16,CHA,Moussa Diabate,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,71,73,0.557,0.488,7:16
+3,7:02,CHA,Miles Bridges,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,71,73,0.585,0.526,7:04
+3,6:52,PHI,Jabari Walker,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,73,73,0.503,0.564,7:02
+3,6:29,CHA,LaMelo Ball,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,73,75,0.583,0.563,6:52
+3,5:24,CHA,Ryan Kalkbrenner,Loose Ball Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,75,80,0.454,0.394,5:24
+3,4:05,PHI,Justin Edwards,Personal Take Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,76,83,0.207,0.258,4:08
+3,4:01,PHI,Quentin Grimes,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,76,84,0.176,0.256,4:05
+3,3:50,CHA,Tre Mann,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,76,86,0.238,0.191,4:01
+3,1:45,CHA,Tidjane Salaun,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,82,89,0.302,0.228,1:45
+3,1:37,PHI,Andre Drummond,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,83,89,0.209,0.264,1:45
+3,44.4,PHI,Justin Edwards,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,86,92,0.198,0.253,53.5
+4,11:01,PHI,VJ Edgecombe,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,91,96,0.197,0.27,11:07
+4,9:14,CHA,Kon Knueppel,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,96,102,0.33,0.245,9:20
+4,9:13,CHA,Miles Bridges,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,99,102,0.463,0.345,9:13
+4,9:03,PHI,Justin Edwards,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,99,102,0.335,0.351,9:03
+4,8:48,PHI,Andre Drummond,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,99,102,0.284,0.335,9:03
+4,8:10,CHA,LaMelo Ball,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,99,104,0.377,0.277,8:14
+4,6:55,CHA,Tre Mann,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,101,108,0.247,0.174,7:08
+4,6:15,PHI,Tyrese Maxey,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,101,108,0.078,0.127,6:24
+4,6:07,PHI,Justin Edwards,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,101,108,0.077,0.078,6:15
+4,5:51,CHA,Collin Sexton,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,101,110,0.131,0.09,6:07
+4,4:55,PHI,Quentin Grimes,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,105,112,0.059,0.096,4:55
+4,4:50,CHA,LaMelo Ball,Shooting Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,105,114,0.113,0.071,4:55
+4,4:37,CHA,Tre Mann,Offensive Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,107,114,0.124,0.094,4:50
+4,4:29,CHA,Collin Sexton,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,107,114,0.192,0.124,4:37
+4,1:21,PHI,Quentin Grimes,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,117,118,0.225,0.36,1:39
+4,9.4,CHA,Kon Knueppel,Personal Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,122,119,0.975,0.926,9.4
+4,1.1,CHA,Collin Sexton,Personal Take Foul,Foul,Josh Tiven,Dedric Taylor,Jacyn Goble,PHI,123,121,0.993,0.973,1.7

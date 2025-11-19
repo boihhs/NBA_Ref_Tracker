@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:09,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,0,0,0.703,0.737,11:26
+1,9:47,CHI,Zach Collins,Offensive Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,4,2,0.785,0.768,9:56
+1,9:25,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,4,2,0.737,0.766,9:28
+1,9:11,CHI,Zach Collins,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,6,4,0.795,0.764,9:11
+1,8:48,CHI,Josh Giddey,Loose Ball Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,6,4,0.78,0.782,8:48
+1,7:07,ORL,Kentavious Caldwell-Pope,Loose Ball Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,11,9,0.756,0.756,7:07
+1,7:02,ORL,Cole Anthony,Personal Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,11,9,0.726,0.756,7:07
+1,6:45,CHI,Matas Buzelis,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,11,12,0.745,0.715,6:56
+1,4:25,ORL,Jett Howard,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,22,19,0.735,0.766,4:34
+1,3:14,CHI,Jalen Smith,Offensive Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,24,23,0.743,0.72,3:18
+1,3:07,CHI,Talen Horton-Tucker,Personal Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,24,23,0.77,0.743,3:14
+1,2:23,ORL,Franz Wagner,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,26,25,0.678,0.717,2:29
+1,40.1,CHI,Coby White,Personal Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,31,31,0.744,0.708,45.1
+1,39.1,CHI,Jalen Smith,Loose Ball Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,31,31,0.744,0.707,39.1
+2,10:38,CHI,Zach Collins,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,39,35,0.817,0.791,10:58
+2,8:47,CHI,Julian Phillips,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,43,44,0.702,0.666,8:57
+2,7:24,CHI,Tre Jones,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,45,48,0.64,0.601,7:38
+2,7:15,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,47,50,0.542,0.597,7:15
+2,6:08,ORL,Franz Wagner,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,47,53,0.41,0.464,6:15
+2,5:25,CHI,Dalen Terry,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,49,55,0.537,0.489,5:30
+2,4:20,CHI,Kevin Huerter,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,53,58,0.537,0.477,4:20
+2,2:51,ORL,Tristan da Silva,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,57,62,0.413,0.464,2:55
+2,2:51,ORL,Franz Wagner,Technical Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,57,63,0.403,0.403,2:51
+2,2:36,CHI,Jalen Smith,Personal Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,57,64,0.481,0.431,2:51
+2,1:45,ORL,Cory Joseph,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,61,64,0.497,0.521,1:45
+3,11:43,CHI,Coby White,Loose Ball Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,66,69,0.545,0.544,11:43
+3,11:01,CHI,Matas Buzelis,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,70,69,0.699,0.645,11:01
+3,10:08,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,74,69,0.718,0.762,10:30
+3,9:23,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,76,70,0.788,0.787,9:30
+3,9:17,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,76,70,0.747,0.788,9:23
+3,8:41,ORL,Goga Bitadze,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,78,72,0.746,0.788,8:54
+3,8:11,CHI,Zach Collins,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,80,73,0.853,0.815,8:11
+3,6:07,CHI,Zach Collins,Personal Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,85,77,0.892,0.863,6:23
+3,5:58,CHI,Matas Buzelis,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,87,77,0.913,0.883,5:58
+3,5:49,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,88,77,0.873,0.9,5:58
+3,5:07,CHI,Coby White,Personal Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,88,82,0.855,0.818,5:23
+3,4:36,ORL,Cole Anthony,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,92,84,0.803,0.846,4:41
+3,3:19,ORL,Franz Wagner,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,92,88,0.667,0.724,3:35
+3,1:38,CHI,Dalen Terry,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,95,94,0.706,0.646,1:42
+4,11:01,CHI,Kevin Huerter,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,101,98,0.772,0.732,11:30
+4,10:34,CHI,Jalen Smith,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,105,98,0.9,0.847,10:34
+4,9:49,CHI,Jalen Smith,Personal Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,106,98,0.913,0.907,9:57
+4,9:44,CHI,Zach Collins,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,106,98,0.941,0.913,9:49
+4,8:11,CHI,Jalen Smith,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,107,103,0.857,0.804,8:31
+4,8:11,CHI,Jalen Smith,Technical Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,107,103,0.831,0.857,8:11
+4,7:48,CHI,Josh Giddey,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,110,103,0.935,0.902,7:55
+4,7:12,ORL,Cole Anthony,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,114,107,0.848,0.909,7:12
+4,6:18,ORL,Cole Anthony,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,114,110,0.714,0.819,6:18
+4,6:08,CHI,Julian Phillips,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,116,111,0.881,0.811,6:08
+4,5:44,CHI,Matas Buzelis,Shooting Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,116,113,0.84,0.77,5:54
+4,1:43,CHI,Julian Phillips,Loose Ball Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,121,123,0.541,0.407,1:43
+4,26.1,ORL,Wendell Carter Jr.,Personal Foul,Foul,Curtis Blair,Andy Nagy,Robert Hussey,ORL,123,125,0.101,0.255,39.1

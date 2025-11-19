@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:45,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,7,4,0.691,0.651,9:45
+1,9:05,DAL,Klay Thompson,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,8,6,0.61,0.651,9:05
+1,7:10,LAC,Norman Powell,Personal Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,10,8,0.649,0.65,7:12
+1,7:03,DAL,Spencer Dinwiddie,Personal Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,10,8,0.624,0.624,7:03
+1,5:01,LAC,James Harden,Personal Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,13,10,0.67,0.671,5:04
+1,4:48,LAC,Amir Coffey,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,13,10,0.705,0.67,5:01
+1,4:21,DAL,Daniel Gafford,Personal Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,15,13,0.619,0.621,4:21
+1,2:17,DAL,Kyrie Irving,Personal Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,17,15,0.578,0.618,2:27
+1,1:54,LAC,Nicolas Batum,Personal Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,17,17,0.632,0.59,2:07
+2,9:15,DAL,Klay Thompson,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,32,25,0.706,0.743,9:36
+2,8:37,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,32,28,0.731,0.667,9:02
+2,7:32,LAC,Kevin Porter Jr.,Loose Ball Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,35,30,0.72,0.72,7:32
+2,6:02,LAC,Ivica Zubac,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,35,30,0.758,0.721,6:15
+2,4:26,DAL,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,41,30,0.806,0.837,4:33
+2,3:22,DAL,Daniel Gafford,Loose Ball Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,43,34,0.799,0.796,3:22
+2,3:05,LAC,James Harden,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,43,34,0.851,0.821,3:12
+2,2:32,DAL,Maxi Kleber,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,44,34,0.789,0.823,2:35
+2,1:33,DAL,P.J. Washington,Personal Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,46,36,0.792,0.825,1:39
+3,8:34,DAL,Klay Thompson,Personal Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,61,47,0.916,0.914,8:49
+3,7:28,DAL,Dereck Lively II,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,61,51,0.83,0.87,7:28
+3,6:31,DAL,Dereck Lively II,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,61,54,0.725,0.772,6:38
+3,5:08,LAC,Kris Dunn,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,64,56,0.871,0.835,5:11
+3,4:02,LAC,Ivica Zubac,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,67,59,0.859,0.813,4:02
+4,11:46,DAL,Dereck Lively II,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,74,66,0.782,0.848,12:00
+4,9:16,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,84,75,0.946,0.912,9:30
+4,8:50,DAL,Dereck Lively II,Personal Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,87,75,0.948,0.953,8:54
+4,6:41,LAC,Amir Coffey,Technical Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,95,83,0.982,0.975,6:41
+4,5:41,DAL,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,100,86,0.974,0.987,5:50
+4,5:10,DAL,Naji Marshall,Technical Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,100,91,0.911,0.951,5:10
+4,4:53,DAL,Klay Thompson,Offensive Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,100,92,0.909,0.905,5:10
+4,4:41,DAL,Daniel Gafford,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,100,92,0.849,0.909,4:53
+4,3:42,LAC,Norman Powell,Shooting Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,103,96,0.958,0.915,4:07
+4,3:21,LAC,Norman Powell,Personal Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,106,96,0.981,0.979,3:32
+4,35.1,DAL,P.J. Washington,Personal Take Foul,Foul,Pat Fraher,Ray Acosta,Tyler Ricks,DAL,113,96,0.999,0.999,38.1

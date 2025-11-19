@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:28,WSH,Jordan Poole,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,4,2,0.893,0.894,10:43
+1,9:44,LAC,Derrick Jones Jr.,Loose Ball Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,4,2,0.881,0.88,9:44
+1,8:51,WSH,Jordan Poole,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,7,4,0.911,0.898,8:53
+1,7:35,WSH,Kyle Kuzma,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,12,7,0.911,0.913,7:45
+1,3:50,LAC,James Harden,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,23,12,0.942,0.942,4:04
+1,3:48,LAC,James Harden,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,23,12,0.931,0.942,3:50
+1,2:55,WSH,Jordan Poole,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,23,14,0.944,0.934,2:58
+1,9.0,WSH,Kyshawn George,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,28,20,0.933,0.923,31.0
+2,9:30,LAC,Terance Mann,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,39,20,0.977,0.977,9:35
+2,9:18,LAC,Mo Bamba,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,39,20,0.971,0.977,9:30
+2,9:05,WSH,Kyshawn George,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,39,22,0.979,0.974,9:18
+2,8:19,WSH,Jonas Valanciunas,Loose Ball Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,44,22,0.988,0.988,8:19
+2,8:10,LAC,Mo Bamba,Offensive Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,44,22,0.986,0.988,8:19
+2,7:20,LAC,Terance Mann,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,46,22,0.987,0.99,7:22
+2,6:28,LAC,Mo Bamba,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,49,26,0.987,0.99,6:28
+2,2:35,WSH,Justin Champagnie,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,57,36,0.987,0.987,2:57
+2,2:00,WSH,Kyshawn George,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,57,36,0.99,0.988,2:10
+3,10:26,WSH,Alex Sarr,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,69,47,0.992,0.991,10:44
+3,8:59,WSH,Alex Sarr,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,74,49,0.997,0.996,9:10
+3,7:30,LAC,Norman Powell,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,76,53,0.991,0.994,7:30
+3,6:57,WSH,Bub Carrington,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,76,54,0.994,0.994,6:59
+3,6:24,LAC,James Harden,Loose Ball Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,76,54,0.992,0.992,6:24
+3,3:56,WSH,Jonas Valanciunas,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,80,59,0.996,0.994,4:14
+3,3:22,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,81,63,0.982,0.989,3:22
+3,3:11,WSH,Bilal Coulibaly,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,81,64,0.99,0.985,3:22
+3,2:58,LAC,Ivica Zubac,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,83,64,0.983,0.988,3:11
+3,2:54,LAC,Nicolas Batum,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,83,64,0.983,0.983,2:58
+3,2:42,WSH,Bilal Coulibaly,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,83,66,0.99,0.986,2:54
+3,1:51,LAC,Terance Mann,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,87,68,0.985,0.99,1:58
+3,30.0,WSH,Kyshawn George,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,87,72,0.989,0.981,40.0
+4,10:57,LAC,Norman Powell,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,91,72,0.994,0.994,11:08
+4,10:57,LAC,Kevin Porter Jr.,Away from Play Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,91,72,0.993,0.994,10:57
+4,10:23,WSH,Kyshawn George,Offensive Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,91,76,0.986,0.98,10:25
+4,10:06,WSH,Bub Carrington,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,91,76,0.987,0.986,10:23
+4,9:30,WSH,Bilal Coulibaly,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,91,76,0.989,0.988,9:39
+4,9:05,LAC,Mo Bamba,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,93,76,0.988,0.992,9:05
+4,8:52,WSH,Jonas Valanciunas,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,93,78,0.994,0.989,9:05
+4,4:54,LAC,Ivica Zubac,Shooting Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,105,83,0.999,0.999,5:09
+4,1:41,WSH,Alex Sarr,Personal Take Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,107,90,0.999,0.999,1:53
+4,1:22,LAC,Cam Christie,Personal Foul,Foul,Derek Richardson,Ben Taylor,Andy Nagy,LAC,107,90,0.999,0.999,1:30

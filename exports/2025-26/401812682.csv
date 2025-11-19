@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,5:24,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,11,11,0.446,0.488,5:35
+1,4:59,OKC,Cason Wallace,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,11,12,0.526,0.488,5:03
+1,4:33,OKC,Malevy Leons,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,13,12,0.581,0.54,4:37
+1,4:21,DAL,Jaden Hardy,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,15,12,0.568,0.568,4:33
+1,4:03,OKC,Jazian Gortman,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,15,14,0.541,0.541,4:13
+1,3:47,OKC,Jazian Gortman,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,17,14,0.614,0.568,3:47
+1,1:40,OKC,Jazian Gortman,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,23,16,0.74,0.704,1:53
+1,1:11,OKC,Zack Austin,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,25,16,0.785,0.753,1:15
+1,50.2,OKC,Chris Youngblood,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,27,18,0.786,0.753,1:02
+1,36.8,DAL,Max Christie,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,29,18,0.74,0.774,50.2
+1,29.0,DAL,Dereck Lively II,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,29,18,0.74,0.774,29.2
+2,10:41,DAL,D'Angelo Russell,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,31,20,0.746,0.783,10:43
+2,9:16,OKC,Zack Austin,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,33,25,0.775,0.74,9:24
+2,8:44,DAL,Klay Thompson,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,37,25,0.81,0.808,8:56
+2,8:00,OKC,Jaylin Williams,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,40,27,0.875,0.852,8:05
+2,7:31,DAL,D'Angelo Russell,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,44,27,0.899,0.899,7:43
+2,6:41,OKC,Chris Youngblood,Loose Ball Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,46,27,0.937,0.938,6:41
+2,5:47,OKC,Chris Youngblood,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,48,27,0.961,0.948,5:47
+2,5:42,DAL,Dwight Powell,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,49,27,0.943,0.955,5:47
+2,5:41,DAL,P.J. Washington,Loose Ball Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,49,28,0.934,0.948,5:41
+2,4:44,OKC,Jaylin Williams,Offensive Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,54,32,0.965,0.957,5:02
+2,4:14,OKC,Cason Wallace,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,57,32,0.986,0.981,4:20
+3,11:21,OKC,Brooks Barnhizer,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,66,43,0.987,0.983,11:43
+3,10:32,OKC,Jaylin Williams,Offensive Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,67,43,0.987,0.984,10:41
+3,10:12,DAL,P.J. Washington,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,70,43,0.993,0.992,10:21
+3,7:17,DAL,Naji Marshall,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,74,50,0.987,0.992,7:17
+3,6:48,DAL,Moussa Cisse,Offensive Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,74,54,0.975,0.98,6:57
+3,5:45,DAL,Naji Marshall,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,77,54,0.984,0.989,5:57
+3,5:24,OKC,Cason Wallace,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,77,55,0.993,0.99,5:45
+3,18.0,OKC,Malevy Leons,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,81,66,0.978,0.964,18.0
+4,10:11,DAL,Jaden Hardy,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,87,69,0.982,0.99,10:19
+4,8:17,DAL,Moussa Cisse,Loose Ball Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,87,75,0.948,0.954,8:17
+4,8:09,OKC,Chris Youngblood,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,89,75,0.987,0.975,8:09
+4,7:42,OKC,Malevy Leons,Loose Ball Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,90,75,0.99,0.989,7:42
+4,7:34,DAL,Jaden Hardy,Offensive Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,90,75,0.985,0.99,7:42
+4,6:42,DAL,Jaden Hardy,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,90,75,0.976,0.988,6:44
+4,6:30,OKC,Jazian Gortman,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,90,77,0.984,0.982,6:42
+4,5:05,DAL,Jeremiah Robinson-Earl,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,93,81,0.967,0.985,5:05
+4,3:59,DAL,Ryan Nembhard,Shooting Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,93,85,0.863,0.915,4:10
+4,3:30,OKC,Chris Youngblood,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,93,87,0.944,0.894,3:37
+4,3:02,OKC,Malevy Leons,Offensive Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,95,87,0.961,0.936,3:16
+4,2:21,OKC,Chris Youngblood,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,97,87,0.996,0.989,2:30
+4,2:05,OKC,Malevy Leons,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,99,87,0.999,0.998,2:08
+4,1:35,OKC,Malevy Leons,Personal Foul,Foul,James Williams,Rodney Mott,Brent Haskill,DAL,102,87,0.999,0.999,1:38

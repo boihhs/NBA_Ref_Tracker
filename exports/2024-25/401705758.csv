@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:17,MIL,Pete Nance,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,2,4,0.352,0.391,10:17
+1,6:24,DET,Tobias Harris,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,17,14,0.548,0.501,6:24
+1,5:54,DET,Jalen Duren,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,20,14,0.629,0.584,5:54
+1,41.0,MIL,Chris Livingston,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,43,24,0.877,0.902,41.0
+2,11:33,MIL,Tyler Smith,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,43,25,0.865,0.876,11:39
+2,11:15,DET,Simone Fontecchio,Personal Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,43,25,0.895,0.893,11:21
+2,9:59,DET,Malik Beasley,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,43,31,0.822,0.792,10:19
+2,9:21,MIL,Stanley Umude,Personal Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,46,31,0.837,0.835,9:30
+2,8:57,MIL,Tyler Smith,Personal Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,48,31,0.874,0.873,9:08
+2,8:05,DET,Lindy Waters III,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,48,34,0.868,0.842,8:24
+2,7:59,MIL,AJ Green,Personal Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,50,34,0.833,0.86,8:05
+2,1:54,MIL,Andre Jackson Jr.,Loose Ball Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,71,50,0.939,0.953,1:55
+3,9:48,DET,Paul Reed,Personal Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,73,65,0.764,0.762,10:01
+3,8:03,DET,Paul Reed,Loose Ball Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,76,68,0.773,0.775,8:03
+3,6:23,DET,Paul Reed,Offensive Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,81,73,0.789,0.756,6:33
+3,5:00,MIL,Pete Nance,Offensive Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,85,77,0.769,0.799,5:15
+3,1:26,DET,Ronald Holland II,Personal Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,95,87,0.875,0.834,1:37
+3,13.1,MIL,Andre Jackson Jr.,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,95,89,0.703,0.779,13.1
+4,8:55,MIL,Chris Livingston,Loose Ball Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,101,96,0.716,0.775,9:09
+4,7:14,MIL,Pete Nance,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,101,98,0.527,0.631,7:31
+4,6:34,DET,Bobi Klintman,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,101,103,0.493,0.385,6:54
+4,5:20,DET,Bobi Klintman,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,108,107,0.659,0.521,5:20
+4,5:06,MIL,Pete Nance,Personal Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,109,107,0.574,0.595,5:20
+4,3:30,MIL,Andre Jackson Jr.,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,112,111,0.444,0.605,3:30
+4,3:14,DET,Tolu Smith,Offensive Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,112,112,0.512,0.423,3:17
+4,2:39,MIL,Pat Connaughton,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,114,112,0.532,0.598,2:39
+4,54.1,DET,Bobi Klintman,Loose Ball Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,120,114,0.985,0.956,54.1
+4,8.2,DET,Marcus Sasser,Personal Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,122,120,0.946,0.844,9.1
+5,4:49,DET,Tolu Smith,Flagrant Foul Type 1,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,123,123,0.525,0.5,5:00
+5,3:37,DET,Bobi Klintman,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,128,123,0.925,0.863,3:53
+5,3:24,MIL,Pete Nance,Loose Ball Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,131,123,0.938,0.939,3:24
+5,2:41,MIL,Jamaree Bouyea,Loose Ball Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,131,125,0.886,0.891,2:41
+5,2:22,DET,Bobi Klintman,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,133,125,0.984,0.957,2:22
+5,1:33,MIL,Pat Connaughton,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,135,127,0.92,0.968,1:48
+5,47.0,DET,Bobi Klintman,Shooting Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,137,131,0.988,0.952,1:04
+5,27.0,DET,Tolu Smith,Personal Take Foul,Foul,John Goble,J.T. Orr,J.B. DeRosa,MIL,138,133,0.985,0.951,32.1

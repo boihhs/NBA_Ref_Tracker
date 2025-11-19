@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:32,LAC,Kris Dunn,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,0,2,0.494,0.534,11:32
+1,11:11,DEN,Aaron Gordon,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,0,3,0.509,0.509,11:12
+1,9:59,DEN,Christian Braun,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,3,7,0.5,0.482,9:59
+1,6:46,LAC,Norman Powell,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,14,20,0.394,0.394,6:50
+1,4:23,LAC,Ben Simmons,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,19,24,0.393,0.439,4:23
+1,2:04,DEN,Peyton Watson,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,25,28,0.53,0.489,2:21
+1,1:42,DEN,Peyton Watson,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,27,28,0.588,0.545,1:46
+2,9:58,LAC,Derrick Jones Jr.,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,42,28,0.845,0.87,10:11
+2,9:24,LAC,Nicolas Batum,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,45,30,0.886,0.886,9:37
+2,9:11,LAC,Ivica Zubac,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,45,30,0.876,0.886,9:11
+2,6:53,DEN,DeAndre Jordan,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,50,37,0.877,0.877,7:04
+2,4:07,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,54,40,0.919,0.883,4:24
+2,3:05,LAC,Ivica Zubac,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,58,40,0.922,0.938,3:14
+2,3:03,LAC,Kris Dunn,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,58,40,0.922,0.922,3:05
+2,2:20,DEN,Aaron Gordon,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,58,43,0.918,0.919,2:33
+2,1:39,DEN,Jamal Murray,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,62,43,0.963,0.952,1:39
+3,11:40,DEN,Jamal Murray,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,65,47,0.968,0.96,11:43
+3,10:49,DEN,Aaron Gordon,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,67,50,0.963,0.952,10:56
+3,8:46,LAC,Kris Dunn,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,72,50,0.975,0.982,8:52
+3,5:02,LAC,Norman Powell,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,80,56,0.99,0.993,5:18
+3,3:35,DEN,Julian Strawther,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,84,60,0.997,0.995,3:35
+3,2:44,LAC,Kris Dunn,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,85,62,0.991,0.994,2:48
+3,2:29,LAC,Ben Simmons,Offensive Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,85,64,0.99,0.988,1:57
+3,1:03,LAC,Norman Powell,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,85,66,0.98,0.987,1:19
+4,11:48,LAC,Bogdan Bogdanovic,Offensive Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,90,70,0.994,0.993,12:00
+4,11:37,LAC,Bogdan Bogdanovic,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,90,70,0.993,0.994,11:48
+4,11:29,DEN,DeAndre Jordan,Offensive Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,90,70,0.995,0.993,11:31
+4,11:16,DEN,Julian Strawther,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,90,70,0.997,0.995,11:29
+4,10:12,DEN,Julian Strawther,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,90,70,0.998,0.996,10:20
+4,9:10,LAC,Ivica Zubac,Offensive Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,92,74,0.993,0.995,9:22
+4,8:47,DEN,Jamal Murray,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,94,74,0.998,0.997,8:47
+4,7:51,LAC,Ivica Zubac,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,94,74,0.996,0.998,8:12
+4,7:38,DEN,Nikola Jokic,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,94,76,0.998,0.997,7:51
+4,4:34,DEN,Christian Braun,Personal Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,106,82,0.999,0.999,4:54
+4,2:50,DEN,Peyton Watson,Loose Ball Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,110,82,0.999,0.999,2:50
+4,2:33,LAC,Patty Mills,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,111,82,0.999,0.999,2:34
+4,2:23,DEN,Zeke Nnaji,Loose Ball Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,111,83,0.999,0.999,2:23
+4,1:35,DEN,Zeke Nnaji,Shooting Foul,Foul,James Capers,Ben Taylor,Ray Acosta,LAC,112,83,0.999,0.999,1:44

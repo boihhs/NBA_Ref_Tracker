@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:51,MIL,AJ Green,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,3,2,0.383,0.382,10:56
+1,10:17,HOU,Jabari Smith Jr.,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,3,4,0.358,0.36,10:35
+1,8:15,MIL,AJ Green,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,8,11,0.297,0.294,8:37
+1,7:27,MIL,Ryan Rollins,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,10,14,0.275,0.275,7:44
+1,5:59,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,17,18,0.389,0.346,5:59
+1,3:57,HOU,Tari Eason,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,20,22,0.388,0.35,4:09
+1,3:00,HOU,Steven Adams,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,20,22,0.391,0.352,3:03
+1,1:29,HOU,Steven Adams,Offensive Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,23,24,0.381,0.352,1:41
+1,11.4,MIL,Kyle Kuzma,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,30,26,0.455,0.501,19.1
+2,11:06,HOU,Amen Thompson,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,32,28,0.556,0.506,11:06
+2,8:24,MIL,Bobby Portis,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,39,30,0.622,0.667,8:40
+2,8:09,HOU,Clint Capela,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,39,31,0.71,0.667,8:24
+2,2:53,MIL,Myles Turner,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,51,45,0.558,0.606,3:07
+3,11:48,MIL,Ryan Rollins,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,61,50,0.74,0.793,12:00
+3,11:37,MIL,Myles Turner,Offensive Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,61,52,0.729,0.757,11:48
+3,8:50,HOU,Alperen Sengun,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,65,60,0.648,0.648,8:58
+3,8:12,HOU,Tari Eason,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,65,60,0.705,0.653,8:15
+3,7:21,HOU,Kevin Durant,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,69,60,0.832,0.793,7:25
+3,6:18,HOU,Alperen Sengun,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,75,65,0.848,0.802,6:18
+3,4:28,HOU,Alperen Sengun,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,78,71,0.805,0.753,4:47
+3,3:55,MIL,Gary Trent Jr.,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,79,73,0.686,0.684,4:00
+3,3:41,MIL,Myles Turner,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,79,73,0.656,0.686,3:55
+3,2:14,HOU,Reed Sheppard,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,84,75,0.882,0.844,2:22
+3,1:17,MIL,Bobby Portis,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,85,78,0.686,0.75,1:25
+3,1:03,MIL,Bobby Portis,Offensive Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,85,79,0.712,0.759,1:13
+3,8.0,MIL,Amir Coffey,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,85,81,0.562,0.634,21.9
+4,11:06,MIL,Cole Anthony,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,88,84,0.633,0.642,11:24
+4,11:06,HOU,Reed Sheppard,Offensive Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,88,84,0.693,0.633,11:06
+4,9:03,HOU,Alperen Sengun,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,94,88,0.847,0.763,9:03
+4,8:13,HOU,Amen Thompson,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,95,90,0.796,0.776,8:34
+4,5:12,MIL,Ryan Rollins,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,106,99,0.836,0.878,5:12
+4,4:33,MIL,Kyle Kuzma,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,108,102,0.789,0.888,4:33
+4,4:19,MIL,Kyle Kuzma,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,108,103,0.686,0.84,4:33
+4,3:08,MIL,Gary Trent Jr.,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,111,109,0.531,0.675,3:08
+4,1:29,HOU,Kevin Durant,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,113,115,0.43,0.322,1:30
+4,37.9,HOU,Alperen Sengun,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,113,117,0.293,0.166,44.3
+4,23.4,MIL,Myles Turner,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,114,119,0.021,0.076,23.4
+4,13.3,MIL,AJ Green,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,114,120,0.001,0.037,17.3
+4,1.2,HOU,Josh Okogie,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Simone Jelks,MIL,114,122,0.001,0.001,1.2

@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,SAC,Dylan Cardwell,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,2,0,0.739,0.726,11:04
+1,10:42,MIL,Gary Trent Jr.,Loose Ball Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,4,0,0.745,0.744,10:42
+1,9:15,MIL,Myles Turner,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,12,2,0.845,0.844,9:27
+1,6:57,MIL,Myles Turner,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,21,8,0.865,0.884,7:01
+1,6:42,MIL,Ryan Rollins,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,23,9,0.878,0.896,6:46
+1,5:34,MIL,Bobby Portis,Technical Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,28,13,0.899,0.912,5:34
+1,5:27,MIL,AJ Green,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,28,14,0.878,0.897,5:34
+1,3:42,SAC,Maxime Raynaud,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,35,23,0.901,0.886,3:51
+1,2:58,MIL,Kyle Kuzma,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,37,23,0.878,0.897,3:02
+1,1:41,SAC,Dennis Schroder,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,41,29,0.902,0.887,1:47
+1,36.9,MIL,Kyle Kuzma,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,44,33,0.845,0.873,36.9
+2,11:51,MIL,Cole Anthony,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,47,38,0.81,0.842,11:51
+2,11:14,MIL,Taurean Prince,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,47,39,0.777,0.805,11:21
+2,4:51,SAC,Domantas Sabonis,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,59,54,0.796,0.761,5:10
+2,4:34,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,60,56,0.689,0.737,4:34
+2,3:22,SAC,Russell Westbrook,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,62,57,0.796,0.761,3:31
+2,2:54,SAC,Zach LaVine,Transition Take Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,65,57,0.829,0.829,2:54
+2,2:49,MIL,Myles Turner,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,65,57,0.772,0.808,2:49
+2,2:37,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,65,57,0.772,0.809,2:37
+2,56.5,SAC,Domantas Sabonis,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,69,64,0.798,0.762,1:10
+2,2.0,SAC,Nique Clifford,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,70,70,0.656,0.609,12.3
+3,9:45,SAC,Russell Westbrook,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,78,78,0.653,0.604,9:49
+3,8:03,SAC,DeMar DeRozan,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,81,80,0.683,0.597,8:15
+3,8:03,MIL,Gary Trent Jr.,Technical Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,81,80,0.563,0.683,8:03
+3,6:46,MIL,AJ Green,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,83,86,0.371,0.429,6:49
+3,6:08,SAC,Russell Westbrook,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,83,88,0.447,0.388,6:20
+3,4:07,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,87,96,0.144,0.188,4:27
+3,3:58,MIL,Cole Anthony,Offensive Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,87,98,0.128,0.157,4:07
+3,1:17,MIL,Bobby Portis,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,97,104,0.19,0.255,1:17
+3,54.5,MIL,Cole Anthony,Technical Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,97,106,0.126,0.179,54.5
+3,40.2,SAC,Drew Eubanks,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,97,106,0.231,0.179,54.5
+4,11:06,SAC,Keon Ellis,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,102,110,0.258,0.188,11:19
+4,10:40,MIL,Cole Anthony,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,104,110,0.212,0.226,10:47
+4,10:40,MIL,Cole Anthony,Technical Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,104,110,0.188,0.212,10:40
+4,10:21,SAC,Nique Clifford,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,106,111,0.359,0.258,10:21
+4,9:13,MIL,Ryan Rollins,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,109,116,0.111,0.169,9:36
+4,8:43,MIL,Taurean Prince,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,111,118,0.101,0.156,8:54
+4,6:49,SAC,Domantas Sabonis,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,113,120,0.173,0.16,6:56
+4,6:43,SAC,Russell Westbrook,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,113,120,0.24,0.173,6:49
+4,6:14,SAC,DeMar DeRozan,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,115,122,0.195,0.123,6:14
+4,5:36,MIL,AJ Green,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,116,122,0.093,0.151,5:44
+4,5:23,MIL,Ryan Rollins,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,116,122,0.111,0.093,5:36
+4,3:54,SAC,Domantas Sabonis,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,118,124,0.235,0.149,4:14
+4,3:40,MIL,AJ Green,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,120,124,0.061,0.109,3:54
+4,3:04,SAC,Domantas Sabonis,Offensive Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,123,128,0.181,0.138,3:24
+4,2:35,MIL,Myles Turner,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,125,128,0.139,0.235,2:53
+4,2:28,SAC,Russell Westbrook,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,125,129,0.341,0.228,2:33
+4,2:17,MIL,Myles Turner,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,127,129,0.186,0.293,2:28
+4,1:03,MIL,Gary Trent Jr.,Shooting Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,129,131,0.148,0.265,1:23
+4,14.8,MIL,AJ Green,Personal Take Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,132,133,0.134,0.307,19.1
+4,1.1,SAC,Zach LaVine,Personal Foul,Foul,Marat Kogut,Mitchell Ervin,John Conley,MIL,132,135,0.041,0.089,5.4

@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:34,CHI,Tre Jones,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,9,4,0.716,0.714,9:40
+1,8:50,CHI,Matas Buzelis,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,12,4,0.803,0.776,8:50
+1,6:31,DET,Javonte Green,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,18,8,0.765,0.795,6:35
+1,3:49,CHI,Ayo Dosunmu,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,21,12,0.841,0.798,4:12
+1,3:46,CHI,Jalen Smith,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,21,12,0.841,0.798,3:48
+1,3:35,DET,Caris LeVert,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,22,12,0.788,0.816,3:46
+1,0.8,CHI,Ayo Dosunmu,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,34,23,0.86,0.839,5.8
+2,11:15,DET,Bobi Klintman,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,37,23,0.849,0.873,11:40
+2,9:28,DET,Tolu Smith,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,41,27,0.877,0.877,9:40
+2,6:02,DET,Ronald Holland II,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,49,36,0.867,0.867,6:12
+2,3:26,DET,Ronald Holland II,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,56,45,0.808,0.841,3:37
+2,2:26,DET,Duncan Robinson,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,61,50,0.811,0.844,2:35
+2,36.8,DET,Duncan Robinson,Offensive Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,65,51,0.898,0.914,54.0
+2,28.0,DET,Duncan Robinson,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,65,51,0.876,0.898,36.8
+2,10.8,CHI,Kevin Huerter,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,65,52,0.922,0.901,25.2
+2,0.2,CHI,Kevin Huerter,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,65,52,0.921,0.922,10.8
+3,11:20,DET,Duncan Robinson,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,70,54,0.931,0.931,11:32
+3,11:14,DET,Paul Reed,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,70,54,0.931,0.931,11:20
+3,9:44,CHI,Nikola Vucevic,Offensive Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,70,60,0.86,0.836,9:50
+3,6:32,DET,Daniss Jenkins,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,76,64,0.892,0.892,6:34
+3,5:26,CHI,Patrick Williams,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,80,69,0.911,0.88,5:26
+3,5:21,DET,Daniss Jenkins,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,80,69,0.845,0.879,5:26
+3,2:46,CHI,Patrick Williams,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,91,69,0.996,0.993,2:46
+3,2:29,CHI,Kevin Huerter,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,92,71,0.993,0.993,2:37
+3,2:01,DET,Chaz Lanier,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,92,71,0.987,0.992,2:04
+3,1:23,DET,Bobi Klintman,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,92,73,0.979,0.986,1:41
+3,29.7,DET,Chaz Lanier,Loose Ball Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,95,78,0.97,0.98,29.7
+3,14.9,CHI,Jalen Smith,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,95,79,0.988,0.981,27.1
+4,11:41,DET,Tolu Smith,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,95,79,0.962,0.979,12:00
+4,11:29,CHI,Ayo Dosunmu,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,95,80,0.979,0.977,11:41
+4,10:47,DET,Daniss Jenkins,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,95,80,0.97,0.973,10:52
+4,10:26,DET,Duncan Robinson,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,95,82,0.937,0.965,10:26
+4,9:38,DET,Bobi Klintman,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,95,85,0.857,0.904,9:42
+4,8:45,DET,Javonte Green,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,97,92,0.691,0.729,8:45
+4,8:26,DET,Caris LeVert,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,97,94,0.541,0.627,8:28
+4,8:17,CHI,Kevin Huerter,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,99,96,0.735,0.627,8:17
+4,7:43,CHI,Kevin Huerter,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,102,96,0.843,0.83,7:43
+4,7:33,DET,Paul Reed,Offensive Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,102,96,0.797,0.843,7:43
+4,6:40,CHI,Matas Buzelis,Loose Ball Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,104,98,0.903,0.806,6:53
+4,2:35,DET,Duncan Robinson,Shooting Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,120,106,0.994,0.998,2:36
+4,54.1,CHI,Isaac Okoro,Personal Foul,Foul,Zach Zarba,Ray Acosta,John Conley,DET,122,113,0.998,0.996,55.1

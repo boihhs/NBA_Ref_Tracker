@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:35,CHI,Zach LaVine,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,12,13,0.458,0.455,6:49
+1,6:31,CHI,Julian Phillips,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,12,13,0.459,0.458,6:35
+1,5:50,CLE,Caris LeVert,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,12,13,0.526,0.487,5:53
+1,22.0,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,22,30,0.233,0.269,24.2
+2,11:13,CHI,Julian Phillips,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,28,36,0.248,0.291,11:13
+2,10:59,CLE,Georges Niang,Loose Ball Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,28,36,0.29,0.289,10:59
+2,10:06,CLE,Sam Merrill,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,28,36,0.327,0.288,10:19
+2,9:37,CHI,Jalen Smith,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,30,36,0.273,0.311,9:40
+2,8:16,CLE,Jaylon Tyson,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,33,43,0.234,0.234,8:24
+2,7:27,CHI,Jalen Smith,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,37,45,0.219,0.254,7:44
+2,4:53,CLE,Jarrett Allen,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,40,49,0.285,0.247,4:58
+2,4:06,CHI,Lonzo Ball,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,43,49,0.256,0.297,4:18
+2,1:51,CHI,Nikola Vucevic,Offensive Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,49,57,0.236,0.258,1:59
+2,2.0,CHI,Ayo Dosunmu,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,54,59,0.266,0.308,4.1
+3,8:21,CHI,Nikola Vucevic,Offensive Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,61,66,0.298,0.33,8:22
+3,7:13,CHI,Coby White,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,65,70,0.243,0.292,7:21
+3,5:14,CLE,Caris LeVert,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,70,75,0.319,0.318,5:17
+3,3:44,CHI,Julian Phillips,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,77,81,0.254,0.311,3:57
+3,2:47,CHI,Matas Buzelis,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,79,85,0.181,0.229,2:57
+3,2:02,CHI,Lonzo Ball,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,84,87,0.279,0.342,2:13
+3,1:44,CHI,Jalen Smith,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,84,88,0.239,0.296,1:48
+4,10:40,CLE,Donovan Mitchell,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,97,93,0.799,0.728,10:42
+4,10:11,CLE,Georges Niang,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,99,95,0.778,0.685,10:11
+4,10:02,CHI,Zach LaVine,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,100,97,0.591,0.698,10:02
+4,9:19,CLE,Donovan Mitchell,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,103,98,0.853,0.785,9:22
+4,8:42,CLE,Jaylon Tyson,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,105,100,0.859,0.796,8:54
+4,6:48,CHI,Talen Horton-Tucker,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,110,105,0.771,0.832,6:48
+4,6:10,CHI,Torrey Craig,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,110,105,0.687,0.785,6:23
+4,5:06,CLE,Jarrett Allen,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,112,109,0.824,0.746,5:15
+4,4:49,CHI,Jalen Smith,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,113,111,0.552,0.69,4:49
+4,4:37,CLE,Evan Mobley,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,113,112,0.71,0.607,4:49
+4,3:01,CHI,Chris Duarte,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,120,117,0.578,0.695,3:11
+4,1:21,CLE,Evan Mobley,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,122,126,0.32,0.197,1:34
+4,1:11,CHI,Adama Sanogo,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,124,128,0.087,0.19,1:11
+4,11.2,CLE,Darius Garland,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,126,129,0.383,0.188,16.1
+4,10.0,CHI,E.J. Liddell,Personal Take Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,128,129,0.12,0.29,11.2
+5,4:46,CLE,Pete Nance,Loose Ball Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,130,130,0.544,0.533,4:36
+5,3:03,CHI,E.J. Liddell,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,133,130,0.579,0.704,3:07
+5,2:46,CLE,Pete Nance,Offensive Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,133,131,0.714,0.626,2:50
+5,2:02,CHI,Talen Horton-Tucker,Shooting Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,133,133,0.307,0.454,2:05
+5,49.0,CHI,Adama Sanogo,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,136,135,0.358,0.464,1:00
+5,39.1,CHI,Chris Duarte,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,136,135,0.357,0.358,49.0
+5,8.1,CLE,Pete Nance,Personal Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,138,137,0.897,0.733,8.1
+5,7.1,CLE,Luke Travers,Personal Take Foul,Foul,James Capers,Nick Buchert,Matt Myers,CHI,138,137,0.906,0.757,8.1

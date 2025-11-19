@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:36,PHX,Jusuf Nurkic,Offensive Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,0,3,0.41,0.438,11:49
+1,6:22,PHX,Devin Booker,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,11,14,0.407,0.406,6:30
+1,4:04,LAL,Cam Reddish,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,18,20,0.479,0.433,4:04
+1,3:21,PHX,Ryan Dunn,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,21,20,0.472,0.512,3:39
+1,1:48,LAL,Jaxson Hayes,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,25,27,0.499,0.459,1:58
+1,1:07,PHX,Bradley Beal,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,28,30,0.389,0.426,1:10
+2,11:08,LAL,Dalton Knecht,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,32,35,0.448,0.396,11:08
+2,10:44,LAL,Jaxson Hayes,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,35,37,0.475,0.426,10:44
+2,9:22,PHX,Bradley Beal,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,37,41,0.345,0.364,9:28
+2,9:08,LAL,Cam Reddish,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,37,44,0.352,0.311,9:22
+2,7:37,PHX,Ryan Dunn,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,43,46,0.394,0.392,7:53
+2,7:33,PHX,Ryan Dunn,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,43,46,0.371,0.394,7:37
+2,6:03,PHX,Devin Booker,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,45,48,0.346,0.391,6:13
+2,5:14,PHX,Jusuf Nurkic,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,47,50,0.344,0.391,5:39
+2,3:19,PHX,Oso Ighodaro,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,56,56,0.434,0.482,3:28
+2,2:46,PHX,Oso Ighodaro,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,58,58,0.458,0.518,2:46
+2,2:28,LAL,D'Angelo Russell,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,58,58,0.567,0.518,2:44
+2,1:23,LAL,Cam Reddish,Loose Ball Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,63,58,0.728,0.683,1:23
+3,9:47,PHX,Bradley Beal,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,72,64,0.711,0.758,9:49
+3,8:12,PHX,Jusuf Nurkic,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,74,68,0.652,0.703,8:19
+3,8:05,LAL,D'Angelo Russell,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,74,69,0.702,0.704,8:12
+3,7:34,PHX,Devin Booker,Loose Ball Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,76,71,0.672,0.671,7:34
+3,4:41,PHX,Ryan Dunn,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,82,78,0.584,0.645,4:51
+3,2:13,LAL,Jalen Hood-Schifino,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,86,78,0.859,0.838,2:13
+3,1:33,PHX,Royce O'Neale,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,87,78,0.797,0.843,1:35
+4,11:26,LAL,Cam Reddish,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,90,84,0.812,0.799,11:37
+4,11:16,LAL,Bronny James,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,90,84,0.864,0.812,11:26
+4,11:06,PHX,Kevin Durant,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,92,84,0.779,0.845,11:16
+4,10:17,PHX,Bradley Beal,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,92,84,0.836,0.845,10:29
+4,7:36,PHX,Ryan Dunn,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,97,91,0.746,0.84,7:36
+4,6:24,PHX,Ryan Dunn,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,99,94,0.666,0.757,6:47
+4,4:27,LAL,Jalen Hood-Schifino,Flagrant Foul Type 1,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,101,99,0.658,0.657,4:31
+4,3:57,LAL,Bronny James,Flagrant Foul Type 1,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,103,99,0.79,0.794,3:58
+4,1:39,LAL,Jaxson Hayes,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,110,104,0.973,0.942,1:44
+4,1:23,PHX,Bol Bol,Hanging Technical Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,111,106,0.955,0.972,1:23
+5,4:17,PHX,TyTy Washington Jr.,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,113,113,0.342,0.466,4:35
+5,2:40,PHX,Jalen Bridges,Personal Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,117,121,0.149,0.161,2:54
+5,1:28,LAL,Armel Traore,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,120,124,0.353,0.185,1:37
+5,54.1,PHX,Collin Gillespie,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,122,126,0.078,0.203,54.1
+5,29.1,PHX,Jalen Bridges,Shooting Foul,Foul,Brian Forte,Marat Kogut,Brent Haskill,PHX,122,128,0.011,0.046,29.1

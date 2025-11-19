@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:14,MEM,Ja Morant,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,6,2,0.614,0.649,9:26
+1,7:51,MEM,Zach Edey,Offensive Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,10,4,0.698,0.721,7:56
+1,6:28,MEM,Jay Huff,Defensive 3-Seconds Technical,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,13,7,0.703,0.698,6:39
+1,5:18,LAL,D'Angelo Russell,Clear Path Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,16,12,0.674,0.674,5:20
+1,4:15,MEM,Santi Aldama,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,20,17,0.584,0.625,4:18
+1,3:51,LAL,Christian Koloko,Loose Ball Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,20,18,0.623,0.624,3:51
+1,3:23,MEM,Brandon Clarke,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,22,18,0.61,0.649,3:39
+1,2:56,LAL,Cam Reddish,Personal Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,22,19,0.648,0.649,2:56
+1,2:56,LAL,D'Angelo Russell,Away from Play Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,22,19,0.685,0.649,2:56
+1,1:36,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,28,22,0.661,0.698,1:47
+2,9:00,LAL,Jaxson Hayes,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,37,34,0.69,0.65,9:02
+2,8:57,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,38,34,0.648,0.648,8:57
+2,7:27,MEM,Luke Kennard,Personal Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,40,34,0.704,0.703,7:40
+2,6:49,LAL,Jaxson Hayes,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,40,36,0.717,0.679,7:03
+2,5:33,LAL,Austin Reaves,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,44,38,0.769,0.732,5:40
+2,4:03,LAL,Cam Reddish,Personal Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,46,42,0.722,0.68,4:08
+2,2:59,LAL,Cam Reddish,Personal Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,49,46,0.696,0.648,3:05
+2,1:24,LAL,Gabe Vincent,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,54,48,0.762,0.712,1:24
+2,37.0,MEM,Ja Morant,Technical Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,59,52,0.721,0.743,37.0
+3,11:30,MEM,Zach Edey,Offensive Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,59,55,0.652,0.688,11:45
+3,7:51,MEM,Ja Morant,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,72,63,0.801,0.839,8:00
+3,5:54,MEM,Santi Aldama,Technical Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,80,68,0.897,0.91,5:54
+3,4:30,MEM,Jake LaRavia,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,85,71,0.922,0.931,4:34
+3,2:25,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,87,75,0.883,0.913,2:33
+3,1:53,MEM,Jake LaRavia,Personal Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,87,77,0.835,0.875,2:02
+4,11:49,LAL,LeBron James,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,97,81,0.987,0.977,11:49
+4,11:15,LAL,Jaxson Hayes,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,98,81,0.993,0.988,11:32
+4,10:48,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,103,81,0.995,0.997,11:02
+4,10:38,LAL,LeBron James,Personal Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,103,82,0.998,0.997,10:48
+4,9:43,LAL,LeBron James,Technical Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,103,82,0.998,0.998,9:43
+4,7:55,LAL,Jaxson Hayes,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,105,87,0.998,0.997,8:03
+4,6:53,LAL,Jaxson Hayes,Offensive Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,112,90,0.999,0.999,7:04
+4,6:16,LAL,Dalton Knecht,Loose Ball Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,112,93,0.999,0.999,6:16
+4,6:00,MEM,Luke Kennard,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,113,95,0.996,0.998,6:00
+4,5:46,LAL,Dalton Knecht,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,115,96,0.999,0.998,5:46
+4,3:13,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,122,104,0.999,0.999,3:21
+4,1:34,MEM,Colin Castleton,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,127,111,0.999,0.999,1:34
+4,52.0,MEM,Colin Castleton,Shooting Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,129,112,0.999,0.999,55.1
+4,33.2,LAL,Bronny James,Personal Foul,Foul,Kevin Scott,Gediminas Petraitis,Biniam Maru,MEM,129,114,0.999,0.999,52.0

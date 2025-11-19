@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:19,LAL,Gabe Vincent,Loose Ball Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,2,4,0.281,0.281,10:21
+1,10:06,LAL,Jaxson Hayes,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,2,6,0.228,0.262,10:06
+1,9:33,LAL,Gabe Vincent,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,2,6,0.216,0.243,9:39
+1,9:21,MIL,Ryan Rollins,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,2,8,0.254,0.225,9:33
+1,2:41,LAL,Bronny James,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,14,26,0.099,0.117,2:43
+1,1:37,LAL,Bronny James,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,16,30,0.077,0.093,1:52
+1,54.0,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,16,32,0.079,0.081,1:00
+2,11:23,LAL,Jaxson Hayes,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,19,36,0.054,0.069,11:23
+2,11:14,MIL,AJ Green,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,19,37,0.075,0.062,11:23
+2,10:09,MIL,Gary Trent Jr.,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,20,43,0.028,0.028,10:24
+2,9:11,MIL,AJ Green,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,23,43,0.044,0.044,9:16
+2,8:24,MIL,Taurean Prince,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,25,45,0.053,0.043,8:44
+2,8:09,MIL,AJ Green,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,27,45,0.07,0.056,8:09
+2,3:19,LAL,Alex Len,Flagrant Foul Type 1,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,44,53,0.159,0.154,3:30
+2,1:55,MIL,Brook Lopez,Offensive Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,46,54,0.192,0.169,2:10
+2,1:03,MIL,Ryan Rollins,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,46,57,0.16,0.134,1:20
+2,1:01,LAL,Markieff Morris,Loose Ball Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,46,57,0.091,0.113,1:01
+3,11:41,LAL,Markieff Morris,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,46,57,0.09,0.11,11:43
+3,10:24,MIL,Brook Lopez,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,48,61,0.093,0.091,10:37
+3,9:35,MIL,Brook Lopez,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,50,64,0.098,0.077,9:49
+3,8:19,LAL,Jaxson Hayes,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,55,64,0.139,0.139,8:39
+3,7:31,MIL,Ryan Rollins,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,55,66,0.147,0.117,7:35
+3,7:08,LAL,Jaxson Hayes,Offensive Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,57,68,0.097,0.116,7:15
+3,5:38,LAL,Alex Len,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,59,70,0.07,0.091,5:39
+3,4:23,LAL,Shake Milton,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,63,74,0.064,0.087,4:35
+3,4:00,LAL,Gabe Vincent,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,63,77,0.032,0.046,4:02
+3,3:30,LAL,Alex Len,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,63,78,0.024,0.036,3:49
+3,1:25,LAL,Shake Milton,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,67,85,0.007,0.011,1:30
+3,55.0,LAL,Bronny James,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,67,86,0.004,0.008,1:06
+3,37.0,LAL,Trey Jemison III,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,69,89,0.003,0.005,44.1
+4,11:32,MIL,Kevin Porter Jr.,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,69,93,0.001,0.001,11:45
+4,8:31,LAL,Shake Milton,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,71,101,0.001,0.001,8:31
+4,7:19,LAL,Shake Milton,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,74,101,0.001,0.001,7:25
+4,6:53,LAL,Shake Milton,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,77,102,0.001,0.001,7:09
+4,6:49,LAL,Shake Milton,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,77,102,0.001,0.001,6:53
+4,2:20,LAL,Bronny James,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,85,115,0.001,0.001,2:20
+4,2:01,LAL,Alex Len,Shooting Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,85,117,0.001,0.001,2:02
+4,1:47,MIL,Tyler Smith,Personal Foul,Foul,Derrick Collins,Pat Fraher,Kevin Cutler,LAL,85,118,0.001,0.001,1:57

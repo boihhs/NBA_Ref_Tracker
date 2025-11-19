@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:08,DAL,Moses Brown,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,0,0,0.338,0.357,11:08
+1,8:29,DAL,Max Christie,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,5,5,0.327,0.363,8:32
+1,5:03,DAL,Moses Brown,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,19,15,0.436,0.475,5:18
+1,4:20,MIL,AJ Green,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,22,17,0.577,0.535,4:26
+1,3:29,DAL,Dante Exum,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,24,17,0.525,0.565,3:32
+1,3:15,MIL,AJ Green,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,26,19,0.616,0.567,3:15
+1,3:01,DAL,Dwight Powell,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,26,19,0.527,0.567,3:13
+1,1:58,DAL,Jaden Hardy,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,30,22,0.56,0.601,2:09
+2,11:35,MIL,AJ Green,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,36,31,0.558,0.56,11:49
+2,8:48,DAL,Jaden Hardy,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,44,38,0.572,0.571,8:52
+2,8:46,DAL,Naji Marshall,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,44,38,0.572,0.572,8:48
+2,8:26,MIL,Taurean Prince,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,44,41,0.558,0.512,8:36
+2,6:56,MIL,Kyle Kuzma,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,52,43,0.722,0.672,6:56
+2,5:33,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,53,48,0.613,0.589,5:33
+2,4:13,DAL,P.J. Washington,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,57,53,0.531,0.532,4:18
+2,3:04,DAL,P.J. Washington,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,59,58,0.389,0.436,3:08
+2,1:14,MIL,Taurean Prince,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,61,67,0.302,0.259,1:24
+2,35.1,DAL,P.J. Washington,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,63,69,0.193,0.231,45.1
+3,11:12,DAL,Kyrie Irving,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,63,76,0.076,0.098,11:12
+3,10:39,MIL,Damian Lillard,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,65,77,0.129,0.099,10:39
+3,7:37,MIL,Taurean Prince,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,69,85,0.051,0.051,7:45
+3,7:07,MIL,Kyle Kuzma,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,71,87,0.057,0.04,7:07
+3,4:39,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,75,89,0.037,0.05,4:55
+3,4:23,MIL,Taurean Prince,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,75,91,0.055,0.04,4:39
+3,3:38,DAL,Dante Exum,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,77,94,0.015,0.022,3:42
+3,1:35,DAL,Dwight Powell,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,77,96,0.006,0.009,1:35
+3,1:26,DAL,Dante Exum,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,77,96,0.005,0.006,1:35
+3,1:05,MIL,AJ Green,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,77,97,0.013,0.009,1:24
+3,50.1,DAL,Dante Exum,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,78,97,0.005,0.008,1:04
+3,27.1,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,78,99,0.002,0.003,33.1
+3,6.1,MIL,Gary Trent Jr.,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,78,101,0.004,0.002,27.1
+3,1.1,MIL,Kevin Porter Jr.,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,79,101,0.003,0.002,6.1
+4,11:33,MIL,Jericho Sims,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,81,101,0.005,0.004,11:45
+4,11:17,DAL,Klay Thompson,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,81,101,0.003,0.005,11:33
+4,9:23,DAL,Klay Thompson,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,84,103,0.001,0.003,9:27
+4,8:13,MIL,Gary Trent Jr.,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,88,107,0.006,0.002,8:20
+4,4:48,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,100,119,0.001,0.001,5:02
+4,4:10,MIL,Brook Lopez,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,102,119,0.003,0.001,4:28
+4,3:27,DAL,Moses Brown,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,105,119,0.001,0.002,3:41
+4,2:20,DAL,Moses Brown,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,109,121,0.001,0.003,2:44
+4,2:14,MIL,Brook Lopez,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,109,122,0.007,0.002,2:14
+4,1:48,DAL,Moses Brown,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Brandon Adair,DAL,109,124,0.001,0.001,1:48

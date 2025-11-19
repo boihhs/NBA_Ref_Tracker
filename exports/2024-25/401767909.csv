@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:45,HOU,Fred VanVleet,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,2,0,0.559,0.596,10:47
+1,9:59,GS,Moses Moody,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,5,1,0.7,0.667,10:10
+1,9:27,HOU,Amen Thompson,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,7,4,0.619,0.619,9:34
+1,7:39,GS,Draymond Green,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,13,7,0.712,0.712,7:44
+1,6:41,HOU,Amen Thompson,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,13,7,0.691,0.69,6:42
+1,6:25,GS,Gary Payton II,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,13,7,0.745,0.713,6:29
+1,5:43,HOU,Dillon Brooks,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,18,10,0.701,0.735,5:58
+1,4:52,HOU,Dillon Brooks,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,18,10,0.702,0.735,5:07
+1,2:28,HOU,Amen Thompson,Loose Ball Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,22,15,0.679,0.716,2:28
+1,1:51,GS,Gui Santos,Loose Ball Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,24,16,0.794,0.762,1:51
+1,28.1,GS,Gui Santos,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,26,16,0.821,0.807,28.1
+2,11:00,HOU,Dillon Brooks,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,30,20,0.79,0.79,11:01
+2,11:00,HOU,Steven Adams,Double Technical Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,30,20,0.795,0.79,11:00
+2,10:09,HOU,Alperen Sengun,Loose Ball Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,30,20,0.791,0.792,10:09
+2,8:48,GS,Pat Spencer,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,36,20,0.918,0.898,8:48
+2,5:53,GS,Jonathan Kuminga,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,40,27,0.898,0.877,6:11
+2,5:15,GS,Pat Spencer,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,42,29,0.888,0.879,5:30
+2,3:24,GS,Gui Santos,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,47,34,0.906,0.883,3:46
+2,3:22,GS,Kevon Looney,Personal Take Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,47,34,0.906,0.906,3:24
+2,3:22,HOU,Alperen Sengun,Loose Ball Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,48,34,0.883,0.884,3:22
+2,3:09,HOU,Alperen Sengun,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,48,34,0.859,0.883,3:22
+2,2:53,GS,Gui Santos,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,48,35,0.898,0.886,2:53
+3,11:39,GS,Gary Payton II,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,60,46,0.913,0.901,12:00
+3,6:11,HOU,Dillon Brooks,Offensive Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,72,57,0.937,0.947,6:23
+3,3:29,HOU,Tari Eason,Transition Take Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,77,63,0.937,0.937,3:30
+3,2:17,HOU,Tari Eason,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,79,64,0.937,0.955,2:34
+3,11.0,HOU,Alperen Sengun,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,87,71,0.961,0.974,20.1
+4,10:29,GS,Jonathan Kuminga,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,89,71,0.993,0.992,10:43
+4,9:37,GS,Draymond Green,Offensive Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,91,71,0.997,0.996,9:44
+4,8:26,GS,Buddy Hield,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,91,76,0.989,0.988,8:35
+4,7:16,HOU,Jalen Green,Flagrant Foul Type 1,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,91,79,0.967,0.976,7:27
+4,6:40,GS,Draymond Green,Technical Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,93,80,0.989,0.978,6:41
+4,5:56,GS,Buddy Hield,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,96,80,0.998,0.996,5:57
+4,5:36,GS,Draymond Green,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,96,80,0.998,0.998,5:56
+4,5:23,HOU,Tari Eason,Technical Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,99,80,0.998,0.999,5:23
+4,5:07,HOU,Fred VanVleet,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,99,81,0.996,0.998,5:23
+4,3:13,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,104,89,0.999,0.999,3:27
+4,2:00,GS,Pat Spencer,Double Technical Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,109,89,0.999,0.999,2:18
+4,1:06,HOU,Aaron Holiday,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,David Guthrie,HOU,109,91,0.999,0.999,1:09

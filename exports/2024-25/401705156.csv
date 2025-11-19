@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:33,CLE,Caris LeVert,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,10,8,0.47,0.431,8:41
+1,5:49,CLE,Georges Niang,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,20,16,0.496,0.495,5:59
+1,3:46,MIN,Rudy Gobert,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,29,20,0.595,0.644,3:46
+1,2:48,MIN,Rob Dillingham,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,29,23,0.497,0.538,2:54
+1,2:01,CLE,Dean Wade,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,29,26,0.527,0.483,2:20
+2,9:15,MIN,Joe Ingles,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,36,33,0.475,0.472,9:32
+2,5:56,MIN,Naz Reid,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,41,41,0.35,0.394,6:12
+2,5:26,CLE,Sam Merrill,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,43,46,0.339,0.338,5:34
+2,5:17,MIN,Jaden McDaniels,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,43,46,0.312,0.309,5:18
+2,4:37,MIN,Jaden McDaniels,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,43,48,0.22,0.256,4:43
+2,4:27,CLE,Caris LeVert,Loose Ball Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,43,48,0.284,0.284,4:27
+2,1:25,CLE,Donovan Mitchell,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,54,55,0.434,0.409,1:25
+2,1:05,CLE,Jarrett Allen,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,56,57,0.459,0.41,1:13
+3,10:06,MIN,Mike Conley,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,62,65,0.313,0.312,10:12
+3,9:45,CLE,Dean Wade,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,62,65,0.348,0.346,9:51
+3,8:11,CLE,Darius Garland,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,65,70,0.279,0.28,8:27
+3,6:40,CLE,Dean Wade,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,69,73,0.34,0.277,6:40
+3,1:58,MIN,Anthony Edwards,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,79,81,0.285,0.347,2:09
+3,1:40,MIN,Naz Reid,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,79,81,0.283,0.347,1:48
+3,33.0,CLE,Jarrett Allen,Offensive Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,79,86,0.191,0.157,38.1
+3,4.1,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,79,88,0.086,0.127,4.1
+3,2.2,CLE,Ty Jerome,Personal Take Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,79,89,0.141,0.103,4.1
+4,9:45,CLE,Georges Niang,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,79,99,0.004,0.003,9:59
+4,9:12,CLE,Dean Wade,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,79,99,0.006,0.003,9:19
+4,8:56,MIN,Rob Dillingham,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,81,99,0.002,0.005,9:12
+4,8:38,CLE,Jarrett Allen,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,81,101,0.006,0.003,8:56
+4,8:01,MIN,Rob Dillingham,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,86,101,0.01,0.011,8:10
+4,7:53,MIN,Rob Dillingham,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,86,101,0.005,0.01,8:01
+4,6:02,CLE,Dean Wade,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,91,108,0.008,0.004,6:17
+4,5:41,MIN,Jaden McDaniels,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,92,108,0.001,0.004,6:02
+4,4:29,CLE,Georges Niang,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,94,113,0.001,0.001,4:36
+4,2:18,MIN,Rob Dillingham,Shooting Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,101,115,0.001,0.001,2:39
+4,1:00,MIN,Anthony Edwards,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,108,117,0.001,0.005,1:06
+4,41.0,CLE,Donovan Mitchell,Loose Ball Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,110,119,0.024,0.008,46.1
+4,29.1,MIN,Julius Randle,Personal Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,112,119,0.002,0.012,41.0
+4,14.1,MIN,Naz Reid,Personal Take Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,114,121,0.001,0.005,21.0
+4,10.1,MIN,Rob Dillingham,Personal Take Foul,Foul,Ed Malloy,CJ Washington,Danielle Scott,MIN,117,122,0.003,0.019,12.1

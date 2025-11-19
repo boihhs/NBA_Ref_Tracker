@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:13,BOS,Kristaps Porzingis,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,2,5,0.276,0.246,10:31
+1,7:51,BOS,Jaylen Brown,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,5,10,0.244,0.216,7:53
+1,7:39,CHI,Lonzo Ball,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,7,12,0.186,0.216,7:39
+1,5:28,BOS,Kristaps Porzingis,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,12,23,0.126,0.126,5:38
+1,4:16,BOS,Payton Pritchard,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,16,25,0.179,0.154,4:27
+1,5.1,CHI,Dalen Terry,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,30,39,0.122,0.142,20.0
+2,10:05,BOS,Sam Hauser,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,36,42,0.214,0.215,10:05
+2,7:47,CHI,Torrey Craig,Loose Ball Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,42,42,0.342,0.34,7:47
+2,7:40,CHI,Ayo Dosunmu,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,42,42,0.302,0.342,7:47
+2,7:14,BOS,Al Horford,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,42,44,0.359,0.316,7:22
+2,7:01,CHI,Zach LaVine,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,44,44,0.305,0.343,7:14
+2,6:18,CHI,Talen Horton-Tucker,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,48,46,0.363,0.408,6:23
+2,4:23,CHI,Zach LaVine,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,55,48,0.532,0.581,4:35
+2,4:14,BOS,Jaylen Brown,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,55,50,0.55,0.55,4:23
+2,3:06,CHI,Ayo Dosunmu,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,55,54,0.346,0.392,3:20
+3,10:23,BOS,Kristaps Porzingis,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,71,70,0.479,0.417,10:23
+3,8:36,BOS,Derrick White,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,77,72,0.668,0.615,8:44
+3,7:54,CHI,Torrey Craig,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,80,72,0.638,0.693,8:08
+3,6:42,CHI,Ayo Dosunmu,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,80,78,0.443,0.515,6:42
+3,6:18,CHI,Torrey Craig,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,83,79,0.558,0.555,6:25
+3,5:42,CHI,Zach LaVine,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,83,79,0.5,0.561,5:47
+3,5:01,BOS,Sam Hauser,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,83,82,0.485,0.485,5:08
+3,4:40,CHI,Nikola Vucevic,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,85,82,0.464,0.526,4:52
+3,2:18,CHI,Nikola Vucevic,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,89,90,0.336,0.365,2:42
+4,4:11,CHI,Zach LaVine,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,115,124,0.023,0.034,4:17
+4,1:49,BOS,Jrue Holiday,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,122,130,0.084,0.034,2:00
+4,1:09,BOS,Jrue Holiday,Personal Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,122,130,0.068,0.029,1:11
+4,54.1,CHI,Nikola Vucevic,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,124,130,0.014,0.047,1:09
+4,14.0,BOS,Al Horford,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,127,134,0.038,0.01,15.0
+4,9.0,CHI,Ayo Dosunmu,Shooting Foul,Foul,Kevin Scott,Mitchell Ervin,Brandon Adair,CHI,129,134,0.002,0.021,14.0

@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:40,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,4,9,0.658,0.695,8:54
+1,7:16,MEM,Jaylen Wells,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,6,11,0.661,0.68,7:16
+1,7:04,DEN,Dario Saric,Offensive Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,6,13,0.654,0.632,7:06
+1,6:28,MEM,Desmond Bane,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,8,15,0.626,0.626,6:28
+1,5:29,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,10,17,0.572,0.619,5:44
+1,5:15,DEN,Dario Saric,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,10,17,0.677,0.639,5:19
+1,4:01,MEM,Jay Huff,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,14,23,0.521,0.57,4:01
+1,3:27,DEN,Julian Strawther,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,17,24,0.663,0.622,3:32
+1,25.0,MEM,Jay Huff,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,24,30,0.545,0.593,27.2
+1,10.0,DEN,Christian Braun,Personal Take Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,24,31,0.631,0.591,25.0
+2,11:34,DEN,Peyton Watson,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,24,34,0.54,0.492,11:48
+2,11:16,MEM,Desmond Bane,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,25,34,0.442,0.489,11:31
+2,10:39,MEM,Jake LaRavia,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,27,35,0.513,0.513,10:50
+2,10:35,MEM,Brandon Clarke,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,27,35,0.466,0.513,10:39
+2,10:30,DEN,Vlatko Cancar,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,27,36,0.514,0.515,10:32
+2,9:21,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,29,36,0.482,0.649,6:13
+2,6:53,MEM,Brandon Clarke,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,33,45,0.317,0.371,6:53
+2,6:46,DEN,Dario Saric,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,35,45,0.459,0.401,6:46
+2,6:36,MEM,Vince Williams Jr.,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,36,45,0.383,0.434,6:46
+2,5:19,DEN,Jamal Murray,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,39,51,0.399,0.35,5:22
+2,3:47,DEN,Peyton Watson,Transition Take Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,45,55,0.395,0.396,3:51
+2,1:49,DEN,Russell Westbrook,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,54,63,0.428,0.369,1:49
+2,1:22,DEN,Peyton Watson,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,56,63,0.499,0.429,1:22
+2,1:10,MEM,Santi Aldama,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,57,65,0.37,0.427,1:10
+2,55.1,DEN,Russell Westbrook,Offensive Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,57,65,0.424,0.396,57.0
+3,11:31,MEM,Desmond Bane,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,57,68,0.27,0.266,11:31
+3,11:00,DEN,Christian Braun,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,57,68,0.348,0.3,11:16
+3,9:36,DEN,Christian Braun,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,57,74,0.145,0.111,9:38
+3,9:19,DEN,Dario Saric,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,58,74,0.13,0.13,9:19
+3,8:19,MEM,Jake LaRavia,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,58,76,0.058,0.079,8:19
+3,7:16,MEM,Brandon Clarke,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,58,79,0.031,0.03,7:16
+3,6:01,DEN,DeAndre Jordan,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,60,83,0.023,0.014,6:01
+3,9:04,DEN,Michael Porter Jr.,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,58,74,0.165,0.023,5:45
+3,2:50,MEM,Jay Huff,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,68,85,0.031,0.037,2:50
+3,1:44,DEN,Trey Alexander,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,71,88,0.047,0.032,1:58
+3,1:24,DEN,Russell Westbrook,Technical Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,72,90,0.027,0.021,1:25
+3,1:16,DEN,Julian Strawther,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,73,90,0.043,0.029,1:24
+4,11:30,MEM,Desmond Bane,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,80,92,0.068,0.077,11:41
+4,11:07,DEN,Julian Strawther,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,80,92,0.135,0.092,11:18
+4,10:42,DEN,Jamal Murray,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,82,94,0.135,0.089,10:53
+4,9:18,DEN,Peyton Watson,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,86,97,0.103,0.094,9:18
+4,7:02,DEN,Michael Porter Jr.,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,93,107,0.046,0.026,7:09
+4,5:04,MEM,John Konchar,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,99,109,0.039,0.043,5:07
+4,3:52,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,101,111,0.026,0.045,3:59
+4,3:52,MEM,Santi Aldama,Double Technical Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,101,111,0.032,0.026,3:52
+4,3:40,DEN,Dario Saric,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,101,111,0.074,0.04,3:40
+4,3:06,DEN,Christian Braun,Offensive Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,104,111,0.108,0.077,3:19
+4,2:32,DEN,Michael Porter Jr.,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,104,113,0.077,0.04,2:42
+4,2:25,DEN,Peyton Watson,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,105,115,0.032,0.022,2:25
+4,1:16,MEM,Desmond Bane,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,110,115,0.038,0.093,1:16
+4,23.1,MEM,Jake LaRavia,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,110,118,0.001,0.002,23.1
+4,5.1,MEM,Jake LaRavia,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,CJ Washington,MEM,110,118,0.001,0.001,7.1

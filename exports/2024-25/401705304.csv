@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:36,PHI,Tyrese Maxey,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,5,4,0.454,0.422,10:49
+1,9:58,PHI,Joel Embiid,Offensive Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,8,4,0.497,0.469,10:06
+1,6:30,PHI,Joel Embiid,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,18,10,0.657,0.616,6:53
+1,6:21,DET,Jalen Duren,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,20,10,0.603,0.643,6:30
+1,6:08,PHI,Tyrese Maxey,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,22,11,0.714,0.671,6:08
+1,6:07,PHI,Paul George,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,22,11,0.731,0.697,6:07
+1,4:46,DET,Jalen Duren,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,27,14,0.726,0.726,4:53
+1,4:35,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,27,14,0.768,0.752,4:36
+1,3:10,DET,Ausar Thompson,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,31,16,0.747,0.781,3:23
+1,2:59,PHI,Quentin Grimes,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,31,18,0.794,0.76,3:10
+1,2:39,DET,Isaiah Stewart,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,33,18,0.75,0.783,2:59
+1,2:24,DET,Isaiah Stewart,Offensive Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,33,20,0.74,0.76,2:39
+1,2:08,DET,Marcus Sasser,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,33,20,0.704,0.74,2:24
+1,1:54,PHI,Adem Bona,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,33,22,0.753,0.721,1:54
+1,1:26,PHI,Adem Bona,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,35,25,0.734,0.697,1:36
+2,10:51,DET,Malik Beasley,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,45,29,0.831,0.829,11:11
+2,8:14,PHI,Quentin Grimes,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,53,35,0.915,0.894,8:15
+2,5:38,DET,Jalen Duren,Loose Ball Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,62,39,0.952,0.951,5:40
+2,4:54,PHI,Paul George,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,64,39,0.98,0.973,4:59
+2,3:19,PHI,Andre Drummond,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,68,41,0.989,0.985,3:32
+2,2:26,DET,Ausar Thompson,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,72,43,0.989,0.989,2:37
+2,20.2,DET,Ausar Thompson,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,76,49,0.982,0.987,32.1
+3,9:43,DET,Jalen Duren,Offensive Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,85,53,0.997,0.998,9:56
+3,8:51,DET,Ausar Thompson,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,88,56,0.997,0.998,8:53
+3,8:45,PHI,Joel Embiid,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,88,58,0.998,0.997,8:51
+3,7:37,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,89,64,0.994,0.992,7:44
+3,6:16,PHI,Justin Edwards,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,90,69,0.987,0.982,6:38
+3,5:36,DET,Simone Fontecchio,Loose Ball Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,92,71,0.979,0.979,5:36
+3,5:17,PHI,Paul George,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,92,71,0.989,0.985,5:21
+3,4:31,DET,Isaiah Stewart,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,92,74,0.947,0.961,4:42
+3,4:10,DET,Paul Reed,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,92,76,0.922,0.942,4:16
+3,2:02,DET,Paul Reed,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,101,82,0.97,0.98,2:12
+3,30.1,DET,Paul Reed,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,105,83,0.992,0.994,34.0
+4,11:49,DET,Ronald Holland II,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,107,88,0.987,0.989,12:00
+4,11:16,PHI,Adem Bona,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,107,91,0.982,0.978,11:36
+4,9:54,DET,Ronald Holland II,Loose Ball Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,110,93,0.983,0.985,9:54
+4,9:03,PHI,Eric Gordon,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,114,93,0.998,0.997,9:03
+4,8:07,DET,Jalen Duren,Offensive Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,115,96,0.996,0.997,8:19
+4,7:58,DET,Marcus Sasser,Personal Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,115,96,0.995,0.996,8:07
+4,7:29,PHI,Paul George,Loose Ball Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,115,98,0.995,0.995,7:29
+4,5:39,PHI,Kyle Lowry,Loose Ball Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,115,100,0.993,0.993,5:48
+4,5:27,DET,Marcus Sasser,Shooting Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,115,100,0.983,0.992,5:28
+4,5:15,DET,Marcus Sasser,Offensive Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,115,101,0.987,0.991,5:27
+4,2:11,DET,Jalen Duren,Offensive Foul,Foul,Kevin Cutler,Scott Foster,CJ Washington,DET,123,104,0.999,0.999,2:24

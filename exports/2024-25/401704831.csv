@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:12,ORL,Tristan da Silva,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,0,2,0.643,0.68,11:12
+1,8:59,ORL,Franz Wagner,Loose Ball Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,5,10,0.574,0.603,9:26
+1,6:31,ORL,Goga Bitadze,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,11,10,0.707,0.706,6:52
+1,6:22,ORL,Tristan da Silva,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,11,10,0.671,0.707,6:31
+1,6:08,DET,Jalen Duren,Defensive 3-Seconds Technical,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,11,11,0.7,0.705,6:15
+1,5:44,ORL,Goga Bitadze,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,14,11,0.714,0.746,5:54
+1,5:36,DET,Jalen Duren,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,14,13,0.726,0.726,5:44
+1,4:38,DET,Simone Fontecchio,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,17,13,0.783,0.784,4:49
+1,1.1,DET,Ronald Holland II,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,31,21,0.893,0.901,59.1
+2,11:48,DET,Wendell Moore Jr.,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,33,21,0.899,0.892,12:00
+2,8:23,DET,Ronald Holland II,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,38,31,0.851,0.826,8:25
+2,7:14,ORL,Jett Howard,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,42,34,0.794,0.825,7:26
+2,7:02,DET,Wendell Moore Jr.,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,42,36,0.804,0.804,7:14
+2,6:15,DET,Marcus Sasser,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,42,36,0.832,0.803,6:24
+2,4:30,ORL,Tristan da Silva,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,44,40,0.691,0.732,4:39
+2,4:17,DET,Jaden Ivey,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,44,41,0.768,0.729,4:26
+2,3:47,ORL,Goga Bitadze,Defensive 3-Seconds Technical,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,48,41,0.807,0.802,3:57
+2,3:27,DET,Wendell Moore Jr.,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,48,44,0.791,0.755,3:42
+2,2:55,ORL,Goga Bitadze,Offensive Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,50,46,0.728,0.754,3:06
+2,1:51,ORL,Moritz Wagner,Loose Ball Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,52,46,0.738,0.777,1:51
+2,54.1,ORL,Cole Anthony,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,54,48,0.736,0.775,57.0
+3,10:06,ORL,Anthony Black,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,64,58,0.757,0.778,10:26
+3,9:06,DET,Tim Hardaway Jr.,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,66,62,0.749,0.749,9:22
+3,8:05,DET,Malik Beasley,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,66,65,0.7,0.65,8:09
+3,6:31,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,73,65,0.832,0.832,6:33
+3,3:30,DET,Isaiah Stewart,Loose Ball Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,80,69,0.923,0.923,3:30
+3,3:09,ORL,Moritz Wagner,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,80,69,0.877,0.907,3:15
+3,2:48,ORL,Cole Anthony,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,80,71,0.83,0.868,2:49
+3,1:02,ORL,Franz Wagner,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,87,76,0.887,0.916,1:17
+3,22.1,DET,Ronald Holland II,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,87,77,0.945,0.922,26.1
+4,10:28,ORL,Gary Harris,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,92,81,0.929,0.933,10:47
+4,10:25,DET,Isaiah Stewart,Offensive Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,92,81,0.949,0.929,10:28
+4,9:36,DET,Simone Fontecchio,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,95,81,0.985,0.98,9:48
+4,8:50,DET,Wendell Moore Jr.,Flagrant Foul Type 1,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,96,81,0.988,0.988,8:57
+4,7:19,DET,Jalen Duren,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,101,81,0.999,0.999,7:23
+4,7:12,ORL,Jonathan Isaac,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,103,81,0.999,0.999,7:19
+4,6:44,DET,Jaden Ivey,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,103,81,0.999,0.999,6:58
+4,6:18,ORL,Gary Harris,Personal Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,103,81,0.999,0.999,6:23
+4,5:36,ORL,Anthony Black,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,103,83,0.998,0.999,5:49
+4,1:00,DET,Cole Swider,Shooting Foul,Foul,Brian Forte,Jason Goldenberg,Natalie Sago,ORL,109,95,0.999,0.999,1:05

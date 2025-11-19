@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:47,IND,Bennedict Mathurin,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,10,11,0.494,0.445,7:47
+1,3:03,IND,Myles Turner,Loose Ball Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,18,21,0.419,0.42,3:05
+1,2:29,IND,T.J. McConnell,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,18,23,0.366,0.369,2:43
+1,2:22,ORL,Moritz Wagner,Offensive Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,18,23,0.34,0.366,2:29
+1,11.0,ORL,Moritz Wagner,Offensive Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,18,27,0.237,0.262,32.1
+2,11:22,ORL,Jonathan Isaac,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,21,27,0.271,0.31,11:42
+2,10:11,IND,T.J. McConnell,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,24,33,0.256,0.255,10:23
+2,9:17,ORL,Jalen Suggs,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,26,37,0.173,0.207,9:17
+2,8:53,ORL,Tristan da Silva,Loose Ball Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,26,38,0.167,0.167,8:53
+2,7:17,IND,Jarace Walker,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,29,38,0.287,0.251,7:29
+2,6:16,IND,Myles Turner,Offensive Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,32,38,0.326,0.299,6:24
+2,3:58,ORL,Goga Bitadze,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,36,40,0.326,0.38,3:58
+2,2:42,ORL,Goga Bitadze,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,36,44,0.195,0.234,2:51
+2,1:12,IND,Myles Turner,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,38,45,0.306,0.281,1:12
+2,54.1,IND,Obi Toppin,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,39,45,0.361,0.313,1:01
+3,11:46,IND,Ben Sheppard,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,41,45,0.371,0.361,12:00
+3,10:14,ORL,Goga Bitadze,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,48,48,0.475,0.472,10:31
+3,8:13,IND,Pascal Siakam,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,51,54,0.401,0.4,8:13
+3,7:31,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,53,54,0.436,0.436,7:44
+3,7:17,ORL,Jonathan Isaac,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,53,54,0.379,0.436,7:31
+3,6:58,IND,Ben Sheppard,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,53,55,0.496,0.436,7:15
+3,6:58,IND,Pascal Siakam,Double Technical Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,53,55,0.425,0.496,6:58
+3,6:00,ORL,Jonathan Isaac,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,55,55,0.414,0.474,6:07
+3,4:46,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,57,59,0.333,0.392,4:53
+3,7.1,IND,Jarace Walker,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,68,72,0.401,0.331,21.0
+4,11:30,IND,Pascal Siakam,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,68,72,0.338,0.328,11:39
+4,9:35,IND,Obi Toppin,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,73,72,0.681,0.585,9:40
+4,8:12,ORL,Jett Howard,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,78,72,0.786,0.796,8:17
+4,8:05,IND,Bennedict Mathurin,Offensive Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,78,72,0.837,0.793,8:05
+4,7:36,ORL,Jett Howard,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,81,72,0.895,0.901,7:47
+4,7:14,IND,Pascal Siakam,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,81,75,0.857,0.841,7:26
+4,7:05,ORL,Moritz Wagner,Loose Ball Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,81,75,0.794,0.809,7:05
+4,6:55,ORL,Jalen Suggs,Loose Ball Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,81,75,0.722,0.805,6:55
+4,6:26,ORL,ORL,Delay Technical,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,83,75,0.889,0.88,6:27
+4,5:48,IND,Tyrese Haliburton,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,83,76,0.934,0.887,6:07
+4,2:13,ORL,Goga Bitadze,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,90,81,0.941,0.97,2:20
+4,1:51,ORL,Jalen Suggs,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,90,85,0.812,0.911,1:51
+4,1:29,IND,Myles Turner,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,90,86,0.932,0.859,1:51
+4,1:19,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,92,86,0.836,0.912,1:29
+4,9.1,IND,Pascal Siakam,Personal Foul,Foul,Matt Boland,Curtis Blair,Ashley Moyer-Gleich,ORL,92,90,0.941,0.837,11.0

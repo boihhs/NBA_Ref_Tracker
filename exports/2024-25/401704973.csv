@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:19,BOS,Jaylen Brown,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,3,0,0.683,0.684,11:26
+1,4:27,PHI,Caleb Martin,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,17,17,0.641,0.596,4:27
+1,3:48,BOS,Payton Pritchard,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,17,21,0.463,0.513,3:48
+1,55.0,BOS,Payton Pritchard,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,25,28,0.458,0.501,55.0
+2,10:34,PHI,Kyle Lowry,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,25,32,0.401,0.402,10:34
+2,8:46,BOS,Kristaps Porzingis,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,34,38,0.407,0.45,8:52
+2,7:46,BOS,Sam Hauser,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,36,43,0.356,0.354,7:53
+2,6:39,PHI,Tyrese Maxey,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,36,48,0.238,0.242,6:59
+2,5:51,PHI,Joel Embiid,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,36,50,0.186,0.187,5:56
+2,5:42,PHI,Reggie Jackson,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,36,50,0.219,0.186,5:51
+2,5:02,BOS,Jaylen Brown,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,39,52,0.18,0.181,5:09
+2,4:37,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,39,52,0.237,0.201,4:49
+2,2:03,PHI,Guerschon Yabusele,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,47,57,0.281,0.231,2:03
+2,34.0,BOS,Luke Kornet,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,56,61,0.324,0.375,42.0
+3,11:34,PHI,Caleb Martin,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,60,66,0.393,0.329,11:34
+3,8:56,PHI,Tyrese Maxey,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,68,69,0.539,0.538,9:01
+3,8:26,BOS,Al Horford,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,68,69,0.439,0.5,8:34
+3,6:38,PHI,Caleb Martin,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,71,74,0.452,0.452,6:42
+3,5:17,BOS,Derrick White,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,74,74,0.463,0.525,5:34
+3,4:31,BOS,Jaylen Brown,Offensive Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,76,76,0.523,0.567,4:47
+3,3:37,BOS,Al Horford,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,78,76,0.608,0.607,4:03
+3,2:56,BOS,Neemias Queta,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,80,76,0.628,0.688,3:13
+3,2:13,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,80,78,0.711,0.651,2:15
+3,30.1,PHI,Kyle Lowry,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,80,80,0.631,0.555,32.1
+4,10:10,PHI,Guerschon Yabusele,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,84,87,0.491,0.398,10:14
+4,7:51,PHI,Kyle Lowry,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,86,97,0.068,0.065,8:06
+4,7:03,PHI,Guerschon Yabusele,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,86,100,0.025,0.021,7:03
+4,6:01,BOS,Jayson Tatum,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,90,103,0.015,0.016,6:03
+4,5:09,PHI,Kyle Lowry,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,90,105,0.016,0.007,5:13
+4,4:10,PHI,Joel Embiid,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,94,108,0.016,0.009,4:29
+4,2:09,BOS,Al Horford,Shooting Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,105,108,0.134,0.237,2:25
+4,1:24,BOS,Jaylen Brown,Loose Ball Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,105,110,0.04,0.094,1:24
+4,52.0,BOS,Derrick White,Personal Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,105,112,0.006,0.017,52.0
+4,6.0,BOS,Derrick White,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,111,114,0.016,0.07,9.0
+4,2.1,BOS,Jayson Tatum,Personal Take Foul,Foul,Marat Kogut,Josh Tiven,Ray Acosta,BOS,114,116,0.016,0.077,4.2

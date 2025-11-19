@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:01,BKN,Cameron Johnson,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,2,0,0.136,0.136,11:01
+1,10:28,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,2,0,0.122,0.139,10:29
+1,7:39,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,15,8,0.29,0.257,7:41
+1,5:44,OKC,Jalen Williams,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,25,12,0.433,0.433,5:47
+1,4:51,OKC,Cason Wallace,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,28,12,0.538,0.544,4:51
+1,3:58,BKN,Jalen Wilson,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,30,17,0.408,0.461,3:58
+1,1:16,OKC,Aaron Wiggins,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,37,24,0.551,0.502,1:23
+1,7.1,BKN,Tosan Evbuomwan,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,40,29,0.381,0.423,16.0
+2,9:25,BKN,Reece Beekman,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,43,35,0.326,0.377,9:25
+2,8:44,OKC,Jalen Williams,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,43,38,0.328,0.311,8:57
+2,8:28,BKN,Killian Hayes,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,43,38,0.265,0.303,8:31
+2,7:02,BKN,Day'Ron Sharpe,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,49,45,0.292,0.291,7:04
+2,5:57,BKN,Keon Johnson,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,52,50,0.218,0.253,6:02
+2,5:38,OKC,Chet Holmgren,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,52,50,0.282,0.283,5:38
+2,5:13,OKC,Jalen Williams,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,52,50,0.327,0.285,5:20
+2,4:16,BKN,Keon Johnson,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,56,52,0.3,0.352,4:16
+2,4:00,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,56,52,0.401,0.353,4:13
+2,3:29,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,58,52,0.477,0.418,3:51
+2,1:49,OKC,Cason Wallace,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,69,56,0.729,0.665,1:49
+3,11:46,BKN,Ziaire Williams,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,76,61,0.719,0.771,11:49
+3,10:35,BKN,Keon Johnson,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,76,65,0.655,0.653,10:36
+3,8:27,BKN,Ziaire Williams,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,85,71,0.798,0.793,8:38
+3,8:14,OKC,Isaiah Hartenstein,Loose Ball Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,85,71,0.829,0.83,8:14
+3,7:56,BKN,Keon Johnson,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,85,71,0.757,0.806,7:58
+3,7:04,OKC,Luguentz Dort,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,87,75,0.789,0.785,7:18
+3,6:53,BKN,Day'Ron Sharpe,Offensive Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,87,75,0.76,0.789,7:04
+3,5:52,OKC,Isaiah Hartenstein,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,87,77,0.74,0.744,5:52
+3,5:24,BKN,Killian Hayes,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,90,77,0.767,0.815,5:37
+3,4:30,OKC,Isaiah Joe,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,90,81,0.784,0.726,4:50
+3,3:32,OKC,Luguentz Dort,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,92,81,0.845,0.818,3:32
+3,3:17,BKN,Trendon Watford,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,94,81,0.804,0.849,3:32
+3,2:04,BKN,Jalen Wilson,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,94,83,0.758,0.81,2:07
+3,49.1,OKC,Alex Caruso,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,94,88,0.745,0.676,1:11
+4,8:37,OKC,Alex Caruso,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,101,99,0.567,0.549,8:53
+4,8:32,OKC,Jalen Williams,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,101,99,0.663,0.567,8:37
+4,8:29,BKN,Ziaire Williams,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,103,99,0.611,0.621,8:32
+4,7:16,BKN,Jalen Wilson,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,103,107,0.182,0.193,7:16
+4,6:06,BKN,Killian Hayes,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,103,111,0.034,0.061,6:14
+4,5:36,BKN,Jalen Wilson,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,103,115,0.009,0.019,5:36
+4,4:17,OKC,Cason Wallace,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,105,117,0.027,0.012,4:23
+4,3:49,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,107,117,0.007,0.015,3:51
+4,2:31,BKN,Keon Johnson,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,113,121,0.01,0.024,2:41
+4,2:31,BKN,Ziaire Williams,Technical Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,113,121,0.016,0.01,2:31
+4,2:18,OKC,Jalen Williams,Shooting Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,113,123,0.035,0.014,2:31
+4,37.1,OKC,Isaiah Hartenstein,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,117,125,0.041,0.019,48.1
+4,29.0,BKN,Killian Hayes,Personal Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,118,125,0.002,0.01,35.0
+4,19.1,BKN,Cameron Johnson,Personal Take Foul,Foul,Sean Wright,Nick Buchert,Simone Jelks,BKN,121,127,0.003,0.014,20.1

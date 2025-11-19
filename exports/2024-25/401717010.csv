@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:44,PHI,Andre Drummond,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,2,5,0.412,0.409,9:51
+1,8:05,BKN,Cameron Johnson,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,10,10,0.513,0.512,8:11
+1,7:36,PHI,Tyrese Maxey,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,10,10,0.487,0.486,7:57
+1,7:31,BKN,Cam Thomas,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,10,10,0.552,0.513,7:32
+1,5:23,BKN,Ziaire Williams,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,18,13,0.663,0.621,5:23
+1,4:12,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,23,15,0.677,0.719,4:12
+1,2:13,BKN,Tyrese Martin,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,27,16,0.805,0.77,2:13
+1,43.1,BKN,Tyrese Martin,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,32,22,0.791,0.752,43.1
+2,11:43,BKN,Jalen Wilson,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,33,22,0.828,0.798,11:46
+2,9:39,PHI,Reggie Jackson,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,40,28,0.773,0.805,9:43
+2,8:44,PHI,Caleb Martin,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,40,35,0.612,0.663,8:44
+2,8:34,BKN,Jalen Wilson,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,40,36,0.633,0.635,8:44
+2,8:24,BKN,Dorian Finney-Smith,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,40,36,0.675,0.633,8:34
+2,7:43,BKN,Jalen Wilson,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,42,38,0.677,0.634,8:02
+2,6:39,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,44,38,0.664,0.664,6:39
+2,4:24,BKN,Dennis Schroder,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,49,41,0.792,0.753,4:35
+2,3:20,BKN,Noah Clowney,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,53,47,0.746,0.704,3:30
+2,2:50,PHI,Andre Drummond,Offensive Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,55,47,0.735,0.76,2:56
+2,2:10,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,55,47,0.693,0.738,2:13
+2,42.1,BKN,Cam Thomas,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,58,51,0.782,0.746,55.0
+2,2.1,PHI,KJ Martin,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,60,54,0.637,0.687,5.1
+3,11:21,PHI,Jeff Dowtin Jr.,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,65,56,0.779,0.78,11:41
+3,11:08,PHI,Jared McCain,Offensive Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,65,58,0.723,0.755,11:14
+3,10:24,PHI,Jared McCain,Defensive 3-Seconds Technical,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,65,58,0.736,0.725,10:34
+3,7:45,PHI,Jared McCain,Offensive Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,70,65,0.672,0.704,8:01
+3,6:51,BKN,Cameron Johnson,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,70,67,0.638,0.638,6:59
+3,5:39,PHI,KJ Martin,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,70,67,0.539,0.601,5:54
+3,3:31,PHI,Jeff Dowtin Jr.,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,76,69,0.709,0.761,3:54
+3,3:25,BKN,Keon Johnson,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,76,70,0.766,0.766,3:31
+3,2:41,BKN,Shake Milton,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,78,72,0.819,0.769,3:01
+3,1.1,BKN,Ziaire Williams,Personal Take Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,87,79,0.896,0.856,4.0
+4,11:39,BKN,Jalen Wilson,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,87,79,0.906,0.847,12:00
+4,9:44,BKN,Shake Milton,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,95,84,0.949,0.98,9:16
+4,8:05,PHI,Lester Quinones,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,101,87,0.978,0.979,8:14
+4,7:31,PHI,Adem Bona,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,104,87,0.993,0.993,7:44
+4,6:44,PHI,Lester Quinones,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,104,89,0.987,0.988,6:48
+4,6:20,PHI,Justin Edwards,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,107,89,0.993,0.996,6:32
+4,6:12,PHI,Adem Bona,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,107,89,0.993,0.993,6:20
+4,5:36,PHI,Adem Bona,Loose Ball Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,107,90,0.992,0.996,5:36
+4,5:17,BKN,Keon Johnson,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,107,91,0.997,0.996,5:17
+4,5:10,PHI,Jared McCain,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,109,91,0.996,0.998,5:17
+4,2:41,PHI,Lester Quinones,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,116,93,0.999,0.999,2:53
+4,49.1,BKN,Ziaire Williams,Shooting Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,116,94,0.999,0.999,49.2
+4,35.1,PHI,Jordan Tucker,Personal Foul,Foul,Bill Kennedy,Derrick Collins,Jonathan Sterling,PHI,117,94,0.999,0.999,48.1

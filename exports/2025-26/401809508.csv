@@ -1,0 +1,48 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:01,DEN,Jamal Murray,Offensive Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,0,0,0.359,0.34,11:14
+1,9:48,POR,Deni Avdija,Transition Take Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,3,4,0.315,0.315,9:48
+1,7:17,DEN,Christian Braun,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,7,9,0.361,0.325,7:34
+1,6:17,POR,Deni Avdija,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,9,11,0.272,0.303,6:23
+1,4:39,DEN,Christian Braun,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,11,18,0.237,0.223,4:44
+1,4:21,POR,Kris Murray,Personal Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,12,18,0.223,0.222,4:39
+1,4:16,POR,Toumani Camara,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,12,18,0.194,0.223,4:21
+1,3:22,POR,Jerami Grant,Personal Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,14,22,0.16,0.186,3:22
+1,2:14,POR,Kris Murray,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,14,22,0.159,0.185,2:18
+1,2:06,DEN,Jonas Valanciunas,Defensive 3-Seconds Technical,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,14,24,0.164,0.168,2:14
+1,4.2,DEN,Peyton Watson,Personal Take Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,18,26,0.236,0.206,10.9
+2,11:25,DEN,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,18,28,0.197,0.166,11:38
+2,10:33,POR,Jrue Holiday,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,24,30,0.194,0.224,10:47
+2,9:07,DEN,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,26,34,0.238,0.205,9:21
+2,7:54,POR,Shaedon Sharpe,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,31,36,0.215,0.249,7:56
+2,5:45,DEN,Bruce Brown,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,38,41,0.288,0.302,5:45
+2,3:30,DEN,Nikola Jokic,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,43,47,0.347,0.303,3:42
+2,2:40,POR,Toumani Camara,Loose Ball Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,46,47,0.366,0.364,2:40
+2,2:20,POR,Kris Murray,Offensive Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,46,50,0.275,0.305,2:30
+2,21.8,POR,Jerami Grant,Personal Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,53,52,0.387,0.434,31.5
+2,1.1,POR,Toumani Camara,Personal Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,53,55,0.294,0.338,1.3
+3,10:49,POR,Deni Avdija,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,53,57,0.234,0.275,10:52
+3,9:41,POR,Toumani Camara,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,56,61,0.207,0.246,9:47
+3,9:32,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,56,63,0.212,0.218,9:41
+3,9:04,DEN,Christian Braun,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,59,65,0.269,0.218,9:04
+3,8:00,DEN,Cameron Johnson,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,60,65,0.327,0.276,8:05
+3,7:29,DEN,Aaron Gordon,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,62,65,0.398,0.344,7:48
+3,7:10,POR,Jrue Holiday,Personal Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,64,65,0.38,0.378,7:29
+3,5:36,POR,Jerami Grant,Personal Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,68,67,0.401,0.461,5:44
+3,4:28,DEN,Christian Braun,Personal Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,68,72,0.365,0.307,4:44
+3,3:22,POR,Robert Williams III,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,71,74,0.277,0.344,3:22
+3,2:27,POR,Donovan Clingan,Loose Ball Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,71,77,0.152,0.193,2:28
+3,1:06,POR,Donovan Clingan,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,71,79,0.096,0.134,1:27
+3,31.8,POR,Toumani Camara,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,71,80,0.075,0.102,32.6
+4,11:22,DEN,Bruce Brown,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,75,83,0.179,0.116,11:22
+4,8:33,DEN,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,83,90,0.233,0.161,8:45
+4,7:59,DEN,Peyton Watson,Personal Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,84,92,0.14,0.129,8:10
+4,7:48,DEN,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,86,92,0.284,0.163,7:48
+4,7:31,POR,Robert Williams III,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,86,92,0.134,0.167,7:31
+4,5:04,DEN,Aaron Gordon,Personal Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,90,96,0.25,0.176,5:17
+4,3:12,POR,Deni Avdija,Personal Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,99,98,0.546,0.557,3:29
+4,3:02,POR,Kris Murray,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,99,100,0.308,0.477,3:02
+4,2:31,POR,Deni Avdija,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,99,101,0.182,0.303,2:49
+4,2:16,DEN,Jamal Murray,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,99,103,0.323,0.214,2:31
+4,53.8,DEN,Cameron Johnson,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,104,107,0.332,0.159,53.8
+4,27.7,DEN,Christian Braun,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,105,107,0.427,0.34,31.2
+4,1.4,DEN,Aaron Gordon,Shooting Foul,Foul,Zach Zarba,Simone Jelks,Mousa Dagher,POR,107,107,0.942,0.514,3.0

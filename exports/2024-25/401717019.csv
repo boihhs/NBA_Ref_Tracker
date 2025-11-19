@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:16,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,0,5,0.386,0.389,11:31
+1,10:42,PHI,Tyrese Maxey,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,0,5,0.424,0.387,10:50
+1,8:57,ORL,Paolo Banchero,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,6,12,0.317,0.358,8:57
+1,8:38,PHI,Andre Drummond,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,6,12,0.376,0.359,8:38
+1,7:25,PHI,KJ Martin,Offensive Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,12,12,0.512,0.486,7:32
+1,6:14,ORL,Franz Wagner,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,14,12,0.499,0.538,6:25
+1,3:38,PHI,Eric Gordon,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,16,15,0.581,0.542,3:57
+1,2:35,PHI,Guerschon Yabusele,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,18,15,0.636,0.595,2:48
+1,2:18,ORL,Gary Harris,Personal Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,20,15,0.622,0.621,2:35
+1,6.0,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,26,20,0.703,0.654,6.0
+1,1.1,ORL,Jalen Suggs,Personal Take Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,27,20,0.642,0.683,6.0
+2,9:35,ORL,Anthony Black,Personal Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,33,28,0.632,0.631,9:46
+2,9:06,ORL,Gary Harris,Personal Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,33,30,0.575,0.572,9:17
+2,8:32,ORL,Jett Howard,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,36,30,0.619,0.662,8:54
+2,7:48,ORL,Jonathan Isaac,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,39,31,0.678,0.717,8:12
+2,7:00,ORL,Jett Howard,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,42,35,0.651,0.695,7:09
+2,4:57,PHI,Ricky Council IV,Personal Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,47,43,0.644,0.645,5:09
+2,4:41,ORL,Jalen Suggs,Offensive Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,47,43,0.612,0.644,4:57
+2,26.0,ORL,Franz Wagner,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,53,51,0.5,0.552,44.0
+2,0.1,ORL,Paolo Banchero,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,56,53,0.535,0.584,7.1
+3,8:47,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,67,57,0.819,0.816,9:03
+3,8:39,PHI,Caleb Martin,Offensive Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,67,57,0.844,0.819,8:47
+3,7:16,ORL,Franz Wagner,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,67,59,0.723,0.772,7:18
+3,6:20,PHI,Kyle Lowry,Personal Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,71,61,0.858,0.858,6:30
+3,6:01,ORL,Jalen Suggs,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,71,61,0.816,0.835,6:08
+3,5:12,PHI,Eric Gordon,Flagrant Foul Type 1,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,73,63,0.859,0.866,5:20
+3,4:08,ORL,Jett Howard,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,75,63,0.877,0.913,4:10
+3,2:50,PHI,Andre Drummond,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,77,67,0.913,0.858,3:00
+3,2:31,ORL,Cole Anthony,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,77,67,0.82,0.86,2:47
+4,11:06,ORL,Tristan da Silva,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,87,74,0.918,0.945,11:23
+4,10:57,PHI,Ricky Council IV,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,87,76,0.957,0.933,11:06
+4,8:26,PHI,Jeff Dowtin Jr.,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,95,79,0.995,0.991,8:42
+4,7:51,ORL,Tristan da Silva,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,97,81,0.984,0.99,7:55
+4,6:56,PHI,Ricky Council IV,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,100,85,0.995,0.991,7:17
+4,6:26,ORL,Tristan da Silva,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,102,85,0.99,0.995,6:29
+4,4:54,PHI,Justin Edwards,Personal Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,104,87,0.999,0.998,4:59
+4,4:31,ORL,Caleb Houstan,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,106,87,0.998,0.999,4:44
+4,3:25,PHI,Adem Bona,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,106,89,0.999,0.999,3:28
+4,3:04,ORL,Jalen Slawson,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,108,89,0.999,0.999,3:25
+4,27.1,ORL,Jalen Slawson,Shooting Foul,Foul,Scott Foster,CJ Washington,Jonathan Sterling,ORL,114,98,0.999,0.999,27.1

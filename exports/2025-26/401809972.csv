@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:40,BOS,Payton Pritchard,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,3,11,0.264,0.262,8:49
+1,8:07,NO,Jordan Poole,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,5,11,0.285,0.283,8:13
+1,7:50,NO,Trey Murphy III,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,5,11,0.254,0.284,7:57
+1,7:03,NO,Herbert Jones,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,5,15,0.177,0.201,7:04
+1,6:20,BOS,Josh Minott,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,7,17,0.221,0.221,6:23
+1,5:32,BOS,Anfernee Simons,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,9,20,0.201,0.201,5:36
+1,4:56,NO,Derik Queen,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,9,22,0.138,0.149,4:56
+1,4:28,NO,Herbert Jones,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,12,23,0.157,0.183,4:43
+1,4:19,BOS,Anfernee Simons,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,12,24,0.21,0.182,4:28
+1,3:25,BOS,Luka Garza,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,14,24,0.251,0.218,3:28
+1,2:37,NO,Derik Queen,Loose Ball Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,19,24,0.268,0.307,2:37
+1,2:19,BOS,Luka Garza,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,19,26,0.319,0.282,2:37
+1,1:52,BOS,Sam Hauser,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,21,29,0.294,0.261,2:06
+1,55.6,BOS,Xavier Tillman,Defensive 3-Seconds Technical,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,23,31,0.249,0.26,1:06
+2,11:46,BOS,Neemias Queta,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,28,34,0.322,0.278,11:46
+2,11:02,BOS,Jaylen Brown,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,28,34,0.301,0.301,11:13
+2,9:57,BOS,Chris Boucher,Offensive Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,30,34,0.354,0.324,10:02
+2,7:54,NO,DeAndre Jordan,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,32,36,0.325,0.323,7:55
+2,7:17,BOS,Derrick White,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,32,39,0.271,0.271,7:25
+2,7:02,BOS,Jaylen Brown,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,34,39,0.347,0.297,7:02
+2,6:35,BOS,Neemias Queta,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,35,41,0.339,0.298,6:50
+2,5:05,BOS,Luka Garza,Offensive Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,37,48,0.173,0.153,5:07
+2,3:52,BOS,Josh Minott,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,37,51,0.142,0.118,3:54
+2,2:47,BOS,Josh Minott,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,41,53,0.178,0.147,2:58
+2,1:57,NO,Herbert Jones,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,46,55,0.153,0.188,2:14
+2,1:34,BOS,Jaylen Brown,Loose Ball Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,46,58,0.175,0.142,1:34
+2,1:34,BOS,Jaylen Brown,Technical Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,46,58,0.159,0.175,1:34
+2,39.6,NO,Yves Missi,Offensive Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,52,61,0.183,0.204,45.9
+2,10.6,BOS,Derrick White,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,52,63,0.192,0.162,32.7
+2,1.4,NO,Trey Murphy III,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,54,63,0.146,0.179,10.6
+3,11:25,NO,Yves Missi,Loose Ball Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,56,65,0.178,0.175,11:25
+3,10:49,NO,Herbert Jones,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,58,67,0.176,0.174,10:58
+3,9:05,NO,Jeremiah Fears,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,61,71,0.117,0.146,9:18
+3,6:12,BOS,Luka Garza,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,68,75,0.261,0.205,6:12
+3,3:38,NO,Derik Queen,Offensive Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,74,81,0.189,0.222,3:50
+3,58.1,BOS,Neemias Queta,Loose Ball Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,76,85,0.188,0.143,58.1
+3,2.0,NO,Derik Queen,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,78,87,0.08,0.111,6.4
+4,11:22,BOS,Anfernee Simons,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,78,87,0.184,0.13,11:34
+4,10:35,BOS,Jaylen Brown,Shooting Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,81,89,0.191,0.155,10:35
+4,10:21,NO,Jordan Poole,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,83,89,0.181,0.192,10:35
+4,10:12,BOS,Jaylen Brown,Offensive Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,83,89,0.225,0.181,10:21
+4,4:15,NO,Herbert Jones,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,88,108,0.001,0.001,4:32
+4,4:15,NO,Jordan Poole,Technical Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,88,108,0.001,0.001,4:15
+4,3:30,NO,Jordan Poole,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,88,109,0.001,0.001,3:43
+4,1:24,BOS,Payton Pritchard,Personal Foul,Foul,Marat Kogut,Gediminas Petraitis,Jamahl Ralls,NO,90,118,0.001,0.001,1:27

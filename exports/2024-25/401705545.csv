@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:45,CLE,Darius Garland,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,2,2,0.709,0.742,10:45
+1,10:35,ORL,Paolo Banchero,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,2,3,0.752,0.726,10:45
+1,6:21,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,14,12,0.794,0.768,6:35
+1,6:16,ORL,Kentavious Caldwell-Pope,Offensive Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,16,12,0.803,0.785,6:21
+1,4:52,CLE,De'Andre Hunter,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,22,15,0.808,0.832,5:00
+1,2:58,CLE,Tristan Thompson,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,29,19,0.851,0.873,3:03
+2,9:13,ORL,Anthony Black,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,40,30,0.901,0.883,9:25
+2,9:13,ORL,Paolo Banchero,Double Technical Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,40,30,0.88,0.883,9:13
+2,9:04,CLE,Dean Wade,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,41,30,0.862,0.884,9:13
+2,7:21,CLE,Dean Wade,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,41,35,0.797,0.797,7:24
+2,5:47,CLE,Isaac Okoro,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,43,38,0.737,0.773,5:57
+2,4:35,ORL,Cory Joseph,Loose Ball Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,43,42,0.694,0.694,4:35
+2,4:07,CLE,De'Andre Hunter,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,43,42,0.618,0.664,4:12
+2,3:28,ORL,Franz Wagner,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,45,43,0.718,0.719,3:36
+2,3:25,ORL,Franz Wagner,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,45,43,0.757,0.718,3:28
+2,3:03,CLE,Jarrett Allen,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,45,43,0.641,0.688,3:14
+2,1:53,CLE,Jarrett Allen,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,49,46,0.69,0.742,1:53
+2,1:25,ORL,Kentavious Caldwell-Pope,Loose Ball Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,51,47,0.8,0.766,1:25
+2,1:00,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,52,47,0.823,0.789,1:07
+3,11:23,CLE,Donovan Mitchell,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,60,47,0.896,0.92,11:24
+3,11:15,ORL,Cory Joseph,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,60,49,0.904,0.905,11:23
+3,11:05,ORL,Cory Joseph,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,60,49,0.923,0.904,11:15
+3,8:59,CLE,De'Andre Hunter,Offensive Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,65,55,0.875,0.893,9:05
+3,8:40,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,65,55,0.915,0.894,8:44
+3,8:25,CLE,De'Andre Hunter,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,67,55,0.909,0.909,8:25
+3,7:46,CLE,Donovan Mitchell,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,70,57,0.902,0.924,7:57
+3,5:58,ORL,Caleb Houstan,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,74,64,0.923,0.9,6:07
+3,5:50,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,74,64,0.923,0.923,5:58
+3,5:09,CLE,Jarrett Allen,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,74,66,0.8,0.841,5:15
+3,3:05,ORL,Cory Joseph,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,76,70,0.86,0.821,3:17
+3,2:33,ORL,Franz Wagner,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,77,70,0.885,0.85,2:39
+3,2:29,CLE,Sam Merrill,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,78,70,0.805,0.851,2:33
+3,2:01,CLE,Tristan Thompson,Loose Ball Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,78,70,0.806,0.853,2:01
+3,1:10,CLE,Tristan Thompson,Loose Ball Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,78,78,0.473,0.55,1:10
+4,8:20,ORL,Goga Bitadze,Loose Ball Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,91,86,0.826,0.821,8:20
+4,7:51,CLE,Darius Garland,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,91,86,0.78,0.509,6:45
+4,4:45,ORL,Anthony Black,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,96,95,0.649,0.634,4:48
+4,4:33,CLE,Jarrett Allen,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,96,95,0.438,0.567,4:37
+4,2:08,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,98,97,0.67,0.647,2:16
+4,1:18,CLE,Max Strus,Shooting Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,100,100,0.277,0.485,1:22
+4,31.0,CLE,Donovan Mitchell,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,103,104,0.153,0.28,31.0
+4,20.1,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,103,106,0.395,0.178,20.1
+4,7.1,CLE,Max Strus,Personal Foul,Foul,Tony Brothers,Justin Van Duyne,Danielle Scott,CLE,103,106,0.02,0.061,7.1

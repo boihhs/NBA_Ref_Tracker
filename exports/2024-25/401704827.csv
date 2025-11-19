@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:29,TOR,RJ Barrett,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,6,3,0.402,0.437,9:41
+1,8:53,TOR,Scottie Barnes,Technical Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,9,7,0.397,0.416,8:55
+1,8:42,TOR,Jakob Poeltl,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,9,8,0.397,0.391,8:53
+1,8:22,MIN,Anthony Edwards,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,9,11,0.38,0.343,8:36
+1,7:58,TOR,Gradey Dick,Loose Ball Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,9,11,0.321,0.32,7:58
+1,7:33,TOR,Jakob Poeltl,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,9,11,0.306,0.321,7:33
+1,6:49,TOR,RJ Barrett,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,11,13,0.29,0.323,6:53
+1,6:14,TOR,Ochai Agbaji,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,13,14,0.314,0.349,6:30
+1,4:30,MIN,Anthony Edwards,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,15,18,0.327,0.33,4:36
+1,3:56,MIN,Julius Randle,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,17,20,0.365,0.329,4:11
+1,3:39,TOR,Jakob Poeltl,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,18,20,0.311,0.33,3:39
+1,2:35,TOR,Jonathan Mogbo,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,20,22,0.294,0.331,2:40
+1,2:27,MIN,Naz Reid,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,20,23,0.325,0.33,2:35
+1,1:30,TOR,Chris Boucher,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,25,23,0.398,0.44,1:40
+2,9:17,TOR,Chris Boucher,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,39,34,0.521,0.575,9:17
+2,7:55,TOR,Scottie Barnes,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,39,38,0.384,0.425,8:08
+2,6:24,TOR,Jamal Shead,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,42,43,0.374,0.37,6:39
+2,6:14,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,42,43,0.401,0.402,6:17
+2,5:31,MIN,Jaden McDaniels,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,45,43,0.547,0.499,5:34
+2,5:05,TOR,Jakob Poeltl,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,46,43,0.453,0.498,5:19
+2,4:43,MIN,Anthony Edwards,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,46,43,0.536,0.537,4:52
+2,1:37,TOR,Jonathan Mogbo,Loose Ball Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,50,46,0.498,0.548,1:37
+2,1:25,MIN,Donte DiVincenzo,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,50,47,0.579,0.553,1:36
+3,11:44,MIN,Anthony Edwards,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,52,51,0.541,0.468,12:00
+3,8:43,TOR,Ochai Agbaji,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,58,61,0.292,0.351,8:43
+3,8:37,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,58,62,0.371,0.316,8:43
+3,6:46,TOR,Gradey Dick,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,61,64,0.266,0.314,6:51
+3,6:04,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,63,68,0.279,0.282,6:18
+3,5:28,MIN,Rudy Gobert,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,63,68,0.334,0.279,5:36
+3,3:51,MIN,Naz Reid,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,65,72,0.258,0.206,3:57
+3,2:25,TOR,Davion Mitchell,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,68,72,0.27,0.269,2:44
+3,1:57,MIN,Naz Reid,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,68,72,0.371,0.308,1:59
+3,50.1,MIN,Rob Dillingham,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,73,74,0.514,0.441,1:06
+3,31.1,TOR,Chris Boucher,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,75,74,0.416,0.488,50.1
+4,11:10,MIN,Naz Reid,Flagrant Foul Type 1,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,77,79,0.392,0.39,11:13
+4,10:26,MIN,Jaden McDaniels,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,79,79,0.523,0.505,10:30
+4,10:18,MIN,Naz Reid,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,79,79,0.614,0.523,10:26
+4,10:09,TOR,Jonathan Mogbo,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,80,79,0.505,0.52,10:18
+4,9:27,TOR,Jonathan Mogbo,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,82,82,0.365,0.463,9:42
+4,9:08,TOR,Chris Boucher,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,84,83,0.488,0.508,9:19
+4,8:45,MIN,Rudy Gobert,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,84,86,0.491,0.394,8:56
+4,7:17,TOR,Davion Mitchell,Offensive Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,88,90,0.341,0.525,7:30
+4,4:48,MIN,Rudy Gobert,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,95,95,0.645,0.541,4:56
+4,3:39,TOR,Scottie Barnes,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,99,95,0.64,0.755,3:49
+4,3:14,TOR,Jakob Poeltl,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,101,95,0.783,0.861,3:24
+4,2:58,MIN,Donte DiVincenzo,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,101,96,0.903,0.875,2:58
+4,1:55,MIN,Julius Randle,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,105,98,0.981,0.956,2:08
+4,46.1,MIN,Donte DiVincenzo,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,106,101,0.975,0.81,3:33
+4,38.1,TOR,Davion Mitchell,Shooting Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,108,101,0.92,0.965,46.1
+4,32.0,MIN,Jaden McDaniels,Personal Take Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,108,103,0.982,0.946,38.1
+4,11.1,MIN,Naz Reid,Personal Foul,Foul,Mark Lindsay,Jason Goldenberg,Sha'Rae Mitchell,TOR,109,105,0.988,0.945,16.1

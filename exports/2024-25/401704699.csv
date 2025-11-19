@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:45,ORL,Franz Wagner,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,10,4,0.85,0.828,8:48
+1,5:10,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,20,12,0.862,0.841,5:14
+1,4:52,CLE,Sam Merrill,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,22,14,0.811,0.839,4:52
+1,4:30,CLE,Sam Merrill,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,22,14,0.824,0.823,4:34
+1,4:07,CLE,Caris LeVert,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,24,14,0.854,0.855,4:15
+1,1:14,ORL,Cole Anthony,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,31,16,0.938,0.925,1:16
+2,9:40,CLE,Georges Niang,Offensive Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,36,21,0.92,0.929,9:52
+2,9:26,CLE,Evan Mobley,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,36,21,0.901,0.92,9:40
+2,8:32,CLE,Donovan Mitchell,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,39,21,0.947,0.946,8:40
+2,7:28,CLE,Dean Wade,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,41,26,0.903,0.92,7:41
+2,7:00,ORL,Anthony Black,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,41,28,0.91,0.91,7:06
+2,6:54,ORL,Jalen Suggs,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,41,28,0.91,0.91,7:00
+2,5:43,ORL,Anthony Black,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,44,33,0.905,0.886,5:55
+2,4:27,CLE,Darius Garland,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,48,36,0.862,0.886,4:35
+2,24.2,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,62,44,0.969,0.958,24.2
+3,10:32,CLE,Darius Garland,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,66,48,0.962,0.962,10:39
+3,9:05,ORL,Franz Wagner,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,68,48,0.981,0.982,9:06
+3,8:08,ORL,Franz Wagner,Loose Ball Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,70,48,0.989,0.989,8:23
+3,7:54,CLE,Jarrett Allen,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,70,48,0.981,0.987,8:00
+3,7:43,CLE,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,70,52,0.964,0.975,7:43
+3,7:27,CLE,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,70,53,0.949,0.962,7:29
+3,7:10,ORL,Jalen Suggs,Offensive Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,70,55,0.955,0.945,7:12
+3,6:37,CLE,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,70,55,0.939,0.947,6:37
+3,6:18,ORL,Tristan da Silva,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,70,56,0.961,0.948,6:37
+3,5:50,ORL,Tristan da Silva,Loose Ball Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,72,58,0.963,0.95,5:50
+3,4:03,CLE,Darius Garland,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,77,62,0.938,0.963,4:11
+3,3:33,ORL,Gary Harris,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,77,65,0.952,0.936,3:43
+3,3:25,CLE,Darius Garland,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,79,67,0.907,0.937,3:25
+3,2:54,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,79,68,0.935,0.922,2:58
+3,1:51,CLE,Georges Niang,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,87,74,0.918,0.941,2:05
+3,35.1,CLE,Caris LeVert,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,95,76,0.984,0.99,37.0
+4,9:03,CLE,Donovan Mitchell,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,102,84,0.99,0.996,9:03
+4,8:43,ORL,Jonathan Isaac,Personal Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,102,84,0.996,0.995,8:59
+4,5:55,CLE,Jarrett Allen,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,109,89,0.997,0.999,6:10
+4,3:58,CLE,Darius Garland,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,111,95,0.997,0.999,3:58
+4,3:47,ORL,Caleb Houstan,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,111,95,0.999,0.999,3:54
+4,2:19,ORL,Tristan da Silva,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,117,98,0.999,0.999,2:19
+4,9.1,CLE,Sam Merrill,Shooting Foul,Foul,Pat Fraher,Tyler Ford,Suyash Mehta,CLE,120,108,0.999,0.999,9.1

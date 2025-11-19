@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:08,DET,Cade Cunningham,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,4,0,0.55,0.586,10:15
+1,8:42,DET,Jalen Duren,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,11,7,0.551,0.589,8:44
+1,7:22,WSH,Alex Sarr,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,15,11,0.637,0.616,7:28
+1,6:43,WSH,Tre Johnson,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,19,11,0.713,0.716,6:43
+1,6:32,WSH,Kyshawn George,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,19,11,0.713,0.713,6:43
+1,2:39,DET,Ausar Thompson,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,21,15,0.629,0.675,2:39
+2,11:25,DET,Tobias Harris,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,29,18,0.779,0.78,11:36
+2,10:48,WSH,Marvin Bagley III,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,29,18,0.832,0.803,10:51
+2,10:03,DET,Paul Reed,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,33,18,0.861,0.86,10:03
+2,8:41,WSH,CJ McCollum,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,39,25,0.864,0.865,8:45
+2,7:23,DET,Daniss Jenkins,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,39,25,0.824,0.851,7:39
+2,7:08,WSH,Kyshawn George,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,39,27,0.861,0.834,7:23
+2,3:26,WSH,Khris Middleton,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,49,37,0.877,0.85,3:29
+2,3:05,DET,Duncan Robinson,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,51,39,0.815,0.852,3:05
+2,2:07,DET,Ronald Holland II,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,51,42,0.724,0.766,2:09
+2,1:57,DET,Cade Cunningham,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,51,44,0.663,0.71,2:04
+2,1:25,DET,Tobias Harris,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,53,45,0.695,0.743,1:36
+2,39.8,WSH,Khris Middleton,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,55,49,0.757,0.713,56.5
+3,9:48,WSH,Kyshawn George,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,64,59,0.743,0.694,10:09
+3,8:26,DET,Jalen Duren,Offensive Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,65,65,0.477,0.52,8:42
+3,7:46,DET,Jalen Duren,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,67,67,0.451,0.521,7:46
+3,7:29,WSH,Kyshawn George,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,67,67,0.52,0.521,7:35
+3,7:13,DET,Ausar Thompson,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,69,67,0.559,0.558,7:16
+3,7:06,DET,Cade Cunningham,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,69,67,0.561,0.559,7:13
+3,5:40,WSH,Tre Johnson,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,75,70,0.659,0.679,5:40
+3,5:02,DET,Ronald Holland II,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,79,70,0.77,0.813,5:14
+3,3:12,WSH,Marvin Bagley III,Defensive 3-Seconds Technical,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,81,74,0.793,0.799,3:29
+3,2:50,DET,Javonte Green,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,85,74,0.845,0.879,3:05
+3,22.6,DET,Paul Reed,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,90,77,0.911,0.937,34.3
+4,11:49,DET,Daniss Jenkins,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,93,78,0.963,0.94,22.6
+4,11:36,DET,Javonte Green,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,93,78,0.944,0.963,11:49
+4,11:11,DET,Javonte Green,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,95,80,0.943,0.965,11:24
+4,10:12,DET,Daniss Jenkins,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,97,85,0.896,0.93,10:26
+4,9:26,WSH,Justin Champagnie,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,97,85,0.97,0.949,9:36
+4,8:31,WSH,Tre Johnson,Transition Take Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,102,85,0.992,0.992,8:32
+4,8:11,WSH,Justin Champagnie,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,102,85,0.994,0.992,8:31
+4,7:09,DET,Bobi Klintman,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,107,85,0.998,0.999,7:21
+4,5:40,WSH,Tristan Vukcevic,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,112,87,0.999,0.999,5:46
+4,4:47,DET,Bobi Klintman,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,112,87,0.999,0.999,4:57
+4,3:48,WSH,Sharife Cooper,Offensive Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,112,91,0.999,0.999,3:50
+4,1:54,DET,Daniss Jenkins,Personal Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,117,93,0.999,0.999,1:56
+4,1:20,DET,Tolu Smith,Offensive Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,117,95,0.999,0.999,1:29
+4,52.7,WSH,Dillon Jones,Shooting Foul,Foul,Pat Fraher,Marat Kogut,Jenna Schroeder,DET,117,95,0.999,0.999,52.8

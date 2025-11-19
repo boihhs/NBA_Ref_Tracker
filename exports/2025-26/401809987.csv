@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:39,SAC,Domantas Sabonis,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,11,8,0.712,0.673,8:39
+1,6:53,SAC,Russell Westbrook,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,17,12,0.736,0.738,6:57
+1,4:19,SAC,Dennis Schroder,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,26,17,0.839,0.814,4:22
+1,2:36,CHI,Patrick Williams,Loose Ball Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,31,24,0.757,0.758,2:36
+2,11:52,CHI,Julian Phillips,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,36,33,0.66,0.672,12:00
+2,11:45,CHI,Ayo Dosunmu,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,36,33,0.662,0.66,11:52
+2,10:51,SAC,DeMar DeRozan,Loose Ball Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,36,35,0.629,0.635,10:51
+2,10:04,CHI,Ayo Dosunmu,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,36,37,0.546,0.546,10:16
+2,9:48,SAC,Devin Carter,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,36,37,0.615,0.572,9:55
+2,9:27,SAC,Russell Westbrook,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,39,39,0.621,0.572,9:27
+2,8:50,CHI,Isaac Okoro,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,39,39,0.524,0.569,8:56
+2,8:25,SAC,Drew Eubanks,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,39,41,0.584,0.541,8:41
+2,5:16,SAC,Domantas Sabonis,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,44,51,0.394,0.368,5:16
+2,3:00,SAC,Russell Westbrook,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,50,60,0.284,0.237,3:00
+2,2:19,CHI,Matas Buzelis,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,53,60,0.274,0.316,2:27
+3,8:01,CHI,Isaac Okoro,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,77,69,0.759,0.802,8:19
+3,7:33,CHI,Matas Buzelis,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,79,70,0.789,0.829,7:43
+3,7:01,CHI,Isaac Okoro,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,81,72,0.832,0.832,7:02
+3,6:04,CHI,Patrick Williams,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,83,75,0.766,0.809,6:05
+3,3:34,CHI,Jalen Smith,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,92,83,0.805,0.846,3:50
+3,2:38,CHI,Kevin Huerter,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,94,84,0.839,0.876,2:46
+3,1:33,SAC,Russell Westbrook,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,96,88,0.896,0.86,1:40
+3,58.5,CHI,Patrick Williams,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,96,88,0.784,0.837,1:03
+3,44.7,CHI,Matas Buzelis,Clear Path Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,96,90,0.709,0.768,44.7
+3,26.8,SAC,Keon Ellis,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,98,91,0.861,0.806,26.8
+4,10:42,CHI,Matas Buzelis,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,104,91,0.929,0.953,11:01
+4,10:07,CHI,Ayo Dosunmu,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,106,93,0.931,0.956,10:19
+4,9:24,CHI,Josh Giddey,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,109,95,0.948,0.97,9:28
+4,8:10,CHI,Kevin Huerter,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,114,98,0.977,0.987,8:24
+4,7:53,SAC,Dennis Schroder,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,114,99,0.993,0.986,8:10
+4,5:37,SAC,Domantas Sabonis,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,119,106,0.993,0.985,5:50
+4,3:17,SAC,Zach LaVine,Personal Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,122,108,0.998,0.997,3:30
+4,2:25,CHI,Nikola Vucevic,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,124,108,0.998,0.999,2:27
+4,1:15,CHI,Matas Buzelis,Loose Ball Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,124,112,0.993,0.998,1:15
+4,54.7,SAC,Drew Eubanks,Shooting Foul,Foul,Courtney Kirkland,Sean Corbin,Pat O'Connell,CHI,124,113,0.999,0.998,1:13

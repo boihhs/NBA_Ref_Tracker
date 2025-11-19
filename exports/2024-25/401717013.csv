@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:48,IND,Andrew Nembhard,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,0,0,0.489,0.49,12:00
+1,11:02,CHA,Seth Curry,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,2,2,0.55,0.512,11:09
+1,8:52,CHA,Brandon Miller,Offensive Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,12,11,0.537,0.512,9:08
+1,7:52,CHA,Nick Richards,Offensive Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,16,14,0.566,0.539,8:02
+1,7:08,CHA,LaMelo Ball,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,18,17,0.538,0.538,7:24
+1,6:59,CHA,Vasilije Micic,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,18,17,0.537,0.538,7:08
+1,6:49,CHA,Brandon Miller,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,18,17,0.577,0.537,6:59
+1,6:40,CHA,Vasilije Micic,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,18,17,0.577,0.577,6:49
+1,5:24,IND,Aaron Nesmith,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,22,19,0.546,0.592,5:24
+1,5:23,IND,Bennedict Mathurin,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,22,19,0.567,0.565,5:23
+1,4:39,CHA,Moussa Diabate,Offensive Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,24,19,0.644,0.617,4:58
+1,4:34,CHA,Grant Williams,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,24,19,0.684,0.644,4:39
+1,3:46,IND,Myles Turner,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,26,19,0.633,0.671,4:02
+1,3:06,IND,James Wiseman,Loose Ball Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,26,20,0.608,0.647,3:06
+1,2:37,CHA,Cody Martin,Loose Ball Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,26,20,0.713,0.675,2:37
+1,1:53,CHA,Tidjane Salaun,Offensive Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,27,20,0.704,0.675,2:05
+2,10:34,IND,T.J. McConnell,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,31,27,0.559,0.604,10:36
+2,10:27,CHA,LaMelo Ball,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,31,29,0.573,0.573,10:34
+2,9:50,IND,James Wiseman,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,34,31,0.574,0.573,9:59
+2,9:21,IND,James Wiseman,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,34,31,0.576,0.574,9:29
+2,8:08,CHA,Nick Richards,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,34,33,0.591,0.546,8:27
+2,7:50,IND,Myles Turner,Offensive Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,36,33,0.575,0.606,7:59
+2,6:45,IND,Myles Turner,Flagrant Foul Type 1,Foul,Ed Malloy,John Conley,Danielle Scott,IND,36,38,0.432,0.421,6:49
+2,3:35,CHA,Brandon Miller,Offensive Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,41,48,0.295,0.267,3:39
+2,3:01,CHA,Moussa Diabate,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,44,51,0.293,0.293,3:07
+2,35.1,CHA,Nick Richards,Away from Play Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,48,58,0.239,0.176,35.1
+3,11:25,CHA,Keyontae Johnson,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,49,63,0.113,0.115,11:32
+3,10:09,IND,Aaron Nesmith,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,51,63,0.123,0.124,10:14
+3,7:25,CHA,Vasilije Micic,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,56,68,0.126,0.127,7:40
+3,7:18,CHA,Tidjane Salaun,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,56,68,0.126,0.126,7:25
+3,3:25,CHA,Harry Giles III,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,65,75,0.187,0.145,3:31
+3,3:23,IND,T.J. McConnell,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,67,75,0.172,0.172,3:25
+3,2:12,IND,Bennedict Mathurin,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,69,79,0.111,0.111,2:18
+3,59.0,IND,T.J. McConnell,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,72,81,0.091,0.124,1:08
+3,1.1,CHA,Charlie Brown Jr.,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,72,85,0.083,0.058,7.1
+4,11:04,CHA,Nick Smith Jr.,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,75,85,0.114,0.105,11:10
+4,10:03,CHA,Tidjane Salaun,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,79,85,0.279,0.191,10:03
+4,9:12,IND,James Wiseman,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,80,89,0.06,0.095,9:18
+4,5:09,IND,Ben Sheppard,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,88,97,0.033,0.067,5:09
+4,4:48,CHA,Harry Giles III,Offensive Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,88,98,0.042,0.028,4:55
+4,4:39,IND,Tristen Newton,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,88,98,0.013,0.026,4:42
+4,4:08,IND,Tristen Newton,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,90,100,0.01,0.021,4:16
+4,2:52,CHA,KJ Simpson,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,92,100,0.057,0.045,2:52
+4,1:59,IND,Ben Sheppard,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,95,100,0.042,0.083,2:10
+4,44.2,IND,Cole Swider,Personal Take Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,98,104,0.009,0.027,48.1
+4,21.0,IND,Quenton Jackson,Personal Take Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,100,104,0.021,0.065,23.2
+4,3.2,CHA,KJ Simpson,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,105,106,0.709,0.071,3.2
+5,2:55,CHA,KJ Simpson,Shooting Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,111,109,0.81,0.704,2:58
+5,14.1,CHA,Charlie Brown Jr.,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,120,116,0.986,0.936,19.1
+5,12.1,CHA,Tidjane Salaun,Personal Foul,Foul,Ed Malloy,John Conley,Danielle Scott,IND,120,116,0.988,0.986,14.1

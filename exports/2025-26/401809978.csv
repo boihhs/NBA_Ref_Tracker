@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:45,WSH,Alex Sarr,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,0,0,0.258,0.289,12:00
+1,10:48,WSH,Kyshawn George,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,2,4,0.225,0.251,10:55
+1,10:28,WSH,Alex Sarr,Offensive Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,2,5,0.235,0.251,10:31
+1,8:39,PHI,VJ Edgecombe,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,4,8,0.267,0.238,8:41
+1,7:33,PHI,Joel Embiid,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,8,13,0.235,0.203,7:35
+1,6:08,WSH,CJ McCollum,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,16,20,0.212,0.244,6:08
+1,2:42,WSH,Marvin Bagley III,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,31,26,0.412,0.453,2:52
+1,2:32,PHI,VJ Edgecombe,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,31,28,0.423,0.425,2:42
+1,1:56,PHI,Trendon Watford,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,33,30,0.45,0.401,1:56
+1,55.4,WSH,Tre Johnson,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,36,30,0.449,0.49,1:08
+1,34.1,PHI,Jabari Walker,Loose Ball Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,36,32,0.508,0.466,34.1
+2,10:26,WSH,Cam Whitmore,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,40,37,0.42,0.418,10:31
+2,10:06,PHI,Tyrese Maxey,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,40,37,0.451,0.452,10:10
+2,9:45,WSH,Marvin Bagley III,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,42,37,0.439,0.483,9:59
+2,7:43,WSH,Cam Whitmore,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,46,44,0.363,0.406,7:45
+2,7:03,PHI,Jabari Walker,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,48,48,0.425,0.381,7:08
+2,6:42,PHI,Joel Embiid,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,52,48,0.527,0.473,6:42
+2,6:23,WSH,Marvin Bagley III,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,52,48,0.428,0.473,6:39
+2,3:10,PHI,Tyrese Maxey,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,61,57,0.579,0.529,3:23
+2,2:55,WSH,CJ McCollum,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,63,57,0.511,0.56,3:10
+2,5:55,PHI,Joel Embiid,Offensive Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,55,50,0.542,0.71,1:26
+2,0.9,WSH,Kyshawn George,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,72,67,0.519,0.583,0.9
+3,11:04,PHI,VJ Edgecombe,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,79,68,0.81,0.76,11:04
+3,9:55,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,81,71,0.772,0.775,9:57
+3,9:47,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,84,71,0.868,0.831,9:47
+3,9:44,PHI,Justin Edwards,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,84,71,0.884,0.853,9:45
+3,8:20,PHI,Tyrese Maxey,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,90,76,0.913,0.884,8:38
+3,5:51,WSH,Tre Johnson,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,97,81,0.898,0.921,5:57
+3,3:49,PHI,Andre Drummond,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,102,85,0.974,0.962,3:52
+3,1:53,WSH,Corey Kispert,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,106,93,0.934,0.928,1:53
+4,10:15,WSH,Cam Whitmore,Technical Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,113,99,0.947,0.969,10:16
+4,9:52,WSH,Tre Johnson,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,113,100,0.944,0.947,9:55
+4,9:14,WSH,Kyshawn George,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,116,100,0.965,0.98,9:35
+4,8:41,PHI,Joel Embiid,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,118,103,0.988,0.976,8:41
+4,8:28,WSH,Kyshawn George,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,118,103,0.975,0.976,8:39
+4,7:02,PHI,Quentin Grimes,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,118,109,0.923,0.913,7:18
+4,4:58,WSH,Khris Middleton,Loose Ball Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,122,109,0.966,0.984,4:58
+4,4:47,WSH,Bub Carrington,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,122,109,0.968,0.966,4:58
+4,4:16,WSH,Khris Middleton,Shooting Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,122,113,0.911,0.954,4:16
+4,3:29,PHI,VJ Edgecombe,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,122,114,0.952,0.943,3:36
+4,3:04,WSH,Bub Carrington,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,124,114,0.941,0.968,3:16
+4,1:10,PHI,Quentin Grimes,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,126,123,0.899,0.807,1:16
+5,3:31,WSH,Alex Sarr,Offensive Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,131,126,0.82,0.868,3:40
+5,2:20,WSH,Khris Middleton,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,131,126,0.855,0.852,2:24
+5,2:11,WSH,CJ McCollum,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,131,126,0.857,0.855,2:20
+5,1:48,PHI,VJ Edgecombe,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,131,128,0.906,0.813,1:58
+5,1:01,WSH,Khris Middleton,Offensive Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,131,128,0.766,0.848,1:13
+5,20.8,WSH,Alex Sarr,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,131,132,0.151,0.348,20.8
+5,18.7,WSH,Bub Carrington,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,131,132,0.146,0.151,20.8
+5,9.5,WSH,Bub Carrington,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,131,134,0.025,0.074,9.5
+5,6.5,WSH,CJ McCollum,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,134,135,0.078,0.217,7.6
+5,4.4,WSH,Kyshawn George,Personal Foul,Foul,Che Flores,Nick Buchert,J.B. DeRosa,WSH,134,137,0.011,0.034,4.4

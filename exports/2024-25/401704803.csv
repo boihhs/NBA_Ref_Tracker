@@ -1,0 +1,36 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:48,DET,Jalen Duren,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,2,2,0.519,0.478,11:01
+1,6:04,WSH,Kyle Kuzma,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,12,17,0.294,0.33,6:18
+1,5:51,DET,Cade Cunningham,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,12,18,0.33,0.33,6:04
+1,4:21,DET,Cade Cunningham,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,12,18,0.346,0.328,4:30
+1,2:42,DET,Ronald Holland II,Technical Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,13,20,0.32,0.302,2:43
+1,2:00,WSH,Jonas Valanciunas,Offensive Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,14,20,0.3,0.325,2:12
+1,1:28,DET,Isaiah Stewart,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,14,23,0.289,0.254,1:36
+1,1:18,DET,Isaiah Stewart,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,14,23,0.289,0.289,1:28
+1,4.1,WSH,Bub Carrington,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,18,26,0.217,0.25,15.0
+2,11:02,DET,Simone Fontecchio,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,18,30,0.182,0.182,11:11
+2,10:57,DET,Wendell Moore Jr.,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,20,30,0.198,0.202,10:57
+2,10:29,DET,Simone Fontecchio,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,20,30,0.239,0.222,10:30
+2,6:30,DET,Jalen Duren,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,34,44,0.229,0.188,6:30
+2,4:09,WSH,Kyshawn George,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,43,48,0.266,0.309,4:24
+2,1:27,WSH,Jordan Poole,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,49,59,0.155,0.196,1:27
+2,1:20,DET,Jaden Ivey,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,49,60,0.206,0.174,1:27
+3,10:19,WSH,Bilal Coulibaly,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,56,68,0.118,0.119,10:39
+3,8:31,WSH,Bilal Coulibaly,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,61,73,0.085,0.11,8:46
+3,7:41,WSH,Kyle Kuzma,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,61,75,0.055,0.089,8:04
+3,6:52,WSH,Jordan Poole,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,61,82,0.012,0.019,6:52
+3,5:53,WSH,Alex Sarr,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,64,83,0.018,0.023,6:10
+3,4:54,DET,Ronald Holland II,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,64,85,0.015,0.015,4:57
+3,3:44,DET,Jaden Ivey,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,67,90,0.01,0.007,3:59
+3,2:07,DET,Isaiah Stewart,Loose Ball Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,71,94,0.004,0.004,2:07
+3,1.1,WSH,Kyshawn George,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,79,101,0.001,0.003,1.1
+4,11:57,DET,Wendell Moore Jr.,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,79,102,0.002,0.002,12:00
+4,11:51,DET,Simone Fontecchio,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,79,102,0.005,0.002,11:57
+4,11:19,DET,Wendell Moore Jr.,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,81,102,0.005,0.005,11:29
+4,6:45,WSH,Jordan Poole,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,90,108,0.002,0.002,6:47
+4,5:34,WSH,Alex Sarr,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,92,114,0.001,0.001,5:46
+4,4:56,WSH,Jordan Poole,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,92,115,0.001,0.001,5:17
+4,4:00,WSH,Kyshawn George,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,94,117,0.001,0.001,4:07
+4,2:33,DET,Marcus Sasser,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,100,122,0.001,0.001,2:33
+4,45.0,WSH,Patrick Baldwin Jr.,Shooting Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,101,122,0.001,0.001,1:02
+4,6.0,DET,Ronald Holland II,Personal Foul,Foul,Zach Zarba,Phenizee Ransom,Evan Scott,WSH,103,124,0.001,0.001,9.1

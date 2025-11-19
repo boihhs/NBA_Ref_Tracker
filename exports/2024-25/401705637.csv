@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:40,PHX,Nick Richards,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,10,4,0.783,0.758,8:41
+1,8:32,PHX,Nick Richards,Offensive Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,11,4,0.773,0.756,8:40
+1,5:05,PHX,Grayson Allen,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,21,10,0.867,0.827,5:05
+1,4:28,MIN,Rudy Gobert,Offensive Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,22,13,0.792,0.812,4:52
+1,2:43,PHX,Kevin Durant,Loose Ball Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,25,15,0.829,0.813,2:44
+1,2:18,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,25,15,0.784,0.813,2:24
+1,1:44,MIN,Donte DiVincenzo,Loose Ball Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,25,17,0.742,0.774,1:58
+1,1:04,MIN,Jaylen Clark,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,25,19,0.697,0.731,1:09
+2,11:50,MIN,Donte DiVincenzo,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,27,21,0.732,0.741,12:00
+2,10:49,PHX,Oso Ighodaro,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,30,21,0.816,0.817,11:05
+2,8:01,PHX,Cody Martin,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,34,24,0.851,0.82,8:01
+2,6:50,PHX,Nick Richards,Loose Ball Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,38,27,0.856,0.858,6:50
+2,6:40,PHX,Ryan Dunn,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,40,27,0.898,0.873,6:40
+2,6:22,MIN,Naz Reid,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,41,27,0.889,0.889,6:40
+2,3:26,PHX,Oso Ighodaro,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,47,38,0.842,0.827,3:30
+2,1:16,PHX,Oso Ighodaro,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,51,42,0.863,0.832,1:35
+2,13.0,PHX,Devin Booker,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,55,45,0.883,0.856,32.0
+2,6.2,MIN,Jaylen Clark,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,57,45,0.844,0.873,13.0
+3,11:47,MIN,Anthony Edwards,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,57,45,0.877,0.88,12:00
+3,8:53,MIN,Julius Randle,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,65,47,0.947,0.96,9:04
+3,8:16,PHX,Ryan Dunn,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,67,48,0.975,0.976,8:20
+3,7:07,PHX,Nick Richards,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,71,54,0.971,0.958,7:07
+3,5:33,MIN,Mike Conley,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,77,59,0.971,0.969,5:47
+3,4:50,PHX,Devin Booker,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,79,59,0.987,0.987,4:50
+3,3:33,MIN,Rudy Gobert,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,83,64,0.978,0.986,3:33
+3,3:21,MIN,Nickeil Alexander-Walker,Offensive Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,83,65,0.977,0.982,3:33
+3,45.1,MIN,Naz Reid,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,90,71,0.982,0.988,1:07
+3,3.1,PHX,Cody Martin,Personal Take Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,90,75,0.985,0.975,22.0
+4,6:21,MIN,Donte DiVincenzo,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,109,88,0.999,0.999,6:27
+4,5:41,MIN,Rudy Gobert,Personal Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,112,91,0.999,0.999,5:54
+4,5:29,MIN,Rudy Gobert,Offensive Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,112,91,0.999,0.999,5:31
+4,4:05,MIN,Rudy Gobert,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,115,96,0.998,0.999,4:19
+4,3:40,MIN,Jaden McDaniels,Shooting Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,115,97,0.998,0.999,3:49
+4,5.1,PHX,Ryan Dunn,Personal Take Foul,Foul,Tom Washington,Marc Davis,John Butler,MIN,124,109,0.999,0.999,10.0

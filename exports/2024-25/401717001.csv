@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:27,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,0,0,0.468,0.49,11:27
+1,7:42,DAL,Jazian Gortman,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,4,10,0.358,0.359,7:53
+1,6:56,LAC,Norman Powell,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,6,10,0.345,0.382,6:59
+1,5:40,DAL,Quentin Grimes,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,10,17,0.331,0.331,5:51
+1,50.1,LAC,Kai Jones,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,23,22,0.47,0.512,1:05
+2,9:00,DAL,P.J. Washington,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,35,34,0.568,0.547,9:00
+2,8:52,LAC,Kris Dunn,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,36,34,0.546,0.546,8:58
+2,7:42,LAC,Kris Dunn,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,41,34,0.693,0.691,7:55
+2,7:32,DAL,Jazian Gortman,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,41,34,0.72,0.721,7:35
+2,2:36,DAL,Jazian Gortman,Loose Ball Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,52,48,0.647,0.648,2:36
+2,2:00,LAC,Ivica Zubac,Loose Ball Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,52,48,0.568,0.616,2:00
+2,1:30,DAL,Spencer Dinwiddie,Offensive Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,54,48,0.712,0.68,1:42
+2,1:20,DAL,Naji Marshall,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,54,48,0.754,0.712,1:30
+2,1:08,DAL,Jaden Hardy,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,54,48,0.755,0.754,1:20
+3,10:03,DAL,P.J. Washington,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,58,53,0.742,0.694,10:10
+3,9:43,LAC,James Harden,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,60,53,0.679,0.728,10:03
+3,9:03,LAC,Derrick Jones Jr.,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,62,53,0.79,0.789,9:08
+3,7:04,DAL,Brandon Williams,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,71,53,0.976,0.967,7:15
+3,6:28,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,73,55,0.947,0.961,6:31
+3,6:21,DAL,Quentin Grimes,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,73,56,0.961,0.962,6:28
+3,4:42,LAC,Ivica Zubac,Defensive 3-Seconds Technical,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,75,60,0.941,0.938,4:55
+3,4:06,LAC,Ivica Zubac,Loose Ball Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,77,61,0.935,0.953,4:06
+3,3:56,LAC,Kris Dunn,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,77,64,0.9,0.929,3:56
+4,11:55,LAC,Nicolas Batum,Offensive Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,83,75,0.831,0.835,12:00
+4,11:31,DAL,Brandon Williams,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,83,75,0.907,0.866,11:32
+4,9:43,LAC,Amir Coffey,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,87,75,0.928,0.943,9:56
+4,9:32,DAL,Jazian Gortman,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,87,77,0.956,0.928,9:43
+4,8:03,LAC,Kai Jones,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,91,77,0.958,0.978,8:10
+4,7:53,DAL,Jaden Hardy,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,91,78,0.98,0.977,8:03
+4,7:49,DAL,Jaden Hardy,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,93,78,0.992,0.985,7:49
+4,6:31,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,96,82,0.994,0.989,6:43
+4,5:57,LAC,Kai Jones,Offensive Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,96,85,0.974,0.98,6:06
+4,5:10,DAL,Dwight Powell,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,98,85,0.993,0.991,5:10
+4,4:41,DAL,Jamarion Sharp,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,99,88,0.991,0.982,4:50
+4,2:54,DAL,Jamarion Sharp,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,104,91,0.999,0.996,2:57
+4,1:55,DAL,Olivier-Maxence Prosper,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,106,91,0.999,0.999,1:58
+4,1:41,LAC,Alondes Williams,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Michael Smith,LAC,108,91,0.999,0.999,1:55

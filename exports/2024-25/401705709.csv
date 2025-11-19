@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:09,HOU,Jalen Green,Personal Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,0,0,0.555,0.555,11:23
+1,6:21,HOU,Tari Eason,Personal Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,8,8,0.551,0.552,6:41
+1,5:02,GS,Draymond Green,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,13,10,0.564,0.606,5:19
+1,2:14,HOU,Steven Adams,Loose Ball Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,22,13,0.776,0.776,2:14
+1,1:23,HOU,Alperen Sengun,Loose Ball Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,24,15,0.807,0.778,1:23
+2,8:57,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,29,26,0.677,0.635,9:11
+2,7:41,HOU,Fred VanVleet,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,29,28,0.62,0.577,8:02
+2,7:05,HOU,Jabari Smith Jr.,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,29,30,0.558,0.514,7:18
+2,5:54,GS,Jonathan Kuminga,Loose Ball Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,34,32,0.575,0.607,5:54
+2,4:27,GS,Buddy Hield,Personal Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,38,34,0.638,0.637,4:42
+2,1:02,GS,Draymond Green,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,47,46,0.489,0.541,1:25
+2,1:00,GS,Draymond Green,Technical Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,47,47,0.481,0.506,1:00
+2,54.0,GS,Gary Payton II,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,47,49,0.412,0.471,54.0
+2,46.1,HOU,Amen Thompson,Personal Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,47,49,0.525,0.471,48.1
+2,0.1,GS,Draymond Green,Personal Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,50,51,0.419,0.473,1.0
+3,10:45,GS,Draymond Green,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,53,58,0.303,0.357,10:45
+3,10:23,GS,Jimmy Butler III,Loose Ball Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,53,58,0.325,0.323,10:23
+3,10:15,GS,Moses Moody,Personal Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,53,58,0.326,0.325,10:23
+3,10:10,GS,Jimmy Butler III,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,53,58,0.279,0.326,10:15
+3,9:57,GS,Draymond Green,Flagrant Foul Type 1,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,53,60,0.267,0.29,10:02
+3,9:12,GS,Jonathan Kuminga,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,53,61,0.205,0.225,9:12
+3,8:46,HOU,Dillon Brooks,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,53,62,0.269,0.227,8:58
+3,7:49,HOU,Jalen Green,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,59,64,0.378,0.314,7:49
+3,7:07,HOU,Amen Thompson,Shooting Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,60,67,0.3,0.274,7:07
+3,4:33,HOU,Fred VanVleet,Personal Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,63,73,0.206,0.166,4:49
+4,9:53,GS,Gary Payton II,Personal Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,79,83,0.262,0.272,9:53
+4,8:50,HOU,Aaron Holiday,Personal Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,81,85,0.322,0.314,9:01
+4,5:35,GS,Kevon Looney,Offensive Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,84,93,0.05,0.075,5:46
+4,2:07,HOU,Amen Thompson,Loose Ball Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,90,101,0.007,0.007,2:07
+4,1:07,HOU,Amen Thompson,Personal Foul,Foul,Ben Taylor,Ray Acosta,Mousa Dagher,GS,90,106,0.001,0.001,1:11

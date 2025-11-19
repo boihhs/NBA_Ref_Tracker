@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:56,POR,Toumani Camara,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,0,0,0.55,0.51,11:01
+1,9:14,POR,Toumani Camara,Personal Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,3,2,0.538,0.54,9:42
+1,8:11,LAC,Amir Coffey,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,6,4,0.499,0.537,8:33
+1,6:44,POR,Scoot Henderson,Personal Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,9,9,0.512,0.513,6:50
+1,6:11,LAC,Terance Mann,Personal Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,11,9,0.539,0.538,6:12
+1,4:58,LAC,Kevin Porter Jr.,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,11,11,0.446,0.487,5:02
+1,4:42,POR,Kris Murray,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,11,13,0.499,0.459,4:58
+1,4:12,LAC,James Harden,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,16,15,0.471,0.512,4:21
+1,4:06,POR,Kris Murray,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,16,15,0.58,0.544,4:10
+1,1:26,POR,Jabari Walker,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,20,22,0.499,0.456,1:29
+2,8:11,LAC,Ivica Zubac,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,32,32,0.438,0.483,8:14
+2,7:49,POR,Toumani Camara,Personal Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,34,34,0.515,0.517,7:49
+2,7:00,POR,Jerami Grant,Personal Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,36,34,0.578,0.577,7:12
+2,6:38,LAC,James Harden,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,36,34,0.499,0.546,6:49
+2,5:59,LAC,Derrick Jones Jr.,Personal Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,39,36,0.579,0.577,6:01
+2,5:24,POR,Dalano Banton,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,41,38,0.655,0.611,5:29
+2,3:56,POR,Scoot Henderson,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,42,42,0.565,0.518,4:09
+2,3:48,LAC,Terance Mann,Personal Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,43,42,0.466,0.515,3:53
+3,11:30,LAC,Amir Coffey,Personal Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,49,50,0.445,0.445,11:41
+3,11:13,POR,Donovan Clingan,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,49,50,0.536,0.479,11:19
+3,10:33,POR,Scoot Henderson,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,52,50,0.642,0.591,10:38
+3,9:55,LAC,Kevin Porter Jr.,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,56,50,0.643,0.692,10:06
+3,9:34,LAC,Kevin Porter Jr.,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,58,52,0.645,0.694,9:40
+3,9:13,LAC,Kevin Porter Jr.,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,58,53,0.609,0.665,9:15
+3,9:01,LAC,Terance Mann,Offensive Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,58,55,0.591,0.63,9:13
+3,8:43,POR,Donovan Clingan,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,60,55,0.724,0.667,8:43
+3,6:56,LAC,Kai Jones,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,63,59,0.578,0.634,7:01
+3,2:27,LAC,Jordan Miller,Loose Ball Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,71,74,0.283,0.344,2:27
+3,2:13,POR,Devonte' Graham,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,71,74,0.455,0.386,2:23
+3,1:27,POR,Devonte' Graham,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,74,74,0.595,0.521,1:30
+4,11:44,LAC,Alondes Williams,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,76,78,0.29,0.398,12:00
+4,9:02,POR,Duop Reath,Personal Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,79,79,0.541,0.522,9:05
+4,7:26,POR,Duop Reath,Offensive Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,81,81,0.532,0.467,7:36
+4,6:46,POR,Donovan Clingan,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,83,83,0.597,0.465,6:46
+4,1:24,LAC,Jordan Miller,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,97,91,0.816,0.917,1:34
+4,12.0,POR,Dalano Banton,Personal Take Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,99,98,0.873,0.642,26.0
+4,4.0,LAC,Jordan Miller,Shooting Foul,Foul,J.T. Orr,Gediminas Petraitis,Sha'Rae Mitchell,LAC,99,98,0.294,0.582,9.0

@@ -1,0 +1,54 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:46,HOU,Amen Thompson,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,0,0,0.694,0.66,12:00
+1,11:31,HOU,Dillon Brooks,Hanging Technical Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,2,2,0.654,0.659,11:32
+1,9:56,MEM,Zach Edey,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,10,8,0.663,0.7,9:56
+1,8:32,MEM,Zach Edey,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,15,16,0.586,0.629,8:32
+1,6:44,MEM,Desmond Bane,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,19,24,0.472,0.518,6:44
+1,5:28,MEM,Jay Huff,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,21,31,0.329,0.347,5:28
+1,3:22,MEM,Brandon Clarke,Loose Ball Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,26,33,0.375,0.416,3:22
+1,2:50,MEM,Brandon Clarke,Loose Ball Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,28,34,0.399,0.444,2:50
+1,1:54,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,31,36,0.422,0.47,2:10
+1,1:43,HOU,Jae'Sean Tate,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,31,38,0.482,0.437,1:54
+1,16.0,MEM,Desmond Bane,Flagrant Foul Type 1,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,36,44,0.379,0.401,16.0
+2,11:31,HOU,Aaron Holiday,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,38,45,0.446,0.394,11:31
+2,10:43,HOU,Steven Adams,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,38,48,0.331,0.332,10:54
+2,9:56,MEM,Jaylen Wells,Loose Ball Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,38,48,0.299,0.296,9:56
+2,9:54,HOU,Fred VanVleet,Offensive Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,38,48,0.327,0.299,9:56
+2,9:15,MEM,Scotty Pippen Jr.,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,40,48,0.351,0.352,9:26
+2,8:35,HOU,Amen Thompson,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,42,48,0.438,0.439,8:40
+2,8:27,MEM,Scotty Pippen Jr.,Offensive Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,42,48,0.406,0.438,8:35
+2,4:49,HOU,Dillon Brooks,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,46,61,0.199,0.164,4:50
+2,4:34,MEM,Jay Huff,Away from Play Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,48,61,0.185,0.208,4:34
+2,4:00,MEM,Desmond Bane,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,48,62,0.144,0.158,4:00
+2,4:00,HOU,Fred VanVleet,Loose Ball Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,48,62,0.217,0.182,4:00
+2,2:36,MEM,Brandon Clarke,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,55,64,0.231,0.276,2:49
+2,51.1,HOU,Fred VanVleet,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,59,66,0.383,0.319,51.1
+2,23.1,HOU,Steven Adams,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,61,68,0.405,0.353,33.1
+3,10:22,HOU,Alperen Sengun,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,66,70,0.471,0.446,10:28
+3,10:01,HOU,Amen Thompson,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,67,70,0.534,0.478,10:05
+3,9:29,HOU,Amen Thompson,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,69,72,0.531,0.477,9:48
+3,9:18,MEM,Ja Morant,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,71,72,0.511,0.513,9:29
+3,8:39,MEM,Jaren Jackson Jr.,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,74,72,0.622,0.62,8:54
+3,8:29,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,74,72,0.565,0.622,8:39
+3,7:22,HOU,Jae'Sean Tate,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,78,77,0.647,0.581,7:22
+3,7:00,MEM,Zach Edey,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,79,77,0.56,0.618,7:06
+3,6:34,MEM,Jaren Jackson Jr.,Technical Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,79,80,0.468,0.499,6:34
+3,5:35,HOU,Jae'Sean Tate,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,79,83,0.475,0.416,5:49
+3,4:52,MEM,Jay Huff,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,82,85,0.346,0.407,4:59
+3,4:15,HOU,Alperen Sengun,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,82,88,0.385,0.324,4:25
+3,4:05,MEM,Brandon Clarke,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,84,88,0.298,0.363,4:15
+3,3:57,HOU,Dillon Brooks,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,84,88,0.466,0.403,4:03
+3,1:04,MEM,Santi Aldama,Loose Ball Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,85,96,0.068,0.097,1:04
+3,27.1,HOU,Alperen Sengun,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,89,98,0.194,0.136,27.1
+4,11:49,HOU,Jae'Sean Tate,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,92,101,0.224,0.149,12:00
+4,10:12,MEM,Zach Edey,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,94,104,0.056,0.133,11:49
+4,9:55,MEM,Ja Morant,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,94,104,0.064,0.083,9:59
+4,9:06,MEM,Zach Edey,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,96,105,0.058,0.095,9:16
+4,8:26,MEM,Jake LaRavia,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,99,106,0.111,0.138,8:26
+4,7:15,MEM,Brandon Clarke,Loose Ball Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,101,107,0.102,0.149,7:15
+4,6:48,MEM,Desmond Bane,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,103,109,0.096,0.145,7:01
+4,6:38,HOU,Alperen Sengun,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,103,110,0.151,0.143,6:48
+4,2:49,HOU,Dillon Brooks,Shooting Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,112,115,0.366,0.278,2:52
+4,2:07,HOU,Dillon Brooks,Personal Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,114,115,0.6,0.449,2:10
+4,3.0,HOU,Fred VanVleet,Personal Take Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,114,117,0.121,0.062,3.1
+4,2.1,MEM,Brandon Clarke,Personal Take Foul,Foul,James Williams,Sean Corbin,Jonathan Sterling,MEM,115,117,0.015,0.05,3.0

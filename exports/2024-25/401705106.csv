@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:42,DAL,Dereck Lively II,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,9,2,0.499,0.539,8:44
+1,5:51,DEN,Jamal Murray,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,21,5,0.827,0.8,5:57
+1,5:04,DEN,Michael Porter Jr.,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,23,7,0.805,0.806,5:06
+1,5:01,DEN,Russell Westbrook,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,23,7,0.803,0.805,5:04
+1,4:06,DEN,Julian Strawther,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,23,9,0.798,0.766,4:16
+1,3:32,DAL,Jaden Hardy,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,25,11,0.747,0.746,3:40
+1,2:05,DAL,Daniel Gafford,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,31,15,0.799,0.799,2:28
+1,2:02,DAL,Jaden Hardy,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,31,15,0.767,0.801,2:05
+1,1:34,DEN,Jamal Murray,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,31,15,0.854,0.824,1:47
+1,1:21,DAL,Quentin Grimes,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,32,15,0.793,0.822,1:31
+2,10:37,DEN,Russell Westbrook,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,35,21,0.832,0.801,10:40
+2,10:03,DAL,Dereck Lively II,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,39,25,0.764,0.805,10:03
+2,8:20,DAL,Spencer Dinwiddie,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,41,32,0.664,0.663,8:31
+2,7:09,DEN,Nikola Jokic,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,44,36,0.714,0.669,7:26
+2,6:57,DAL,Daniel Gafford,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,46,36,0.658,0.699,7:09
+2,5:19,DAL,Maxi Kleber,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,49,39,0.669,0.711,5:23
+2,4:40,DEN,Christian Braun,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,49,41,0.729,0.691,4:49
+2,4:33,DAL,P.J. Washington,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,52,41,0.702,0.744,4:40
+2,3:33,DAL,Naji Marshall,Loose Ball Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,52,44,0.616,0.666,3:33
+2,2:11,DEN,Jamal Murray,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,60,51,0.755,0.706,2:11
+2,49.1,DAL,Maxi Kleber,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,61,56,0.532,0.581,1:04
+3,9:15,DAL,Spencer Dinwiddie,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,67,64,0.531,0.533,9:15
+3,8:50,DEN,Michael Porter Jr.,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,67,64,0.572,0.573,8:59
+3,8:30,DEN,Nikola Jokic,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,67,64,0.628,0.575,8:34
+3,7:39,DAL,Naji Marshall,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,71,66,0.588,0.655,7:39
+3,7:27,DEN,Nikola Jokic,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,73,67,0.718,0.654,7:27
+3,5:23,DEN,Christian Braun,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,81,67,0.942,0.92,5:28
+3,5:18,DAL,Dereck Lively II,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,83,67,0.935,0.933,5:23
+3,3:59,DEN,Julian Strawther,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,86,69,0.976,0.964,4:08
+3,1:37,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,87,75,0.879,0.897,1:41
+3,28.1,DAL,Dereck Lively II,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,89,77,0.891,0.907,28.1
+4,7:54,DAL,Maxi Kleber,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,93,93,0.389,0.503,7:54
+4,7:36,DEN,Jamal Murray,Loose Ball Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,93,94,0.456,0.443,7:36
+4,6:46,DEN,Julian Strawther,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,95,94,0.686,0.576,6:59
+4,6:31,DAL,Daniel Gafford,Defensive 3-Seconds Technical,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,96,94,0.603,0.581,6:46
+4,4:48,DAL,Daniel Gafford,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,96,97,0.367,0.384,5:01
+4,4:38,DAL,Dereck Lively II,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,96,97,0.352,0.367,4:48
+4,4:13,DEN,Michael Porter Jr.,Shooting Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,96,99,0.43,0.298,4:28
+4,3:25,DEN,Nikola Jokic,Personal Foul,Foul,Brent Barnaky,John Goble,Simone Jelks,DAL,97,101,0.353,0.232,3:25

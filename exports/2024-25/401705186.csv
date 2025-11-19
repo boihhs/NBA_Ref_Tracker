@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:40,BOS,Jayson Tatum,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,0,0,0.297,0.278,12:00
+1,10:05,LAC,Mo Bamba,Loose Ball Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,5,8,0.212,0.211,10:05
+1,8:56,LAC,Derrick Jones Jr.,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,9,13,0.198,0.197,9:06
+1,7:50,BOS,Luke Kornet,Loose Ball Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,11,13,0.256,0.256,7:50
+1,41.1,LAC,Bones Hyland,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,32,32,0.287,0.33,41.1
+1,31.1,LAC,Bones Hyland,Offensive Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,32,33,0.281,0.308,41.1
+2,10:29,LAC,Bones Hyland,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,36,36,0.316,0.314,10:38
+2,9:09,BOS,Baylor Scheierman,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,41,41,0.39,0.35,9:14
+2,8:33,LAC,Amir Coffey,Loose Ball Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,43,41,0.381,0.38,8:33
+2,8:29,LAC,Cam Christie,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,43,41,0.339,0.381,8:33
+2,7:22,LAC,Amir Coffey,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,46,43,0.373,0.415,7:29
+2,5:08,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,48,52,0.216,0.258,5:08
+2,4:54,BOS,Jaylen Brown,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,48,52,0.278,0.259,4:54
+2,2:49,LAC,Mo Bamba,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,51,54,0.225,0.265,2:52
+2,2:32,BOS,Derrick White,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,53,55,0.344,0.293,2:32
+2,1:26,BOS,Neemias Queta,Offensive Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,56,57,0.357,0.325,1:35
+3,11:16,LAC,Mo Bamba,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,61,60,0.348,0.4,11:31
+3,8:52,LAC,Mo Bamba,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,65,68,0.253,0.274,8:58
+3,5:53,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,73,71,0.407,0.466,6:08
+3,5:16,LAC,Kobe Brown,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,75,73,0.41,0.47,5:32
+3,4:18,LAC,Amir Coffey,Offensive Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,78,75,0.522,0.609,4:18
+3,3:54,BOS,Neemias Queta,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,78,75,0.603,0.571,4:02
+3,2:13,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,82,77,0.563,0.63,2:14
+3,1:21,BOS,Jaden Springer,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,82,79,0.666,0.598,1:31
+3,5.1,LAC,Bones Hyland,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,84,79,0.583,0.652,15.1
+4,11:33,LAC,Terance Mann,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,87,81,0.702,0.711,11:46
+4,7:14,BOS,Luke Kornet,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,89,93,0.268,0.263,7:35
+4,6:31,LAC,Kevin Porter Jr.,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,89,93,0.193,0.204,6:31
+4,5:25,BOS,Jaden Springer,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,89,96,0.121,0.112,5:29
+4,5:01,LAC,Kobe Brown,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,89,96,0.072,0.078,5:03
+4,4:01,LAC,Derrick Jones Jr.,Loose Ball Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,91,96,0.072,0.126,4:01
+4,1:23,BOS,Jaylen Brown,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,95,101,0.16,0.066,1:26
+4,1:23,BOS,Derrick White,Technical Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,95,101,0.117,0.065,1:23
+4,1:03,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,97,101,0.057,0.124,1:22
+4,19.1,BOS,Jaylen Brown,Offensive Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,99,103,0.124,0.079,28.1
+5,3:53,LAC,Terance Mann,Offensive Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,103,109,0.099,0.143,4:12
+5,3:08,LAC,Kobe Brown,Loose Ball Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,105,109,0.165,0.166,3:08
+5,2:37,LAC,Kevin Porter Jr.,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,105,112,0.043,0.045,2:37
+5,2:12,BOS,Jaden Springer,Personal Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,105,112,0.062,0.063,2:14
+5,30.0,BOS,Jaylen Brown,Shooting Foul,Foul,Rodney Mott,Scott Twardoski,Natalie Sago,LAC,112,115,0.352,0.114,30.0

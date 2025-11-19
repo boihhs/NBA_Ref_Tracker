@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:44,SA,Victor Wembanyama,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,2,0,0.48,0.441,11:44
+1,9:35,NO,Herbert Jones,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,2,7,0.278,0.28,9:36
+1,6:54,SA,Stephon Castle,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,9,13,0.325,0.326,6:58
+1,4:41,SA,Stephon Castle,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,15,17,0.376,0.377,4:41
+1,3:48,NO,Jordan Poole,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,17,19,0.334,0.352,3:48
+1,2:57,NO,Herbert Jones,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,20,22,0.317,0.354,3:17
+1,2:41,SA,Luke Kornet,Defensive 3-Seconds Technical,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,20,25,0.297,0.304,2:56
+1,1:03,SA,Dylan Harper,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,24,30,0.316,0.281,1:18
+1,56.5,SA,Dylan Harper,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,24,30,0.316,0.316,1:03
+1,43.8,NO,Zion Williamson,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,25,30,0.246,0.28,53.7
+2,10:47,SA,Victor Wembanyama,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,27,32,0.345,0.306,10:59
+2,10:06,NO,Jeremiah Fears,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,32,34,0.359,0.358,10:06
+2,8:10,NO,Jeremiah Fears,Offensive Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,38,39,0.389,0.419,8:19
+2,8:10,NO,NO,Delay Technical,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,38,39,0.396,0.389,8:10
+2,7:05,SA,Luke Kornet,Defensive 3-Seconds Technical,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,38,42,0.325,0.334,7:11
+2,6:39,SA,Devin Vassell,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,41,42,0.444,0.421,6:42
+2,6:18,SA,Dylan Harper,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,43,45,0.388,0.39,6:28
+2,5:49,NO,Derik Queen,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,45,45,0.376,0.42,6:13
+2,5:32,SA,Luke Kornet,Technical Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,45,47,0.415,0.391,5:40
+2,4:42,SA,Devin Vassell,Offensive Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,46,49,0.364,0.332,4:45
+2,3:11,NO,Herbert Jones,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,46,53,0.223,0.223,3:15
+2,3:11,NO,Herbert Jones,Technical Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,46,53,0.205,0.223,3:11
+2,2:50,SA,Victor Wembanyama,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,48,53,0.326,0.276,2:50
+2,2:37,NO,Jordan Poole,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,48,53,0.234,0.274,2:47
+2,1:33,NO,Trey Murphy III,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,51,53,0.315,0.365,1:40
+2,1:21,SA,Keldon Johnson,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,51,55,0.38,0.336,1:33
+2,0.8,SA,Keldon Johnson,Loose Ball Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,56,57,0.486,0.435,0.8
+3,10:19,NO,Jordan Poole,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,60,61,0.348,0.399,10:31
+3,6:47,SA,Devin Vassell,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,65,72,0.227,0.226,6:48
+3,6:03,SA,Devin Vassell,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,65,72,0.224,0.224,6:08
+3,5:09,SA,Dylan Harper,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,67,72,0.287,0.289,5:17
+3,4:03,NO,Derik Queen,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,69,78,0.134,0.134,4:04
+3,3:28,SA,Keldon Johnson,Loose Ball Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,71,78,0.265,0.212,3:28
+3,2:29,SA,Luke Kornet,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,73,80,0.261,0.207,2:49
+3,31.7,SA,Keldon Johnson,Loose Ball Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,76,82,0.293,0.231,31.7
+4,11:51,SA,Keldon Johnson,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,80,82,0.42,0.395,12:00
+4,10:21,NO,Derik Queen,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,85,82,0.6,0.612,10:37
+4,9:58,SA,Keldon Johnson,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,85,82,0.751,0.666,10:06
+4,9:45,NO,Zion Williamson,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,87,82,0.63,0.72,9:58
+4,8:10,SA,Harrison Barnes,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,92,86,0.883,0.818,8:29
+4,6:37,NO,Trey Murphy III,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,94,94,0.346,0.461,6:39
+4,6:10,NO,Herbert Jones,Loose Ball Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,94,96,0.231,0.324,6:10
+4,3:20,NO,Derik Queen,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,98,100,0.187,0.28,3:23
+4,2:25,SA,Victor Wembanyama,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,98,104,0.328,0.101,2:38
+4,2:01,SA,Dylan Harper,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,98,104,0.174,0.1,2:03
+4,12.2,SA,Victor Wembanyama,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,106,107,0.634,0.46,19.8
+5,4:17,SA,Victor Wembanyama,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,107,109,0.507,0.386,4:23
+5,3:41,NO,Derik Queen,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,108,112,0.141,0.18,3:41
+5,1:38,NO,Derik Queen,Shooting Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,110,116,0.02,0.054,1:52
+5,1:11,SA,Harrison Barnes,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,110,118,0.064,0.02,1:12
+5,21.8,NO,Herbert Jones,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,112,118,0.004,0.024,32.5
+5,1.9,NO,Jordan Poole,Personal Foul,Foul,Pat Fraher,Nick Buchert,Biniam Maru,NO,116,118,0.011,0.047,3.0

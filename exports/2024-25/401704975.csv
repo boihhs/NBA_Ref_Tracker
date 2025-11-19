@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:38,DEN,Michael Porter Jr.,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,5,3,0.498,0.459,9:51
+1,9:18,PHX,Ryan Dunn,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,5,3,0.398,0.434,9:36
+1,7:55,PHX,Jusuf Nurkic,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,12,5,0.532,0.57,8:12
+1,7:10,DEN,Jamal Murray,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,15,8,0.601,0.602,7:26
+1,6:21,PHX,Kevin Durant,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,19,10,0.63,0.629,6:26
+1,5:43,PHX,Tyus Jones,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,19,12,0.54,0.578,6:01
+1,4:43,PHX,Jusuf Nurkic,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,19,15,0.461,0.503,4:46
+1,4:13,DEN,Christian Braun,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,22,18,0.572,0.534,4:19
+1,4:00,PHX,Bradley Beal,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,24,20,0.483,0.534,4:00
+1,2:29,DEN,Russell Westbrook,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,29,24,0.61,0.566,2:45
+1,2:22,PHX,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,31,26,0.517,0.564,2:22
+1,2:04,DEN,Julian Strawther,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,31,27,0.581,0.538,2:22
+1,1:14,DEN,Nikola Jokic,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,36,29,0.671,0.63,1:23
+1,9.0,PHX,Mason Plumlee,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,38,33,0.506,0.574,9.0
+2,9:18,DEN,DeAndre Jordan,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,44,38,0.618,0.619,9:23
+2,5:46,DEN,Christian Braun,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,49,45,0.575,0.575,6:02
+2,2:50,PHX,Royce O'Neale,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,53,50,0.521,0.521,2:54
+2,2:25,DEN,Aaron Gordon,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,53,52,0.487,0.491,2:37
+2,1:10,DEN,Michael Porter Jr.,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,55,54,0.545,0.494,1:26
+3,11:27,DEN,Aaron Gordon,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,58,58,0.519,0.466,11:39
+3,5:10,DEN,Nikola Jokic,Defensive 3-Seconds Technical,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,74,72,0.555,0.565,5:27
+3,4:40,PHX,Bradley Beal,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,75,72,0.534,0.568,4:40
+3,3:12,DEN,Peyton Watson,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,79,75,0.663,0.662,3:16
+3,2:49,PHX,Royce O'Neale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,79,75,0.556,0.621,2:54
+3,2:38,DEN,Peyton Watson,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,79,76,0.687,0.623,2:49
+3,1:44,PHX,Mason Plumlee,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,83,76,0.725,0.755,1:44
+3,39.0,DEN,Julian Strawther,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,83,78,0.786,0.727,39.0
+4,11:08,DEN,Julian Strawther,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,87,78,0.907,0.854,11:08
+4,9:21,PHX,Mason Plumlee,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,90,83,0.733,0.807,9:45
+4,8:25,DEN,Christian Braun,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,92,87,0.847,0.772,8:44
+4,6:30,PHX,Bradley Beal,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,101,87,0.968,0.982,6:48
+4,5:16,PHX,Bradley Beal,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,103,89,0.976,0.988,5:26
+4,2:30,PHX,Kevin Durant,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,107,92,0.997,0.999,2:36
+4,1:35,PHX,Kevin Durant,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jacyn Goble,PHX,110,96,0.998,0.999,1:40

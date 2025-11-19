@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:14,MIN,Rudy Gobert,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,0,7,0.302,0.27,10:19
+1,9:55,MIN,Anthony Edwards,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,4,7,0.379,0.336,9:55
+1,9:25,NO,Herbert Jones,Loose Ball Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,4,10,0.272,0.27,9:25
+1,8:46,MIN,Julius Randle,Personal Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,4,16,0.176,0.178,8:51
+1,7:08,NO,Zion Williamson,Personal Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,10,18,0.23,0.228,7:20
+1,4:54,MIN,Naz Reid,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,15,25,0.224,0.188,4:54
+1,3:57,MIN,Rudy Gobert,Loose Ball Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,18,25,0.304,0.248,3:58
+1,2:36,NO,Herbert Jones,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,23,28,0.257,0.29,2:43
+2,11:39,NO,Jose Alvarado,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,33,36,0.322,0.371,11:39
+2,8:52,NO,CJ McCollum,Personal Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,36,40,0.316,0.315,9:07
+2,8:32,MIN,Naz Reid,Technical Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,39,40,0.454,0.399,8:34
+2,4:38,MIN,Anthony Edwards,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,43,45,0.452,0.404,4:42
+2,1:56,MIN,Julius Randle,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,50,48,0.591,0.54,2:11
+2,1:48,NO,CJ McCollum,Personal Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,51,48,0.488,0.539,1:56
+2,30.1,MIN,Anthony Edwards,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,51,52,0.493,0.443,35.1
+2,11.1,NO,Yves Missi,Loose Ball Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,52,52,0.391,0.441,11.1
+2,11.1,NO,Herbert Jones,Loose Ball Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,52,53,0.358,0.409,11.1
+3,11:37,MIN,Rudy Gobert,Loose Ball Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,54,54,0.476,0.48,11:37
+3,10:05,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,58,54,0.676,0.626,10:19
+3,8:31,MIN,Jaden McDaniels,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,63,56,0.782,0.737,8:36
+3,8:12,NO,Herbert Jones,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,64,56,0.687,0.737,8:31
+3,7:48,NO,Yves Missi,Loose Ball Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,64,60,0.599,0.6,7:49
+3,5:36,NO,Dejounte Murray,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,66,70,0.243,0.293,5:39
+3,2:31,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,71,75,0.386,0.324,2:41
+3,1:28,MIN,Naz Reid,Offensive Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,73,80,0.204,0.171,1:38
+3,1:02,NO,Brandon Boston,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,75,82,0.147,0.201,1:02
+4,11:53,NO,Jose Alvarado,Personal Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,75,83,0.121,0.148,12:00
+4,9:51,NO,Zion Williamson,Personal Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,77,89,0.035,0.038,9:58
+4,9:39,MIN,Julius Randle,Personal Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,77,89,0.053,0.05,9:42
+4,8:56,MIN,Julius Randle,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,80,91,0.1,0.045,9:02
+4,8:13,NO,CJ McCollum,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,80,93,0.016,0.032,8:13
+4,3:43,MIN,Mike Conley,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,90,99,0.069,0.027,3:43
+4,1:58,MIN,Rudy Gobert,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,90,99,0.058,0.023,2:05
+4,1:45,NO,Jose Alvarado,Shooting Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,92,99,0.016,0.041,1:58
+4,19.1,NO,Zion Williamson,Personal Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,97,100,0.047,0.128,29.1
+4,14.1,NO,Dejounte Murray,Personal Foul,Foul,Pat Fraher,Jenna Schroeder,Evan Scott,NO,97,102,0.006,0.026,16.1

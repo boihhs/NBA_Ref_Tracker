@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:52,MIL,Brook Lopez,Defensive 3-Seconds Technical,Foul,Matt Boland,John Goble,Nick Buchert,MIL,2,3,0.594,0.585,10:09
+1,7:16,ORL,Wendell Carter Jr.,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,6,13,0.448,0.446,7:28
+1,5:35,ORL,Franz Wagner,Flagrant Foul Type 1,Foul,Matt Boland,John Goble,Nick Buchert,MIL,8,16,0.403,0.413,5:49
+1,5:35,MIL,Taurean Prince,Technical Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,8,16,0.363,0.398,5:35
+1,5:24,ORL,Paolo Banchero,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,10,17,0.438,0.411,5:35
+1,2:32,MIL,Kyle Kuzma,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,18,24,0.424,0.424,2:40
+2,11:22,ORL,Caleb Houstan,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,20,36,0.175,0.177,11:35
+2,10:55,ORL,Gary Harris,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,20,36,0.172,0.173,10:56
+2,10:00,MIL,Jericho Sims,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,25,36,0.223,0.26,10:17
+2,9:44,MIL,AJ Green,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,25,39,0.173,0.21,9:44
+2,7:29,ORL,Anthony Black,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,32,44,0.285,0.246,7:31
+2,7:17,MIL,AJ Green,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,33,44,0.244,0.243,7:29
+2,6:39,MIL,Kevin Porter Jr.,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,35,44,0.253,0.293,6:48
+2,5:27,MIL,Brook Lopez,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,37,44,0.299,0.344,5:38
+2,3:53,MIL,Brook Lopez,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,39,51,0.178,0.221,3:53
+2,3:31,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,39,52,0.194,0.17,3:34
+2,3:01,ORL,Cole Anthony,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,39,54,0.179,0.148,3:13
+2,2:24,ORL,Jonathan Isaac,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,41,56,0.175,0.142,2:32
+2,1:17,ORL,Franz Wagner,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,44,58,0.189,0.157,1:33
+2,54.0,MIL,Damian Lillard,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,45,58,0.135,0.15,54.0
+2,29.0,ORL,Cole Anthony,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,45,60,0.161,0.128,29.0
+2,4.1,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,47,60,0.207,0.168,5.1
+3,11:29,ORL,Franz Wagner,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,47,62,0.12,0.121,11:35
+3,10:43,MIL,Brook Lopez,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,50,66,0.073,0.097,10:43
+3,10:04,ORL,Paolo Banchero,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,53,69,0.095,0.094,10:11
+3,9:39,MIL,Taurean Prince,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,55,69,0.11,0.108,9:44
+3,9:30,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,55,69,0.108,0.11,9:39
+3,8:01,MIL,Damian Lillard,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,61,69,0.2,0.245,8:13
+3,6:18,ORL,Cole Anthony,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,63,73,0.197,0.201,6:28
+3,4:20,MIL,Taurean Prince,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,68,78,0.115,0.153,4:33
+3,4:11,ORL,Cole Anthony,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,68,80,0.164,0.127,4:20
+3,2:08,MIL,Damian Lillard,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,72,84,0.06,0.117,3:12
+3,1:54,ORL,Paolo Banchero,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,72,85,0.116,0.085,2:05
+3,57.1,ORL,Paolo Banchero,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,74,87,0.107,0.075,1:02
+3,3.1,MIL,Kyle Kuzma,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,76,89,0.034,0.053,14.1
+4,11:12,ORL,Goga Bitadze,Loose Ball Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,78,90,0.081,0.075,11:12
+4,9:12,MIL,Kevin Porter Jr.,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,80,93,0.03,0.032,9:16
+4,8:04,ORL,Goga Bitadze,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,82,97,0.033,0.017,8:11
+4,6:02,MIL,Kevin Porter Jr.,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,95,97,0.252,0.359,6:22
+4,4:58,ORL,Cole Anthony,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,95,102,0.212,0.127,5:03
+4,3:44,ORL,Wendell Carter Jr.,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,97,104,0.188,0.115,4:00
+4,2:28,ORL,Wendell Carter Jr.,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,99,107,0.107,0.061,2:39
+4,2:09,MIL,Damian Lillard,Personal Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,101,107,0.068,0.085,2:28
+4,15.1,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Matt Boland,John Goble,Nick Buchert,MIL,108,111,0.299,0.106,15.1

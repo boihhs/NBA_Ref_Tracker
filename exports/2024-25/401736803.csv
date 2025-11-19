@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:02,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,4,2,0.743,0.743,10:19
+1,9:40,IND,Pascal Siakam,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,4,2,0.787,0.761,9:52
+1,8:36,IND,Myles Turner,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,9,4,0.809,0.811,8:49
+1,5:36,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,9,13,0.54,0.581,5:43
+1,1:09,PHI,Tyrese Maxey,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,21,27,0.447,0.496,1:17
+1,1:02,IND,Johnny Furphy,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,21,28,0.54,0.494,1:04
+1,58.1,IND,Obi Toppin,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,21,28,0.539,0.495,59.1
+1,6.0,PHI,KJ Martin,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,22,30,0.403,0.457,6.0
+2,11:46,PHI,Tyrese Maxey,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,22,31,0.354,0.413,0.0
+2,10:00,IND,T.J. McConnell,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,27,37,0.425,0.379,10:06
+2,9:15,PHI,KJ Martin,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,31,39,0.379,0.434,9:15
+2,7:45,IND,Jarace Walker,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,35,43,0.444,0.389,7:45
+2,6:37,PHI,Jared McCain,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,38,43,0.476,0.477,6:50
+2,6:18,IND,Myles Turner,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,38,43,0.553,0.507,6:26
+2,4:49,IND,Myles Turner,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,40,47,0.479,0.429,4:50
+2,4:05,PHI,Reggie Jackson,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,43,50,0.342,0.389,4:19
+3,9:44,PHI,Jared McCain,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,55,67,0.174,0.176,9:55
+3,9:27,IND,Myles Turner,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,55,67,0.242,0.198,9:37
+3,9:12,PHI,Jared McCain,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,57,67,0.183,0.225,9:27
+3,5:42,IND,Pascal Siakam,Loose Ball Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,65,80,0.09,0.09,5:42
+3,5:24,IND,Andrew Nembhard,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,65,80,0.117,0.09,5:42
+3,5:08,IND,Obi Toppin,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,66,80,0.137,0.103,5:12
+3,2:04,IND,Tyrese Haliburton,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,74,87,0.109,0.075,2:04
+3,1:05,IND,Obi Toppin,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,77,87,0.206,0.157,1:09
+4,11:03,PHI,Jared McCain,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,85,90,0.265,0.272,11:04
+4,10:21,IND,Jarace Walker,Personal Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,85,92,0.229,0.222,10:44
+4,9:55,PHI,Paul George,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,87,92,0.184,0.264,10:10
+4,9:50,IND,Jarace Walker,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,87,93,0.306,0.256,9:50
+4,9:13,IND,Andrew Nembhard,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,88,96,0.249,0.177,9:36
+4,9:02,PHI,Andre Drummond,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,89,96,0.113,0.172,9:13
+4,6:12,IND,Obi Toppin,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,94,102,0.188,0.124,6:27
+4,6:04,PHI,Tyrese Maxey,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,95,102,0.076,0.125,6:12
+4,5:09,IND,Myles Turner,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,95,105,0.089,0.057,5:27
+4,4:31,IND,Bennedict Mathurin,Loose Ball Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,96,105,0.108,0.065,4:31
+4,2:54,PHI,Jared McCain,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,98,112,0.001,0.002,2:54
+4,1:26,IND,Quenton Jackson,Shooting Foul,Foul,Mitchell Ervin,Andy Nagy,Tyler Ricks,PHI,100,117,0.001,0.001,1:31

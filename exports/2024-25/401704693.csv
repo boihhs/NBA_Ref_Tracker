@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:40,LAC,James Harden,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,2,0,0.657,0.657,10:59
+1,10:06,POR,Jerami Grant,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,5,0,0.77,0.741,10:09
+1,8:23,LAC,Ivica Zubac,Loose Ball Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,8,2,0.74,0.74,8:23
+1,5:55,LAC,Terance Mann,Offensive Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,12,8,0.694,0.717,6:13
+1,5:34,LAC,James Harden,Offensive Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,12,8,0.693,0.717,5:35
+1,4:25,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,18,8,0.787,0.816,4:35
+1,2:52,POR,Donovan Clingan,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,18,15,0.726,0.691,3:06
+1,2:03,POR,Donovan Clingan,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,20,17,0.724,0.689,2:20
+1,1:12,POR,Scoot Henderson,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,23,20,0.723,0.688,1:25
+1,1:08,POR,Donovan Clingan,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,25,20,0.751,0.71,1:08
+2,10:56,LAC,Kai Jones,Loose Ball Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,30,24,0.735,0.734,10:56
+2,9:09,POR,Scoot Henderson,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,34,29,0.735,0.735,9:19
+2,7:18,LAC,Kevin Porter Jr.,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,38,34,0.682,0.681,7:21
+2,7:15,LAC,Terance Mann,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,38,34,0.682,0.682,7:18
+2,6:22,POR,Kris Murray,Loose Ball Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,38,38,0.596,0.597,6:22
+2,4:54,LAC,Terance Mann,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,38,42,0.383,0.431,5:06
+2,2:56,LAC,Ivica Zubac,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,43,46,0.403,0.457,3:03
+2,2:27,LAC,Norman Powell,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,43,48,0.335,0.384,2:35
+2,1:29,LAC,Kai Jones,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,43,52,0.212,0.254,1:32
+2,4.0,POR,Deni Avdija,Personal Take Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,48,54,0.423,0.373,24.0
+3,10:59,LAC,Terance Mann,Loose Ball Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,53,57,0.398,0.395,10:59
+3,3:58,LAC,Ivica Zubac,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,80,73,0.74,0.789,4:16
+3,2:29,POR,Toumani Camara,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,80,75,0.765,0.767,2:39
+3,1:22,POR,Rayan Rupert,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,84,77,0.875,0.836,1:28
+3,1:15,LAC,Kris Dunn,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,85,79,0.736,0.806,1:15
+4,10:53,POR,Scoot Henderson,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,88,82,0.833,0.822,11:04
+4,10:12,LAC,Nicolas Batum,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,90,86,0.659,0.756,10:12
+4,9:40,POR,Donovan Clingan,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,90,89,0.622,0.607,10:03
+4,7:26,POR,Deandre Ayton,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,94,92,0.733,0.615,7:26
+4,6:09,POR,Scoot Henderson,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,95,94,0.733,0.631,6:19
+4,5:59,POR,Jerami Grant,Loose Ball Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,95,94,0.734,0.645,5:59
+4,5:18,LAC,Amir Coffey,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,98,94,0.751,0.761,5:37
+4,4:31,LAC,Amir Coffey,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,98,97,0.547,0.571,4:36
+4,4:05,POR,Toumani Camara,Personal Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,98,97,0.738,0.638,4:12
+4,2:57,POR,Deandre Ayton,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,102,102,0.692,0.572,3:19
+4,1:20,POR,Deni Avdija,Shooting Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,105,106,0.633,0.48,1:38
+4,1.0,LAC,Ivica Zubac,Personal Take Foul,Foul,Eric Dalen,Curtis Blair,Michael Smith,LAC,105,106,0.012,0.034,1.0

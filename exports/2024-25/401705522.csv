@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,6:44,CHI,Matas Buzelis,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,10,14,0.37,0.411,7:06
+1,6:19,CHI,Matas Buzelis,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,10,15,0.385,0.382,6:23
+1,6:03,BKN,Nic Claxton,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,10,15,0.448,0.409,6:09
+1,3:39,BKN,Day'Ron Sharpe,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,19,21,0.486,0.487,3:40
+1,3:26,BKN,Keon Johnson,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,19,21,0.526,0.486,3:39
+1,1:51,BKN,Tyrese Martin,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,26,23,0.662,0.622,2:02
+1,1:45,CHI,Zach Collins,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,26,23,0.555,0.595,1:48
+1,1:38,BKN,Tyrese Martin,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,26,24,0.635,0.596,1:45
+2,8:01,CHI,Matas Buzelis,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,38,36,0.522,0.57,8:13
+2,7:35,CHI,Tre Jones,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,38,38,0.459,0.505,7:49
+2,6:16,BKN,Trendon Watford,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,41,42,0.504,0.506,6:26
+2,5:52,BKN,Cam Thomas,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,41,44,0.488,0.443,6:01
+2,4:03,CHI,Coby White,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,49,52,0.409,0.407,4:24
+2,3:54,CHI,Kevin Huerter,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,49,52,0.358,0.407,3:55
+2,3:02,CHI,Julian Phillips,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,54,54,0.453,0.502,3:21
+2,2:50,BKN,D'Angelo Russell,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,54,56,0.469,0.468,3:02
+2,13.1,BKN,D'Angelo Russell,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,62,65,0.483,0.428,16.1
+3,9:25,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,64,71,0.207,0.248,9:43
+3,8:26,BKN,Cameron Johnson,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,64,72,0.294,0.246,8:41
+3,7:32,BKN,Cam Thomas,Flagrant Foul Type 1,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,64,74,0.175,0.182,7:36
+3,5:25,BKN,D'Angelo Russell,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,71,79,0.274,0.224,5:29
+3,4:26,CHI,Nikola Vucevic,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,73,81,0.146,0.187,4:29
+3,3:31,BKN,Trendon Watford,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,76,82,0.339,0.283,3:50
+3,3:27,BKN,Day'Ron Sharpe,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,76,82,0.339,0.339,3:31
+3,1:57,CHI,Julian Phillips,Loose Ball Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,78,85,0.15,0.194,2:01
+3,1:21,CHI,Coby White,Loose Ball Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,78,87,0.098,0.129,1:21
+3,7.1,BKN,Keon Johnson,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,80,92,0.109,0.081,20.1
+4,11:43,CHI,Zach Collins,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,82,92,0.086,0.108,12:00
+4,9:24,BKN,Cameron Johnson,Loose Ball Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,89,92,0.38,0.366,9:24
+4,9:21,BKN,D'Angelo Russell,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,89,92,0.388,0.38,9:24
+4,8:10,BKN,Nic Claxton,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,91,95,0.337,0.316,8:20
+4,8:07,BKN,Cameron Johnson,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,91,95,0.422,0.337,8:10
+4,7:03,CHI,Coby White,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,95,95,0.484,0.505,7:18
+4,6:45,CHI,Patrick Williams,Loose Ball Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,95,95,0.47,0.495,6:45
+4,4:21,BKN,Keon Johnson,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,99,101,0.521,0.408,4:29
+4,3:21,BKN,Nic Claxton,Personal Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,103,101,0.809,0.712,3:30
+4,1:38,BKN,D'Angelo Russell,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,109,103,0.968,0.922,1:38
+4,1:19,CHI,Zach Collins,Loose Ball Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,110,103,0.892,0.959,1:19
+4,1:05,BKN,D'Angelo Russell,Shooting Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,112,105,0.986,0.955,1:05
+4,31.1,BKN,Nic Claxton,Personal Take Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,113,108,0.983,0.947,37.1
+4,14.0,BKN,Nic Claxton,Personal Take Foul,Foul,Zach Zarba,Natalie Sago,Robert Hussey,CHI,114,110,0.984,0.946,16.1

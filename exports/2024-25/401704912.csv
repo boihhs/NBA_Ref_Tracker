@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:14,MIA,Haywood Highsmith,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,3,0,0.675,0.707,11:38
+1,9:47,PHX,Royce O'Neale,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,5,5,0.66,0.659,9:55
+1,9:46,PHX,Devin Booker,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,5,5,0.659,0.66,9:47
+1,8:37,MIA,Duncan Robinson,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,7,7,0.633,0.632,8:40
+1,8:04,PHX,Mason Plumlee,Offensive Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,9,7,0.7,0.678,8:12
+1,3:56,MIA,Tyler Herro,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,17,13,0.715,0.714,4:09
+1,3:32,PHX,Josh Okogie,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,17,15,0.724,0.69,3:44
+1,38.0,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,26,26,0.582,0.632,38.0
+1,4.1,MIA,Dru Smith,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,26,27,0.534,0.574,18.0
+2,11:44,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,26,29,0.516,0.532,12:00
+2,10:28,MIA,Dru Smith,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,29,31,0.519,0.539,10:28
+2,7:34,MIA,Duncan Robinson,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,37,38,0.513,0.559,7:51
+2,1:16,PHX,Monte Morris,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,51,52,0.616,0.565,1:16
+2,2.1,MIA,Haywood Highsmith,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,53,58,0.333,0.385,10.1
+3,11:20,PHX,Tyus Jones,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,53,58,0.413,0.412,11:20
+3,10:24,PHX,Mason Plumlee,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,57,60,0.537,0.482,10:26
+3,9:40,PHX,Devin Booker,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,60,60,0.588,0.589,9:40
+3,9:30,PHX,Mason Plumlee,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,60,60,0.614,0.588,9:30
+3,8:43,MIA,Haywood Highsmith,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,64,60,0.69,0.69,8:52
+3,8:18,PHX,Bradley Beal,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,64,60,0.768,0.722,8:34
+3,7:22,PHX,Bradley Beal,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,65,60,0.798,0.754,7:37
+3,6:57,MIA,Tyler Herro,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,67,60,0.739,0.787,7:00
+3,5:31,MIA,Bam Adebayo,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,72,62,0.832,0.864,5:44
+3,2:22,PHX,Royce O'Neale,Technical Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,81,71,0.918,0.904,2:22
+3,1:54,MIA,Jimmy Butler III,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,84,71,0.914,0.937,2:09
+3,1:13,PHX,Monte Morris,Loose Ball Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,84,75,0.92,0.893,1:13
+3,55.1,PHX,Monte Morris,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,85,77,0.904,0.868,1:02
+4,10:59,MIA,Bam Adebayo,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,91,84,0.816,0.825,11:05
+4,10:51,MIA,Bam Adebayo,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,91,84,0.751,0.816,10:59
+4,10:09,PHX,Bradley Beal,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,91,86,0.795,0.786,10:17
+4,8:50,MIA,Duncan Robinson,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,95,86,0.838,0.892,9:09
+4,8:32,MIA,Dru Smith,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,95,87,0.803,0.862,8:42
+4,7:42,MIA,Dru Smith,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,98,87,0.908,0.938,8:00
+4,3:41,PHX,Bradley Beal,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,108,100,0.963,0.923,3:41
+4,3:25,MIA,Tyler Herro,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,109,100,0.912,0.949,3:41
+4,3:14,PHX,Mason Plumlee,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,111,102,0.982,0.955,3:14
+4,1:32,PHX,Royce O'Neale,Shooting Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,117,107,0.998,0.993,1:41
+4,54.1,MIA,Dru Smith,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,119,109,0.983,0.994,1:00
+4,51.1,PHX,Devin Booker,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,119,111,0.997,0.991,54.1
+4,38.1,PHX,Grayson Allen,Personal Foul,Foul,John Goble,Dedric Taylor,Brandon Adair,MIA,119,111,0.998,0.98,49.0

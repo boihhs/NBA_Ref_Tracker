@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:31,DET,Jalen Duren,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,0,0,0.39,0.429,11:38
+1,11:10,DET,Tobias Harris,Offensive Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,0,1,0.402,0.428,11:29
+1,9:41,DET,Jaden Ivey,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,3,3,0.432,0.43,9:45
+1,7:23,DET,Jaden Ivey,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,15,7,0.642,0.639,7:38
+1,2:14,LAL,Max Christie,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,23,20,0.593,0.55,2:25
+1,51.0,LAL,Max Christie,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,28,22,0.679,0.636,53.0
+2,11:47,DET,Simone Fontecchio,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,33,22,0.745,0.753,12:00
+2,11:14,DET,Ronald Holland II,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,35,22,0.759,0.792,11:24
+2,10:38,DET,Isaiah Stewart,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,35,26,0.682,0.728,10:38
+2,7:19,DET,Malik Beasley,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,45,33,0.755,0.79,7:23
+2,6:09,LAL,Anthony Davis,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,51,37,0.872,0.838,6:09
+2,5:24,LAL,D'Angelo Russell,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,52,39,0.84,0.842,5:29
+2,5:04,LAL,Dalton Knecht,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,52,39,0.871,0.843,5:07
+2,4:51,DET,Jalen Duren,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,54,39,0.834,0.863,5:04
+2,4:35,LAL,Cam Reddish,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,54,41,0.874,0.843,4:51
+2,4:35,LAL,D'Angelo Russell,Technical Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,54,41,0.861,0.874,4:35
+2,4:10,DET,Cade Cunningham,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,58,41,0.875,0.897,4:32
+2,2:16,DET,Tobias Harris,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,62,44,0.9,0.92,2:20
+2,1:57,DET,Jalen Duren,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,62,47,0.864,0.895,1:57
+3,11:49,LAL,Austin Reaves,Offensive Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,67,53,0.89,0.878,12:00
+3,11:39,LAL,D'Angelo Russell,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,67,53,0.892,0.89,11:49
+3,9:13,LAL,Austin Reaves,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,72,58,0.926,0.904,9:38
+3,9:01,DET,Tobias Harris,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,74,58,0.922,0.921,9:13
+3,6:33,LAL,Rui Hachimura,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,77,61,0.947,0.947,6:43
+3,4:43,DET,Simone Fontecchio,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,81,63,0.951,0.965,4:45
+3,3:59,DET,Simone Fontecchio,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,81,65,0.951,0.949,4:01
+3,3:57,DET,Malik Beasley,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,81,65,0.931,0.951,3:59
+3,2:35,DET,Simone Fontecchio,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,81,68,0.886,0.916,2:46
+3,2:19,LAL,Cam Reddish,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,81,70,0.928,0.899,2:35
+4,10:19,DET,Tobias Harris,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,87,77,0.842,0.894,10:35
+4,9:55,DET,Jaden Ivey,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,89,80,0.833,0.897,9:55
+4,9:22,DET,Isaiah Stewart,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,91,82,0.833,0.899,9:22
+4,7:53,LAL,Austin Reaves,Offensive Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,93,83,0.933,0.908,8:01
+4,6:53,LAL,LeBron James,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,95,86,0.943,0.925,6:53
+4,6:53,LAL,Austin Reaves,Technical Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,95,86,0.941,0.943,6:53
+4,6:14,LAL,Anthony Davis,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,97,88,0.962,0.93,6:36
+4,5:38,DET,Malik Beasley,Personal Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,101,90,0.927,0.957,5:49
+4,5:34,DET,Jalen Duren,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,101,90,0.928,0.927,5:38
+4,5:15,DET,Jalen Duren,Loose Ball Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,101,92,0.874,0.922,5:15
+4,5:03,LAL,Austin Reaves,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,103,94,0.963,0.925,5:03
+4,3:19,LAL,Rui Hachimura,Shooting Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,105,98,0.964,0.928,3:27
+4,2:43,DET,Isaiah Stewart,Loose Ball Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,106,98,0.898,0.945,2:43
+4,2:43,DET,Isaiah Stewart,Technical Foul,Foul,Brian Forte,Sean Corbin,Jonathan Sterling,DET,106,98,0.925,0.898,2:43

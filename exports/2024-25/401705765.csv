@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:16,LAL,Markieff Morris,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,7,0,0.781,0.75,9:16
+1,8:37,LAL,Alex Len,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,11,2,0.817,0.787,8:37
+1,7:53,LAL,Markieff Morris,Loose Ball Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,11,2,0.804,0.805,7:53
+1,7:44,LAL,Alex Len,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,11,2,0.829,0.804,7:53
+1,7:12,POR,Dalano Banton,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,13,2,0.821,0.821,7:22
+1,6:33,POR,Donovan Clingan,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,13,4,0.756,0.788,6:38
+1,5:41,LAL,Alex Len,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,13,9,0.736,0.704,5:46
+1,5:01,POR,Donovan Clingan,Double Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,16,12,0.68,0.679,5:05
+1,4:11,POR,Toumani Camara,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,19,12,0.713,0.747,4:20
+1,4:02,POR,Rayan Rupert,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,19,12,0.713,0.713,4:11
+1,3:32,POR,Rayan Rupert,Loose Ball Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,19,14,0.666,0.704,5:44
+1,1:05,LAL,Christian Koloko,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,23,20,0.712,0.673,1:18
+1,0.1,LAL,Christian Koloko,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,27,25,0.69,0.652,24.1
+2,10:21,LAL,Bronny James,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,31,27,0.701,0.703,10:31
+2,8:59,LAL,Shake Milton,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,33,31,0.647,0.648,9:25
+2,8:34,POR,Justin Minaya,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,35,31,0.631,0.672,8:51
+2,4:56,POR,Matisse Thybulle,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,48,42,0.727,0.727,5:11
+2,4:09,LAL,Alex Len,Offensive Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,51,42,0.824,0.799,4:28
+2,3:57,LAL,Shake Milton,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,51,42,0.823,0.824,4:09
+2,3:27,POR,Dalano Banton,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,52,42,0.824,0.824,3:44
+2,1:01,LAL,Trey Jemison III,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,54,42,0.909,0.887,1:05
+2,58.2,LAL,Markieff Morris,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,54,42,0.909,0.909,1:01
+2,58.2,LAL,Markieff Morris,Technical Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,56,42,0.925,0.925,58.2
+2,2.1,POR,Toumani Camara,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,58,42,0.91,0.93,4.0
+3,11:00,POR,Toumani Camara,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,60,43,0.928,0.944,11:02
+3,8:50,LAL,Alex Len,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,65,45,0.985,0.979,8:58
+3,8:39,POR,Matisse Thybulle,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,67,45,0.977,0.983,8:50
+3,6:03,LAL,Markieff Morris,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,75,53,0.992,0.988,6:03
+3,5:41,POR,Donovan Clingan,Offensive Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,75,53,0.989,0.991,5:47
+3,4:17,LAL,Alex Len,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,81,55,0.998,0.997,4:17
+3,2:07,POR,Rayan Rupert,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,84,57,0.998,0.998,2:12
+4,9:16,LAL,Trey Jemison III,Offensive Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,95,68,0.999,0.999,9:19
+4,6:15,LAL,Dalton Knecht,Shooting Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,101,72,0.999,0.999,6:15
+4,5:55,POR,Rayan Rupert,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,102,72,0.999,0.999,6:15
+4,3:36,LAL,Trey Jemison III,Personal Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,105,74,0.999,0.999,3:46
+4,1:38,POR,Rayan Rupert,Loose Ball Foul,Foul,David Guthrie,Nick Buchert,Evan Scott,POR,107,81,0.999,0.999,1:38

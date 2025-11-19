@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:04,PHI,Tyrese Maxey,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,5,6,0.45,0.464,10:10
+1,8:36,PHI,Paul George,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,8,11,0.38,0.416,8:40
+1,8:26,CHI,Zach Collins,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,8,13,0.428,0.391,8:36
+1,8:00,CHI,Lonzo Ball,Personal Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,10,16,0.366,0.367,8:00
+1,7:34,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,12,16,0.353,0.389,7:46
+1,5:38,CHI,Matas Buzelis,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,16,21,0.427,0.386,5:42
+1,5:20,PHI,Andre Drummond,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,18,21,0.393,0.413,5:38
+1,4:33,PHI,Andre Drummond,Offensive Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,21,23,0.44,0.466,4:40
+1,3:40,CHI,Zach Collins,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,21,27,0.398,0.359,3:49
+1,3:20,PHI,Lonnie Walker IV,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,22,29,0.288,0.333,3:20
+1,2:14,PHI,Tyrese Maxey,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,24,30,0.29,0.33,2:28
+1,1:57,CHI,Julian Phillips,Loose Ball Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,24,32,0.343,0.306,1:57
+1,1:29,PHI,Quentin Grimes,Loose Ball Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,26,32,0.288,0.328,1:37
+1,1:15,CHI,Dalen Terry,Loose Ball Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,26,33,0.368,0.327,1:15
+1,3.1,PHI,Andre Drummond,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,30,38,0.253,0.297,3.1
+2,7:49,PHI,Guerschon Yabusele,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,34,48,0.11,0.133,8:05
+2,7:19,PHI,Paul George,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,34,50,0.081,0.102,7:30
+2,5:55,CHI,Zach Collins,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,37,55,0.103,0.083,6:07
+2,2:16,CHI,Josh Giddey,Personal Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,48,69,0.041,0.041,2:25
+2,21.2,CHI,Coby White,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,57,73,0.097,0.072,21.2
+2,1.0,PHI,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,58,73,0.067,0.086,21.2
+3,11:20,CHI,Josh Giddey,Personal Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,58,78,0.038,0.039,11:38
+3,11:14,CHI,Matas Buzelis,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,58,78,0.052,0.038,11:20
+3,8:57,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,61,85,0.008,0.01,8:57
+3,8:25,CHI,Josh Giddey,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,63,87,0.017,0.012,8:33
+3,6:37,PHI,Adem Bona,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,65,93,0.001,0.003,6:46
+3,5:53,CHI,Kevin Huerter,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,65,95,0.001,0.001,5:53
+3,5:32,PHI,Adem Bona,Personal Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,67,95,0.001,0.001,5:53
+3,5:00,CHI,Josh Giddey,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,67,97,0.001,0.001,5:10
+3,1:01,CHI,Dalen Terry,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,73,109,0.001,0.001,1:11
+3,54.0,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,75,109,0.001,0.001,1:01
+3,54.0,PHI,Kelly Oubre Jr.,Away from Play Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,75,109,0.001,0.001,54.0
+3,27.0,PHI,Jared Butler,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,75,112,0.001,0.001,31.1
+3,3.1,CHI,Dalen Terry,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,75,113,0.001,0.001,24.1
+3,2.1,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,76,113,0.001,0.001,3.1
+4,10:40,PHI,Jared Butler,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,76,117,0.001,0.001,10:54
+4,9:56,PHI,David Roddy,Technical Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,76,121,0.001,0.001,9:57
+4,7:02,CHI,Kevin Huerter,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,82,130,0.001,0.001,7:18
+4,4:44,PHI,Jeff Dowtin Jr.,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,91,136,0.001,0.001,4:55
+4,4:16,CHI,Talen Horton-Tucker,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,91,138,0.001,0.001,4:18
+4,2:39,CHI,Talen Horton-Tucker,Loose Ball Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,98,138,0.001,0.001,2:39
+4,2:14,PHI,Adem Bona,Personal Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,101,138,0.001,0.001,2:28
+4,2:02,PHI,Adem Bona,Shooting Foul,Foul,Tre Maddox,CJ Washington,Tyler Ford,PHI,101,138,0.001,0.001,2:14

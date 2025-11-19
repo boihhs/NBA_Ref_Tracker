@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:57,CLE,Dean Wade,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,3,2,0.733,0.733,11:15
+1,6:02,CLE,Evan Mobley,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,15,19,0.572,0.618,6:02
+1,4:49,DET,Isaiah Stewart,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,20,19,0.76,0.73,4:57
+1,2:27,DET,Isaiah Stewart,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,24,27,0.662,0.624,2:48
+1,12.1,DET,Isaiah Stewart,Offensive Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,28,29,0.663,0.638,30.0
+2,10:19,CLE,Georges Niang,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,31,33,0.598,0.598,10:28
+2,7:46,DET,Malik Beasley,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,35,38,0.627,0.586,7:56
+2,6:04,CLE,Darius Garland,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,42,42,0.612,0.664,6:04
+2,3:55,DET,Jalen Duren,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,50,48,0.749,0.711,4:02
+2,2:19,DET,Jalen Duren,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,57,53,0.759,0.76,2:32
+2,1:47,CLE,Donovan Mitchell,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,59,53,0.744,0.783,2:07
+2,1:32,DET,Jaden Ivey,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,59,53,0.837,0.806,1:32
+2,34.0,DET,Jalen Duren,Loose Ball Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,61,53,0.875,0.845,34.0
+3,11:07,DET,Jaden Ivey,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,65,55,0.897,0.887,11:07
+3,10:07,CLE,Darius Garland,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,67,57,0.839,0.869,10:15
+3,9:18,DET,Cade Cunningham,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,69,60,0.872,0.872,9:31
+3,8:39,DET,Jaden Ivey,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,72,62,0.889,0.89,8:52
+3,8:35,DET,Jaden Ivey,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,72,62,0.913,0.889,8:39
+3,8:12,DET,Jalen Duren,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,72,62,0.914,0.89,8:12
+3,7:41,CLE,Donovan Mitchell,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,73,62,0.863,0.891,7:45
+3,7:33,DET,Tim Hardaway Jr.,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,73,64,0.9,0.875,7:41
+3,7:25,CLE,Donovan Mitchell,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,75,64,0.892,0.892,7:33
+3,6:24,DET,Isaiah Stewart,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,77,66,0.923,0.896,6:24
+3,5:32,CLE,Caris LeVert,Technical Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,79,68,0.884,0.899,5:34
+3,5:21,CLE,Jarrett Allen,Defensive 3-Seconds Technical,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,79,69,0.886,0.88,5:32
+3,41.1,DET,Ronald Holland II,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,88,79,0.917,0.88,41.1
+3,8.0,DET,Cade Cunningham,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,88,79,0.932,0.905,26.1
+4,12:00,DET,Cade Cunningham,Technical Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,91,79,0.962,0.948,12:00
+4,11:12,CLE,Sam Merrill,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,92,79,0.954,0.956,11:12
+4,11:05,CLE,Caris LeVert,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,92,81,0.907,0.946,11:05
+4,9:33,CLE,Georges Niang,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,94,85,0.884,0.893,9:33
+4,9:33,CLE,Georges Niang,Double Technical Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,94,85,0.898,0.884,9:33
+4,8:26,CLE,Isaac Okoro,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,96,85,0.904,0.939,8:40
+4,7:51,CLE,Isaac Okoro,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,98,86,0.931,0.955,7:59
+4,7:38,DET,Tobias Harris,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,98,88,0.965,0.941,7:51
+4,7:26,CLE,Dean Wade,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,99,88,0.915,0.944,7:38
+4,7:03,CLE,Isaac Okoro,Loose Ball Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,99,90,0.863,0.909,7:03
+4,2:17,DET,Jalen Duren,Loose Ball Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,111,99,0.997,0.996,2:31
+4,1:27,DET,Cade Cunningham,Personal Take Foul,Foul,Ed Malloy,Dedric Taylor,Che Flores,CLE,111,99,0.999,0.998,1:30

@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:52,LAL,Deandre Ayton,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,2,2,0.617,0.578,10:00
+1,8:57,MIL,Giannis Antetokounmpo,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,3,2,0.578,0.607,9:00
+1,8:00,MIL,Myles Turner,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,5,6,0.506,0.553,8:00
+1,7:35,MIL,Kyle Kuzma,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,8,7,0.579,0.577,7:42
+1,6:28,LAL,Jake LaRavia,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,8,13,0.441,0.443,6:46
+1,6:01,MIL,Ryan Rollins,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,8,13,0.375,0.413,6:18
+1,5:08,MIL,Kyle Kuzma,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,8,16,0.316,0.361,5:08
+1,3:27,LAL,Austin Reaves,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,10,19,0.328,0.327,3:41
+1,3:12,MIL,Bobby Portis,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,10,19,0.265,0.301,3:14
+1,20.1,MIL,Cole Anthony,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,18,28,0.229,0.262,35.7
+2,11:27,LAL,Maxi Kleber,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,18,32,0.223,0.191,11:38
+2,10:55,LAL,Maxi Kleber,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,20,34,0.148,0.288,1:51
+2,8:23,LAL,Deandre Ayton,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,24,38,0.209,0.176,8:43
+1,1:48,MIL,Jericho Sims,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,13,25,0.209,0.197,8:23
+2,8:12,LAL,Austin Reaves,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,26,38,0.218,0.209,1:48
+2,7:23,LAL,Jake LaRavia,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,29,38,0.332,0.291,7:31
+2,6:05,MIL,Bobby Portis,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,30,42,0.155,0.182,6:07
+2,5:10,LAL,Maxi Kleber,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,30,45,0.171,0.138,5:13
+2,4:06,MIL,Myles Turner,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,31,47,0.081,0.1,4:15
+2,3:04,LAL,Jaxson Hayes,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,31,52,0.065,0.052,3:19
+2,35.1,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,32,61,0.003,0.005,43.1
+2,20.8,LAL,Jake LaRavia,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,32,63,0.006,0.004,35.1
+3,11:07,MIL,Kyle Kuzma,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,36,65,0.002,0.004,11:18
+3,8:01,MIL,Kyle Kuzma,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,54,70,0.044,0.061,8:16
+3,7:28,MIL,Ryan Rollins,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,54,72,0.038,0.046,7:42
+3,7:07,LAL,Jake LaRavia,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,54,74,0.029,0.03,7:18
+3,6:20,LAL,Austin Reaves,Loose Ball Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,54,76,0.016,0.016,6:20
+3,5:52,LAL,Deandre Ayton,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,54,76,0.022,0.015,5:54
+3,4:14,MIL,Myles Turner,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,60,78,0.017,0.025,4:30
+3,3:25,LAL,Deandre Ayton,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,60,80,0.026,0.018,3:39
+3,2:55,LAL,Maxi Kleber,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,62,83,0.018,0.012,3:02
+3,2:38,MIL,Cole Anthony,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,64,83,0.01,0.015,2:55
+3,10.8,LAL,Luka Doncic,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,72,90,0.025,0.017,30.9
+4,8:15,MIL,Gary Trent Jr.,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,81,94,0.022,0.025,8:25
+4,6:20,LAL,Deandre Ayton,Offensive Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,84,100,0.006,0.007,6:51
+4,5:01,MIL,Gary Harris,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,87,103,0.004,0.002,5:12
+4,4:53,LAL,Maxi Kleber,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,87,105,0.002,0.001,5:01
+4,4:44,MIL,Gary Trent Jr.,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,88,105,0.001,0.001,4:53
+4,4:03,MIL,Gary Trent Jr.,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,88,105,0.001,0.001,4:09
+4,3:35,MIL,Kyle Kuzma,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,88,107,0.001,0.001,3:45
+4,2:53,LAL,Austin Reaves,Personal Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,88,110,0.001,0.001,2:53
+4,1:21,MIL,Andre Jackson Jr.,Shooting Foul,Foul,Pat Fraher,Kevin Cutler,Brandon Adair,MIL,93,110,0.001,0.001,1:22

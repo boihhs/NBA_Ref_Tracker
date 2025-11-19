@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:47,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,5,4,0.575,0.542,9:50
+1,9:32,CHI,Nikola Vucevic,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,6,4,0.5,0.538,9:47
+1,9:26,DAL,Kai Jones,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,6,5,0.575,0.537,9:32
+1,8:06,CHI,Kevin Huerter,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,12,5,0.664,0.664,8:08
+1,7:25,CHI,Patrick Williams,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,14,11,0.545,0.59,7:25
+1,6:36,DAL,Spencer Dinwiddie,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,16,13,0.591,0.592,6:38
+1,4:29,CHI,Kevin Huerter,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,20,19,0.472,0.512,4:32
+1,3:41,DAL,Jaden Hardy,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,20,23,0.452,0.431,3:55
+1,3:13,CHI,Patrick Williams,Offensive Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,21,25,0.377,0.403,3:14
+1,1:41,DAL,Max Christie,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,23,28,0.415,0.376,1:42
+1,31.2,DAL,Caleb Martin,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,29,30,0.531,0.484,36.1
+2,9:23,CHI,Dalen Terry,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,42,32,0.725,0.764,9:24
+2,7:27,CHI,Julian Phillips,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,45,34,0.758,0.792,7:38
+2,3:21,DAL,P.J. Washington,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,50,53,0.466,0.418,3:31
+2,2:19,DAL,Dwight Powell,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,52,53,0.535,0.482,2:23
+2,2:19,CHI,CHI,Technical Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,52,53,0.422,0.535,2:19
+2,1:15,CHI,Josh Giddey,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,53,54,0.399,0.445,1:27
+2,40.0,DAL,Dwight Powell,Loose Ball Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,53,56,0.466,0.414,40.0
+3,10:03,CHI,Nikola Vucevic,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,59,65,0.25,0.303,10:03
+3,7:59,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,61,70,0.248,0.204,8:12
+3,6:30,CHI,Nikola Vucevic,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,69,74,0.289,0.288,6:42
+3,5:26,DAL,P.J. Washington,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,75,76,0.511,0.437,5:26
+3,4:36,CHI,Julian Phillips,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,76,80,0.317,0.314,4:36
+3,4:26,CHI,Dalen Terry,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,76,80,0.259,0.317,4:36
+3,1:55,DAL,Dwight Powell,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,84,82,0.648,0.572,1:55
+3,1:18,CHI,Zach Collins,Defensive 3-Seconds Technical,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,85,84,0.534,0.522,1:26
+3,1:09,CHI,Zach Collins,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,85,85,0.403,0.478,1:18
+4,11:19,CHI,Matas Buzelis,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,87,91,0.206,0.328,11:23
+4,11:07,DAL,P.J. Washington,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,87,93,0.244,0.232,11:19
+4,10:02,DAL,Anthony Davis,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,87,93,0.309,0.227,10:05
+4,9:08,CHI,Zach Collins,Shooting Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,89,97,0.091,0.151,9:08
+4,9:00,DAL,P.J. Washington,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,89,98,0.123,0.115,9:08
+4,7:16,DAL,Kai Jones,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,94,100,0.288,0.205,7:18
+4,3:17,DAL,Naji Marshall,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,101,112,0.039,0.019,3:20
+4,8.1,DAL,Anthony Davis,Personal Take Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,115,118,0.355,0.189,10.1
+4,7.1,CHI,Dalen Terry,Personal Take Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,116,118,0.045,0.144,8.1
+4,6.1,CHI,Dalen Terry,Personal Foul,Foul,Mitchell Ervin,Nick Buchert,Matt Kallio,CHI,116,118,0.04,0.045,7.1

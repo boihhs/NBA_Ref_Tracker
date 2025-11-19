@@ -1,0 +1,54 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:21,DAL,Max Christie,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,0,2,0.477,0.515,10:23
+1,7:58,IND,Isaiah Jackson,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,4,7,0.528,0.508,7:58
+1,7:36,DAL,P.J. Washington,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,5,7,0.469,0.507,7:38
+1,7:17,IND,Pascal Siakam,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,7,9,0.553,0.506,7:17
+1,6:46,DAL,P.J. Washington,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,8,12,0.414,0.451,6:50
+1,5:03,IND,Quenton Jackson,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,10,17,0.394,0.394,5:08
+1,5:00,IND,Jarace Walker,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,10,17,0.434,0.394,5:03
+1,2:43,DAL,Dwight Powell,Offensive Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,17,23,0.384,0.413,3:03
+1,1:34,DAL,Naji Marshall,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,20,26,0.337,0.38,1:46
+1,48.8,IND,RayJ Dennis,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,22,30,0.392,0.354,59.4
+2,10:35,DAL,Caleb Martin,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,27,34,0.319,0.367,10:35
+2,10:26,IND,Mac McClung,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,27,34,0.367,0.368,10:31
+2,9:10,DAL,Brandon Williams,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,27,36,0.279,0.279,9:18
+2,9:03,DAL,Naji Marshall,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,27,36,0.243,0.279,9:10
+2,8:10,IND,Jarace Walker,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,29,40,0.29,0.249,8:14
+2,7:55,DAL,Brandon Williams,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,31,43,0.186,0.224,7:55
+2,7:34,DAL,Naji Marshall,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,33,44,0.189,0.224,7:43
+2,6:35,IND,Isaiah Jackson,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,35,48,0.228,0.196,6:41
+2,5:31,DAL,Dwight Powell,Defensive 3-Seconds Technical,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,41,50,0.267,0.26,5:40
+2,2:45,IND,RayJ Dennis,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,48,52,0.478,0.43,3:02
+2,1:46,IND,Isaiah Jackson,Offensive Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,50,52,0.493,0.459,1:53
+2,51.9,DAL,Cooper Flagg,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,50,54,0.337,0.385,1:04
+2,24.5,IND,Aaron Nesmith,Loose Ball Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,50,55,0.436,0.385,24.5
+3,11:07,IND,Isaiah Jackson,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,54,55,0.575,0.519,11:17
+3,9:57,IND,Ben Sheppard,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,57,55,0.652,0.591,9:57
+3,9:26,DAL,Dwight Powell,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,58,55,0.572,0.626,9:28
+3,8:37,DAL,P.J. Washington,Loose Ball Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,60,60,0.515,0.514,8:37
+3,7:04,DAL,Max Christie,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,62,64,0.404,0.472,7:04
+3,6:22,IND,Jay Huff,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,64,64,0.581,0.552,6:23
+3,4:18,IND,Quenton Jackson,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,68,66,0.689,0.631,4:30
+3,4:09,IND,Ben Sheppard,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,68,66,0.69,0.689,4:18
+3,3:26,DAL,D'Angelo Russell,Double Technical Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,71,68,0.643,0.674,3:32
+3,3:18,DAL,Dwight Powell,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,71,68,0.568,0.635,3:19
+3,2:13,IND,Mac McClung,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,71,68,0.737,0.678,2:21
+3,21.6,IND,Mac McClung,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,78,72,0.85,0.805,25.2
+3,5.7,DAL,Dwight Powell,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,79,72,0.747,0.801,21.6
+4,9:28,IND,Pascal Siakam,Offensive Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,85,76,0.914,0.886,9:50
+4,9:12,IND,Tony Bradley,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,87,76,0.97,0.936,9:12
+4,8:05,DAL,Cooper Flagg,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,88,81,0.833,0.844,8:07
+4,7:48,IND,Ben Sheppard,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,88,83,0.815,0.802,7:54
+4,7:39,IND,Aaron Nesmith,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,90,83,0.911,0.849,7:39
+4,5:55,IND,Jarace Walker,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,93,85,0.96,0.93,6:12
+4,5:46,DAL,DAL,Delay Technical,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,95,85,0.958,0.953,5:46
+4,5:33,DAL,P.J. Washington,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,95,87,0.887,0.941,5:33
+4,5:11,DAL,P.J. Washington,Offensive Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,95,87,0.919,0.94,5:32
+4,4:16,DAL,D'Angelo Russell,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,99,87,0.983,0.985,4:21
+4,3:41,IND,RayJ Dennis,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,99,90,0.986,0.972,3:44
+4,2:58,IND,Tony Bradley,Loose Ball Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,100,93,0.974,0.951,2:58
+4,2:12,IND,Tony Bradley,Loose Ball Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,101,96,0.953,0.917,2:12
+4,1:14,IND,Pascal Siakam,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,103,99,0.949,0.89,1:31
+4,1:08,DAL,Max Christie,Shooting Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,105,99,0.841,0.931,1:14
+4,1:05,IND,Quenton Jackson,Personal Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,105,101,0.941,0.879,1:08
+4,3.4,DAL,Brandon Williams,Personal Take Foul,Foul,Mark Lindsay,CJ Washington,Ray Acosta,DAL,107,104,0.87,0.884,7.0

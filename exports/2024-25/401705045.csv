@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:57,MIN,Rudy Gobert,Personal Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,2,2,0.406,0.404,11:18
+1,10:32,MIN,Mike Conley,Personal Take Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,5,2,0.48,0.484,10:36
+1,9:50,DET,Jalen Duren,Defensive 3-Seconds Technical,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,7,2,0.519,0.51,10:02
+1,9:16,DET,Tobias Harris,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,7,3,0.45,0.488,9:21
+1,7:38,MIN,Jaden McDaniels,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,11,6,0.566,0.521,7:38
+1,1:44,DET,Cade Cunningham,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,28,23,0.444,0.484,1:53
+1,1:17,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,28,24,0.586,0.545,1:25
+1,18.1,DET,Ronald Holland II,Personal Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,31,27,0.476,0.522,18.1
+2,8:27,DET,Ronald Holland II,Offensive Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,44,28,0.848,0.865,8:31
+2,7:34,DET,Tim Hardaway Jr.,Personal Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,46,28,0.888,0.886,7:52
+2,5:47,DET,Tobias Harris,Offensive Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,46,31,0.844,0.862,6:05
+2,3:34,MIN,Julius Randle,Offensive Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,49,35,0.857,0.836,3:41
+2,3:19,DET,Jalen Duren,Loose Ball Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,49,35,0.837,0.839,3:19
+2,2:07,DET,Jalen Duren,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,52,35,0.877,0.9,2:20
+2,1:47,DET,Tobias Harris,Offensive Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,52,37,0.87,0.885,2:07
+2,1:19,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,52,37,0.912,0.889,1:21
+3,11:18,DET,Tobias Harris,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,55,45,0.748,0.797,11:18
+3,9:08,MIN,Jaden McDaniels,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,65,48,0.956,0.942,9:10
+3,8:57,DET,Cade Cunningham,Personal Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,67,48,0.953,0.952,9:08
+3,8:44,MIN,Julius Randle,Loose Ball Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,67,48,0.962,0.963,8:44
+3,8:18,MIN,Jaden McDaniels,Offensive Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,67,48,0.964,0.955,8:19
+3,8:03,MIN,Jaden McDaniels,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,67,48,0.974,0.964,8:18
+3,7:55,DET,Ausar Thompson,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,69,50,0.95,0.966,7:55
+3,7:41,MIN,Anthony Edwards,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,71,51,0.976,0.966,7:41
+3,7:11,DET,Cade Cunningham,Personal Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,72,54,0.932,0.949,7:14
+3,6:10,MIN,Julius Randle,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,75,57,0.974,0.963,6:32
+3,4:28,DET,Malik Beasley,Personal Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,81,61,0.967,0.977,4:32
+3,3:30,DET,Jalen Duren,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,86,66,0.971,0.98,3:39
+3,2:44,MIN,Naz Reid,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,88,68,0.992,0.986,3:00
+3,2:13,DET,Isaiah Stewart,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,92,70,0.99,0.994,2:13
+3,1:44,DET,Ausar Thompson,Personal Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,92,71,0.984,0.99,1:49
+3,1:24,DET,Isaiah Stewart,Technical Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,94,72,0.992,0.993,1:26
+4,11:08,DET,Marcus Sasser,Loose Ball Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,96,83,0.938,0.941,11:08
+4,10:48,MIN,Anthony Edwards,Personal Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,96,85,0.933,0.928,10:55
+4,10:07,DET,Tobias Harris,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,99,85,0.936,0.962,10:09
+4,8:36,MIN,Julius Randle,Personal Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,104,90,0.98,0.978,8:49
+4,8:12,DET,Jalen Duren,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,106,90,0.981,0.987,8:12
+4,7:33,MIN,Naz Reid,Loose Ball Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,106,92,0.984,0.983,7:33
+4,7:16,DET,Jalen Duren,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,106,92,0.961,0.978,7:25
+4,6:58,MIN,Anthony Edwards,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,106,94,0.983,0.967,7:16
+4,6:41,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,108,94,0.992,0.986,6:45
+4,4:50,DET,Isaiah Stewart,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,112,96,0.994,0.997,4:50
+4,3:18,MIN,Donte DiVincenzo,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,112,99,0.998,0.995,3:35
+4,2:42,MIN,Rudy Gobert,Shooting Foul,Foul,Eric Dalen,Karl Lane,Brett Nansel,DET,114,99,0.999,0.999,3:00

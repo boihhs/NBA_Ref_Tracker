@@ -1,0 +1,42 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:39,SAC,DeMar DeRozan,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,2,7,0.369,0.37,9:45
+1,7:04,SAC,De'Aaron Fox,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,6,20,0.173,0.172,7:12
+1,6:26,SAC,Jae Crowder,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,6,20,0.147,0.171,6:33
+1,5:11,SAC,DeMar DeRozan,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,9,24,0.128,0.151,5:31
+1,4:47,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,9,26,0.099,0.12,4:51
+1,4:29,DEN,Russell Westbrook,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,9,28,0.106,0.108,4:47
+1,2:56,SAC,Colby Jones,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,13,32,0.08,0.101,2:56
+1,2:34,DEN,Peyton Watson,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,13,32,0.12,0.087,2:40
+1,2:40,DEN,Hunter Tyson,Loose Ball Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,13,32,0.1,0.113,2:34
+1,1:53,SAC,Isaac Jones,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,17,34,0.09,0.111,2:07
+1,23.1,SAC,De'Aaron Fox,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,21,41,0.063,0.083,23.1
+1,8.1,DEN,Peyton Watson,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,21,41,0.098,0.083,23.1
+2,10:39,SAC,Keon Ellis,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,23,46,0.042,0.041,10:48
+2,10:32,DEN,Jamal Murray,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,25,46,0.073,0.056,10:32
+2,8:43,DEN,Hunter Tyson,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,34,52,0.103,0.08,8:43
+2,7:49,DEN,Peyton Watson,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,39,54,0.147,0.118,7:49
+2,6:41,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,42,54,0.138,0.166,6:51
+2,6:19,SAC,Doug McDermott,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,42,57,0.102,0.127,6:19
+2,6:13,DEN,Julian Strawther,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,42,58,0.137,0.112,6:19
+2,5:47,DEN,Aaron Gordon,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,47,58,0.223,0.181,5:47
+2,4:54,DEN,Jamal Murray,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,50,60,0.243,0.201,4:54
+2,4:31,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,53,60,0.236,0.273,4:38
+2,1:03,DEN,Michael Porter Jr.,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,64,73,0.274,0.232,1:14
+2,4.1,DEN,Russell Westbrook,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,66,75,0.269,0.227,9.1
+3,9:28,SAC,DeMar DeRozan,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,73,77,0.289,0.338,9:38
+3,6:57,SAC,Malik Monk,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,85,80,0.651,0.679,6:58
+3,6:43,DEN,Russell Westbrook,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,85,81,0.678,0.677,6:57
+3,6:27,DEN,Aaron Gordon,Offensive Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,87,81,0.75,0.714,6:33
+3,5:21,SAC,Domantas Sabonis,Offensive Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,87,85,0.564,0.607,5:35
+3,3:25,SAC,Domantas Sabonis,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,94,89,0.664,0.733,3:25
+3,9.0,SAC,De'Aaron Fox,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,103,96,0.732,0.79,11.0
+4,11:24,SAC,Doug McDermott,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,103,96,0.79,0.799,11:33
+4,11:24,SAC,Alex Len,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,103,96,0.784,0.79,11:24
+4,9:46,SAC,Colby Jones,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,106,98,0.828,0.838,10:01
+4,9:01,DEN,Hunter Tyson,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,108,101,0.854,0.844,9:11
+4,8:29,DEN,DeAndre Jordan,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,108,104,0.809,0.729,8:41
+4,6:50,DEN,DeAndre Jordan,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,109,107,0.711,0.648,6:52
+4,6:10,SAC,DeMar DeRozan,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,111,107,0.616,0.716,6:26
+4,5:29,DEN,Aaron Gordon,Shooting Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,113,109,0.85,0.772,5:33
+4,3:55,SAC,De'Aaron Fox,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,119,109,0.935,0.963,4:10
+4,2:50,SAC,Domantas Sabonis,Personal Foul,Foul,Marc Davis,J.T. Orr,Che Flores,SAC,122,114,0.897,0.94,3:01

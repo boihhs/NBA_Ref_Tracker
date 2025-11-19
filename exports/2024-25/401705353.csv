@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:45,OKC,Isaiah Hartenstein,Personal Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,0,0,0.171,0.17,10:45
+1,10:39,OKC,Jalen Williams,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,0,0,0.195,0.171,10:45
+1,8:41,OKC,Chet Holmgren,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,7,5,0.243,0.214,8:51
+1,7:49,MIN,Jaylen Clark,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,9,7,0.179,0.201,7:58
+1,6:38,OKC,Chet Holmgren,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,12,11,0.238,0.209,6:45
+1,5:17,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,16,15,0.247,0.216,5:32
+1,2:41,OKC,Luguentz Dort,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,26,20,0.395,0.351,2:46
+1,2:20,MIN,Rob Dillingham,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,28,20,0.341,0.377,2:41
+1,1:23,OKC,Jaylin Williams,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,30,22,0.47,0.424,1:26
+1,55.0,OKC,Aaron Wiggins,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,32,22,0.534,0.49,59.1
+2,9:43,OKC,Kenrich Williams,Personal Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,43,31,0.594,0.6,9:52
+2,9:24,MIN,Nickeil Alexander-Walker,Personal Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,45,31,0.633,0.63,9:35
+2,9:12,MIN,Jaylen Clark,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,45,31,0.61,0.636,9:12
+2,7:49,OKC,Isaiah Joe,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,49,35,0.71,0.656,7:49
+2,6:39,MIN,Terrence Shannon Jr.,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,54,37,0.72,0.76,6:51
+2,5:23,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,54,44,0.532,0.593,5:23
+2,4:17,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,56,45,0.581,0.608,4:17
+2,3:50,MIN,Naz Reid,Personal Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,58,46,0.596,0.646,4:00
+2,1:40,MIN,Jaylen Clark,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,60,48,0.653,0.68,1:45
+3,11:44,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,66,56,0.7,0.637,11:44
+3,9:59,MIN,Jaylen Clark,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,68,62,0.458,0.51,10:17
+3,9:37,MIN,Terrence Shannon Jr.,Personal Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,68,64,0.444,0.442,9:47
+3,7:40,MIN,Jaden McDaniels,Personal Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,74,70,0.469,0.465,7:55
+3,7:02,OKC,Luguentz Dort,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,77,70,0.696,0.638,7:07
+3,6:52,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,79,70,0.621,0.677,7:02
+3,6:15,MIN,Jaden McDaniels,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,79,74,0.495,0.57,6:15
+3,5:52,OKC,Aaron Wiggins,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,81,75,0.647,0.575,5:52
+3,3:41,OKC,Isaiah Hartenstein,Loose Ball Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,86,80,0.713,0.652,3:41
+3,2:18,MIN,Nickeil Alexander-Walker,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,92,80,0.831,0.854,2:18
+4,9:48,MIN,Luka Garza,Offensive Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,101,89,0.922,0.938,10:01
+4,7:55,MIN,Luka Garza,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,107,89,0.987,0.993,8:00
+4,5:39,OKC,Isaiah Joe,Personal Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,109,93,0.996,0.995,5:56
+4,4:25,OKC,Luguentz Dort,Personal Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,112,95,0.999,0.999,4:25
+4,3:30,OKC,Alex Ducas,Shooting Foul,Foul,Sean Corbin,Ben Taylor,Jenna Schroeder,MIN,114,97,0.999,0.999,3:46

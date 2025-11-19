@@ -1,0 +1,33 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:45,CHI,Josh Giddey,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,8,0,0.897,0.889,9:45
+1,9:27,BOS,Jaylen Brown,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,10,0,0.883,0.899,9:33
+1,7:55,CHI,Nikola Vucevic,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,15,8,0.874,0.875,8:01
+1,5:50,BOS,Jaylen Brown,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,17,15,0.75,0.778,5:53
+1,3:41,CHI,Matas Buzelis,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,22,21,0.797,0.77,3:55
+1,2:04,BOS,Jayson Tatum,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,24,23,0.742,0.74,2:07
+1,1:35,CHI,Dalen Terry,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,24,23,0.789,0.763,1:46
+2,8:12,CHI,Matas Buzelis,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,37,31,0.863,0.839,8:17
+2,7:19,CHI,Matas Buzelis,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,41,31,0.913,0.871,7:56
+2,6:52,CHI,Ayo Dosunmu,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,43,31,0.933,0.919,7:07
+2,3.1,CHI,Nikola Vucevic,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,65,51,0.957,0.944,18.0
+3,9:11,CHI,Josh Giddey,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,76,58,0.977,0.978,9:17
+3,6:06,CHI,Matas Buzelis,Loose Ball Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,80,62,0.981,0.982,6:07
+3,5:08,CHI,Nikola Vucevic,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,86,62,0.996,0.996,5:13
+3,4:11,BOS,Jaylen Brown,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,86,62,0.996,0.996,4:11
+3,3:52,BOS,Jaden Springer,Offensive Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,86,65,0.991,0.993,4:01
+3,4:23,BOS,Jrue Holiday,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,86,62,0.996,0.994,3:38
+3,2:30,CHI,Coby White,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,89,67,0.997,0.996,2:40
+3,1:27,BOS,Luke Kornet,Loose Ball Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,91,69,0.993,0.996,1:27
+3,29.1,BOS,Drew Peterson,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,94,72,0.994,0.996,35.1
+3,13.1,CHI,Patrick Williams,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,94,74,0.996,0.995,29.1
+4,10:09,CHI,Lonzo Ball,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,96,80,0.994,0.989,10:12
+4,9:05,BOS,Derrick White,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,99,82,0.988,0.994,9:05
+4,7:40,BOS,Luke Kornet,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,103,85,0.992,0.996,7:41
+4,6:47,CHI,Julian Phillips,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,103,87,0.997,0.995,5:15
+4,6:02,CHI,Ayo Dosunmu,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,106,90,0.996,0.996,6:13
+4,5:33,CHI,Dalen Terry,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,106,90,0.998,0.997,5:45
+4,5:09,BOS,Kristaps Porzingis,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,108,90,0.998,0.998,5:11
+4,4:56,CHI,Dalen Terry,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,108,90,0.999,0.999,4:59
+4,4:50,BOS,Payton Pritchard,Personal Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,110,90,0.998,0.999,4:56
+4,4:15,BOS,Kristaps Porzingis,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,112,93,0.998,0.999,4:23
+4,4:02,CHI,Matas Buzelis,Shooting Foul,Foul,Brent Barnaky,Eric Dalen,Michael Smith,BOS,112,95,0.999,0.999,4:15

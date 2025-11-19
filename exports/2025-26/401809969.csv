@@ -1,0 +1,52 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:18,PHI,VJ Edgecombe,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,5,4,0.442,0.489,10:18
+1,9:45,ORL,Jalen Suggs,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,5,4,0.524,0.486,9:49
+1,8:18,PHI,Adem Bona,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,14,7,0.58,0.617,8:31
+1,7:48,PHI,Adem Bona,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,14,9,0.549,0.569,7:48
+1,7:31,PHI,Jabari Walker,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,14,11,0.478,0.516,7:31
+1,6:53,ORL,Anthony Black,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,14,13,0.509,0.494,6:53
+1,4:15,ORL,Noah Penda,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,22,18,0.615,0.578,4:33
+1,1:49,ORL,Jalen Suggs,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,30,23,0.704,0.663,2:06
+1,1:33,PHI,VJ Edgecombe,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,30,23,0.596,0.637,1:36
+1,52.5,PHI,Justin Edwards,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,33,24,0.652,0.693,55.5
+2,11:27,PHI,Quentin Grimes,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,35,28,0.646,0.645,11:40
+2,10:58,PHI,Andre Drummond,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,35,28,0.606,0.647,11:08
+2,10:35,PHI,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,35,29,0.578,0.622,10:37
+2,10:07,PHI,Justin Edwards,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,38,31,0.609,0.651,10:17
+2,9:54,ORL,Goga Bitadze,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,38,33,0.667,0.621,10:07
+2,9:41,PHI,Justin Edwards,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,39,33,0.581,0.622,9:54
+2,9:20,PHI,Tyrese Maxey,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,39,33,0.581,0.624,9:27
+2,9:20,PHI,Adem Bona,Double Technical Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,39,34,0.606,0.627,9:20
+2,9:08,ORL,Paolo Banchero,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,39,34,0.627,0.606,9:20
+2,7:14,PHI,Jabari Walker,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,46,39,0.618,0.662,7:26
+2,6:38,ORL,Noah Penda,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,49,41,0.758,0.723,6:51
+2,6:18,PHI,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,51,41,0.708,0.745,6:38
+2,5:02,PHI,Jabari Walker,Loose Ball Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,53,43,0.714,0.753,5:02
+2,3:05,ORL,Desmond Bane,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,60,49,0.846,0.815,3:12
+2,2:14,PHI,Hunter Sallis,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,65,51,0.829,0.858,2:30
+2,33.0,ORL,Jalen Suggs,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,71,58,0.884,0.848,33.0
+3,11:02,ORL,Desmond Bane,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,74,62,0.859,0.857,11:17
+3,11:02,PHI,Tyrese Maxey,Double Technical Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,74,62,0.843,0.859,11:02
+3,10:55,ORL,Desmond Bane,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,74,62,0.858,0.843,11:02
+3,10:55,ORL,Desmond Bane,Away from Play Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,74,62,0.886,0.858,10:55
+3,10:05,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,77,62,0.899,0.898,10:08
+3,9:26,PHI,Jabari Walker,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,79,66,0.851,0.887,9:26
+3,8:27,PHI,Jabari Walker,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,81,68,0.875,0.873,8:34
+3,6:57,ORL,Anthony Black,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,83,72,0.88,0.864,6:57
+3,4:36,ORL,Paolo Banchero,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,89,77,0.915,0.881,4:36
+3,4:15,PHI,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,90,77,0.889,0.904,4:15
+3,3:49,PHI,Andre Drummond,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,92,80,0.87,0.91,3:49
+3,1:46,ORL,Goga Bitadze,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,92,87,0.785,0.726,2:03
+3,50.1,PHI,Andre Drummond,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,96,89,0.708,0.77,1:01
+4,8:12,PHI,Eric Gordon,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,113,104,0.827,0.884,8:12
+4,7:18,PHI,Quentin Grimes,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,113,106,0.782,0.83,7:18
+4,6:42,PHI,VJ Edgecombe,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,115,108,0.757,0.831,6:52
+4,5:05,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,115,113,0.646,0.636,5:05
+4,4:52,ORL,Desmond Bane,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,115,113,0.75,0.646,5:05
+4,4:07,PHI,Quentin Grimes,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,120,115,0.687,0.781,4:11
+4,3:37,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,120,115,0.915,0.838,3:53
+4,2:24,ORL,Desmond Bane,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,124,118,0.96,0.917,2:28
+4,56.7,PHI,VJ Edgecombe,Shooting Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,132,122,0.99,0.998,56.7
+4,47.3,ORL,Paolo Banchero,Personal Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,132,122,0.999,0.994,55.2
+4,38.7,ORL,Franz Wagner,Personal Take Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,134,124,0.999,0.999,41.4
+4,38.7,ORL,Wendell Carter Jr.,Loose Ball Foul,Foul,Tre Maddox,Brett Nansel,Nate Green,PHI,136,124,0.999,0.999,38.7

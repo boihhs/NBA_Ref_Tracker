@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:28,MEM,Zach Edey,Defensive 3-Seconds Technical,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,0,2,0.452,0.46,11:39
+1,9:50,CHI,Nikola Vucevic,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,6,5,0.474,0.512,10:06
+1,8:45,CHI,Josh Giddey,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,6,6,0.448,0.488,9:01
+1,7:40,MEM,Jake LaRavia,Personal Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,12,10,0.565,0.568,7:44
+1,7:36,MEM,Jake LaRavia,Personal Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,12,10,0.564,0.565,7:40
+1,7:30,MEM,Brandon Clarke,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,12,10,0.603,0.564,7:36
+1,7:05,CHI,Zach LaVine,Loose Ball Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,14,10,0.592,0.59,7:05
+1,6:56,CHI,Julian Phillips,Personal Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,14,10,0.551,0.592,7:05
+1,5:30,MEM,Miye Oni,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,16,10,0.705,0.67,5:33
+1,4:54,MEM,Miye Oni,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,18,12,0.707,0.67,4:58
+1,4:17,MEM,Yuki Kawamura,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,19,12,0.714,0.699,4:17
+1,2:45,CHI,Ayo Dosunmu,Technical Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,26,17,0.703,0.723,2:45
+1,1:55,MEM,Yuki Kawamura,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,26,21,0.69,0.648,2:04
+2,11:21,MEM,Jake LaRavia,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,28,30,0.499,0.455,11:30
+2,10:37,MEM,Zach Edey,Defensive 3-Seconds Technical,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,30,30,0.507,0.515,10:53
+2,9:02,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,39,32,0.733,0.688,9:02
+2,6:37,MEM,Armando Bacot,Offensive Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,50,35,0.889,0.872,6:48
+2,5:58,CHI,Nikola Vucevic,Defensive 3-Seconds Technical,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,50,35,0.879,0.874,6:04
+2,5:53,MEM,Armando Bacot,Offensive Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,50,35,0.891,0.875,5:58
+2,1:48,CHI,Patrick Williams,Personal Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,63,47,0.884,0.908,1:49
+2,11.0,MEM,Jaylen Wells,Loose Ball Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,65,49,0.942,0.928,11.0
+3,11:46,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,68,51,0.949,0.928,11:46
+3,11:02,CHI,Nikola Vucevic,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,69,53,0.897,0.919,11:07
+3,8:43,CHI,Jevon Carter,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,77,58,0.948,0.961,8:46
+3,7:36,CHI,Zach LaVine,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,80,65,0.9,0.924,7:37
+3,6:28,CHI,Zach LaVine,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,82,67,0.907,0.929,6:33
+3,5:57,CHI,Dalen Terry,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,82,72,0.817,0.837,6:00
+3,5:21,CHI,Nikola Vucevic,Personal Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,85,74,0.827,0.864,5:28
+3,2:02,MEM,Yuki Kawamura,Personal Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,90,85,0.74,0.739,2:11
+3,1:28,MEM,Miye Oni,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,90,88,0.683,0.616,1:38
+3,1:04,MEM,Yuki Kawamura,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,90,88,0.685,0.618,1:07
+4,11:44,CHI,DJ Steward,Personal Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,93,91,0.556,0.601,12:00
+4,11:13,CHI,Chris Duarte,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,93,93,0.41,0.519,11:13
+4,11:12,CHI,Talen Horton-Tucker,Loose Ball Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,93,93,0.439,0.456,11:12
+4,10:49,MEM,John Konchar,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,93,93,0.595,0.502,10:56
+4,10:08,CHI,Chris Duarte,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,97,95,0.469,0.56,10:22
+4,10:02,CHI,Chris Duarte,Offensive Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,97,97,0.443,0.497,10:08
+4,8:30,CHI,Dalen Terry,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,100,97,0.525,0.61,8:45
+4,5:15,MEM,Jay Huff,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,106,106,0.627,0.503,5:23
+4,3:54,CHI,Julian Phillips,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,108,108,0.377,0.432,3:57
+4,1:52,CHI,Matas Buzelis,Loose Ball Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,111,113,0.142,0.237,1:52
+4,1:50,CHI,Talen Horton-Tucker,Personal Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,111,114,0.093,0.168,1:50
+4,1:42,CHI,Talen Horton-Tucker,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,111,115,0.057,0.111,1:44
+4,32.0,MEM,Jaylen Wells,Shooting Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,119,119,0.643,0.441,32.0
+4,5.1,MEM,Jaylen Wells,Personal Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,119,122,0.22,0.156,9.1
+4,3.2,CHI,Talen Horton-Tucker,Personal Foul,Foul,James Williams,Ray Acosta,Nate Cearley,CHI,121,122,0.047,0.165,5.1

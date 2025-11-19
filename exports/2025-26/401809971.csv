@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:11,BKN,Terance Mann,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,2,5,0.87,0.871,10:22
+1,10:03,BKN,Nic Claxton,Loose Ball Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,2,5,0.869,0.869,10:03
+1,9:28,BKN,Ben Saraf,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,6,7,0.894,0.877,9:28
+1,9:20,HOU,Amen Thompson,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,7,7,0.887,0.887,9:28
+1,7:27,HOU,Amen Thompson,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,13,13,0.878,0.879,7:42
+1,6:16,BKN,Michael Porter Jr.,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,16,16,0.898,0.884,6:33
+1,5:37,BKN,Terance Mann,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,20,16,0.924,0.909,5:37
+1,5:37,BKN,Nic Claxton,Loose Ball Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,20,16,0.93,0.918,5:37
+1,5:07,BKN,Jalen Wilson,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,22,19,0.921,0.909,5:19
+1,1:59,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,29,25,0.92,0.908,2:20
+2,11:10,BKN,Ben Saraf,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,44,25,0.987,0.984,11:17
+2,9:33,HOU,Clint Capela,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,50,31,0.977,0.981,9:44
+2,9:32,HOU,Josh Okogie,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,50,32,0.979,0.981,9:33
+2,7:05,HOU,Reed Sheppard,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,55,45,0.934,0.935,7:09
+2,6:08,HOU,Clint Capela,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,57,47,0.927,0.942,6:08
+2,4:20,HOU,Kevin Durant,Offensive Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,62,50,0.947,0.954,4:29
+2,4:04,HOU,Kevin Durant,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,62,50,0.934,0.947,4:20
+2,3:12,BKN,Nolan Traore,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,62,52,0.944,0.938,3:16
+2,2:11,HOU,Kevin Durant,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,64,56,0.896,0.918,2:11
+2,6.8,BKN,Nolan Traore,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,69,60,0.93,0.924,9.8
+3,11:45,BKN,Nic Claxton,Loose Ball Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,71,60,0.943,0.944,11:45
+3,11:38,BKN,Michael Porter Jr.,Loose Ball Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,71,60,0.943,0.944,11:38
+3,9:32,BKN,Nic Claxton,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,80,62,0.988,0.984,9:35
+3,8:31,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,84,64,0.991,0.988,8:31
+3,7:56,HOU,Amen Thompson,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,85,66,0.985,0.985,7:56
+3,6:19,BKN,Day'Ron Sharpe,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,87,68,0.992,0.989,6:26
+3,5:45,BKN,Day'Ron Sharpe,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,89,68,0.995,0.993,5:52
+3,5:34,HOU,Tari Eason,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,91,68,0.995,0.995,5:45
+3,5:30,HOU,Josh Okogie,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,91,68,0.995,0.995,5:34
+3,5:11,BKN,Cam Thomas,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,91,68,0.997,0.996,5:18
+3,4:58,HOU,Josh Okogie,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,93,68,0.996,0.997,5:11
+3,4:52,HOU,Tari Eason,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,93,70,0.994,0.996,4:52
+3,3:57,HOU,Josh Okogie,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,93,71,0.992,0.995,4:04
+3,3:38,HOU,Kevin Durant,Offensive Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,93,72,0.994,0.995,3:57
+3,2:03,HOU,Steven Adams,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,95,74,0.992,0.995,2:07
+3,1:05,BKN,Nolan Traore,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,97,75,0.998,0.998,1:09
+3,39.4,BKN,Nolan Traore,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,101,77,0.999,0.999,39.4
+3,28.5,BKN,Tyrese Martin,Loose Ball Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,102,77,0.999,0.999,28.5
+4,11:44,BKN,Nic Claxton,Offensive Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,103,77,0.999,0.999,12:00
+4,11:00,BKN,Tyrese Martin,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,106,80,0.999,0.999,11:13
+4,8:40,BKN,Michael Porter Jr.,Offensive Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,112,87,0.999,0.999,8:45
+4,6:52,HOU,Clint Capela,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,120,91,0.999,0.999,7:14
+4,2:47,HOU,Jae'Sean Tate,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,130,97,0.999,0.999,2:58
+4,1:50,HOU,Jae'Sean Tate,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,132,102,0.999,0.999,1:50
+4,33.8,HOU,Jae'Sean Tate,Personal Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,137,106,0.999,0.999,33.8
+4,5.4,HOU,Jeff Green,Shooting Foul,Foul,Ed Malloy,Dedric Taylor,Jenna Schroeder,HOU,137,108,0.999,0.999,9.7

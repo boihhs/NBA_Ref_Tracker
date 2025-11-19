@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:04,MIA,Pelle Larsson,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,7,0,0.772,0.74,11:04
+1,9:20,LAL,Luka Doncic,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,12,4,0.729,0.76,9:23
+1,9:06,MIA,Pelle Larsson,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,12,6,0.734,0.739,9:20
+1,7:35,MIA,Andrew Wiggins,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,16,11,0.749,0.719,7:44
+1,7:22,LAL,Marcus Smart,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,18,11,0.739,0.739,7:35
+1,5:02,LAL,Jaxson Hayes,Loose Ball Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,28,17,0.817,0.818,5:02
+1,4:54,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,28,17,0.789,0.817,5:02
+1,4:37,LAL,Jake LaRavia,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,28,20,0.744,0.78,4:37
+1,4:05,MIA,Pelle Larsson,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,28,21,0.763,0.761,4:05
+1,3:53,MIA,Simone Fontecchio,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,28,21,0.791,0.763,4:05
+1,3:46,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,30,21,0.747,0.78,3:53
+1,2:14,LAL,Dalton Knecht,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,35,27,0.744,0.758,2:22
+1,1:59,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,35,30,0.752,0.715,2:14
+1,1:36,MIA,Andrew Wiggins,Loose Ball Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,36,30,0.774,0.739,1:36
+1,53.2,MIA,Nikola Jovic,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,40,32,0.814,0.784,1:08
+1,47.6,LAL,Bronny James,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,41,32,0.75,0.783,51.9
+2,11:47,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,43,36,0.705,0.751,12:00
+2,11:16,MIA,Simone Fontecchio,Offensive Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,43,38,0.72,0.692,11:28
+2,9:37,LAL,Austin Reaves,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,45,40,0.653,0.692,9:47
+2,9:25,MIA,Nikola Jovic,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,45,41,0.693,0.695,9:34
+2,8:11,MIA,Dru Smith,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,49,43,0.742,0.744,8:23
+2,6:54,LAL,Marcus Smart,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,53,43,0.781,0.784,1:24
+2,5:33,MIA,Pelle Larsson,Loose Ball Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,58,47,0.853,0.855,5:33
+2,3:32,MIA,Simone Fontecchio,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,68,53,0.935,0.919,3:41
+2,3:01,LAL,Bronny James,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,68,53,0.884,0.906,3:17
+2,2:15,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,68,54,0.929,0.91,2:31
+2,13.0,LAL,Jake LaRavia,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,77,62,0.893,0.916,32.3
+3,10:37,MIA,Davion Mitchell,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,79,68,0.874,0.876,10:45
+3,9:34,LAL,Jaxson Hayes,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,85,72,0.896,0.898,9:43
+3,8:28,LAL,Austin Reaves,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,85,75,0.844,0.842,8:30
+3,7:53,LAL,Austin Reaves,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,85,77,0.752,0.795,7:56
+3,6:51,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,87,80,0.838,0.889,4:28
+3,5:37,LAL,Rui Hachimura,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,93,84,0.791,0.832,5:37
+3,4:27,MIA,Davion Mitchell,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,93,86,0.811,0.813,4:33
+3,4:01,LAL,Jake LaRavia,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,95,86,0.798,0.838,4:13
+3,3:32,MIA,Nikola Jovic,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,95,88,0.857,0.818,3:33
+3,3:13,MIA,Bam Adebayo,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,97,88,0.901,0.872,3:13
+3,52.4,LAL,Dalton Knecht,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,102,94,0.78,0.833,58.1
+4,9:07,LAL,Jake LaRavia,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,109,104,0.74,0.748,9:25
+4,8:31,LAL,Marcus Smart,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,109,104,0.737,0.75,8:36
+4,7:32,LAL,Rui Hachimura,Offensive Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,111,107,0.706,0.756,7:36
+4,6:53,LAL,Marcus Smart,Technical Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,114,107,0.821,0.849,6:53
+4,6:45,LAL,Rui Hachimura,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,114,107,0.837,0.849,6:53
+4,5:36,LAL,Jaxson Hayes,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,114,109,0.676,0.775,5:40
+4,4:47,LAL,Bronny James,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,118,110,0.846,0.903,4:56
+4,52.8,MIA,Pelle Larsson,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,127,116,0.999,0.997,52.8
+4,22.1,MIA,Andrew Wiggins,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,128,118,0.999,0.998,45.2
+4,15.3,LAL,Marcus Smart,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Jenna Schroeder,LAL,130,120,0.998,0.999,15.3

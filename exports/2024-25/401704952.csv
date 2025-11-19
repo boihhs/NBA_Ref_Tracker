@@ -1,0 +1,28 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:43,POR,Jerami Grant,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,0,0,0.7,0.7,12:00
+1,11:37,POR,Anfernee Simons,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,2,0,0.753,0.722,11:37
+1,6:27,SA,Devin Vassell,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,9,7,0.706,0.705,6:34
+1,4:49,POR,Deandre Ayton,Loose Ball Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,15,9,0.802,0.803,4:49
+1,2:02,POR,Donovan Clingan,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,19,13,0.827,0.8,2:19
+1,1:17,SA,Tre Jones,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,23,16,0.783,0.799,1:17
+2,10:19,SA,Chris Paul,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,30,26,0.731,0.732,10:37
+2,9:36,POR,Donovan Clingan,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,33,28,0.775,0.775,9:45
+2,8:49,POR,Donovan Clingan,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,35,33,0.719,0.677,8:49
+2,7:14,POR,Scoot Henderson,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,36,35,0.691,0.67,7:14
+2,6:15,POR,Scoot Henderson,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,38,35,0.758,0.72,6:21
+2,5:39,POR,Shaedon Sharpe,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,40,35,0.802,0.771,5:51
+2,5:30,SA,Stephon Castle,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,41,37,0.699,0.744,5:30
+2,4:42,SA,Devin Vassell,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,41,37,0.718,0.718,4:44
+3,7:50,POR,Deandre Ayton,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,66,54,0.937,0.918,7:54
+3,5:46,SA,Julian Champagnie,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,73,59,0.939,0.937,5:56
+3,3:33,SA,Julian Champagnie,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,75,61,0.948,0.946,3:35
+3,2:36,POR,Donovan Clingan,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,77,61,0.984,0.975,2:43
+3,43.1,POR,Anfernee Simons,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,85,68,0.991,0.987,45.1
+3,3.1,SA,Stephon Castle,Transition Take Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,87,68,0.991,0.991,5.0
+4,11:21,POR,Deni Avdija,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,87,69,0.995,0.992,11:35
+4,10:12,POR,Deni Avdija,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,91,69,0.999,0.998,10:19
+4,6:58,SA,Julian Champagnie,Personal Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,99,78,0.999,0.999,7:08
+4,2:02,POR,Scoot Henderson,Loose Ball Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,112,87,0.999,0.999,2:02
+4,1:55,SA,Blake Wesley,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,112,87,0.999,0.999,2:01
+4,1:36,SA,Sidy Cissoko,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,112,87,0.999,0.999,1:38
+4,0.0,SA,Charles Bassey,Shooting Foul,Foul,Courtney Kirkland,Scott Twardoski,Mousa Dagher,SA,114,93,0.999,0.999,0.0

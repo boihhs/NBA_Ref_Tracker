@@ -1,0 +1,31 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:22,MEM,Zach Edey,Loose Ball Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,3,0,0.496,0.497,11:22
+1,10:19,MEM,Zach Edey,Clear Path Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,5,3,0.475,0.475,10:24
+1,9:18,BOS,Xavier Tillman,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,5,8,0.412,0.374,9:29
+1,9:06,MEM,Marvin Bagley III,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,5,8,0.357,0.352,9:16
+1,3:07,BOS,Payton Pritchard,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,22,21,0.529,0.487,3:12
+1,2:27,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,24,21,0.476,0.517,2:39
+1,3.1,BOS,Sam Hauser,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,31,25,0.66,0.609,3.1
+2,10:54,BOS,Kristaps Porzingis,Defensive 3-Seconds Technical,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,32,28,0.577,0.585,11:19
+2,9:01,BOS,Payton Pritchard,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,43,33,0.77,0.732,9:01
+2,8:39,MEM,Zach Edey,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,44,35,0.706,0.708,8:39
+2,5:02,BOS,Al Horford,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,52,48,0.65,0.605,5:05
+2,3:04,MEM,Marvin Bagley III,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,57,57,0.443,0.443,3:06
+2,2:23,MEM,Desmond Bane,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,57,57,0.447,0.444,2:32
+2,1:37,MEM,Desmond Bane,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,57,61,0.294,0.349,1:37
+3,8:20,MEM,Desmond Bane,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,73,69,0.608,0.603,8:24
+3,7:23,MEM,Zach Edey,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,73,72,0.434,0.492,7:29
+3,7:11,MEM,Desmond Bane,Loose Ball Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,73,74,0.416,0.416,7:11
+3,5:29,BOS,Payton Pritchard,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,77,83,0.266,0.267,5:40
+3,1:32,BOS,Al Horford,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,82,90,0.226,0.176,1:34
+4,10:13,MEM,Santi Aldama,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,90,95,0.153,0.217,10:36
+4,9:05,BOS,Kristaps Porzingis,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,92,102,0.13,0.081,9:13
+4,8:56,MEM,Ja Morant,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,93,102,0.05,0.083,9:05
+4,6:49,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,95,108,0.008,0.016,7:07
+4,5:26,MEM,Jaren Jackson Jr.,Loose Ball Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,95,110,0.002,0.004,5:26
+4,3:32,BOS,Kristaps Porzingis,Offensive Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,101,110,0.036,0.025,3:46
+4,2:55,BOS,Derrick White,Shooting Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,101,110,0.062,0.029,2:58
+4,2:55,BOS,Jayson Tatum,Technical Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,101,110,0.041,0.028,2:55
+4,2:07,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,103,113,0.002,0.006,2:18
+4,1:51,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,103,115,0.001,0.001,1:56
+4,1:43,BOS,Derrick White,Personal Foul,Foul,Mark Lindsay,Tony Brothers,Matt Kallio,MEM,103,117,0.002,0.001,1:51

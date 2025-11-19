@@ -1,0 +1,37 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:55,DET,Tobias Harris,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,2,2,0.51,0.51,11:10
+1,9:05,PHX,Bradley Beal,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,7,9,0.417,0.46,9:05
+1,8:12,DET,Cade Cunningham,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,9,12,0.434,0.434,8:24
+1,3:06,PHX,Kevin Durant,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,22,32,0.215,0.253,3:06
+1,51.1,PHX,Royce O'Neale,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,25,38,0.141,0.166,54.1
+1,13.1,DET,Isaiah Stewart,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,27,40,0.215,0.183,18.2
+2,11:49,DET,Jaden Ivey,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,29,40,0.221,0.22,11:49
+2,11:14,DET,Malik Beasley,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,29,40,0.219,0.219,11:22
+2,10:03,DET,Simone Fontecchio,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,33,44,0.231,0.193,10:03
+2,8:00,DET,Jaden Ivey,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,38,51,0.196,0.17,8:13
+2,7:51,DET,Malik Beasley,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,38,51,0.196,0.196,8:00
+2,7:30,DET,Malik Beasley,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,40,51,0.241,0.204,7:36
+2,7:08,PHX,Ryan Dunn,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,40,51,0.154,0.185,7:27
+2,6:08,DET,Cade Cunningham,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,40,53,0.19,0.16,6:16
+2,5:21,PHX,Royce O'Neale,Double Technical Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,42,53,0.181,0.197,5:23
+2,4:30,PHX,Ryan Dunn,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,44,53,0.219,0.22,4:44
+2,3:51,PHX,Oso Ighodaro,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,44,55,0.141,0.169,3:57
+2,1:51,PHX,Bradley Beal,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,47,58,0.131,0.16,1:52
+2,20.1,DET,Tim Hardaway Jr.,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,49,62,0.167,0.137,30.1
+2,1.1,PHX,Oso Ighodaro,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,50,64,0.088,0.117,1.1
+3,10:28,DET,Isaiah Stewart,Away from Play Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,54,67,0.125,0.107,10:28
+3,9:37,PHX,Ryan Dunn,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,54,69,0.055,0.071,9:46
+3,8:58,DET,Isaiah Stewart,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,54,71,0.058,0.057,8:58
+3,5:39,PHX,Josh Okogie,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,62,81,0.021,0.022,5:58
+3,5:14,DET,Malik Beasley,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,62,81,0.026,0.027,5:28
+3,3:41,DET,Cade Cunningham,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,69,81,0.135,0.101,3:41
+3,2:28,DET,Malik Beasley,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,72,83,0.151,0.115,2:38
+3,2:13,PHX,Monte Morris,Personal Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,74,83,0.133,0.136,2:28
+4,10:54,PHX,Mason Plumlee,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,74,90,0.011,0.02,10:54
+4,8:56,PHX,Oso Ighodaro,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,74,95,0.001,0.001,9:12
+4,8:29,DET,Daniss Jenkins,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,74,97,0.001,0.001,8:31
+4,7:12,DET,Marcus Sasser,Loose Ball Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,76,99,0.001,0.001,7:26
+4,5:03,PHX,Collin Gillespie,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,78,104,0.001,0.001,5:08
+4,3:56,DET,Tolu Smith,Offensive Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,80,108,0.001,0.001,4:00
+4,2:25,DET,Tolu Smith,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,82,108,0.001,0.001,2:29
+4,36.0,PHX,Collin Gillespie,Shooting Foul,Foul,Courtney Kirkland,Tre Maddox,Biniam Maru,PHX,89,108,0.001,0.001,39.0

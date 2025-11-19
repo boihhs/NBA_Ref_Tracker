@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:11,CHI,Lonzo Ball,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,5,4,0.5,0.498,10:17
+1,2:08,TOR,Jamal Shead,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,25,25,0.502,0.504,2:20
+1,12.1,TOR,Ja'Kobe Walter,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,25,30,0.403,0.363,26.1
+2,11:08,CHI,Jalen Smith,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,27,30,0.388,0.386,11:08
+2,10:13,TOR,Immanuel Quickley,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,27,34,0.345,0.307,10:32
+2,9:16,CHI,Matas Buzelis,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,29,38,0.197,0.229,9:19
+2,7:39,TOR,Ja'Kobe Walter,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,34,43,0.248,0.249,7:46
+2,7:08,CHI,Dalen Terry,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,34,43,0.206,0.221,7:12
+2,5:54,TOR,Jamal Shead,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,36,47,0.231,0.197,6:06
+2,5:00,CHI,Zach Collins,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,40,50,0.161,0.192,5:20
+2,3:44,CHI,Coby White,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,45,54,0.177,0.212,4:03
+2,2:33,TOR,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,47,57,0.242,0.205,2:34
+2,1:35,CHI,Josh Giddey,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,49,60,0.127,0.155,1:41
+2,31.1,CHI,Josh Giddey,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,54,62,0.185,0.227,52.0
+3,8:28,TOR,Jakob Poeltl,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,60,68,0.277,0.23,8:32
+3,7:17,TOR,Immanuel Quickley,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,62,70,0.272,0.224,7:23
+3,7:07,CHI,Zach Collins,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,64,72,0.174,0.223,7:07
+3,5:53,CHI,Kevin Huerter,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,66,73,0.126,0.161,6:02
+3,5:04,TOR,Jamal Shead,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,66,79,0.09,0.092,5:13
+3,3:37,TOR,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,70,83,0.111,0.083,3:47
+3,2:43,CHI,Tre Jones,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,75,83,0.164,0.164,2:51
+3,2:17,CHI,Ayo Dosunmu,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,77,85,0.121,0.161,2:27
+3,4.1,CHI,Jalen Smith,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,79,89,0.08,0.115,4.1
+4,11:51,CHI,Ayo Dosunmu,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,81,90,0.075,0.125,12:00
+4,10:37,TOR,Jonathan Mogbo,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,81,97,0.021,0.018,10:37
+4,10:05,TOR,Ja'Kobe Walter,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,81,97,0.02,0.018,10:17
+4,5:20,TOR,Orlando Robinson,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,93,101,0.165,0.099,5:31
+4,4:54,TOR,Immanuel Quickley,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,97,101,0.336,0.216,4:54
+4,2:46,TOR,Jonathan Mogbo,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,100,103,0.442,0.32,2:46
+4,1:01,TOR,Scottie Barnes,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,103,107,0.338,0.202,1:09
+4,7.1,CHI,Coby White,Loose Ball Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,106,109,0.019,0.066,7.1
+4,6.0,CHI,Josh Giddey,Personal Take Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,106,109,0.016,0.058,7.1
+4,4.0,TOR,Immanuel Quickley,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,109,110,0.437,0.114,4.0
+5,4:06,TOR,Immanuel Quickley,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,110,110,0.544,0.534,4:07
+5,2:44,TOR,RJ Barrett,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,113,112,0.755,0.628,2:58
+5,1:13,TOR,Gradey Dick,Shooting Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,120,115,0.971,0.929,1:14
+5,31.1,TOR,Scottie Barnes,Personal Foul,Foul,Ed Malloy,Jacyn Goble,Nate Green,CHI,124,115,0.999,0.998,31.1

@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:16,MIL,Ryan Rollins,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,7,11,0.565,0.527,7:28
+1,4:58,PHX,Nick Richards,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,12,17,0.418,0.461,5:02
+1,4:49,MIL,Gary Trent Jr.,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,14,19,0.509,0.458,4:49
+1,4:18,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,15,22,0.451,0.433,4:20
+1,2:30,MIL,Kyle Kuzma,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,19,27,0.436,0.396,2:48
+1,1:08,MIL,Kevin Porter Jr.,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,23,27,0.543,0.501,1:19
+1,58.1,PHX,Royce O'Neale,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,25,27,0.488,0.525,1:08
+1,0.1,PHX,Cody Martin,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,25,27,0.48,0.525,17.2
+2,10:11,PHX,Oso Ighodaro,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,31,30,0.563,0.605,10:25
+2,10:04,MIL,Kevin Porter Jr.,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,31,32,0.577,0.578,10:11
+2,9:02,PHX,Devin Booker,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,33,34,0.546,0.545,9:13
+2,8:37,MIL,AJ Green,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,33,37,0.481,0.484,8:42
+2,7:21,MIL,Taurean Prince,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,37,40,0.529,0.478,7:21
+2,5:42,PHX,Ryan Dunn,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,40,42,0.498,0.499,5:50
+2,5:14,PHX,Collin Gillespie,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,40,42,0.449,0.496,5:17
+2,3:43,PHX,Ryan Dunn,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,43,47,0.401,0.461,3:43
+2,2:23,PHX,PHX,Technical Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,46,55,0.241,0.317,2:02
+2,50.0,PHX,Oso Ighodaro,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,51,57,0.296,0.347,1:13
+3,10:46,PHX,Ryan Dunn,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,54,58,0.371,0.396,10:46
+3,8:39,MIL,Ryan Rollins,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,61,63,0.5,0.499,8:40
+3,8:17,MIL,Ryan Rollins,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,61,63,0.498,0.498,8:18
+3,7:17,MIL,Ryan Rollins,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,61,65,0.473,0.415,7:32
+3,6:13,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,68,67,0.638,0.568,6:13
+3,4:00,PHX,Nick Richards,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,75,72,0.584,0.647,4:18
+3,3:19,PHX,Royce O'Neale,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,75,73,0.606,0.606,3:22
+3,1:02,MIL,Kyle Kuzma,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,75,76,0.583,0.512,1:08
+3,55.1,PHX,Oso Ighodaro,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,76,76,0.437,0.512,1:02
+3,23.1,PHX,Kevin Durant,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,79,78,0.484,0.557,33.1
+3,6.1,MIL,Gary Trent Jr.,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,79,78,0.675,0.607,21.1
+4,10:46,PHX,Devin Booker,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,83,82,0.498,0.604,10:46
+4,8:35,MIL,Gary Trent Jr.,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,90,88,0.664,0.546,8:24
+4,8:04,PHX,Oso Ighodaro,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,90,90,0.471,0.491,8:16
+4,7:24,PHX,Grayson Allen,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,90,90,0.369,0.477,7:38
+4,5:56,PHX,Devin Booker,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,95,92,0.551,0.661,6:20
+4,2:19,PHX,Ryan Dunn,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,103,101,0.475,0.609,2:25
+4,1:22,PHX,Kevin Durant,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,103,104,0.246,0.447,1:22
+4,10.1,PHX,Kevin Durant,Shooting Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,106,105,0.304,0.499,26.0
+4,5.1,MIL,Giannis Antetokounmpo,Personal Foul,Foul,Derek Richardson,Tyler Ford,Natalie Sago,PHX,106,106,0.859,0.499,10.1

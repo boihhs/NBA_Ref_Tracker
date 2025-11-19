@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,IND,Pascal Siakam,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,0,5,0.276,0.278,10:55
+1,5:57,IND,Bennedict Mathurin,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,16,18,0.353,0.352,6:12
+1,5:52,NO,Brandon Ingram,Offensive Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,16,18,0.326,0.353,5:57
+1,3:23,IND,Myles Turner,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,26,25,0.457,0.409,3:23
+1,2:04,IND,Myles Turner,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,29,30,0.427,0.385,2:26
+2,10:44,NO,Zion Williamson,Offensive Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,38,42,0.286,0.311,10:52
+2,7:20,IND,T.J. McConnell,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,40,48,0.219,0.217,7:25
+2,5:13,IND,Isaiah Jackson,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,45,56,0.182,0.153,5:18
+2,4:30,NO,Jordan Hawkins,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,51,56,0.265,0.264,4:49
+2,4:18,NO,Jose Alvarado,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,51,56,0.265,0.265,4:30
+2,2:07,IND,Myles Turner,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,56,58,0.38,0.381,2:10
+2,1:30,IND,Tyrese Haliburton,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,58,58,0.499,0.45,1:36
+3,9:14,IND,Pascal Siakam,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,66,64,0.538,0.538,9:14
+3,8:46,NO,Jose Alvarado,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,68,64,0.578,0.576,9:00
+3,7:51,NO,Yves Missi,Loose Ball Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,72,64,0.727,0.728,7:51
+3,7:46,NO,Brandon Ingram,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,72,64,0.728,0.727,7:51
+3,7:34,NO,Jose Alvarado,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,72,64,0.679,0.728,7:46
+3,6:32,IND,Jarace Walker,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,72,68,0.688,0.631,6:50
+3,5:41,NO,Brandon Boston,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,76,71,0.575,0.636,5:54
+3,3:33,IND,Tyrese Haliburton,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,78,78,0.548,0.481,3:43
+3,1:11,IND,Ben Sheppard,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,88,87,0.573,0.488,1:11
+4,10:07,NO,Zion Williamson,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,100,97,0.549,0.662,10:07
+4,9:43,NO,Brandon Boston,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,100,98,0.49,0.547,9:45
+4,8:18,NO,Yves Missi,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,104,102,0.443,0.546,8:30
+4,6:52,IND,Myles Turner,Offensive Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,106,105,0.557,0.492,6:57
+4,6:41,IND,Pascal Siakam,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,106,105,0.569,0.557,6:52
+4,5:06,IND,Pascal Siakam,Offensive Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,106,105,0.585,0.505,5:08
+4,5:06,IND,T.J. McConnell,Technical Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,106,105,0.638,0.585,5:06
+4,4:26,IND,Bennedict Mathurin,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,111,105,0.914,0.835,4:26
+4,3:54,NO,Zion Williamson,Offensive Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,112,107,0.802,0.847,4:10
+4,3:31,IND,Pascal Siakam,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,112,110,0.797,0.684,3:43
+4,39.0,NO,Brandon Ingram,Shooting Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,121,115,0.866,0.942,51.1
+4,36.0,IND,Pascal Siakam,Personal Take Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,121,116,0.98,0.945,39.0
+4,34.1,IND,Obi Toppin,Personal Take Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,121,116,0.981,0.98,36.0
+4,30.1,NO,Jose Alvarado,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,123,116,0.928,0.972,34.1
+4,26.0,IND,Obi Toppin,Personal Take Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,123,118,0.986,0.953,30.1
+4,10.0,IND,Bennedict Mathurin,Personal Foul,Foul,Zach Zarba,Eric Dalen,Evan Scott,NO,124,118,0.998,0.995,10.0

@@ -1,0 +1,51 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:38,CHA,Cody Martin,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,0,2,0.136,0.112,10:49
+1,9:34,CLE,Darius Garland,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,3,5,0.128,0.127,9:46
+1,6:11,CLE,Dean Wade,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,8,17,0.071,0.072,6:19
+1,5:09,CHA,KJ Simpson,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,8,19,0.045,0.053,5:12
+1,4:04,CLE,Georges Niang,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,10,23,0.048,0.048,4:04
+1,3:29,CLE,Darius Garland,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,12,25,0.058,0.049,3:41
+1,2:56,CHA,DaQuan Jeffries,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,14,28,0.039,0.039,2:59
+1,20.1,CLE,Evan Mobley,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,16,38,0.019,0.015,32.2
+1,15.1,CHA,Brandon Miller,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,18,38,0.014,0.017,20.1
+2,11:08,CHA,DaQuan Jeffries,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,20,40,0.014,0.017,11:16
+2,10:26,CLE,Ty Jerome,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,23,41,0.027,0.027,10:32
+2,9:15,CHA,Seth Curry,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,26,43,0.027,0.027,9:15
+2,8:02,CHA,Mark Williams,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,30,45,0.037,0.036,8:15
+2,7:43,CLE,Jaylon Tyson,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,32,45,0.061,0.049,7:43
+2,4:56,CHA,Brandon Miller,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,38,49,0.053,0.065,5:05
+2,2:00,CHA,Cody Martin,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,47,55,0.082,0.101,2:10
+2,1:59,CLE,Evan Mobley,Loose Ball Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,47,56,0.122,0.1,1:59
+2,1:36,CHA,Brandon Miller,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,47,56,0.071,0.088,1:43
+2,1:14,CLE,Donovan Mitchell,Offensive Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,50,58,0.114,0.103,1:22
+2,38.1,CHA,Cody Martin,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,50,58,0.083,0.104,44.1
+3,10:13,CLE,Evan Mobley,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,54,70,0.033,0.033,10:26
+3,8:44,CLE,Donovan Mitchell,Offensive Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,59,70,0.077,0.065,9:03
+3,7:13,CHA,Brandon Miller,Offensive Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,62,74,0.053,0.089,7:32
+3,7:09,CHA,Nick Smith Jr.,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,62,76,0.031,0.044,7:09
+3,5:31,CHA,Vasilije Micic,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,67,80,0.041,0.041,5:46
+3,4:55,CLE,Sam Merrill,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,69,82,0.05,0.05,5:09
+3,4:49,CLE,Sam Merrill,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,69,82,0.067,0.05,4:55
+3,4:24,CLE,CLE,Technical Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,70,82,0.069,0.049,4:25
+3,3:48,CHA,KJ Simpson,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,74,84,0.072,0.071,3:59
+3,3:46,CHA,Nick Smith Jr.,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,74,84,0.053,0.072,3:48
+3,3:39,CHA,Josh Green,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,74,84,0.053,0.053,3:46
+3,3:25,CHA,KJ Simpson,Loose Ball Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,74,85,0.042,0.058,3:25
+3,2:33,CHA,Isaiah Wong,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,76,87,0.04,0.056,2:47
+3,2:21,CLE,Caris LeVert,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,76,89,0.063,0.045,2:33
+3,1:35,CLE,Sam Merrill,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,82,89,0.166,0.119,1:35
+3,1:22,CHA,Nick Smith Jr.,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,83,89,0.108,0.141,1:35
+4,10:56,CLE,Evan Mobley,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,83,93,0.109,0.071,11:15
+4,10:27,CLE,Ty Jerome,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,85,93,0.165,0.114,10:45
+4,10:19,CLE,Georges Niang,Offensive Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,87,93,0.173,0.143,10:27
+4,9:53,CHA,Isaiah Wong,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,87,93,0.133,0.141,9:53
+4,8:46,CHA,Brandon Miller,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,87,97,0.045,0.048,8:50
+4,8:46,CLE,Georges Niang,Technical Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,87,97,0.077,0.045,8:46
+4,7:51,CLE,Ty Jerome,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,90,99,0.085,0.079,8:07
+4,7:32,CHA,Nick Smith Jr.,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,90,101,0.023,0.044,7:32
+4,6:40,CHA,Josh Green,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,95,102,0.055,0.091,6:53
+4,5:48,CHA,Josh Green,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,97,102,0.09,0.136,5:58
+4,5:26,CHA,Nick Smith Jr.,Personal Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,97,103,0.063,0.099,5:31
+4,5:05,CLE,Darius Garland,Shooting Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,97,104,0.161,0.1,5:26
+4,5:05,CLE,Darius Garland,Technical Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,97,104,0.13,0.161,5:05
+4,4:31,CHA,Vasilije Micic,Offensive Foul,Foul,Tony Brothers,J.B. DeRosa,Jonathan Sterling,CHA,100,104,0.175,0.229,4:35

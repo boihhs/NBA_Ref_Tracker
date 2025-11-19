@@ -1,0 +1,38 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:05,DAL,P.J. Washington,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,2,3,0.54,0.536,10:05
+1,7:26,DAL,P.J. Washington,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,6,11,0.431,0.429,7:37
+1,5:44,DEN,Russell Westbrook,Offensive Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,6,19,0.25,0.227,5:46
+1,4:24,DEN,Nikola Jokic,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,10,23,0.241,0.244,4:30
+1,3:48,DAL,Quentin Grimes,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,12,23,0.229,0.262,3:53
+1,2:58,DEN,Aaron Gordon,Loose Ball Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,12,27,0.193,0.193,2:58
+1,2:52,DEN,Nikola Jokic,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,14,27,0.252,0.213,2:52
+1,50.1,DEN,Julian Strawther,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,17,32,0.215,0.183,56.0
+1,37.1,DAL,Daniel Gafford,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,19,32,0.173,0.225,39.2
+1,25.0,DEN,Julian Strawther,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,19,34,0.214,0.183,33.0
+2,11:46,DAL,Dwight Powell,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,21,36,0.146,0.157,11:46
+2,10:08,DAL,Dwight Powell,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,21,39,0.085,0.102,10:17
+2,9:59,DEN,Julian Strawther,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,21,41,0.098,0.09,10:08
+2,9:35,DAL,Klay Thompson,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,22,41,0.072,0.088,9:43
+2,7:39,DEN,Peyton Watson,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,27,47,0.09,0.08,7:39
+2,6:42,DAL,Kyrie Irving,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,32,49,0.082,0.102,6:54
+2,6:36,DEN,Christian Braun,Personal Take Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,32,50,0.103,0.104,6:42
+2,4:31,DAL,Jaden Hardy,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,39,54,0.099,0.142,4:40
+2,1:59,DAL,Daniel Gafford,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,39,64,0.012,0.017,2:02
+3,10:17,DEN,Nikola Jokic,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,47,75,0.006,0.006,10:27
+3,9:56,DAL,Maxi Kleber,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,47,75,0.003,0.005,10:03
+3,8:56,DAL,Maxi Kleber,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,49,78,0.002,0.002,8:58
+3,8:45,DEN,Russell Westbrook,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,49,79,0.003,0.001,8:56
+3,4:11,DEN,Christian Braun,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,60,86,0.005,0.003,4:14
+3,3:47,DEN,Peyton Watson,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,61,89,0.002,0.001,3:56
+3,3:39,DAL,Daniel Gafford,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,62,89,0.001,0.001,3:47
+3,1:18,DEN,Aaron Gordon,Loose Ball Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,64,91,0.001,0.001,1:18
+4,11:17,DEN,Julian Strawther,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,69,91,0.005,0.002,11:17
+4,5:20,DAL,Dwight Powell,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,84,107,0.001,0.001,5:37
+4,5:05,DAL,Naji Marshall,Loose Ball Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,84,107,0.001,0.001,5:05
+4,3:28,DAL,Jaden Hardy,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,88,109,0.001,0.001,3:28
+4,3:25,DEN,Jalen Pickett,Personal Take Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,88,111,0.001,0.001,3:28
+4,3:15,DEN,Hunter Tyson,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,90,111,0.001,0.001,3:15
+4,2:27,DEN,Hunter Tyson,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,92,113,0.001,0.001,2:27
+4,1:10,DEN,Hunter Tyson,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,97,116,0.001,0.001,1:12
+4,52.1,DAL,Jaden Hardy,Shooting Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,98,116,0.001,0.001,1:10
+4,42.2,DEN,Trey Alexander,Personal Foul,Foul,Scott Twardoski,Tyler Ford,Brandon Adair,DAL,98,118,0.001,0.001,52.1

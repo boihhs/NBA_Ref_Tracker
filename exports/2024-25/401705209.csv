@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:58,MEM,Ja Morant,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,2,5,0.759,0.756,11:00
+1,8:49,MEM,Jaylen Wells,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,7,5,0.807,0.831,9:03
+1,8:31,UTAH,Walker Kessler,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,7,7,0.835,0.814,8:49
+1,8:17,MEM,Zach Edey,Defensive 3-Seconds Technical,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,9,7,0.83,0.828,8:31
+1,7:29,MEM,GG Jackson,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,14,7,0.872,0.888,7:40
+1,6:50,UTAH,Isaiah Collier,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,17,9,0.907,0.908,6:54
+1,6:13,UTAH,Walker Kessler,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,17,12,0.891,0.875,6:22
+1,5:08,UTAH,Keyonte George,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,18,16,0.85,0.829,5:22
+1,3:52,MEM,Brandon Clarke,Offensive Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,23,19,0.839,0.854,4:00
+1,3:27,UTAH,Keyonte George,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,23,19,0.872,0.853,3:34
+1,2:03,MEM,Scotty Pippen Jr.,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,29,24,0.825,0.847,2:15
+1,1:35,UTAH,Brice Sensabaugh,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,31,26,0.881,0.859,1:35
+2,10:08,UTAH,Isaiah Collier,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,43,35,0.909,0.894,10:22
+2,9:52,UTAH,Keyonte George,Double Technical Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,44,35,0.901,0.903,9:52
+2,9:10,UTAH,Drew Eubanks,Flagrant Foul Type 2,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,46,35,0.92,0.918,9:10
+2,9:05,UTAH,Elijah Harkless,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,48,35,0.938,0.941,9:10
+2,8:11,MEM,Zach Edey,Offensive Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,48,35,0.931,0.94,8:22
+2,7:50,UTAH,Kyle Filipowski,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,50,38,0.936,0.921,7:50
+2,4:49,MEM,GG Jackson,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,51,42,0.884,0.885,4:54
+2,4:31,UTAH,Walker Kessler,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,51,44,0.891,0.869,4:36
+2,2:27,UTAH,Elijah Harkless,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,57,48,0.915,0.896,2:35
+2,1:42,MEM,Ja Morant,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,58,48,0.874,0.897,1:58
+2,1:32,UTAH,Lauri Markkanen,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,58,49,0.916,0.896,1:42
+2,1:14,MEM,Ja Morant,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,61,49,0.902,0.922,1:25
+2,30.2,MEM,Desmond Bane,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,63,53,0.874,0.91,2:09
+3,8:52,UTAH,Svi Mykhailiuk,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,75,60,0.962,0.964,8:58
+3,8:00,UTAH,Isaiah Collier,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,77,63,0.967,0.957,8:04
+3,7:50,MEM,Desmond Bane,Offensive Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,79,63,0.964,0.971,7:53
+3,7:41,MEM,Ja Morant,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,79,63,0.964,0.964,7:50
+3,5:58,UTAH,Walker Kessler,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,81,67,0.97,0.96,6:13
+3,5:20,UTAH,Brice Sensabaugh,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,83,67,0.982,0.974,5:27
+3,3:46,UTAH,Brice Sensabaugh,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,90,67,0.997,0.996,4:01
+3,3:32,MEM,Zach Edey,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,91,69,0.992,0.995,3:32
+3,3:18,MEM,Desmond Bane,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,93,70,0.996,0.995,3:24
+3,1:54,UTAH,Elijah Harkless,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,95,74,0.997,0.997,2:04
+3,1:18,MEM,GG Jackson,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,98,74,0.996,0.998,1:23
+3,35.1,UTAH,Isaiah Collier,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,100,74,0.999,0.999,39.1
+4,11:36,UTAH,Kyle Filipowski,Defensive 3-Seconds Technical,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,101,76,0.999,0.999,11:47
+4,10:19,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,104,78,0.999,0.999,10:24
+4,10:13,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,104,78,0.999,0.999,10:19
+4,8:20,MEM,Scotty Pippen Jr.,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,109,84,0.999,0.999,8:31
+4,6:23,UTAH,Isaiah Collier,Personal Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,111,86,0.999,0.999,6:23
+4,5:17,UTAH,Collin Sexton,Shooting Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,111,90,0.999,0.999,5:28
+4,2:40,MEM,Zach Edey,Offensive Foul,Foul,Jacyn Goble,Tyler Ford,Sha'Rae Mitchell,MEM,118,95,0.999,0.999,2:43

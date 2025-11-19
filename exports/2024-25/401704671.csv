@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:49,MIA,Nikola Jovic,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,0,2,0.628,0.666,10:49
+1,10:29,MIA,Jimmy Butler III,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,3,3,0.654,0.69,10:36
+1,9:58,DET,Tim Hardaway Jr.,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,5,8,0.64,0.64,10:14
+1,9:14,DET,Cade Cunningham,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,7,10,0.636,0.636,9:16
+1,9:06,DET,Jalen Duren,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,7,10,0.669,0.636,9:14
+1,6:44,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,15,14,0.697,0.695,6:53
+1,5:40,MIA,Terry Rozier,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,18,17,0.656,0.692,6:03
+1,4:26,DET,Malik Beasley,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,21,24,0.65,0.614,4:37
+1,4:21,DET,Tobias Harris,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,21,24,0.65,0.65,4:26
+1,57.0,MIA,Thomas Bryant,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,23,26,0.546,0.571,58.0
+1,50.0,DET,Ronald Holland II,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,23,27,0.606,0.565,57.0
+2,11:38,DET,Ronald Holland II,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,28,30,0.615,0.615,11:47
+2,9:28,MIA,Duncan Robinson,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,33,34,0.606,0.603,9:39
+2,8:13,DET,Cade Cunningham,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,35,37,0.641,0.599,8:30
+2,6:20,MIA,Terry Rozier,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,42,39,0.663,0.702,6:24
+2,6:02,DET,Tobias Harris,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,42,41,0.715,0.676,6:20
+2,2:58,DET,Cade Cunningham,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,53,46,0.833,0.797,2:58
+2,40.1,MIA,Jimmy Butler III,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,64,53,0.851,0.876,47.2
+3,10:20,MIA,Nikola Jovic,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,66,58,0.822,0.823,10:20
+3,6:04,DET,Jaden Ivey,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,69,70,0.621,0.562,6:15
+3,5:38,DET,Jalen Duren,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,71,70,0.638,0.638,5:46
+3,5:01,DET,Cade Cunningham,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,71,70,0.637,0.637,5:12
+3,2:16,MIA,Haywood Highsmith,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,75,75,0.542,0.54,2:33
+3,2:02,MIA,Thomas Bryant,Flagrant Foul Type 1,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,75,75,0.551,0.539,2:02
+3,34.1,DET,Isaiah Stewart,Offensive Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,75,79,0.388,0.338,41.1
+4,11:48,DET,Ronald Holland II,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,78,79,0.617,0.515,12:00
+4,11:48,DET,Isaiah Stewart,Loose Ball Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,79,79,0.604,0.534,11:48
+4,11:10,DET,Ronald Holland II,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,82,79,0.775,0.684,11:10
+4,10:57,DET,Isaiah Stewart,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,85,79,0.872,0.813,10:57
+4,10:30,MIA,Thomas Bryant,Defensive 3-Seconds Technical,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,87,79,0.887,0.881,10:43
+4,9:16,MIA,Duncan Robinson,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,90,79,0.931,0.948,9:19
+4,7:04,MIA,Bam Adebayo,Shooting Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,90,84,0.765,0.84,7:11
+4,1:24,DET,Jaden Ivey,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,103,95,0.995,0.986,1:30
+4,38.0,MIA,Terry Rozier,Personal Foul,Foul,Marat Kogut,Kevin Cutler,Gediminas Petraitis,MIA,106,98,0.957,0.986,46.1

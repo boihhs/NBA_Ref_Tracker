@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:25,ATL,Clint Capela,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,0,0,0.801,0.788,11:35
+1,10:15,ATL,Trae Young,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,6,0,0.878,0.859,10:15
+1,8:41,ATL,Jalen Johnson,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,12,3,0.914,0.901,8:46
+1,7:41,CLE,Darius Garland,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,18,6,0.917,0.917,7:53
+1,7:21,CLE,Jarrett Allen,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,18,6,0.903,0.916,7:25
+1,7:06,ATL,Jalen Johnson,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,18,8,0.915,0.908,7:06
+1,5:55,CLE,Ty Jerome,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,24,8,0.945,0.946,6:03
+1,4:05,CLE,Jarrett Allen,Loose Ball Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,30,14,0.935,0.91,9:41
+1,3:36,CLE,Georges Niang,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,30,16,0.918,0.931,3:38
+1,2:52,CLE,Donovan Mitchell,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,30,18,0.905,0.913,2:52
+1,2:30,CLE,Ty Jerome,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,32,23,0.869,0.893,2:30
+1,1:07,ATL,Kobe Bufkin,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,34,29,0.859,0.835,1:23
+2,10:30,CLE,Sam Merrill,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,43,37,0.829,0.829,10:40
+2,10:04,ATL,Zaccharie Risacher,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,43,37,0.868,0.846,10:10
+2,9:34,CLE,Isaac Okoro,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,45,37,0.835,0.859,9:40
+2,7:29,ATL,Dyson Daniels,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,48,42,0.839,0.84,7:43
+2,4:52,CLE,Jaylon Tyson,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,55,50,0.796,0.796,5:05
+2,4:52,CLE,Darius Garland,Technical Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,55,50,0.779,0.796,4:52
+2,4:43,CLE,Jaylon Tyson,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,55,51,0.737,0.774,4:52
+2,3:32,ATL,Onyeka Okongwu,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,55,53,0.746,0.746,3:32
+2,57.1,ATL,Dyson Daniels,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,60,61,0.691,0.649,1:13
+3,11:21,ATL,Clint Capela,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,66,64,0.749,0.701,11:21
+3,10:02,ATL,Trae Young,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,70,69,0.691,0.693,10:02
+3,8:31,ATL,Trae Young,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,74,76,0.606,0.539,8:31
+3,6:27,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,80,83,0.582,0.523,6:34
+3,4:53,ATL,Onyeka Okongwu,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,84,86,0.612,0.549,5:01
+3,2:48,ATL,Onyeka Okongwu,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,90,90,0.652,0.572,2:48
+3,1:22,CLE,Donovan Mitchell,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,91,95,0.305,0.373,1:27
+3,1:22,CLE,CLE,Technical Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,91,95,0.34,0.305,1:22
+3,1:20,CLE,Donovan Mitchell,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,91,96,0.263,0.329,1:22
+3,29.1,CLE,Ty Jerome,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,93,97,0.292,0.36,30.2
+4,10:49,ATL,Bogdan Bogdanovic,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,100,98,0.77,0.693,11:00
+4,10:14,CLE,Georges Niang,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,102,98,0.658,0.74,10:22
+4,9:31,ATL,Onyeka Okongwu,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,104,100,0.846,0.783,9:35
+4,8:29,CLE,Sam Merrill,Offensive Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,109,105,0.745,0.791,8:39
+4,8:20,CLE,Georges Niang,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,109,105,0.731,0.745,8:29
+4,7:35,ATL,Dyson Daniels,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,109,107,0.711,0.693,7:44
+4,7:05,CLE,Darius Garland,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,109,107,0.53,0.645,7:06
+4,6:05,ATL,De'Andre Hunter,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,109,112,0.49,0.376,6:13
+4,5:33,ATL,Dyson Daniels,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,109,115,0.287,0.204,5:34
+4,2:44,CLE,Evan Mobley,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,116,123,0.041,0.094,2:44
+4,2:22,CLE,Darius Garland,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,118,124,0.04,0.077,2:26
+4,2:02,ATL,De'Andre Hunter,Shooting Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,118,126,0.063,0.044,2:02
+4,44.2,CLE,Evan Mobley,Personal Foul,Foul,Kevin Scott,Nate Green,John Butler,CLE,124,131,0.005,0.016,47.2

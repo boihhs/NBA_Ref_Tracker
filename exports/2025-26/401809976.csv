@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:35,GS,Jonathan Kuminga,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,7,0,0.769,0.796,10:51
+1,8:26,GS,Brandin Podziemski,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,12,4,0.797,0.809,8:32
+1,5:47,GS,Quinten Post,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,25,15,0.816,0.841,6:02
+1,5:11,GS,Quinten Post,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,27,17,0.816,0.841,5:29
+1,2:24,MEM,Cedric Coward,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,27,29,0.639,0.598,2:38
+1,1:15,MEM,Kentavious Caldwell-Pope,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,29,33,0.557,0.507,1:15
+1,28.7,MEM,Jock Landale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,32,35,0.603,0.563,52.5
+1,6.5,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,34,35,0.548,0.585,28.7
+2,11:24,GS,Draymond Green,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,36,39,0.525,0.56,11:42
+2,11:04,GS,Draymond Green,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,36,39,0.525,0.524,11:04
+2,9:22,MEM,Cam Spencer,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,41,39,0.707,0.663,9:22
+2,9:17,GS,Moses Moody,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,42,39,0.688,0.687,9:22
+2,8:34,MEM,Cam Spencer,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,42,42,0.632,0.634,8:34
+2,6:08,GS,Buddy Hield,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,48,49,0.565,0.565,6:16
+2,5:58,MEM,Cedric Coward,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,48,49,0.592,0.593,6:03
+2,5:33,MEM,Cedric Coward,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,51,49,0.72,0.682,5:40
+2,4:58,MEM,John Konchar,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,55,49,0.798,0.756,4:58
+2,4:15,GS,Will Richard,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,56,51,0.711,0.757,4:15
+2,3:33,MEM,John Konchar,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,56,54,0.72,0.678,3:40
+2,2:55,MEM,Kentavious Caldwell-Pope,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,58,57,0.691,0.644,3:05
+2,2:37,GS,Stephen Curry,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,59,57,0.594,0.644,2:54
+2,1:54,GS,Brandin Podziemski,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,59,59,0.527,0.576,1:58
+2,1:42,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,59,61,0.595,0.544,1:54
+2,10.4,MEM,Jaylen Wells,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,63,61,0.714,0.668,21.8
+3,10:30,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,67,63,0.73,0.732,10:35
+3,9:55,GS,Stephen Curry,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,70,65,0.707,0.76,9:55
+3,9:05,MEM,Jock Landale,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,72,68,0.73,0.73,9:05
+3,8:47,MEM,Jock Landale,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,72,68,0.772,0.73,9:05
+3,8:31,MEM,Jaylen Wells,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,74,68,0.825,0.787,8:38
+3,3:48,MEM,MEM,Technical Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,91,78,0.952,0.93,3:49
+3,3:48,GS,Draymond Green,Technical Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,91,78,0.918,0.952,3:48
+3,3:48,GS,Draymond Green,Flagrant Foul Type 1,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,91,78,0.935,0.918,3:48
+3,3:25,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,91,78,0.953,0.944,3:48
+3,3:16,GS,Draymond Green,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,94,78,0.95,0.964,3:25
+3,2:27,MEM,Santi Aldama,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,97,78,0.992,0.988,2:35
+4,11:41,GS,Moses Moody,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,101,85,0.98,0.98,12:00
+4,11:17,GS,Draymond Green,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,101,85,0.965,0.944,3:32
+4,10:56,MEM,Cam Spencer,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,101,87,0.984,0.972,11:17
+4,7:32,GS,Draymond Green,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,112,91,0.997,0.998,7:37
+4,7:17,GS,Jonathan Kuminga,Offensive Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,112,93,0.997,0.998,7:32
+4,5:06,GS,Will Richard,Loose Ball Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,118,98,0.998,0.999,5:06
+4,4:33,GS,Buddy Hield,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,120,101,0.998,0.999,4:46
+4,3:57,GS,Buddy Hield,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,120,103,0.997,0.999,3:59
+4,2:50,GS,Brandin Podziemski,Personal Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,124,107,0.998,0.999,3:01
+4,2:19,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,124,109,0.999,0.999,2:20
+4,49.3,GS,Gui Santos,Shooting Foul,Foul,Sean Wright,Jason Goldenberg,Jenna Reneau,GS,131,114,0.999,0.999,52.3

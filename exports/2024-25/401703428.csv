@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:19,SAC,Malik Monk,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,5,4,0.44,0.456,8:19
+1,7:30,SAC,Domantas Sabonis,Loose Ball Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,7,6,0.46,0.458,7:30
+1,5:36,HOU,Dillon Brooks,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,9,11,0.409,0.41,5:52
+1,4:55,HOU,Steven Adams,Loose Ball Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,9,13,0.357,0.332,5:02
+1,32.1,SAC,Kevin Huerter,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,19,25,0.244,0.281,40.0
+2,11:10,HOU,Reed Sheppard,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,23,28,0.371,0.331,11:26
+2,9:43,HOU,Tari Eason,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,25,32,0.316,0.277,9:51
+2,6:26,SAC,Kevin Huerter,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,34,41,0.211,0.247,6:40
+2,5:41,SAC,DeMar DeRozan,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,36,42,0.273,0.271,5:59
+2,5:31,SAC,Keegan Murray,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,36,42,0.272,0.273,5:41
+2,4:51,HOU,Jabari Smith Jr.,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,36,42,0.298,0.298,4:52
+2,4:41,HOU,Dillon Brooks,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,36,42,0.34,0.298,4:51
+2,4:19,SAC,De'Aaron Fox,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,38,42,0.283,0.323,4:29
+2,4:19,HOU,Jabari Smith Jr.,Technical Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,38,42,0.376,0.283,4:19
+2,3:47,SAC,Domantas Sabonis,Offensive Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,39,45,0.269,0.298,4:06
+2,4:19,SAC,Malik Monk,Double Technical Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,39,42,0.362,0.268,3:29
+2,2:56,SAC,Malik Monk,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,41,50,0.175,0.213,2:56
+2,1:38,HOU,Amen Thompson,Offensive Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,46,54,0.233,0.213,1:54
+2,1:26,SAC,Domantas Sabonis,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,46,54,0.175,0.212,1:30
+3,11:45,HOU,Fred VanVleet,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,56,55,0.551,0.49,11:45
+3,10:48,HOU,Alperen Sengun,Offensive Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,59,58,0.527,0.491,11:04
+3,10:37,HOU,Jabari Smith Jr.,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,61,58,0.58,0.563,10:37
+3,10:12,HOU,Dillon Brooks,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,61,61,0.488,0.489,10:25
+3,8:49,HOU,Alperen Sengun,Offensive Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,69,61,0.774,0.741,8:59
+3,8:14,SAC,DeMar DeRozan,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,71,61,0.76,0.802,8:37
+3,6:51,HOU,Jalen Green,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,76,64,0.911,0.884,7:01
+3,5:58,SAC,Malik Monk,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,78,66,0.853,0.891,5:58
+3,4:37,HOU,Amen Thompson,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,80,71,0.87,0.831,4:56
+3,4:26,SAC,Domantas Sabonis,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,82,71,0.819,0.858,4:37
+3,1:55,SAC,De'Aaron Fox,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,89,74,0.891,0.949,2:13
+3,1:34,SAC,Isaac Jones,Offensive Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,89,76,0.925,0.93,2:59
+3,1:11,SAC,Jae Crowder,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,89,76,0.913,0.927,1:16
+3,16.0,SAC,Jae Crowder,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,93,80,0.907,0.934,27.1
+4,11:11,SAC,Isaac Jones,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,98,86,0.909,0.945,11:11
+4,10:15,HOU,Jabari Smith Jr.,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,100,89,0.959,0.935,10:23
+4,8:53,HOU,Tari Eason,Loose Ball Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,100,92,0.892,0.886,8:53
+4,7:02,SAC,Kevin Huerter,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,103,94,0.852,0.908,7:05
+4,6:27,HOU,Jabari Smith Jr.,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,105,96,0.954,0.913,6:27
+4,5:45,HOU,Dillon Brooks,Loose Ball Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,105,99,0.92,0.872,5:45
+4,4:00,HOU,Alperen Sengun,Shooting Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,110,101,0.977,0.95,4:00
+4,2:35,HOU,Jabari Smith Jr.,Loose Ball Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,114,103,0.997,0.994,2:35
+4,2:33,SAC,De'Aaron Fox,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,115,103,0.983,0.994,2:33
+4,1:52,HOU,HOU,Technical Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,117,105,0.998,0.998,1:52
+4,1:52,HOU,Alperen Sengun,Technical Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,118,105,0.999,0.999,1:52
+4,1:52,HOU,HOU,Technical Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,119,105,0.999,0.999,1:52
+4,4.1,HOU,Jae'Sean Tate,Personal Foul,Foul,John Goble,Marat Kogut,Jonathan Sterling,SAC,120,111,0.999,0.999,4.1

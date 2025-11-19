@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:48,POR,Jerami Grant,Loose Ball Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,0,2,0.365,0.365,10:48
+1,8:04,NO,Brandon Ingram,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,3,10,0.308,0.274,8:19
+1,6:22,NO,Herbert Jones,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,10,13,0.406,0.367,6:37
+1,5:15,POR,Toumani Camara,Personal Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,14,15,0.394,0.395,5:20
+1,2:46,POR,Scoot Henderson,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,24,19,0.522,0.565,2:52
+1,2:35,NO,Yves Missi,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,24,21,0.577,0.536,2:46
+1,2:25,POR,Jabari Walker,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,24,21,0.467,0.508,2:32
+1,2:06,NO,Jose Alvarado,Loose Ball Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,24,23,0.522,0.484,2:06
+2,10:24,POR,Donovan Clingan,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,31,29,0.445,0.49,10:37
+2,9:41,NO,Javonte Green,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,33,31,0.543,0.492,9:41
+2,8:00,NO,Yves Missi,Offensive Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,38,31,0.678,0.646,8:06
+2,7:46,NO,Javonte Green,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,38,31,0.717,0.678,8:00
+2,6:16,POR,Toumani Camara,Personal Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,44,35,0.711,0.709,6:28
+2,5:36,POR,Deni Avdija,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,47,35,0.774,0.791,5:36
+2,4:26,POR,Deandre Ayton,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,49,37,0.761,0.796,4:43
+2,4:17,POR,Scoot Henderson,Offensive Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,49,39,0.748,0.774,4:26
+2,3:11,NO,CJ McCollum,Loose Ball Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,49,41,0.725,0.732,3:11
+2,3:05,NO,CJ McCollum,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,51,41,0.801,0.755,3:05
+2,2:13,NO,Jose Alvarado,Personal Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,54,43,0.845,0.813,2:19
+3,10:10,POR,Deni Avdija,Loose Ball Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,65,49,0.914,0.914,10:10
+3,9:53,NO,Brandon Ingram,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,65,49,0.946,0.929,10:00
+3,9:08,POR,Toumani Camara,Personal Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,67,51,0.919,0.92,9:08
+3,7:49,NO,Herbert Jones,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,69,56,0.919,0.896,8:00
+3,6:38,NO,Daniel Theis,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,74,58,0.96,0.945,6:44
+3,5:25,POR,Deni Avdija,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,80,58,0.978,0.985,5:42
+3,2:45,POR,Scoot Henderson,Personal Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,85,65,0.976,0.984,2:47
+3,2:40,POR,Donovan Clingan,Defensive 3-Seconds Technical,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,85,65,0.985,0.984,2:45
+3,2:28,POR,Donovan Clingan,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,85,68,0.961,0.975,2:28
+3,2:20,NO,Zion Williamson,Personal Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,85,69,0.978,0.967,2:28
+3,1:50,POR,Jabari Walker,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,87,69,0.965,0.976,2:00
+3,1:33,POR,Jerami Grant,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,87,71,0.945,0.962,1:38
+3,1:06,POR,Jabari Walker,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,89,71,0.969,0.979,1:16
+3,56.1,NO,Javonte Green,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,89,73,0.983,0.975,1:06
+3,34.0,NO,Zion Williamson,Personal Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,91,76,0.98,0.966,44.0
+3,1.1,POR,Donovan Clingan,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,93,76,0.967,0.978,10.1
+4,10:42,POR,Scoot Henderson,Personal Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,98,77,0.995,0.995,10:44
+4,10:25,NO,Herbert Jones,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,100,77,0.999,0.997,10:25
+4,9:32,NO,Zion Williamson,Personal Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,101,81,0.997,0.996,9:50
+4,9:22,NO,Herbert Jones,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,103,81,0.999,0.998,9:22
+4,8:22,NO,Herbert Jones,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,104,84,0.999,0.998,8:40
+4,7:57,POR,Jerami Grant,Personal Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,106,84,0.999,0.999,7:57
+4,4:53,NO,Yves Missi,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,110,92,0.999,0.999,5:09
+4,4:06,POR,Deandre Ayton,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,115,94,0.999,0.999,4:06
+4,31.1,NO,Karlo Matkovic,Shooting Foul,Foul,John Goble,Tom Washington,Ashley Moyer-Gleich,POR,123,103,0.999,0.999,36.1

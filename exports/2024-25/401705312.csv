@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:16,MEM,Jaylen Wells,Personal Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,4,7,0.389,0.386,9:27
+1,9:00,OKC,Isaiah Hartenstein,Personal Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,4,7,0.412,0.412,9:07
+1,8:19,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,7,9,0.411,0.438,8:29
+1,6:49,MEM,Zach Edey,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,7,11,0.325,0.361,6:55
+1,5:20,OKC,Isaiah Hartenstein,Flagrant Foul Type 1,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,10,18,0.281,0.289,5:27
+1,4:57,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,13,21,0.323,0.288,5:07
+1,4:48,MEM,Brandon Clarke,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,14,21,0.253,0.285,4:57
+1,1:58,OKC,Jaylin Williams,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,23,31,0.301,0.258,1:58
+1,1:10,OKC,Jaylin Williams,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,24,34,0.27,0.236,1:24
+1,1.1,MEM,Luke Kennard,Loose Ball Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,26,34,0.221,0.253,1.1
+2,9:20,OKC,Kenrich Williams,Loose Ball Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,35,41,0.323,0.324,9:20
+2,9:11,MEM,Desmond Bane,Offensive Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,35,41,0.294,0.323,9:20
+2,9:01,MEM,Zach Edey,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,35,41,0.257,0.294,9:11
+2,8:53,OKC,Isaiah Joe,Personal Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,35,43,0.27,0.271,9:01
+2,5:17,MEM,Santi Aldama,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,42,52,0.173,0.211,5:17
+2,4:59,MEM,Jaylen Wells,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,42,53,0.139,0.167,5:09
+2,4:35,MEM,Jaylen Wells,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,44,55,0.138,0.166,4:50
+2,4:25,OKC,Alex Caruso,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,44,57,0.176,0.147,4:35
+2,1:44,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,50,64,0.145,0.118,1:52
+3,11:16,MEM,Zach Edey,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,52,71,0.032,0.045,11:16
+3,10:45,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,57,71,0.117,0.087,10:45
+3,8:52,OKC,Alex Caruso,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,62,79,0.073,0.055,9:01
+3,8:24,MEM,Santi Aldama,Personal Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,65,82,0.044,0.043,8:33
+3,7:59,OKC,Jalen Williams,Personal Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,65,84,0.034,0.035,8:16
+3,7:06,OKC,Jalen Williams,Personal Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,65,88,0.017,0.012,7:12
+3,6:33,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,67,88,0.01,0.015,6:43
+3,4:28,OKC,Dillon Jones,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,69,92,0.01,0.007,4:28
+3,3:34,MEM,Vince Williams Jr.,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,70,97,0.001,0.001,3:34
+3,3:24,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,70,97,0.002,0.001,3:32
+3,2:39,MEM,Vince Williams Jr.,Personal Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,71,97,0.001,0.001,2:47
+3,2:26,OKC,Kenrich Williams,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,71,99,0.001,0.001,2:39
+3,1:19,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,73,99,0.002,0.001,1:27
+3,52.1,OKC,Isaiah Joe,Personal Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,74,99,0.002,0.001,56.0
+3,3.1,MEM,Luke Kennard,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,79,102,0.001,0.001,13.2
+3,0.0,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,82,104,0.005,0.002,0.0
+4,11:43,OKC,Isaiah Joe,Loose Ball Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,86,104,0.014,0.009,11:43
+4,10:40,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,90,104,0.062,0.038,10:48
+4,9:14,OKC,Jalen Williams,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,94,108,0.054,0.031,9:19
+4,8:46,OKC,Alex Caruso,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,96,110,0.051,0.031,8:57
+4,8:41,OKC,Jalen Williams,Offensive Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,98,110,0.056,0.043,8:46
+4,7:25,MEM,Jaren Jackson Jr.,Offensive Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,98,110,0.033,0.047,7:25
+4,3:42,OKC,Aaron Wiggins,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,105,121,0.004,0.001,3:53
+4,3:40,MEM,Desmond Bane,Personal Take Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,107,121,0.002,0.002,3:42
+4,3:24,MEM,Ja Morant,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,107,121,0.001,0.002,3:40
+4,3:09,OKC,Isaiah Hartenstein,Shooting Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,107,122,0.004,0.002,3:24
+4,2:10,MEM,Jaren Jackson Jr.,Personal Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,107,122,0.001,0.001,2:26
+4,52.1,OKC,Jalen Williams,Personal Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,111,125,0.001,0.001,55.0
+4,49.1,MEM,Ja Morant,Personal Take Foul,Foul,Josh Tiven,Ray Acosta,Mousa Dagher,MEM,112,125,0.001,0.001,52.1

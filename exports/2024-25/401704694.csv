@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:00,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,4,5,0.441,0.485,10:00
+1,9:13,MIL,Brook Lopez,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,8,8,0.549,0.486,9:13
+1,7:41,MEM,Jaylen Wells,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,16,10,0.639,0.639,7:55
+1,7:19,MIL,Gary Trent Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,16,12,0.615,0.615,7:33
+1,7:14,MIL,Damian Lillard,Away from Play Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,16,12,0.614,0.616,7:14
+1,5:56,MIL,Taurean Prince,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,19,16,0.61,0.564,5:56
+1,5:23,MEM,Jay Huff,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,22,16,0.642,0.641,5:31
+1,5:13,MEM,Jay Huff,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,22,16,0.604,0.642,5:23
+1,2:45,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,32,17,0.882,0.86,2:52
+1,1:16,MIL,Delon Wright,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,38,21,0.905,0.878,1:16
+1,19.0,MIL,Andre Jackson Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,39,23,0.904,0.882,33.1
+1,4.1,MEM,Zach Edey,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,40,23,0.861,0.883,19.0
+2,10:53,MIL,Bobby Portis,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,40,26,0.88,0.856,11:09
+2,10:38,MEM,Scotty Pippen Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,42,26,0.874,0.874,10:53
+2,10:09,MEM,Jay Huff,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,44,30,0.827,0.859,10:09
+2,8:56,MEM,Jaren Jackson Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,44,32,0.808,0.808,8:58
+2,8:03,MIL,Pat Connaughton,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,44,35,0.766,0.767,8:09
+2,5:00,MIL,Bobby Portis,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,51,44,0.726,0.727,5:09
+2,2:33,MIL,Brook Lopez,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,62,46,0.927,0.904,2:33
+2,1:46,MIL,Taurean Prince,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,63,48,0.927,0.907,1:57
+2,1:15,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,67,48,0.959,0.946,1:15
+2,52.1,MEM,Brandon Clarke,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,68,48,0.94,0.955,1:15
+2,35.1,MIL,Brook Lopez,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,68,48,0.972,0.961,43.0
+3,11:43,MEM,Jaren Jackson Jr.,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,70,50,0.954,0.967,11:43
+3,10:53,MIL,Damian Lillard,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,72,52,0.968,0.969,11:00
+3,9:01,MIL,Damian Lillard,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,74,57,0.964,0.951,9:12
+3,8:50,MEM,Zach Edey,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,76,57,0.947,0.96,9:01
+3,5:01,MIL,Brook Lopez,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,83,63,0.989,0.984,5:13
+3,4:13,MEM,Jake LaRavia,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,87,63,0.99,0.993,4:20
+3,4:06,MIL,Pat Connaughton,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,87,65,0.994,0.992,4:10
+3,4:04,MEM,Jake LaRavia,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,88,65,0.988,0.992,4:05
+3,1.1,MEM,Jake LaRavia,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,99,70,0.999,0.999,6.1
+4,11:33,MIL,Giannis Antetokounmpo,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,99,70,0.999,0.999,11:44
+4,10:59,MEM,Jay Huff,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,101,72,0.999,0.999,10:59
+4,10:44,MEM,Jaren Jackson Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,101,72,0.999,0.999,10:47
+4,10:12,MIL,Andre Jackson Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,101,74,0.999,0.999,10:33
+4,9:38,MIL,Delon Wright,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,103,74,0.999,0.999,9:38
+4,9:14,MIL,Andre Jackson Jr.,Offensive Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,104,74,0.999,0.999,9:16
+4,7:44,MEM,Santi Aldama,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,104,83,0.998,0.999,7:44
+4,6:50,MIL,Andre Jackson Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,106,84,0.999,0.999,7:06
+4,6:45,MIL,Andre Jackson Jr.,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,106,84,0.999,0.999,6:50
+4,4:44,MIL,Giannis Antetokounmpo,Loose Ball Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,111,91,0.999,0.999,4:44
+4,4:03,MEM,Jaylen Wells,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,115,91,0.999,0.999,4:13
+4,3:44,MEM,Scotty Pippen Jr.,Offensive Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,115,91,0.999,0.999,3:49
+4,3:35,MEM,Zach Edey,Shooting Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,115,91,0.999,0.999,3:44
+4,1:52,MIL,Tyler Smith,Offensive Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,118,96,0.999,0.999,1:52
+4,1:43,MIL,Tyler Smith,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,118,96,0.999,0.999,1:52
+4,5.1,MEM,Jake LaRavia,Personal Foul,Foul,John Goble,Sean Corbin,Danielle Scott,MEM,122,98,0.999,0.999,15.1

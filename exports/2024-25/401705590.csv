@@ -1,0 +1,43 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:23,BKN,Nic Claxton,Offensive Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,4,0,0.811,0.793,9:37
+1,9:15,BKN,Keon Johnson,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,6,0,0.859,0.826,9:15
+1,8:38,IND,Tyrese Haliburton,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,7,2,0.809,0.807,8:45
+1,7:15,BKN,Tyrese Martin,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,10,11,0.739,0.709,7:27
+1,5:15,BKN,Cameron Johnson,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,17,14,0.794,0.763,5:15
+1,3:43,IND,Pascal Siakam,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,22,14,0.821,0.845,3:54
+1,1:59,IND,T.J. McConnell,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,26,17,0.834,0.858,2:18
+1,1:02,IND,Bennedict Mathurin,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,28,19,0.832,0.856,1:08
+1,35.0,IND,Pascal Siakam,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,28,21,0.797,0.824,42.1
+1,3.1,IND,T.J. McConnell,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,28,23,0.773,0.789,3.1
+2,8:26,BKN,Noah Clowney,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,33,32,0.727,0.709,8:26
+2,5:05,IND,Andrew Nembhard,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,47,36,0.86,0.883,5:09
+2,3:43,IND,Tyrese Haliburton,Loose Ball Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,52,41,0.885,0.885,3:43
+2,2:52,IND,Bennedict Mathurin,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,54,41,0.912,0.912,3:01
+2,9.0,BKN,Tyrese Martin,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,60,52,0.867,0.832,9.0
+2,5.0,IND,Ben Sheppard,Personal Take Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,61,52,0.823,0.853,9.0
+3,9:12,BKN,Jalen Wilson,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,71,60,0.928,0.908,9:24
+3,8:24,IND,Tyrese Haliburton,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,74,60,0.936,0.935,8:39
+3,5:33,IND,Andrew Nembhard,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,79,64,0.954,0.954,5:37
+3,5:32,IND,Myles Turner,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,79,64,0.954,0.954,5:33
+3,5:15,IND,Myles Turner,Offensive Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,79,66,0.933,0.945,5:25
+3,3:00,BKN,Maxwell Lewis,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,81,70,0.928,0.928,3:05
+3,2:54,BKN,Noah Clowney,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,81,70,0.947,0.928,3:00
+3,2:37,BKN,Day'Ron Sharpe,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,82,70,0.959,0.943,2:37
+3,2:14,BKN,Nic Claxton,Offensive Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,84,70,0.965,0.954,2:28
+3,6.1,IND,Jarace Walker,Personal Take Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,88,70,0.982,0.988,9.2
+3,6.0,BKN,Noah Clowney,Offensive Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,88,70,0.992,0.982,6.1
+4,11:39,IND,Jarace Walker,Loose Ball Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,90,70,0.994,0.995,11:39
+4,10:22,IND,Jarace Walker,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,90,73,0.978,0.987,10:37
+4,10:02,IND,Aaron Nesmith,Loose Ball Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,90,74,0.982,0.984,10:03
+4,7:35,BKN,Keon Johnson,Loose Ball Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,92,83,0.933,0.93,7:35
+4,6:58,BKN,Keon Johnson,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,92,86,0.868,0.854,7:14
+4,6:41,IND,Myles Turner,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,92,86,0.747,0.824,6:51
+4,3:43,IND,Myles Turner,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,94,91,0.57,0.679,4:13
+4,3:28,BKN,Jalen Wilson,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,96,92,0.863,0.75,3:28
+4,2:17,BKN,Cameron Johnson,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,97,94,0.879,0.779,2:33
+4,1:50,BKN,Nic Claxton,Personal Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,99,94,0.953,0.912,1:58
+4,50.1,IND,Tyrese Haliburton,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,100,94,0.856,0.924,1:04
+4,11.0,IND,Pascal Siakam,Shooting Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,104,97,0.985,0.998,11.0
+4,7.1,BKN,Tyrese Martin,Personal Take Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,104,101,0.979,0.937,8.0
+4,3.0,BKN,Tyrese Martin,Away from Play Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,105,103,0.981,0.988,3.0
+4,1.2,BKN,Tyrese Martin,Personal Take Foul,Foul,Curtis Blair,Michael Smith,Mitchell Ervin,IND,106,103,0.995,0.949,3.0

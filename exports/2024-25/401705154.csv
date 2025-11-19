@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:48,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,0,3,0.816,0.794,10:52
+1,8:50,IND,Pascal Siakam,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,3,8,0.688,0.723,8:53
+1,8:21,IND,Bennedict Mathurin,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,3,9,0.662,0.697,8:31
+1,5:27,IND,Myles Turner,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,11,12,0.764,0.796,5:27
+1,3:12,PHI,Tyrese Maxey,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,16,14,0.856,0.836,3:33
+1,1:54,PHI,Justin Edwards,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,22,20,0.851,0.829,2:01
+1,1:26,IND,Obi Toppin,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,22,22,0.754,0.791,1:26
+2,8:34,PHI,Andre Drummond,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,39,34,0.856,0.841,8:49
+2,8:07,PHI,Justin Edwards,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,39,36,0.847,0.822,8:13
+2,5:22,IND,Pascal Siakam,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,52,43,0.893,0.893,5:29
+2,5:16,PHI,Andre Drummond,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,52,43,0.905,0.893,5:22
+2,4:35,IND,Andrew Nembhard,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,54,45,0.891,0.891,4:35
+2,3:39,IND,Andrew Nembhard,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,56,45,0.897,0.916,3:45
+2,3:05,PHI,Justin Edwards,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,56,48,0.899,0.89,3:05
+2,1:50,IND,Myles Turner,Loose Ball Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,59,48,0.895,0.914,1:50
+2,1:40,IND,Myles Turner,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,59,50,0.877,0.9,1:40
+2,1:33,PHI,Ricky Council IV,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,59,51,0.908,0.889,1:40
+2,1:22,PHI,Eric Gordon,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,59,51,0.908,0.886,1:24
+2,1:01,IND,Tyrese Haliburton,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,59,51,0.843,0.873,1:21
+2,35.1,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,59,55,0.843,0.815,41.1
+3,9:48,IND,Andrew Nembhard,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,63,66,0.497,0.556,10:02
+3,8:04,IND,Bennedict Mathurin,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,70,68,0.714,0.716,8:21
+3,8:01,IND,Andrew Nembhard,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,70,68,0.715,0.714,8:04
+3,7:04,PHI,Eric Gordon,Away from Play Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,70,71,0.639,0.643,7:19
+3,5:58,PHI,Andre Drummond,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,76,71,0.84,0.795,5:58
+3,5:28,PHI,Tyrese Maxey,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,77,71,0.877,0.846,5:35
+3,4:27,PHI,Justin Edwards,Personal Take Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,79,71,0.913,0.888,4:32
+3,4:24,IND,Myles Turner,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,79,71,0.868,0.913,4:27
+3,3:18,IND,Obi Toppin,Loose Ball Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,79,74,0.74,0.788,3:18
+3,2:27,PHI,Kelly Oubre Jr.,Offensive Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,81,76,0.82,0.786,2:48
+4,10:56,PHI,Justin Edwards,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,91,82,0.951,0.926,11:03
+4,10:41,IND,Jarace Walker,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,93,82,0.912,0.943,10:56
+4,10:21,IND,Ben Sheppard,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,93,83,0.887,0.927,10:28
+4,9:33,PHI,Justin Edwards,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,95,85,0.958,0.928,9:33
+4,7:16,PHI,Tyrese Maxey,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,101,88,0.992,0.984,7:23
+4,5:36,IND,Andrew Nembhard,Loose Ball Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,101,93,0.91,0.921,5:36
+4,3:13,IND,Tyrese Haliburton,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,106,98,0.89,0.943,3:23
+4,1:23,PHI,Pete Nance,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,108,100,0.994,0.98,1:37
+4,1:05,IND,Myles Turner,Shooting Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,112,100,0.995,0.999,1:10
+4,30.0,IND,RayJ Dennis,Personal Foul,Foul,Mark Lindsay,J.T. Orr,Matt Myers,IND,115,101,0.999,0.999,42.0

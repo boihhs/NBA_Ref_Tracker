@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:12,PHX,Mark Williams,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,4,6,0.332,0.367,8:26
+1,7:25,PHX,Ryan Dunn,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,9,12,0.326,0.367,7:25
+1,5:41,PHX,Royce O'Neale,Loose Ball Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,11,17,0.272,0.272,5:41
+1,5:04,ATL,Dyson Daniels,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,11,19,0.286,0.252,5:17
+1,4:56,PHX,Collin Gillespie,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,13,19,0.241,0.273,5:04
+1,4:29,ATL,Mouhamed Gueye,Loose Ball Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,13,19,0.297,0.297,4:29
+1,4:13,ATL,Mouhamed Gueye,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,13,19,0.297,0.297,4:13
+1,2:35,ATL,Asa Newell,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,15,22,0.309,0.248,2:48
+1,1:27,PHX,Nick Richards,Loose Ball Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,17,22,0.259,0.297,1:27
+1,1:01,PHX,Devin Booker,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,19,24,0.259,0.297,1:13
+2,11:49,PHX,Oso Ighodaro,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,21,25,0.318,0.333,12:00
+2,11:33,ATL,Vit Krejci,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,21,27,0.294,0.295,11:40
+2,10:40,PHX,Collin Gillespie,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,26,31,0.276,0.318,10:40
+2,10:21,ATL,Keaton Wallace,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,28,32,0.367,0.319,10:21
+2,8:20,ATL,Mouhamed Gueye,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,31,32,0.432,0.432,8:24
+2,7:12,PHX,Oso Ighodaro,Defensive 3-Seconds Technical,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,35,37,0.382,0.373,7:26
+2,6:32,PHX,Mark Williams,Offensive Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,35,41,0.264,0.291,6:45
+2,5:09,PHX,Dillon Brooks,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,37,45,0.214,0.212,5:12
+2,2:56,ATL,Nickeil Alexander-Walker,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,46,50,0.367,0.314,2:56
+2,1:53,ATL,Dyson Daniels,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,49,54,0.336,0.283,1:53
+2,10.0,ATL,Jalen Johnson,Flagrant Foul Type 1,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,54,57,0.369,0.339,26.7
+2,2.1,ATL,Nickeil Alexander-Walker,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,56,57,0.495,0.442,10.0
+3,9:33,PHX,Dillon Brooks,Loose Ball Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,63,66,0.339,0.338,9:33
+3,9:27,PHX,Ryan Dunn,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,63,66,0.34,0.339,9:33
+3,8:49,PHX,Mark Williams,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,66,66,0.392,0.447,9:09
+3,8:41,PHX,Dillon Brooks,Offensive Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,66,68,0.374,0.412,8:49
+3,6:47,ATL,Onyeka Okongwu,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,72,73,0.512,0.452,6:53
+3,57.9,ATL,Vit Krejci,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,90,77,0.954,0.93,57.9
+4,9:53,ATL,Onyeka Okongwu,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,102,81,0.998,0.997,9:58
+4,9:46,PHX,Ryan Dunn,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,103,83,0.993,0.997,9:46
+4,8:21,PHX,Nick Richards,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,107,86,0.996,0.998,8:33
+4,6:52,PHX,Dillon Brooks,Technical Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,107,94,0.964,0.99,7:09
+4,5:57,PHX,Mark Williams,Loose Ball Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,107,98,0.909,0.917,5:57
+4,4:34,PHX,Devin Booker,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,107,105,0.516,0.66,4:34
+4,3:54,ATL,Onyeka Okongwu,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,111,106,0.875,0.782,3:54
+4,3:11,PHX,Dillon Brooks,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,112,109,0.611,0.742,3:11
+4,2:44,PHX,Devin Booker,Shooting Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,114,112,0.531,0.68,2:44
+4,1:27,PHX,Dillon Brooks,Offensive Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,116,115,0.517,0.614,1:45
+4,44.1,ATL,Vit Krejci,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,118,119,0.607,0.484,54.7
+4,23.3,PHX,Devin Booker,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,118,119,0.157,0.319,28.5
+4,10.1,PHX,Ryan Dunn,Personal Take Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,120,121,0.12,0.288,11.5
+4,7.5,ATL,Dyson Daniels,Personal Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,120,123,0.285,0.164,10.1
+4,3.1,PHX,Jordan Goodwin,Personal Take Foul,Foul,Brian Forte,Justin Van Duyne,Jenna Reneau,PHX,122,123,0.037,0.119,4.2

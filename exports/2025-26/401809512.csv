@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:18,ATL,Nickeil Alexander-Walker,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,4,2,0.628,0.663,10:29
+1,7:49,TOR,Jakob Poeltl,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,10,7,0.702,0.704,8:01
+1,7:06,ATL,Zaccharie Risacher,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,12,10,0.619,0.655,7:09
+1,4:39,TOR,Gradey Dick,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,17,16,0.686,0.649,4:44
+1,3:50,TOR,Collin Murray-Boyles,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,19,19,0.66,0.621,3:57
+1,1:22,TOR,Scottie Barnes,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,22,24,0.602,0.561,1:26
+2,10:39,TOR,Scottie Barnes,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,31,26,0.756,0.715,10:39
+2,10:05,TOR,RJ Barrett,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,32,28,0.734,0.716,10:05
+2,8:57,TOR,Ja'Kobe Walter,Loose Ball Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,39,28,0.856,0.857,8:58
+2,8:05,ATL,Keaton Wallace,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,39,28,0.813,0.843,8:10
+2,7:33,ATL,Onyeka Okongwu,Offensive Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,39,30,0.804,0.826,7:37
+2,4:57,ATL,Vit Krejci,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,43,30,0.857,0.881,5:01
+2,3:00,TOR,Brandon Ingram,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,46,36,0.878,0.853,3:03
+2,2:54,TOR,Brandon Ingram,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,46,36,0.866,0.878,3:00
+2,2:04,ATL,Zaccharie Risacher,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,51,38,0.863,0.888,2:18
+2,40.0,ATL,Jalen Johnson,Loose Ball Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,53,42,0.828,0.856,40.0
+2,27.6,ATL,Nickeil Alexander-Walker,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,53,42,0.828,0.828,40.0
+3,8:29,TOR,Immanuel Quickley,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,64,58,0.776,0.78,8:30
+3,8:08,TOR,RJ Barrett,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,64,58,0.816,0.779,8:13
+3,7:34,TOR,Brandon Ingram,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,66,58,0.83,0.831,7:44
+3,5:29,ATL,Jalen Johnson,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,73,62,0.884,0.884,5:44
+3,3:29,ATL,Onyeka Okongwu,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,75,66,0.808,0.848,3:39
+3,55.4,TOR,Gradey Dick,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,75,73,0.717,0.65,1:11
+4,11:39,TOR,Collin Murray-Boyles,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,77,73,0.756,0.746,11:44
+4,11:33,ATL,Onyeka Okongwu,Offensive Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,77,73,0.703,0.756,11:39
+4,10:58,TOR,Jamal Shead,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,77,73,0.82,0.753,11:01
+4,9:18,ATL,Keaton Wallace,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,81,76,0.683,0.765,9:19
+4,8:15,ATL,Onyeka Okongwu,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,81,78,0.566,0.667,8:23
+4,6:57,TOR,Immanuel Quickley,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,81,85,0.328,0.308,7:07
+4,6:35,ATL,Vit Krejci,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,81,85,0.234,0.256,6:48
+4,6:27,ATL,Dyson Daniels,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,81,85,0.164,0.234,6:35
+4,6:07,ATL,Dyson Daniels,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,81,85,0.158,0.226,6:07
+4,6:00,TOR,Jakob Poeltl,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,81,87,0.266,0.181,6:07
+4,3:27,TOR,RJ Barrett,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,86,93,0.165,0.102,3:37
+4,3:15,ATL,Nickeil Alexander-Walker,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,88,93,0.078,0.138,3:27
+4,2:38,TOR,Jakob Poeltl,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,90,97,0.109,0.052,2:38
+4,2:28,ATL,Zaccharie Risacher,Shooting Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,91,99,0.022,0.051,2:28
+4,1:53,TOR,Scottie Barnes,Personal Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,91,102,0.019,0.008,1:58
+4,51.6,TOR,Jakob Poeltl,Loose Ball Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,95,104,0.03,0.01,51.6
+4,22.5,ATL,Zaccharie Risacher,Personal Take Foul,Foul,Zach Zarba,Scott Twardoski,Suyash Mehta,ATL,97,107,0.001,0.001,25.8

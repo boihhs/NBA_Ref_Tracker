@@ -1,0 +1,47 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:29,DET,Ausar Thompson,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,3,2,0.332,0.303,10:39
+1,9:12,DET,Cade Cunningham,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,5,7,0.244,0.243,9:23
+1,9:06,DET,Cade Cunningham,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,7,7,0.299,0.264,9:06
+1,8:46,UTAH,KJ Martin,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,8,7,0.255,0.285,9:06
+1,8:38,UTAH,Walker Kessler,Offensive Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,8,9,0.246,0.264,8:46
+1,7:55,UTAH,Walker Kessler,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,10,9,0.275,0.289,8:07
+1,5:58,UTAH,Johnny Juzang,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,16,15,0.301,0.298,5:58
+1,4:46,UTAH,Keyonte George,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,16,22,0.157,0.186,4:46
+1,3:08,UTAH,KJ Martin,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,16,27,0.096,0.116,3:08
+1,2:06,UTAH,KJ Martin,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,16,27,0.088,0.104,2:08
+1,1:50,UTAH,Cody Williams,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,18,29,0.088,0.104,1:57
+1,1:43,UTAH,Cody Williams,Offensive Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,18,31,0.083,0.094,1:50
+1,39.1,UTAH,Kyle Filipowski,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,21,33,0.078,0.094,56.1
+1,3.0,DET,Malik Beasley,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,21,36,0.089,0.072,10.1
+2,10:59,DET,Paul Reed,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,22,36,0.098,0.081,11:01
+2,10:18,DET,Ronald Holland II,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,23,38,0.087,0.071,10:40
+2,10:06,UTAH,Kyle Filipowski,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,25,38,0.067,0.081,10:18
+2,9:33,UTAH,Oscar Tshiebwe,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,25,39,0.059,0.072,9:43
+2,9:22,DET,Ronald Holland II,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,27,40,0.101,0.081,9:22
+2,1:48,DET,Dennis Schroder,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,40,60,0.036,0.027,1:48
+2,1:16,DET,Simone Fontecchio,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,40,63,0.02,0.015,1:25
+2,30.1,DET,Tim Hardaway Jr.,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,42,65,0.019,0.014,31.0
+2,2.0,DET,Jalen Duren,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,46,67,0.024,0.017,2.0
+3,11:03,UTAH,Isaiah Collier,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,47,71,0.006,0.009,11:03
+3,10:32,DET,Malik Beasley,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,49,72,0.016,0.012,10:35
+3,8:39,DET,Cade Cunningham,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,49,77,0.004,0.002,8:54
+3,8:07,UTAH,Collin Sexton,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,51,77,0.002,0.003,8:11
+3,7:58,DET,Malik Beasley,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,53,79,0.005,0.003,7:58
+3,5:46,UTAH,Walker Kessler,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,56,83,0.001,0.001,5:47
+3,5:37,DET,Tim Hardaway Jr.,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,58,83,0.005,0.003,5:37
+3,5:11,DET,Dennis Schroder,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,59,85,0.004,0.002,5:21
+3,4:11,DET,Paul Reed,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,60,85,0.004,0.002,4:18
+3,1:24,DET,Paul Reed,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,70,94,0.003,0.002,1:41
+3,1:15,UTAH,Svi Mykhailiuk,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,72,94,0.001,0.003,1:24
+3,59.1,UTAH,KJ Martin,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,72,94,0.001,0.002,1:04
+3,3.1,UTAH,Svi Mykhailiuk,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,77,98,0.001,0.003,15.0
+4,10:01,DET,Malik Beasley,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,83,102,0.007,0.003,10:01
+4,8:12,DET,Cade Cunningham,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,90,106,0.01,0.009,8:19
+4,7:58,UTAH,Isaiah Collier,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,90,106,0.006,0.007,8:06
+4,7:43,DET,Jalen Duren,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,90,108,0.008,0.004,7:52
+4,7:26,UTAH,Kyle Filipowski,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,91,108,0.002,0.004,7:43
+4,6:55,UTAH,Brice Sensabaugh,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,91,110,0.001,0.001,6:56
+4,5:54,UTAH,Keyonte George,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,91,114,0.001,0.001,5:54
+4,4:47,UTAH,Kyle Filipowski,Personal Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,93,115,0.001,0.001,4:54
+4,2:44,DET,Marcus Sasser,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,97,126,0.001,0.001,2:44
+4,2:13,DET,Ronald Holland II,Shooting Foul,Foul,Bill Kennedy,Tre Maddox,Intae Hwang,UTAH,100,128,0.001,0.001,2:13

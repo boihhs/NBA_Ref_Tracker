@@ -1,0 +1,41 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:11,DAL,Dante Exum,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,11,12,0.358,0.402,8:11
+1,7:30,SAC,DeMar DeRozan,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,13,15,0.414,0.377,7:34
+1,5:23,SAC,Keon Ellis,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,13,22,0.252,0.221,5:36
+1,3:14,DAL,Naji Marshall,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,22,22,0.37,0.409,3:32
+1,2:29,SAC,Jake LaRavia,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,24,25,0.43,0.383,2:29
+1,1:30,SAC,Jonas Valanciunas,Offensive Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,28,27,0.47,0.437,1:42
+2,11:05,DAL,Naji Marshall,Personal Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,35,27,0.647,0.647,11:11
+2,8:15,SAC,Jonas Valanciunas,Offensive Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,41,37,0.576,0.543,8:19
+2,6:30,DAL,Kessler Edwards,Personal Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,43,39,0.549,0.549,6:39
+2,5:44,DAL,Dante Exum,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,43,43,0.405,0.459,5:44
+2,3:39,SAC,Keegan Murray,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,48,49,0.48,0.429,3:41
+2,2:25,SAC,Zach LaVine,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,52,49,0.591,0.531,2:25
+2,1:40,SAC,Malik Monk,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,57,51,0.692,0.635,1:40
+2,12.1,SAC,Zach LaVine,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,60,58,0.592,0.534,31.1
+3,8:15,SAC,Domantas Sabonis,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,70,72,0.461,0.402,8:26
+3,7:18,DAL,Kyrie Irving,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,73,76,0.303,0.365,7:18
+3,5:09,SAC,DeMar DeRozan,Loose Ball Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,78,81,0.365,0.254,5:27
+3,4:43,SAC,Zach LaVine,Offensive Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,78,81,0.365,0.323,4:46
+3,3:55,DAL,Naji Marshall,Personal Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,82,81,0.49,0.488,4:04
+3,2:56,SAC,Malik Monk,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,82,83,0.516,0.448,3:14
+3,2:11,SAC,Malik Monk,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,86,85,0.575,0.495,2:11
+3,1:58,DAL,Kylor Kelley,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,86,85,0.425,0.495,2:08
+3,7.0,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,92,86,0.701,0.726,29.0
+3,2.1,SAC,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,92,87,0.795,0.732,7.0
+4,10:34,SAC,Zach LaVine,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,96,89,0.885,0.831,10:50
+4,10:19,SAC,Domantas Sabonis,Loose Ball Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,98,89,0.904,0.897,10:19
+4,9:49,DAL,Kyrie Irving,Personal Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,98,89,0.869,0.878,9:51
+4,7:28,DAL,Kessler Edwards,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,103,93,0.87,0.92,7:37
+4,3:53,SAC,Jonas Valanciunas,Offensive Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,107,106,0.599,0.518,4:09
+4,3:00,SAC,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,109,108,0.698,0.524,3:00
+4,2:51,DAL,Klay Thompson,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,110,108,0.469,0.618,3:00
+4,2:30,SAC,Jonas Valanciunas,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,112,110,0.762,0.602,2:30
+4,1:57,SAC,Keegan Murray,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,112,110,0.825,0.716,2:11
+4,1:39,DAL,Spencer Dinwiddie,Offensive Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,114,112,0.628,0.724,1:51
+4,11.1,DAL,Kessler Edwards,Personal Take Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,116,114,0.499,0.69,15.1
+5,3:36,DAL,Spencer Dinwiddie,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,118,118,0.337,0.464,3:52
+5,2:36,SAC,Domantas Sabonis,Offensive Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,118,120,0.367,0.286,2:45
+5,1:48,DAL,Max Christie,Offensive Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,121,122,0.353,0.465,1:56
+5,1:03,DAL,Kyrie Irving,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,123,122,0.367,0.528,1:16
+5,21.1,DAL,Naji Marshall,Shooting Foul,Foul,Zach Zarba,Andy Nagy,Mousa Dagher,DAL,123,125,0.074,0.187,40.0

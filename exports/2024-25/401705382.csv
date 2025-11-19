@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:48,TOR,Immanuel Quickley,Personal Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,0,0,0.45,0.45,12:00
+1,9:28,TOR,Orlando Robinson,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,10,4,0.566,0.605,9:48
+1,8:49,PHX,Bradley Beal,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,10,6,0.617,0.578,9:00
+1,6:11,PHX,Ryan Dunn,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,15,12,0.598,0.559,6:17
+1,4:06,TOR,Orlando Robinson,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,18,14,0.521,0.561,4:09
+1,3:58,PHX,Devin Booker,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,18,15,0.602,0.562,4:06
+1,1:46,TOR,Jamal Shead,Personal Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,24,20,0.525,0.569,1:55
+1,9.1,PHX,Devin Booker,Offensive Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,27,25,0.545,0.515,26.1
+1,0.1,PHX,Mason Plumlee,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,27,25,0.587,0.545,9.1
+2,10:31,TOR,Ja'Kobe Walter,Personal Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,33,27,0.632,0.631,10:40
+2,9:07,PHX,Tyus Jones,Personal Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,38,31,0.694,0.693,9:08
+2,6:11,TOR,Ochai Agbaji,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,45,41,0.561,0.617,6:11
+2,5:52,PHX,Royce O'Neale,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,47,41,0.719,0.676,5:53
+2,5:05,PHX,Nick Richards,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,47,43,0.664,0.62,5:10
+2,4:20,TOR,Ochai Agbaji,Personal Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,50,45,0.621,0.621,4:28
+2,2:57,TOR,Immanuel Quickley,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,56,47,0.725,0.744,2:57
+2,2:31,PHX,Royce O'Neale,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,58,49,0.792,0.748,2:31
+2,1:25,TOR,RJ Barrett,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,61,49,0.791,0.827,1:46
+2,1:25,PHX,Kevin Durant,Technical Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,61,49,0.865,0.791,1:25
+2,4.1,PHX,Kevin Durant,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,65,51,0.915,0.892,22.1
+2,0.1,TOR,Ochai Agbaji,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,67,51,0.88,0.906,4.1
+3,11:07,PHX,Kevin Durant,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,69,52,0.948,0.941,11:07
+3,9:25,PHX,Devin Booker,Personal Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,73,59,0.908,0.909,9:27
+3,9:09,PHX,Nick Richards,Offensive Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,73,59,0.91,0.893,9:15
+3,8:43,TOR,Scottie Barnes,Offensive Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,73,61,0.857,0.876,8:50
+3,8:00,PHX,Nick Richards,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,73,63,0.852,0.838,8:00
+3,7:18,TOR,Immanuel Quickley,Offensive Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,76,66,0.817,0.839,7:35
+3,6:38,PHX,Bradley Beal,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,76,66,0.879,0.844,6:57
+3,4:36,TOR,Jamal Shead,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,81,75,0.65,0.706,4:47
+3,3:31,TOR,RJ Barrett,Offensive Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,83,77,0.715,0.754,3:35
+3,2:49,TOR,Scottie Barnes,Loose Ball Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,83,77,0.721,0.721,2:49
+3,2:43,TOR,Ja'Kobe Walter,Personal Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,83,77,0.721,0.721,2:49
+3,1:43,TOR,Jamal Shead,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,88,77,0.848,0.884,1:59
+3,1:32,TOR,Ochai Agbaji,Loose Ball Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,88,77,0.849,0.887,1:32
+3,35.1,TOR,Jonathan Mogbo,Offensive Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,88,80,0.815,0.843,50.1
+4,10:26,TOR,Jonathan Mogbo,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,93,88,0.671,0.767,10:26
+4,10:08,TOR,Jonathan Mogbo,Personal Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,95,89,0.749,0.761,10:16
+4,9:06,PHX,Grayson Allen,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,97,89,0.92,0.878,9:08
+4,9:06,PHX,PHX,Technical Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,97,89,0.899,0.92,9:06
+4,7:39,PHX,Devin Booker,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,104,93,0.968,0.941,7:39
+4,6:57,TOR,Chris Boucher,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,105,93,0.932,0.961,7:06
+4,6:43,PHX,Bradley Beal,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,105,95,0.971,0.947,6:57
+4,1:45,PHX,Devin Booker,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,123,107,0.999,0.999,1:45
+4,1:30,TOR,Gradey Dick,Shooting Foul,Foul,Tyler Ford,Matt Kallio,Mousa Dagher,TOR,124,107,0.999,0.999,1:45

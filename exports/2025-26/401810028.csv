@@ -1,0 +1,44 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:25,IND,Ben Sheppard,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,4,9,0.55,0.596,9:25
+1,8:53,IND,Jarace Walker,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,6,10,0.553,0.593,9:11
+1,6:50,IND,Isaiah Jackson,Personal Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,11,15,0.578,0.582,7:08
+1,5:12,BKN,Michael Porter Jr.,Loose Ball Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,13,15,0.648,0.649,5:12
+1,2:08,IND,Pascal Siakam,Offensive Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,18,23,0.521,0.553,2:17
+1,1:25,BKN,Jalen Wilson,Loose Ball Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,18,23,0.589,0.548,1:25
+2,11:00,BKN,Nic Claxton,Loose Ball Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,21,25,0.559,0.558,11:00
+2,10:35,BKN,Ziaire Williams,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,23,25,0.634,0.587,10:35
+2,10:12,IND,Jay Huff,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,26,25,0.628,0.669,10:21
+2,10:03,BKN,Noah Clowney,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,26,26,0.704,0.668,10:11
+2,9:46,IND,Jay Huff,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,27,28,0.589,0.638,9:46
+2,8:23,BKN,Nic Claxton,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,32,34,0.646,0.604,8:32
+2,7:44,IND,Jarace Walker,Personal Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,37,36,0.658,0.659,7:54
+2,7:16,IND,Ben Sheppard,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,40,36,0.696,0.735,7:28
+2,7:03,BKN,Jalen Wilson,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,42,38,0.775,0.734,7:03
+2,3:48,IND,Pascal Siakam,Personal Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,46,45,0.595,0.642,3:59
+2,3:33,IND,Aaron Nesmith,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,48,47,0.594,0.641,3:41
+2,3:23,BKN,Noah Clowney,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,48,49,0.656,0.612,3:33
+2,27.8,IND,Isaiah Jackson,Personal Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,57,51,0.732,0.773,36.3
+3,11:52,IND,IND,Technical Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,59,56,0.637,0.721,11:57
+3,11:52,IND,IND,Technical Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,59,56,0.637,0.637,11:52
+3,10:30,IND,Isaiah Jackson,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,61,59,0.568,0.624,10:51
+3,9:03,BKN,Terance Mann,Personal Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,65,62,0.717,0.718,9:25
+3,7:02,BKN,Noah Clowney,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,67,70,0.55,0.491,7:16
+3,6:23,IND,Jeremiah Robinson-Earl,Loose Ball Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,69,70,0.524,0.524,6:23
+3,5:28,BKN,Michael Porter Jr.,Offensive Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,72,72,0.602,0.56,5:33
+3,5:02,BKN,Nic Claxton,Loose Ball Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,72,72,0.599,0.6,5:02
+3,4:51,IND,Aaron Nesmith,Personal Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,72,72,0.558,0.556,4:56
+3,4:33,IND,Tony Bradley,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,72,72,0.491,0.556,4:34
+3,1:44,BKN,Terance Mann,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,79,77,0.734,0.675,1:46
+4,10:56,IND,Cody Martin,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,83,80,0.584,0.67,11:06
+4,9:36,IND,Pascal Siakam,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,86,87,0.396,0.513,9:36
+4,8:13,IND,Isaiah Jackson,Technical Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,86,92,0.151,0.23,8:25
+4,7:55,IND,Isaiah Jackson,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,86,92,0.115,0.177,7:56
+4,7:18,BKN,Terance Mann,Personal Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,86,93,0.17,0.163,7:28
+4,7:13,BKN,Ziaire Williams,Personal Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,86,93,0.176,0.17,7:18
+4,6:58,BKN,Michael Porter Jr.,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,88,93,0.316,0.204,6:58
+4,5:26,IND,Ben Sheppard,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,91,96,0.114,0.188,5:47
+4,3:42,IND,Jay Huff,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,91,99,0.024,0.049,4:00
+4,2:58,BKN,Michael Porter Jr.,Personal Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,93,101,0.111,0.052,2:58
+4,2:35,IND,Pascal Siakam,Personal Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,96,101,0.066,0.122,2:43
+4,2:06,IND,Jay Huff,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,96,102,0.035,0.075,2:24
+4,22.1,IND,Pascal Siakam,Shooting Foul,Foul,Eric Dalen,Marc Davis,Chelisa Painter,IND,103,109,0.008,0.035,22.1

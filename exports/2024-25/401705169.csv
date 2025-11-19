@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:53,CLE,Dean Wade,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,2,0,0.677,0.71,11:08
+1,9:10,PHX,Tyus Jones,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,7,7,0.714,0.681,9:17
+1,8:38,PHX,Nick Richards,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,9,7,0.724,0.702,8:47
+1,5:49,PHX,Devin Booker,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,16,13,0.767,0.738,6:00
+1,4:09,CLE,Ty Jerome,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,22,23,0.594,0.639,4:09
+1,3:49,CLE,Tristan Thompson,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,22,23,0.612,0.612,3:49
+1,3:07,CLE,Georges Niang,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,24,23,0.622,0.661,3:22
+2,11:18,CLE,Donovan Mitchell,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,30,27,0.7,0.698,11:27
+2,9:01,PHX,Nick Richards,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,34,27,0.809,0.788,9:14
+2,8:01,PHX,Tyus Jones,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,36,32,0.742,0.744,8:17
+2,6:20,PHX,Nick Richards,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,42,35,0.837,0.81,6:31
+2,5:57,CLE,Jarrett Allen,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,44,35,0.828,0.827,5:57
+2,4:50,CLE,Dean Wade,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,44,37,0.75,0.786,4:58
+2,4:29,PHX,Kevin Durant,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,44,39,0.762,0.762,4:29
+2,4:18,PHX,Ryan Dunn,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,46,39,0.823,0.786,4:18
+2,2:16,PHX,Ryan Dunn,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,53,44,0.877,0.85,2:19
+2,1:50,PHX,Ryan Dunn,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,54,44,0.894,0.87,1:55
+2,1:12,CLE,Georges Niang,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,55,44,0.842,0.868,1:17
+2,12.1,CLE,Max Strus,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,59,45,0.896,0.916,29.1
+3,11:47,CLE,Dean Wade,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,59,46,0.904,0.91,12:00
+3,11:22,PHX,Devin Booker,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,59,48,0.89,0.891,11:33
+3,9:28,PHX,Kevin Durant,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,69,48,0.986,0.98,9:28
+3,9:03,PHX,Ryan Dunn,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,72,51,0.987,0.981,9:03
+3,8:58,CLE,Donovan Mitchell,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,73,51,0.984,0.984,9:03
+3,4:06,CLE,Georges Niang,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,82,64,0.967,0.976,4:25
+3,2:37,PHX,Devin Booker,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,82,68,0.972,0.959,2:52
+3,1:52,PHX,Nick Richards,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,85,68,0.988,0.982,2:09
+3,1:14,CLE,Tristan Thompson,Loose Ball Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,87,70,0.969,0.985,1:15
+4,10:55,PHX,Devin Booker,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,95,70,0.999,0.999,11:09
+4,10:30,CLE,Ty Jerome,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,95,70,0.999,0.999,10:42
+4,9:58,PHX,Nick Richards,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,95,70,0.999,0.999,9:59
+4,9:31,PHX,Royce O'Neale,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,97,70,0.999,0.999,9:40
+4,8:27,PHX,Bradley Beal,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,100,74,0.999,0.999,8:48
+4,5:36,PHX,Oso Ighodaro,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,110,80,0.999,0.999,5:36
+4,5:03,CLE,JT Thor,Shooting Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,110,83,0.999,0.999,5:12
+4,4:22,CLE,JT Thor,Offensive Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,113,85,0.999,0.999,4:32
+4,3:17,CLE,Jaylon Tyson,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,116,87,0.999,0.999,3:27
+4,46.1,CLE,Tristan Thompson,Personal Foul,Foul,Courtney Kirkland,Brent Barnaky,Suyash Mehta,CLE,118,92,0.999,0.999,59.1

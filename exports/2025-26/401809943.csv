@@ -1,0 +1,49 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:41,ATL,Onyeka Okongwu,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,0,0,0.685,0.65,12:00
+1,10:19,ATL,Onyeka Okongwu,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,7,2,0.768,0.733,10:19
+1,8:33,ORL,Desmond Bane,Personal Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,11,6,0.734,0.732,8:33
+1,7:58,ATL,Jalen Johnson,Offensive Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,13,8,0.753,0.732,8:08
+1,6:50,ORL,Anthony Black,Offensive Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,13,10,0.687,0.709,6:57
+1,6:10,ORL,Paolo Banchero,Offensive Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,13,10,0.686,0.708,6:27
+1,5:55,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,13,10,0.666,0.685,5:55
+1,5:50,ATL,Jalen Johnson,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,13,10,0.738,0.707,5:51
+1,5:29,ATL,Luke Kennard,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,13,12,0.694,0.66,5:33
+1,1:42,ORL,Tristan da Silva,Personal Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,19,19,0.555,0.597,1:42
+1,1:15,ATL,Vit Krejci,Personal Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,19,21,0.61,0.569,1:23
+1,3.3,ORL,Goga Bitadze,Personal Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,24,23,0.579,0.622,6.7
+2,10:00,ATL,Luke Kennard,Away from Play Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,30,27,0.696,0.698,10:13
+2,8:49,ORL,Goga Bitadze,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,36,29,0.732,0.767,9:05
+2,8:20,ORL,Franz Wagner,Personal Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,39,31,0.79,0.789,8:32
+2,6:55,ORL,Desmond Bane,Defensive 3-Seconds Technical,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,42,31,0.854,0.849,7:10
+2,6:51,ORL,Anthony Black,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,42,32,0.802,0.831,6:55
+2,6:29,ATL,Mouhamed Gueye,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,44,34,0.863,0.831,6:29
+2,6:28,ATL,Mouhamed Gueye,Technical Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,44,34,0.863,0.85,6:28
+2,5:54,ATL,Asa Newell,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,45,36,0.858,0.832,6:10
+2,5:39,ORL,Anthony Black,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,46,36,0.801,0.831,5:51
+2,4:59,ATL,Dyson Daniels,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,46,37,0.846,0.833,5:01
+2,4:06,ATL,Dyson Daniels,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,51,39,0.908,0.885,4:14
+2,2:48,ORL,Paolo Banchero,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,53,42,0.827,0.855,2:59
+2,2:39,ATL,Jalen Johnson,Personal Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,53,44,0.866,0.836,2:48
+2,1:39,ORL,Jalen Suggs,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,57,44,0.866,0.891,1:41
+2,1:27,ORL,Jalen Suggs,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,57,48,0.803,0.839,1:27
+2,41.9,ORL,Franz Wagner,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,59,51,0.757,0.799,43.8
+3,8:15,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,70,59,0.873,0.893,8:27
+3,7:43,ATL,Jalen Johnson,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,72,59,0.935,0.913,7:43
+3,7:14,ATL,Mouhamed Gueye,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,73,61,0.933,0.912,7:28
+3,7:01,ORL,Anthony Black,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,75,61,0.906,0.928,7:14
+3,6:04,ORL,Franz Wagner,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,75,64,0.869,0.902,6:04
+3,4:40,ORL,Wendell Carter Jr.,Offensive Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,77,67,0.869,0.889,4:57
+3,3:49,ATL,Jalen Johnson,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,77,69,0.883,0.847,4:16
+3,3:49,ATL,Trae Young,Technical Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,77,69,0.868,0.862,0.1
+3,21.6,ATL,Luke Kennard,Personal Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,85,78,0.884,0.812,21.6
+3,9.2,ORL,Tyus Jones,Personal Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,86,78,0.796,0.842,21.6
+4,11:44,ATL,Onyeka Okongwu,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,86,78,0.916,0.859,12:00
+4,5:37,ATL,Dyson Daniels,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,93,96,0.467,0.349,5:38
+4,5:25,ORL,Desmond Bane,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,94,98,0.186,0.286,5:25
+4,4:33,ATL,Onyeka Okongwu,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,96,98,0.546,0.41,4:45
+4,2:56,ORL,Paolo Banchero,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,100,103,0.143,0.242,3:04
+4,2:34,ATL,Dyson Daniels,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,100,105,0.23,0.161,2:34
+4,1:47,ORL,Jalen Suggs,Personal Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,101,105,0.075,0.161,2:02
+4,54.2,ATL,Onyeka Okongwu,Loose Ball Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,103,105,0.502,0.367,58.2
+4,21.0,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,107,107,0.252,0.458,38.2
+4,1.0,ORL,Franz Wagner,Personal Foul,Foul,Ed Malloy,Danielle Scott,John Butler,ORL,107,109,0.006,0.081,5.1

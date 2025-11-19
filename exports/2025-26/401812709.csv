@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:58,DEN,Cameron Johnson,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,2,0,0.551,0.563,10:26
+1,9:08,DEN,Nikola Jokic,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,8,2,0.651,0.639,9:08
+1,8:28,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,11,4,0.704,0.615,8:28
+1,8:15,LAC,John Collins,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,11,4,0.627,0.664,8:17
+1,6:40,LAC,Kawhi Leonard,Clear Path Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,16,12,0.591,0.591,6:41
+1,4:53,DEN,Tim Hardaway Jr.,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,18,17,0.58,0.541,4:53
+1,2:49,LAC,Kris Dunn,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,24,24,0.487,0.485,2:49
+1,2:42,LAC,Brook Lopez,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,24,26,0.412,0.457,2:42
+1,2:13,LAC,James Harden,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,27,26,0.469,0.515,2:22
+2,11:44,DEN,Bruce Brown,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,32,31,0.542,0.53,12:00
+2,11:01,DEN,Jamal Murray,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,34,33,0.586,0.544,11:16
+2,9:51,DEN,Jonas Valanciunas,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,36,36,0.514,0.483,9:53
+2,9:30,LAC,Brook Lopez,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,36,36,0.485,0.483,9:35
+2,8:08,LAC,Chris Paul,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,38,40,0.423,0.424,8:08
+2,7:09,LAC,Kris Dunn,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,38,42,0.361,0.393,7:30
+2,5:49,DEN,Jonas Valanciunas,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,40,44,0.435,0.39,5:54
+2,4:41,DEN,Cameron Johnson,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,42,46,0.434,0.387,4:47
+2,3:12,LAC,James Harden,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,48,51,0.337,0.382,3:29
+2,1:58,DEN,Jamal Murray,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,50,54,0.431,0.383,2:06
+3,11:12,DEN,Cameron Johnson,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,61,59,0.589,0.589,11:24
+3,11:02,DEN,Christian Braun,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,61,59,0.641,0.589,11:12
+3,6:45,DEN,Cameron Johnson,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,68,69,0.51,0.441,6:45
+3,5:51,DEN,Christian Braun,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,69,71,0.47,0.439,5:54
+3,4:24,LAC,Chris Paul,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,70,73,0.351,0.354,4:39
+3,2:58,DEN,Bruce Brown,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,72,73,0.546,0.478,2:58
+3,2:35,DEN,Jonas Valanciunas,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,73,73,0.591,0.523,2:43
+3,1:13,LAC,Kris Dunn,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,75,75,0.403,0.474,1:25
+3,51.1,LAC,Kobe Brown,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,75,76,0.357,0.424,55.4
+3,11.8,DEN,Jonas Valanciunas,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,75,76,0.476,0.423,27.6
+4,10:15,DEN,Jonas Valanciunas,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,77,76,0.578,0.522,10:40
+4,10:00,LAC,Brook Lopez,Offensive Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,77,76,0.523,0.578,10:15
+4,8:49,DEN,Spencer Jones,Loose Ball Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,79,79,0.544,0.525,8:49
+4,7:30,LAC,Cam Christie,Personal Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,82,82,0.457,0.473,7:32
+4,4:06,DEN,Curtis Jones,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,89,87,0.751,0.613,4:06
+4,2:06,DEN,Zeke Nnaji,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,92,93,0.617,0.463,2:31
+4,1:23,LAC,Kobe Brown,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,94,96,0.133,0.244,1:27
+4,21.9,DEN,DaRon Holmes II,Shooting Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,94,100,0.064,0.033,21.9
+4,20.0,LAC,Jason Preston,Personal Take Foul,Foul,Ed Malloy,J.B. DeRosa,Chelisa Painter,LAC,94,100,0.003,0.013,20.0

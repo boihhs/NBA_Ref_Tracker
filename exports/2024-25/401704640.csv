@@ -1,0 +1,40 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:00,DAL,Kyrie Irving,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,0,3,0.718,0.714,11:00
+1,9:37,DAL,P.J. Washington,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,2,6,0.686,0.685,9:37
+1,6:29,SA,Chris Paul,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,12,12,0.797,0.771,6:31
+1,4:32,SA,Zach Collins,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,15,20,0.646,0.649,4:41
+1,4:23,SA,Jeremy Sochan,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,15,20,0.683,0.646,4:32
+1,2:54,SA,Zach Collins,Offensive Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,18,20,0.709,0.687,3:07
+2,9:50,DAL,Klay Thompson,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,22,22,0.684,0.702,9:53
+2,8:15,DAL,Daniel Gafford,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,25,26,0.625,0.667,8:26
+2,8:01,DAL,Jaden Hardy,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,27,28,0.668,0.665,8:05
+2,7:19,SA,Chris Paul,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,27,30,0.674,0.635,7:24
+2,6:57,SA,Jeremy Sochan,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,28,33,0.569,0.569,7:04
+2,2:21,SA,Harrison Barnes,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,42,42,0.707,0.655,2:21
+2,1:01,DAL,Luka Doncic,Loose Ball Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,47,49,0.53,0.585,1:09
+3,10:53,DAL,Daniel Gafford,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,50,49,0.616,0.67,11:04
+3,10:39,SA,Victor Wembanyama,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,50,51,0.632,0.632,10:53
+3,9:45,DAL,Daniel Gafford,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,56,51,0.737,0.781,9:56
+3,8:18,SA,Julian Champagnie,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,61,53,0.896,0.87,8:21
+3,6:48,SA,Jeremy Sochan,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,69,57,0.933,0.935,6:51
+3,5:25,DAL,Daniel Gafford,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,69,62,0.788,0.829,5:32
+3,5:11,SA,Chris Paul,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,69,62,0.884,0.854,5:23
+3,4:54,DAL,Jaden Hardy,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,71,62,0.841,0.874,5:11
+3,4:08,SA,Harrison Barnes,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,71,68,0.787,0.741,4:17
+3,4:06,DAL,Dereck Lively II,Loose Ball Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,72,68,0.685,0.738,4:06
+3,3:58,SA,Stephon Castle,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,72,70,0.755,0.706,4:06
+3,3:22,DAL,Naji Marshall,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,76,72,0.682,0.738,3:26
+3,2:58,DAL,Jaden Hardy,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,78,73,0.719,0.769,3:03
+3,2:43,SA,Zach Collins,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,78,75,0.789,0.739,2:58
+3,10.1,DAL,Dereck Lively II,Loose Ball Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,87,79,0.824,0.866,11.1
+4,11:35,SA,Jeremy Sochan,Flagrant Foul Type 1,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,87,80,0.873,0.866,11:40
+4,11:00,DAL,Daniel Gafford,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,91,82,0.874,0.922,11:00
+4,10:41,SA,Stephon Castle,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,94,83,0.955,0.952,10:41
+4,10:02,DAL,Maxi Kleber,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,97,83,0.972,0.975,10:02
+4,8:00,DAL,Quentin Grimes,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,106,85,0.998,0.998,8:14
+4,7:26,DAL,Luka Doncic,Personal Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,106,87,0.994,0.997,7:28
+4,5:40,DAL,Luka Doncic,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,111,90,0.998,0.999,5:59
+4,5:27,SA,Sandro Mamukelashvili,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,111,92,0.999,0.999,5:40
+4,5:19,DAL,Dereck Lively II,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,112,94,0.997,0.998,5:19
+4,4:26,SA,Stephon Castle,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,114,98,0.999,0.998,4:40
+4,4:09,DAL,Dereck Lively II,Shooting Foul,Foul,Josh Tiven,Jason Goldenberg,Rodney Mott,DAL,116,98,0.998,0.999,4:26

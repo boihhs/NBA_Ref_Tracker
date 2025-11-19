@@ -1,0 +1,32 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:30,CHI,Tre Jones,Personal Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,10,8,0.664,0.665,8:42
+1,8:20,CHI,Matas Buzelis,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,10,8,0.698,0.664,8:30
+1,2:40,CHI,Coby White,Personal Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,21,17,0.707,0.705,2:41
+1,1:27,PHX,Kevin Durant,Personal Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,27,20,0.716,0.752,1:43
+1,1:08,CHI,Julian Phillips,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,29,20,0.826,0.791,1:08
+2,9:07,PHX,Oso Ighodaro,Personal Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,36,26,0.817,0.817,9:18
+2,8:12,CHI,Zach Collins,Personal Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,36,26,0.837,0.838,8:27
+2,7:40,CHI,Dalen Terry,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,36,26,0.862,0.838,7:51
+2,7:11,PHX,Ryan Dunn,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,38,30,0.759,0.799,7:11
+2,6:27,PHX,Cody Martin,Personal Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,38,31,0.755,0.754,6:32
+2,5:58,PHX,Cody Martin,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,38,33,0.661,0.703,6:03
+2,5:37,CHI,Nikola Vucevic,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,38,35,0.716,0.678,5:42
+2,3:17,CHI,Coby White,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,52,40,0.893,0.865,3:17
+2,2:34,CHI,Patrick Williams,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,54,42,0.895,0.867,2:34
+3,8:31,CHI,Kevin Huerter,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,69,58,0.911,0.887,8:32
+3,8:20,PHX,Collin Gillespie,Personal Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,71,58,0.904,0.904,8:31
+3,5:53,CHI,Tre Jones,Loose Ball Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,81,66,0.953,0.953,5:53
+3,5:43,CHI,Julian Phillips,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,81,66,0.966,0.953,5:53
+3,5:33,PHX,Ryan Dunn,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,83,66,0.948,0.962,5:43
+3,4:08,PHX,Royce O'Neale,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,87,71,0.951,0.968,4:08
+3,3:54,CHI,Patrick Williams,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,87,71,0.978,0.968,4:07
+3,3:37,PHX,Cody Martin,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,89,71,0.964,0.975,3:54
+3,1:42,PHX,Tyus Jones,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,93,79,0.94,0.962,1:42
+4,10:59,PHX,Oso Ighodaro,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,99,88,0.902,0.942,10:59
+4,10:49,CHI,Kevin Huerter,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,102,88,0.98,0.964,10:49
+4,9:37,PHX,Cody Martin,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,106,88,0.988,0.991,9:43
+4,8:17,CHI,Kevin Huerter,Personal Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,110,93,0.995,0.994,8:31
+4,4:53,PHX,Nick Richards,Offensive Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,117,99,0.998,0.999,5:06
+4,2:23,CHI,Nikola Vucevic,Shooting Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,117,109,0.99,0.969,2:46
+4,1:20,CHI,Kevin Huerter,Personal Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,121,112,0.998,0.998,1:31
+4,19.0,CHI,Tre Jones,Personal Take Foul,Foul,Kevin Cutler,David Guthrie,Brett Nansel,PHX,123,119,0.98,0.944,19.1

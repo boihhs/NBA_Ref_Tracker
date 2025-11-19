@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:21,CHA,Nick Smith Jr.,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,4,4,0.278,0.312,8:29
+1,6:29,GS,Stephen Curry,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,6,15,0.188,0.163,6:39
+1,4:19,GS,Gary Payton II,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,10,22,0.122,0.123,4:26
+1,4:06,CHA,Damion Baugh,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,12,22,0.133,0.133,4:10
+1,3:19,CHA,Seth Curry,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,12,24,0.11,0.109,3:19
+1,2:01,CHA,DaQuan Jeffries,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,15,24,0.128,0.149,2:11
+1,1:37,CHA,LaMelo Ball,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,15,26,0.103,0.121,1:43
+1,53.0,GS,Brandin Podziemski,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,18,28,0.177,0.15,57.0
+2,10:45,GS,Brandin Podziemski,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,26,33,0.204,0.204,10:56
+2,9:56,CHA,LaMelo Ball,Offensive Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,28,33,0.224,0.248,10:06
+2,8:55,GS,Quinten Post,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,28,33,0.249,0.25,8:55
+2,8:38,CHA,Nick Smith Jr.,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,28,33,0.227,0.227,8:46
+2,7:49,GS,Draymond Green,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,30,35,0.269,0.227,7:49
+2,6:10,GS,Stephen Curry,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,31,41,0.175,0.149,6:27
+2,3:41,GS,Gary Payton II,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,40,52,0.138,0.114,3:41
+2,2:31,CHA,Josh Green,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,46,55,0.119,0.146,2:37
+2,19.0,GS,Moses Moody,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,49,58,0.196,0.161,31.1
+2,2.1,CHA,Damion Baugh,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,49,58,0.115,0.144,15.1
+3,10:25,CHA,Miles Bridges,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,51,60,0.112,0.137,10:27
+3,10:02,CHA,Josh Green,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,51,61,0.096,0.119,10:05
+3,5:19,GS,Stephen Curry,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,59,65,0.278,0.228,5:35
+3,4:40,GS,Draymond Green,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,61,65,0.35,0.293,4:49
+3,4:29,CHA,Jusuf Nurkic,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,63,65,0.276,0.329,4:40
+3,4:05,CHA,Jusuf Nurkic,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,63,68,0.179,0.225,4:10
+3,3:53,GS,Gui Santos,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,63,70,0.195,0.195,4:05
+3,3:50,GS,Buddy Hield,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,63,70,0.244,0.195,3:53
+3,3:50,GS,GS,Technical Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,63,70,0.218,0.244,3:50
+3,3:41,CHA,Damion Baugh,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,64,70,0.152,0.192,3:48
+3,3:10,GS,Draymond Green,Flagrant Foul Type 1,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,67,75,0.155,0.137,3:12
+3,3:10,GS,Draymond Green,Technical Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,67,75,0.184,0.155,3:10
+3,2:30,GS,Quinten Post,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,71,75,0.353,0.292,2:30
+3,2:18,CHA,DaQuan Jeffries,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,72,75,0.236,0.173,6:40
+4,10:04,GS,Jimmy Butler III,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,77,92,0.036,0.022,10:29
+4,9:50,CHA,Miles Bridges,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,79,92,0.016,0.028,10:04
+4,8:36,GS,Gui Santos,Loose Ball Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,79,94,0.018,0.015,8:36
+4,7:56,GS,Kevon Looney,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,81,97,0.02,0.01,8:12
+4,6:08,GS,Kevon Looney,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,86,103,0.006,0.002,6:08
+4,5:06,GS,Buddy Hield,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,87,105,0.003,0.002,5:24
+4,4:35,CHA,LaMelo Ball,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,89,105,0.001,0.002,4:37
+4,4:15,GS,Brandin Podziemski,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,89,107,0.002,0.001,4:21
+4,2:48,CHA,Nick Smith Jr.,Personal Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,94,109,0.001,0.001,3:09
+4,2:30,GS,Draymond Green,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,96,109,0.005,0.001,2:30
+4,1:52,CHA,LaMelo Ball,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,97,114,0.001,0.001,1:52
+4,5.0,GS,Trayce Jackson-Davis,Shooting Foul,Foul,Mark Lindsay,Michael Smith,Andy Nagy,CHA,101,119,0.001,0.001,15.1

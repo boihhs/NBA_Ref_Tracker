@@ -1,0 +1,55 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:34,PHI,Tyrese Maxey,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,0,0,0.489,0.49,11:44
+1,10:53,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,2,0,0.502,0.539,11:11
+1,10:41,NZL,Jonah Bolden,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,2,1,0.537,0.537,10:50
+1,10:26,NZL,Max Darling,Defensive 3-Seconds Technical,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,2,1,0.532,0.514,10:36
+1,10:25,NZL,Jonah Bolden,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,3,1,0.599,0.565,10:26
+1,10:12,NZL,Freddie Gillespie,Offensive Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,5,1,0.614,0.589,10:25
+1,8:51,PHI,Andre Drummond,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,10,1,0.708,0.708,9:01
+1,8:16,PHI,Andre Drummond,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,13,1,0.745,0.774,8:28
+1,6:58,PHI,Tyrese Maxey,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,19,7,0.763,0.799,6:58
+1,6:44,NZL,Mitch McCarron,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,19,8,0.804,0.781,6:58
+1,6:36,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,21,8,0.769,0.798,6:44
+1,4:42,NZL,Freddie Gillespie,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,23,11,0.829,0.803,4:55
+1,3:58,NZL,Mitch McCarron,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,26,11,0.879,0.857,4:09
+1,3:36,Unknown,Unknown,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,26,11,0.832,0.855,3:58
+1,3:10,PHI,Caleb Martin,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,28,13,0.833,0.857,3:21
+1,36.1,PHI,KJ Martin,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,37,17,0.913,0.831,7:06
+2,11:52,PHI,Jared McCain,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,39,19,0.933,0.933,12:00
+2,11:36,PHI,Jared McCain,Loose Ball Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,39,19,0.934,0.934,11:36
+2,11:27,NZL,Chris Arcidiacono,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,39,21,0.923,0.923,11:30
+2,11:15,NZL,Matthew Mooney,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,39,21,0.923,0.923,11:15
+2,10:40,NZL,Matthew Mooney,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,43,21,0.963,0.952,10:40
+2,9:58,PHI,Kyle Lowry,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,47,25,0.945,0.959,9:58
+2,8:58,NZL,NZL,Delay Technical,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,47,28,0.936,0.939,9:01
+2,10:40,NZL,Freddie Gillespie,Away from Play Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,45,21,0.976,0.976,7:01
+2,5:23,PHI,Ricky Council IV,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,59,32,0.981,0.986,5:23
+2,3:15,NZL,Sam Mennenga,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,68,38,0.996,0.995,3:20
+2,2:37,NZL,Sam Mennenga,Offensive Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,73,38,0.996,0.995,2:44
+2,1:26,PHI,Ricky Council IV,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,77,40,0.996,0.996,1:43
+2,1:02,NZL,Parker Jackson-Cartwright,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,77,41,0.997,0.997,1:26
+2,56.0,NZL,Parker Jackson-Cartwright,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,77,41,0.997,0.997,1:00
+2,4.1,PHI,Jeff Dowtin Jr.,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,81,43,0.997,0.997,9.0
+3,11:13,NZL,Matthew Mooney,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,81,45,0.998,0.997,12:00
+3,7:55,NZL,Parker Jackson-Cartwright,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,93,50,0.999,0.999,8:09
+3,6:44,NZL,Mojave King,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,98,54,0.999,0.999,6:44
+3,5:11,PHI,Guerschon Yabusele,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,100,59,0.999,0.999,5:13
+3,4:39,PHI,Adem Bona,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,102,61,0.999,0.999,4:52
+3,1:31,NZL,Sam Mennenga,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,107,66,0.999,0.999,1:31
+3,30.0,PHI,Jared McCain,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,110,66,0.999,0.999,40.1
+3,13.0,NZL,Grant Anticevich,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,110,68,0.999,0.999,30.0
+4,11:46,PHI,Lester Quinones,Offensive Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,112,68,0.999,0.999,12:00
+4,10:17,NZL,Matthew Mooney,Offensive Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,117,68,0.999,0.999,10:28
+4,9:38,PHI,Lester Quinones,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,119,68,0.999,0.999,9:58
+4,9:14,NZL,Matthew Mooney,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,119,68,0.999,0.999,9:29
+4,8:14,PHI,Justin Edwards,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,123,71,0.999,0.999,8:23
+4,7:21,NZL,Freddie Gillespie,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,123,73,0.999,0.999,7:39
+4,5:30,NZL,Freddie Gillespie,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,130,75,0.999,0.999,5:45
+4,5:16,PHI,Judah Mintz,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,131,75,0.999,0.999,5:25
+4,5:11,PHI,Justin Edwards,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,131,77,0.999,0.999,5:11
+4,4:34,PHI,Adem Bona,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,133,77,0.999,0.999,4:49
+4,3:56,PHI,Justin Edwards,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,133,78,0.999,0.999,4:07
+4,3:30,NZL,Freddie Gillespie,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,133,80,0.999,0.999,3:34
+4,2:05,PHI,Jordan Tucker,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,136,80,0.999,0.999,2:16
+4,1:13,PHI,Isaiah Mobley,Personal Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,138,80,0.999,0.999,1:23
+4,3.0,PHI,Isaiah Mobley,Shooting Foul,Foul,Scott Twardoski,Gediminas Petraitis,Pat O'Connell,PHI,138,82,0.999,0.999,14.0

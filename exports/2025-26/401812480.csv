@@ -1,0 +1,53 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:29,PHI,Adem Bona,Offensive Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,0,0,0.51,0.49,11:38
+1,11:04,NY,Mikal Bridges,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,0,0,0.449,0.489,11:06
+1,10:19,PHI,Adem Bona,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,2,3,0.506,0.459,10:19
+1,8:40,PHI,Dominick Barlow,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,2,7,0.422,0.385,8:45
+1,7:50,NY,Mikal Bridges,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,5,9,0.384,0.383,8:00
+1,7:25,PHI,Jabari Walker,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,5,11,0.375,0.358,7:25
+1,5:51,PHI,Andre Drummond,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,8,11,0.472,0.432,6:04
+1,5:22,NY,Josh Hart,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,10,11,0.457,0.456,5:26
+1,4:18,PHI,Andre Drummond,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,13,13,0.554,0.512,4:19
+1,3:34,PHI,Jabari Walker,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,17,15,0.587,0.541,3:34
+1,54.2,NY,Miles McBride,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,25,19,0.612,0.651,59.3
+2,10:50,PHI,VJ Edgecombe,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,25,27,0.477,0.454,10:54
+2,10:29,NY,Josh Hart,Technical Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,27,27,0.46,0.515,10:31
+2,10:13,NY,Miles McBride,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,27,28,0.456,0.452,10:29
+2,9:22,PHI,Kelly Oubre Jr.,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,29,30,0.528,0.485,9:26
+2,8:55,PHI,Justin Edwards,Away from Play Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,31,30,0.588,0.544,9:06
+2,8:04,NY,Mitchell Robinson,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,34,30,0.558,0.603,8:17
+2,5:15,PHI,Adem Bona,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,43,39,0.684,0.64,5:22
+2,4:39,NY,Guerschon Yabusele,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,43,39,0.564,0.611,4:46
+2,3:49,PHI,Tyrese Maxey,Clear Path Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,46,41,0.717,0.658,3:49
+2,3:00,PHI,Hunter Sallis,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,49,43,0.728,0.675,3:00
+2,1:26,PHI,Hunter Sallis,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,50,43,0.78,0.742,1:29
+2,47.9,NY,Miles McBride,Loose Ball Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,53,43,0.759,0.797,47.9
+3,10:10,NY,Miles McBride,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,55,43,0.822,0.857,10:26
+3,9:47,PHI,Dominick Barlow,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,55,45,0.837,0.837,9:51
+3,9:35,PHI,Kelly Oubre Jr.,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,55,45,0.836,0.837,9:47
+3,9:17,NY,Guerschon Yabusele,Loose Ball Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,55,45,0.815,0.814,9:17
+3,6:22,PHI,Adem Bona,Offensive Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,61,50,0.879,0.856,6:35
+3,5:19,NY,Miles McBride,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,61,50,0.864,0.887,5:19
+3,4:38,NY,Garrison Mathews,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,63,50,0.879,0.908,4:52
+3,4:28,NY,Ariel Hukporti,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,63,50,0.88,0.879,4:38
+3,3:28,NY,Ariel Hukporti,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,68,52,0.939,0.956,3:52
+3,2:06,NY,Garrison Mathews,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,71,54,0.959,0.971,2:17
+3,1:15,PHI,Justin Edwards,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,73,55,0.991,0.986,1:17
+4,11:27,PHI,Johni Broome,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,81,57,0.999,0.999,11:31
+4,11:19,NY,Kevin McCullar Jr.,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,82,57,0.998,0.999,11:25
+4,9:43,NY,Mohamed Diawara,Offensive Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,84,62,0.998,0.998,9:53
+4,8:24,NY,Tyler Kolek,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,84,66,0.993,0.993,8:33
+4,7:43,NY,Alex Len,Defensive 3-Seconds Technical,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,84,66,0.995,0.995,7:52
+4,7:19,NY,Alex Len,Offensive Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,84,67,0.993,0.995,7:28
+4,7:01,NY,Malcolm Brogdon,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,84,67,0.987,0.993,7:19
+4,6:16,PHI,Dominick Barlow,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,84,69,0.996,0.992,6:21
+4,5:43,PHI,Justin Edwards,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,86,69,0.997,0.997,5:48
+4,5:28,NY,Trey Jemison III,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,86,69,0.992,0.996,5:34
+4,5:24,PHI,Hunter Sallis,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,86,70,0.998,0.996,5:28
+4,4:54,PHI,Hunter Sallis,Personal Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,87,70,0.999,0.995,6:16
+4,4:32,NY,Trey Jemison III,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,88,70,0.998,0.999,4:32
+4,2:31,NY,Trey Jemison III,Loose Ball Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,92,74,0.999,0.999,2:31
+4,2:25,PHI,Dominick Barlow,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,92,76,0.999,0.997,5:43
+4,2:04,NY,Trey Jemison III,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,93,76,0.999,0.999,2:25
+4,1:16,NY,Kevin McCullar Jr.,Shooting Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,95,78,0.999,0.999,1:21
+4,1:08,NY,Pacome Dadiet,Offensive Foul,Foul,Tre Maddox,Justin Van Duyne,Jonathan Sterling,NY,95,80,0.999,0.999,1:16

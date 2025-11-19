@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,10:30,LAC,James Harden,Offensive Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,4,3,0.548,0.578,10:43
+1,8:55,ORL,Franz Wagner,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,6,5,0.609,0.577,9:01
+1,5:53,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,14,9,0.611,0.648,6:07
+1,5:22,ORL,Goga Bitadze,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,14,13,0.611,0.571,5:37
+1,3:32,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,18,15,0.578,0.625,3:32
+1,2:09,LAC,Mo Bamba,Loose Ball Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,23,21,0.573,0.57,2:09
+1,1:56,LAC,Amir Coffey,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,23,23,0.492,0.542,1:56
+1,33.1,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,27,24,0.558,0.597,45.0
+1,1.1,ORL,Jalen Suggs,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,27,25,0.637,0.602,5.1
+2,9:24,LAC,Kevin Porter Jr.,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,36,31,0.613,0.655,9:35
+2,9:14,ORL,Jalen Suggs,Personal Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,36,34,0.599,0.599,9:24
+2,8:35,LAC,Nicolas Batum,Personal Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,38,36,0.572,0.571,8:46
+2,6:59,ORL,Anthony Black,Offensive Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,41,38,0.63,0.599,7:18
+2,5:42,ORL,Franz Wagner,Personal Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,41,38,0.629,0.631,5:46
+2,4:42,ORL,Jett Howard,Personal Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,41,42,0.504,0.505,4:53
+2,2:58,ORL,Jett Howard,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,47,44,0.681,0.633,3:12
+2,2:42,LAC,Amir Coffey,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,50,46,0.612,0.665,2:42
+2,1:31,LAC,Ivica Zubac,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,50,50,0.552,0.605,1:47
+2,1.0,ORL,Anthony Black,Personal Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,56,54,0.652,0.605,2.1
+3,11:49,LAC,Kris Dunn,Loose Ball Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,57,54,0.605,0.606,11:49
+3,11:28,ORL,Tristan da Silva,Personal Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,57,54,0.64,0.641,11:32
+3,10:36,LAC,Kris Dunn,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,59,56,0.553,0.606,10:40
+3,9:47,ORL,Goga Bitadze,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,61,58,0.668,0.606,9:47
+3,7:29,LAC,Derrick Jones Jr.,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,68,62,0.666,0.716,7:35
+3,5:54,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,75,64,0.901,0.867,5:54
+3,5:20,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,76,64,0.931,0.907,5:38
+3,3:38,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,80,66,0.962,0.946,3:49
+3,3:25,LAC,Mo Bamba,Personal Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,83,66,0.952,0.966,3:38
+3,2:36,ORL,Gary Harris,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,83,66,0.984,0.977,2:38
+3,2:10,LAC,Mo Bamba,Offensive Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,85,69,0.964,0.972,2:20
+3,1:18,LAC,Kevin Porter Jr.,Loose Ball Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,85,74,0.862,0.897,1:18
+4,11:44,LAC,Jordan Miller,Personal Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,87,75,0.925,0.93,11:49
+4,8:40,LAC,Jordan Miller,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,94,77,0.981,0.989,8:59
+4,8:12,ORL,Franz Wagner,Personal Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,94,79,0.989,0.988,8:12
+4,6:58,LAC,James Harden,Offensive Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,97,79,0.996,0.997,7:05
+4,6:17,LAC,James Harden,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,97,79,0.995,0.997,6:17
+4,3:12,ORL,Anthony Black,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,100,86,0.999,0.998,3:26
+4,2:05,LAC,Kobe Brown,Shooting Foul,Foul,Derrick Collins,Brent Barnaky,Ray Acosta,LAC,102,88,0.996,0.998,2:11

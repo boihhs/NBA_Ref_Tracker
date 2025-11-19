@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,7:13,WSH,Justin Champagnie,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,8,15,0.759,0.759,7:27
+1,6:37,WSH,Bub Carrington,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,10,15,0.816,0.793,6:45
+1,6:24,WSH,Jordan Poole,Loose Ball Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,11,15,0.806,0.807,6:24
+1,5:24,WSH,Colby Jones,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,11,17,0.79,0.763,5:33
+1,4:58,WSH,Alex Sarr,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,12,19,0.767,0.739,5:12
+1,4:29,WSH,Colby Jones,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,13,21,0.743,0.71,4:38
+1,4:16,IND,T.J. McConnell,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,15,21,0.729,0.73,4:29
+1,3:47,WSH,Justin Champagnie,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,15,21,0.761,0.746,3:47
+1,2:15,IND,Thomas Bryant,Personal Take Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,19,28,0.631,0.632,2:20
+1,1:07,IND,Jarace Walker,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,19,34,0.402,0.458,1:07
+2,11:50,WSH,AJ Johnson,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,21,35,0.469,0.46,12:00
+2,11:40,WSH,AJ Johnson,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,21,35,0.493,0.466,11:40
+2,9:08,IND,Jarace Walker,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,22,35,0.423,0.425,9:13
+2,8:30,IND,Johnny Furphy,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,22,35,0.364,0.416,8:44
+2,7:17,IND,Bennedict Mathurin,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,27,37,0.497,0.496,7:22
+2,6:55,WSH,AJ Johnson,Loose Ball Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,29,37,0.59,0.591,6:55
+2,5:13,WSH,Anthony Gill,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,33,39,0.652,0.598,5:13
+2,4:43,WSH,Jordan Poole,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,34,39,0.696,0.654,4:48
+2,4:28,IND,Aaron Nesmith,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,36,41,0.597,0.65,4:28
+2,4:22,WSH,Jordan Poole,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,36,41,0.693,0.652,4:26
+2,4:09,WSH,Bub Carrington,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,40,43,0.725,0.674,4:09
+2,4:09,WSH,Jordan Poole,Technical Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,40,43,0.725,0.725,4:09
+2,3:40,IND,Andrew Nembhard,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,42,43,0.683,0.729,3:49
+2,1:55,IND,Bennedict Mathurin,Loose Ball Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,46,47,0.664,0.711,1:55
+3,8:35,IND,Pascal Siakam,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,48,57,0.29,0.345,8:43
+3,7:04,WSH,Jordan Poole,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,50,62,0.297,0.244,7:14
+3,6:33,IND,Aaron Nesmith,Offensive Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,52,64,0.2,0.236,6:48
+3,6:10,WSH,Kyshawn George,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,52,66,0.162,0.167,6:21
+3,5:48,WSH,Kyshawn George,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,52,66,0.202,0.159,5:57
+3,3:53,WSH,AJ Johnson,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,58,68,0.317,0.256,3:58
+3,2:44,WSH,Justin Champagnie,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,65,71,0.44,0.355,2:44
+3,1:41,IND,Obi Toppin,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,66,71,0.312,0.385,1:48
+3,1:12,IND,Pascal Siakam,Defensive 3-Seconds Technical,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,69,73,0.442,0.427,1:31
+3,26.1,WSH,AJ Johnson,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,71,73,0.628,0.56,32.1
+4,11:09,IND,Bennedict Mathurin,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,75,73,0.67,0.69,11:21
+4,9:51,WSH,Kyshawn George,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,77,76,0.685,0.674,9:53
+4,8:45,IND,T.J. McConnell,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,79,76,0.626,0.718,8:59
+4,5:21,WSH,Bub Carrington,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,84,86,0.569,0.449,5:34
+4,4:11,WSH,Colby Jones,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,86,88,0.455,0.433,4:19
+4,3:24,WSH,Colby Jones,Shooting Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,89,90,0.641,0.51,3:40
+4,3:07,IND,Aaron Nesmith,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,90,90,0.488,0.52,3:24
+4,44.1,IND,Andrew Nembhard,Loose Ball Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,100,94,0.865,0.949,44.1
+4,39.1,WSH,Colby Jones,Personal Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,100,96,0.958,0.907,40.0
+4,26.0,WSH,Bub Carrington,Personal Take Foul,Foul,Sean Wright,Sean Corbin,Scott Twardoski,IND,102,98,0.97,0.918,30.0

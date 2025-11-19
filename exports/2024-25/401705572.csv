@@ -1,0 +1,35 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:16,DEN,Aaron Gordon,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,4,0,0.825,0.796,11:16
+1,10:04,LAL,Luka Doncic,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,9,0,0.847,0.867,10:18
+1,8:11,DEN,Michael Porter Jr.,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,14,7,0.87,0.852,8:33
+1,6:12,LAL,Dorian Finney-Smith,Defensive 3-Seconds Technical,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,21,15,0.822,0.817,6:29
+1,5:44,LAL,Gabe Vincent,Personal Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,24,16,0.847,0.846,5:47
+1,4:53,DEN,Peyton Watson,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,29,16,0.923,0.908,4:53
+1,4:23,LAL,Jaxson Hayes,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,33,16,0.929,0.941,4:31
+1,1:41,LAL,Christian Koloko,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,42,26,0.928,0.943,1:41
+1,1:32,DEN,Vlatko Cancar,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,42,27,0.946,0.935,1:41
+1,35.2,DEN,Spencer Jones,Personal Take Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,45,29,0.954,0.943,49.1
+2,11:15,LAL,Jarred Vanderbilt,Personal Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,48,29,0.957,0.956,11:23
+2,10:24,LAL,Jarred Vanderbilt,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,53,29,0.975,0.98,10:35
+2,9:40,DEN,Russell Westbrook,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,56,33,0.985,0.98,9:58
+2,6:02,LAL,Austin Reaves,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,66,41,0.982,0.986,6:12
+2,4:12,LAL,Jordan Goodwin,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,69,45,0.982,0.985,4:16
+2,4:07,LAL,Gabe Vincent,Offensive Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,69,46,0.982,0.985,4:12
+2,3:03,LAL,Luka Doncic,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,69,48,0.967,0.975,3:09
+2,2:24,DEN,Aaron Gordon,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,69,51,0.973,0.966,2:42
+2,36.0,DEN,Peyton Watson,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,71,55,0.964,0.956,49.1
+3,11:47,LAL,Dorian Finney-Smith,Personal Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,73,59,0.927,0.931,12:00
+3,11:22,DEN,Russell Westbrook,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,73,59,0.953,0.939,11:25
+3,7:22,LAL,Austin Reaves,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,85,70,0.932,0.949,7:26
+3,5:44,LAL,Luka Doncic,Personal Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,87,72,0.953,0.953,5:47
+3,4:14,LAL,Christian Koloko,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,94,74,0.981,0.986,4:31
+3,3:03,LAL,Christian Koloko,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,99,75,0.994,0.996,3:11
+3,2:46,DEN,Spencer Jones,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,99,77,0.997,0.995,3:03
+4,6:35,DEN,Jalen Pickett,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,109,88,0.999,0.999,7:00
+4,5:49,DEN,Spencer Jones,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,111,91,0.999,0.999,6:07
+4,5:05,LAL,Dalton Knecht,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,112,93,0.998,0.999,5:11
+4,4:44,DEN,PJ Hall,Shooting Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,112,95,0.999,0.998,5:05
+4,47.0,LAL,Shake Milton,Personal Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,116,105,0.992,0.998,57.1
+4,26.1,DEN,PJ Hall,Personal Take Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,116,108,0.998,0.993,40.1
+4,21.0,DEN,Vlatko Cancar,Personal Take Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,116,108,0.998,0.998,26.1
+4,11.0,DEN,PJ Hall,Loose Ball Foul,Foul,Zach Zarba,Ray Acosta,Natalie Sago,LAL,118,108,0.999,0.999,11.0

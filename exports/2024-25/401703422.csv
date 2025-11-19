@@ -1,0 +1,46 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,9:46,NY,Mikal Bridges,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,2,9,0.342,0.34,9:50
+1,8:57,ORL,Jalen Suggs,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,4,9,0.45,0.414,9:02
+1,8:14,NY,OG Anunoby,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,6,9,0.399,0.436,8:22
+1,6:09,NY,Jalen Brunson,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,13,14,0.488,0.487,6:25
+1,5:34,ORL,Kentavious Caldwell-Pope,Offensive Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,15,14,0.567,0.54,5:46
+1,1:58,ORL,Franz Wagner,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,27,23,0.665,0.62,1:58
+1,1:35,NY,Mikal Bridges,Offensive Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,28,25,0.594,0.619,1:44
+1,1:24,ORL,Cole Anthony,Offensive Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,28,25,0.619,0.594,1:35
+1,1:15,ORL,Jonathan Isaac,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,30,25,0.691,0.645,1:15
+1,6.1,ORL,Anthony Black,Loose Ball Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,34,27,0.761,0.728,7.1
+1,1.2,NY,Miles McBride,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,36,27,0.712,0.749,6.1
+2,9:53,NY,Josh Hart,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,45,31,0.841,0.871,9:53
+2,9:31,ORL,Cole Anthony,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,45,32,0.879,0.856,9:53
+2,9:01,ORL,Jonathan Isaac,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,49,32,0.923,0.902,9:01
+2,8:43,ORL,Moritz Wagner,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,50,32,0.926,0.927,8:43
+2,8:32,ORL,Cole Anthony,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,50,32,0.94,0.926,8:43
+2,8:23,NY,Josh Hart,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,50,32,0.914,0.914,8:23
+2,5:03,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,54,36,0.95,0.936,5:07
+2,3:55,NY,Karl-Anthony Towns,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,58,40,0.92,0.94,3:55
+2,2:29,NY,Karl-Anthony Towns,Offensive Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,62,43,0.945,0.952,2:41
+2,1:42,NY,OG Anunoby,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,64,45,0.931,0.947,1:48
+2,1:27,ORL,Moritz Wagner,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,64,47,0.951,0.937,1:31
+2,1:27,ORL,Moritz Wagner,Double Technical Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,64,47,0.934,0.951,1:27
+2,50.0,NY,OG Anunoby,Loose Ball Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,69,47,0.962,0.971,50.0
+2,2.1,NY,Jalen Brunson,Loose Ball Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,69,49,0.947,0.957,2.1
+3,9:48,ORL,Kentavious Caldwell-Pope,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,79,56,0.988,0.983,9:48
+3,9:38,NY,Jalen Brunson,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,80,56,0.986,0.986,9:48
+3,8:50,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,84,58,0.995,0.992,8:50
+3,8:32,ORL,Kentavious Caldwell-Pope,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,85,58,0.995,0.996,8:35
+3,7:58,ORL,Wendell Carter Jr.,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,87,58,0.998,0.997,7:58
+3,6:55,NY,Mikal Bridges,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,91,58,0.998,0.999,6:57
+3,5:09,NY,Miles McBride,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,96,60,0.999,0.999,5:27
+3,4:45,NY,Jericho Sims,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,96,62,0.999,0.999,4:45
+3,3:41,ORL,Moritz Wagner,Loose Ball Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,98,64,0.999,0.999,3:41
+3,2:45,NY,OG Anunoby,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,103,66,0.999,0.999,2:54
+3,2:21,NY,Karl-Anthony Towns,Loose Ball Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,103,68,0.999,0.999,2:21
+4,11:24,NY,Cameron Payne,Loose Ball Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,106,75,0.999,0.999,11:24
+4,9:53,NY,Cameron Payne,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,109,75,0.999,0.999,9:59
+4,7:40,ORL,Anthony Black,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,109,81,0.999,0.999,8:26
+4,7:33,NY,Miles McBride,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,111,81,0.999,0.999,7:40
+4,7:13,NY,Karl-Anthony Towns,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,111,81,0.999,0.999,7:16
+4,5:42,NY,Jericho Sims,Offensive Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,113,85,0.999,0.999,5:55
+4,2:30,NY,Tyler Kolek,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,119,98,0.999,0.999,2:33
+4,1:43,NY,Ariel Hukporti,Shooting Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,121,102,0.999,0.999,1:43
+4,1:28,ORL,Cole Anthony,Personal Foul,Foul,Ed Malloy,J.T. Orr,Mousa Dagher,NY,121,103,0.999,0.999,1:43

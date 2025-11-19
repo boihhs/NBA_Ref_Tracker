@@ -1,0 +1,34 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,8:22,DEN,Jamal Murray,Loose Ball Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,5,2,0.481,0.484,8:22
+1,8:19,DEN,Michael Porter Jr.,Personal Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,5,2,0.48,0.481,8:22
+1,6:06,DEN,Peyton Watson,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,11,7,0.558,0.516,6:20
+1,4:34,DEN,Michael Porter Jr.,Personal Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,16,13,0.536,0.494,4:46
+1,3:53,LAC,Terance Mann,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,16,13,0.429,0.466,3:56
+1,2:29,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,23,17,0.545,0.56,2:29
+1,2:16,LAC,Amir Coffey,Personal Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,24,17,0.589,0.589,2:29
+1,1:02,DEN,Nikola Jokic,Loose Ball Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,26,17,0.718,0.68,1:02
+2,9:37,LAC,Amir Coffey,Personal Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,41,30,0.725,0.671,9:46
+2,8:18,LAC,Mo Bamba,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,41,34,0.597,0.651,8:18
+2,3:27,DEN,Peyton Watson,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,50,51,0.443,0.382,3:27
+2,1:14,DEN,Nikola Jokic,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,56,55,0.513,0.491,1:14
+3,10:55,DEN,Michael Porter Jr.,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,59,63,0.374,0.326,11:09
+3,8:55,LAC,Kris Dunn,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,64,69,0.274,0.321,9:02
+3,7:17,LAC,Kris Dunn,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,68,72,0.264,0.321,7:17
+3,6:07,LAC,Ivica Zubac,Transition Take Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,70,73,0.319,0.319,6:07
+3,1:55,LAC,James Harden,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,84,85,0.331,0.395,2:09
+3,59.1,LAC,Ivica Zubac,Offensive Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,87,88,0.394,0.443,1:21
+3,4.1,DEN,Russell Westbrook,Personal Take Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,90,90,0.57,0.496,11.2
+4,11:25,DEN,Aaron Gordon,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,92,90,0.688,0.598,11:27
+4,9:55,LAC,Nicolas Batum,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,99,95,0.613,0.719,9:55
+4,8:38,DEN,Julian Strawther,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,105,101,0.806,0.724,8:59
+4,8:30,LAC,James Harden,Personal Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,108,101,0.806,0.819,8:38
+4,7:50,LAC,Terance Mann,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,108,103,0.674,0.781,7:50
+4,7:23,LAC,James Harden,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,108,103,0.638,0.733,7:26
+4,7:10,DEN,Julian Strawther,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,108,103,0.852,0.772,7:20
+4,3:17,DEN,Russell Westbrook,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,113,112,0.724,0.594,3:34
+4,2:47,LAC,James Harden,Loose Ball Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,115,112,0.573,0.698,2:47
+4,2:24,DEN,Christian Braun,Shooting Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,115,113,0.812,0.702,2:47
+4,2:16,LAC,Nicolas Batum,Personal Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,118,113,0.746,0.841,2:24
+4,12.1,DEN,Nikola Jokic,Personal Take Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,123,121,0.933,0.809,19.2
+4,9.1,LAC,Nicolas Batum,Personal Take Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,124,121,0.641,0.827,12.0
+4,8.1,DEN,Christian Braun,Personal Take Foul,Foul,James Williams,Jonathan Sterling,John Butler,LAC,124,122,0.948,0.85,9.1

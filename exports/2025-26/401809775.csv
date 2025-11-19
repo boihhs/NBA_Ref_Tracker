@@ -1,0 +1,39 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:06,CHA,Kon Knueppel,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,3,2,0.785,0.788,11:20
+1,10:23,MIA,Andrew Wiggins,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,8,4,0.803,0.83,10:23
+1,10:00,CHA,Sion James,Offensive Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,10,5,0.843,0.828,10:13
+1,9:46,MIA,Davion Mitchell,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,13,5,0.868,0.868,9:48
+1,8:28,CHA,Tre Mann,Flagrant Foul Type 1,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,19,9,0.897,0.889,8:28
+1,8:13,MIA,Kel'el Ware,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,20,9,0.883,0.9,8:17
+1,4:48,MIA,Pelle Larsson,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,33,23,0.866,0.885,4:51
+1,3:30,MIA,Dru Smith,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,35,25,0.864,0.883,3:34
+1,2:05,CHA,Liam McNeeley,Loose Ball Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,42,29,0.923,0.925,2:05
+1,1:58,MIA,Nikola Jovic,Loose Ball Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,42,29,0.899,0.915,1:58
+2,11:23,CHA,Sion James,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,53,35,0.968,0.96,11:37
+2,9:48,MIA,Dru Smith,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,60,37,0.976,0.982,9:48
+2,8:39,MIA,Dru Smith,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,64,38,0.988,0.988,8:54
+2,6:47,MIA,Davion Mitchell,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,64,45,0.954,0.964,6:51
+2,6:34,CHA,Tre Mann,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,64,47,0.958,0.958,6:47
+2,5:25,CHA,Miles Bridges,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,64,52,0.915,0.916,5:27
+2,3:52,MIA,Jaime Jaquez Jr.,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,64,56,0.828,0.861,3:52
+2,1:28,CHA,Tre Mann,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,66,65,0.738,0.695,1:29
+3,10:09,CHA,Tre Mann,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,74,69,0.796,0.795,10:22
+3,10:02,CHA,Kon Knueppel,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,74,69,0.829,0.796,10:09
+3,8:29,MIA,Davion Mitchell,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,76,72,0.689,0.767,8:37
+3,6:43,MIA,Pelle Larsson,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,80,78,0.61,0.667,6:50
+3,6:02,MIA,Nikola Jovic,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,82,80,0.636,0.664,6:02
+3,5:47,CHA,Miles Bridges,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,82,82,0.681,0.628,6:02
+3,5:34,CHA,Moussa Diabate,Loose Ball Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,83,82,0.715,0.663,5:34
+3,4:07,MIA,Norman Powell,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,87,82,0.711,0.761,4:27
+3,2:59,MIA,Pelle Larsson,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,89,82,0.777,0.824,3:02
+3,2:47,CHA,Liam McNeeley,Away from Play Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,89,84,0.841,0.797,2:59
+4,11:00,CHA,Kon Knueppel,Offensive Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,94,88,0.843,0.809,11:16
+4,9:39,CHA,Pat Connaughton,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,98,90,0.937,0.905,9:46
+4,7:06,MIA,Dru Smith,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,105,95,0.939,0.943,7:13
+4,7:05,MIA,Jaime Jaquez Jr.,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,105,95,0.936,0.939,7:06
+4,5:53,MIA,Simone Fontecchio,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,107,95,0.951,0.973,6:11
+4,4:30,MIA,Norman Powell,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,111,99,0.963,0.98,4:46
+4,2:11,MIA,Davion Mitchell,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,115,103,0.986,0.994,2:23
+4,1:14,MIA,Kel'el Ware,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,119,103,0.999,0.999,1:24
+4,1:06,CHA,Moussa Diabate,Personal Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,119,105,0.999,0.999,1:14
+4,13.6,CHA,Kon Knueppel,Shooting Foul,Foul,James Williams,Jason Goldenberg,Matt Myers,MIA,126,108,0.999,0.999,13.6

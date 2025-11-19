@@ -1,0 +1,45 @@
+Period,Clock,Team,Fouler,Subtype,Descriptor,Official1,Official2,Official3,Home_Team,Home_Score,Away_Score,WinProb_Current,WinProb_Previous,Clock_Previous_WP
+1,11:02,CLE,Jarrett Allen,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,6,0,0.732,0.733,11:15
+1,10:37,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,6,0,0.748,0.75,10:47
+1,9:19,CLE,Dean Wade,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,8,5,0.662,0.663,9:24
+1,8:02,OKC,Jalen Williams,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,8,9,0.586,0.587,8:07
+1,7:25,OKC,Cason Wallace,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,8,9,0.622,0.586,7:39
+1,6:23,CLE,Caris LeVert,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,10,12,0.533,0.531,6:33
+1,5:23,OKC,Cason Wallace,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,14,14,0.644,0.606,5:28
+1,4:18,CLE,Max Strus,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,19,19,0.537,0.578,4:31
+1,2:17,CLE,Evan Mobley,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,22,26,0.42,0.462,2:29
+1,1:14,OKC,Aaron Wiggins,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,24,30,0.472,0.43,1:26
+1,27.1,CLE,Georges Niang,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,25,30,0.381,0.427,27.1
+2,10:46,OKC,Isaiah Hartenstein,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,30,34,0.498,0.443,10:46
+2,10:22,OKC,Luguentz Dort,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,31,34,0.503,0.506,10:24
+2,10:08,OKC,Aaron Wiggins,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,31,34,0.524,0.504,10:11
+2,9:30,OKC,Isaiah Hartenstein,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,33,37,0.514,0.471,9:30
+2,7:18,CLE,Isaac Okoro,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,41,43,0.444,0.49,7:26
+2,7:11,OKC,Jalen Williams,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,41,44,0.539,0.492,7:18
+2,6:46,OKC,Cason Wallace,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,42,46,0.506,0.461,6:57
+2,4:10,CLE,Dean Wade,Offensive Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,50,51,0.514,0.547,4:20
+2,3:28,OKC,Isaiah Hartenstein,Offensive Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,52,53,0.544,0.512,3:40
+2,3:16,OKC,Shai Gilgeous-Alexander,Loose Ball Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,52,53,0.594,0.544,3:16
+2,1:53,OKC,Luguentz Dort,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,54,57,0.524,0.474,2:01
+2,1:18,CLE,Donovan Mitchell,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,58,57,0.523,0.574,1:22
+3,10:44,CLE,Donovan Mitchell,Loose Ball Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,64,63,0.571,0.572,10:44
+3,10:07,CLE,Donovan Mitchell,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,66,67,0.468,0.531,10:07
+3,9:27,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,68,70,0.521,0.455,9:27
+3,9:00,OKC,Shai Gilgeous-Alexander,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,71,72,0.557,0.491,9:00
+3,7:22,OKC,Isaiah Hartenstein,Loose Ball Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,78,79,0.525,0.524,7:22
+3,6:13,CLE,Darius Garland,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,84,81,0.639,0.639,6:23
+3,5:10,CLE,Max Strus,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,89,84,0.658,0.714,5:13
+3,4:23,OKC,Isaiah Joe,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,89,87,0.671,0.642,4:24
+3,4:02,CLE,Dean Wade,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,90,87,0.578,0.641,4:04
+3,2:26,OKC,Cason Wallace,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,93,94,0.579,0.511,2:30
+4,11:37,CLE,Evan Mobley,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,103,102,0.534,0.547,11:37
+4,11:01,OKC,Kenrich Williams,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,103,105,0.458,0.442,11:26
+4,10:23,CLE,Georges Niang,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,106,105,0.531,0.548,10:23
+4,10:19,CLE,Georges Niang,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,106,105,0.521,0.531,10:23
+4,7:54,CLE,Ty Jerome,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,110,107,0.544,0.642,8:05
+4,5:37,OKC,Isaiah Hartenstein,Loose Ball Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,114,112,0.668,0.652,5:37
+4,4:56,OKC,Jalen Williams,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,116,114,0.772,0.662,5:08
+4,3:44,CLE,Donovan Mitchell,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,121,116,0.711,0.804,3:47
+4,2:33,CLE,Darius Garland,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,123,118,0.731,0.825,2:45
+4,2:18,OKC,Luguentz Dort,Shooting Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,123,120,0.876,0.773,2:33
+4,1:37,OKC,Shai Gilgeous-Alexander,Personal Foul,Foul,John Goble,Ray Acosta,Robert Hussey,CLE,124,122,0.839,0.736,1:37
